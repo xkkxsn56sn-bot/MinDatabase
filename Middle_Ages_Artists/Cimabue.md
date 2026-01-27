@@ -54,7 +54,7 @@ Cimabue's influence extended through his alleged pupil Giotto and the Florentine
 
 ## Contemporary Recognition
 
-Dante Alighieri mentioned Cimabue in the Purgatorio (Divine Comedy), noting that his fame had been surpassed by his pupil Giotto:
+Dante Alighieri mentioned Cimabue in the Purgatorio (Divine Comedy, Canto XI, lines 94-96), noting that his fame had been surpassed by his pupil Giotto:
 "Cimabue thought to hold the field in painting, and now Giotto has the cry, so that the fame of the former is obscured."
 
 This reference indicates Cimabue's significance in his time and the rapid evolution of art during this period.

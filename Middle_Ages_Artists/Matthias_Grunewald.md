@@ -1,7 +1,7 @@
 # Matthias Grünewald
 
 ## Basic Information
-- **Full Name:** Matthias Grünewald (born Mathis Gothart Nithart)
+- **Full Name:** Matthias Grünewald (born Mathis Gothart Neithardt)
 - **Born:** c. 1470-1475, Würzburg, Germany
 - **Died:** August 1528, Halle, Germany
 - **Nationality:** German
