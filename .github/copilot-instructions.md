@@ -7,9 +7,9 @@ MinDatabase is a scholarly database of detailed historical essays on medieval It
 
 ### File Structure
 - Individual artist profile files: `[Artist Name].md`
-- Historical documents: `Codex Aureus of Saint Emmeram.md`
+- Historical documents: `.github/Codex/Codex Aureus of Saint Emmeram.md`
 - Utility script: `add_sections.py` - automates section heading insertion into markdown files
-- Main entry point: `README.md` (currently minimal; lists project as "Database containing all my papers")
+- Main entry point: `README.md` (comprehensive guide with artist indexes by period/region/medium/patronage, usage guidelines, temporal scope)
 
 ### Standard Artist Article Structure
 Each artist essay follows a consistent section format:
@@ -52,7 +52,8 @@ Note: Section titles vary by artist discipline (sculptors use "Sculptural Style"
 - **Section organization**: Use `add_sections.py` to inject `##` heading markers into flowing prose that lacks structure
   - Script pattern: Opens file → defines replacement tuples (old_text → new_text) with exact string matching → writes back
   - Example: Detect phrase like "early fourteenth-century Italy.\n\nGiotto's reputation drew" and insert "## Patrons and Commissions\n\n" between paragraphs
-  - Usage: `python3 add_sections.py` (modifies files in-place; requires manual editing of script for each file)
+  - Usage: `python3 add_sections.py "Artist Name.md" --dry-run` (accepts filename as argument; use --dry-run to preview changes)
+  - Configuration: Edit REPLACEMENTS dictionary in script to add patterns for new files before running
   - Important: Review the generated sections for accuracy; the script is a structural aid, not semantic analyzer
 - **Updating existing files**: Preserve existing structure and tone. When expanding a section, maintain paragraph-length explanations rather than bullet points
 - **Cross-reference verification**: When adding names or dates, cross-check against existing artist files to ensure consistency (e.g., Memmo's relationship to Lippo, Simone Martini's connection to San Gimignano)
@@ -121,12 +122,12 @@ This database is **not optimized for machine indexing or structured data extract
 
 ### Priority Artist Additions (Heavily Cross-Referenced but Missing)
 The following artists are mentioned extensively across existing articles but lack dedicated entries:
-- **Duccio di Buoninsegna** - Foundational Sienese master; mentioned in 4+ files
-- **Cimabue** - Critical link between Coppo/Giunta and Giotto; mentioned in 20+ cross-references
-- **Simone Martini** - Son-in-law of Memmo; major Sienese painter
-- **Lippo Memmi** - Son of Memmo; collaborated with father and Simone Martini
-- **Pietro Cavallini** - Roman master; influenced spatial developments
-- **Salerno di Coppo** - Son/collaborator of Coppo; documented 1274 crucifix work
+- ✅ **Duccio di Buoninsegna** - NOW COMPLETE (foundational Sienese master)
+- ✅ **Cimabue** - NOW COMPLETE (critical link between Coppo/Giunta and Giotto)
+- ✅ **Simone Martini** - NOW COMPLETE (son-in-law of Memmo; major Sienese painter)
+- ❌ **Lippo Memmi** - Son of Memmo; collaborated with father and Simone Martini; mentioned in 10+ files
+- ❌ **Pietro Cavallini** - Roman master; influenced spatial developments; mentioned in 8+ files (Cimabue, Corso di Buono, Maestro delle Storie di Isacco)
+- ❌ **Salerno di Coppo** - Son/collaborator of Coppo; documented 1274 crucifix work
 
 ### Patronage & Geographic Hubs
 - **Siena**: Artistic capital; home to Duccio, Simone Martini, Memmo family
@@ -252,8 +253,10 @@ Given the current text-only approach, compensate through:
 ## Technical Tools
 - **add_sections.py**: Python utility script for inserting section headings into markdown files
   - Located in: `Artists/add_sections.py`
-  - Usage: Manually edit script to define replacement tuples for target file, then run `python3 add_sections.py`
+  - Usage: `python3 add_sections.py "Artist Name.md" [--dry-run]`
+  - Configuration: Edit REPLACEMENTS dictionary in script to define exact text patterns for each file
   - Pattern: Uses exact string matching to find paragraph boundaries and insert `## Section Title` markers
+  - Workflow: Add replacement patterns to REPLACEMENTS dict → run with --dry-run to preview → run without flag to apply
   - Important: Modifies files in-place; review generated structure for accuracy before committing
   - Example: Script detects "early fourteenth-century Italy.\n\nGiotto's reputation drew" and inserts section heading between paragraphs
 
@@ -304,15 +307,17 @@ Example opening: "Maestro di Sant'Alò remains among the most elusive masters of
 ```
 MinDatabase/
 ├── .github/
-│   └── copilot-instructions.md    # This file - AI agent guidance
+│   ├── copilot-instructions.md    # This file - AI agent guidance
+│   └── Codex/
+│       └── Codex Aureus of Saint Emmeram.md  # Historical document
 ├── Artists/
 │   ├── add_sections.py            # Section heading insertion utility
-│   ├── README.md                  # Project entry point (minimal)
-│   ├── [Artist Name].md           # Individual artist essays
-│   └── Codex Aureus of Saint Emmeram.md  # Historical document
+│   ├── README.md                  # Project entry point (comprehensive)
+│   └── [Artist Name].md           # Individual artist essays (22 files)
+└── .gitignore                     # Git ignore patterns
 ```
 
 ## Workspace Maintenance Notes
-- **Ignore system files**: `.DS_Store` (macOS) should be added to `.gitignore` to prevent accidental commits
-- **Python script modifications**: When updating `add_sections.py`, hardcoded filename should be changed to target file before running
+- **Ignore system files**: `.DS_Store` (macOS) and other system files are excluded via `.gitignore`
+- **Python script workflow**: When using `add_sections.py`, edit the REPLACEMENTS dictionary to add patterns for the target file, then run with filename argument
 - **Commit discipline**: Follow incremental commit workflow (see "Commit and Versioning Workflow" section) rather than batch commits
