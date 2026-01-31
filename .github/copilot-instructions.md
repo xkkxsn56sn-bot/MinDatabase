@@ -1,15 +1,36 @@
 # MinDatabase - AI Agent Instructions
 
+**Version**: 2.0 | **Last Updated**: 31 January 2026
+
+## Quick Start for AI Agents
+
+This is a **scholarly knowledge repository**, NOT a software project. No builds, tests, or deployments—only rich historical prose.
+
+**Core Task**: Write detailed (1000-4000+ word) academic essays on medieval Italian artists (13th-14th century) using:
+- Multi-paragraph sections (2-6+ paragraphs each) with archival evidence and art historical analysis
+- Standard structure: Early Life → Patrons → Artistic Style → Influences → Travels → Legacy → Major Works
+- Technical vocabulary: fresco techniques, "Maniera Greca," chiaroscuro, volumetric modeling, patronage networks
+- Cross-reference existing artists to document family workshops, training lineages, and patronage relationships
+
+**Key Files**: `.github/Artists/[Artist Name].md` | `.github/Churches/[Church Name].md` | `.github/Artists/README.md` (master index)
+
+**Commit Pattern**: Incremental commits per section: `"Add Early Life section to [Artist Name]"` | Update `.github/Artists/README.md` when adding new artists
+
+**Critical**: Preserve scholarly tone, archival specificity, and narrative flow. This is academic writing, not technical documentation.
+
+---
+
 ## Project Overview
 MinDatabase is a scholarly database of detailed historical essays on medieval Italian artists. This is NOT a software project but a knowledge repository focused on art history, particularly Tuscan painters and sculptors from the 13th-14th centuries (Duecento and Trecento periods).
 
 ## Core Architecture & Content Patterns
 
 ### File Structure
-- Individual artist profile files: `[Artist Name].md`
-- Historical documents: `.github/Codex/Codex Aureus of Saint Emmeram.md`
-- Utility script: `add_sections.py` - automates section heading insertion into markdown files
-- Main entry point: `README.md` (comprehensive guide with artist indexes by period/region/medium/patronage, usage guidelines, temporal scope)
+- Individual artist profile files: `[Artist Name].md` (in .github/Artists/ directory)
+- Church/institutional essays: `[Church Name].md` (in .github/Churches/ directory - architectural and art historical analysis)
+- Codex documentation: Historical documents (in .github/Codex/ directory)
+- Utility script: `add_sections.py` - automates section heading insertion into markdown files (located in .github/Artists/)
+- Main entry point: `.github/Artists/README.md` (comprehensive artist index organized by period, region, and medium)
 
 ### Standard Artist Article Structure
 Each artist essay follows a consistent section format:
@@ -23,6 +44,18 @@ Each artist essay follows a consistent section format:
 8. **Additional Institutional Sections** (sculpture/architecture contexts) - May include "Architectural Sculpture and Integration," "Institutional Patronage Structure" for major commissions
 
 Note: Section titles vary by artist discipline (sculptors use "Sculptural Style"; painters have additional institutional analysis sections). The section structure supports narrative coherence while documenting complex patronage networks.
+
+### Standard Church/Institutional Essay Structure
+Church and institutional essays (in Churches/ directory) follow a distinct architectural/art historical format:
+1. **History of the [Frescoes/Decoration]** - Construction chronology, patronage origins, building campaigns, architectural phasing, commissioning circumstances
+2. **Materials and Techniques** - Technical execution (fresco vs. secco), pigment analysis, scientific studies (SEM-EDS, infrared reflectography), preparation methods (arriccio, giornata), conservation findings
+3. **Artists and Their Background** - Workshop organization, regional stylistic affiliations (e.g., "Angevin style"), itinerant painter networks, anonymity vs. documented masters, training lineages
+4. **Religious Art and Church Furnishings** - Liturgical function (Benedictine Divine Office, monastic ceremonial), spatial organization (choir, transept, crypt), reliquary shrines, lost furnishings (altar cloths, metalwork)
+5. **Illuminated Manuscripts and Pictorial Arts** - Relationship between mural painting and manuscript illumination, iconographic model transmission, scriptoria connections, shared pigment palettes
+6. **External Influences** - Carolingian/Ottonian precedents, Byzantine transmissions, regional schools (Angevin, Poitevin), pilgrimage route networks, transalpine Gothic influences
+7. **Preservation and Conservation** - Destruction/survival history (Wars of Religion, French Revolution), 19th-century rescue campaigns (Mérimée), modern conservation science, UNESCO designation
+
+Note: Church essays emphasize **anonymous workshop traditions** and **architectural integration**, contrasting with artist essays' focus on individual biography and patronage networks. Cross-reference artists when documented (e.g., "Giotto worked here circa 1290"), but accept anonymity as historical norm for monumental decoration.
 
 ### Writing Style & Conventions
 - **Highly detailed, academic prose**: Multi-paragraph sections (2-6+ paragraphs per section) with extensive contextual information; each paragraph develops a single argument with supporting evidence
@@ -121,6 +154,7 @@ This database is **not optimized for machine indexing or structured data extract
 - **Berlinghiero Berlinghieri** → contemporary/predecessor to **Giunta Pisano** in Pisan tradition
 
 ### Priority Artist Additions (Heavily Cross-Referenced but Missing)
+<<<<<<< HEAD
 The following artists are mentioned extensively across existing articles but lack dedicated entries:
 - ✅ **Duccio di Buoninsegna** - NOW COMPLETE (foundational Sienese master)
 - ✅ **Cimabue** - NOW COMPLETE (critical link between Coppo/Giunta and Giotto)
@@ -128,6 +162,20 @@ The following artists are mentioned extensively across existing articles but lac
 - ❌ **Lippo Memmi** - Son of Memmo; collaborated with father and Simone Martini; mentioned in 10+ files
 - ❌ **Pietro Cavallini** - Roman master; influenced spatial developments; mentioned in 8+ files (Cimabue, Corso di Buono, Maestro delle Storie di Isacco)
 - ❌ **Salerno di Coppo** - Son/collaborator of Coppo; documented 1274 crucifix work
+=======
+The following artists are mentioned extensively across existing articles but still lack dedicated entries:
+- **Lippo Memmi** - Son of Memmo; collaborated with father and Simone Martini; co-signed 1333 Annunciation
+- **Pietro Cavallini** - Roman master; influenced spatial developments; mentioned in Giotto and other contexts
+- **Salerno di Coppo** - Son/collaborator of Coppo; documented 1274 crucifix work
+- **Ambrogio Lorenzetti** - Major Sienese painter; Palazzo Pubblico frescoes
+- **Pietro Lorenzetti** - Brother of Ambrogio; important Sienese master
+- **Andrea Pisano** - Sculptor; Florence Baptistery bronze doors
+
+**Recently Added (Now Complete):**
+- ✓ Duccio di Buoninsegna - Foundational Sienese master
+- ✓ Cimabue - Critical link between Coppo/Giunta and Giotto
+- ✓ Simone Martini - Son-in-law of Memmo; major Sienese painter
+>>>>>>> fb4075e (Reorganize repository structure and update documentation to v2.0)
 
 ### Patronage & Geographic Hubs
 - **Siena**: Artistic capital; home to Duccio, Simone Martini, Memmo family
@@ -137,6 +185,31 @@ The following artists are mentioned extensively across existing articles but lac
 
 ### Stylistic Evolution Tracked
 Medieval pattern: "Maniera Greca" (Byzantine) → Proto-Renaissance (Giotto) → Gothic refinement (Simone Martini) → International Gothic. Each artist's work documents one phase of this transition.
+
+### Cross-Reference Patterns: Churches ↔ Artists
+Church essays and artist essays interlink through shared geographic/temporal contexts:
+
+**From Church → Artist** (when documented masters worked on site):
+- Direct attribution: "Giotto di Bondone executed the Arena Chapel frescoes (1303-1306)" → link to Giotto essay
+- Workshop attribution: "The Assisi Upper Church frescoes, attributed to the workshop of Cimabue or possibly the young Giotto" → mention both with caveats
+- Documented presence: "Payment records confirm Memmo di Filippuccio's work in San Gimignano's Palazzo del Popolo"
+
+**From Church → Anonymous Masters** (establish pattern for future artist entries):
+- Use scholarly designation: "The Saint-Savin murals were executed by an anonymous Romanesque Painter, French (active c. 1100)"
+- Describe workshop characteristics: "Itinerant professional painters traveling among ecclesiastical building sites"
+- Regional stylistic affiliation: "The Angevin style, characterized by linear designs and flat compositional arrangements"
+- This establishes nomenclature for potential future artist entries on anonymous masters
+
+**From Artist → Churches** (when artist worked at documented sites):
+- Narrative integration: In "Travels and Career" section, mention specific commissions: "Giotto's journey to Padua resulted in the revolutionary Arena Chapel frescoes"
+- Patronage documentation: In "Patrons and Commissions," cite institutional records: "The Franciscan order at Assisi commissioned Giotto for the Upper Church narrative cycles"
+- Cross-regional influence: "Exposure to French Gothic architectural sculpture at Rheims influenced Anselmo da Campione's later work"
+
+**Maintaining Cross-Reference Consistency**:
+- When adding new church essay, search existing artist files for mentions of that site
+- When adding artist who worked at documented church, verify church essay exists or add to priority list
+- Use consistent terminology: "Assisi (Basilica of San Francesco)" not "Assisi Basilica" or "San Francesco d'Assisi"
+- Anonymous masters: Use scholarly convention ("Maestro di [Location]") to enable future dedicated entries
 
 ## Guidelines for Content Modifications
 
@@ -161,14 +234,17 @@ Medieval pattern: "Maniera Greca" (Byzantine) → Proto-Renaissance (Giotto) →
 - **Family workshop attributions**: For collective works, file under most prominent family member with notation in content
 
 ### Non-Artist Files
-- **Historical documents**: Use full formal title: `Codex Aureus of Saint Emmeram.md`
+- **Church/institutional essays**: Use full formal title: `The Abbey Church of Saint-Savin-sur-Gartempe.md` (stored in .github/Churches/ directory)
+- **Historical documents**: Use full formal title if needed: `Codex Aureus of Saint Emmeram.md` (stored in .github/Codex/ directory)
 - **Supporting documentation**: Lowercase with hyphens for technical files: `add_sections.py`, `README.md`
-- **Geographic/institutional surveys**: Format as `[Institution/Location] - [Topic].md`
+- **Geographic/institutional surveys**: Format as `[Institution/Location] - [Topic].md` or `The [Full Name].md`
 
 ### Organization Principles
-- All artist files reside directly in `Artists/` directory (no subdirectories by period, region, or medium)
+- All artist files reside directly in `.github/Artists/` directory (no subdirectories by period, region, or medium)
+- Church/institutional essays reside in `.github/Churches/` directory
+- Codex documentation resides in `.github/Codex/` directory
 - Alphabetical sorting by first name (medieval convention; "Giotto" not "Bondone")
-- Utility scripts remain at root level of `Artists/` directory
+- Utility scripts remain at root level of `.github/Artists/` directory
 - No numerical prefixes or date-based sorting (defeats scholarly findability)
 
 ## File Format Notes
@@ -251,6 +327,7 @@ Given the current text-only approach, compensate through:
 - If video demonstrations needed (e.g., fresco technique explanations), link to external hosted content rather than embedding
 
 ## Technical Tools
+<<<<<<< HEAD
 - **add_sections.py**: Python utility script for inserting section headings into markdown files
   - Located in: `Artists/add_sections.py`
   - Usage: `python3 add_sections.py "Artist Name.md" [--dry-run]`
@@ -259,6 +336,57 @@ Given the current text-only approach, compensate through:
   - Workflow: Add replacement patterns to REPLACEMENTS dict → run with --dry-run to preview → run without flag to apply
   - Important: Modifies files in-place; review generated structure for accuracy before committing
   - Example: Script detects "early fourteenth-century Italy.\n\nGiotto's reputation drew" and inserts section heading between paragraphs
+=======
+
+### add_sections.py - Section Heading Insertion Utility
+**Purpose**: Automates insertion of `## Section Title` headings into flowing prose that lacks formal structure.
+
+**Location**: `.github/Artists/add_sections.py`
+
+**Command-Line Usage**:
+```bash
+# Navigate to the script directory first
+cd .github/Artists/
+
+# Preview changes without modifying file (recommended first step)
+python3 add_sections.py "Giotto di Bondone.md" --dry-run
+
+# Apply changes to file (modifies in-place)
+python3 add_sections.py "Coppo di Marcovaldo.md"
+
+# Process file with absolute path
+python3 add_sections.py "/Users/.../MinDatabase/.github/Artists/Simone Martini.md"
+```
+
+**Configuration**: Edit the `REPLACEMENTS` dictionary within the script before running:
+```python
+REPLACEMENTS = {
+    "Giotto di Bondone.md": [
+        ("early fourteenth-century Italy.\n\nGiotto's reputation drew", 
+         "early fourteenth-century Italy.\n\n## Patrons and Commissions\n\nGiotto's reputation drew"),
+        # Add more replacement tuples...
+    ],
+}
+```
+
+**Pattern**: Uses exact string matching to find paragraph boundaries (double newlines) and insert section headings. Include sufficient context (typically full sentences before/after break point) to ensure unique matches.
+
+**Workflow**:
+1. Read target artist file to identify natural section breaks in flowing prose
+2. Edit `REPLACEMENTS` dictionary with exact text matches for that specific file
+3. Run with `--dry-run` to preview changes
+4. Review output carefully—script is structural aid, not semantic analyzer
+5. Run without `--dry-run` to apply changes (modifies file in-place)
+6. Commit script changes separately from content changes
+7. Verify section accuracy by reading modified file; adjust manually if needed
+
+**Important Limitations**:
+- Requires manual identification of section boundaries
+- String matching must be exact (whitespace, punctuation, spelling)
+- Cannot detect semantic meaning—may insert headings at inappropriate breaks
+- Works best for prose already organized logically but lacking explicit markers
+- Each target file requires custom `REPLACEMENTS` configuration
+>>>>>>> fb4075e (Reorganize repository structure and update documentation to v2.0)
 
 ## Common Content Patterns by Section
 
@@ -298,8 +426,115 @@ When archival documentation is sparse or artistic output is fragmentary, employ 
 
 Example opening: "Maestro di Sant'Alò remains among the most elusive masters of the Trecento, known through a single documented commission and two or three surviving works that exhibit stylistic characteristics suggesting training within the Sienese tradition..." This immediately signals both the evidence limit and the analytical framework.
 
+## Practical Examples
+
+### Example 1: Adding a New Artist Entry
+
+**Task**: Create entry for "Lippo Memmi" (son of Memmo di Filippuccio, mentioned in 3+ existing articles)
+
+**Workflow**:
+1. Create `.github/Artists/Lippo Memmi.md`
+2. Research cross-references: Read [Memmo di Filippuccio.md](.github/Artists/Memmo%20di%20Filippuccio.md), [Simone Martini.md](.github/Artists/Simone%20Martini.md) for documented relationships
+3. Write sections in order: Early Life ("son of Memmo, trained under father's supervision") → Patrons (San Gimignano commissions) → Artistic Style (Gothic sophistication, collaboration with Simone Martini) → etc.
+4. Commit incrementally: `"Add Early Life section to Lippo Memmi"` → `"Add Patrons section to Lippo Memmi"` → etc.
+5. Update `.github/Artists/README.md`: Add to Sienese School section, Master-Pupil Lineages, Family Workshops, Geographic Hubs
+6. Update cross-references: Add mentions in Memmo and Simone Martini files: `"His son Lippo Memmi later collaborated with Simone Martini..."`
+7. Final commit: `"Update cross-references: Memmo ↔ Lippo Memmi ↔ Simone Martini"`
+
+**Before** (Memmo di Filippuccio.md - insufficient detail):
+```markdown
+Memmo's son Lippo became a painter.
+```
+
+**After** (Memmo di Filippuccio.md - scholarly richness):
+```markdown
+Lippo Memmi, the elder and more famous of the two sons, was trained directly under 
+Memmo's supervision, inheriting his father's linear elegance while eventually surpassing 
+him in fame through his association with Simone Martini. The training Memmo provided to 
+his sons was comprehensive, encompassing both the monumental fresco techniques he mastered 
+at Assisi and the delicate miniature work of the Sienese tradition. In 1317, the Commune 
+of San Gimignano recorded a payment to "Memmo pittore e Lippo suo figliuolo" for the 
+painting in the Council Hall, indicating that while Memmo was the legal contractor, Lippo 
+was the primary executant.
+```
+
+### Example 2: Using add_sections.py to Structure Flowing Prose
+
+**Task**: Artist file exists as continuous prose without section headings
+
+**Workflow**:
+1. Read file to identify natural section breaks:
+   - "Born in Siena..." (Early Life paragraph) → "The Commune of San Gimignano commissioned..." (Patrons paragraph)
+2. Edit `.github/Artists/add_sections.py` REPLACEMENTS dictionary:
+```python
+REPLACEMENTS = {
+    "New Artist.md": [
+        ("goldsmith father.\n\nThe Commune of San Gimignano commissioned",
+         "goldsmith father.\n\n## Patrons and Commissions\n\nThe Commune of San Gimignano commissioned"),
+    ],
+}
+```
+3. Run script:
+```bash
+cd .github/Artists/
+python3 add_sections.py "New Artist.md" --dry-run  # Preview
+python3 add_sections.py "New Artist.md"            # Apply
+```
+4. Review output, manually adjust if section placement incorrect
+5. Commit: `"Add section headings to New Artist"`
+
+### Example 3: Cross-Referencing Church and Artist Entries
+
+**Task**: Document Giotto's work at Assisi in both his artist file and a church essay
+
+**In [Giotto di Bondone.md](.github/Artists/Giotto%20di%20Bondone.md)** (Travels section):
+```markdown
+A critical chapter in his itinerary was the sojourn to Assisi, the epicentre of modern 
+Italian painting at the turn of the century. Travelling to Umbria to work at the Basilica 
+of San Francesco was a rite of passage for ambitious artists of his generation. In Assisi, 
+he lived and worked in the scaffolding of the Upper Church, executing the revolutionary 
+fresco cycles (c. 1290-1295) that demonstrated his mastery of spatial naturalism and 
+narrative clarity.
+```
+
+**In [The Basilica of San Francesco.md](.github/Churches/) essay** (Artists section):
+```markdown
+Giotto di Bondone executed the Upper Church frescoes circa 1290-1295, though attribution 
+remains debated between Giotto and the anonymous Maestro delle Storie di Isacco. Payment 
+records confirm Franciscan patronage, and the revolutionary spatial treatment—volumetric 
+figures occupying convincing architectural settings—marks a decisive break from Byzantine 
+flatness. The workshop organization at Assisi exposed Giotto to Roman, Florentine, and 
+Umbrian traditions simultaneously, an international environment that accelerated his 
+stylistic evolution.
+```
+
+### Example 4: Handling Misattributions and Historiographical Complexity
+
+**Task**: Correct common confusion between Lippo Memmi and Memmo di Filippuccio
+
+**Before** (overly simplified):
+```markdown
+Lippo Memmi painted the Maestà in San Gimignano.
+```
+
+**After** (acknowledges historiographical complexity):
+```markdown
+Although signed by his son Lippo Memmi, documents prove the 1317 Maestà was a joint 
+commission paid to "Memmo and Lippo," representing the culmination of Memmo's civic 
+career. Early chroniclers like Vasari famously confused the relationships, sometimes 
+conflating Lippo and Memmo or misidentifying their connection to Simone Martini. Modern 
+archival research has disentangled their individual contributions: Memmo's hand appears 
+most evident in the underlying compositional structure and spatial logic, while Lippo's 
+contribution emerges in the delicacy of ornamental details and the refinement of facial 
+features. The fact that Lippo alone signed the work may indicate that the primary 
+executant for the visible surface was the younger artist, while Memmo retained 
+intellectual control over the conception.
+```
+
+---
+
 ## When in Doubt
-- Consult the structural patterns in existing files (especially [Memmo di Filippuccio.md](Artists/Memmo%20di%20Filippuccio.md) and [Giotto di Bondone.md](Artists/Giotto%20di%20Bondone.md))
+- Consult the structural patterns in existing files (especially [Memmo di Filippuccio.md](.github/Artists/Memmo%20di%20Filippuccio.md) and [Giotto di Bondone.md](.github/Artists/Giotto%20di%20Bondone.md))
 - Prioritize historical accuracy and nuance over editing brevity
 - Ask: "Does this change serve the reader's understanding of medieval Italian art history?"
 
@@ -308,6 +543,7 @@ Example opening: "Maestro di Sant'Alò remains among the most elusive masters of
 MinDatabase/
 ├── .github/
 │   ├── copilot-instructions.md    # This file - AI agent guidance
+<<<<<<< HEAD
 │   └── Codex/
 │       └── Codex Aureus of Saint Emmeram.md  # Historical document
 ├── Artists/
@@ -315,9 +551,76 @@ MinDatabase/
 │   ├── README.md                  # Project entry point (comprehensive)
 │   └── [Artist Name].md           # Individual artist essays (22 files)
 └── .gitignore                     # Git ignore patterns
+=======
+│   ├── Artists/
+│   │   ├── add_sections.py        # Section heading insertion utility
+│   │   ├── README.md              # Project entry point (comprehensive artist index)
+│   │   └── [Artist Name].md       # Individual artist essays (22+ files)
+│   ├── Churches/
+│   │   └── [Church Name].md       # Church/institutional essays (1+ files)
+│   └── Codex/
+│       └── [Historical Document].md  # Historical documents
+├── .gitignore                     # Excludes .DS_Store, Python cache, etc.
+└── .vscode/                       # VS Code workspace settings
+>>>>>>> fb4075e (Reorganize repository structure and update documentation to v2.0)
 ```
 
+## README.md Maintenance and Organizational Structure
+
+### Current README Organization (.github/Artists/README.md)
+The main entry point follows a hierarchical organizational structure:
+
+**Primary Organization** (By Period & Region):
+- **Duecento (13th Century)**: Pisan School → Florentine School → Sienese School → Umbrian & Central Italian
+- **Trecento (14th Century)**: Florentine Innovations → Sienese School → Sculptors & Architects
+- Within each period: Group by regional school or stylistic affiliation
+- Within each school: Alphabetical by artist first name
+- Include brief identifying details: "[Artist Name] - [Key work/date/defining characteristic]"
+
+**Secondary Organization** (By Medium):
+- Panel Painters, Fresco Masters, Sculptors & Stoneworkers, Manuscript Illuminators
+- Facilitates finding artists by technical specialization
+- Artists may appear in multiple medium categories
+
+**Tertiary Organization** (By Patronage Networks):
+- Franciscan Commissions, Dominican Patrons, Civic/Communal Patrons, Servite Order
+- Reveals institutional patronage patterns across multiple artists
+- Helps identify cross-artist collaboration opportunities at shared sites
+
+**Network Mapping Sections**:
+- **Master-Pupil Lineages**: Document training relationships ("Byzantine → Proto-Renaissance: Coppo → Cimabue → Giotto")
+- **Family Workshops**: Track dynastic transmission ("Berlinghieri Family: Father + sons")
+- **Geographic Hubs**: List artists active at major centers (Assisi, Pisa, Florence, Siena, San Gimignano)
+
+**Stylistic Evolutions Documented**:
+- Crucifixion Iconography (Christus triumphans → patiens), Spatial Representation, Marian Imagery
+- Traces technical/iconographic innovations across artist entries
+
+### When Adding New Artists to README
+1. **Add to Period & Region section**: Determine century (Duecento/Trecento), identify regional school affiliation
+2. **Add to Medium section**: Classify by primary technique (panel painter, sculptor, etc.)
+3. **Add to Patronage Networks** (if applicable): Identify major institutional patron
+4. **Update Network Mapping**: Add to Master-Pupil Lineages if training relationship documented, Family Workshops if dynastic connection exists, Geographic Hubs for primary working location
+5. **Update Stylistic Evolutions**: If artist contributed to tracked technical innovations
+6. **Update Priority Additions list**: Remove from "forthcoming" if completing that artist; add newly discovered cross-references
+7. **Maintain alphabetical order within sections**: Sort by first name (medieval convention)
+8. **Use consistent formatting**: `[Artist Name](Artist%20Name.md) - [Brief identifier]`
+9. **Encode spaces in links**: Use `%20` for filenames with spaces
+10. **Update cross-reference markers**: Use `[Artist Name]*` pattern for missing entries, remove `*` when completed
+
+### README Commit Patterns
+- Update README simultaneously with artist file additions: "Add [Artist Name] with README index entry"
+- Batch README updates for reorganization: "Reorganize README: Add Patronage Networks section"
+- Cross-reference corrections: "Update README: Correct [Artist A]'s relationship to [Artist B]"
+- New organizational sections: "Add 'Stylistic Evolutions' tracking section to README"
+
 ## Workspace Maintenance Notes
+<<<<<<< HEAD
 - **Ignore system files**: `.DS_Store` (macOS) and other system files are excluded via `.gitignore`
 - **Python script workflow**: When using `add_sections.py`, edit the REPLACEMENTS dictionary to add patterns for the target file, then run with filename argument
+=======
+- **Ignore system files**: `.DS_Store` (macOS) is already in `.gitignore` to prevent accidental commits
+- **Python script modifications**: When updating `add_sections.py`, configuration should be changed to target file before running
+>>>>>>> fb4075e (Reorganize repository structure and update documentation to v2.0)
 - **Commit discipline**: Follow incremental commit workflow (see "Commit and Versioning Workflow" section) rather than batch commits
+- **README updates**: Keep .github/Artists/README.md synchronized with new artist additions; update all relevant organizational sections
