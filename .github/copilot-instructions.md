@@ -112,8 +112,21 @@ This database is **not optimized for machine indexing or structured data extract
 ### Artist Network Map (partial)
 - **Memmo di Filippuccio** (father) → **Lippo Memmi** (son, pupil of Simone Martini)
 - **Memmo di Filippuccio** → **Simone Martini** (son-in-law, via daughter Giovanna)
-- **Giotto di Bondone** (teacher/influence) → influenced **Memmo di Filippuccio**, **Simone Martini**
-- **Duccio di Buoninsegna** → foundational to **Memmo di Filippuccio** and all Sienese painters
+- **Giotto di Bondone** (teacher/influence) → influenced **Memmo di Filippuccio**, **Simone Martini**, **Maestro delle Storie di Isacco** (possibly Giotto himself)
+- **Duccio di Buoninsegna** → foundational to **Memmo di Filippuccio** and all Sienese painters; influenced later repainting of **Coppo di Marcovaldo**'s Madonna del Bordone
+- **Coppo di Marcovaldo** → influenced **Cimabue** (stylistic debate ongoing); father-son workshop with **Salerno di Coppo**
+- **Giunta Pisano** → influenced **Coppo di Marcovaldo** and **Cimabue**; established Christus patiens iconography
+- **Cimabue** (teacher) → **Giotto di Bondone**; possibly trained **Maestro delle Storie di Isacco**
+- **Berlinghiero Berlinghieri** → contemporary/predecessor to **Giunta Pisano** in Pisan tradition
+
+### Priority Artist Additions (Heavily Cross-Referenced but Missing)
+The following artists are mentioned extensively across existing articles but lack dedicated entries:
+- **Duccio di Buoninsegna** - Foundational Sienese master; mentioned in 4+ files
+- **Cimabue** - Critical link between Coppo/Giunta and Giotto; mentioned in 20+ cross-references
+- **Simone Martini** - Son-in-law of Memmo; major Sienese painter
+- **Lippo Memmi** - Son of Memmo; collaborated with father and Simone Martini
+- **Pietro Cavallini** - Roman master; influenced spatial developments
+- **Salerno di Coppo** - Son/collaborator of Coppo; documented 1274 crucifix work
 
 ### Patronage & Geographic Hubs
 - **Siena**: Artistic capital; home to Duccio, Simone Martini, Memmo family
@@ -298,3 +311,8 @@ MinDatabase/
 │   ├── [Artist Name].md           # Individual artist essays
 │   └── Codex Aureus of Saint Emmeram.md  # Historical document
 ```
+
+## Workspace Maintenance Notes
+- **Ignore system files**: `.DS_Store` (macOS) should be added to `.gitignore` to prevent accidental commits
+- **Python script modifications**: When updating `add_sections.py`, hardcoded filename should be changed to target file before running
+- **Commit discipline**: Follow incremental commit workflow (see "Commit and Versioning Workflow" section) rather than batch commits
