@@ -27,6 +27,7 @@ This database documents the lives, works, and artistic networks of medieval Ital
 - [Ugolino di Nerio](Ugolino%20di%20Nerio.md) - Active late 13th/early 14th century
 
 **Umbrian & Central Italian**
+- [Alberto Sozio](Alberto%20Sozio.md) - Spoleto master; earliest signed Umbrian crucifix (1187)
 - [Maestro delle Storie di Isacco](Maestro%20delle%20Storie%20di%20Isacco.md) - Revolutionary Assisi frescoes (1290-1295); possibly young Giotto
 - [Maestro di Kokkinobaphos](Maestro%20di%20Kokkinobaphos.md) - Byzantine manuscript tradition
 - [Maestro di Rosano](Maestro%20di%20Rosano.md) - Tuscan-Umbrian borderlands
@@ -42,6 +43,9 @@ This database documents the lives, works, and artistic networks of medieval Ital
 - [Memmo di Filippuccio](Memmo%20di%20Filippuccio.md) - San Gimignano civic painter; father of Lippo Memmi; father-in-law to Simone Martini
 - [Simone Martini](Simone%20Martini.md) - International Gothic pioneer; son-in-law to Memmo; Maestà (1315)
 
+**Venetian School**
+- [Paolo Veneziano](Paolo%20Veneziano.md) - Foundational Venetian master; Pala Feriale (1345)
+
 **Sculptors & Architects**
 - [Anselmo da Campione](Anselmo%20da%20Campione.md) - Campionese master stonemason; active Lombardy/Emilia
 - [Benedetto Antelami](Benedetto%20Antelami.md) - Parma Cathedral sculptural programs; Baptistery architect
@@ -56,10 +60,10 @@ This database documents the lives, works, and artistic networks of medieval Ital
 - Cimabue, Giotto di Bondone, Maestro delle Storie di Isacco, Memmo di Filippuccio, Simone Martini
 
 **Sculptors & Stoneworkers**
-- Anselmo da Campione, Benedetto Antelami, Giovanni d'Apparecchiato, Maestro Guglielmo
+- Anselmo da Campione, Benedetto Antelami, Giovanni d'Apparecchiato, Maestro Guglielmo, Godefroid de Claire, Nicholas da Verdun
 
 **Manuscript Illuminators**
-- Godescalc, Herrade of Landsberg, Maestro di Kokkinobaphos
+- Eadfrith di Lindisfarne, Godescalc, Herrade di Landsberg, Maius, Maestro di Kokkinobaphos, Solsternus
 
 ### By Patronage Networks
 
