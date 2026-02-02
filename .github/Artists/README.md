@@ -114,12 +114,12 @@ This database documents the lives, works, and artistic networks of medieval Ital
 - **International Gothic**: Simone Martini's Annunciation (1333) represents pinnacle of linear elegance and aristocratic refinement
 
 ## Historical Documents
-- [Codex Aureus of Saint Emmeram](Codex%20Aureus%20of%20Saint%20Emmeram.md) - Illuminated manuscript; Byzantine tradition
+- [Codex Aureus of Saint Emmeram](../Codex/Codex%20Aureus%20of%20Saint%20Emmeram.md) - Illuminated manuscript; Byzantine tradition
 
 ## Priority Additions
 Artists extensively cross-referenced but lacking dedicated entries:
 - **[Lippo Memmi]*** - Son of Memmo; Sienese master; co-signed 1333 Annunciation with Simone Martini
-- **[Pietro Cavallini]*** - Roman master; spatial developments; influenced Giotto and Cavallini
+- **[Pietro Cavallini]*** - Roman master; spatial developments; influenced Giotto and other Proto-Renaissance painters
 - **[Salerno di Coppo]*** - Coppo's son/collaborator (1274 crucifix)
 - **[Ambrogio Lorenzetti]*** - Major Sienese painter; Palazzo Pubblico Good/Bad Government frescoes
 - **[Pietro Lorenzetti]*** - Brother of Ambrogio; important Sienese master
@@ -161,7 +161,7 @@ Artists are interconnected through:
 - Excludes: High Renaissance post-1400 (outside temporal scope)
 
 ## Contributing Guidelines
-See [.github/copilot-instructions.md](../.github/copilot-instructions.md) for:
+See [.github/copilot-instructions.md](../copilot-instructions.md) for:
 - Standard article structure (Early Life → Patrons → Innovations → Legacy)
 - Writing style conventions (academic prose, archival specificity, technical vocabulary)
 - Word count targets by artist tier (4000+ for foundational masters, 1000-2000 for lesser-known figures)
