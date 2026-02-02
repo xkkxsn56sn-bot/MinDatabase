@@ -13,13 +13,16 @@ This database documents the lives, works, and artistic networks of medieval Ital
 **Pisan School**
 - [Berlinghiero Berlinghieri](Berlinghiero%20Berlinghieri.md) - Founder of Pisan painting tradition
 - [Bonaventura Berlinghieri](Bonaventura%20Berlinghieri.md) - Son of Berlinghiero; documented St. Francis panel (1235)
+- [Marco Berlinghieri](Marco%20Berlinghieri.md) - Brother of Bonaventura; Berlinghieri workshop tradition
 - [Giunta Pisano](Giunta%20Pisano.md) - Revolutionary Christus patiens iconography; Assisi crucifix (1236)
 
 **Florentine School**
+- [Cimabue](Cimabue.md) - Critical bridge between Byzantine tradition and Proto-Renaissance; teacher of Giotto
 - [Coppo di Marcovaldo](Coppo%20di%20Marcovaldo.md) - Madonna del Bordone (1261); captured at Montaperti; father-son workshop with Salerno
 - [Corso di Buono](Corso%20di%20Buono.md) - Mid-13th century Florentine master
 
 **Sienese School**
+- [Duccio di Buoninsegna](Duccio%20di%20Buoninsegna.md) - Foundational Sienese master; Maestà altarpiece (1308-1311)
 - [Maestro di Sant'Alò](Maestro%20di%20Sant%27Alò.md) - Anonymous master; elusive Trecento figure
 - [Ugolino di Nerio](Ugolino%20di%20Nerio.md) - Active late 13th/early 14th century
 
@@ -37,6 +40,7 @@ This database documents the lives, works, and artistic networks of medieval Ital
 
 **Sienese School**
 - [Memmo di Filippuccio](Memmo%20di%20Filippuccio.md) - San Gimignano civic painter; father of Lippo Memmi; father-in-law to Simone Martini
+- [Simone Martini](Simone%20Martini.md) - International Gothic pioneer; son-in-law to Memmo; Maestà (1315)
 
 **Sculptors & Architects**
 - [Anselmo da Campione](Anselmo%20da%20Campione.md) - Campionese master stonemason; active Lombardy/Emilia
@@ -46,27 +50,27 @@ This database documents the lives, works, and artistic networks of medieval Ital
 ### By Medium
 
 **Panel Painters**
-- Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Coppo di Marcovaldo, Corso di Buono, Giunta Pisano, Ugolino di Nerio
+- Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Cimabue, Coppo di Marcovaldo, Corso di Buono, Duccio di Buoninsegna, Giunta Pisano, Marco Berlinghieri, Ugolino di Nerio
 
 **Fresco Masters**
-- Giotto di Bondone, Maestro delle Storie di Isacco, Memmo di Filippuccio
+- Cimabue, Giotto di Bondone, Maestro delle Storie di Isacco, Memmo di Filippuccio, Simone Martini
 
 **Sculptors & Stoneworkers**
 - Anselmo da Campione, Benedetto Antelami, Giovanni d'Apparecchiato, Maestro Guglielmo
 
 **Manuscript Illuminators**
-- Maestro di Kokkinobaphos
+- Godescalc, Herrade of Landsberg, Maestro di Kokkinobaphos
 
 ### By Patronage Networks
 
 **Franciscan Commissions**
-- Giunta Pisano (Assisi, 1236), Giotto di Bondone (Assisi cycles), Bonaventura Berlinghieri (St. Francis panel, 1235)
+- Giunta Pisano (Assisi, 1236), Cimabue (Assisi transept frescoes), Giotto di Bondone (Assisi cycles), Bonaventura Berlinghieri (St. Francis panel, 1235)
 
 **Dominican Patrons**
 - Giunta Pisano (San Domenico, Bologna)
 
 **Civic/Communal Patrons**
-- Memmo di Filippuccio (San Gimignano "Pictor Civicus"), Coppo di Marcovaldo (Pistoia Cathedral)
+- Memmo di Filippuccio (San Gimignano "Pictor Civicus"), Coppo di Marcovaldo (Pistoia Cathedral), Duccio di Buoninsegna (Siena Cathedral), Simone Martini (Siena Palazzo Pubblico)
 
 **Servite Order**
 - Coppo di Marcovaldo (Madonna del Bordone, 1261)
@@ -74,46 +78,53 @@ This database documents the lives, works, and artistic networks of medieval Ital
 ## Key Artistic Networks
 
 ### Master-Pupil Lineages
-- **Byzantine → Proto-Renaissance**: Coppo di Marcovaldo → [Cimabue]* → Giotto di Bondone
-- **Pisan Tradition**: Berlinghiero Berlinghieri → Bonaventura → Giunta Pisano → Coppo di Marcovaldo
-- **Sienese Dynasty**: Memmo di Filippuccio (father) → [Lippo Memmi]* (son)
+- **Byzantine → Proto-Renaissance**: Coppo di Marcovaldo → Cimabue → Giotto di Bondone
+- **Pisan Tradition**: Berlinghiero Berlinghieri → Bonaventura/Marco → Giunta Pisano → Coppo di Marcovaldo
+- **Sienese Dynasty**: Duccio di Buoninsegna → [Simone Martini] (influenced); Memmo di Filippuccio (father) → [Lippo Memmi]* (son)
 
 ### Family Workshops
-- **Berlinghieri Family**: Father Berlinghiero + son Bonaventura (Lucca/Pisa)
-- **Memmo Workshop**: Memmo di Filippuccio + daughter Giovanna (married [Simone Martini]*) + son [Lippo Memmi]*
+- **Berlinghieri Family**: Father Berlinghiero + sons Bonaventura and Marco (Lucca/Pisa)
+- **Memmo Workshop**: Memmo di Filippuccio + daughter Giovanna (married Simone Martini) + son [Lippo Memmi]*
 - **Coppo Workshop**: Coppo di Marcovaldo + son Salerno di Coppo (collaborated 1274 Pistoia crucifix)
 - **Campionese Masters**: Anselmo da Campione (Lombardy stoneworking tradition)
 
 ### Geographic Hubs
-- **Assisi** (Basilica di San Francesco): Giunta Pisano, [Cimabue]*, Giotto, Maestro delle Storie di Isacco, Memmo di Filippuccio
-- **Pisa**: Berlinghiero family, Giunta Pisano, Coppo di Marcovaldo (base)
-- **Florence**: Coppo di Marcovaldo, Corso di Buono, Giotto di Bondone
-- **Siena**: Memmo di Filippuccio, Ugolino di Nerio, [Duccio di Buoninsegna]*
+- **Assisi** (Basilica di San Francesco): Giunta Pisano, Cimabue, Giotto, Maestro delle Storie di Isacco, Memmo di Filippuccio
+- **Pisa**: Berlinghiero family (Berlinghiero, Bonaventura, Marco), Giunta Pisano, Coppo di Marcovaldo (base)
+- **Florence**: Cimabue, Coppo di Marcovaldo, Corso di Buono, Giotto di Bondone
+- **Siena**: Duccio di Buoninsegna, Memmo di Filippuccio, Simone Martini, Ugolino di Nerio
 - **San Gimignano**: Memmo di Filippuccio (civic painter, 1303-1317)
+- **Avignon**: Simone Martini (papal court, 1336-1344)
 
 ## Stylistic Evolutions Documented
 
 ### Crucifixion Iconography
-- **Christus triumphans → Christus patiens**: Giunta Pisano pioneered suffering Christ; adopted by Coppo di Marcovaldo, [Cimabue]*, Giotto
+- **Christus triumphans → Christus patiens**: Giunta Pisano pioneered suffering Christ; adopted by Coppo di Marcovaldo, Cimabue, Giotto
 - **Technical innovations**: Green underpainting (Giunta), chiaroscuro modeling (Coppo), volumetric naturalism (Giotto)
 
 ### Spatial Representation
 - **Byzantine planarity → Proto-Renaissance depth**: Maestro delle Storie di Isacco's revolutionary architectural perspective (1290s) precedes Giotto's Arena Chapel innovations
 
 ### Marian Imagery
-- **Maniera Greca → Gothic refinement**: Coppo's Madonna del Bordone (1261) influenced [Duccio]* and later Sienese tradition
+- **Maniera Greca → Gothic refinement**: Coppo's Madonna del Bordone (1261) influenced Duccio di Buoninsegna and later Sienese tradition
+- **International Gothic**: Simone Martini's Annunciation (1333) represents pinnacle of linear elegance and aristocratic refinement
 
 ## Historical Documents
 - [Codex Aureus of Saint Emmeram](Codex%20Aureus%20of%20Saint%20Emmeram.md) - Illuminated manuscript; Byzantine tradition
 
 ## Priority Additions
 Artists extensively cross-referenced but lacking dedicated entries:
-- **[Cimabue]*** - Critical link between Coppo/Giunta and Giotto (20+ cross-references)
-- **[Duccio di Buoninsegna]*** - Foundational Sienese master (4+ cross-references)
-- **[Simone Martini]*** - Son-in-law of Memmo; International Gothic pioneer
-- **[Lippo Memmi]*** - Son of Memmo; Sienese master
-- **[Pietro Cavallini]*** - Roman master; spatial developments
+- **[Lippo Memmi]*** - Son of Memmo; Sienese master; co-signed 1333 Annunciation with Simone Martini
+- **[Pietro Cavallini]*** - Roman master; spatial developments; influenced Giotto and Cavallini
 - **[Salerno di Coppo]*** - Coppo's son/collaborator (1274 crucifix)
+- **[Ambrogio Lorenzetti]*** - Major Sienese painter; Palazzo Pubblico Good/Bad Government frescoes
+- **[Pietro Lorenzetti]*** - Brother of Ambrogio; important Sienese master
+- **[Andrea Pisano]*** - Sculptor; Florence Baptistery bronze doors
+
+**Recently Completed:**
+- ✓ Cimabue - Critical link between Coppo/Giunta and Giotto
+- ✓ Duccio di Buoninsegna - Foundational Sienese master
+- ✓ Simone Martini - Son-in-law of Memmo; International Gothic pioneer
 
 *\* Entries forthcoming*
 
