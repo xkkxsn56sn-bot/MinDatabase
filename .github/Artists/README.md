@@ -84,7 +84,7 @@ This database documents the lives, works, and artistic networks of medieval Ital
 ### Master-Pupil Lineages
 - **Byzantine → Proto-Renaissance**: Coppo di Marcovaldo → Cimabue → Giotto di Bondone
 - **Pisan Tradition**: Berlinghiero Berlinghieri → Bonaventura/Marco → Giunta Pisano → Coppo di Marcovaldo
-- **Sienese Dynasty**: Duccio di Buoninsegna → [Simone Martini] (influenced); Memmo di Filippuccio (father) → [Lippo Memmi]* (son)
+- **Sienese Dynasty**: Duccio di Buoninsegna → [Simone Martini](Simone%20Martini.md) (influenced); Memmo di Filippuccio (father) → [Lippo Memmi]* (son)
 
 ### Family Workshops
 - **Berlinghieri Family**: Father Berlinghiero + sons Bonaventura and Marco (Lucca/Pisa)
