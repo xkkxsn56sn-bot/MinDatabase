@@ -1,22 +1,169 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 2.0 | **Last Updated**: 31 January 2026
+**Version**: 3.0 | **Last Updated**: 4 February 2026
 
-## Quick Start for AI Agents
+## What This Project Is
 
-This is a **scholarly knowledge repository**, NOT a software project. No builds, tests, or deployments—only rich historical prose.
+MinDatabase is a **scholarly knowledge repository**, not a software project. It documents medieval Italian artists (13th-14th centuries, Duecento/Trecento periods) through detailed academic essays combining archival evidence, art historical analysis, and family/patronage network documentation. No builds, tests, or deployments—pure historical prose.
 
-**Core Task**: Write detailed (1000-4000+ word) academic essays on medieval Italian artists (13th-14th century) using:
-- Multi-paragraph sections (2-6+ paragraphs each) with archival evidence and art historical analysis
-- Standard structure: Early Life → Patrons → Artistic Style → Influences → Travels → Legacy → Major Works
-- Technical vocabulary: fresco techniques, "Maniera Greca," chiaroscuro, volumetric modeling, patronage networks
-- Cross-reference existing artists to document family workshops, training lineages, and patronage relationships
+## Essential Quick Reference
 
-**Key Files**: `.github/Artists/[Artist Name].md` | `.github/Churches/[Church Name].md` | `.github/Artists/README.md` (master index)
+| Aspect | Details |
+|--------|---------|
+| **Core Task** | Write 1000-4000+ word academic essays on medieval artists (focus: Siena, Florence, Pisa, Assisi) |
+| **Content Model** | Flowing multi-paragraph prose (3-8 sentences/paragraph), NOT bullet points or outlines |
+| **Key Files** | `.github/Artists/[Name].md` (individual essays) \| `.github/Artists/README.md` (index) \| `.github/Churches/[Church].md` |
+| **Section Pattern** | Early Life → Patrons → Artistic Style → Influences → Travels → Death & Legacy → Major Works |
+| **Minimum Evidence** | 1 surviving work OR 2+ archival mentions OR established scholarship consensus |
+| **Commits** | Incremental per section: `"Add Early Life to [Artist]"` (not batch commits) |
+| **Git Workflow** | Main discipline: frequent small commits with descriptive messages, sync README when adding artists |
 
-**Commit Pattern**: Incremental commits per section: `"Add Early Life section to [Artist Name]"` | Update `.github/Artists/README.md` when adding new artists
+## Critical Conventions (These Differ from Generic Patterns)
 
-**Critical**: Preserve scholarly tone, archival specificity, and narrative flow. This is academic writing, not technical documentation.
+**Scholarly Tone**: This is academic art history, not technical writing. Expect:
+- Complex patronage structures explained across multi-paragraph sections (Memmo example: 7 pages on San Gimignano civic commission)
+- Archival specificity: dates, payment records ("Commune of San Gimignano recorded a payment to 'Memmo pittore e Lippo suo figliuolo' 1317")
+- Technical vocabulary: fresco giornata technique, "Maniera Greca" Byzantine inheritance, chiaroscuro modeling, polychromy, volumetric forms
+- Historiographical transparency: "Vasari famously confused..." when addressing documented scholarly debates
+
+**Content Integration**: Artists exist as network nodes within interconnected systems
+- Family workshops: Memmo→Lippo (son) + Federico (son) → Simone Martini (son-in-law via Giovanna)
+- Patronage hubs: Assisi (Basilica San Francesco), San Gimignano (civic center), Siena, Florence, Pisa
+- Stylistic lineages: Coppo di Marcovaldo → Cimabue → Giotto di Bondone (documented succession)
+- Cross-references expected: "Following Giotto's spatial innovations" not isolated analysis
+
+**Prose Quality Matters**: Each artist essay should read as coherent narrative, not disconnected sections:
+- Paragraph transitions must connect ideas (not just list facts)
+- Evidence integrated into flowing argument (not quoted separately)
+- Varied sentence structure to maintain scholarly rhythm
+
+## Art Historical Specifics (Codebase-Specific Knowledge)
+
+**The "Big Picture" Historical Arc**:
+- Medieval Italian painting transition: Byzantine static iconography (Maniera Greca) → Proto-Renaissance volumetric realism (Giotto) → Gothic refinement (Simone Martini) → International Gothic
+- Geographic centers: Pisan school (Berlinghiero family, Giunta Pisano) → Florence innovation (Cimabue, Giotto) → Sienese tradition (Duccio, Memmo, Simone)
+- Critical moment: Assisi (Basilica San Francesco) as "school of the world" where Byzantine, Roman, Florentine, Umbrian styles collided
+
+**Existing Artist Network** (Know these interconnections):
+- **Master-pupil**: Coppo → Cimabue → Giotto (documented succession across 3 generations)
+- **Memmo cluster**: Memmo (patriarch) + sons Lippo & Federico + daughter Giovanna (married Simone Martini) = interconnected Sienese/San Gimignano workshop
+- **Pisan foundation**: Berlinghieri family established crucifix tradition → Giunta Pisano refined Christus patiens iconography → influenced Coppo di Marcovaldo
+- **Cross-regional**: Memmo trained at Assisi (exposure to Giotto) → exported spatial realism back to San Gimignano fresco cycles
+
+**Currently Complete Artists** (22 entries): Memmo di Filippuccio, Lippo Memmi, Giotto di Bondone, Cimabue, Simone Martini, Duccio di Buoninsegna, Coppo di Marcovaldo, Giunta Pisano, Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Marco Berlinghieri, and others documented in `.github/Artists/README.md`
+
+**Priority Gaps** (Cross-referenced in 3+ files, still need entries):
+- Pietro Cavallini (Roman master, spatial influence) — mentioned in Giotto/Cimabue contexts
+- Salerno di Coppo (Coppo's son, documented 1274 crucifix)
+- Corso di Buono (mid-13th Florentine master)
+- Ambrogio & Pietro Lorenzetti (Sienese brothers, Palazzo Pubblico commissions)
+
+## File Organization & Naming Conventions
+
+```
+.github/
+├── Artists/
+│   ├── add_sections.py          # Python utility for inserting ## headings (described below)
+│   ├── README.md                # Master index (Period/Region → Medium → Patronage Network sections)
+│   └── [Artist Name].md         # Individual essays (Italian naming: "Giotto di Bondone.md")
+├── Churches/
+│   └── [Church Name].md         # Institutional essays (architecture, decoration, anonymous masters)
+└── Codex/
+    └── [Document Name].md       # Historical documents
+```
+
+**File Naming Rules**:
+- Use Italian name order with patronymics: `Memmo di Filippuccio.md`, `Simone Martini.md` (not "Filipuccio, Memmo")
+- Anonymous masters: Full scholarly designation: `Maestro di Sant'Alò.md`, `Maestro delle Storie di Isacco.md`
+- Capitalize properly: `Giovanni d'Apparecchiato.md` (lowercase d' acceptable for prepositions)
+- No numerical prefixes or date sorting (defeats scholarly findability)
+
+## Content Structure for New Artists
+
+**Section Framework** (adapt titles for sculptors/architects—use "Sculptural Style" instead of "Painting Style"):
+1. **Early Life and Family** (2-3 para) — birth, father's profession, family social standing, apprenticeship context, siblings/dynasty
+2. **Patrons and Commissions** (4-5 para) — major patrons (civic/ecclesiastical/private), specific commissions with dates, payment records, collaboration dynamics
+3. **Artistic Style** OR **Sculptural Style** (3-4 para) — foundational influences (Maniera Greca), technical evolution, specific works as evidence, synthesis of traditions, color/material mastery
+4. **Artistic Influences** (3-4 para) — predecessor artists, stylistic inheritance, what innovations the artist adopted/rejected, comparative analysis ("unlike Wiligelmo's archaic approach...")
+5. **Travels and Career** (2-3 para) — geographic movement as career progression, exposure to different schools, workshop locations, patronage opportunities
+6. **Death and Legacy** (2-3 para) — historical impact, influence on Renaissance artists, family continuity, historiographical debates
+7. **Major Works** (1-2 para, if space) — 2-3 masterpieces with location, date, technical details, iconographic meaning
+
+**Evidence Threshold for New Artists**:
+- Minimum: 1 documented attributed work OR 2+ independent archival mentions OR consistent scholarship consensus
+- Preferred: Combination of attributed works + documentary evidence (contracts, payments) + established literature
+
+## Technical Patterns: Python Utility `add_sections.py`
+
+**Purpose**: Automates insertion of `##` section headings into prose that lacks formal structure.
+
+**Workflow**:
+1. Read target artist file, identify natural section breaks (paragraph transitions)
+2. Edit `REPLACEMENTS` dict in script with exact text matches for that file:
+   ```python
+   REPLACEMENTS = {
+       "Giotto di Bondone.md": [
+           ("early fourteenth-century Italy.\n\nGiotto's reputation drew",
+            "early fourteenth-century Italy.\n\n## Patrons and Commissions\n\nGiotto's reputation drew"),
+       ],
+   }
+   ```
+3. Run from `.github/Artists/` directory:
+   ```bash
+   python3 add_sections.py "Artist Name.md" --dry-run  # Preview only
+   python3 add_sections.py "Artist Name.md"            # Apply changes
+   ```
+4. Review output manually; script finds text matches but doesn't understand semantics
+
+**Critical**: String matching must be exact (whitespace, punctuation, capitalization). Use 3-5 lines of surrounding context to ensure uniqueness.
+
+## Commit Discipline
+
+**Incremental, not batch**:
+- ✅ `"Add Early Life section to Lippo Memmi"` (one section = one commit)
+- ✅ `"Add Patrons and Commissions section to Lippo Memmi"` (next section = next commit)
+- ❌ `"Add Lippo Memmi article (complete)"` (batches are discouraged)
+
+**Cross-file updates**:
+- When adding new artist: `"Add Lippo Memmi with README index entry"`
+- When fixing relationships: `"Update cross-references: Memmo ↔ Lippo Memmi ↔ Simone Martini"`
+- Script changes: Commit separately from content: `"Configure add_sections.py for [Artist Name]"`
+
+**README maintenance**:
+- Update all relevant sections: Period/Region, Medium, Patronage Network, Master-Pupil Lineages, Geographic Hubs
+- Add to "Priority Additions" list when completing a cross-referenced artist
+- Maintain alphabetical order within sections (sort by first name, Italian convention)
+
+## Common Content Patterns (Reference Examples)
+
+**Opening a Family Dynasty Section** (from Memmo di Filippuccio):
+> "Memmo established a dynastic workshop that would become one of the most influential artistic families in the Trecento, primarily through his two sons, Lippo and Federico...The training Memmo provided to his sons was comprehensive, encompassing both the monumental fresco techniques he mastered at Assisi and the delicate miniature work of the Sienese tradition."
+- Establishes prestige → lists family members → explains skill transmission → contextualizes training
+
+**Integrating Archival Evidence** (payment records):
+> "In 1317, the Commune of San Gimignano recorded a payment to 'Memmo pittore e Lippo suo figliuolo' for the painting in the Council Hall, indicating that while Memmo was the legal contractor, Lippo was the primary executant."
+- Cites document explicitly → draws inference about power dynamics → connects to broader patronage narrative
+
+**Handling Historiographical Confusion**:
+> "Early chroniclers like Vasari famously confused the relationships, sometimes conflating Lippo and Memmo or misidentifying their connection to Simone Martini. It has taken modern archival research to disentangle Memmo di Filippuccio's individual contributions from the collective output of his bottega."
+- Acknowledges confusion → explains source of error → documents modern correction
+
+**Stylistic Analysis Connecting Technique to Meaning**:
+> "The modelling of his figures reveals a deep engagement with the problems of chiaroscuro and light, tools he used to generate volume. Memmo moved away from the sharp, linear striations of Byzantine highlighting towards softer, blended transitions of colour that suggest rounded form."
+- Names technical innovation → contrasts with predecessor style → explains expressive impact
+
+## README.md Maintenance Structure
+
+**Primary Organization** (alphabetical within each):
+- Period & Region: Duecento (Pisan/Florentine/Sienese/Umbrian schools) → Trecento (Florentine/Sienese/Venetian + Sculptors)
+- Medium: Panel Painters | Fresco Masters | Sculptors & Stoneworkers | Manuscript Illuminators
+- Patronage Networks: Franciscan Commissions | Dominican Patrons | Civic/Communal | Servite Order
+
+**Network Mapping Sections** (update when adding artists):
+- Master-Pupil Lineages (e.g., "Byzantine → Proto-Renaissance: Coppo → Cimabue → Giotto")
+- Family Workshops (e.g., "Berlinghieri Family: Father + sons"; "Memmo Workshop: patriarch + 2 sons + daughter")
+- Geographic Hubs (Assisi, Pisa, Florence, Siena, San Gimignano—list active artists at each)
+- Stylistic Evolutions (track technical innovations across multiple artists: Crucifixion iconography, spatial representation, Marian imagery)
 
 ---
 
