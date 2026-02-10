@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>plan-minDatabase.prompt | MinDatabase</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,700&family=Space+Grotesk:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #1c1b19;
+        --muted: #4b433b;
+        --paper: #f2eee6;
+        --accent: #2a5c4f;
+        --accent-soft: #cfe0d8;
+        --outline: #d9cdbf;
+      }
+      body {
+        font-family: "Space Grotesk", "Trebuchet MS", sans-serif;
+        margin: 0;
+        line-height: 1.7;
+        color: var(--ink);
+        background: radial-gradient(circle at top left, #f9f4ea, var(--paper));
+      }
+      .page {
+        min-height: 100vh;
+        padding: 2.5rem 1.5rem 4rem;
+      }
+      .panel {
+        max-width: 58rem;
+        margin: 0 auto;
+        background: #fcfaf6;
+        border: 1px solid var(--outline);
+        border-radius: 24px;
+        padding: 2.5rem clamp(1.5rem, 4vw, 3.2rem);
+        box-shadow: 0 20px 60px rgba(31, 24, 16, 0.12);
+      }
+      header {
+        margin-bottom: 2rem;
+      }
+      h1 {
+        font-family: "Fraunces", "Times New Roman", serif;
+        font-size: clamp(2rem, 4vw, 3rem);
+        margin: 0 0 0.5rem;
+        letter-spacing: 0.01em;
+      }
+      .meta {
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+      a {
+        color: var(--accent);
+      }
+      a:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 3px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: var(--accent);
+      }
+      .back::before {
+        content: "\2190";
+      }
+      .content {
+        font-size: 1.05rem;
+      }
+      .content h2 {
+        font-family: "Fraunces", "Times New Roman", serif;
+        margin-top: 2.5rem;
+      }
+      .content p {
+        margin: 0 0 1.5rem;
+      }
+      .content ul,
+      .content ol {
+        padding-left: 1.4rem;
+      }
+      .content blockquote {
+        border-left: 4px solid var(--accent-soft);
+        margin: 1.5rem 0;
+        padding: 0.5rem 1rem;
+        color: var(--muted);
+        background: #f7f2e9;
+      }
+      @media (max-width: 600px) {
+        .panel {
+          border-radius: 18px;
+          padding: 2rem 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <article class="panel">
+        <header>
+          <a class="back" href="/">Back to index</a>
+          <h1>plan-minDatabase.prompt</h1>
+          
+          <div class="meta">prompts/plan-minDatabase.prompt.md</div>
+          
+        </header>
+        <section class="content"><h2 id="plan-add-repo-level-copilot-instructions">Plan: Add Repo-Level Copilot Instructions</h2>
+
+<p>This repo is a content-only Markdown knowledge base with long-form academic essays under docs/Artists (century subfolders), docs/Churches, docs/Codex, and docs/Papers. You want a new root instructions file at .github/copilot-instructions.md covering the entire repo, while leaving the existing Papers instructions in place. The plan is to draft a concise, repo-wide instruction set that reflects the observed structure, writing conventions, and citation patterns, and to reference the Papers-specific instructions for that subarea.</p>
+
+<p><strong>Steps</strong></p>
+<ol>
+  <li>Review the current content patterns and structure in the main content folders to codify repo-wide norms, and note the existing Papers instructions for reuse or pointers: docs/Artists/, docs/Churches/, docs/Codex/, and docs/Papers/, and docs/Papers/.github/copilot-instructions.md.</li>
+  <li>Draft a new root instruction file that captures: content-only scope, folder conventions, filename patterns, section/heading variance, citation/footnote preservation, image handling preferences, and “do not normalize or restructure” guidance, with a brief note to consult Papers-specific instructions when editing that subtree: .github/copilot-instructions.md.</li>
+  <li>Sanity-check the new instructions for clarity, brevity, and alignment with the existing content style and Markdown validation settings (no tests/builds).</li>
+</ol>
+
+<p><strong>Verification</strong>
+Open the new instructions file to confirm it reads cleanly and matches the repo’s observed conventions: .github/copilot-instructions.md.</p>
+
+<p><strong>Decisions</strong></p>
+<ul>
+  <li>Scope: entire repo.</li>
+  <li>Location: add a new root-level .github/copilot-instructions.md.</li>
+</ul>
+</section>
+      </article>
+    </main>
+  </body>
+</html>
