@@ -1,4 +1,4 @@
-## The Lorsch Gospels: A Masterpiece of Carolingian Illumination
+## A Masterpiece of Carolingian Illumination
 
 ### Historical Context
 
