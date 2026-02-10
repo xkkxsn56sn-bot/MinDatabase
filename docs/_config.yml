@@ -1,5 +1,6 @@
 title: MinDatabase
 markdown: kramdown
+baseurl: "/MinDatabase"
 permalink: /:path/:basename.html
 defaults:
   - scope:
