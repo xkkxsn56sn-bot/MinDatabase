@@ -2,6 +2,8 @@ title: MinDatabase
 markdown: kramdown
 baseurl: "/MinDatabase"
 permalink: /:path/:basename.html
+exclude:
+  - "prompts"
 defaults:
   - scope:
       path: ""
