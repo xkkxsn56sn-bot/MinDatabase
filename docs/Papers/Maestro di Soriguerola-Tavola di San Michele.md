@@ -1,3 +1,7 @@
+---
+title: "Maestro di Soriguerola-Tavola di San Michele"
+---
+
 ## The Master of Soriguerola and the Tavola di San Michele: A Comprehensive Academic Analysis
 
 ### THE ARTIST: IDENTIFYING AN ANONYMOUS GENIUS

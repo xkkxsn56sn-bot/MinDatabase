@@ -1,3 +1,7 @@
+---
+title: "Godescalc"
+---
+
 # Godescalc: Carolingian Scribe and Illuminator
 
 ## Identity and Historical Context

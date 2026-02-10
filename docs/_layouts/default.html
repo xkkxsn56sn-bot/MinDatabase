@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>MinDatabase | Prompts</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}MinDatabase</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -23,78 +23,74 @@
       body {
         font-family: "Space Grotesk", "Trebuchet MS", sans-serif;
         margin: 0;
-        line-height: 1.6;
+        line-height: 1.7;
         color: var(--ink);
         background: radial-gradient(circle at top left, #f9f4ea, var(--paper));
       }
       .page {
         min-height: 100vh;
-        display: grid;
-        grid-template-columns: minmax(0, 1fr);
-        align-items: center;
-        padding: 3.5rem 1.5rem 4rem;
+        padding: 2.5rem 1.5rem 4rem;
       }
       .panel {
-        max-width: 56rem;
+        max-width: 58rem;
         margin: 0 auto;
         background: #fcfaf6;
         border: 1px solid var(--outline);
         border-radius: 24px;
-        padding: 2.5rem clamp(1.5rem, 4vw, 3rem);
+        padding: 2.5rem clamp(1.5rem, 4vw, 3.2rem);
         box-shadow: 0 20px 60px rgba(31, 24, 16, 0.12);
+      }
+      header {
+        margin-bottom: 2rem;
       }
       h1 {
         font-family: "Fraunces", "Times New Roman", serif;
         font-size: clamp(2rem, 4vw, 3rem);
-        margin: 0 0 0.75rem;
+        margin: 0 0 0.5rem;
         letter-spacing: 0.01em;
       }
-      p {
-        max-width: 44rem;
-        margin: 0 0 2rem;
+      .meta {
         color: var(--muted);
-        font-size: 1.05rem;
+        font-size: 0.95rem;
       }
-      .links {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-        gap: 1rem;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-      }
-      .links a {
-        display: block;
-        padding: 1rem 1.2rem;
-        border-radius: 14px;
-        border: 1px solid var(--outline);
-        background: linear-gradient(135deg, #ffffff, var(--accent-soft));
+      a {
         color: var(--accent);
-        font-weight: 600;
-        text-decoration: none;
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
       }
-      .links a:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 12px 24px rgba(42, 92, 79, 0.2);
-      }
-      .links a:focus-visible {
+      a:focus-visible {
         outline: 2px solid var(--accent);
         outline-offset: 3px;
       }
-      .nav {
+      .back {
         display: inline-flex;
         align-items: center;
-        gap: 0.4rem;
-        margin-bottom: 1.5rem;
-        color: var(--accent);
-        text-decoration: none;
+        gap: 0.5rem;
         font-weight: 600;
+        text-decoration: none;
+        color: var(--accent);
       }
-      .note {
+      .back::before {
+        content: "\2190";
+      }
+      .content {
+        font-size: 1.05rem;
+      }
+      .content h2 {
+        font-family: "Fraunces", "Times New Roman", serif;
         margin-top: 2.5rem;
-        font-size: 0.95rem;
+      }
+      .content p {
+        margin: 0 0 1.5rem;
+      }
+      .content ul,
+      .content ol {
+        padding-left: 1.4rem;
+      }
+      .content blockquote {
+        border-left: 4px solid var(--accent-soft);
+        margin: 1.5rem 0;
+        padding: 0.5rem 1rem;
         color: var(--muted);
+        background: #f7f2e9;
       }
       @media (max-width: 600px) {
         .panel {
@@ -106,17 +102,16 @@
   </head>
   <body>
     <main class="page">
-      <section class="panel">
-        <a class="nav" href="../index.html">Back to MinDatabase</a>
-        <h1>Prompts</h1>
-        <p>Planning prompts and internal workflow notes.</p>
-        <ul class="links">
-          <li>
-            <a href="plan-minDatabase.prompt.html">plan-minDatabase.prompt.md</a>
-          </li>
-        </ul>
-        <p class="note">Markdown files are rendered to HTML by GitHub Pages.</p>
-      </section>
+      <article class="panel">
+        <header>
+          <a class="back" href="{{ "/" | relative_url }}">Back to index</a>
+          <h1>{{ page.title | default: page.name | replace: ".md", "" }}</h1>
+          {% if page.path %}
+          <div class="meta">{{ page.path }}</div>
+          {% endif %}
+        </header>
+        <section class="content">{{ content }}</section>
+      </article>
     </main>
   </body>
 </html>

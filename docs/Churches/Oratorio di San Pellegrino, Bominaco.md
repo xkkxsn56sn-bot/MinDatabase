@@ -1,3 +1,7 @@
+---
+title: "Oratorio di San Pellegrino, Bominaco"
+---
+
 # CAPPELLA SISTINA D'ABRUZZO: ORATORIO DI SAN PELLEGRINO A BOMINACO
 
 ## HISTORY

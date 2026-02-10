@@ -1,3 +1,7 @@
+---
+title: "Francesco Traini"
+---
+
 # Francesco Traini. Write a detailed biography of this artist in English;
 
 Search languages: English, Italian

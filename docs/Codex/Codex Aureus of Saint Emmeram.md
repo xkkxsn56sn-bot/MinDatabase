@@ -1,3 +1,7 @@
+---
+title: "Codex Aureus of Saint Emmeram"
+---
+
 # Codex Aureus of Saint Emmeram
 
 ## Historical Context and Carolingian Significance

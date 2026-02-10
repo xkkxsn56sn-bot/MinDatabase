@@ -1,3 +1,7 @@
+---
+title: "Maestro di Soriguerola-Saint Christopher Altarpiece"
+---
+
 ## Master of Soriguerola and the Saint Christopher altarpiece: A COMPREHENSIVE SCHOLARLY ANALYSIS
 
 ### PART I: THE PAINTER AND HIS ARTISTIC CONTEXT

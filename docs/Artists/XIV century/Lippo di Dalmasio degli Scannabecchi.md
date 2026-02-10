@@ -1,3 +1,7 @@
+---
+title: "Lippo di Dalmasio degli Scannabecchi"
+---
+
 ## Lippo di Dalmasio degli Scannabecchi: A Comprehensive Biography
 
 **Family Origins and Early Life**

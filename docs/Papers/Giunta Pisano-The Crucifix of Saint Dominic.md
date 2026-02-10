@@ -1,3 +1,7 @@
+---
+title: "Giunta Pisano-The Crucifix of Saint Dominic"
+---
+
 # Giunta Pisano's San Domenico Crucifix: The Christus Patiens Revolution and the Transformation of Medieval Visual Theology
 
 ## The Crucifix of Saint Dominic: A Monumental Achievement

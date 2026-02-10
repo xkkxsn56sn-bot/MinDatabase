@@ -1,3 +1,7 @@
+---
+title: "Giunta Pisano-Crucifix of Saint Dominic"
+---
+
 # Giunta Pisano, Crucifix of Saint Dominic: A Comprehensive Study
 
 ## History of the Crucifix 

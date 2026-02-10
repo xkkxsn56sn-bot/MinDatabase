@@ -1,3 +1,7 @@
+---
+title: "Codex Aureus of Echternach"
+---
+
 # Codex Aureus of Echternach
 
 ## Historical Context

@@ -1,3 +1,7 @@
+---
+title: "Giovanni d'Apparecchiato"
+---
+
 # Giovanni d'Apparecchiato: A Detailed Academic Biography
 
 ## Family Origins and Ancestry

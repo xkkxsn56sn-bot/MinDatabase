@@ -1,3 +1,7 @@
+---
+title: "Anselmo da Campione"
+---
+
 # Anselmo da Campione
 
 ## Biographical Overview

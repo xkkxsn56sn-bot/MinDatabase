@@ -1,3 +1,7 @@
+---
+title: "Maestro della Croce 434"
+---
+
 ## Maestro della Croce 434
 
 ### Family and social background

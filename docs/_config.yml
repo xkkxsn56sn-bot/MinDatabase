@@ -1,0 +1,8 @@
+title: MinDatabase
+markdown: kramdown
+permalink: /:path/:basename.html
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

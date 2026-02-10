@@ -1,3 +1,7 @@
+---
+title: "plan-minDatabase.prompt"
+---
+
 ## Plan: Add Repo-Level Copilot Instructions
 
 This repo is a content-only Markdown knowledge base with long-form academic essays under docs/Artists (century subfolders), docs/Churches, docs/Codex, and docs/Papers. You want a new root instructions file at .github/copilot-instructions.md covering the entire repo, while leaving the existing Papers instructions in place. The plan is to draft a concise, repo-wide instruction set that reflects the observed structure, writing conventions, and citation patterns, and to reference the Papers-specific instructions for that subarea.

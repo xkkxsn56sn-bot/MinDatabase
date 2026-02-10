@@ -1,3 +1,7 @@
+---
+title: "Berlinghiero Berlinghieri"
+---
+
 ## Berlinghiero Berlinghieri: An Art Historical Analysis
 
 ### Historical Context and Biographical Framework

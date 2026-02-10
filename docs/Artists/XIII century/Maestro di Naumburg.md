@@ -1,3 +1,7 @@
+---
+title: "Maestro di Naumburg"
+---
+
 ## Master of Naumburg: A Comprehensive Biographical Study
 
 ### Family Background

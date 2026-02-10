@@ -1,3 +1,7 @@
+---
+title: "Cimabue"
+---
+
 # Cimabue
 
 ## Early Life and Family
