@@ -1,3 +1,7 @@
+---
+title: "Simone Martini"
+---
+
 # Simone Martini
 
 ## Early Life and Family

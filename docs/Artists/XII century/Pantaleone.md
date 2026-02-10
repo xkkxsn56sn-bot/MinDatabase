@@ -1,3 +1,7 @@
+---
+title: "Pantaleone"
+---
+
 # Pantaleone
 
 ## Historical Context and Identity

@@ -1,3 +1,7 @@
+---
+title: "Maestro bizantino del Crocifisso di Pisa"
+---
+
 # The Byzantine Master of the Crucifix of Pisa: Anonymity, Iconography, and the Transmission of Eastern Artistic Traditions to Thirteenth-Century Italy
 
 ## Family and Social Context: The Anonymous Artisan in Early Medieval Pisa

@@ -1,3 +1,7 @@
+---
+title: "Benedetto Antelami"
+---
+
 # Benedetto Antelami: a biographical overview
 
 ## Birth and Origins

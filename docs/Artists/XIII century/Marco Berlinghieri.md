@@ -1,3 +1,7 @@
+---
+title: "Marco Berlinghieri"
+---
+
 ## Marco Berlinghieri: A Biographical Study
 
 ### Family Background and Origins

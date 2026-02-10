@@ -1,3 +1,7 @@
+---
+title: "Ugolino di Nerio"
+---
+
 ## Ugolino di Nerio: A Comprehensive Biography
 
 ### Family Background and Artistic Lineage

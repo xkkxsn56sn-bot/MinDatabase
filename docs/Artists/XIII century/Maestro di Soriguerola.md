@@ -1,3 +1,7 @@
+---
+title: "Maestro di Soriguerola"
+---
+
 ## Master of Soriguerola: A Detailed Biography
 
 ### Family and Early Life

@@ -1,3 +1,7 @@
+---
+title: "Arnolfo di Cambio"
+---
+
 ## Arnolfo di Cambio
 
 ### Family background

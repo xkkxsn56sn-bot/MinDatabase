@@ -1,3 +1,7 @@
+---
+title: "Corso di Buono"
+---
+
 
 # Corso di Buono
 

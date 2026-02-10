@@ -1,3 +1,7 @@
+---
+title: "Maestro di Montmorillon"
+---
+
 # Maestro di Montmorillon
 
 The anonymous artists responsible for these works were part of the broader Romanesque artistic movement that flourished in western France during the 12th century, particularly in the Loire Valley region and along the pilgrimage routes to Santiago de Compostela. These painters worked within the established monastic and ecclesiastical patronage system of their time, creating religious narratives that served both devotional and didactic purposes for medieval Christian communities. Their work represents a significant contribution to the "Valley of Frescoes" along the Gartempe River, which includes over twenty religious and civil buildings decorated with medieval paintings.

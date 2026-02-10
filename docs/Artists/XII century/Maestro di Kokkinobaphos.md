@@ -1,3 +1,7 @@
+---
+title: "Maestro di Kokkinobaphos"
+---
+
 ### English
 
 The Master of Kokkinobaphos is considered one of the most skilled and influential manuscript illuminators of the 12th-century Byzantine Empire, representing the pinnacle of the Comnenian artistic achievements and the last flowering of the creative tradition of Constantinople before the Fourth Crusade of 1204 brought the cultural capital of the empire under Latin control. His conventional name derives from his most famous work, the sumptuous Homilies of James the Monk of Kokkinobaphos, which modern scholars have identified as his masterpiece and which established the nomenclature by which art historians today recognise the prolific output of his workshop. The master's identity remains shrouded in obscurity, as is typical of many Byzantine artists whose fame was based on their technical virtuosity rather than individual celebrity; he remains anonymous to posterity, known only through the distinctive stylistic characteristics that Jeffrey C. Anderson first systematised in his groundbreaking 1982 publication in the Dumbarton Oaks Papers.

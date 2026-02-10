@@ -1,3 +1,7 @@
+---
+title: "Maestro del Bigallo"
+---
+
 ## Maestro del Bigallo
 
 ### Family and social background

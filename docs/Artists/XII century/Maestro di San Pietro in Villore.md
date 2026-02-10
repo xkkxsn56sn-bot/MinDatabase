@@ -1,3 +1,7 @@
+---
+title: "Maestro di San Pietro in Villore"
+---
+
 # Maestro di San Pietro in Villore
 
 The Master of San Pietro in Villore is a fundamental yet enigmatic figure in the history of Italian painting at the end of the 12th century, representing a crucial link between the Umbrian school of Spoleto and the emerging Sienese tradition.

@@ -1,3 +1,7 @@
+---
+title: "Duccio di Buoninsegna"
+---
+
 # Duccio di Buoninsegna
 
 ## Early Life and Family

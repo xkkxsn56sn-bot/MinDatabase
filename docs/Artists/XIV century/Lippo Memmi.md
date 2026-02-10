@@ -1,3 +1,7 @@
+---
+title: "Lippo Memmi"
+---
+
 
 # Lippo Memmi
 

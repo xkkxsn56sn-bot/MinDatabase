@@ -1,3 +1,7 @@
+---
+title: "Giotto di Bondone"
+---
+
 # Giotto di Bondone
 
 ## Early Life and Family

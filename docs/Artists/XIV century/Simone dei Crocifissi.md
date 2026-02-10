@@ -1,3 +1,7 @@
+---
+title: "Simone dei Crocifissi"
+---
+
 # Simone dei Crocifissi: A Comprehensive Academic Biography
 
 ## Family Background
