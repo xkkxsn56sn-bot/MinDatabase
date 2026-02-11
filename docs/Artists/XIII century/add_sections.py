@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Section Heading Insertion Utility for MinDatabase Artist Files
+Section Heading Insertion Utility for Medieval Artists and Papers Artist Files
 
 This script inserts section headings (##) into markdown files by finding exact text matches
 and replacing them with the text plus a heading. It's designed to add structure to flowing
@@ -107,7 +107,7 @@ def add_sections(filepath, replacements, dry_run=False):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Add section headings to MinDatabase artist markdown files",
+        description="Add section headings to Medieval Artists and Papers artist markdown files",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
