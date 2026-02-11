@@ -1,10 +1,6 @@
 ---
-title: "Godescalc"
+title: "Godescalc: Carolingian Scribe and Illuminator"
 ---
-
-# Godescalc: Carolingian Scribe and Illuminator
-
-## Identity and Historical Context
 
 Godescalc was a Frankish scribe and illuminator active at the court of Charlemagne during the late eighth century, specifically between 781 and 783. His name survives through a single major work, the Godescalc Evangelistary, which he signed in a dedication poem at the manuscript's conclusion. In this dedication, Godescalc describes himself as "ultimus famulus" or the humble servant of Charlemagne, indicating his position within the royal household. The exact dates of his birth and death remain unknown, as do the specific locations where he was born or died, reflecting the general absence of biographical documentation for craftsmen of this era. No records survive concerning his family background, parentage, siblings, or descendants, which is characteristic of the documentation practices of the Carolingian period regarding artisans and scribes. The social status implied by his self-description as "famulus" suggests he may have been of modest origins, possibly from the lower nobility or the educated clerical class. His literacy and advanced calligraphic skills indicate he received formal education, most likely in a monastic or cathedral school before entering royal service. The training required to produce such an elaborate manuscript suggests years of apprenticeship in both scribal arts and illumination techniques. His mastery of multiple scripts, including uncial characters and the new Carolingian minuscule, demonstrates sophisticated paleographic knowledge. The lack of any surviving personal correspondence, legal documents, or biographical accounts written by contemporaries means that Godescalc remains a shadowy figure known primarily through his artistic legacy. 
 
