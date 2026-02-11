@@ -2,10 +2,6 @@
 title: "Pantaleone"
 ---
 
-# Pantaleone
-
-## Historical Context and Identity
-
 Pantaleone was a 12th-century presbitero (priest) and mosaicist active in the region of Apulia, specifically in Otranto, during the Norman period of Southern Italy. The only certain biographical information derives from four inscriptions within the mosaic pavement of the Cathedral of Santa Maria Annunziata in Otranto, which identify him as "Pantaleonis presbiteri" and date his work to the period between 1163 and 1165. The name Pantaleone itself suggests Greek or Byzantine origins, a designation common in the cultural melting pot of medieval Apulia where Greek, Latin, Norman, and Byzantine traditions intersected. His designation as "presbyter" in contemporary Latin usage could indicate he was either an ordained priest, a cleric in minor orders, or more likely a learned monk, as scholarly consensus suggests. The terminus ante quem for his artistic production is firmly established at 1165, when the mosaic was completed according to its dedicatory inscription. No records exist documenting his birth, death, or activities before or after this monumental commission. The signature of the artist appears in a remarkable position—at the threshold of the cathedral entrance, outside rather than inside the sacred space, a detail that has generated considerable scholarly speculation about his humility or his liminal status between sacred and secular realms. His mastery of mosaic technique and encyclopedic knowledge evident in the iconographic program suggest he received extensive education and artistic training. The sophistication of his theological and literary references indicates access to substantial library resources, supporting the hypothesis of his monastic formation. During the mid-12th century when Pantaleone was active, Otranto served as a crucial maritime gateway connecting Western Europe with Byzantium and the Eastern Mediterranean.
 
 ## Family Background

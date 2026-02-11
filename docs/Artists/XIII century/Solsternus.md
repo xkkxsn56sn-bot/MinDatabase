@@ -1,8 +1,6 @@
 ---
-title: "Solsternus"
+title: "Solsternus: Mosaic Artist of Spoleto Cathedral"
 ---
-
-## Solsternus: Mosaic Artist of Spoleto Cathedral
 
 Solsternus, also rendered as Solsterno in Italian sources, remains one of the most enigmatic figures in medieval Italian art history, known solely through a single extant work and its accompanying inscription. The artist created the monumental mosaic adorning the façade of Spoleto Cathedral in 1207, signing his work with the bold Latin inscription "Doctor Solsternus, hac summus in arte modernus" (Doctor Solsternus, supremely modern in his art), thereby proclaiming himself an outstanding master of contemporary artistic practice. This self-referential declaration represents a remarkable assertion of individual artistic identity at a time when such personal attribution remained relatively uncommon in medieval ecclesiastical art. The inscription continues to provide the only documentary evidence of Solsternus's existence, offering no clues regarding his origins, training, or subsequent career. The complete inscription, preserved in the lower registers of the mosaic, reads: "Questa è la pittura che, destinata a piacere molto, fece Solsterno, sommo tra i maestri attuali in questa arte, negli anni che trovi aggiungendo ai duecento mille con sette," explicitly dating the work to 1207. The text also identifies three collaborators or assistants who worked alongside the master: Palmerio di Sanso (identified as "Operari"), Transerico di Enrico, and Diotisalvi Pinguirini. Despite this documentation, no biographical information concerning Solsternus's place of birth, familial connections, or circumstances of death has survived in the historical record. Modern scholarship has been unable to identify any other works attributable to this artist, leaving the Spoleto mosaic as his sole surviving legacy.
 
