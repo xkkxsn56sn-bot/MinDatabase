@@ -2,8 +2,6 @@
 title: "Cimabue"
 ---
 
-# Cimabue
-
 ## Early Life and Family
 
 Cimabue, born Cenni di Pepo (or possibly Bencivieni di Pepo) around 1240 in Florence, emerged as the most influential painter of the third quarter of the thirteenth century and the pivotal figure bridging Byzantine tradition and Proto-Renaissance innovation. The precise circumstances of his birth remain obscure, with contemporary documents providing no definitive record of his parentage or exact birthdate, though scholarly consensus places his nativity circa 1240 based on stylistic chronology and the documented trajectory of his career. The name "Cimabue," by which he became universally known, appears to be a nickname rather than a family surname, possibly deriving from the Florentine dialect "cima bue" (ox head) or from a corruption of an earlier patronymic, though its exact etymology remains contested among scholars. His baptismal name, Cenni di Pepo, appears in the earliest documentary references, including a 1272 document from Rome where he is identified as "Cimabove pictor de Florentia," establishing both his professional identity and his Florentine origins. The Pepo family, though not among Florence's great noble houses, appears to have belonged to the artisan or mercantile class that was transforming the social and political landscape of thirteenth-century Florence, providing sufficient economic resources to support artistic apprenticeship and guild membership.
