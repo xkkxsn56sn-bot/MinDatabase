@@ -1,6 +1,6 @@
-title: MinDatabase
+title: Medieval Artists and Papers
 markdown: kramdown
-baseurl: "/MinDatabase"
+baseurl: "/Medieval Artists and Papers"
 permalink: /:path/:basename.html
 exclude:
   - "prompts"
