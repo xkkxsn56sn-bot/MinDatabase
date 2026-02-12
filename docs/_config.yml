@@ -1,6 +1,7 @@
 title: Medieval Artists and Papers
 markdown: kramdown
 baseurl: "/MinDatabase"
+theme: jekyll-theme-cayman
 permalink: /:path/:basename.html
 exclude:
   - "prompts"
