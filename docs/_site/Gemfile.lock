@@ -306,6 +306,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-theme-architect
+  jekyll-theme-cayman
+  jekyll-theme-minimal
+  jekyll-theme-modernist
+  jekyll-theme-slate
   rubyzip (~> 2.3.0)
 
 CHECKSUMS
