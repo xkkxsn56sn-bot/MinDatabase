@@ -12,7 +12,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 |--------|---------|
 | **Core Task** | Write 1000-4000+ word academic essays on medieval artists (focus: Siena, Florence, Pisa, Assisi) |
 | **Content Model** | Flowing multi-paragraph prose (3-8 sentences/paragraph), NOT bullet points or outlines |
-| **Key Files** | `.github/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `.github/Churches/[Church].md` \| `Content/Codex/[Document].md` \| `.github/Papirer/[Work].md` \| `.github/prompts/plan-minDatabase.prompt.md` \| `.github/Artists/XIII century/add_sections.py` |
+| **Key Files** | `Content/.github/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `Content/.github/Churches/[Church].md` \| `Content/.github/Codex/[Document].md` \| `Content/.github/Papirer/[Work].md` \| `Content/.github/prompts/plan-minDatabase.prompt.md` \| `Content/.github/Artists/XIII century/add_sections.py` |
 | **Section Pattern** | Early Life → Patrons → Artistic Style → Influences → Travels → Death & Legacy → Major Works |
 | **Minimum Evidence** | 1 surviving work OR 2+ archival mentions OR established scholarship consensus |
 | **Commits** | Incremental per section: `"Add Early Life to [Artist]"` (not batch commits) |
@@ -50,7 +50,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 - **Pisan foundation**: Berlinghieri family established crucifix tradition → Giunta Pisano refined Christus patiens iconography → influenced Coppo di Marcovaldo
 - **Cross-regional**: Memmo trained at Assisi (exposure to Giotto) → exported spatial realism back to San Gimignano fresco cycles
 
-**Currently Complete Artists** (22 entries): Memmo di Filippuccio, Lippo Memmi, Giotto di Bondone, Cimabue, Simone Martini, Duccio di Buoninsegna, Coppo di Marcovaldo, Giunta Pisano, Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Marco Berlinghieri, and others documented across the century folders under `.github/Artists/`
+**Currently Complete Artists** (22 entries): Memmo di Filippuccio, Lippo Memmi, Giotto di Bondone, Cimabue, Simone Martini, Duccio di Buoninsegna, Coppo di Marcovaldo, Giunta Pisano, Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Marco Berlinghieri, and others documented across the century folders under `Content/.github/Artists/`
 
 **Priority Gaps** (Cross-referenced in 3+ files, still need entries):
 - Pietro Cavallini (Roman master, spatial influence) — mentioned in Giotto/Cimabue contexts
@@ -61,7 +61,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 ## File Organization & Naming Conventions
 
 ```
-.github/
+Content/.github/
 ├── Artists/
 │   ├── VII century/
 │   │   └── [Artist Name].md
@@ -107,7 +107,7 @@ If an artist's only secure date is a single commission, file by that commission'
 
 **File Naming Rules**:
 - Use Italian name order with patronymics: `Memmo di Filippuccio.md`, `Simone Martini.md` (not "Filipuccio, Memmo")
-- Anonymous masters: Full scholarly designation: `Maestro di Sant'Alò.md`, `Maestro delle Storie di Isacco.md`
+- Anonymous masters: Full scholarly designation: `Maestro di Sant'Alò.md`, `Master of the Isaac Stories.md`
 - Capitalize properly: `Giovanni d'Apparecchiato.md` (lowercase d' acceptable for prepositions)
 - No numerical prefixes or date sorting (defeats scholarly findability)
 
@@ -141,7 +141,7 @@ If an artist's only secure date is a single commission, file by that commission'
        ],
    }
    ```
-3. Run from `.github/Artists/XIII century/` directory:
+3. Run from `Content/.github/Artists/XIII century/` directory:
    ```bash
    python3 add_sections.py "Artist Name.md" --dry-run  # Preview only
    python3 add_sections.py "Artist Name.md"            # Apply changes
@@ -190,12 +190,12 @@ MinDatabase is a scholarly database of detailed historical essays on medieval It
 ## Core Architecture & Content Patterns
 
 ### File Structure
-- Individual artist profile files: `[Artist Name].md` (in .github/Artists/[Century]/ directory)
-- Church/institutional essays: `[Church Name].md` (in .github/Churches/ directory - architectural and art historical analysis)
-- Codex documentation: Historical documents (in Content/Codex/ directory)
-- Papirer studies: Artwork or paper-specific notes (in .github/Papirer/ directory)
-- Prompt templates: Plan files (in .github/prompts/ directory)
-- Utility script: `add_sections.py` - automates section heading insertion into markdown files (located in .github/Artists/XIII century/)
+- Individual artist profile files: `[Artist Name].md` (in Content/.github/Artists/[Century]/ directory)
+- Church/institutional essays: `[Church Name].md` (in Content/.github/Churches/ directory - architectural and art historical analysis)
+- Codex documentation: Historical documents (in Content/.github/Codex/ directory)
+- Papirer studies: Artwork or paper-specific notes (in Content/.github/Papirer/ directory)
+- Prompt templates: Plan files (in Content/.github/prompts/ directory)
+- Utility script: `add_sections.py` - automates section heading insertion into markdown files (located in Content/.github/Artists/XIII century/)
 
 ### Standard Artist Article Structure
 Each artist essay follows a consistent section format:
@@ -389,27 +389,27 @@ Church essays and artist essays interlink through shared geographic/temporal con
 - **Family workshop attributions**: For collective works, file under most prominent family member with notation in content
 
 ### Non-Artist Files
-- **Church/institutional essays**: Use full formal title: `The Abbey Church of Saint-Savin-sur-Gartempe.md` (stored in .github/Churches/ directory)
-- **Historical documents**: Use full formal title if needed: `Codex Aureus of Saint Emmeram.md` (stored in Content/Codex/ directory)
-- **Papirer studies**: Use work-title format: `Giunta Pisano-The Crucifix of Saint Dominic.md` (stored in .github/Papirer/ directory)
-- **Prompt templates**: Keep lowercase with hyphens: `plan-minDatabase.prompt.md` (stored in .github/prompts/ directory)
+- **Church/institutional essays**: Use full formal title: `The Abbey Church of Saint-Savin-sur-Gartempe: A Comprehensive Art Historical Analysis.md` (stored in Content/.github/Churches/ directory)
+- **Historical documents**: Use full formal title if needed: `Codex Aureus of Saint Emmeram.md` (stored in Content/.github/Codex/ directory)
+- **Papirer studies**: Use work-title format: `Giunta Pisano, Crucifix of Saint Dominic: A Comprehensive Study.md` (stored in Content/.github/Papirer/ directory)
+- **Prompt templates**: Keep lowercase with hyphens: `plan-minDatabase.prompt.md` (stored in Content/.github/prompts/ directory)
 - **Supporting documentation**: Lowercase with hyphens for technical files: `add_sections.py`, `plan-minDatabase.prompt.md`
 - **Geographic/institutional surveys**: Format as `[Institution/Location] - [Topic].md` or `The [Full Name].md`
 
 ### Organization Principles
-- All artist files reside in century subfolders under `.github/Artists/` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
-- Church/institutional essays reside in `.github/Churches/` directory
-- Codex documentation resides in `Content/Codex/` directory
+- All artist files reside in century subfolders under `Content/.github/Artists/` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
+- Church/institutional essays reside in `Content/.github/Churches/` directory
+- Codex documentation resides in `Content/.github/Codex/` directory
 - Alphabetical sorting by first name (medieval convention; "Giotto" not "Bondone")
-- Utility script remains in `.github/Artists/XIII century/`
+- Utility script remains in `Content/.github/Artists/XIII century/`
 - No numerical prefixes or date-based sorting (defeats scholarly findability)
 
 ## File Format Notes
 - All markdown files use UTF-8 encoding with multiline prose paragraphs (typically 3-8 sentences per paragraph)
-- No YAML front matter or structured metadata layers
+- YAML front matter only where already present (Codex files); do not add elsewhere
 - Section headings marked with `##` (markdown level 2 only; no level-1 or level-3+ headings within article body)
 - Emphasis via italics (*text*) for key concepts (e.g., *pontile*, *Massaro*, *giornata*), bold for titles/proper names requiring emphasis
-- Internal cross-references via artist names (not markdown links); e.g., "Following the style of Giotto di Bondone" rather than "[Giotto](./Giotto%20di%20Bondone.md)"
+- Internal cross-references via artist names (not markdown links); e.g., "Following the style of Giotto di Bondone" rather than `[Giotto](./Giotto di Bondone.md)`
 - Paragraph breaks: Double newlines between paragraphs; single newlines within continuous prose
 - Long quotations from archival sources embedded inline with context; no separate blockquote formatting
 
@@ -472,7 +472,7 @@ Given the current text-only approach, compensate through:
 - Metadata: Embed EXIF copyright and creator information
 
 **When Adding Images, Update:**
-- Project documentation (copilot-instructions.md) noting transition from text-only to illustrated
+- Project documentation (MinDatabase - AI Agent Instructions.md) noting transition from text-only to illustrated
 - `.gitattributes` to handle binary files appropriately
 - `images/.gitignore` if excluding high-resolution originals
 - Citation style guide to include figure reference conventions
@@ -485,7 +485,7 @@ Given the current text-only approach, compensate through:
 
 ## Technical Tools
 - **add_sections.py**: Python utility script for inserting section headings into markdown files
-  - Located in: `.github/Artists/XIII century/add_sections.py`
+  - Located in: `Content/.github/Artists/XIII century/add_sections.py`
   - Usage: `python3 add_sections.py "Artist Name.md" [--dry-run]`
   - Configuration: Edit REPLACEMENTS dictionary in script to define exact text patterns for each file
   - Pattern: Uses exact string matching to find paragraph boundaries and insert `## Section Title` markers
@@ -496,12 +496,12 @@ Given the current text-only approach, compensate through:
 ### add_sections.py - Section Heading Insertion Utility
 **Purpose**: Automates insertion of `## Section Title` headings into flowing prose that lacks formal structure.
 
-**Location**: `.github/Artists/XIII century/add_sections.py`
+**Location**: `Content/.github/Artists/XIII century/add_sections.py`
 
 **Command-Line Usage**:
 ```bash
 # Navigate to the script directory first
-cd .github/Artists/XIII\ century/
+cd Content/.github/Artists/XIII\ century/
 
 # Preview changes without modifying file (recommended first step)
 python3 add_sections.py "../XIII-XIV century/Giotto di Bondone.md" --dry-run
@@ -510,7 +510,7 @@ python3 add_sections.py "../XIII-XIV century/Giotto di Bondone.md" --dry-run
 python3 add_sections.py "Coppo di Marcovaldo.md"
 
 # Process file with absolute path
-python3 add_sections.py "/Users/.../MinDatabase/.github/Artists/XIII-XIV century/Simone Martini.md"
+python3 add_sections.py "/Users/.../MinDatabase/Content/.github/Artists/XIII-XIV century/Simone Martini.md"
 ```
 
 **Configuration**: Edit the `REPLACEMENTS` dictionary within the script before running:
@@ -587,8 +587,8 @@ Example opening: "Maestro di Sant'Alò remains among the most elusive masters of
 **Task**: Create entry for "Lippo Memmi" (son of Memmo di Filippuccio, mentioned in 3+ existing articles)
 
 **Workflow**:
-1. Create `.github/Artists/XIV century/Lippo Memmi.md`
-2. Research cross-references: Read [Memmo di Filippuccio.md](.github/Artists/XIII-XIV%20century/Memmo%20di%20Filippuccio.md), [Simone Martini.md](.github/Artists/XIII-XIV%20century/Simone%20Martini.md) for documented relationships
+1. Create `Content/.github/Artists/XIV century/Lippo Memmi.md`
+2. Research cross-references: Read [Memmo di Filippuccio.md](Content/.github/Artists/XIII-XIV%20century/Memmo%20di%20Filippuccio.md), [Simone Martini.md](Content/.github/Artists/XIII-XIV%20century/Simone%20Martini.md) for documented relationships
 3. Write sections in order: Early Life ("son of Memmo, trained under father's supervision") → Patrons (San Gimignano commissions) → Artistic Style (Gothic sophistication, collaboration with Simone Martini) → etc.
 4. Commit incrementally: `"Add Early Life section to Lippo Memmi"` → `"Add Patrons section to Lippo Memmi"` → etc.
 5. Update cross-references: Add mentions in Memmo and Simone Martini files: `"His son Lippo Memmi later collaborated with Simone Martini..."`
@@ -618,7 +618,7 @@ was the primary executant.
 **Workflow**:
 1. Read file to identify natural section breaks:
    - "Born in Siena..." (Early Life paragraph) → "The Commune of San Gimignano commissioned..." (Patrons paragraph)
-2. Edit `.github/Artists/XIII century/add_sections.py` REPLACEMENTS dictionary:
+2. Edit `Content/.github/Artists/XIII century/add_sections.py` REPLACEMENTS dictionary:
 ```python
 REPLACEMENTS = {
     "New Artist.md": [
@@ -629,7 +629,7 @@ REPLACEMENTS = {
 ```
 3. Run script:
 ```bash
-cd .github/Artists/XIII\ century/
+cd Content/.github/Artists/XIII\ century/
 python3 add_sections.py "New Artist.md" --dry-run  # Preview
 python3 add_sections.py "New Artist.md"            # Apply
 ```
@@ -641,7 +641,7 @@ If the target file is outside the XIII century folder, pass a relative path (e.g
 
 **Task**: Document Giotto's work at Assisi in both his artist file and a church essay
 
-**In [Giotto di Bondone.md](.github/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md)** (Travels section):
+**In [Giotto di Bondone.md](Content/.github/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md)** (Travels section):
 ```markdown
 A critical chapter in his itinerary was the sojourn to Assisi, the epicentre of modern 
 Italian painting at the turn of the century. Travelling to Umbria to work at the Basilica 
@@ -651,7 +651,7 @@ fresco cycles (c. 1290-1295) that demonstrated his mastery of spatial naturalism
 narrative clarity.
 ```
 
-**In a church essay file** (e.g., `.github/Churches/[Church Name].md`) **(Artists section)**:
+**In a church essay file** (e.g., `Content/.github/Churches/[Church Name].md`) **(Artists section)**:
 ```markdown
 Giotto di Bondone executed the Upper Church frescoes circa 1290-1295, though attribution 
 remains debated between Giotto and the anonymous Maestro delle Storie di Isacco. Payment 
@@ -688,15 +688,15 @@ intellectual control over the conception.
 ---
 
 ## When in Doubt
-- Consult the structural patterns in existing files (especially [Memmo di Filippuccio.md](.github/Artists/XIII-XIV%20century/Memmo%20di%20Filippuccio.md) and [Giotto di Bondone.md](.github/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md))
+- Consult the structural patterns in existing files (especially [Memmo di Filippuccio.md](Content/.github/Artists/XIII-XIV%20century/Memmo%20di%20Filippuccio.md) and [Giotto di Bondone.md](Content/.github/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md))
 - Prioritize historical accuracy and nuance over editing brevity
 - Ask: "Does this change serve the reader's understanding of medieval Italian art history?"
 
 ## Repository Structure
 ```
 MinDatabase/
-├── .github/
-│   ├── copilot-instructions.md    # This file - AI agent guidance
+├── MinDatabase - AI Agent Instructions.md  # This file - AI agent guidance
+├── Content/.github/
 │   ├── Artists/
 │   │   ├── VII century/
 │   │   ├── VIII century/
