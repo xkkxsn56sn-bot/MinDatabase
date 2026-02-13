@@ -1,3 +1,7 @@
+---
+title: "Codex Aureus of Lorsch"
+---
+
 ## A Masterpiece of Carolingian Illumination
 
 ### Historical Context

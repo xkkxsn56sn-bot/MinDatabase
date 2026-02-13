@@ -1,3 +1,7 @@
+---
+title: "Codex Vergilius Romanus"
+---
+
 ## Context and Importance
 
 The Codex Vergilius Romanus, preserved in the Vatican Apostolic Library under the call number Vat. lat. 3867, is one of the oldest and most significant manuscripts of classical literature, dating back to the second half of the 5th century AD. This illuminated codex is a fundamental bridge between late antiquity and the early Middle Ages, embodying the cultural, artistic, and productive transformations of the book that characterized this period of transition. Its importance transcends the boundaries of mere textual preservation, as it documents the evolution of book production techniques and the adaptation of the classical tradition to the new cultural needs of the post-Roman world. The manuscript bears witness to the continuity of the Virgilian tradition in an era of profound political and social transformation, when the Western Roman Empire was giving way to the Roman-Barbarian kingdoms. Its survival through the centuries represents a miracle of preservation that allows us to understand the dynamics of cultural transmission in the late antique world.
