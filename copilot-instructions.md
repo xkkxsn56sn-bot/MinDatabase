@@ -12,7 +12,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 |--------|---------|
 | **Core Task** | Write 1000-4000+ word academic essays on medieval artists (focus: Siena, Florence, Pisa, Assisi) |
 | **Content Model** | Flowing multi-paragraph prose (3-8 sentences/paragraph), NOT bullet points or outlines |
-| **Key Files** | `.github/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `.github/Churches/[Church].md` \| `.github/Codex/[Document].md` \| `.github/Papirer/[Work].md` \| `.github/prompts/plan-minDatabase.prompt.md` \| `.github/Artists/XIII century/add_sections.py` |
+| **Key Files** | `.github/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `.github/Churches/[Church].md` \| `Content/Codex/[Document].md` \| `.github/Papirer/[Work].md` \| `.github/prompts/plan-minDatabase.prompt.md` \| `.github/Artists/XIII century/add_sections.py` |
 | **Section Pattern** | Early Life → Patrons → Artistic Style → Influences → Travels → Death & Legacy → Major Works |
 | **Minimum Evidence** | 1 surviving work OR 2+ archival mentions OR established scholarship consensus |
 | **Commits** | Incremental per section: `"Add Early Life to [Artist]"` (not batch commits) |
@@ -192,7 +192,7 @@ MinDatabase is a scholarly database of detailed historical essays on medieval It
 ### File Structure
 - Individual artist profile files: `[Artist Name].md` (in .github/Artists/[Century]/ directory)
 - Church/institutional essays: `[Church Name].md` (in .github/Churches/ directory - architectural and art historical analysis)
-- Codex documentation: Historical documents (in .github/Codex/ directory)
+- Codex documentation: Historical documents (in Content/Codex/ directory)
 - Papirer studies: Artwork or paper-specific notes (in .github/Papirer/ directory)
 - Prompt templates: Plan files (in .github/prompts/ directory)
 - Utility script: `add_sections.py` - automates section heading insertion into markdown files (located in .github/Artists/XIII century/)
@@ -390,7 +390,7 @@ Church essays and artist essays interlink through shared geographic/temporal con
 
 ### Non-Artist Files
 - **Church/institutional essays**: Use full formal title: `The Abbey Church of Saint-Savin-sur-Gartempe.md` (stored in .github/Churches/ directory)
-- **Historical documents**: Use full formal title if needed: `Codex Aureus of Saint Emmeram.md` (stored in .github/Codex/ directory)
+- **Historical documents**: Use full formal title if needed: `Codex Aureus of Saint Emmeram.md` (stored in Content/Codex/ directory)
 - **Papirer studies**: Use work-title format: `Giunta Pisano-The Crucifix of Saint Dominic.md` (stored in .github/Papirer/ directory)
 - **Prompt templates**: Keep lowercase with hyphens: `plan-minDatabase.prompt.md` (stored in .github/prompts/ directory)
 - **Supporting documentation**: Lowercase with hyphens for technical files: `add_sections.py`, `plan-minDatabase.prompt.md`
@@ -399,7 +399,7 @@ Church essays and artist essays interlink through shared geographic/temporal con
 ### Organization Principles
 - All artist files reside in century subfolders under `.github/Artists/` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
 - Church/institutional essays reside in `.github/Churches/` directory
-- Codex documentation resides in `.github/Codex/` directory
+- Codex documentation resides in `Content/Codex/` directory
 - Alphabetical sorting by first name (medieval convention; "Giotto" not "Bondone")
 - Utility script remains in `.github/Artists/XIII century/`
 - No numerical prefixes or date-based sorting (defeats scholarly findability)
