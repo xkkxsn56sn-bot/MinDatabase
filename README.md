@@ -8,13 +8,13 @@ MinDatabase is a scholarly knowledge repository documenting medieval Italian art
 
 ### Content Organization
 
-All content is organized under the **`Content/.github/`** directory:
+All content is organized under the **`Content/`** directory:
 
-- **`Content/.github/Artists/`** - Artist biographies organized by century (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
-- **`Content/.github/Churches/`** - Church and institutional essays
-- **`Content/.github/Codex/`** - Historical documents
-- **`Content/.github/Papirer/`** - Artwork or paper studies
-- **`Content/.github/prompts/`** - Planning and prompt templates
+- **`Content/Artists/`** - Artist biographies organized by century (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
+- **`Content/Churches/`** - Church and institutional essays
+- **`Content/Codex/`** - Historical documents
+- **`Content/Papirer/`** - Artwork or paper studies
+- **`Content/prompts/`** - Planning and prompt templates
 
 ### Documentation
 
@@ -28,6 +28,6 @@ The `docs/` folder has been deprecated and should be removed. All content is mai
 
 ```bash
 git rm -r docs/
-git commit -m "Remove deprecated docs/ folder - use Content/.github as single source"
+git commit -m "Remove deprecated docs/ folder - use Content/ as single source"
 git push
 ```
