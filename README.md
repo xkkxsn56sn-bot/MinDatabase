@@ -24,10 +24,4 @@ For complete guidelines on contributing to this repository, including content st
 
 ### Note on Repository Reorganization
 
-The `docs/` folder has been deprecated and should be removed. All content is maintained exclusively in `Content/.github/`. To complete the reorganization:
-
-```bash
-git rm -r docs/
-git commit -m "Remove deprecated docs/ folder - use Content/ as single source"
-git push
-```
+The `docs/` folder has been deprecated and should be removed. All content is maintained exclusively in `Content`.
