@@ -2,8 +2,6 @@
 title: "Simone Martini"
 ---
 
-# Simone Martini
-
 ## Early Life and Family
 
 Simone Martini was born in Siena around 1284, emerging from the artisan class of the Tuscan republic during its period of greatest artistic efflorescence. The patronymic "Martini" indicates his father's name as Martino, though documentary evidence provides minimal information about this parent's profession or social standing, leaving Simone's familial origins in the biographical obscurity typical of fourteenth-century painters. The absence of specific documentation regarding his father's occupation leaves open questions about whether Simone inherited an established workshop tradition, entered the painting profession through apprenticeship to unrelated masters, or represented his family's first generation of artistic specialization. Property records and tax documents from Simone's adult years indicate sufficient prosperity to maintain urban residence and professional workshop, suggesting that whatever his family's origins, successful artistic practice enabled social mobility and economic security comparable to prosperous merchants and professional classes.

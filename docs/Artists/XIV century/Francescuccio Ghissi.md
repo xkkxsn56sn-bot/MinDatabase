@@ -2,18 +2,6 @@
 title: "Francescuccio Ghissi"
 ---
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Francescuccio Ghissi. Write a detailed biography of this artist in English;
-
-Search languages: English, Italian
-Include date and place of birth;
-Write in Academic style: ten paragraphs about family; ten paragraphs about patrons; ten paragraphs about painting style; ten paragraphs about artistic influences; ten paragraphs about travels;
-Indicate the date and cause of death;
-List the most important works and describe their content in detail, including patrons and actual location in a discoursive, academic style;
-Write ten sentences for each paragraph;
-NO numbered paragraphs;
-
 Francescuccio Ghissi stands as one of the most enigmatic and accomplished painters of the 14th-century Italian Gothic tradition, representing a crucial bridge between the established workshop practices of his era and the emerging stylistic developments that would define later medieval art. Born in Fabriano in the Marche region of central-eastern Italy, Ghissi emerged from the fertile artistic environment of this renowned paper-making city during the mid-14th century, though his exact birth date remains undocumented in surviving records. The earliest documentary evidence of his professional activity appears in 1345, when the Confraternita di Santa Maria del Mercato in Fabriano recorded a payment to "Francescuccio di Cicco," establishing the first chronological anchor for understanding his artistic trajectory. His name appears in various forms throughout documented sources, including "Francesco di Cecco Ghissi" and "Franciscutius Cicchi," reflecting the fluid naming conventions of medieval Italian artists. The artistic milieu of Fabriano during Ghissi's formative years was dominated by the Gothic style, particularly as interpreted through the influential workshop of Allegretto Nuzi, which would prove instrumental in shaping the young artist's aesthetic vocabulary. His documented activity spans from 1359 to 1395, encompassing a period of significant artistic production within the broader context of 14th-century Italian painting. The final reference to his presence appears in Perugia in 1389, suggesting his continued artistic engagement well into the latter decades of the century. Evidence suggests that Ghissi maintained an active workshop throughout his career, producing works that demonstrate both individual artistic vision and adherence to the established conventions of Gothic painting in the Marche region. His longevity as an artist, documented through nearly four decades of activity, testifies to his professional success and the sustained demand for his particular interpretation of contemporary religious iconography. The painter's death date and circumstances remain unrecorded, though his latest documented work dates to 1395, providing a terminus ante quem for understanding the conclusion of his artistic career.[^1_1][^1_2][^1_3][^1_4]
 
 ### Family and Workshop Organization
