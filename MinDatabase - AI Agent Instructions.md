@@ -12,7 +12,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 |--------|---------|
 | **Core Task** | Write 1000-4000+ word academic essays on medieval artists (focus: Siena, Florence, Pisa, Assisi) |
 | **Content Model** | Flowing multi-paragraph prose (3-8 sentences/paragraph), NOT bullet points or outlines |
-| **Key Files** | `Content/.github/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `Content/.github/Churches/[Church].md` \| `Content/.github/Codex/[Document].md` \| `Content/.github/Papirer/[Work].md` \| `Content/.github/prompts/plan-minDatabase.prompt.md` \| `Content/.github/Artists/XIII century/add_sections.py` |
+| **Key Files** | `Content/Artists/[Century]/[Name].md` (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV) \| `Content/Churches/[Church].md` \| `Content/Codex/[Document].md` \| `Content/Papirer/[Work].md` \| `Content/prompts/plan-minDatabase.prompt.md` \| `Content/Artists/XIII century/add_sections.py` |
 | **Section Pattern** | Early Life → Patrons → Artistic Style → Influences → Travels → Death & Legacy → Major Works |
 | **Minimum Evidence** | 1 surviving work OR 2+ archival mentions OR established scholarship consensus |
 | **Commits** | Incremental per section: `"Add Early Life to [Artist]"` (not batch commits) |
@@ -50,7 +50,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 - **Pisan foundation**: Berlinghieri family established crucifix tradition → Giunta Pisano refined Christus patiens iconography → influenced Coppo di Marcovaldo
 - **Cross-regional**: Memmo trained at Assisi (exposure to Giotto) → exported spatial realism back to San Gimignano fresco cycles
 
-**Currently Complete Artists** (22 entries): Memmo di Filippuccio, Lippo Memmi, Giotto di Bondone, Cimabue, Simone Martini, Duccio di Buoninsegna, Coppo di Marcovaldo, Giunta Pisano, Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Marco Berlinghieri, and others documented across the century folders under `Content/.github/Artists/`
+**Currently Complete Artists** (22 entries): Memmo di Filippuccio, Lippo Memmi, Giotto di Bondone, Cimabue, Simone Martini, Duccio di Buoninsegna, Coppo di Marcovaldo, Giunta Pisano, Berlinghiero Berlinghieri, Bonaventura Berlinghieri, Marco Berlinghieri, and others documented across the century folders under `Content/Artists/`
 
 **Priority Gaps** (Cross-referenced in 3+ files, still need entries):
 - Pietro Cavallini (Roman master, spatial influence) — mentioned in Giotto/Cimabue contexts
@@ -61,7 +61,7 @@ MinDatabase is a **scholarly knowledge repository**, not a software project. It 
 ## File Organization & Naming Conventions
 
 ```
-Content/.github/
+Content/
 ├── Artists/
 │   ├── VII century/
 │   │   └── [Artist Name].md
@@ -141,7 +141,7 @@ If an artist's only secure date is a single commission, file by that commission'
        ],
    }
    ```
-3. Run from `Content/.github/Artists/XIII century/` directory:
+3. Run from `Content/Artists/XIII century/` directory:
    ```bash
    python3 add_sections.py "Artist Name.md" --dry-run  # Preview only
    python3 add_sections.py "Artist Name.md"            # Apply changes
@@ -485,7 +485,7 @@ Given the current text-only approach, compensate through:
 
 ## Technical Tools
 - **add_sections.py**: Python utility script for inserting section headings into markdown files
-  - Located in: `Content/.github/Artists/XIII century/add_sections.py`
+  - Located in: `Content/Artists/XIII century/add_sections.py`
   - Usage: `python3 add_sections.py "Artist Name.md" [--dry-run]`
   - Configuration: Edit REPLACEMENTS dictionary in script to define exact text patterns for each file
   - Pattern: Uses exact string matching to find paragraph boundaries and insert `## Section Title` markers
@@ -496,12 +496,12 @@ Given the current text-only approach, compensate through:
 ### add_sections.py - Section Heading Insertion Utility
 **Purpose**: Automates insertion of `## Section Title` headings into flowing prose that lacks formal structure.
 
-**Location**: `Content/.github/Artists/XIII century/add_sections.py`
+**Location**: `Content/Artists/XIII century/add_sections.py`
 
 **Command-Line Usage**:
 ```bash
 # Navigate to the script directory first
-cd Content/.github/Artists/XIII\ century/
+cd Content/Artists/XIII\ century/
 
 # Preview changes without modifying file (recommended first step)
 python3 add_sections.py "../XIII-XIV century/Giotto di Bondone.md" --dry-run
