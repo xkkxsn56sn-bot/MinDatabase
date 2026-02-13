@@ -1,7 +1,3 @@
----
-title: "plan-minDatabase.prompt"
----
-
 ## Plan: Add Repo-Level Copilot Instructions
 
 This repo is a content-only Markdown knowledge base with long-form academic essays under Content/.github/Artists (century subfolders), Content/.github/Churches, Content/.github/Codex, and Content/.github/Papirer. You want a root instructions file at MinDatabase - AI Agent Instructions.md covering the entire repo, while leaving any existing Papirer-specific instructions in place. The plan is to draft a concise, repo-wide instruction set that reflects the observed structure, writing conventions, and citation patterns, and to reference any Papirer-specific instructions for that subarea.
