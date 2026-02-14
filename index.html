@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinDatabase - Medieval Art & Artists Repository</title>
+    <meta name="description" content="A scholarly knowledge repository documenting medieval Italian artists from the 13th-14th centuries (Duecento/Trecento periods)">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --parchment: #f4f1e8;
+            --dark-parchment: #e8e3d3;
+            --gold: #c9a961;
+            --dark-gold: #a68948;
+            --burgundy: #722f37;
+            --dark-burgundy: #4a1f26;
+            --text: #2c2416;
+            --text-light: #5a4d3a;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: linear-gradient(135deg, var(--parchment) 0%, var(--dark-parchment) 100%);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
+            color: var(--parchment);
+            padding: 3rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            border-bottom: 3px solid var(--gold);
+        }
+
+        header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        header .subtitle {
+            font-size: 1.1rem;
+            font-style: italic;
+            color: var(--gold);
+            margin-bottom: 1rem;
+        }
+
+        header .tagline {
+            font-size: 0.95rem;
+            opacity: 0.9;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        main {
+            flex: 1;
+            max-width: 1200px;
+            margin: 3rem auto;
+            padding: 0 2rem;
+            width: 100%;
+        }
+
+        .quote-section {
+            background: white;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            border-radius: 8px;
+            border-left: 4px solid var(--gold);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .quote-section blockquote {
+            font-size: 1.3rem;
+            font-style: italic;
+            color: var(--text-light);
+            margin-bottom: 0.5rem;
+        }
+
+        .quote-section cite {
+            display: block;
+            text-align: right;
+            color: var(--burgundy);
+            font-weight: bold;
+        }
+
+        .intro {
+            background: white;
+            padding: 2.5rem;
+            margin-bottom: 3rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .intro h2 {
+            color: var(--burgundy);
+            margin-bottom: 1rem;
+            font-size: 2rem;
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 0.5rem;
+        }
+
+        .intro p {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-top: 4px solid var(--gold);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .card h3 {
+            color: var(--burgundy);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .card p {
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+
+        .card .collections {
+            list-style: none;
+            margin-bottom: 1rem;
+        }
+
+        .card .collections li {
+            padding: 0.4rem 0;
+            color: var(--text);
+            border-bottom: 1px solid var(--dark-parchment);
+            font-size: 0.9rem;
+        }
+
+        .card .collections li:last-child {
+            border-bottom: none;
+        }
+
+        .card .collections li::before {
+            content: "✦ ";
+            color: var(--gold);
+            margin-right: 0.5rem;
+        }
+
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--gold) 0%, var(--dark-gold) 100%);
+            color: var(--dark-burgundy);
+            padding: 0.8rem 1.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 2px solid var(--dark-gold);
+        }
+
+        .btn:hover {
+            background: linear-gradient(135deg, var(--dark-gold) 0%, var(--gold) 100%);
+            transform: scale(1.05);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        footer {
+            background: var(--burgundy);
+            color: var(--parchment);
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+            border-top: 3px solid var(--gold);
+        }
+
+        footer p {
+            margin-bottom: 0.5rem;
+        }
+
+        footer a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        footer a:hover {
+            color: white;
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .content-grid {
+                grid-template-columns: 1fr;
+            }
+
+            main {
+                margin: 2rem auto;
+                padding: 0 1rem;
+            }
+
+            .quote-section blockquote {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MinDatabase</h1>
+        <p class="subtitle">"I saw the angel in the marble and carved until I set him free."</p>
+        <p class="tagline">A Scholarly Repository of Medieval Italian Art & Artists</p>
+    </header>
+
+    <main>
+        <section class="quote-section">
+            <blockquote>"I saw the angel in the marble and carved until I set him free."</blockquote>
+            <cite>— Michelangelo</cite>
+        </section>
+
+        <section class="intro">
+            <h2>About MinDatabase</h2>
+            <p>
+                MinDatabase is a comprehensive scholarly knowledge repository dedicated to documenting the rich tapestry 
+                of medieval Italian art and artists, with a particular focus on the Duecento and Trecento periods 
+                (13th-14th centuries).
+            </p>
+            <p>
+                This collection features detailed academic essays, biographical studies, and in-depth analyses of 
+                masterworks that shaped the transition from Byzantine traditions to the flowering of early Italian art. 
+                From illuminated manuscripts to monumental frescoes, from anonymous masters to celebrated innovators, 
+                MinDatabase preserves and presents the visual and spiritual heritage of medieval Italy.
+            </p>
+        </section>
+
+        <section class="content-grid">
+            <div class="card">
+                <h3>Artists</h3>
+                <p>Biographies and scholarly essays on medieval Italian artists organized by century.</p>
+                <ul class="collections">
+                    <li>VII Century</li>
+                    <li>VIII Century</li>
+                    <li>X Century</li>
+                    <li>XI Century</li>
+                    <li>XII Century</li>
+                    <li>XIII Century</li>
+                    <li>XIII-XIV Century</li>
+                    <li>XIV Century</li>
+                </ul>
+                <a href="https://github.com/xkkxsn56sn-bot/MinDatabase/tree/main/Content/Artists" class="btn">Browse Artists</a>
+            </div>
+
+            <div class="card">
+                <h3>Churches & Sacred Spaces</h3>
+                <p>Comprehensive art historical analyses of medieval churches, chapels, and sacred architecture.</p>
+                <ul class="collections">
+                    <li>Abbey Churches</li>
+                    <li>Oratories & Chapels</li>
+                    <li>Architectural Studies</li>
+                    <li>Fresco Cycles</li>
+                </ul>
+                <a href="https://github.com/xkkxsn56sn-bot/MinDatabase/tree/main/Content/Churches" class="btn">Explore Churches</a>
+            </div>
+
+            <div class="card">
+                <h3>Illuminated Codices</h3>
+                <p>Studies of precious illuminated manuscripts and historical documents from the medieval period.</p>
+                <ul class="collections">
+                    <li>Book of Kells</li>
+                    <li>Codex Aureus Collections</li>
+                    <li>Hildegard's Visionary Works</li>
+                    <li>Religious Manuscripts</li>
+                </ul>
+                <a href="https://github.com/xkkxsn56sn-bot/MinDatabase/tree/main/Content/Codex" class="btn">View Codices</a>
+            </div>
+
+            <div class="card">
+                <h3>Research Papers</h3>
+                <p>In-depth scholarly papers and detailed studies of specific artworks and artistic movements.</p>
+                <ul class="collections">
+                    <li>Crucifix Studies</li>
+                    <li>Altarpiece Analyses</li>
+                    <li>Iconographic Research</li>
+                    <li>Interdisciplinary Studies</li>
+                </ul>
+                <a href="https://github.com/xkkxsn56sn-bot/MinDatabase/tree/main/Content/Papirer" class="btn">Read Papers</a>
+            </div>
+        </section>
+
+        <section class="intro">
+            <h2>Purpose & Scope</h2>
+            <p>
+                This repository serves as a living archive for scholars, students, and enthusiasts of medieval art history. 
+                Each entry is crafted with scholarly rigor, drawing upon primary sources, art historical methodologies, 
+                and interdisciplinary perspectives.
+            </p>
+            <p>
+                The database continues to grow, documenting the masters and masterworks that bridge the medieval and 
+                Renaissance worlds, illuminating the artistic achievements that transformed Western art forever.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p><strong>MinDatabase</strong> - Medieval Visions Preserved</p>
+        <p>A collaborative scholarly project documenting medieval Italian art and artists</p>
+        <p><a href="https://github.com/xkkxsn56sn-bot/MinDatabase">View on GitHub</a></p>
+    </footer>
+</body>
+</html>
