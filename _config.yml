@@ -9,41 +9,14 @@ baseurl: ""
 theme: minima
 markdown: kramdown
 
-# Collections for content organization
-collections:
-  artists:
-    output: true
-    permalink: /artists/:path/
-  papirer:
-    output: true
-    permalink: /papirer/:path/
-  codex:
-    output: true
-    permalink: /codex/:path/
-  churches:
-    output: true
-    permalink: /churches/:path/
+# Include all markdown files from Content directory
+include:
+  - Content
 
-# Default front matter
+# Default front matter for ALL markdown files
 defaults:
   - scope:
-      path: ""
-      type: "artists"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "papirer"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "codex"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "churches"
+      path: "Content"
     values:
       layout: "default"
 
