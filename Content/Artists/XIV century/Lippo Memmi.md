@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Lippo Memmi"
+author: Lippo Memmi
+period: XIV century
+category: artists
+---
+
 Lippo Memmi, born in the final decade of the thirteenth century in Siena, emerged as one of the most distinguished painters of the early fourteenth-century Sienese school and the most accomplished follower of Simone Martini, who would later become his brother-in-law. He was the son of Memmo di Filippuccio, a prominent Sienese painter who had established a flourishing workshop in San Gimignano around 1303. The first documented mention of Lippo appears in 1317, when he is recorded as the "figliuolo" (son) of painter Memmo in a document describing the creation of figures in the Council Hall of San Gimignano's public palace. His artistic formation occurred within his father's workshop, where he absorbed the fundamental techniques and stylistic approaches that would shape his mature work. The workshop environment provided him with direct access to the major artistic developments of his time, particularly through his father's connections with the Sienese artistic community. His early exposure to the sophisticated artistic culture of Siena, combined with the provincial yet active artistic environment of San Gimignano, created the foundation for his distinctive artistic voice. The young Lippo demonstrated exceptional talent from his earliest documented works, showing a natural affinity for the refined Gothic style that characterized the Sienese school. His birth into an established artistic family provided him with immediate access to patronage networks and artistic collaborations that would define his career. The political and economic prosperity of Siena during his formative years created an environment conducive to artistic innovation and experimentation. His date of death is recorded as 1356 in Siena, marking the end of a career that spanned nearly four decades of continuous artistic production.
 
 ### Family Background and Workshop Tradition

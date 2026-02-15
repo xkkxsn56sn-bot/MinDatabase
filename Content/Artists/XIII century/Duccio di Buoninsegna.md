@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Duccio di Buoninsegna"
+author: Duccio di Buoninsegna
+period: XIII century
+category: artists
+---
+
 ## Early Life and Family
 
 Duccio di Buoninsegna was born in Siena around 1255-1260, emerging from the artisan class of the Tuscan republic that would become synonymous with the distinctive elegance and chromatic sophistication of Sienese painting. The patronymic "di Buoninsegna" identifies his father as Buoninsegna, though no records survive documenting this parent's profession or social standing, leaving Duccio's familial background in the obscurity typical of thirteenth-century artisan families. The absence of the aristocratic "di" or "del" prefixes associated with noble lineages indicates that the Buoninsegna family belonged to the productive classes—craftsmen, merchants, or minor professionals—who formed the economic backbone of the Sienese commune. Early documents placing Duccio in Siena throughout his career suggest that his family maintained established urban residence rather than recent immigration from the contado, positioning them within the complex network of guild associations, parish affiliations, and neighborhood loyalties that structured medieval urban life. The city of Siena during Duccio's youth, having recently achieved its greatest political and military triumph with the 1260 Battle of Montaperti against Florence, was experiencing cultural flowering that would establish it as a major center of Italian art, creating an environment wherein a talented young painter could aspire to professional success and social recognition.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Arnolfo di Cambio"
+author: Arnolfo di Cambio
+period: XIII century
+category: artists
+---
+
 ## Arnolfo di Cambio
 
 ### Family background

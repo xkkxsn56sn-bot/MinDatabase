@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Marco Berlinghieri"
+author: Marco Berlinghieri
+period: XIII century
+category: artists
+---
+
 ## Marco Berlinghieri: A Biographical Study
 
 ### Family Background and Origins

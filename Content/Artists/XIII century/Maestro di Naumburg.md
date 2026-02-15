@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Maestro di Naumburg"
+author: Maestro di Naumburg
+period: XIII century
+category: artists
+---
+
 ## Master of Naumburg: A Comprehensive Biographical Study
 
 ### Family Background

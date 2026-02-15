@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Andrea di Bonaiuto"
+author: Andrea di Bonaiuto
+period: XIII-XIV century
+category: artists
+---
+
 
 Andrea di Bonaiuto, also known as Andrea da Firenze or Andrea Bonaiuti, was born in March 1319 in Florence, Italy, during a period of significant artistic and cultural transformation in the Italian peninsula. He died in July 1377 in Pisa while working on frescoes depicting the Legend of Saint Ranieri at the Camposanto Monumentale, leaving behind only modest possessions for his widow and his son Bartolomeo. His death occurred during what many art historians consider the twilight of the Trecento period, marking the end of a career that spanned over three decades of artistic production in central Italy. The exact circumstances of his death remain unclear, though archival records indicate he made his will on December 2, 1377, suggesting he may have anticipated his demise. His passing represented the loss of one of the most significant interpreters of Dominican theological and artistic programs in late medieval Italy. Unlike many of his contemporaries who achieved considerable wealth through their artistic endeavors, Andrea died with relatively modest means, suggesting that his career, while artistically successful, may not have brought him substantial financial prosperity. The location of his death in Pisa, away from his native Florence, underscores the peripatetic nature of artistic practice in the fourteenth century, when painters frequently traveled between cities to fulfill commissions. His legacy would be preserved primarily through his monumental fresco cycle in the Spanish Chapel of Santa Maria Novella, which became his most enduring contribution to Italian art. The temporal span of his career, from the 1340s to the 1370s, encompasses a crucial period of artistic development in Florence, bridging the innovations of Giotto with the more conservative tendencies that characterized the post-plague era. His artistic output, though limited in surviving examples, provides crucial insight into the intersection of religious ideology and visual culture in fourteenth-century Florence.[^1_1][^1_2][^1_3][^1_4][^1_5][^1_6][^1_7]
 

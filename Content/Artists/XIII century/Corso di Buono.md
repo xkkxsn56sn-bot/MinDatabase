@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Corso di Buono"
+author: Corso di Buono
+period: XIII century
+category: artists
+---
+
 
 # Corso di Buono
 

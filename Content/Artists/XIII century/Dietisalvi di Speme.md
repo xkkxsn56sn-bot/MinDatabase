@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Dietisalvi di Speme"
+author: Dietisalvi di Speme
+period: XIII century
+category: artists
+---
+
 
 Dietisalvi di Speme was an Italian painter active in Siena during the second half of the thirteenth century, specifically documented between 1250 and 1291. His artistic career coincided with a crucial period in the development of Sienese painting, preceding the work of Duccio di Buoninsegna and representing a transitional phase between Byzantine tradition and the emerging Gothic style. The artist's contributions to Sienese civic and religious art were substantial, though much of his production has been lost to time. His work demonstrates the evolution of painting in thirteenth-century Tuscany, particularly the gradual departure from rigid Byzantine iconography toward more naturalistic representations. Dietisalvi's significance extends beyond his artistic output to his role as a civic painter, serving the financial administration of Siena for over three decades. The painter's career intersected with major historical events, including the aftermath of the Battle of Montaperti in 1260, which profoundly shaped Sienese civic and religious identity. His collaborations with contemporary artists, particularly Guido da Siena, illustrate the workshop practices and artistic networks of medieval Siena. The attribution of works to Dietisalvi has evolved significantly through modern scholarship, particularly following Luciano Bellosi's reassessments in 1991. His documented residency in various contrade of Siena provides insight into the urban structure and social organization of the medieval city. The artist's legacy, though not as celebrated as that of Duccio or Simone Martini, represents an essential chapter in the formation of the Sienese school of painting.
 

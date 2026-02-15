@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Francesco Traini"
+author: Francesco Traini
+period: XIII-XIV century
+category: artists
+---
+
 Francesco Traini stands as one of the most significant painters of 14th-century Pisa, representing a crucial figure in the development of late medieval Italian art. Born approximately between 1290 and 1295 in Pisa, he emerged during a period of cultural flourishing in the maritime republic. The exact circumstances of his birth remain undocumented, reflecting the limited archival records that characterize many medieval artists' early lives. His family name derives from "Francesco di Traino," suggesting a patronymic tradition common in Pisan nomenclature of the period. Modern art historical scholarship has established him as the preeminent indigenous painter of his city and among the most important figures in Italian art of his era. His artistic career, spanning from approximately 1315 to 1348, coincided with Pisa's continued importance as a major Mediterranean trading center. The painter's death likely occurred in 1348, possibly as a victim of the Black Death that devastated European populations. His widow Bartola was documented on July 16, 1348, arranging an apprenticeship for her nephew, suggesting Traini had died by that date. The plague's impact on artistic production in Pisa during this period cannot be understated, as it claimed numerous craftsmen and disrupted established workshop traditions. Francesco Traini's biographical reconstruction relies primarily on sparse archival documentation and stylistic analysis of a limited corpus of authenticated works.
 
 ### Family Background and Early Life

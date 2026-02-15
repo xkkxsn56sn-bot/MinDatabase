@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Bonaventura Berlinghieri"
+author: Bonaventura Berlinghieri
+period: XIII century
+category: artists
+---
+
 ## Bonaventura Berlinghieri: An Academic Biography
 
 Bonaventura Berlinghieri was born circa 1210 in Lucca, Tuscany, into one of the most significant artistic dynasties of thirteenth-century Italy. The Berlinghieri family represented a crucial transitional moment in Italian painting, bridging the Byzantine tradition with emerging local innovations that would eventually culminate in the Renaissance. Bonaventura emerged as the most documented member of this artistic lineage, primarily through his signed and dated altarpiece of Saint Francis, completed in 1235. His active period is generally placed between 1235 and 1244, though some sources extend his life to approximately 1287. The artist's birth into an established workshop environment provided him with exceptional training from childhood, immersing him in the technical and aesthetic principles that dominated Tuscan painting of the early Duecento. Lucca itself served as a vibrant artistic center during this period, fostering multiple workshops and attracting patronage from both ecclesiastical and civic authorities. The city's strategic position along pilgrimage routes and its economic prosperity created favorable conditions for artistic production and innovation. Bonaventura's formative years coincided with the canonization of Saint Francis in 1228, an event that would profoundly influence his most celebrated commission. His death occurred sometime around 1287, though the precise circumstances remain undocumented in surviving records. The scarcity of biographical details reflects the broader challenge of reconstructing individual artistic lives from the medieval period, when documentary evidence was limited and often confined to contractual or notarial records.

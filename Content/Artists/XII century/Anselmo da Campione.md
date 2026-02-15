@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Anselmo da Campione"
+author: Anselmo da Campione
+period: XII century
+category: artists
+---
+
 # Anselmo da Campione
 
 ## Biographical Overview

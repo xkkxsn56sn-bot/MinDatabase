@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Maestro del Bigallo"
+author: Maestro del Bigallo
+period: XIII century
+category: artists
+---
+
 ## Maestro del Bigallo
 
 ### Family and social background

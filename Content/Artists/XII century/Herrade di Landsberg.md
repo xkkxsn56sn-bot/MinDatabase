@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Herrade di Landsberg"
+author: Herrade di Landsberg
+period: XII century
+category: artists
+---
+
 ## Early Life and Monastic Formation
 
 Herrade of Landsberg was born around 1130 at the castle of Landsberg in Alsace, into a noble family with significant regional influence. Her aristocratic status provided access to education and religious institutions unavailable to most medieval women. As a young woman, she entered Hohenburg Abbey in the Vosges mountains near Strasbourg, where she came under the mentorship of Abbess Relinda, a reformer appointed by Frederick Barbarossa in 1147. Under Relinda's direction, the abbey had adopted the Augustinian Rule and developed into a center of intellectual and spiritual renewal. Herrade received an exceptional education encompassing Latin, biblical exegesis, patristic theology, music, and the complete liberal arts curriculum. She demonstrated exceptional capability in both learning and administration, gradually assuming responsibility for the governance and education of her sister nuns. Relinda's death in 1170 led to Herrade's election as abbess, a position she held for approximately twenty-five years until her death on July 25, 1195. Her monastic enclosure—the strict physical confinement required of medieval religious women—paradoxically freed her intellectual ambitions from worldly concerns, directing them entirely toward her community's spiritual and educational needs.

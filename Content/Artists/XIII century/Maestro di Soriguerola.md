@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Maestro di Soriguerola"
+author: Maestro di Soriguerola
+period: XIII century
+category: artists
+---
+
 ## Master of Soriguerola: A Detailed Biography
 
 ### Family and Early Life
