@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artists Directory - MinDatabase</title>
+    <style>
+        :root {
+            --parchment: #f4f1e8;
+            --dark-parchment: #e8e3d3;
+            --gold: #c9a961;
+            --dark-gold: #a68948;
+            --burgundy: #722f37;
+            --dark-burgundy: #4a1f26;
+            --text: #2c2416;
+            --text-light: #5a4d3a;
+        }
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: var(--parchment);
+            color: var(--text);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
+            color: var(--parchment);
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 3px solid var(--gold);
+        }
+        nav {
+            background: var(--dark-parchment);
+            padding: 0.5rem;
+            text-align: center;
+            border-bottom: 1px solid var(--gold);
+        }
+        nav a {
+            color: var(--burgundy);
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+        main {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        h1 { color: var(--parchment); margin: 0; }
+        h2 { 
+            color: var(--burgundy); 
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+        .century-section {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        li::before {
+            content: "✦ ";
+            color: var(--gold);
+        }
+        a {
+            color: var(--burgundy);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: var(--gold);
+            text-decoration: underline;
+        }
+        .back-btn {
+            display: inline-block;
+            margin-top: 2rem;
+            padding: 0.5rem 1rem;
+            background: var(--gold);
+            color: var(--dark-burgundy);
+            border-radius: 4px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Artists Directory</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="artists.html">Artists</a>
+    </nav>
+    <main>
+        <section class="century-section">
+            <h2>VII Century</h2>
+            <ul>
+                <li><a href="Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html">Eadfrith di Lindisfarne</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>VIII Century</h2>
+            <ul>
+                <li><a href="Content/Artists/VIII%20century/Godescalc.html">Godescalc</a></li>
+                <li><a href="Content/Artists/VIII%20century/Rhabanus%20Maurus.html">Rhabanus Maurus</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>X Century</h2>
+            <ul>
+                <li><a href="Content/Artists/X%20century/Maius%20Scribe%20and%20Illuminator%20of%20the%20Morgan%20Beatus.html">Maius</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>XI Century</h2>
+            <ul>
+                <li><a href="Content/Artists/XI%20century/Giselbertus.html">Giselbertus</a></li>
+                <li><a href="Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html">Roger di Helmarshausen</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>XII Century</h2>
+            <ul>
+                <li><a href="Content/Artists/XII%20century/Alberto%20Sozio.html">Alberto Sozio</a></li>
+                <li><a href="Content/Artists/XII%20century/Anselmo%20da%20Campione.html">Anselmo da Campione</a></li>
+                <li><a href="Content/Artists/XII%20century/Benedetto%20Antelami.html">Benedetto Antelami</a></li>
+                <li><a href="Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html">Berlinghiero Berlinghieri</a></li>
+                <li><a href="Content/Artists/XII%20century/Godefroid%20de%20Claire.html">Godefroid de Claire</a></li>
+                <li><a href="Content/Artists/XII%20century/Herrade%20di%20Landsberg.html">Herrade di Landsberg</a></li>
+                <li><a href="Content/Artists/XII%20century/Hildegard%20von%20Bingen.html">Hildegard von Bingen</a></li>
+                <li><a href="Content/Artists/XII%20century/Maestro%20Guglielmo.html">Maestro Guglielmo</a></li>
+                <li><a href="Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html">Maestro della Croce 432</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>XIII Century</h2>
+            <ul>
+                <li><a href="Content/Artists/XIII%20century/Andrea%20Tafi.html">Andrea Tafi</a></li>
+                <li><a href="Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html">Arnolfo di Cambio</a></li>
+                <li><a href="Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html">Bonaventura Berlinghieri</a></li>
+                <li><a href="Content/Artists/XIII%20century/Cimabue.html">Cimabue</a></li>
+                <li><a href="Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html">Coppo di Marcovaldo</a></li>
+                <li><a href="Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html">Duccio di Buoninsegna</a></li>
+                <li><a href="Content/Artists/XIII%20century/Guido%20da%20Siena.html">Guido da Siena</a></li>
+                <li><a href="Content/Artists/XIII%20century/Nicola%20Pisano.html">Nicola Pisano</a></li>
+            </ul>
+        </section>
+
+        <section class="century-section">
+            <h2>XIV Century</h2>
+            <ul>
+                <li><a href="Content/Artists/XIV%20century/Giotto%20di%20Bondone.html">Giotto di Bondone</a></li>
+                <li><a href="Content/Artists/XIV%20century/Simone%20Martini.html">Simone Martini</a></li>
+                <li><a href="Content/Artists/XIV%20century/Paolo%20Veneziano.html">Paolo Veneziano</a></li>
+                <li><a href="Content/Artists/XIV%20century/Vitale%20da%20Bologna.html">Vitale da Bologna</a></li>
+            </ul>
+        </section>
+
+        <a href="index.html" class="back-btn">← Back to Home</a>
+    </main>
+    <footer style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
+        <p>MinDatabase - Medieval Art & Artists Repository</p>
+    </footer>
+</body>
+</html>
