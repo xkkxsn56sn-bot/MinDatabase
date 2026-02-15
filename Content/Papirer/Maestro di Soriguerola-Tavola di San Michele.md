@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Maestro di Soriguerola - Tavola di San Michele"
+author: Maestro di Soriguerola
+period: XIII-XIV century
+category: papirer
+---
+
 
 ## THE ARTIST: IDENTIFYING AN ANONYMOUS GENIUS
 
