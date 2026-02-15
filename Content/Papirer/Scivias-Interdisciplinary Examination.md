@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Scivias - Hildegard of Bingen"
+description: "Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination"
+author: Hildegard of Bingen
+period: XII century
+category: papirer
+---
+
 ## The 'Scivias ' of Hildegard of Bingen: Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination
 
 ### Introduction
