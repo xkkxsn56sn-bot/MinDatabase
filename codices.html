@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Illuminated Codices - MinDatabase</title>
+    <style>
+        :root {
+            --parchment: #f4f1e8;
+            --dark-parchment: #e8e3d3;
+            --gold: #c9a961;
+            --dark-gold: #a68948;
+            --burgundy: #722f37;
+            --dark-burgundy: #4a1f26;
+            --text: #2c2416;
+            --text-light: #5a4d3a;
+        }
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: var(--parchment);
+            color: var(--text);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
+            color: var(--parchment);
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 3px solid var(--gold);
+        }
+        nav {
+            background: var(--dark-parchment);
+            padding: 0.5rem;
+            text-align: center;
+            border-bottom: 1px solid var(--gold);
+        }
+        nav a {
+            color: var(--burgundy);
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+        main {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        h1 { color: var(--parchment); margin: 0; }
+        h2 { 
+            color: var(--burgundy); 
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+        .section-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            padding: 0.8rem 0;
+            border-bottom: 1px solid var(--dark-parchment);
+        }
+        li:last-child {
+            border-bottom: none;
+        }
+        li::before {
+            content: "✦ ";
+            color: var(--gold);
+        }
+        a {
+            color: var(--burgundy);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: var(--gold);
+            text-decoration: underline;
+        }
+        .back-btn {
+            display: inline-block;
+            margin-top: 2rem;
+            padding: 0.5rem 1rem;
+            background: var(--gold);
+            color: var(--dark-burgundy);
+            border-radius: 4px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Illuminated Codices</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="artists.html">Artists</a>
+        <a href="churches.html">Churches</a>
+        <a href="codices.html">Codices</a>
+        <a href="papers.html">Papers</a>
+    </nav>
+    <main>
+        <div class="section-card">
+            <h2>Manuscripts & Visionary Works</h2>
+            <ul>
+                <li><a href="Content/Codex/Book%20of%20Kells.html">Book of Kells</a></li>
+                <li><a href="Content/Codex/Codex%20Aureus%20of%20Lorsch.html">Codex Aureus of Lorsch</a></li>
+                <li><a href="Content/Codex/Codex%20Aureus%20of%20Echternach.html">Codex Aureus of Echternach</a></li>
+                <li><a href="Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html">Codex Aureus of Saint Emmeram</a></li>
+                <li><a href="Content/Codex/Codex%20Vergilius%20Romanus.html">Codex Vergilius Romanus</a></li>
+                <li><a href="Content/Codex/Liber%20Divinorum%20Operum.html">Liber Divinorum Operum</a></li>
+                <li><a href="Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html">Scivias of Hildegard of Bingen</a></li>
+            </ul>
+        </div>
+
+        <a href="index.html" class="back-btn">← Back to Home</a>
+    </main>
+    <footer style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
+        <p>MinDatabase - Medieval Art & Artists Repository</p>
+    </footer>
+</body>
+</html>
