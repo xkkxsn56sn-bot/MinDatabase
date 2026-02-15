@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Maius: Scribe and Illuminator of the Morgan Beatus"
-author: Maius"
+author: "Maius"
 period: X century
 category: artists
 ---
