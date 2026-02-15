@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Giunta Pisano's San Domenico Crucifix"
+description: "The Christus Patiens Revolution and the Transformation of Medieval Visual Theology"
+author: Giunta Pisano
+period: XIII century
+category: papirer
+---
+
 # Giunta Pisano's San Domenico Crucifix: The Christus Patiens Revolution and the Transformation of Medieval Visual Theology
 
 ## The Crucifix of Saint Dominic: A Monumental Achievement
