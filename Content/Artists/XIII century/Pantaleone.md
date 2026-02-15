@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Pantaleone"
+author: Pantaleone
+period: XIII century
+category: artists
+---
+
 # Pantaleone
 
 ## Historical Context and Identity

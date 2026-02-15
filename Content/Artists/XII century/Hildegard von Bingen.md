@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Hildegard von Bingen"
+author: Hildegard von Bingen
+period: XII century
+category: artists
+---
+
 Hildegard von Bingen was born around 1098 in Bermersheim bei Alzey, in the Rheinhessen region of present-day Germany, and died on September 17, 1179 at the monastery of Rupertsberg near Bingen. While primarily renowned as a mystic, composer, physician, and theological writer, her contributions to medieval visual culture through illuminated manuscripts represent a significant yet often overlooked aspect of her artistic legacy. Her death at Rupertsberg occurred after a period of ecclesiastical conflict, and she was buried in front of the altar of the monastic church.
 
 ### Family Origins and Early Life

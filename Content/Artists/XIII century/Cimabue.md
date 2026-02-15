@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Cimabue"
+author: Cimabue
+period: XIII century
+category: artists
+---
+
 # Cimabue
 
 ## Early Life and Family

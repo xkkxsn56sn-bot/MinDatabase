@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Nicolò di Giacomo"
+author: Nicolò di Giacomo
+period: XIV century
+category: artists
+---
+
 Nicolò di Giacomo di Nascimbene, commonly known as Nicolò da Bologna, was born around 1325 in Bologna and died between 1402 and 1404 in the same city, likely of natural causes given his advanced age. He stands as one of the most significant and prolific manuscript illuminators of fourteenth-century Italy, whose extensive body of work fundamentally shaped the artistic landscape of Bologna and influenced manuscript production throughout the Italian peninsula.
 
 ### Family Origins and Genealogy

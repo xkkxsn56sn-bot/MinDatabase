@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Pietro Cavallini"
+author: Pietro Cavallini
+period: XIII century
+category: artists
+---
+
 Pietro Cavallini, whose full name appears in contemporary documents as "Petrus dictus Caballinus de Cerronibus," represents one of the most significant yet enigmatic figures in the transition from medieval to Renaissance art in Italy. Born circa 1240-1250 in Rome, he lived an exceptionally long life by medieval standards, dying around 1330 at approximately ninety years of age. His surname "Cavallini" or more accurately "Cavallino," meaning "Little Horse," was likely a nickname that became permanently attached to his artistic identity. The artist consistently identified himself as "pictor romanus" in his signed works, emphasising his Roman heritage and professional standing within the artistic community of the Eternal City. His longevity allowed him to witness and participate in the profound artistic transformations that marked the late thirteenth and early fourteenth centuries, positioning him as both inheritor of Byzantine traditions and pioneer of the emerging naturalistic style that would characterise the early Renaissance.
 
 The Cavallini family belonged to the established Roman nobility, specifically the ancient de' Cerroni lineage that maintained residences in the vicinity of San Pietro in Vincoli. Documentary evidence from Roman archives, discovered at the beginning of the twentieth century, identifies Pietro with "Petrus dictus de Cavallinus de Cerronibus," who witnessed a deed of sale in October 1273, establishing both his family connections and his presence in Roman legal and commercial circles during his early career. The de' Cerroni family possessed sufficient social standing and financial resources to support Pietro's artistic education and early career development, suggesting they were well-integrated into the sophisticated cultural milieu of thirteenth-century Rome. This aristocratic background provided Pietro with access to the humanistic learning and classical references that would profoundly influence his artistic development, distinguishing him from artists of more humble origins who lacked such educational advantages. 

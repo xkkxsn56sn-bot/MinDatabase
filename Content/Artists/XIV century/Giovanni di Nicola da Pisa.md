@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Giovanni di Nicola da Pisa"
+author: Giovanni di Nicola da Pisa
+period: XIV century
+category: artists
+---
+
 Giovanni di Nicola da Pisa emerged from the vibrant artistic milieu of early fourteenth-century Pisa, though precise details of his family origins remain shrouded in the fragmentary documentary record typical of medieval artisan families. Born around 1326 in Pisa, he belonged to a generation of painters who would witness the transformation of Tuscan painting from its Byzantine-influenced Duecento traditions toward the more naturalistic idioms of the later Trecento. The absence of specific genealogical information in contemporary sources suggests that Giovanni's family likely occupied the middle stratum of Pisan society, neither belonging to the patriciate nor existing among the urban poor. His surname "di Nicola" indicates patronymic descent from a father named Nicola, following conventional Tuscan naming practices of the period. The family's social status can be inferred from Giovanni's later civic participation, suggesting they possessed sufficient property and standing to engage in municipal governance. Unlike aristocratic families who commissioned art or wealthy merchant dynasties who patronized ecclesiastical projects, Giovanni's family represented the emerging artisan class that would increasingly define urban Italian culture. The geographic designation "da Pisa" in his name indicates both his place of birth and the family's established residence in the maritime republic. Contemporary documents reveal no evidence of artistic lineage within the family, suggesting that Giovanni's entry into painting represented either a personal inclination or an apprenticeship opportunity rather than inherited tradition. The family's economic circumstances likely determined his apprenticeship with Lippo Memmi, as such arrangements typically involved financial considerations and social connections within artisan networks. His later political involvement in Pisan civic institutions demonstrates that the family maintained respectable standing within the urban community throughout Giovanni's career.
 
 ### Social Position and Domestic Life

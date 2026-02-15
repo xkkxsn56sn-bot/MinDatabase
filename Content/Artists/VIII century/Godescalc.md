@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Godescalc"
+author: Godescalc
+period: VIII century
+category: artists
+---
+
 ## Godescalc: Carolingian Scribe and Illuminator
 
 ### Identity and Historical Context

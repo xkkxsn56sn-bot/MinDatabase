@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Maestro della Croce 434"
+author: Maestro della Croce 434
+period: XIII century
+category: artists
+---
+
 ## Maestro della Croce 434
 
 ### Family and social background
