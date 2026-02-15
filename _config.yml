@@ -30,3 +30,5 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+# Force rebuild to include all recent fixes
