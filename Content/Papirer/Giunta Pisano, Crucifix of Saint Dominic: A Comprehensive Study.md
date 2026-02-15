@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Giunta Pisano, Crucifix of Saint Dominic"
+description: "A Comprehensive Study"
+author: Giunta Pisano
+period: XIII century
+category: papirer
+---
+
 # Giunta Pisano, Crucifix of Saint Dominic: A Comprehensive Study
 
 ## History of the Crucifix 
