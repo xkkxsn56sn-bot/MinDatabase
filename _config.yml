@@ -1,0 +1,59 @@
+# MinDatabase - Medieval Art & Artists Repository Configuration
+
+title: MinDatabase
+description: A scholarly knowledge repository documenting medieval Italian artists from the 13th-14th centuries (Duecento/Trecento periods)
+url: https://medievalvisions.com
+baseurl: ""
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Collections for content organization
+collections:
+  artists:
+    output: true
+    permalink: /artists/:path/
+  papirer:
+    output: true
+    permalink: /papirer/:path/
+  codex:
+    output: true
+    permalink: /codex/:path/
+  churches:
+    output: true
+    permalink: /churches/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "artists"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "papirer"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "codex"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "churches"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - scripts/
+  - .gitignore
+  - README.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
