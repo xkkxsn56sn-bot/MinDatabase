@@ -155,18 +155,37 @@ def main():
     project_root = script_dir.parent
     artists_dir = project_root / 'Content' / 'Artists'
     
+    print(f"🔍 Script directory: {script_dir}")
+    print(f"🔍 Project root: {project_root}")
+    print(f"🔍 Artists directory: {artists_dir}")
+    print(f"🔍 Artists dir exists? {artists_dir.exists()}")
+    
     if not artists_dir.exists():
         print(f"❌ Cartella non trovata: {artists_dir}")
-        return
+        # Prova percorso alternativo
+        artists_dir = Path.cwd().parent / 'Content' / 'Artists'
+        print(f"🔍 Provo percorso alternativo: {artists_dir}")
+        print(f"🔍 Exists? {artists_dir.exists()}")
+        
+        if not artists_dir.exists():
+            return
     
-    print(f"📁 Cerco file in: {artists_dir}")
+    print(f"\n📁 Cerco file in: {artists_dir}")
     print("=" * 60)
     
     # Trova tutti i file .md nelle sottocartelle
     md_files = list(artists_dir.rglob('*.md'))
     
+    print(f"🔍 File trovati: {len(md_files)}")
+    if md_files:
+        print(f"🔍 Primo file: {md_files[0]}")
+    
     if not md_files:
         print("❌ Nessun file .md trovato")
+        print("\n🔍 Contenuto della cartella Artists:")
+        if artists_dir.exists():
+            for item in artists_dir.iterdir():
+                print(f"   - {item.name}")
         return
     
     print(f"📄 Trovati {len(md_files)} file\n")
@@ -192,6 +211,3 @@ def main():
     print("   1. Verificare i file modificati")
     print("   2. Personalizzare i campi 'role', 'key_works', 'related_entries'")
     print("   3. Fare commit e push delle modifiche")
-
-if __name__ == '__main__':
-    main()
