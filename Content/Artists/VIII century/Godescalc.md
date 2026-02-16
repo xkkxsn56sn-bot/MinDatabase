@@ -1,9 +1,18 @@
 ---
-layout: default
-title: "Godescalc: Carolingian Scribe and Illuminator"
-author: Godescalc
-period: VIII century
+layout: artist-profile
+title: 
+author: 
+period: 
 category: artists
+role: 
+birth_place: 
+death_place: 
+dates: 
+key_works:
+
+
+related_entries:
+  
 ---
 
 ## Identity and Historical Context
