@@ -31,7 +31,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-end:
 
-  
 # Force rebuild to include all recent fixes
