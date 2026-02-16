@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Giovanni d'Apparecchiato"
-author: Giovanni d'Apparecchiato
+title: "Giovanni di Apparecchiato"
+author: Giovanni di Apparecchiato
 period: XIII century
 category: artists
 ---
