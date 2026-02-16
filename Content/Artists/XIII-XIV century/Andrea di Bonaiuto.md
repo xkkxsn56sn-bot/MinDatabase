@@ -1,9 +1,26 @@
 ---
-layout: default
-title: "Andrea di Bonaiuto"
-author: Andrea di Bonaiuto
-period: XIII-XIV century
-category: artists
+layout: artist-profile
+title: "Andrea di Bonaiuto (Andrea da Firenze)"
+author: "Andrea di Bonaiuto"
+role: "Fresco painter and designer of complex Dominican theological programs"
+dates: "March 1319 – July 1377"
+birth_place: "Florence, parish of Santa Maria Novella"
+death_place: "Pisa, while working at the Camposanto Monumentale"
+period: "XIII–XIV century"
+key_works:
+  - "Fresco cycle in the Spanish Chapel (Cappella degli Spagnoli), Santa Maria Novella, Florence"
+  - "Crucifixion, Church Militant and Triumphant, and Triumph of St Thomas Aquinas, Spanish Chapel, Santa Maria Novella"
+  - "Portable triptych of the Virgin and Child with Saints and Angels (panels now in Copenhagen and Houston)"
+  - "Saint Luke panel for the hospital of Santa Maria Nuova, Florence (lost)"
+  - "Cartoon/design for the Coronation of the Virgin stained-glass window, facade of Santa Maria Novella, Florence"
+  - "Legend of Saint Ranieri frescoes, Camposanto Monumentale, Pisa (partly preserved)"
+related_entries:
+  - "Santa Maria Novella, Florence (Dominican convent and Spanish Chapel)"
+  - "Buonamico (Mico) Guidalotti"
+  - "Arte dei Medici e Speziali, Florence"
+  - "Florence Cathedral (consultative role 1366–1367)"
+  - "Camposanto Monumentale, Pisa, and the cult of Saint Ranieri"
+category: "artists"
 ---
 
 Andrea di Bonaiuto, also known as Andrea da Firenze or Andrea Bonaiuti, was born in March 1319 in Florence, Italy, during a period of significant artistic and cultural transformation in the Italian peninsula. He died in July 1377 in Pisa while working on frescoes depicting the Legend of Saint Ranieri at the Camposanto Monumentale, leaving behind only modest possessions for his widow and his son Bartolomeo. His death occurred during what many art historians consider the twilight of the Trecento period, marking the end of a career that spanned over three decades of artistic production in central Italy. The exact circumstances of his death remain unclear, though archival records indicate he made his will on December 2, 1377, suggesting he may have anticipated his demise. His passing represented the loss of one of the most significant interpreters of Dominican theological and artistic programs in late medieval Italy. Unlike many of his contemporaries who achieved considerable wealth through their artistic endeavors, Andrea died with relatively modest means, suggesting that his career, while artistically successful, may not have brought him substantial financial prosperity. The location of his death in Pisa, away from his native Florence, underscores the peripatetic nature of artistic practice in the fourteenth century, when painters frequently traveled between cities to fulfill commissions. His legacy would be preserved primarily through his monumental fresco cycle in the Spanish Chapel of Santa Maria Novella, which became his most enduring contribution to Italian art. The temporal span of his career, from the 1340s to the 1370s, encompasses a crucial period of artistic development in Florence, bridging the innovations of Giotto with the more conservative tendencies that characterized the post-plague era. His artistic output, though limited in surviving examples, provides crucial insight into the intersection of religious ideology and visual culture in fourteenth-century Florence.

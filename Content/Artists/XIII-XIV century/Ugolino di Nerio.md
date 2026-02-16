@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Ugolino di Nerio"
-author: Ugolino di Nerio
-period: XIII-XIV century
-category: artists
+author: "Ugolino di Nerio"
+role: "Sienese painter and major follower of Duccio active between Siena and Florence"
+dates: "c. 1280 – c. 1349"
+birth_place: "Siena"
+death_place: "Siena (probable), during or shortly after the mid‑fourteenth century"
+period: "XIII–XIV century"
+key_works:
+  - "High altarpiece for Santa Croce, Florence (fragments now in London, New York, Berlin, and other collections)"
+  - "Altarpiece for Santa Maria Novella, Florence (central Madonna now in the Chiesa della Misericordia, San Casciano in Val di Pesa)"
+  - "Two Franciscan polyptychs, now Clark Art Institute, Williamstown, and Cleveland Museum of Art"
+  - "Madonna Contini Bonaccorsi, Galleria Palatina (Pitti Palace), Florence"
+  - "Predella panels of the Passion (Last Supper, Arrest, Flagellation, Way to Calvary, Deposition, Resurrection), various museums"
+related_entries:
+  - "Duccio di Buoninsegna and the Maestà for Siena Cathedral"
+  - "Basilica of Santa Croce, Florence"
+  - "Santa Maria Novella, Florence"
+  - "Franciscan and Dominican orders in early Trecento Tuscany"
+  - "Sienese school and the workshop of the di Nerio family"
+category: "artists"
 ---
 
 Ugolino di Nerio was born circa 1280 in Siena, Italy, emerging from a family profoundly dedicated to the visual arts and already established within the city's painter guilds. His father, Nerio, was himself a painter of considerable standing, ensuring that the household provided an environment saturated with artistic practice and theoretical knowledge from Ugolino's earliest years. His siblings, Guido and Muccio, likewise pursued careers as professional painters, making the di Nerio family one of the most significant artistic dynasties of fourteenth-century Tuscany. This familial concentration of artistic talent created an informal but rigorous training ground where techniques, aesthetic principles, and commercial practices were transmitted directly through workshop apprenticeship rather than through formal institutional channels. The workshop structure that characterized Sienese artistic production relied fundamentally upon family collaborations, allowing master painters to undertake large-scale commissions while maintaining quality control across multiple panels and complex iconographic programs. Ugolino inherited not merely technical skills from his progenitors but also accumulated business acumen and established patronage networks that would define his independent career. The multi-generational investment in painting within the di Nerio household reflects the professionalization of artistic practice in early Renaissance Siena, where skilled craftsmen commanded respect equivalent to that afforded to wealthy merchants and minor nobility. Beyond their individual accomplishments, Ugolino and his relatives contributed to the consolidation of Sienese painting as a recognizable and exportable commodity, which would ultimately enhance their collective reputation throughout Italian and northern European artistic centers.

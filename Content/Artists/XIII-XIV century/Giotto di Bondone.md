@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Giotto di Bondone"
-author: Giotto di Bondone
-period: XIII-XIV century
-category: artists
+author: "Giotto di Bondone"
+role: "Painter, fresco master, and architect at the dawn of the Italian Renaissance"
+dates: "c. 1267 – 8 January 1337"
+birth_place: "Colle di Vespignano, Mugello, in the territory of the Republic of Florence"
+death_place: "Florence"
+period: "XIII–XIV century"
+key_works:
+  - "Fresco cycle of the Arena (Scrovegni) Chapel, Padua"
+  - "Frescoes in the Bardi and Peruzzi Chapels, Santa Croce, Florence"
+  - "Stefaneschi Altarpiece, originally for Old St Peter’s, now Vatican Pinacoteca"
+  - "Campanile (bell tower) of Santa Maria del Fiore, Florence (design and lower registers)"
+  - "Crucifix and panel paintings including the Ognissanti Madonna, Florence"
+related_entries:
+  - "Cimabue and the Maniera greca"
+  - "Enrico Scrovegni and the Arena Chapel"
+  - "Franciscan and Dominican orders (Santa Croce and Santa Maria Novella)"
+  - "King Robert of Anjou and the Neapolitan court"
+  - "Dante Alighieri and early Trecento Florence"
+category: "artists"
 ---
 
 Giotto di Bondone is traditionally believed to have been born around 1267 in the humble village of Colle di Vespignano, situated in the scenic countryside of Mugello, not far from the bustling city of Florence in the historic Republic of Florence. Although definitive birth records have never been discovered, many early sources and chronicles point to this approximate date as the most likely, and his childhood in this rural environment has long been associated with stories of his innate gift for drawing that purportedly captured the attention of the celebrated Florentine painter Cimabue. The intriguing narratives surrounding his youthful talents, while occasionally embellished by later biographers, highlight the magnetic appeal Giotto would have for generations of art lovers and provide a glimpse into the exceptional nature of his creative genius at a time when painting was still constrained by the conventions of Byzantine tradition.
