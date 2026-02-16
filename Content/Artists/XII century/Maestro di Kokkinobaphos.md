@@ -1,9 +1,26 @@
 ---
-layout: default
-title: "Maestro di Kokkinobaphos"
-author: Maestro di Kokkinobaphos
-period: XII century
-category: artists
+layout: artist-profile
+title: "Maestro di Kokkinobaphos (Master of Kokkinobaphos)"
+author: "Maestro di Kokkinobaphos"
+role: "Byzantine illuminator and director of an imperial manuscript workshop"
+dates: "active c. 1120–1155 (Comnenian period)"
+birth_place: "Unknown; probably Constantinople or its environs"
+death_place: "Unknown; likely Constantinople before or around the Latin conquest of 1204"
+period: "XII century"
+key_works:
+  - "Homilies of James of Kokkinobaphos for Irene the Sebastokratorissa (Vat. gr. 1162, Vatican Library)"
+  - "Companion Kokkinobaphos Homilies manuscript (Paris, BnF, gr. 1208)"
+  - "Seraglio Octateuch (Topkapı Palace Library, Topkapi Graecus 8)"
+  - "Gospel of the Great Lavra, Mount Athos (MS A44) – evangelist portraits"
+  - "Burney Gospel, British Library (Burney MS 19) – inserted evangelist portraits"
+  - "Early manuscripts Paris gr. 75 and Vatican Urbinas graecus 2 (initial decorative works)"
+related_entries:
+  - "Comnenian Renaissance in twelfth‑century Byzantium"
+  - "Irene the Sebastokratorissa and imperial patronage"
+  - "Isaac Komnenos and the Seraglio Octateuch"
+  - "James of Kokkinobaphos"
+  - "Byzantine gold‑ground miniature painting"
+category: "artists"
 ---
 
 The Master of Kokkinobaphos is considered one of the most skilled and influential manuscript illuminators of the 12th-century Byzantine Empire, representing the pinnacle of the Comnenian artistic achievements and the last flowering of the creative tradition of Constantinople before the Fourth Crusade of 1204 brought the cultural capital of the empire under Latin control. His conventional name derives from his most famous work, the sumptuous Homilies of James the Monk of Kokkinobaphos, which modern scholars have identified as his masterpiece and which established the nomenclature by which art historians today recognise the prolific output of his workshop. The master's identity remains shrouded in obscurity, as is typical of many Byzantine artists whose fame was based on their technical virtuosity rather than individual celebrity; he remains anonymous to posterity, known only through the distinctive stylistic characteristics that Jeffrey C. Anderson first systematised in his groundbreaking 1982 publication in the Dumbarton Oaks Papers.

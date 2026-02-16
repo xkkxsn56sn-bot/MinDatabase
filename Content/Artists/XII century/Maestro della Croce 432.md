@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Maestro della Croce 432"
-author: Maestro della Croce 432
-period: XII century
-category: artists
+author: "Maestro della Croce 432"
+role: "Pisan painter of monumental crucifixes"
+dates: "born c. 1150; active c. 1175–1200; died shortly after c. 1220 (hypothetical)"
+birth_place: "Pisa or its environs (reconstructed from stylistic and contextual evidence)"
+death_place: "Pisa (probable), during an epidemic in the early thirteenth century"
+period: "XII–early XIII century"
+key_works:
+  - "Crucifix no. 432, tempera and gold on wood, Uffizi Galleries, Florence"
+  - "Cleveland Crucifix, Cleveland Museum of Art (attributed to the master or a very close collaborator)"
+  - "Lost crucifix of San Pietro in Vincoli, Florence (\"antiqua crux pisanensis\", described in a 1320 inventory)"
+related_entries:
+  - "Pisa Cathedral and Camposanto"
+  - "Pisan maritime networks and the Via Francigena"
+  - "Giunta Pisano and early Franciscan crucifixes"
+  - "Alberto Sotio and the Umbrian connection"
+  - "Byzantine, Ottonian, and Norman-Sicilian influences in Tuscan painting"
+category: "artists"
 ---
 
 The enigmatic painter conventionally known as “Maestro della Croce 432” stands at the origins of Tuscan panel painting, a catalytic figure whose surviving crucifix—inventory number 432 in the Uffizi Galleries—has prompted successive generations of scholars to reevaluate the origins of Italian pictorial language before Cimabue and Giotto. Although the artist's name has been lost, critical debate has produced a mosaic of hypotheses about his native environment, his formative networks, his patrons, and his itinerant activity. The following study, written in British English, offers an academic biography structured around the artist's family background, patronage, painting style, artistic influences, and travels, and concludes with an analytical catalog of major works. All paragraphs are deliberately broad in order to convey the complexity of early 13th-century art.

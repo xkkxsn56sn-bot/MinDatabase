@@ -1,9 +1,22 @@
 ---
-layout: default
+layout: artist-profile
 title: "Andrea Tafi"
-author: Andrea Tafi
-period: XIII century
-category: artists
+author: "Andrea Tafi"
+role: "Florentine mosaicist and transmitter of Byzantine technique"
+dates: "1213 – 1294"
+birth_place: "Florence"
+death_place: "Florence"
+period: "XIII century"
+key_works:
+  - "Mosaic decoration of the Baptistery of San Giovanni, Florence (angelic hierarchies and Christ in Majesty, traditional attribution)"
+  - "Papal portraits of Celestine IV and Innocent IV (lost; known through later reuse by Buffalmacco)"
+related_entries:
+  - "Baptistery of San Giovanni, Florence"
+  - "Arte di Calimala and Opera di San Giovanni"
+  - "San Marco, Venice, and Maestro Apollonio"
+  - "Buonamico Buffalmacco"
+  - "Cimabue and early Tuscan painting"
+category: "artists"
 ---
 
 Andrea Tafi, also known as Andrea di Ricco or Tassi, was a Florentine mosaicist active in the thirteenth century. According to Vasari and later biographical compilations, he was born in Florence in 1213 and died there in 1294, reaching an advanced age of around eighty‑one years. Almost everything that can be said about his life depends on Vasari’s *Lives* and a small group of later notices, so the historical image of the artist is strongly conditioned by literary mediation. These texts, however, converge in presenting him as a key transmitter of Byzantine mosaic technique into the artistic milieu of Florence. They emphasise that he was particularly renowned for his contribution to the mosaic decoration of the Baptistery of San Giovanni, where tradition credits him above all with the angelic hierarchies and the monumental Christ in Majesty. Modern scholarship treats many of these attributions with caution, yet still acknowledges that a Florentine master called Andrea, connected with Venetian and Greek craftsmen, stood behind an important phase of the enterprise. His name is closely linked with that of his pupil Buonamico Buffalmacco, whose youthful tricks at his master’s expense became part of Florentine anecdotal culture through Vasari and Boccaccio. Documentary tradition also preserves the name of a probable son, Antonio d’Andrea Tafi, suggesting that the workshop had a familial continuity that extended beyond Andrea’s own lifetime. Apart from these scattered references, direct archival documentation is lacking, so the contours of his career, his social position, and his everyday life remain only partially reconstructible. Within these limits, the figure that emerges is that of a craftsman‑artist situated at the threshold between the so‑called *maniera greca* and the new, more plastic narrative language associated with Cimabue and Giotto. His securely attributable oeuvre is restricted, but the historical role ascribed to him in the transmission of mosaic technique has ensured his place in the canonical genealogies of Tuscan art.

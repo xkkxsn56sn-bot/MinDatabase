@@ -1,9 +1,24 @@
 ---
-layout: default
-title: "Godefroid de Claire"
-author: Godefroid de Claire
-period: XII century
-category: artists
+layout: artist-profile
+title: "Godefroid de Claire (Godefroid de Huy)"
+author: "Godefroid de Claire"
+role: "Mosan goldsmith and enamelist"
+dates: "c. 1100 – c. 1173; active c. 1130–1173"
+birth_place: "Huy-sur-le-Meuse, Meuse valley (present-day Belgium)"
+death_place: "Probably Huy or Stavelot region (unconfirmed)"
+period: "XII century"
+key_works:
+  - "Reliquary of Pope Alexander I (aquamanile), c. 1145, Brussels"
+  - "Stavelot Triptych (Reliquary of the True Cross), c. 1156–1158, Morgan Library & Museum, New York"
+  - "Reliquaries of Saints Domitien and Mengold, Huy, 1173 (attributed)"
+  - "Foot of a cross related to Suger's Great Cross of Saint-Denis, preserved at Saint-Omer (attributed)"
+related_entries:
+  - "Mosan art and Meuse valley metalwork"
+  - "Huy-sur-le-Meuse"
+  - "Stavelot Abbey and Abbot Wibald"
+  - "Saint-Denis and Abbot Suger"
+  - "Champlevé enameling"
+category: "artists"
 ---
 
 Godefroid de Claire, also known as Godefroid de Huy, stands as one of the most celebrated representatives of Mosan art during the Romanesque period, though the details of his life remain enigmatic despite his considerable artistic legacy. Born around 1100 in Huy-sur-le-Meuse, a prosperous town in the Meuse River valley in what is now Belgium, Godefroid emerged during a period of extraordinary artistic vitality in the region. His active career spanned approximately from 1130 to 1173, with his death occurring around 1173, though the precise circumstances of his passing remain undocumented in surviving historical records. The city of Huy, situated strategically along the Meuse River, had developed into an important center for metalwork and goldsmithing by the early twelfth century, providing the fertile artistic environment in which Godefroid would develop his exceptional skills. Contemporary sources describe him as an "aurifaber" of unparalleled skill, a term that encompassed not merely goldsmithing but also mastery of various precious metals and enameling techniques. His surname "de Claire" suggests possible family connections or geographical origins, though scholarly debate continues regarding the precise meaning and derivation of this epithet. The sparse documentary evidence regarding his early life reflects the broader challenge of reconstructing the biographies of medieval artisans, who, despite producing works of extraordinary beauty and technical sophistication, rarely left extensive written records. What remains certain is that Godefroid's birth in Huy placed him at the epicenter of the Mosan artistic tradition, which would define his career and influence generations of metalworkers to follow. The Meuse valley region, encompassing territories in present-day Belgium, the Netherlands, and parts of Germany, had by the twelfth century established itself as the preeminent center for the production of liturgical metalwork and champlevé enamel in Western Europe. Godefroid's emergence from this milieu would prove instrumental in solidifying the region's reputation for producing the finest ecclesiastical art of the Romanesque period.

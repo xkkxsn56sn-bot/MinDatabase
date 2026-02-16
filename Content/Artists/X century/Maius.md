@@ -1,9 +1,23 @@
 ---
-layout: default
-title: "Maius - Scribe and Illuminator of the Morgan Beatus"
+layout: artist-profile
+title: "Maius – Scribe and Illuminator of the Morgan Beatus"
 author: "Maius"
-period: X century
-category: artists
+role: "Mozarabic scribe and illuminator"
+dates: "d. 30 October 968"
+birth_place: "Traditionally attributed to Córdoba (unconfirmed)"
+death_place: "Monastery of San Salvador de Tábara, Zamora"
+period: "X century"
+key_works:
+  - "Morgan Beatus (MS M.644, New York, Morgan Library & Museum)"
+  - "Beatus of Tábara (fragmentary, Archivo Histórico Nacional, Madrid)"
+  - "Other Beatus manuscripts within the Tábara scriptorium circle"
+related_entries:
+  - "San Salvador de Tábara"
+  - "San Miguel de Escalada"
+  - "Beatus of Liébana, Commentary on the Apocalypse"
+  - "Emeterius (pupil and collaborator)"
+  - "Mozarabic art and liturgy"
+category: "artists"
 ---
 
 Maius, also known as Magius, stands as one of the most significant illuminators of medieval Spain, whose artistry defined the second major stylistic phase of Beatus manuscript production in the tenth century. He served as both scribe and illuminator of the Commentary on the Apocalypse now preserved as MS M.644 at the Morgan Library \& Museum in New York, commonly known as the Morgan Beatus. According to the colophon inscribed on folio 293 of this manuscript, Maius executed the work at the command of an abbot of the Monastery of St. Michael, creating what would become the earliest complete surviving copy of the Beatus tradition. His death occurred on October 30, 968, at the monastery of San Salvador de Tábara in the province of Zamora, Spain, where he was subsequently buried. The circumstances surrounding his death remain undocumented in surviving sources, though it is known that he died while working on another Beatus manuscript, which was subsequently completed by his pupil Emeterius. Maius was honored by his student with the title "archipictor," meaning master painter, a designation that reflects his preeminent status within the monastic artistic community of tenth-century León. His innovative contributions to manuscript illumination would influence generations of subsequent illuminators throughout the Iberian Peninsula. The precise date of his birth remains unknown to modern scholarship, as does the exact year he began his artistic training. Contemporary sources provide no information regarding his early life or the circumstances that led him to pursue the vocation of a monastic scribe and illuminator.

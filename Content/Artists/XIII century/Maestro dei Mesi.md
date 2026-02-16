@@ -1,12 +1,24 @@
 ---
-layout: default
-title: "Maestro dei Mesi"
-author: Maestro dei Mesi
-period: XIII century
-category: artists
+layout: artist-profile
+title: "Maestro dei Mesi (Master of the Months)"
+author: "Maestro dei Mesi"
+role: "Romanesque sculptor active between Emilia-Romagna and the Veneto"
+dates: "active c. 1220–1230"
+birth_place: "Unknown; probably northern Italy (Padana area, possibly connected to the Antelami milieu)"
+death_place: "Unknown; probably in northern Italy after completion of his major commissions"
+period: "XIII century"
+key_works:
+  - "Cycle of the Months (Porta dei Pellegrini / Porta dei Mesi), originally on the south portal of Ferrara Cathedral, now Museo della Cattedrale"
+  - "Marble lunette with the Dream and Adoration of the Magi, portal of San Mercuriale, Forlì"
+  - "Other reliefs in Ferrara, Forlì and possibly Venice attributed to his hand or workshop"
+related_entries:
+  - "Ferrara Cathedral and the Museo della Cattedrale"
+  - "Abbazia di San Mercuriale, Forlì"
+  - "Benedetto Antelami and the Parma Baptistery"
+  - "Padan Romanesque sculpture and early Gothic influences from the Île-de-France"
+  - "Iconography of the Labors of the Months in medieval art"
+category: "artists"
 ---
-
-## Maestro dei Mesi
 
 The figure conventionally known as the Master of the Months is an anonymous Italian sculptor active during the first half of the thirteenth century, primarily in Ferrara, Forlì and probably Venice. He owes his modern name to the celebrated cycle of reliefs representing the calendar months that once adorned the so‑called Porta dei Pellegrini, or Porta dei Mesi, on the south side of Ferrara Cathedral and are now preserved in the Museo della Cattedrale. Archival documentation about his person has not survived, so neither his precise date nor his place of birth is known, and modern scholarship can only situate his floruit around 1220–1230 on the basis of style and architectural history. On similarly fragmentary grounds, no date or place of death can be established, and the cause of his death remains entirely undocumented, a reminder of how often even major medieval sculptors disappear into anonymity. The artist is nevertheless consistently identified as Italian, formed within the Padana Romanesque milieu that radiated from masters such as Benedetto Antelami in Parma, yet markedly open to transalpine innovations, especially those associated with the emerging Gothic of the Île‑de‑France. Through his surviving works he emerges as one of the most original interpreters of the themes of time, labor and salvation in medieval sculpture, capable of reconciling narrative clarity with acute observation of the natural world. His reliefs demonstrate an exceptional capacity to translate the agricultural year, biblical narrative and courtly ceremony into compressed yet legible sculptural scenes. At the same time, the refined plastic treatment of drapery, anatomy and vegetal forms reveals an artist who studied both local Romanesque traditions and more advanced northern Gothic trends. Modern scholarship also associates with him the marble lunette of the “Dream and Adoration of the Wise Men” on the portal of San Mercuriale in Forlì, a work now widely accepted as a cornerstone of his corpus. Other sculptures in Venice and elsewhere in northern Italy have been discussed as possible products of his workshop or circle, suggesting a career of considerable geographical and stylistic breadth.
 

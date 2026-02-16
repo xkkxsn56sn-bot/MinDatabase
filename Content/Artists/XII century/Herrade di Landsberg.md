@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Herrade di Landsberg"
-author: Herrade di Landsberg
-period: XII century
-category: artists
+author: "Herrade di Landsberg"
+role: "Abbess, author, and director of an illuminated encyclopedic manuscript"
+dates: "c. 1130 – 25 July 1195"
+birth_place: "Castle of Landsberg, Alsace (Holy Roman Empire)"
+death_place: "Hohenburg Abbey (Mont Sainte-Odile), Alsace"
+period: "XII century"
+key_works:
+  - "\"Hortus Deliciarum\" (Garden of Delights), illuminated encyclopedic manuscript for the education of nuns of Hohenburg Abbey"
+  - "Original Latin and German poems with music within the Hortus Deliciarum"
+  - "Program of 300+ didactic illustrations integrating theology, science, and moral teaching in the Hortus Deliciarum"
+related_entries:
+  - "Hohenburg Abbey (Mont Sainte-Odile)"
+  - "Frederick I Barbarossa and imperial monastic reform"
+  - "Abbess Relinda of Hohenburg"
+  - "Female monastic education in the twelfth century"
+  - "Transmission and loss of the \"Hortus Deliciarum\" (Strasbourg fire of 1870)"
+category: "artists"
 ---
 
 ## Early Life and Monastic Formation
