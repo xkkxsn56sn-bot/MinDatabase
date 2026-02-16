@@ -1,17 +1,17 @@
 ---
 layout: artist-profile
-title: 
-author: 
-period: 
+title: Godescalc
+author: Godescalc
+period: VIII century
 category: artists
-role: 
-birth_place: 
+role: Scribe and illuminator
+birth_place: France ?
 death_place: 
-dates: 
-key_works:
-
-
+dates: c. 781-783
+key_works: Godescalc Evangelistary
 related_entries:
+- Carlo Magno
+- Scriptoria carolingi
   
 ---
 
