@@ -1,7 +1,7 @@
 ---
 
 layout: artist-profile
-title: "Eadfrith di Lindisfarne: Bishop, Scribe, and Illuminator"
+title: "Eadfrith di Lindisfarne"
 author: Eadfrith di Lindisfarne
 period: VII century
 category: artists
