@@ -1,0 +1,259 @@
+/* Reset e base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.7;
+    color: #2c2c2c;
+    background-color: #fafafa;
+}
+
+/* Header del sito */
+.site-header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.site-logo {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+.site-logo:hover {
+    color: #8b4513;
+}
+
+/* Container principale */
+.artist-profile-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Header artista */
+.artist-header {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    border-bottom: 2px solid #8b4513;
+    margin-bottom: 3rem;
+}
+
+.artist-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 1rem;
+}
+
+.artist-meta {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.1rem;
+    color: #666;
+}
+
+.artist-role {
+    font-style: italic;
+}
+
+.artist-dates {
+    font-weight: 600;
+}
+
+/* Layout a due colonne */
+.content-wrapper {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 3rem;
+    align-items: start;
+}
+
+/* Sidebar */
+.artist-sidebar {
+    position: sticky;
+    top: 80px;
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    border-left: 4px solid #8b4513;
+}
+
+.sidebar-section {
+    margin-bottom: 2rem;
+}
+
+.sidebar-section:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-section h3 {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #8b4513;
+    margin-bottom: 0.75rem;
+    font-weight: 700;
+}
+
+.sidebar-section p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #444;
+}
+
+.sidebar-section strong {
+    color: #2c2c2c;
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.works-list, .related-list {
+    list-style: none;
+    font-size: 0.9rem;
+}
+
+.works-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+    color: #444;
+}
+
+.works-list li:last-child {
+    border-bottom: none;
+}
+
+.related-list li {
+    margin-bottom: 0.5rem;
+}
+
+.related-list a {
+    color: #8b4513;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.related-list a:hover {
+    color: #a0522d;
+    text-decoration: underline;
+}
+
+/* Navigazione interna */
+.page-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.page-nav a {
+    padding: 0.5rem 0.75rem;
+    color: #555;
+    text-decoration: none;
+    font-size: 0.85rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.page-nav a:hover {
+    background-color: #f5f5f5;
+    color: #8b4513;
+    padding-left: 1rem;
+}
+
+/* Contenuto principale */
+.artist-content {
+    background-color: #fff;
+    padding: 3rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    max-width: 900px;
+}
+
+.artist-content h2 {
+    font-size: 1.8rem;
+    color: #1a1a1a;
+    margin: 2.5rem 0 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #8b4513;
+}
+
+.artist-content h2:first-child {
+    margin-top: 0;
+}
+
+.artist-content p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    text-align: justify;
+    color: #333;
+}
+
+/* Blockquote per citazioni */
+.artist-content blockquote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    background-color: #f9f9f9;
+    border-left: 5px solid #8b4513;
+    font-style: italic;
+    color: #555;
+}
+
+/* Footer */
+.site-footer {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-top: 1px solid #ddd;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .content-wrapper {
+        grid-template-columns: 240px 1fr;
+        gap: 2rem;
+    }
+    
+    .artist-content {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .content-wrapper {
+        grid-template-columns: 1fr;
+    }
+    
+    .artist-sidebar {
+        position: static;
+        margin-bottom: 2rem;
+    }
+    
+    .artist-title {
+        font-size: 2rem;
+    }
+    
+    .artist-content {
+        padding: 1.5rem;
+    }
+    
+    .page-nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
