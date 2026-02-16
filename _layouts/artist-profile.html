@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | MinDatabase</title>
+    <link rel="stylesheet" href="{{ '/assets/css/artist-profile.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <nav class="site-nav">
+            <a href="{{ '/' | relative_url }}" class="site-logo">MinDatabase</a>
+        </nav>
+    </header>
+
+    <main class="artist-profile-container">
+        <!-- Header della pagina artista -->
+        <div class="artist-header">
+            <h1 class="artist-title">{{ page.title }}</h1>
+            <div class="artist-meta">
+                {% if page.role %}
+                <span class="artist-role">{{ page.role }}</span>
+                {% endif %}
+                {% if page.dates %}
+                <span class="artist-dates">{{ page.dates }}</span>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="content-wrapper">
+            <!-- Sidebar laterale -->
+            <aside class="artist-sidebar">
+                {% if page.dates %}
+                <div class="sidebar-section">
+                    <h3>Chronology</h3>
+                    <p><strong>Active:</strong> {{ page.dates }}</p>
+                </div>
+                {% endif %}
+
+                {% if page.birth_place or page.death_place %}
+                <div class="sidebar-section">
+                    <h3>Geography</h3>
+                    {% if page.birth_place %}
+                    <p><strong>Origin:</strong> {{ page.birth_place }}</p>
+                    {% endif %}
+                    {% if page.death_place %}
+                    <p><strong>Death:</strong> {{ page.death_place }}</p>
+                    {% endif %}
+                </div>
+                {% endif %}
+
+                {% if page.key_works %}
+                <div class="sidebar-section">
+                    <h3>Principal Works</h3>
+                    <ul class="works-list">
+                    {% for work in page.key_works %}
+                        <li>{{ work }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+
+                {% if page.period %}
+                <div class="sidebar-section">
+                    <h3>Period</h3>
+                    <p>{{ page.period }}</p>
+                </div>
+                {% endif %}
+
+                {% if page.related_entries %}
+                <div class="sidebar-section">
+                    <h3>Related Entries</h3>
+                    <ul class="related-list">
+                    {% for entry in page.related_entries %}
+                        <li><a href="#">{{ entry }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+
+                <div class="sidebar-section">
+                    <h3>Navigation</h3>
+                    <nav class="page-nav">
+                        <a href="#family-background-and-origins">Family Background</a>
+                        <a href="#patronage-and-ecclesiastical-relationships">Patronage</a>
+                        <a href="#painting-style-and-technical-mastery">Painting Style</a>
+                        <a href="#artistic-influences-and-cultural-context">Artistic Influences</a>
+                        <a href="#travels-and-geographical-context">Travels</a>
+                        <a href="#death-and-legacy">Death and Legacy</a>
+                        <a href="#principal-works-and-their-content">Principal Works</a>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Contenuto principale -->
+            <article class="artist-content">
+                {{ content }}
+            </article>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>© {{ 'now' | date: "%Y" }} MinDatabase. A scholarly knowledge repository documenting medieval Italian artists from the 12th to 14th centuries.</p>
+    </footer>
+</body>
+</html>
