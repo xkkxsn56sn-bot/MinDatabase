@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Hildegard von Bingen"
-author: Hildegard von Bingen
-period: XII century
-category: artists
+author: "Hildegard von Bingen"
+role: "Abbess, visionary theologian, composer, physician, and director of illuminated visionary manuscripts"
+dates: "c. 1098 – 17 September 1179"
+birth_place: "Bermersheim bei Alzey, Rhineland (present-day Germany)"
+death_place: "Monastery of Rupertsberg near Bingen am Rhein"
+period: "XII century"
+key_works:
+  - "\"Scivias\" (Know the Ways), visionary theological work with an extensive cycle of illuminations"
+  - "\"Liber vitae meritorum\" (Book of Life's Merits), visionary treatise with moral and eschatological imagery"
+  - "\"Liber divinorum operum\" (Book of Divine Works), cosmological and anthropological visions with complex visual programs"
+  - "Liturgical song cycle \"Symphonia armoniae celestium revelationum\""
+  - "Medical and scientific compendia \"Physica\" and \"Causae et curae\""
+related_entries:
+  - "Disibodenberg Monastery"
+  - "Rupertsberg and Eibingen monasteries"
+  - "Volmar and other scribes of the Rupertsberg scriptorium"
+  - "Rhineland reform movements in the twelfth century"
+  - "Visionary illumination in twelfth‑century manuscripts"
+category: "artists"
 ---
 
 Hildegard von Bingen was born around 1098 in Bermersheim bei Alzey, in the Rheinhessen region of present-day Germany, and died on September 17, 1179 at the monastery of Rupertsberg near Bingen. While primarily renowned as a mystic, composer, physician, and theological writer, her contributions to medieval visual culture through illuminated manuscripts represent a significant yet often overlooked aspect of her artistic legacy. Her death at Rupertsberg occurred after a period of ecclesiastical conflict, and she was buried in front of the altar of the monastic church.

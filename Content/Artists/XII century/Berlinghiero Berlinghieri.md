@@ -1,9 +1,24 @@
 ---
-layout: default
+layout: artist-profile
 title: "Berlinghiero Berlinghieri"
-author: Berlinghiero Berlinghieri
-period: XII century
-category: artists
+author: "Berlinghiero Berlinghieri"
+role: "Italo-Byzantine panel painter and workshop founder"
+dates: "c. 1175 – c. 1235/1236"
+birth_place: "Volterra (self-identified as Volterran)"
+death_place: "Lucca (probable), after 1235"
+period: "XII–XIII century"
+key_works:
+  - "Signed Crucifix for Santa Maria degli Angeli, now Museo Nazionale di Villa Guinigi, Lucca"
+  - "Madonna and Child, Metropolitan Museum of Art, New York (60.173)"
+  - "Signed Crucifix from Fucecchio (Fucecchio Crucifix)"
+  - "Possible design for facade mosaic, San Frediano, Lucca (attributed)"
+related_entries:
+  - "Volterra and the alum trade"
+  - "City of Lucca and the Via Francigena"
+  - "Berlinghieri family workshop (Bonaventura, Barone, and Marco)"
+  - "Italo-Byzantine painting in Tuscany"
+  - "Franciscan spirituality and affective piety"
+category: "artists"
 ---
 
 Berlinghiero Berlinghieri, born circa 1175 in Volterra and active primarily in Lucca until his death by 1236, stands as a pivotal figure in the emergence of the Italo-Byzantine painting tradition in early thirteenth-century Tuscany. The scant documentation of his life reflects the general paucity of archival materials for artists of this period, with biographical information derived principally from two signed works and a single notarial document dated 1228. This document, preserved in the Lucchese archives, identifies Berlinghiero as the son of Melanese the Elder and records his oath of peace with the Pisans alongside his sons Bonaventura, Barone, and Marco, all of whom would become painters themselves. The artist's self-identification as Volterran in the signatures on both the Lucca Crucifix and the Fucecchio Crucifix suggests his origins in that city, though his professional career flourished in Lucca. His probable death occurred between 1235 and 1236, as inferred from the absence of his name in subsequent documents where his sons appear independently. The establishment of what would become known as the Berlinghieri workshop represents one of the first documented painting dynasties in Tuscany, anticipating the family-based botteghe that would dominate Italian art production throughout the later Middle Ages and Renaissance. Berlinghiero's significance extends beyond his individual oeuvre to encompass his role as patriarch of this artistic lineage and as a formative influence on Tuscan painting during its critical transition from purely Byzantine models toward the distinctive Italo-Byzantine synthesis. The timing of his career coincides precisely with the transformative impact of the Fourth Crusade's sack of Constantinople in 1204, an event that dramatically increased the flow of Byzantine icons, manuscripts, and liturgical objects into Western Europe and fundamentally altered the visual culture of Italian cities. Berlinghiero's artistic formation must be understood within this context of unprecedented exposure to Constantinople's artistic patrimony and the simultaneous development of new devotional practices centered on the Virgin Mary, particularly those promoted by the newly founded Franciscan Order after 1209.

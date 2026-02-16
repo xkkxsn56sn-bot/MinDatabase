@@ -1,9 +1,24 @@
 ---
-layout: default
+layout: artist-profile
 title: "Duccio di Buoninsegna"
-author: Duccio di Buoninsegna
-period: XIII century
-category: artists
+author: "Duccio di Buoninsegna"
+role: "Foundational master of Sienese painting and synthesizer of Byzantine and Gothic traditions"
+dates: "c. 1255–1260 – c. 1318–1319"
+birth_place: "Siena"
+death_place: "Siena"
+period: "XIII–early XIV century"
+key_works:
+  - "Maestà, high altarpiece for Siena Cathedral (1308–1311), now Museo dell’Opera del Duomo and various museums"
+  - "Rucellai Madonna, originally for Santa Maria Novella, Florence, now Galleria degli Uffizi"
+  - "Stained-glass rose window of the apse, Siena Cathedral (design)"
+  - "Madonna and Child panels and small devotional works (various collections)"
+related_entries:
+  - "Siena Cathedral (Duomo di Siena) and the Opera del Duomo"
+  - "Biccherna of Siena and civic commissions"
+  - "Guido da Siena and early Sienese painting"
+  - "Simone Martini and Ugolino di Nerio"
+  - "Giotto di Bondone and Florentine Trecento painting"
+category: "artists"
 ---
 
 ## Early Life and Family

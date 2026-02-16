@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Marco Berlinghieri"
-author: Marco Berlinghieri
-period: XIII century
-category: artists
+author: "Marco Berlinghieri"
+role: "Miniatore, pittore di tavole e membro della bottega familiare berlinghieresca"
+dates: "attivo c. 1232 – dopo il 1260 (morte probabile poco dopo)"
+birth_place: "Lucca o Volterra (dibattuto), operante principalmente a Lucca"
+death_place: "Probabilmente Bologna o Lucca, dopo l’attività documentata a metà Duecento"
+period: "XIII century"
+key_works:
+  - "Bibbia miniata per lo Spedale di San Martino, Lucca (1248–1250), oggi Biblioteca Capitolare di Lucca, Cod. 1"
+  - "Affresco con la Strage degli Innocenti, chiesa di Santo Stefano (Santo Sepolcro), Bologna, oggi staccato"
+  - "Miniature e croci processionali documentate ma in parte non identificate con certezza"
+related_entries:
+  - "Famiglia Berlinghieri (Berlinghiero, Bonaventura, Barone)"
+  - "Scuola lucchese italo-bizantina"
+  - "Spedale di San Martino e Biblioteca Capitolare di Lucca"
+  - "Committente laico del Podestà di Bologna e complesso di Santo Stefano"
+  - "Italo-bizantino e ricezione della tradizione bizantina dopo il 1204"
+category: "artists"
 ---
 
 ## Family Background and Origins
@@ -66,9 +80,7 @@ The specific commission documented in 1255 for decorative painting in the podest
 
 The execution of the monumental fresco cycle depicting the Massacre of the Innocents in the church of Santo Stefano (also known as the Church of the Holy Sepulcher) around 1260 represented the culmination of Marco's documented professional achievements within Bologna, involving transition from miniature work and decorative painting to ambitious monumental fresco composition addressing a major ecclesiastical establishment. This fresco commission required mastery of fresco technique—where pigments applied to wet plaster create chemical bonds upon drying—distinct from tempera painting and demanding sustained concentration across extended working sessions given the technique's unforgiving demands and irreversibility following initial pigment application. The Santo Stefano cycle, which originally encompassed extensive wall and vault decoration of the complex church interior, constituted Marco's most ambitious documented project and required substantial professional organization, likely involving workshop assistants and carefully coordinated planning to ensure compositional coherence across multiple architectural surfaces.
 
-## Most Important Works with Detailed Description
-
-### Illuminated Biblical Manuscript (Codex), 1248–1250
+## Illuminated Biblical Manuscript (Codex), 1248–1250
 
 The comprehensive biblical manuscript illuminated by Marco Berlinghieri between 1248 and 1250 for the Spedale (Hospital) di San Martino in Lucca constitutes his most extensively documented surviving work, preserved in the Lucca Capitular Library (Codex 1, Palazzo della Curia Arcivescovile, Lucca). The manuscript encompasses the complete biblical text in Latin, rendered in careful scribal hand throughout extended pages and supplemented by Marco's elaborate system of decorated initials, miniature narrative scenes corresponding to liturgical readings, and densely patterned marginal ornament integrating geometric and vegetal motifs demonstrating sophisticated understanding of decorative principles derived from Byzantine manuscript traditions and contemporary gothic ornamentation. The commission itself testifies to the hospital's substantial resources and recognition of illuminated biblical texts' spiritual and institutional value: comprehensive biblical manuscripts represented major investments requiring multiple specialists' contributions coordinated across extended production timescales, and the commission of such prestigious objects marked institutional commitment to maintaining sophisticated liturgical and scholarly resources for community benefit.
 
@@ -78,7 +90,7 @@ The ornamental systems deployed throughout the manuscript's margins and surround
 
 The documentary evidence surrounding this biblical commission indicates that the hospital maintained manuscript production as significant institutional investment, perhaps maintaining in-house scriptoria or contracting with accomplished specialists through established patronage relationships. The survival of the manuscript within Luccan institutional collections across subsequent centuries testifies to its perceived value and the continuing reverence accorded to sophisticated medieval religious art within ecclesiastical contexts. The completed manuscript functioned simultaneously as utilitarian liturgical resource for communal recitation and prayer, treasure object demonstrating institutional wealth and cultural refinement, and devotional aid facilitating personal spiritual practice through contemplation of biblical narratives rendered in intricate visual detail.
 
-### Massacre of the Innocents, circa 1260
+## Massacre of the Innocents, circa 1260
 
 The monumental fresco composition depicting the Massacre of the Innocents (Strage degli Innocenti), detached from the Church of Santo Stefano in Bologna and now preserved in the church's museum as "affresco staccato" (detached fresco), measures approximately 350 by 205 centimeters and represents Marco's most ambitious documented project involving transition from miniature illumination to monumental fresco painting addressing a significant ecclesiastical commission. The fresco originally formed part of an extensive decorative cycle encompassing Santo Stefano's vault and wall surfaces, commissioned as devotional program addressing the complex church's liturgical functions and spiritual purposes within Bologna's urban religious landscape. The church complex, one of Bologna's most venerable ecclesiastical sites and repository of important relics including those of martyred saints, maintained prominent position within the city's religious topography and attracted devotional attention from both institutional communities and lay pilgrims, generating demand for elaborate visual programs addressing the church's sanctity and historical significance.
 
@@ -92,7 +104,7 @@ The technical execution of the fresco—accomplished through application of pigm
 
 The fresco's subsequent history documents changing aesthetic evaluations and conservation priorities: in 1804, the original thirteenth-century fresco decoration was systematically eliminated and replaced with Baroque-style frescoes by Filippo Pedrini reflecting contemporary aesthetic preferences and religious sensibilities, only to be subsequently removed during later restorations of the nineteenth century that pursued historical authenticity and respect for original artistic intentions. The survival of Marco's fresco as detached fragment testifies to its perceived artistic value and the continuing institutional commitment to preserving medieval artistic heritage despite intermediate periods when such works were systematically suppressed or destroyed. The current museum display of the detached fresco enables intimate viewer access impossible within original architectural setting while simultaneously alienating the work from its intended liturgical context and devotional functions, creating interpretative tensions between aesthetic appreciation and functional meaning characterizing contemporary museum-based engagement with medieval art.
 
-### Processional Crosses and Miniature Paintings (Attribution Uncertain)
+## Processional Crosses and Miniature Paintings (Attribution Uncertain)
 
 Documentary references indicate Marco Berlinghieri executed crosses and miniature paintings throughout his career, though specific extant works cannot be identified with absolute certainty. The processional crosses, designed for use in religious processions through mounting on poles enabling visibility from surrounding crowds, followed formal conventions established within medieval ecclesiastical practice: cruciform compositions with Christ's figure occupying the central crossing, subsidiary figures of the Virgin and Saint John flanking the crucifix at the horizontal arms, and ornamental terminals at the four extremities accommodating additional figures or ornamental elements. Marco's crosses presumably adapted this conventional format through specific stylistic treatment reflecting his Italo-Byzantine training and characteristic formal vocabulary.
 

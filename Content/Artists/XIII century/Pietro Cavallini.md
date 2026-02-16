@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Pietro Cavallini"
-author: Pietro Cavallini
-period: XIII century
-category: artists
+author: "Pietro Cavallini"
+role: "Pittore e mosaicista romano, ponte tra tradizione bizantina e naturalismo proto‑rinascimentale"
+dates: "c. 1240–1250 – c. 1330"
+birth_place: "Roma, nel rione di San Pietro in Vincoli (famiglia de’ Cerroni)"
+death_place: "Napoli (probabile) o Roma, verso il 1330"
+period: "XIII–early XIV century"
+key_works:
+  - "Mosaici con Storie della Vergine, abside di Santa Maria in Trastevere, Roma"
+  - "Giudizio Finale a fresco, controfacciata di Santa Cecilia in Trastevere, Roma"
+  - "Cicli pittorici perduti in San Paolo fuori le Mura, Roma (Storie dell’Antico e Nuovo Testamento)"
+  - "Decorazioni a fresco per San Giorgio in Velabro, Roma (in gran parte perdute)"
+  - "Opere per San Domenico Maggiore e Santa Maria Donnaregina, Napoli (attribuite)"
+related_entries:
+  - "Famiglia de’ Cerroni (Petrus dictus Cavallinus de Cerronibus)"
+  - "Santa Maria in Trastevere, Roma"
+  - "Santa Cecilia in Trastevere, Roma"
+  - "San Paolo fuori le Mura, Roma"
+  - "Corte angioina di Carlo II d’Angiò a Napoli"
+category: "artists"
 ---
 
 Pietro Cavallini, whose full name appears in contemporary documents as "Petrus dictus Caballinus de Cerronibus," represents one of the most significant yet enigmatic figures in the transition from medieval to Renaissance art in Italy. Born circa 1240-1250 in Rome, he lived an exceptionally long life by medieval standards, dying around 1330 at approximately ninety years of age. His surname "Cavallini" or more accurately "Cavallino," meaning "Little Horse," was likely a nickname that became permanently attached to his artistic identity. The artist consistently identified himself as "pictor romanus" in his signed works, emphasising his Roman heritage and professional standing within the artistic community of the Eternal City. His longevity allowed him to witness and participate in the profound artistic transformations that marked the late thirteenth and early fourteenth centuries, positioning him as both inheritor of Byzantine traditions and pioneer of the emerging naturalistic style that would characterise the early Renaissance.

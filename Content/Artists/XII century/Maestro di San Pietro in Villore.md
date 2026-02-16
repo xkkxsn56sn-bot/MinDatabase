@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Maestro di San Pietro in Villore"
-author: Maestro di San Pietro in Villore
-period: XII century
-category: artists
+author: "Maestro di San Pietro in Villore"
+role: "Provincial Tuscan painter of monumental crucifixes"
+dates: "born c. 1150; active c. 1180–1200; died c. 1200–1205 (hypothetical reconstruction)"
+birth_place: "Probably Umbria (Spoleto area), later active in Val d'Orcia, Tuscany"
+death_place: "Probably San Giovanni d'Asso or environs in the Val d'Orcia"
+period: "XII century"
+key_works:
+  - "Painted Cross (Croce dipinta) from San Pietro in Villore, now Museo Diocesano di Arte Sacra, Pienza"
+  - "Crucifix of San Giovanni Battista, San Giovanni d'Asso (attributed to the master or his workshop)"
+  - "Other fragmentary panels and crucifixes in the Val d'Orcia area (workshop attributions)"
+related_entries:
+  - "Church of San Pietro in Villore, near San Giovanni d'Asso"
+  - "Pieve di San Giovanni Battista, San Giovanni d'Asso"
+  - "Val d'Orcia and the Via Francigena"
+  - "Alberto Sotio and the Spoleto school"
+  - "Early Sienese painting and Umbrian–Tuscan artistic exchanges"
+category: "artists"
 ---
 
 The Master of San Pietro in Villore is a fundamental yet enigmatic figure in the history of Italian painting at the end of the 12th century, representing a crucial link between the Umbrian school of Spoleto and the emerging Sienese tradition.
