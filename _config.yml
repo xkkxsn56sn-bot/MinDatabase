@@ -6,6 +6,7 @@ url: https://medievalvisions.com
 baseurl: ""
 
 # Build settings
+theme: minima
 markdown: kramdown
 
 # Include all markdown files from Content directory
