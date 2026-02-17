@@ -8,10 +8,12 @@ location: "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
 tradition: "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
 architectural_style: "Romanesque with early Gothic elements"
 order: "Benedictine"
+
 founders_and_patrons:
   - "Benedictine monks dependent on Farfa Abbey"
   - "Abbot Teodino of Bominaco, briefly bishop of Valva"
   - "Legendary Carolingian foundation attributed to Charlemagne (\"re Carlo\")"
+
 key_phases:
   - "Early memorial cult of San Pellegrino (late antiquity – early Middle Ages)"
   - "Benedictine monastic development and Farfa dependence (10th–12th centuries)"
@@ -19,6 +21,7 @@ key_phases:
   - "Jurisdictional conflicts with the bishops of Valva (1093–1343)"
   - "Decline and destruction of the monastery after Braccio da Montone’s raid (1423)"
   - "Survival as parish site and modern conservation (17th–21st centuries)"
+
 fresco_program:
   cycles:
     - "Infancy of Christ"
@@ -30,6 +33,7 @@ fresco_program:
     - "Maestro della Passione"
     - "Maestro dell'Infanzia di Cristo"
     - "Maestro Miniaturista"
+
 architecture:
   type: "Single‑nave oratory with flat‑ended east wall"
   plan: "Rectangular hall, approx. 18.70 × 5.60 m, single nave without transept or apse"
@@ -40,6 +44,7 @@ architecture:
   exterior_features:
     - "Simple masonry façade with small rose window and modest campanile"
     - "Austere exterior contrasting with highly decorated interior"
+
 thematic_keywords:
   - "Benedictine monasticism"
   - "High Middle Ages"
@@ -48,6 +53,7 @@ thematic_keywords:
   - "Proto‑Gothic and French Gothic influences"
   - "Visual theology and liturgical pedagogy"
   - "Monastic calendar and zodiac"
+
 related_entries:
   - "Santa Maria Assunta, Bominaco"
   - "Farfa Abbey"
@@ -55,6 +61,7 @@ related_entries:
   - "Sant’Angelo in Formis"
   - "Monreale Cathedral"
   - "Giotto di Bondone and early Giottesque painting"
+
 category: "churches"
 ---
 
