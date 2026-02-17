@@ -8,10 +8,12 @@ location: "Saint-Savin-sur-Gartempe, Vienne, Nouvelle-Aquitaine, France"
 tradition: "Benedictine monasticism, reformed under Benedict of Aniane; later Maurist congregation"
 architectural_style: "Romanesque, Latin-cross basilica with continuous barrel-vaulted nave"
 order: "Benedictine"
+
 founders_and_patrons:
   - "Louis the Pious and the Carolingian court (early ninth-century foundation)"
   - "Saint Benedict of Aniane and his monastic reforms"
   - "Regional aristocratic patrons and later Maurist Benedictines"
+
 key_phases:
   - "Carolingian foundation and protection under Louis the Pious (c. 800)"
   - "Romanesque rebuilding: choir and transept (1060–1085)"
@@ -20,6 +22,7 @@ key_phases:
   - "Later modifications and losses in the fourteenth century"
   - "Destruction and secularisation during Wars of Religion and French Revolution"
   - "Nineteenth‑century rediscovery and conservation under Prosper Mérimée"
+
 fresco_program:
   cycles:
     - "Genesis and Exodus cycle on the nave barrel vault"
@@ -30,6 +33,7 @@ fresco_program:
   masters:
     - "Anonymous Romanesque master painters active c. 1100"
     - "Workshop associated with the Angevin linear style"
+
 architecture:
   type: "Basilican abbey church with Latin-cross plan"
   plan: "Nave (c. 42 × 17 m) with side aisles, transept, elevated choir and crypt"
@@ -41,6 +45,7 @@ architecture:
   exterior_features:
     - "Romanesque façade and bell tower completed in the late eleventh century"
     - "Relatively sober exterior contrasting with richly painted interior"
+
 thematic_keywords:
   - "Benedictine liturgy and Divine Office"
   - "Romanesque monumental painting"
@@ -48,6 +53,7 @@ thematic_keywords:
   - "Biblical cycles (Genesis, Exodus, Apocalypse, Passion)"
   - "Hagiography of local martyrs"
   - "Didactic visual theology for largely illiterate audiences"
+
 related_entries:
   - "Oratorio di San Pellegrino, Bominaco"
   - "Anagni Cathedral crypt"
@@ -55,6 +61,7 @@ related_entries:
   - "Monreale Cathedral"
   - "Cluny Abbey and Benedictine reform"
   - "Romanesque illuminated manuscripts"
+
 category: "churches"
 ---
 
