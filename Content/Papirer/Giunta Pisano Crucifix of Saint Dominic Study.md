@@ -7,8 +7,6 @@ period: XIII century
 category: papirer
 ---
 
-# Giunta Pisano, Crucifix of Saint Dominic: A Comprehensive Study
-
 ## History of the Crucifix 
 
 The Crucifix of Saint Dominic, completed between 1250 and 1254, represents one of the most consequential works in Western medieval art and marks a decisive rupture with the visual traditions that had dominated European panel painting for the preceding four centuries. Painted for the Basilica of San Domenico in Bologna, the order's most important church following Saint Dominic's canonization in 1234, the work measures 336 by 285 centimeters and is inscribed with the artist's signature: "CUIUS DOCTA MANUS ME PINXIT IUNTA PISANUS" (painted by the learned hand of Giunta Pisano). The crucifix was almost certainly commissioned to commemorate the consecration of the basilica itself, which took place under the authority of Pope Innocentius IV in 1251, a date that corresponds precisely with the documented period of Giunta's activity in the 1250s. This monumental panel functioned as a dossal—a liturgical screen suspended horizontally above the rood screen (tramezzo) that separated the choir, reserved for the Dominican friars, from the nave accessible to the lay faithful. From this elevated position, the crucifix would have constituted the visual and spiritual focal point of the entire liturgical space, its dimensions and placement emphasizing its role as the primary object of communal devotional meditation during the celebration of the Eucharist.
