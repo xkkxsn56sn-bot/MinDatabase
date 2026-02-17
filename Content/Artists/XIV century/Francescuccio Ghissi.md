@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Francescuccio Ghissi"
-author: Francescuccio Ghissi
-period: XIV century
-category: artists
+author: "Francescuccio Ghissi"
+role: "Fabriano painter of the Gothic tradition, active between the Marche and Umbria and a key interpreter of the Madonna dell'Umiltà and narrative altarpieces"
+dates: "documented 1345 – 1395"
+birth_place: "Fabriano, Marche"
+death_place: "Unknown (after 1395, probably in the Marche region)"
+period: "XIV century"
+key_works:
+  - "Madonna dell'Umiltà, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano"
+  - "Madonna dell'Umiltà, 1374, Montegiorgio"
+  - "Madonna dell'Umiltà, works in Fermo, Ascoli Piceno and Vatican Museums"
+  - "Saint John Altarpiece, c. 1370, dispersed panels (Art Institute of Chicago; Portland Art Museum; Metropolitan Museum of Art; North Carolina Museum of Art)"
+  - "Polyptych for Santa Maria dell'Appennino, now Pinacoteca Civica Bruno Molajoli, Fabriano"
+related_entries:
+  - "Allegretto Nuzi"
+  - "Andrea de Bartoli"
+  - "Bartolomeo da Camogli"
+  - "Vitale da Bologna"
+  - "Franciscan and Augustinian orders in the Marche"
+category: "artists"
 ---
 
 Francescuccio Ghissi stands as one of the most enigmatic and accomplished painters of the 14th-century Italian Gothic tradition, representing a crucial bridge between the established workshop practices of his era and the emerging stylistic developments that would define later medieval art. Born in Fabriano in the Marche region of central-eastern Italy, Ghissi emerged from the fertile artistic environment of this renowned paper-making city during the mid-14th century, though his exact birth date remains undocumented in surviving records. The earliest documentary evidence of his professional activity appears in 1345, when the Confraternita di Santa Maria del Mercato in Fabriano recorded a payment to "Francescuccio di Cicco," establishing the first chronological anchor for understanding his artistic trajectory. His name appears in various forms throughout documented sources, including "Francesco di Cecco Ghissi" and "Franciscutius Cicchi," reflecting the fluid naming conventions of medieval Italian artists. The artistic milieu of Fabriano during Ghissi's formative years was dominated by the Gothic style, particularly as interpreted through the influential workshop of Allegretto Nuzi, which would prove instrumental in shaping the young artist's aesthetic vocabulary. His documented activity spans from 1359 to 1395, encompassing a period of significant artistic production within the broader context of 14th-century Italian painting. The final reference to his presence appears in Perugia in 1389, suggesting his continued artistic engagement well into the latter decades of the century. Evidence suggests that Ghissi maintained an active workshop throughout his career, producing works that demonstrate both individual artistic vision and adherence to the established conventions of Gothic painting in the Marche region. His longevity as an artist, documented through nearly four decades of activity, testifies to his professional success and the sustained demand for his particular interpretation of contemporary religious iconography. The painter's death date and circumstances remain unrecorded, though his latest documented work dates to 1395, providing a terminus ante quem for understanding the conclusion of his artistic career.

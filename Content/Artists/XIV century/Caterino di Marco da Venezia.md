@@ -1,9 +1,26 @@
 ---
-layout: default
+layout: artist-profile
 title: "Caterino di Marco da Venezia"
-author: Caterino di Marco da Venezia
-period: XIV century
-category: artists
+author: "Caterino di Marco da Venezia"
+role: "Venetian painter active in the second half of the fourteenth century, collaborator of Donato and mediator between Byzantine tradition and emerging Gothic currents"
+dates: "active 1362 – after 1390"
+birth_place: "Venice"
+death_place: "Venice (probable), after 1390"
+period: "XIV century"
+key_works:
+  - "Coronation of the Virgin, signed with Donato, 1372, Galleria Querini-Stampalia, Venice"
+  - "Coronation of the Virgin, signed and dated 1375, Gallerie dell'Accademia, Venice"
+  - "Coronation of the Virgin with Saints Lucy and Nicholas of Tolentino, triptych, Gallerie dell'Accademia, Venice"
+  - "Polyptych with Madonna and Child, Walters Art Museum, Baltimore"
+  - "Madonna dell'Umiltà, Worcester Art Museum, Worcester"
+  - "Madonna and Child, Museo d'Arte Sacra, San Leo (formerly Museo Diocesano Antonio Bergamaschi, Pennabilli)"
+related_entries:
+  - "Donato (Venetian painter)"
+  - "Lorenzo Veneziano"
+  - "Giovanni da Bologna"
+  - "Jacobello di Bonomo"
+  - "Paolo Veneziano"
+category: "artists"
 ---
 
 Caterino di Marco da Venezia, known also as Catarino Veneziano or simply Catarino, was a Venetian painter active during the second half of the fourteenth century, whose documented career spans from 1362 to 1390. The painter's first appearance in historical records dates to 1362, when he served as a witness in a legal act, establishing his presence in Venice as a professional artist at that time. Archival research conducted by Testi in 1909 definitively resolved the identification of this artist in relation to two other homonymous figures active in Venice: a Caterino documented as an intaiator (carver) who died before 1430, and another Caterino painter mentioned in a 1455 document, clearly distinguishing our subject as the earliest of the three. The foundation for attributing works to Caterino rests primarily upon the signed altarpiece of the Coronation of the Virgin, executed jointly with the painter Donato in 1372 and preserved at the Galleria Querini-Stampalia in Venice, which provides the cornerstone for reconstructing his artistic activity. This collaborative work, together with documentary evidence of Caterino's apprenticeship and ongoing professional relationship with Donato, has enabled art historians to establish a coherent catalog of his independent and collaborative productions. The absence of precise birth and death dates, as well as limited biographical documentation, reflects the fragmentary nature of fourteenth-century Venetian artistic records, particularly for painters of secondary importance who operated outside the most prestigious commissions. Caterino's emergence in the historical record during the seventh decade of the fourteenth century suggests he had already completed his artistic training and established himself as a competent professional capable of undertaking significant ecclesiastical commissions. The identification problems that initially surrounded this artist stem from the popularity of the name Caterino in fourteenth and fifteenth-century Venice, necessitating careful archival analysis to distinguish between multiple individuals sharing the same appellation. Contemporary documents typically refer to him simply as "Caterino pictor" (Caterino the painter) or occasionally with the fuller designation "Caterino di Marco da Venezia," indicating his patronymic and Venetian origin. The documentary trail for Caterino, though sparse, provides crucial chronological anchors that allow scholars to position his work within the broader context of Trecento Venetian painting and its gradual transformation from Byzantine to Gothic stylistic conventions.

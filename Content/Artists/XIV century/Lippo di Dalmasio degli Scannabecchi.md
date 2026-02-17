@@ -1,9 +1,26 @@
 ---
-layout: default
+layout: artist-profile
 title: "Lippo di Dalmasio degli Scannabecchi"
-author: Lippo di Dalmasio degli Scannabecchi
-period: XIV century
-category: artists
+author: "Lippo di Dalmasio degli Scannabecchi"
+role: "Bolognese painter from a noble Ghibelline family, leading specialist in Marian imagery and principal painter of late fourteenth‑century Bologna"
+dates: "c. 1353–1355 – October 1410"
+birth_place: "Bologna"
+death_place: "Bologna, October 1410"
+period: "XIV century"
+key_works:
+  - "Madonna of Humility, c. 1390, National Gallery, London"
+  - "Coronation of the Virgin triptych, 1394, Pinacoteca Nazionale di Bologna (with wings from Museo Stibbert, Florence)"
+  - "Madonna dell'Umiltà, 1397, Santa Maria della Misericordia, Bologna"
+  - "Frescoes for the Oratorio di San Colombano, Chapel of the Madonna dell'Orazione, Bologna (c. 1399)"
+  - "Lost polyptych for Santa Maria dei Serviti, Pistoia (1383, documented)"
+related_entries:
+  - "Dalmasio degli Scannabecchi"
+  - "Simone dei Crocifissi"
+  - "Vitale da Bologna"
+  - "Andrea di Cione (Orcagna)"
+  - "Bernardo Daddi"
+  - "San Petronio, Bologna"
+category: "artists"
 ---
 
 Lippo di Dalmasio degli Scannabecchi was born in Bologna around 1353-1355, the son of Dalmasio Scannabecchi, a painter who belonged to a minor branch of the noble Ghibelline family of the Scannabecchi. The Scannabecchi were among the most prominent aristocratic families of medieval Bologna, with a long history of political involvement and artistic patronage dating back several centuries. The family possessed substantial properties in the city, including houses and land holdings near the church of San Dalmasio, which bore their family name and served as their ancestral burial place. Historically, the Scannabecchi had been active participants in the factional conflicts that characterized Bologna's medieval political landscape, consistently supporting the Ghibelline cause against the Guelph faction. Their political allegiances had brought them both great influence and periodic exile from the city during periods of Guelph ascendancy. The family's prominence extended beyond politics into the realms of commerce and culture, with various members holding important positions in the city's guilds and religious institutions. Their coat of arms and family traditions were deeply embedded in Bolognese society, making them part of the established nobility that shaped the city's cultural and artistic development. The Scannabecchi lineage eventually terminated in the fourteenth century through a female heir who married into the Venetian Cavalli family, marking the end of this ancient Bolognese dynasty.

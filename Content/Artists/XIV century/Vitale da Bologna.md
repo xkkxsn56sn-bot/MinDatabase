@@ -1,9 +1,25 @@
 ---
-layout: default
+layout: artist-profile
 title: "Vitale da Bologna"
-author: Vitale da Bologna
-period: XIV century
-category: artists
+author: "Vitale da Bologna"
+role: "Bolognese Gothic painter, key interpreter of Giottesque innovations and leading fresco specialist in mid‑fourteenth‑century Emilia‑Romagna"
+dates: "c. 1309 – c. 1361"
+birth_place: "Bologna"
+death_place: "Bologna or environs (probable), around 1361, likely during a plague outbreak"
+period: "XIV century"
+key_works:
+  - "Frescoes of Saint George and the Dragon, San Vitale, Bologna (fragments)"
+  - "Madonna dei Battuti, Pinacoteca Nazionale di Bologna"
+  - "Madonna dei Denti, Pinacoteca Nazionale di Bologna"
+  - "Frescoes at Pomposa Abbey, near Ferrara"
+  - "Crucifix for San Francesco, Bologna (fragments, tempera and gold on panel)"
+related_entries:
+  - "Giotto di Bondone and the Giottesque tradition"
+  - "Rimini school of painting"
+  - "Ferrara and the Este court"
+  - "Tommaso da Modena"
+  - "Franciscan and other mendicant orders in Bologna"
+category: "artists"
 ---
 
 Vitale da Bologna, known in certain documents by the name Vitale di Aymo de’ Cavalli, is generally believed to have been born around the year 1309 in the city of Bologna, an urban center that was then under the influence of various local noble families and embroiled in the vibrant political life of northern Italy. Although precise archival evidence does not fix an exact birthdate, credible art historical sources and local records converge on the first decade of the fourteenth century, marking Vitale’s arrival into a world that was keenly attuned to developments in painting and religious devotion. From his earliest years, the young Vitale would have witnessed a city punctuated by grand churches, bustling markets, and the newly rising communal civic identity that prized both artistic innovation and devout Christian representation.

@@ -1,9 +1,28 @@
 ---
-layout: default
+layout: artist-profile
 title: "Nicolò di Giacomo"
-author: Nicolò di Giacomo
-period: XIV century
-category: artists
+author: "Nicolò di Giacomo"
+role: "Bolognese illuminator and head of an important artistic dynasty, principal manuscript painter in fourteenth‑century Bologna"
+dates: "c. 1325 – 1402/1404"
+birth_place: "Bologna (quarter of San Procolo)"
+death_place: "Bologna, between 1402 and 1404"
+period: "XIV century"
+key_works:
+  - "Officium B. Mariae Virginis (Book of Hours), 1349, Stiftsbibliothek Kremsmünster, Schatzkasten 4"
+  - "Giovanni d’Andrea, Novella sulle Decretali, c. 1353–1354 (Vatican Library, Biblioteca Ambrosiana, St. Peter’s Abbey, Salzburg)"
+  - "Choir books for San Giacomo Maggiore, Museo Civico Medievale, Bologna"
+  - "Lucan, Pharsalia for the Boiardo family, 1378, British Library, Add. 11990"
+  - "Seneca, Tragedies, c. 1385, Biblioteca Ambrosiana, C 96 inf."
+  - "Graduals for the Basilica of Saint Anthony, Biblioteca Antoniana, Padua (mss. VII and XII)"
+  - "Guild statute books for Bolognese corporations, Bologna civic museums"
+related_entries:
+  - "Jacopo di Paolo"
+  - "Vitale da Bologna"
+  - "Simone dei Crocifissi"
+  - "Andrea de Bartoli"
+  - "University of Bologna"
+  - "Benedictine, Augustinian, Dominican and Franciscan orders in Bologna"
+category: "artists"
 ---
 
 Nicolò di Giacomo di Nascimbene, commonly known as Nicolò da Bologna, was born around 1325 in Bologna and died between 1402 and 1404 in the same city, likely of natural causes given his advanced age. He stands as one of the most significant and prolific manuscript illuminators of fourteenth-century Italy, whose extensive body of work fundamentally shaped the artistic landscape of Bologna and influenced manuscript production throughout the Italian peninsula.
