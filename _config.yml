@@ -13,12 +13,16 @@ markdown: kramdown
 include:
   - Content
 
-# Default front matter for ALL markdown files
+# Default front matter is differentiated by directory to apply specific layouts
 defaults:
   - scope:
-      path: "Content"
+      path: "Content/Artists"
     values:
-      layout: "default"
+      layout: "artist-profile"
+  - scope:
+      path: "Content/Churches"
+    values:
+      layout: "church-profile"
 
 # Exclude from processing
 exclude:
