@@ -1,9 +1,26 @@
 ---
-layout: default
+layout: artist-profile
 title: "Puccio di Simone"
-author: Puccio di Simone
-period: XIV century
-category: artists
+author: "Puccio di Simone"
+role: "Florentine Gothic painter trained in the circle of Bernardo Daddi, active between Florence and Fabriano and key interpreter of Giottesque traditions in the mid‑Trecento"
+dates: "active c. 1343 – after 1357 (probably died shortly after 1362)"
+birth_place: "Florence (probable)"
+death_place: "Florence or environs (probable), shortly after 1362"
+period: "XIV century"
+key_works:
+  - "Frescoes in the Strozzi Chapel, Santa Maria Novella, Florence (dated 1340, fragmentary)"
+  - "Polyptych with the Mystic Marriage of Saint Catherine (panels dispersed: Berlin, London and other collections)"
+  - "Saint Anthony Abbot Altarpiece, 1353, Pinacoteca Civica, Fabriano (Sant’Antonio Abate fuori Porta Pisana)"
+  - "Triptych with Madonna and Saints, 1354, National Gallery of Art, Washington (Samuel H. Kress Collection)"
+  - "Coronation of the Virgin, c. 1350, Museum of Fine Arts, Ghent"
+  - "Madonna and Child with Angels, c. 1350, Norton Simon Museum, Pasadena"
+related_entries:
+  - "Bernardo Daddi"
+  - "Giotto di Bondone and the Giottesque tradition"
+  - "Allegretto Nuzi"
+  - "Strozzi family of Florence"
+  - "Sant’Antonio Abate fuori Porta Pisana, Fabriano"
+category: "artists"
 ---
 
 Puccio di Simone was an Italian Gothic painter active in Florence during the middle decades of the fourteenth century, with documented activity spanning from approximately 1343 to 1357, though he likely survived until after 1362. The precise date and place of his birth remain unknown, as is common for many artists of this period, though he was likely born in Florence in the early decades of the Trecento, probably around 1310-1320, given his documented professional maturity by the 1340s. His name first appears in historical records when he was enrolled in the Arte dei Medici e Speziali, the Florentine guild of doctors, druggists, and painters, between 1346 and 1348, indicating that he had already achieved the status of an independent master by this time. The artist is also identified with the Master of the Fabriano Altarpiece, a designation established by scholar Richard Offner and confirmed by Roberto Longhi in 1959, which significantly expanded understanding of his oeuvre. Puccio's death is presumed to have occurred shortly after 1362, as he does not appear in the tax registers (prestanze) of that year, suggesting he had died by then. No documentation survives regarding the cause of his death, which remains a matter of scholarly conjecture. His career unfolded during one of the most dynamic periods of Florentine painting, following the revolutionary innovations of Giotto and his immediate successors.

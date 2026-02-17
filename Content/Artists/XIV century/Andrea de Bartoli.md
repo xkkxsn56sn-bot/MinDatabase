@@ -1,9 +1,24 @@
 ---
-layout: default
+layout: artist-profile
 title: "Andrea de Bartoli"
-author: Andrea de Bartoli
-period: XIV century
-category: artists
+author: "Andrea de Bartoli"
+role: "Bolognese painter and illuminator active in the mid-fourteenth century, collaborator of his brother Bartolomeo and court artist for major ecclesiastical patrons"
+dates: "active c. 1355 – after 1369"
+birth_place: "Bologna (probable)"
+death_place: "Unknown, possibly Bologna"
+period: "XIV century"
+key_works:
+  - "\"Canzone delle Virtù e delle Scienze\", illuminated manuscript, Musée Condé, Chantilly"
+  - "Frescoes in the Visconti castle chapel, Pavia (fragments)"
+  - "Fresco cycle in the Chapel of Saint Catherine, Lower Church of San Francesco, Assisi"
+  - "Saint Mark pinnacle, private collection, Ascoli Piceno"
+related_entries:
+  - "Vitale da Bologna"
+  - "Simone dei Crocifissi"
+  - "Tommaso da Modena"
+  - "Jacopo Avanzi"
+  - "Cardinal Egidio Albornoz"
+category: "artists"
 ---
 
 The artistic lineage of Andrea de' Bartoli, also known as Andrea da Bologna, emerges from the rich cultural milieu of fourteenth-century Bologna, where his family established itself as a prominent figure in the intellectual and artistic circles of the city. Born into a family that would contribute significantly to the cultural life of Bologna, Andrea shared his artistic heritage with his brother Bartolomeo de' Bartoli, a distinguished poet, calligrapher, and author of the celebrated "Canzone delle Virtù e delle Scienze". The de' Bartoli family appears to have been well-connected within the academic and ecclesiastical circles of Bologna, with their surname suggesting noble or at least prosperous merchant origins that enabled them to pursue intellectual and artistic careers. While the exact date and place of Andrea's birth remain undocumented, scholars generally place his origins in Bologna during the early fourteenth century, likely in the first quarter of the century given his documented activity beginning in 1355. The family's intellectual orientation is evidenced by their close relationship with Cardinal Egidio Albornoz, one of the most powerful ecclesiastical figures of the time, who would become Andrea's primary patron. Bartolomeo's literary achievements and Andrea's artistic talents suggest a household that valued both classical learning and artistic expression, reflecting the broader humanist tendencies emerging in Bologna during this period. The brothers' collaborative work on the illuminated manuscript of the "Canzone delle Virtù e delle Scienze" demonstrates the integrated nature of their artistic and literary pursuits, with Andrea providing the visual complement to his brother's poetic compositions. This family dynamic positioned both brothers within the sophisticated cultural networks of fourteenth-century Bologna, where the university had become a center of legal studies and humanist learning. The de' Bartoli family's prominence is further suggested by their ability to secure prestigious commissions from cardinal patrons, indicating their social standing and professional reputation within the artistic community of Bologna. Their family workshop appears to have operated as a collaborative enterprise, combining the skills of manuscript illumination, painting, and literary composition in a manner characteristic of the period's integrated approach to artistic production.

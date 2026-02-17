@@ -1,9 +1,26 @@
 ---
-layout: default
+layout: artist-profile
 title: "Simone dei Crocifissi"
-author: Simone dei Crocifissi
-period: XIV century
-category: artists
+author: "Simone dei Crocifissi"
+role: "Bolognese Gothic painter, leading interpreter of the Giottesque tradition and principal producer of religious imagery in late fourteenth‑century Bologna"
+dates: "c. 1330/1335 – after 1399"
+birth_place: "Bologna, parish of San Domenico"
+death_place: "Bologna (probable), shortly after 1399"
+period: "XIV century"
+key_works:
+  - "Crucifix, 1370, San Giacomo Maggiore, Bologna"
+  - "Frescoes from Santa Maria di Mezzaratta (now Pinacoteca Nazionale di Bologna), including Old and New Testament cycles"
+  - "Pietà for Giovanni da Elthinl, 1368 (lost, known from documents)"
+  - "Polyptych for San Petronio, Bologna (Cospi commission, dispersed)"
+  - "Painted casket for a member of the Baisi family, Victoria and Albert Museum, London"
+related_entries:
+  - "Vitale da Bologna"
+  - "Dalmasio degli Scannabecchi"
+  - "Lippo di Dalmasio degli Scannabecchi"
+  - "Nicolò di Giacomo"
+  - "San Giacomo Maggiore, Bologna"
+  - "Santa Maria di Mezzaratta, Bologna"
+category: "artists"
 ---
 
 Simone di Filippo Benvenuti, universally known as Simone dei Crocifissi, emerged from the modest artisan class of fourteenth-century Bologna, representing a paradigmatic case of social mobility through artistic excellence in medieval Italian society. His father, Filippo di Benvenuto, was a shoemaker (calzolaio) whose name appears in Bologna's estimo of 1329 and in the city's venticinquine from 1328 to 1342, indicating his status as a productive member of the urban artisan community. The family resided in the parish of San Domenico within the quarter of Porta Procola, an area that would remain central to Simone's life and artistic career throughout his documented existence. The choice of naming his son Simone di Filippo suggests a family tradition of maintaining patronymic connections while simultaneously indicating the father's desire for his offspring to transcend their humble social origins. Filippo di Benvenuto's profession as a cobbler positioned the family within Bologna's vibrant artisan economy, where craft specialization and guild membership provided both economic stability and social recognition. The artisan class in Bologna during this period maintained complex relationships with both the mercantile elite and the ecclesiastical institutions that dominated the city's cultural and economic landscape. Evidence suggests that Filippo was sufficiently prosperous to ensure his son received an education that would enable entrance into the more prestigious profession of painting. The family's residence near San Domenico placed them within one of Bologna's most intellectually and artistically stimulating neighborhoods, home to the famous university and numerous religious institutions. This geographical proximity to centers of learning and artistic production undoubtedly influenced young Simone's exposure to the visual arts and his eventual career trajectory. The transition from artisan father to artist son represents a common pattern in medieval Italian society, where artistic talent provided opportunities for social advancement and economic improvement.

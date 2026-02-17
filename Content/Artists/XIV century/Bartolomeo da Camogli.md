@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Bartolomeo da Camogli"
-author: Bartolomeo da Camogli
-period: XIV century
-category: artists
+author: "Bartolomeo da Camogli"
+role: "Genoese painter from Camogli, active in the second quarter of the fourteenth century and key mediator of Sienese and Avignonese currents in Liguria and the Mediterranean"
+dates: "c. 1300 – before October 1348"
+birth_place: "Camogli, near Genoa"
+death_place: "Genoa (probable), during the Black Death of 1348"
+period: "XIV century"
+key_works:
+  - "Madonna dell'Umiltà, signed and dated 1346, Galleria Regionale della Sicilia, Palazzo Abatellis, Palermo"
+  - "Lost altarpiece for the church of San Siro, Genoa (documented 30 March 1346)"
+  - "Frontispiece of the Matricola dei Caravana, Archivio di Stato di Genova (attributed)"
+related_entries:
+  - "Opizzino Pellerano (Master of Santa Maria di Castello)"
+  - "Simone Martini"
+  - "Cimabue and the Assisi fresco cycles"
+  - "Genoese merchant community in Palermo"
+  - "Flagellant confraternities (disciplinanti)"
+category: "artists"
 ---
 
 Bartolomeo da Camogli, also known as Bartolomeo Pellerano or Bartolomeus de Camulio, represents a crucial yet understudied figure in the development of fourteenth-century Mediterranean painting. Born around 1300 in Camogli, a small coastal town near Genoa in the Republic of Genoa, the artist emerged during a period of significant artistic ferment in the Ligurian capital. His birth date can be reasonably estimated from documentary evidence that places him as an active master painter by 1339, suggesting he would have completed his apprenticeship and achieved independent status by his mid-to-late thirties. The precise circumstances of his birth remain undocumented, though his family origins in the maritime community of Camogli suggest connections to the mercantile networks that characterized Genoese society. Camogli itself, situated on the Ligurian Riviera, was a modest settlement whose artistic production was naturally oriented toward the dominant cultural center of Genoa. The artist's early life coincided with Genoa's period as a major Mediterranean maritime power, a status that would prove decisive in shaping his artistic opportunities and the diffusion of his work. His formative years unfolded against the backdrop of intense commercial activity between Genoa and other Mediterranean ports, particularly in Sicily, North Africa, and the Eastern Mediterranean. The artist's family name, Pellerano, suggests possible connections to a lineage of artisans or craftsmen, though the specific origins of this surname remain obscure. His alternative designation "da Camogli" served primarily to distinguish him from other painters named Bartolomeo active in Genoa during the same period. The cultural milieu of his birthplace, though provincial, maintained connections to the sophisticated artistic developments occurring in Genoa and beyond.

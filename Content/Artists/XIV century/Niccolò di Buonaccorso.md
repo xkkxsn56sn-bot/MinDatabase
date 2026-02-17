@@ -1,9 +1,28 @@
 ---
-layout: default
+layout: artist-profile
 title: "Niccolò di Buonaccorso"
-author: Niccolò di Buonaccorso
-period: XIV century
-category: artists
+author: "Niccolò di Buonaccorso"
+role: "Sienese painter and civic official, specialist in miniaturist panel painting and major representative of late Trecento Sienese Gothic"
+dates: "c. 1330–1335 – 17 May 1388"
+birth_place: "Siena, parish of San Martino"
+death_place: "Siena, buried in the cloister of San Domenico"
+period: "XIV century"
+key_works:
+  - "Marriage of the Virgin, c. 1380, National Gallery, London"
+  - "Presentation of the Virgin in the Temple, c. 1380, Gallerie degli Uffizi, Florence"
+  - "Coronation of the Virgin, c. 1380, Metropolitan Museum of Art, New York"
+  - "Madonna and Child, signed and dated 1387, Timken Museum of Art, San Diego"
+  - "Crucifixion, c. 1380–1385, Galleria Nazionale dell’Umbria, Perugia"
+  - "Madonna dell’Umiltà, mid‑1380s, Louvre, Paris"
+  - "Saint Lawrence panel from Montecchio polyptych, Kelvingrove Art Gallery and Museum, Glasgow"
+related_entries:
+  - "Simone Martini"
+  - "Ambrogio Lorenzetti"
+  - "Pietro Lorenzetti"
+  - "Jacopo di Mino del Pellicciaio"
+  - "Spedale di Santa Maria della Scala, Siena"
+  - "Santa Maria Nuova, Florence"
+category: "artists"
 ---
 
 Born in Siena in the early 1330s, Niccolò di Buonaccorso emerged from a family deeply entrenched in the Sienese artistic milieu. His father, Buonaccorso di Pace, is documented as a painter and architect active between 1347 and 1363, suggesting that Niccolò was immersed in workshop practice from childhood. A probable younger brother, Paolo di Buonaccorso di Pace, appears in records of the guild of painters in 1374, indicating a familial workshop tradition. The Buonaccorso household maintained close ties with both civic institutions and ecclesiastical patrons, providing Niccolò with early exposure to commissions for public and religious endowments. Maternal lineage remains obscure, though archival wills reference a woman named Lucia, possibly his mother, whose dowry facilitated Buonaccorso di Pace’s workshop establishment. Baptismal registers from the parish of San Martino attest to Niccolò’s birth, though without a precise year, scholars generally estimate it around 1330–1335 based on guild enrollment ages. Household inventories from the mid-fourteenth century list panels and frames attributed to Buonaccorso di Pace, underscoring a workshop environment rich in materials and motifs. Niccolò’s formative years coincided with Siena’s artistic zenith, under the patronage of the papal legate Carlo di Durazzo and the commune’s efforts to beautify the cathedral. Trained initially under his father, he later refined his technique alongside contemporaries such as Angelo Puccinelli, reflecting a familial apprenticeship model. These early influences and familial resources laid the foundation for Niccolò’s later career as both painter and civic official.

@@ -1,9 +1,27 @@
 ---
-layout: default
+layout: artist-profile
 title: "Paolo Veneziano"
-author: Paolo Veneziano
-period: XIV century
-category: artists
+author: "Paolo Veneziano"
+role: "Venetian painter and head of a major family workshop, foundational figure of fourteenth‑century Venetian painting and mediator between Byzantine tradition and Gothic innovation"
+dates: "c. 1290/1300 – before September 1362"
+birth_place: "Venice, parish of San Luca"
+death_place: "Venice, before September 1362"
+period: "XIV century"
+key_works:
+  - "Pala Feriale (weekday cover of the Pala d’Oro), Basilica di San Marco, Venice (1345, with Luca and Giovanni)"
+  - "Polyptych for San Lorenzo, Vicenza (1333)"
+  - "Lunette with Doge Francesco Dandolo and Elisabetta Contarini, tomb at Santa Maria Gloriosa dei Frari, Venice"
+  - "Polyptych for San Martino, Chioggia (1349)"
+  - "Polyptych now in the Louvre, Paris (c. 1354)"
+  - "Coronation of the Virgin polyptych, San Severino Marche (1358, with Giovanni Veneziano)"
+related_entries:
+  - "Luca Veneziano"
+  - "Giovanni Veneziano"
+  - "Marco Veneziano"
+  - "Lorenzo Veneziano"
+  - "Basilica di San Marco, Venice"
+  - "Doge Andrea Dandolo"
+category: "artists"
 ---
 
 Paolo Veneziano, also known as Paolo da Venezia or Maestro Paolo, was born circa 1300 in Venice, Italy, though some scholars have proposed an earlier birth date around 1290 based on stylistic analysis and career trajectory. The exact date and circumstances of his birth remain undocumented in archival sources, representing one of the many lacunae that characterize early Trecento Venetian artistic biography. His birthplace in the parish of San Luca, Venice, would later serve as the location of his workshop and residence throughout his documented career. The artist emerged during a period of extraordinary cultural and political vitality in Venice, contemporary with such momentous events as the birth of lion cubs at the Doge's Palace in 1316 and the diplomatic visit of Dante Alighieri in 1321. Paolo's formative years coincided with Venice's consolidation as a major Mediterranean power, establishing commercial and artistic networks that extended from Byzantium to Northern Europe.

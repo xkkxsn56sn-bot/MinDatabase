@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: artist-profile
 title: "Allegretto Nuzi"
-author: Allegretto Nuzi
-period: XIV century
-category: artists
+author: "Allegretto Nuzi"
+role: "Fabrian painter active in the mid‑fourteenth century, working between Fabriano and the Marche–Umbria region"
+dates: "c. 1315 – 1373"
+birth_place: "Fabriano"
+death_place: "Fabriano (probable)"
+period: "XIV century"
+key_works:
+  - "Madonna and Child, Brooklyn Museum, New York"
+  - "Virgin and Child Enthroned with Saints, Walters Art Museum, Baltimore"
+  - "Madonna and Child with Saints, Philadelphia Museum of Art"
+  - "Devotional panel, National Gallery of Art, Washington"
+related_entries:
+  - "Simone Martini"
+  - "Lippo Memmi"
+  - "Francescuccio Ghissi"
+  - "Vitale da Bologna"
+category: "artists"
 ---
 
 Allegretto Nuzi, also occasionally referred to as Allegretto di Nuzio, was born around the year 1315 in the flourishing town of Fabriano, situated in the Marche region of central Italy. The city at that time was known for its vibrant community of artisans, paper-makers, and merchants, and this stimulating environment left a deep impression on the young painter. Accounts of his earliest years remain scant in the surviving documentation, yet art historians agree that Fabriano’s cultural climate had a decisive impact on his formative development. Although the precise day and month of his birth have not survived the erosion of centuries, the approximate date is generally accepted by modern scholars based on stylistic comparisons with other artists of the period, as well as fragmentary records of his early commissions.
