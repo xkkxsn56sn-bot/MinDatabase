@@ -1,3 +1,22 @@
+---
+layout: artist-profile
+title: "Manfredino da Pistoia"
+role: "Pittore"
+dates: "attivo 1274–1293 ca."
+birth_place: "Pistoia (probabile)"
+death_place: ""
+period: "XIII secolo, ambito cimabuesco e tardo bizantino toscano"
+key_works:
+  - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta, Pistoia (1274)"
+  - "Cristo Pantocratore con Santi e angeli, San Bartolomeo in Pantano, Pistoia"
+  - "Cena in casa di Simone, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
+  - "San Michele, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
+related_entries:
+  - "Cimabue"
+  - "Scuola pittorica pistoiese"
+  - "Pittura murale genovese del Duecento"
+---
+
 Manfredino d’Alberto (also known as Manfredino da Pistoia) was a 13th‑century Italian painter active above all in Pistoia and later in Genoa, whose documented career spans from 1280 to 1293 and whose surviving works belong fully to the late Duecento Tuscan tradition. He was almost certainly born in Pistoia, though no document records his exact birth date, and the archival silence after 1293 means that both the date and the circumstances of his death remain unknown, beyond the fact that he was alive and professionally active in the last quarter of the 13th century.
 
 ## Family and social background
