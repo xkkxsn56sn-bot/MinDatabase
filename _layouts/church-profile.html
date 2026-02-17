@@ -2,177 +2,154 @@
 layout: default
 ---
 
-<article class="church-profile container prose">
+<div class="profile-grid">
 
-  <header class="church-header">
-    <h1 class="church-title">{{ page.title }}</h1>
-
-    <p class="church-meta-line">
-      {% if page.location %}
-        <span class="church-location"><strong>Location:</strong> {{ page.location }}</span>
-      {% endif %}
-      {% if page.dates %}
-        <br>
-        <span class="church-dates"><strong>Chronology:</strong> {{ page.dates }}</span>
-      {% endif %}
-      {% if page.tradition %}
-        <br>
-        <span class="church-tradition"><strong>Ecclesiastical tradition:</strong> {{ page.tradition }}</span>
-      {% endif %}
-      {% if page.order %}
-        <br>
-        <span class="church-order"><strong>Religious order:</strong> {{ page.order }}</span>
-      {% endif %}
-    </p>
+  <!-- LEFT COLUMN: structured profile data -->
+  <aside class="profile-sidebar church-sidebar">
+    <h1 class="profile-title">{{ page.title }}</h1>
 
     {% if page.role %}
-      <p class="church-abstract">
-        <strong>Profile:</strong> {{ page.role }}
-      </p>
+      <p class="profile-role">{{ page.role }}</p>
     {% endif %}
-  </header>
 
-  <section class="church-section church-summary">
-    <h2>1. Basic data</h2>
-    <dl>
+    <section class="profile-section">
+      {% if page.location %}
+        <h2>Location</h2>
+        <p>{{ page.location }}</p>
+      {% endif %}
+
+      {% if page.dates %}
+        <h2>Chronology</h2>
+        <p>{{ page.dates }}</p>
+      {% endif %}
+
+      {% if page.tradition %}
+        <h2>Ecclesiastical tradition</h2>
+        <p>{{ page.tradition }}</p>
+      {% endif %}
+
+      {% if page.order %}
+        <h2>Religious order</h2>
+        <p>{{ page.order }}</p>
+      {% endif %}
+
       {% if page.architectural_style %}
-      <div class="church-meta-item">
-        <dt>Architectural style</dt>
-        <dd>{{ page.architectural_style }}</dd>
-      </div>
+        <h2>Architectural style</h2>
+        <p>{{ page.architectural_style }}</p>
       {% endif %}
+    </section>
 
-      {% if page.category %}
-      <div class="church-meta-item">
-        <dt>Entry type</dt>
-        <dd>{{ page.category }}</dd>
-      </div>
-      {% endif %}
+    {% if page.founders_and_patrons %}
+    <section class="profile-section">
+      <h2>Founders and patrons</h2>
+      <ul>
+        {% for f in page.founders_and_patrons %}
+          <li>{{ f }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
 
-      {% if page.founders_and_patrons %}
-      <div class="church-meta-item">
-        <dt>Founders and patrons</dt>
-        <dd>
-          <ul>
-          {% for f in page.founders_and_patrons %}
-            <li>{{ f }}</li>
+    {% if page.key_phases %}
+    <section class="profile-section">
+      <h2>Key historical phases</h2>
+      <ol>
+        {% for phase in page.key_phases %}
+          <li>{{ phase }}</li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {% if page.fresco_program %}
+    <section class="profile-section">
+      <h2>Fresco programme</h2>
+
+      {% if page.fresco_program.cycles %}
+        <h3>Cycles</h3>
+        <ul>
+          {% for c in page.fresco_program.cycles %}
+            <li>{{ c }}</li>
           {% endfor %}
-          </ul>
-        </dd>
-      </div>
+        </ul>
       {% endif %}
-    </dl>
-  </section>
 
-  {% if page.key_phases %}
-  <section class="church-section church-history">
-    <h2>2. Historical context and phases</h2>
-    <ol>
-      {% for phase in page.key_phases %}
-        <li>{{ phase }}</li>
-      {% endfor %}
-    </ol>
-  </section>
-  {% endif %}
+      {% if page.fresco_program.masters %}
+        <h3>Masters / hands</h3>
+        <ul>
+          {% for m in page.fresco_program.masters %}
+            <li>{{ m }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </section>
+    {% endif %}
 
-  {% if page.architecture %}
-  <section class="church-section church-architecture">
-    <h2>3. Architectural analysis</h2>
+    {% if page.architecture %}
+    <section class="profile-section">
+      <h2>Architecture</h2>
 
-    <dl>
       {% if page.architecture.type %}
-      <div class="church-meta-item">
-        <dt>Typology</dt>
-        <dd>{{ page.architecture.type }}</dd>
-      </div>
+        <h3>Typology</h3>
+        <p>{{ page.architecture.type }}</p>
       {% endif %}
 
       {% if page.architecture.plan %}
-      <div class="church-meta-item">
-        <dt>Plan</dt>
-        <dd>{{ page.architecture.plan }}</dd>
-      </div>
+        <h3>Plan</h3>
+        <p>{{ page.architecture.plan }}</p>
       {% endif %}
 
       {% if page.architecture.vaulting %}
-      <div class="church-meta-item">
-        <dt>Vaulting</dt>
-        <dd>{{ page.architecture.vaulting }}</dd>
-      </div>
+        <h3>Vaulting</h3>
+        <p>{{ page.architecture.vaulting }}</p>
       {% endif %}
-    </dl>
 
-    {% if page.architecture.liturgical_furnishings %}
-      <h3>3.1 Liturgical furnishings</h3>
-      <ul>
-        {% for lf in page.architecture.liturgical_furnishings %}
-          <li>{{ lf }}</li>
-        {% endfor %}
-      </ul>
+      {% if page.architecture.liturgical_furnishings %}
+        <h3>Liturgical furnishings</h3>
+        <ul>
+          {% for lf in page.architecture.liturgical_furnishings %}
+            <li>{{ lf }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if page.architecture.exterior_features %}
+        <h3>Exterior</h3>
+        <ul>
+          {% for ef in page.architecture.exterior_features %}
+            <li>{{ ef }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </section>
     {% endif %}
-
-    {% if page.architecture.exterior_features %}
-      <h3>3.2 Exterior</h3>
-      <ul>
-        {% for ef in page.architecture.exterior_features %}
-          <li>{{ ef }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </section>
-  {% endif %}
-
-  {% if page.fresco_program %}
-  <section class="church-section church-fresco">
-    <h2>4. Fresco programme and iconography</h2>
-
-    {% if page.fresco_program.cycles %}
-      <h3>4.1 Cycles</h3>
-      <ul>
-        {% for c in page.fresco_program.cycles %}
-          <li>{{ c }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-
-    {% if page.fresco_program.masters %}
-      <h3>4.2 Masters / hands</h3>
-      <ul>
-        {% for m in page.fresco_program.masters %}
-          <li>{{ m }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </section>
-  {% endif %}
-
-  {% if page.thematic_keywords or page.related_entries %}
-  <section class="church-section church-index">
-    <h2>5. Thematic and relational index</h2>
 
     {% if page.thematic_keywords %}
-      <h3>5.1 Thematic keywords</h3>
-      <p class="church-keywords">
+    <section class="profile-section">
+      <h2>Thematic keywords</h2>
+      <p class="profile-tags">
         {% for k in page.thematic_keywords %}
-          <span class="church-keyword">{{ k }}</span>{% unless forloop.last %}, {% endunless %}
+          <span class="profile-tag">{{ k }}</span>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </p>
+    </section>
     {% endif %}
 
     {% if page.related_entries %}
-      <h3>5.2 Related entries</h3>
+    <section class="profile-section">
+      <h2>Related entries</h2>
       <ul>
         {% for r in page.related_entries %}
           <li>{{ r }}</li>
         {% endfor %}
       </ul>
+    </section>
     {% endif %}
-  </section>
-  {% endif %}
+  </aside>
 
-  <section class="church-section church-body">
-    <h2>6. Analytical essay</h2>
+  <!-- RIGHT COLUMN: analytical text -->
+  <main class="profile-main church-main">
     {{ content }}
-  </section>
+  </main>
 
-</article>
+</div>
