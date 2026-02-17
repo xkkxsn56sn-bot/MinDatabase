@@ -13,16 +13,7 @@ markdown: kramdown
 include:
   - Content
 
-# Default front matter is differentiated by directory to apply specific layouts
-defaults:
-  - scope:
-      path: "Content/Artists"
-    values:
-      layout: "artist-profile"
-  - scope:
-      path: "Content/Churches"
-    values:
-      layout: "church-profile"
+# Default front matter deleted to force Jekyll to process all markdown files in the Content directory, ensuring they are included in the site build.
 
 # Exclude from processing
 exclude:
