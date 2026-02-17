@@ -27,3 +27,10 @@
   </footer>
 </body>
 </html>
+<head>
+  ...
+  <link rel="stylesheet" href="{{ '/assets/css/artist-profile.css' | relative_url }}">
+  {% if page.layout == 'church-profile' %}
+    <link rel="stylesheet" href="{{ '/assets/css/church-profile.css' | relative_url }}">
+  {% endif %}
+</head>
