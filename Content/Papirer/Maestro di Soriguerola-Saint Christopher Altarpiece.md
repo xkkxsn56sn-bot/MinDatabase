@@ -1,13 +1,15 @@
 ---
 layout: entry
 title: "Maestro di Soriguerola – Saint Christopher Altarpiece"
-author: "Maestro di Soriguerola"
+author: "Master of Soriguerola"
 role: "Catalan Linear Gothic altarpiece articulating the cult of Saint Christopher through a complex hagiographic narrative program"
 dates: "c. 1290–1310"
+
 place_of_origin: "Lower Cerdanya region (area of Puigcerdà), Catalonia"
 current_location: "Museu Nacional d’Art de Catalunya, Barcelona (Saint Christopher altarpiece, attributed to the Master of Soriguerola)"
 type: "Painted altarpiece panel for rural parish or monastic church"
 period: "Late Romanesque–early Gothic transition in Catalonia"
+
 support_and_technique:
   support:
     - "Joined fir-wood panel constructed from multiple vertical boards"
@@ -17,33 +19,106 @@ support_and_technique:
     - "Tempera painting with egg-based binder"
     - "Selective use of metal leaf for halos and decorative details"
   palette:
-    - "Vermilion, yellow orpiment, charcoal black, aerinite and copper-based blues"
-    - "Occasional use of azurite and, where patronage allowed, lapis-lazuli for privileged passages"
+    - "Vermilion"
+    - "Yellow orpiment"
+    - "Charcoal black"
+    - "Aerinite and copper-based blues"
+    - "Occasional azurite and, where patronage allowed, lapis lazuli for privileged passages"
+
 iconography:
   - "Central monumental figure of Saint Christopher bearing the Christ Child across a river"
-  - "Narrative compartments depicting conversion, miraculous staff, preaching, torments and martyrdom"
+  - "Narrative compartments: conversion, miraculous staff, preaching, torments and martyrdom"
   - "Subsidiary figures, demons, angels and architectural backdrops structuring the hagiographic cycle"
+
 liturgical_function:
   - "Altarpiece for a rural parish or monastic chapel, oriented to a lay congregation"
-  - "Didactic visual summa of Saint Christopher’s vita for catechesis and devotional contemplation"
+  - "Didactic visual summa of Saint Christopher’s vita for catechesis and devotion"
   - "Instrument of intercession for travelers and protection against sudden death"
+
 historical_context:
-  - "Produced within the Kingdom of Mallorca’s Pyrenean territories during the consolidation of Gothic forms"
-  - "Expression of a regional workshop culture mediating between Romanesque heritage and Franco-Gothic innovations"
+  - "Produced within the Kingdom of Mallorca’s Pyrenean territories during consolidation of Gothic forms"
+  - "Expression of a regional workshop mediating between Romanesque heritage and Franco-Gothic innovations"
   - "Embedded in dense networks of monastic and parochial patronage across Cerdanya, Ripollès and Conflent"
+
 thematic_keywords:
   - "Master of Soriguerola"
   - "Saint Christopher cult and hagiography"
   - "Catalan Linear Gothic panel painting"
   - "Rural workshop practice and material culture"
   - "Narrative altarpieces and popular devotion"
+
 related_entries:
-  - "Maestro di Soriguerola – Tavola di San Michele"
-  - "Giunta Pisano San Domenico Crucifix"
-  - "Catalan Romanesque and Gothic panel painting"
-  - "Saint Christopher in medieval devotion"
+  - title: "Maestro di Soriguerola – Tavola di San Michele"
+    url: "/Content/Papirer/Maestro%20di%20Soriguerola-Tavola%20di%20San%20Michele.html"
+  - title: "Giunta Pisano San Domenico Crucifix"
+    url: "/Content/Papirer/Giunta%20Pisano%20San%20Domenico%20Crucifix.html"
+  - title: "Catalan Romanesque and Gothic panel painting"
+    url: "/Content/Papirer/Catalan%20Romanesque%20and%20Gothic%20Panel%20Painting.html"
+  - title: "Saint Christopher in medieval devotion"
+    url: "/Content/Papirer/Saint%20Christopher%20in%20Medieval%20Devotion.html"
+
 category: "papirer"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Artist"
+        value: "Master of Soriguerola"
+      - label: "Date"
+        value: "c. 1290–1310"
+      - label: "Type"
+        value: "Painted altarpiece panel for rural parish or monastic church"
+      - label: "Period"
+        value: "Late Romanesque–early Gothic transition in Catalonia"
+      - label: "Location"
+        value: "Museu Nacional d’Art de Catalunya, Barcelona"
+
+  - title: "Support and technique"
+    list:
+      - "Joined fir-wood panel with vertical boards and battens"
+      - "Gesso ground (calcium sulphate and animal glue) carefully leveled"
+      - "Tempera with egg-based binder"
+      - "Selective metal leaf for halos and details"
+      - "Palette: vermilion, orpiment, charcoal black, aerinite, copper blues, azurite; lapis for privileged passages"
+
+  - title: "Iconography"
+    list:
+      - "Central monumental Saint Christopher bearing the Christ Child across a river"
+      - "Narrative compartments for conversion, miraculous staff, preaching, torments and martyrdom"
+      - "Demons, angels and architectural backdrops structuring the cycle"
+
+  - title: "Liturgical function"
+    list:
+      - "Altarpiece for rural parish or monastic chapel"
+      - "Didactic visual summa of Saint Christopher’s vita"
+      - "Intercessory image for travelers and protection from sudden death"
+
+  - title: "Historical context"
+    list:
+      - "Kingdom of Mallorca’s Pyrenean territories during Gothic consolidation"
+      - "Regional workshop mediating Romanesque heritage and Franco-Gothic innovations"
+      - "Monastic and parochial patronage in Cerdanya, Ripollès and Conflent"
+
+  - title: "Thematic keywords"
+    list:
+      - "Master of Soriguerola"
+      - "Saint Christopher cult and hagiography"
+      - "Catalan Linear Gothic panel painting"
+      - "Rural Pyrenean workshop practice"
+      - "Narrative altarpieces and popular devotion"
+
+  - title: "Related entries"
+    links:
+      - title: "Maestro di Soriguerola – Tavola di San Michele"
+        url: "/Content/Papirer/Maestro%20di%20Soriguerola-Tavola%20di%20San%20Michele.html"
+      - title: "Giunta Pisano San Domenico Crucifix"
+        url: "/Content/Papirer/Giunta%20Pisano%20San%20Domenico%20Crucifix.html"
+      - title: "Catalan Romanesque and Gothic panel painting"
+        url: "/Content/Papirer/Catalan%20Romanesque%20and%20Gothic%20Panel%20Painting.html"
+      - title: "Saint Christopher in medieval devotion"
+        url: "/Content/Papirer/Saint%20Christopher%20in%20Medieval%20Devotion.html"
 ---
+
 
 
 ## PART I: THE PAINTER AND HIS ARTISTIC CONTEXT

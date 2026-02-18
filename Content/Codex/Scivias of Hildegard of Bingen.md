@@ -2,50 +2,134 @@
 layout: entry
 title: "Scivias of Hildegard of Bingen"
 author: "Hildegard of Bingen (1098–1179)"
-role: "First great visionary-theological work of Hildegard of Bingen, presenting a comprehensive summa of salvation history in symbolic visions"
+role: "First great visionary-theological work of Hildegard of Bingen, presenting a summa of salvation history in symbolic visions"
 dates: "c. 1142–1151/52 (composition and redaction)"
-place_of_origin: "Disibodenberg and, in the final phase, Rupertsberg near Bingen, Rhineland (Holy Roman Empire)"
+
+place_of_origin:
+  composition: "Disibodenberg and, in the final phase, Rupertsberg near Bingen, Rhineland (Holy Roman Empire)"
+
 current_location:
   principal_lost_manuscript: "Rupertsberg illuminated codex (lost after 1945; known through Eibingen facsimile and photographs)"
   key_witnesses:
-    - "Vatican Library, Cod. Lat. (12th‑century copy)"
-    - "Heidelberg and Oxford manuscripts (later 12th–early 13th century)"
+    - "Vatican Library, Latin codex (12th‑century copy)"
+    - "Heidelberg manuscript (later 12th–early 13th century)"
+    - "Oxford manuscript (later 12th–early 13th century)"
     - "Trier manuscript, 1487 (late medieval redaction)"
+
 type: "Visionary theological treatise with an integrated cycle of miniatures"
+
 contents:
   - "Prologue and twenty‑six visions organized in three books"
   - "Book I: Creation, fall, and cosmic order"
   - "Book II: Christ, the Church, and the sacraments"
   - "Book III: Eschatology, virtues, and final consummation"
   - "Each vision followed by divine exposition and moral instruction"
-script: "Latin prose dictated by Hildegard, transmitted in 12th‑century bookhands; Rupertsberg codex accompanied by a rich program of captions and rubrics"
+
+script: "Latin prose dictated by Hildegard, transmitted in 12th‑century bookhands; Rupertsberg codex with rich captions and rubrics"
+
 materials_and_techniques:
   support:
     - "Parchment codices produced in monastic scriptoria"
   writing_and_pigments:
     - "Dark inks with rubrication and display capitals"
-    - "Extensive use of color, metallic silver and, in places, gold in the lost Rupertsberg miniatures"
+    - "Extensive use of color, metallic silver and some gold in the lost Rupertsberg miniatures"
   decoration:
     - "Cycle of c. 35 miniatures visualizing the visions (reconstructed from Eibingen facsimile)"
     - "Complex geometric and architectural schemata for cosmological and ecclesiological scenes"
+
 historical_context:
-  - "Composed in the milieu of the twelfth‑century renaissance and ecclesiastical reform"
-  - "Partly presented at the Synod of Trier (1147–48), where Pope Eugenius III approved and encouraged the work"
-  - "First panel of a visionary trilogy completed by Liber vitae meritorum and Liber divinorum operum"
+  - "Composed within the milieu of the twelfth‑century renaissance and ecclesiastical reform"
+  - "Portions presented at the Synod of Trier (1147–48), where Pope Eugenius III approved and encouraged the work"
+  - "First panel of a visionary trilogy, followed by Liber vitae meritorum and Liber divinorum operum"
+
 thematic_keywords:
   - "Visionary theology and prophetic authority"
   - "Ecclesiology and reform"
   - "Cosmology and salvation history"
   - "Female authorship and monastic culture"
   - "Text–image integration in theological discourse"
+
 related_entries:
-  - "Liber Vitae Meritorum"
-  - "Liber Divinorum Operum"
-  - "Hildegard of Bingen"
-  - "Rupertsberg monastery and Eibingen facsimile"
-  - "Twelfth‑century visionary literature"
+  - title: "Liber Vitae Meritorum"
+    url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+  - title: "Liber Divinorum Operum"
+    url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+  - title: "Hildegard of Bingen"
+    url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+  - title: "Rupertsberg monastery and Eibingen facsimile"
+    url: "/Content/Churches/Rupertsberg%20and%20Eibingen.html"
+  - title: "Twelfth‑century visionary literature"
+    url: "/Content/Papers/Twelfth%20Century%20Visionary%20Literature.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Author"
+        value: "Hildegard of Bingen (1098–1179)"
+      - label: "Date"
+        value: "c. 1142–1151/52 (composition and redaction)"
+      - label: "Type"
+        value: "Visionary theological treatise with an integrated cycle of miniatures"
+      - label: "Script"
+        value: "Latin prose dictated by Hildegard, transmitted in 12th‑century bookhands"
+
+  - title: "Place of origin"
+    list:
+      - "Disibodenberg for the initial phase of composition"
+      - "Rupertsberg near Bingen for the final redaction"
+
+  - title: "Manuscript tradition"
+    list:
+      - "Rupertsberg illuminated codex (lost after 1945; preserved through Eibingen facsimile)"
+      - "12th‑century Vatican copy"
+      - "Later 12th–early 13th‑century Heidelberg and Oxford manuscripts"
+      - "Trier manuscript, 1487 (late medieval redaction)"
+
+  - title: "Contents"
+    list:
+      - "Prologue and 26 visions in three books"
+      - "Book I: Creation, fall, cosmic structure"
+      - "Book II: Christ, Church, sacraments"
+      - "Book III: Eschatology, virtues, final consummation"
+      - "Each vision followed by divine exposition and moral instruction"
+
+  - title: "Materials and techniques"
+    list:
+      - "Parchment codices from monastic scriptoria"
+      - "Dark inks, rubrication, display capitals"
+      - "Color, metallic silver and some gold in the lost Rupertsberg miniatures"
+      - "Geometric and architectural schemata in the image cycle"
+
+  - title: "Historical context"
+    list:
+      - "Twelfth‑century renaissance and reform"
+      - "Presentation and papal approval at the Synod of Trier (1147–48)"
+      - "First work in Hildegard’s visionary trilogy"
+
+  - title: "Thematic keywords"
+    list:
+      - "Visionary theology and prophetic authority"
+      - "Ecclesiology, reform, and critique"
+      - "Cosmology and salvation history"
+      - "Female monastic authorship"
+      - "Integration of text and image"
+
+  - title: "Related entries"
+    links:
+      - title: "Liber Vitae Meritorum"
+        url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+      - title: "Liber Divinorum Operum"
+        url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+      - title: "Hildegard of Bingen"
+        url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+      - title: "Rupertsberg monastery and Eibingen facsimile"
+        url: "/Content/Churches/Rupertsberg%20and%20Eibingen.html"
+      - title: "Twelfth‑century visionary literature"
+        url: "/Content/Papers/Twelfth%20Century%20Visionary%20Literature.html"
 ---
+
 
 
 Scivias, commonly rendered in English as “Know the Ways,” is the first of Hildegard of Bingen’s three great visionary-theological works, and it occupies a foundational place not only in her personal oeuvre but also in the wider history of twelfth‑century Latin spirituality, visionary literature, and speculative theology.

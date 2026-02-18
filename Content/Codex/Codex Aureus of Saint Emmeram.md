@@ -2,48 +2,117 @@
 layout: entry
 title: "Codex Aureus of Saint Emmeram"
 author: "Codex Aureus of Saint Emmeram"
-role: "Imperial Carolingian luxury Gospel book with gold script, purple parchment and a complete treasure binding for Charles the Bald"
-dates: "c. 870 CE (later ninth century)"
-place_of_origin: "Court scriptorium of Charles the Bald (Palace School), probably near Paris or Saint-Denis, after the destruction of Tours"
-current_location:
-  manuscript: "Bayerische Staatsbibliothek, Munich, Clm 14000"
-  treasure_binding: "Original Carolingian gold and gem‑studded cover preserved with the manuscript in Munich"
-type: "Illuminated Gospel book in Latin (Vulgate text with elaborate liturgical and dedicatory apparatus)"
+role: "Imperial Carolingian luxury Gospel book written in gold, preserved with its original treasure binding"
+dates: "870 CE (9th century)"
+
+place_of_origin: "Carolingian Palace School of Charles the Bald, probably at Saint-Denis or Saint-Médard, Soissons (France)"
+current_location: "Bayerische Staatsbibliothek, Munich (Clm 14000)"
+type: "Illuminated Gospel book (Latin Gospels with prefatory material)"
+
 contents:
-  - "Four Gospels in Latin on 126 folios, written entirely in gold uncial script on purple and tinted parchment"
-  - "Full-page miniatures including Christ in Majesty, the emperor Charles the Bald enthroned, and evangelist portraits"
-  - "Canon tables, decorated incipit pages and historiated initials"
-script: "Gold uncial script imitating late antique imperial books, with display capitals and carefully ruled layout"
+  - "Four Gospels in Latin with prefatory texts and canon tables"
+  - "Seven full-page miniatures (four Evangelists, Charles the Bald enthroned, Adoration of the Lamb, Christ in Majesty)"
+  - "Twelve canon tables, ten decorated incipit pages and ornamental frames"
+
+script: "Text in golden uncial letters, with each page framed"
+
 materials_and_techniques:
-  support:
-    - "Fine calf parchment, including numerous purple‑dyed folios"
-  writing_and_pigments:
-    - "Gold ink for the entire biblical text and principal inscriptions"
-    - "Coloured inks and pigments for initials and miniatures"
-  decoration:
-    - "Full-page miniatures in a classicizing Carolingian idiom"
-    - "Canon tables framed by architectural arcades"
-    - "Historiated and ornamental initials in gold and rich colour"
-  binding:
-    - "Treasure binding with repoussé gold reliefs, filigree, and cabochon gemstones mounted on wooden boards"
+  - "Purple-dyed vellum and fine parchment (large-format folios c. 420 × 330 mm)"
+  - "Gold ink for the entire Gospel text"
+  - "Rich polychrome pigments for miniatures and decorative pages"
+  - "Treasure binding in gold with repoussé relief, cabochon sapphires, emeralds and pearls"
+
 historical_context:
-  - "Commissioned for Emperor Charles the Bald during the mature phase of the Carolingian Renaissance"
-  - "Embodies the imperial ideology of renovatio imperii Romani in visual and material form"
-  - "Given by Arnulf of Carinthia to Saint Emmeram’s Abbey in Regensburg in 893 and preserved there until secularization in 1811"
+  - "Commissioned by Emperor Charles II (the Bald) in 870 at his Palace School"
+  - "Masterpiece of the second court school of Charles the Bald"
+  - "Later given to King Arnulf of Carinthia and donated to Saint Emmeram’s Abbey at Regensburg"
+
+patronage_and_authorship:
+  patron: "Charles II (the Bald), King of West Francia and Holy Roman Emperor"
+  scribes:
+    - "Liuthard"
+    - "Beringer"
+  school: "Carolingian Palace School of Charles the Bald"
+
 thematic_keywords:
-  - "Carolingian Renaissance and Palace School"
-  - "Imperial ideology and Christomimesis"
-  - "Purple parchment and gold-script Gospel books"
-  - "Treasure bindings and court metalwork"
-  - "Manuscript luxury as political communication"
+  - "Carolingian court art"
+  - "Imperial patronage and ideology"
+  - "Gold-script Gospel books"
+  - "Treasure bindings"
+  - "Monastic treasuries and liturgy"
+
 related_entries:
-  - "Codex Aureus of Lorsch"
-  - "Codex Aureus of Echternach"
-  - "Book of Kells"
-  - "Saint Emmeram’s Abbey, Regensburg"
-  - "Charles the Bald and the Palace School"
+  - title: "Codex Aureus of Lorsch"
+    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+  - title: "Codex Aureus of Echternach"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+  - title: "Lindau Gospels"
+    url: "/Content/Codex/Lindau%20Gospels.html"
+  - title: "Saint Emmeram’s Abbey, Regensburg"
+    url: "/Content/Churches/Saint%20Emmeram%20Abbey.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Palace School of Charles the Bald, probably Saint-Denis or Saint-Médard at Soissons"
+      - label: "Date"
+        value: "870 CE (9th century)"
+      - label: "Type"
+        value: "Illuminated Gospel book (Latin Gospels with prefatory material)"
+      - label: "Script"
+        value: "Golden uncial letters, framed pages"
+
+  - title: "Current location"
+    list:
+      - "Bayerische Staatsbibliothek, Munich (Clm 14000)"
+
+  - title: "Contents"
+    list:
+      - "Four Latin Gospels with prefatory texts and canon tables"
+      - "Seven full-page miniatures (Evangelists, imperial and Christological scenes)"
+      - "Canon tables and decorated incipit pages"
+
+  - title: "Materials and techniques"
+    list:
+      - "Purple vellum and fine parchment, large folio format"
+      - "Gold ink for the entire text"
+      - "Polychrome pigments for miniatures and ornamental pages"
+      - "Gold treasure binding with repoussé relief, sapphires, emeralds and pearls"
+
+  - title: "Historical context"
+    list:
+      - "Commissioned by Charles the Bald in 870 at his Palace School"
+      - "Considered a masterpiece of the second court school of Charles the Bald"
+      - "Transferred to Arnulf of Carinthia and then to Saint Emmeram’s Abbey"
+
+  - title: "Patronage and authorship"
+    list:
+      - "Patron: Emperor Charles II (the Bald)"
+      - "Scribes: Liuthard and Beringer"
+      - "Produced within the Carolingian Palace School milieu"
+
+  - title: "Thematic keywords"
+    list:
+      - "Carolingian court art and ideology"
+      - "Gold-script Gospel books"
+      - "Imperial and monastic treasuries"
+      - "Treasure bindings as political-theological statements"
+
+  - title: "Related entries"
+    links:
+      - title: "Codex Aureus of Lorsch"
+        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+      - title: "Codex Aureus of Echternach"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+      - title: "Lindau Gospels"
+        url: "/Content/Codex/Lindau%20Gospels.html"
+      - title: "Saint Emmeram’s Abbey, Regensburg"
+        url: "/Content/Churches/Saint%20Emmeram%20Abbey.html"
 ---
+
 
 
 ## Historical Context and Carolingian Significance

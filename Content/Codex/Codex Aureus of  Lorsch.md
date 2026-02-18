@@ -4,7 +4,8 @@ title: "Codex Aureus of Lorsch (Lorsch Gospels)"
 author: "Codex Aureus of Lorsch"
 role: "Imperial luxury Gospel book of the Carolingian Renaissance, written entirely in gold and bound with carved ivory covers"
 dates: "c. 810 CE (early ninth century)"
-place_of_origin: "Court scriptorium of Charlemagne, Aachen (Ada Group / Court School)"
+
+place_of_origin: "Court scriptorium of Charlemagne at Aachen (Ada Group / Court School)"
 current_location:
   manuscript_parts:
     - "Vatican Library, Cod. Vat. Pal. Lat. 50"
@@ -12,44 +13,116 @@ current_location:
   ivory_covers:
     - "Front cover: Victoria and Albert Museum, London"
     - "Back cover: Vatican Museums, Rome"
+
 type: "Illuminated Gospel book in Latin (Vulgate text with liturgical apparatus)"
+
 contents:
   - "Four Gospels in Latin with prefatory material (canon tables, prologues and ornamental pages)"
   - "Full-page miniatures of Christ in Majesty and the Evangelists"
   - "Extensive gold-framed ornamental pages and decorated initials"
+
 script: "Formal Uncial script with Carolingian features, entire text in gold ink"
+
 materials_and_techniques:
   support:
     - "High-quality calf parchment (large-format folios)"
     - "Purple-dyed parchment pages for selected sections"
   writing_and_pigments:
     - "Gold and silver inks for text and decoration"
-    - "Mineral and organic pigments (including lapis lazuli, vermilion, green earth, lead white, and others)"
+    - "Mineral and organic pigments (e.g. lapis lazuli, vermilion, green earth, lead white)"
   decoration:
     - "Full-page miniatures"
     - "Canon tables"
     - "Interlace and acanthus borders in gold frames"
   covers:
     - "Carved elephant ivory panels with Christ in Majesty and Virgin and Child"
+
 historical_context:
   - "Produced at the height of the Carolingian Renaissance under Emperor Charlemagne"
   - "Part of the Ada Group of court manuscripts from Aachen"
   - "Given as an imperial gift to the royal abbey of Lorsch on the Middle Rhine"
   - "Recorded in the Lorsch library catalogue c. 830 as a Gospel written in gold with ivory covers"
+
 thematic_keywords:
   - "Carolingian Renaissance"
   - "Court School of Charlemagne (Ada Group)"
   - "Imperial patronage and monastic treasury objects"
   - "Gold-script Gospel books"
   - "Manuscript as diplomatic and liturgical gift"
+
 related_entries:
-  - "Book of Kells"
-  - "Codex Aureus of Echternach"
-  - "Codex Aureus of Saint Emmeram"
-  - "Lorsch Abbey"
-  - "Aachen, Palatine Chapel and court scriptorium"
+  - title: "Book of Kells"
+    url: "/Content/Codex/Book%20of%20Kells.html"
+  - title: "Codex Aureus of Echternach"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+  - title: "Codex Aureus of Saint Emmeram"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
+  - title: "Lorsch Abbey"
+    url: "/Content/Churches/Lorsch%20Abbey.html"
+  - title: "Aachen, Palatine Chapel and court scriptorium"
+    url: "/Content/Churches/Aachen%20Palatine%20Chapel.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Court scriptorium of Charlemagne at Aachen (Ada Group / Court School)"
+      - label: "Date"
+        value: "c. 810 CE (early ninth century)"
+      - label: "Type"
+        value: "Illuminated Gospel book in Latin (Vulgate text with liturgical apparatus)"
+      - label: "Script"
+        value: "Formal Uncial script with Carolingian features, entire text in gold ink"
+
+  - title: "Current location"
+    list:
+      - "Manuscript: Vatican Library, Cod. Vat. Pal. Lat. 50"
+      - "Manuscript: Bayerische Staatsbibliothek, Clm 23631, Munich"
+      - "Front ivory cover: Victoria and Albert Museum, London"
+      - "Back ivory cover: Vatican Museums, Rome"
+
+  - title: "Contents"
+    list:
+      - "Four Gospels in Latin with prefatory material (canon tables, prologues and ornamental pages)"
+      - "Full-page miniatures of Christ in Majesty and the Evangelists"
+      - "Gold-framed ornamental pages and decorated initials"
+
+  - title: "Materials and techniques"
+    list:
+      - "High-quality calf parchment; purple-dyed pages for selected sections"
+      - "Gold and silver inks; mineral and organic pigments"
+      - "Full-page miniatures, canon tables, interlace and acanthus borders"
+      - "Carved elephant ivory covers with Christ in Majesty and Virgin and Child"
+
+  - title: "Historical context"
+    list:
+      - "Produced at the height of the Carolingian Renaissance under Charlemagne"
+      - "Member of the Ada Group of court manuscripts from Aachen"
+      - "Imperial gift to Lorsch Abbey; listed in its c. 830 library catalogue"
+
+  - title: "Thematic keywords"
+    list:
+      - "Carolingian Renaissance"
+      - "Imperial patronage and treasury books"
+      - "Gold-script Gospel books"
+      - "Diplomatic and liturgical gifts"
+
+  - title: "Related entries"
+    links:
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book%20of%20Kells.html"
+      - title: "Codex Aureus of Echternach"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+      - title: "Codex Aureus of Saint Emmeram"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
+      - title: "Lorsch Abbey"
+        url: "/Content/Churches/Lorsch%20Abbey.html"
+      - title: "Aachen, Palatine Chapel and court scriptorium"
+        url: "/Content/Churches/Aachen%20Palatine%20Chapel.html"
 ---
+
 
 
 ## Historical Context

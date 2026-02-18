@@ -3,8 +3,8 @@ layout: entry
 title: "Scivias – Hildegard of Bingen"
 subtitle: "Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination"
 description: "A multidisciplinary study of Hildegard of Bingen’s Scivias at the intersection of theology, neurology, psychology, and medieval intellectual history."
-author: "Hildegard of Bingen (text); modern scholarly examination"
-period: "XII century"
+author: "Hildegard of Bingen (primary text); modern scholarly examination"
+period: "Twelfth century"
 category: "papirer"
 work_type: "Interdisciplinary research paper"
 focus:
@@ -21,13 +21,58 @@ keywords:
   - "Neurology and religion"
   - "Twelfth-century Renaissance"
 related_entries:
-  - "Scivias of Hildegard of Bingen"
-  - "Liber Divinorum Operum"
-  - "Liber Vitae Meritorum"
-  - "Hildegard of Bingen"
-  - "Scivias manuscript tradition and illumination"
-category: "papirer"
+  - title: "Scivias of Hildegard of Bingen"
+    url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+  - title: "Liber Divinorum Operum"
+    url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+  - title: "Liber Vitae Meritorum"
+    url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+  - title: "Hildegard of Bingen"
+    url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+  - title: "Scivias manuscript tradition and illumination"
+    url: "/Content/Codex/Scivias%20Manuscript%20Tradition%20and%20Illumination.html"
+
+meta:
+  - title: "Paper profile"
+    pairs:
+      - label: "Work type"
+        value: "Interdisciplinary research paper"
+      - label: "Primary focus"
+        value: "Theological, neurological, psychological, and historical analysis of Scivias"
+      - label: "Period covered"
+        value: "Twelfth-century religious and intellectual context"
+
+  - title: "Focus areas"
+    list:
+      - "Visionary theology and mystical experience"
+      - "Neurological and medical hypotheses (migraine aura, epilepsy, etc.)"
+      - "Historical-theological context of the twelfth century"
+      - "Patronage networks and institutional validation"
+      - "Manuscript tradition, illumination program, and visual theology"
+
+  - title: "Keywords"
+    list:
+      - "Hildegard of Bingen"
+      - "Scivias"
+      - "Medieval mysticism"
+      - "Visionary literature"
+      - "Neurology and religion"
+      - "Twelfth-century Renaissance"
+
+  - title: "Related entries"
+    links:
+      - title: "Scivias of Hildegard of Bingen"
+        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+      - title: "Liber Divinorum Operum"
+        url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+      - title: "Liber Vitae Meritorum"
+        url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+      - title: "Hildegard of Bingen"
+        url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+      - title: "Scivias manuscript tradition and illumination"
+        url: "/Content/Codex/Scivias%20Manuscript%20Tradition%20and%20Illumination.html"
 ---
+
 
 
 ## The 'Scivias' of Hildegard of Bingen: Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination
