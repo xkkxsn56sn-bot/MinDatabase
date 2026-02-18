@@ -3,17 +3,22 @@ layout: entry
 title: "Liber Divinorum Operum"
 author: "Hildegard of Bingen (1098–1179)"
 role: "Final and most comprehensive visionary-theological synthesis of Hildegard of Bingen, uniting cosmology, anthropology and salvation history"
-dates: "c. 1163–1173/74 (visions and composition); posthumous illuminated codex c. 1220–1230"
+dates: "c. 1163–1173/74 (visions and composition); illuminated Lucca codex c. 1220–1230"
+
 place_of_origin:
   text_composition: "Rupertsberg convent near Bingen, Rhineland (Holy Roman Empire)"
   illustrated_codex: "Rhenish scriptorium in the first half of the 13th century"
+
 current_location: "Biblioteca Statale di Lucca, MS 1942 (unique illustrated manuscript witness)"
 type: "Visionary theological treatise with extensive cosmological and anthropological imagery"
+
 contents:
   - "Prologue and ten complex visions structured in three parts"
   - "First-person description of each vision followed by divine commentary"
   - "Integrated cosmological, anthropological, ecclesiological and eschatological exposition"
+
 script: "High-grade Gothic bookhand in the Lucca manuscript, copied from Hildegard’s 12th‑century Rupertsberg exemplar"
+
 materials_and_techniques:
   support:
     - "Fine parchment, carefully prepared for a luxury codex"
@@ -24,24 +29,95 @@ materials_and_techniques:
     - "Full-page miniatures preceding each vision"
     - "Geometric, mandala-like cosmological diagrams"
     - "Extensive use of gold grounds and saturated color"
+
 historical_context:
-  - "Composed during the imperial–papal conflict between Frederick I Barbarossa and Alexander III"
-  - "Represents the culmination of Hildegard’s visionary trilogy after Scivias and Liber Vitae Meritorum"
+  - "Composed during the conflict between Emperor Frederick I Barbarossa and Pope Alexander III"
+  - "Culmination of Hildegard’s visionary trilogy after Scivias and Liber Vitae Meritorum"
   - "Thirteenth-century Lucca codex produced in the context of efforts to promote Hildegard’s canonization"
+
 thematic_keywords:
   - "Visionary theology and prophetic authority"
   - "Microcosm–macrocosm anthropology"
   - "Cosmology and natural philosophy in the twelfth century"
   - "Viriditas and divine life in creation"
   - "Monastic reform and ecclesial criticism"
+
 related_entries:
-  - "Scivias"
-  - "Liber Vitae Meritorum"
-  - "Hildegard of Bingen"
-  - "Rupertsberg and Eibingen convents"
-  - "Lucca MS 1942 and Hildegard’s manuscript tradition"
+  - title: "Scivias"
+    url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+  - title: "Liber Vitae Meritorum"
+    url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+  - title: "Hildegard of Bingen"
+    url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+  - title: "Rupertsberg and Eibingen convents"
+    url: "/Content/Churches/Rupertsberg%20and%20Eibingen.html"
+  - title: "Lucca MS 1942 and Hildegard’s manuscript tradition"
+    url: "/Content/Codex/Lucca%20MS%201942%20Hildegard.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Author"
+        value: "Hildegard of Bingen (1098–1179)"
+      - label: "Date"
+        value: "c. 1163–1173/74; illuminated Lucca codex c. 1220–1230"
+      - label: "Type"
+        value: "Visionary theological treatise with cosmological and anthropological imagery"
+      - label: "Script"
+        value: "High-grade Gothic bookhand in the Lucca manuscript"
+
+  - title: "Place of origin"
+    list:
+      - "Text composed at Rupertsberg convent near Bingen, Rhineland"
+      - "Illustrated codex produced in a Rhenish scriptorium in the early 13th century"
+
+  - title: "Current location"
+    list:
+      - "Biblioteca Statale di Lucca, MS 1942 (unique illustrated witness)"
+
+  - title: "Contents"
+    list:
+      - "Prologue and ten visions in three parts"
+      - "Each vision: image, first-person description, divine commentary"
+      - "Cosmological, anthropological, ecclesiological and eschatological themes"
+
+  - title: "Materials and techniques"
+    list:
+      - "Fine parchment luxury codex"
+      - "Dark inks with rubrication and display scripts"
+      - "Gold leaf and rich polychromy"
+      - "Full-page miniatures and geometric cosmological diagrams"
+
+  - title: "Historical context"
+    list:
+      - "Composed during the Barbarossa–Alexander III conflict"
+      - "Culmination of Hildegard’s visionary trilogy"
+      - "Lucca codex linked to canonization efforts"
+
+  - title: "Thematic keywords"
+    list:
+      - "Visionary theology and prophetic authority"
+      - "Microcosm–macrocosm anthropology"
+      - "Twelfth-century cosmology and natural philosophy"
+      - "Viriditas and divine life in creation"
+      - "Monastic reform and critique of the Church"
+
+  - title: "Related entries"
+    links:
+      - title: "Scivias"
+        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+      - title: "Liber Vitae Meritorum"
+        url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
+      - title: "Hildegard of Bingen"
+        url: "/Content/Artists/Hildegard%20of%20Bingen.html"
+      - title: "Rupertsberg and Eibingen convents"
+        url: "/Content/Churches/Rupertsberg%20and%20Eibingen.html"
+      - title: "Lucca MS 1942 and Hildegard’s manuscript tradition"
+        url: "/Content/Codex/Lucca%20MS%201942%20Hildegard.html"
 ---
+
 
 
 The Liber Divinorum Operum (Book of Divine Works) represents Hildegard of Bingen's final and most sophisticated visionary-theological treatise, composed during the decade spanning from 1163 to 1173 or 1174, during her mature years at the convent of Rupertsberg near Bingen in the Rhineland region of medieval Germany. This monumental work constitutes the culmination of Hildegard's entire theological project and represents her most mature formulation of themes intrinsic to her thought, including the fundamental human vocation to understand both humanity and all creation as the work of God, the relationship between humanity and the rest of creation as microcosm and macrocosm, and the eternal predestination of the incarnate Word of God as revealed in both Scripture and the life of the Church. The work comprises ten complex visions, each revealing different aspects of the opus Dei (Work of God), encompassing both humankind and all creation unfolding and acting across salvation history, with each vision elaborating the dynamic Word of God present before and then within Creation, becoming a human being to bring the Work of God to perfection. According to an autobiographical passage included in the Life of St. Hildegard, the Visionary Doctor describes the genesis of the work in her meditations on the Prologue to the Gospel of John, which provided the theological foundation for her understanding of divine operation in the created world. The composition of this treatise followed Hildegard's second visionary work, the Liber Vitae Meritorum, which she had completed in 1163 and which chronicled the battle between vice and virtue in the human soul. The evidence indicates that Hildegard composed the prologue around 1170 when the Liber Divinorum Operum was substantially but not wholly complete, with final touches to the initial text made by 1173, though it is also possible that while Hildegard had been experiencing and thinking upon the visionary experiences since 1163, she did not begin writing it down until later. The work was dictated to her secretary Volmar, a monk who served as witness to the visions and assisted Hildegard by correcting the grammar in her writings, along with an anonymous nun who served as a second witness to authenticate her prophetic experiences. The manuscript tradition of this work is remarkably sparse, with only three codices existing in the entire world that testify to the Liber divinorum operum, of which the unique illustrated version is manuscript 1942 held at the Biblioteca Statale di Lucca, composed in the first half of the thirteenth century, probably between the second and third decades, in a Rhenish scriptorium. The genesis of one of Hildegard's few experiences involving actual loss of consciousness can be dated to either 1163 or 1164, marking the mystical foundation upon which the entire theological edifice of the Liber Divinorum Operum would be constructed. The scope of Hildegard's visionary theology in this work is simultaneously cosmic and intimate, as reflections of God's loving revelation of himself to humanity encompass both grand metaphysical structures and the smallest details of the created world, demonstrating the abbess's remarkable capacity to synthesize theological speculation with concrete observation.

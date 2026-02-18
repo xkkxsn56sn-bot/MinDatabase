@@ -4,10 +4,13 @@ title: "Giunta Pisano, San Domenico Crucifix"
 author: "Giunta Pisano"
 role: "Monumental Christus patiens crucifix inaugurating a new visual theology of Christ’s suffering in mid‑thirteenth‑century Italy"
 dates: "c. 1250–1254"
+
 place_of_origin: "Bologna, Basilica di San Domenico"
 current_location: "Basilica di San Domenico, Bologna, left transept"
 type: "Painted monumental crucifix (panel painting dossal for rood screen)"
-dimensions: "336 × 285 cm (approx.)"
+
+dimensions: "Approx. 336 × 285 cm"
+
 support_and_technique:
   support:
     - "Constructed poplar panel with vertically joined boards"
@@ -17,31 +20,102 @@ support_and_technique:
   paint_and_gilding:
     - "Tempera on panel with burnished gold leaf background"
     - "Fine underdrawing and layered modeling of flesh tones"
+
 iconography:
   - "Christus patiens: sagging body, inclined head, closed or nearly closed eyes"
   - "Emphasis on the moment of death and extremity of suffering"
   - "Theological focus on Christ’s shared human vulnerability rather than solely triumphant majesty"
+
 liturgical_function:
   - "Originally a dossal suspended horizontally above the rood screen (tramezzo)"
-  - "Visual and spiritual focal point of the Dominican liturgical space during Mass"
+  - "Visual and spiritual focal point of Dominican liturgical space during Mass"
   - "Mediating object between choir (friars) and nave (laity)"
+
 historical_context:
   - "Commissioned soon after the consecration of San Domenico (1251) under Pope Innocent IV"
   - "Created within the Dominican Order’s emerging institutional center in Bologna"
-  - "Engages the Christus patiens formula first monumentalized in Giunta’s lost Assisi crucifix"
+  - "Engages and develops the Christus patiens formula first monumentalized in Giunta’s lost Assisi crucifix"
+
 thematic_keywords:
   - "Christus patiens iconography"
   - "Dominican–Franciscan mendicant culture"
   - "Thirteenth‑century Italian panel painting"
   - "Liturgical space and rood screens"
   - "Proto‑Renaissance innovations in pathos and corporeality"
+
 related_entries:
-  - "Giunta Pisano"
-  - "Basilica of San Domenico, Bologna"
-  - "Franciscan Assisi Crucifix (lost)"
-  - "Cimabue’s crucifixes"
-  - "Council of Trent and post‑Tridentine church reforms"
+  - title: "Giunta Pisano"
+    url: "/Content/Artists/Giunta%20Pisano.html"
+  - title: "Basilica of San Domenico, Bologna"
+    url: "/Content/Churches/Basilica%20di%20San%20Domenico%20Bologna.html"
+  - title: "Franciscan Assisi Crucifix (lost)"
+    url: "/Content/Papirer/Franciscan%20Assisi%20Crucifix.html"
+  - title: "Cimabue’s crucifixes"
+    url: "/Content/Papirer/Cimabue%20Crucifixes.html"
+  - title: "Council of Trent and post‑Tridentine reforms"
+    url: "/Content/Papirer/Council%20of%20Trent%20Rood%20Screens.html"
+
 category: "papirer"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Artist"
+        value: "Giunta Pisano"
+      - label: "Date"
+        value: "c. 1250–1254"
+      - label: "Type"
+        value: "Painted monumental crucifix (panel dossal for rood screen)"
+      - label: "Dimensions"
+        value: "Approx. 336 × 285 cm"
+      - label: "Location"
+        value: "Basilica di San Domenico, Bologna (left transept)"
+
+  - title: "Support and technique"
+    list:
+      - "Poplar panel with vertically joined boards; seasoned timber"
+      - "Multiple gesso layers, carefully leveled and burnished"
+      - "Tempera painting with burnished gold leaf background"
+      - "Fine underdrawing and layered modeling of flesh tones"
+
+  - title: "Iconography"
+    list:
+      - "Christus patiens: sagging body, inclined head, nearly closed eyes"
+      - "Focus on the moment of death and extremity of suffering"
+      - "Emphasis on Christ’s shared human vulnerability"
+
+  - title: "Liturgical function"
+    list:
+      - "Dossal suspended above the rood screen (tramezzo)"
+      - "Visual and spiritual focus of Dominican liturgical space"
+      - "Mediating image between choir of friars and nave of laity"
+
+  - title: "Historical context"
+    list:
+      - "Commissioned soon after the consecration of San Domenico in 1251"
+      - "Created at the Dominican institutional center in Bologna"
+      - "Dialogues with Giunta’s lost Assisi crucifix and mendicant spirituality"
+
+  - title: "Thematic keywords"
+    list:
+      - "Christus patiens iconography"
+      - "Mendicant (Dominican–Franciscan) culture"
+      - "Thirteenth‑century Italian panel painting"
+      - "Liturgical space, rood screens, and post‑Tridentine relocation"
+      - "Proto‑Renaissance pathos and corporeality"
+
+  - title: "Related entries"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/Giunta%20Pisano.html"
+      - title: "Basilica of San Domenico, Bologna"
+        url: "/Content/Churches/Basilica%20di%20San%20Domenico%20Bologna.html"
+      - title: "Franciscan Assisi Crucifix (lost)"
+        url: "/Content/Papirer/Franciscan%20Assisi%20Crucifix.html"
+      - title: "Cimabue’s crucifixes"
+        url: "/Content/Papirer/Cimabue%20Crucifixes.html"
+      - title: "Council of Trent and post‑Tridentine reforms"
+        url: "/Content/Papirer/Council%20of%20Trent%20Rood%20Screens.html"
 ---
 
 

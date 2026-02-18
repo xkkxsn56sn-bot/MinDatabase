@@ -1,47 +1,109 @@
 ---
 layout: entry
-title: "Codex Vergilius Romanus (Vat. lat. 3867)"
-author: "Codex Vergilius Romanus"
-role: "Late antique luxury manuscript of Virgil, key witness for the transmission of classical literature between the Roman world and the early Middle Ages"
-dates: "Second half of the 5th century CE"
-place_of_origin: "Late Roman cultural milieu (probable western provincial or Italian scriptorium; exact location debated)"
-current_location: "Vatican Apostolic Library, Rome (Vat. lat. 3867)"
-type: "Illuminated codex of classical Latin poetry"
+title: "Vergilius Romanus (Roman Vergil)"
+author: "Vergilius Romanus"
+role: "Late Antique illustrated manuscript of Virgil, key witness to the transition from scroll to codex"
+dates: "Late 5th century (c. 475–500)"
+
+place_of_origin: "Probably Rome (other hypotheses: Eastern Mediterranean or Syria)"
+current_location: "Biblioteca Apostolica Vaticana, Vatican City (Vat. lat. 3867)"
+type: "Late Antique illustrated manuscript of classical poetry"
+
 contents:
-  - "Virgil’s Aeneid (complete)"
+  - "Virgil’s Aeneid"
   - "Virgil’s Georgics"
-  - "Virgil’s Bucolics (Eclogues)"
-  - "Ancient scholia, glosses and marginal annotations in places"
-script: "Rustic capitals of late antique type, with multiple scribal hands and evolving letter-forms"
+  - "Portions of the Eclogues"
+  - "19 surviving miniatures, most of them full-page"
+
+script: "Rustic capitals, 18 lines per page, without word spacing"
+
+physical_characteristics:
+  - "Originally c. 410 folios; 309 vellum folios preserved"
+  - "Large near-square format (c. 332 × 323 mm)"
+  - "Single-column layout with generous margins"
+
 materials_and_techniques:
-  support:
-    - "High-quality parchment (ca. 309 surviving leaves out of an estimated c. 410)"
-    - "Large near-square format (approx. 332 × 323 mm)"
-  writing_and_pigments:
-    - "Iron-gall and other late antique inks for text"
-    - "Seven-color palette for miniatures with added gold leaf in frames and details"
-  decoration:
-    - "Nineteen surviving miniatures illustrating key narrative moments"
-    - "Gilded frames structuring the image field"
-    - "Carefully ruled pages (c. 18 lines per page) integrating text and images"
+  - "Fine vellum"
+  - "Brown ink in rustic capitals"
+  - "Late Antique painted miniatures with flat, linear style"
+  - "Pigments characteristic of Mediterranean Late Antique book painting"
+
 historical_context:
-  - "Produced in the final decades of the Western Roman Empire during the transition to Roman–barbarian kingdoms"
-  - "Part of a 5th-century Virgilian ‘luxury codex’ tradition alongside the Vergilius Vaticanus and Vergilius Augusteus"
-  - "Testifies to the persistence of senatorial and aristocratic literary culture in a time of political fragmentation"
+  - "Produced in Late Antiquity as a luxury codex of Virgil’s works"
+  - "One of the oldest and most important surviving Vergilian manuscripts"
+  - "Testifies to the transition from roll to codex and to the survival of classical literature"
+
 thematic_keywords:
-  - "Late antique book culture"
-  - "Virgilian manuscript tradition"
+  - "Late Antique book culture"
+  - "Classical poetry in Late Antiquity"
+  - "Rustic capitals"
   - "Transition from scroll to codex"
-  - "Continuity of classical education"
-  - "Text–image relationship in secular illumination"
+  - "Text–image relationship in pagan classics"
+
 related_entries:
-  - "Vergilius Vaticanus"
-  - "Vergilius Augusteus"
-  - "Late antique luxury codices"
-  - "Vatican Apostolic Library"
-  - "Transmission of classical Latin literature"
+  - title: "Vergilius Vaticanus"
+    url: "/Content/Codex/Vergilius%20Vaticanus.html"
+  - title: "Book of Kells"
+    url: "/Content/Codex/Book%20of%20Kells.html"
+  - title: "Codex Aureus of Lorsch"
+    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Probably Rome (other hypotheses: Eastern Mediterranean or Syria)"
+      - label: "Date"
+        value: "Late 5th century (c. 475–500)"
+      - label: "Type"
+        value: "Late Antique illustrated manuscript of Virgil’s works"
+      - label: "Script"
+        value: "Rustic capitals, 18 lines per page, without word spacing"
+
+  - title: "Contents"
+    list:
+      - "Virgil’s Aeneid"
+      - "Virgil’s Georgics"
+      - "Selections from the Eclogues"
+      - "19 surviving Late Antique miniatures (of c. 42 originally)"
+
+  - title: "Physical characteristics"
+    list:
+      - "Approx. 309 surviving vellum folios from an original c. 410"
+      - "Format c. 332 × 323 mm, near-square"
+      - "Single-column layout with wide margins"
+
+  - title: "Materials and techniques"
+    list:
+      - "Fine vellum support"
+      - "Text in brown ink in elegant rustic capitals"
+      - "Flat, linear Late Antique miniatures with classical motifs"
+
+  - title: "Historical context"
+    list:
+      - "One of the oldest and most important Vergilian codices"
+      - "Illustrates the transition from scroll to bound codex"
+      - "Documents Late Antique reception of classical poetry"
+
+  - title: "Thematic keywords"
+    list:
+      - "Late Antique illumination"
+      - "Classical literary manuscript"
+      - "Rustic capitals and book script"
+      - "Transition from antiquity to Middle Ages"
+
+  - title: "Related entries"
+    links:
+      - title: "Vergilius Vaticanus"
+        url: "/Content/Codex/Vergilius%20Vaticanus.html"
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book%20of%20Kells.html"
+      - title: "Codex Aureus of Lorsch"
+        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
 ---
+
 
 
 ## Context and Importance

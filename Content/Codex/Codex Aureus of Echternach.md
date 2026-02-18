@@ -2,44 +2,105 @@
 layout: entry
 title: "Codex Aureus of Echternach"
 author: "Codex Aureus of Echternach"
-role: "Imperial Ottonian luxury Gospel book with extensive gold and purple decoration, produced for Echternach Abbey"
-dates: "c. 1030–1050 (first half of the 11th century)"
-place_of_origin: "Scriptorium of Echternach Abbey (Luxembourg), under imperial-Ottonian patronage"
-current_location: "Germanisches Nationalmuseum, Nuremberg (Hs. 156 142); ivory covers and treasure elements dispersed in various collections"
-type: "Illuminated Gospel book in Latin (Vulgate text with rich prefatory apparatus)"
+role: "Lavishly illuminated Ottonian Gospel book written entirely in gold, produced at Echternach Abbey"
+dates: "c. 1030–1050"
+
+place_of_origin: "Abbey of Echternach, Luxembourg"
+current_location: "Germanisches Nationalmuseum, Nuremberg (Hs. 156 142)"
+type: "Illuminated Gospel book (Latin Vulgate text with prefatory material)"
+
 contents:
-  - "Four Gospels in Latin with prologues and capitula"
-  - "Full-page miniatures of Christ, the Virgin, Evangelists and narrative scenes"
-  - "Canon tables and extensively ornamented incipit and initial pages"
-script: "Caroline minuscule of high quality with display capitals in gold and coloured inks"
+  - "Four Gospels in Latin (Vulgate) with prefatory matter and canon tables"
+  - "More than 40 miniatures and over 60 decorative pages"
+  - "Evangelist portraits, narrative cycles from the Life of Christ, decorated initials and textile pages"
+
+script: "Caroline minuscule written entirely in gold ink"
+
 materials_and_techniques:
-  support:
-    - "Fine parchment (likely calf vellum), large-format folios"
-    - "Purple-dyed parchment for selected pages and sections"
-  writing_and_pigments:
-    - "Gold and silver inks for titles, display lines and key passages"
-    - "Mineral and organic pigments including blues, reds, greens and whites characteristic of Ottonian court production"
-  decoration:
-    - "Full-page miniatures framed in gold with architectural and ornamental borders"
-    - "Canon tables with arcades and coloured columns"
-    - "Historiated and decorated initials with interlace, foliage and zoomorphic motifs"
+  - "Fine parchment in large folios (c. 446 × 310 mm)"
+  - "Gold ink for the entire text"
+  - "Mineral and organic pigments with extensive gold leaf for miniatures and frames"
+  - "Ottonian treasure binding with ivory, gold, gems and enamel (front cover earlier, c. 980s)"
+
 historical_context:
-  - "Produced during the Ottonian and early Salian period when imperial patronage fostered a revival of courtly manuscript illumination"
-  - "Created for Echternach, a prestigious imperial abbey with strong connections to the Saxon–Ottonian dynasty"
-  - "Part of a group of sumptuous Gospel books used as liturgical, diplomatic and treasury objects"
+  - "Produced at Echternach in the 11th century under Abbot Humbert (1018–1051)"
+  - "Major monument of late Ottonian illumination"
+  - "Probably connected with imperial patronage and the milieu of Emperor Henry III"
+
 thematic_keywords:
-  - "Ottonian manuscript illumination"
-  - "Imperial and monastic patronage"
-  - "Gold and purple Gospel books"
-  - "Echternach scriptorium and imperial abbeys"
-  - "Text–image programs in high medieval Gospels"
+  - "Ottonian illumination"
+  - "Monastic scriptoria of Echternach"
+  - "Imperial and abbatial patronage"
+  - "Gospel books and liturgy"
+  - "Gold-script manuscripts and treasure bindings"
+
 related_entries:
-  - "Codex Aureus of Lorsch"
-  - "Codex Aureus of Saint Emmeram"
-  - "Ottonian court art and imperial monasteries"
-  - "Echternach Abbey"
+  - title: "Codex Aureus of Lorsch"
+    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+  - title: "Golden Gospels of Henry III"
+    url: "/Content/Codex/Golden%20Gospels%20of%20Henry%20III.html"
+  - title: "Book of Kells"
+    url: "/Content/Codex/Book%20of%20Kells.html"
+  - title: "Echternach Abbey"
+    url: "/Content/Churches/Echternach%20Abbey.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Abbey of Echternach, Luxembourg"
+      - label: "Date"
+        value: "c. 1030–1050"
+      - label: "Type"
+        value: "Illuminated Gospel book (Latin Vulgate text with prefatory material)"
+      - label: "Script"
+        value: "Caroline minuscule written entirely in gold ink"
+
+  - title: "Current location"
+    list:
+      - "Germanisches Nationalmuseum, Nuremberg (Hs. 156 142)"
+
+  - title: "Contents"
+    list:
+      - "Four Gospels in Latin (Vulgate) with prefatory matter and canon tables"
+      - "Extensive cycles of miniatures and decorated pages"
+      - "Evangelist portraits, narrative scenes, canon tables and textile pages"
+
+  - title: "Materials and techniques"
+    list:
+      - "Fine parchment in large folio format"
+      - "Text written entirely in gold ink"
+      - "Mineral and organic pigments with generous use of gold leaf"
+      - "Ottonian treasure binding with ivory plaque, repoussé gold, gems and enamel (reused front cover, c. 980s)"
+
+  - title: "Historical context"
+    list:
+      - "Produced at Echternach Abbey under Abbot Humbert (early–mid 11th century)"
+      - "Key example of late Ottonian book illumination"
+      - "Likely associated with high-level imperial or aristocratic patronage"
+
+  - title: "Thematic keywords"
+    list:
+      - "Ottonian illumination"
+      - "Monastic scriptorium of Echternach"
+      - "Imperial gifts and prestige manuscripts"
+      - "Gold-script Gospel books"
+      - "Treasure bindings"
+
+  - title: "Related entries"
+    links:
+      - title: "Codex Aureus of Lorsch"
+        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+      - title: "Golden Gospels of Henry III"
+        url: "/Content/Codex/Golden%20Gospels%20of%20Henry%20III.html"
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book%20of%20Kells.html"
+      - title: "Echternach Abbey"
+        url: "/Content/Churches/Echternach%20Abbey.html"
 ---
+
 
 
 ## Historical Context
