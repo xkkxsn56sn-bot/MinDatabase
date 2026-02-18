@@ -1,24 +1,51 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Corso di Buono"
-author: "Corso di Buono"
-role: "Florentine painter active between Coppo di Marcovaldo and Giotto"
+subtitle: "Florentine painter active between Coppo di Marcovaldo and Giotto"
 dates: "c. 1250 – dopo 1295"
-birth_place: "Florence or its immediate territory"
-death_place: "Florence (probable), shortly before or after 1300"
-period: "XIII century"
-key_works:
-  - "Fresco cycle with Christ Pantocrator and Miracles of St John the Evangelist, Pieve di San Lorenzo, Montelupo Fiorentino (signed and dated 1284)"
-  - "Frescoes in the Oratory of San Jacopo al Girone (attributed)"
-  - "Scenes from the Life of St John the Baptist in the mosaics of the Baptistery of San Giovanni, Florence (attributed)"
-  - "Panel paintings of the Madonna and Child and Madonna della Misericordia for confraternities (attributed)"
-related_entries:
-  - "Pieve di San Lorenzo, Montelupo Fiorentino"
-  - "Oratory of San Jacopo al Girone"
-  - "Baptistery of San Giovanni, Florence, and the Arte di Calimala"
-  - "Cimabue and Coppo di Marcovaldo"
-  - "Guelph–Ghibelline Florence in the late Duecento"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Florentine painter"
+      - "Active between Coppo di Marcovaldo and Giotto"
+  
+  - title: "LOCATION"
+    list:
+      - "Florence or its immediate territory"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Florence or its immediate territory, c. 1250"
+      - label: "Death"
+        value: "Florence (probable), shortly before or after 1300"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Fresco cycle with Christ Pantocrator and Miracles of St John the Evangelist, Pieve di San Lorenzo, Montelupo Fiorentino"
+      - "Frescoes in the Oratory of San Jacopo al Girone (attributed)"
+      - "Scenes from the Life of St John the Baptist in the mosaics of the Baptistery of San Giovanni, Florence (attributed)"
+      - "Panel paintings of the Madonna and Child and Madonna della Misericordia for confraternities (attributed)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Pieve di San Lorenzo, Montelupo Fiorentino"
+        url: "/Content/Churches/San%20Lorenzo%20Montelupo.html"
+      - title: "Oratory of San Jacopo al Girone"
+        url: "/Content/Churches/San%20Jacopo%20Girone.html"
+      - title: "Baptistery of San Giovanni, Florence, and the Arte di Calimala"
+        url: "/Content/Churches/Baptistery%20San%20Giovanni%20Florence.html"
+      - title: "Cimabue and Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Cimabue.html"
+      - title: "Guelph-Ghibelline Florence in the late Duecento"
+        url: "/Content/Topics/Guelph%20Ghibelline%20Florence.html"
+---
+ts"
 ---
 
 The origins of Corso di Buono, a pivotal figure in late thirteenth-century Florentine painting, are rooted in the artisan class that flourished alongside the economic expansion of the commune. Born presumably around the middle of the thirteenth century in Florence or its immediate territories, Corso carried a patronymic indicating his father was named Buono, a common Tuscan name of the era which may suggest a lineage of craftsmen or minor merchants. Archival traces have recently illuminated his domestic sphere, revealing the existence of a brother named Segnorello di Buono, a relationship that implies a stable family network typical of the *popolo* class asserting its rights in republican Florence. The most significant domestic document concerns his wife, Lore, who is recorded as his widow in later records, establishing both his marital status and the survival of his spouse after his death. This mention of "Lore vedova di Corso" provides a rare glimpse into the private life of a trecento artist, a category of professional often visible only through contracts and guild matriculations rather than personal relationships. The family likely resided within one of the growing *sestieri* of Florence, embedded in the neighborhood networks that defined civic identity before the full consolidation of the major guilds. His social standing was not merely that of a manual laborer but of a respected master, a status confirmed by his eventual elevation to a leadership role within the nascent artistic community of the city.

@@ -1,23 +1,49 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Bonaventura Berlinghieri"
-author: "Bonaventura Berlinghieri"
-role: "Italo-Byzantine panel painter and member of the Berlinghieri dynasty of Lucca"
+subtitle: "Italo-Byzantine panel painter and member of the Berlinghieri dynasty of Lucca"
 dates: "c. 1210 – c. 1287"
-birth_place: "Lucca, Tuscany"
-death_place: "Lucca (probable), toward the late thirteenth century"
-period: "XIII century"
-key_works:
-  - "Saint Francis Altarpiece (1235), Church of San Francesco, Pescia"
-  - "Devotional panels and crucifixes produced within the Berlinghieri family workshop (attributed)"
-related_entries:
-  - "Berlinghiero Berlinghieri"
-  - "Marco and Barone Berlinghieri"
-  - "City of Lucca and its workshops"
-  - "Franciscan Order and the cult of Saint Francis"
-  - "Italo-Byzantine painting in thirteenth‑century Tuscany"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Italo-Byzantine panel painter"
+      - "Member of the Berlinghieri dynasty of Lucca"
+  
+  - title: "LOCATION"
+    list:
+      - "Lucca, Tuscany"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Lucca, Tuscany, c. 1210"
+      - label: "Death"
+        value: "Lucca (probable), toward the late thirteenth century, c. 1287"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Saint Francis Altarpiece (1235), Church of San Francesco, Pescia"
+      - "Devotional panels and crucifixes produced within the Berlinghieri family workshop (attributed works)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Berlinghiero Berlinghieri"
+        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
+      - title: "Marco and Barone Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Marco%20Berlinghieri.html"
+      - title: "City of Lucca and its workshops"
+        url: "/Content/Locations/Lucca.html"
+      - title: "Franciscan Order and the cult of Saint Francis"
+        url: "/Content/Topics/Franciscan%20Order.html"
+      - title: "Italo-Byzantine painting in thirteenth-century Tuscany"
+        url: "/Content/Topics/Italo-Byzantine%20painting.html"
 ---
+
 
 Bonaventura Berlinghieri was born circa 1210 in Lucca, Tuscany, into one of the most significant artistic dynasties of thirteenth-century Italy. The Berlinghieri family represented a crucial transitional moment in Italian painting, bridging the Byzantine tradition with emerging local innovations that would eventually culminate in the Renaissance. Bonaventura emerged as the most documented member of this artistic lineage, primarily through his signed and dated altarpiece of Saint Francis, completed in 1235. His active period is generally placed between 1235 and 1244, though some sources extend his life to approximately 1287. The artist's birth into an established workshop environment provided him with exceptional training from childhood, immersing him in the technical and aesthetic principles that dominated Tuscan painting of the early Duecento. Lucca itself served as a vibrant artistic center during this period, fostering multiple workshops and attracting patronage from both ecclesiastical and civic authorities. The city's strategic position along pilgrimage routes and its economic prosperity created favorable conditions for artistic production and innovation. Bonaventura's formative years coincided with the canonization of Saint Francis in 1228, an event that would profoundly influence his most celebrated commission. His death occurred sometime around 1287, though the precise circumstances remain undocumented in surviving records. The scarcity of biographical details reflects the broader challenge of reconstructing individual artistic lives from the medieval period, when documentary evidence was limited and often confined to contractual or notarial records.
 

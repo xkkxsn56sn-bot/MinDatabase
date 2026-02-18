@@ -1,29 +1,57 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Arnolfo di Cambio"
-author: "Arnolfo di Cambio"
-role: "Sculptor, architect, and urban planner of the Italian Duecento"
+subtitle: "Sculptor, architect, and urban planner of the Italian Duecento"
 dates: "c. 1240–1245 – c. 1302–1310"
-birth_place: "Colle di Val d’Elsa, Tuscany"
-death_place: "Florence"
-period: "XIII century"
-key_works:
-  - "Siena Cathedral pulpit (with Nicola Pisano), Siena"
-  - "Arca of Saint Dominic, Basilica di San Domenico, Bologna"
-  - "Marble portrait of Charles I of Anjou, Capitoline Museums, Rome"
-  - "Ciborium of San Paolo fuori le Mura, Rome"
-  - "Ciborium of Santa Cecilia in Trastevere, Rome"
-  - "Tomb of Cardinal Guillaume de Braye, San Domenico, Orvieto"
-  - "Sculptural crib (Nativity group), Santa Maria Maggiore, Rome"
-  - "Original façade project and statuary for Santa Maria del Fiore, Florence (partially preserved)"
-related_entries:
-  - "Nicola Pisano and Giovanni Pisano"
-  - "Charles I of Anjou"
-  - "Papal curia in Rome (Adrian V, cardinals Annibaldi and de Braye)"
-  - "Florentine commune and Santa Maria del Fiore"
-  - "Santa Croce and the Palazzo della Signoria (traditional attributions)"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Sculptor"
+      - "Architect"
+      - "Urban planner"
+  
+  - title: "LOCATION"
+    list:
+      - "Colle di Val d'Elsa, Tuscany (birthplace)"
+      - "Rome, Siena, Florence (active)"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Colle di Val d'Elsa, Tuscany, c. 1240–1245"
+      - label: "Death"
+        value: "Florence, c. 1302–1310"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Siena Cathedral pulpit (with Nicola Pisano), Siena"
+      - "Arca of Saint Dominic, Basilica di San Domenico, Bologna"
+      - "Marble portrait of Charles I of Anjou, Capitoline Museums, Rome"
+      - "Ciborium of San Paolo fuori le Mura, Rome"
+      - "Ciborium of Santa Cecilia in Trastevere, Rome"
+      - "Tomb of Cardinal Guillaume de Braye, San Domenico, Orvieto"
+      - "Sculptural crib (Nativity group), Santa Maria Maggiore, Rome"
+      - "Original façade project and statuary for Santa Maria del Fiore, Florence (partially preserved)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Nicola Pisano and Giovanni Pisano"
+        url: "/Content/Artists/XIII%20century/Nicola%20Pisano.html"
+      - title: "Charles I of Anjou"
+        url: "/Content/Patrons/Charles%20I%20Anjou.html"
+      - title: "Papal curia in Rome (Adrian V, cardinals Annibaldi and de Braye)"
+        url: "/Content/Patrons/Papal%20curia%20Rome.html"
+      - title: "Florentine commune and Santa Maria del Fiore"
+        url: "/Content/Churches/Santa%20Maria%20del%20Fiore.html"
+      - title: "Santa Croce and the Palazzo della Signoria (traditional attributions)"
+        url: "/Content/Churches/Santa%20Croce%20Florence.html"
 ---
+
 
 Arnolfo di Cambio, also known in documents as Arnolfo di Lapo, was born in Colle di Val d’Elsa in Tuscany around the years 1240 to 1245. The principal Italian and international reference works concur on this Tuscan birthplace, even if they differ slightly on the exact year. Italian archival tradition, summarized in modern scholarship, identifies his father as Messer Cambio, a notary active in Colle, and his mother as a woman referred to as domina Perfetta, suggesting a family of some local standing and education. The alternative patronymic “di Lapo,” emphasized in Vasari’s account, probably reflects either an earlier ancestor or a confusion between related branches of the family, and it has contributed to later uncertainty about his genealogy. Vasari further embellished the family narrative by portraying Arnolfo as the son of a German master builder, a detail that modern historians treat with caution while acknowledging possible transalpine connections in the wider kin group. What can be stated with reasonable confidence is that Arnolfo grew up in an environment where literacy, legal practice, and knowledge of building techniques coexisted within the domestic sphere. This conjunction of notarial culture and practical craftsmanship would have introduced him very early to the contractual and institutional mechanisms that governed large ecclesiastical and civic commissions. The family’s social position, situated between the professional classes and the artisan world, helps to explain the breadth of Arnolfo’s later activity as sculptor, architect, and urban planner. Such a milieu likely facilitated his access to reputable masters rather than confining him to purely manual labor in anonymous workshops. In this sense, Arnolfo’s family context can be located within the minor urban elites of mid thirteenth century Tuscany, a stratum that mediated between communal government, religious orders, and the emerging professional status of artists.
 

@@ -1,26 +1,52 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Coppo di Marcovaldo"
-author: "Coppo di Marcovaldo"
-role: "Florentine panel painter and pioneer of emotionally charged Italo‑Byzantine imagery"
+subtitle: "Florentine panel painter and pioneer of emotionally charged Italo-Byzantine imagery"
 dates: "c. 1225 – c. 1276"
-birth_place: "Florence, parish of San Lorenzo"
-death_place: "Pistoia (probable), while working for the cathedral of San Zeno"
-period: "XIII century"
-key_works:
-  - "Madonna del Bordone (1261), Santa Maria dei Servi, Siena"
-  - "Crucifix for Pistoia Cathedral (c. 1274), with Salerno di Coppo"
-  - "Madonna and Child with scenes from the life of Christ, Pistoia Cathedral (lost; known from early modern descriptions)"
-  - "Saint Michael Altarpiece from Sant’Angelo a Vico l’Abate, now San Casciano in Val di Pesa (attributed)"
-  - "Saint Francis Altarpiece, Bardi Chapel, Santa Croce, Florence (traditional attribution)"
-related_entries:
-  - "Servite Order and Santa Maria dei Servi, Siena"
-  - "Cathedral of San Zeno, Pistoia"
-  - "Salerno di Coppo"
-  - "Basilica of Santa Croce, Florence"
-  - "Guelph–Ghibelline conflicts and the Battle of Montaperti (1260)"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Florentine panel painter"
+      - "Pioneer of emotionally charged Italo-Byzantine imagery"
+  
+  - title: "LOCATION"
+    list:
+      - "Florence, parish of San Lorenzo"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Florence, parish of San Lorenzo, c. 1225"
+      - label: "Death"
+        value: "Pistoia (probable), while working for the cathedral of San Zeno, c. 1276"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Madonna del Bordone (1261), Santa Maria dei Servi, Siena"
+      - "Crucifix for Pistoia Cathedral (c. 1274), with Salerno di Coppo"
+      - "Madonna and Child with scenes from the Life of Christ, Pistoia Cathedral (lost; known from early descriptions)"
+      - "Saint Michael Altarpiece from Sant'Angelo in Vico l'Abate, now San Casciano in Val di Pesa (attributed)"
+      - "Saint Francis Altarpiece, Bardi Chapel, Santa Croce, Florence (traditional attribution)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Servite Order and Santa Maria dei Servi, Siena"
+        url: "/Content/Churches/Santa%20Maria%20dei%20Servi%20Siena.html"
+      - title: "Cathedral of San Zeno, Pistoia"
+        url: "/Content/Churches/San%20Zeno%20Pistoia.html"
+      - title: "Salerno di Coppo"
+        url: "/Content/Artists/XIII%20century/Salerno%20di%20Coppo.html"
+      - title: "Basilica of Santa Croce, Florence"
+        url: "/Content/Churches/Santa%20Croce%20Florence.html"
+      - title: "Guelph-Ghibelline conflicts and the Battle of Montaperti (1260)"
+        url: "/Content/Topics/Montaperti%20Battle.html"
 ---
+
 
 Coppo di Marcovaldo was born in Florence around 1225, most likely in the second or third decade of the thirteenth century, in the parish of San Lorenzo, a district in the heart of the Tuscan city that was already establishing itself as a significant artistic center. The exact date of his birth remains undocumented, as is common for artists of this period, though archival evidence places his active artistic career firmly within the third quarter of the thirteenth century. His emergence as a painter occurred during a pivotal moment in Italian art history, when the rigid formalism of Romanesque tradition was gradually yielding to the more expressive possibilities of Byzantine-influenced painting. Florence during this period was experiencing significant political turmoil, divided between Guelph and Ghibelline factions, a conflict that would profoundly affect Coppo's life and career. The artist's death is believed to have occurred around 1276, though like his birth, the precise date and cause remain elusive in historical records. The last documentary reference to Coppo dates from January 1276, relating to payment for a ceiling decoration he had executed above the choir of Pistoia Cathedral, indicating he was still actively working in the final year of his life. It is generally believed that Coppo spent his final days in Pistoia, where he had established a productive working relationship with the cathedral authorities and had been residing since at least 1265. His death around 1276 would have occurred when he was approximately fifty years old, having achieved considerable recognition as one of the foremost painters of the Florentine Duecento. The absence of detailed records concerning his death reflects the limited documentation practices of the period, particularly for artists who had not yet achieved the legendary status that later Renaissance masters would enjoy. Nevertheless, Coppo di Marcovaldo stands as one of the first Florentine artists whose name and works are well documented, marking an important transition in the preservation of artistic identity.
 
