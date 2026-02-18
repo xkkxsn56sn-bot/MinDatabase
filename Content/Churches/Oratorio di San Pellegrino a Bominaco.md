@@ -1,70 +1,44 @@
 ---
-layout: church-profile
+layout: entry
 title: "Oratorio di San Pellegrino, Bominaco"
-author: "Oratorio di San Pellegrino, Bominaco"
-role: "High medieval Benedictine oratory and shrine, major monument of thirteenth‑century fresco painting in central Italy"
+subtitle: "High medieval Benedictine oratory and shrine"
 dates: "Monastic foundation 10th–11th century; oratory and fresco cycle dated 1263"
-location: "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
-tradition: "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
-architectural_style: "Romanesque with early Gothic elements"
-order: "Benedictine"
 
-founders_and_patrons:
-  - "Benedictine monks dependent on Farfa Abbey"
-  - "Abbot Teodino of Bominaco, briefly bishop of Valva"
-  - "Legendary Carolingian foundation attributed to Charlemagne (\"re Carlo\")"
+meta:
+  - title: "LOCATION"
+    list:
+      - "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
 
-key_phases:
-  - "Early memorial cult of San Pellegrino (late antiquity – early Middle Ages)"
-  - "Benedictine monastic development and Farfa dependence (10th–12th centuries)"
-  - "Construction and decoration of the oratory and fresco cycle (1263)"
-  - "Jurisdictional conflicts with the bishops of Valva (1093–1343)"
-  - "Decline and destruction of the monastery after Braccio da Montone’s raid (1423)"
-  - "Survival as parish site and modern conservation (17th–21st centuries)"
+  - title: "CHRONOLOGY"
+    list:
+      - "Monastic foundation 10th–11th century"
+      - "Oratory and fresco cycle dated 1263"
 
-fresco_program:
-  cycles:
-    - "Infancy of Christ"
-    - "Passion of Christ (without a Crucifixion scene)"
-    - "Life and Martyrdom of San Pellegrino"
-    - "Last Judgment and eschatological scenes"
-    - "Liturgical calendar with zodiac signs and labors of the months"
-  masters:
-    - "Maestro della Passione"
-    - "Maestro dell'Infanzia di Cristo"
-    - "Maestro Miniaturista"
+  - title: "ECCLESIASTICAL TRADITION"
+    list:
+      - "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
 
-architecture:
-  type: "Single‑nave oratory with flat‑ended east wall"
-  plan: "Rectangular hall, approx. 18.70 × 5.60 m, single nave without transept or apse"
-  vaulting: "Ogival barrel vault divided into four bays by transverse arches on pilasters"
-  liturgical_furnishings:
-    - "Stone choir screens (plutei) with dragons and griffins separating monastic and lay space"
-    - "High altar aligned to the east"
-  exterior_features:
-    - "Simple masonry façade with small rose window and modest campanile"
-    - "Austere exterior contrasting with highly decorated interior"
+  - title: "RELIGIOUS ORDER"
+    list:
+      - "Benedictine"
 
-thematic_keywords:
-  - "Benedictine monasticism"
-  - "High Middle Ages"
-  - "Transhumance routes and Abruzzese plateau"
-  - "Byzantine and Romanesque traditions"
-  - "Proto‑Gothic and French Gothic influences"
-  - "Visual theology and liturgical pedagogy"
-  - "Monastic calendar and zodiac"
+  - title: "ARCHITECTURAL STYLE"
+    list:
+      - "Romanesque with early Gothic elements"
 
-related_entries:
-  - "Santa Maria Assunta, Bominaco"
-  - "Farfa Abbey"
-  - "Anagni Cathedral crypt"
-  - "Sant’Angelo in Formis"
-  - "Monreale Cathedral"
-  - "Giotto di Bondone and early Giottesque painting"
+  - title: "FOUNDERS & PATRONS"
+    list:
+      - "Benedictine monks dependent on Farfa Abbey"
+      - "Abbot Teodino of Bominaco"
+      - "Legendary Carolingian attribution to Charlemagne"
 
-category: "churches"
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Santa Maria Assunta, Bominaco"
+        url: "/Content/Churches/Santa%20Maria%20Assunta%20Bominaco.html"
+      - title: "Farfa Abbey"
+        url: "/Content/Churches/Farfa%20Abbey.html"
 ---
-
 
 The Oratorio di San Pellegrino, stands as a remarkable testimony to the religious and cultural ferment of the High Middle Ages in central Italy, specifically in the elevated plateau of Navelli in Abruzzo. The site itself possesses extraordinary antiquity, as tradition holds that in the third or fourth century, San Pellegrino, a Syrian martyr and preacher, suffered his martyrdom and received burial on this remote mountainous terrain. The veneration of this holy figure became deeply embedded in the consciousness of the local Benedictine monastic community, and over subsequent centuries, the location transformed from a simple memorial shrine into a locus of considerable devotional and artistic significance. The earliest documentary evidence for the monastery appears in the diploma of Emperor Conrad II dated 1027, which references an ecclesia sancti Peregrini and confirms that the monastic complex was already established by that date, functioning under Benedictine observance. The monastic settlement itself appears to have been founded in the tenth century, dependent upon the mighty Farfa Abbey and participating in the vast network of Benedictine cultural influence that emanated from Rome and the Tiber valley across the Apennine massif. The monastery experienced considerable growth and flourished throughout the eleventh and twelfth centuries, establishing itself as an important spiritual and economic center along the transhumance routes that shepherds and merchants traversed seasonally across the Abruzzese highlands. By the thirteenth century, when the construction of the San Pellegrino Oratorio occurred, the monastic complex had achieved considerable prosperity and possessed sufficient resources to commission a decorated chapel of exceptional artistic ambition and quality. The prosperity would prove fragile, however, as the monastery became enmeshed in protracted disputes between competing ecclesiastical authorities, particularly the bishops of Valva who sought to exercise jurisdiction over the abbey, creating tensions that lasted for three centuries until 1343 and ultimately contributing to the community's decline and abandonment following the catastrophic raid by the military captain Braccio da Montone in 1423.
 
