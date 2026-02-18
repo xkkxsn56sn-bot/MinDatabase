@@ -1,20 +1,33 @@
 ---
+layout: entry
+title: "Godescalc"
+subtitle: "Carolingian Court Scribe and Illuminator"
+dates: "Active ca. 781–783"
 
-layout: artist-profile
-title: Godescalc
-author: Godescalc
-period: VIII century
-category: artists
-role: Scribe and illuminator
-birth_place: France ?
-death_place: 
-dates: c. 781-783
-key_works: Godescalc Evangelistary
-related_entries:
-- Carlo Magno
-- Scriptoria carolingi
+meta:
+  - title: "PERIOD"
+    list:
+      - "VIII century"
   
+  - title: "ROLE"
+    list:
+      - "Scribe"
+      - "Illuminator"
+  
+  - title: "LOCATION"
+    list:
+      - "Carolingian Court (Aachen)"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Godescalc Evangelistary (781–783)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Godescalc Evangelistary"
+        url: "/Content/Codex/Godescalc%20Evangelistary.html"
 ---
+
 
 ## Identity and Historical Context
 

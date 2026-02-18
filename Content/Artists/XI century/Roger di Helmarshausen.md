@@ -1,25 +1,35 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Roger of Helmarshausen"
-author: "Roger of Helmarshausen"
-role: "Benedictine monk, goldsmith, and theorist of the arts"
-dates: "c. 1070 – after 1125"
-birth_place: "Meuse region (Mosan area, probably in present-day Belgium or eastern France)"
-death_place: "Helmarshausen Abbey, near Höxter, Saxony (probable)"
-period: "XI–XII century"
-key_works:
-  - "Portable altar of Saints Kilian and Liborius, Paderborn Cathedral Treasury"
-  - "Portable altar from Abdinghof Abbey, Paderborn Cathedral Treasury"
-  - "Goldsmith's work and designs associated with the 'Gospels of Henry the Lion'"
-  - "\"De diversis artibus\" (\"Schedula diversarum artium\"), attributed"
-related_entries:
-  - "Helmarshausen Abbey"
-  - "Stavelot Abbey"
-  - "Paderborn Cathedral"
-  - "\"Gospels of Henry the Lion\""
-  - "\"De diversis artibus\" (Schedula diversarum artium)"
-category: "artists"
+subtitle: "Benedictine Monk, Metalworker, and Theorist"
+dates: "Active ca. 1100–1120"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XI–XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Metalworker"
+      - "Goldsmith"
+      - "Author"
+  
+  - title: "LOCATION"
+    list:
+      - "Helmarshausen Abbey, Germany"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Portable Altar of Henry II"
+      - "De diversis artibus (treatise)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Helmarshausen Abbey"
+        url: "/Content/Churches/Helmarshausen%20Abbey.html"
 ---
+
 
 Roger of Helmarshausen is one of the most significant figures in 12th-century European art, representing the convergence of monastic scholarship, artistic innovation, and ecclesiastical patronage that characterized the Romanesque period. Born around 1070 in the Meuse region, this Benedictine monk and artist embodied the intellectual and creative dynamism of medieval monastic workshops, establishing himself both as a master goldsmith and, most likely, as the author of the seminal treatise De diversis artibus. His career spanned the crucial decades in which ecclesiastical art was undergoing a profound transformation, linking the traditions of Meuse craftsmanship with the emerging artistic sensibility of imperial Germany.
 

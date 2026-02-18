@@ -1,24 +1,33 @@
 ---
-layout: artist-profile
-title: "Giselbertus of Autun"
-author: "Giselbertus"
-role: "Romanesque sculptor"
-dates: "fl. c. 1115–1135; probably born c. 1080–1090, died c. 1135"
-birth_place: "Probably Autun or its environs, Burgundy (unconfirmed)"
-death_place: "Probably Autun, Burgundy (unconfirmed)"
-period: "XI–XII century"
-key_works:
-  - "Last Judgment tympanum, west portal, Cathedral of Saint-Lazare, Autun"
-  - "Eve lintel (now Musée Rolin, Autun)"
-  - "Capitals of the Flight into Egypt and the Suicide of Judas, Cathedral of Saint-Lazare, Autun"
-related_entries:
-  - "Cathedral of Saint-Lazare, Autun"
-  - "Bishop Étienne de Bagé"
-  - "Cluniac Order and Cluny III"
-  - "Vézelay, Basilica of Sainte-Marie-Madeleine"
-  - "Romanesque sculpture in Burgundy"
-category: "artists"
+layout: entry
+title: "Giselbertus"
+subtitle: "Romanesque Sculptor"
+dates: "Active ca. 1120–1135"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XI–XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Sculptor"
+  
+  - title: "LOCATION"
+    list:
+      - "Autun, Burgundy"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Tympanum of the Last Judgment, Autun Cathedral"
+      - "Eve from the Lintel of the North Portal"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Autun Cathedral"
+        url: "/Content/Churches/Autun%20Cathedral.html"
 ---
+
 
 Giselbertus, a name that resonates in the annals of Romanesque art, emerges as an obscure but deeply influential figure of the early 12th century, a sculptor whose hands shaped some of the most evocative stone narratives of medieval France. Although the precise date and place of his birth remain elusive, shrouded in the mists of an era when documentation was sporadic and often reserved for the elite, scholars generally agree that he flourished between approximately 1115 and 1135, with his most famous works linked to the Burgundy region. It is widely believed that he was born at the end of the 11th century, probably around 1080 or 1090, in or near Autun, a city rich in ecclesiastical significance and artistic ferment, although no definitive document establishes the exact time or place of his entry into the world. His life, like the dimly lit interiors of the churches he adorned, is illuminated only by the works he left behind, which cast a glow that invites speculation rather than certainty.
 The tapestry of Giselbertus' family is woven with threads of conjecture rather than fact, as historical documentation does not offer a clear picture of his family. One might imagine that he came from a modest family of craftsmen or stonemasons, a lineage perhaps accustomed to the rhythms of the chisel and hammer, given the skill he later demonstrated. In the medieval world, trades were often passed down from generation to generation, and it is plausible that among his ancestors were masons or sculptors who worked in the quarries of Burgundy, shaping the raw material that would become his medium. However, no names of parents or siblings appear in the surviving texts, leaving us to imagine a family in which the clanging of tools and the dust of stone were as familiar as daily bread.
