@@ -1,6 +1,50 @@
 ---
+layout: entry
 title: "Codex Aureus of Saint Emmeram"
+author: "Codex Aureus of Saint Emmeram"
+role: "Imperial Carolingian luxury Gospel book with gold script, purple parchment and a complete treasure binding for Charles the Bald"
+dates: "c. 870 CE (later ninth century)"
+place_of_origin: "Court scriptorium of Charles the Bald (Palace School), probably near Paris or Saint-Denis, after the destruction of Tours"
+current_location:
+  manuscript: "Bayerische Staatsbibliothek, Munich, Clm 14000"
+  treasure_binding: "Original Carolingian gold and gem‑studded cover preserved with the manuscript in Munich"
+type: "Illuminated Gospel book in Latin (Vulgate text with elaborate liturgical and dedicatory apparatus)"
+contents:
+  - "Four Gospels in Latin on 126 folios, written entirely in gold uncial script on purple and tinted parchment"
+  - "Full-page miniatures including Christ in Majesty, the emperor Charles the Bald enthroned, and evangelist portraits"
+  - "Canon tables, decorated incipit pages and historiated initials"
+script: "Gold uncial script imitating late antique imperial books, with display capitals and carefully ruled layout"
+materials_and_techniques:
+  support:
+    - "Fine calf parchment, including numerous purple‑dyed folios"
+  writing_and_pigments:
+    - "Gold ink for the entire biblical text and principal inscriptions"
+    - "Coloured inks and pigments for initials and miniatures"
+  decoration:
+    - "Full-page miniatures in a classicizing Carolingian idiom"
+    - "Canon tables framed by architectural arcades"
+    - "Historiated and ornamental initials in gold and rich colour"
+  binding:
+    - "Treasure binding with repoussé gold reliefs, filigree, and cabochon gemstones mounted on wooden boards"
+historical_context:
+  - "Commissioned for Emperor Charles the Bald during the mature phase of the Carolingian Renaissance"
+  - "Embodies the imperial ideology of renovatio imperii Romani in visual and material form"
+  - "Given by Arnulf of Carinthia to Saint Emmeram’s Abbey in Regensburg in 893 and preserved there until secularization in 1811"
+thematic_keywords:
+  - "Carolingian Renaissance and Palace School"
+  - "Imperial ideology and Christomimesis"
+  - "Purple parchment and gold-script Gospel books"
+  - "Treasure bindings and court metalwork"
+  - "Manuscript luxury as political communication"
+related_entries:
+  - "Codex Aureus of Lorsch"
+  - "Codex Aureus of Echternach"
+  - "Book of Kells"
+  - "Saint Emmeram’s Abbey, Regensburg"
+  - "Charles the Bald and the Palace School"
+category: "codex"
 ---
+
 
 ## Historical Context and Carolingian Significance
 

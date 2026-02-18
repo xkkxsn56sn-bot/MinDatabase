@@ -1,6 +1,52 @@
 ---
+layout: entry
 title: "Scivias of Hildegard of Bingen"
+author: "Hildegard of Bingen (1098–1179)"
+role: "First great visionary-theological work of Hildegard of Bingen, presenting a comprehensive summa of salvation history in symbolic visions"
+dates: "c. 1142–1151/52 (composition and redaction)"
+place_of_origin: "Disibodenberg and, in the final phase, Rupertsberg near Bingen, Rhineland (Holy Roman Empire)"
+current_location:
+  principal_lost_manuscript: "Rupertsberg illuminated codex (lost after 1945; known through Eibingen facsimile and photographs)"
+  key_witnesses:
+    - "Vatican Library, Cod. Lat. (12th‑century copy)"
+    - "Heidelberg and Oxford manuscripts (later 12th–early 13th century)"
+    - "Trier manuscript, 1487 (late medieval redaction)"
+type: "Visionary theological treatise with an integrated cycle of miniatures"
+contents:
+  - "Prologue and twenty‑six visions organized in three books"
+  - "Book I: Creation, fall, and cosmic order"
+  - "Book II: Christ, the Church, and the sacraments"
+  - "Book III: Eschatology, virtues, and final consummation"
+  - "Each vision followed by divine exposition and moral instruction"
+script: "Latin prose dictated by Hildegard, transmitted in 12th‑century bookhands; Rupertsberg codex accompanied by a rich program of captions and rubrics"
+materials_and_techniques:
+  support:
+    - "Parchment codices produced in monastic scriptoria"
+  writing_and_pigments:
+    - "Dark inks with rubrication and display capitals"
+    - "Extensive use of color, metallic silver and, in places, gold in the lost Rupertsberg miniatures"
+  decoration:
+    - "Cycle of c. 35 miniatures visualizing the visions (reconstructed from Eibingen facsimile)"
+    - "Complex geometric and architectural schemata for cosmological and ecclesiological scenes"
+historical_context:
+  - "Composed in the milieu of the twelfth‑century renaissance and ecclesiastical reform"
+  - "Partly presented at the Synod of Trier (1147–48), where Pope Eugenius III approved and encouraged the work"
+  - "First panel of a visionary trilogy completed by Liber vitae meritorum and Liber divinorum operum"
+thematic_keywords:
+  - "Visionary theology and prophetic authority"
+  - "Ecclesiology and reform"
+  - "Cosmology and salvation history"
+  - "Female authorship and monastic culture"
+  - "Text–image integration in theological discourse"
+related_entries:
+  - "Liber Vitae Meritorum"
+  - "Liber Divinorum Operum"
+  - "Hildegard of Bingen"
+  - "Rupertsberg monastery and Eibingen facsimile"
+  - "Twelfth‑century visionary literature"
+category: "codex"
 ---
+
 
 Scivias, commonly rendered in English as “Know the Ways,” is the first of Hildegard of Bingen’s three great visionary-theological works, and it occupies a foundational place not only in her personal oeuvre but also in the wider history of twelfth‑century Latin spirituality, visionary literature, and speculative theology.
 Conceived as a structured exposition of twenty‑six visions received, as Hildegard affirms, from early childhood and brought to literary form under divine compulsion beginning in the early 1140s, the work combines visionary description, allegorical exegesis, and doctrinal instruction in a way that unsettles simple generic labels such as “treatise,” “visionary chronicle,” or “poem,” yet exhibits a highly wrought rhetorical and imagistic artistry that modern scholarship often characterizes as poetic in both substance and form.

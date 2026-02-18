@@ -1,6 +1,46 @@
 ---
+layout: entry
 title: "Codex Aureus of Echternach"
+author: "Codex Aureus of Echternach"
+role: "Imperial Ottonian luxury Gospel book with extensive gold and purple decoration, produced for Echternach Abbey"
+dates: "c. 1030–1050 (first half of the 11th century)"
+place_of_origin: "Scriptorium of Echternach Abbey (Luxembourg), under imperial-Ottonian patronage"
+current_location: "Germanisches Nationalmuseum, Nuremberg (Hs. 156 142); ivory covers and treasure elements dispersed in various collections"
+type: "Illuminated Gospel book in Latin (Vulgate text with rich prefatory apparatus)"
+contents:
+  - "Four Gospels in Latin with prologues and capitula"
+  - "Full-page miniatures of Christ, the Virgin, Evangelists and narrative scenes"
+  - "Canon tables and extensively ornamented incipit and initial pages"
+script: "Caroline minuscule of high quality with display capitals in gold and coloured inks"
+materials_and_techniques:
+  support:
+    - "Fine parchment (likely calf vellum), large-format folios"
+    - "Purple-dyed parchment for selected pages and sections"
+  writing_and_pigments:
+    - "Gold and silver inks for titles, display lines and key passages"
+    - "Mineral and organic pigments including blues, reds, greens and whites characteristic of Ottonian court production"
+  decoration:
+    - "Full-page miniatures framed in gold with architectural and ornamental borders"
+    - "Canon tables with arcades and coloured columns"
+    - "Historiated and decorated initials with interlace, foliage and zoomorphic motifs"
+historical_context:
+  - "Produced during the Ottonian and early Salian period when imperial patronage fostered a revival of courtly manuscript illumination"
+  - "Created for Echternach, a prestigious imperial abbey with strong connections to the Saxon–Ottonian dynasty"
+  - "Part of a group of sumptuous Gospel books used as liturgical, diplomatic and treasury objects"
+thematic_keywords:
+  - "Ottonian manuscript illumination"
+  - "Imperial and monastic patronage"
+  - "Gold and purple Gospel books"
+  - "Echternach scriptorium and imperial abbeys"
+  - "Text–image programs in high medieval Gospels"
+related_entries:
+  - "Codex Aureus of Lorsch"
+  - "Codex Aureus of Saint Emmeram"
+  - "Ottonian court art and imperial monasteries"
+  - "Echternach Abbey"
+category: "codex"
 ---
+
 
 ## Historical Context
 

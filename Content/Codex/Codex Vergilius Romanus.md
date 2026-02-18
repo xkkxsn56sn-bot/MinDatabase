@@ -1,6 +1,48 @@
 ---
-title: "Codex Vergilius Romanus"
+layout: entry
+title: "Codex Vergilius Romanus (Vat. lat. 3867)"
+author: "Codex Vergilius Romanus"
+role: "Late antique luxury manuscript of Virgil, key witness for the transmission of classical literature between the Roman world and the early Middle Ages"
+dates: "Second half of the 5th century CE"
+place_of_origin: "Late Roman cultural milieu (probable western provincial or Italian scriptorium; exact location debated)"
+current_location: "Vatican Apostolic Library, Rome (Vat. lat. 3867)"
+type: "Illuminated codex of classical Latin poetry"
+contents:
+  - "Virgil’s Aeneid (complete)"
+  - "Virgil’s Georgics"
+  - "Virgil’s Bucolics (Eclogues)"
+  - "Ancient scholia, glosses and marginal annotations in places"
+script: "Rustic capitals of late antique type, with multiple scribal hands and evolving letter-forms"
+materials_and_techniques:
+  support:
+    - "High-quality parchment (ca. 309 surviving leaves out of an estimated c. 410)"
+    - "Large near-square format (approx. 332 × 323 mm)"
+  writing_and_pigments:
+    - "Iron-gall and other late antique inks for text"
+    - "Seven-color palette for miniatures with added gold leaf in frames and details"
+  decoration:
+    - "Nineteen surviving miniatures illustrating key narrative moments"
+    - "Gilded frames structuring the image field"
+    - "Carefully ruled pages (c. 18 lines per page) integrating text and images"
+historical_context:
+  - "Produced in the final decades of the Western Roman Empire during the transition to Roman–barbarian kingdoms"
+  - "Part of a 5th-century Virgilian ‘luxury codex’ tradition alongside the Vergilius Vaticanus and Vergilius Augusteus"
+  - "Testifies to the persistence of senatorial and aristocratic literary culture in a time of political fragmentation"
+thematic_keywords:
+  - "Late antique book culture"
+  - "Virgilian manuscript tradition"
+  - "Transition from scroll to codex"
+  - "Continuity of classical education"
+  - "Text–image relationship in secular illumination"
+related_entries:
+  - "Vergilius Vaticanus"
+  - "Vergilius Augusteus"
+  - "Late antique luxury codices"
+  - "Vatican Apostolic Library"
+  - "Transmission of classical Latin literature"
+category: "codex"
 ---
+
 
 ## Context and Importance
 
