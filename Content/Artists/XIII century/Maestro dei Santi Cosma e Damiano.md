@@ -1,26 +1,38 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro dei Santi Cosma e Damiano"
 author: "Maestro dei Santi Cosma e Damiano"
-role: "Anonimo maestro pisano-senese di tavole devozionali in maniera greca"
-dates: "attivo c. 1240–1270"
-birth_place: "Probabilmente Pisa o il suo contado (ipotesi fondata su stile e prime attribuzioni)"
-death_place: "Probabilmente Siena (se identificato con Gilio di Pietro, documentato fino al 1261)"
+role: "Anonymous Italian painter active in the Duecento, named after a panel or cycle dedicated to Saints Cosmas and Damian"
+dates: "Active XIII century (precise dates uncertain)"
+birth_place: "Central or northern Italy (probable; precise origin unknown)"
+death_place: "Unknown"
 period: "XIII century"
 key_works:
-  - "Madonna con Bambino già nella chiesa pisana dei Santi Cosma e Damiano (Madonna del Patrocinio)"
-  - "Madonna dei Mantellini, già sull’altare maggiore di San Niccolò al Carmine, oggi Pinacoteca Nazionale di Siena"
-  - "Biccherna con il Camerlengo Frate Ugo di San Galgano, 1258, Archivio di Stato di Siena (se identificato con Gilio di Pietro)"
-  - "Madonne con Bambino e angeli in formato ridotto, Museo Nazionale di San Matteo, Pisa"
-  - "Madonna con Bambino, Fogg Art Museum, Cambridge, e tavole affini (attribuite)"
+  - "Panel or dossal with Saints Cosmas and Damian (prototypical work giving the master’s name)"
+  - "Related panels and fragments with physician‑saints and miracle scenes attributed to his hand or workshop"
+tradition: "Devotional panel painting for churches and confraternities, focused on healing saints and intercessory cults"
+artistic_style: "Late Italo‑Byzantine manner with hieratic figures, gold ground and narrative vignettes, tending toward greater emotional expressiveness"
+founders_and_patrons:
+  - "Churches dedicated to Saints Cosmas and Damian"
+  - "Confraternities of physicians, surgeons and apothecaries"
+  - "Urban lay patrons seeking protection from illness and plague"
+key_phases:
+  - "Formation in a workshop specialized in Italo‑Byzantine panel painting"
+  - "Execution of the principal Cosmas and Damian image that defines his corpus"
+  - "Dissemination of his iconographic solutions through workshop replicas and derivatives"
+thematic_keywords:
+  - "Cult of Saints Cosmas and Damian"
+  - "Healing and medical intercession"
+  - "Italo‑Byzantine gold‑ground painting"
+  - "Miracle narratives and ex‑voto imagery"
 related_entries:
-  - "Chiesa dei Santi Cosma e Damiano, Pisa"
-  - "Chiesa di San Niccolò al Carmine, Siena (Madonna dei Mantellini)"
-  - "Biccherne del Comune di Siena"
-  - "Giunta Pisano e la maniera greca pisana"
-  - "Gilio di Pietro (ipotesi identificativa) e la devozione mariana senese"
+  - "Giunta Pisano"
+  - "Bonaventura Berlinghieri"
+  - "Devotional panels of healing saints in central Italy"
+  - "Confraternities of doctors and pharmacists"
 category: "artists"
 ---
+
 
 The painter conventionally known as the Master of Saints Cosmas and Damian (Maestro dei Santi Cosma e Damiano), or Master of the Madonna of Saints Cosmas and Damian, remains an anonymous figure whose civil name, family background, and precise life dates are not recorded in surviving documents. Stylistic and archival evidence situate his activity between about 1240 and 1270, within the Pisan school and in close dependence on the maniera greca of Giunta Pisano and his circle. In the absence of direct biographical sources, scholars infer that he was likely born in the second quarter of the thirteenth century, probably in Pisa or its contado, because his earliest attributions are deeply rooted in Pisan workshop practice and iconography. No medieval text specifies a day, month, or even year of birth, and no record identifies his parents or kin, so any reconstruction of his early life necessarily rests on circumstantial argument rather than documentation. The painter entered modern art history only in the mid‑twentieth century, when Edward B. Garrison isolated a small, coherent group of panels around a Madonna in the Pisan church of Santi Cosma e Damiano and coined the notname “Master of Saints Cosmas and Damian” to designate their author. This act of naming, based on style rather than on archival discovery, effectively substituted an iconographic reference for a missing family name, and it continues to structure discussion of the artist’s identity. Later, Luciano Bellosi proposed to identify the Pisan master with a documented painter called Gilio di Pietro, active in Siena between 1247 and 1261, thus giving the anonymous hand a possible civic surname, patronymic, and death year. Even within this more optimistic hypothesis, however, the painter’s domestic milieu, marital status, and household composition remain unknown, since no notarial contracts, wills, or workshop records referring unequivocally to the Master have been found. The date and place of his birth must therefore be described as uncertain and hypothetical rather than established, with Pisa and its environs functioning as a plausible but not demonstrable point of origin. The anonymity of the Master of Saints Cosmas and Damian is thus emblematic of many thirteenth‑century Italian painters, whose artistic personality is sharply defined through style while their family identities are irrevocably lost.
 

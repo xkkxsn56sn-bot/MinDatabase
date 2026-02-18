@@ -1,26 +1,42 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Pietro Cavallini"
 author: "Pietro Cavallini"
-role: "Pittore e mosaicista romano, ponte tra tradizione bizantina e naturalismo proto‑rinascimentale"
-dates: "c. 1240–1250 – c. 1330"
-birth_place: "Roma, nel rione di San Pietro in Vincoli (famiglia de’ Cerroni)"
-death_place: "Napoli (probabile) o Roma, verso il 1330"
+role: "Roman painter and mosaicist, leading figure of late Duecento naturalism in Rome and Naples"
+dates: "c. 1240–1245 – after 1330"
+birth_place: "Rome"
+death_place: "Probably Rome or Naples (not documented with certainty)"
 period: "XIII–early XIV century"
 key_works:
-  - "Mosaici con Storie della Vergine, abside di Santa Maria in Trastevere, Roma"
-  - "Giudizio Finale a fresco, controfacciata di Santa Cecilia in Trastevere, Roma"
-  - "Cicli pittorici perduti in San Paolo fuori le Mura, Roma (Storie dell’Antico e Nuovo Testamento)"
-  - "Decorazioni a fresco per San Giorgio in Velabro, Roma (in gran parte perdute)"
-  - "Opere per San Domenico Maggiore e Santa Maria Donnaregina, Napoli (attribuite)"
+  - "Last Judgement fresco, Santa Cecilia in Trastevere, Rome"
+  - "Mosaic cycle with the Life of the Virgin, Santa Maria in Trastevere, Rome"
+  - "Frescoes in Santa Maria in Aracoeli and San Giorgio al Velabro, Rome (fragments and attributions)"
+  - "Fresco cycles for the Angevin court in Naples (Santa Maria Donna Regina Vecchia and others, partly lost or heavily restored)"
+tradition: "Roman late medieval painting and mosaic between Byzantine heritage, classical memory, and the emergence of Trecento naturalism"
+artistic_style: "Softly modelled figures, volumetric drapery and atmospheric colour, uniting Byzantine iconographic schemes with a new sense of space and human presence"
+founders_and_patrons:
+  - "Roman basilicas and titular churches (Santa Cecilia, Santa Maria in Trastevere, Santa Maria in Aracoeli)"
+  - "Cardinals and papal curia as promoters of Roman monumental painting"
+  - "Angevin court of Naples (Charles II of Anjou and Queen Maria of Hungary)"
+key_phases:
+  - "Formation within Roman Italo‑Byzantine mosaic and painting workshops"
+  - "Mature Roman phase with mosaics in Santa Maria in Trastevere and frescoes at Santa Cecilia in Trastevere"
+  - "Transfer to Naples and service at the Angevin court in the early Trecento"
+  - "Late activity influencing Neapolitan and central Italian Trecento painters"
+thematic_keywords:
+  - "Last Judgement iconography"
+  - "Marian cycles in Roman basilicas"
+  - "Transition from Byzantine maniera greca to Trecento naturalism"
+  - "Rome–Naples artistic networks under the Angevins"
 related_entries:
-  - "Famiglia de’ Cerroni (Petrus dictus Cavallinus de Cerronibus)"
-  - "Santa Maria in Trastevere, Roma"
-  - "Santa Cecilia in Trastevere, Roma"
-  - "San Paolo fuori le Mura, Roma"
-  - "Corte angioina di Carlo II d’Angiò a Napoli"
+  - "Giotto di Bondone"
+  - "Roman school of painting (XIII–XIV centuries)"
+  - "Santa Cecilia in Trastevere, Rome"
+  - "Santa Maria in Trastevere, Rome"
+  - "Angevin Naples and courtly painting"
 category: "artists"
 ---
+
 
 Pietro Cavallini, whose full name appears in contemporary documents as "Petrus dictus Caballinus de Cerronibus," represents one of the most significant yet enigmatic figures in the transition from medieval to Renaissance art in Italy. Born circa 1240-1250 in Rome, he lived an exceptionally long life by medieval standards, dying around 1330 at approximately ninety years of age. His surname "Cavallini" or more accurately "Cavallino," meaning "Little Horse," was likely a nickname that became permanently attached to his artistic identity. The artist consistently identified himself as "pictor romanus" in his signed works, emphasising his Roman heritage and professional standing within the artistic community of the Eternal City. His longevity allowed him to witness and participate in the profound artistic transformations that marked the late thirteenth and early fourteenth centuries, positioning him as both inheritor of Byzantine traditions and pioneer of the emerging naturalistic style that would characterise the early Renaissance.
 

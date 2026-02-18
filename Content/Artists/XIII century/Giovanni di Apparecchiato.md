@@ -1,24 +1,40 @@
 ---
-layout: artist-profile
-title: "Giovanni di Apparecchiato (il Nuccaro)"
-author: "Giovanni di Apparecchiato"
-role: "Pisan painter active in collaboration with leading Tuscan masters"
-dates: "documented 1299–1303 (fl. late XIII – early XIV century)"
-birth_place: "Lucca"
-death_place: "Pisa (probabile), agli inizi del XIV secolo"
+layout: entry
+title: "Giovanni di Apparecchiato"
+author: "Giovanni di Apparecchiato (Giovanni di Apparecchiato Ciabatti)"
+role: "Pisan painter associated with Cimabue and early Tuscan experiments beyond the maniera greca"
+dates: "Active c. 1270–c. 1300 (documented 1290s)"
+birth_place: "Pisa (probable)"
+death_place: "Pisa or nearby Tuscany (probable)"
 period: "XIII century"
 key_works:
-  - "Fresco decoration at the Palazzo dell’Opera del Duomo, Pisa, in collaboration with Vincino da Pistoia (1299; now lost or fragmentary)"
-  - "High‑altar polyptych for the Ospedale Nuovo di Santa Chiara, Pisa, commissioned with Cimabue (contract 1–5 November 1301; now lost)"
-  - "Other lost or undocumented works for Pisan ecclesiastical and civic patrons (inferred from archival mentions)"
+  - "Frescoes in the Upper Church of San Francesco, Assisi (episodes from the life of Saint Francis, attributions debated)"
+  - "Panel paintings for churches in Pisa and its contado (largely lost or anonymous)"
+  - "Collaborations or works in the orbit of Cimabue in central Italy (stylistic groupings)"
+tradition: "Pisan and central Italian painting in the circle of Cimabue and the early Franciscan image tradition"
+artistic_style: "Late Italo-Byzantine manner tempered by increasing spatial awareness and narrative clarity, close to Cimabue’s circle"
+founders_and_patrons:
+  - "Franciscan Order (Convento di San Francesco, Assisi, and Tuscan houses)"
+  - "Ecclesiastical patrons in Pisa and surrounding dioceses"
+  - "Lay confraternities and local communal authorities"
+key_phases:
+  - "Training within Pisan Italo-Byzantine workshop culture in the later thirteenth century"
+  - "Probable collaboration with or work alongside Cimabue in central Italian fresco cycles"
+  - "Independent commissions in Pisa and Tuscan churches toward the end of the thirteenth century"
+thematic_keywords:
+  - "Franciscan narrative cycles"
+  - "Transition from Byzantine to early Gothic sensibility"
+  - "Pisan school of painting"
+  - "Cimabue’s circle and followers"
 related_entries:
-  - "Ospedale Nuovo / Ospedale di Santa Chiara, Pisa"
-  - "Opera del Duomo di Pisa"
-  - "Cimabue (Cenni di Pepo)"
-  - "Vincino da Pistoia"
-  - "Pisa and Lucca in the late Duecento"
+  - "Cimabue"
+  - "Giunta Pisano"
+  - "Bonaventura Berlinghieri"
+  - "San Francesco, Assisi (Upper Church)"
+  - "Pisa Cathedral and Franciscan churches in Tuscany"
 category: "artists"
 ---
+
 
 Giovanni d'Apparecchiato, known by the alternative designation *il Nuccaro* (or *Nuccolo* and *Nuchulus* in variant documentation), emerged from the merchant republic of Lucca in the late thirteenth century, where his family apparently maintained sufficient means to support the apprenticeship of a son in the prestigious craft of panel and fresco painting. The precise etymology of his surname remains contested among scholars, with "Apparecchiato" possibly deriving from a locality within Luccan territory, though no definitive genealogical records have survived to establish his parentage or collateral family members with certainty. The alternative sobriquet *il Nuccaro* suggests a regional origin or family occupation, though contemporary documentary sources offer no clarification regarding this nomenclature. The absence of patronymic information in the archival materials indicates that Giovanni either represented a cadet branch of a Luccan family of minor significance or that his family had recently ascended to artisanal status through commerce or craft specialization. His birthplace of Lucca positioned him within a Tuscan cultural milieu that had, since the twelfth century, maintained the most vibrant and sophisticated school of painting in Italy, a legacy that would inform his artistic formation. The transition from Luccan domicile to Pisan workshop, documented by 1299, suggests either apprenticeship completed in his native city or a deliberate relocation to access the more prominent artistic opportunities emerging from Pisa's renewed prominence following ecclesiastical and civic patronage initiatives. That Giovanni succeeded in establishing himself sufficiently to undertake documented commissions within a decade of first appearance in the archival record indicates either precocious talent recognized early or a family connection within the Pisan artistic establishment that facilitated his rapid integration into elite workshop circles. No marriage records, property holdings, or subsequent family formations are documented in surviving sources, a lacuna that precludes any understanding of his domestic circumstances, social standing, or the transmission of his technical knowledge to subsequent generations.
 

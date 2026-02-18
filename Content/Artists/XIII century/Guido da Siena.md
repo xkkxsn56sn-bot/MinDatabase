@@ -1,24 +1,40 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Guido da Siena"
 author: "Guido da Siena"
-role: "Early master of Sienese panel painting at the transition from Byzantine to local Gothic traditions"
-dates: "c. 1230 – c. 1290"
-birth_place: "Siena (probabile), attivo nel contesto urbano della città‑stato"
-death_place: "Siena (probabile), poco prima dell’ascesa di Duccio di Buoninsegna"
+role: "Early Sienese panel painter bridging Byzantine maniera greca and the later Duccio school"
+dates: "Active c. 1260–1280 (traditional life dates uncertain)"
+birth_place: "Siena (probable)"
+death_place: "Siena or surrounding contado (probable)"
 period: "XIII century"
 key_works:
-  - "Maestà di San Domenico, San Domenico, Siena (firmata \"ME GUIDO DE SENIS DIEBUS DEPINXIT AMENIS\")"
-  - "Madonna in trono col Bambino (già in San Domenico), oggi divisa tra la Pinacoteca Nazionale di Siena e altri musei (attribuita)"
-  - "Altre tavole mariane e dossali devozionali nel contesto senese (attribuite alla sua cerchia)"
+  - "Maestà (Virgin and Child enthroned with angels), formerly in Siena’s Palazzo Pubblico, now Pinacoteca Nazionale, Siena"
+  - "Fragments of altarpieces and devotional panels attributed to his workshop in Siena and Tuscany"
+  - "Panels associated with the early Sienese school and pre-Duccio Maestà iconography"
+tradition: "Sienese communal painting, Marian iconography, and early Maestà imagery"
+artistic_style: "Italo-Byzantine foundation with increased tenderness, rhythmic line, and incipient volumetric effects anticipating Duccio"
+founders_and_patrons:
+  - "Sienese commune and civic institutions"
+  - "Churches and confraternities in Siena and its contado"
+  - "Early patrons of Marian cults in Siena"
+key_phases:
+  - "Formation within mid-thirteenth-century Sienese Italo-Byzantine workshop practice"
+  - "Execution of the signed and dated Maestà panel traditionally inscribed 1221 (now re-dated to c. 1260–1270)"
+  - "Development of a small workshop and circle active in Siena before Duccio"
+thematic_keywords:
+  - "Early Sienese Maestà iconography"
+  - "Transition from maniera greca to Trecento lyricism"
+  - "Marian civic patronage in Siena"
+  - "Pre-Duccio panel painting"
 related_entries:
-  - "Chiesa di San Domenico, Siena"
-  - "Ordine Domenicano a Siena"
-  - "Guido da Siena e le origini della scuola senese"
-  - "Coppo di Marcovaldo e la Madonna del Bordone"
-  - "Duccio di Buoninsegna e la generazione successiva"
+  - "Duccio di Buoninsegna"
+  - "Dietisalvi di Speme"
+  - "Biccherna of Siena and civic finance"
+  - "Siena Cathedral and Marian devotion"
+  - "Early Sienese school (XIII century)"
 category: "artists"
 ---
+
 
 Guido da Siena represents one of the most enigmatic figures in thirteenth-century Italian painting, active during the crucial formative period of Sienese artistic identity between approximately 1230 and 1290. The painter's biographical details remain largely shrouded in mystery, as no contemporary documents explicitly reference his existence, leaving scholars to reconstruct his career primarily through stylistic analysis and the few signed works that survive. His approximate birth date of 1230 places him in the generation that witnessed Siena's emergence as an independent city-state and its fierce competition with neighboring Florence. The painter's death, occurring around 1290, coincided with the period immediately preceding Duccio di Buoninsegna's rise to prominence, positioning Guido as a crucial transitional figure in Sienese painting. Recent scholarship has significantly reassessed his historical importance, moving away from earlier attributions that cast him as the founding father of the Sienese school toward a more nuanced understanding of his role within a complex network of contemporary artists. The painter's legacy became entangled in centuries-old debates between Sienese and Florentine art historians seeking to establish their respective cities' primacy in Italian painting. His only certain surviving signature appears on the monumental Maestà di San Domenico, bearing the Latin inscription "ME GUIDO DE SENIS DIEBUS DEPINXIT AMENIS". The chronological controversies surrounding his dated works have made him a central figure in discussions about the development of thirteenth-century Italian panel painting. Contemporary scholarship increasingly recognizes him as part of a collaborative workshop environment rather than an isolated artistic genius. His artistic production reflects the broader cultural and religious transformations occurring in medieval Siena during the height of Dominican and Franciscan influence.
 

@@ -1,21 +1,43 @@
 ---
-layout: artist-profile
-title: "Manfredino da Pistoia"
-role: "Pittore"
-dates: "attivo 1274–1293 ca."
+layout: entry
+title: "Manfredino da Pistoia (Manfredino d’Alberto)"
+author: "Manfredino da Pistoia"
+role: "Pittore pistoiese di formazione cimabuesca attivo tra Pistoia e Genova"
+dates: "Attivo ca. 1274–1293"
 birth_place: "Pistoia (probabile)"
-death_place: ""
-period: "XIII secolo, ambito cimabuesco e tardo bizantino toscano"
+death_place: "XIII secolo, in ambito toscano o ligure (non documentato)"
+period: "XIII century"
 key_works:
   - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta, Pistoia (1274)"
-  - "Cristo Pantocratore con Santi e angeli, San Bartolomeo in Pantano, Pistoia"
+  - "Cristo Pantocratore con santi e angeli, San Bartolomeo in Pantano, Pistoia"
   - "Cena in casa di Simone, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
   - "San Michele, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
+tradition: "Pittura murale toscana e ligure di fine Duecento, nel solco di Cimabue e della cultura figurativa di Assisi"
+artistic_style: "Lingua tardo‑bizantina con forte impronta cimabuesca, interesse per la narrazione, lo spazio e il pathos"
+founders_and_patrons:
+  - "Opera di San Jacopo, Pistoia"
+  - "Comunità ecclesiali di Santa Maria a Ripalta e San Bartolomeo in Pantano"
+  - "Clero e patroni di San Michele a Fassolo, Genova"
+  - "Committenza aristocratica ligure (es. castello di Andora, opere perdute)"
+key_phases:
+  - "Formazione in ambito pistoiese e probabile contatto con il cantiere di Assisi"
+  - "Primi cicli murali a Pistoia (Ascensione a Ripalta, Pantocratore a San Bartolomeo)"
+  - "Spostamento e grande commissione genovese a San Michele a Fassolo (1292)"
+  - "Perdute decorazioni per castello di Andora e altri contesti liguri"
+thematic_keywords:
+  - "Pittura cimabuesca di fine Duecento"
+  - "Cicli absidali e narrazione evangelica"
+  - "Rapporti tra Pistoia, Assisi e Genova"
+  - "Transizione dall’Italo‑bizantino al primo naturalismo trecentesco"
 related_entries:
   - "Cimabue"
-  - "Scuola pittorica pistoiese"
   - "Pittura murale genovese del Duecento"
+  - "Santa Maria a Ripalta, Pistoia"
+  - "San Bartolomeo in Pantano, Pistoia"
+  - "San Michele a Fassolo, Genova"
+category: "artists"
 ---
+
 
 Manfredino d’Alberto (also known as Manfredino da Pistoia) was a 13th‑century Italian painter active above all in Pistoia and later in Genoa, whose documented career spans from 1280 to 1293 and whose surviving works belong fully to the late Duecento Tuscan tradition. He was almost certainly born in Pistoia, though no document records his exact birth date, and the archival silence after 1293 means that both the date and the circumstances of his death remain unknown, beyond the fact that he was alive and professionally active in the last quarter of the 13th century.
 
