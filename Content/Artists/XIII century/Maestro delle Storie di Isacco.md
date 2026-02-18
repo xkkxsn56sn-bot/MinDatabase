@@ -1,23 +1,38 @@
 ---
-layout: artist-profile
-title: "Maestro delle Storie di Isacco (Master of the Isaac Stories)"
+layout: entry
+title: "Maestro delle Storie di Isacco"
 author: "Maestro delle Storie di Isacco"
-role: "Anonymous master of fresco cycles at the threshold between Maniera Greca and Proto‑Renaissance naturalism"
-dates: "active c. 1290–1295"
-birth_place: "Unknown; possibly Florence, Rome, or Umbria (Assisi area), depending on the attribution hypothesis"
-death_place: "Unknown; probably in central Italy at the turn of the fourteenth century"
+role: "Anonymous Florentine painter associated with the Isaac Stories panel in the circle of Cimabue and early Giotto"
+dates: "Active late XIII century (c. 1280–1290)"
+birth_place: "Florence or its contado (probable)"
+death_place: "Unknown (probably central Italy)"
 period: "XIII century"
 key_works:
-  - "Isaac Blessing Jacob, Upper Basilica of San Francesco, Assisi"
-  - "Esau Before Isaac, Upper Basilica of San Francesco, Assisi"
+  - "Storie di Isacco (Isaac Stories) panel, usually associated with the Bardi or Peruzzi Chapel programs and with early Giottesque experiments"
+  - "Related narrative panels and fragments in Florence attributed to his hand or workshop"
+tradition: "Florentine narrative panel painting at the transition from Cimabue’s maniera greca to Giotto’s naturalism"
+artistic_style: "Giottesque tendency toward volumetric figures and clear spatial staging, still rooted in late Italo‑Byzantine line and color"
+founders_and_patrons:
+  - "Florentine mendicant churches (Franciscan and Dominican contexts)"
+  - "Urban elite families commissioning narrative cycles from the Giotto circle"
+  - "Confraternities and lay patrons tied to major city churches"
+key_phases:
+  - "Formation within a workshop close to Cimabue and early Giotto"
+  - "Execution of the Isaac Stories panel that gives the master his conventional name"
+  - "Further narrative and devotional works for Florentine churches (attributed corpus)"
+thematic_keywords:
+  - "Old Testament narrative cycles"
+  - "Giottesque reform of Tuscan painting"
+  - "Dialogue with Cimabue and Giotto"
+  - "Florentine Duecento–Trecento transition"
 related_entries:
-  - "Upper Basilica of San Francesco, Assisi (Old Testament cycle)"
-  - "Cimabue and the Assisi workshop"
-  - "Giotto di Bondone and the Proto‑Renaissance"
-  - "Pietro Cavallini and late thirteenth‑century Roman painting"
-  - "Franciscan patronage and typological cycles in San Francesco, Assisi"
+  - "Cimabue"
+  - "Giotto di Bondone"
+  - "Maestro della Croce 434"
+  - "Florentine mendicant churches and narrative painting"
 category: "artists"
 ---
+
 
 The Master of the Isaac Stories represents one of the most enigmatic yet pivotal figures in the transition from late medieval Byzantine conventions to the nascent naturalism of the Proto-Renaissance. This anonymous artist, named after the two frescoes depicting scenes from the life of Isaac in the Upper Basilica of San Francesco at Assisi, worked during the final decades of the thirteenth century, likely between 1290 and 1295. His identity remains one of art history's most debated questions, with proposals ranging from the young Giotto di Bondone to an unknown Roman master, a Florentine contemporary of Cimabue, or even an innovative artist from Assisi itself. What remains undisputed is the revolutionary impact of his work: the Isaac frescoes demonstrate a sophisticated understanding of spatial depth, architectural perspective, and psychological narrative that would define the course of Italian painting for generations to come. The Master's two surviving works—*Isaac Blessing Jacob* and *Esau Before Isaac*—occupy a crucial position in the upper register of the nave's north wall, executed as part of the ambitious Old Testament cycle that decorated the basilica's clerestory level. These frescoes reveal an artist who possessed not merely technical virtuosity but a conceptual boldness that challenged the hierarchic, planar compositions of the *Maniera Greca* and anticipated the volumetric, emotionally resonant style that would characterize Giotto's mature work at Padua. The question of attribution has dominated scholarly discourse precisely because these frescoes occupy such a critical juncture: they are too advanced to be dismissed as merely competent workshop production, yet they exhibit stylistic characteristics that both align with and diverge from Giotto's documented manner.
 

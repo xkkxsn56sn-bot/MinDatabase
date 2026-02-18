@@ -1,24 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Marco Berlinghieri"
 author: "Marco Berlinghieri"
-role: "Miniatore, pittore di tavole e membro della bottega familiare berlinghieresca"
-dates: "attivo c. 1232 – dopo il 1260 (morte probabile poco dopo)"
-birth_place: "Lucca o Volterra (dibattuto), operante principalmente a Lucca"
-death_place: "Probabilmente Bologna o Lucca, dopo l’attività documentata a metà Duecento"
+role: "Pittore lucchese del Duecento, figlio di Berlinghiero, attivo tra Lucca e l’Italia centrale"
+dates: "Attivo c. 1230–1285 ca."
+birth_place: "Lucca (probabile)"
+death_place: "Lucca o area toscana (non documentato con certezza)"
 period: "XIII century"
 key_works:
-  - "Bibbia miniata per lo Spedale di San Martino, Lucca (1248–1250), oggi Biblioteca Capitolare di Lucca, Cod. 1"
-  - "Affresco con la Strage degli Innocenti, chiesa di Santo Stefano (Santo Sepolcro), Bologna, oggi staccato"
-  - "Miniature e croci processionali documentate ma in parte non identificate con certezza"
+  - "Croce dipinta già in San Francesco, Lucca (attribuita alla sua mano o alla bottega Berlinghieri)"
+  - "Madonne in trono e dossali devozionali provenienti dall’area lucchese (attribuzioni di bottega)"
+  - "Partecipazione alla produzione di pannelli figurati e croci nel solco di Giunta Pisano e della tradizione lucchese"
+tradition: "Scuola pittorica lucchese del Duecento, erede di Berlinghiero e in dialogo con Giunta Pisano"
+artistic_style: "Linguaggio italo‑bizantino con forte linearismo, cromia intensa e progressivo incremento di pathos ed espressività"
+founders_and_patrons:
+  - "Ordini mendicanti (specialmente francescani) nell’area di Lucca"
+  - "Capitoli cattedrali e chiese urbane lucchesi"
+  - "Committenza laica per immagini devozionali portatili"
+key_phases:
+  - "Formazione nella bottega di famiglia accanto a Berlinghiero e ai fratelli Bonaventura e Barone"
+  - "Attività autonoma nella produzione di croci dipinte e Madonne in trono per chiese lucchesi"
+  - "Diffusione del linguaggio berlinghieriano nell’Italia centrale in dialogo con Giunta Pisano"
+thematic_keywords:
+  - "Croci dipinte italo‑bizantine"
+  - "Scuola lucchese del Duecento"
+  - "Bottega Berlinghieri"
+  - "Transizione dal modello bizantino a un maggior naturalismo affettivo"
 related_entries:
-  - "Famiglia Berlinghieri (Berlinghiero, Bonaventura, Barone)"
-  - "Scuola lucchese italo-bizantina"
-  - "Spedale di San Martino e Biblioteca Capitolare di Lucca"
-  - "Committente laico del Podestà di Bologna e complesso di Santo Stefano"
-  - "Italo-bizantino e ricezione della tradizione bizantina dopo il 1204"
+  - "Bonaventura Berlinghieri"
+  - "Giunta Pisano"
+  - "Berlinghiero Berlinghieri"
+  - "Pittura lucchese del XIII secolo"
 category: "artists"
 ---
+
 
 ## Family Background and Origins
 

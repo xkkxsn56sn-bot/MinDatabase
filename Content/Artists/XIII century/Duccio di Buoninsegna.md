@@ -1,5 +1,5 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Duccio di Buoninsegna"
 author: "Duccio di Buoninsegna"
 role: "Foundational master of Sienese painting and synthesizer of Byzantine and Gothic traditions"
@@ -12,6 +12,25 @@ key_works:
   - "Rucellai Madonna, originally for Santa Maria Novella, Florence, now Galleria degli Uffizi"
   - "Stained-glass rose window of the apse, Siena Cathedral (design)"
   - "Madonna and Child panels and small devotional works (various collections)"
+tradition: "Sienese communal painting, Marian devotion, and cathedral patronage"
+artistic_style: "Synthesis of Maniera Greca and Gothic elegance, characterized by lyrical line, chromatic sophistication, and refined narrative storytelling"
+founders_and_patrons:
+  - "Opera del Duomo of Siena (Siena Cathedral chapter)"
+  - "Compagnia dei Laudesi of Santa Maria Novella, Florence"
+  - "Sienese commune and Biccherna office"
+  - "Confraternities and religious houses in Siena"
+key_phases:
+  - "First documented in 1278 painting coffers for the Biccherna office"
+  - "Florentine commission of the Rucellai Madonna around 1285"
+  - "Design of the Siena Cathedral stained-glass window c. 1287–1288"
+  - "Commission and execution of the Maestà for Siena Cathedral (1308–1311)"
+  - "Late career works and continued activity until c. 1318–1319"
+thematic_keywords:
+  - "Maestà iconography and Marian patronage of Siena"
+  - "Byzantine Maniera Greca and Gothic synthesis"
+  - "Altarpiece narrative cycles"
+  - "Sienese civic and ecclesiastical patronage"
+  - "Early Italian panel painting techniques"
 related_entries:
   - "Siena Cathedral (Duomo di Siena) and the Opera del Duomo"
   - "Biccherna of Siena and civic commissions"
@@ -20,6 +39,7 @@ related_entries:
   - "Giotto di Bondone and Florentine Trecento painting"
 category: "artists"
 ---
+
 
 ## Early Life and Family
 

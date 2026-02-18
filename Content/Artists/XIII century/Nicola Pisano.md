@@ -1,26 +1,46 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Nicola Pisano (Nicola d’Apulia)"
 author: "Nicola Pisano"
-role: "Scultore e architetto, fondatore della scultura gotico‑classicista in Italia"
-dates: "c. 1210/1225 – tra 1278 e 1284"
-birth_place: "Regione di Apulia, Regno di Sicilia (origine meridionale attestata dai documenti come \"magister Nichola de Apulia\")"
-death_place: "Probabilmente Pisa o Siena, dopo il completamento della Fontana Maggiore di Perugia"
+role: "Sculptor and architect, founder of classicising Gothic sculpture in Italy"
+dates: "c. 1210/1225 – between 1278 and 1284"
+birth_place: "Region of Apulia, Kingdom of Sicily (southern Italian origin attested in documents as 'magister Nichola de Apulia')"
+death_place: "Probably Pisa or Siena, after completion of the Fontana Maggiore in Perugia"
 period: "XIII century"
 key_works:
-  - "Pulpito del Battistero di Pisa (c. 1259–1260)"
-  - "Pulpito del Duomo di Siena (1265–1268)"
-  - "Fontana Maggiore, Perugia (con Giovanni Pisano, 1275–1278)"
-  - "Arca di San Domenico, Bologna (progetto e nucleo scultoreo originario)"
-  - "Sculture per il Duomo di Lucca e altri cantieri toscani (attribuite)"
+  - "Pulpit of the Baptistery of Pisa (c. 1259–1260)"
+  - "Pulpit of Siena Cathedral (1265–1268)"
+  - "Fontana Maggiore, Perugia (with Giovanni Pisano, 1275–1278)"
+  - "Arca di San Domenico, Bologna (design and original sculptural nucleus)"
+  - "Sculptures for Lucca Cathedral and other Tuscan building sites (attributed)"
+tradition: "Classicising Gothic sculpture at the intersection of Frederick II’s court culture and Tuscan communal workshops"
+artistic_style: "Synthesis of ancient Roman sculptural models and Gothic narrative relief, with massive bodies, deeply cut drapery and theological clarity"
+founders_and_patrons:
+  - "Court of Frederick II of Swabia and imperial administrators in Apulia"
+  - "Opera of Pisa Cathedral and Baptistery"
+  - "Opera del Duomo of Siena"
+  - "Dominican Order at Bologna (Arca di San Domenico)"
+  - "Commune of Perugia (Fontana Maggiore)"
+key_phases:
+  - "Training and early work in the classicising environment of Frederick II’s southern Italian court"
+  - "Migration to Pisa and establishment of a workshop serving the cathedral complex"
+  - "Execution of the Pisa Baptistery pulpit (c. 1259–1260)"
+  - "Siena Cathedral pulpit and acquisition of Sienese citizenship (1265–1272)"
+  - "Design of the Arca di San Domenico in Bologna and the Fontana Maggiore in Perugia (1270s)"
+thematic_keywords:
+  - "Classicising Gothic sculpture"
+  - "Pulpits and liturgical furnishings"
+  - "Civic fountains and communal identity"
+  - "Transmission of Roman antiquity in thirteenth-century Italy"
 related_entries:
   - "Giovanni Pisano"
   - "Arnolfo di Cambio"
-  - "Regno di Federico II di Svevia e classicismo svevo"
-  - "Duomo di Pisa e Battistero"
-  - "Duomo di Siena e Opera del Duomo"
+  - "Pisa Cathedral and Baptistery"
+  - "Siena Cathedral and Opera del Duomo"
+  - "Fontana Maggiore, Perugia"
 category: "artists"
 ---
+
 
 Nicola Pisano, also known in documents as Nicola d’Apulia, was born probably between about 1210 and 1225 in the region of Apulia in southern Italy, then part of the kingdom of Frederick II. Two documents of 1266 call him explicitly “magister Nichola de Apulia,” which confirms his southern origin even if the precise locality of his birth remains unknown. His later surname “Pisano” is a toponym reflecting his adoption of Pisa as his civic home after he migrated north and established a flourishing workshop there around the middle of the century. Nothing certain is known about his parents or siblings, but his early technical mastery and mobility suggest that he came from a family embedded in the professional artisan milieu rather than from either the rural peasantry or the high aristocracy. In such families, children typically entered apprenticeship within the paternal craft at an early age, so his childhood was almost certainly spent in a workshop environment where domestic life and professional training were closely intertwined. The court of Frederick II in Apulia fostered a classicising artistic culture and an unusually high degree of contact with surviving Roman sculpture, and it is within this broader familial and social setting that his first formation must be situated. Later antiquarian traditions occasionally embellished his origins with legendary details, yet modern scholarship has stripped these away and returned to the sparse but reliable medieval references. As a consequence, the family background of Nicola Pisano can be reconstructed only in general terms, emphasising his insertion into a mobile, urban craft stratum that moved along the routes connecting Apulia with central Italy. This composite social identity, at once southern and Tuscan, courtly and communal, framed the way in which his household would later function in Pisa. It also helps to explain why his art from the outset combined the technical discipline of a trained court sculptor with the pragmatic responsiveness demanded by civic and ecclesiastical patrons in the cities where he eventually settled.
 

@@ -1,26 +1,44 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro di Naumburg (Naumburger Meister)"
 author: "Maestro di Naumburg"
-role: "Gothic sculptor, architect, and master mason active in central Europe"
-dates: "active c. 1230–1255"
-birth_place: "Probabilmente nel nord della Francia (area Reims–Amiens), formato nei grandi cantieri gotici francesi"
-death_place: "Ignoto; probabilmente in Germania centrale dopo il completamento del coro occidentale di Naumburg"
+role: "Gothic sculptor, architect, and master mason active in central Germany"
+dates: "Active c. 1230–1255"
+birth_place: "Probably northern France (Reims–Amiens area), trained on major Gothic building sites"
+death_place: "Unknown; probably in central Germany after completion of the west choir at Naumburg"
 period: "XIII century"
 key_works:
-  - "Ciclo dei donatori (dodici figure a grandezza naturale) nel coro occidentale del Duomo di Naumburg"
-  - "Westlettner (tramezzo occidentale) con rilievi della Passione, Duomo di Naumburg"
-  - "Capitelli con oltre trenta specie botaniche naturalistiche, coro occidentale del Duomo di Naumburg"
-  - "Rilievo di Bassenheim (Discesa dalla Croce), oggi nel Duomo di Magonza (attribuito)"
-  - "Fondatori Otto I e Adelaide di Borgogna nel Duomo di Meissen (attribuiti alla bottega)"
+  - "Cycle of donor statues (twelve life-size figures) in the west choir of Naumburg Cathedral"
+  - "Westlettner (western choir screen) with Passion reliefs, Naumburg Cathedral"
+  - "Naturalistic capitals with more than thirty identified plant species, west choir of Naumburg Cathedral"
+  - "Bassenheim relief of the Descent from the Cross, now in Mainz Cathedral (attributed)"
+  - "Founder figures Otto I and Adelaide of Burgundy in Meissen Cathedral (attributed to the workshop)"
+tradition: "High Gothic architecture and sculpture in central Europe, importing French models into German cathedrals"
+artistic_style: "Highly individual Gothic realism combining psychological portraiture, precise drapery, and botanical naturalism"
+founders_and_patrons:
+  - "Cathedral chapter of Naumburg"
+  - "Bishop Dietrich II von Meißen and regional episcopal patrons"
+  - "Ekkehardiner dynasty (Ekkehard II, Uta von Ballenstedt, Hermann I, Reglindis)"
+  - "Chapters of Meissen and Merseburg Cathedrals (for associated works)"
+key_phases:
+  - "Probable training in the great Gothic workshops of northern France (Reims–Amiens)"
+  - "Early activity on central German cathedral projects"
+  - "Major campaign in the west choir of Naumburg Cathedral (donor figures, choir screen, capitals)"
+  - "Subsequent work or workshop diffusion in Meissen and Merseburg"
+thematic_keywords:
+  - "Gothic donor portraiture"
+  - "Cathedral architecture and integrated sculpture"
+  - "Naturalistic plant capitals"
+  - "Transference of French Gothic to central Germany"
 related_entries:
-  - "Duomo di Naumburg"
-  - "Vescovo Dietrich II von Meißen"
-  - "Dinastia Ekkehardinide (Ekkehard II, Uta von Ballenstedt, Hermann I, Reglindis)"
-  - "Duomo di Meissen e Merseburg"
-  - "Gothic sculpture in central Germany"
+  - "Naumburg Cathedral"
+  - "Meissen Cathedral"
+  - "Merseburg Cathedral"
+  - "Ekkehardiner founders and Uta von Naumburg"
+  - "High Gothic sculpture in Germany"
 category: "artists"
 ---
+
 
 ## Family Background
 

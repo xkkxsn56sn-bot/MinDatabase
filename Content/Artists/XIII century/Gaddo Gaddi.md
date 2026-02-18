@@ -1,26 +1,42 @@
 ---
-layout: artist-profile
-title: "Gaddo Gaddi (Gaddo di Zenobi)"
+layout: entry
+title: "Gaddo Gaddi (Gaddo di Zanobi)"
 author: "Gaddo Gaddi"
-role: "Florentine mosaicist and painter, progenitor of the Gaddi dynasty"
-dates: "c. 1260 – dopo 1312 (forse fino c. 1333)"
-birth_place: "Florence"
-death_place: "Florence (probabile), sepoltura in Santa Croce"
+role: "Florentine painter and mosaicist at the transition from Byzantine maniera greca to early Giotto circle"
+dates: "Active c. 1280–c. 1333 (traditional life dates c. 1239–1312 are debated)"
+birth_place: "Florence (probable)"
+death_place: "Florence (probable)"
 period: "XIII–early XIV century"
 key_works:
-  - "Coronation of the Virgin, mosaic lunette over the inner portal, Cathedral of Santa Maria del Fiore, Florence (traditional attribution)"
-  - "Mosaic scenes of the Legend of the Snow, façade/loggia of Santa Maria Maggiore, Rome (attributed)"
-  - "Prophets in the Baptistery of San Giovanni, Florence (square fields beneath the windows, attributed)"
-  - "Assumption/Coronation mosaic in the niche of the Cappella dell’Incoronata, Pisa Cathedral (attributed)"
-  - "Mosaic vault of the old cathedral of Arezzo for the Tarlati family (lost; early textual attribution)"
+  - "Mosaics in the tribune of Santa Maria Maggiore, Rome (attributed)"
+  - "Mosaics in the façade oculus of Santa Maria del Fiore, Florence (traditional attribution)"
+  - "Mosaic decorations in the Florentine Baptistery (collaborations and attributions)"
+  - "Painted panels formerly in Florentine churches (few securely attributed)"
+tradition: "Florentine painting and monumental mosaic in the orbit of Cimabue and early Giotto"
+artistic_style: "Late Italo-Byzantine devotional imagery with increasing Gothic softness and narrative sensitivity"
+founders_and_patrons:
+  - "Cathedral and baptistery chapters in Florence"
+  - "Roman basilicas (Santa Maria Maggiore) and papal curia circle"
+  - "Florentine mendicant orders and confraternities"
+key_phases:
+  - "Early formation within Florentine Italo-Byzantine workshop culture"
+  - "Documented or traditional activity as mosaicist in Rome and Florence"
+  - "Work in proximity to Cimabue and early Giotto circle"
+  - "Role as father and first master of Taddeo Gaddi"
+thematic_keywords:
+  - "Monumental mosaic programs"
+  - "Florentine Duecento painting"
+  - "Transition from maniera greca to Trecento naturalism"
+  - "Artistic dynasties and workshop transmission (Gaddi family)"
 related_entries:
-  - "Gaddi family (Taddeo and Agnolo Gaddi)"
-  - "Cimabue and Andrea Tafi"
-  - "Florence Cathedral (Santa Maria del Fiore) and Baptistery of San Giovanni"
-  - "Santa Maria Maggiore and Old Saint Peter’s, Rome"
-  - "Santa Croce, Florence"
+  - "Cimabue"
+  - "Giotto di Bondone"
+  - "Taddeo Gaddi"
+  - "Florentine Baptistery mosaics"
+  - "Santa Maria Maggiore, Rome"
 category: "artists"
 ---
+
 
 Gaddo di Zenobi, known in the literary tradition as Gaddo Gaddi, was born around the year 1260 in Florence, into a milieu of artisans and small property‑holders that would, within two generations, ascend into the city’s patriciate.  His family name, already attested in civic records, suggests a lineage rooted in the urban fabric of late Duecento Florence rather than in the rural nobility, and this background conditioned both his social mobility and his artistic trajectory.  Sources agree that he was trained as a painter and, more distinctively, as a mosaicist, a specialization that placed him at the intersection of craft, liturgy, and civic display.  The patronymic “di Zenobi” preserves the memory of his father, although almost nothing concrete is known about the elder Zenobi beyond the fact that he transmitted to his son a status sufficient to allow entry into the Florentine artistic guild system.  Gaddo’s own marriage is undocumented, yet the existence of several sons, of whom only Taddeo became a painter, indicates that he presided over a sizeable household and workshop, a typical configuration for late medieval masters.  Through Taddeo and, later, Agnolo, the Gaddi family would control one of the most successful painting dynasties in fourteenth‑century Florence, making Gaddo retrospectively the “founder” of a lineage as much as an individual artist.  Biographical dates remain approximate: Vasari gives 1239 and 1312 as birth and death, but modern scholarship prefers a birth around 1260 and a death between 1312 and roughly 1333, both in Florence.  The cause of his death is nowhere recorded, and in the absence of documentary evidence it is reasonable to assume that he died of natural causes associated with advanced age rather than plague or violence, since no chronicler marks his passing as sudden or catastrophic.  His burial in Santa Croce, as reported by Vasari, aligns him with other prominent Florentine families who chose that Franciscan church as a dynastic pantheon, and it underlines the social ascent achieved within his lifetime.  Thus the sparse data that survive already situate Gaddo within a dense web of kinship, civic affiliation, and memory that condition any reconstruction of his life and oeuvre.
 

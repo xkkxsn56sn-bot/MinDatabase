@@ -1,9 +1,9 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Dietisalvi di Speme"
 author: "Dietisalvi di Speme"
 role: "Sienese civic and devotional painter active before Duccio"
-dates: "active 1250–1291 (probable birth in the early thirteenth century)"
+dates: "Active 1250–1291 (probable birth in the early thirteenth century)"
 birth_place: "Siena (probable), of foundling origin"
 death_place: "Siena (probable), shortly after August 1291"
 period: "XIII century"
@@ -13,14 +13,35 @@ key_works:
   - "Biccherna covers for the Sienese financial administration (at least 56 documented, 4 surviving)"
   - "Panels from the Dossale di Badia Ardenga (Passion cycle fragments), Pinacoteca Nazionale, Siena"
   - "Outer wings of the reliquary diptych of Beato Andrea Gallerani, Pinacoteca Nazionale, Siena"
+tradition: "Sienese communal painting, civic administration imagery, Marian devotion and local cults"
+artistic_style: "Italo-Byzantine foundation evolving toward greater corporeality, narrative complexity, and Cimabuesque expressiveness"
+founders_and_patrons:
+  - "Biccherna, the financial administration of the Sienese commune"
+  - "Opera del Duomo of Siena (Siena Cathedral)"
+  - "Sienese confraternities connected with the Casa della Misericordia"
+  - "Local noble families involved in civic government"
+key_phases:
+  - "First documented activity in 1250 as civic painter"
+  - "Exclusive commissions for Biccherna covers 1259–1272"
+  - "Major Marian panels in the 1260s, including Madonna di San Bernardino and Madonna del Voto"
+  - "Collaboration with Guido da Siena on the reliquary of Beato Andrea Gallerani"
+  - "Participation in the Dossale di Badia Ardenga Passion cycle circa 1280"
+  - "Late civic and decorative commissions up to August 1291"
+thematic_keywords:
+  - "Biccherna covers and civic iconography"
+  - "Marian devotion and Advocata Senesium"
+  - "Local sainthood and Beato Andrea Gallerani"
+  - "Pre-Duccio Sienese school"
+  - "Transitional Italo-Byzantine painting"
 related_entries:
-  - "Biccherna of Siena and civic finance"
   - "Guido da Siena"
   - "Duccio di Buoninsegna"
+  - "Coppo di Marcovaldo"
+  - "Biccherna of Siena and civic finance"
   - "Siena Cathedral and its crypt frescoes"
-  - "Battle of Montaperti (1260) and Sienese Marian devotion"
 category: "artists"
 ---
+
 
 Dietisalvi di Speme was an Italian painter active in Siena during the second half of the thirteenth century, specifically documented between 1250 and 1291. His artistic career coincided with a crucial period in the development of Sienese painting, preceding the work of Duccio di Buoninsegna and representing a transitional phase between Byzantine tradition and the emerging Gothic style. The artist's contributions to Sienese civic and religious art were substantial, though much of his production has been lost to time. His work demonstrates the evolution of painting in thirteenth-century Tuscany, particularly the gradual departure from rigid Byzantine iconography toward more naturalistic representations. Dietisalvi's significance extends beyond his artistic output to his role as a civic painter, serving the financial administration of Siena for over three decades. The painter's career intersected with major historical events, including the aftermath of the Battle of Montaperti in 1260, which profoundly shaped Sienese civic and religious identity. His collaborations with contemporary artists, particularly Guido da Siena, illustrate the workshop practices and artistic networks of medieval Siena. The attribution of works to Dietisalvi has evolved significantly through modern scholarship, particularly following Luciano Bellosi's reassessments in 1991. His documented residency in various contrade of Siena provides insight into the urban structure and social organization of the medieval city. The artist's legacy, though not as celebrated as that of Duccio or Simone Martini, represents an essential chapter in the formation of the Sienese school of painting.
 

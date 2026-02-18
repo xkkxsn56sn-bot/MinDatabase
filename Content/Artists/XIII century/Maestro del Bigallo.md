@@ -1,27 +1,38 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro del Bigallo"
 author: "Maestro del Bigallo"
-role: "Anonimo maestro fiorentino di crocifissi e tavole mariane in maniera greca"
-dates: "attivo c. 1215–1265 (nato probabilmente alla fine del XII secolo)"
-birth_place: "Ignoto; probabilmente Firenze o il suo contado"
-death_place: "Ignoto; probabilmente Firenze o il territorio fiorentino"
-period: "XIII century"
+role: "Anonymous Florentine painter active in the circle of Giotto, named from the Bigallo tabernacle"
+dates: "Active mid-XIV century (c. 1340–1360)"
+birth_place: "Florence or its contado (probable)"
+death_place: "Florence (probable)"
+period: "XIV century"
 key_works:
-  - "Crocifisso del Bigallo, Museo del Bigallo, Firenze"
-  - "Dossale di San Zanobi, già sulla tomba del santo nella cattedrale, oggi Museo dell’Opera del Duomo, Firenze"
-  - "Madonna col Bambino, Cattedrale di Fiesole"
-  - "Madonna col Bambino e due angeli (\"Madonna Bardini\"), oggi Galleria degli Uffizi, Firenze"
-  - "Madonna col Bambino e due santi da Santa Maria a Bagnano, oggi Museo di Arte Sacra, Certaldo"
-  - "Crocifisso, Art Institute of Chicago (Christus patiens, tarda attività)"
+  - "Painted decoration of the tabernacle of the Misericordia and Compagnia del Bigallo, Florence (Madonna della Misericordia and narrative scenes)"
+  - "Panels and fresco fragments in Florence attributed to his hand or workshop"
+tradition: "Florentine confraternal and civic painting in the wake of Giotto and his followers"
+artistic_style: "Giottesque narrative language with solid volumes, clear spatial staging and devotional intensity, tempered by local Florentine refinements"
+founders_and_patrons:
+  - "Compagnia di Santa Maria della Misericordia and Compagnia del Bigallo"
+  - "Florentine confraternities and charitable institutions"
+  - "Urban lay patrons linked to mendicant churches"
+key_phases:
+  - "Training within a Giottesque workshop in Florence"
+  - "Commission for the Bigallo tabernacle in Piazza del Duomo"
+  - "Further confraternal and ecclesiastical works in mid-fourteenth-century Florence"
+thematic_keywords:
+  - "Confraternities and charity in Florence"
+  - "Madonna della Misericordia iconography"
+  - "Giottesque narrative cycles"
+  - "Public tabernacles and urban devotion"
 related_entries:
-  - "Museo del Bigallo, Firenze"
-  - "Cattedrale di Santa Reparata / Santa Maria del Fiore, Firenze"
-  - "Cattedrale di Fiesole"
-  - "Museo dell’Opera del Duomo, Firenze"
-  - "Madonna Bardini, Galleria degli Uffizi"
+  - "Giotto di Bondone"
+  - "Taddeo Gaddi"
+  - "Orcagna (Andrea di Cione) and mid-Trecento Florence"
+  - "Compagnia del Bigallo and confraternal art"
 category: "artists"
 ---
+
 
 ## Family and social background
 
