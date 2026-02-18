@@ -18,41 +18,45 @@ layout: default
 
   <div class="entry__grid">
 
-    <aside class="entry__meta">
+    <aside class="entry__sidebar">
+      <div class="sidebar__content">
+        <h2 class="sidebar__heading">Metadata</h2>
+        
+        {% if page.meta %}
+          {% for block in page.meta %}
+            <section class="meta-block">
+              <h3 class="meta-block__title">{{ block.title }}</h3>
 
-      {% if page.meta %}
-        {% for block in page.meta %}
-          <section class="meta-block">
-            <h3 class="meta-block__title">{{ block.title }}</h3>
+              {% if block.pairs %}
+                <dl class="meta-block__dl">
+                  {% for pair in block.pairs %}
+                    <dt>{{ pair.label }}</dt>
+                    <dd>{{ pair.value }}</dd>
+                  {% endfor %}
+                </dl>
+              {% endif %}
 
-            {% if block.pairs %}
-              <dl class="meta-block__dl">
-                {% for pair in block.pairs %}
-                  <dt>{{ pair.label }}</dt>
-                  <dd>{{ pair.value }}</dd>
-                {% endfor %}
-              </dl>
-            {% endif %}
+              {% if block.list %}
+                <ul class="meta-block__list">
+                  {% for item in block.list %}
+                    <li>{{ item }}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
 
-            {% if block.list %}
-              <ul class="meta-block__list">
-                {% for item in block.list %}
-                  <li>{{ item }}</li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-
-            {% if block.links %}
-              <ul class="meta-block__list">
-                {% for link in block.links %}
-                  <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-          </section>
-        {% endfor %}
-      {% endif %}
-
+              {% if block.links %}
+                <ul class="meta-block__list">
+                  {% for link in block.links %}
+                    <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </section>
+          {% endfor %}
+        {% else %}
+          <p class="sidebar__empty">No metadata available</p>
+        {% endif %}
+      </div>
     </aside>
 
     <div class="entry__content">
