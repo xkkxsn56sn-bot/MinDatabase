@@ -1,9 +1,46 @@
 ---
-layout: default
-title: "Maestro di Soriguerola - Tavola di San Michele"
-author: Maestro di Soriguerola
-period: XIII-XIV century
-category: papirer
+layout: entry
+title: "Maestro di Soriguerola – Tavola di San Michele"
+author: "Maestro di Soriguerola"
+role: "Linear Gothic altar panel dedicated to Saint Michael, articulating eschatological doctrine through a multi-compartment narrative program"
+dates: "c. 1270–1290"
+place_of_origin: "Sant Miquel de Soriguerola, near Puigcerdà (Lower Cerdanya, Catalan Pyrenees)"
+current_location: "Museu Nacional d’Art de Catalunya (MNAC), Barcelona – Altar frontal of Sant Miquel de Soriguerola"
+type: "Painted altar frontal (antependium) for rural parish church"
+period: "Late 13th century, Romanesque–Gothic transition in Catalonia"
+support_and_technique:
+  support:
+    - "Joined softwood panel (likely fir) constructed from vertical boards with transverse battens"
+  ground_and_paint:
+    - "Gesso ground (gypsum and animal glue) smoothed and incised for framing elements"
+    - "Tempera painting with egg-based binder"
+  gilding_and_pigments:
+    - "Gold leaf for halos and selected ornaments"
+    - "Vermilion, lead white, charcoal black, yellow ochres, aerinite/copper blues and greens typical of Pyrenean workshops"
+iconography:
+  - "Central figure of Saint Michael as psychostasia judge weighing souls"
+  - "Narrative scenes of the Last Supper, struggle with the dragon, saved and damned souls, and apostolic intercession"
+  - "Thirteen compartments organizing a complete eschatological and sacramental cycle"
+liturgical_function:
+  - "Altar frontal for the high altar of Sant Miquel de Soriguerola"
+  - "Catechetical support for preaching on judgment, Eucharist and intercession"
+  - "Devotional focus for rural congregations concerned with death, salvation and angelic protection"
+historical_context:
+  - "Produced within the conservative mountain culture of the Cerdanya at the threshold of Gothic adoption"
+  - "Commissioned under Benedictine/monastic patronage dependent on Santa Maria de Serrateix"
+  - "Part of a broader regional corpus that defines the so‑called Master of Soriguerola"
+thematic_keywords:
+  - "Master of Soriguerola"
+  - "Saint Michael and psychostasis"
+  - "Eschatology and Last Judgment"
+  - "Catalan Linear Gothic"
+  - "Rural monastic and parish patronage"
+related_entries:
+  - "Maestro di Soriguerola – Saint Christopher Altarpiece"
+  - "Giunta Pisano San Domenico Crucifix"
+  - "Catalan Romanesque and Gothic panel painting"
+  - "Saint Michael in medieval iconography"
+category: "papirer"
 ---
 
 
