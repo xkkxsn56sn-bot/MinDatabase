@@ -1,26 +1,44 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Simone Martini"
 author: "Simone Martini"
-role: "Sienese painter and key founder of the International Gothic style"
+role: "Leading Sienese painter and key figure of the International Gothic style"
 dates: "c. 1284 – 1344"
 birth_place: "Siena"
 death_place: "Avignon"
 period: "XIII–XIV century"
 key_works:
-  - "Maestà, Sala del Mappamondo, Palazzo Pubblico, Siena"
-  - "Saint Louis of Toulouse Crowning Robert of Anjou, Museo di Capodimonte, Naples"
-  - "Annunciation with Saints Ansanus and Margaret, originally Siena Cathedral, now Galleria degli Uffizi, Florence"
-  - "Guidoriccio da Fogliano at the Siege of Montemassi (attribution debated), Palazzo Pubblico, Siena"
-  - "Frescoes for the Papal Palace and Notre-Dame-des-Doms, Avignon (fragments)"
+  - "Maestà, Sala del Mappamondo (Sala del Consiglio), Palazzo Pubblico, Siena"
+  - "Guidoriccio da Fogliano, Palazzo Pubblico, Siena (attribution debated)"
+  - "Annunciation with Saint Ansanus, Galleria degli Uffizi, Florence"
+  - "Saint Louis of Toulouse Crowning his Brother Robert of Anjou, Museo di Capodimonte, Naples"
+  - "Frescoes in the Chapel of Saint Martin, Lower Church of San Francesco, Assisi"
+tradition: "Sienese Trecento painting and International Gothic at the Angevin and papal courts"
+artistic_style: "Elegant linearity, refined colour, and courtly lyricism, integrating Sienese softness with French Gothic refinement"
+founders_and_patrons:
+  - "Comune di Siena and the Palazzo Pubblico"
+  - "Cathedral chapter of Siena (Opera del Duomo)"
+  - "Angevin court of Naples (Robert of Anjou)"
+  - "Papal court at Avignon"
+key_phases:
+  - "Formation in Siena in the wake of Duccio"
+  - "Early civic commissions in the Palazzo Pubblico, Siena"
+  - "Major works in Assisi for the Franciscan Order"
+  - "Angevin and papal court phase between Naples and Avignon"
+thematic_keywords:
+  - "Maestà and Marian iconography"
+  - "International Gothic style"
+  - "Courtly imagery and chivalric themes"
+  - "Sienese school of the Trecento"
 related_entries:
-  - "Duccio di Buoninsegna and the Sienese school"
-  - "Palazzo Pubblico and the commune of Siena"
-  - "King Robert of Anjou and the Neapolitan court"
-  - "Avignon Papacy and Cardinal Jacopo Stefaneschi"
-  - "Francesco Petrarca (Petrarch) and Simone’s Avignon circle"
+  - "Duccio di Buoninsegna"
+  - "Lippo Memmi"
+  - "Palazzo Pubblico, Siena"
+  - "San Francesco, Assisi (Lower Church)"
+  - "Avignon papal court and International Gothic"
 category: "artists"
 ---
+
 
 Simone Martini was born in Siena around 1284, emerging from the artisan class of the Tuscan republic during its period of greatest artistic efflorescence. The patronymic "Martini" indicates his father's name as Martino, though documentary evidence provides minimal information about this parent's profession or social standing, leaving Simone's familial origins in the biographical obscurity typical of fourteenth-century painters. The absence of specific documentation regarding his father's occupation leaves open questions about whether Simone inherited an established workshop tradition, entered the painting profession through apprenticeship to unrelated masters, or represented his family's first generation of artistic specialization. Property records and tax documents from Simone's adult years indicate sufficient prosperity to maintain urban residence and professional workshop, suggesting that whatever his family's origins, successful artistic practice enabled social mobility and economic security comparable to prosperous merchants and professional classes.
 

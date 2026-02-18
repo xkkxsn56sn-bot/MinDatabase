@@ -1,26 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Deodato Orlandi"
 author: "Deodato Orlandi"
-role: "Lucchese painter active between the Maniera greca and the early Trecento naturalism"
-dates: "c. 1260 – before 16 October 1331"
-birth_place: "Lucca"
-death_place: "Probably Lucca (died before 1331; later record of 1332 names him as rebel and exile)"
+role: "Lucchese painter active between Lucca and Pisa at the transition from Byzantine maniera greca to early Trecento naturalism"
+dates: "Documented 1284–1315 (fl. late XIII – early XIV century)"
+birth_place: "Lucca (probable)"
+death_place: "Area of Lucca or Pisa (not documented)"
 period: "XIII–XIV century"
 key_works:
-  - "Crucifix (1288), originally for San Cerbone near Lucca, now Museo Nazionale di Villa Guinigi, Lucca"
-  - "Frescoes for the Caetani in San Piero a Grado near Pisa (c. 1300), including papal portrait cycle and stories of Saints Peter and Paul"
-  - "Madonna and Child with Saints Dominic, James, Peter, and Paul (1301), now Museo Nazionale di San Matteo, Pisa"
-  - "Crucifix (1301), Conservatorio di Santa Chiara, San Miniato"
-  - "Mosaic of the Madonna and Child with Two Angels (1314), Cathedral of Lucca (later replaced; known through drawings)"
+  - "Painted decoration of the façade of San Piero a Grado, Pisa (cycle with Popes and scenes from the life of Saint Peter)"
+  - "Panel paintings and dossali for churches in Lucca and Pisa (various attributions)"
+  - "Devotional images and crucifixes in the Lucchese–Pisan area (attributed to his circle)"
+tradition: "Lucchese and Pisan painting after Berlinghiero and Giunta Pisano, in dialogue with early Giottesque developments"
+artistic_style: "Strongly Italo‑Byzantine in structure and iconography, with increasing attention to volume, narrative clarity, and spatial organization"
+founders_and_patrons:
+  - "Monastic and canonical communities of the Pisan contado (San Piero a Grado and other churches)"
+  - "Ecclesiastical authorities and confraternities in Lucca"
+  - "Local lay patrons commissioning panel images and ex‑voto works"
+key_phases:
+  - "Formation in the Lucchese Berlinghieri tradition and in the orbit of Giunta Pisano"
+  - "Major commission for the façade cycle of San Piero a Grado, Pisa (early Trecento)"
+  - "Mature activity between Lucca and Pisa producing panels and narrative cycles for local churches"
+thematic_keywords:
+  - "Cult and iconography of Saint Peter"
+  - "Lucchese–Pisan school of painting"
+  - "From maniera greca to early Trecento naturalism"
+  - "Monastic façades and narrative cycles"
 related_entries:
-  - "City of Lucca and its painting tradition (Berlinghieri workshop)"
-  - "Church of San Cerbone near Lucca"
-  - "San Piero a Grado, near Pisa, and the Caetani family (Pope Boniface VIII)"
-  - "Museo Nazionale di Villa Guinigi and Museo Nazionale di San Matteo"
-  - "Cimabue, Giotto, and the Assisi–Florence–Pisa artistic network"
+  - "Giunta Pisano"
+  - "Bonaventura Berlinghieri and the Lucchese school"
+  - "San Piero a Grado, Pisa"
+  - "Pittura lucchese e pisana tra XIII e XIV secolo"
 category: "artists"
 ---
+
 
 Deodato Orlandi, also known as Deodato di Orlando and documented in some sources as Deodato Orlandi Bentivegna, stands as one of the most significant transitional painters operating in Tuscany during the late thirteenth and early fourteenth centuries. Born in Lucca around 1260, this dating is established through documentary evidence placing him among the participants of the Consiglio generale del popolo of Lucca in 1284, an assembly restricted to citizens who had attained their eighteenth year. His birthplace in the city of Lucca, a thriving commercial and artistic center of medieval Tuscany, provided the foundational environment for his artistic development. The approximate birth year of 1260 situates Orlandi within the generation of artists who would witness and participate in the revolutionary transformation of Italian painting from Byzantine conventions toward the naturalistic innovations of the early Trecento. This chronological positioning proves crucial for understanding his artistic trajectory, as he matured during the very decades when Cimabue was executing his monumental works and when the young Giotto was beginning to reshape the visual language of Western art. The cultural milieu of mid-thirteenth-century Lucca, with its established traditions of panel and fresco painting, offered abundant opportunities for an aspiring artist to observe and absorb the dominant stylistic currents. Orlandi's active career, spanning from at least 1284 through 1315 according to documented records, encompasses more than three decades of continuous artistic production. He died sometime before October 16, 1331, when a Lucchese document refers to him as deceased, though a subsequent 1332 document curiously mentions him as a rebel and exile, suggesting possible political complications surrounding his final years.
 

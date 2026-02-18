@@ -1,26 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro di San Torpè"
 author: "Maestro di San Torpè"
-role: "Anonymous Pisan painter mediating between Cimabue, Duccio, and early Trecento innovations"
-dates: "active c. 1290–1325"
-birth_place: "Probably Siena (if identified with Vanni di Bindo), later active in Pisa"
-death_place: "Pisa or its territory (probable), after 1318"
+role: "Anonymous Tuscan painter named from a panel or cycle for the church of San Torpè"
+dates: "Active late XIII – early XIV century"
+birth_place: "Tuscany (probable, between Pisa and its hinterland)"
+death_place: "Unknown (probably in Tuscany)"
 period: "XIII–XIV century"
 key_works:
-  - "Madonna and Child in the Church of San Torpè, Pisa (namesake work)"
-  - "Madonna and Child on the triumphal arch, Pisa Cathedral (fresco)"
-  - "Cinquini Polyptych for San Francesco, Pisa (panels now Museo Nazionale di San Matteo, Pisa, and Gallerie degli Uffizi, Florence)"
-  - "Madonna and Child with Christ in Pietà and Saints Francis and Dominic, RISD Museum, Providence"
-  - "Madonna and Child panels in Seattle, London, and other international collections"
+  - "Panel painting or dossal for the church of San Torpè (work giving the master’s name)"
+  - "Related panels with Saint Torpes and companion saints attributed to the same hand or workshop"
+  - "Small Marian and Christological images for Tuscan parish churches (attributed corpus)"
+tradition: "Tuscan panel painting between the Pisan and Florentine spheres, in the wake of Giunta Pisano and Giotto"
+artistic_style: "Gold-ground Italo‑Byzantine structure enlivened by growing Giottesque volumetry, narrative clarity, and devotional sweetness"
+founders_and_patrons:
+  - "Church of San Torpè and associated confraternities"
+  - "Parish churches and monasteries in the Pisan–Tuscan area"
+  - "Lay patrons devoted to Saint Torpes and local cults"
+key_phases:
+  - "Formation within late Duecento Tuscan workshops influenced by Giunta Pisano"
+  - "Execution of the San Torpè panel or cycle that defines the master’s identity"
+  - "Subsequent production of related panels and altarpieces for regional churches"
+thematic_keywords:
+  - "Cult of Saint Torpes"
+  - "Tuscan gold-ground painting"
+  - "Transition from maniera greca to Trecento naturalism"
+  - "Local saintly cults and confraternal devotion"
 related_entries:
-  - "Pisa Cathedral (Duomo) and the tomb of Emperor Henry VII"
-  - "Church of San Torpè and the cult of Saint Torpè"
-  - "New Hospital of Pisa (Ospedale Nuovo)"
-  - "Cinquini family of bankers and San Francesco, Pisa"
-  - "Vanni di Bindo (identification hypothesis) and Tino di Camaino"
+  - "Giunta Pisano"
+  - "Deodato Orlandi"
+  - "Francesco Traini"
+  - "Pisan and Tuscan painting between XIII and XIV century"
 category: "artists"
 ---
+
 
 The Master of San Torpè represents one of the most significant anonymous painters active in late medieval Tuscany, particularly in Pisa and its surrounding territories during the critical transitional period between the thirteenth and fourteenth centuries. This artist emerged at a crucial moment in Italian art history, when the peninsula was witnessing profound transformations in pictorial language, moving from Byzantine traditions toward the revolutionary innovations introduced by masters such as Cimabue, Duccio di Buoninsegna, and Giotto. The conventional name by which this painter is known derives from a church in Pisa, the Church of San Torpè, where one of his Madonna and Child paintings was preserved and continues to be venerated today. This nomenclature was established in 1937 by the art historian Evelyn Sandberg Vavalà, who first identified a coherent group of works that could be attributed to a single artistic personality. The Master's chronological framework places him as active approximately between 1290 and 1325, positioning him as the most eminent painter working in Pisa between the death of Cimabue in 1301 and the arrival of Simone Martini around 1320. His importance in the Pisan artistic panorama was substantially reconsidered by Roberto Longhi in 1962, who elevated the Master's status from that of a minor follower of Duccio to a protagonist of medieval Pisan painting. Many scholars, including Enzo Carli in 1974 and subsequently Mariagiulia Burresi and Antonino Caleca, have proposed identifying this anonymous master with Vanni di Bindo, a Sienese painter and sculptor documented in Pisa between 1303 and 1318. This hypothesis has gained considerable traction in art historical scholarship, though it remains a matter of scholarly debate rather than definitive attribution.
 
