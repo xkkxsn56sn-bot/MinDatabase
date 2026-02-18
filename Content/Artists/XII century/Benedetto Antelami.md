@@ -1,25 +1,44 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Benedetto Antelami"
-author: "Benedetto Antelami"
-role: "Romanesque sculptor and architect"
-dates: "c. 1150 – c. 1230"
-birth_place: "Val d'Intelvi, between Lake Como and Lake Lugano (Lombardy)"
-death_place: "Parma (probable), during or after work on the Baptistery"
-period: "XII–XIII century"
-key_works:
-  - "Deposition from the Cross (signed 1178), Parma Cathedral"
-  - "Reliefs and sculptural program of the Baptistery of Parma"
-  - "Reliefs for the Cathedral of Fidenza (Borgo San Donnino)"
-  - "Sculptural work associated with Vercelli Cathedral (attributed)"
-related_entries:
-  - "Val d'Intelvi and the magistri Antelami"
-  - "Parma Cathedral"
-  - "Baptistery of Parma"
-  - "Fidenza (Borgo San Donnino) Cathedral"
-  - "Romanesque to Gothic transition in northern Italy"
-category: "artists"
+subtitle: "Romanesque Sculptor and Architect"
+dates: "Active ca. 1178–1233"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII–XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Sculptor"
+      - "Architect"
+  
+  - title: "LOCATION"
+    list:
+      - "Parma, Emilia-Romagna"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown, ca. 1150"
+      - label: "Death"
+        value: "Parma (?), ca. 1230"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Deposition from the Cross, Parma Cathedral"
+      - "Parma Baptistery (architecture and sculpture)"
+      - "Months cycle, Parma Baptistery"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Parma Cathedral"
+        url: "/Content/Churches/Parma%20Cathedral.html"
+      - title: "Parma Baptistery"
+        url: "/Content/Churches/Parma%20Baptistery.html"
 ---
+
 
 Benedetto Antelami was born circa 1150, during the middle decades of the twelfth century, a period marked by profound artistic transformations across Europe as Romanesque traditions evolved toward Gothic innovations. The precise day and month of his birth remain undocumented, as was typical for individuals of artisan status during this era, when ecclesiastical records primarily noted births only for aristocratic families or when baptisms coincided with significant liturgical feasts. Scholarly consensus places his birth in the Val d'Intelvi, a mountainous valley situated between Lake Como and Lake Lugano in the southern Alpine region of Lombardy, northern Italy. This geographical origin is inferred from his professional designation rather than from direct documentary evidence, as no baptismal records, notarial documents, or contemporary chronicles explicitly identify his birthplace. The approximate dating to 1150 derives from stylistic analysis of his earliest signed work, the *Deposition from the Cross* of 1178, which demonstrates technical mastery and compositional sophistication suggesting an artist in his late twenties or early thirties at the time of execution. This chronological reconstruction places his formative years during the 1150s and 1160s, decades characterized by intense artistic activity in northern Italy as cathedral construction accelerated under communal patronage. The absence of documentation regarding his parents, baptism, or early childhood reflects both the limitations of medieval record-keeping for non-noble individuals and the subsequent loss of archives through fires, wars, and institutional reorganizations over eight centuries. The Val d'Intelvi's relative geographic isolation, nestled in the pre-Alpine foothills, paradoxically fostered the development of specialized craft traditions that gave its inhabitants access to wider professional networks through guild affiliations. This mountain valley, though economically peripheral to major urban centers like Milan or Como, possessed distinctive cultural characteristics shaped by its position astride trade and pilgrimage routes crossing the Alps. The fact that Antelami's origins can be discussed at all distinguishes him from the vast majority of medieval artisans, whose anonymity was so complete that even major works remain unattributed to named individuals, making his case exceptional rather than representative.
 
