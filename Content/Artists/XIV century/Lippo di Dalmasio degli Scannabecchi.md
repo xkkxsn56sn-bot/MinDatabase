@@ -1,27 +1,40 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Lippo di Dalmasio degli Scannabecchi"
 author: "Lippo di Dalmasio degli Scannabecchi"
-role: "Bolognese painter from a noble Ghibelline family, leading specialist in Marian imagery and principal painter of late fourteenth‑century Bologna"
-dates: "c. 1353–1355 – October 1410"
+role: "Bolognese painter specialising in Marian imagery, son of Dalmasio degli Scannabecchi and key figure of late Gothic devotion in Emilia and Tuscany"
+dates: "Documented c. 1360–1410 (fl. late XIV – early XV century)"
 birth_place: "Bologna"
-death_place: "Bologna, October 1410"
+death_place: "Bologna (probable, early fifteenth century)"
 period: "XIV century"
 key_works:
-  - "Madonna of Humility, c. 1390, National Gallery, London"
-  - "Coronation of the Virgin triptych, 1394, Pinacoteca Nazionale di Bologna (with wings from Museo Stibbert, Florence)"
-  - "Madonna dell'Umiltà, 1397, Santa Maria della Misericordia, Bologna"
-  - "Frescoes for the Oratorio di San Colombano, Chapel of the Madonna dell'Orazione, Bologna (c. 1399)"
-  - "Lost polyptych for Santa Maria dei Serviti, Pistoia (1383, documented)"
+  - "Madonna di San Luca-related Madonna and Child images in Bologna (various churches and collections)"
+  - "Madonna and Child with Angels panels for Bolognese churches (attributed corpus)"
+  - "Devotional Madonne for Tuscan centres such as Pistoia and Prato (various attributions)"
+tradition: "Bolognese late Gothic painting, continuing the Giottesque legacy of his father Dalmasio with strong Marian focus"
+artistic_style: "Soft, tender Marian iconography with rounded, childlike figures, delicate colour and intimate devotional tone"
+founders_and_patrons:
+  - "Dalmasio degli Scannabecchi (father and master)"
+  - "Bolognese confraternities and Marian sodalities"
+  - "Churches of Bologna and the surrounding contado"
+  - "Ecclesiastical patrons in Pistoia, Prato and other Tuscan centres"
+key_phases:
+  - "Formation in the family workshop of Dalmasio in Bologna"
+  - "Independent production of Marian panels for Bolognese churches and confraternities"
+  - "Expansion of activity toward Tuscany, especially Pistoia and Prato"
+thematic_keywords:
+  - "Marian devotion and Madonna and Child imagery"
+  - "Bolognese Gothic painting"
+  - "Family workshops and dynastic continuity"
+  - "Late Trecento–early Quattrocento devotional panels"
 related_entries:
   - "Dalmasio degli Scannabecchi"
   - "Simone dei Crocifissi"
   - "Vitale da Bologna"
-  - "Andrea di Cione (Orcagna)"
-  - "Bernardo Daddi"
-  - "San Petronio, Bologna"
+  - "Marian cults in Bologna and Emilia"
 category: "artists"
 ---
+
 
 Lippo di Dalmasio degli Scannabecchi was born in Bologna around 1353-1355, the son of Dalmasio Scannabecchi, a painter who belonged to a minor branch of the noble Ghibelline family of the Scannabecchi. The Scannabecchi were among the most prominent aristocratic families of medieval Bologna, with a long history of political involvement and artistic patronage dating back several centuries. The family possessed substantial properties in the city, including houses and land holdings near the church of San Dalmasio, which bore their family name and served as their ancestral burial place. Historically, the Scannabecchi had been active participants in the factional conflicts that characterized Bologna's medieval political landscape, consistently supporting the Ghibelline cause against the Guelph faction. Their political allegiances had brought them both great influence and periodic exile from the city during periods of Guelph ascendancy. The family's prominence extended beyond politics into the realms of commerce and culture, with various members holding important positions in the city's guilds and religious institutions. Their coat of arms and family traditions were deeply embedded in Bolognese society, making them part of the established nobility that shaped the city's cultural and artistic development. The Scannabecchi lineage eventually terminated in the fourteenth century through a female heir who married into the Venetian Cavalli family, marking the end of this ancient Bolognese dynasty.
 

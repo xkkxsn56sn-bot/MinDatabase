@@ -1,5 +1,5 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Lippo Memmi"
 author: "Lippo Memmi"
 role: "Sienese painter and leading follower of Simone Martini, central figure of the early International Gothic style"
@@ -13,6 +13,25 @@ key_works:
   - "New Testament fresco cycle (traditionally attributed to Barna), Collegiata, San Gimignano (attributed, with Tederigo Memmi)"
   - "Altarpieces for Santa Maria della Scala, Siena (lost or dispersed)"
   - "Altarpiece for Roberto de Busto, Avignon (1347, lost; known from documents)"
+tradition: "Sienese Trecento painting and early International Gothic, in close dialogue with Simone Martini and the Ducciesque school"
+artistic_style: "Refined linear Gothic elegance, luminous colour and rich punched decoration, combining Simone Martini’s aristocratic grace with personal devotional intensity"
+founders_and_patrons:
+  - "Simone Martini"
+  - "Memmo di Filippuccio and the Memmi family workshop"
+  - "Comune di San Gimignano and Comune di Siena"
+  - "Santa Maria della Scala, Siena"
+  - "Avignon Papal court and associated patrons"
+key_phases:
+  - "Training in the workshop of Memmo di Filippuccio in San Gimignano"
+  - "Early independent commission of the Maestà in the Palazzo Pubblico, San Gimignano (1317)"
+  - "Collaboration with Simone Martini on the Uffizi Annunciation (1333)"
+  - "Mid-century altarpieces for Santa Maria della Scala and other Sienese institutions"
+  - "International commissions linked to the Avignon Papal court (e.g. Roberto de Busto altarpiece, 1347)"
+thematic_keywords:
+  - "Maestà iconography and civic imagery"
+  - "Annunciation and Marian devotion"
+  - "International Gothic formation"
+  - "Family workshops and Sienese artistic dynasties"
 related_entries:
   - "Simone Martini"
   - "Memmo di Filippuccio"
@@ -21,6 +40,7 @@ related_entries:
   - "Avignon Papal court"
 category: "artists"
 ---
+
 
 Lippo Memmi, born in the final decade of the thirteenth century in Siena, emerged as one of the most distinguished painters of the early fourteenth-century Sienese school and the most accomplished follower of Simone Martini, who would later become his brother-in-law. He was the son of Memmo di Filippuccio, a prominent Sienese painter who had established a flourishing workshop in San Gimignano around 1303. The first documented mention of Lippo appears in 1317, when he is recorded as the "figliuolo" (son) of painter Memmo in a document describing the creation of figures in the Council Hall of San Gimignano's public palace. His artistic formation occurred within his father's workshop, where he absorbed the fundamental techniques and stylistic approaches that would shape his mature work. The workshop environment provided him with direct access to the major artistic developments of his time, particularly through his father's connections with the Sienese artistic community. His early exposure to the sophisticated artistic culture of Siena, combined with the provincial yet active artistic environment of San Gimignano, created the foundation for his distinctive artistic voice. The young Lippo demonstrated exceptional talent from his earliest documented works, showing a natural affinity for the refined Gothic style that characterized the Sienese school. His birth into an established artistic family provided him with immediate access to patronage networks and artistic collaborations that would define his career. The political and economic prosperity of Siena during his formative years created an environment conducive to artistic innovation and experimentation. His date of death is recorded as 1356 in Siena, marking the end of a career that spanned nearly four decades of continuous artistic production.
 

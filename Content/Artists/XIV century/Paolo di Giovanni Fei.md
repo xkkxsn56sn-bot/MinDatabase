@@ -1,27 +1,40 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Paolo di Giovanni Fei"
 author: "Paolo di Giovanni Fei"
-role: "Sienese painter of the late Trecento, key mediator between the great masters of the early fourteenth century and the emerging artistic sensibilities of the fifteenth century"
-dates: "c. 1345 – 1411"
-birth_place: "San Quirico, Castelvecchio, near Siena"
-death_place: "Siena"
+role: "Sienese painter of the later Trecento, refined interpreter of Ducciesque tradition and International Gothic taste"
+dates: "Documented 1369–1411 (fl. late XIV – early XV century)"
+birth_place: "Probably Siena or its contado (of foreign origin according to some documents)"
+death_place: "Siena (probable), after 1411"
 period: "XIV century"
 key_works:
-  - "Birth of the Virgin, 1381, Pinacoteca Nazionale, Siena"
-  - "Presentation of the Virgin in the Temple, 1398–1399, National Gallery of Art, Washington"
-  - "Works for Siena Cathedral, including commissions from the Opera del Duomo (1395–1410)"
-  - "Mannelli family altarpiece for San Maurizio, Siena (now lost, documented 1381)"
-  - "Crucifixion fresco for the chapel of the Passion, Siena Cathedral (1407–1408, lost)"
+  - "Virgin and Child with Saints (polyptych), Pinacoteca Nazionale, Siena"
+  - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
+  - "Nativity of the Virgin and Presentation in the Temple panels, various collections (from dismantled altarpieces)"
+  - "Small devotional Madonne and saints in Italian and foreign museums (attributed corpus)"
+tradition: "Late Sienese Trecento painting, continuing Duccio and Simone Martini through a more robust and decorative Gothic idiom"
+artistic_style: "Rich colour, strong yet elegant line, refined ornament and clear narrative compositions, blending lyricism with a more compact volumetry"
+founders_and_patrons:
+  - "Cathedral chapter and Opera del Duomo of Siena"
+  - "Sienese confraternities and hospitals"
+  - "Ecclesiastical patrons in Umbria and central Italy"
+key_phases:
+  - "Formation within the Sienese milieu after Simone Martini and the Lorenzetti"
+  - "Mature commissions for Sienese churches and institutions in the late Trecento"
+  - "Later activity extending into the early fifteenth century with increasingly decorative Gothic tendencies"
+thematic_keywords:
+  - "Marian altarpieces and Nativity cycles"
+  - "Late Sienese Gothic style"
+  - "Devotional panels for confraternities and hospitals"
+  - "Transition toward early Quattrocento sensibilities"
 related_entries:
-  - "Bartolo di Fredi"
+  - "Duccio di Buoninsegna"
   - "Simone Martini"
-  - "Lippo Memmi and the Memmi family"
-  - "Pietro Lorenzetti"
-  - "Ambrogio Lorenzetti"
-  - "Sassetta (Stefano di Giovanni)"
+  - "Bartolomeo Bulgarini"
+  - "Niccolò di Buonaccorso"
 category: "artists"
 ---
+
 
 Paolo di Giovanni Fei stands as one of the most significant painters of the late Trecento Sienese school, representing a crucial link between the great masters of the early fourteenth century and the emerging artistic sensibilities of the fifteenth century. Born around 1345 in San Quirico, Castelvecchio, near Siena, he would become a pivotal figure in the continuation and evolution of Sienese artistic traditions. His career, spanning from approximately 1369 until his death in 1411, coincided with a period of both political turbulence and artistic innovation in the Republic of Siena. The painter's life and work embodied the complex cultural currents of late medieval Tuscany, where artistic production remained deeply intertwined with religious devotion, civic identity, and familial networks. His artistic legacy would prove instrumental in shaping the next generation of Sienese painters, most notably Sassetta, while maintaining the distinctive characteristics that had long distinguished Sienese painting from its Florentine counterparts. The documentary evidence surrounding his life, though fragmentary, provides valuable insights into the social and professional circumstances of a successful late medieval artist. His integration into Sienese civic life, combined with his artistic achievements, illustrates the complex relationship between artistic practice and social standing in the late medieval period. The painter's career trajectory, from his early emergence as a documented artist in 1369 to his final commissions for Siena Cathedral in the early fifteenth century, reflects the evolving patronage patterns and artistic demands of his era. His work represents not merely a continuation of established Sienese traditions, but rather a thoughtful synthesis and transformation of inherited artistic languages in response to changing cultural circumstances. The comprehensive examination of his life and artistic production reveals the sophisticated cultural milieu in which late medieval Sienese artists operated, balancing tradition with innovation, local identity with broader artistic currents.
 

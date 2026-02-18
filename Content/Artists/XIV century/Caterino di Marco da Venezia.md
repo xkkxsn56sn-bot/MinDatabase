@@ -1,5 +1,5 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Caterino di Marco da Venezia"
 author: "Caterino di Marco da Venezia"
 role: "Venetian painter active in the second half of the fourteenth century, collaborator of Donato and mediator between Byzantine tradition and emerging Gothic currents"
@@ -14,6 +14,23 @@ key_works:
   - "Polyptych with Madonna and Child, Walters Art Museum, Baltimore"
   - "Madonna dell'Umiltà, Worcester Art Museum, Worcester"
   - "Madonna and Child, Museo d'Arte Sacra, San Leo (formerly Museo Diocesano Antonio Bergamaschi, Pennabilli)"
+tradition: "Venetian Trecento painting between the late Byzantine tradition of Paolo Veneziano and the Gothic innovations of Lorenzo Veneziano and Giovanni da Bologna"
+artistic_style: "Conservative gold-ground maniera with gradual adoption of Gothic volumetry, decorative refinement, and accessible devotional imagery"
+founders_and_patrons:
+  - "Venetian ecclesiastical institutions (church of Sant’Agnese and others)"
+  - "Confraternities and religious houses in Venice and the Veneto"
+  - "Patrons from the Marche and upper Adriatic region (for exported polyptychs)"
+key_phases:
+  - "Early formation and documented collaboration with Donato from 1367 (painted crosses and altarpieces)"
+  - "Jointly signed Coronation of the Virgin, 1372, Querini-Stampalia, Venice"
+  - "Independent signed Coronation of the Virgin, 1375, Gallerie dell’Accademia, Venice"
+  - "Mature production of polyptychs and Madonna dell’Umiltà panels for Venetian and regional patrons"
+  - "Late activity including commissions for Treviso and Zadar (Dalmatia), recorded in documents of the 1380s–1390"
+thematic_keywords:
+  - "Coronation of the Virgin"
+  - "Madonna dell’Umiltà"
+  - "Venetian Trecento Byzantine–Gothic transition"
+  - "Workshop collaboration and signed polyptychs"
 related_entries:
   - "Donato (Venetian painter)"
   - "Lorenzo Veneziano"
@@ -22,6 +39,7 @@ related_entries:
   - "Paolo Veneziano"
 category: "artists"
 ---
+
 
 Caterino di Marco da Venezia, known also as Catarino Veneziano or simply Catarino, was a Venetian painter active during the second half of the fourteenth century, whose documented career spans from 1362 to 1390. The painter's first appearance in historical records dates to 1362, when he served as a witness in a legal act, establishing his presence in Venice as a professional artist at that time. Archival research conducted by Testi in 1909 definitively resolved the identification of this artist in relation to two other homonymous figures active in Venice: a Caterino documented as an intaiator (carver) who died before 1430, and another Caterino painter mentioned in a 1455 document, clearly distinguishing our subject as the earliest of the three. The foundation for attributing works to Caterino rests primarily upon the signed altarpiece of the Coronation of the Virgin, executed jointly with the painter Donato in 1372 and preserved at the Galleria Querini-Stampalia in Venice, which provides the cornerstone for reconstructing his artistic activity. This collaborative work, together with documentary evidence of Caterino's apprenticeship and ongoing professional relationship with Donato, has enabled art historians to establish a coherent catalog of his independent and collaborative productions. The absence of precise birth and death dates, as well as limited biographical documentation, reflects the fragmentary nature of fourteenth-century Venetian artistic records, particularly for painters of secondary importance who operated outside the most prestigious commissions. Caterino's emergence in the historical record during the seventh decade of the fourteenth century suggests he had already completed his artistic training and established himself as a competent professional capable of undertaking significant ecclesiastical commissions. The identification problems that initially surrounded this artist stem from the popularity of the name Caterino in fourteenth and fifteenth-century Venice, necessitating careful archival analysis to distinguish between multiple individuals sharing the same appellation. Contemporary documents typically refer to him simply as "Caterino pictor" (Caterino the painter) or occasionally with the fuller designation "Caterino di Marco da Venezia," indicating his patronymic and Venetian origin. The documentary trail for Caterino, though sparse, provides crucial chronological anchors that allow scholars to position his work within the broader context of Trecento Venetian painting and its gradual transformation from Byzantine to Gothic stylistic conventions.
 

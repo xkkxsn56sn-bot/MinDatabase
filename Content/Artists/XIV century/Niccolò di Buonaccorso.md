@@ -1,29 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Niccolò di Buonaccorso"
 author: "Niccolò di Buonaccorso"
-role: "Sienese painter and civic official, specialist in miniaturist panel painting and major representative of late Trecento Sienese Gothic"
-dates: "c. 1330–1335 – 17 May 1388"
-birth_place: "Siena, parish of San Martino"
-death_place: "Siena, buried in the cloister of San Domenico"
+role: "Sienese painter active in the later Trecento, refined exponent of the International Gothic style"
+dates: "Documented 1355–1388"
+birth_place: "Siena"
+death_place: "Siena (probable), after 1388"
 period: "XIV century"
 key_works:
-  - "Marriage of the Virgin, c. 1380, National Gallery, London"
-  - "Presentation of the Virgin in the Temple, c. 1380, Gallerie degli Uffizi, Florence"
-  - "Coronation of the Virgin, c. 1380, Metropolitan Museum of Art, New York"
-  - "Madonna and Child, signed and dated 1387, Timken Museum of Art, San Diego"
-  - "Crucifixion, c. 1380–1385, Galleria Nazionale dell’Umbria, Perugia"
-  - "Madonna dell’Umiltà, mid‑1380s, Louvre, Paris"
-  - "Saint Lawrence panel from Montecchio polyptych, Kelvingrove Art Gallery and Museum, Glasgow"
+  - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
+  - "Madonna and Child, Galleria Nazionale d’Arte Antica, Palazzo Barberini, Rome"
+  - "Panels from an altarpiece for Siena (various museums; attributed corpus)"
+tradition: "Late Sienese Trecento painting in the wake of Simone Martini and Lippo Memmi, oriented toward International Gothic elegance"
+artistic_style: "Minute, calligraphic line, brilliant colour, highly finished surfaces and courtly, aristocratic devotional tone"
+founders_and_patrons:
+  - "Sienese cathedral chapter and Opera del Duomo"
+  - "Confraternities and lay patrons in Siena"
+  - "Ecclesiastical patrons in Umbria and central Italy"
+key_phases:
+  - "Formation within the late Sienese school after Simone Martini and Lippo Memmi"
+  - "Mature activity producing small but exquisitely finished panels for Sienese and Umbrian patrons"
+  - "Late commissions reflecting full assimilation of International Gothic taste"
+thematic_keywords:
+  - "Madonna and Child iconography"
+  - "International Gothic refinement"
+  - "Late Sienese Trecento altarpieces"
+  - "Devotional panels for private and ecclesiastical use"
 related_entries:
   - "Simone Martini"
-  - "Ambrogio Lorenzetti"
-  - "Pietro Lorenzetti"
-  - "Jacopo di Mino del Pellicciaio"
-  - "Spedale di Santa Maria della Scala, Siena"
-  - "Santa Maria Nuova, Florence"
+  - "Lippo Memmi"
+  - "Bartolomeo Bulgarini"
+  - "Siena Cathedral and Sienese confraternities"
 category: "artists"
 ---
+
 
 Born in Siena in the early 1330s, Niccolò di Buonaccorso emerged from a family deeply entrenched in the Sienese artistic milieu. His father, Buonaccorso di Pace, is documented as a painter and architect active between 1347 and 1363, suggesting that Niccolò was immersed in workshop practice from childhood. A probable younger brother, Paolo di Buonaccorso di Pace, appears in records of the guild of painters in 1374, indicating a familial workshop tradition. The Buonaccorso household maintained close ties with both civic institutions and ecclesiastical patrons, providing Niccolò with early exposure to commissions for public and religious endowments. Maternal lineage remains obscure, though archival wills reference a woman named Lucia, possibly his mother, whose dowry facilitated Buonaccorso di Pace’s workshop establishment. Baptismal registers from the parish of San Martino attest to Niccolò’s birth, though without a precise year, scholars generally estimate it around 1330–1335 based on guild enrollment ages. Household inventories from the mid-fourteenth century list panels and frames attributed to Buonaccorso di Pace, underscoring a workshop environment rich in materials and motifs. Niccolò’s formative years coincided with Siena’s artistic zenith, under the patronage of the papal legate Carlo di Durazzo and the commune’s efforts to beautify the cathedral. Trained initially under his father, he later refined his technique alongside contemporaries such as Angelo Puccinelli, reflecting a familial apprenticeship model. These early influences and familial resources laid the foundation for Niccolò’s later career as both painter and civic official.
 
