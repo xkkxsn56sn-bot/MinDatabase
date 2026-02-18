@@ -1,24 +1,50 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro di San Pietro in Villore"
-author: "Maestro di San Pietro in Villore"
-role: "Provincial Tuscan painter of monumental crucifixes"
-dates: "born c. 1150; active c. 1180–1200; died c. 1200–1205 (hypothetical reconstruction)"
-birth_place: "Probably Umbria (Spoleto area), later active in Val d'Orcia, Tuscany"
-death_place: "Probably San Giovanni d'Asso or environs in the Val d'Orcia"
-period: "XII century"
-key_works:
-  - "Painted Cross (Croce dipinta) from San Pietro in Villore, now Museo Diocesano di Arte Sacra, Pienza"
-  - "Crucifix of San Giovanni Battista, San Giovanni d'Asso (attributed to the master or his workshop)"
-  - "Other fragmentary panels and crucifixes in the Val d'Orcia area (workshop attributions)"
-related_entries:
-  - "Church of San Pietro in Villore, near San Giovanni d'Asso"
-  - "Pieve di San Giovanni Battista, San Giovanni d'Asso"
-  - "Val d'Orcia and the Via Francigena"
-  - "Alberto Sotio and the Spoleto school"
-  - "Early Sienese painting and Umbrian–Tuscan artistic exchanges"
-category: "artists"
+subtitle: "Provincial Tuscan painter of monumental crucifixes"
+dates: "Born c. 1150; active c. 1180–1200; died c. 1200–1205 (hypothetical reconstruction)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Provincial Tuscan painter of monumental crucifixes"
+  
+  - title: "LOCATION"
+    list:
+      - "Val d'Orcia and the Via Francigena, Tuscany"
+      - "Probably Umbria (Spoleto area), later active in Val d'Orcia"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Umbria (Spoleto area), later active in Val d'Orcia, Tuscany, c. 1150"
+      - label: "Death"
+        value: "Probably San Giovanni d'Asso or environs in the Val d'Orcia, c. 1200–1205"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Painted Cross (Croce dipinta) from San Pietro in Villore, now Museo Diocesano di Arte Sacra, Pienza"
+      - "Crucifix of San Giovanni Battista, San Giovanni d'Asso (attributed to the master or his workshop)"
+      - "Other fragmentary panels and crucifixes in the Val d'Orcia area (workshop attributions)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Church of San Pietro in Villore, near San Giovanni d'Asso"
+        url: "/Content/Churches/San%20Pietro%20Villore.html"
+      - title: "Pieve di San Giovanni Battista, San Giovanni d'Asso"
+        url: "/Content/Churches/San%20Giovanni%20Battista%20Asso.html"
+      - title: "Val d'Orcia and the Via Francigena"
+        url: "/Content/Topics/Val%20Orcia%20Via%20Francigena.html"
+      - title: "Alberto Sotio and the Spoleto school"
+        url: "/Content/Artists/XII%20century/Alberto%20Sozio.html"
+      - title: "Early Sienese painting and Umbrian–Tuscan artistic exchanges"
+        url: "/Content/Topics/Umbrian%20Tuscan%20exchange.html"
 ---
+
 
 The Master of San Pietro in Villore is a fundamental yet enigmatic figure in the history of Italian painting at the end of the 12th century, representing a crucial link between the Umbrian school of Spoleto and the emerging Sienese tradition.
 
