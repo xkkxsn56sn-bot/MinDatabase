@@ -1,9 +1,9 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Puccio di Simone"
 author: "Puccio di Simone"
-role: "Florentine Gothic painter trained in the circle of Bernardo Daddi, active between Florence and Fabriano and key interpreter of Giottesque traditions in the mid‑Trecento"
-dates: "active c. 1343 – after 1357 (probably died shortly after 1362)"
+role: "Florentine Gothic painter trained in the circle of Bernardo Daddi, active between Florence and Fabriano and key interpreter of Giottesque traditions in the mid-Trecento"
+dates: "Active c. 1343 – after 1357 (probably died shortly after 1362)"
 birth_place: "Florence (probable)"
 death_place: "Florence or environs (probable), shortly after 1362"
 period: "XIV century"
@@ -14,6 +14,24 @@ key_works:
   - "Triptych with Madonna and Saints, 1354, National Gallery of Art, Washington (Samuel H. Kress Collection)"
   - "Coronation of the Virgin, c. 1350, Museum of Fine Arts, Ghent"
   - "Madonna and Child with Angels, c. 1350, Norton Simon Museum, Pasadena"
+tradition: "Mid-Trecento Florentine painting in the Giottesque tradition, in dialogue with Marchigian Gothic culture"
+artistic_style: "Giottesque volumetry and clear spatial construction enriched by elaborate gold-ground decoration and tender devotional expression"
+founders_and_patrons:
+  - "Bernardo Daddi and the Giottesque workshop tradition"
+  - "Strozzi family of Florence"
+  - "Church of Sant’Antonio Abate fuori Porta Pisana, Fabriano"
+  - "Allegretto Nuzi and Marchigian patrons"
+key_phases:
+  - "Training and collaboration in the workshop of Bernardo Daddi"
+  - "Early prestigious commission for the Strozzi Chapel, Santa Maria Novella (1340)"
+  - "Mature Florentine production of polyptychs and devotional panels in the 1340s"
+  - "Sojourn in Fabriano (1353–1354) and collaboration with Allegretto Nuzi"
+  - "Return to Florence and final years before disappearance from records after 1362"
+thematic_keywords:
+  - "Giottesque mid-Trecento painting"
+  - "Mystic Marriage of Saint Catherine"
+  - "Saint Anthony Abbot and confraternal devotion"
+  - "Madonna and Child with music-making angels"
 related_entries:
   - "Bernardo Daddi"
   - "Giotto di Bondone and the Giottesque tradition"
@@ -22,6 +40,7 @@ related_entries:
   - "Sant’Antonio Abate fuori Porta Pisana, Fabriano"
 category: "artists"
 ---
+
 
 Puccio di Simone was an Italian Gothic painter active in Florence during the middle decades of the fourteenth century, with documented activity spanning from approximately 1343 to 1357, though he likely survived until after 1362. The precise date and place of his birth remain unknown, as is common for many artists of this period, though he was likely born in Florence in the early decades of the Trecento, probably around 1310-1320, given his documented professional maturity by the 1340s. His name first appears in historical records when he was enrolled in the Arte dei Medici e Speziali, the Florentine guild of doctors, druggists, and painters, between 1346 and 1348, indicating that he had already achieved the status of an independent master by this time. The artist is also identified with the Master of the Fabriano Altarpiece, a designation established by scholar Richard Offner and confirmed by Roberto Longhi in 1959, which significantly expanded understanding of his oeuvre. Puccio's death is presumed to have occurred shortly after 1362, as he does not appear in the tax registers (prestanze) of that year, suggesting he had died by then. No documentation survives regarding the cause of his death, which remains a matter of scholarly conjecture. His career unfolded during one of the most dynamic periods of Florentine painting, following the revolutionary innovations of Giotto and his immediate successors.
 

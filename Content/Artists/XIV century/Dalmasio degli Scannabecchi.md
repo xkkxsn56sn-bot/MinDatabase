@@ -1,6 +1,6 @@
 ---
-layout: artist-profile
-title: "Dalmasio degli Scannabecchi"
+layout: entry
+title: "Dalmasio degli Scannabecchi (Dalmasio di Jacopo Scannabecchi)"
 author: "Dalmasio degli Scannabecchi"
 role: "Bolognese painter from a Ghibelline noble family, active between Bologna and Tuscany and key mediator of Giottesque innovations within the Bolognese school"
 dates: "c. 1315 – c. 1374"
@@ -12,14 +12,34 @@ key_works:
   - "Madonna and Child, Philadelphia Museum of Art (attributed)"
   - "Fresco cycle of Saint Gregory the Great, Bardi Chapel, Santa Maria Novella, Florence (attributed)"
   - "Fresco cycle of Saint Francis, San Francesco, Pistoia (attributed)"
-related_entries:
+tradition: "Bolognese Gothic painting in dialogue with Giottesque and Tuscan traditions"
+artistic_style: "Synthesis of Giottesque volumetry and narrative with Bolognese linear elegance and Gothic decorative refinement"
+founders_and_patrons:
   - "Lippo di Dalmasio degli Scannabecchi"
   - "Simone dei Crocifissi"
   - "Giotto di Bondone and the Giottesque tradition"
   - "Bardi family of Florence"
   - "Franciscan Order and San Francesco, Pistoia"
+key_phases:
+  - "Formation in Bologna within a network of related workshops and Ghibelline noble milieu"
+  - "Marriage alliance with the family of Simone dei Crocifissi (1350) and consolidation of artistic networks"
+  - "Documented work in Pistoia (from 1359) combining painting and gilding for ecclesiastical patrons"
+  - "Attributed major fresco cycles in Florence (Bardi Chapel) and Pistoia (San Francesco)"
+  - "Return to Bologna and transmission of the workshop to his son Lippo di Dalmasio"
+thematic_keywords:
+  - "Giottesque narrative cycles"
+  - "Bolognese Gothic style"
+  - "Franciscan and mendicant patronage"
+  - "Family workshops and artistic dynasties"
+related_entries:
+  - "Lippo di Dalmasio degli Scannabecchi"
+  - "Simone dei Crocifissi"
+  - "Giotto di Bondone"
+  - "Bardi family of Florence"
+  - "San Francesco, Pistoia"
 category: "artists"
 ---
+
 
 Dalmasio di Jacopo Scannabecchi was born in Bologna around 1315 into the noble Ghibelline family of the Scannabecchi, a lineage that would face periodic banishment from the city due to their political affiliations. His father Jacopo Scannabecchi established the family's presence in Bologna's artistic circles, though specific details about Jacopo's own artistic activities remain undocumented in surviving records. The Scannabecchi family belonged to a secondary branch of the noble house, which may have influenced their need to pursue artistic professions as a means of economic stability during periods of political turbulence. Documentary evidence from September 24, 1342, records Dalmasio as an orphan, having lost his father Jacopo, when he appeared as a witness in a legal proceeding, indicating he had already reached majority age of twenty-five years. This testimonial capacity suggests that by 1342, Dalmasio had established himself as a recognized member of Bologna's civic community despite his family's intermittent political difficulties. The family's Ghibelline sympathies would prove problematic throughout the fourteenth century, as Bologna's political landscape shifted between Guelf and Ghibelline control. His inclusion in the *venticinquine* (lists of twenty-five armed men led by a captain for civic guard duty) only beginning in 1342 confirms his recent attainment of legal majority and civic responsibilities. The fact that his name appears in these military registers demonstrates the family's continued obligations to the city despite their political affiliations. Records show him residing in various parishes of Bologna, including Sant'Andrea degli Ansaldi in 1354 and San Domenico in 1356, suggesting either mobility within the city or changes in residential arrangements. The family's artistic connections extended beyond Dalmasio himself, establishing a network that would prove crucial for his professional development and that of his descendants.
 

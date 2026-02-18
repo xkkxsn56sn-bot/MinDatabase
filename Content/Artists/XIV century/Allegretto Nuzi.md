@@ -1,24 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Allegretto Nuzi"
 author: "Allegretto Nuzi"
-role: "Fabrian painter active in the mid‑fourteenth century, working between Fabriano and the Marche–Umbria region"
-dates: "c. 1315 – 1373"
+role: "Painter from Fabriano active in the Gothic International current between Umbria and the Marche"
+dates: "Documented c. 1346–1373 (fl. mid-XIV century)"
 birth_place: "Fabriano"
-death_place: "Fabriano (probable)"
-period: "XIV century"
+death_place: "Fabriano or nearby Marche region (not securely documented)"
+period: "XIII–XIV century"
 key_works:
-  - "Madonna and Child, Brooklyn Museum, New York"
-  - "Virgin and Child Enthroned with Saints, Walters Art Museum, Baltimore"
-  - "Madonna and Child with Saints, Philadelphia Museum of Art"
-  - "Devotional panel, National Gallery of Art, Washington"
+  - "Polyptychs and panel paintings for churches in Fabriano (including works for San Domenico and San Francesco, partly dispersed)"
+  - "Madonna and Child with Saints panels in the Marches and Umbria (various museums and churches)"
+  - "Narrative predella scenes with saints’ lives and Christological episodes (fragments in several collections)"
+tradition: "Central Italian Gothic painting in the wake of Giotto, Simone Martini and the Sienese school, adapted to the Marche context"
+artistic_style: "Refined Gothic linearity, luminous colour and delicate devotional expression, combining Giottesque solidity with Sienese elegance"
+founders_and_patrons:
+  - "Franciscan and Dominican houses in Fabriano and the Marche"
+  - "Cathedral and parish churches of Fabriano"
+  - "Local confraternities and lay patrons in Umbria and the Marche"
+key_phases:
+  - "Formation in Fabriano with exposure to Giottesque and Sienese models"
+  - "Mature activity producing polyptychs and altarpieces for Fabriano churches"
+  - "Wider regional commissions in the Marche and neighbouring Umbria"
+thematic_keywords:
+  - "Gothic International piety"
+  - "Polyptychs and predella narratives"
+  - "Central Italian Trecento painting"
+  - "Cult of the Virgin and local saints"
 related_entries:
+  - "Giotto di Bondone"
   - "Simone Martini"
-  - "Lippo Memmi"
-  - "Francescuccio Ghissi"
-  - "Vitale da Bologna"
+  - "Gentile da Fabriano"
+  - "Franciscan and Dominican churches in Fabriano"
 category: "artists"
 ---
+
 
 Allegretto Nuzi, also occasionally referred to as Allegretto di Nuzio, was born around the year 1315 in the flourishing town of Fabriano, situated in the Marche region of central Italy. The city at that time was known for its vibrant community of artisans, paper-makers, and merchants, and this stimulating environment left a deep impression on the young painter. Accounts of his earliest years remain scant in the surviving documentation, yet art historians agree that Fabriano’s cultural climate had a decisive impact on his formative development. Although the precise day and month of his birth have not survived the erosion of centuries, the approximate date is generally accepted by modern scholars based on stylistic comparisons with other artists of the period, as well as fragmentary records of his early commissions.
 He belonged to a family whose roots in Fabriano stretched back at least a few generations, and it is known that his parents maintained close ties with local guilds. His father, according to a later notarial document, may have been involved in the growing trade of textiles or possibly in the craft of paper-making, for which Fabriano would become famously renowned. Though no personal letters from the immediate household have surfaced, the family’s modest standing in the community is suggested by scattered references in municipal archives, indicating a household of comfortable but not extraordinary means. Allegretto’s mother, who likely hailed from the region’s rural outskirts, is thought to have influenced his early religious fervor by encouraging devotions to the Virgin Mary, a theme he would lavishly depict in his later altarpieces.

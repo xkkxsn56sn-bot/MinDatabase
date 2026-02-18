@@ -1,29 +1,40 @@
 ---
-layout: artist-profile
-title: "Nicolò di Giacomo"
+layout: entry
+title: "Nicolò di Giacomo (Nicolò di Giacomo da Bologna)"
 author: "Nicolò di Giacomo"
-role: "Bolognese illuminator and head of an important artistic dynasty, principal manuscript painter in fourteenth‑century Bologna"
-dates: "c. 1325 – 1402/1404"
-birth_place: "Bologna (quarter of San Procolo)"
-death_place: "Bologna, between 1402 and 1404"
+role: "Bolognese illuminator and painter, leading master of Gothic miniature and notarial decoration in fourteenth-century Bologna"
+dates: "Documented c. 1349–1403"
+birth_place: "Bologna"
+death_place: "Bologna (probable), shortly after 1403"
 period: "XIV century"
 key_works:
-  - "Officium B. Mariae Virginis (Book of Hours), 1349, Stiftsbibliothek Kremsmünster, Schatzkasten 4"
-  - "Giovanni d’Andrea, Novella sulle Decretali, c. 1353–1354 (Vatican Library, Biblioteca Ambrosiana, St. Peter’s Abbey, Salzburg)"
-  - "Choir books for San Giacomo Maggiore, Museo Civico Medievale, Bologna"
-  - "Lucan, Pharsalia for the Boiardo family, 1378, British Library, Add. 11990"
-  - "Seneca, Tragedies, c. 1385, Biblioteca Ambrosiana, C 96 inf."
-  - "Graduals for the Basilica of Saint Anthony, Biblioteca Antoniana, Padua (mss. VII and XII)"
-  - "Guild statute books for Bolognese corporations, Bologna civic museums"
+  - "Illuminated notarial and juridical manuscripts for the Bolognese Studium and city magistracies"
+  - "Miniatures in choir books and liturgical codices for San Domenico and other convents in Bologna"
+  - "Law books with historiated initials and narrative scenes (various European libraries; attributed corpus)"
+tradition: "Bolognese Gothic illumination linked to the university, civic chancery and mendicant orders"
+artistic_style: "Brilliant colour, intricate ornamental initials and lively, expressive figures within densely patterned Gothic frames"
+founders_and_patrons:
+  - "Studium of Bologna and its law faculties"
+  - "Notaries’ and judges’ corporations (Ars Notariorum)"
+  - "Dominican and Franciscan convents in Bologna"
+  - "Civic magistracies and communal chancery"
+key_phases:
+  - "Early formation within Bolognese miniature workshops serving the university"
+  - "Mature production of lavish legal and notarial codices for professors and judges"
+  - "Liturgical commissions for convents and cathedral-related institutions"
+thematic_keywords:
+  - "Gothic manuscript illumination"
+  - "Notarial and juridical iconography"
+  - "Bolognese university culture"
+  - "Liturgical books and choir manuscripts"
 related_entries:
-  - "Jacopo di Paolo"
   - "Vitale da Bologna"
   - "Simone dei Crocifissi"
   - "Andrea de Bartoli"
-  - "University of Bologna"
-  - "Benedictine, Augustinian, Dominican and Franciscan orders in Bologna"
+  - "Dalmasio degli Scannabecchi"
 category: "artists"
 ---
+
 
 Nicolò di Giacomo di Nascimbene, commonly known as Nicolò da Bologna, was born around 1325 in Bologna and died between 1402 and 1404 in the same city, likely of natural causes given his advanced age. He stands as one of the most significant and prolific manuscript illuminators of fourteenth-century Italy, whose extensive body of work fundamentally shaped the artistic landscape of Bologna and influenced manuscript production throughout the Italian peninsula.
 

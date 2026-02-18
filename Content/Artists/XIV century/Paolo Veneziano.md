@@ -1,28 +1,41 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Paolo Veneziano"
 author: "Paolo Veneziano"
-role: "Venetian painter and head of a major family workshop, foundational figure of fourteenth‑century Venetian painting and mediator between Byzantine tradition and Gothic innovation"
-dates: "c. 1290/1300 – before September 1362"
-birth_place: "Venice, parish of San Luca"
-death_place: "Venice, before September 1362"
+role: "Leading Venetian painter of the Trecento and founder of the Venetian school between Byzantine tradition and Gothic innovation"
+dates: "Documented 1324–1358 (fl. first half of the XIV century)"
+birth_place: "Venice"
+death_place: "Venice (probable), after 1358"
 period: "XIV century"
 key_works:
-  - "Pala Feriale (weekday cover of the Pala d’Oro), Basilica di San Marco, Venice (1345, with Luca and Giovanni)"
-  - "Polyptych for San Lorenzo, Vicenza (1333)"
-  - "Lunette with Doge Francesco Dandolo and Elisabetta Contarini, tomb at Santa Maria Gloriosa dei Frari, Venice"
-  - "Polyptych for San Martino, Chioggia (1349)"
-  - "Polyptych now in the Louvre, Paris (c. 1354)"
-  - "Coronation of the Virgin polyptych, San Severino Marche (1358, with Giovanni Veneziano)"
+  - "Pala feriale for the high altar of San Marco, Venice (with his sons; partly preserved in the Galleria dell’Accademia)"
+  - "Polyptychs and Madonna and Child panels for Venetian churches (San Pantalon, San Lorenzo and others)"
+  - "Works for the Dalmatian and Adriatic area (polyptychs and panels now in Zadar and other centres; attributed corpus)"
+tradition: "Venetian Trecento painting rooted in Byzantine icon tradition and open to Gothic and Giottesque influences"
+artistic_style: "Gold-ground maniera with hieratic figures, refined colour, rich ornament and gradual introduction of softer modelling and narrative complexity"
+founders_and_patrons:
+  - "Basilica di San Marco and the Venetian ducal chapel"
+  - "Venetian confraternities and scuole"
+  - "Monastic and parish churches in Venice and the lagoon"
+  - "Adriatic patrons in Istria and Dalmatia"
+key_phases:
+  - "Formation within the Byzantine-oriented Venetian milieu of early Trecento"
+  - "Mature activity as official painter for San Marco (pala feriale and related works)"
+  - "Collaboration with his sons and establishment of a dynastic workshop"
+  - "Late commissions spreading his style across the Adriatic"
+thematic_keywords:
+  - "Venetian–Byzantine icon tradition"
+  - "Polyptychs and pala d’altare"
+  - "Adriatic artistic networks"
+  - "Transition from Byzantine to Gothic in Venice"
 related_entries:
-  - "Luca Veneziano"
-  - "Giovanni Veneziano"
-  - "Marco Veneziano"
   - "Lorenzo Veneziano"
-  - "Basilica di San Marco, Venice"
-  - "Doge Andrea Dandolo"
+  - "Caterino di Marco da Venezia"
+  - "Jacobello di Bonomo"
+  - "San Marco, Venice"
 category: "artists"
 ---
+
 
 Paolo Veneziano, also known as Paolo da Venezia or Maestro Paolo, was born circa 1300 in Venice, Italy, though some scholars have proposed an earlier birth date around 1290 based on stylistic analysis and career trajectory. The exact date and circumstances of his birth remain undocumented in archival sources, representing one of the many lacunae that characterize early Trecento Venetian artistic biography. His birthplace in the parish of San Luca, Venice, would later serve as the location of his workshop and residence throughout his documented career. The artist emerged during a period of extraordinary cultural and political vitality in Venice, contemporary with such momentous events as the birth of lion cubs at the Doge's Palace in 1316 and the diplomatic visit of Dante Alighieri in 1321. Paolo's formative years coincided with Venice's consolidation as a major Mediterranean power, establishing commercial and artistic networks that extended from Byzantium to Northern Europe.
 

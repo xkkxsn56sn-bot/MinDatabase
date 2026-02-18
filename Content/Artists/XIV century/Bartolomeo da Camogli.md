@@ -1,24 +1,38 @@
 ---
-layout: artist-profile
-title: "Bartolomeo da Camogli"
+layout: entry
+title: "Bartolomeo da Camogli (Bartolomeo Canal)"
 author: "Bartolomeo da Camogli"
-role: "Genoese painter from Camogli, active in the second quarter of the fourteenth century and key mediator of Sienese and Avignonese currents in Liguria and the Mediterranean"
-dates: "c. 1300 – before October 1348"
-birth_place: "Camogli, near Genoa"
-death_place: "Genoa (probable), during the Black Death of 1348"
+role: "Genoese painter active between Liguria and Fortore, working in a late Gothic, Giottesque-influenced style"
+dates: "Documented c. 1320–1340 (fl. first half of the XIV century)"
+birth_place: "Camogli or Genoa (probable)"
+death_place: "Liguria (probable; not documented)"
 period: "XIV century"
 key_works:
-  - "Madonna dell'Umiltà, signed and dated 1346, Galleria Regionale della Sicilia, Palazzo Abatellis, Palermo"
-  - "Lost altarpiece for the church of San Siro, Genoa (documented 30 March 1346)"
-  - "Frontispiece of the Matricola dei Caravana, Archivio di Stato di Genova (attributed)"
+  - "Frescoes in the church of San Nicolò di Capodimonte, near Camogli (fragments and attributions)"
+  - "Panel paintings and dossals for Ligurian churches (various attributions)"
+  - "Crucifixes and Marian images in the Genoese area (attributed corpus)"
+tradition: "Ligurian Gothic painting in dialogue with Tuscan Giottesque models and local devotional practices"
+artistic_style: "Synthesis of Giottesque volumetry and narrative clarity with Ligurian linearity and strong colour contrasts"
+founders_and_patrons:
+  - "Parish churches and confraternities of Camogli and Genoa"
+  - "Monastic communities in the eastern Ligurian Riviera"
+  - "Local maritime and mercantile patrons"
+key_phases:
+  - "Formation in the Genoese–Ligurian milieu with exposure to Tuscan models"
+  - "Mature fresco and panel production for churches around Camogli and Genoa"
+  - "Dissemination of his style in the Ligurian coastal area through workshop activity"
+thematic_keywords:
+  - "Ligurian Gothic painting"
+  - "Giottesque influence on the Tyrrhenian coast"
+  - "Crucifixes and Marian devotion in Liguria"
+  - "Parish and confraternal commissions"
 related_entries:
-  - "Opizzino Pellerano (Master of Santa Maria di Castello)"
-  - "Simone Martini"
-  - "Cimabue and the Assisi fresco cycles"
-  - "Genoese merchant community in Palermo"
-  - "Flagellant confraternities (disciplinanti)"
+  - "Manfredino da Pistoia"
+  - "Pittura murale genovese trecentesca"
+  - "San Nicolò di Capodimonte, Camogli"
 category: "artists"
 ---
+
 
 Bartolomeo da Camogli, also known as Bartolomeo Pellerano or Bartolomeus de Camulio, represents a crucial yet understudied figure in the development of fourteenth-century Mediterranean painting. Born around 1300 in Camogli, a small coastal town near Genoa in the Republic of Genoa, the artist emerged during a period of significant artistic ferment in the Ligurian capital. His birth date can be reasonably estimated from documentary evidence that places him as an active master painter by 1339, suggesting he would have completed his apprenticeship and achieved independent status by his mid-to-late thirties. The precise circumstances of his birth remain undocumented, though his family origins in the maritime community of Camogli suggest connections to the mercantile networks that characterized Genoese society. Camogli itself, situated on the Ligurian Riviera, was a modest settlement whose artistic production was naturally oriented toward the dominant cultural center of Genoa. The artist's early life coincided with Genoa's period as a major Mediterranean maritime power, a status that would prove decisive in shaping his artistic opportunities and the diffusion of his work. His formative years unfolded against the backdrop of intense commercial activity between Genoa and other Mediterranean ports, particularly in Sicily, North Africa, and the Eastern Mediterranean. The artist's family name, Pellerano, suggests possible connections to a lineage of artisans or craftsmen, though the specific origins of this surname remain obscure. His alternative designation "da Camogli" served primarily to distinguish him from other painters named Bartolomeo active in Genoa during the same period. The cultural milieu of his birthplace, though provincial, maintained connections to the sophisticated artistic developments occurring in Genoa and beyond.
 

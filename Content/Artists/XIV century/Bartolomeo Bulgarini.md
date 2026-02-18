@@ -1,26 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Bartolomeo Bulgarini"
 author: "Bartolomeo Bulgarini"
-role: "Sienese nobleman‑painter and major representative of the mid‑Trecento Sienese school"
-dates: "c. 1300–1310 – 4 September 1378"
+role: "Sienese painter active in the mid-fourteenth century, heir to Duccio and precursor of later Sienese refinement"
+dates: "Documented c. 1338–1378 (fl. mid-XIV century)"
 birth_place: "Siena"
-death_place: "Siena, parish of San Pietro a Ovile"
+death_place: "Siena (probable)"
 period: "XIV century"
 key_works:
-  - "St. Victor Altarpiece, formerly Siena Cathedral (panels now in Fogg Art Museum, Copenhagen, Frankfurt, Paris)"
-  - "Assumption of the Virgin with Doubting Thomas, Santa Maria della Scala, Siena"
-  - "Madonna and Child with Saints, polyptych for Santa Maria della Scala, Siena (Pinacoteca Nazionale di Siena, various panels)"
-  - "Biccherna covers for the Commune of Siena (1338, 1341, 1342, first semester 1351)"
+  - "Altarpiece for the high altar of Siena Cathedral (now dispersed; central panel and fragments in various collections)"
+  - "Madonna and Child with Saints panels for Sienese churches (various museums)"
+  - "Narrative predella scenes with the life of the Virgin and of Christ (dispersed)"
+tradition: "Sienese Trecento painting following Duccio, Simone Martini and the Lorenzetti, with a conservative yet highly refined devotional language"
+artistic_style: "Elegant linearity, subtle chromatic harmonies and quiet, contemplative devotional tone, maintaining Ducciesque softness while absorbing mid-Trecento developments"
+founders_and_patrons:
+  - "Cathedral chapter (Opera del Duomo) of Siena"
+  - "Sienese confraternities and lay patrons"
+  - "Parish churches and religious houses in Siena and its contado"
+key_phases:
+  - "Formation within the mid-Trecento Sienese milieu shaped by Duccio’s legacy"
+  - "Major cathedral and confraternal commissions in Siena"
+  - "Mature production of altarpieces and predelle for Sienese devotional contexts"
+thematic_keywords:
+  - "Sienese Trecento altarpieces"
+  - "Marian devotion in Siena"
+  - "Predella narrative cycles"
+  - "Ducciesque heritage in mid-fourteenth century"
 related_entries:
   - "Duccio di Buoninsegna"
-  - "Pietro Lorenzetti"
-  - "Ambrogio Lorenzetti"
-  - "Ugolino di Nerio"
   - "Simone Martini"
-  - "Santa Maria della Scala, Siena"
+  - "Pietro Lorenzetti"
+  - "Siena Cathedral and Opera del Duomo"
 category: "artists"
 ---
+
 
 Bartolomeo Bulgarini, also known as Bulgarino or Bologhini, was born in Siena circa 1300-1310, emerging from one of the city's most distinguished noble families during a period of exceptional artistic flourishing in the Tuscan republic. The exact date and precise circumstances of his birth remain obscured by the passage of centuries, though documentary evidence firmly establishes his presence as an active artist by 1337, when early sources mention payments for his artistic services to the Sienese commune. His birthplace, Siena, was at this time one of the most prosperous and culturally vibrant city-states in Italy, governed by the oligarchic Council of Nine and renowned for its distinctive school of painting that rivaled Florence in sophistication and innovation. The painter would spend virtually his entire life within the walls of this remarkable city, becoming one of the most celebrated artistic figures of his generation. Unlike many of his contemporaries who sought commissions beyond their native territories, Bulgarini enjoyed sufficient patronage and prestige within Siena to sustain a long and productive career without the necessity of extensive travel. His longevity as an artist, spanning from the 1330s through the 1370s, allowed him to witness and survive the catastrophic Black Death of 1348, an event that would fundamentally reshape the artistic landscape of Siena. The painter died on September 4, 1378, in his residence located in the parish of San Pietro a Ovile, having spent his final years as an oblate at the Hospital of Santa Maria della Scala. His death marked the end of an era, as he was among the last direct inheritors of the grand Sienese painting tradition established in the early Trecento. The circumstances surrounding his death are not documented in surviving records, though his advanced age suggests natural causes. His passing was noted in contemporary chronicles, testament to his continued prominence in Sienese cultural life until the very end.
 
