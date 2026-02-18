@@ -1,24 +1,32 @@
 ---
-layout: artist-profile
-title: "Maestro Guglielmo (Guillielmus)"
-author: "Maestro Guglielmo"
-role: "Painter of monumental crucifixes and manuscript illuminator"
-dates: "active c. 1130–1140; documented in 1138"
-birth_place: "Probably Lucca or its environs (Tuscan region, inferred from style)"
-death_place: "Unknown; possibly Lucca or another Tuscan center"
-period: "XII century"
-key_works:
-  - "Sarzana Crucifix (1138), Co-cathedral of Santa Maria Assunta, Sarzana"
-  - "Passionary P+ manuscript miniatures, Capitular Library of Lucca (attributed)"
-  - "Other miniatures and painted crosses related to the Lucchese circle (attributed)"
-related_entries:
-  - "Church of Sant'Andrea and Co-cathedral of Santa Maria Assunta, Sarzana"
-  - "Lucca and the Lucchese painting tradition"
-  - "Passionary P+ (Capitular Library of Lucca)"
-  - "Christus Triumphans iconography"
-  - "Early Italian painted crosses and Romanesque panel painting"
-category: "artists"
+layout: entry
+title: "Maestro Guglielmo"
+subtitle: "Pisan Sculptor"
+dates: "Active ca. 1159–1162"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Sculptor"
+  
+  - title: "LOCATION"
+    list:
+      - "Pisa, Tuscany"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Pulpit, Pisa Cathedral (1159–1162)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Pisa Cathedral"
+        url: "/Content/Churches/Pisa%20Cathedral.html"
 ---
+
 
 Maestro Guglielmo, also known as Guillielmus or Mastro Guglielmo, represents one of the most enigmatic yet significant figures in the history of twelfth-century Italian painting, whose identity remains shrouded in mystery despite the survival of his most celebrated work. The only secure documentation of his existence derives from a Latin inscription on the Sarzana Crucifix, which reads "Anno milleno centeno ter quoque deno octavo pinxit Guillielmus et hec metra finxit," establishing 1138 as the date of the work's execution and identifying its creator simply as "Guillielmus". Neither the exact date nor place of his birth has been preserved in any surviving document, leaving scholars to speculate based on stylistic analysis and the technical sophistication evident in his work. The artist's familiarity with Latin hexameter verse, demonstrated in both the inscription and the now-illegible captions accompanying the Passion narratives on the cross, suggests an ecclesiastical background and education unavailable to most laypeople of the period. Art historian Marco Ciatti has proposed that Guglielmo was likely a religious figure working within a monastic workshop, where he would have had access to both the literary training necessary for composing Latin verse and the artistic instruction required for manuscript illumination and panel painting. This hypothesis gains support from the attribution to Guglielmo, on stylistic grounds, of several miniatures whose execution demonstrates the same technical proficiency and aesthetic sensibility visible in the Sarzana Cross. The combination of literary erudition and artistic skill suggests that Guglielmo belonged to the educated monastic elite of Tuscany, where scriptoria and painting workshops flourished during the first half of the twelfth century. Regional analysis of his style has led scholars, beginning with Edward Garrison in 1953, to conclude that Guglielmo originated from the Lucca area, a hypothesis supported by the stylistic relationship between the Sarzana Cross and later painted crosses from Lucca. The absence of any further documentary evidence regarding his birth, training, or early career reflects the general scarcity of biographical information about artists working in this period, when individual artistic identity was only beginning to emerge from the anonymity of collective workshop production. Despite these uncertainties, the survival of his name on the Sarzana Cross represents a remarkable exception to the prevailing pattern of artistic anonymity in the early twelfth century. The fact that Guglielmo signed his work and composed its inscription in sophisticated Latin verse indicates an unusual degree of self-awareness and pride in authorship.
 

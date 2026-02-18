@@ -1,24 +1,43 @@
 ---
-layout: artist-profile
-title: "Herrade di Landsberg"
-author: "Herrade di Landsberg"
-role: "Abbess, author, and director of an illuminated encyclopedic manuscript"
-dates: "c. 1130 – 25 July 1195"
-birth_place: "Castle of Landsberg, Alsace (Holy Roman Empire)"
-death_place: "Hohenburg Abbey (Mont Sainte-Odile), Alsace"
-period: "XII century"
-key_works:
-  - "\"Hortus Deliciarum\" (Garden of Delights), illuminated encyclopedic manuscript for the education of nuns of Hohenburg Abbey"
-  - "Original Latin and German poems with music within the Hortus Deliciarum"
-  - "Program of 300+ didactic illustrations integrating theology, science, and moral teaching in the Hortus Deliciarum"
-related_entries:
-  - "Hohenburg Abbey (Mont Sainte-Odile)"
-  - "Frederick I Barbarossa and imperial monastic reform"
-  - "Abbess Relinda of Hohenburg"
-  - "Female monastic education in the twelfth century"
-  - "Transmission and loss of the \"Hortus Deliciarum\" (Strasbourg fire of 1870)"
-category: "artists"
+layout: entry
+title: "Herrade of Landsberg"
+subtitle: "Abbess and Author of the Hortus Deliciarum"
+dates: "ca. 1130–1195"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Abbess of Hohenburg"
+      - "Author"
+      - "Illuminator"
+  
+  - title: "LOCATION"
+    list:
+      - "Hohenburg Abbey, Alsace"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Alsace, ca. 1130"
+      - label: "Death"
+        value: "Hohenburg Abbey, 1195"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Hortus Deliciarum (Garden of Delights)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Hildegard von Bingen"
+        url: "/Content/Artists/XII%20century/Hildegard%20von%20Bingen.html"
+      - title: "Hohenburg Abbey"
+        url: "/Content/Churches/Hohenburg%20Abbey.html"
 ---
+
 
 ## Early Life and Monastic Formation
 
