@@ -1,23 +1,43 @@
 ---
-
-layout: artist-profile
+layout: entry
 title: "Rhabanus Maurus"
-role: "Benedictine abbot, theologian, manuscript innovator"
-dates: "c. 780–856"
-birth_place: "Mainz (or vicinity), Frankish Empire"
-death_place: "Mainz"
-period: "VIII century"
-key_works:
-  - "De laudibus sanctae crucis"
-  - "De universo"
-  - "Biblical commentaries (e.g., Matthew)"
-related_entries:
-  - "Fulda Abbey"
-  - "Carolingian Renaissance"
-  - "Alcuin of York"
-category: "artists"
+subtitle: "Archbishop, Theologian, and Encyclopedist"
+dates: "ca. 780–856"
 
+meta:
+  - title: "PERIOD"
+    list:
+      - "VIII–IX century"
+  
+  - title: "ROLE"
+    list:
+      - "Archbishop of Mainz"
+      - "Theologian"
+      - "Author"
+      - "Illuminator"
+  
+  - title: "LOCATION"
+    list:
+      - "Fulda Abbey, Mainz"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Mainz, ca. 780"
+      - label: "Death"
+        value: "Winkel, 856"
+  
+  - title: "KEY WORKS"
+    list:
+      - "De laudibus Sanctae Crucis"
+      - "De universo (encyclopedia)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Fulda Abbey"
+        url: "/Content/Churches/Fulda%20Abbey.html"
 ---
+
 
 Rhabanus Maurus Magnentius (c. 780–856) stands as one of the most significant scholars and artistic innovators of the Carolingian Renaissance, whose contributions to medieval manuscript illumination and pattern poetry profoundly influenced the development of text-image synthesis in European culture. Born in Mainz around 780 to a noble Frankish family, he became a Benedictine monk, theologian, encyclopedist, and eventually Archbishop of Mainz, earning the title "Praeceptor Germaniae" (Teacher of Germany) for his scholarly achievements. His artistic legacy centers primarily on his revolutionary work in manuscript illumination, particularly his masterpiece "De laudibus sanctae crucis" (In Praise of the Holy Cross), which represents the pinnacle of Carolingian carmina figurata—pattern poems that create visual images through the arrangement of text. Rather than being a traditional painter, Rhabanus pioneered the integration of visual and textual elements in ways that would influence manuscript production throughout medieval Europe. His supervision of the Fulda scriptorium resulted in some of the most sophisticated illuminated manuscripts of the ninth century, combining theological scholarship with innovative artistic presentation. The complexity and beauty of his illuminated works demonstrate a unique artistic vision that transcended conventional boundaries between literature and visual art. His manuscripts feature intricate miniature paintings, geometric patterns formed by text, and sophisticated color schemes that reflect both theological symbolism and artistic refinement. The survival of approximately eighty manuscript copies of his major work from the ninth to twelfth centuries attests to its immense popularity and artistic influence throughout medieval Europe. His artistic contributions represent a synthesis of Carolingian scholarly tradition with innovative visual expression that would inspire manuscript illuminators for centuries. Modern scholars recognize Rhabanus Maurus as a pioneering figure who expanded the possibilities of medieval art through his integration of text, image, and symbolic meaning.
 

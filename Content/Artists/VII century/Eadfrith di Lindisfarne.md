@@ -1,24 +1,48 @@
 ---
-
-layout: artist-profile
-title: "Eadfrith di Lindisfarne"
-author: Eadfrith di Lindisfarne
-period: VII century
-category: artists
-role: "Bishop, Scribe, Illuminator"
-birth_place: "Northumbria (probable)"
-death_place: "Lindisfarne"
+layout: entry
+title: "Eadfrith of Lindisfarne"
+subtitle: "Bishop, Scribe, and Master Illuminator of Lindisfarne"
 dates: "ca. 650–721"
-key_works:
-  - "Lindisfarne Gospels (ca. 698-721)"
-  - "Copy of the Gospels for St Cuthbert's shrine (attributed)"
-related_entries:
-  - "Lindisfarne Gospels"
-  - "St Cuthbert of Lindisfarne"
-  - "Book of Durrow"
-  - "Book of Kells"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "VII century"
   
+  - title: "ROLE"
+    list:
+      - "Bishop of Lindisfarne"
+      - "Scribe"
+      - "Illuminator"
+  
+  - title: "LOCATION"
+    list:
+      - "Lindisfarne, Northumbria"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Northumbria (probable), ca. 650"
+      - label: "Death"
+        value: "Lindisfarne, 721"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Lindisfarne Gospels (ca. 698–721)"
+      - "Copy of the Gospels for St Cuthbert's shrine (attributed)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+      - title: "St Cuthbert of Lindisfarne"
+        url: "/Content/Saints/St%20Cuthbert.html"
+      - title: "Book of Durrow"
+        url: "/Content/Codex/Book%20of%20Durrow.html"
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book%20of%20Kells.html"
 ---
+
 
 Eadfrith of Lindisfarne, who served as Bishop of Lindisfarne from approximately 698 until his death in 721, stands as one of the most significant artistic figures of early medieval Northumbria, principally recognized for his creation of the Lindisfarne Gospels. The historical record preserves remarkably few biographical details about this monastic artist-bishop, a circumstance typical of early medieval ecclesiastical figures whose lives were often subsumed within the collective identity of their monastic communities. Contemporary and near-contemporary sources, including the writings of Bede and the ninth-century poem by Æthelwulf, provide fragmentary glimpses of his activities as bishop and his devotion to the cult of Saint Cuthbert. The tenth-century colophon added to the Lindisfarne Gospels by Aldred represents the primary source attributing the manuscript's creation to Eadfrith, stating that he "was he who at the first wrote this book in honour of God and St. Cuthberht". Symeon of Durham, writing centuries later, described Eadfrith as a "pious and worthy bishop," though his account offers limited personal details. The approximate dates of Eadfrith's life span from circa 660s-670s to 721, though precise birth information remains unrecorded. He was characterized as being one of the monastic bishops of the Celtic type rather than the more active Roman organizers, living in the spirit of the Columbas and Aidans even though he was orthodox regarding the decisions of the Synod of Whitby. His legacy rests primarily upon the magnificent Lindisfarne Gospels, a manuscript that represents the apex of Insular art and demonstrates extraordinary technical skill and spiritual devotion. The scarcity of biographical information reflects both the nature of early medieval record-keeping and the monastic ideal of humility that discouraged individual aggrandizement. Modern scholarship continues to debate aspects of Eadfrith's biography, including whether he personally created the Gospels or commissioned them, though the weight of evidence increasingly supports his direct authorship.
 
