@@ -1,0 +1,32 @@
+.entry__grid{
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.entry__meta .meta-block{
+  margin: 0 0 1.5rem 0;
+  padding: 0;
+}
+
+.meta-block__title{
+  margin: 0 0 .5rem 0;
+  font-size: .95rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.meta-block__dl{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .25rem;
+}
+
+.meta-block__dl dt{ font-weight: 600; }
+.meta-block__dl dd{ margin: 0 0 .5rem 0; }
+
+.meta-block__list{
+  margin: 0;
+  padding-left: 1.1rem;
+}

@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<article class="entry">
+
+  <header class="entry__header">
+    <h1 class="entry__title">{{ page.title }}</h1>
+
+    {% if page.subtitle or page.dates %}
+      <p class="entry__subtitle">
+        {% if page.subtitle %}{{ page.subtitle }}{% endif %}
+        {% if page.subtitle and page.dates %}<br>{% endif %}
+        {% if page.dates %}{{ page.dates }}{% endif %}
+      </p>
+    {% endif %}
+  </header>
+
+  <div class="entry__grid">
+
+    <aside class="entry__meta">
+
+      {% if page.meta %}
+        {% for block in page.meta %}
+          <section class="meta-block">
+            <h3 class="meta-block__title">{{ block.title }}</h3>
+
+            {% if block.pairs %}
+              <dl class="meta-block__dl">
+                {% for pair in block.pairs %}
+                  <dt>{{ pair.label }}</dt>
+                  <dd>{{ pair.value }}</dd>
+                {% endfor %}
+              </dl>
+            {% endif %}
+
+            {% if block.list %}
+              <ul class="meta-block__list">
+                {% for item in block.list %}
+                  <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+
+            {% if block.links %}
+              <ul class="meta-block__list">
+                {% for link in block.links %}
+                  <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </section>
+        {% endfor %}
+      {% endif %}
+
+    </aside>
+
+    <div class="entry__content">
+      {{ content }}
+    </div>
+
+  </div>
+</article>
