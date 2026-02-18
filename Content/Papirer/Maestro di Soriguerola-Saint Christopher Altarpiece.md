@@ -1,10 +1,50 @@
 ---
-layout: default
-title: "Maestro di Soriguerola - Saint Christopher Altarpiece"
-author: Maestro di Soriguerola
-period: XIII-XIV century
-category: papirer
+layout: entry
+title: "Maestro di Soriguerola – Saint Christopher Altarpiece"
+author: "Maestro di Soriguerola"
+role: "Catalan Linear Gothic altarpiece articulating the cult of Saint Christopher through a complex hagiographic narrative program"
+dates: "c. 1290–1310"
+place_of_origin: "Lower Cerdanya region (area of Puigcerdà), Catalonia"
+current_location: "Museu Nacional d’Art de Catalunya, Barcelona (Saint Christopher altarpiece, attributed to the Master of Soriguerola)"
+type: "Painted altarpiece panel for rural parish or monastic church"
+period: "Late Romanesque–early Gothic transition in Catalonia"
+support_and_technique:
+  support:
+    - "Joined fir-wood panel constructed from multiple vertical boards"
+    - "Reinforced with battens according to Pyrenean workshop practice"
+  ground_and_paint:
+    - "Gesso ground (calcium sulphate and animal glue) carefully leveled"
+    - "Tempera painting with egg-based binder"
+    - "Selective use of metal leaf for halos and decorative details"
+  palette:
+    - "Vermilion, yellow orpiment, charcoal black, aerinite and copper-based blues"
+    - "Occasional use of azurite and, where patronage allowed, lapis-lazuli for privileged passages"
+iconography:
+  - "Central monumental figure of Saint Christopher bearing the Christ Child across a river"
+  - "Narrative compartments depicting conversion, miraculous staff, preaching, torments and martyrdom"
+  - "Subsidiary figures, demons, angels and architectural backdrops structuring the hagiographic cycle"
+liturgical_function:
+  - "Altarpiece for a rural parish or monastic chapel, oriented to a lay congregation"
+  - "Didactic visual summa of Saint Christopher’s vita for catechesis and devotional contemplation"
+  - "Instrument of intercession for travelers and protection against sudden death"
+historical_context:
+  - "Produced within the Kingdom of Mallorca’s Pyrenean territories during the consolidation of Gothic forms"
+  - "Expression of a regional workshop culture mediating between Romanesque heritage and Franco-Gothic innovations"
+  - "Embedded in dense networks of monastic and parochial patronage across Cerdanya, Ripollès and Conflent"
+thematic_keywords:
+  - "Master of Soriguerola"
+  - "Saint Christopher cult and hagiography"
+  - "Catalan Linear Gothic panel painting"
+  - "Rural workshop practice and material culture"
+  - "Narrative altarpieces and popular devotion"
+related_entries:
+  - "Maestro di Soriguerola – Tavola di San Michele"
+  - "Giunta Pisano San Domenico Crucifix"
+  - "Catalan Romanesque and Gothic panel painting"
+  - "Saint Christopher in medieval devotion"
+category: "papirer"
 ---
+
 
 ## PART I: THE PAINTER AND HIS ARTISTIC CONTEXT
 

@@ -1,13 +1,36 @@
 ---
-layout: default
-title: "Scivias - Hildegard of Bingen"
-description: "Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination"
-author: Hildegard of Bingen
-period: XII century
-category: papirer
+layout: entry
+title: "Scivias – Hildegard of Bingen"
+subtitle: "Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination"
+description: "A multidisciplinary study of Hildegard of Bingen’s Scivias at the intersection of theology, neurology, psychology, and medieval intellectual history."
+author: "Hildegard of Bingen (text); modern scholarly examination"
+period: "XII century"
+category: "papirer"
+work_type: "Interdisciplinary research paper"
+focus:
+  - "Visionary theology and mystical experience"
+  - "Neurological and medical hypotheses (e.g. migraine aura, epilepsy)"
+  - "Historical, theological, and cultural context of the twelfth century"
+  - "Patronage networks and institutional validation"
+  - "Manuscript tradition, illumination program, and visual theology"
+keywords:
+  - "Hildegard of Bingen"
+  - "Scivias"
+  - "Medieval mysticism"
+  - "Visionary literature"
+  - "Neurology and religion"
+  - "Twelfth-century Renaissance"
+related_entries:
+  - "Scivias of Hildegard of Bingen"
+  - "Liber Divinorum Operum"
+  - "Liber Vitae Meritorum"
+  - "Hildegard of Bingen"
+  - "Scivias manuscript tradition and illumination"
+category: "papirer"
 ---
 
-## The 'Scivias ' of Hildegard of Bingen: Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination
+
+## The 'Scivias' of Hildegard of Bingen: Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination
 
 ### Introduction
 

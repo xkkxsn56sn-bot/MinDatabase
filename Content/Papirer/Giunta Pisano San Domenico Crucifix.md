@@ -1,13 +1,49 @@
 ---
-layout: default
-title: "Giunta Pisano's San Domenico Crucifix"
-description: "The Christus Patiens Revolution and the Transformation of Medieval Visual Theology"
-author: Giunta Pisano
-period: XIII century
-category: papirer
+layout: entry
+title: "Giunta Pisano, San Domenico Crucifix"
+author: "Giunta Pisano"
+role: "Monumental Christus patiens crucifix inaugurating a new visual theology of Christ’s suffering in mid‑thirteenth‑century Italy"
+dates: "c. 1250–1254"
+place_of_origin: "Bologna, Basilica di San Domenico"
+current_location: "Basilica di San Domenico, Bologna, left transept"
+type: "Painted monumental crucifix (panel painting dossal for rood screen)"
+dimensions: "336 × 285 cm (approx.)"
+support_and_technique:
+  support:
+    - "Constructed poplar panel with vertically joined boards"
+    - "Traditional medieval carpentry with seasoned timber to reduce warping"
+  ground_and_surface:
+    - "Multiple gesso layers (plaster, animal glue, chalk) carefully leveled and burnished"
+  paint_and_gilding:
+    - "Tempera on panel with burnished gold leaf background"
+    - "Fine underdrawing and layered modeling of flesh tones"
+iconography:
+  - "Christus patiens: sagging body, inclined head, closed or nearly closed eyes"
+  - "Emphasis on the moment of death and extremity of suffering"
+  - "Theological focus on Christ’s shared human vulnerability rather than solely triumphant majesty"
+liturgical_function:
+  - "Originally a dossal suspended horizontally above the rood screen (tramezzo)"
+  - "Visual and spiritual focal point of the Dominican liturgical space during Mass"
+  - "Mediating object between choir (friars) and nave (laity)"
+historical_context:
+  - "Commissioned soon after the consecration of San Domenico (1251) under Pope Innocent IV"
+  - "Created within the Dominican Order’s emerging institutional center in Bologna"
+  - "Engages the Christus patiens formula first monumentalized in Giunta’s lost Assisi crucifix"
+thematic_keywords:
+  - "Christus patiens iconography"
+  - "Dominican–Franciscan mendicant culture"
+  - "Thirteenth‑century Italian panel painting"
+  - "Liturgical space and rood screens"
+  - "Proto‑Renaissance innovations in pathos and corporeality"
+related_entries:
+  - "Giunta Pisano"
+  - "Basilica of San Domenico, Bologna"
+  - "Franciscan Assisi Crucifix (lost)"
+  - "Cimabue’s crucifixes"
+  - "Council of Trent and post‑Tridentine church reforms"
+category: "papirer"
 ---
 
-## The Crucifix of Saint Dominic: A Monumental Achievement
 
 The Crucifix of Saint Dominic, completed between 1250 and 1254, represents one of the most consequential works in Western medieval art and marks a decisive rupture with the visual traditions that had dominated European panel painting for the preceding four centuries. Painted for the Basilica of San Domenico in Bologna, the order's most important church following Saint Dominic's canonization in 1234, the work measures 336 by 285 centimeters and is inscribed with the artist's signature: "CUIUS DOCTA MANUS ME PINXIT IUNTA PISANUS" (painted by the learned hand of Giunta Pisano). The crucifix was almost certainly commissioned to commemorate the consecration of the basilica itself, which took place under the authority of Pope Innocentius IV in 1251, a date that corresponds precisely with the documented period of Giunta's activity in the 1250s. This monumental panel functioned as a dossal—a liturgical screen suspended horizontally above the rood screen (tramezzo) that separated the choir, reserved for the Dominican friars, from the nave accessible to the lay faithful. From this elevated position, the crucifix would have constituted the visual and spiritual focal point of the entire liturgical space, its dimensions and placement emphasizing its role as the primary object of communal devotional meditation during the celebration of the Eucharist. 
 
