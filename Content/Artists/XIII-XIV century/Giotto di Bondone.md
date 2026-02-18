@@ -1,26 +1,43 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Giotto di Bondone"
 author: "Giotto di Bondone"
-role: "Painter, fresco master, and architect at the dawn of the Italian Renaissance"
-dates: "c. 1267 – 8 January 1337"
-birth_place: "Colle di Vespignano, Mugello, in the territory of the Republic of Florence"
+role: "Painter and architect, principal innovator of Western pictorial naturalism"
+dates: "c. 1267 – January 8, 1337"
+birth_place: "Vicchio di Mugello (near Florence, according to early sources)"
 death_place: "Florence"
 period: "XIII–XIV century"
 key_works:
-  - "Fresco cycle of the Arena (Scrovegni) Chapel, Padua"
-  - "Frescoes in the Bardi and Peruzzi Chapels, Santa Croce, Florence"
-  - "Stefaneschi Altarpiece, originally for Old St Peter’s, now Vatican Pinacoteca"
-  - "Campanile (bell tower) of Santa Maria del Fiore, Florence (design and lower registers)"
-  - "Crucifix and panel paintings including the Ognissanti Madonna, Florence"
+  - "Fresco cycles in the Arena (Scrovegni) Chapel, Padua"
+  - "Upper Basilica of San Francesco, Assisi (scenes from the Life of Saint Francis; debated but central to his corpus)"
+  - "Bardi and Peruzzi Chapels, Santa Croce, Florence"
+  - "Crucifix for Santa Maria Novella, Florence"
+  - "Campanile (bell tower) of Florence Cathedral (design and lower storeys)"
+tradition: "Tuscan painting and architecture at the transition from medieval to early Renaissance visual culture"
+artistic_style: "Monumental figures, coherent spatial settings, and emotionally charged narrative scenes that break with Byzantine maniera greca"
+founders_and_patrons:
+  - "Franciscan Order (Assisi, Santa Croce)"
+  - "Scrovegni family (Enrico Scrovegni, Padua)"
+  - "Florentine commune and Opera del Duomo"
+  - "Powerful Florentine banking and merchant families (Bardi, Peruzzi)"
+key_phases:
+  - "Early formation in the orbit of Cimabue and Assisi workshops"
+  - "Mature narrative cycles in Padua (Arena Chapel) and Florence (Santa Croce chapels)"
+  - "Late activity for the Florentine commune and Opera del Duomo, including the campanile"
+thematic_keywords:
+  - "Narrative fresco cycles"
+  - "Emotional naturalism and spatial construction"
+  - "Franciscan spirituality and civic patronage"
+  - "Foundations of Renaissance painting"
 related_entries:
-  - "Cimabue and the Maniera greca"
-  - "Enrico Scrovegni and the Arena Chapel"
-  - "Franciscan and Dominican orders (Santa Croce and Santa Maria Novella)"
-  - "King Robert of Anjou and the Neapolitan court"
-  - "Dante Alighieri and early Trecento Florence"
+  - "Cimabue"
+  - "Duccio di Buoninsegna"
+  - "Pietro Cavallini"
+  - "Arena (Scrovegni) Chapel, Padua"
+  - "Santa Croce, Florence"
 category: "artists"
 ---
+
 
 Giotto di Bondone is traditionally believed to have been born around 1267 in the humble village of Colle di Vespignano, situated in the scenic countryside of Mugello, not far from the bustling city of Florence in the historic Republic of Florence. Although definitive birth records have never been discovered, many early sources and chronicles point to this approximate date as the most likely, and his childhood in this rural environment has long been associated with stories of his innate gift for drawing that purportedly captured the attention of the celebrated Florentine painter Cimabue. The intriguing narratives surrounding his youthful talents, while occasionally embellished by later biographers, highlight the magnetic appeal Giotto would have for generations of art lovers and provide a glimpse into the exceptional nature of his creative genius at a time when painting was still constrained by the conventions of Byzantine tradition.
 

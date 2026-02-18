@@ -1,26 +1,39 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Francesco Traini"
 author: "Francesco Traini"
-role: "Pisan painter at the intersection of Sienese Gothic refinement and local monumental tradition"
-dates: "c. 1290–1295 – 1348"
-birth_place: "Pisa"
-death_place: "Pisa (probable), during the Black Death of 1348"
+role: "Pisan painter active in the orbit of the Camposanto and Dominican commissions in mid-Trecento"
+dates: "Documented 1321–1363 (fl. mid-XIV century)"
+birth_place: "Pisa (probable)"
+death_place: "Pisa or Tuscan coastal area (not documented with certainty)"
 period: "XIII–XIV century"
 key_works:
-  - "Saint Dominic Altarpiece, originally for Santa Caterina, now Museo Nazionale di San Matteo, Pisa"
-  - "Crucifixion fresco for the altar of Ognissanti, Camposanto Monumentale, Pisa"
-  - "Camposanto eschatological fresco cycle, including the Triumph of Death (traditional attribution, now debated)"
-  - "Madonna and Child with Saint Anne (Sant’Anna Metterza), Princeton University Art Museum"
-  - "Mosaics of the Annunciation and the Assumption, transept apses of Pisa Cathedral"
+  - "Saint Thomas Aquinas Enthroned, formerly for the Dominicans of Santa Caterina, Pisa (now Museo Nazionale di San Matteo)"
+  - "Panels for Pisa Cathedral and Dominican contexts (various attributions)"
+  - "Possible participation in Camposanto Monumentale fresco programs at Pisa (debated attributions)"
+tradition: "Pisan Trecento painting related to Orcagna’s Florentine circle and Dominican theological imagery"
+artistic_style: "Monumental figures, clear Giottesque construction, and strong doctrinal emphasis influenced by Orcagna and Florentine models"
+founders_and_patrons:
+  - "Dominican convent of Santa Caterina, Pisa"
+  - "Cathedral chapter and Opera del Duomo di Pisa"
+  - "Local confraternities and lay patrons in the Pisan contado"
+key_phases:
+  - "Formation in Pisan workshops influenced by Giunta Pisano’s legacy"
+  - "Mature commissions for Dominican patrons and doctrinal panels such as the Saint Thomas Aquinas"
+  - "Probable links with the pictorial culture of the Camposanto Monumentale in mid-Trecento"
+thematic_keywords:
+  - "Dominican theology and Thomistic imagery"
+  - "Pisan Trecento panel painting"
+  - "Relations between Pisa and Florentine Orcagnesque style"
+  - "Cult of Saint Thomas Aquinas"
 related_entries:
+  - "Andrea di Bonaiuto"
+  - "Orcagna (Andrea di Cione)"
   - "Camposanto Monumentale, Pisa"
-  - "Santa Caterina d’Alessandria, Pisa"
-  - "Pisa Cathedral and Museo Nazionale di San Matteo"
-  - "Giovanni Coco, operaio del duomo"
-  - "Black Death (1348) and its impact on Pisan artistic production"
+  - "Santa Caterina, Pisa"
 category: "artists"
 ---
+
 
 Francesco Traini stands as one of the most significant painters of 14th-century Pisa, representing a crucial figure in the development of late medieval Italian art. Born approximately between 1290 and 1295 in Pisa, he emerged during a period of cultural flourishing in the maritime republic. The exact circumstances of his birth remain undocumented, reflecting the limited archival records that characterize many medieval artists' early lives. His family name derives from "Francesco di Traino," suggesting a patronymic tradition common in Pisan nomenclature of the period. Modern art historical scholarship has established him as the preeminent indigenous painter of his city and among the most important figures in Italian art of his era. His artistic career, spanning from approximately 1315 to 1348, coincided with Pisa's continued importance as a major Mediterranean trading center. The painter's death likely occurred in 1348, possibly as a victim of the Black Death that devastated European populations. His widow Bartola was documented on July 16, 1348, arranging an apprenticeship for her nephew, suggesting Traini had died by that date. The plague's impact on artistic production in Pisa during this period cannot be understated, as it claimed numerous craftsmen and disrupted established workshop traditions. Francesco Traini's biographical reconstruction relies primarily on sparse archival documentation and stylistic analysis of a limited corpus of authenticated works.
 

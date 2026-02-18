@@ -1,11 +1,11 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Giuliano da Rimini"
 author: "Giuliano da Rimini"
 role: "Painter of the Rimini School, mediator between Byzantine tradition and Giottesque naturalism"
 dates: "c. 1280–1290 – c. 1324"
 birth_place: "Rimini (probable), within the milieu of the emerging Malatesta seigneurial city"
-death_place: "Rimini or its environs (probable), around the mid‑1320s"
+death_place: "Rimini or its environs (probable), around the mid-1320s"
 period: "XIII–XIV century"
 key_works:
   - "Crucifix for a Franciscan church in Rimini (c. 1307; now in the local diocesan museum, fragmented but preserved)"
@@ -13,14 +13,31 @@ key_works:
   - "Madonna and Child Enthroned with Angels, panel for a private chapel of a merchant family (now in a regional gallery; attributed)"
   - "Smaller panels of saints and devotional images for side chapels and private use (various collections; attributed)"
   - "Fresco fragments (Annunciation and other scenes) in churches of the Rimini area (partially preserved)"
-related_entries:
+tradition: "Rimini School at the intersection of Byzantine, Giottesque, Venetian and Northern Gothic influences"
+artistic_style: "Refined gold-ground painting that combines solemn Byzantine frontality with growing emotional expressiveness and spatial awareness"
+founders_and_patrons:
   - "Rimini and the Rimini School (Giovanni Baronzio, Neri da Rimini, and others)"
   - "Malatesta family and local seigneurial patronage"
-  - "Giotto di Bondone and the Arena Chapel, Padua"
   - "Franciscan and Dominican orders in the Adriatic region"
-  - "Byzantine, Venetian, and Northern Gothic influences in early Trecento painting"
+  - "Merchant families and confraternities of Rimini"
+key_phases:
+  - "Training in Rimini within Italo-Byzantine workshops at the end of the thirteenth century"
+  - "Assimilation of Giotto’s innovations from Padua and Florence"
+  - "Mature production of crucifixes, Marian panels and narrative scenes for Rimini churches"
+  - "Influence on and interaction with other painters of the Rimini School"
+thematic_keywords:
+  - "Crucifixion and Passion devotion"
+  - "Marian iconography (Madonna and Coronation of the Virgin)"
+  - "Rimini School and Adriatic artistic networks"
+  - "Transition from Byzantine to Giottesque naturalism"
+related_entries:
+  - "Giotto di Bondone"
+  - "Rimini School (Giovanni Baronzio, Neri da Rimini)"
+  - "Franciscan and Dominican churches in Rimini"
+  - "Malatesta patronage in Rimini"
 category: "artists"
 ---
+
 
 It has long been believed that Giuliano da Rimini was active in the early 14th century, at a time when the Italian cultural and artistic climate was undergoing a significant transformation under the broader influence of Giotto and new humanistic ideals. Scholars generally place his birth in Rimini itself, although the exact documentation remains elusive, and the year of his arrival in the world has often been approximated to the last decades of the 13th century. Several archival traces suggest that he was producing recognisable works as early as the first decade of the 14th century, leading some historians to deduce that his date of birth may have been around 1280 or 1290. Although these estimates are based on indirect stylistic and documentary evidence, there is strong consensus among scholars that Giuliano did indeed come from Rimini, a city whose vibrant artistic circles and access to maritime trade routes exposed him to a tapestry of influences during his formative years. From those early days, his name slowly but surely began to appear in contracts, civic registers and ecclesiastical sources, each of which hinted at his growing reputation as a painter of renown. From these references, it can be deduced that he must have received initial training or an apprenticeship in one of the active local workshops, where the craft was passed on by word of mouth, demonstration and fervent devotion to religious iconography.
 He was born into a family that, while not exceptionally wealthy, held a modest position in the Rimini community. Local documents suggest that his father was a small trader in fabrics and cereals, who did business with merchants passing through the busy port. This type of work would have provided a steady, if unspectacular, income, allowing the family to consider supporting the young Giuliano if he showed any early inclination towards the arts. There is every reason to imagine him as a child watching the bales of cloth being loaded onto carts, listening intently to the conversations between his father and the travelling craftsmen, and slowly grasping the sense of possibility that such encounters can open up to an impressionable mind. His father, although not an artist himself, probably recognised the spark of creativity in his son and, according to some anecdotes handed down by local tradition, encouraged him to learn the basics of drawing and painting in a local workshop.
