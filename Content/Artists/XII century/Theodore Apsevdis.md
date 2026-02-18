@@ -1,24 +1,50 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Theodore Apsevdis"
-author: "Theodore Apsevdis"
-role: "Komnenian painter and fresco master active in Cyprus"
-dates: "active 1183–1192"
-birth_place: "Probably Constantinople (unconfirmed; trained in the imperial capital)"
-death_place: "Unknown; possibly Cyprus or another Byzantine territory after 1192"
-period: "XII century"
-key_works:
-  - "Fresco decoration of the Enkleistra (Hermitage) of Saint Neophytos, near Paphos, Cyprus (completed 1183)"
-  - "Fresco cycle of Panagia tou Araka, Lagoudera, Cyprus (completed December 1192)"
-  - "Probable icons and additional frescoes in Cyprus attributed to his workshop"
-related_entries:
-  - "Saint Neophytos the Recluse and the Enkleistra near Paphos"
-  - "Panagia tou Araka, Lagoudera"
-  - "Komnenian Renaissance in twelfth‑century Byzantium"
-  - "Constantinople workshop tradition"
-  - "Cypriot Byzantine painting and the Lusignan period"
-category: "artists"
+subtitle: "Komnenian painter and fresco master active in Cyprus"
+dates: "Active 1183–1192"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Komnenian painter"
+      - "Fresco master active in Cyprus"
+  
+  - title: "LOCATION"
+    list:
+      - "Cyprus (Komnenian Byzantine territory)"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Constantinople (unconfirmed; trained in the imperial capital)"
+      - label: "Death"
+        value: "Unknown; possibly Cyprus or another Byzantine territory after 1192"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Fresco decoration of the Enkleistra (Hermitage) of Saint Neophytos, near Paphos, Cyprus (completed 1183)"
+      - "Fresco cycle of Panagia tou Araka, Lagoudera, Cyprus (completed December 1192)"
+      - "Probable icons and additional frescoes in Cyprus attributed to his workshop"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Saint Neophytos the Recluse and the Enkleistra near Paphos"
+        url: "/Content/Churches/Enkleistra%20Neophytos.html"
+      - title: "Panagia tou Araka, Lagoudera"
+        url: "/Content/Churches/Panagia%20Araka.html"
+      - title: "Komnenian Renaissance in twelfth-century Byzantium"
+        url: "/Content/Topics/Komnenian%20Renaissance.html"
+      - title: "Constantinople workshop tradition"
+        url: "/Content/Topics/Constantinople%20workshop.html"
+      - title: "Cypriot Byzantine painting and the Lusignan period"
+        url: "/Content/Topics/Cypriot%20Byzantine%20painting.html"
 ---
+
 
 Theodore Apsevdis emerged as one of the rare individually identifiable painters during the late Komnenian period, a golden age of Byzantine artistic production that witnessed unprecedented cultural flourishing under imperial patronage. The Komnenian dynasty, which ruled Byzantium from 1081 to 1185, presided over a remarkable cultural renaissance characterized by renewed engagement with classical antiquity, sophisticated theological discourse, and innovative artistic expression. During this era, Constantinople maintained its position as the preeminent artistic center of the Christian world, attracting artists, scholars, and craftsmen from across the Byzantine commonwealth while exporting its cultural productions to peripheral regions. The twelfth century witnessed extraordinary mobility of artists, ideas, and artistic forms throughout the Mediterranean basin, creating networks of cultural exchange that extended from Norman Sicily to Kievan Rus'. Scholars generally assume that Apsevdis received his artistic training in Constantinople, though no documentary evidence directly confirms his birthplace or the circumstances of his early life. His surname, Apsevdis (Αψευδής), derives from the Greek word meaning "truthful" or "without falsehood," though whether this represented a baptismal name, monastic appellation, or professional sobriquet remains a matter of scholarly speculation. The political and military instability that characterized the late twelfth century, including the gradual erosion of Byzantine territorial control in Anatolia and the growing threat posed by Western Crusader states, created conditions that drove many Constantinople-trained artists to seek patronage in more stable peripheral regions.
 

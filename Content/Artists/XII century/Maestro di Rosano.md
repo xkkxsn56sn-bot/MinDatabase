@@ -1,24 +1,49 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro di Rosano (Master of Rosano)"
-author: "Maestro di Rosano"
-role: "Early Tuscan painter of monumental crucifixes"
-dates: "active c. 1120–1130"
-birth_place: "Unknown; probably central Tuscany (Florence–Valdarno area)"
-death_place: "Unknown; likely within the Tuscan region"
-period: "XII century"
-key_works:
-  - "Painted Cross (Croce dipinta), Benedictine monastery of Santa Maria, Rosano, near Rignano sull'Arno"
-  - "Crucifix associated with the Guidi family and Sofia's consecration as a nun (Rosano commission context)"
-  - "Documented only by the Rosano Cross; other works lost or unattributed"
-related_entries:
-  - "Monastery of Santa Maria, Rosano"
-  - "Guidi family and Sofia's consecration (1130)"
-  - "Opificio delle Pietre Dure, Florence (2006 restoration)"
-  - "Christus Triumphans iconography in early Tuscan painting"
-  - "Tuscan Romanesque panel painting before Maestro Guglielmo and Giunta Pisano"
-category: "artists"
+subtitle: "Early Tuscan painter of monumental crucifixes"
+dates: "Active c. 1120–1130"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Early Tuscan painter of monumental crucifixes"
+  
+  - title: "LOCATION"
+    list:
+      - "Central Tuscany (Florence–Valdarno area)"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; probably central Tuscany (Florence–Valdarno area)"
+      - label: "Death"
+        value: "Unknown; likely within the Tuscan region"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Painted Cross (Croce dipinta), Benedictine monastery of Santa Maria, Rosano, near Rignano sull'Arno"
+      - "Crucifix associated with the Guidi family and Sofia's consecration as a nun (Rosano commission, ca. 1130)"
+      - "Documented only by the Rosano Cross; other works lost or unattributed"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Monastery of Santa Maria, Rosano"
+        url: "/Content/Churches/Santa%20Maria%20Rosano.html"
+      - title: "Guidi family and Sofia's consecration (1130)"
+        url: "/Content/Patrons/Guidi%20family.html"
+      - title: "Opificio delle Pietre Dure, Florence (2006 restoration)"
+        url: "/Content/Institutions/Opificio%20Pietre%20Dure.html"
+      - title: "Christus Triumphans iconography in early Tuscan painting"
+        url: "/Content/Topics/Christus%20Triumphans.html"
+      - title: "Tuscan Romanesque panel painting before Maestro Guglielmo and Giunta Pisano"
+        url: "/Content/Topics/Early%20Tuscan%20painting.html"
 ---
+
 
 The Master of Rosano represents one of the most enigmatic figures in the history of early Italian medieval painting, known exclusively through a single monumental work that bears no signature or documentary evidence revealing the artist's identity. This anonymous painter, active in Tuscany during the first half of the twelfth century, created what is arguably one of the earliest surviving examples of panel painting in the Italian peninsula, the celebrated Painted Cross (Croce dipinta) preserved in the Benedictine monastery of Santa Maria at Rosano, near Rignano sull'Arno in the province of Florence. The designation "Master of Rosano" follows the art historical convention of identifying anonymous medieval artists by their most significant or only known work, a practice that became standard in the discipline of art history during the twentieth century. Despite the absence of biographical documentation, the technical sophistication and iconographic complexity of the Rosano Cross reveal an artist of considerable skill and learning, familiar with both Western Romanesque traditions and capable of executing work of exceptional quality. The work's creation has been dated to approximately 1120, though some scholars propose a more precise dating to around March 25, 1130, coinciding with the consecration of Sofia, daughter of Count Guido Guerra of the powerful Guidi family, as a nun at the monastery. This dating would make the Rosano Cross one of the oldest extant painted crucifixes in Italy, potentially predating the famous Cross of Guglielmo in Sarzana Cathedral, which bears the inscription date of 1138. The Master's identity remains shrouded in mystery, with no contemporary documents identifying the painter by name, social status, or geographic origin. Unlike some medieval artists who left signatures or were mentioned in monastic chronicles, the Master of Rosano exists solely through his work, making any reconstruction of his biography necessarily speculative and based entirely on analysis of the painting itself and its historical context. The restoration conducted by the Opificio delle Pietre Dure in Florence during 2006 provided unprecedented opportunities for technical analysis, revealing details about the artist's working methods and training that constitute our primary source of knowledge about this mysterious figure. The Master's unique position in Italian art history derives not only from the early date of his work but also from its remarkable state of preservation, as the cross had never undergone restoration prior to 2006, allowing scholars to study original twelfth-century painting techniques undisturbed by later interventions. This singular work has become the foundation for understanding early Tuscan panel painting and the development of the Christus Triumphans iconographic tradition in central Italy.
 

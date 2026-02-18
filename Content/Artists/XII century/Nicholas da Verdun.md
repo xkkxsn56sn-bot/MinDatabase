@@ -1,26 +1,55 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Nicholas of Verdun (Nicola da Verdun, Nicolaus Virdunensis)"
-author: "Nicholas of Verdun"
-role: "Mosan goldsmith, enamelist, and sculptor"
+subtitle: "Mosan goldsmith, enamellist, and sculptor"
 dates: "c. 1130 – c. 1205"
-birth_place: "Verdun, Upper Lorraine (today north‑eastern France), along the Meuse River"
-death_place: "Tournai area (present‑day Belgium), probably shortly after 1205"
-period: "XII century"
-key_works:
-  - "Klosterneuburg Altar (Verdun Altar), c. 1171–1181, Augustinian Abbey of Klosterneuburg, Austria"
-  - "Shrine of the Three Kings, Cologne Cathedral, begun c. 1181"
-  - "Reliquary of Notre-Dame (Shrine of Our Lady), c. 1197–1205, Cathedral of Tournai"
-  - "Shrine of St. Anne, Siegburg Abbey (attributed, heavily restored)"
-  - "Shrine of St. Alban, Church of St. Pantaleon, Cologne (attributed)"
-related_entries:
-  - "Mosan art and Meuse valley metalwork"
-  - "City of Verdun"
-  - "Klosterneuburg Abbey and Provost Werner"
-  - "Cologne Cathedral and the cult of the Three Kings"
-  - "Cathedral of Tournai and the Notre-Dame relics"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Mosan goldsmith"
+      - "Enamellist"
+      - "Sculptor"
+  
+  - title: "LOCATION"
+    list:
+      - "Verdun, Upper Lorraine (today north-eastern France), along the Meuse River"
+      - "Active throughout the Meuse valley region"
+      - "Later work in Cologne and Tournai"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Verdun, Upper Lorraine (today north-eastern France), along the Meuse River, c. 1130"
+      - label: "Death"
+        value: "Tournai area (present-day Belgium), probably shortly after 1205"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Klosterneuburg Altar (Verdun Altar), c. 1171–1181, Augustinian Abbey of Klosterneuburg, Austria"
+      - "Shrine of the Three Kings, Cologne Cathedral, begun c. 1181"
+      - "Reliquary of Notre-Dame (Shrine of Our Lady), c. 1197–1205, Cathedral of Tournai"
+      - "Shrine of St. Anne, Siegburg Abbey (attributed, heavily restored)"
+      - "Shrine of St. Alban, Church of St. Pantaleon, Cologne (attributed)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Mosan art and Meuse valley metalwork"
+        url: "/Content/Topics/Mosan%20art.html"
+      - title: "City of Verdun"
+        url: "/Content/Locations/Verdun.html"
+      - title: "Klosterneuburg Abbey and Provost Werner"
+        url: "/Content/Churches/Klosterneuburg%20Abbey.html"
+      - title: "Cologne Cathedral and the cult of the Three Kings"
+        url: "/Content/Churches/Cologne%20Cathedral.html"
+      - title: "Cathedral of Tournai and the Notre-Dame relics"
+        url: "/Content/Churches/Tournai%20Cathedral.html"
 ---
+
 
 Nicholas of Verdun, known in Italian sources as Nicola da Verdun and in Latin inscriptions as Nicolaus Virdunensis, was born circa 1130 in the city of Verdun, located in Upper Lorraine, a region that today forms part of northeastern France. The precise date of his birth remains undocumented in surviving medieval records, though scholarly consensus based on stylistic analysis of his earliest attributed works and documentary evidence from his mature period places his birth in the late 1120s or early 1130s. Verdun, situated along the crucial Meuse River trade route, served as an important ecclesiastical and commercial center during the twelfth century, providing a fertile environment for the development of artistic talent and craftmanship. The city's strategic position within the cultural and political sphere of the Holy Roman Empire exposed its inhabitants to diverse artistic influences flowing between the Rhineland, the Low Countries, and northern France. Nicholas died circa 1205, most likely in the vicinity of Tournai in present-day Belgium, where documentary evidence places him in his final years. The cause of his death remains unrecorded in surviving chronicles and ecclesiastical documents of the period. His active career as a goldsmith, metalworker, and enamelist spanned approximately four decades, from around 1170 to 1205, during which he created some of the most significant works of medieval Christian art. The absence of detailed biographical information reflects the typical conditions of medieval artistic documentation, where works were more frequently recorded than the personal circumstances of their creators. Nevertheless, Nicholas distinguished himself from the prevailing anonymity of medieval craftsmen by consistently signing his works, thereby establishing a documented artistic identity. His legacy endured through both his signed masterpieces and the workshop tradition he established, which influenced subsequent generations of Mosan and Rhenish metalworkers.
 

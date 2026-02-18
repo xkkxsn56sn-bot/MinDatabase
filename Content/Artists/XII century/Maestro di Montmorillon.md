@@ -1,24 +1,50 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Maestro di Montmorillon"
-author: "Maestro di Montmorillon"
-role: "Anonymous Romanesque mural painter active in the 'Valley of Frescoes' along the Gartempe River"
-dates: "active c. 1150–1200"
-birth_place: "Unknown; probably western France in the Poitou / Gartempe valley region"
-death_place: "Unknown; likely within the same western French milieu"
-period: "XII century"
-key_works:
-  - "Fresco cycle in the Sainte-Catherine crypt, Church of Notre-Dame, Montmorillon"
-  - "Mystic Lamb composition and apocalyptic imagery in the Sainte-Catherine crypt"
-  - "Additional painted decorations in churches of the Gartempe 'Valley of Frescoes' (attributed workshop)"
-related_entries:
-  - "Church of Notre-Dame, Montmorillon"
-  - "Sainte-Catherine crypt, Montmorillon"
-  - "Abbey of Saint-Savin-sur-Gartempe"
-  - "Valley of Frescoes along the Gartempe River"
-  - "Romanesque mural painting in Poitou"
-category: "artists"
+subtitle: "Anonymous Romanesque mural painter active in the 'Valley of Frescoes' along the Gartempe River"
+dates: "Active c. 1150–1200"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XII century"
+  
+  - title: "ROLE"
+    list:
+      - "Anonymous Romanesque mural painter"
+      - "Active in the 'Valley of Frescoes' along the Gartempe River"
+  
+  - title: "LOCATION"
+    list:
+      - "Montmorillon and the Gartempe valley region (Poitou, western France)"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; probably western France in the Poitou/Gartempe valley region"
+      - label: "Death"
+        value: "Unknown; likely within the same western French milieu"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Fresco cycle in the Sainte-Catherine crypt, Church of Notre-Dame, Montmorillon"
+      - "Mystic Lamb composition and apocalyptic imagery in the Sainte-Catherine crypt"
+      - "Additional painted decorations in churches of the Gartempe 'Valley of Frescoes' (attributed works)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Church of Notre-Dame, Montmorillon"
+        url: "/Content/Churches/Notre-Dame%20Montmorillon.html"
+      - title: "Sainte-Catherine crypt, Montmorillon"
+        url: "/Content/Churches/Sainte-Catherine%20crypt%20Montmorillon.html"
+      - title: "Abbey of Saint-Savin-sur-Gartempe"
+        url: "/Content/Churches/Saint-Savin-sur-Gartempe.html"
+      - title: "Valley of Frescoes along the Gartempe River"
+        url: "/Content/Topics/Valley%20of%20Frescoes.html"
+      - title: "Romanesque mural painting in Poitou"
+        url: "/Content/Topics/Romanesque%20Poitou.html"
 ---
+
 
 The anonymous artists responsible for these works were part of the broader Romanesque artistic movement that flourished in western France during the 12th century, particularly in the Loire Valley region and along the pilgrimage routes to Santiago de Compostela. These painters worked within the established monastic and ecclesiastical patronage system of their time, creating religious narratives that served both devotional and didactic purposes for medieval Christian communities. Their work represents a significant contribution to the "Valley of Frescoes" along the Gartempe River, which includes over twenty religious and civil buildings decorated with medieval paintings.
 
