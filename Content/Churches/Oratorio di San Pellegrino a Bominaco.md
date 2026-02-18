@@ -4,41 +4,52 @@ title: "Oratorio di San Pellegrino, Bominaco"
 subtitle: "High medieval Benedictine oratory and shrine"
 dates: "Monastic foundation 10th–11th century; oratory and fresco cycle dated 1263"
 
+location: "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
+ecclesiastical_tradition: "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
+order: "Benedictine"
+architectural_style: "Romanesque with early Gothic elements"
+
+founders_and_patrons:
+  - "Benedictine monks dependent on Farfa Abbey"
+  - "Abbot Teodino of Bominaco"
+  - "Legendary Carolingian attribution to Charlemagne"
+
+related_entries:
+  - title: "Santa Maria Assunta, Bominaco"
+    url: "/Content/Churches/Santa%20Maria%20Assunta%20Bominaco.html"
+  - title: "Farfa Abbey"
+    url: "/Content/Churches/Farfa%20Abbey.html"
+
+category: "churches"
+
 meta:
-  - title: "LOCATION"
-    list:
-      - "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
+  - title: "Core data"
+    pairs:
+      - label: "Location"
+        value: "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
+      - label: "Chronology"
+        value: "Monastic foundation 10th–11th century; oratory and fresco cycle dated 1263"
+      - label: "Ecclesiastical tradition"
+        value: "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
+      - label: "Religious order"
+        value: "Benedictine"
+      - label: "Architectural style"
+        value: "Romanesque with early Gothic elements"
 
-  - title: "CHRONOLOGY"
-    list:
-      - "Monastic foundation 10th–11th century"
-      - "Oratory and fresco cycle dated 1263"
-
-  - title: "ECCLESIASTICAL TRADITION"
-    list:
-      - "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
-
-  - title: "RELIGIOUS ORDER"
-    list:
-      - "Benedictine"
-
-  - title: "ARCHITECTURAL STYLE"
-    list:
-      - "Romanesque with early Gothic elements"
-
-  - title: "FOUNDERS & PATRONS"
+  - title: "Founders & patrons"
     list:
       - "Benedictine monks dependent on Farfa Abbey"
       - "Abbot Teodino of Bominaco"
       - "Legendary Carolingian attribution to Charlemagne"
 
-  - title: "RELATED ENTRIES"
+  - title: "Related entries"
     links:
       - title: "Santa Maria Assunta, Bominaco"
         url: "/Content/Churches/Santa%20Maria%20Assunta%20Bominaco.html"
       - title: "Farfa Abbey"
         url: "/Content/Churches/Farfa%20Abbey.html"
 ---
+
 
 The Oratorio di San Pellegrino, stands as a remarkable testimony to the religious and cultural ferment of the High Middle Ages in central Italy, specifically in the elevated plateau of Navelli in Abruzzo. The site itself possesses extraordinary antiquity, as tradition holds that in the third or fourth century, San Pellegrino, a Syrian martyr and preacher, suffered his martyrdom and received burial on this remote mountainous terrain. The veneration of this holy figure became deeply embedded in the consciousness of the local Benedictine monastic community, and over subsequent centuries, the location transformed from a simple memorial shrine into a locus of considerable devotional and artistic significance. The earliest documentary evidence for the monastery appears in the diploma of Emperor Conrad II dated 1027, which references an ecclesia sancti Peregrini and confirms that the monastic complex was already established by that date, functioning under Benedictine observance. The monastic settlement itself appears to have been founded in the tenth century, dependent upon the mighty Farfa Abbey and participating in the vast network of Benedictine cultural influence that emanated from Rome and the Tiber valley across the Apennine massif. The monastery experienced considerable growth and flourished throughout the eleventh and twelfth centuries, establishing itself as an important spiritual and economic center along the transhumance routes that shepherds and merchants traversed seasonally across the Abruzzese highlands. By the thirteenth century, when the construction of the San Pellegrino Oratorio occurred, the monastic complex had achieved considerable prosperity and possessed sufficient resources to commission a decorated chapel of exceptional artistic ambition and quality. The prosperity would prove fragile, however, as the monastery became enmeshed in protracted disputes between competing ecclesiastical authorities, particularly the bishops of Valva who sought to exercise jurisdiction over the abbey, creating tensions that lasted for three centuries until 1343 and ultimately contributing to the community's decline and abandonment following the catastrophic raid by the military captain Braccio da Montone in 1423.
 

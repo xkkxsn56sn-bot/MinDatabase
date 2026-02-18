@@ -7,34 +7,97 @@ dates: "c. 800 (late 8th–early 9th century)"
 place_of_origin: "Columban federation between Iona (Scotland) and Kells (County Meath, Ireland)"
 current_location: "Trinity College Library, Dublin (IE TCD MS 58)"
 type: "Illuminated Gospel book (Latin Vulgate with Vetus Latina elements)"
+
 contents:
   - "Four Gospels in Latin with prefatory material (canon tables, breves causae, argumenta)"
   - "Full‑page miniatures (Christ, Virgin and Child, evangelist symbols, narrative scenes)"
   - "Elaborately decorated incipits, initials, and ornamental pages (including the Chi‑Rho page)"
+
 script: "Insular majuscule with multiple scribal hands (A, B, C, possibly D)"
+
 materials_and_techniques:
   - "Fine calf vellum"
   - "Iron‑gall and carbon inks"
   - "Mineral and organic pigments bound in protein media"
   - "Insular ruling, pricking and single‑column layout"
-historical_context:
+
+historical_context_short:
   - "Produced within the Columban monastic network amid Viking raids and monastic relocation"
   - "Reflects late Insular resistance to Carolingian script and decorative norms"
   - "Functioned as a liturgical, juridical, and identity‑bearing object for the community of Kells"
+
 thematic_keywords:
   - "Insular illumination"
   - "Gospel books and liturgy"
   - "Monastic identity and resilience"
   - "Text–image exegesis"
   - "Columban federation and Irish church history"
+
 related_entries:
-  - "Book of Durrow"
-  - "Lindisfarne Gospels"
-  - "Lichfield Gospels"
-  - "Columba (Colum Cille) and the Columban monasteries"
-  - "Insular Gospel books and canon tables"
+  - title: "Book of Durrow"
+    url: "/Content/Codex/Book%20of%20Durrow.html"
+  - title: "Lindisfarne Gospels"
+    url: "/Content/Codex/Lindisfarne%20Gospels.html"
+  - title: "Lichfield Gospels"
+    url: "/Content/Codex/Lichfield%20Gospels.html"
+  - title: "Columba (Colum Cille) and the Columban monasteries"
+    url: "/Content/Artists/Columba%20and%20Columban%20Monasteries.html"
+
 category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Columban federation between Iona (Scotland) and Kells (County Meath, Ireland)"
+      - label: "Current location"
+        value: "Trinity College Library, Dublin (IE TCD MS 58)"
+      - label: "Date"
+        value: "c. 800 (late 8th–early 9th century)"
+      - label: "Type"
+        value: "Illuminated Gospel book (Latin Vulgate with Vetus Latina elements)"
+      - label: "Script"
+        value: "Insular majuscule with multiple scribal hands (A, B, C, possibly D)"
+
+  - title: "Contents"
+    list:
+      - "Four Gospels in Latin with prefatory material (canon tables, breves causae, argumenta)"
+      - "Full‑page miniatures (Christ, Virgin and Child, evangelist symbols, narrative scenes)"
+      - "Elaborately decorated incipits, initials, and ornamental pages (including the Chi‑Rho page)"
+
+  - title: "Materials and techniques"
+    list:
+      - "Fine calf vellum"
+      - "Iron‑gall and carbon inks"
+      - "Mineral and organic pigments bound in protein media"
+      - "Insular ruling, pricking and single‑column layout"
+
+  - title: "Historical context (summary)"
+    list:
+      - "Produced within the Columban monastic network amid Viking raids and monastic relocation"
+      - "Insular alternative to emerging Carolingian book culture"
+      - "Served liturgical, juridical, and identity‑bearing functions for Kells"
+
+  - title: "Thematic keywords"
+    list:
+      - "Insular illumination"
+      - "Gospel books and liturgy"
+      - "Monastic identity and resilience"
+      - "Text–image exegesis"
+      - "Columban federation and Irish church history"
+
+  - title: "Related entries"
+    links:
+      - title: "Book of Durrow"
+        url: "/Content/Codex/Book%20of%20Durrow.html"
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+      - title: "Lichfield Gospels"
+        url: "/Content/Codex/Lichfield%20Gospels.html"
+      - title: "Columba (Colum Cille) and the Columban monasteries"
+        url: "/Content/Artists/Columba%20and%20Columban%20Monasteries.html"
 ---
+
 
 
 ## Historical context
