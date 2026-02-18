@@ -1,26 +1,52 @@
 ---
-layout: artist-profile
+layout: entry
 title: "Cimabue (Cenni di Pepo)"
-author: "Cimabue"
-role: "Florentine painter and mosaicist bridging Byzantine tradition and Proto‑Renaissance innovation"
+subtitle: "Florentine painter and mosaicist bridging Byzantine tradition and Proto-Renaissance innovation"
 dates: "c. 1240 – c. 1302"
-birth_place: "Florence"
-death_place: "Pisa (probable), while working on the cathedral apse mosaic"
-period: "XIII century"
-key_works:
-  - "Santa Trinita Maestà, originally for Santa Trinita, now Galleria degli Uffizi, Florence"
-  - "Crucifix for Santa Croce, Florence"
-  - "Frescoes in the Upper Basilica of San Francesco, Assisi (transept and apse zones)"
-  - "Apse mosaic of Christ in Majesty, Cathedral of Pisa"
-  - "Madonna and Child for Santa Maria dei Servi, Bologna (attributed)"
-related_entries:
-  - "Giunta Pisano and Coppo di Marcovaldo"
-  - "Giotto di Bondone"
-  - "Basilica of San Francesco, Assisi"
-  - "Santa Croce and Santa Trinita, Florence"
-  - "Pisa Cathedral and Tuscan Duecento painting"
-category: "artists"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+  
+  - title: "ROLE"
+    list:
+      - "Florentine painter and mosaicist"
+      - "Bridging Byzantine tradition and Proto-Renaissance innovation"
+  
+  - title: "LOCATION"
+    list:
+      - "Florence"
+  
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Florence, c. 1240"
+      - label: "Death"
+        value: "Pisa (probable), while working on the cathedral apse mosaic, c. 1302"
+  
+  - title: "KEY WORKS"
+    list:
+      - "Santa Trinita Maestà, originally for Santa Trinita, now Galleria degli Uffizi, Florence"
+      - "Crucifix for Santa Croce, Florence"
+      - "Frescoes in the Upper Basilica of San Francesco, Assisi (transept and apse zones)"
+      - "Apse mosaic of Christ in Majesty, Cathedral of Pisa"
+      - "Madonna and Child for Santa Maria dei Servi, Bologna (attributed)"
+  
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano and Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.html"
+      - title: "Basilica of San Francesco, Assisi"
+        url: "/Content/Churches/San%20Francesco%20Assisi.html"
+      - title: "Santa Croce and Santa Trinita, Florence"
+        url: "/Content/Churches/Santa%20Croce%20Florence.html"
+      - title: "Pisa Cathedral and Tuscan Duecento painting"
+        url: "/Content/Churches/Pisa%20Cathedral.html"
 ---
+
 
 Cimabue, born Cenni di Pepo (or possibly Bencivieni di Pepo) around 1240 in Florence, emerged as the most influential painter of the third quarter of the thirteenth century and the pivotal figure bridging Byzantine tradition and Proto-Renaissance innovation. The precise circumstances of his birth remain obscure, with contemporary documents providing no definitive record of his parentage or exact birthdate, though scholarly consensus places his nativity circa 1240 based on stylistic chronology and the documented trajectory of his career. The name "Cimabue," by which he became universally known, appears to be a nickname rather than a family surname, possibly deriving from the Florentine dialect "cima bue" (ox head) or from a corruption of an earlier patronymic, though its exact etymology remains contested among scholars. His baptismal name, Cenni di Pepo, appears in the earliest documentary references, including a 1272 document from Rome where he is identified as "Cimabove pictor de Florentia," establishing both his professional identity and his Florentine origins. The Pepo family, though not among Florence's great noble houses, appears to have belonged to the artisan or mercantile class that was transforming the social and political landscape of thirteenth-century Florence, providing sufficient economic resources to support artistic apprenticeship and guild membership.
 
