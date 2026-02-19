@@ -1,3 +1,129 @@
+---
+layout: entry
+type: codex
+id: lindisfarne-gospels
+title: "Lindisfarne Gospels"
+short_title: "Lindisfarne Gospels"
+original_title: "Lindisfarne Gospels (London, British Library, Cotton MS Nero D.IV)"
+slug: "lindisfarne-gospels"
+
+repository: "British Library, London"
+shelfmark: "Cotton MS Nero D.IV"
+city: "London"
+country: "England"
+institution_type: "library"
+
+date_display: "ca. 715–720"
+date_start: 715
+date_end: 720
+century: "VIII"
+chronology_note: "Prodotto nella fase matura dell’“età dell’oro” northumbriana, probabilmente tra il 715 e il 720."
+
+origin_place: "Lindisfarne (Holy Island), Northumbria"
+origin_region: "Northumbria"
+origin_culture: "Insular (Hiberno‑saxon)"
+liturgical_context: "Libro evangelico cerimoniale legato al culto di san Cuthbert"
+
+material: "Vellum (pergamena di vitello di alta qualità)"
+folia: 259
+format: "Grande formato, libro evangelico cerimoniale"
+script: "Maiuscola semionciale insulare"
+languages: 
+  - "Latin"
+  - "Old English (glossa interlineare di Aldred, X sec.)"
+text_contents: 
+  - "Vulgata dei quattro Vangeli"
+  - "Materiale prefatorio (lettere e tavole canoniche)"
+  - "Glossa interlineare in antico inglese (Aldred)"
+
+decoration_summary: "Riccissimo ciclo di pagine‑tappeto, incipit a piena pagina, ritratti degli evangelisti, grandi iniziali istoriate, complesso uso geometrico dell’ornato insulare."
+iconographic_highlights: 
+  - "Pagine‑croce (carpet pages) con fitte reti di intrecci zoomorfi"
+  - "Ritratti degli evangelisti di tipo tardo‑antico/classicizzante"
+  - "Tavole canoniche ad arcate architettoniche"
+  - "Incipit monumentali all’inizio di ciascun Vangelo"
+
+dimensions: ""
+binding: "Legatura moderna ottocentesca che sostituisce la legatura “di tesoro” con metalli e gemme eseguita da Billfrith (perduta)."
+condition: "Eccezionale stato di conservazione del blocco librario, con minimi tagli dovuti a rilegature successive."
+
+scribe_main: "Eadfrith, vescovo di Lindisfarne (attribuito)"
+scribe_other: []
+artists: 
+  - "Eadfrith (scriba‑miniatore principale, secondo la colofone di Aldred)"
+glossator: "Aldred (sacerdote di Chester‑le‑Street, X secolo)"
+binders:
+  - "Æthelwald (vescovo, responsabile della legatura iniziale)"
+goldsmiths:
+  - "Billfrith l’anchorita (legatura di tesoro in oro, argento e gemme)"
+
+associated_saints:
+  - "St Cuthbert"
+primary_cult: "St Cuthbert"
+function:
+  - "Uso liturgico solenne (processioni e letture evangeliche festali)"
+  - "Oggetto di prestigio e di devozione presso il santuario di San Cuthbert"
+  - "Monumento identitario della comunità di Lindisfarne"
+
+patron_institution: "Chiesa/monastero di Lindisfarne"
+patron_individuals: 
+  - "Eadfrith, vescovo di Lindisfarne (come promotore interno e artefice principale)"
+  - "Comunità monastica di Lindisfarne"
+patron_royal_context: "Regno di Northumbria (sostegno indiretto attraverso donazioni reali e aristocratiche)"
+
+style_classification: 
+  - "Insular"
+  - "Hiberno‑saxon"
+style_influences:
+  - "Ornato celtico e pictico (intrecci, spirali, motivi zoomorfi)"
+  - "Vocaboli germanici nell’ornamentazione a intreccio"
+  - "Tradizione mediterranea/romana (ritratti d’autore, drappeggi, architetture)"
+  - "Possibili paralleli copti per le pagine‑croce"
+  - "Tradizioni locali northumbriane di scultura e oreficeria"
+
+historical_context_brief: >
+  Prodotto durante la consolidazione del cristianesimo e della disciplina romana
+  in Northumbria dopo il sinodo di Whitby (664), nel quadro della forte ascesa del
+  culto di san Cuthbert e della vocazione di Lindisfarne quale centro episcopale
+  e di pellegrinaggio.
+
+reception_keywords:
+  - "Culto di san Cuthbert"
+  - "Pellegrinaggi a Lindisfarne"
+  - "Migrazione con la comunità in esilio (Chester‑le‑Street, poi Durham)"
+  - "Tesoro nazionale del Regno Unito"
+  - "Oggetto paradigmatico per lo studio dell’arte insulare"
+
+scholarly_topics:
+  - "Paleografia insulare e struttura dei quaternioni"
+  - "Programma iconografico e teologia visiva del libro evangelico"
+  - "Rapporti tra manoscritto, culto dei santi e patronato episcopale‑regio"
+  - "Glossa in antico inglese e storia della ricezione del testo evangelico"
+  - "Scambi artistici tra Isole Britanniche, mondo mediterraneo e area copta"
+
+bibliography:
+  - "Michelle P. Brown, *The Lindisfarne Gospels: Society, Spirituality and the Scribe*, British Library, 2003."
+  - "Michelle P. Brown (ed.), *The Lindisfarne Gospels: New Perspectives*, British Library, 2011."
+
+digital_resources:
+  - label: "British Library – Digitised Manuscripts"
+    url: "https://www.bl.uk/collection-items/lindisfarne-gospels"
+  - label: "Durham / Lindisfarne exhibition resources"
+    url: "https://www.dur.ac.uk/library/asc/collection_information/early_printed_books/lindisfarne_gospels/"
+
+tags:
+  - "Insular manuscripts"
+  - "Gospel books"
+  - "Anglo‑Saxon art"
+  - "Northumbria"
+  - "Saint Cuthbert"
+  - "Old English gloss"
+
+display_priority: 10
+featured: true
+---
+
+
 ## Introduction
 
 The Lindisfarne Gospels is an illuminated Latin Gospel book produced in the early eighth century at the monastery of Lindisfarne on Holy Island, off the coast of Northumbria, and now preserved as London, British Library, Cotton MS Nero D.IV. Current scholarship generally dates its execution to around 715–720, situating it within the mature phase of the Northumbrian “golden age.”
