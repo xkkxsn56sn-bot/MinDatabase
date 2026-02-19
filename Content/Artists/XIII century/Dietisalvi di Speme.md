@@ -27,8 +27,7 @@ meta:
         value: "Siena (probable), shortly after August 1291"
 
   - title: "KEY WORKS"
-    type: "list"
-    items:
+    list:
       - "Madonna del Voto, Siena Cathedral (Cappella Chigi)"
       - "Madonna di San Bernardino, Pinacoteca Nazionale, Siena"
       - "Biccherna covers for the Sienese financial administration (at least 56 documented, 4 surviving)"
