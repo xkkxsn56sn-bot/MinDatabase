@@ -16,11 +16,16 @@
 .entry__sidebar {
   position: sticky;
   top: 2rem;
-  background: #f8f9fa;
+  background: #c1d4e7;
   border: 1px solid #dee2e6;
   border-radius: 8px;
-  overflow: hidden;
+
+  /* aggiunte per la scrollbar autonoma */
+  max-height: calc(100vh - 4rem);  /* o 100vh se preferisci */
+  overflow-y: auto;
 }
+
+
 
 .sidebar__content {
   padding: 1.5rem;
