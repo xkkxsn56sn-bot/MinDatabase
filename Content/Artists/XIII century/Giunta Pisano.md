@@ -1,40 +1,112 @@
 ---
 layout: entry
 title: "Giunta Pisano (Giunta di Capitino)"
-author: "Giunta Pisano"
-role: "Pisan panel painter and pioneer of the monumental Christus patiens crucifix"
+subtitle: "Pisan panel painter and pioneer of the monumental Christus patiens crucifix"
 dates: "c. 1190–1200 – after 1254"
-birth_place: "Pisa (probable; possibly from Pistoia, active permanently in Pisa)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Early development of Italian panel painting"
+
+  - title: "ROLE"
+    list:
+      - "Pisan panel painter"
+      - "Pioneer of the monumental Christus patiens crucifix"
+      - "Leading master of early Duecento Tuscan painting"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa (probable birthplace and permanent base)"
+      - "Assisi (Basilica di San Francesco and Santa Maria degli Angeli)"
+      - "Bologna (Basilica di San Domenico)"
+      - "Rome (documented presence in 1239 within papal and Franciscan circles)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "c. 1190–1200, probably in Pisa (possibly of Pistoian origin, later established in Pisa)"
+      - label: "Death"
+        value: "Shortly after 1254, probably in Pisa"
+
+  - title: "KEY WORKS"
+    list:
+      - "Lost monumental crucifix for the Basilica di San Francesco, Assisi, commissioned by Frate Elia (1236)"
+      - "Crucifix for Santa Maria degli Angeli (Porziuncola), now Museo della Basilica di Santa Maria degli Angeli, Assisi"
+      - "Crucifix of San Ranierino, now Museo Nazionale di San Matteo, Pisa"
+      - "Crucifix for San Domenico, Bologna"
+      - "Processional crosses and dossali with Saint Francis and miracles (Pisa, Assisi, Vatican; workshop and circle)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Radical development of the Christus patiens type with heightened pathos and corporeality"
+      - "Sophisticated tempera technique with layered translucent flesh modeling"
+      - "Monumental compositions that concentrate attention on the suffering Christ and mourning figures"
+      - "Key source for later Franciscan and Dominican crucifixes"
+
+  - title: "PATRONS"
+    list:
+      - "Frate Elia da Cortona and the Franciscan Order"
+      - "Basilica di San Francesco, Assisi"
+      - "Basilica di Santa Maria degli Angeli (Porziuncola), Assisi"
+      - "Basilica di San Domenico, Bologna and the Dominican Order"
+      - "Ecclesiastical patrons in Pisa, Umbria, and central Italy"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early activity in Pisa within the Italo-Byzantine panel-painting tradition (early thirteenth century)"
+      - "Major Franciscan commission for the Assisi crucifix (1236)"
+      - "Documented presence in Rome in 1239 within papal and Franciscan networks"
+      - "Property ownership and civic standing in Pisa (documents of 1241 and 1254)"
+      - "Late monumental works including the San Domenico crucifix in Bologna (c. 1250–1254)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Christus patiens crucifix iconography"
+      - "Mendicant spirituality and Passion devotion"
+      - "Franciscan narrative dossali"
+      - "Pisan and central Italian Duecento art"
+      - "Transition from Byzantine models to heightened naturalism and pathos"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Basilica di San Francesco, Assisi"
+        url: "/Content/Churches/San%20Francesco%20Assisi.md"
+      - title: "Santa Maria degli Angeli (Porziuncola), Assisi"
+        url: "/Content/Churches/Santa%20Maria%20degli%20Angeli%20Assisi.md"
+      - title: "San Domenico, Bologna"
+        url: "/Content/Churches/San%20Domenico%20Bologna.md"
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "Giovanni di Apparecchiato"
+        url: "/Content/Artists/XIII%20century/Giovanni%20di%20Apparecchiato.md"
+
+author: "Giunta Pisano (Giunta di Capitino)"
+role: "Pisan panel painter and pioneer of the monumental Christus patiens crucifix"
+dates_detail: "Documented activity from c. 1202; last record 1254"
+birth_place: "Pisa (probable; possibly from Pistoia, later established in Pisa)"
 death_place: "Pisa (probable), shortly after 1254"
 period: "XIII century"
+
 key_works:
-  - "Lost monumental crucifix for the Basilica di San Francesco, Assisi, commissioned by Frate Elia (1236)"
-  - "Crucifix for Santa Maria degli Angeli (Porziuncola), now Museo della Basilica di Santa Maria degli Angeli, Assisi"
-  - "Crucifix of San Ranierino, now Museo Nazionale di San Matteo, Pisa"
+  - "Monumental crucifix for the Basilica di San Francesco, Assisi (1236, lost)"
+  - "Crucifix for Santa Maria degli Angeli (Porziuncola), Assisi"
+  - "Crucifix of San Ranierino, Pisa"
   - "Crucifix for San Domenico, Bologna"
-  - "Processional crosses and dossali with Saint Francis and miracles (Pisa, Assisi, Vatican; workshop and circle)"
+
 tradition: "Pisan school of painting, Franciscan and Dominican mendicant patronage, early Italian panel painting"
-artistic_style: "Radical development of the Christus patiens type with heightened pathos, anatomical modeling, and technical sophistication in tempera"
-founders_and_patrons:
-  - "Frate Elia da Cortona and the Franciscan Order"
-  - "Basilica di San Francesco, Assisi"
-  - "Basilica di Santa Maria degli Angeli (Porziuncola), Assisi"
-  - "Basilica di San Domenico, Bologna and the Dominican Order"
-  - "Ecclesiastical patrons in Pisa and central Italy"
-key_phases:
-  - "Early activity in Pisa within the Italo-Byzantine panel-painting tradition (early thirteenth century)"
-  - "Major Franciscan commission for the Assisi crucifix (1236)"
-  - "Documented presence in Rome in 1239 within papal and Franciscan networks"
-  - "Property ownership and civic standing in Pisa (documented 1241 and 1254)"
-  - "Late monumental works including the San Domenico crucifix in Bologna (c. 1250–1254)"
+artistic_style: "Radical Christus patiens with heightened pathos, strong anatomical modeling and technically sophisticated tempera on panel"
+
 thematic_keywords:
-  - "Christus patiens crucifix iconography"
-  - "Mendicant spirituality and Passion devotion"
-  - "Franciscan narrative dossali"
-  - "Pisan and central Italian Duecento art"
-  - "Transition from Byzantine models to heightened naturalism and pathos"
-related_entries:
-  - "Basilica di San Francesco,
+  - "Christus patiens"
+  - "Mendicant movements"
+  - "Franciscan and Dominican patronage"
+  - "Pisan Duecento painting"
+  - "Early Italian panel technique"
+
+category: "artists"
+---
 
 
 Giunta Pisano, whose full name was Giunta di Capitino, emerged as one of the earliest documented Italian painters during the opening decades of the thirteenth century, with his birth estimated between 1190 and 1200 in the maritime republic of Pisa. The appellation "Pisano" derived from his association with the city, though some art historical scholarship has speculated that he may have originated from Pistoia and adopted Pisa as his professional domicile, relocating to pursue artistic opportunities in this flourishing center of trade and cultural exchange. His patronymic, di Capitino, preserves the name of his father, Capitino, a detail confirmed through the artist's own signature inscribed upon his monumental works. The scarcity of biographical documentation for this period renders precise information about his childhood, family circumstances, and initial training exceptionally elusive; yet, the substantial number of signed works surviving from his career attests to considerable prominence and productivity throughout the first half of the thirteenth century. Pisa's position as a vital conduit between Mediterranean trade networks and Western Europe positioned it as a center of artistic ferment where Byzantine artistic traditions intermixed with emerging Gothic sensibilities from the North. The city's intensive commercial relations with Constantinople and its central role in the Crusades ensured constant exposure to Eastern artistic conventions, creating an environment particularly receptive to stylistic innovation and experimentation. It was within this crucible of aesthetic exchange that Giunta developed his distinctive vision, one that would revolutionize the representation of the crucified Christ and establish new pathways for Italian religious art. His emergence as a named artistic personality—and thus the earliest identified Italian painter whose signature appears on a surviving work—signified a fundamental transformation in how medieval artists conceived of their social status and professional identity within urban workshop structures. The documented trajectory of his career extends from approximately 1202, when his artistic activity appears to have commenced, through 1254, when official records cease to reference him directly, suggesting a working life spanning more than half a century. Pisa's artistic tradition, exemplified by contemporaries such as Berlinghiero Berlinghieri, provided a competitive environment that stimulated Giunta toward increasingly sophisticated formal and expressive innovations.
