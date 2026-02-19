@@ -1,37 +1,102 @@
 ---
 layout: entry
 title: "Guido da Siena"
+subtitle: "Early Sienese panel painter bridging Byzantine maniera greca and the later Duccio school"
+dates: "Active c. 1260–1280 (traditional life dates uncertain)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Formative phase of the Sienese school before Duccio"
+
+  - title: "ROLE"
+    list:
+      - "Early Sienese panel painter"
+      - "Key interpreter of the Byzantine maniera greca in Siena"
+      - "Precursor of Duccio and the mature Sienese Maestà tradition"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (probable birthplace and principal workplace)"
+      - "Tuscan contado around Siena (ecclesiastical commissions)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Siena, in the mid-thirteenth century (dates highly uncertain)"
+      - label: "Death"
+        value: "Probably Siena or its contado, before the emergence of Duccio’s mature career"
+
+  - title: "KEY WORKS"
+    list:
+      - "Maestà (Virgin and Child enthroned with angels), formerly in Siena’s Palazzo Pubblico, now Pinacoteca Nazionale di Siena"
+      - "Signed Maestà di San Domenico with the inscription “ME GUIDO DE SENIS DIEBUS DEPINXIT AMENIS” (now re-dated c. 1260–1270)"
+      - "Fragments of altarpieces and devotional panels attributed to his workshop in Siena and Tuscany"
+      - "Panels associated with early Sienese Maestà iconography and pre-Duccio Marian imagery"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Firmly rooted in Italo-Byzantine conventions yet exploring greater tenderness and rhythmic line"
+      - "Develops early Sienese Maestà types that anticipate Duccio’s poetic refinement"
+      - "Balances hieratic frontality with incipient volumetric effects and softer facial modeling"
+      - "Central reference point in debates on the origins of the Sienese school"
+
+  - title: "PATRONS"
+    list:
+      - "Sienese commune and civic institutions (for Maestà imagery in public spaces)"
+      - "Dominican community at San Domenico, Siena"
+      - "Churches and confraternities in Siena and its contado"
+      - "Early Marian devotional groups (Laudesi companies) in the city"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation within mid‑thirteenth‑century Sienese Italo‑Byzantine workshop practice"
+      - "Execution of the signed and dated Maestà panel for San Domenico (inscription traditionally read 1221, now c. 1260–1270)"
+      - "Consolidation of a workshop and circle active in Siena before Duccio’s rise"
+      - "Posthumous influence on early Sienese Maestà imagery and later workshop practice"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Early Sienese Maestà iconography"
+      - "Transition from maniera greca to Trecento lyricism"
+      - "Marian civic patronage in Siena"
+      - "Pre‑Duccio panel painting"
+      - "Workshop practice and signed panel painting in the Duecento"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Duccio di Buoninsegna"
+        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.md"
+      - title: "Dietisalvi di Speme"
+        url: "/Content/Artists/XIII%20century/Dietisalvi%20di%20Speme.md"
+      - title: "Biccherna of Siena and civic finance"
+        url: "/Content/Topics/Biccherna%20Siena%20civic%20finance.md"
+      - title: "Siena Cathedral and Marian devotion"
+        url: "/Content/Churches/Siena%20Cathedral.md"
+      - title: "Early Sienese school (XIII century)"
+        url: "/Content/Topics/Early%20Sienese%20School%20XIII%20Century.md"
+
 author: "Guido da Siena"
 role: "Early Sienese panel painter bridging Byzantine maniera greca and the later Duccio school"
-dates: "Active c. 1260–1280 (traditional life dates uncertain)"
 birth_place: "Siena (probable)"
 death_place: "Siena or surrounding contado (probable)"
 period: "XIII century"
+
 key_works:
-  - "Maestà (Virgin and Child enthroned with angels), formerly in Siena’s Palazzo Pubblico, now Pinacoteca Nazionale, Siena"
-  - "Fragments of altarpieces and devotional panels attributed to his workshop in Siena and Tuscany"
-  - "Panels associated with the early Sienese school and pre-Duccio Maestà iconography"
+  - "Maestà, Pinacoteca Nazionale di Siena (from Palazzo Pubblico)"
+  - "Maestà di San Domenico, Siena (signed panel, now re-dated c. 1260–1270)"
+  - "Workshop fragments and panels related to early Sienese Marian imagery"
+
 tradition: "Sienese communal painting, Marian iconography, and early Maestà imagery"
-artistic_style: "Italo-Byzantine foundation with increased tenderness, rhythmic line, and incipient volumetric effects anticipating Duccio"
-founders_and_patrons:
-  - "Sienese commune and civic institutions"
-  - "Churches and confraternities in Siena and its contado"
-  - "Early patrons of Marian cults in Siena"
-key_phases:
-  - "Formation within mid-thirteenth-century Sienese Italo-Byzantine workshop practice"
-  - "Execution of the signed and dated Maestà panel traditionally inscribed 1221 (now re-dated to c. 1260–1270)"
-  - "Development of a small workshop and circle active in Siena before Duccio"
+artistic_style: "Italo‑Byzantine foundation with increased tenderness, rhythmic line, and incipient volumetric effects anticipating Duccio"
+
 thematic_keywords:
-  - "Early Sienese Maestà iconography"
-  - "Transition from maniera greca to Trecento lyricism"
-  - "Marian civic patronage in Siena"
-  - "Pre-Duccio panel painting"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Dietisalvi di Speme"
-  - "Biccherna of Siena and civic finance"
-  - "Siena Cathedral and Marian devotion"
-  - "Early Sienese school (XIII century)"
+  - "Early Sienese Maestà"
+  - "Maniera greca in Siena"
+  - "Pre‑Duccio Sienese painting"
+  - "Civic Marian imagery"
+
 category: "artists"
 ---
 

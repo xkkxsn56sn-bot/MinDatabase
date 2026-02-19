@@ -1,39 +1,104 @@
 ---
 layout: entry
-title: "Gaddo Gaddi (Gaddo di Zanobi)"
-author: "Gaddo Gaddi"
-role: "Florentine painter and mosaicist at the transition from Byzantine maniera greca to early Giotto circle"
-dates: "Active c. 1280–c. 1333 (traditional life dates c. 1239–1312 are debated)"
+title: "Gaddo Gaddi (Gaddo di Zenobi)"
+subtitle: "Florentine painter and mosaicist at the transition from the maniera greca to early Giottesque naturalism"
+dates: "Active c. 1280–c. 1333 (traditional life dates c. 1239–1312 debated)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–early XIV century"
+      - "Transition from late Italo-Byzantine to early Trecento naturalism"
+
+  - title: "ROLE"
+    list:
+      - "Florentine painter and mosaicist"
+      - "Transitional figure between Cimabue and the Giotto circle"
+      - "Founder of the Gaddi artistic dynasty in Florence"
+
+  - title: "LOCATION"
+    list:
+      - "Florence (probable birthplace and principal workplace)"
+      - "Rome (Santa Maria Maggiore, Lateran and Old Saint Peter’s mosaics)"
+      - "Arezzo (old cathedral vault decoration, now lost)"
+      - "Pisa (mosaic decoration in the cathedral complex)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Florence, around 1260 (traditional date c. 1239 is now considered too early)"
+      - label: "Death"
+        value: "Probably Florence, between 1312 and c. 1333"
+
+  - title: "KEY WORKS"
+    list:
+      - "Coronation of the Virgin, mosaic lunette over the inner portal of Florence Cathedral (Santa Maria del Fiore)"
+      - "Mosaic scenes of the foundation legend of Santa Maria Maggiore, Rome (portico loggia)"
+      - "Mosaic vault decoration of the old cathedral of Arezzo for the Tarlati family (lost)"
+      - "Assumption of the Virgin, mosaic in the niche over the Chapel of the Incoronata, Pisa Cathedral (traditional attribution)"
+      - "Collaborations on the mosaics of the Baptistery of San Giovanni, Florence, including Prophets beneath the windows"
+      - "Miniature mosaic panels (including egg-shell tesserae works) mentioned as sent to King Robert of Anjou (lost)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Practitioner of the ‘Greek manner’ with increased attention to design and narrative clarity"
+      - "Bridges monumental mosaic traditions of Rome and Florence"
+      - "Combines hieratic Byzantine iconography with emerging Gothic softness and expressiveness"
+      - "Key reference for the stylistic environment in which Giotto and Taddeo Gaddi developed"
+
+  - title: "PATRONS"
+    list:
+      - "Opera del Duomo of Florence (Santa Maria del Fiore)"
+      - "Cathedral chapter of Florence and Baptistery wardens"
+      - "Popes and papal curia (notably Clement V) in Rome"
+      - "Tarlati family and cathedral chapter of Arezzo"
+      - "Patrons in Pisa Cathedral"
+      - "Florentine mendicant orders and lay families (e.g. Minerbetti at Santa Maria Novella)"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.md"
+      - title: "Taddeo Gaddi"
+        url: "/Content/Artists/XIV%20century/Taddeo%20Gaddi.md"
+      - title: "Florence Baptistery mosaics"
+        url: "/Content/Churches/Florence%20Baptistery.md"
+      - title: "Santa Maria Maggiore, Rome"
+        url: "/Content/Churches/Santa%20Maria%20Maggiore%20Rome.md"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Monumental Marian mosaic programs"
+      - "Florentine Duecento and Trecento artistic dynasties"
+      - "Maniera greca and its transformation"
+      - "Civic and papal patronage networks"
+      - "Transmission of workshop models across generations"
+
+author: "Gaddo Gaddi (Gaddo di Zenobi)"
+period: "XIII–early XIV century"
 birth_place: "Florence (probable)"
 death_place: "Florence (probable)"
-period: "XIII–early XIV century"
+role: "Florentine painter and mosaicist at the transition from maniera greca to early Giottesque naturalism"
+
 key_works:
-  - "Mosaics in the tribune of Santa Maria Maggiore, Rome (attributed)"
-  - "Mosaics in the façade oculus of Santa Maria del Fiore, Florence (traditional attribution)"
-  - "Mosaic decorations in the Florentine Baptistery (collaborations and attributions)"
-  - "Painted panels formerly in Florentine churches (few securely attributed)"
-tradition: "Florentine painting and monumental mosaic in the orbit of Cimabue and early Giotto"
-artistic_style: "Late Italo-Byzantine devotional imagery with increasing Gothic softness and narrative sensitivity"
-founders_and_patrons:
-  - "Cathedral and baptistery chapters in Florence"
-  - "Roman basilicas (Santa Maria Maggiore) and papal curia circle"
-  - "Florentine mendicant orders and confraternities"
-key_phases:
-  - "Early formation within Florentine Italo-Byzantine workshop culture"
-  - "Documented or traditional activity as mosaicist in Rome and Florence"
-  - "Work in proximity to Cimabue and early Giotto circle"
-  - "Role as father and first master of Taddeo Gaddi"
+  - "Coronation of the Virgin, Florence Cathedral"
+  - "Mosaic legend of the foundation of Santa Maria Maggiore, Rome"
+  - "Assumption of the Virgin, Pisa Cathedral (attributed)"
+  - "Baptistery of San Giovanni mosaics, Florence (collaborations and Prophets)"
+
+artistic_style: "Refined Italo-Byzantine (‘Greek’) manner softened by Gothic line and nascent volumetric modeling, particularly in monumental Marian and Christological mosaics"
+
+tradition: "Florentine mosaic and painting tradition in the orbit of Cimabue and the early Giotto school; founder of the Gaddi family workshop"
+
 thematic_keywords:
-  - "Monumental mosaic programs"
-  - "Florentine Duecento painting"
-  - "Transition from maniera greca to Trecento naturalism"
-  - "Artistic dynasties and workshop transmission (Gaddi family)"
-related_entries:
-  - "Cimabue"
-  - "Giotto di Bondone"
-  - "Taddeo Gaddi"
-  - "Florentine Baptistery mosaics"
-  - "Santa Maria Maggiore, Rome"
+  - "Monumental mosaics"
+  - "Florentine artistic dynasties"
+  - "Transition from Byzantine to Giottesque visuality"
+  - "Marian iconography and civic identity"
+  - "Papal commissions in Rome"
+
 category: "artists"
 ---
 

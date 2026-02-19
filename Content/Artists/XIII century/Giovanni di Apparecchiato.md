@@ -1,37 +1,100 @@
 ---
 layout: entry
-title: "Giovanni di Apparecchiato"
+title: "Giovanni di Apparecchiato (il Nuccaro)"
+subtitle: "Pisan painter associated with Cimabue and early Tuscan experiments beyond the maniera greca"
+dates: "Active c. 1270–c. 1300 (documented in the 1290s)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Transitional phase from late Italo-Byzantine to early Gothic sensibility"
+
+  - title: "ROLE"
+    list:
+      - "Pisan painter associated with Cimabue’s circle"
+      - "Fresco and panel painter active between Pisa, Assisi, and central Italy"
+      - "Participant in early Franciscan narrative cycles"
+
+  - title: "LOCATION"
+    list:
+      - "Lucca (probable family origin and early formation)"
+      - "Pisa (principal documented workplace)"
+      - "Assisi (Upper Church of San Francesco, fresco cycles)"
+      - "Central Italian ecclesiastical centers linked to Franciscan patronage"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Lucca, in the later thirteenth century"
+      - label: "Death"
+        value: "Pisa or nearby Tuscany, around the turn of the fourteenth century"
+
+  - title: "KEY WORKS"
+    list:
+      - "Frescoes in the Upper Church of San Francesco, Assisi (scenes from the life of Saint Francis, debated attributions within Cimabue’s circle)"
+      - "Fresco decoration at the Palazzo dell’Opera near Pisa Cathedral (with Vincino da Pistoia, documented 1299)"
+      - "Altarpiece for the Ospedale di Santa Chiara, Pisa (collaboration with Cimabue, documented 1301, now lost)"
+      - "Panel paintings for churches in Pisa and its contado (largely anonymous or lost)"
+      - "Works associated with Franciscan houses in Tuscany within Cimabue’s stylistic orbit"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Rooted in Pisan and Luccan Italo-Byzantine traditions"
+      - "Adopts elements of Cimabue’s dramatic expressiveness and increased spatial articulation"
+      - "Participates in the early Franciscan image tradition at Assisi"
+      - "Bridges local Pisan practice and broader central Italian workshop culture"
+
+  - title: "PATRONS"
+    list:
+      - "Franciscan Order (San Francesco, Assisi, and Tuscan convents)"
+      - "Opera del Duomo of Pisa (cathedral building administration)"
+      - "Ospedale di Santa Chiara, Pisa"
+      - "Ecclesiastical patrons in Pisa and surrounding dioceses"
+      - "Lay confraternities and local communal authorities"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "San Francesco, Assisi (Upper Church)"
+        url: "/Content/Churches/San%20Francesco%20Assisi%20Upper%20Church.md"
+      - title: "Pisa Cathedral and Santa Chiara Hospital"
+        url: "/Content/Churches/Pisa%20Cathedral%20and%20Santa%20Chiara.md"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Franciscan narrative cycles"
+      - "Transition from Byzantine to early Gothic painting"
+      - "Pisan and Luccan school of the late Duecento"
+      - "Cimabue’s circle and followers"
+      - "Institutional patronage in Pisa and Assisi"
+
 author: "Giovanni di Apparecchiato (Giovanni di Apparecchiato Ciabatti)"
 role: "Pisan painter associated with Cimabue and early Tuscan experiments beyond the maniera greca"
-dates: "Active c. 1270–c. 1300 (documented 1290s)"
-birth_place: "Pisa (probable)"
-death_place: "Pisa or nearby Tuscany (probable)"
 period: "XIII century"
+birth_place: "Lucca (probable)"
+death_place: "Pisa or nearby Tuscany (probable)"
+
 key_works:
-  - "Frescoes in the Upper Church of San Francesco, Assisi (episodes from the life of Saint Francis, attributions debated)"
-  - "Panel paintings for churches in Pisa and its contado (largely lost or anonymous)"
-  - "Collaborations or works in the orbit of Cimabue in central Italy (stylistic groupings)"
-tradition: "Pisan and central Italian painting in the circle of Cimabue and the early Franciscan image tradition"
-artistic_style: "Late Italo-Byzantine manner tempered by increasing spatial awareness and narrative clarity, close to Cimabue’s circle"
-founders_and_patrons:
-  - "Franciscan Order (Convento di San Francesco, Assisi, and Tuscan houses)"
-  - "Ecclesiastical patrons in Pisa and surrounding dioceses"
-  - "Lay confraternities and local communal authorities"
-key_phases:
-  - "Training within Pisan Italo-Byzantine workshop culture in the later thirteenth century"
-  - "Probable collaboration with or work alongside Cimabue in central Italian fresco cycles"
-  - "Independent commissions in Pisa and Tuscan churches toward the end of the thirteenth century"
+  - "Frescoes in the Upper Church of San Francesco, Assisi (attributed within Cimabue’s circle)"
+  - "Frescoes at the Palazzo dell’Opera, Pisa (with Vincino da Pistoia, 1299)"
+  - "Altarpiece for the Hospital of Santa Chiara, Pisa (with Cimabue, 1301, lost)"
+
+artistic_style: "Late Italo-Byzantine manner tempered by increasing spatial awareness and narrative clarity, close to Cimabue’s circle and the early Franciscan image tradition"
+
+tradition: "Pisan and central Italian painting in the orbit of Cimabue and the Franciscan movement"
+
 thematic_keywords:
-  - "Franciscan narrative cycles"
-  - "Transition from Byzantine to early Gothic sensibility"
+  - "Franciscan narrative programs"
   - "Pisan school of painting"
-  - "Cimabue’s circle and followers"
-related_entries:
-  - "Cimabue"
-  - "Giunta Pisano"
-  - "Bonaventura Berlinghieri"
-  - "San Francesco, Assisi (Upper Church)"
-  - "Pisa Cathedral and Franciscan churches in Tuscany"
+  - "Cimabue’s workshop and collaborators"
+  - "Late Duecento experimentation"
+
 category: "artists"
 ---
 
