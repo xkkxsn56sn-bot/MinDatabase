@@ -1,126 +1,121 @@
 ---
 layout: entry
-type: codex
-id: lindisfarne-gospels
 title: "Lindisfarne Gospels"
-short_title: "Lindisfarne Gospels"
-original_title: "Lindisfarne Gospels (London, British Library, Cotton MS Nero D.IV)"
-slug: "lindisfarne-gospels"
+author: "Eadfrith of Lindisfarne († 721, traditional attribution)"
+role: "Insular luxury Gospel book created at Lindisfarne in honour of St Cuthbert, combining Northumbrian, Celtic, Germanic and Mediterranean traditions into one of the masterpieces of early medieval book art"
+dates: "c. 715–720 (production at Lindisfarne); Old English gloss added c. 950–970 at Chester-le-Street"
+place_of_origin:
+  text_composition: "Monastery of Lindisfarne (Holy Island), kingdom of Northumbria"
+  illustrated_codex: "Lindisfarne scriptorium, during the episcopate of Eadfrith (698–721)"
 
-repository: "British Library, London"
-shelfmark: "Cotton MS Nero D.IV"
-city: "London"
-country: "England"
-institution_type: "library"
+current_location: "London, British Library, Cotton MS Nero D.IV"
+type: "Illuminated Gospel book with full Insular decorative program (carpet pages, evangelist portraits, monumental incipits)"
 
-date_display: "ca. 715–720"
-date_start: 715
-date_end: 720
-century: "VIII"
-chronology_note: "Prodotto nella fase matura dell’“età dell’oro” northumbriana, probabilmente tra il 715 e il 720."
+contents:
+  - "Complete text of the four Gospels in the Latin Vulgate"
+  - "Eusebian canon tables and prefatory material"
+  - "Interlinear Old English gloss by Aldred, priest and provost at Chester-le-Street (10th century)"
 
-origin_place: "Lindisfarne (Holy Island), Northumbria"
-origin_region: "Northumbria"
-origin_culture: "Insular (Hiberno‑saxon)"
-liturgical_context: "Libro evangelico cerimoniale legato al culto di san Cuthbert"
+script: "Insular half-uncial of exceptional quality, with later interlinear Old English gloss in a later Insular minuscule"
 
-material: "Vellum (pergamena di vitello di alta qualità)"
-folia: 259
-format: "Grande formato, libro evangelico cerimoniale"
-script: "Maiuscola semionciale insulare"
-languages: 
-  - "Latin"
-  - "Old English (glossa interlineare di Aldred, X sec.)"
-text_contents: 
-  - "Vulgata dei quattro Vangeli"
-  - "Materiale prefatorio (lettere e tavole canoniche)"
-  - "Glossa interlineare in antico inglese (Aldred)"
+materials_and_techniques:
+  support:
+    - "Fine vellum (calf parchment), carefully prepared for a large-format ceremonial Gospel book"
+  writing_and_pigments:
+    - "Dark brown and coloured inks with elaborate display scripts"
+    - "Rich polychromy in purple, green, blue, red and yellow; use of metal-based pigments where available"
+    - "Extremely intricate penwork and ruling underpinning geometric and interlace designs"
 
-decoration_summary: "Riccissimo ciclo di pagine‑tappeto, incipit a piena pagina, ritratti degli evangelisti, grandi iniziali istoriate, complesso uso geometrico dell’ornato insulare."
-iconographic_highlights: 
-  - "Pagine‑croce (carpet pages) con fitte reti di intrecci zoomorfi"
-  - "Ritratti degli evangelisti di tipo tardo‑antico/classicizzante"
-  - "Tavole canoniche ad arcate architettoniche"
-  - "Incipit monumentali all’inizio di ciascun Vangelo"
+decoration:
+  - "Full-page cross-carpet pages preceding each Gospel and major textual divisions"
+  - "Evangelist portraits with their symbols in a classicising yet Insular idiom"
+  - "Elaborate incipit pages with monumental initials and densely woven interlace and zoomorphic ornament"
+  - "Canon tables framed by arcades with architectural and ornamental detailing"
 
-dimensions: ""
-binding: "Legatura moderna ottocentesca che sostituisce la legatura “di tesoro” con metalli e gemme eseguita da Billfrith (perduta)."
-condition: "Eccezionale stato di conservazione del blocco librario, con minimi tagli dovuti a rilegature successive."
+historical_context:
+  - "Product of the Northumbrian ‘golden age’ following the Synod of Whitby (664) and the consolidation of Roman usages"
+  - "Created within the cultic and intellectual milieu surrounding the shrine of St Cuthbert at Lindisfarne"
+  - "Later history marked by the community’s flight from Viking incursions and translation of Cuthbert’s relics to Chester-le-Street and Durham"
+  - "Old English gloss added in the 10th century, making it the earliest surviving translation of the Gospels into the English language"
 
-scribe_main: "Eadfrith, vescovo di Lindisfarne (attribuito)"
-scribe_other: []
-artists: 
-  - "Eadfrith (scriba‑miniatore principale, secondo la colofone di Aldred)"
-glossator: "Aldred (sacerdote di Chester‑le‑Street, X secolo)"
-binders:
-  - "Æthelwald (vescovo, responsabile della legatura iniziale)"
-goldsmiths:
-  - "Billfrith l’anchorita (legatura di tesoro in oro, argento e gemme)"
+thematic_keywords:
+  - "Insular manuscript illumination and ornament"
+  - "Cult of St Cuthbert and Northumbrian Christianity"
+  - "Book as liturgical, devotional and identity-bearing object"
+  - "Interaction of Latin Scripture and vernacular gloss"
+  - "Cross-cultural artistic synthesis in the early Middle Ages"
 
-associated_saints:
-  - "St Cuthbert"
-primary_cult: "St Cuthbert"
-function:
-  - "Uso liturgico solenne (processioni e letture evangeliche festali)"
-  - "Oggetto di prestigio e di devozione presso il santuario di San Cuthbert"
-  - "Monumento identitario della comunità di Lindisfarne"
+related_entries:
+  - title: "St Cuthbert and his cult"
+    url: "/Content/Saints/Saint%20Cuthbert.html"
+  - title: "Lindisfarne (Holy Island) monastery"
+    url: "/Content/Churches/Lindisfarne%20Monastery.html"
+  - title: "Insular Gospel books and the Book of Kells"
+    url: "/Content/Codex/Insular%20Gospel%20Books.html"
+  - title: "Anglo-Saxon England and Northumbria"
+    url: "/Content/Historical/Age%20of%20Bede%20and%20Northumbria.html"
 
-patron_institution: "Chiesa/monastero di Lindisfarne"
-patron_individuals: 
-  - "Eadfrith, vescovo di Lindisfarne (come promotore interno e artefice principale)"
-  - "Comunità monastica di Lindisfarne"
-patron_royal_context: "Regno di Northumbria (sostegno indiretto attraverso donazioni reali e aristocratiche)"
+category: "codex"
 
-style_classification: 
-  - "Insular"
-  - "Hiberno‑saxon"
-style_influences:
-  - "Ornato celtico e pictico (intrecci, spirali, motivi zoomorfi)"
-  - "Vocaboli germanici nell’ornamentazione a intreccio"
-  - "Tradizione mediterranea/romana (ritratti d’autore, drappeggi, architetture)"
-  - "Possibili paralleli copti per le pagine‑croce"
-  - "Tradizioni locali northumbriane di scultura e oreficeria"
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Attributed maker"
+        value: "Eadfrith, bishop of Lindisfarne (698–721), as scribe and designer; later gloss by Aldred"
+      - label: "Date"
+        value: "c. 715–720; Old English gloss c. 950–970"
+      - label: "Type"
+        value: "Illuminated Insular Gospel book with Latin text and Old English gloss"
+      - label: "Script"
+        value: "Insular half-uncial with later Insular minuscule gloss"
 
-historical_context_brief: >
-  Prodotto durante la consolidazione del cristianesimo e della disciplina romana
-  in Northumbria dopo il sinodo di Whitby (664), nel quadro della forte ascesa del
-  culto di san Cuthbert e della vocazione di Lindisfarne quale centro episcopale
-  e di pellegrinaggio.
+  - title: "Place of origin"
+    list:
+      - "Produced in the monastic community of Lindisfarne (Holy Island), kingdom of Northumbria"
+      - "Gloss added at Chester-le-Street after the community’s translation inland"
 
-reception_keywords:
-  - "Culto di san Cuthbert"
-  - "Pellegrinaggi a Lindisfarne"
-  - "Migrazione con la comunità in esilio (Chester‑le‑Street, poi Durham)"
-  - "Tesoro nazionale del Regno Unito"
-  - "Oggetto paradigmatico per lo studio dell’arte insulare"
+  - title: "Current location"
+    list:
+      - "British Library, London, Cotton MS Nero D.IV"
 
-scholarly_topics:
-  - "Paleografia insulare e struttura dei quaternioni"
-  - "Programma iconografico e teologia visiva del libro evangelico"
-  - "Rapporti tra manoscritto, culto dei santi e patronato episcopale‑regio"
-  - "Glossa in antico inglese e storia della ricezione del testo evangelico"
-  - "Scambi artistici tra Isole Britanniche, mondo mediterraneo e area copta"
+  - title: "Contents"
+    list:
+      - "Complete Latin text of the four Gospels with prefatory material"
+      - "Eusebian canon tables and introductory letters"
+      - "Interlinear Old English translation (Aldred’s gloss)"
 
-bibliography:
-  - "Michelle P. Brown, *The Lindisfarne Gospels: Society, Spirituality and the Scribe*, British Library, 2003."
-  - "Michelle P. Brown (ed.), *The Lindisfarne Gospels: New Perspectives*, British Library, 2011."
+  - title: "Materials and techniques"
+    list:
+      - "Fine vellum luxury codex"
+      - "Dark inks, coloured display scripts and complex ruling"
+      - "Rich polychromy with intricate interlace, knotwork and zoomorphic ornament"
+      - "Full-page carpet pages, evangelist portraits and monumental incipits"
 
-digital_resources:
-  - label: "British Library – Digitised Manuscripts"
-    url: "https://www.bl.uk/collection-items/lindisfarne-gospels"
-  - label: "Durham / Lindisfarne exhibition resources"
-    url: "https://www.dur.ac.uk/library/asc/collection_information/early_printed_books/lindisfarne_gospels/"
+  - title: "Historical context"
+    list:
+      - "Produced in the Northumbrian ‘golden age’ of Christian culture"
+      - "Closely linked to the shrine and cult of St Cuthbert"
+      - "Carried with the community during Viking disruptions and later housed at Durham"
+      - "Old English gloss reflects 10th-century engagement with Scripture in the vernacular"
 
-tags:
-  - "Insular manuscripts"
-  - "Gospel books"
-  - "Anglo‑Saxon art"
-  - "Northumbria"
-  - "Saint Cuthbert"
-  - "Old English gloss"
+  - title: "Thematic keywords"
+    list:
+      - "Insular art and manuscript culture"
+      - "Northumbrian monasticism and missionary activity"
+      - "Latin–vernacular interaction in biblical transmission"
+      - "Cross, carpet page and evangelist iconography"
+      - "Book as relic and symbol of community identity"
 
-display_priority: 10
-featured: true
+  - title: "Related entries"
+    links:
+      - title: "St Cuthbert and his cult"
+        url: "/Content/Saints/Saint%20Cuthbert.html"
+      - title: "Lindisfarne (Holy Island) monastery"
+        url: "/Content/Churches/Lindisfarne%20Monastery.html"
+      - title: "Insular Gospel books and the Book of Kells"
+        url: "/Content/Codex/Insular%20Gospel%20Books.html"
+      - title: "Anglo-Saxon England and Northumbria"
+        url: "/Content/Historical/Age%20of%20Bede%20and%20Northumbria.html"
 ---
 
 
