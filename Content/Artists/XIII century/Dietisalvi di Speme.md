@@ -1,25 +1,79 @@
 ---
 layout: entry
 title: "Dietisalvi di Speme"
+subtitle: "Sienese civic and devotional painter active before Duccio"
+dates: "Active 1250–1291 (probable birth in the early thirteenth century)"
+
+meta:
+  - title: "PERIOD"
+    type: "list"
+    items:
+      - "XIII century"
+
+  - title: "ROLE"
+    type: "list"
+    items:
+      - "Sienese civic and devotional painter"
+      - "Specialist in Biccherna covers and Marian panels"
+
+  - title: "LOCATION"
+    type: "list"
+    items:
+      - "Siena (probable birthplace and lifelong workplace)"
+
+  - title: "BIRTH & DEATH"
+    type: "pairs"
+    pairs:
+      - label: "Birth"
+        value: "Siena (probable), early thirteenth century, likely of foundling origin"
+      - label: "Death"
+        value: "Siena (probable), shortly after August 1291"
+
+  - title: "KEY WORKS"
+    type: "list"
+    items:
+      - "Madonna del Voto, Siena Cathedral (Cappella Chigi)"
+      - "Madonna di San Bernardino, Pinacoteca Nazionale, Siena"
+      - "Biccherna covers for the Sienese financial administration (at least 56 documented, 4 surviving)"
+      - "Panels from the Dossale di Badia Ardenga (Passion cycle fragments), Pinacoteca Nazionale, Siena"
+      - "Outer wings of the reliquary diptych of Beato Andrea Gallerani, Pinacoteca Nazionale, Siena"
+
+  - title: "RELATED ENTRIES"
+    type: "links"
+    links:
+      - title: "Guido da Siena"
+        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.html"
+      - title: "Duccio di Buoninsegna"
+        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+      - title: "Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+      - title: "Biccherna of Siena and civic finance"
+        url: "/Content/Topics/Biccherna%20Siena%20civic%20finance.html"
+      - title: "Siena Cathedral and its crypt frescoes"
+        url: "/Content/Churches/Siena%20Cathedral%20Crypt.html"
+
 author: "Dietisalvi di Speme"
 role: "Sienese civic and devotional painter active before Duccio"
-dates: "Active 1250–1291 (probable birth in the early thirteenth century)"
 birth_place: "Siena (probable), of foundling origin"
 death_place: "Siena (probable), shortly after August 1291"
 period: "XIII century"
+
 key_works:
   - "Madonna del Voto, Siena Cathedral (Cappella Chigi)"
   - "Madonna di San Bernardino, Pinacoteca Nazionale, Siena"
   - "Biccherna covers for the Sienese financial administration (at least 56 documented, 4 surviving)"
   - "Panels from the Dossale di Badia Ardenga (Passion cycle fragments), Pinacoteca Nazionale, Siena"
   - "Outer wings of the reliquary diptych of Beato Andrea Gallerani, Pinacoteca Nazionale, Siena"
+
 tradition: "Sienese communal painting, civic administration imagery, Marian devotion and local cults"
 artistic_style: "Italo-Byzantine foundation evolving toward greater corporeality, narrative complexity, and Cimabuesque expressiveness"
+
 founders_and_patrons:
   - "Biccherna, the financial administration of the Sienese commune"
   - "Opera del Duomo of Siena (Siena Cathedral)"
   - "Sienese confraternities connected with the Casa della Misericordia"
   - "Local noble families involved in civic government"
+
 key_phases:
   - "First documented activity in 1250 as civic painter"
   - "Exclusive commissions for Biccherna covers 1259–1272"
@@ -27,18 +81,21 @@ key_phases:
   - "Collaboration with Guido da Siena on the reliquary of Beato Andrea Gallerani"
   - "Participation in the Dossale di Badia Ardenga Passion cycle circa 1280"
   - "Late civic and decorative commissions up to August 1291"
+
 thematic_keywords:
   - "Biccherna covers and civic iconography"
   - "Marian devotion and Advocata Senesium"
   - "Local sainthood and Beato Andrea Gallerani"
   - "Pre-Duccio Sienese school"
   - "Transitional Italo-Byzantine painting"
+
 related_entries:
   - "Guido da Siena"
   - "Duccio di Buoninsegna"
   - "Coppo di Marcovaldo"
   - "Biccherna of Siena and civic finance"
   - "Siena Cathedral and its crypt frescoes"
+
 category: "artists"
 ---
 
