@@ -1,42 +1,92 @@
 ---
 layout: entry
 title: "Duccio di Buoninsegna"
-author: "Duccio di Buoninsegna"
-role: "Foundational master of Sienese painting and synthesizer of Byzantine and Gothic traditions"
+subtitle: "Foundational master of Sienese painting and synthesizer of Byzantine and Gothic traditions"
 dates: "c. 1255–1260 – c. 1318–1319"
-birth_place: "Siena"
-death_place: "Siena"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–early XIV century"
+      - "Transitional phase between Late Byzantine and International Gothic"
+
+  - title: "ROLE"
+    list:
+      - "Foundational master of Sienese painting"
+      - "Synthesizer of Byzantine and Gothic traditions"
+      - "Creator of the Maestà for Siena Cathedral"
+      - "Key figure in the emergence of narrative altarpieces in Tuscany"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (birthplace and principal workplace)"
+      - "Florence (Rucellai Madonna commission, c. 1285)"
+      - "Patronage network across Tuscan communal cities"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Siena, c. 1255–1260"
+      - label: "Death"
+        value: "Probably Siena, c. 1318–1319"
+
+  - title: "KEY WORKS"
+    list:
+      - "Maestà, high altar of Siena Cathedral (1308–1311, now Museo dell’Opera del Duomo)"
+      - "Rucellai Madonna, originally for Santa Maria Novella, Florence (now Uffizi Galleries)"
+      - "Madonna and Child (Crevole Madonna), Siena"
+      - "Madonna and Child with Six Angels, Metropolitan Museum of Art, New York"
+      - "Panels from the Maestà predella and pinnacles, dispersed in European and American collections"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Refined linear rhythms and delicate chromatic harmonies"
+      - "Integration of Byzantine icon types with Gothic elegance and spatial suggestion"
+      - "Pioneering narrative cycles with complex Christological and Marian iconography"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Dietisalvi di Speme"
+        url: "/Content/Artists/XIII%20century/Dietisalvi%20di%20Speme.html"
+      - title: "Guido da Siena"
+        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.html"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.html"
+      - title: "Siena Cathedral (Duomo)"
+        url: "/Content/Churches/Siena%20Cathedral.html"
+      - title: "Santa Maria Novella, Florence"
+        url: "/Content/Churches/Santa%20Maria%20Novella.html"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Marian iconography and civic identity"
+      - "Sienese civic religion and communal patronage"
+      - "Narrative predellas and multi-panel altarpieces"
+      - "Byzantine heritage and Gothic innovation"
+
+author: "Duccio di Buoninsegna"
 period: "XIII–early XIV century"
+birth_place: "Siena (probable)"
+death_place: "Siena (probable)"
+role: "Foundational master of Sienese painting"
+
 key_works:
-  - "Maestà, high altarpiece for Siena Cathedral (1308–1311), now Museo dell’Opera del Duomo and various museums"
-  - "Rucellai Madonna, originally for Santa Maria Novella, Florence, now Galleria degli Uffizi"
-  - "Stained-glass rose window of the apse, Siena Cathedral (design)"
-  - "Madonna and Child panels and small devotional works (various collections)"
-tradition: "Sienese communal painting, Marian devotion, and cathedral patronage"
-artistic_style: "Synthesis of Maniera Greca and Gothic elegance, characterized by lyrical line, chromatic sophistication, and refined narrative storytelling"
-founders_and_patrons:
-  - "Opera del Duomo of Siena (Siena Cathedral chapter)"
-  - "Compagnia dei Laudesi of Santa Maria Novella, Florence"
-  - "Sienese commune and Biccherna office"
-  - "Confraternities and religious houses in Siena"
-key_phases:
-  - "First documented in 1278 painting coffers for the Biccherna office"
-  - "Florentine commission of the Rucellai Madonna around 1285"
-  - "Design of the Siena Cathedral stained-glass window c. 1287–1288"
-  - "Commission and execution of the Maestà for Siena Cathedral (1308–1311)"
-  - "Late career works and continued activity until c. 1318–1319"
+  - "Maestà, high altar of Siena Cathedral"
+  - "Rucellai Madonna, Uffizi Galleries, Florence"
+  - "Crevole Madonna, Siena"
+  - "Madonna and Child with Six Angels, Metropolitan Museum of Art, New York"
+
+artistic_style: "Synthesis of Byzantine linearity and Gothic softness, with refined color, lyrical expression, and emerging spatial awareness"
+
+tradition: "Sienese communal painting, Marian civic imagery, Tuscan trecento devotional art"
+
 thematic_keywords:
-  - "Maestà iconography and Marian patronage of Siena"
-  - "Byzantine Maniera Greca and Gothic synthesis"
-  - "Altarpiece narrative cycles"
-  - "Sienese civic and ecclesiastical patronage"
-  - "Early Italian panel painting techniques"
-related_entries:
-  - "Siena Cathedral (Duomo di Siena) and the Opera del Duomo"
-  - "Biccherna of Siena and civic commissions"
-  - "Guido da Siena and early Sienese painting"
-  - "Simone Martini and Ugolino di Nerio"
-  - "Giotto di Bondone and Florentine Trecento painting"
+  - "Maestà iconography"
+  - "Sienese civic identity"
+  - "Narrative predellas"
+  - "Byzantine legacy in Tuscany"
+  - "Early International Gothic tendencies"
+
 category: "artists"
 ---
 
