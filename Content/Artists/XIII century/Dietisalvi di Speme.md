@@ -6,19 +6,16 @@ dates: "Active 1250–1291 (probable birth in the early thirteenth century)"
 
 meta:
   - title: "PERIOD"
-    type: "list"
-    items:
+    list:
       - "XIII century"
 
   - title: "ROLE"
-    type: "list"
-    items:
+    list:
       - "Sienese civic and devotional painter"
       - "Specialist in Biccherna covers and Marian panels"
 
   - title: "LOCATION"
-    type: "list"
-    items:
+    list:
       - "Siena (probable birthplace and lifelong workplace)"
 
   - title: "BIRTH & DEATH"
