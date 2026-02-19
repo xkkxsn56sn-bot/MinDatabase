@@ -9,7 +9,7 @@ meta:
     list:
       - "VII century"
       - "Anglo-Saxon Northumbria"
-      - "Post-Whitby Roman–Celtic convergence" [web:3][web:23]
+      - "Post-Whitby Roman–Celtic convergence"
 
   - title: "ROLE"
     list:
@@ -17,89 +17,89 @@ meta:
       - "Prior of Melrose"
       - "Prior of Lindisfarne"
       - "Hermit on Inner Farne"
-      - "Bishop of Lindisfarne" [web:3][web:4][web:23]
+      - "Bishop of Lindisfarne"
 
   - title: "LOCATION"
     list:
-      - "Melrose (Scottish Borders), early monastic formation" [web:4][web:13]
-      - "Ripon, mission foundation under Eata" [web:23]
-      - "Lindisfarne (Holy Island), monastic and episcopal centre" [web:3][web:4]
-      - "Inner Farne (Farne Islands), eremitic retreat" [web:4][web:18]
-      - "Durham, later shrine and cult centre" [web:10][web:19]
+      - "Melrose (Scottish Borders), early monastic formation"
+      - "Ripon, mission foundation under Eata"
+      - "Lindisfarne (Holy Island), monastic and episcopal centre"
+      - "Inner Farne (Farne Islands), eremitic retreat"
+      - "Durham, later shrine and cult centre"
 
   - title: "BIRTH & DEATH"
     pairs:
       - label: "Birth"
-        value: "Northumbria (probable, near Melrose), ca. 634/635" [web:4][web:13]
+        value: "Northumbria (probable, near Melrose), ca. 634/635"
       - label: "Death"
-        value: "Hermitage on Inner Farne, 20 March 687; buried at Lindisfarne" [web:4][web:13][web:20]
+        value: "Hermitage on Inner Farne, 20 March 687; buried at Lindisfarne"
       - label: "Feast days"
-        value: "20 March (dies natalis); 4 September (translation of relics to Durham)" [web:3][web:10][web:19]
+        value: "20 March (dies natalis); 4 September (translation of relics to Durham)"
 
   - title: "BIOGRAPHICAL HIGHLIGHTS"
     list:
-      - "Early years in Northumbria, with martial training and Christian upbringing in a noble or well-to-do family milieu." [web:4][web:13]
-      - "Conversion decision after a nocturnal vision of Aidan’s soul ascending, while watching sheep or standing guard on the hills (651)." [web:4][web:17]
-      - "Entrance as novice at Melrose under Abbot Eata and Prior Boisil; formation in an Iona-derived ascetic and pastoral tradition." [web:4][web:13]
-      - "Participation in the foundation of Ripon; return to Melrose and succession of Boisil as prior in the context of plague and pastoral crisis." [web:4][web:23]
-      - "Transfer to Lindisfarne as prior after the Synod of Whitby (664), tasked with implementing Roman usages while preserving monastic discipline." [web:4][web:7][web:23]
-      - "Decade of intense missionary activity in rural Northumbria, combining preaching, pastoral visitation, and healing." [web:4][web:13]
-      - "Retreat to eremitic life on Inner Farne (from ca. 676), cultivating radical solitude, manual labour, and contemplative prayer." [web:4][web:18][web:21]
-      - "Reluctant acceptance of episcopal office; consecrated at York as bishop, serving briefly as travelling bishop of Lindisfarne (685–686)." [web:13][web:20][web:23]
-      - "Final withdrawal to Farne and death in the presence of Lindisfarne monks, with a conscious preparation for burial at the monastery." [web:13][web:20][web:21]
+      - "Early years in Northumbria, with martial training and Christian upbringing in a noble or well-to-do family milieu."
+      - "Conversion decision after a nocturnal vision of Aidan’s soul ascending, while watching sheep or standing guard on the hills (651)."
+      - "Entrance as novice at Melrose under Abbot Eata and Prior Boisil; formation in an Iona-derived ascetic and pastoral tradition."
+      - "Participation in the foundation of Ripon; return to Melrose and succession of Boisil as prior in the context of plague and pastoral crisis."
+      - "Transfer to Lindisfarne as prior after the Synod of Whitby (664), tasked with implementing Roman usages while preserving monastic discipline."
+      - "Decade of intense missionary activity in rural Northumbria, combining preaching, pastoral visitation, and healing."
+      - "Retreat to eremitic life on Inner Farne (from ca. 676), cultivating radical solitude, manual labour, and contemplative prayer."
+      - "Reluctant acceptance of episcopal office; consecrated at York as bishop, serving briefly as travelling bishop of Lindisfarne (685–686)."
+      - "Final withdrawal to Farne and death in the presence of Lindisfarne monks, with a conscious preparation for burial at the monastery."
 
   - title: "SPIRITUAL PROFILE"
     pairs:
       - label: "Spiritual type"
-        value: "Hermit–pastor; synthesis of contemplative withdrawal and itinerant mission." [web:4][web:18][web:21]
+        value: "Hermit–pastor; synthesis of contemplative withdrawal and itinerant mission." 
       - label: "Dominant virtues"
-        value: "Humility, obedience, pastoral gentleness, ascetic endurance, discernment of spirits." [web:4][web:13]
+        value: "Humility, obedience, pastoral gentleness, ascetic endurance, discernment of spirits." 
       - label: "Ascetic practices"
-        value: "Night vigils, fasting, solitude on Farne, manual labour in a bare cell exposed to the sea." [web:4][web:18]
+        value: "Night vigils, fasting, solitude on Farne, manual labour in a bare cell exposed to the sea." 
       - label: "Charisms"
-        value: "Healing of the sick, prophetic insight, protection at sea, and comfort to the poor and monastic communities." [web:4][web:18][web:21]
+        value: "Healing of the sick, prophetic insight, protection at sea, and comfort to the poor and monastic communities." 
 
   - title: "MIRACLES & VISIONS"
     list:
-      - "Vision of St Aidan’s soul at the moment of the bishop’s death, prompting Cuthbert’s monastic vocation." [web:4][web:17]
-      - "Rescue of monks at sea through prayer in his youth, prefiguring later protection of sailors and travellers." [web:4]
-      - "Provision of fresh water on Inner Farne when he dug and prayed on the waterless island." [web:18]
-      - "Healing of nobles and commoners alike through blessing, oil, and the sign of the cross." [web:4][web:18]
-      - "Vision of King Ecgfrith’s death in battle while visiting the queen at Carlisle, perceived at the moment it occurred." [web:4][web:18]
-      - "Posthumous miracles at his tomb, especially healings and deliverance from demonic affliction recorded by Bede." [web:14][web:21][web:24]
+      - "Vision of St Aidan’s soul at the moment of the bishop’s death, prompting Cuthbert’s monastic vocation." 
+      - "Rescue of monks at sea through prayer in his youth, prefiguring later protection of sailors and travellers." 
+      - "Provision of fresh water on Inner Farne when he dug and prayed on the waterless island." 
+      - "Healing of nobles and commoners alike through blessing, oil, and the sign of the cross." 
+      - "Vision of King Ecgfrith’s death in battle while visiting the queen at Carlisle, perceived at the moment it occurred." 
+      - "Posthumous miracles at his tomb, especially healings and deliverance from demonic affliction recorded by Bede." 
 
   - title: "CULT, RELICS & PILGRIMAGE"
     pairs:
       - label: "First elevation"
-        value: "Body found incorrupt eleven years after burial at Lindisfarne, confirming and amplifying his cult." [web:7][web:24][web:26]
+        value: "Body found incorrupt eleven years after burial at Lindisfarne, confirming and amplifying his cult." 
       - label: "Viking age translations"
-        value: "Relics carried from Lindisfarne to the mainland (from 875), with major stops at Chester-le-Street and Ripon." [web:7][web:10]
+        value: "Relics carried from Lindisfarne to the mainland (from 875), with major stops at Chester-le-Street and Ripon." 
       - label: "Final shrine"
-        value: "Dunholme/Durham, where a Norman cathedral later monumentalised his tomb as a northern pilgrimage focus." [web:7][web:10][web:19]
+        value: "Dunholme/Durham, where a Norman cathedral later monumentalised his tomb as a northern pilgrimage focus." 
       - label: "Incorruptibility"
-        value: "Multiple exhumations report flexibility and intactness of the body, shaping medieval theology of his sanctity." [web:24][web:26]
+        value: "Multiple exhumations report flexibility and intactness of the body, shaping medieval theology of his sanctity." 
       - label: "Patronage"
-        value: "Patron of Durham Cathedral, protector of Northumbria, invoked by shepherds, travellers, and seafarers." [web:3][web:10][web:15]
+        value: "Patron of Durham Cathedral, protector of Northumbria, invoked by shepherds, travellers, and seafarers." 
 
   - title: "LITURGICAL & CONFESSIONAL RECEPTION"
     list:
-      - "Feast on 20 March in Roman Catholic, Church of England, Episcopal, and Orthodox calendars." [web:3][web:6][web:15]
-      - "Feast of the translation of his relics on 4 September in several Anglican and Catholic usages." [web:10][web:19][web:22]
-      - "Remembered in modern Anglican and ecumenical commemorations as a model of pastoral holiness and missionary bishop." [web:10][web:22]
+      - "Feast on 20 March in Roman Catholic, Church of England, Episcopal, and Orthodox calendars." 
+      - "Feast of the translation of his relics on 4 September in several Anglican and Catholic usages." 
+      - "Remembered in modern Anglican and ecumenical commemorations as a model of pastoral holiness and missionary bishop." 
 
   - title: "PRIMARY SOURCES & SCHOLARSHIP"
     list:
-      - "Anonymous Vita Sancti Cuthberti (earliest hagiographical dossier)." [web:14][web:21]
-      - "Bede, Vita metrica and Vita prosaica Cuthberti; Bede, Historia ecclesiastica gentis Anglorum." [web:14][web:21]
-      - "Historia de Sancto Cuthberto and later miracle collections centred on Lindisfarne and Durham." [web:14][web:21]
-      - "Modern studies on his cult, relic translations, and political significance in Northumbria and later medieval Durham." [web:14][web:21]
+      - "Anonymous Vita Sancti Cuthberti (earliest hagiographical dossier)." 
+      - "Bede, Vita metrica and Vita prosaica Cuthberti; Bede, Historia ecclesiastica gentis Anglorum." 
+      - "Historia de Sancto Cuthberto and later miracle collections centred on Lindisfarne and Durham." 
+      - "Modern studies on his cult, relic translations, and political significance in Northumbria and later medieval Durham." 
 
   - title: "KEY THEMES"
     list:
-      - "Integration of Irish–Celtic and Roman Christian traditions in post-Whitby Northumbria." [web:2][web:3][web:7]
-      - "Tension and complementarity between eremitic withdrawal and pastoral–episcopal service." [web:4][web:13]
-      - "Formation of a stable regional cult around a mobile body and a travelling monastic community." [web:7][web:10][web:21]
-      - "Theology of relics, incorruptibility, and sacred landscape in northern England." [web:7][web:10][web:24]
+      - "Integration of Irish–Celtic and Roman Christian traditions in post-Whitby Northumbria." 
+      - "Tension and complementarity between eremitic withdrawal and pastoral–episcopal service." 
+      - "Formation of a stable regional cult around a mobile body and a travelling monastic community." 
+      - "Theology of relics, incorruptibility, and sacred landscape in northern England." 
 
   - title: "RELATED ENTRIES"
     links:
