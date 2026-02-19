@@ -36,7 +36,7 @@ meta:
       - title: "Lindisfarne Gospels"
         url: "/Content/Codex/Lindisfarne%20Gospels.html"
       - title: "St Cuthbert of Lindisfarne"
-        url: "/Content/Saints/St%20Cuthbert.html"
+        url: "/Content/Saints/Saint%20Cuthbert.html"
       - title: "Book of Durrow"
         url: "/Content/Codex/Book%20of%20Durrow.html"
       - title: "Book of Kells"
