@@ -103,3 +103,16 @@
 .meta-block__list a:hover {
   text-decoration: underline;
 }
+
+.entry__header {
+  text-align: center;
+}
+
+.entry__title {
+  font-weight: 700;
+}
+.entry__meta {
+  font-size: 0.875rem;
+  color: #6c757d;
+  margin-top: 0.5rem;
+}
