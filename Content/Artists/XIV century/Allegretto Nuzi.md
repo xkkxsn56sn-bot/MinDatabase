@@ -1,36 +1,95 @@
 ---
 layout: entry
 title: "Allegretto Nuzi"
+subtitle: "Painter from Fabriano active between Marche and Umbria, key precursor to the Fabrianese Gothic line"
+dates: "Documented c. 1346–1373 (fl. mid-XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Central Italian Trecento with proto-International Gothic tendencies"
+
+  - title: "ROLE"
+    list:
+      - "Painter from Fabriano"
+      - "Major regional master between Marche and Umbria"
+      - "Important predecessor for later Fabriano Gothic developments"
+
+  - title: "LOCATION"
+    list:
+      - "Fabriano (birthplace and principal workshop activity)"
+      - "Marche regional centers (ecclesiastical commissions)"
+      - "Neighbouring Umbrian contexts (documented/attributed circulation)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Fabriano, c. 1315 (traditional estimate)"
+      - label: "Death"
+        value: "Probably Fabriano, 1373"
+
+  - title: "KEY WORKS"
+    list:
+      - "Polyptychs and panel paintings for churches in Fabriano (including commissions connected to San Domenico and San Francesco)"
+      - "Madonna and Child with Saints panels across Marche and Umbria"
+      - "Narrative predella scenes with Christological and hagiographic episodes (fragmentary corpus)"
+      - "Devotional panels preserved in major museum collections (attributed group)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Refined Gothic linearity with rich gilded ornament"
+      - "Luminous chromatic range and tender devotional expression"
+      - "Synthesis of Giottesque narrative clarity and Sienese elegance"
+      - "Strong aptitude for both monumental polyptychs and intimate private panels"
+
+  - title: "PATRONS"
+    list:
+      - "Franciscan and Dominican institutions in Fabriano and the Marche"
+      - "Cathedral/parish churches and confraternities"
+      - "Local civic and lay patrons in central Italy"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Fabriano within regional workshop networks"
+      - "Mature production of major polyptychs for local religious houses"
+      - "Expansion of commissions through Marche-Umbria devotional circuits"
+      - "Late devotional panel phase with heightened emotional nuance"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Fabriano Trecento"
+      - "Marche Gothic painting"
+      - "Polyptychs and predelle"
+      - "Marian devotion"
+      - "Gold-ground sacred imagery"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Giotto di Bondone"
+      - "Simone Martini"
+      - "Gentile da Fabriano"
+      - "Franciscan and Dominican churches in Fabriano"
+
 author: "Allegretto Nuzi"
 role: "Painter from Fabriano active in the Gothic International current between Umbria and the Marche"
-dates: "Documented c. 1346–1373 (fl. mid-XIV century)"
 birth_place: "Fabriano"
 death_place: "Fabriano or nearby Marche region (not securely documented)"
-period: "XIII–XIV century"
+period: "XIV century"
+
 key_works:
   - "Polyptychs and panel paintings for churches in Fabriano (including works for San Domenico and San Francesco, partly dispersed)"
   - "Madonna and Child with Saints panels in the Marches and Umbria (various museums and churches)"
   - "Narrative predella scenes with saints’ lives and Christological episodes (fragments in several collections)"
+
 tradition: "Central Italian Gothic painting in the wake of Giotto, Simone Martini and the Sienese school, adapted to the Marche context"
 artistic_style: "Refined Gothic linearity, luminous colour and delicate devotional expression, combining Giottesque solidity with Sienese elegance"
-founders_and_patrons:
-  - "Franciscan and Dominican houses in Fabriano and the Marche"
-  - "Cathedral and parish churches of Fabriano"
-  - "Local confraternities and lay patrons in Umbria and the Marche"
-key_phases:
-  - "Formation in Fabriano with exposure to Giottesque and Sienese models"
-  - "Mature activity producing polyptychs and altarpieces for Fabriano churches"
-  - "Wider regional commissions in the Marche and neighbouring Umbria"
 thematic_keywords:
   - "Gothic International piety"
   - "Polyptychs and predella narratives"
   - "Central Italian Trecento painting"
   - "Cult of the Virgin and local saints"
-related_entries:
-  - "Giotto di Bondone"
-  - "Simone Martini"
-  - "Gentile da Fabriano"
-  - "Franciscan and Dominican churches in Fabriano"
+
 category: "artists"
 ---
 

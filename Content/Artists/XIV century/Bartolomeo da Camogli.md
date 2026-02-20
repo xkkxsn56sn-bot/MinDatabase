@@ -1,35 +1,94 @@
 ---
 layout: entry
 title: "Bartolomeo da Camogli (Bartolomeo Canal)"
+subtitle: "Genoese-Ligurian painter linked to early Madonna dell’Umiltà imagery and to Mediterranean devotional networks"
+dates: "Documented c. 1320–1340 (fl. first half of the XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Early-to-mid Trecento Ligurian painting in dialogue with Sienese and Avignonese currents"
+
+  - title: "ROLE"
+    list:
+      - "Genoese painter active in Ligurian and maritime devotional contexts"
+      - "Figure of transition between local Ligurian traditions and Tuscan-influenced Gothic idioms"
+      - "Artist associated with early codification of the Madonna dell’Umiltà type"
+
+  - title: "LOCATION"
+    list:
+      - "Camogli/Genoa area (probable origin and workshop base)"
+      - "Ligurian coastal and ecclesiastical networks"
+      - "Connections with Palermo through Genoese mercantile patronage"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably c. 1300 in Camogli or Genoa"
+      - label: "Death"
+        value: "Before October 1348, likely during the Black Death in Genoa"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna dell’Umiltà (signed and dated 1346), Galleria Regionale della Sicilia, Palermo"
+      - "Documented altarpiece for San Siro, Genoa (1346; lost/unidentified)"
+      - "Ligurian church frescoes and devotional panels attributed to his milieu"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Tempera and gold-ground practice with refined decorative execution"
+      - "Combines Ligurian linearity with Sienese elegance and Giottesque structuring"
+      - "Strong devotional clarity with attention to confraternal iconographies"
+      - "Engages Avignon-influenced Gothic refinements via Mediterranean exchange"
+
+  - title: "PATRONS"
+    list:
+      - "Parish and major churches in Genoa (including San Siro)"
+      - "Genoese mercantile communities active in Palermo"
+      - "Confraternal and devotional patrons linked to Passion spirituality"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the Genoese-Ligurian workshop environment (possibly linked to Opizzino Pellerano’s circle)"
+      - "Emergence as independent master (documented apprenticeship contract, 1339)"
+      - "Mature phase around 1346 with major Marian commission and Genoese church patronage"
+      - "Abrupt interruption of career before 1348"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Ligurian Gothic painting"
+      - "Madonna dell’Umiltà"
+      - "Mediterranean artistic circulation"
+      - "Genoese confraternal devotion"
+      - "Trecento gold-ground panel painting"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Manfredino da Pistoia"
+      - "Pittura murale genovese trecentesca"
+      - "San Nicolò di Capodimonte, Camogli"
+      - "Simone Martini"
+
 author: "Bartolomeo da Camogli"
 role: "Genoese painter active between Liguria and Fortore, working in a late Gothic, Giottesque-influenced style"
-dates: "Documented c. 1320–1340 (fl. first half of the XIV century)"
 birth_place: "Camogli or Genoa (probable)"
 death_place: "Liguria (probable; not documented)"
 period: "XIV century"
+
 key_works:
   - "Frescoes in the church of San Nicolò di Capodimonte, near Camogli (fragments and attributions)"
   - "Panel paintings and dossals for Ligurian churches (various attributions)"
   - "Crucifixes and Marian images in the Genoese area (attributed corpus)"
+
 tradition: "Ligurian Gothic painting in dialogue with Tuscan Giottesque models and local devotional practices"
 artistic_style: "Synthesis of Giottesque volumetry and narrative clarity with Ligurian linearity and strong colour contrasts"
-founders_and_patrons:
-  - "Parish churches and confraternities of Camogli and Genoa"
-  - "Monastic communities in the eastern Ligurian Riviera"
-  - "Local maritime and mercantile patrons"
-key_phases:
-  - "Formation in the Genoese–Ligurian milieu with exposure to Tuscan models"
-  - "Mature fresco and panel production for churches around Camogli and Genoa"
-  - "Dissemination of his style in the Ligurian coastal area through workshop activity"
 thematic_keywords:
   - "Ligurian Gothic painting"
   - "Giottesque influence on the Tyrrhenian coast"
   - "Crucifixes and Marian devotion in Liguria"
   - "Parish and confraternal commissions"
-related_entries:
-  - "Manfredino da Pistoia"
-  - "Pittura murale genovese trecentesca"
-  - "San Nicolò di Capodimonte, Camogli"
+
 category: "artists"
 ---
 
