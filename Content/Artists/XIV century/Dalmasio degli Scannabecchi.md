@@ -1,42 +1,97 @@
 ---
 layout: entry
 title: "Dalmasio degli Scannabecchi (Dalmasio di Jacopo Scannabecchi)"
+subtitle: "Bolognese painter active between Emilia and Tuscany, key transmitter of Giottesque language within the Scannabecchi lineage"
+dates: "c. 1315 – c. 1374"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Mid-Trecento Bolognese painting in dialogue with Tuscan Giottism"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese painter of noble Ghibelline background"
+      - "Mediator of Giottesque narrative forms in regional contexts"
+      - "Founder figure of a family workshop tradition continued by Lippo di Dalmasio"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna (origin and principal base)"
+      - "Pistoia (documented activity from 1359)"
+      - "Tuscan connections including Florence attributions"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Bologna, c. 1315"
+      - label: "Death"
+        value: "Probably Bologna, c. 1374"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna and Child with Angels, formerly Askew Collection (attributed)"
+      - "Madonna and Child, Philadelphia Museum of Art (attributed)"
+      - "Fresco cycle of Saint Gregory the Great, Bardi Chapel, Santa Maria Novella, Florence (attributed)"
+      - "Fresco cycle of Saint Francis, San Francesco, Pistoia (attributed)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Integrates Giottesque volumetry with Bolognese linear elegance"
+      - "Balances narrative legibility and Gothic ornamental clarity"
+      - "Uses strong devotional figuration suited to mendicant patronage"
+      - "Contributes to workshop-based transmission across generations"
+
+  - title: "PATRONS"
+    list:
+      - "Ecclesiastical patrons in Bologna and Pistoia"
+      - "Bardi-associated devotional contexts in Florence (attributed sphere)"
+      - "Franciscan and mendicant institutional networks"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Bologna within noble-family and workshop networks"
+      - "Marriage alliance with Simone dei Crocifissi’s family (1350)"
+      - "Documented Tuscan activity (from 1359) with painting and gilding commissions"
+      - "Late phase of workshop transmission to Lippo di Dalmasio"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Giottesque narrative cycles"
+      - "Bolognese Gothic style"
+      - "Franciscan patronage"
+      - "Family workshops and artistic dynasties"
+      - "Trecento Emilia-Tuscany exchanges"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Lippo di Dalmasio degli Scannabecchi"
+      - "Simone dei Crocifissi"
+      - "Giotto di Bondone"
+      - "Bardi family of Florence"
+      - "San Francesco, Pistoia"
+
 author: "Dalmasio degli Scannabecchi"
 role: "Bolognese painter from a Ghibelline noble family, active between Bologna and Tuscany and key mediator of Giottesque innovations within the Bolognese school"
-dates: "c. 1315 – c. 1374"
 birth_place: "Bologna"
 death_place: "Bologna (probable), around 1374"
 period: "XIV century"
+
 key_works:
   - "Madonna and Child with Angels, formerly Askew Collection (attributed)"
   - "Madonna and Child, Philadelphia Museum of Art (attributed)"
   - "Fresco cycle of Saint Gregory the Great, Bardi Chapel, Santa Maria Novella, Florence (attributed)"
   - "Fresco cycle of Saint Francis, San Francesco, Pistoia (attributed)"
+
 tradition: "Bolognese Gothic painting in dialogue with Giottesque and Tuscan traditions"
 artistic_style: "Synthesis of Giottesque volumetry and narrative with Bolognese linear elegance and Gothic decorative refinement"
-founders_and_patrons:
-  - "Lippo di Dalmasio degli Scannabecchi"
-  - "Simone dei Crocifissi"
-  - "Giotto di Bondone and the Giottesque tradition"
-  - "Bardi family of Florence"
-  - "Franciscan Order and San Francesco, Pistoia"
-key_phases:
-  - "Formation in Bologna within a network of related workshops and Ghibelline noble milieu"
-  - "Marriage alliance with the family of Simone dei Crocifissi (1350) and consolidation of artistic networks"
-  - "Documented work in Pistoia (from 1359) combining painting and gilding for ecclesiastical patrons"
-  - "Attributed major fresco cycles in Florence (Bardi Chapel) and Pistoia (San Francesco)"
-  - "Return to Bologna and transmission of the workshop to his son Lippo di Dalmasio"
 thematic_keywords:
   - "Giottesque narrative cycles"
   - "Bolognese Gothic style"
   - "Franciscan and mendicant patronage"
   - "Family workshops and artistic dynasties"
-related_entries:
-  - "Lippo di Dalmasio degli Scannabecchi"
-  - "Simone dei Crocifissi"
-  - "Giotto di Bondone"
-  - "Bardi family of Florence"
-  - "San Francesco, Pistoia"
+
 category: "artists"
 ---
 
