@@ -1,35 +1,93 @@
 ---
 layout: entry
 title: "Maestro bizantino del Crocifisso di Pisa"
+subtitle: "Anonymous Byzantine painter active in Pisa, linked to the early Christus patiens crucifix tradition"
+dates: "Active early XIII century (c. 1200–1230/1250, attribution debated)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Early phase of Tuscan Duecento painting"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous master associated with Pisa"
+      - "Key transmitter of Byzantine maniera greca into central Italy"
+      - "Early interpreter of Christus patiens iconography in monumental painted crucifixes"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa (principal documented context)"
+      - "Possible links to Eastern Mediterranean / Byzantine workshop milieu"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely formed within Byzantine or strongly Byzantinizing artistic traditions"
+      - label: "Death"
+        value: "Unknown; no archival biographical documentation survives"
+
+  - title: "KEY WORKS"
+    list:
+      - "Crucifix No. 20, Museo Nazionale di San Matteo, Pisa (tempera and gold on shaped wooden cross)"
+      - "Attributed related crucifixes and icons in Tuscan contexts with strong Byzantine formal language"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Strict Italo-Byzantine visual grammar: hieratic structure, gold ground, linear precision"
+      - "Strong emotional charge through the suffering Christ (Christus patiens)"
+      - "Bridge between imported Byzantine icon models and local Tuscan devotional painting"
+
+  - title: "PATRONS"
+    list:
+      - "Pisan ecclesiastical institutions (cathedral orbit and major churches)"
+      - "Monastic and mendicant devotional environments in Duecento Tuscany"
+      - "Urban religious communities connected to Mediterranean exchange networks"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in a Byzantine-oriented workshop culture"
+      - "Activity in Pisa during the consolidation of monumental painted crucifix traditions"
+      - "Long-term influence on later Pisan and Tuscan painters (including Giunta Pisano’s milieu)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Christus patiens"
+      - "Byzantine maniera greca"
+      - "Pisan Duecento painting"
+      - "Cross-cultural transmission Mediterranean-Latin West"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "Pisa Cathedral"
+        url: "/Content/Churches/Pisa%20Cathedral.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+
 author: "Maestro bizantino del Crocifisso di Pisa"
-role: "Anonymous Byzantine painter active in Tuscany, author of an early Christus patiens crucifix in Pisa"
-dates: "Active mid-XIII century (c. 1230–1250)"
-birth_place: "Probable Eastern Mediterranean / Byzantine cultural sphere"
-death_place: "Unknown (perhaps remained active between Pisa and other Tuscan centers)"
+role: "Anonymous Byzantine painter active in Pisa, linked to early Christus patiens crucifix imagery"
+birth_place: "Unknown (possibly Eastern Mediterranean / Byzantine cultural sphere)"
+death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Crocifisso di Pisa (Christus patiens crucifix associated with the Pisan area, early Byzantine-type import or work by a Greek master)"
-  - "Related crucifixes and icons in Tuscan churches reflecting direct Byzantine workmanship (attributed group)"
-tradition: "Byzantine panel painting transplanted to central Italy; early Tuscan reception of the Christus patiens iconography"
-artistic_style: "Strict Byzantine maniera greca with refined contour line, hieratic structure, and restrained but intense pathos"
-founders_and_patrons:
-  - "Ecclesiastical authorities of Pisa Cathedral and Pisan churches"
-  - "Communities connected with maritime trade between Pisa and the Eastern Mediterranean"
-  - "Early mendicant and monastic patrons receptive to Byzantine devotional images"
-key_phases:
-  - "Formation within Byzantine workshop culture, with mastery of tempera on panel and gold-ground icon techniques"
-  - "Transfer or migration to Pisa through commercial and ecclesiastical networks"
-  - "Execution of the Pisa crucifix and related works influencing local Tuscan painters"
+  - "Crucifix No. 20, Museo Nazionale di San Matteo, Pisa"
+  - "Attributed Byzantine-style crucifixes and icons in Tuscany"
+
+tradition: "Byzantine panel painting traditions adapted in Duecento central Italy"
+artistic_style: "Italo-Byzantine linearity, hieratic composition, and pathos-centered crucifix imagery"
+
 thematic_keywords:
-  - "Christus patiens crucifix iconography"
-  - "Byzantine maniera greca in Italy"
-  - "Pisan school and Eastern imports"
-  - "Cross-cultural artistic transmission in the Duecento"
-related_entries:
-  - "Giunta Pisano"
-  - "Bonaventura Berlinghieri"
-  - "Pisa Cathedral and Pisan school"
-  - "Byzantine icons and Italian reception"
+  - "Christus patiens"
+  - "Byzantine maniera greca"
+  - "Pisan school"
+  - "Duecento devotional painting"
+
 category: "artists"
 ---
 

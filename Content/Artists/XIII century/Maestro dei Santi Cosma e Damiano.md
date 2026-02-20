@@ -1,35 +1,100 @@
 ---
 layout: entry
 title: "Maestro dei Santi Cosma e Damiano"
+subtitle: "Anonymous Duecento painter linked to the cult imagery of Saints Cosmas and Damian"
+dates: "Active c. 1240–1270 (chronology reconstructed through style and context)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Mid-Duecento Italo-Byzantine phase between Pisa and Siena"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous panel painter in the Pisan-Sienese orbit"
+      - "Specialist in Marian and healing-saint devotional images"
+      - "Named from works associated with Saints Cosmas and Damian"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa and its ecclesiastical sphere"
+      - "Siena (probable documented overlap via the Gilio di Pietro hypothesis)"
+      - "Later circulation of works beyond Tuscany"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely born in the second quarter of the thirteenth century within the Pisan-Sienese artistic milieu"
+      - label: "Death"
+        value: "Unknown; possibly linked to Gilio di Pietro (d. 1261, Siena), though attribution remains debated"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna del Patrocinio, church of Santi Cosma e Damiano, Pisa (attributed)"
+      - "Madonna dei Mantellini, originally San Niccolò al Carmine, Siena (now Pinacoteca Nazionale di Siena)"
+      - "Biccherna panel of Frate Ugo (1258), if identified with Gilio di Pietro"
+      - "Related Madonnas in Pisa, Palermo, and Cambridge attributed to his circle"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Strong dependence on Giunta Pisano’s maniera greca"
+      - "Gold-ground, frontal icon types with dense chrysography"
+      - "Conservative structure with selective affective softening in Marian imagery"
+
+  - title: "PATRONS"
+    list:
+      - "Churches dedicated to Saints Cosmas and Damian"
+      - "Mendicant and parish institutions in Pisa and Siena"
+      - "Sienese communal offices (Biccherna context, if linked to Gilio)"
+      - "Lay devotional patrons commissioning smaller Marian panels"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Giuntesque workshop traditions"
+      - "Production of Marian and healing-saint panels for ecclesiastical devotion"
+      - "Possible Sienese civic engagement through Biccherna commissions"
+      - "Posthumous attribution history shaped by connoisseurship debates"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Saints Cosmas and Damian"
+      - "Marian intercession"
+      - "Maniera greca"
+      - "Biccherna painting"
+      - "Pisan-Sienese artistic exchange"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "Guido da Siena"
+        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.md"
+      - title: "Maestro bizantino del Crocifisso di Pisa"
+        url: "/Content/Artists/XIII%20century/Maestro%20bizantino%20del%20Crocifisso%20di%20Pisa.md"
+
 author: "Maestro dei Santi Cosma e Damiano"
-role: "Anonymous Italian painter active in the Duecento, named after a panel or cycle dedicated to Saints Cosmas and Damian"
-dates: "Active XIII century (precise dates uncertain)"
-birth_place: "Central or northern Italy (probable; precise origin unknown)"
-death_place: "Unknown"
+role: "Anonymous Duecento painter associated with Cosmas-and-Damian devotional imagery in the Pisan-Sienese orbit"
+birth_place: "Unknown (likely Tuscany, Pisan-Sienese milieu)"
+death_place: "Unknown (possibly Siena if identified with Gilio di Pietro)"
 period: "XIII century"
+
 key_works:
-  - "Panel or dossal with Saints Cosmas and Damian (prototypical work giving the master’s name)"
-  - "Related panels and fragments with physician‑saints and miracle scenes attributed to his hand or workshop"
-tradition: "Devotional panel painting for churches and confraternities, focused on healing saints and intercessory cults"
-artistic_style: "Late Italo‑Byzantine manner with hieratic figures, gold ground and narrative vignettes, tending toward greater emotional expressiveness"
-founders_and_patrons:
-  - "Churches dedicated to Saints Cosmas and Damian"
-  - "Confraternities of physicians, surgeons and apothecaries"
-  - "Urban lay patrons seeking protection from illness and plague"
-key_phases:
-  - "Formation in a workshop specialized in Italo‑Byzantine panel painting"
-  - "Execution of the principal Cosmas and Damian image that defines his corpus"
-  - "Dissemination of his iconographic solutions through workshop replicas and derivatives"
+  - "Madonna del Patrocinio, Santi Cosma e Damiano, Pisa (attributed)"
+  - "Madonna dei Mantellini, Pinacoteca Nazionale di Siena"
+  - "Biccherna panel of Frate Ugo, 1258 (if identified with Gilio di Pietro)"
+
+tradition: "Italo-Byzantine panel painting for parish, mendicant, and civic devotional contexts"
+artistic_style: "Giuntesque linearism, gold-ground solemnity, and restrained affective modulation"
+
 thematic_keywords:
-  - "Cult of Saints Cosmas and Damian"
-  - "Healing and medical intercession"
-  - "Italo‑Byzantine gold‑ground painting"
-  - "Miracle narratives and ex‑voto imagery"
-related_entries:
-  - "Giunta Pisano"
-  - "Bonaventura Berlinghieri"
-  - "Devotional panels of healing saints in central Italy"
-  - "Confraternities of doctors and pharmacists"
+  - "Cosmas and Damian cult"
+  - "Marian devotion"
+  - "Maniera greca"
+  - "Duecento Tuscany"
+
 category: "artists"
 ---
 

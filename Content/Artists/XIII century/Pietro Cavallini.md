@@ -1,39 +1,102 @@
 ---
 layout: entry
 title: "Pietro Cavallini"
+subtitle: "Roman painter and mosaicist, leading figure of late Duecento naturalism in Rome and Naples"
+dates: "c. 1240–1245 – after 1330"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–early XIV century"
+      - "Transition from late Duecento to early Trecento"
+
+  - title: "ROLE"
+    list:
+      - "Roman painter and mosaicist"
+      - "Leading figure of late Duecento naturalism in Rome and Naples"
+      - "Key mediator between Byzantine traditions and Trecento pictorial naturalism"
+
+  - title: "LOCATION"
+    list:
+      - "Rome (birthplace and principal early activity)"
+      - "Naples (Angevin court commissions)"
+      - "Central and southern Italian ecclesiastical networks"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Rome, probably between c. 1240 and 1245"
+      - label: "Death"
+        value: "After 1330, probably Rome or Naples"
+
+  - title: "KEY WORKS"
+    list:
+      - "Last Judgement fresco, Santa Cecilia in Trastevere, Rome"
+      - "Mosaic cycle with the Life of the Virgin, Santa Maria in Trastevere, Rome"
+      - "Frescoes in Santa Maria in Aracoeli and San Giorgio al Velabro, Rome (fragments and attributions)"
+      - "Fresco cycles for the Angevin court in Naples (Santa Maria Donna Regina Vecchia and others, partly lost or heavily restored)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Softly modelled figures with volumetric drapery and atmospheric colour"
+      - "Integration of Byzantine iconographic schemes with enhanced spatial coherence"
+      - "Strong classical memory in bodily construction and monumentality"
+      - "Narrative clarity and psychological presence in monumental religious cycles"
+
+  - title: "PATRONS"
+    list:
+      - "Roman basilicas and titular churches (Santa Cecilia, Santa Maria in Trastevere, Santa Maria in Aracoeli)"
+      - "Cardinals and papal curia as promoters of Roman monumental painting"
+      - "Angevin court of Naples (Charles II of Anjou and Queen Maria of Hungary)"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation within Roman Italo‑Byzantine mosaic and painting workshops"
+      - "Mature Roman phase with mosaics in Santa Maria in Trastevere and frescoes at Santa Cecilia in Trastevere"
+      - "Transfer to Naples and service at the Angevin court in the early Trecento"
+      - "Late activity influencing Neapolitan and central Italian Trecento painters"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Last Judgement iconography"
+      - "Marian cycles in Roman basilicas"
+      - "Transition from Byzantine maniera greca to Trecento naturalism"
+      - "Rome–Naples artistic networks under the Angevins"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md"
+      - title: "Santa Cecilia in Trastevere"
+        url: "/Content/Churches/Santa%20Cecilia%20in%20Trastevere.md"
+      - title: "Santa Maria in Trastevere"
+        url: "/Content/Churches/Santa%20Maria%20in%20Trastevere.md"
+      - title: "Angevin Naples"
+        url: "/Content/Topics/Angevin%20Naples.md"
+      - title: "Roman school of painting (XIII–XIV centuries)"
+        url: "/Content/Topics/Roman%20school%20of%20painting%20XIII-XIV%20centuries.md"
+
 author: "Pietro Cavallini"
 role: "Roman painter and mosaicist, leading figure of late Duecento naturalism in Rome and Naples"
-dates: "c. 1240–1245 – after 1330"
 birth_place: "Rome"
 death_place: "Probably Rome or Naples (not documented with certainty)"
 period: "XIII–early XIV century"
+
 key_works:
   - "Last Judgement fresco, Santa Cecilia in Trastevere, Rome"
   - "Mosaic cycle with the Life of the Virgin, Santa Maria in Trastevere, Rome"
   - "Frescoes in Santa Maria in Aracoeli and San Giorgio al Velabro, Rome (fragments and attributions)"
   - "Fresco cycles for the Angevin court in Naples (Santa Maria Donna Regina Vecchia and others, partly lost or heavily restored)"
+
 tradition: "Roman late medieval painting and mosaic between Byzantine heritage, classical memory, and the emergence of Trecento naturalism"
 artistic_style: "Softly modelled figures, volumetric drapery and atmospheric colour, uniting Byzantine iconographic schemes with a new sense of space and human presence"
-founders_and_patrons:
-  - "Roman basilicas and titular churches (Santa Cecilia, Santa Maria in Trastevere, Santa Maria in Aracoeli)"
-  - "Cardinals and papal curia as promoters of Roman monumental painting"
-  - "Angevin court of Naples (Charles II of Anjou and Queen Maria of Hungary)"
-key_phases:
-  - "Formation within Roman Italo‑Byzantine mosaic and painting workshops"
-  - "Mature Roman phase with mosaics in Santa Maria in Trastevere and frescoes at Santa Cecilia in Trastevere"
-  - "Transfer to Naples and service at the Angevin court in the early Trecento"
-  - "Late activity influencing Neapolitan and central Italian Trecento painters"
+
 thematic_keywords:
   - "Last Judgement iconography"
   - "Marian cycles in Roman basilicas"
   - "Transition from Byzantine maniera greca to Trecento naturalism"
   - "Rome–Naples artistic networks under the Angevins"
-related_entries:
-  - "Giotto di Bondone"
-  - "Roman school of painting (XIII–XIV centuries)"
-  - "Santa Cecilia in Trastevere, Rome"
-  - "Santa Maria in Trastevere, Rome"
-  - "Angevin Naples and courtly painting"
+
 category: "artists"
 ---
 

@@ -1,40 +1,100 @@
 ---
 layout: entry
 title: "Maestro di Soriguerola (Master of Soriguerola)"
+subtitle: "Anonymous Catalan panel painter bridging Romanesque legacy and early Gothic language in the Eastern Pyrenees"
+dates: "Active late XIII to early XIV century (long chronology debated)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Transition to early XIV century in Catalan Pyrenean painting"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous Catalan panel painter"
+      - "Workshop leader associated with the Soriguerola corpus"
+      - "Key figure in Romanesque-Gothic stylistic transition in Cerdanya"
+
+  - title: "LOCATION"
+    list:
+      - "Cerdanya and Puigcerdà orbit (probable workshop center)"
+      - "Eastern Pyrenees (Ripollès, Conflent, Capcir)"
+      - "Catalan ecclesiastical commission network"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely tied to Cerdanya workshop culture in the mid-thirteenth century"
+      - label: "Death"
+        value: "Unknown; probably after the early fourteenth-century phase of the attributed corpus"
+
+  - title: "KEY WORKS"
+    list:
+      - "Frontal of Sant Miquel de Soriguerola, MNAC, Barcelona"
+      - "Lateral Saint Michael and apostle panels, MNAC and Museu Episcopal de Vic"
+      - "Altarpiece of Saint Christopher, MNAC"
+      - "Altarpiece of Saint Eugenia, Musée des Arts Décoratifs, Paris"
+      - "Frontal of Saint Vincent, Sant Vicenç de La Llagona (Capcir)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Strong Romanesque linear structure with vivid chromatic fields"
+      - "Progressive Gothic inflection in gesture, drapery, and facial differentiation"
+      - "Narrative compartmentalization with micro-architectural framing"
+
+  - title: "PATRONS"
+    list:
+      - "Sant Miquel de Soriguerola and its monastic dependencies"
+      - "Santa Maria de Serrateix and related Benedictine networks"
+      - "Parish churches and regional devotional communities in the Pyrenees"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Romanesque workshop systems of Cerdanya"
+      - "Major Sant Miquel frontal commission"
+      - "Mature production of lateral panels and saint cycles"
+      - "Late diffusion through workshop/circle attributions"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Saint Michael psychostasis"
+      - "Regional saint cults"
+      - "Romanesque-Gothic transition"
+      - "Catalan Pyrenean altarpieces"
+      - "Monastic patronage"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Pietro Cavallini"
+        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.md"
+
 author: "Maestro di Soriguerola"
-role: "Anonymous Catalan panel painter and workshop leader at the transition from Romanesque to Gothic"
-dates: "c. 1230 – after c. 1300 (active between late 13th and early 14th century)"
-birth_place: "Probably Cerdanya region (area of Puigcerdà, Eastern Catalan Pyrenees)"
-death_place: "Unknown; likely in Cerdanya or the Catalan Pyrenees in the early 14th century"
+role: "Anonymous Catalan panel painter and workshop leader at the Romanesque-Gothic transition"
+birth_place: "Probably Cerdanya region (Eastern Catalan Pyrenees)"
+death_place: "Unknown"
 period: "XIII–early XIV century"
+
 key_works:
-  - "Frontal of Sant Miquel de Soriguerola, Museu Nacional d’Art de Catalunya (MNAC), Barcelona"
-  - "Lateral panels with Saint Michael weighing souls and Saints Peter and Paul, MNAC Barcelona and Museu Episcopal de Vic"
-  - "Altarpiece of Saint Christopher, MNAC Barcelona"
-  - "Altarpiece of Saint Eugenia, Musée des Arts Décoratifs, Paris"
-  - "Frontal of Saint Vincent, church of Sant Vicenç de La Llagona, Capcir"
-tradition: "Catalan panel painting in the Eastern Pyrenees between Romanesque heritage and early Gothic innovations"
-artistic_style: "Romanesque linearity and flat color fields combined with increasingly Gothic figural expressiveness and narrative clarity"
-founders_and_patrons:
-  - "Church of Sant Miquel de Soriguerola, dependent on the monastery of Santa Maria de Serrateix"
-  - "Santa Maria de Serrateix and other Benedictine and regional monastic institutions"
-  - "Parish churches in Cerdanya, Ripollès, Conflent and Capcir"
-  - "Local lay patrons and confraternities in the Eastern Pyrenees"
-key_phases:
-  - "Formation in mid-thirteenth-century Romanesque workshop culture in Cerdanya"
-  - "Major commission of the Frontal of Sant Miquel de Soriguerola (late 13th century)"
-  - "Development of mature Gothic-inflected style in the Saint Michael and apostle lateral panels"
-  - "Early 14th-century production of large altarpieces for Saint Christopher, Saint Eugenia and Saint Vincent"
+  - "Frontal of Sant Miquel de Soriguerola, MNAC"
+  - "Saint Michael and apostle lateral panels, MNAC/Vic"
+  - "Altarpieces of Saint Christopher and Saint Eugenia"
+
+tradition: "Catalan Pyrenean panel painting between Romanesque continuity and early Gothic transformation"
+artistic_style: "Linear Romanesque construction with emergent Gothic expressiveness and narrative articulation"
+
 thematic_keywords:
-  - "Archangel Michael, Last Judgment and psychostasis"
-  - "Cult of regional saints (Christopher, Eugenia, Vincent)"
-  - "Romanesque–Gothic transition in Catalan painting"
-  - "Monastic and parish altarpieces in the Eastern Pyrenees"
-related_entries:
-  - "Sant Miquel de Soriguerola and Santa Maria de Serrateix"
-  - "Museu Nacional d’Art de Catalunya (MNAC), Barcelona"
-  - "Museu Episcopal de Vic"
-  - "Pittura catalana tra Romanico e Gotico nei Pirenei orientali"
+  - "Psychostasis"
+  - "Catalan Romanesque-Gothic transition"
+  - "Pyrenean workshop painting"
+  - "Saint cycles"
+
 category: "artists"
 ---
 

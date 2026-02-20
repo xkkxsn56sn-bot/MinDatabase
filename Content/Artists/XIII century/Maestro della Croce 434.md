@@ -1,35 +1,100 @@
 ---
 layout: entry
 title: "Maestro della Croce 434"
+subtitle: "Anonymous Duecento painter active between Lucchese and Florentine Italo-Byzantine traditions"
+dates: "Active c. 1230–1260 (chronology reconstructed from attributed works)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Mid-Duecento transition from Lucchese to Florentine pictorial culture"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous Tuscan panel painter"
+      - "Specialist in monumental crucifixes and narrative devotional panels"
+      - "Key intermediary between Berlinghieri models and later Florentine developments"
+
+  - title: "LOCATION"
+    list:
+      - "Lucca and Lucchese territory (formative orbit)"
+      - "Florence and surrounding religious institutions"
+      - "Pistoia, Fiesole, and wider central Tuscan commission network"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely late twelfth- or early thirteenth-century Tuscany (inferred)"
+      - label: "Death"
+        value: "Unknown; probably after mid-thirteenth century, with no documented date or cause"
+
+  - title: "KEY WORKS"
+    list:
+      - "Cross 434, Galleria degli Uffizi, Florence"
+      - "Stigmatization of Saint Francis, Uffizi (attributed)"
+      - "Saint Francis dossal with narrative scenes, Museo Civico di Pistoia (shared attribution)"
+      - "Madonna and Child, Abbey of Santa Maria a Rosano"
+      - "Crucifixes in Fiesole (Museo Bandini) and Tereglio (Santa Maria Assunta)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Italo-Byzantine structure intensified by dramatic chiaroscuro and linear highlights"
+      - "Expressive Christus patiens formulas with strong affective emphasis"
+      - "Narrative clarity in multi-scene Passion and Franciscan cycles"
+
+  - title: "PATRONS"
+    list:
+      - "Benedictine and female monastic institutions"
+      - "Franciscan communities and reform-oriented devotional contexts"
+      - "Parish churches and local ecclesiastical patrons in Tuscany"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation within Lucchese workshop culture linked to Berlinghieri models"
+      - "Consolidation through large crucifix and Marian commissions in central Tuscany"
+      - "Expansion into Franciscan narrative imagery and complex dossal formats"
+      - "Posthumous reconstruction of corpus through modern attribution studies"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Christus patiens"
+      - "Franciscan devotion"
+      - "Lucchese-Florentine exchange"
+      - "Duecento crucifix painting"
+      - "Narrative dossal"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.md"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+
 author: "Maestro della Croce 434"
-role: "Anonymous Florentine painter of a large Christus patiens crucifix in the circle of Cimabue"
-dates: "Active late XIII century (c. 1270–1290)"
-birth_place: "Florence or its contado (probable)"
-death_place: "Unknown (probably central Italy)"
+role: "Anonymous Duecento Tuscan painter specializing in crucifixes and Franciscan devotional panels"
+birth_place: "Unknown (likely Tuscany, Lucchese-Florentine milieu)"
+death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Crocifisso n. 434 (Christus patiens), Galleria degli Uffizi, Florence"
-  - "Related crucifixes and panels in Tuscan churches attributed to his hand or workshop"
-tradition: "Florentine Italo‑Byzantine painting in the orbit of Cimabue and early Giotto"
-artistic_style: "Dramatic Christus patiens type with elongated proportions, strong chiaroscuro and expressive pathos, close to Cimabue’s idiom"
-founders_and_patrons:
-  - "Mendicant orders (Franciscans and Dominicans) in Florence and Tuscany"
-  - "Parish churches and confraternities commissioning large crucifixes"
-  - "Urban lay patrons devoted to Passion imagery"
-key_phases:
-  - "Formation within a Florentine Italo‑Byzantine workshop related to Cimabue"
-  - "Execution of the Uffizi Croce 434 as a major crucifix commission"
-  - "Further works for Tuscan churches and confraternities (attributed corpus)"
+  - "Cross 434, Uffizi"
+  - "Stigmatization of Saint Francis, Uffizi"
+  - "Saint Francis dossal, Museo Civico di Pistoia (attributed)"
+
+tradition: "Italo-Byzantine panel painting at the intersection of Lucchese and Florentine Duecento practice"
+artistic_style: "High-contrast modeling, linear vitality, and emotionally charged Passion iconography"
+
 thematic_keywords:
-  - "Christus patiens crucifix iconography"
-  - "Florentine Duecento painting"
-  - "Mendicant spirituality and Passion devotion"
-  - "Cimabue’s circle and followers"
-related_entries:
-  - "Cimabue"
-  - "Giunta Pisano"
-  - "Bonaventura Berlinghieri"
-  - "Florentine mendicant churches and crucifixes"
+  - "Christus patiens"
+  - "Franciscan iconography"
+  - "Duecento Tuscany"
+  - "Monumental crucifixes"
+
 category: "artists"
 ---
 
