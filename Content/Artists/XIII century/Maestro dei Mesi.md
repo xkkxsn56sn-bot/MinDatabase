@@ -1,35 +1,96 @@
 ---
 layout: entry
 title: "Maestro dei Mesi"
+subtitle: "Anonymous sculptor of the Ferrara Months cycle, bridging Romanesque tradition and early Gothic naturalism"
+dates: "Active c. 1220–1235 (approximate, based on style and commissions)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Romanesque to early Gothic transition in northern Italy"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous medieval sculptor"
+      - "Author of the Ferrara Months cycle (Porta dei Pellegrini / Porta dei Mesi)"
+      - "Major interpreter of calendrical, agrarian, and zodiacal iconography in portal sculpture"
+
+  - title: "LOCATION"
+    list:
+      - "Ferrara (cathedral context; core documented activity)"
+      - "Forlì (San Mercuriale lunette attribution)"
+      - "Possible wider northern Italian / Adriatic network connections"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely trained in the Po Valley Romanesque milieu, possibly in dialogue with Antelami traditions"
+      - label: "Death"
+        value: "Unknown; no archival records preserve date, place, or cause"
+
+  - title: "KEY WORKS"
+    list:
+      - "Reliefs of the Months (Porta dei Pellegrini / Porta dei Mesi), originally Ferrara Cathedral, now Museo della Cattedrale"
+      - "Lunette of the Dream and Adoration of the Magi, San Mercuriale, Forlì (widely attributed)"
+      - "Associated sculptural fragments linked to his workshop circle in northern Italy"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Combines Romanesque structural clarity with emerging Gothic naturalism"
+      - "Strong observational detail in tools, crops, clothing, and gestures of labor"
+      - "Balances allegorical time symbolism with vivid social and devotional narrative"
+
+  - title: "PATRONS"
+    list:
+      - "Ferrara cathedral chapter and related ecclesiastical authorities"
+      - "Monastic communities (including San Mercuriale in Forlì)"
+      - "Urban civic-religious environments commissioning didactic portal programs"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in a northern Italian workshop specializing in architectural sculpture"
+      - "Execution of the Ferrara Months cycle as a major public-ecclesiastical commission"
+      - "Extension of style through attributed works and workshop influence across Emilia-Romagna"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Labours of the months"
+      - "Zodiac and sacred time"
+      - "Romanesque-Gothic transition"
+      - "Portal sculpture and civic devotion"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Benedetto Antelami"
+        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.md"
+      - title: "Maestro bizantino del Crocifisso di Pisa"
+        url: "/Content/Artists/XIII%20century/Maestro%20bizantino%20del%20Crocifisso%20di%20Pisa.md"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+
 author: "Maestro dei Mesi"
-role: "Anonymous medieval master associated with a Months cycle combining zodiac and labours of the months"
-dates: "Active XIII century (precise dates uncertain)"
-birth_place: "Northern Italy or Alpine region (probable, inferred from style and patronage)"
+role: "Anonymous sculptor associated with the Ferrara Months cycle and early Gothic narrative relief"
+birth_place: "Unknown (likely northern Italy, Po Valley artistic milieu)"
 death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Sculpted or painted Months cycle with zodiac signs and labours (Menschen der Monate) in a major ecclesiastical or civic context"
-  - "Related reliefs and figures of seasonal labours in portals, archivolts, or capitals attributed to the same hand or workshop"
-tradition: "Romanesque and early Gothic figurative cycles of time, seasons, and agricultural labour in architectural sculpture and painting"
-artistic_style: "Synthesis of late Romanesque linearity and emerging Gothic interest in bodily movement, costume detail, and observational genre scenes"
-founders_and_patrons:
-  - "Cathedral and collegiate chapters commissioning sculpted portals and choir enclosures"
-  - "Monastic communities promoting liturgical and calendrical cycles"
-  - "Civic authorities interested in cosmic and agrarian imagery in public spaces"
-key_phases:
-  - "Formation within a workshop specialized in architectural sculpture and figurative relief"
-  - "Execution of the principal Months cycle with zodiac and labours program"
-  - "Dissemination of motifs through workshop followers and regional cycles of the Months"
+  - "Months relief cycle from Ferrara Cathedral (now Museo della Cattedrale)"
+  - "Dream and Adoration of the Magi lunette, San Mercuriale, Forlì"
+  - "Attributed related relief fragments in northern Italy"
+
+tradition: "Romanesque architectural sculpture evolving toward Gothic narrative naturalism"
+artistic_style: "Refined low-to-high relief carving, observational detail, and symbolic calendrical iconography"
+
 thematic_keywords:
   - "Labours of the months"
-  - "Zodiac and cosmic order"
-  - "Romanesque–Gothic transition in sculpture"
-  - "Time, liturgy, and agrarian cycles"
-related_entries:
-  - "Giunta Pisano and Pisan school"
-  - "Maestro bizantino del Crocifisso di Pisa"
-  - "Romanesque portals and sculpted calendars"
-  - "Zodiac cycles in medieval churches"
+  - "Zodiac imagery"
+  - "Portal relief sculpture"
+  - "Duecento northern Italy"
+
 category: "artists"
 ---
 

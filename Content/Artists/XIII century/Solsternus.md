@@ -1,33 +1,92 @@
 ---
 layout: entry
 title: "Solsternus"
+subtitle: "Master mosaicist documented by the signed Deesis on the façade of Spoleto Cathedral (1207)"
+dates: "Active c. 1207 (known through a single signed commission)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "Early XIII century"
+      - "Transition between Romanesque and Byzantine-oriented monumental decoration in central Italy"
+
+  - title: "ROLE"
+    list:
+      - "Master mosaicist"
+      - "Author of the signed cathedral façade mosaic at Spoleto"
+      - "Documented as 'Doctor Solsternus' in the inscription"
+
+  - title: "LOCATION"
+    list:
+      - "Spoleto (documented activity)"
+      - "Umbria, within central Italian ecclesiastical patronage networks"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown"
+      - label: "Death"
+        value: "Unknown"
+
+  - title: "KEY WORKS"
+    list:
+      - "Deesis mosaic on the façade of Spoleto Cathedral (1207, signed)"
+      - "Inscribed façade program naming assistants Palmerio di Sanso, Transerico di Enrico, and Diotisalvi Pinguirini"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Byzantine-oriented monumental mosaic language adapted to a Romanesque cathedral façade"
+      - "Strong hieratic composition centered on Christ Pantocrator with Marian and Johannine intercession"
+      - "Careful handling of gold tesserae, symbolic color fields, and liturgical gesture"
+      - "Self-conscious claim to artistic modernity in the inscription ('summus in arte modernus')"
+
+  - title: "PATRONS"
+    list:
+      - "Ecclesiastical authorities of Spoleto Cathedral (Santa Maria Assunta)"
+      - "Cathedral building administration in the post-Barbarossa reconstruction phase"
+
+  - title: "KEY PHASES"
+    list:
+      - "Probable formation within Byzantine-influenced mosaic practice"
+      - "Execution of the signed façade mosaic in 1207"
+      - "Later legacy preserved through conservation campaigns of the cathedral façade"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Deesis iconography"
+      - "Byzantine mosaic in medieval Italy"
+      - "Cathedral façade programs"
+      - "Artist signatures in the Duecento"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Spoleto Cathedral (Santa Maria Assunta)"
+        url: "/Content/Churches/Spoleto%20Cathedral.md"
+      - title: "Alberto Sotio"
+        url: "/Content/Artists/XII%20century/Alberto%20Sotio.md"
+      - title: "Byzantine mosaic traditions in Italy"
+        url: "/Content/Topics/Byzantine%20mosaic%20traditions%20in%20Italy.md"
+      - title: "Deesis iconography"
+        url: "/Content/Topics/Deesis%20iconography.md"
+
 author: "Solsternus"
-role: "Thirteenth-century master metalworker and enameller known from a signed Limoges-style crucifix"
-dates: "Active XIII century (mid-thirteenth century)"
-birth_place: "Uncertain; probably from the Limoges region or another centre of champlevé enamel production"
+role: "Master mosaicist documented by the signed Deesis on the façade of Spoleto Cathedral (1207)"
+birth_place: "Unknown"
 death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Enamelled crucifix signed by Solsternus (Limoges-type work, now in a major European collection)"
-  - "Related enamel plaques and metalwork objects attributed to the same hand or workshop"
-tradition: "Limoges champlevé enamel and metalwork in the service of liturgical furnishings and devotional imagery"
-artistic_style: "Refined champlevé enamel with linear drawing, saturated colour fields, and stylised yet expressive figures"
-founders_and_patrons:
-  - "Cathedral chapters and monastic communities acquiring enamelled processional and altar crosses"
-  - "Urban confraternities and lay patrons commissioning portable reliquaries and crucifixes"
-key_phases:
-  - "Formation within a Limoges enamel workshop milieu"
-  - "Execution of the signed crucifix that preserves his name"
-  - "Dissemination of his models through workshop production and regional exports"
+  - "Deesis mosaic on the façade of Spoleto Cathedral (1207, signed)"
+
+tradition: "Byzantine mosaic practice in central Italy, adapted to Romanesque cathedral architecture"
+artistic_style: "Hieratic Byzantine figuration, luminous gold ground, and refined tessera modulation in monumental ecclesiastical decoration"
+
 thematic_keywords:
-  - "Limoges enamel"
-  - "Enamelled crucifixes and metalwork"
-  - "Gothic goldsmiths and itinerant craftsmen"
-  - "Thirteenth-century devotional objects"
-related_entries:
-  - "Limoges workshops and champlevé enamels"
-  - "Thirteenth-century metalwork crucifixes"
-  - "French Gothic goldsmithing"
+  - "Deesis"
+  - "Spoleto Cathedral façade mosaic"
+  - "Byzantine influence in Duecento Italy"
+  - "Signed medieval artworks"
+
 category: "artists"
 ---
 

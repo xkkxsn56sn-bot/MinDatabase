@@ -1,43 +1,107 @@
 ---
 layout: entry
 title: "Nicola Pisano (Nicola d’Apulia)"
+subtitle: "Sculptor and architect, founder of classicising Gothic sculpture in Italy"
+dates: "c. 1210/1225 – between 1278 and 1284"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Duecento sculptural renewal in central Italy"
+
+  - title: "ROLE"
+    list:
+      - "Sculptor and architect"
+      - "Founder of classicising Gothic sculpture in Italy"
+      - "Workshop master active across Tuscany, Emilia, and Umbria"
+
+  - title: "LOCATION"
+    list:
+      - "Apulia (southern origins attested in documents)"
+      - "Pisa (principal workshop and civic identity)"
+      - "Siena, Bologna, Perugia (major commissions)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Region of Apulia, Kingdom of Sicily, probably between c. 1210 and 1225"
+      - label: "Death"
+        value: "Probably Pisa or Siena, between 1278 and 1284"
+
+  - title: "KEY WORKS"
+    list:
+      - "Pulpit of the Baptistery of Pisa (c. 1259–1260)"
+      - "Pulpit of Siena Cathedral (1265–1268)"
+      - "Fontana Maggiore, Perugia (with Giovanni Pisano, 1275–1278)"
+      - "Arca di San Domenico, Bologna (design and original sculptural nucleus)"
+      - "Sculptures for Lucca Cathedral and other Tuscan building sites (attributed)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Synthesis of ancient Roman sculptural models and Gothic narrative relief"
+      - "Massive, volumetric bodies and deeply cut drapery"
+      - "Doctrinal clarity in complex biblical and civic iconographic cycles"
+      - "Pivotal mediator between Romanesque traditions and proto-Renaissance naturalism"
+
+  - title: "PATRONS"
+    list:
+      - "Court of Frederick II of Swabia and imperial administrators in Apulia"
+      - "Opera of Pisa Cathedral and Baptistery"
+      - "Opera del Duomo of Siena"
+      - "Dominican Order at Bologna (Arca di San Domenico)"
+      - "Commune of Perugia (Fontana Maggiore)"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the classicising environment of Frederick II’s southern Italian court"
+      - "Migration to Pisa and foundation of a major workshop"
+      - "Execution of the Pisa Baptistery pulpit (c. 1259–1260)"
+      - "Siena Cathedral pulpit and Sienese citizenship (1265–1272)"
+      - "Late civic and mendicant commissions: Bologna and Perugia (1270s)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Classicising Gothic sculpture"
+      - "Pulpits and liturgical furnishings"
+      - "Civic fountains and communal identity"
+      - "Transmission of Roman antiquity in thirteenth-century Italy"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giovanni Pisano"
+        url: "/Content/Artists/XIII%20century/Giovanni%20Pisano.md"
+      - title: "Arnolfo di Cambio"
+        url: "/Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.md"
+      - title: "Pisa Baptistery"
+        url: "/Content/Churches/Pisa%20Baptistery.md"
+      - title: "Siena Cathedral"
+        url: "/Content/Churches/Siena%20Cathedral.md"
+      - title: "Fontana Maggiore, Perugia"
+        url: "/Content/Topics/Fontana%20Maggiore%20Perugia.md"
+
 author: "Nicola Pisano"
 role: "Sculptor and architect, founder of classicising Gothic sculpture in Italy"
-dates: "c. 1210/1225 – between 1278 and 1284"
-birth_place: "Region of Apulia, Kingdom of Sicily (southern Italian origin attested in documents as 'magister Nichola de Apulia')"
+birth_place: "Region of Apulia, Kingdom of Sicily (southern origin attested as 'magister Nichola de Apulia')"
 death_place: "Probably Pisa or Siena, after completion of the Fontana Maggiore in Perugia"
 period: "XIII century"
+
 key_works:
   - "Pulpit of the Baptistery of Pisa (c. 1259–1260)"
   - "Pulpit of Siena Cathedral (1265–1268)"
   - "Fontana Maggiore, Perugia (with Giovanni Pisano, 1275–1278)"
   - "Arca di San Domenico, Bologna (design and original sculptural nucleus)"
   - "Sculptures for Lucca Cathedral and other Tuscan building sites (attributed)"
+
 tradition: "Classicising Gothic sculpture at the intersection of Frederick II’s court culture and Tuscan communal workshops"
 artistic_style: "Synthesis of ancient Roman sculptural models and Gothic narrative relief, with massive bodies, deeply cut drapery and theological clarity"
-founders_and_patrons:
-  - "Court of Frederick II of Swabia and imperial administrators in Apulia"
-  - "Opera of Pisa Cathedral and Baptistery"
-  - "Opera del Duomo of Siena"
-  - "Dominican Order at Bologna (Arca di San Domenico)"
-  - "Commune of Perugia (Fontana Maggiore)"
-key_phases:
-  - "Training and early work in the classicising environment of Frederick II’s southern Italian court"
-  - "Migration to Pisa and establishment of a workshop serving the cathedral complex"
-  - "Execution of the Pisa Baptistery pulpit (c. 1259–1260)"
-  - "Siena Cathedral pulpit and acquisition of Sienese citizenship (1265–1272)"
-  - "Design of the Arca di San Domenico in Bologna and the Fontana Maggiore in Perugia (1270s)"
+
 thematic_keywords:
   - "Classicising Gothic sculpture"
   - "Pulpits and liturgical furnishings"
   - "Civic fountains and communal identity"
   - "Transmission of Roman antiquity in thirteenth-century Italy"
-related_entries:
-  - "Giovanni Pisano"
-  - "Arnolfo di Cambio"
-  - "Pisa Cathedral and Baptistery"
-  - "Siena Cathedral and Opera del Duomo"
-  - "Fontana Maggiore, Perugia"
+
 category: "artists"
 ---
 

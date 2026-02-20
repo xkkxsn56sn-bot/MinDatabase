@@ -1,40 +1,101 @@
 ---
 layout: entry
 title: "Manfredino da Pistoia (Manfredino d’Alberto)"
+subtitle: "Pittore pistoiese di formazione cimabuesca attivo tra Toscana e Liguria nel tardo Duecento"
+dates: "Attivo ca. 1274–1293 (documentato)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Tardo Duecento (con proiezione verso il primo Trecento)"
+
+  - title: "ROLE"
+    list:
+      - "Pittore murale e su tavola"
+      - "Interprete della cultura cimabuesca in area pistoiese-ligure"
+      - "Mediatore tra tradizione italo-bizantina e nuove istanze narrative"
+
+  - title: "LOCATION"
+    list:
+      - "Pistoia (contesto originario e prime commissioni)"
+      - "Genova (fase matura documentata nel 1292)"
+      - "Possibili connessioni con Assisi e cantieri umbri"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probabilmente Pistoia; data non documentata"
+      - label: "Death"
+        value: "Ignota; nessuna attestazione certa oltre il 1293"
+
+  - title: "KEY WORKS"
+    list:
+      - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta, Pistoia (1274)"
+      - "Cristo Pantocratore con santi e angeli, San Bartolomeo in Pantano, Pistoia"
+      - "Cena in casa di Simone, San Michele a Fassolo, Genova (Museo di Sant’Agostino)"
+      - "San Michele, da San Michele a Fassolo, Genova (Museo di Sant’Agostino)"
+      - "Madonna con Bambino e angeli, San Andrea a Scandicci (attribuzione discussa)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Base tardo-bizantina con forte impronta cimabuesca"
+      - "Progressiva attenzione a spazio, gesto e pathos narrativo"
+      - "Uso calibrato di monumentalità absidale e racconto episodico"
+
+  - title: "PATRONS"
+    list:
+      - "Opera di San Jacopo, Pistoia"
+      - "Comunità ecclesiali di Santa Maria a Ripalta e San Bartolomeo in Pantano"
+      - "Clero e committenza di San Michele a Fassolo, Genova"
+      - "Possibile committenza aristocratica ligure (es. Andora, opere perdute)"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formazione pistoiese in ambito cimabuesco"
+      - "Primi cicli murali documentati a Pistoia"
+      - "Trasferimento e affermazione nella commissione genovese del 1292"
+      - "Ultima fase tra attribuzioni tarde e dispersione/loss dei cicli"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Cultura cimabuesca"
+      - "Cicli absidali"
+      - "Pistoia-Genova"
+      - "Tardo Duecento"
+      - "Transizione al primo naturalismo"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Pietro Cavallini"
+        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.md"
+      - title: "Guido da Siena"
+        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.md"
+      - title: "Maestro delle Storie di Isacco"
+        url: "/Content/Artists/XIII%20century/Maestro%20delle%20Storie%20di%20Isacco.md"
+
 author: "Manfredino da Pistoia"
 role: "Pittore pistoiese di formazione cimabuesca attivo tra Pistoia e Genova"
-dates: "Attivo ca. 1274–1293"
 birth_place: "Pistoia (probabile)"
-death_place: "XIII secolo, in ambito toscano o ligure (non documentato)"
+death_place: "Ignota"
 period: "XIII century"
+
 key_works:
-  - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta, Pistoia (1274)"
-  - "Cristo Pantocratore con santi e angeli, San Bartolomeo in Pantano, Pistoia"
-  - "Cena in casa di Simone, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
-  - "San Michele, San Michele a Fassolo, Genova (ora Museo di Sant’Agostino)"
-tradition: "Pittura murale toscana e ligure di fine Duecento, nel solco di Cimabue e della cultura figurativa di Assisi"
-artistic_style: "Lingua tardo‑bizantina con forte impronta cimabuesca, interesse per la narrazione, lo spazio e il pathos"
-founders_and_patrons:
-  - "Opera di San Jacopo, Pistoia"
-  - "Comunità ecclesiali di Santa Maria a Ripalta e San Bartolomeo in Pantano"
-  - "Clero e patroni di San Michele a Fassolo, Genova"
-  - "Committenza aristocratica ligure (es. castello di Andora, opere perdute)"
-key_phases:
-  - "Formazione in ambito pistoiese e probabile contatto con il cantiere di Assisi"
-  - "Primi cicli murali a Pistoia (Ascensione a Ripalta, Pantocratore a San Bartolomeo)"
-  - "Spostamento e grande commissione genovese a San Michele a Fassolo (1292)"
-  - "Perdute decorazioni per castello di Andora e altri contesti liguri"
+  - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta"
+  - "Pantocratore di San Bartolomeo in Pantano"
+  - "Cena in casa di Simone, San Michele a Fassolo"
+
+tradition: "Pittura murale toscana e ligure di fine Duecento in dialogo con Cimabue e Assisi"
+artistic_style: "Lingua tardo-bizantina rinnovata da istanze narrative e spaziali di matrice cimabuesca"
+
 thematic_keywords:
-  - "Pittura cimabuesca di fine Duecento"
-  - "Cicli absidali e narrazione evangelica"
-  - "Rapporti tra Pistoia, Assisi e Genova"
-  - "Transizione dall’Italo‑bizantino al primo naturalismo trecentesco"
-related_entries:
-  - "Cimabue"
-  - "Pittura murale genovese del Duecento"
-  - "Santa Maria a Ripalta, Pistoia"
-  - "San Bartolomeo in Pantano, Pistoia"
-  - "San Michele a Fassolo, Genova"
+  - "Cimabuesco"
+  - "Pittura murale duecentesca"
+  - "Pistoia e Genova"
+  - "Transizione duecento-trecento"
+
 category: "artists"
 ---
 

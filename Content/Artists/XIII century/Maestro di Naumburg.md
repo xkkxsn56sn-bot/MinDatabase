@@ -1,41 +1,99 @@
 ---
 layout: entry
 title: "Maestro di Naumburg (Naumburger Meister)"
+subtitle: "Anonymous High Gothic master mason and sculptor active in central Germany"
+dates: "Active c. 1230–1255 (approximate)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "High Gothic expansion in central Europe"
+
+  - title: "ROLE"
+    list:
+      - "Master mason, sculptor, and architectural designer"
+      - "Leading figure in the Naumburg west choir campaign"
+      - "Transmitter of French Gothic naturalism into German cathedral contexts"
+
+  - title: "LOCATION"
+    list:
+      - "Naumburg (principal documented workshop center)"
+      - "Central Germany (Meissen, Merseburg, and related attributions)"
+      - "Probable formative links to northern French Gothic workshops"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely trained in the northern French Gothic sphere (Reims/Amiens hypothesis)"
+      - label: "Death"
+        value: "Unknown; probably after completion of the Naumburg west choir campaign"
+
+  - title: "KEY WORKS"
+    list:
+      - "Donor statue cycle in the west choir, Naumburg Cathedral"
+      - "Westlettner (western choir screen) with Passion reliefs, Naumburg Cathedral"
+      - "Botanical capitals in the Naumburg west choir"
+      - "Bassenheim Descent from the Cross relief (attributed)"
+      - "Related founder figures in Meissen (workshop attribution)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Monumental sculptural realism with individualized psychological presence"
+      - "Refined drapery carving and expressive facial characterization"
+      - "Exceptional integration of sculpture and architectural-liturgical space"
+
+  - title: "PATRONS"
+    list:
+      - "Naumburg cathedral chapter and episcopal authorities"
+      - "Regional noble donors linked to Ekkehardiner memory"
+      - "Ecclesiastical institutions in central German cathedral networks"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in mature Gothic workshop practice"
+      - "Major Naumburg campaign (west choir, donor figures, rood screen)"
+      - "Workshop diffusion and attributed influence in Meissen and Merseburg"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Gothic donor portraiture"
+      - "Cathedral sculpture"
+      - "West choir programs"
+      - "Botanical naturalism in stone"
+      - "French-German Gothic transfer"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Nicola Pisano"
+        url: "/Content/Artists/XIII%20century/Nicola%20Pisano.md"
+      - title: "Arnolfo di Cambio"
+        url: "/Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.md"
+      - title: "Pietro Cavallini"
+        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+
 author: "Maestro di Naumburg"
-role: "Gothic sculptor, architect, and master mason active in central Germany"
-dates: "Active c. 1230–1255"
-birth_place: "Probably northern France (Reims–Amiens area), trained on major Gothic building sites"
-death_place: "Unknown; probably in central Germany after completion of the west choir at Naumburg"
+role: "Anonymous High Gothic master mason and sculptor active in central Germany"
+birth_place: "Unknown (likely linked to northern French Gothic training contexts)"
+death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Cycle of donor statues (twelve life-size figures) in the west choir of Naumburg Cathedral"
-  - "Westlettner (western choir screen) with Passion reliefs, Naumburg Cathedral"
-  - "Naturalistic capitals with more than thirty identified plant species, west choir of Naumburg Cathedral"
-  - "Bassenheim relief of the Descent from the Cross, now in Mainz Cathedral (attributed)"
-  - "Founder figures Otto I and Adelaide of Burgundy in Meissen Cathedral (attributed to the workshop)"
-tradition: "High Gothic architecture and sculpture in central Europe, importing French models into German cathedrals"
-artistic_style: "Highly individual Gothic realism combining psychological portraiture, precise drapery, and botanical naturalism"
-founders_and_patrons:
-  - "Cathedral chapter of Naumburg"
-  - "Bishop Dietrich II von Meißen and regional episcopal patrons"
-  - "Ekkehardiner dynasty (Ekkehard II, Uta von Ballenstedt, Hermann I, Reglindis)"
-  - "Chapters of Meissen and Merseburg Cathedrals (for associated works)"
-key_phases:
-  - "Probable training in the great Gothic workshops of northern France (Reims–Amiens)"
-  - "Early activity on central German cathedral projects"
-  - "Major campaign in the west choir of Naumburg Cathedral (donor figures, choir screen, capitals)"
-  - "Subsequent work or workshop diffusion in Meissen and Merseburg"
+  - "Donor figure cycle, Naumburg west choir"
+  - "Westlettner with Passion scenes, Naumburg Cathedral"
+  - "Attributed related works in Meissen and Merseburg"
+
+tradition: "High Gothic cathedral architecture and sculpture across French-German artistic exchange routes"
+artistic_style: "Psychological portraiture, deep drapery carving, and architecturally integrated sculptural naturalism"
+
 thematic_keywords:
-  - "Gothic donor portraiture"
-  - "Cathedral architecture and integrated sculpture"
-  - "Naturalistic plant capitals"
-  - "Transference of French Gothic to central Germany"
-related_entries:
-  - "Naumburg Cathedral"
-  - "Meissen Cathedral"
-  - "Merseburg Cathedral"
-  - "Ekkehardiner founders and Uta von Naumburg"
-  - "High Gothic sculpture in Germany"
+  - "Naumburg donor statues"
+  - "High Gothic realism"
+  - "Cathedral workshops"
+  - "Central German Gothic"
+
 category: "artists"
 ---
 

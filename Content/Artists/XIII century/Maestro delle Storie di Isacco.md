@@ -1,35 +1,97 @@
 ---
 layout: entry
 title: "Maestro delle Storie di Isacco"
+subtitle: "Anonymous late Duecento master of the Isaac frescoes in the Upper Basilica of San Francesco, Assisi"
+dates: "Active c. 1290–1295 (proposed chronology for the Assisi cycle)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Late Duecento transition toward Proto-Renaissance naturalism"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous fresco painter in the Assisi campaigns"
+      - "Author of the Isaac Stories in the Upper Basilica"
+      - "Key transitional figure between Italo-Byzantine conventions and Giottesque spatial narrative"
+
+  - title: "LOCATION"
+    list:
+      - "Assisi (Upper Basilica of San Francesco, documented work context)"
+      - "Likely connected to Florentine and/or Roman artistic networks"
+      - "Central Italy (broader workshop circulation remains debated)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; biography debated due to unresolved attribution (young Giotto vs independent master)"
+      - label: "Death"
+        value: "Unknown; no secure archival records identify date, place, or cause"
+
+  - title: "KEY WORKS"
+    list:
+      - "Isaac Blessing Jacob, Upper Basilica of San Francesco, Assisi"
+      - "Esau Before Isaac, Upper Basilica of San Francesco, Assisi"
+      - "Possible additional campaign participation in the Assisi nave (attribution debated)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Advanced spatial construction with coherent architectural interiors"
+      - "Volumetric figure modeling and psychologically charged gesture"
+      - "Narrative clarity that anticipates Trecento fresco developments"
+
+  - title: "PATRONS"
+    list:
+      - "Franciscan institutional patronage at San Francesco, Assisi"
+      - "Ecclesiastical administrators of the Upper Basilica decoration campaigns"
+      - "Collaborative workshop context under major late Duecento masters"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in a high-level workshop environment (Florentine/Roman/Umbria hypotheses)"
+      - "Execution of Isaac cycle frescoes within the Assisi clerestory program"
+      - "Enduring historiographical legacy through attribution debates"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Isaac cycle"
+      - "Assisi Upper Basilica"
+      - "Proto-Renaissance space"
+      - "Cimabue-Giotto transition"
+      - "Franciscan visual theology"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.md"
+      - title: "Pietro Cavallini"
+        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.md"
+      - title: "Maestro della Croce 434"
+        url: "/Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.md"
+
 author: "Maestro delle Storie di Isacco"
-role: "Anonymous Florentine painter associated with the Isaac Stories panel in the circle of Cimabue and early Giotto"
-dates: "Active late XIII century (c. 1280–1290)"
-birth_place: "Florence or its contado (probable)"
-death_place: "Unknown (probably central Italy)"
+role: "Anonymous late Duecento fresco master associated with the Isaac narratives at Assisi"
+birth_place: "Unknown"
+death_place: "Unknown"
 period: "XIII century"
+
 key_works:
-  - "Storie di Isacco (Isaac Stories) panel, usually associated with the Bardi or Peruzzi Chapel programs and with early Giottesque experiments"
-  - "Related narrative panels and fragments in Florence attributed to his hand or workshop"
-tradition: "Florentine narrative panel painting at the transition from Cimabue’s maniera greca to Giotto’s naturalism"
-artistic_style: "Giottesque tendency toward volumetric figures and clear spatial staging, still rooted in late Italo‑Byzantine line and color"
-founders_and_patrons:
-  - "Florentine mendicant churches (Franciscan and Dominican contexts)"
-  - "Urban elite families commissioning narrative cycles from the Giotto circle"
-  - "Confraternities and lay patrons tied to major city churches"
-key_phases:
-  - "Formation within a workshop close to Cimabue and early Giotto"
-  - "Execution of the Isaac Stories panel that gives the master his conventional name"
-  - "Further narrative and devotional works for Florentine churches (attributed corpus)"
+  - "Isaac Blessing Jacob, Assisi"
+  - "Esau Before Isaac, Assisi"
+  - "Associated Assisi campaign passages (debated)"
+
+tradition: "Late Duecento narrative fresco at the intersection of Italo-Byzantine practice and emerging naturalism"
+artistic_style: "Spatially coherent architecture, volumetric figures, and psychologically attentive biblical storytelling"
+
 thematic_keywords:
-  - "Old Testament narrative cycles"
-  - "Giottesque reform of Tuscan painting"
-  - "Dialogue with Cimabue and Giotto"
-  - "Florentine Duecento–Trecento transition"
-related_entries:
-  - "Cimabue"
-  - "Giotto di Bondone"
-  - "Maestro della Croce 434"
-  - "Florentine mendicant churches and narrative painting"
+  - "Isaac Stories"
+  - "Assisi frescoes"
+  - "Proto-Renaissance"
+  - "Giotto attribution debate"
+
 category: "artists"
 ---
 

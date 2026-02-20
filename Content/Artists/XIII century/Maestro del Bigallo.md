@@ -1,35 +1,100 @@
 ---
 layout: entry
 title: "Maestro del Bigallo"
+subtitle: "Anonymous early Florentine Duecento painter, named after the Bigallo crucifix"
+dates: "Active c. 1215–1255/1260 (reconstructed chronology)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Early Florentine Duecento before Cimabue"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous Florentine panel painter"
+      - "Author of major Marian panels and monumental crucifixes"
+      - "Key mediator between Lucchese, Pisan, and early Florentine maniera greca"
+
+  - title: "LOCATION"
+    list:
+      - "Florence (core activity)"
+      - "Fiesole and Florentine contado (documented commission contexts)"
+      - "Wider circulation of works through later collecting histories"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely late twelfth-century Tuscany based on reconstructed chronology"
+      - label: "Death"
+        value: "Unknown; likely after mid-thirteenth century, with no archival record of date or cause"
+
+  - title: "KEY WORKS"
+    list:
+      - "Crucifix in Museo del Bigallo, Florence (work giving the notname)"
+      - "Dossal of Saint Zenobius, Museo dell’Opera del Duomo, Florence"
+      - "Madonna and Child, Cathedral of Fiesole"
+      - "Madonna Bardini, Uffizi, and related Marian variants"
+      - "Crucifixes now in Rome (Palazzo Barberini) and Chicago (Art Institute)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Byzantine-based hierarchy with growing Florentine volumetric clarity"
+      - "Strong chromatic contrasts, gold-ground luminosity, and disciplined linear drapery"
+      - "Transition across crucifix types from Christus triumphans toward Christus patiens"
+
+  - title: "PATRONS"
+    list:
+      - "Florentine cathedral and ecclesiastical institutions"
+      - "Parish and rural communities in the Florentine sphere"
+      - "Urban confraternal and charitable devotional environments"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early Marian panels for Fiesole and Florentine religious contexts"
+      - "Major cathedral commission focused on Saint Zenobius"
+      - "Production of monumental crucifixes for liturgical and devotional display"
+      - "Post-medieval rediscovery through collections and museum scholarship"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Florentine Duecento"
+      - "Maniera greca adaptation"
+      - "Saint Zenobius cult"
+      - "Monumental crucifix painting"
+      - "Marian enthroned iconography"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.md"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Guido da Siena"
+        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.md"
+
 author: "Maestro del Bigallo"
-role: "Anonymous Florentine painter active in the circle of Giotto, named from the Bigallo tabernacle"
-dates: "Active mid-XIV century (c. 1340–1360)"
-birth_place: "Florence or its contado (probable)"
-death_place: "Florence (probable)"
-period: "XIV century"
+role: "Anonymous early Florentine Duecento painter known for Marian panels and monumental crucifixes"
+birth_place: "Unknown (likely Tuscany)"
+death_place: "Unknown"
+period: "XIII century"
+
 key_works:
-  - "Painted decoration of the tabernacle of the Misericordia and Compagnia del Bigallo, Florence (Madonna della Misericordia and narrative scenes)"
-  - "Panels and fresco fragments in Florence attributed to his hand or workshop"
-tradition: "Florentine confraternal and civic painting in the wake of Giotto and his followers"
-artistic_style: "Giottesque narrative language with solid volumes, clear spatial staging and devotional intensity, tempered by local Florentine refinements"
-founders_and_patrons:
-  - "Compagnia di Santa Maria della Misericordia and Compagnia del Bigallo"
-  - "Florentine confraternities and charitable institutions"
-  - "Urban lay patrons linked to mendicant churches"
-key_phases:
-  - "Training within a Giottesque workshop in Florence"
-  - "Commission for the Bigallo tabernacle in Piazza del Duomo"
-  - "Further confraternal and ecclesiastical works in mid-fourteenth-century Florence"
+  - "Crucifix, Museo del Bigallo, Florence"
+  - "Dossal of Saint Zenobius, Museo dell’Opera del Duomo"
+  - "Madonna and Child, Fiesole Cathedral"
+
+tradition: "Early Florentine panel painting shaped by Byzantine, Lucchese, and Pisan currents"
+artistic_style: "Structured Italo-Byzantine language with emerging Florentine plastic rhythm and luminous colour"
+
 thematic_keywords:
-  - "Confraternities and charity in Florence"
-  - "Madonna della Misericordia iconography"
-  - "Giottesque narrative cycles"
-  - "Public tabernacles and urban devotion"
-related_entries:
-  - "Giotto di Bondone"
-  - "Taddeo Gaddi"
-  - "Orcagna (Andrea di Cione) and mid-Trecento Florence"
-  - "Compagnia del Bigallo and confraternal art"
+  - "Duecento Florence"
+  - "Monumental crucifixes"
+  - "Marian devotion"
+  - "Saint Zenobius"
+
 category: "artists"
 ---
 
