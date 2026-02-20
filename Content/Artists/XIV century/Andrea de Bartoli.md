@@ -1,39 +1,98 @@
 ---
 layout: entry
 title: "Andrea de Bartoli (Andrea da Bologna)"
+subtitle: "Bolognese painter and illuminator active between manuscript culture, court commissions, and monumental fresco cycles"
+dates: "active c. 1355 – after 1369"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Mid-Trecento Bolognese Gothic with neo-Giottesque developments"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese painter and illuminator"
+      - "Collaborator of Bartolomeo de’ Bartoli"
+      - "Artist for cardinalatial and courtly-ecclesiastical patronage"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna (probable origin and formative milieu)"
+      - "Pavia (Visconti court chapel commissions)"
+      - "Assisi (Lower Church of San Francesco, Chapel of Saint Catherine)"
+      - "Central-northern Italian ecclesiastical networks linked to papal legates"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Bologna, early fourteenth century"
+      - label: "Death"
+        value: "Unknown (likely after 1369, possibly in Bologna or nearby territories)"
+
+  - title: "KEY WORKS"
+    list:
+      - "Illuminations for the Canzone delle Virtù e delle Scienze, Musée Condé, Chantilly"
+      - "Fresco fragments in the Visconti castle chapel, Pavia"
+      - "Frescoes in the Chapel of Saint Catherine, Lower Church of San Francesco, Assisi (1368–1369)"
+      - "Saint Mark pinnacle, private collection, Ascoli Piceno"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Integrates Bolognese miniature precision with monumental fresco composition"
+      - "Combines Gothic linear elegance and ornamental color richness"
+      - "Adopts selected neo-Giottesque volumetric and spatial strategies"
+      - "Strong narrative clarity in hagiographic and devotional cycles"
+
+  - title: "PATRONS"
+    list:
+      - "Cardinal Egidio Albornoz"
+      - "Cardinal Androin de la Roche"
+      - "Visconti court in Pavia"
+      - "Franciscan patrons at the Basilica of San Francesco, Assisi"
+
+  - title: "KEY PHASES"
+    list:
+      - "Collaboration with Bartolomeo on illuminated literary-manuscript projects (c. 1359)"
+      - "Courtly phase at Pavia under Visconti-linked patronage (c. 1365)"
+      - "Monumental Franciscan fresco cycle at Assisi (1368–1369)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Gothic manuscript illumination"
+      - "Bolognese Trecento painting"
+      - "Neo-Giottesque spatial language"
+      - "Cardinalatial patronage"
+      - "Assisi fourteenth-century fresco cycles"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Vitale da Bologna"
+      - "Simone dei Crocifissi"
+      - "Tommaso da Modena"
+      - "Jacopo Avanzi"
+      - "Cardinal Egidio Albornoz"
+
 author: "Andrea de Bartoli"
 role: "Bolognese painter and illuminator active in the mid-fourteenth century, collaborator of his brother Bartolomeo and court artist for major ecclesiastical patrons"
-dates: "active c. 1355 – after 1369"
 birth_place: "Bologna (probable)"
 death_place: "Unknown, possibly Bologna"
 period: "XIV century"
+
 key_works:
   - "\"Canzone delle Virtù e delle Scienze\", illuminated manuscript, Musée Condé, Chantilly"
   - "Frescoes in the Visconti castle chapel, Pavia (fragments)"
   - "Fresco cycle in the Chapel of Saint Catherine, Lower Church of San Francesco, Assisi"
   - "Saint Mark pinnacle, private collection, Ascoli Piceno"
+
 tradition: "Bolognese Gothic painting and manuscript illumination in dialogue with Giottesque and neo-Gothic currents"
 artistic_style: "Synthesis of Bolognese miniature refinement and neo-Giottesque monumentality, with rich colour, linear elegance, and growing spatial awareness"
-founders_and_patrons:
-  - "Cardinal Egidio Albornoz"
-  - "Cardinal Androin de la Roche"
-  - "Visconti court in Pavia"
-  - "Basilica di San Francesco, Assisi"
-key_phases:
-  - "Illumination of the \"Canzone delle Virtù e delle Scienze\" for Cardinal Albornoz (c. 1359)"
-  - "Court commission at the Visconti castle in Pavia (c. 1365)"
-  - "Fresco cycle in the Chapel of Saint Catherine in the Lower Church of San Francesco, Assisi (1368–1369)"
 thematic_keywords:
   - "Gothic manuscript illumination"
   - "Neo-Giottesque Bolognese painting"
   - "Cardinalatial and papal patronage"
   - "Assisi fresco cycles in the fourteenth century"
-related_entries:
-  - "Vitale da Bologna"
-  - "Simone dei Crocifissi"
-  - "Tommaso da Modena"
-  - "Jacopo Avanzi"
-  - "Cardinal Egidio Albornoz"
+
 category: "artists"
 ---
 

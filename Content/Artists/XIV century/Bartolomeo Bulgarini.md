@@ -1,36 +1,98 @@
 ---
 layout: entry
 title: "Bartolomeo Bulgarini"
+subtitle: "Sienese master of the mid-Trecento, heir to Duccio and guardian of a refined devotional language after the Black Death"
+dates: "Documented c. 1338–1378 (fl. mid-XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Mid-Trecento Siena, from pre-plague maturity to post-1348 continuity"
+
+  - title: "ROLE"
+    list:
+      - "Sienese panel painter"
+      - "Heir to Ducciesque and Lorenzettian traditions"
+      - "Major custodian of civic-religious imagery in post-plague Siena"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (principal and near-exclusive field of activity)"
+      - "Sienese contado and related ecclesiastical networks"
+      - "Connections to cathedral and hospital institutions"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena, c. 1300–1310"
+      - label: "Death"
+        value: "Siena, 4 September 1378"
+
+  - title: "KEY WORKS"
+    list:
+      - "St. Victor Altarpiece for Siena Cathedral (c. 1348–1350, now dispersed)"
+      - "Assumption of the Virgin with Doubting Thomas for Santa Maria della Scala (c. 1360s)"
+      - "Altarpieces for the Santissima Annunziata of Santa Maria della Scala (including 1371 documented commission)"
+      - "Saint Catherine of Alexandria and related dispersed polyptych panels (Washington/Rome/Lucca group)"
+      - "Biccherna covers for the Sienese commune (documented 1338, 1341, 1342)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Gold-ground panel painting of high technical refinement"
+      - "Elegant linearity, contemplative figures, and controlled emotional intensity"
+      - "Sustained Ducciesque softness with Lorenzettian structural awareness"
+      - "Increasing ornamental richness in late works through punchwork and pastiglia"
+
+  - title: "PATRONS"
+    list:
+      - "Commune of Siena"
+      - "Opera del Duomo (Siena Cathedral chapter)"
+      - "Hospital of Santa Maria della Scala"
+      - "Sienese confraternities and parish/religious institutions"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early civic commissions (Biccherna and communal works, late 1330s–1340s)"
+      - "Cathedral-level recognition with the St. Victor commission (c. 1348–1350)"
+      - "Post-plague consolidation as leading Sienese panel painter"
+      - "Late hospital commissions and oblate phase at Santa Maria della Scala (1360s–1378)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Sienese Trecento altarpieces"
+      - "Marian devotion in Siena"
+      - "Predella narrative cycles"
+      - "Ducciesque continuity after 1348"
+      - "Civic and hospital patronage"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Duccio di Buoninsegna"
+      - "Pietro Lorenzetti"
+      - "Ambrogio Lorenzetti"
+      - "Simone Martini"
+      - "Siena Cathedral and Opera del Duomo"
+
 author: "Bartolomeo Bulgarini"
 role: "Sienese painter active in the mid-fourteenth century, heir to Duccio and precursor of later Sienese refinement"
-dates: "Documented c. 1338–1378 (fl. mid-XIV century)"
 birth_place: "Siena"
 death_place: "Siena (probable)"
 period: "XIV century"
+
 key_works:
   - "Altarpiece for the high altar of Siena Cathedral (now dispersed; central panel and fragments in various collections)"
   - "Madonna and Child with Saints panels for Sienese churches (various museums)"
   - "Narrative predella scenes with the life of the Virgin and of Christ (dispersed)"
+
 tradition: "Sienese Trecento painting following Duccio, Simone Martini and the Lorenzetti, with a conservative yet highly refined devotional language"
 artistic_style: "Elegant linearity, subtle chromatic harmonies and quiet, contemplative devotional tone, maintaining Ducciesque softness while absorbing mid-Trecento developments"
-founders_and_patrons:
-  - "Cathedral chapter (Opera del Duomo) of Siena"
-  - "Sienese confraternities and lay patrons"
-  - "Parish churches and religious houses in Siena and its contado"
-key_phases:
-  - "Formation within the mid-Trecento Sienese milieu shaped by Duccio’s legacy"
-  - "Major cathedral and confraternal commissions in Siena"
-  - "Mature production of altarpieces and predelle for Sienese devotional contexts"
 thematic_keywords:
   - "Sienese Trecento altarpieces"
   - "Marian devotion in Siena"
   - "Predella narrative cycles"
   - "Ducciesque heritage in mid-fourteenth century"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Simone Martini"
-  - "Pietro Lorenzetti"
-  - "Siena Cathedral and Opera del Duomo"
+
 category: "artists"
 ---
 
