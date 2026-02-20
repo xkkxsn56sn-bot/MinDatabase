@@ -1,12 +1,89 @@
 ---
 layout: entry
 title: "Andrea di Bonaiuto (Andrea da Firenze)"
+subtitle: "Fresco painter and designer of complex Dominican theological programs"
+dates: "March 1319 – July 1377"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Trecento Florentine painting after Giotto"
+
+  - title: "ROLE"
+    list:
+      - "Fresco painter"
+      - "Designer of Dominican theological iconographic programs"
+      - "Key interpreter of post-Giottesque religious narrative in Florence"
+
+  - title: "LOCATION"
+    list:
+      - "Florence (parish of Santa Maria Novella, principal activity)"
+      - "Pisa (late commissions at the Camposanto Monumentale)"
+      - "Orvieto and broader Tuscan-Umbran artistic networks"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "March 1319, Florence (parish of Santa Maria Novella)"
+      - label: "Death"
+        value: "July 1377, Pisa, while working at the Camposanto Monumentale"
+
+  - title: "KEY WORKS"
+    list:
+      - "Fresco cycle in the Spanish Chapel (Cappella degli Spagnoli), Santa Maria Novella, Florence"
+      - "Crucifixion, Church Militant and Triumphant, and Triumph of St Thomas Aquinas, Spanish Chapel"
+      - "Portable triptych of the Virgin and Child with Saints and Angels (panels now in Copenhagen and Houston)"
+      - "Saint Luke panel for the hospital of Santa Maria Nuova, Florence (lost)"
+      - "Cartoon for the Coronation of the Virgin stained-glass window, façade of Santa Maria Novella"
+      - "Legend of Saint Ranieri frescoes, Camposanto Monumentale, Pisa (partly preserved)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Conservative Giottesque language with strong linearity"
+      - "Dense theological allegory and didactic narrative clarity"
+      - "Integration of Dominican intellectual themes with monumental fresco cycles"
+      - "Decorative surfaces balancing symbolic hierarchy and civic-religious specificity"
+
+  - title: "PATRONS"
+    list:
+      - "Santa Maria Novella, Florence (Dominican convent and Spanish Chapel)"
+      - "Buonamico (Mico) Guidalotti"
+      - "Arte dei Medici e Speziali, Florence"
+      - "Florence Cathedral (consultative role 1366–1367)"
+      - "Camposanto Monumentale, Pisa, and the cult of Saint Ranieri"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the Florentine Trecento milieu, probably in the circle of Orcagna and Nardo di Cione"
+      - "Mature activity in Florence with the Spanish Chapel cycle (1365–1368)"
+      - "Advisory role for Florence Cathedral and stained-glass design for Santa Maria Novella"
+      - "Late commissions in Pisa, including the Legend of Saint Ranieri"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Dominican theology and Thomistic allegory"
+      - "Spanish Chapel iconographic program"
+      - "Florentine Trecento fresco painting"
+      - "Text-image relationships in mendicant visual culture"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Santa Maria Novella"
+        url: "/Content/Churches/Santa%20Maria%20Novella.md"
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md"
+      - title: "Andrea di Cione (Orcagna)"
+        url: "/Content/Artists/XIII-XIV%20century/Andrea%20di%20Cione%20Orcagna.md"
+      - title: "Camposanto Monumentale, Pisa"
+        url: "/Content/Churches/Camposanto%20Monumentale%20Pisa.md"
+
 author: "Andrea di Bonaiuto"
 role: "Fresco painter and designer of complex Dominican theological programs"
-dates: "March 1319 – July 1377"
 birth_place: "Florence, parish of Santa Maria Novella"
 death_place: "Pisa, while working at the Camposanto Monumentale"
 period: "XIII–XIV century"
+
 key_works:
   - "Fresco cycle in the Spanish Chapel (Cappella degli Spagnoli), Santa Maria Novella, Florence"
   - "Crucifixion, Church Militant and Triumphant, and Triumph of St Thomas Aquinas, Spanish Chapel, Santa Maria Novella"
@@ -14,29 +91,16 @@ key_works:
   - "Saint Luke panel for the hospital of Santa Maria Nuova, Florence (lost)"
   - "Cartoon/design for the Coronation of the Virgin stained-glass window, façade of Santa Maria Novella, Florence"
   - "Legend of Saint Ranieri frescoes, Camposanto Monumentale, Pisa (partly preserved)"
+
 tradition: "Florentine Trecento painting in dialogue with Dominican theology and Giottesque traditions"
 artistic_style: "Conservative Giottesque language with strong linearity, clear theological narration and rich decorative surface"
-founders_and_patrons:
-  - "Santa Maria Novella, Florence (Dominican convent and Spanish Chapel)"
-  - "Buonamico (Mico) Guidalotti"
-  - "Arte dei Medici e Speziali, Florence"
-  - "Florence Cathedral (consultative role 1366–1367)"
-  - "Camposanto Monumentale, Pisa, and the cult of Saint Ranieri"
-key_phases:
-  - "Formation in the Florentine Trecento milieu, probably in the circle of Orcagna and Nardo di Cione"
-  - "Mature activity in Florence with major commission for the Spanish Chapel cycle (1365–1368)"
-  - "Advisory role for Florence Cathedral and stained-glass cartoon for Santa Maria Novella"
-  - "Late career commissions in Pisa, including the Legend of Saint Ranieri at the Camposanto"
+
 thematic_keywords:
   - "Dominican theology and Thomistic allegory"
   - "Spanish Chapel iconographic program"
   - "Florentine Trecento fresco painting"
   - "Relationship between text and image in mendicant orders"
-related_entries:
-  - "Santa Maria Novella, Florence"
-  - "Giotto di Bondone"
-  - "Andrea di Cione (Orcagna)"
-  - "Camposanto Monumentale, Pisa"
+
 category: "artists"
 ---
 

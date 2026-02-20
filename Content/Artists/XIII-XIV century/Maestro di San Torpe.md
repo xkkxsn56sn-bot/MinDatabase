@@ -1,36 +1,101 @@
 ---
 layout: entry
 title: "Maestro di San Torpè"
+subtitle: "Anonymous Tuscan painter named from a panel or cycle for the church of San Torpè"
+dates: "Active c. 1290–1325"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Late Duecento to early Trecento transition in Pisa"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous Tuscan painter"
+      - "Leading Pisan master between Cimabue and Simone Martini"
+      - "Possible historical identification with Vanni di Bindo"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa (principal documented activity)"
+      - "Pisan contado and diocesan territory (Campiglia, Morrona, Latignano, Casciana)"
+      - "Possible Sienese formative phase"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; probably late XIII century (possibly Sienese origin if identified with Vanni di Bindo)"
+      - label: "Death"
+        value: "Unknown; probably after 1318 and before c. 1325"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna and Child associated with the church of San Torpè, Pisa (namesake work)"
+      - "Cinquini polyptych (now divided between Museo Nazionale di San Matteo and Uffizi)"
+      - "Madonna and Child fresco on the triumphal arch of Pisa Cathedral"
+      - "Saint Julia panel (Terreni Museum, Livorno)"
+      - "Additional Marian/devotional panels in London, Providence, Seattle, and Pisan collections"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Gold-ground Italo‑Byzantine structure with refined Sienese chromaticism"
+      - "Strong Cimabuesque expressionism in early phase"
+      - "Progressive assimilation of Giottesque volumetry and directed light"
+      - "Narrative clarity and devotional tenderness in mature works"
+
+  - title: "PATRONS"
+    list:
+      - "Pisa Cathedral chapter and Opera del Duomo"
+      - "Church of San Torpè and associated confraternities"
+      - "Cinquini family and Franciscan settings"
+      - "Hospital and monastic institutions in the Pisan territory"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in late Duecento Tuscan workshops (Siena/Pisa axis)"
+      - "Major cathedral and hospital commissions in Pisa (1302–1315)"
+      - "Mature production of polyptychs and regional devotional panels"
+      - "Late Gothic inflection in works near the 1320s"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Cult of Saint Torpes"
+      - "Tuscan gold-ground painting"
+      - "Transition from maniera greca to Trecento naturalism"
+      - "Local saintly cults and confraternal devotion"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Deodato Orlandi"
+        url: "/Content/Artists/XIII-XIV%20century/Deodato%20Orlandi.md"
+      - title: "Francesco Traini"
+        url: "/Content/Artists/XIII-XIV%20century/Francesco%20Traini.md"
+      - title: "Pisan and Tuscan painting between XIII and XIV century"
+        url: "/Content/Topics/Pisan%20and%20Tuscan%20painting%20between%20XIII%20and%20XIV%20century.md"
+
 author: "Maestro di San Torpè"
 role: "Anonymous Tuscan painter named from a panel or cycle for the church of San Torpè"
-dates: "Active late XIII – early XIV century"
 birth_place: "Tuscany (probable, between Pisa and its hinterland)"
 death_place: "Unknown (probably in Tuscany)"
 period: "XIII–XIV century"
+
 key_works:
   - "Panel painting or dossal for the church of San Torpè (work giving the master’s name)"
   - "Related panels with Saint Torpes and companion saints attributed to the same hand or workshop"
   - "Small Marian and Christological images for Tuscan parish churches (attributed corpus)"
+
 tradition: "Tuscan panel painting between the Pisan and Florentine spheres, in the wake of Giunta Pisano and Giotto"
 artistic_style: "Gold-ground Italo‑Byzantine structure enlivened by growing Giottesque volumetry, narrative clarity, and devotional sweetness"
-founders_and_patrons:
-  - "Church of San Torpè and associated confraternities"
-  - "Parish churches and monasteries in the Pisan–Tuscan area"
-  - "Lay patrons devoted to Saint Torpes and local cults"
-key_phases:
-  - "Formation within late Duecento Tuscan workshops influenced by Giunta Pisano"
-  - "Execution of the San Torpè panel or cycle that defines the master’s identity"
-  - "Subsequent production of related panels and altarpieces for regional churches"
+
 thematic_keywords:
   - "Cult of Saint Torpes"
   - "Tuscan gold-ground painting"
   - "Transition from maniera greca to Trecento naturalism"
   - "Local saintly cults and confraternal devotion"
-related_entries:
-  - "Giunta Pisano"
-  - "Deodato Orlandi"
-  - "Francesco Traini"
-  - "Pisan and Tuscan painting between XIII and XIV century"
+
 category: "artists"
 ---
 

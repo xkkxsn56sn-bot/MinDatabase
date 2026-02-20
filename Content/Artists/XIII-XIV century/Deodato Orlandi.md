@@ -1,36 +1,101 @@
 ---
 layout: entry
 title: "Deodato Orlandi"
+subtitle: "Lucchese painter active between Lucca and Pisa at the transition from Byzantine maniera greca to early Trecento naturalism"
+dates: "Documented 1284–1315 (fl. late XIII – early XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Late Duecento to early Trecento transition in Tuscany"
+
+  - title: "ROLE"
+    list:
+      - "Lucchese painter"
+      - "Regional master active between Lucca and Pisa"
+      - "Mediator between Italo-Byzantine tradition and early Trecento naturalism"
+
+  - title: "LOCATION"
+    list:
+      - "Lucca (probable birthplace and civic base)"
+      - "Pisa and San Piero a Grado (major fresco commissions)"
+      - "San Miniato and the lower Arno devotional network"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Lucca, around 1260"
+      - label: "Death"
+        value: "Before 16 October 1331, likely in the Lucca–Pisa area"
+
+  - title: "KEY WORKS"
+    list:
+      - "Crucifix, San Cerbone near Lucca (signed and dated 1288)"
+      - "Madonna and saints altarpiece, Pisa (signed and dated 1301)"
+      - "Crucifix for Santa Chiara, San Miniato (dated 1301)"
+      - "Fresco cycle of San Piero a Grado (papal portraits and apostolic narratives)"
+      - "Mosaic lunette for Lucca Cathedral (1314, lost)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Strong Italo‑Byzantine structural and iconographic foundations"
+      - "Gradual assimilation of Cimabuesque and proto-Giottesque volumetric modeling"
+      - "Preference for decorative refinement, tooled gold grounds, and narrative legibility"
+      - "Regional workshop practice balancing innovation with devotional conservatism"
+
+  - title: "PATRONS"
+    list:
+      - "Monastic and canonical communities of Lucca and the Pisan contado"
+      - "Caetani family (San Piero a Grado, Jubilee context)"
+      - "Dominican and Franciscan institutions"
+      - "Local lay donors commissioning devotional panels and commemorative works"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the Lucchese Berlinghieri tradition and orbit of Giunta Pisano"
+      - "Cimabuesque turning point in signed Crucifixes (1288 onward)"
+      - "Major fresco and panel activity between Lucca, Pisa, and San Miniato (c. 1300–1315)"
+      - "Late phase marked by selective proto-Giottesque assimilation"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Cult and iconography of Saint Peter"
+      - "Lucchese–Pisan school of painting"
+      - "From maniera greca to early Trecento naturalism"
+      - "Monastic façades and narrative cycles"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Bonaventura Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+      - title: "San Piero a Grado"
+        url: "/Content/Churches/San%20Piero%20a%20Grado.md"
+      - title: "Lucchese and Pisan painting between XIII and XIV centuries"
+        url: "/Content/Topics/Lucchese%20and%20Pisan%20painting%20XIII-XIV%20centuries.md"
+
 author: "Deodato Orlandi"
 role: "Lucchese painter active between Lucca and Pisa at the transition from Byzantine maniera greca to early Trecento naturalism"
-dates: "Documented 1284–1315 (fl. late XIII – early XIV century)"
 birth_place: "Lucca (probable)"
 death_place: "Area of Lucca or Pisa (not documented)"
 period: "XIII–XIV century"
+
 key_works:
   - "Painted decoration of the façade of San Piero a Grado, Pisa (cycle with Popes and scenes from the life of Saint Peter)"
   - "Panel paintings and dossali for churches in Lucca and Pisa (various attributions)"
   - "Devotional images and crucifixes in the Lucchese–Pisan area (attributed to his circle)"
+
 tradition: "Lucchese and Pisan painting after Berlinghiero and Giunta Pisano, in dialogue with early Giottesque developments"
 artistic_style: "Strongly Italo‑Byzantine in structure and iconography, with increasing attention to volume, narrative clarity, and spatial organization"
-founders_and_patrons:
-  - "Monastic and canonical communities of the Pisan contado (San Piero a Grado and other churches)"
-  - "Ecclesiastical authorities and confraternities in Lucca"
-  - "Local lay patrons commissioning panel images and ex‑voto works"
-key_phases:
-  - "Formation in the Lucchese Berlinghieri tradition and in the orbit of Giunta Pisano"
-  - "Major commission for the façade cycle of San Piero a Grado, Pisa (early Trecento)"
-  - "Mature activity between Lucca and Pisa producing panels and narrative cycles for local churches"
+
 thematic_keywords:
   - "Cult and iconography of Saint Peter"
   - "Lucchese–Pisan school of painting"
   - "From maniera greca to early Trecento naturalism"
   - "Monastic façades and narrative cycles"
-related_entries:
-  - "Giunta Pisano"
-  - "Bonaventura Berlinghieri and the Lucchese school"
-  - "San Piero a Grado, Pisa"
-  - "Pittura lucchese e pisana tra XIII e XIV secolo"
+
 category: "artists"
 ---
 

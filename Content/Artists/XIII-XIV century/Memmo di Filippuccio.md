@@ -1,38 +1,99 @@
 ---
 layout: entry
 title: "Memmo di Filippuccio"
+subtitle: "Sienese painter active in San Gimignano, bridge between late Duecento tradition and early Trecento narrative fresco"
+dates: "Documented c. 1303–1325 (fl. early XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Early Trecento Sienese painting in civic and religious contexts"
+
+  - title: "ROLE"
+    list:
+      - "Painter from Siena and San Gimignano"
+      - "Early representative of the Sienese Trecento tradition"
+      - "Founder of the Memmi workshop dynasty (father of Lippo Memmi)"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (formation and family origins)"
+      - "San Gimignano (principal documented activity)"
+      - "Tuscan network including Pisa and Poggibonsi (documented/attributed activity)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena or its contado (probable), in the second half of the thirteenth century"
+      - label: "Death"
+        value: "Probably San Gimignano c. 1325 (exact date undocumented)"
+
+  - title: "KEY WORKS"
+    list:
+      - "Camera del Podestà frescoes, Palazzo del Popolo, San Gimignano (c. 1303–1310)"
+      - "Maestà (jointly commissioned with Lippo Memmi), Sala del Consiglio, Palazzo del Popolo, San Gimignano (1317)"
+      - "Madonna and Child with Saints James and John, San Jacopo al Tempio, San Gimignano (c. 1305)"
+      - "Madonna and Child panel (from dismembered polyptych), Museo Nazionale di San Matteo, Pisa (attributed)"
+      - "Miniatures and historiated initials for choir books in Tuscan ecclesiastical contexts (attributed)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Combines Sienese decorative linearity with increasing volumetric construction"
+      - "Develops narrative clarity in civic and domestic fresco cycles"
+      - "Moves from Byzantine-derived frontality toward Proto-Renaissance spatial staging"
+      - "Key mediator between Duccio’s generation and the Gothic refinement of Simone Martini and Lippo Memmi"
+
+  - title: "PATRONS"
+    list:
+      - "Comune di San Gimignano (official civic commissions)"
+      - "Podestà and civic magistrates of San Gimignano"
+      - "Ecclesiastical institutions including San Jacopo and the Collegiata of San Gimignano"
+      - "Confraternities and regional religious patrons in Tuscany"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation within Sienese workshop and goldsmith-informed visual culture"
+      - "Possible formative exposure to major fresco practice in Assisi"
+      - "Consolidation as civic painter in San Gimignano (1303–1317)"
+      - "Intergenerational workshop phase with Lippo and Federico Memmi"
+      - "Family-artistic alliance with Simone Martini through marriage ties (1324)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Early Sienese Trecento"
+      - "Civic fresco cycles"
+      - "Domestic and profane imagery"
+      - "Workshop dynasty (Memmi family)"
+      - "Transition from maniera greca to Proto-Renaissance"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Simone Martini"
+      - "Giotto di Bondone"
+      - "Duccio di Buoninsegna"
+      - "Lippo Memmi"
+      - "San Gimignano (Palazzo del Popolo)"
+
 author: "Memmo di Filippuccio"
 role: "Painter from Siena and San Gimignano, early representative of the Sienese Trecento tradition"
-dates: "Documented c. 1303–1325 (fl. early XIV century)"
 birth_place: "Siena or its contado (probable), later active in San Gimignano"
 death_place: "San Gimignano or Siena area (not documented with certainty)"
 period: "XIII–XIV century"
+
 key_works:
   - "Frescoes in the Palazzo Comunale (Palazzo Pubblico), San Gimignano (including domestic and civic scenes, partly preserved)"
   - "Frescoes in the Collegiate Church of Santa Maria Assunta, San Gimignano (attributed)"
   - "Panel paintings and dossals for churches in San Gimignano and Siena (various attributions)"
+
 tradition: "Early Sienese school between Duccio and Simone Martini, adapted to communal and domestic contexts in San Gimignano"
 artistic_style: "Soft, lyrical derivation from Duccio and the Sienese maniera, with keen attention to everyday detail and narrative setting"
-founders_and_patrons:
-  - "Comune di San Gimignano (civic commissions for the Palazzo Comunale)"
-  - "Chapter of the Collegiate Church of Santa Maria Assunta"
-  - "Local confraternities and lay patrons in San Gimignano"
-  - "Sienese patrons connected with the early Trecento school"
-key_phases:
-  - "Formation within the Sienese school in the wake of Duccio"
-  - "Transfer and integration into the artistic milieu of San Gimignano"
-  - "Execution of civic and domestic-themed frescoes in the Palazzo Comunale"
-  - "Altarpieces and devotional panels for churches and private chapels"
 thematic_keywords:
   - "Early Sienese Trecento painting"
   - "Civic and domestic imagery in San Gimignano"
   - "Narrative fresco cycles"
   - "Ducciesque heritage and local adaptation"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Simone Martini"
-  - "San Gimignano, Palazzo Comunale"
-  - "Collegiata di Santa Maria Assunta, San Gimignano"
+
 category: "artists"
 ---
 

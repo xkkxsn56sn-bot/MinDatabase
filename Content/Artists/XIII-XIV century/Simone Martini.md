@@ -1,41 +1,102 @@
 ---
 layout: entry
 title: "Simone Martini"
+subtitle: "Leading Sienese master who shaped International Gothic between Siena, Naples, and Avignon"
+dates: "c. 1284 – 1344"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Mature Trecento and early International Gothic"
+
+  - title: "ROLE"
+    list:
+      - "Leading Sienese painter"
+      - "Key figure of the International Gothic style"
+      - "Court-connected artist active in civic, royal, and papal contexts"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (birthplace and principal early career)"
+      - "Assisi (major Franciscan commissions)"
+      - "Naples (Angevin court commissions)"
+      - "Avignon (final papal court phase and death)"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena, c. 1284"
+      - label: "Death"
+        value: "Avignon, 1344"
+
+  - title: "KEY WORKS"
+    list:
+      - "Maestà, Sala del Mappamondo, Palazzo Pubblico, Siena"
+      - "Guidoriccio da Fogliano, Palazzo Pubblico, Siena (attribution debated)"
+      - "Annunciation with Saint Ansanus, Galleria degli Uffizi, Florence (1333, with Lippo Memmi)"
+      - "Saint Louis of Toulouse Crowning Robert of Anjou, Museo di Capodimonte, Naples"
+      - "Frescoes in the Chapel of Saint Martin, Lower Church of San Francesco, Assisi"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Refined linear draftsmanship and aristocratic elegance"
+      - "Sophisticated chromatic harmonies with extensive gold decoration"
+      - "Narrative subtlety and courtly lyricism in sacred and civic painting"
+      - "Central mediator between Sienese Trecento and pan-European Gothic taste"
+
+  - title: "PATRONS"
+    list:
+      - "Comune di Siena and Palazzo Pubblico"
+      - "Opera del Duomo and cathedral patronage in Siena"
+      - "Angevin court of Naples (Robert of Anjou)"
+      - "Papal and curial patrons in Avignon"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Siena in the orbit of Duccio’s legacy"
+      - "Civic monumental commissions in Siena (from 1315)"
+      - "Ecclesiastical and courtly expansion between Assisi and Naples"
+      - "Collaborative maturity with Lippo Memmi (notably the 1333 Annunciation)"
+      - "Final Avignon period at the papal court (c. 1336–1344)"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "International Gothic"
+      - "Sienese Trecento"
+      - "Courtly imagery and Marian iconography"
+      - "Civic painting and political representation"
+      - "Gold-ground panel and fresco refinement"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Duccio di Buoninsegna"
+      - "Lippo Memmi"
+      - "Giotto di Bondone"
+      - "Palazzo Pubblico, Siena"
+      - "Avignon papal court"
+
 author: "Simone Martini"
 role: "Leading Sienese painter and key figure of the International Gothic style"
-dates: "c. 1284 – 1344"
 birth_place: "Siena"
 death_place: "Avignon"
 period: "XIII–XIV century"
+
 key_works:
   - "Maestà, Sala del Mappamondo (Sala del Consiglio), Palazzo Pubblico, Siena"
   - "Guidoriccio da Fogliano, Palazzo Pubblico, Siena (attribution debated)"
   - "Annunciation with Saint Ansanus, Galleria degli Uffizi, Florence"
   - "Saint Louis of Toulouse Crowning his Brother Robert of Anjou, Museo di Capodimonte, Naples"
   - "Frescoes in the Chapel of Saint Martin, Lower Church of San Francesco, Assisi"
+
 tradition: "Sienese Trecento painting and International Gothic at the Angevin and papal courts"
 artistic_style: "Elegant linearity, refined colour, and courtly lyricism, integrating Sienese softness with French Gothic refinement"
-founders_and_patrons:
-  - "Comune di Siena and the Palazzo Pubblico"
-  - "Cathedral chapter of Siena (Opera del Duomo)"
-  - "Angevin court of Naples (Robert of Anjou)"
-  - "Papal court at Avignon"
-key_phases:
-  - "Formation in Siena in the wake of Duccio"
-  - "Early civic commissions in the Palazzo Pubblico, Siena"
-  - "Major works in Assisi for the Franciscan Order"
-  - "Angevin and papal court phase between Naples and Avignon"
 thematic_keywords:
   - "Maestà and Marian iconography"
   - "International Gothic style"
   - "Courtly imagery and chivalric themes"
   - "Sienese school of the Trecento"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Lippo Memmi"
-  - "Palazzo Pubblico, Siena"
-  - "San Francesco, Assisi (Lower Church)"
-  - "Avignon papal court and International Gothic"
+
 category: "artists"
 ---
 
