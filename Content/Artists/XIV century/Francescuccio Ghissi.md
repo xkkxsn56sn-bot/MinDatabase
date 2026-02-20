@@ -1,41 +1,100 @@
 ---
 layout: entry
 title: "Francescuccio Ghissi"
+subtitle: "Fabriano Gothic master active in the Marche-Umbria sphere, notable for Madonna dell’Umiltà imagery and narrative polyptychs"
+dates: "Documented 1345–1395"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento Marchigian painting with International Gothic inflections"
+
+  - title: "ROLE"
+    list:
+      - "Fabriano painter in the Gothic tradition"
+      - "Key interpreter of Madonna dell’Umiltà iconography"
+      - "Specialist in narrative altarpiece cycles"
+
+  - title: "LOCATION"
+    list:
+      - "Fabriano (principal workshop and documented base)"
+      - "Marche centers including Montegiorgio, Fermo and Ascoli Piceno"
+      - "Umbrian orbit including documented presence in Perugia"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Fabriano, mid-fourteenth century (exact date unknown)"
+      - label: "Death"
+        value: "After 1395, likely in the Marche region"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna dell’Umiltà, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - "Madonna dell’Umiltà, 1374, Montegiorgio"
+      - "Madonna dell’Umiltà variants in Fermo, Ascoli Piceno and Vatican collections"
+      - "Saint John Altarpiece (c. 1370), now dispersed across major US museums"
+      - "Polyptych for Santa Maria dell’Appennino, Pinacoteca Civica Bruno Molajoli, Fabriano"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Combines Gothic linear elegance with emotionally charged devotional focus"
+      - "Strong decorative sensibility in gold-ground and textile treatment"
+      - "Effective narrative clarity across multi-panel hagiographic cycles"
+      - "Workshop discipline supporting long-term, regionally distributed production"
+
+  - title: "PATRONS"
+    list:
+      - "Confraternita di Santa Maria del Mercato, Fabriano"
+      - "Church of Santa Lucia (San Domenico), Fabriano"
+      - "Franciscan and Augustinian communities across the Marche"
+      - "Regional ecclesiastical patrons in Montegiorgio, Fermo, Ascoli and Perugia"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early activity in Fabriano in the orbit of Allegretto Nuzi (from 1345)"
+      - "Mature codification of Madonna dell’Umiltà imagery (1359 onwards)"
+      - "Major narrative cycle phase with the Saint John Altarpiece (c. 1370)"
+      - "Late regional commissions through the 1390s"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Madonna dell’Umiltà"
+      - "Gothic altarpieces in the Marche"
+      - "Saints’ lives and hagiographic narrative"
+      - "Workshop collaboration and regional circulation"
+      - "Trecento Fabriano school"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Allegretto Nuzi"
+      - "Andrea de Bartoli"
+      - "Bartolomeo da Camogli"
+      - "Vitale da Bologna"
+      - "Franciscan and Augustinian orders in the Marche"
+
 author: "Francescuccio Ghissi"
 role: "Fabriano painter of the Gothic tradition, active between the Marche and Umbria and key interpreter of the Madonna dell'Umiltà and narrative altarpieces"
-dates: "Documented 1345–1395"
 birth_place: "Fabriano, Marche"
 death_place: "Unknown (after 1395, probably in the Marche region)"
 period: "XIV century"
+
 key_works:
   - "Madonna dell'Umiltà, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano"
   - "Madonna dell'Umiltà, 1374, Montegiorgio"
   - "Madonna dell'Umiltà, works in Fermo, Ascoli Piceno and Vatican Museums"
   - "Saint John Altarpiece, c. 1370, dispersed panels (Art Institute of Chicago; Portland Art Museum; Metropolitan Museum of Art; North Carolina Museum of Art)"
   - "Polyptych for Santa Maria dell'Appennino, now Pinacoteca Civica Bruno Molajoli, Fabriano"
+
 tradition: "Gothic painting in the Marche and Umbria in the wake of Allegretto Nuzi and central Italian Trecento currents"
 artistic_style: "International Gothic elegance with strong decorative sense, linear rhythms and emotionally charged yet hieratic devotional images"
-founders_and_patrons:
-  - "Confraternita di Santa Maria del Mercato, Fabriano"
-  - "Church of Santa Lucia (San Domenico), Fabriano"
-  - "Augustinian and Franciscan communities in the Marche"
-  - "Ecclesiastical patrons in Montegiorgio, Fermo, Ascoli Piceno and Perugia"
-key_phases:
-  - "Early documented activity in Fabriano (from 1345) in the orbit of Allegretto Nuzi"
-  - "Mature development of the Madonna dell'Umiltà type (Madonna of 1359, Fabriano)"
-  - "Major narrative commission of the Saint John Altarpiece (c. 1370)"
-  - "Late works including the 1374 Madonna dell'Umiltà in Montegiorgio and commissions into the 1390s"
 thematic_keywords:
   - "Madonna dell'Umiltà iconography"
   - "Gothic altarpieces in the Marche"
   - "Saints' lives and hagiographic cycles"
   - "Workshop practice and collaboration with Allegretto Nuzi"
-related_entries:
-  - "Allegretto Nuzi"
-  - "Andrea de Bartoli"
-  - "Bartolomeo da Camogli"
-  - "Vitale da Bologna"
-  - "Franciscan and Augustinian orders in the Marche"
+
 category: "artists"
 ---
 

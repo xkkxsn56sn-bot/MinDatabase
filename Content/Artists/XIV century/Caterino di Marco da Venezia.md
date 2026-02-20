@@ -1,12 +1,85 @@
 ---
 layout: entry
 title: "Caterino di Marco da Venezia"
+subtitle: "Venetian Trecento painter between Byzantine continuity and late-Gothic renewal, active with Donato and in upper Adriatic networks"
+dates: "active 1362 – after 1390"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento Venice and upper Adriatic artistic transition"
+
+  - title: "ROLE"
+    list:
+      - "Venetian panel painter"
+      - "Long-term collaborator of Donato"
+      - "Mediator between conservative gold-ground tradition and Gothic updates"
+
+  - title: "LOCATION"
+    list:
+      - "Venice (principal activity and workshop base)"
+      - "Veneto mainland (including Treviso commissions)"
+      - "Upper Adriatic and Dalmatian links (including Zadar documentation)"
+      - "Marche and wider export circuits for Venetian polyptychs"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Venice, mid-fourteenth century (date uncertain)"
+      - label: "Death"
+        value: "After 1390, probably Venice"
+
+  - title: "KEY WORKS"
+    list:
+      - "Coronation of the Virgin (with Donato), signed 1372, Galleria Querini-Stampalia, Venice"
+      - "Coronation of the Virgin, signed and dated 1375, Gallerie dell’Accademia, Venice"
+      - "Triptych with Coronation of the Virgin and Saints Lucy/Nicholas of Tolentino, Gallerie dell’Accademia, Venice"
+      - "Polyptych with Madonna and Child, Walters Art Museum, Baltimore"
+      - "Madonna dell’Umiltà panels (Worcester and other attributions)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Gold-ground devotional language rooted in Byzantine-Venetian continuity"
+      - "Progressive assimilation of Gothic volumetry and ornamental refinement"
+      - "Workshop-oriented, serial production of Marian and polyptych imagery"
+      - "Clear devotional readability for ecclesiastical and confraternal patrons"
+
+  - title: "PATRONS"
+    list:
+      - "Venetian churches (including Sant’Agnese and related institutions)"
+      - "Confraternities and religious houses in Venice and the Veneto"
+      - "Regional patrons in Marche and upper Adriatic spheres"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early documented activity and workshop integration with Donato (from 1367)"
+      - "Jointly signed high-profile Marian commission (1372)"
+      - "Independent signed phase with mature Coronation format (from 1375)"
+      - "Late regional commissions and restoration/contract activity in the 1380s–1390"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Coronation of the Virgin"
+      - "Madonna dell’Umiltà"
+      - "Venetian Trecento Byzantine-Gothic transition"
+      - "Workshop collaboration"
+      - "Upper Adriatic polyptych circulation"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Donato (Venetian painter)"
+      - "Lorenzo Veneziano"
+      - "Giovanni da Bologna"
+      - "Jacobello di Bonomo"
+      - "Paolo Veneziano"
+
 author: "Caterino di Marco da Venezia"
 role: "Venetian painter active in the second half of the fourteenth century, collaborator of Donato and mediator between Byzantine tradition and emerging Gothic currents"
-dates: "active 1362 – after 1390"
 birth_place: "Venice"
 death_place: "Venice (probable), after 1390"
 period: "XIV century"
+
 key_works:
   - "Coronation of the Virgin, signed with Donato, 1372, Galleria Querini-Stampalia, Venice"
   - "Coronation of the Virgin, signed and dated 1375, Gallerie dell'Accademia, Venice"
@@ -14,29 +87,15 @@ key_works:
   - "Polyptych with Madonna and Child, Walters Art Museum, Baltimore"
   - "Madonna dell'Umiltà, Worcester Art Museum, Worcester"
   - "Madonna and Child, Museo d'Arte Sacra, San Leo (formerly Museo Diocesano Antonio Bergamaschi, Pennabilli)"
+
 tradition: "Venetian Trecento painting between the late Byzantine tradition of Paolo Veneziano and the Gothic innovations of Lorenzo Veneziano and Giovanni da Bologna"
 artistic_style: "Conservative gold-ground maniera with gradual adoption of Gothic volumetry, decorative refinement, and accessible devotional imagery"
-founders_and_patrons:
-  - "Venetian ecclesiastical institutions (church of Sant’Agnese and others)"
-  - "Confraternities and religious houses in Venice and the Veneto"
-  - "Patrons from the Marche and upper Adriatic region (for exported polyptychs)"
-key_phases:
-  - "Early formation and documented collaboration with Donato from 1367 (painted crosses and altarpieces)"
-  - "Jointly signed Coronation of the Virgin, 1372, Querini-Stampalia, Venice"
-  - "Independent signed Coronation of the Virgin, 1375, Gallerie dell’Accademia, Venice"
-  - "Mature production of polyptychs and Madonna dell’Umiltà panels for Venetian and regional patrons"
-  - "Late activity including commissions for Treviso and Zadar (Dalmatia), recorded in documents of the 1380s–1390"
 thematic_keywords:
   - "Coronation of the Virgin"
   - "Madonna dell’Umiltà"
   - "Venetian Trecento Byzantine–Gothic transition"
   - "Workshop collaboration and signed polyptychs"
-related_entries:
-  - "Donato (Venetian painter)"
-  - "Lorenzo Veneziano"
-  - "Giovanni da Bologna"
-  - "Jacobello di Bonomo"
-  - "Paolo Veneziano"
+
 category: "artists"
 ---
 
