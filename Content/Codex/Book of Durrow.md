@@ -1,3 +1,107 @@
+---
+layout: entry
+title: "Book of Durrow (IE TCD MS 2589)"
+author: "Book of Durrow"
+role: "Earliest surviving fully illuminated Insular Gospel book, foundational work of Hiberno-Saxon manuscript art"
+dates: "c. 680 (late 7th–early 8th century)"
+place_of_origin: "Disputed; most likely Iona (Scotland), with alternative proposals for Northumbria or Durrow (County Offaly, Ireland)"
+current_location: "Trinity College Library, Dublin (IE TCD MS 2589)"
+type: "Illuminated Gospel book (Latin Vulgate)"
+
+contents:
+  - "Four Gospels in Latin with prefatory material (canon tables, symbols, carpet pages)"
+  - "Six carpet pages with cross and interlace ornament"
+  - "Evangelist symbol pages (man, lion, ox, eagle)"
+  - "Decorated initials and ornamental text pages"
+
+script: "Insular majuscule"
+
+dimensions: "245 × 145 mm (9.6 × 5.7 in.), 248 folios"
+
+materials_and_techniques:
+  - "Calf vellum (some folios possibly sheep or goat)"
+  - "Iron‑gall ink"
+  - "Mineral and organic pigments (including lapis lazuli, red and yellow ochre, arsenic‑based greens)"
+  - "Ruled guidelines for text alignment; quaternion quire structure"
+
+historical_context_short:
+  - "Produced within the Columban monastic network in the late 7th century, after the death of St. Columba (597)"
+  - "Traditionally attributed to St. Columba; modern palaeography firmly rejects a 6th‑century date"
+  - "Represents the earliest phase of the Insular illuminated Gospel book tradition that culminated in the Lindisfarne Gospels and the Book of Kells"
+
+thematic_keywords:
+  - "Insular illumination"
+  - "Hiberno‑Saxon art"
+  - "Gospel books and liturgy"
+  - "Celtic and Germanic interlace"
+  - "Columban monasticism"
+  - "Coptic and Mediterranean artistic influences"
+
+related_entries:
+  - title: "Book of Kells"
+    url: "/Content/Codex/Book%20of%20Kells.html"
+  - title: "Lindisfarne Gospels"
+    url: "/Content/Codex/Lindisfarne%20Gospels.html"
+  - title: "Eadfrith di Lindisfarne"
+    url: "/Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html"
+
+category: "codex"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Place of origin"
+        value: "Disputed; most likely Iona (Scotland), possibly Northumbria or Durrow (Ireland)"
+      - label: "Current location"
+        value: "Trinity College Library, Dublin (IE TCD MS 2589)"
+      - label: "Date"
+        value: "c. 680 (late 7th–early 8th century)"
+      - label: "Type"
+        value: "Illuminated Gospel book (Latin Vulgate)"
+      - label: "Dimensions"
+        value: "245 × 145 mm, 248 folios"
+      - label: "Script"
+        value: "Insular majuscule"
+
+  - title: "Contents"
+    list:
+      - "Four Gospels in Latin with prefatory material (canon tables, symbols, carpet pages)"
+      - "Six carpet pages with cross and interlace ornament"
+      - "Evangelist symbol pages (man, lion, ox, eagle)"
+      - "Decorated initials and ornamental text pages"
+
+  - title: "Materials and techniques"
+    list:
+      - "Calf vellum (some folios possibly sheep or goat)"
+      - "Iron‑gall ink"
+      - "Mineral and organic pigments (lapis lazuli, ochres, arsenic‑based greens)"
+      - "Ruled guidelines; quaternion quire structure"
+
+  - title: "Historical context (summary)"
+    list:
+      - "Produced within the Columban monastic network, post‑597"
+      - "Traditional Columban attribution rejected on palaeographic grounds"
+      - "Foundational manuscript of the Insular illuminated Gospel tradition"
+
+  - title: "Thematic keywords"
+    list:
+      - "Insular illumination"
+      - "Hiberno‑Saxon art"
+      - "Gospel books and liturgy"
+      - "Celtic and Germanic interlace"
+      - "Columban monasticism"
+      - "Coptic and Mediterranean artistic influences"
+
+  - title: "Related entries"
+    links:
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book%20of%20Kells.html"
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+      - title: "Eadfrith di Lindisfarne"
+        url: "/Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html"
+---
+
 ## Introduction: The Manuscript as Material Artifact
 
 The Book of Durrow stands as a seminal artifact of early medieval Insular art, representing a crucial stage in the development of illuminated Gospel books in the British Isles. It is recognized as the earliest surviving fully illuminated Insular Gospel Book, marking a significant evolution in manuscript production. Its physical dimensions are precisely recorded as 9.6 inches by 5.7 inches, which translates to approximately 245 by 145 millimeters, a relatively compact size suitable for liturgical use or personal devotion. The manuscript comprises 248 folios, each page being crafted from carefully prepared animal skin, typically calf, sheep, or goat, known as vellum. The choice of vellum provided a durable and smooth surface ideal for both the meticulous writing of the Latin Vulgate text and the delicate application of vibrant pigments. The codicological structure of the book follows the standard practice of the period, organized into gatherings of leaves known as quires. While the standard quire consisted of four folded sheets (a quaternion) to create eight folia (sixteen pages), the exact structure of the Durrow manuscript involves more complex arrangements, such as a quire beginning with folio 217 and ending with folio 223, containing three bifolia. This indicates a sophisticated level of planning and execution in its assembly. The preparation of the writing surface involved a process of ruling, where faint lines were drawn to guide the scribe, ensuring consistent letter height and alignment across the manuscript. The ink used for the text is identified as iron-gall ink, a common formulation in the medieval period known for its durability but also its potential to cause corrosion on the vellum over centuries. Beyond the text, the manuscript is adorned with intricate figurative and decorative imagery, making it a rich source for the study of visual culture alongside its textual content. The preservation of this combination of text and image allows for a holistic analysis of the manuscript as both a functional religious object and a work of high art. The manuscript's journey through time has not been without incident; conservation records document repairs and treatments undertaken to preserve its fragile condition, with one notable instance of repair work noted in 1982. These interventions, while necessary, underscore the manuscript's age and the continuous effort required to maintain its integrity for future study. The very materiality of the Book of Durrow—the feel of the vellum, the color of the pigments, the texture of the leather binding—offers a direct, tangible link to the hands that created and used it over twelve centuries ago.
