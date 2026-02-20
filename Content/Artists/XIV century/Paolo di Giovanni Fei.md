@@ -1,37 +1,99 @@
 ---
 layout: entry
 title: "Paolo di Giovanni Fei"
+subtitle: "Late Trecento Sienese painter bridging Ducciesque heritage and emerging International Gothic refinement"
+dates: "Documented 1369–1411 (fl. late XIV – early XV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento to early Quattrocento Sienese Gothic"
+
+  - title: "ROLE"
+    list:
+      - "Sienese painter active between the late fourteenth and early fifteenth century"
+      - "Refined interpreter of Ducciesque tradition"
+      - "Contributor to the transition toward International Gothic taste"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (primary center of activity)"
+      - "San Quirico / Castelvecchio context in the Sienese territory"
+      - "Regional circulation of works across central Italian collections"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Siena or its contado, c. 1345"
+      - label: "Death"
+        value: "Siena, between June and December 1411"
+
+  - title: "KEY WORKS"
+    list:
+      - "Birth of the Virgin (1381), Pinacoteca Nazionale, Siena"
+      - "Presentation of the Virgin in the Temple (1398–99), National Gallery of Art, Washington"
+      - "Assumption of the Virgin with Annunciation busts, National Gallery of Art, Washington"
+      - "Madonna and Child with Saints Francis and Louis of Toulouse, High Museum, Atlanta"
+      - "Madonna and Child, Metropolitan Museum of Art, New York"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Rich color, elegant contour, and refined ornamental detail"
+      - "Narrative clarity combined with compact volumetric figure construction"
+      - "Synthesis of Sienese lyricism and decorative Gothic intensity"
+      - "Strong devotional focus in panel formats"
+
+  - title: "PATRONS"
+    list:
+      - "Cathedral chapter and Opera del Duomo of Siena"
+      - "Sienese confraternities and hospitals"
+      - "Private urban patrons and family chapels"
+      - "Ecclesiastical patrons in Umbria and central Italy"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the post-Simone and post-Lorenzetti Sienese milieu"
+      - "Mature commissions for Sienese churches and institutions in the late Trecento"
+      - "Late cathedral-related activity through 1411"
+      - "Transition phase toward early Quattrocento decorative sensibilities"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Marian narratives and altarpieces"
+      - "Late Sienese Gothic"
+      - "Devotional panel painting"
+      - "Hospital and confraternal patronage"
+      - "Trecento–Quattrocento transition"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Duccio di Buoninsegna"
+      - "Simone Martini"
+      - "Bartolomeo Bulgarini"
+      - "Niccolò di Buonaccorso"
+      - "Sassetta"
+
 author: "Paolo di Giovanni Fei"
 role: "Sienese painter of the later Trecento, refined interpreter of Ducciesque tradition and International Gothic taste"
-dates: "Documented 1369–1411 (fl. late XIV – early XV century)"
 birth_place: "Probably Siena or its contado (of foreign origin according to some documents)"
 death_place: "Siena (probable), after 1411"
 period: "XIV century"
+
 key_works:
   - "Virgin and Child with Saints (polyptych), Pinacoteca Nazionale, Siena"
   - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
   - "Nativity of the Virgin and Presentation in the Temple panels, various collections (from dismantled altarpieces)"
   - "Small devotional Madonne and saints in Italian and foreign museums (attributed corpus)"
+
 tradition: "Late Sienese Trecento painting, continuing Duccio and Simone Martini through a more robust and decorative Gothic idiom"
 artistic_style: "Rich colour, strong yet elegant line, refined ornament and clear narrative compositions, blending lyricism with a more compact volumetry"
-founders_and_patrons:
-  - "Cathedral chapter and Opera del Duomo of Siena"
-  - "Sienese confraternities and hospitals"
-  - "Ecclesiastical patrons in Umbria and central Italy"
-key_phases:
-  - "Formation within the Sienese milieu after Simone Martini and the Lorenzetti"
-  - "Mature commissions for Sienese churches and institutions in the late Trecento"
-  - "Later activity extending into the early fifteenth century with increasingly decorative Gothic tendencies"
 thematic_keywords:
   - "Marian altarpieces and Nativity cycles"
   - "Late Sienese Gothic style"
   - "Devotional panels for confraternities and hospitals"
   - "Transition toward early Quattrocento sensibilities"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Simone Martini"
-  - "Bartolomeo Bulgarini"
-  - "Niccolò di Buonaccorso"
+
 category: "artists"
 ---
 

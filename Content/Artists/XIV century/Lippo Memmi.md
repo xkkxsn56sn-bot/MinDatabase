@@ -1,43 +1,100 @@
 ---
 layout: entry
 title: "Lippo Memmi"
+subtitle: "Leading Sienese master and Simone Martini’s close collaborator, central to the rise of early International Gothic"
+dates: "c. 1290–1295 – 1356"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Trecento Siena and early International Gothic"
+
+  - title: "ROLE"
+    list:
+      - "Sienese painter and major follower of Simone Martini"
+      - "Key figure in refining courtly Gothic elegance"
+      - "Bridge between civic Maestà imagery and international devotional language"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (principal artistic center)"
+      - "San Gimignano (family workshop and early major commissions)"
+      - "Avignon orbit through commissions linked to the Papal court"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena, c. 1290–1295"
+      - label: "Death"
+        value: "Siena, 1356"
+
+  - title: "KEY WORKS"
+    list:
+      - "Maestà, Palazzo Pubblico, San Gimignano (1317)"
+      - "Annunciation with Saint Ansanus and Saint Margaret (with Simone Martini), Uffizi, 1333"
+      - "New Testament fresco cycle in the Collegiata of San Gimignano (attributed, with Tederigo Memmi)"
+      - "Works for Santa Maria della Scala, Siena (largely lost/dispersed)"
+      - "Altarpiece for Roberto de Busto, Avignon (1347, documented, lost)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Linear Gothic elegance with precise ornamental refinement"
+      - "Luminous color and highly sophisticated punched-gold decoration"
+      - "Strong devotional clarity within aristocratic compositional grace"
+      - "Refined synthesis of Sienese lyricism and emerging International Gothic idioms"
+
+  - title: "PATRONS"
+    list:
+      - "Comune di San Gimignano and Comune di Siena"
+      - "Cathedral and hospital institutions including Santa Maria della Scala"
+      - "Civic-religious patrons linked to Saint Ansanus cults"
+      - "Avignon-connected ecclesiastical patrons"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Memmo di Filippuccio’s workshop in San Gimignano"
+      - "Early independent civic success with the San Gimignano Maestà (1317)"
+      - "Mature collaboration with Simone Martini, culminating in the Uffizi Annunciation (1333)"
+      - "Late phase of workshop collaborations and wider international commissions"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Maestà and civic sacred imagery"
+      - "Annunciation iconography"
+      - "Sienese Gothic line and ornament"
+      - "International Gothic formation"
+      - "Family workshop dynamics"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Simone Martini"
+      - "Memmo di Filippuccio"
+      - "Tederigo (Federico) Memmi"
+      - "Duccio di Buoninsegna"
+      - "Avignon Papal court"
+
 author: "Lippo Memmi"
 role: "Sienese painter and leading follower of Simone Martini, central figure of the early International Gothic style"
-dates: "c. 1290–1295 – 1356"
 birth_place: "Siena"
 death_place: "Siena, 1356"
 period: "XIV century"
+
 key_works:
   - "Maestà, Palazzo Pubblico, San Gimignano (1317)"
   - "Annunciation with Saint Ansanus and Saint Margaret, with Simone Martini, Uffizi, Florence (1333)"
   - "New Testament fresco cycle (traditionally attributed to Barna), Collegiata, San Gimignano (attributed, with Tederigo Memmi)"
   - "Altarpieces for Santa Maria della Scala, Siena (lost or dispersed)"
   - "Altarpiece for Roberto de Busto, Avignon (1347, lost; known from documents)"
+
 tradition: "Sienese Trecento painting and early International Gothic, in close dialogue with Simone Martini and the Ducciesque school"
 artistic_style: "Refined linear Gothic elegance, luminous colour and rich punched decoration, combining Simone Martini’s aristocratic grace with personal devotional intensity"
-founders_and_patrons:
-  - "Simone Martini"
-  - "Memmo di Filippuccio and the Memmi family workshop"
-  - "Comune di San Gimignano and Comune di Siena"
-  - "Santa Maria della Scala, Siena"
-  - "Avignon Papal court and associated patrons"
-key_phases:
-  - "Training in the workshop of Memmo di Filippuccio in San Gimignano"
-  - "Early independent commission of the Maestà in the Palazzo Pubblico, San Gimignano (1317)"
-  - "Collaboration with Simone Martini on the Uffizi Annunciation (1333)"
-  - "Mid-century altarpieces for Santa Maria della Scala and other Sienese institutions"
-  - "International commissions linked to the Avignon Papal court (e.g. Roberto de Busto altarpiece, 1347)"
 thematic_keywords:
   - "Maestà iconography and civic imagery"
   - "Annunciation and Marian devotion"
   - "International Gothic formation"
   - "Family workshops and Sienese artistic dynasties"
-related_entries:
-  - "Simone Martini"
-  - "Memmo di Filippuccio"
-  - "Tederigo (Federico) Memmi"
-  - "Duccio di Buoninsegna and the Sienese school"
-  - "Avignon Papal court"
+
 category: "artists"
 ---
 

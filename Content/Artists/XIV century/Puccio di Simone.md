@@ -1,12 +1,84 @@
 ---
 layout: entry
 title: "Puccio di Simone"
+subtitle: "Florentine mid-Trecento master in Bernardo Daddi’s circle, active between Florence and Fabriano"
+dates: "Active c. 1343 – after 1357 (probably died shortly after 1362)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+
+  - title: "ROLE"
+    list:
+      - "Florentine Gothic painter trained in the circle of Bernardo Daddi"
+      - "Active between Florence and Fabriano"
+      - "Key interpreter of Giottesque traditions in the mid-Trecento"
+
+  - title: "LOCATION"
+    list:
+      - "Florence (primary context)"
+      - "Fabriano and the Marchigian area"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Florence (probable), c. 1310–1320"
+      - label: "Death"
+        value: "Florence or environs (probable), shortly after 1362"
+
+  - title: "KEY WORKS"
+    list:
+      - "Frescoes in the Strozzi Chapel, Santa Maria Novella, Florence (dated 1340, fragmentary)"
+      - "Polyptych with the Mystic Marriage of Saint Catherine (panels dispersed: Berlin, London and other collections)"
+      - "Saint Anthony Abbot Altarpiece, 1353, Pinacoteca Civica, Fabriano (Sant’Antonio Abate fuori Porta Pisana)"
+      - "Triptych with Madonna and Saints, 1354, National Gallery of Art, Washington (Samuel H. Kress Collection)"
+      - "Coronation of the Virgin, c. 1350, Museum of Fine Arts, Ghent"
+      - "Madonna and Child with Angels, c. 1350, Norton Simon Museum, Pasadena"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Giottesque volumetry and clear spatial construction"
+      - "Elaborate gold-ground decoration and refined punchwork"
+      - "Tender devotional expression in Marian imagery"
+      - "Dialogue between Florentine and Marchigian Gothic culture"
+
+  - title: "PATRONS"
+    list:
+      - "Bernardo Daddi and the Giottesque workshop tradition"
+      - "Strozzi family of Florence"
+      - "Church of Sant’Antonio Abate fuori Porta Pisana, Fabriano"
+      - "Allegretto Nuzi and Marchigian patrons"
+
+  - title: "KEY PHASES"
+    list:
+      - "Training and collaboration in the workshop of Bernardo Daddi"
+      - "Early prestigious commission for the Strozzi Chapel, Santa Maria Novella (1340)"
+      - "Mature Florentine production of polyptychs and devotional panels in the 1340s"
+      - "Sojourn in Fabriano (1353–1354) and collaboration with Allegretto Nuzi"
+      - "Return to Florence and final years before disappearance from records after 1362"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Giottesque mid-Trecento painting"
+      - "Mystic Marriage of Saint Catherine"
+      - "Saint Anthony Abbot and confraternal devotion"
+      - "Madonna and Child with music-making angels"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Bernardo Daddi"
+      - "Giotto di Bondone and the Giottesque tradition"
+      - "Allegretto Nuzi"
+      - "Strozzi family of Florence"
+      - "Sant’Antonio Abate fuori Porta Pisana, Fabriano"
+
 author: "Puccio di Simone"
 role: "Florentine Gothic painter trained in the circle of Bernardo Daddi, active between Florence and Fabriano and key interpreter of Giottesque traditions in the mid-Trecento"
-dates: "Active c. 1343 – after 1357 (probably died shortly after 1362)"
 birth_place: "Florence (probable)"
 death_place: "Florence or environs (probable), shortly after 1362"
 period: "XIV century"
+
 key_works:
   - "Frescoes in the Strozzi Chapel, Santa Maria Novella, Florence (dated 1340, fragmentary)"
   - "Polyptych with the Mystic Marriage of Saint Catherine (panels dispersed: Berlin, London and other collections)"
@@ -14,30 +86,16 @@ key_works:
   - "Triptych with Madonna and Saints, 1354, National Gallery of Art, Washington (Samuel H. Kress Collection)"
   - "Coronation of the Virgin, c. 1350, Museum of Fine Arts, Ghent"
   - "Madonna and Child with Angels, c. 1350, Norton Simon Museum, Pasadena"
+
 tradition: "Mid-Trecento Florentine painting in the Giottesque tradition, in dialogue with Marchigian Gothic culture"
 artistic_style: "Giottesque volumetry and clear spatial construction enriched by elaborate gold-ground decoration and tender devotional expression"
-founders_and_patrons:
-  - "Bernardo Daddi and the Giottesque workshop tradition"
-  - "Strozzi family of Florence"
-  - "Church of Sant’Antonio Abate fuori Porta Pisana, Fabriano"
-  - "Allegretto Nuzi and Marchigian patrons"
-key_phases:
-  - "Training and collaboration in the workshop of Bernardo Daddi"
-  - "Early prestigious commission for the Strozzi Chapel, Santa Maria Novella (1340)"
-  - "Mature Florentine production of polyptychs and devotional panels in the 1340s"
-  - "Sojourn in Fabriano (1353–1354) and collaboration with Allegretto Nuzi"
-  - "Return to Florence and final years before disappearance from records after 1362"
+
 thematic_keywords:
   - "Giottesque mid-Trecento painting"
   - "Mystic Marriage of Saint Catherine"
   - "Saint Anthony Abbot and confraternal devotion"
   - "Madonna and Child with music-making angels"
-related_entries:
-  - "Bernardo Daddi"
-  - "Giotto di Bondone and the Giottesque tradition"
-  - "Allegretto Nuzi"
-  - "Strozzi family of Florence"
-  - "Sant’Antonio Abate fuori Porta Pisana, Fabriano"
+
 category: "artists"
 ---
 

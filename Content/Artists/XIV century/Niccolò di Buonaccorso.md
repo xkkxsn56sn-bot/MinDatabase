@@ -1,36 +1,98 @@
 ---
 layout: entry
 title: "Niccolò di Buonaccorso"
+subtitle: "Late Trecento Sienese master known for miniaturist precision, luminous surfaces, and refined International Gothic devotion"
+dates: "Documented 1355–1388"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento Sienese painting within early International Gothic currents"
+
+  - title: "ROLE"
+    list:
+      - "Sienese painter active in the second half of the fourteenth century"
+      - "Refined exponent of courtly devotional panel painting"
+      - "Artist-civic official linked to major institutions in Siena"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (primary workshop and civic base)"
+      - "Florence and Perugia through documented commissions and deliveries"
+      - "Regional circulation across central Italian ecclesiastical networks"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena, early 1330s (traditional estimate)"
+      - label: "Death"
+        value: "Siena, 17 May 1388"
+
+  - title: "KEY WORKS"
+    list:
+      - "Marriage of the Virgin, National Gallery, London"
+      - "Presentation of the Virgin in the Temple, Uffizi, Florence"
+      - "Coronation of the Virgin, Metropolitan Museum of Art, New York"
+      - "Madonna and Child, signed and dated 1387, Timken Art Gallery, San Diego"
+      - "Crucifixion, Galleria Nazionale dell’Umbria, Perugia"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Minute calligraphic draftsmanship and highly finished tempera surfaces"
+      - "Brilliant color with elaborate punched-gold ornament"
+      - "Compact yet expressive devotional storytelling"
+      - "Synthesis of Sienese lyricism and late Gothic ornamental sophistication"
+
+  - title: "PATRONS"
+    list:
+      - "Sienese cathedral chapter and Opera del Duomo"
+      - "Confraternities and lay patrons in Siena"
+      - "Hospital and ecclesiastical institutions including Santa Maria Nuova"
+      - "Regional patrons in Umbria and central Italy"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in a family workshop under Buonaccorso di Pace"
+      - "Guild entry (1355) and consolidation of a refined small-panel language"
+      - "Mature civic-ecclesiastical activity in the 1370s–1380s"
+      - "Late phase marked by high-finish devotional works and broad regional circulation"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Madonna and Child devotion"
+      - "Late Sienese Trecento"
+      - "International Gothic refinement"
+      - "Portable altarpieces and private devotion"
+      - "Gold-ground ornament"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Simone Martini"
+      - "Lippo Memmi"
+      - "Bartolomeo Bulgarini"
+      - "Siena Cathedral"
+      - "Sienese confraternities"
+
 author: "Niccolò di Buonaccorso"
 role: "Sienese painter active in the later Trecento, refined exponent of the International Gothic style"
-dates: "Documented 1355–1388"
 birth_place: "Siena"
 death_place: "Siena (probable), after 1388"
 period: "XIV century"
+
 key_works:
   - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
   - "Madonna and Child, Galleria Nazionale d’Arte Antica, Palazzo Barberini, Rome"
   - "Panels from an altarpiece for Siena (various museums; attributed corpus)"
+
 tradition: "Late Sienese Trecento painting in the wake of Simone Martini and Lippo Memmi, oriented toward International Gothic elegance"
 artistic_style: "Minute, calligraphic line, brilliant colour, highly finished surfaces and courtly, aristocratic devotional tone"
-founders_and_patrons:
-  - "Sienese cathedral chapter and Opera del Duomo"
-  - "Confraternities and lay patrons in Siena"
-  - "Ecclesiastical patrons in Umbria and central Italy"
-key_phases:
-  - "Formation within the late Sienese school after Simone Martini and Lippo Memmi"
-  - "Mature activity producing small but exquisitely finished panels for Sienese and Umbrian patrons"
-  - "Late commissions reflecting full assimilation of International Gothic taste"
 thematic_keywords:
   - "Madonna and Child iconography"
   - "International Gothic refinement"
   - "Late Sienese Trecento altarpieces"
   - "Devotional panels for private and ecclesiastical use"
-related_entries:
-  - "Simone Martini"
-  - "Lippo Memmi"
-  - "Bartolomeo Bulgarini"
-  - "Siena Cathedral and Sienese confraternities"
+
 category: "artists"
 ---
 
