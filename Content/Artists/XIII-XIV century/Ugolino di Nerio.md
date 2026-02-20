@@ -1,36 +1,97 @@
 ---
 layout: entry
 title: "Ugolino di Nerio"
+subtitle: "Sienese master active in Florence, among the most accomplished heirs of Duccio in early Trecento panel painting"
+dates: "Documented c. 1317–1339 (fl. early XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Early Trecento transition between Sienese and Florentine devotional cultures"
+
+  - title: "ROLE"
+    list:
+      - "Sienese painter active in Florence"
+      - "Key follower and interpreter of Duccio’s legacy"
+      - "Specialist in large polyptychs and predella Passion cycles"
+
+  - title: "LOCATION"
+    list:
+      - "Siena (family origins and artistic formation)"
+      - "Florence (major commissions for Santa Croce and Santa Maria Novella)"
+      - "Tuscan regional circulation through churches and confraternal patronage"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Siena, c. 1280 (traditional estimate)"
+      - label: "Death"
+        value: "Probably Siena, mid-fourteenth century (date uncertain in sources)"
+
+  - title: "KEY WORKS"
+    list:
+      - "High altarpiece for Santa Croce, Florence (now dispersed across major collections)"
+      - "Predella Passion scenes from the Santa Croce complex (London, New York, Berlin and elsewhere)"
+      - "Madonna and Child panels associated with Santa Maria Novella and Tuscan devotional contexts"
+      - "Polyptychs now in the Cleveland Museum of Art and Clark Art Institute (attributed/workshop circle)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Ducciesque linear grace adapted to monumental Florentine commissions"
+      - "Brighter chromatic range and emphatic narrative clarity in predella storytelling"
+      - "Balances Sienese ornamental refinement with selective Giottesque spatial awareness"
+      - "Demonstrates mature workshop organization in large multi-panel enterprises"
+
+  - title: "PATRONS"
+    list:
+      - "Franciscan convent of Santa Croce, Florence"
+      - "Dominican sphere linked to Santa Maria Novella, Florence"
+      - "Florentine confraternities and lay religious patrons"
+      - "Sienese networks connected to Duccio’s artistic lineage"
+
+  - title: "KEY PHASES"
+    list:
+      - "Training in Siena within the Ducciesque environment"
+      - "Rise as independent master and expansion to Florentine commissions"
+      - "Execution of the Santa Croce high-altarpiece complex (c. 1320s)"
+      - "Mature production of Marian panels and dispersed polyptych fragments"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Duccio’s legacy in Florence"
+      - "Franciscan and Dominican patronage"
+      - "Dispersed polyptychs"
+      - "Predella Passion narrative"
+      - "Early Trecento Sienese panel painting"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Duccio di Buoninsegna"
+      - "Simone Martini"
+      - "Giotto di Bondone"
+      - "Santa Croce, Florence"
+      - "Santa Maria Novella, Florence"
+
 author: "Ugolino di Nerio"
 role: "Sienese painter active in Florence, key follower of Duccio in early Trecento panel painting"
-dates: "Documented c. 1317–1339 (fl. early XIV century)"
 birth_place: "Siena"
 death_place: "Probably Siena (not securely documented)"
 period: "XIII–XIV century"
+
 key_works:
   - "High altarpiece for Santa Croce, Florence (now dispersed between the Uffizi, the National Gallery, London, and other collections)"
   - "Panels with saints and narrative predella scenes from Santa Croce (fragments in various museums)"
   - "Madonna and Child panels and dossals for Florentine and Sienese churches (attributed corpus)"
+
 tradition: "Sienese Trecento painting transplanted to Florence, continuing Duccio’s legacy in a Franciscan context"
 artistic_style: "Soft linear elegance, refined colour and lyrical devotional tone derived from Duccio, adapted to larger Florentine altarpieces"
-founders_and_patrons:
-  - "Franciscan convent of Santa Croce, Florence"
-  - "Florentine lay patrons and confraternities linked to Santa Croce"
-  - "Sienese patrons connected with the Ducciesque circle"
-key_phases:
-  - "Formation in Siena within Duccio’s milieu and the early Sienese school"
-  - "Major commission for the high altarpiece of Santa Croce, Florence"
-  - "Subsequent production of panels and predelle for Florentine and Sienese churches"
 thematic_keywords:
   - "Franciscan altarpieces in Santa Croce"
   - "Duccio’s legacy in Florence"
   - "Early Trecento panel painting"
   - "Dispersed polyptychs and predella narratives"
-related_entries:
-  - "Duccio di Buoninsegna"
-  - "Giotto di Bondone"
-  - "Santa Croce, Florence"
-  - "Simone Martini"
+
 category: "artists"
 ---
 

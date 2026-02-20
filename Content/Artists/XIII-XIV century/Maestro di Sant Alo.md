@@ -1,36 +1,100 @@
 ---
 layout: entry
 title: "Maestro di Sant'Alò"
+subtitle: "Anonymous Tuscan painter named from a work for Sant’Alò, active in the Spoletan-Umbrian sphere"
+dates: "Active c. 1290–1325"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Late Duecento to early Trecento transition in Umbria"
+
+  - title: "ROLE"
+    list:
+      - "Anonymous Tuscan/Umbrian painter"
+      - "Master of reliquary panels and devotional crucifixes"
+      - "Transitional figure between Italo‑Byzantine and early Giottesque idioms"
+
+  - title: "LOCATION"
+    list:
+      - "Spoleto and its ecclesiastical institutions (core activity)"
+      - "Trevi and surrounding Umbrian territories"
+      - "Regional diocesan and monastic networks in central Italy"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Unknown; likely late XIII century"
+      - label: "Death"
+        value: "Unknown; probably after 1318 and before c. 1325"
+
+  - title: "KEY WORKS"
+    list:
+      - "Reliquary crucifix and companion saint panels (Stauroteca di Sant’Alò), Museo Nazionale del Ducato di Spoleto"
+      - "Large crucifix from San Pietro a Pettine (Trevi), now in the Complesso museale di San Francesco"
+      - "Tempera panel reliquary wing with Virgin and saints, Victoria and Albert Museum"
+      - "Additional Marian and Christological panels attributed to the same workshop sphere"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Gold-ground Italo‑Byzantine foundation with progressive volumetric modeling"
+      - "Measured pathos and increasingly naturalistic physiognomy"
+      - "Sophisticated use of tempera layers, white-lead highlights, and precious metal grounds"
+      - "Integration of local Spoletan traditions with Cimabuesque and Giottesque impulses"
+
+  - title: "PATRONS"
+    list:
+      - "Church and confraternity contexts linked to Sant’Alò in Spoleto"
+      - "Benedettine institutions (including San Paolo Inter Vineas)"
+      - "Parish churches in the Umbrian hinterland"
+      - "Clerical and lay patrons investing in liturgical and reliquary art"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in late Duecento workshop culture of central Italy"
+      - "Execution of the Sant’Alò reliquary ensemble defining the master’s modern attribution"
+      - "Mature crucifix and panel production for urban and rural ecclesiastical settings"
+      - "Late stylistic inflection toward early Trecento naturalism"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Cult of Saint Alò (Sant’Alò)"
+      - "Tuscan/Umbrian gold‑ground altarpieces"
+      - "Transition from maniera greca to Trecento naturalism"
+      - "Reliquary image-devotion and monastic patronage"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+      - title: "Deodato Orlandi"
+        url: "/Content/Artists/XIII-XIV%20century/Deodato%20Orlandi.md"
+      - title: "Francesco Traini"
+        url: "/Content/Artists/XIII-XIV%20century/Francesco%20Traini.md"
+      - title: "Pisan and Tuscan painting between XIII and XIV century"
+        url: "/Content/Topics/Pisan%20and%20Tuscan%20painting%20between%20XIII%20and%20XIV%20century.md"
+
 author: "Maestro di Sant'Alò"
 role: "Anonymous Tuscan painter active between Pisa and the Tyrrhenian coast, named from a work for Sant’Alo"
-dates: "Active late XIII – early XIV century"
 birth_place: "Tuscany (probable, area between Pisa and the lower Arno)"
 death_place: "Unknown (probably Tuscany)"
 period: "XIII–XIV century"
+
 key_works:
   - "Panel or dossal dedicated to Saint Alò (Sant’Alò), probably for a church or confraternity bearing his name"
   - "Related Marian and Christological panels attributed to the same hand or workshop in the Pisan–Tuscan area"
   - "Smaller images of saints for side altars and private devotion (attributed corpus)"
+
 tradition: "Tuscan gold‑ground painting in the wake of Giunta Pisano, Deodato Orlandi and early Giottesque currents"
 artistic_style: "Late Italo‑Byzantine structure with increasing Giottesque volumetry, measured pathos and clear narrative compositions"
-founders_and_patrons:
-  - "Church or confraternity of Sant’Alò"
-  - "Parish churches in the Pisan hinterland and coastal Tuscany"
-  - "Lay patrons and guilds devoted to local and occupational saints"
-key_phases:
-  - "Formation in late Duecento Tuscan workshops tied to the Pisan school"
-  - "Execution of the Sant’Alò panel or cycle that defines the master’s identity"
-  - "Subsequent production of altarpieces and devotional panels for regional churches and confraternities"
+
 thematic_keywords:
   - "Cult of Saint Alò (Sant’Alò)"
   - "Tuscan gold‑ground altarpieces"
   - "Transition from maniera greca to Trecento naturalism"
   - "Local saintly cults and maritime or occupational devotions"
-related_entries:
-  - "Giunta Pisano"
-  - "Deodato Orlandi"
-  - "Francesco Traini"
-  - "Pisan and Tuscan painting between XIII and XIV century"
+
 category: "artists"
 ---
 

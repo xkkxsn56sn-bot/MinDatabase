@@ -1,40 +1,105 @@
 ---
 layout: entry
 title: "Giotto di Bondone"
+subtitle: "Painter and architect, principal innovator of Western pictorial naturalism"
+dates: "c. 1267 – January 8, 1337"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Threshold between late medieval art and early Renaissance visual culture"
+
+  - title: "ROLE"
+    list:
+      - "Painter"
+      - "Architect"
+      - "Principal innovator of Western pictorial naturalism"
+
+  - title: "LOCATION"
+    list:
+      - "Mugello and Florence (origins and principal civic activity)"
+      - "Padua (Arena Chapel cycle)"
+      - "Assisi, Rome, Naples, and wider Italian artistic centers"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably c. 1267, in the Mugello area near Florence"
+      - label: "Death"
+        value: "8 January 1337, Florence"
+
+  - title: "KEY WORKS"
+    list:
+      - "Fresco cycles in the Arena (Scrovegni) Chapel, Padua"
+      - "Upper Basilica of San Francesco, Assisi (Life of Saint Francis cycle, debated attributions)"
+      - "Bardi and Peruzzi Chapels, Santa Croce, Florence"
+      - "Crucifix for Santa Maria Novella, Florence"
+      - "Campanile of Florence Cathedral (design and initial construction phase)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Monumental figures and coherent spatial settings"
+      - "Emotionally charged narrative construction with psychological immediacy"
+      - "Decisive break from rigid Byzantine maniera greca"
+      - "Foundational synthesis for subsequent Renaissance pictorial language"
+
+  - title: "PATRONS"
+    list:
+      - "Franciscan Order (Assisi, Santa Croce)"
+      - "Scrovegni family (Enrico Scrovegni, Padua)"
+      - "Florentine commune and Opera del Duomo"
+      - "Bardi, Peruzzi, and other banking/merchant elites"
+      - "Angevin court circles in Naples"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early formation in the orbit of Cimabue and Assisi workshops"
+      - "Mature narrative cycles in Padua (Arena Chapel) and Florence (Santa Croce chapels)"
+      - "Late civic and architectural activity in Florence, including the campanile"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Narrative fresco cycles"
+      - "Emotional naturalism and spatial construction"
+      - "Franciscan spirituality and civic patronage"
+      - "Foundations of Renaissance painting"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.md"
+      - title: "Duccio di Buoninsegna"
+        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.md"
+      - title: "Pietro Cavallini"
+        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.md"
+      - title: "Arena (Scrovegni) Chapel, Padua"
+        url: "/Content/Churches/Arena%20Scrovegni%20Chapel%20Padua.md"
+      - title: "Santa Croce, Florence"
+        url: "/Content/Churches/Santa%20Croce%20Florence.md"
+
 author: "Giotto di Bondone"
 role: "Painter and architect, principal innovator of Western pictorial naturalism"
-dates: "c. 1267 – January 8, 1337"
 birth_place: "Vicchio di Mugello (near Florence, according to early sources)"
 death_place: "Florence"
 period: "XIII–XIV century"
+
 key_works:
   - "Fresco cycles in the Arena (Scrovegni) Chapel, Padua"
   - "Upper Basilica of San Francesco, Assisi (scenes from the Life of Saint Francis; debated but central to his corpus)"
   - "Bardi and Peruzzi Chapels, Santa Croce, Florence"
   - "Crucifix for Santa Maria Novella, Florence"
   - "Campanile (bell tower) of Florence Cathedral (design and lower storeys)"
+
 tradition: "Tuscan painting and architecture at the transition from medieval to early Renaissance visual culture"
 artistic_style: "Monumental figures, coherent spatial settings, and emotionally charged narrative scenes that break with Byzantine maniera greca"
-founders_and_patrons:
-  - "Franciscan Order (Assisi, Santa Croce)"
-  - "Scrovegni family (Enrico Scrovegni, Padua)"
-  - "Florentine commune and Opera del Duomo"
-  - "Powerful Florentine banking and merchant families (Bardi, Peruzzi)"
-key_phases:
-  - "Early formation in the orbit of Cimabue and Assisi workshops"
-  - "Mature narrative cycles in Padua (Arena Chapel) and Florence (Santa Croce chapels)"
-  - "Late activity for the Florentine commune and Opera del Duomo, including the campanile"
+
 thematic_keywords:
   - "Narrative fresco cycles"
   - "Emotional naturalism and spatial construction"
   - "Franciscan spirituality and civic patronage"
   - "Foundations of Renaissance painting"
-related_entries:
-  - "Cimabue"
-  - "Duccio di Buoninsegna"
-  - "Pietro Cavallini"
-  - "Arena (Scrovegni) Chapel, Padua"
-  - "Santa Croce, Florence"
+
 category: "artists"
 ---
 

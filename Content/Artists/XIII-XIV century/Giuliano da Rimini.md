@@ -1,40 +1,103 @@
 ---
 layout: entry
 title: "Giuliano da Rimini"
+subtitle: "Painter of the Rimini School, mediator between Byzantine tradition and Giottesque naturalism"
+dates: "c. 1280–1290 – c. 1324"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Early Trecento transition in Adriatic Italy"
+
+  - title: "ROLE"
+    list:
+      - "Painter of the Rimini School"
+      - "Mediator between Byzantine tradition and Giottesque naturalism"
+      - "Regional innovator in devotional panel and fresco production"
+
+  - title: "LOCATION"
+    list:
+      - "Rimini (probable birthplace and principal workshop context)"
+      - "Adriatic routes between Romagna, Bologna, and Venetian spheres"
+      - "Churches and chapels in the Rimini hinterland"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably c. 1280–1290 in Rimini"
+      - label: "Death"
+        value: "Probably c. 1324 in Rimini or nearby territory"
+
+  - title: "KEY WORKS"
+    list:
+      - "Crucifix for a Franciscan church in Rimini (c. 1307; fragmented, diocesan museum context)"
+      - "Coronation of the Virgin, originally for a Marian chapel near Rimini (traditional attribution)"
+      - "Madonna and Child Enthroned with Angels, private chapel commission (attributed)"
+      - "Small saints panels and devotional images for confraternal/private use"
+      - "Fresco fragments (including Annunciation scenes) in Rimini-area churches"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Refined gold-ground painting with lingering Byzantine solemnity"
+      - "Growing emotional expressiveness and gentler human interaction"
+      - "Selective spatial experimentation under Giottesque influence"
+      - "Balanced synthesis of regional Rimini idioms and wider Adriatic exchanges"
+
+  - title: "PATRONS"
+    list:
+      - "Malatesta-affiliated local elites"
+      - "Franciscan and Dominican institutions in Rimini"
+      - "Merchant families and confraternities"
+      - "Civic and religious patrons in Romagna and nearby urban centers"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in late Italo-Byzantine workshops in Rimini"
+      - "Assimilation of Giotto’s innovations from Padua/Florentine circulation"
+      - "Mature production of crucifixes, Marian panels, and church frescoes"
+      - "Regional impact within the Rimini School network"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Crucifixion and Passion devotion"
+      - "Marian iconography"
+      - "Rimini School and Adriatic artistic networks"
+      - "Transition from Byzantine to Giottesque naturalism"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII-XIV%20century/Giotto%20di%20Bondone.md"
+      - title: "Rimini School (Giovanni Baronzio, Neri da Rimini)"
+        url: "/Content/Topics/Rimini%20School.md"
+      - title: "Franciscan and Dominican churches in Rimini"
+        url: "/Content/Churches/Franciscan%20and%20Dominican%20churches%20in%20Rimini.md"
+      - title: "Malatesta patronage in Rimini"
+        url: "/Content/Topics/Malatesta%20patronage%20in%20Rimini.md"
+
 author: "Giuliano da Rimini"
 role: "Painter of the Rimini School, mediator between Byzantine tradition and Giottesque naturalism"
-dates: "c. 1280–1290 – c. 1324"
 birth_place: "Rimini (probable), within the milieu of the emerging Malatesta seigneurial city"
 death_place: "Rimini or its environs (probable), around the mid-1320s"
 period: "XIII–XIV century"
+
 key_works:
   - "Crucifix for a Franciscan church in Rimini (c. 1307; now in the local diocesan museum, fragmented but preserved)"
   - "Coronation of the Virgin, originally for a Marian chapel near Rimini, now in a northern Italian museum (traditional attribution)"
   - "Madonna and Child Enthroned with Angels, panel for a private chapel of a merchant family (now in a regional gallery; attributed)"
   - "Smaller panels of saints and devotional images for side chapels and private use (various collections; attributed)"
   - "Fresco fragments (Annunciation and other scenes) in churches of the Rimini area (partially preserved)"
+
 tradition: "Rimini School at the intersection of Byzantine, Giottesque, Venetian and Northern Gothic influences"
 artistic_style: "Refined gold-ground painting that combines solemn Byzantine frontality with growing emotional expressiveness and spatial awareness"
-founders_and_patrons:
-  - "Rimini and the Rimini School (Giovanni Baronzio, Neri da Rimini, and others)"
-  - "Malatesta family and local seigneurial patronage"
-  - "Franciscan and Dominican orders in the Adriatic region"
-  - "Merchant families and confraternities of Rimini"
-key_phases:
-  - "Training in Rimini within Italo-Byzantine workshops at the end of the thirteenth century"
-  - "Assimilation of Giotto’s innovations from Padua and Florence"
-  - "Mature production of crucifixes, Marian panels and narrative scenes for Rimini churches"
-  - "Influence on and interaction with other painters of the Rimini School"
+
 thematic_keywords:
   - "Crucifixion and Passion devotion"
   - "Marian iconography (Madonna and Coronation of the Virgin)"
   - "Rimini School and Adriatic artistic networks"
   - "Transition from Byzantine to Giottesque naturalism"
-related_entries:
-  - "Giotto di Bondone"
-  - "Rimini School (Giovanni Baronzio, Neri da Rimini)"
-  - "Franciscan and Dominican churches in Rimini"
-  - "Malatesta patronage in Rimini"
+
 category: "artists"
 ---
 

@@ -1,36 +1,101 @@
 ---
 layout: entry
 title: "Francesco Traini"
+subtitle: "Pisan painter active in the orbit of the Camposanto and Dominican commissions in mid-Trecento"
+dates: "Documented 1321–1363 (fl. mid-XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII–XIV century"
+      - "Mid-Trecento Pisan painting"
+
+  - title: "ROLE"
+    list:
+      - "Pisan painter"
+      - "Author of Dominican doctrinal imagery and major panel cycles"
+      - "Key figure in the visual culture of Pisa between Gothic refinement and proto-naturalism"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa (principal activity and workshop base)"
+      - "Camposanto Monumentale and cathedral precinct"
+      - "Wider Tuscan networks, with documented links beyond Pisa"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Probably Pisa, c. 1290–1295"
+      - label: "Death"
+        value: "Likely 1348 in Pisa, possibly during the Black Death"
+
+  - title: "KEY WORKS"
+    list:
+      - "Saint Dominic Altarpiece (Santa Caterina, Pisa; now Museo Nazionale di San Matteo)"
+      - "Crucifixion fresco in the Camposanto Monumentale, Pisa"
+      - "Madonna and Child with Saint Anne (central panel of dispersed altarpiece)"
+      - "Mosaic decorations for transept apses of Pisa Cathedral (Annunciation / Assumption cycles, workshop sphere and attributions)"
+      - "Panels connected to Dominican and cathedral patronage in Pisa"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Synthesis of Sienese Gothic refinement and Pisan monumentality"
+      - "Doctrinally clear compositions with strong narrative hierarchy"
+      - "Tempera precision and fresco planning evidenced by surviving sinopie"
+      - "Close dialogue with Orcagnesque and wider Florentine developments"
+
+  - title: "PATRONS"
+    list:
+      - "Dominican convent of Santa Caterina, Pisa"
+      - "Cathedral chapter and Opera del Duomo di Pisa"
+      - "Camposanto administration and related civic-religious bodies"
+      - "Local confraternities and elite lay families"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in the Pisan-Sienese artistic environment"
+      - "Civic and cathedral commissions in Pisa (1320s–1330s)"
+      - "Mature Dominican production culminating in the Saint Dominic Altarpiece (1344–1345)"
+      - "Final phase and posthumous attribution debates around Camposanto programs"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Dominican theology and Thomistic imagery"
+      - "Pisan Trecento panel painting"
+      - "Relations between Pisa and Florentine Orcagnesque style"
+      - "Cult of Saint Thomas Aquinas"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Andrea di Bonaiuto"
+        url: "/Content/Artists/XIII-XIV%20century/Andrea%20di%20Bonaiuto.md"
+      - title: "Orcagna (Andrea di Cione)"
+        url: "/Content/Artists/XIII-XIV%20century/Andrea%20di%20Cione%20Orcagna.md"
+      - title: "Camposanto Monumentale, Pisa"
+        url: "/Content/Churches/Camposanto%20Monumentale%20Pisa.md"
+      - title: "Santa Caterina, Pisa"
+        url: "/Content/Churches/Santa%20Caterina%20Pisa.md"
+
 author: "Francesco Traini"
 role: "Pisan painter active in the orbit of the Camposanto and Dominican commissions in mid-Trecento"
-dates: "Documented 1321–1363 (fl. mid-XIV century)"
 birth_place: "Pisa (probable)"
 death_place: "Pisa or Tuscan coastal area (not documented with certainty)"
 period: "XIII–XIV century"
+
 key_works:
   - "Saint Thomas Aquinas Enthroned, formerly for the Dominicans of Santa Caterina, Pisa (now Museo Nazionale di San Matteo)"
   - "Panels for Pisa Cathedral and Dominican contexts (various attributions)"
   - "Possible participation in Camposanto Monumentale fresco programs at Pisa (debated attributions)"
+
 tradition: "Pisan Trecento painting related to Orcagna’s Florentine circle and Dominican theological imagery"
 artistic_style: "Monumental figures, clear Giottesque construction, and strong doctrinal emphasis influenced by Orcagna and Florentine models"
-founders_and_patrons:
-  - "Dominican convent of Santa Caterina, Pisa"
-  - "Cathedral chapter and Opera del Duomo di Pisa"
-  - "Local confraternities and lay patrons in the Pisan contado"
-key_phases:
-  - "Formation in Pisan workshops influenced by Giunta Pisano’s legacy"
-  - "Mature commissions for Dominican patrons and doctrinal panels such as the Saint Thomas Aquinas"
-  - "Probable links with the pictorial culture of the Camposanto Monumentale in mid-Trecento"
+
 thematic_keywords:
   - "Dominican theology and Thomistic imagery"
   - "Pisan Trecento panel painting"
   - "Relations between Pisa and Florentine Orcagnesque style"
   - "Cult of Saint Thomas Aquinas"
-related_entries:
-  - "Andrea di Bonaiuto"
-  - "Orcagna (Andrea di Cione)"
-  - "Camposanto Monumentale, Pisa"
-  - "Santa Caterina, Pisa"
+
 category: "artists"
 ---
 
