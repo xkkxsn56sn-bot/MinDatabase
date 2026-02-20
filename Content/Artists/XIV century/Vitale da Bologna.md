@@ -1,37 +1,92 @@
 ---
 layout: entry
 title: "Vitale da Bologna (Vitale degli Equi)"
+subtitle: "Principal mid-Trecento innovator of Bolognese Gothic painting in dialogue with Giottesque models"
+dates: "Documented c. 1330–1360"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese painter active in the mid-fourteenth century"
+      - "Principal innovator of the local Gothic tradition"
+      - "Key interpreter of Giottesque visual language in Emilia"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna (primary center)"
+      - "Romagna and Veneto contexts including Pomposa and Udine"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Bologna (probable), c. 1309"
+      - label: "Death"
+        value: "Bologna or surroundings (probable), shortly after 1360"
+
+  - title: "KEY WORKS"
+    list:
+      - "Frescoes from Santa Maria di Mezzaratta, Bologna (Old and New Testament cycles, now Pinacoteca Nazionale di Bologna; partly by Vitale and his circle)"
+      - "Polyptych of San Salvatore, Bologna (fragments and related panels in various collections)"
+      - "St George and the Dragon, Pinacoteca Nazionale di Bologna"
+      - "Crucifixes and Madonna and Child panels for churches in Bologna and Romagna (attributed corpus, including Pomposa and Udine)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Nervous, vibrant line and animated figuration"
+      - "Intense color and dramatic narrative energy"
+      - "Giottesque structural order infused with Gothic expressiveness"
+
+  - title: "PATRONS"
+    list:
+      - "Parish and monastic churches of Bologna (San Salvatore, Santa Maria di Mezzaratta and others)"
+      - "Ecclesiastical institutions in Romagna and the Veneto (Pomposa, Udine)"
+      - "Urban confraternities and lay patrons in Bologna"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in early Trecento Bolognese workshops influenced by Giotto"
+      - "Mature fresco and panel production in Bologna (Mezzaratta, San Salvatore)"
+      - "Commissions outside Bologna, especially in Romagna and Friuli"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Giottesque narrative cycles in Emilia"
+      - "Expressive Gothic figuration"
+      - "Crucifixes and Marian images in Bologna"
+      - "Regional circulation of Bolognese style"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Simone dei Crocifissi"
+      - "Dalmasio degli Scannabecchi"
+      - "Andrea de Bartoli"
+      - "Nicolò di Giacomo"
+
 author: "Vitale da Bologna"
 role: "Bolognese painter active in the mid-fourteenth century, principal innovator of the local Gothic tradition and key Giottesque interpreter"
-dates: "Documented c. 1330–1360"
 birth_place: "Bologna (probable)"
 death_place: "Bologna or its surroundings (probable), shortly after 1360"
 period: "XIV century"
+
 key_works:
   - "Frescoes from Santa Maria di Mezzaratta, Bologna (Old and New Testament cycles, now Pinacoteca Nazionale di Bologna; partly by Vitale and his circle)"
   - "Polyptych of San Salvatore, Bologna (fragments and related panels in various collections)"
   - "St George and the Dragon, Pinacoteca Nazionale di Bologna"
   - "Crucifixes and Madonna and Child panels for churches in Bologna and Romagna (attributed corpus, including Pomposa and Udine)"
+
 tradition: "Bolognese Gothic painting in dialogue with Giottesque developments and northern Italian tastes"
 artistic_style: "Nervous, vibrant line, intense colour, animated figures and dramatic narrative sense that infuse Giottesque structure with Gothic expressiveness"
-founders_and_patrons:
-  - "Parish and monastic churches of Bologna (San Salvatore, Santa Maria di Mezzaratta and others)"
-  - "Ecclesiastical institutions in Romagna and the Veneto (Pomposa, Udine)"
-  - "Urban confraternities and lay patrons in Bologna"
-key_phases:
-  - "Formation in early Trecento Bolognese workshops influenced by Giotto"
-  - "Mature fresco and panel production in Bologna (Mezzaratta, San Salvatore)"
-  - "Commissions outside Bologna, especially in Romagna and Friuli"
+
 thematic_keywords:
   - "Giottesque narrative cycles in Emilia"
   - "Expressive Gothic figuration"
   - "Crucifixes and Marian images in Bologna"
   - "Regional circulation of Bolognese style"
-related_entries:
-  - "Simone dei Crocifissi"
-  - "Dalmasio degli Scannabecchi"
-  - "Andrea de Bartoli"
-  - "Nicolò di Giacomo"
+
 category: "artists"
 ---
 

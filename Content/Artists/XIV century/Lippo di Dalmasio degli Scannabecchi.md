@@ -1,37 +1,98 @@
 ---
 layout: entry
 title: "Lippo di Dalmasio degli Scannabecchi"
+subtitle: "Bolognese late Gothic painter devoted to Marian imagery, heir to Dalmasio’s workshop tradition between Emilia and Tuscany"
+dates: "Documented c. 1360–1410 (fl. late XIV – early XV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento to early Quattrocento Bolognese Gothic"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese painter specialising in Marian devotion"
+      - "Son and artistic heir of Dalmasio degli Scannabecchi"
+      - "Key mediator between Bolognese and Tuscan late Gothic idioms"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna (principal center of activity)"
+      - "Pistoia (documented residence and commissions in the 1380s)"
+      - "Wider Emilia-Tuscany devotional network including Prato"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Bologna, c. 1353–1355"
+      - label: "Death"
+        value: "Bologna, October 1410 (traditional chronology)"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna of Humility, c. 1390, National Gallery, London"
+      - "Coronation of the Virgin triptych, signed 1394, Pinacoteca Nazionale, Bologna"
+      - "Madonna dell’Umiltà fresco, signed 1397, Santa Maria della Misericordia, Bologna"
+      - "Frescoes for the Chapel of the Madonna dell’Orazione, Oratorio di San Colombano, c. 1399"
+      - "Marian panel corpus linked to churches in Bologna and Pistoia"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Tender Marian iconography with intimate devotional tone"
+      - "Rounded figures, soft chromatic transitions and controlled emotional expression"
+      - "Synthesis of Bolognese tradition with Tuscan volumetric modeling"
+      - "Consistent refinement in gold-ground and decorative detailing"
+
+  - title: "PATRONS"
+    list:
+      - "Bolognese confraternities and Marian devotional communities"
+      - "Ecclesiastical patrons tied to San Petronio and Santa Maria della Misericordia"
+      - "Servite and other religious institutions in Pistoia"
+      - "Urban religious networks across Emilia and Tuscany"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Dalmasio’s family workshop with ties to Simone dei Crocifissi"
+      - "Tuscan phase in Pistoia (1377–1389), including major ecclesiastical commissions"
+      - "Return to Bologna and mature Marian production (1390s)"
+      - "Late activity up to 1410 with enduring workshop influence"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Madonna of Humility"
+      - "Bolognese late Gothic painting"
+      - "Marian devotion in Emilia"
+      - "Family workshop continuity"
+      - "Trecento–Quattrocento transition"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Dalmasio degli Scannabecchi"
+      - "Simone dei Crocifissi"
+      - "Vitale da Bologna"
+      - "Giovanni da Modena"
+      - "Marian cults in Bologna"
+
 author: "Lippo di Dalmasio degli Scannabecchi"
 role: "Bolognese painter specialising in Marian imagery, son of Dalmasio degli Scannabecchi and key figure of late Gothic devotion in Emilia and Tuscany"
-dates: "Documented c. 1360–1410 (fl. late XIV – early XV century)"
 birth_place: "Bologna"
 death_place: "Bologna (probable, early fifteenth century)"
 period: "XIV century"
+
 key_works:
   - "Madonna di San Luca-related Madonna and Child images in Bologna (various churches and collections)"
   - "Madonna and Child with Angels panels for Bolognese churches (attributed corpus)"
   - "Devotional Madonne for Tuscan centres such as Pistoia and Prato (various attributions)"
+
 tradition: "Bolognese late Gothic painting, continuing the Giottesque legacy of his father Dalmasio with strong Marian focus"
 artistic_style: "Soft, tender Marian iconography with rounded, childlike figures, delicate colour and intimate devotional tone"
-founders_and_patrons:
-  - "Dalmasio degli Scannabecchi (father and master)"
-  - "Bolognese confraternities and Marian sodalities"
-  - "Churches of Bologna and the surrounding contado"
-  - "Ecclesiastical patrons in Pistoia, Prato and other Tuscan centres"
-key_phases:
-  - "Formation in the family workshop of Dalmasio in Bologna"
-  - "Independent production of Marian panels for Bolognese churches and confraternities"
-  - "Expansion of activity toward Tuscany, especially Pistoia and Prato"
 thematic_keywords:
   - "Marian devotion and Madonna and Child imagery"
   - "Bolognese Gothic painting"
   - "Family workshops and dynastic continuity"
   - "Late Trecento–early Quattrocento devotional panels"
-related_entries:
-  - "Dalmasio degli Scannabecchi"
-  - "Simone dei Crocifissi"
-  - "Vitale da Bologna"
-  - "Marian cults in Bologna and Emilia"
+
 category: "artists"
 ---
 

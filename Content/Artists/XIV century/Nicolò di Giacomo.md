@@ -1,37 +1,98 @@
 ---
 layout: entry
 title: "Nicolò di Giacomo (Nicolò di Giacomo da Bologna)"
+subtitle: "Bolognese master illuminator of Gothic manuscripts, pivotal in university, legal, and liturgical book decoration"
+dates: "Documented c. 1349–1403"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Late Trecento Bolognese Gothic illumination"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese illuminator and painter"
+      - "Leading master of legal and notarial manuscript decoration"
+      - "Key figure in university-linked and conventual miniature production"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna (principal workshop center)"
+      - "Padua and other northern Italian centers through documented commissions"
+      - "Networks connected to civic chancery, Studium, and mendicant orders"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Bologna, c. 1325"
+      - label: "Death"
+        value: "Bologna, between 1402 and 1404 (traditional chronology)"
+
+  - title: "KEY WORKS"
+    list:
+      - "Officium B. Mariae Virginis (1349), Kremsmünster"
+      - "Novella sulle Decretali (multi-volume corpus), Vatican / Ambrosiana / Salzburg"
+      - "Choir books for San Giacomo Maggiore, Bologna"
+      - "Graduals for the Basilica of Saint Anthony, Padua"
+      - "Illuminated legal and notarial manuscripts for Bolognese institutions"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Brilliant chromatic range and intricate ornamental initials"
+      - "Lively, expressive figures in dense Gothic architectural frames"
+      - "Strong narrative compression suited to miniature formats"
+      - "Synthesis of Bolognese dynamism and international Gothic refinement"
+
+  - title: "PATRONS"
+    list:
+      - "Studium of Bologna and law faculties"
+      - "Notaries’ and judges’ corporations (Ars Notariorum)"
+      - "Dominican, Franciscan, and Augustinian institutions"
+      - "Civic magistracies and communal chancery"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early formation in Bolognese miniature workshops linked to the university"
+      - "Mature legal-notarial production for professors, jurists, and civic bodies"
+      - "Extended liturgical cycles for conventual and ecclesiastical patrons"
+      - "Late period of broad regional influence and workshop consolidation"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Gothic manuscript illumination"
+      - "Legal and notarial iconography"
+      - "Bolognese university culture"
+      - "Liturgical codices and choir books"
+      - "Trecento miniature workshops"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Vitale da Bologna"
+      - "Simone dei Crocifissi"
+      - "Andrea de Bartoli"
+      - "Dalmasio degli Scannabecchi"
+      - "Jacopo di Paolo"
+
 author: "Nicolò di Giacomo"
 role: "Bolognese illuminator and painter, leading master of Gothic miniature and notarial decoration in fourteenth-century Bologna"
-dates: "Documented c. 1349–1403"
 birth_place: "Bologna"
 death_place: "Bologna (probable), shortly after 1403"
 period: "XIV century"
+
 key_works:
   - "Illuminated notarial and juridical manuscripts for the Bolognese Studium and city magistracies"
   - "Miniatures in choir books and liturgical codices for San Domenico and other convents in Bologna"
   - "Law books with historiated initials and narrative scenes (various European libraries; attributed corpus)"
+
 tradition: "Bolognese Gothic illumination linked to the university, civic chancery and mendicant orders"
 artistic_style: "Brilliant colour, intricate ornamental initials and lively, expressive figures within densely patterned Gothic frames"
-founders_and_patrons:
-  - "Studium of Bologna and its law faculties"
-  - "Notaries’ and judges’ corporations (Ars Notariorum)"
-  - "Dominican and Franciscan convents in Bologna"
-  - "Civic magistracies and communal chancery"
-key_phases:
-  - "Early formation within Bolognese miniature workshops serving the university"
-  - "Mature production of lavish legal and notarial codices for professors and judges"
-  - "Liturgical commissions for convents and cathedral-related institutions"
 thematic_keywords:
   - "Gothic manuscript illumination"
   - "Notarial and juridical iconography"
   - "Bolognese university culture"
   - "Liturgical books and choir manuscripts"
-related_entries:
-  - "Vitale da Bologna"
-  - "Simone dei Crocifissi"
-  - "Andrea de Bartoli"
-  - "Dalmasio degli Scannabecchi"
+
 category: "artists"
 ---
 

@@ -1,44 +1,100 @@
 ---
 layout: entry
 title: "Simone dei Crocifissi (Simone di Filippo Benvenuti)"
+subtitle: "Leading late Trecento Bolognese master of Giottesque religious imagery"
+dates: "c. 1330/1335 – after 1399"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+
+  - title: "ROLE"
+    list:
+      - "Bolognese Gothic painter"
+      - "Leading interpreter of the Giottesque tradition"
+      - "Principal producer of religious imagery in late fourteenth-century Bologna"
+
+  - title: "LOCATION"
+    list:
+      - "Bologna, parish of San Domenico (primary center)"
+      - "Bolognese religious institutions and confraternities"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Bologna, c. 1330–1335"
+      - label: "Death"
+        value: "Bologna (probable), shortly after 1399"
+
+  - title: "KEY WORKS"
+    list:
+      - "Crucifix, 1370, San Giacomo Maggiore, Bologna"
+      - "Frescoes from Santa Maria di Mezzaratta (now Pinacoteca Nazionale di Bologna), including Old and New Testament cycles"
+      - "Pietà for Giovanni da Elthinl, 1368 (lost, known from documents)"
+      - "Polyptych for San Petronio, Bologna (Cospi commission, dispersed)"
+      - "Painted casket for a member of the Baisi family, Victoria and Albert Museum, London"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Expressive Giottesque volumetry with Bolognese linear vitality"
+      - "Rich color and dense narrative-devotional programs"
+      - "Strong workshop organization for large religious commissions"
+
+  - title: "PATRONS"
+    list:
+      - "Vitale da Bologna"
+      - "Dalmasio degli Scannabecchi"
+      - "Lippo di Dalmasio degli Scannabecchi"
+      - "Nicolò di Giacomo"
+      - "San Giacomo Maggiore, Bologna"
+      - "Santa Maria di Mezzaratta, Bologna"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation in Bologna within the Vitale and Dalmasio circles"
+      - "Early major commissions for Santa Maria di Mezzaratta and San Giacomo Maggiore (1360s–1370s)"
+      - "Mature production of crucifixes, polyptychs and fresco cycles for Bolognese churches and confraternities"
+      - "Late works and testament (1399), consolidating his role as patriarch of an extensive workshop network"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Crucifixes and Passion iconography"
+      - "Old and New Testament narrative cycles"
+      - "Bolognese mendicant patronage"
+      - "Family workshops and Giottesque legacy"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Vitale da Bologna"
+      - "Dalmasio degli Scannabecchi"
+      - "Lippo di Dalmasio degli Scannabecchi"
+      - "Nicolò di Giacomo"
+      - "San Giacomo Maggiore, Bologna"
+      - "Santa Maria di Mezzaratta, Bologna"
+
 author: "Simone dei Crocifissi"
 role: "Bolognese Gothic painter, leading interpreter of the Giottesque tradition and principal producer of religious imagery in late fourteenth‑century Bologna"
-dates: "c. 1330/1335 – after 1399"
 birth_place: "Bologna, parish of San Domenico"
 death_place: "Bologna (probable), shortly after 1399"
 period: "XIV century"
+
 key_works:
   - "Crucifix, 1370, San Giacomo Maggiore, Bologna"
   - "Frescoes from Santa Maria di Mezzaratta (now Pinacoteca Nazionale di Bologna), including Old and New Testament cycles"
   - "Pietà for Giovanni da Elthinl, 1368 (lost, known from documents)"
   - "Polyptych for San Petronio, Bologna (Cospi commission, dispersed)"
   - "Painted casket for a member of the Baisi family, Victoria and Albert Museum, London"
+
 tradition: "Bolognese Gothic painting in the Giottesque tradition, serving mendicant orders, confraternities, and civic patrons"
 artistic_style: "Expressive Giottesque volumetry combined with Bolognese linear vitality, rich colour, and dense narrative and devotional programs"
-founders_and_patrons:
-  - "Vitale da Bologna"
-  - "Dalmasio degli Scannabecchi"
-  - "Lippo di Dalmasio degli Scannabecchi"
-  - "Nicolò di Giacomo"
-  - "San Giacomo Maggiore, Bologna"
-  - "Santa Maria di Mezzaratta, Bologna"
-key_phases:
-  - "Formation in Bologna within the Vitale and Dalmasio circles"
-  - "Early major commissions for Santa Maria di Mezzaratta and San Giacomo Maggiore (1360s–1370s)"
-  - "Mature production of crucifixes, polyptychs and fresco cycles for Bolognese churches and confraternities"
-  - "Late works and testament (1399), consolidating his role as patriarch of an extensive workshop network"
+
 thematic_keywords:
   - "Crucifixes and Passion iconography"
   - "Old and New Testament narrative cycles"
   - "Bolognese mendicant patronage"
   - "Family workshops and Giottesque legacy"
-related_entries:
-  - "Vitale da Bologna"
-  - "Dalmasio degli Scannabecchi"
-  - "Lippo di Dalmasio degli Scannabecchi"
-  - "Nicolò di Giacomo"
-  - "San Giacomo Maggiore, Bologna"
-  - "Santa Maria di Mezzaratta, Bologna"
+
 category: "artists"
 ---
 

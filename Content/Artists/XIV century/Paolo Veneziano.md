@@ -1,38 +1,93 @@
 ---
 layout: entry
 title: "Paolo Veneziano"
+subtitle: "Leading Venetian Trecento master bridging Byzantine icon tradition and Gothic narrative refinement"
+dates: "Documented 1324–1358 (fl. first half of the XIV century)"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+
+  - title: "ROLE"
+    list:
+      - "Leading Venetian painter of the Trecento"
+      - "Founder of the Venetian school between Byzantine tradition and Gothic innovation"
+
+  - title: "LOCATION"
+    list:
+      - "Venice"
+      - "Venetian lagoon"
+      - "Adriatic area including Istria and Dalmatia"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Venice, c. 1300 (traditional date; some scholars suggest c. 1290)"
+      - label: "Death"
+        value: "Venice (probable), between 1358 and 1362"
+
+  - title: "KEY WORKS"
+    list:
+      - "Pala feriale for the high altar of San Marco, Venice (with his sons; partly preserved in the Galleria dell’Accademia)"
+      - "Polyptychs and Madonna and Child panels for Venetian churches (San Pantalon, San Lorenzo and others)"
+      - "Works for the Dalmatian and Adriatic area (polyptychs and panels now in Zadar and other centres; attributed corpus)"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Gold-ground maniera with hieratic figures and refined color"
+      - "Rich ornament and tooled decorative surfaces"
+      - "Gradual introduction of softer modelling and narrative complexity"
+      - "Synthesis of Byzantine visual language with Gothic and Giottesque accents"
+
+  - title: "PATRONS"
+    list:
+      - "Basilica di San Marco and the Venetian ducal chapel"
+      - "Venetian confraternities and scuole"
+      - "Monastic and parish churches in Venice and the lagoon"
+      - "Adriatic patrons in Istria and Dalmatia"
+
+  - title: "KEY PHASES"
+    list:
+      - "Formation within the Byzantine-oriented Venetian milieu of early Trecento"
+      - "Mature activity as official painter for San Marco (pala feriale and related works)"
+      - "Collaboration with his sons and establishment of a dynastic workshop"
+      - "Late commissions spreading his style across the Adriatic"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Venetian–Byzantine icon tradition"
+      - "Polyptychs and pala d’altare"
+      - "Adriatic artistic networks"
+      - "Transition from Byzantine to Gothic in Venice"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Lorenzo Veneziano"
+      - "Caterino di Marco da Venezia"
+      - "Jacobello di Bonomo"
+      - "San Marco, Venice"
+
 author: "Paolo Veneziano"
 role: "Leading Venetian painter of the Trecento and founder of the Venetian school between Byzantine tradition and Gothic innovation"
-dates: "Documented 1324–1358 (fl. first half of the XIV century)"
 birth_place: "Venice"
 death_place: "Venice (probable), after 1358"
 period: "XIV century"
+
 key_works:
   - "Pala feriale for the high altar of San Marco, Venice (with his sons; partly preserved in the Galleria dell’Accademia)"
   - "Polyptychs and Madonna and Child panels for Venetian churches (San Pantalon, San Lorenzo and others)"
   - "Works for the Dalmatian and Adriatic area (polyptychs and panels now in Zadar and other centres; attributed corpus)"
+
 tradition: "Venetian Trecento painting rooted in Byzantine icon tradition and open to Gothic and Giottesque influences"
 artistic_style: "Gold-ground maniera with hieratic figures, refined colour, rich ornament and gradual introduction of softer modelling and narrative complexity"
-founders_and_patrons:
-  - "Basilica di San Marco and the Venetian ducal chapel"
-  - "Venetian confraternities and scuole"
-  - "Monastic and parish churches in Venice and the lagoon"
-  - "Adriatic patrons in Istria and Dalmatia"
-key_phases:
-  - "Formation within the Byzantine-oriented Venetian milieu of early Trecento"
-  - "Mature activity as official painter for San Marco (pala feriale and related works)"
-  - "Collaboration with his sons and establishment of a dynastic workshop"
-  - "Late commissions spreading his style across the Adriatic"
+
 thematic_keywords:
   - "Venetian–Byzantine icon tradition"
   - "Polyptychs and pala d’altare"
   - "Adriatic artistic networks"
   - "Transition from Byzantine to Gothic in Venice"
-related_entries:
-  - "Lorenzo Veneziano"
-  - "Caterino di Marco da Venezia"
-  - "Jacobello di Bonomo"
-  - "San Marco, Venice"
+
 category: "artists"
 ---
 

@@ -1,41 +1,99 @@
 ---
 layout: entry
 title: "Giovanni di Nicola da Pisa"
+subtitle: "Pisan Trecento painter shaped by Sienese training, bridging Lippo Memmi’s idiom and local civic-ecclesiastical commissions"
+dates: "c. 1326 – after July 1363"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIV century"
+      - "Mid-Trecento Pisan painting in dialogue with Siena"
+
+  - title: "ROLE"
+    list:
+      - "Pisan painter formed in the Sienese orbit"
+      - "Mediator between Lippo Memmi’s language and local Pisan traditions"
+      - "Specialist in gold-ground devotional panels and polyptychs"
+
+  - title: "LOCATION"
+    list:
+      - "Pisa (primary base of activity)"
+      - "Siena (early documented commission and formative context)"
+      - "Wider Tuscan and maritime networks linked to Pisan patronage"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Pisa, c. 1326 (traditional chronology)"
+      - label: "Death"
+        value: "After July 1363, probably in Pisa"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna col Bambino, formerly San Vito, Pisa"
+      - "Signed polyptych for the parish church of San Marta, Pisa"
+      - "Works associated with Santa Caterina, Pisa, in the orbit of Francesco Traini"
+      - "Documented Saint Ansano commission for the Comune of Siena (1326, lost)"
+      - "Saint Anthony Abbot panel (c. 1350), National Gallery, London"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Sienese-derived linear elegance with Pisan compositional gravity"
+      - "Refined decorative handling of punched gold grounds and frame ornament"
+      - "‘Perlacea’ chromatic harmonies adapted to devotional panel painting"
+      - "Effective balance of iconographic clarity and ornamental richness"
+
+  - title: "PATRONS"
+    list:
+      - "Dominican environment of Santa Caterina, Pisa"
+      - "Parish and monastic institutions including San Marta and San Vito"
+      - "Republic of Pisa and civic institutions"
+      - "Private urban patrons and confraternal devotional contexts"
+
+  - title: "KEY PHASES"
+    list:
+      - "Early formation in Siena under Lippo Memmi’s influence"
+      - "Return to Pisa and adaptation of Sienese models to local demands"
+      - "Documented civic and ecclesiastical commissions across the 1320s–1360s"
+      - "Mature phase marked by collaboration networks and refined gold-ground production"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Pisan–Sienese Trecento exchanges"
+      - "Madonna and Child devotion"
+      - "Dominican patronage and civic imagery"
+      - "Gold-ground panel painting"
+      - "Mid-fourteenth-century Pisa"
+
+  - title: "RELATED ENTRIES"
+    list:
+      - "Lippo Memmi"
+      - "Francesco Traini"
+      - "Simone Martini"
+      - "Santa Caterina, Pisa"
+      - "Republic of Pisa"
+
 author: "Giovanni di Nicola da Pisa"
 role: "Pisan painter trained in the Sienese orbit, active in the mid-fourteenth century and key mediator between Lippo Memmi’s Sienese language and local Pisan traditions"
-dates: "c. 1326 – after July 1363"
 birth_place: "Pisa"
 death_place: "Pisa (probable), after 1363"
 period: "XIV century"
+
 key_works:
   - "Madonna col Bambino, formerly San Vito, Pisa (documented until 1373)"
   - "Signed polyptych for the parish church of San Marta, Pisa"
   - "Works associated with the Dominicans of Santa Caterina, Pisa (with Francesco Traini)"
   - "Documented commission of a Saint Ansano for the Commune of Siena (1326, now lost)"
+
 tradition: "Pisan painting of the mid-Trecento in dialogue with the Sienese school of Lippo Memmi and Simone Martini"
 artistic_style: "Sienese-derived linear elegance and ‘perlacea’ colour, combined with Pisan compositional solidity and richly punched gold grounds"
-founders_and_patrons:
-  - "Lippo Memmi"
-  - "Francesco Traini"
-  - "Simone Martini and the Sienese school"
-  - "Dominican Order in Pisa (Santa Caterina)"
-  - "Republic of Pisa and its civic institutions"
-key_phases:
-  - "Early formation in Siena in the workshop of Lippo Memmi"
-  - "Return to Pisa and integration into local artistic milieu"
-  - "Documented civic and ecclesiastical commissions between Pisa and Siena (Saint Ansano, San Marta, San Vito)"
-  - "Mature collaboration with Francesco Traini and Dominican patrons at Santa Caterina"
 thematic_keywords:
   - "Madonna and Child iconography"
   - "Pisan–Sienese artistic relations"
   - "Dominican patronage in Pisa"
   - "Mid-Trecento gold-ground painting"
-related_entries:
-  - "Lippo Memmi"
-  - "Francesco Traini"
-  - "Simone Martini"
-  - "Santa Caterina, Pisa"
-  - "Republic of Pisa and its civic imagery"
+
 category: "artists"
 ---
 
