@@ -5,24 +5,24 @@ subtitle: "Monk, Artist, and Hagiographer"
 dates: "Active IX century; d. ca. 845"
 
 meta:
-	- title: "PERIOD"
-		list:
-			- "IX century"
+  - title: "PERIOD"
+    list:
+      - "IX century"
 
-	- title: "ROLE"
-		list:
-			- "Monk"
-			- "Artist"
-			- "Hagiographer"
+  - title: "ROLE"
+    list:
+      - "Monk"
+      - "Artist"
+      - "Hagiographer"
 
-	- title: "LOCATION"
-		list:
-			- "Fulda Abbey"
+  - title: "LOCATION"
+    list:
+      - "Fulda Abbey"
 
-	- title: "RELATED ENTRIES"
-		links:
-			- title: "Rhabanus Maurus"
-				url: "/Content/Artists/VIII century/Rhabanus Maurus.html"
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Rhabanus Maurus"
+        url: "/Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
 ---
 
 ## Monastic Origins and Intellectual Formation
