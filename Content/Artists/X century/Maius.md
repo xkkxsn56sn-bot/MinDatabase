@@ -24,8 +24,10 @@ meta:
   
   - title: "RELATED ENTRIES"
     links:
-      - title: "Beatus manuscripts"
-        url: "/Content/Codex/Beatus.html"
+      - title: "Morgan Beatus"
+        url: "/Content/Codex/Morgan%20Beatus.html"
+      - title: "Escalada Beatus"
+      - url: "Content/Codex/Escalada%20Beatus.html"
 ---
 
 
