@@ -7,7 +7,7 @@ dates: "March 1319 – July 1377"
 meta:
   - title: "PERIOD"
     list:
-      - "XIII–XIV century"
+      - "XIV century"
       - "Trecento Florentine painting after Giotto"
 
   - title: "ROLE"
