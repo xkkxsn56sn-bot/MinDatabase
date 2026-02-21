@@ -509,8 +509,8 @@ python3 add_sections.py "../XIII-XIV century/Giotto di Bondone.md" --dry-run
 # Apply changes to file (modifies in-place)
 python3 add_sections.py "Coppo di Marcovaldo.md"
 
-# Process file with absolute path
-python3 add_sections.py "/Users/.../MinDatabase/Content/Artists/XIII-XIV century/Simone Martini.md"
+# Process file with workspace-relative path
+python3 add_sections.py "Content/Artists/XIII-XIV century/Simone Martini.md"
 ```
 
 **Configuration**: Edit the `REPLACEMENTS` dictionary within the script before running:
