@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +16,7 @@
             --text: #2c2416;
             --text-light: #5a4d3a;
         }
+
         body {
             font-family: 'Georgia', 'Times New Roman', serif;
             background: var(--parchment);
@@ -23,6 +25,7 @@
             margin: 0;
             padding: 0;
         }
+
         header {
             background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
             color: var(--parchment);
@@ -30,61 +33,77 @@
             text-align: center;
             border-bottom: 3px solid var(--gold);
         }
+
         nav {
             background: var(--dark-parchment);
             padding: 0.5rem;
             text-align: center;
             border-bottom: 1px solid var(--gold);
         }
+
         nav a {
             color: var(--burgundy);
             text-decoration: none;
             margin: 0 1rem;
             font-weight: bold;
         }
+
         main {
             max-width: 1000px;
             margin: 2rem auto;
             padding: 0 2rem;
         }
-        h1 { color: var(--parchment); margin: 0; }
-        h2 { 
-            color: var(--burgundy); 
+
+        h1 {
+            color: var(--parchment);
+            margin: 0;
+        }
+
+        h2 {
+            color: var(--burgundy);
             border-bottom: 2px solid var(--gold);
             padding-bottom: 0.5rem;
             margin-top: 2rem;
         }
+
         .section-card {
             background: white;
             padding: 1.5rem;
             border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             margin-bottom: 2rem;
         }
+
         ul {
             list-style: none;
             padding: 0;
         }
+
         li {
             padding: 0.8rem 0;
             border-bottom: 1px solid var(--dark-parchment);
         }
+
         li:last-child {
             border-bottom: none;
         }
+
         li::before {
             content: "✦ ";
             color: var(--gold);
         }
+
         a {
             color: var(--burgundy);
             text-decoration: none;
             transition: color 0.3s;
         }
+
         a:hover {
             color: var(--gold);
             text-decoration: underline;
         }
+
         .back-btn {
             display: inline-block;
             margin-top: 2rem;
@@ -96,6 +115,7 @@
         }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Churches & Sacred Spaces</h1>
@@ -111,15 +131,20 @@
         <div class="section-card">
             <h2>Sacred Architecture & Fresco Cycles</h2>
             <ul>
-                <li><a href="Content/Churches/Oratorio%20di%20San%20Pellegrino%20a%20Bominaco.html">Oratorio di San Pellegrino a Bominaco</a></li>
-                <li><a href="Content/Churches/Abbazia%20di%20Saint%20Savin%20sur%20Gartempe.html">Abbazia di Saint Savin sur Gartempe</a></li>
+                <li><a href="Content/Churches/Oratorio%20di%20San%20Pellegrino%20a%20Bominaco.html">Oratorio di San
+                        Pellegrino a Bominaco</a></li>
+                <li><a href="Content/Churches/Fulda%20Abbey.html">Fulda Abbey</a></li>
+                <li><a href="Content/Churches/Abbazia%20di%20Saint%20Savin%20sur%20Gartempe.html">Abbazia di Saint Savin
+                        sur Gartempe</a></li>
             </ul>
         </div>
 
         <a href="index.html" class="back-btn">← Back to Home</a>
     </main>
-    <footer style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
+    <footer
+        style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
         <p>Medieval Visions - Medieval Artistic Dataset</p>
     </footer>
 </body>
+
 </html>
