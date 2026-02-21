@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Giunta Pisano, San Domenico Crucifix"
+title: "Giunta Pisano - San Domenico Crucifix"
 author: "Giunta Pisano"
 role: "Monumental Christus patiens crucifix inaugurating a new visual theology of Christ’s suffering in mid‑thirteenth‑century Italy"
 dates: "c. 1250–1254"
