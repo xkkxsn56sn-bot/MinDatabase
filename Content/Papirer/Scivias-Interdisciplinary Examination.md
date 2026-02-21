@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Scivias – Hildegard of Bingen"
+title: "Scivias of Hildegard of Bingen"
 subtitle: "Mystical Revelation or Neurological Phenomenon? An Interdisciplinary Examination"
 description: "A multidisciplinary study of Hildegard of Bingen’s Scivias at the intersection of theology, neurology, psychology, and medieval intellectual history."
 author: "Hildegard of Bingen (primary text); modern scholarly examination"

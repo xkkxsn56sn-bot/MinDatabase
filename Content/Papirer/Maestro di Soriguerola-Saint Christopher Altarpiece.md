@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Maestro di Soriguerola – Saint Christopher Altarpiece"
+title: "Master of Soriguerola – Saint Christopher Altarpiece"
 author: "Master of Soriguerola"
 role: "Catalan Linear Gothic altarpiece articulating the cult of Saint Christopher through a complex hagiographic narrative program"
 dates: "c. 1290–1310"

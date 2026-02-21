@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Maestro di Soriguerola – Tavola di San Michele"
+title: "Master of Soriguerola – Saint Michael Altarpiece"
 author: "Master of Soriguerola"
 role: "Linear Gothic altar panel dedicated to Saint Michael, articulating eschatological doctrine through a multi-compartment narrative program"
 dates: "c. 1270–1290"
