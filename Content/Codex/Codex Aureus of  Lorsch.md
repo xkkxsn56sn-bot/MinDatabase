@@ -1,6 +1,7 @@
 ---
 layout: entry
 title: "Codex Aureus of Lorsch (Lorsch Gospels)"
+subtitle: "Imperial luxury Gospel book of the Carolingian Renaissance, written entirely in gold and bound with carved ivory covers"
 author: "Codex Aureus of Lorsch"
 role: "Imperial luxury Gospel book of the Carolingian Renaissance, written entirely in gold and bound with carved ivory covers"
 dates: "c. 810 CE (early ninth century)"
