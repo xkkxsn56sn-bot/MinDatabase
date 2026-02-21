@@ -7,7 +7,7 @@ dates: "Active c. 1080–1130"
 meta:
   - title: "PERIOD"
     list:
-      - "XII century"
+      - "XI-XII century"
 
   - title: "ROLE"
     list:
