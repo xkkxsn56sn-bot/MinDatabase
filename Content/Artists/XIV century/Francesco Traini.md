@@ -7,7 +7,7 @@ dates: "Documented 1321–1363 (fl. mid-XIV century)"
 meta:
   - title: "PERIOD"
     list:
-      - "XIII–XIV century"
+      - "XIV century"
       - "Mid-Trecento Pisan painting"
 
   - title: "ROLE"

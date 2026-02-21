@@ -7,7 +7,7 @@ dates: "Documented c. 1317–1339 (fl. early XIV century)"
 meta:
   - title: "PERIOD"
     list:
-      - "XIII–XIV century"
+      - "XIV century"
       - "Early Trecento transition between Sienese and Florentine devotional cultures"
 
   - title: "ROLE"

@@ -7,7 +7,7 @@ dates: "Documented c. 1303–1325 (fl. early XIV century)"
 meta:
   - title: "PERIOD"
     list:
-      - "XIII–XIV century"
+      - "XIV century"
       - "Early Trecento Sienese painting in civic and religious contexts"
 
   - title: "ROLE"
