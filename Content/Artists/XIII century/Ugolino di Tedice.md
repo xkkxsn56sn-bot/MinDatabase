@@ -1,3 +1,108 @@
+---
+layout: entry
+title: "Ugolino di Tedice"
+subtitle: "Pisan painter between Giunta Pisano and the Master of San Martino"
+dates: "active 1251–1277; deceased before 1286"
+
+meta:
+  - title: Identity
+    pairs:
+      - label: Full name
+        value: Ugolino di Tedice
+      - label: Alternative forms
+        value: Ugolinus (in Latin signatures and documents) [page:1]
+      - label: Occupation
+        value: Painter (pictor) [page:1]
+      - label: Social status
+        value: Member of a notable Pisan family, active in civic life [page:1]
+      - label: Origin
+        value: Pisa (documented resident and operative) [page:1]
+      - label: Family network
+        value: Brother of the painter Enrico di Tedice; father of the painter Ranieri di Ugolino [page:1]
+
+  - title: Chronology and documents
+    pairs:
+      - label: First documentary mention
+        value: Mid‑Duecento (tax and notarial records in Pisa) [page:1]
+      - label: Documented activity
+        value: Recorded in 1273 and 1277 among Pisan painters [page:1]
+      - label: Traditional activity span
+        value: ca. 1251–1277, inferred from stylistic development and archival traces [page:1]
+      - label: Last record
+        value: Absent from family documentation by 1286, implying his death before that date [page:1]
+      - label: Place of activity
+        value: Mainly Pisa and its territory, within the sphere of Pisan ecclesiastical patrons [page:1]
+
+  - title: Family and workshop context
+    pairs:
+      - label: Pictorial lineage
+        value: Part of a multi‑generational dynasty of Pisan painters (Tedice–Ugolino–Ranieri) [page:1]
+      - label: Workshop structure
+        value: Likely shared shop practices and models with Enrico di Tedice and later with Ranieri [page:1]
+      - label: Local clientele
+        value: Religious institutions and confraternities in Pisa, with commissions centered on processional crucifixes [page:1]
+
+  - title: Signed and attributed works
+    pairs:
+      - label: Only signed work
+        value: Large painted Crucifix, Hermitage, Saint Petersburg, signed “Ugolinus” on the titulus [page:1]
+      - label: Dating of signed Crucifix
+        value: Commonly placed between 1265 and 1275 on stylistic grounds [page:1]
+      - label: Identification with a master
+        value: Frequently identified with the so‑called Master of San Martino [page:1]
+      - label: Core attributed nucleus
+        value: Group of works linked to the San Martino Crucifix in Pisa and related panels [page:1]
+      - label: Geographic distribution
+        value: Surviving paintings mainly in Pisa and Tuscan collections, with the Hermitage Crucifix as the main exception [page:1]
+      - label: Medium and technique
+        value: Tempera on panel with gilded and punched backgrounds, according to contemporary Pisan practice [page:1]
+
+  - title: Style and artistic profile
+    pairs:
+      - label: Primary model
+        value: Deeply indebted to Giunta Pisano’s monumental crucifixes and pathos‑charged Christus patiens type [page:1]
+      - label: Formal character
+        value: Elongated, somewhat rigid bodies combined with more energetic drawing and incisive contours [page:1]
+      - label: Treatment of the body of Christ
+        value: Emphasis on weight, torsion, and sagging of the body, with marked attention to anatomical strain [page:1]
+      - label: Facial types
+        value: Angular faces, sharp noses, and intense, deep‑set eyes reflecting an advanced neo‑Hellenic Byzantine taste [page:1]
+      - label: Relationship to the Master of San Martino
+        value: Shares the Master’s more vigorous realism and dramatic emphasis, beyond Giunta’s comparatively hieratic models [page:1]
+      - label: Ornament and color
+        value: Rich chrysography, dense use of gold ground, and saturated reds and blues typical of Pisan Duecento painting [page:1]
+
+  - title: Artistic context
+    pairs:
+      - label: Local school
+        value: Leading figure within the Pisan school of the mid‑thirteenth century [page:1]
+      - label: Byzantine connections
+        value: Reflects the reception of advanced neo‑Hellenic Byzantine models circulating in Pisa via maritime contacts [page:1]
+      - label: Tuscan framework
+        value: Stands at a crossroads between Pisan Giuntesque tradition and broader Tuscan developments toward greater naturalism [page:1]
+      - label: Relationship to contemporaries
+        value: Chronologically and stylistically positioned just before Cimabue’s Florentine and Pisan activity [page:1]
+
+  - title: Reception and historiography
+    pairs:
+      - label: Role in narratives of early Italian painting
+        value: Recognized as an important predecessor of Cimabue in modern art‑historical literature [page:1]
+      - label: Evaluation of quality
+        value: Often described as one of the most distinguished Pisan masters of the Duecento [page:1]
+      - label: Scope of patronage
+        value: Despite high artistic level, his production seems largely confined to local Pisan patrons [page:1]
+      - label: Scholarly debates
+        value: Ongoing discussion concerns his precise identification with the Master of San Martino and the delimitation of his oeuvre [page:1]
+
+  - title: Legacy
+    pairs:
+      - label: Influence on Ranieri di Ugolino
+        value: His workshop models and iconographic schemes were transmitted to his son Ranieri and to later Pisan painters [page:1]
+      - label: Place in modern collections
+        value: The Hermitage Crucifix gives his work an international visibility that contrasts with his originally local activity [page:1]
+---
+
+
 Ugolino di Tedice was an Italian painter active in Pisa in the middle decades of the thirteenth century. Medieval sources do not preserve a secure birth year for him, but modern reference tradition places his origins in Pisa. He belonged to a family workshop whose historical importance has been compared with that of the Berlinghieri. Within this kin-based professional milieu, he is recorded as the younger brother of Enrico di Tedice. He was also the father of Ranieri di Ugolino, who continued the craft into the next generation. In documentary terms, Ugolino is explicitly attested as a painter in Pisa in two records dated 1273 and 1277. Older synthetic biographies extend his period of activity more broadly, from 1251 to 1277, to accommodate stylistic chronology. He was certainly dead by 1286, which provides the firmest terminus for the end of his life. The cause of his death is not reported in surviving notices and cannot be reconstructed from current evidence.
 
 The familial frame within which Ugolino worked is best grasped through the better-documented figure of Enrico di Tedice, whose biography is explicitly linked to his brother’s in modern scholarship. Treccani notes that Enrico’s personal life dates are unknown, yet places him in activity around the mid-thirteenth century. Enrico appears as a witness in an archiepiscopal act of 1254, a detail that situates the family within Pisa’s institutional networks. The same entry attributes to Enrico a painted cross in Pisa, in the church of San Martino, originally bearing his signature. This anchored commission clarifies the kind of ecclesiastical setting in which the Tedice workshop could function, even when individual contracts are lost. The documentary bridge to Ugolino is explicit, since Treccani states that Ugolino was, with every likelihood, Enrico’s brother.   In that same discussion, Ugolino is recognized as the author of a painted cross in Saint Petersburg, signed “Ugolinus.” The family thus emerges not as a vague genealogical claim but as a historically legible cluster of painters connected by both textual and stylistic evidence. Such connections remain crucial because, for Ugolino himself, secure archival anchors are otherwise exceptionally sparse.
