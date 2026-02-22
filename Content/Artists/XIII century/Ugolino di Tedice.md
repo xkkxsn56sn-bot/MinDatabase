@@ -10,96 +10,96 @@ meta:
       - label: Full name
         value: Ugolino di Tedice
       - label: Alternative forms
-        value: Ugolinus (in Latin signatures and documents) [page:1]
+        value: Ugolinus (in Latin signatures and documents)
       - label: Occupation
-        value: Painter (pictor) [page:1]
+        value: Painter (pictor)
       - label: Social status
-        value: Member of a notable Pisan family, active in civic life [page:1]
+        value: Member of a notable Pisan family, active in civic life
       - label: Origin
-        value: Pisa (documented resident and operative) [page:1]
+        value: Pisa (documented resident and operative) 
       - label: Family network
-        value: Brother of the painter Enrico di Tedice; father of the painter Ranieri di Ugolino [page:1]
+        value: Brother of the painter Enrico di Tedice; father of the painter Ranieri di Ugolino
 
   - title: Chronology and documents
     pairs:
       - label: First documentary mention
-        value: Mid‑Duecento (tax and notarial records in Pisa) [page:1]
+        value: Mid‑Duecento (tax and notarial records in Pisa) 
       - label: Documented activity
-        value: Recorded in 1273 and 1277 among Pisan painters [page:1]
+        value: Recorded in 1273 and 1277 among Pisan painters
       - label: Traditional activity span
-        value: ca. 1251–1277, inferred from stylistic development and archival traces [page:1]
+        value: ca. 1251–1277, inferred from stylistic development and archival traces
       - label: Last record
-        value: Absent from family documentation by 1286, implying his death before that date [page:1]
+        value: Absent from family documentation by 1286, implying his death before that date 
       - label: Place of activity
-        value: Mainly Pisa and its territory, within the sphere of Pisan ecclesiastical patrons [page:1]
+        value: Mainly Pisa and its territory, within the sphere of Pisan ecclesiastical patrons
 
   - title: Family and workshop context
     pairs:
       - label: Pictorial lineage
-        value: Part of a multi‑generational dynasty of Pisan painters (Tedice–Ugolino–Ranieri) [page:1]
+        value: Part of a multi‑generational dynasty of Pisan painters (Tedice–Ugolino–Ranieri) 
       - label: Workshop structure
-        value: Likely shared shop practices and models with Enrico di Tedice and later with Ranieri [page:1]
+        value: Likely shared shop practices and models with Enrico di Tedice and later with Ranieri 
       - label: Local clientele
-        value: Religious institutions and confraternities in Pisa, with commissions centered on processional crucifixes [page:1]
+        value: Religious institutions and confraternities in Pisa, with commissions centered on processional crucifixes
 
   - title: Signed and attributed works
     pairs:
       - label: Only signed work
-        value: Large painted Crucifix, Hermitage, Saint Petersburg, signed “Ugolinus” on the titulus [page:1]
+        value: Large painted Crucifix, Hermitage, Saint Petersburg, signed “Ugolinus” on the titulus
       - label: Dating of signed Crucifix
-        value: Commonly placed between 1265 and 1275 on stylistic grounds [page:1]
+        value: Commonly placed between 1265 and 1275 on stylistic grounds 
       - label: Identification with a master
-        value: Frequently identified with the so‑called Master of San Martino [page:1]
+        value: Frequently identified with the so‑called Master of San Martino 
       - label: Core attributed nucleus
-        value: Group of works linked to the San Martino Crucifix in Pisa and related panels [page:1]
+        value: Group of works linked to the San Martino Crucifix in Pisa and related panels 
       - label: Geographic distribution
-        value: Surviving paintings mainly in Pisa and Tuscan collections, with the Hermitage Crucifix as the main exception [page:1]
+        value: Surviving paintings mainly in Pisa and Tuscan collections, with the Hermitage Crucifix as the main exception 
       - label: Medium and technique
-        value: Tempera on panel with gilded and punched backgrounds, according to contemporary Pisan practice [page:1]
+        value: Tempera on panel with gilded and punched backgrounds, according to contemporary Pisan practice
 
   - title: Style and artistic profile
     pairs:
       - label: Primary model
-        value: Deeply indebted to Giunta Pisano’s monumental crucifixes and pathos‑charged Christus patiens type [page:1]
+        value: Deeply indebted to Giunta Pisano’s monumental crucifixes and pathos‑charged Christus patiens type
       - label: Formal character
-        value: Elongated, somewhat rigid bodies combined with more energetic drawing and incisive contours [page:1]
+        value: Elongated, somewhat rigid bodies combined with more energetic drawing and incisive contours
       - label: Treatment of the body of Christ
-        value: Emphasis on weight, torsion, and sagging of the body, with marked attention to anatomical strain [page:1]
+        value: Emphasis on weight, torsion, and sagging of the body, with marked attention to anatomical strain
       - label: Facial types
-        value: Angular faces, sharp noses, and intense, deep‑set eyes reflecting an advanced neo‑Hellenic Byzantine taste [page:1]
+        value: Angular faces, sharp noses, and intense, deep‑set eyes reflecting an advanced neo‑Hellenic Byzantine taste
       - label: Relationship to the Master of San Martino
-        value: Shares the Master’s more vigorous realism and dramatic emphasis, beyond Giunta’s comparatively hieratic models [page:1]
+        value: Shares the Master’s more vigorous realism and dramatic emphasis, beyond Giunta’s comparatively hieratic models
       - label: Ornament and color
-        value: Rich chrysography, dense use of gold ground, and saturated reds and blues typical of Pisan Duecento painting [page:1]
+        value: Rich chrysography, dense use of gold ground, and saturated reds and blues typical of Pisan Duecento painting
 
   - title: Artistic context
     pairs:
       - label: Local school
-        value: Leading figure within the Pisan school of the mid‑thirteenth century [page:1]
+        value: Leading figure within the Pisan school of the mid‑thirteenth century
       - label: Byzantine connections
-        value: Reflects the reception of advanced neo‑Hellenic Byzantine models circulating in Pisa via maritime contacts [page:1]
+        value: Reflects the reception of advanced neo‑Hellenic Byzantine models circulating in Pisa via maritime contacts
       - label: Tuscan framework
-        value: Stands at a crossroads between Pisan Giuntesque tradition and broader Tuscan developments toward greater naturalism [page:1]
+        value: Stands at a crossroads between Pisan Giuntesque tradition and broader Tuscan developments toward greater naturalism
       - label: Relationship to contemporaries
-        value: Chronologically and stylistically positioned just before Cimabue’s Florentine and Pisan activity [page:1]
+        value: Chronologically and stylistically positioned just before Cimabue’s Florentine and Pisan activity
 
   - title: Reception and historiography
     pairs:
       - label: Role in narratives of early Italian painting
-        value: Recognized as an important predecessor of Cimabue in modern art‑historical literature [page:1]
+        value: Recognized as an important predecessor of Cimabue in modern art‑historical literature
       - label: Evaluation of quality
-        value: Often described as one of the most distinguished Pisan masters of the Duecento [page:1]
+        value: Often described as one of the most distinguished Pisan masters of the Duecento
       - label: Scope of patronage
-        value: Despite high artistic level, his production seems largely confined to local Pisan patrons [page:1]
+        value: Despite high artistic level, his production seems largely confined to local Pisan patrons
       - label: Scholarly debates
-        value: Ongoing discussion concerns his precise identification with the Master of San Martino and the delimitation of his oeuvre [page:1]
+        value: Ongoing discussion concerns his precise identification with the Master of San Martino and the delimitation of his oeuvre
 
   - title: Legacy
     pairs:
       - label: Influence on Ranieri di Ugolino
-        value: His workshop models and iconographic schemes were transmitted to his son Ranieri and to later Pisan painters [page:1]
+        value: His workshop models and iconographic schemes were transmitted to his son Ranieri and to later Pisan painters
       - label: Place in modern collections
-        value: The Hermitage Crucifix gives his work an international visibility that contrasts with his originally local activity [page:1]
+        value: The Hermitage Crucifix gives his work an international visibility that contrasts with his originally local activity
 ---
 
 
