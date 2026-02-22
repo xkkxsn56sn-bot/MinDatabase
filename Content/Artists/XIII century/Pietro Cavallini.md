@@ -239,9 +239,10 @@ Pietro's mosaic decorations for the apse of Santa Maria in Trastevere include so
 
 The attributed apse paintings at San Giorgio al Velabro, though fragmentary and damaged, provide important evidence for Pietro's approach to large-scale religious decoration within one of Rome's most historically significant churches. The commission by Cardinal Giacomo Gaetani Stefaneschi in 1295 connected Pietro to the highest levels of ecclesiastical patronage whilst requiring him to work within the architectural constraints of an ancient basilica. The surviving fragments suggest sophisticated integration of figures with architectural setting that enhanced both spatial coherence and narrative effectiveness. The damaged condition of these works reflects the vulnerability of fresco technique to environmental deterioration, whilst emphasising the importance of Pietro's better-preserved mosaic works for understanding his artistic achievement.
 
-![Crucifixion fresco by Pietro Cavallini](/images/Cavallini/Crocifissione.jpg)
-
-*(Crocifissione, c. 1307, fresco, San Domenico Maggiore, Naples.)*
+<figure>
+  <img src="/images/Cavallini/Crocifissione.jpg" alt="Crucifixion fresco by Pietro Cavallini">
+  <figcaption>Crocifissione, c. 1307, fresco, San Domenico Maggiore, Naples.</figcaption>
+</figure>
 
 Pietro's work in Naples, including decorative programmes for San Domenico Maggiore (1308) and Santa Maria Donnaregina (1317), demonstrates his ability to adapt his Roman-developed techniques to meet the specific requirements of Angevin court culture. These projects required collaboration with local artists including Filippo Rusuti whilst maintaining the high standards of artistic quality expected by sophisticated international patrons. The integration of French Gothic influences with Pietro's established Roman style created synthetic approaches that influenced southern Italian artistic development throughout the fourteenth century. The successful completion of these challenging commissions established Pietro's reputation as an artist of European significance, capable of working effectively across cultural boundaries whilst maintaining artistic authenticity and technical excellence.
 
@@ -249,9 +250,10 @@ The attributed mosaic of Mary with Saints Sebastian and Chrysogonus in San Criso
 
 The possible attribution of the illustrated Clement Bible to Pietro or his workshop suggests his involvement in manuscript illumination, a medium that would have required adaptation of his large-scale techniques to intimate scale whilst maintaining comparable standards of artistic quality. This hypothetical connection to manuscript production would indicate Pietro's participation in the full range of medieval artistic practise whilst demonstrating the versatility that characterised leading artists of his era. The scholarly uncertainty surrounding this attribution reflects both the collaborative nature of medieval artistic production and the difficulty of maintaining clear distinctions between individual contributions within workshop contexts. The continuing investigation of Pietro's possible involvement in manuscript illumination contributes to a broader understanding of how major artists engaged with diverse media and formats during the late medieval period.
 
-![Madonna della Bocciata fresco by Pietro Cavallini](/images/Cavallini/Bocciata.jpg)
-
-*(Madonna della Bocciata, 1277-80, fresco, Grotte Vaticane, Città del Vaticano.)*
+<figure>
+  <img src="/images/Cavallini/Bocciata.jpg" alt="Madonna della Bocciata fresco by Pietro Cavallini">
+  <figcaption>Madonna della Bocciata, 1277-80, fresco, Grotte Vaticane, Città del Vaticano.</figcaption>
+</figure>
 
  The *Madonna della Bocciata* , preserved in the Musei Vaticani, occupies a central place in discussions of Pietro Cavallini's Roman production because it condenses, on a relatively intimate scale, many of the formal and spiritual innovations that define his mature language. Even where attributional debates have periodically resurfaced in modern scholarship, the panel has generally been read within the Cavallinian orbit on the basis of its volumetric construction, chromatic softness, and the monumental calm of the Virgin's figure. Rather than relying on the linear abstraction typical of stricter Byzantine formulae, the image develops a plastic conception of form in which flesh tones are gradually modulated and drapery is articulated through weight, fold depth, and directional light.
 
