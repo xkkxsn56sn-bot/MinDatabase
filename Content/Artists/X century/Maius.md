@@ -3,24 +3,104 @@ layout: entry
 title: "Maius"
 subtitle: "Mozarabic Illuminator and Scribe"
 dates: "Active ca. 926–968"
+aliases:
+  - "Magius"
+  - "Maius of Tábara"
+entry_type: "artist"
+period: "X century"
+culture: "Mozarabic (Christian Iberia)"
+roles:
+  - "Illuminator"
+  - "Scribe"
+known_for:
+  - "Revolutionizing Beatus manuscript illumination in 10th-century Iberia"
+  - "Morgan Beatus (MS M.644)"
+active_years:
+  start: 926
+  end: 968
+birth:
+  date: "Unknown"
+  place: "Uncertain; traditionally associated with Córdoba"
+death:
+  date: "968-10-30"
+  place: "Monastery of San Salvador de Tábara, Zamora"
+  burial: "San Salvador de Tábara"
+affiliations:
+  - "San Salvador de Tábara"
+  - "San Miguel de Escalada (commission context)"
+patrons:
+  - "Abbot Victor (Monastery of St. Michael, likely San Miguel de Escalada)"
+students:
+  - "Emeterius"
+  - "Ende (indirectly via Tábara school)"
+  - "Senior (workshop milieu)"
+artistic_tradition:
+  - "Mozarabic manuscript illumination"
+  - "Beatus tradition (second major stylistic phase)"
+major_works:
+  - title: "Morgan Beatus (MS M.644)"
+    date: "ca. 945"
+    status: "Extant"
+    current_location: "The Morgan Library & Museum, New York"
+  - title: "Beatus of Tábara"
+    date: "before 968; completed after Maius's death"
+    status: "Fragmentary"
+    current_location: "Main fragments in Archivo Histórico Nacional, Madrid"
 
 meta:
   - title: "PERIOD"
     list:
       - "X century"
+
+  - title: "ALSO KNOWN AS"
+    list:
+      - "Magius"
+      - "Maius of Tábara"
   
   - title: "ROLE"
     list:
       - "Illuminator"
       - "Scribe"
+
+  - title: "CULTURAL CONTEXT"
+    list:
+      - "Mozarabic Christian Iberia"
+      - "Kingdom of León / frontier monastic culture"
   
   - title: "LOCATION"
     list:
       - "Monastery of San Miguel de Escalada, León"
+      - "San Salvador de Tábara, Zamora"
+
+  - title: "ACTIVE YEARS"
+    list:
+      - "ca. 926–968"
+
+  - title: "DEATH"
+    list:
+      - "30 October 968"
+      - "Died and buried at San Salvador de Tábara"
+
+  - title: "PATRONS"
+    list:
+      - "Abbot Victor (Monastery of St. Michael)"
+
+  - title: "STUDENTS / WORKSHOP"
+    list:
+      - "Emeterius"
+      - "Ende (associated tradition)"
+      - "Senior (Tábara milieu)"
   
   - title: "KEY WORKS"
     list:
+      - "Morgan Beatus (MS M.644, ca. 945)"
       - "Beatus of Liébana Commentary on the Apocalypse (Escalada Beatus)"
+      - "Beatus of Tábara (fragmentary)"
+
+  - title: "LEGACY"
+    list:
+      - "Called \"archipictor\" by Emeterius"
+      - "Influential in the second phase of Beatus illumination"
   
   - title: "RELATED ENTRIES"
     links:
