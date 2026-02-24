@@ -3,6 +3,12 @@ layout: entry
 title: "Dagulf"
 subtitle: "Carolingian Court Scribe"
 dates: "Active ca. late VIII century"
+floruit: "ca. 790–800"
+birth: "Unknown"
+death: "Unknown"
+origin: "Frankish Empire (exact place unknown)"
+nationality: "Frankish"
+primary_activity: "Luxury manuscript production"
 
 meta:
   - title: "PERIOD"
@@ -21,6 +27,41 @@ meta:
   - title: "KEY WORKS"
     list:
       - "Dagulf Psalter (ca. 793–795)"
+
+  - title: "PATRONS"
+    list:
+      - "Charlemagne (commissioning patron)"
+      - "Pope Hadrian I (intended recipient; signed manuscript)"
+
+  - title: "ARTISTIC CONTEXT"
+    list:
+      - "Carolingian Renaissance"
+      - "Court scriptorium culture"
+      - "Standardization of Caroline Minuscule"
+
+  - title: "INFLUENCES"
+    list:
+      - "Late Antique and classical revival models"
+      - "Insular manuscript ornament"
+      - "Merovingian scribal traditions"
+      - "Byzantine and early Christian iconography"
+
+  - title: "PROVENANCE"
+    list:
+      - "Produced at the Carolingian court"
+      - "Commissioned as a diplomatic gift to the papacy"
+      - "Preserved in the Austrian National Library, Vienna (Codex 1861)"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Godescalc"
+        url: "/Content/Artists/VIII%20century/Godescalc.html"
+      - title: "Rhabanus Maurus"
+        url: "/Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+      - title: "Godescalc Evangelistary"
+        url: "/Content/Codex/Godescalc%20Evangelistary.html"
+      - title: "Fulda Abbey"
+        url: "/Content/Churches/Fulda%20Abbey.html"
 ---
 
 ## Patrons and Their Roles in Dagulf’s Career
@@ -84,6 +125,11 @@ In conclusion, while a biography of Dagulf's personal life and travels is unatta
 ## Dagulf’s Major Works: A Discursive Analysis
 
 The corpus of work attributable to Dagulf is singular and definitive: the manuscript known as the Dagulf Psalter. This single artifact constitutes the entirety of his known artistic output and is the only basis for any assessment of his professional skill and contribution to the arts of the Carolingian Renaissance. The manuscript is a lavishly decorated copy of the Book of Psalms, rendered in the Latin Vulgate translation that formed the bedrock of Western Christian liturgy. Its primary content is therefore the 150 psalms, traditionally attributed to King David, a fact noted in the dedicatory verses included within the manuscript itself. These verses frame the work's content within a sacred lineage, emphasizing its theological significance. The psalms were not merely copied as a literary exercise but were intended for use in the daily office and other religious services, serving as a tool for public and private devotion. The meticulous care with which Dagulf transcribed the text reflects the reverence accorded to this particular biblical book. Every letter, every word, was treated with the utmost seriousness, as the faithful reproduction of God's word was considered a holy act. The manuscript's content, therefore, is inseparable from its function as a liturgical object, a vehicle for prayer and worship.
+
+<figure>
+  <img src="/images/Dagulf/Dagulf Psalter.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
+  <figcaption>Dagulf's Psalter, 793-95, Codex 1861, folio 24-25v, Österreichische Nationalbibliothek, Vienna.</figcaption>
+</figure>
 
 The physical form of the Dagulf Psalter is as significant as its textual content. Produced around the year 800 CE, it is a prime example of late 8th-century Carolingian manuscript production. The manuscript was written in Caroline Minuscule, a script developed under Charlemagne's patronage to standardize Latin writing and improve legibility. Dagulf’s execution of this script is exemplary, demonstrating a mastery of calligraphy that made the text both easy to read and aesthetically pleasing. The pages are adorned with ornamental initials and other decorative elements, the work of an unknown illuminator who collaborated with the scribe. These decorations would have served to mark the beginning of new sections and to add visual splendor to the sacred text. The use of gold leaf and vibrant mineral pigments would have made the manuscript shimmer, enhancing its aura of majesty and holiness. The combination of precise, linear script and colorful, figurative illumination creates a harmonious and balanced whole. The entire manuscript, from the quality of the parchment to the elegance of the script and the richness of the decoration, testifies to the high status of its commission and the exceptional skill of its creators. It was designed not just to contain the words of God but to make those words beautiful and worthy of veneration.
 
