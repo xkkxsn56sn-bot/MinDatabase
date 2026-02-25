@@ -5,24 +5,113 @@ subtitle: "Monk, Artist, and Hagiographer"
 dates: "Active IX century; d. ca. 845"
 
 meta:
+  - title: "CORE DATA"
+    pairs:
+      - label: "Full name"
+        value: "Brun Candidus of Fulda"
+      - label: "Primary identity"
+        value: "Carolingian Benedictine monk and hagiographer"
+      - label: "Century"
+        value: "IX century"
+      - label: "Approximate death"
+        value: "ca. 845"
+      - label: "Main institutional affiliation"
+        value: "Fulda Abbey"
+
+  - title: "NAMES AND DESIGNATIONS"
+    list:
+      - "Brun (likely baptismal name)"
+      - "Candidus (monastic designation associated with novice/initiatory status)"
+      - "Of Fulda (institutional and geographic identifier)"
+
   - title: "PERIOD"
     list:
       - "IX century"
+      - "Active during the transition from Abbot Eigil to Hrabanus Maurus"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Documented activity"
+        value: "First half of the 9th century"
+      - label: "Key composition window"
+        value: "Vita Aegilis composed around c. 840"
+      - label: "Latest secure horizon"
+        value: "After the death of Hrabanus Maurus (842)"
+      - label: "Probable end of life"
+        value: "c. 845"
 
   - title: "ROLE"
     list:
       - "Monk"
       - "Artist"
       - "Hagiographer"
+      - "Monastic historian"
+      - "Witness to Fulda institutional memory"
+
+  - title: "WORKS AND ATTRIBUTIONS"
+    list:
+      - "Vita Aegilis (principal surviving literary witness)"
+      - "Opusculum de passione Domini (attributed)"
+      - "Descriptions of now-lost pictorial programs at Fulda"
+
+  - title: "INTELLECTUAL NETWORK"
+    list:
+      - "Close association with Hrabanus Maurus (as votarius/disciple)"
+      - "Personal recollection of Abbot Eigil"
+      - "Embedded in Carolingian monastic educational culture"
+
+  - title: "PATRONAGE CONTEXT"
+    list:
+      - "Primary patronal framework: abbatial leadership at Fulda"
+      - "Linked to ideological and reform discourse around Hrabanus Maurus"
+      - "Imperial horizon includes Louis the Pious in Fulda narratives"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "Key source for 9th-century Fulda politics and memory-making"
+      - "Important witness to monastic authorship as institutional strategy"
+      - "Bridges literary hagiography and visual culture reconstruction"
+
+  - title: "ARTISTIC PROFILE"
+    list:
+      - "Visual language inferred from textual testimony rather than surviving works"
+      - "Use of symbolic iconography in ecclesiastical settings"
+      - "Association with Carolingian didactic and devotional aesthetics"
+
+  - title: "GEOGRAPHY"
+    pairs:
+      - label: "Primary center"
+        value: "Fulda Abbey"
+      - label: "Regional setting"
+        value: "East Frankish realm"
+      - label: "Mobility profile"
+        value: "Largely monastic and institution-centered"
 
   - title: "LOCATION"
     list:
       - "Fulda Abbey"
 
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Carolingian Renaissance"
+      - "Fulda Abbey"
+      - "Hrabanus Maurus"
+      - "Monastic historiography"
+      - "Hagiography"
+      - "Institutional memory"
+      - "Ecclesiastical patronage"
+      - "Lost medieval painting"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Rhabanus Maurus"
         url: "/Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+      - title: "Dagulf"
+        url: "/Content/Artists/VIII%20century/Dagulf.html"
+      - title: "Godescalc"
+        url: "/Content/Artists/VIII%20century/Godescalc.html"
+      - title: "Fulda Abbey"
+        url: "/Content/Churches/Fulda%20Abbey.html"
 ---
 
 ## Monastic Origins and Intellectual Formation
