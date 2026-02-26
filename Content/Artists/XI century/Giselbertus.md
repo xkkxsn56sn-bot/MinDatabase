@@ -5,9 +5,25 @@ subtitle: "Romanesque Sculptor"
 dates: "Active ca. 1120–1135"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Giselbertus, Gislebertus"
+      - label: "Field"
+        value: "Romanesque monumental sculpture"
+      - label: "Attribution status"
+        value: "Associated with the Autun corpus; some works remain debated"
+
   - title: "PERIOD"
     list:
       - "XI–XII century"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born late XI century (probable), died ca. 1135 (traditional estimate)"
+      - label: "Activity window"
+        value: "ca. 1115–1135"
   
   - title: "ROLE"
     list:
@@ -21,21 +37,40 @@ meta:
     list:
       - "Tympanum of the Last Judgment, Autun Cathedral"
       - "Eve from the Lintel of the North Portal"
+
+  - title: "PATRONAGE"
+    list:
+      - "Cathedral authorities of Saint-Lazare (Autun)"
+      - "Ecclesiastical networks tied to Burgundian Romanesque building campaigns"
+
+  - title: "STYLE"
+    list:
+      - "Elongated, highly expressive figures"
+      - "Dramatic narrative reliefs with strong moral contrast"
+      - "Advanced integration of sculpture with architectural framing"
   
   - title: "RELATED ENTRIES"
     links:
       - title: "Autun Cathedral"
         url: "/Content/Churches/Autun%20Cathedral.html"
+      - title: "Saint Savin sur Gartempe Abbey"
+        url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
 ---
 
 
 Giselbertus, a name that resonates in the annals of Romanesque art, emerges as an obscure but deeply influential figure of the early 12th century, a sculptor whose hands shaped some of the most evocative stone narratives of medieval France. Although the precise date and place of his birth remain elusive, shrouded in the mists of an era when documentation was sporadic and often reserved for the elite, scholars generally agree that he flourished between approximately 1115 and 1135, with his most famous works linked to the Burgundy region. It is widely believed that he was born at the end of the 11th century, probably around 1080 or 1090, in or near Autun, a city rich in ecclesiastical significance and artistic ferment, although no definitive document establishes the exact time or place of his entry into the world. His life, like the dimly lit interiors of the churches he adorned, is illuminated only by the works he left behind, which cast a glow that invites speculation rather than certainty.
+
+## Family background
+
 The tapestry of Giselbertus' family is woven with threads of conjecture rather than fact, as historical documentation does not offer a clear picture of his family. One might imagine that he came from a modest family of craftsmen or stonemasons, a lineage perhaps accustomed to the rhythms of the chisel and hammer, given the skill he later demonstrated. In the medieval world, trades were often passed down from generation to generation, and it is plausible that among his ancestors were masons or sculptors who worked in the quarries of Burgundy, shaping the raw material that would become his medium. However, no names of parents or siblings appear in the surviving texts, leaving us to imagine a family in which the clanging of tools and the dust of stone were as familiar as daily bread.
 If Giselbertus had any siblings, they too remain ghosts, their existence unconfirmed by chronicles or documents. The silence of the sources suggests either a solitary upbringing or a family so insignificant in the eyes of contemporary scribes that it escaped their notes. Perhaps he was an only child, cared for by parents who recognized an early spark of talent, or perhaps he was one of many, distinguishing himself only later through the mastery he achieved. Community life in a medieval village or town such as Autun would have surrounded him with extended relatives—cousins, uncles, aunts—whose lives were intertwined with his, but these relationships, if they existed, have been lost to the erosion of time.
 
 Marriage is also an unwritten chapter in Giselbertus's story. The demands of his craft, combined with the itinerant nature of sculptors who followed the construction of large churches, may have precluded a stable family life. Alternatively, he may have married a woman from Autun or a nearby settlement, raising children who either inherited his craft or drifted into obscurity. The absence of evidence leaves room for romantic speculation—a wife who supported his labors, children playing among the stones of his workshop—but such scenes remain the stuff of imagination rather than history.
 The role of family in shaping his career is equally opaque. If his parents or relatives were craftsmen, they may have provided him with his first lessons in stoneworking, guiding his hands as he learned to extract form from this unyielding medium. In an era when guilds and family workshops formed the backbone of craft production, it is conceivable that Giselbertus's early years were spent under such tutelage, honing the skills that would later astound pilgrims and patrons. However, in the absence of concrete records, we can only surmise that his family, whatever its composition, provided a foundation—emotional, practical, or both—for the art that would define his legacy.
+
 The broader social fabric of 12th-century Burgundy likely served as a surrogate family, enveloping Giselbertus in a community of laborers, clergy, and citizens whose lives revolved around the church. The Cathedral of Saint-Lazare, his most enduring monument, was not the work of a solitary genius, but a collaborative effort, suggesting that he was supported by a network of relationships, perhaps not of blood, but of shared intent. In this sense, his “family” could be understood as the ecclesiastical and artistic environment that nurtured his talent, a collective that remains as vital to his story as any biological relative.
+
+## Patronage
 
 Turning to his patrons, Giselbertus found himself in the orbit of the powerful ecclesiastical figures who dominated the medieval landscape. The construction of the Cathedral of Saint-Lazare in Autun, where his genius found its highest expression, was overseen by Bishop Étienne de Bagé, a prelate whose ambition to create a sanctuary worthy of pilgrimage aligned with the sculptor's vision. This bishop, who served from around 1112 to 1136, probably commissioned or approved the extensive sculptural program that Giselbertus carried out, providing the resources and authority necessary to transform stone into sacred narrative.
 The monks of Cluny, a Benedictine order renowned for its influence on Romanesque art and architecture, also stand out as potential patrons. Giselbertus is believed to have begun his career at Cluny, perhaps as an assistant to the master sculptor, before bringing his skills to Autun. The Cluniac emphasis on sumptuous decoration and spiritual edification would shape the opportunities offered to him, and the wealth and prestige of the Cluniacs enabled him to realize the ambitious projects that characterized his early work. This connection suggests a patronage rooted in monastic ideals, in which art served both devotion and instruction.
@@ -46,10 +81,19 @@ The pilgrims who flocked to Saint-Lazare, attracted by the relics of Lazarus, we
 Royal or imperial patronage, while not explicitly documented, cannot be entirely ruled out. In the 12th century, the Holy Roman Emperors and French kings vied for cultural supremacy, and a sculptor of Giselbertus' caliber could have attracted the attention of the upper echelons. However, his work remains firmly rooted in the local and ecclesiastical sphere, suggesting that his main benefactors were those closest to the soil of Burgundy, rather than distant monarchs.
 Finally, the enigmatic figure who may have borne the name “Giselbertus” as a patron rather than an artist adds a further layer of intrigue. The inscription “Gislebertus hoc fecit” (Giselbertus made this) on the western tympanum in Autun has led some scholars to propose that it refers to a donor—perhaps a noble or ecclesiastical figure—who financed the work, rather than to the sculptor himself. If true, the identity of this patron remains as elusive as that of Giselbertus himself, a silent partner in the creation of a masterpiece.
 
+Beyond individual names, patronage in Romanesque Burgundy often functioned as a layered system in which chapter canons, abbots, local notables, and confraternal groups converged around a single monumental project. A commission could begin as episcopal initiative yet depend on a chain of secondary actors—administrators, treasurers, and donors—whose contributions, whether monetary or logistical, made prolonged carving campaigns possible. In such a system, Giselbertus may have worked not for one master but for an institutional will, negotiated through many voices and sustained over years.
+
+The economics of this patronage were likely tied to pilgrimage revenues, landed incomes, and periodic gifts dedicated to the embellishment of sacred space. Stone had to be quarried, transported, and prepared; assistants had to be fed and paid; scaffolding and tools demanded constant renewal. Every sculpted capital or portal therefore represented not only theological imagination but financial continuity, evidence that patrons were willing to transform devotional capital into visible and durable form. Giselbertus's survival as a major name implies that his patrons considered him reliable in both artistic execution and workshop leadership.
+
+Patronage also shaped iconography at a practical level, because clerical clients needed images that could teach doctrine quickly to mixed audiences of locals and travelers. The dramatic polarity between salvation and damnation in Autun's sculptural program answered this need with unusual force, translating sermons into stone for those who could not read but could see and fear. In this sense, the patrons who empowered Giselbertus were not simply buyers of beauty; they were curators of a public theology, commissioning works that disciplined, instructed, and consoled at once.
+
+Over time, these commissions generated a reputational economy that extended beyond the original site. Pilgrims carried memory of Autun's reliefs to other regions, clerics compared programs across churches, and workshops borrowed motifs through direct observation or hearsay. The patrons who invested in Giselbertus thus gained more than local prestige: they positioned their cathedral within a wider artistic conversation of Romanesque Europe. Their choices helped ensure that the sculptor's imagery did not remain a provincial achievement, but entered the broader medieval imagination.
+
+## Artistic style
+
 Giselbertus's style, while rooted in the Romanesque tradition, breaks away from the static formality of earlier medieval sculpture, infusing the stone with a dynamism that seems almost modern in its emotional resonance. His elongated and expressive figures stretch across tympanums and capitals like actors in a divine drama, their gestures and postures conveying a narrative intensity that captivates the viewer. This approach marks a shift away from the rigid iconography of Byzantine-influenced art, embracing instead a visceral humanity that speaks to both the faithful and the fallen.
 
-The play of light and shadow in his sculptures is nothing short of mesmerizing, as he exploits the natural texture of the stone to enhance depth and atmosphere. In the tympanum of the Last Judgment, the saved stand with serene grace while the damned writhe in despair; the contrast is accentuated by the way light dances across the sculpted surfaces. This mastery of chiaroscuro avant la lettre reveals a sculptor attuned to the theatrical potential of his medium, which he uses to amplify the spiritual stakes of his subject matter.
-His compositions are dense but balanced, a tapestry of figures that invites prolonged contemplation. In the capitals of Saint-Lazare, scenes such as the Flight into Egypt or the Suicide of Judas unfold with a cinematic quality, each element carefully positioned to guide the eye through the story. This narrative clarity, achieved without sacrificing complexity, demonstrates a sophisticated understanding of how art can educate an often illiterate audience, making the divine accessible through visual poetry.
+The play of light and shadow in his sculptures is nothing short of mesmerizing, as he exploits the natural texture of the stone to enhance depth and atmosphere. In the tympanum of the *Last Judgment*, the saved stand with serene grace while the damned writhe in despair; the contrast is accentuated by the way light dances across the sculpted surfaces. This mastery of chiaroscuro avant la lettre reveals a sculptor attuned to the theatrical potential of his medium, which he uses to amplify the spiritual stakes of his subject matter. His compositions are dense but balanced, a tapestry of figures that invites prolonged contemplation. In the capitals of Saint-Lazare, scenes such as the Flight into Egypt or the Suicide of Judas unfold with a cinematic quality, each element carefully positioned to guide the eye through the story. This narrative clarity, achieved without sacrificing complexity, demonstrates a sophisticated understanding of how art can educate an often illiterate audience, making the divine accessible through visual poetry.
 
 The elongation of the figures, a hallmark of his style, gives them an otherworldly elegance that transcends simple realism. Eve, in her sinuous grace on the lintel of the north portal, embodies this aesthetic: her form stretches languidly as she reaches for the forbidden fruit, a mixture of seduction and pain that captures the Genesis story in a single fluid line. This stylization, while rooted in Romanesque conventions, has a wholly personal imprint, as if Giselbertus sought to infuse his figures with a spiritual essence beyond their physicality.
 
@@ -60,6 +104,9 @@ His treatment of drapery is a study in fluid movement, with cloaks and robes fal
 The emotional range of his work sets him apart, capturing joy, terror, and penance with equal power. The damned souls, their faces contorted in anguish as demons take hold of them, evoke a visceral fear of divine punishment, while the saved ascend with a quiet dignity that promises redemption. This emotional immediacy, achieved through exaggerated poses and expressive faces, bridges the gap between the medieval viewer and the eternal truths depicted.
 Symbolism permeates his style, with every gesture and attribute laden with meaning. The scales of justice in the Last Judgment, the serpent coiling around Eve, the star guiding the Magi: these are not mere decorations, but keys to understanding a theological narrative, created to resonate with the pilgrims' understanding of sin and salvation. Giselbertus' art thus serves as both a mirror and a sermon, reflecting human frailty while pointing to divine order.
 Finally, his style anticipates the Gothic, with its emphasis on expression and naturalism laying the groundwork for the more refined sculptures of the later 12th and 13th centuries. While firmly Romanesque, his work reaches toward a future in which stone would sing with even greater vitality, testifying to a sculptor whose vision surpassed his era, leaving a legacy that echoes through the evolution of Western art.
+
+## Artistic influences
+
 The artistic influences that shaped Giselbertus are a confluence of traditions, flowing from the ancient and the contemporary into the crucible of his imagination. The legacy of late antique art, with its solemn monumentality, probably reached him through the surviving reliefs and sarcophagi of the Roman world, offering a model of grandeur that he adapted to Christian themes. This classical echo can be felt in the hierarchical compositions of his tympanums, where central figures such as Christ dominate with imperial authority.
 
 Carolingian art, with its revival of classical forms under Charlemagne, also casts a shadow over his work. The expressive intensity of Ottonian manuscripts and ivories, descended from this tradition, may have inspired the liveliness of his figures, with eyes wide with emotion and bodies animated by restless energy. Giselbertus's ability to blend this liveliness with Romanesque solidity suggests a deep engagement with the artistic heritage of Northern Europe.
@@ -74,24 +121,73 @@ The oral tradition of storytelling, alive among both laity and clergy, likely in
 The art of pilgrims, encountered along the roads to Santiago de Compostela or Jerusalem, offered another level of influence. The sculptures of churches such as Santo Domingo de Silos, with their mixture of horror and hope, may have inspired the stark contrasts of the Last Judgment, where salvation and damnation vie for the viewer's gaze.
 Giselbertus's work, in turn, became a beacon for future pilgrims, perpetuating this artistic dialogue. Ultimately, his influences merge into a style that is both derivative and original, a synthesis of the past and an indication of the future.
 
-Giselbertus stands at a crossroads: Roman and Byzantine, monastic and vernacular, classical and medieval, channeling these streams into a vision that seems timeless; his sculptures are a bridge between the world he knew and the Gothic dawn that followed.
+So, it can be said that Giselbertus stands at a crossroads: Roman and Byzantine, monastic and vernacular, classical and medieval, channeling these streams into a vision that seems timeless; his sculptures are a bridge between the world he knew and the Gothic dawn that followed.
+
+## Travels
 
 Giselbertus's travels, like much of his life, are reconstructed from the imprints he left in stone rather than from written itineraries. His early career probably began at Cluny, the great monastic center about 70 miles from Autun, where he is thought to have trained under a master sculptor around 1115. This stay, though brief, immersed him in a center of artistic innovation, whose workshops were animated by the sound of chisels and the murmur of monks.
-From Cluny he moved to Autun, a transfer that marked the peak of his career and indelibly linked his name to the Cathedral of Saint-Lazare. This move, which took place perhaps in late 1110 or early 1120, brought him into the orbit of Bishop Étienne and to a booming pilgrimage site, where he spent years, if not decades, creating the tympanums and capitals that define his legacy. Autun became his canvas, its streets and quarries his home.
-A detour to Vézelay, about 50 miles northeast of Autun, is often suggested on the basis of stylistic similarities between his work and the tympanum of the Basilica of St. Mary Magdalene. If he went there, it may have been before or after his stay in Autun, perhaps in the 1920s, to contribute to or learn from Autun's sculptural program. The swirling energy of Vézelay's Pentecost scene echoes slightly in his compositions, suggesting a visit that enriched his art.
+
+From Cluny he moved to Autun, a transfer that marked the peak of his career and indelibly linked his name to the Cathedral of Saint-Lazare. This move, which took place perhaps in the late 1110s or early 1120s, brought him into the orbit of Bishop Étienne and to a booming pilgrimage site, where he spent years, if not decades, creating the tympanums and capitals that define his legacy. Autun became his canvas, its streets and quarries his home.
+
+A detour to Vézelay, about 50 miles northeast of Autun, is often suggested on the basis of stylistic similarities between his work and the tympanum of the Basilica of St. Mary Magdalene. If he went there, it may have been before or after his stay in Autun, perhaps in the 1120s, to contribute to or learn from Autun's sculptural program. The swirling energy of Vézelay's Pentecost scene echoes slightly in his compositions, suggesting a visit that enriched his art.
 The pilgrimage routes of the time, which crossed Burgundy and beyond, may have drawn him further afield. Churches such as those at Moissac or Conques, with their Romanesque masterpieces, may have offered him inspiration or temporary employment. Such travels, common among medieval craftsmen, would have exposed him to a mosaic of styles and techniques, broadening his artistic horizons.
 
 Paris, the thriving intellectual and artistic capital, is within the realm of possibility, although there is no definite evidence to place him there. If Giselbertus ventured north, perhaps in the 1130s, when Gothic ferment began, he may have glimpsed the early experiments at Saint-Denis, sowing the seeds for the naturalism that pervaded his later works. This journey, however, remains speculative, a whisper in the wind of history.
+
 Italy, with its Roman ruins and Byzantine mosaics, is another tempting prospect, though less likely given the regional orientation of his career. A sculptor of his caliber may have been drawn south by stories of ancient marbles or the patronage of Norman lords in Sicily, but the lack of Italian motifs in his works suggests that he remained rooted in Franconia and that his influences came secondhand through travelers or manuscripts.
+
 The Rhineland or other northern regions, where Ottonian art prevailed, might have appealed to him, especially if he sought to refine his skills after Cluny. A journey across the Alps or along the Rhine, perhaps in his youth, could explain the expressive vigor of his figures, which are reminiscent of German manuscripts. But this too is conjecture, unsupported by direct evidence.
 
 In the end, Giselbertus' travels seem to have been confined to the ecclesiastical network of Burgundy and its surroundings, his world a constellation of sacred places linked by faith and stone. Whether he traveled widely or stayed close to home, his art reflects a mind that traveled far beyond the physical, drawing on a vast cultural landscape to create works that endure through the centuries.
+
 The curtain on Giselbertus's life falls with as little fanfare as it rose, and his death is shrouded in the same obscurity that surrounds his birth. Scholars believe he died around 1135, probably in Autun, where his most important works stand as silent sentinels. The causes of his death are not recorded—perhaps old age, perhaps illness, or the wear and tear of a life spent carving beauty from stone—but his legacy suggests a man who devoted himself completely to his craft until the end.
 
-His most important works, housed in Saint-Lazare Cathedral, are a gallery of Romanesque genius, each piece a chapter in a stone-bound epic. The tympanum of the Last Judgment, dominating the western portal, is a sprawling vision of Christ's return, its 12 feet of width accommodating the saved and the damned. Christ sits enthroned, serene amid the chaos, while angels blow trumpets and demons drag sinners to their doom; the entire scene is a cosmic drama carved between 1120 and 1135. Probably commissioned by Bishop Étienne, it remains in situ, a testament to Giselbertus' narrative power.
-The lintel of Eve, originally from the north portal, is a haunting study of sin and grace, with the reclining figure stretching almost a meter as she plucks the forbidden fruit. Created around the same time, her sensual curves and sorrowful gaze make her the first large-scale nude since antiquity, a masterpiece lost for centuries after being reused as building material in 1769. Rediscovered in the 19th century, it now resides in the Musée Rolin in Autun, a fragile relic of Giselbertus' audacity.
+## The Last Judgment
 
-The capital of the Flight into Egypt, one of many adorning the interior of Saint-Lazare, captures the Holy Family's escape with tender intimacy, Mary cradling Jesus while Joseph leads the donkey. Carved in the 1920s or 1930s, its delicate vines and flowing drapery soften the stone, offering pilgrims a moment of relief. Still in its original location, it exemplifies Giselbertus's ability to distill scripture into poignant vignettes.
+His most important works, housed in Saint-Lazare Cathedral, are a gallery of Romanesque genius, each piece a chapter in a stone-bound epic. The tympanum of the Last Judgment, dominating the western portal, is a sprawling vision of Christ's return, its 12 feet of width accommodating the saved and the damned. Christ sits enthroned, serene amid the chaos, while angels blow trumpets and demons drag sinners to their doom; the entire scene is a cosmic drama carved between 1120 and 1135. Probably commissioned by Bishop Étienne, it remains in situ, a testament to Giselbertus' narrative power.
+
+What makes the Last Judgment tympanum especially remarkable is its orchestration of movement across a rigid architectural field. The semicircular frame could have constrained the story into static compartments, yet Giselbertus animates it with diagonals, gestures, and directional lines that pull the eye from one moral zone to another. Souls rise, stumble, or are dragged in trajectories that transform doctrine into drama, creating a visual rhythm that unfolds almost like liturgy in stone.
+
+<figure>
+  <img src="/images/Giselbertus/image 1.jpg" alt="Last Judgment Tympanum - Cathedral of St. Lazare, Autun">
+  <figcaption>The Last Judgment Tympanum, c. 1130, high relief in Autun limestone, 350 x 640 cm, Central Portal of the West facade of the Cathedral of St. Lazare, Autun.</figcaption>
+</figure>
+
+At the center, Christ functions not merely as an icon of authority but as the geometric and theological anchor of the whole composition. His scale, calm bearing, and frontal position establish an axis against which every surrounding figure measures its destiny. Around this still point, angels and demons negotiate the fate of humanity, and the contrast between divine serenity and human terror intensifies the emotional architecture of the portal.
+
+The weighing of souls, one of the most memorable episodes in the relief, condenses medieval eschatology into a scene immediately legible even to the unlettered. Balance, gesture, and facial expression communicate a universe in which justice is exact yet vulnerable to anxiety, temptation, and hope. Giselbertus exploits these tensions with exceptional clarity, showing how theological abstraction could be translated into concrete, unforgettable images at the threshold of a church.
+
+The inscription associated with the portal has also contributed to the lasting fascination of the ensemble, because it places the name "Gislebertus" in direct relation to the work while leaving open the question of role. Whether the name identifies sculptor, donor, or supervising patron, it acts as a rare medieval signature of responsibility and memory. In either interpretation, the text binds authorship to devotion, suggesting that the making of the portal was itself conceived as an act with spiritual consequence.
+
+Medieval reception of the tympanum was likely immediate and visceral: pilgrims approaching Saint-Lazare would have encountered the sculpted warning before crossing into sacred space. The portal thus operated as a theological threshold, preparing conscience through fear, wonder, and expectation. Seen in candlelight, processions, or changing weather, the relief's carved depths would have shifted in emphasis, allowing the same imagery to speak differently across seasons and liturgical moments.
+
+Modern scholarship, conservation, and photography have deepened appreciation of the ensemble without exhausting its ambiguity. Even after centuries of weathering, restoration, and debate, the portal retains a rare power to hold together catechesis, spectacle, and artistic invention. For this reason, the Last Judgment of Autun is not only a monument of Romanesque sculpture; it remains one of the great visual meditations on judgment, mercy, and human frailty in the medieval West.
+
+## The Temptation of Eve
+
+The Temptation of Eve, originally on the lintel of the north portal, is a haunting study of sin and grace, with the reclining figure stretching almost a meter as she plucks the forbidden fruit. Created around the same time, her sensual curves and sorrowful gaze make her the first large-scale nude since antiquity, a masterpiece lost for centuries after being reused as building material in 1769. Rediscovered in the 19th century, it now resides in the Musée Rolin in Autun, a fragile relic of Giselbertus' audacity.
+
+<figure>
+  <img src="/images/Giselbertus/image 2.jpg" alt="The Temptation of Eve - Musée Rolin, Autun">
+  <figcaption>The Temptation of Eve, c. 1130, high relief in Autun limestone, 72 x 13 x 18 cm, Musée Rolin, Autun.</figcaption>
+</figure>
+
+## The Flight into Egypt
+
+The capital of the Flight into Egypt, one of many adorning the interior of Saint-Lazare, captures the Holy Family's escape with tender intimacy, Mary cradling Jesus while Joseph leads the donkey. Carved in the 1120s or 1130s, its delicate vines and flowing drapery soften the stone, offering pilgrims a moment of relief. Still in its original location, it exemplifies Giselbertus's ability to distill scripture into poignant vignettes.
+
+<figure>
+  <img src="/images/Giselbertus/image 3.jpg" alt="Flight into Egypt - Musée Rolin, Autun">
+  <figcaption>The Flight into Egypt, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.</figcaption>
+</figure>
+
+## The Suicide of Judas
+
 The Suicide of Judas Capital, another interior gem, freezes the despair of the traitor hanging from a tree, with demons clawing at his soul. Its raw emotion and contorted forms, carved in the same era, underscore the range of Giselbertus's work, balancing redemption and punishment. Like his companions, he remains in the cathedral, a dark mirror of the scenes of hope that surround him.
 
-These works, linked to the fervor of the Autun pilgrimage and the vision of its clergy, remain as the strongest echoes of Giselbertus, whose content is a dialogue between heaven and earth. Although time has scattered some pieces, their power persists, drawing eyes and hearts to a sculptor whose name—whether his own or that of a patron—continues to whisper through the centuries
+<figure>
+  <img src="/images/Giselbertus/image 4.jpg" alt="Suicide of Judas - Musée Rolin, Autun">
+  <figcaption>Suicide of Judas, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.</figcaption>
+</figure>
+
+These works, linked to the fervor of the Autun pilgrimage and the vision of its clergy, remain as the strongest echoes of Giselbertus, whose corpus is a dialogue between heaven and earth. Although time has scattered some pieces, their power persists, drawing eyes and hearts to a sculptor whose name—whether his own or that of a patron—continues to whisper through the centuries
