@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<style>
+    .entry-list {
+        columns: 3;
+        -webkit-columns: 3;
+        column-gap: 2rem;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .entry-list li {
+        break-inside: avoid;
+        -webkit-column-break-inside: avoid;
+        padding: 0.2rem 0;
+    }
+
+    @media (max-width: 768px) {
+        .entry-list {
+            columns: 1;
+        }
+    }
+</style>
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -130,7 +154,7 @@
     <main>
         <div class="section-card">
             <h2>Art Historical Analyses & Interdisciplinary Research</h2>
-            <ul class="dir-list--two">
+            <ul class="entry-list">
                 <li><a href="Content/Papirer/Giunta%20Pisano%20San%20Domenico%20Crucifix.html">Giunta Pisano: San
                         Domenico Crucifix</a></li>
                 <li><a href="Content/Papirer/Master%20of%20Soriguerola-Saint%20Christopher%20Altarpiece.html">Master of

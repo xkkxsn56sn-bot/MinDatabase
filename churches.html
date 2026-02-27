@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<style>
+    .entry-list {
+        columns: 3;
+        -webkit-columns: 3;
+        column-gap: 2rem;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .entry-list li {
+        break-inside: avoid;
+        -webkit-column-break-inside: avoid;
+        padding: 0.2rem 0;
+    }
+
+    @media (max-width: 768px) {
+        .entry-list {
+            columns: 1;
+        }
+    }
+</style>
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -130,7 +154,7 @@
     <main>
         <div class="section-card">
             <h2>Sacred Architecture & Fresco Cycles</h2>
-            <ul class="dir-list">
+            <ul class="entry-list">
                 <li><a href="Content/Churches/Autun%20Cathedral.html">Autun Cathedral</a></li>
                 <li><a href="Content/Churches/Fulda%20Abbey.html">Fulda Abbey</a></li>
                 <li><a href="Content/Churches/Helmarshausen%20Abbey.html">Helmarshausen Abbey</a></li>
