@@ -28,6 +28,23 @@ html[data-theme="dark"] {
   color: var(--text-main-dark);
 }
 
+body {
+  background-color: var(--bg-page);
+  color: var(--text-main);
+}
+
+html[data-theme="dark"] body {
+  background-color: var(--bg-page-dark);
+  color: var(--text-main-dark);
+}
+
+/* Optional but recommended so the content area follows the theme too */
+.entry,
+.entry__content {
+  background-color: transparent;
+  color: inherit;
+}
+
 .entry__grid{
   display: grid;
   grid-template-columns: 320px 1fr;
