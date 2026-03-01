@@ -8,92 +8,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/entry.css' | relative_url }}">
 </head>
 
-<script>
-  (function () {
-    const STORAGE_KEY = 'site-theme';
-    const html = document.documentElement;
-    const toggleBtn = document.getElementById('theme-toggle');
-
-    function getPreferredTheme() {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored === 'light' || stored === 'dark') {
-        return stored;
-      }
-      if (window.matchMedia &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        return 'dark';
-      }
-      return 'light';
-    }
-
-    function applyTheme(theme) {
-      html.setAttribute('data-theme', theme);
-      localStorage.setItem(STORAGE_KEY, theme);
-    }
-
-    const initialTheme = getPreferredTheme();
-    applyTheme(initialTheme);
-
-    if (toggleBtn) {
-      toggleBtn.addEventListener('click', function () {
-        const current = html.getAttribute('data-theme') || 'light';
-        const next = current === 'light' ? 'dark' : 'light';
-        applyTheme(next);
-      });
-    }
-
-    if (window.matchMedia) {
-      window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener('change', function (e) {
-          const stored = localStorage.getItem(STORAGE_KEY);
-          if (!stored) {
-            applyTheme(e.matches ? 'dark' : 'light');
-          }
-        });
-    }
-  })();
-</script>
-
-<script>
-  (function () {
-    const STORAGE_KEY = 'site-theme';
-    const html = document.documentElement;
-    const toggleBtn = document.getElementById('theme-toggle');
-
-    function getPreferredTheme() {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored === 'light' || stored === 'dark') {
-        return stored;
-      }
-      if (window.matchMedia &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        return 'dark';
-      }
-      return 'light';
-    }
-
-    function applyTheme(theme) {
-      html.setAttribute('data-theme', theme);
-      localStorage.setItem(STORAGE_KEY, theme);
-    }
-
-    const initialTheme = getPreferredTheme();
-    applyTheme(initialTheme);
-
-    if (toggleBtn) {
-      toggleBtn.addEventListener('click', function () {
-        const current = html.getAttribute('data-theme') || 'light';
-        const next = current === 'light' ? 'dark' : 'light';
-        applyTheme(next);
-      });
-    }
-  })();
-</script>
-</body>
-
-</html>
-
-
 <body>
 
   <article class="entry">
@@ -115,11 +29,9 @@
     </header>
 
     <div class="entry__grid">
-
       <aside class="entry__sidebar">
         <div class="sidebar__content">
           <h2 class="sidebar__heading">Metadata</h2>
-
           {% if page.meta %}
           {% for block in page.meta %}
           <section class="meta-block">
@@ -160,9 +72,43 @@
       <div class="entry__content">
         {{ content }}
       </div>
-
     </div>
+
   </article>
+
+  <!-- theme script goes here, inside body and AFTER the button -->
+  <script>
+    (function () {
+      const STORAGE_KEY = 'site-theme';
+      const html = document.documentElement;
+      const toggleBtn = document.getElementById('theme-toggle');
+
+      function getPreferredTheme() {
+        const stored = localStorage.getItem(STORAGE_KEY);
+        if (stored === 'light' || stored === 'dark') {
+          return stored;
+        }
+        // you can re-enable system preference later if you want
+        return 'light';
+      }
+
+      function applyTheme(theme) {
+        html.setAttribute('data-theme', theme);
+        localStorage.setItem(STORAGE_KEY, theme);
+      }
+
+      const initialTheme = getPreferredTheme();
+      applyTheme(initialTheme);
+
+      if (toggleBtn) {
+        toggleBtn.addEventListener('click', function () {
+          const current = html.getAttribute('data-theme') || 'light';
+          const next = current === 'light' ? 'dark' : 'light';
+          applyTheme(next);
+        });
+      }
+    })();
+  </script>
 
 </body>
 
