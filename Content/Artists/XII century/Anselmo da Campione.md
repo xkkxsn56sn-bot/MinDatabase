@@ -5,28 +5,139 @@ subtitle: "Romanesque Sculptor and Architect"
 dates: "Active ca. 1160–1190"
 
 meta:
-  - title: "PERIOD"
+  - title: "CORE DATA"
+    pairs:
+      - label: "Name"
+        value: "Anselmo da Campione (Latin: magister Anselmus de Campilione)"
+      - label: "Primary role"
+        value: "Sculptor and architect; Master of Works (capomaestro)"
+      - label: "Main affiliation"
+        value: "Cathedral of Modena (Fabbrica); Maestri Campionesi workshop"
+      - label: "Period"
+        value: "Romanesque, XII century"
+      - label: "Securely attributed evidence"
+        value: "Named in the hereditary contract of 1244 (renewed with grandson Enrico di Ottavio) as founder of the Campionesi line at Modena; pontile and ambone attributed by workshop continuity"
+
+  - title: "IDENTITY AND BIOGRAPHICAL LIMITS"
     list:
-      - "XII century"
-  
-  - title: "ROLE"
+      - "Born in Campione d'Italia, Lake Lugano borderland (now an Italian enclave in Switzerland), ca. 1150"
+      - "Three sons named in documentary sources: Alberto, Jacopo, and Ottavio"
+      - "No baptismal, marriage, or death records survive"
+      - "Profile reconstructed from contracts, consecration records, and stylistic analysis of surviving works"
+      - "Founder of the hereditary Campionesi workshop dynasty at Modena Cathedral (ca. 1170–1322)"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Birth"
+        value: "Campione d'Italia, ca. 1150"
+      - label: "Formation"
+        value: "Probably Arles, Provence, late 1160s (study of Abbey of Saint-Trophime portal sculpture)"
+      - label: "Appointment as capomaestro, Modena"
+        value: "ca. 1170"
+      - label: "Pontile with Passion reliefs"
+        value: "ca. 1170–1184 (created for the papal consecration by Lucius III, 1184)"
+      - label: "Cathedral consecration"
+        value: "1184, by Pope Lucius III"
+      - label: "Hereditary contract formalised"
+        value: "ca. 1190–1208 (under Massaro Alberto)"
+      - label: "Ambone (with sons)"
+        value: "1208–1225 (commissioned by Massaro Bozzalino)"
+      - label: "Death"
+        value: "ca. 1210; precise date and place unrecorded"
+      - label: "Historical framework"
+        value: "Late Romanesque northern Italy; Modena Cathedral building campaign (begun 1099 by Lanfranco and Wiligelmo); Carolingian Renaissance; Papal and Imperial conflicts"
+
+  - title: "ARTISTIC PRACTICE"
     list:
-      - "Sculptor"
-      - "Architect"
-  
-  - title: "LOCATION"
+      - "Sculpture in marble: narrative relief, portal sculpture, capitals, decorative carving"
+      - "Architecture: structural design and supervision of major ecclesiastical building phases"
+      - "Workshop model: hereditary Campionesi bottega combining masonry, sculpture, and site management"
+      - "Organised 'structured construction site' deploying skilled workers across simultaneous projects"
+      - "Polychromy applied to stone sculptures (revealed by 1984 restoration of the pontile)"
+      - "Formed (and trained) three sons as direct workshop successors"
+
+  - title: "STYLE"
     list:
-      - "Campione d'Italia, Lombardy"
-  
-  - title: "KEY WORKS"
+      - "Synthesis of Provençal Romanesque elegance (Abbey of Saint-Trophime, Arles) and Lombard sculptural robustness"
+      - "Linear rhythms and classicising compositional refinement, evolving from the more archaic Wiligelmo tradition"
+      - "Hieratic and narrative relief: figures clearly individualised within compressed multi-episode compositions"
+      - "Integration of sculptural programme with structural architecture as unified aesthetic whole"
+      - "Transition across career from late Romanesque formalism toward early Gothic linearism in final works"
+
+  - title: "ATTRIBUTED WORKS"
+    pairs:
+      - label: "Primary (secure)"
+        value: "Pontile (chancel screen) with five Passion reliefs: Washing of Feet, Last Supper, Capture, Trial and Flagellation, Ascent to Calvary — Modena Cathedral, ca. 1170–1184"
+      - label: "Collaborative (with sons)"
+        value: "Ambone on the left side of the pontile, Modena Cathedral, 1208–1225"
+      - label: "Broader attributions"
+        value: "Sculptural contributions to Milan Cathedral and Parma Cathedral (attributed on stylistic grounds)"
+      - label: "Workshop legacy"
+        value: "Ghirlandina bell-tower (completed 1319) and freestanding nave pulpit (1322) by descendant Enrico II"
+
+  - title: "ICONOGRAPHIC PROFILE"
     list:
-      - "Sculptures at Modena Cathedral"
-      - "Works at San Zeno, Verona"
-  
+      - "Passion cycle on pontile: sequential narrative from Last Supper to Ascent to Calvary"
+      - "Figural sculpture for portal decoration: saints, apostles, and narrative scenes"
+      - "Capitals with zoomorphic, vegetal, and figural decoration following Lombard Romanesque conventions"
+      - "Iconographic programmes determined in collaboration with the Cathedral Chapter and ecclesiastical advisors"
+      - "Didactic and devotional function: visual catechesis for the faithful in Modena Cathedral's nave"
+
+  - title: "PATRONAGE CONTEXT"
+    pairs:
+      - label: "Primary patron"
+        value: "Cathedral Chapter of Modena, administered through successive Massari (lay directors of the Fabbrica)"
+      - label: "Key Massari"
+        value: "Alberto (1190–1208): formalised hereditary contract; Bozzalino (1208–1225): commissioned ambone; Ubaldino (1230–1263): renewed contract with grandson Enrico"
+      - label: "Papal endorsement"
+        value: "Consecration by Pope Lucius III (1184) validated quality of Campionesi work"
+      - label: "Contract structure"
+        value: "Hereditary obligation binding Anselmo, his sons, and their descendants in perpetuum to the cathedral works"
+      - label: "Civic dimension"
+        value: "Cathedral as monument to Modena's patron St Geminianus; patronage served civic pride alongside liturgical needs"
+
+  - title: "GEOGRAPHY AND MOBILITY"
+    pairs:
+      - label: "Origin"
+        value: "Campione d'Italia (Lake Lugano borderland, Lombardy/Switzerland)"
+      - label: "Training"
+        value: "Arles, Provence (Abbey of Saint-Trophime portal sculpture), ca. late 1160s"
+      - label: "Primary career base"
+        value: "Modena Cathedral, Emilia-Romagna (ca. 1170–ca. 1210)"
+      - label: "Further attributions"
+        value: "Milan Cathedral; Parma Cathedral"
+      - label: "Family network"
+        value: "Other Campionesi branches active in Cremona, Verona, Bergamo across XII–XIV centuries"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "Founder of the Modena branch of the Maestri Campionesi, the most enduring workshop dynasty in northern Italian Romanesque-Gothic sculpture"
+      - "Established the hereditary capomaestro model binding multiple generations to a single great ecclesiastical project"
+      - "Pontile reliefs represent the mature phase of Campionesi sculptural achievement and a landmark of late Romanesque narrative relief"
+      - "Career documents the continuity from the Wiligelmo tradition to the proto-Gothic transition in Emilian sculpture"
+      - "Workshop continued at Modena Cathedral until 1322 — over 150 years of uninterrupted family presence"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Anselmo da Campione"
+      - "Maestri Campionesi"
+      - "Modena Cathedral"
+      - "Romanesque sculpture"
+      - "Hereditary workshop"
+      - "Pontile"
+      - "Capomaestro"
+      - "Northern Italian Romanesque"
+      - "Workshop dynasty"
+      - "Wiligelmo tradition"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Modena Cathedral"
         url: "/Content/Churches/Modena%20Cathedral.html"
+      - title: "Benedetto Antelami"
+        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
+      - title: "Giselbertus"
+        url: "/Content/Artists/XI%20century/Giselbertus.html"
 ---
 
 
