@@ -1,76 +1,129 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | Medieval Visions</title>
   <link rel="stylesheet" href="{{ '/assets/css/entry.css' | relative_url }}">
 </head>
+
+<script>
+  (function () {
+    const STORAGE_KEY = 'site-theme';
+    const html = document.documentElement;
+    const toggleBtn = document.getElementById('theme-toggle');
+
+    function getPreferredTheme() {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored === 'light' || stored === 'dark') {
+        return stored;
+      }
+      if (window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        return 'dark';
+      }
+      return 'light';
+    }
+
+    function applyTheme(theme) {
+      html.setAttribute('data-theme', theme);
+      localStorage.setItem(STORAGE_KEY, theme);
+    }
+
+    const initialTheme = getPreferredTheme();
+    applyTheme(initialTheme);
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', function () {
+        const current = html.getAttribute('data-theme') || 'light';
+        const next = current === 'light' ? 'dark' : 'light';
+        applyTheme(next);
+      });
+    }
+
+    if (window.matchMedia) {
+      window.matchMedia('(prefers-color-scheme: dark)')
+        .addEventListener('change', function (e) {
+          const stored = localStorage.getItem(STORAGE_KEY);
+          if (!stored) {
+            applyTheme(e.matches ? 'dark' : 'light');
+          }
+        });
+    }
+  })();
+</script>
+
 <body>
 
-<article class="entry">
+  <article class="entry">
 
-  <header class="entry__header">
-    <h1 class="entry__title">{{ page.title }}</h1>
+    <header class="entry__header">
+      <h1 class="entry__title">{{ page.title }}</h1>
 
-    {% if page.subtitle or page.dates %}
+      <button id="theme-toggle" type="button" aria-label="Toggle dark mode" class="entry__theme-toggle">
+        🌞 / 🌙
+      </button>
+
+      {% if page.subtitle or page.dates %}
       <p class="entry__subtitle">
         {% if page.subtitle %}{{ page.subtitle }}{% endif %}
         {% if page.subtitle and page.dates %}<br>{% endif %}
         {% if page.dates %}{{ page.dates }}{% endif %}
       </p>
-    {% endif %}
-  </header>
+      {% endif %}
+    </header>
 
-  <div class="entry__grid">
+    <div class="entry__grid">
 
-    <aside class="entry__sidebar">
-      <div class="sidebar__content">
-        <h2 class="sidebar__heading">Metadata</h2>
-        
-        {% if page.meta %}
+      <aside class="entry__sidebar">
+        <div class="sidebar__content">
+          <h2 class="sidebar__heading">Metadata</h2>
+
+          {% if page.meta %}
           {% for block in page.meta %}
-            <section class="meta-block">
-              <h3 class="meta-block__title">{{ block.title }}</h3>
+          <section class="meta-block">
+            <h3 class="meta-block__title">{{ block.title }}</h3>
 
-              {% if block.pairs %}
-                <dl class="meta-block__dl">
-                  {% for pair in block.pairs %}
-                    <dt>{{ pair.label }}</dt>
-                    <dd>{{ pair.value }}</dd>
-                  {% endfor %}
-                </dl>
-              {% endif %}
+            {% if block.pairs %}
+            <dl class="meta-block__dl">
+              {% for pair in block.pairs %}
+              <dt>{{ pair.label }}</dt>
+              <dd>{{ pair.value }}</dd>
+              {% endfor %}
+            </dl>
+            {% endif %}
 
-              {% if block.list %}
-                <ul class="meta-block__list">
-                  {% for item in block.list %}
-                    <li>{{ item }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
+            {% if block.list %}
+            <ul class="meta-block__list">
+              {% for item in block.list %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+            {% endif %}
 
-              {% if block.links %}
-                <ul class="meta-block__list">
-                  {% for link in block.links %}
-                    <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </section>
+            {% if block.links %}
+            <ul class="meta-block__list">
+              {% for link in block.links %}
+              <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </section>
           {% endfor %}
-        {% else %}
+          {% else %}
           <p class="sidebar__empty">No metadata available</p>
-        {% endif %}
+          {% endif %}
+        </div>
+      </aside>
+
+      <div class="entry__content">
+        {{ content }}
       </div>
-    </aside>
 
-    <div class="entry__content">
-      {{ content }}
     </div>
-
-  </div>
-</article>
+  </article>
 
 </body>
+
 </html>

@@ -1,3 +1,33 @@
+:root {
+  /* Light (day) */
+  --bg-page:        #F5F0E6;
+  --bg-panel:       #EFE3D1;
+  --text-main:      #262626;
+  --text-muted:     #4A4A4A;
+  --link:           #355C7D;
+  --link-hover:     #8C3B2A;
+  --border-subtle:  #D9CBB6;
+
+  /* Dark (night) */
+  --bg-page-dark:        #111111;
+  --bg-panel-dark:       #1A1A1A;
+  --text-main-dark:      #E6E0D4;
+  --text-muted-dark:     #B5AFA0;
+  --link-dark:           #91B4D8;
+  --link-hover-dark:     #E0A25A;
+  --border-subtle-dark:  #36332D;
+}
+
+html[data-theme="light"] {
+  background-color: var(--bg-page);
+  color: var(--text-main);
+}
+
+html[data-theme="dark"] {
+  background-color: var(--bg-page-dark);
+  color: var(--text-main-dark);
+}
+
 .entry__grid{
   display: grid;
   grid-template-columns: 320px 1fr;
@@ -16,13 +46,16 @@
 .entry__sidebar {
   position: sticky;
   top: 2rem;
-  background: #c1d4e7;
-  border: 1px solid #dee2e6;
+  background: var(--bg-panel);            /* was #c1d4e7 */
+  border: 1px solid var(--border-subtle); /* was #dee2e6 */
   border-radius: 8px;
-
-  /* aggiunte per la scrollbar autonoma */
-  max-height: calc(100vh - 4rem);  /* o 100vh se preferisci */
+  max-height: calc(100vh - 4rem);
   overflow-y: auto;
+}
+
+html[data-theme="dark"] .entry__sidebar {
+  background: var(--bg-panel-dark);
+  border-color: var(--border-subtle-dark);
 }
 
 .sidebar__content {
@@ -33,16 +66,25 @@
   margin: 0 0 1.25rem 0;
   font-size: 1.25rem;
   font-weight: 700;
-  color: #212529;
+  color: var(--text-main);                 /* was #212529 */
   padding-bottom: 0.75rem;
-  border-bottom: 2px solid #dee2e6;
+  border-bottom: 2px solid var(--border-subtle); /* was #dee2e6 */
+}
+
+html[data-theme="dark"] .sidebar__heading {
+  color: var(--text-main-dark);
+  border-bottom-color: var(--border-subtle-dark);
 }
 
 .sidebar__empty {
-  color: #6c757d;
+  color: var(--text-muted);  /* was #6c757d */
   font-style: italic;
   margin: 0;
 }
+html[data-theme="dark"] .sidebar__empty {
+  color: var(--text-muted-dark);
+}
+
 
 /* Meta blocks */
 .entry__sidebar .meta-block {
@@ -60,7 +102,10 @@
   font-weight: 600;
   letter-spacing: .04em;
   text-transform: uppercase;
-  color: #495057;
+  color: var(--text-muted);  /* was #495057 */
+}
+html[data-theme="dark"] .meta-block__title {
+  color: var(--text-muted-dark);
 }
 
 .meta-block__dl {
@@ -72,31 +117,53 @@
 
 .meta-block__dl dt { 
   font-weight: 600;
-  color: #495057;
+  color: var(--text-muted);  /* was #495057 */
   font-size: 0.875rem;
+}
+html[data-theme="dark"] .meta-block__dl dt {
+  color: var(--text-muted-dark);
 }
 
 .meta-block__dl dd { 
   margin: 0 0 .75rem 0;
-  color: #212529;
+  color: var(--text-main);  /* was #212529 */
   font-size: 0.875rem;
 }
+html[data-theme="dark"] .meta-block__dl dd {
+  color: var(--text-main-dark);
+}
+
 
 .meta-block__list {
   margin: 0;
   padding-left: 1.25rem;
   font-size: 0.875rem;
-  color: #212529;
+  color: var(--text-main);  /* was #212529 */
 }
+html[data-theme="dark"] .meta-block__list {
+  color: var(--text-main-dark);
+}
+
 
 .meta-block__list li {
   margin-bottom: 0.5rem;
 }
 
 .meta-block__list a {
-  color: #0066cc;
+  color: var(--link);       /* was #0066cc */
   text-decoration: none;
 }
+html[data-theme="dark"] .meta-block__list a {
+  color: var(--link-dark);
+}
+.meta-block__list a:hover {
+  text-decoration: underline;
+  color: var(--link-hover); /* optional: add this */
+}
+html[data-theme="dark"] .meta-block__list a:hover {
+  color: var(--link-hover-dark);
+}
+
 
 .meta-block__list a:hover {
   text-decoration: underline;
@@ -111,9 +178,13 @@
 }
 .entry__meta {
   font-size: 0.875rem;
-  color: #6c757d;
+  color: var(--text-muted);  /* was #6c757d */
   margin-top: 0.5rem;
 }
+html[data-theme="dark"] .entry__meta {
+  color: var(--text-muted-dark);
+}
+
 
 .entry__content figure {
   display: table;
@@ -164,4 +235,21 @@
   .dir-list {
     columns: 1;
   }
+}
+
+.entry__theme-toggle {
+  margin-top: 0.5rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  background: var(--bg-panel);
+  color: var(--text-main);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+html[data-theme="dark"] .entry__theme-toggle {
+  border-color: var(--border-subtle-dark);
+  background: var(--bg-panel-dark);
+  color: var(--text-main-dark);
 }
