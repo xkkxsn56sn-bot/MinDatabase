@@ -5,32 +5,108 @@ subtitle: "Bishop, Scribe, and Master Illuminator of Lindisfarne"
 dates: "ca. 650–721"
 
 meta:
-  - title: "PERIOD"
-    list:
-      - "VII century"
-  
-  - title: "ROLE"
-    list:
-      - "Bishop of Lindisfarne"
-      - "Scribe"
-      - "Illuminator"
-  
-  - title: "LOCATION"
-    list:
-      - "Lindisfarne, Northumbria"
-  
-  - title: "BIRTH & DEATH"
+  - title: "CORE DATA"
     pairs:
-      - label: "Birth"
-        value: "Northumbria (probable), ca. 650"
-      - label: "Death"
-        value: "Lindisfarne, 721"
-  
-  - title: "KEY WORKS"
+      - label: "Name"
+        value: "Eadfrith of Lindisfarne (also Eadfrid)"
+      - label: "Primary role"
+        value: "Bishop of Lindisfarne, scribe, and master illuminator"
+      - label: "Main affiliation"
+        value: "Monastery and bishopric of Lindisfarne, Northumbria"
+      - label: "Period"
+        value: "Insular / Hiberno-Saxon art, VII–VIII century"
+      - label: "Securely attributed evidence"
+        value: "Named in the 10th-century colophon by Aldred as sole scribe-illuminator of the Lindisfarne Gospels"
+
+  - title: "IDENTITY AND BIOGRAPHICAL LIMITS"
     list:
-      - "Lindisfarne Gospels (ca. 698–721)"
-      - "Copy of the Gospels for St Cuthbert's shrine (attributed)"
-  
+      - "No verifiable records for parents, siblings, or family lineage"
+      - "Anglo-Saxon origin confirmed; precise birthplace undocumented"
+      - "Profile principally reconstructed through Aldred's colophon, Bede, Æthelwulf's poem, and Symeon of Durham"
+      - "Represents the broader challenge of biographing monastic artist-bishops in early medieval sources"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Approximate birth"
+        value: "ca. 650–670, Northumbria"
+      - label: "Documented activity window"
+        value: "Bishop of Lindisfarne from ca. 698"
+      - label: "Major work horizon"
+        value: "Lindisfarne Gospels, ca. 698–721"
+      - label: "Death"
+        value: "721, Lindisfarne"
+      - label: "Historical framework"
+        value: "Post-Synod of Whitby (664) synthesis of Celtic and Roman Christianity in Northumbria"
+
+  - title: "ARTISTIC PRACTICE"
+    list:
+      - "Single-handed production of the Lindisfarne Gospels according to Aldred's colophon"
+      - "Combined roles of scribe (Insular majuscule) and illuminator within a monastic scriptorium"
+      - "Employed carpet-page design, canon tables, and full-page evangelist portraits"
+      - "Used interlace, zoomorphic, and knotwork ornament derived from metalwork traditions"
+      - "Applied a restricted but precise palette including verdigris, orpiment, kermes red, and lapis lazuli"
+
+  - title: "STYLE"
+    list:
+      - "Apex of Insular decorative art: synthesis of Celtic, Anglo-Saxon, and Mediterranean visual sources"
+      - "Microscopic precision in interlace construction; reportedly requiring a magnifying lens in execution"
+      - "Hierarchic scale and frontal representation for evangelist portraits"
+      - "Deep integration of text and image: script itself treated as decorative field"
+      - "Visible influence of late-antique Gospel books (Italian exemplars) reinterpreted in Insular idiom"
+
+  - title: "ATTRIBUTED WORKS"
+    pairs:
+      - label: "Primary (secure)"
+        value: "Lindisfarne Gospels (British Library, Cotton MS Nero D.IV), ca. 698–721"
+      - label: "Secondary (attributed)"
+        value: "Copy of the Gospels deposited at St Cuthbert's shrine (lost; mentioned in early sources)"
+      - label: "Status of further attributions"
+        value: "No other works securely assigned; broader Northumbrian output proposed but unverified"
+
+  - title: "ICONOGRAPHIC PROFILE"
+    list:
+      - "Four evangelist portraits with symbolic beasts (Tetramorph) as prefatory images"
+      - "Sixteen elaborate carpet pages functioning as visual meditations before each Gospel"
+      - "Decorated incipit pages where initial letters expand into full ornamental compositions"
+      - "Canon tables framed by architectural arcades echoing Eusebian tradition"
+      - "Devotional programme linked to the cult of Saint Cuthbert and Lindisfarne's Columban heritage"
+
+  - title: "PATRONAGE CONTEXT"
+    list:
+      - "Work undertaken in personal devotion to God and Saint Cuthbert, not for lay commission"
+      - "Embedded in the prestige economy of the Lindisfarne bishopric and Cuthbertine cult"
+      - "Institutional context: monastery founded by Saint Aidan (635), inheriting Ionan spirituality"
+      - "Colophon names Æthelwald as binder and Billfrith as metalwork cover-maker, indicating collaborative completion"
+
+  - title: "GEOGRAPHY AND MOBILITY"
+    pairs:
+      - label: "Primary production centre"
+        value: "Lindisfarne (Holy Island), Northumbria"
+      - label: "Associated cultural orbit"
+        value: "Northumbrian–Irish monastic network; links to Wearmouth-Jarrow and Iona"
+      - label: "Mobility evidence"
+        value: "No documented travel; Italian exemplars reached Lindisfarne via Wearmouth-Jarrow library"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "Creator of one of the supreme masterpieces of Western medieval manuscript art"
+      - "Rare case of a named monastic artist-bishop with a securely attributable major work"
+      - "Key witness for the transmission and transformation of late-antique book culture in Insular Britain"
+      - "Central figure in debates on single versus collaborative authorship of high-medieval manuscripts"
+      - "His remains were preserved alongside Saint Cuthbert's, attesting to his veneration as a holy man"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Eadfrith"
+      - "Lindisfarne Gospels"
+      - "Insular art"
+      - "Hiberno-Saxon illumination"
+      - "Northumbrian renaissance"
+      - "Saint Cuthbert"
+      - "Carpet page"
+      - "Monastic scriptorium"
+      - "Anglo-Saxon Christianity"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Lindisfarne Gospels"

@@ -5,37 +5,139 @@ subtitle: "Archbishop, Theologian, and Encyclopedist"
 dates: "ca. 780–856"
 
 meta:
-  - title: "PERIOD"
+  - title: "CORE DATA"
+    pairs:
+      - label: "Name"
+        value: "Rhabanus Maurus Magnentius (also Rabanus, Hrabanus)"
+      - label: "Primary role"
+        value: "Archbishop, theologian, encyclopedist, and master of carmina figurata manuscript illumination"
+      - label: "Main affiliation"
+        value: "Fulda Abbey (monk, schoolmaster, abbot 822–842); Archbishopric of Mainz (847–856)"
+      - label: "Period"
+        value: "Carolingian Renaissance, VIII–IX century"
+      - label: "Securely attributed evidence"
+        value: "Author-portraits and dedicatory inscriptions in multiple manuscript copies of De laudibus sanctae crucis; title Praeceptor Germaniae attested in contemporary sources"
+
+  - title: "IDENTITY AND BIOGRAPHICAL LIMITS"
     list:
-      - "VIII–IX century"
-  
-  - title: "ROLE"
-    list:
-      - "Archbishop of Mainz"
-      - "Theologian"
-      - "Author"
-      - "Illuminator"
-  
-  - title: "LOCATION"
-    list:
-      - "Fulda Abbey, Mainz"
-  
-  - title: "BIRTH & DEATH"
+      - "Born ca. 780 in Mainz to noble Frankish parents Waluran and Waltrat"
+      - "Dedicated as puer oblatus to Fulda monastery ca. 790–791"
+      - "Name 'Maurus' bestowed by Alcuin of York honouring Saint Benedict's favourite disciple"
+      - "Substantial documentary record for an IX-century artist: letters, dedicatory poems, administrative records"
+      - "Personal biography reconstructable through his own extensive writings and hagiographic tradition"
+
+  - title: "CHRONOLOGY"
     pairs:
       - label: "Birth"
         value: "Mainz, ca. 780"
+      - label: "Studies at Tours"
+        value: "ca. 802–803, under Alcuin of York"
+      - label: "Ordained priest"
+        value: "815"
+      - label: "Pilgrimage to Jerusalem"
+        value: "ca. 817"
+      - label: "Abbot of Fulda"
+        value: "822–842"
+      - label: "Archbishop of Mainz"
+        value: "847–856"
       - label: "Death"
-        value: "Winkel, 856"
-  
-  - title: "KEY WORKS"
+        value: "Winkel (Rheingau), 4 February 856"
+      - label: "Historical framework"
+        value: "Carolingian Renaissance under Charlemagne, Louis the Pious, and Louis the German; Fulda as premier centre of Frankish learning"
+
+  - title: "ARTISTIC PRACTICE"
     list:
-      - "De laudibus Sanctae Crucis"
-      - "De universo (encyclopedia)"
-  
+      - "Pioneered carmina figurata: grid-based pattern poems where letter arrangements form visual images (crosses, figures, animals)"
+      - "Scripts: Rustic Capitals and Uncial within figured grids; Carolingian minuscule for prose commentaries"
+      - "Medium: mineral and vegetal pigments mixed with egg white on parchment; luxury versions on purple-dyed vellum"
+      - "Supervised Fulda scriptorium: directed teams of scribes, illuminators, and rubricators"
+      - "Integrated superimposed poem-images over letter-grid grounds, enabling multiple simultaneous reading levels"
+      - "Developed standardized techniques reproducible by other scriptoria, ensuring wide manuscript diffusion"
+
+  - title: "STYLE"
+    list:
+      - "Synthesis of Late Antique pattern-poetry tradition (Optatianus Porfyrius), Insular ornament, and Carolingian figural style"
+      - "Hierarchical visual compositions: Christ at apex, emperor as Miles Christi, author kneeling in supplication"
+      - "Precise geometric planning of page as unified visual-textual field"
+      - "Symbolic use of color following Exodus typology: hyacinth, purple, linen, and scarlet for theological coding"
+      - "Author self-portrait tradition: kneeling figure before the cross establishing devotional and authorial identity"
+      - "Multiple interpretive layers: surface text, hidden figured poem, and prose exegesis create tiered contemplative experience"
+
+  - title: "ATTRIBUTED WORKS"
+    pairs:
+      - label: "Primary (secure)"
+        value: "De laudibus sanctae crucis (In Praise of the Holy Cross): ca. 810–814 (first version); revised and presented to Pope Gregory IV 833–836; ca. 80 manuscript copies survive from IX–XII centuries"
+      - label: "Key manuscript"
+        value: "Vienna, Österreichische Nationalbibliothek, Cod. 652 (purple vellum; 403×307 mm; 830–840; presented to Archbishop Otgar of Mainz)"
+      - label: "Secondary works"
+        value: "De universo (encyclopedia in 22 books, ca. 842–847); De institutione clericorum; commentaries on scripture; De rerum naturis"
+      - label: "Status of illuminated attributions"
+        value: "Artistic supervision of Fulda scriptorium broadly attested; individual hand within manuscripts debated"
+
+  - title: "ICONOGRAPHIC PROFILE"
+    list:
+      - "Cross as central organizing symbol: acrostic poems form cross-shapes over letter grids in every major composition"
+      - "Christ in Majesty and Christ as Lamb within cross-grid compositions"
+      - "Imperial portrait: Louis the Pious as Miles Christi (Soldier of Christ)"
+      - "Author portrait: Rhabanus kneeling before the cross, introduced by Alcuin to Archbishop Otgar (fol. 2v, Cod. 652)"
+      - "Angels, apostles, and allegorical figures embedded within letter matrices"
+      - "Cosmological and encyclopedic imagery in De universo: zoological, botanical, and astronomical subjects"
+
+  - title: "PATRONAGE CONTEXT"
+    list:
+      - "Primary patrons: Emperor Louis the Pious (dedicated figured poems portraying him as Miles Christi); Archbishop Otgar of Mainz (commissioned Vienna luxury manuscript); Pope Gregory IV (received revised De laudibus 833–836)"
+      - "Institutional patron: Fulda Abbey, whose scriptorium and library supported all major productions"
+      - "Later patron: Louis the German, to whom De universo was dedicated ca. 842–847"
+      - "Patron-gift model: manuscripts functioned as prestige offerings binding ecclesiastical and imperial relationships"
+      - "Works circulated widely through monastic networks from Saint-Gall to Monte Cassino"
+
+  - title: "GEOGRAPHY AND MOBILITY"
+    pairs:
+      - label: "Birthplace"
+        value: "Mainz, Rhineland"
+      - label: "Primary formation"
+        value: "Fulda Abbey (ca. 790–822)"
+      - label: "Advanced studies"
+        value: "Tours (ca. 802–803), Palace School of Alcuin of York"
+      - label: "Pilgrimage"
+        value: "Jerusalem, ca. 817"
+      - label: "Administrative seat"
+        value: "Mainz (Archbishop 847–856)"
+      - label: "Place of death"
+        value: "Winkel (Rheingau), 4 February 856"
+      - label: "Mobility evidence"
+        value: "Regular attendance at imperial assemblies and church synods; administrative visitations throughout Mainz archdiocese"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "Titled Praeceptor Germaniae (Teacher of Germany) for his unparalleled contribution to Carolingian education"
+      - "Founder of the Fulda school tradition that shaped German monastic learning for generations"
+      - "Pioneered text-image synthesis in the carmina figurata tradition, influencing medieval book design through the XII century"
+      - "De universo is among the most comprehensive Carolingian encyclopedias, transmitting classical and patristic knowledge to the Middle Ages"
+      - "Approximately 80 manuscript copies of De laudibus attest to the widest diffusion of any Carolingian illuminated cycle"
+      - "Beatified: feast day 4 February; venerated locally in the dioceses of Mainz and Fulda"
+
+  - title: "THEMATIC KEYWORDS"
+    list:
+      - "Rhabanus Maurus"
+      - "Carmina figurata"
+      - "De laudibus sanctae crucis"
+      - "Carolingian Renaissance"
+      - "Fulda scriptorium"
+      - "Pattern poetry"
+      - "Praeceptor Germaniae"
+      - "Text-image synthesis"
+      - "Medieval encyclopedia"
+      - "Alcuin of York"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Fulda Abbey"
         url: "/Content/Churches/Fulda%20Abbey.html"
+      - title: "Dagulf"
+        url: "/Content/Artists/VIII%20century/Dagulf.html"
+      - title: "Godescalc"
+        url: "/Content/Artists/VIII%20century/Godescalc.html"
 ---
 
 
