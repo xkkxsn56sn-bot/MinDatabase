@@ -71,6 +71,11 @@ meta:
     pairs:
       - label: "Opisthographic processional crucifix (principal attribution)"
         value: "ca. 1255–1265, tempera and gold leaf on panel, Museo del Tesoro, Basilica di San Francesco, Assisi"
+<<<<<<< HEAD
+=======
+      - label: "Opisthographic processional crucifix"
+        value: "ca. 1255–1265, tempera and gold leaf on panel, Wallraf-Richartz-Museum, Cologne"
+>>>>>>> b329e2a (push origin main)
       - label: "Croce di Santa Maria del Borgo"
         value: "ca. 1255–1260, tempera and gold leaf on panel, 309 × 196 cm, Pinacoteca Nazionale, Bologna"
       - label: "Crucifix (dated)"
