@@ -6,9 +6,9 @@ dates: "Active c. 1285–1296; documented works 1291–1296"
 role: "The supreme mosaicist of late thirteenth-century Rome, whose vast apse programs at San Giovanni in Laterano and Santa Maria Maggiore synthesise Early Christian, Byzantine, and proto-Gothic formal currents into a chromatic language of extraordinary refinement — the definitive visual expression of Franciscan papal patronage under Nicholas IV"
 
 identity:
-  signature_formula: "*Iacobus Tor(r)iti pictor*; *IACOBUS TORRITI PICT(OR) H(OC) OP(US) FEC(IT)*"
-  professional_title: "*Pictor* and *incisor vitri* (glass cutter); probable *magister parietarius*"
-  religious_status: "Probable Franciscan friar or tertiary (kneeling figure in Franciscan habit in Lateran mosaic; *frater* absent from inscription)"
+  signature_formula: "Iacobus Tor(r)iti pictor; IACOBUS TORRITI PICT(OR) H(OC) OP(US) FEC(IT)"
+  professional_title: "Pictor and incisor vitri (glass cutter); probable magister parietarius"
+  religious_status: "Probable Franciscan friar or tertiary (kneeling figure in Franciscan habit in Lateran mosaic; frater absent from inscription)"
   birth:
     date: "c. 1240–1260 (estimated)"
     place: "Unknown; Central Italian or Roman origin most probable; Sienese hypothesis (Mancini, 1621; De Angelis, 1821) rejected by modern scholarship"
@@ -32,11 +32,7 @@ technique:
 
 style_characteristics:
   - "Chromatic refinement: delicate silvery harmonies evoking fifth-century Early Christian mosaic tonalities"
-<<<<<<< HEAD
-  - "Straordinarie variazioni di colore volte a creare l'impressione di spazio e profondità (Gianandrea, Treccani medievale)"
-=======
   - "*Straordinarie variazioni di colore volte a creare l'impressione di spazio e profondità* (Gianandrea, Treccani medievale)"
->>>>>>> b329e2a (push origin main)
   - "*Risultati personalissimi di grande eleganza formale ravvivata da un'espressività delle figure affatto cimabuesca* (Treccani EAM)"
   - "Lighter palette and more measured chiaroscuro than Cimabue; quieter, more linear rhythm"
   - "Byzantine hieratic frontality softened by gentle expressivity in facial modeling"
@@ -49,17 +45,10 @@ principal_works:
   - "Apse mosaic, San Giovanni in Laterano, Rome — 1291 — in situ (dismantled and reassembled 1876–1886, Vespignani)"
   - "Apse and triumphal arch mosaics, Santa Maria Maggiore, Rome — 1295–96 — in situ (lower register restored 19th c.)"
   - "Mosaic panel for the funerary monument of Boniface VIII (with Arnolfo di Cambio) — c. 1295–96 — Old Saint Peter's, Vatican (lost)"
-<<<<<<< HEAD
-  - "Volta degli Intercessori (Volta dei Santi), Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
-  - "Creazione del Mondo (Creation of the World), nave frescoes, Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
-  - "Costruzione dell'Arca (Construction of the Ark), nave frescoes, Assisi — c. 1290 — in situ"
-  - "Sinopia of the Creator (Pantocrator), preparatory drawing — c. 1290 — Museo del Tesoro, Assisi"
-=======
   - "*Volta degli Intercessori* (*Volta dei Santi*), Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
   - "*Creazione del Mondo* (Creation of the World), nave frescoes, Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
   - "*Costruzione dell'Arca* (Construction of the Ark), nave frescoes, Assisi — c. 1290 — in situ"
   - "Sinopia of the Creator (*Pantocrator*), preparatory drawing — c. 1290 — Museo del Tesoro, Assisi"
->>>>>>> b329e2a (push origin main)
   - "Probable early frescoes, Sancta Sanctorum, Lateran, Rome (attributed: Romano, Bellosi)"
 
 artistic_influences:
@@ -86,14 +75,14 @@ iconographic_programs:
     subjects: "Gemmed cross; Virgin Mary and John the Baptist; Christ (miraculous image above); apostles Peter, Paul, John the Evangelist, Andrew; Saints Francis and Anthony (Franciscan insertion); Nicholas IV as kneeling donor; Torriti and Jacopo da Camerino as kneeling Franciscan friars"
     collaborator: "Jacopo da Camerino"
     inscription: "IACOBUS TORRITI PICT(OR) H(OC) OP(US) FEC(IT) / ANNO D(OMI)NI M CC NONAGES(IMO) II"
-    note: "Deliberately evokes the fifth-century mosaic it replaced; Torriti identified as *incisor vitri* (glass cutter) in inscription"
+    note: "Deliberately evokes the fifth-century mosaic it replaced; Torriti identified as incisor vitri (glass cutter) in inscription"
   santa_maria_maggiore:
     date: "c. 1295–96"
     location: "Apse calotte and triumphal arch, Santa Maria Maggiore, Rome"
     central_image: "Coronation of the Virgin — Christ and Mary enthroned in star-studded celestial sphere; sun and moon subordinated beneath the throne"
     flanking: "Eight angels and a six-winged seraph on each side of the throne"
-    lower_register: "Five Marian narrative scenes: Annunciation, Nativity, Adoration of the Magi, Presentation in the Temple, *Dormitio Virginis* (Death of the Virgin)"
-    inscription: "*Maria virgo assumpta est ad ethereum thalamum in quo rex regum stellato sedet solio*"
+    lower_register: "Five Marian narrative scenes: Annunciation, Nativity, Adoration of the Magi, Presentation in the Temple, Dormitio Virginis (Death of the Virgin)"
+    inscription: "Maria virgo assumpta est ad ethereum thalamum in quo rex regum stellato sedet solio"
     donors: "Nicholas IV (kneeling left, beneath Peter, Paul, Francis); Giacomo Colonna (kneeling right, beneath John the Baptist, John the Evangelist, Anthony)"
     ornament: "Acanthus scroll populated with naturalistic fauna in lower decorative border (deliberate evocation of the Garden of Paradise)"
 
@@ -124,8 +113,6 @@ related_entries:
     url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
   - title: "Cimabue"
     url: "/Content/Artists/XIII%20century/Cimabue.html"
-  - title: "Santa Maria Maggiore"
-    url: "/Content/Churches/Santa%20Maria%20Maggiore.html"
 
 category: "artist"
 
@@ -139,7 +126,7 @@ meta:
       - label: "Active"
         value: "c. 1285–1296"
       - label: "Signature"
-        value: "*Iacobus Tor(r)iti pictor*; also *incisor vitri* (glass cutter)"
+        value: "Iacobus Tor(r)iti pictor; also incisor vitri (glass cutter)"
       - label: "Religious status"
         value: "Probable Franciscan friar or tertiary"
       - label: "Last documented work"
@@ -180,11 +167,7 @@ meta:
       - "Apse mosaic, San Giovanni in Laterano, Rome — 1291 — in situ (reassembled 1876–86)"
       - "Apse and triumphal arch, Santa Maria Maggiore, Rome — c. 1295–96 — in situ"
       - "Mosaic, Boniface VIII monument (w/ Arnolfo di Cambio) — c. 1295–96 — lost"
-<<<<<<< HEAD
-      - "Volta degli Intercessori, Upper Basilica, Assisi — c. 1290 — in situ"
-=======
       - "*Volta degli Intercessori*, Upper Basilica, Assisi — c. 1290 — in situ"
->>>>>>> b329e2a (push origin main)
       - "Nave frescoes (*Creazione del Mondo*, *Costruzione dell'Arca*), Assisi — c. 1290 — in situ"
       - "Sinopia of the Creator — c. 1290 — Museo del Tesoro, Assisi"
 
@@ -206,20 +189,12 @@ meta:
 
   - title: "Thematic keywords"
     list:
-<<<<<<< HEAD
-      - "Coronation of the Virgin · Dormitio Virginis"
-=======
       - "Coronation of the Virgin · *Dormitio Virginis*"
->>>>>>> b329e2a (push origin main)
       - "Franciscan papal patronage"
       - "Late-Duecento Roman mosaic"
       - "Byzantine-Roman synthesis"
       - "Early Christian revival"
-<<<<<<< HEAD
-      - "Incisor vitri · mosaicist as craftsman"
-=======
       - "*Incisor vitri* · mosaicist as craftsman"
->>>>>>> b329e2a (push origin main)
 
   - title: "Related entries"
     links:
@@ -227,8 +202,6 @@ meta:
         url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
-      - title: "Santa Maria Maggiore"
-        url: "/Content/Churches/Santa%20Maria%20Maggiore.html"
 ---
 
 ## Family and Origins
