@@ -32,7 +32,7 @@ technique:
 
 style_characteristics:
   - "Chromatic refinement: delicate silvery harmonies evoking fifth-century Early Christian mosaic tonalities"
-  - "*Straordinarie variazioni di colore volte a creare l'impressione di spazio e profondità* (Gianandrea, Treccani medievale)"
+  - "Straordinarie variazioni di colore volte a creare l'impressione di spazio e profondità (Gianandrea, Treccani medievale)"
   - "*Risultati personalissimi di grande eleganza formale ravvivata da un'espressività delle figure affatto cimabuesca* (Treccani EAM)"
   - "Lighter palette and more measured chiaroscuro than Cimabue; quieter, more linear rhythm"
   - "Byzantine hieratic frontality softened by gentle expressivity in facial modeling"
@@ -45,10 +45,10 @@ principal_works:
   - "Apse mosaic, San Giovanni in Laterano, Rome — 1291 — in situ (dismantled and reassembled 1876–1886, Vespignani)"
   - "Apse and triumphal arch mosaics, Santa Maria Maggiore, Rome — 1295–96 — in situ (lower register restored 19th c.)"
   - "Mosaic panel for the funerary monument of Boniface VIII (with Arnolfo di Cambio) — c. 1295–96 — Old Saint Peter's, Vatican (lost)"
-  - "*Volta degli Intercessori* (*Volta dei Santi*), Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
-  - "*Creazione del Mondo* (Creation of the World), nave frescoes, Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
-  - "*Costruzione dell'Arca* (Construction of the Ark), nave frescoes, Assisi — c. 1290 — in situ"
-  - "Sinopia of the Creator (*Pantocrator*), preparatory drawing — c. 1290 — Museo del Tesoro, Assisi"
+  - "Volta degli Intercessori (Volta dei Santi), Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
+  - "Creazione del Mondo (Creation of the World), nave frescoes, Upper Basilica of San Francesco, Assisi — c. 1290 — in situ"
+  - "Costruzione dell'Arca (Construction of the Ark), nave frescoes, Assisi — c. 1290 — in situ"
+  - "Sinopia of the Creator (Pantocrator), preparatory drawing — c. 1290 — Museo del Tesoro, Assisi"
   - "Probable early frescoes, Sancta Sanctorum, Lateran, Rome (attributed: Romano, Bellosi)"
 
 artistic_influences:
@@ -169,7 +169,7 @@ meta:
       - "Apse mosaic, San Giovanni in Laterano, Rome — 1291 — in situ (reassembled 1876–86)"
       - "Apse and triumphal arch, Santa Maria Maggiore, Rome — c. 1295–96 — in situ"
       - "Mosaic, Boniface VIII monument (w/ Arnolfo di Cambio) — c. 1295–96 — lost"
-      - "*Volta degli Intercessori*, Upper Basilica, Assisi — c. 1290 — in situ"
+      - "Volta degli Intercessori, Upper Basilica, Assisi — c. 1290 — in situ"
       - "Nave frescoes (*Creazione del Mondo*, *Costruzione dell'Arca*), Assisi — c. 1290 — in situ"
       - "Sinopia of the Creator — c. 1290 — Museo del Tesoro, Assisi"
 
@@ -191,12 +191,12 @@ meta:
 
   - title: "Thematic keywords"
     list:
-      - "Coronation of the Virgin · *Dormitio Virginis*"
+      - "Coronation of the Virgin · Dormitio Virginis"
       - "Franciscan papal patronage"
       - "Late-Duecento Roman mosaic"
       - "Byzantine-Roman synthesis"
       - "Early Christian revival"
-      - "*Incisor vitri* · mosaicist as craftsman"
+      - "Incisor vitri · mosaicist as craftsman"
 
   - title: "Related entries"
     links:
