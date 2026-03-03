@@ -260,7 +260,7 @@ The date and cause of Jacopo Torriti's death are entirely unknown, as no contemp
 
 <figure>
   <img src="/images/Jacopo Torriti/image 1.jpg" alt="Mosaici abside della Basilica di San Giovanni in Laterano">
-  <figcaption>Mosaics, 1291, mosaic (glass paste tiles (enamel) and gilded tiles (glass with gold leaf)), Basilica di San Giovanni in Laterano, Rome.</figcaption>
+  <figcaption>Apse decorations, 1291, mosaic (glass paste tiles (enamel) and gilded tiles (glass with gold leaf)), Basilica di San Giovanni in Laterano, Rome.</figcaption>
 </figure>
 
 Pope Nicholas IV (r. 1288–1292) commissioned Jacopo Torriti to redesign the apse decoration of the Lateran Basilica, a project that both incorporated and transformed an earlier fifth-century mosaic. Torriti worked alongside Jacopo da Camerino, likely also a Franciscan friar, and commemorated the completion in a dedicatory inscription: IACOBUS TORRITI PICT(OR) H(OC) OP(US) FEC(IT) / ANNO D(OMI)NI M CC NONAGES(IMO) II. Both artists left a personal mark on the work itself, appearing as small figures dressed in Franciscan habit among the apostles depicted in the lower register.
@@ -272,9 +272,6 @@ The mosaic was executed in glass paste (enamel) and gilded tesserae — glass se
 What visitors see today is not the mosaic as Torriti conceived it. When Pope Leo XIII ordered an enlargement of the choir, a project directed by architect Francesco Vespignani between 1876 and 1886, the medieval apse was demolished and the mosaic entirely dismantled and then reassembled within a new neo-Gothic structure. The nineteenth-century mosaicists preserved the original iconographic program and reused the gilded background tiles, but much of the original stylistic character and chromatic subtlety was inevitably lost in the process. Before dismantling, 1:1 scale casts were made by pressing dampened paper sheets directly onto the tiles; these invaluable impressions are now held in the Vatican Museums.
 
 Because Vespignani's neo-Gothic apse is structurally larger than its medieval predecessor, the mosaic was adapted to a surface different from the one for which Torriti designed it. Academic sources consistently describe the composition as occupying the full apse basin, but precise metric measurements remain undocumented — a gap that is, unfortunately, common for medieval mosaics that have undergone remounting.
-
-
-### Apse and Triumphal Arch Mosaics, Santa Maria Maggiore, Rome (1295–96)
 
 <figure>
   <img src="/images/Jacopo Torriti/image 3.jpg" alt="Apse and Triumphal Arch Mosaics, Chiesa di Santa Maria Maggiore, Rome">
@@ -312,8 +309,6 @@ Among the works attributed to Torriti on the basis of stylistic analysis rather 
 </figure>
 
 The third securely documented commission of Jacopo Torriti was the mosaic panel created for the funerary monument of Pope Boniface VIII, executed in collaboration with Arnolfo di Cambio and originally positioned against the inner façade wall of the ancient Constantinian basilica of Saint Peter's in the Vatican. The monument, an elaborate Gothic tabernacle combining sculpture and mosaic in a synthesis characteristic of Arnolfo's mature Roman work, presented in its upper mosaic zone a composition depicting Saints Peter and Paul presenting the kneeling Boniface VIII to the enthroned Virgin and Child, enclosed within a medallion and surmounted by an *etimasia*, the empty throne symbolizing the divine presence, a compositional format closely related to that employed by Torriti at the Lateran. The mosaic was signed with the formula *Iacob[us] Tor(r)iti pictor*, establishing beyond doubt Torriti's personal involvement in its execution. The monument was destroyed in the seventeenth-century rebuilding of Saint Peter's, but two fragments of the original mosaic survive: a portion of the Christ Child's bust, now in the Pushkin Museum of Fine Arts in Moscow, and a fragment of the Virgin's face, preserved in the Brooklyn Museum in New York. These fragments, though small, confirm the high quality of Torriti's execution and display the same refined coloristic sensibility and delicate facial modeling visible in his surviving Roman works. The destruction of the monument represents one of the most significant losses in the history of medieval art in Rome.
-
-### *Santa Lucia* Panel, Musée de Grenoble (date uncertain)
 
 <figure>
   <img src="/images/Jacopo Torriti/image 2.jpg" alt="Saint Lucia - Musée de Grenoble">
