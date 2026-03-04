@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: entry
 title: "Maestro Consolo (Magister Conxolus)"
