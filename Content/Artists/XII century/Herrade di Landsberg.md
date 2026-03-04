@@ -5,31 +5,54 @@ subtitle: "Abbess and Author of the Hortus Deliciarum"
 dates: "ca. 1130–1195"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Herrad von Landsberg, Herradis de Landsperg"
+      - label: "Field"
+        value: "Encyclopaedic manuscript compilation, illumination, monastic education"
+      - label: "Attribution status"
+        value: "Principal author and supervisor of the Hortus Deliciarum; individual miniatures workshop-produced under her direction"
+
   - title: "PERIOD"
     list:
       - "XII century"
-  
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1130 (Alsace), died 25 July 1195 (Hohenburg Abbey)"
+      - label: "Activity window"
+        value: "Abbess 1167/1170–1195; Hortus Deliciarum compiled ca. 1167–1185"
+
   - title: "ROLE"
     list:
       - "Abbess of Hohenburg"
-      - "Author"
-      - "Illuminator"
-  
+      - "Author and compiler"
+      - "Illuminator (workshop director)"
+
   - title: "LOCATION"
     list:
-      - "Hohenburg Abbey, Alsace"
-  
-  - title: "BIRTH & DEATH"
-    pairs:
-      - label: "Birth"
-        value: "Alsace, ca. 1130"
-      - label: "Death"
-        value: "Hohenburg Abbey, 1195"
-  
+      - "Hohenburg Abbey (Mont Sainte-Odile), Alsace"
+      - "Landsberg, Alsace (noble origin)"
+
   - title: "KEY WORKS"
     list:
-      - "Hortus Deliciarum (Garden of Delights)"
-  
+      - "Hortus Deliciarum (Garden of Delights), ca. 1167–1185 (original destroyed 1870; known through 19th-century copies)"
+
+  - title: "PATRONAGE"
+    list:
+      - "Self-directed communal project for the education of the Hohenburg canonesses"
+      - "Augustinian canonical reform milieu under Abbess Relinda (predecessor and mentor)"
+      - "Holy Roman imperial court (indirect: Barbarossa's appointment of Relinda enabled the reform context)"
+
+  - title: "STYLE"
+    list:
+      - "Alsatian Romanesque illumination with strong Byzantine and Ottonian formal inheritance"
+      - "Encyclopaedic visual programme combining theological, cosmological, and historical imagery"
+      - "Didactic approach: text and image integrated as instruments of monastic instruction"
+      - "Vivid palette; hierarchical figure composition; extensive use of diagrams and schematic layouts"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Hildegard von Bingen"

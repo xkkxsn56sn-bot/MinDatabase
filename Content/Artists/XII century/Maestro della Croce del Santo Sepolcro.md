@@ -1,107 +1,62 @@
 ---
 layout: entry
 title: "Master of the Cross of the Holy Sepulcher"
-subtitle: "Anonymous Pisan painter, exponent of twelfth-century Christus triumphans and Byzantine-Romanesque synthesis"
-dates: "active later twelfth century (c. 1150–1200)"
+subtitle: "Anonymous Pisan Painter"
+dates: "Active ca. 1150–1200"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Maestro della Croce del Santo Sepolcro; Master of the Santo Sepolcro Cross"
+      - label: "Field"
+        value: "Italo-Byzantine panel painting; monumental painted crucifix (tavola cruciforme)"
+      - label: "Attribution status"
+        value: "Anonymous master named after sole securely attributed work; no documentary identification"
+
   - title: "PERIOD"
     list:
-      - "XII century (later twelfth century, c. 1150–1200)"
-      - "Late Romanesque in Pisa and Mediterranean visual exchange"
-      - "Byzantine tradition in Italian panel painting"
+      - "XII century"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1130–1140 (Pisa, conjectural), died after ca. 1200 (not documented)"
+      - label: "Activity window"
+        value: "ca. 1150–1200 (based on stylistic dating of the cross)"
 
   - title: "ROLE"
     list:
-      - "Anonymous Pisan painter"
-      - "Master of monumental painted crucifixes"
-      - "Exponent of Christus triumphans iconography"
-      - "Mediator between Byzantine icon tradition and Romanesque aesthetics"
+      - "Painter"
 
   - title: "LOCATION"
     list:
-      - "Pisa (primary workshop and activity)"
+      - "Pisa, Tuscany (principal workshop and activity)"
       - "Church of Santo Sepolcro, Pisa (principal commission)"
-      - "Mediterranean maritime networks through crusade and trade"
-
-  - title: "PERIOD OF ACTIVITY"
-    pairs:
-      - label: "Active"
-        value: "Later twelfth century, roughly 1150–1200"
-      - label: "Death"
-        value: "Unknown; not documented in surviving sources"
 
   - title: "KEY WORKS"
     list:
-      - "Croce dipinta (Painted Cross) from Santo Sepolcro, Pisa, c. 1150–1200"
-      - "Tempera and gold on panel, approximately 282 × 236–286 cm"
-      - "Now in Museo Nazionale di San Matteo, Pisa"
+      - "Croce dipinta (Painted Cross), second half XII century — tempera and gold on panel, 282 × 236 cm (Museo Nazionale di San Matteo, Pisa; formerly Santo Sepolcro, Pisa)"
 
-  - title: "ARTISTIC PROFILE"
+  - title: "PATRONAGE"
     list:
-      - "Christus triumphans type with Byzantine frontal solemnity"
-      - "Gold ground with lavish chrysography and rich ornamental borders"
-      - "Linear modeling and rhythmic drapery in Byzantine tradition"
-      - "Narrative scenes on lateral panels and terminals showing emergent Tuscan storytelling"
-      - "Integration of Eastern icon models with Pisan Romanesque sculptural aesthetics"
+      - "Clerical chapter of the Church of Santo Sepolcro, Pisa"
+      - "Pisan lay confraternities and merchant associations with crusading devotional ties"
+      - "Broader Pisan maritime and ecclesiastical networks connected to Holy Land pilgrimage ideology"
 
-  - title: "PATRONS"
+  - title: "STYLE"
     list:
-      - "Church of Santo Sepolcro, Pisa (clerical chapter)"
-      - "Pisan lay confraternities and merchant associations"
-      - "Ecclesiastical authorities connected to crusading devotion and pilgrimage ideology"
-
-  - title: "PRIMARY CHARACTERISTICS"
-    list:
-      - "Monumental painted cross (tavola cruciforme)"
-      - "Christus triumphans with impassive divinity emphasis"
-      - "Byzantine iconographic protocols maintained through orthopraxy"
-      - "Romanesque linear stylization in anatomy and drapery folds"
-      - "Mediterranean contexts of maritime commerce and crusade theology"
-
-  - title: "THEMATIC KEYWORDS"
-    list:
-      - "Christus triumphans and painted cross tradition"
-      - "Byzantine maniera greca in Pisan context"
-      - "Holy Sepulcher devotion and crusading piety"
-      - "Romanesque ornament and Byzantine hierarchy synthesis"
-      - "Anonymous makers and collective workshop practice"
-      - "Pisa as Mediterranean visual crossroads"
+      - "Christus triumphans typology — upright, open-eyed Christ emphasising victorious divinity over suffering"
+      - "Byzantine formal inheritance: gold ground, chrysography, hieratic frontal solemnity, linear drapery"
+      - "Romanesque linear stylisation in anatomy and ornamental border treatment"
+      - "Narrative Passion and Resurrection scenes on lateral panels and terminals — emergent Tuscan storytelling within Byzantine vocabulary"
 
   - title: "RELATED ENTRIES"
     links:
+      - title: "Maestro della Croce 432"
+        url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
-      - title: "Museo Nazionale di San Matteo, Pisa"
-        url: "/Content/Churches/Museo%20Nazionale%20di%20San%20Matteo.md"
-      - title: "Chiesa del Santo Sepolcro, Pisa"
-        url: "/Content/Churches/Santo%20Sepolcro%20Pisa.md"
-      - title: "Pisan Romanesque painting and mosaic"
-        url: "/Content/Topics/Pisan%20Romanesque%20visual%20culture.md"
-      - title: "Byzantine influence in Italian medieval art"
-        url: "/Content/Topics/Byzantine%20influence%20medieval%20Italy.md"
-
-author: "Master of the Cross of the Holy Sepulcher (Anonymous)"
-role: "Anonymous Pisan painter, master of monumental painted crosses in late Romanesque tradition"
-birth_place: "Pisa (presumed)"
-death_place: "Unknown (not recorded in archives)"
-period: "XII century (later twelfth century)"
-
-key_works:
-  - "Croce dipinta (Painted Cross) from Santo Sepolcro, Pisa, c. 1150–1200, tempera and gold on panel, 282 × 236 cm, Museo Nazionale di San Matteo, Pisa"
-
-tradition: "Pisan late Romanesque and Byzantine-inflected panel painting synthesizing Eastern icon protocols with regional sculptural aesthetics and crusading devotional ideology"
-artistic_style: "Christus triumphans with Byzantine frontal solemnity, gold ground with chrysography, linear modeling and rhythmic drapery, narrative panels showing emergent Tuscan spatial awareness"
-
-thematic_keywords:
-  - "Christus triumphans and painted cross tradition"
-  - "Pisan maritime commerce and crusade networks"
-  - "Byzantine maniera greca as liturgical authority"
-  - "Romanesque ornament and Eastern visual hierarchy"
-  - "Anonymous workshop practice in medieval Pisa"
-  - "Holy Sepulcher devotion and pilgrimage theology"
-
-category: "artists"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
 ---
 
 The Master of the Cross of the Holy Sepulcher is a conventional name given by modern art history to an anonymous painter active in Pisa in the later twelfth century, identified solely through the large painted cross once in the church of Santo Sepolcro and now in the Museo Nazionale di San Matteo.  No documentary evidence transmits his personal name, family, date or place of birth, and the biographical data that can be inferred from stylistic analysis remain hypothetical and broad.  For this reason it is not possible, in responsible scholarly terms, to indicate his family background, marital status, social milieu, or precise training as if they were known facts, and any attempt to reconstruct such aspects in detail would be purely fictional and misleading.  The same constraints apply to his date and cause of death, which are completely absent from surviving sources and not recoverable from the works alone.  What can be described with some precision is the cultural and artistic environment of Pisa in the twelfth century, within which this painter worked, and the ways in which his surviving cross participates in Mediterranean exchanges between Byzantine, Romanesque, and emerging Tuscan visual languages.  In this sense, a “biography” of the Maestro must be understood as a history of his workshop’s activity and its visual culture rather than as a narrative of a documented individual life, since the archival silence is complete. 

@@ -2,33 +2,65 @@
 layout: entry
 title: "Godefroid de Claire (Godefroid de Huy)"
 subtitle: "Mosan Goldsmith and Enamellist"
-dates: "Active ca. 1140–1173"
+dates: "Active ca. 1130–1173"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Godefroid de Huy, Godefridus aurifaber"
+      - label: "Field"
+        value: "Mosan goldsmithing, champlevé enamel, reliquary and liturgical metalwork"
+      - label: "Attribution status"
+        value: "No surviving signed works; attributions based on stylistic analysis and documentary references"
+
   - title: "PERIOD"
     list:
       - "XII century"
-  
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1100 (Huy-sur-le-Meuse), died ca. 1173"
+      - label: "Activity window"
+        value: "ca. 1130–1173"
+
   - title: "ROLE"
     list:
       - "Goldsmith"
       - "Enamellist"
       - "Metalworker"
-  
+
   - title: "LOCATION"
     list:
       - "Huy, Prince-Bishopric of Liège (Mosan region)"
-  
+      - "Stavelot Abbey (principal workshop context)"
+
   - title: "KEY WORKS"
     list:
-      - "Reliquary of Pope Alexander"
-      - "Head Reliquary of Pope Alexander (Brussels)"
-      - "Shrine of Saint Remacle"
-  
+      - "Head Reliquary of Pope Alexander I, ca. 1145 (Musées Royaux, Brussels)"
+      - "Stavelot Triptych, ca. 1155–1160 (Morgan Library, New York)"
+      - "Reliquary of Saints Domitien and Mengold, 1173 (Huy)"
+      - "Foot of the cross for Abbot Suger (Saint-Omer, partial survival)"
+
+  - title: "PATRONAGE"
+    list:
+      - "Wibald, Abbot of Stavelot (principal patron, 1130–1158)"
+      - "Abbot Suger of Saint-Denis"
+      - "Cathedral chapter and collegiate churches of Liège and Huy"
+      - "Holy Roman imperial court (indirect patronage via Wibald)"
+
+  - title: "STYLE"
+    list:
+      - "Mosan Romanesque — consummate champlevé enamel technique"
+      - "Fluid, classicizing figural style with expressive faces and supple drapery"
+      - "Rich iconographic programmes combining typological Old and New Testament scenes"
+      - "Integration of enamel, precious stones, and repoussé metalwork in complex architectural compositions"
+
   - title: "RELATED ENTRIES"
     links:
-      - title: "Mosan art"
-        url: "/Content/Topics/Mosan%20art.html"
+      - title: "Roger di Helmarshausen"
+        url: "/Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html"
 ---
 
 

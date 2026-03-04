@@ -5,32 +5,56 @@ subtitle: "Romanesque Sculptor and Architect"
 dates: "Active ca. 1178–1233"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Benedictus Antelami, Maestro Antelami"
+      - label: "Field"
+        value: "Romanesque monumental sculpture and architecture"
+      - label: "Attribution status"
+        value: "Signed sculptor; principal works firmly attributed; workshop contributions debated"
+
   - title: "PERIOD"
     list:
       - "XII–XIII century"
-  
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1150 (Val d'Intelvi, Lombardy), died ca. 1230 (Parma, probable)"
+      - label: "Activity window"
+        value: "ca. 1178–1233"
+
   - title: "ROLE"
     list:
       - "Sculptor"
       - "Architect"
-  
+
   - title: "LOCATION"
     list:
       - "Parma, Emilia-Romagna"
-  
-  - title: "BIRTH & DEATH"
-    pairs:
-      - label: "Birth"
-        value: "Unknown, ca. 1150"
-      - label: "Death"
-        value: "Parma (?), ca. 1230"
-  
+      - "Val d'Intelvi, Lombardy (origin)"
+
   - title: "KEY WORKS"
     list:
-      - "Deposition from the Cross, Parma Cathedral"
-      - "Parma Baptistery (architecture and sculpture)"
-      - "Months cycle, Parma Baptistery"
-  
+      - "Deposition from the Cross, Parma Cathedral (1178)"
+      - "Parma Baptistery — architecture and sculptural programme (from 1196)"
+      - "Months and Seasons cycle, Parma Baptistery"
+      - "Portal reliefs, Fidenza Cathedral"
+
+  - title: "PATRONAGE"
+    list:
+      - "Cathedral chapter of Parma (Deposition relief, 1178)"
+      - "Bishop Bernardo of Parma (Baptistery project, from 1196)"
+      - "Municipality of Parma (civic and ecclesiastical commissions)"
+
+  - title: "STYLE"
+    list:
+      - "Transition from Romanesque to proto-Gothic"
+      - "Classical-influenced relief composition with narrative clarity"
+      - "Integration of monumental sculpture within architectural framing"
+      - "Expressive yet composed figural style; influence of French and Byzantine models"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Parma Cathedral"

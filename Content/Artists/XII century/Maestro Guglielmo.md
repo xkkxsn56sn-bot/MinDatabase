@@ -1,30 +1,66 @@
 ---
 layout: entry
 title: "Maestro Guglielmo"
-subtitle: "Pisan Sculptor"
-dates: "Active ca. 1159–1162"
+subtitle: "Tuscan Painter (Sarzana Crucifix)"
+dates: "Active ca. 1138"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Guillielmus, Guglielmo pittore"
+      - label: "Field"
+        value: "Italo-Byzantine panel painting; painted crucifix; manuscript illumination (attributed)"
+      - label: "Attribution status"
+        value: "Self-signed painter; attribution of manuscript miniatures (Passionary P+, Lucca) proposed on stylistic grounds. Not to be confused with Guglielmo the sculptor of the Pisa Cathedral pulpit (1159–1162)"
+
   - title: "PERIOD"
     list:
       - "XII century"
-  
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1100–1110 (Lucca region, conjectural), died after 1138 (not documented)"
+      - label: "Activity window"
+        value: "Documented 1138 (Sarzana Crucifix inscription)"
+
   - title: "ROLE"
     list:
-      - "Sculptor"
-  
+      - "Painter"
+      - "Illuminator (attributed)"
+      - "Latin poet (inscription author)"
+
   - title: "LOCATION"
     list:
-      - "Pisa, Tuscany"
-  
+      - "Lucca region, Tuscany (probable origin and workshop)"
+      - "Sarzana, Lunigiana (principal documented commission)"
+
   - title: "KEY WORKS"
     list:
-      - "Pulpit, Pisa Cathedral (1159–1162)"
-  
+      - "Sarzana Crucifix, 1138 — tempera on panel, signed and dated by inscription (Cathedral of Sarzana, La Spezia)"
+      - "Passionary P+, miniatures attributed — Capitular Library, Lucca"
+
+  - title: "PATRONAGE"
+    list:
+      - "Bishop or clerical chapter of the diocese of Luni-Sarzana (probable commissioner of the Sarzana Crucifix)"
+      - "Church of Sant'Andrea, Sarzana (probable original destination)"
+      - "Lucchese ecclesiastical institution (probable patron for attributed manuscript illuminations)"
+
+  - title: "STYLE"
+    list:
+      - "Italo-Byzantine Christus triumphans typology — open-eyed, frontal, impassive Christ"
+      - "Romanesque expressive tendencies: dramatic facial intensity, large wide-open eyes"
+      - "Narrative Passion scenes in lateral panels with emergent spatial awareness"
+      - "Integration of Latin verse inscriptions as part of visual programme"
+      - "Technically accomplished tempera on wood with canvas preparation and gold ground"
+
   - title: "RELATED ENTRIES"
     links:
-      - title: "Pisa Cathedral"
-        url: "/Content/Churches/Pisa%20Cathedral.html"
+      - title: "Maestro della Croce del Santo Sepolcro"
+        url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
+      - title: "Berlinghiero Berlinghieri"
+        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
 ---
 
 

@@ -5,26 +5,56 @@ subtitle: "Anonymous Pisan Painter"
 dates: "Active late XII century"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Master of Cross 432; Maestro della Croce Uffizi 432"
+      - label: "Field"
+        value: "Italo-Byzantine panel painting; large-format painted crucifix"
+      - label: "Attribution status"
+        value: "Anonymous master named after the sole firmly attributed work; no documentary identification"
+
   - title: "PERIOD"
     list:
-      - "XII century"
-  
+      - "XII–XIII century"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1150 (Pisa, conjectural), died after ca. 1200"
+      - label: "Activity window"
+        value: "ca. 1175–1200"
+
   - title: "ROLE"
     list:
       - "Painter"
-  
+
   - title: "LOCATION"
     list:
-      - "Pisa, Tuscany"
-  
+      - "Pisa, Tuscany (principal base)"
+      - "Florentine territory (documented destination of key work)"
+
   - title: "KEY WORKS"
     list:
-      - "Painted Crucifix No. 432 (Museo Nazionale di San Matteo, Pisa)"
-  
+      - "Painted Crucifix No. 432, late XII century (Uffizi Galleries, Florence — formerly Museo Nazionale di San Matteo, Pisa)"
+
+  - title: "PATRONAGE"
+    list:
+      - "Pisan ecclesiastical institutions (cathedral chapter or dependent houses)"
+      - "Possible Augustinian or Vallombrosan reforming communities in the Florentine countryside"
+      - "Lay confraternities devoted to the Holy Cross (Pisa)"
+
+  - title: "STYLE"
+    list:
+      - "Early Italo-Byzantine Tuscan panel painting — Christus triumphans typology"
+      - "Byzantine formal inheritance: chrysography, almond-shaped eyes, mandorla drapery"
+      - "Narrative Passion strip integrated below the main figure — didactic and confraternal function"
+      - "Technically accomplished five-panel wooden support; refined pigments including azurite and minium"
+
   - title: "RELATED ENTRIES"
     links:
-      - title: "Pisan painting"
-        url: "/Content/Topics/Pisan%20painting.html"
+      - title: "Berlinghiero Berlinghieri"
+        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
 ---
 
 
