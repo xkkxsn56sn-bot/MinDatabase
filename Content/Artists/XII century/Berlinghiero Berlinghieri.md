@@ -5,23 +5,54 @@ subtitle: "Lucchese Painter, Founder of the Berlinghieri School"
 dates: "Active ca. 1228–1236"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Berlingerius, Berlinghiero di Milanese"
+      - label: "Field"
+        value: "Italo-Byzantine panel painting"
+      - label: "Attribution status"
+        value: "Two signed works; further attributions based on stylistic analysis"
+
   - title: "PERIOD"
     list:
-      - "XIII century"
-  
+      - "XII–XIII century"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Estimated lifespan"
+        value: "Born ca. 1175 (Volterra), died ca. 1235–1236 (Lucca)"
+      - label: "Activity window"
+        value: "ca. 1210–1236 (documented 1228)"
+
   - title: "ROLE"
     list:
       - "Painter"
-  
+
   - title: "LOCATION"
     list:
-      - "Lucca, Tuscany"
-  
+      - "Lucca, Tuscany (principal base)"
+      - "Volterra, Tuscany (origin)"
+
   - title: "KEY WORKS"
     list:
-      - "Crucifix, Lucca"
+      - "Crucifix, Santa Maria degli Angeli, Lucca (signed)"
+      - "Crucifix, Fucecchio (signed)"
       - "Madonna and Child panels"
-  
+
+  - title: "PATRONAGE"
+    list:
+      - "Lucchese ecclesiastical institutions (cathedral chapter and monastic communities)"
+      - "Merchant and civic elites of Lucca"
+      - "Franciscan Order (emerging commissions for devotional images)"
+
+  - title: "STYLE"
+    list:
+      - "Italo-Byzantine synthesis — Byzantine formal conventions adapted to Tuscan sensibility"
+      - "Refined linear draftsmanship with controlled ornamental detail"
+      - "Gold-ground panel technique following Byzantine icon tradition"
+      - "Transitional figure style anticipating the narrative developments of the Dugento"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Barone Berlinghieri"

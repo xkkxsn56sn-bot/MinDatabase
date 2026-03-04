@@ -5,39 +5,71 @@ subtitle: "Abbess, Mystic, Composer, and Visionary"
 dates: "1098–1179"
 
 meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Name variants"
+        value: "Hildegardis Bingensis, Saint Hildegard"
+      - label: "Field"
+        value: "Visionary theology, musical composition, illuminated manuscript, natural philosophy"
+      - label: "Attribution status"
+        value: "Conceived and supervised the Scivias illuminations; individual miniatures produced by workshop nuns under her direction; canonised 2012, Doctor of the Church 2012"
+
   - title: "PERIOD"
     list:
       - "XII century"
-  
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Lifespan"
+        value: "Born 1098, Bermersheim vor der Höhe; died 17 September 1179, Rupertsberg Abbey"
+      - label: "Activity window"
+        value: "Magistra at Disibodenberg from ca. 1136; Abbess of Rupertsberg 1150–1179; Scivias ca. 1141–1151; Liber Divinorum Operum ca. 1163–1173"
+
   - title: "ROLE"
     list:
       - "Abbess of Rupertsberg"
-      - "Mystic"
+      - "Mystic and visionary"
       - "Composer"
-      - "Author"
-      - "Illuminator (attributed)"
-  
+      - "Author and theologian"
+      - "Natural philosopher"
+      - "Illuminator (workshop director, attributed)"
+
   - title: "LOCATION"
     list:
-      - "Bingen am Rhein, Germany"
-  
-  - title: "BIRTH & DEATH"
-    pairs:
-      - label: "Birth"
-        value: "Bermersheim vor der Höhe, 1098"
-      - label: "Death"
-        value: "Rupertsberg Abbey, 1179"
-  
+      - "Rupertsberg Abbey, Bingen am Rhein (founded 1150)"
+      - "Eibingen Abbey (founded 1165)"
+      - "Disibodenberg Monastery, Rhineland-Palatinate (formation and early career)"
+
   - title: "KEY WORKS"
     list:
-      - "Scivias (illuminated manuscript)"
-      - "Liber Divinorum Operum"
-      - "Ordo Virtutum (liturgical drama)"
-  
+      - "Scivias (Know the Ways), ca. 1141–1151 — illuminated visionary theology (Rupertsberg Codex, lost; Wiesbaden Codex copy)"
+      - "Liber Vitae Meritorum (Book of Life's Merits), ca. 1158–1163"
+      - "Liber Divinorum Operum (Book of Divine Works), ca. 1163–1173"
+      - "Symphonia armonie celestium revelationum — 77 liturgical songs"
+      - "Ordo Virtutum — earliest surviving morality play with music"
+      - "Physica and Causae et Curae — natural philosophy and medicine"
+
+  - title: "PATRONAGE"
+    list:
+      - "Self-directed: visionary and abbatial authority as creative framework"
+      - "Bernard of Clairvaux (endorsed her visions at the Synod of Trier, 1147–1148)"
+      - "Pope Eugenius III (approved the Scivias, 1148)"
+      - "Holy Roman Emperor Frederick Barbarossa (corresponded and supported Rupertsberg)"
+      - "Rhineland noble families (founding benefactors of Rupertsberg and Eibingen)"
+
+  - title: "STYLE"
+    list:
+      - "Rhenish Romanesque illumination — bold outline, flattened schematic figures"
+      - "Visionary imagery unprecedented in iconographic tradition: cosmic diagrams, allegorical personifications, apocalyptic visions"
+      - "Gold and lapis used symbolically to convey divine light"
+      - "Text and image inseparable: captions and explanations integral to visual programme"
+
   - title: "RELATED ENTRIES"
     links:
-      - title: "Rupertsberg Abbey"
-        url: "/Content/Churches/Rupertsberg%20Abbey.html"
+      - title: "Scivias of Hildegard of Bingen"
+        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+      - title: "Liber Divinorum Operum"
+        url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
       - title: "Herrade of Landsberg"
         url: "/Content/Artists/XII%20century/Herrade%20di%20Landsberg.html"
 ---
