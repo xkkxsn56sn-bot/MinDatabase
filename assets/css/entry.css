@@ -4,8 +4,8 @@
   --bg-panel:       #EFE3D1;
   --text-main:      #262626;
   --text-muted:     #4A4A4A;
-  --link:           #355C7D;
-  --link-hover:     #8C3B2A;
+  --link:           #722f37;
+  --link-hover:     #a68948;
   --border-subtle:  #D9CBB6;
 
   /* Dark (night) */
@@ -13,8 +13,8 @@
   --bg-panel-dark:       #1A1A1A;
   --text-main-dark:      #E6E0D4;
   --text-muted-dark:     #B5AFA0;
-  --link-dark:           #91B4D8;
-  --link-hover-dark:     #E0A25A;
+  --link-dark:           #c9a961;
+  --link-hover-dark:     #e8c87a;
   --border-subtle-dark:  #36332D;
 }
 
@@ -202,6 +202,23 @@ html[data-theme="dark"] .entry__meta {
   color: var(--text-muted-dark);
 }
 
+
+.entry__content a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: var(--link-hover);
+  text-underline-offset: 2px;
+}
+.entry__content a:hover {
+  color: var(--link-hover);
+}
+html[data-theme="dark"] .entry__content a {
+  color: var(--link-dark);
+  text-decoration-color: var(--link-hover-dark);
+}
+html[data-theme="dark"] .entry__content a:hover {
+  color: var(--link-hover-dark);
+}
 
 .entry__content figure {
   display: table;
