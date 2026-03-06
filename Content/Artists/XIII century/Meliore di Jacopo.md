@@ -1,3 +1,53 @@
+---
+layout: entry
+title: "Meliore di Jacopo"
+subtitle: "Florentine panel painter at the crossroads of Byzantine tradition and proto-naturalism"
+dates: "c. 1230/1240 – c. 1285"
+
+meta:
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+
+  - title: "ROLE"
+    list:
+      - "Florentine panel painter"
+      - "Italo-Byzantine tradition with proto-naturalistic inflections"
+
+  - title: "LOCATION"
+    list:
+      - "Florence, parish of San Jacopo tra le Fosse"
+      - "Active in the Chianti and Valdelsa regions"
+
+  - title: "BIRTH & DEATH"
+    pairs:
+      - label: "Birth"
+        value: "Florence, c. 1230–1240"
+      - label: "Death"
+        value: "Florence (probable), c. 1285"
+
+  - title: "KEY WORKS"
+    list:
+      - "Christ the Redeemer with the Virgin, Saints Peter, Paul, and John the Evangelist (signed, 1271), 85 × 209 cm, Galleria degli Uffizi, Florence"
+      - "Madonna and Child with Two Angels (1270–75), 118 × 58 cm, Museo di Arte Sacra, Certaldo"
+      - "Madonna and Child Enthroned between Saints Peter and Paul with Narrative Scenes (c. 1270), 94 × 154 cm, Pieve di San Leolino, Panzano in Chianti"
+      - "Madonna and Child Enthroned with Two Angels (late 1270s–c. 1280), Santo Stefano, Montefioralle, Greve in Chianti"
+      - "Sections of the Last Judgment Mosaic (attributed, c. 1260–1275), Battistero di San Giovanni, Florence"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.html"
+      - title: "Giotto di Bondone"
+        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+      - title: "Maestro del Bigallo"
+        url: "/Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+      - title: "Maestro della Croce 434"
+        url: "/Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html"
+---
+
 *Meliore di Jacopo* was one of the most significant panel painters active in Florence during the second half of the thirteenth century, standing at a pivotal crossroads between the prevailing Byzantine tradition and the emergent naturalism that would fully flower in the work of Cimabue and, subsequently, Giotto. He is among the very few Italian painters of the *Duecento* whose identity can be confirmed through both documentary evidence and signed works, making him an exceptionally valuable figure in the reconstruction of early Florentine painting.
 
 ## Family and Origins
