@@ -409,8 +409,6 @@ The Virgin's face, as described by the Mondi Medievali source, already carries t
 
 The panel was originally situated in the right transept of the church, where it remained until the second half of the twentieth century, flanked by two sixteenth-century canvases, a juxtaposition that encapsulates, in physical form, the historical depth of the Abbazia's decorative programme. The Mondi Medievali commentary notes that the work's attribution to the Maestro della Maddalena is supported by its stylistic affinity with the broader corpus, the characteristic drapery treatment, the distinctive physiognomic formula of the Madonna's face, and the compositional organisation of the throne, and confirms the workshop's contribution to the artistic culture of the Florentine hinterland beyond the city walls.
 
-**Frammento di Ultima Cena** (c. 1275–1285; Musée du Petit Palais, Avignon)
-
 <figure>
   <img src="/images/Maestro della Maddalena/image 7.jpg" alt="fragment of a Last Supper">
   <figcaption>Last Supper (fragment), 1250-75, tempera on panel, Musée du Petit Palais, Avignon.</figcaption>
