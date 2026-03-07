@@ -144,7 +144,7 @@ In the final phase of his life, as far as the sources indicate, Andrea remained 
 <figure>
   <img src="/images/Andrea Tafi/image 1.jpg" alt="The angelic ranks">
   <figcaption>The angelic ranks, c. 1250, mosaic, Baptistery of San Giovanni, Florence.</figcaption>
-</figure>v
+</figure>
 
 The most important works traditionally attributed to Andrea Tafi are concentrated in the mosaic decoration of the *Baptistery of San Giovanni* in Florence, where they still remain in situ. Chief among these is the ring of angelic hierarchies encircling the upper zone of the dome, a complex ensemble in which concentric bands of ornament and figuration articulate the celestial orders. The innermost zone consists of vegetal scrolls, fountains, and animals drinking, symbolising the harmony of creation and the life‑giving waters that flow from God. Around this, pairs of angels representing the nine choirs—Seraphim, Cherubim, Thrones, Dominions, Virtues, Powers, Principalities, Archangels, and Angels—are arrayed symmetrically, each identified by inscriptions and by their characteristic attributes. 
 
