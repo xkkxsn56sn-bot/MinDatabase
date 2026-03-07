@@ -143,8 +143,6 @@ The composition follows a well-established *Duecento* format: the central enthro
 
 Despite these conservative features, the panel already displays the chromatic sensibility and formal precision that would distinguish Meliore's mature work: the colours are intense and carefully balanced, the gold ground applied with evident skill, and the overall compositional organization confident and assured. The Pieve di San Leolino is a Romanesque basilica of considerable antiquity, and the presence of this early Meliore panel within its walls attests to the importance attributed to Florentine artistic production by the rural ecclesiastical communities of the Chianti.
 
-**Sections of the Last Judgment Mosaic (c. 1260–1275), Battistero di San Giovanni, Florence**
-
 <figure>
   <img src="/images/Meliore di Jacopo/image 4.jpg" alt="Sections of the Last Judgment Mosaic">
   <figcaption>Sections of the Last Judgment Mosaic, c. 1260-75, mosaic, Battistero di San Giovanni, Florence.</figcaption>
