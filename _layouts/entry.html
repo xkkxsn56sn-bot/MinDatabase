@@ -58,7 +58,8 @@
             {% if block.links %}
             <ul class="meta-block__list">
               {% for link in block.links %}
-              <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+              <li>{% if link.url %}<a href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title
+                }}{% endif %}</li>
               {% endfor %}
             </ul>
             {% endif %}
