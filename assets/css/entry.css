@@ -271,7 +271,7 @@ html[data-theme="dark"] .entry__content a:hover {
   }
 }
 
-/* Table of contents nav in sidebar */
+/* Table of contents nav in sidebar — mirrors .meta-block__list */
 .toc-nav {
   margin-bottom: 1.5rem;
   padding-bottom: 1.5rem;
@@ -284,17 +284,21 @@ html[data-theme="dark"] .toc-nav {
 .toc-nav__list {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding-left: 1.25rem;
+  font-size: 0.875rem;
+  color: var(--text-main);
+}
+html[data-theme="dark"] .toc-nav__list {
+  color: var(--text-main-dark);
 }
 
 .toc-nav__list li {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.5rem;
 }
 
 .toc-nav__list a {
   color: var(--link);
   text-decoration: none;
-  font-size: 0.875rem;
 }
 html[data-theme="dark"] .toc-nav__list a {
   color: var(--link-dark);
