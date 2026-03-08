@@ -145,7 +145,6 @@ role: "Interdisciplinary attribution study surveying the identification of the M
 period: "XIII–XIV century (works discussed); debate XIX–XXI century"
 ---
 
-# The Maestro di Santa Cecilia and Gaddo Gaddi: The Question of a Single Identity
 
 ## I. Historiographical Framework
 
