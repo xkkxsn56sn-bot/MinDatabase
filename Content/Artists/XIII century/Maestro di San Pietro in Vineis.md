@@ -106,7 +106,7 @@ The Romano-Campanian character of his painting style strongly suggests that he t
 
 The most important surviving work associated with the Maestro di San Pietro in Vineis is the cycle of frescoes depicting scenes from the *Passion of Christ* that adorns the interior of the small church of San Pietro in Vineis in Anagni, executed in all probability during the second quarter of the thirteenth century, within the broad chronological bracket of 1225–1255 indicated by the most authoritative scholarship. 
 
-The church, which belongs to the Clarissan community and is today incorporated into the former Convitto INPDAP building complex in Anagni, preserves these frescoes in a state of partial but still communicative preservation, including what is undoubtedly the masterpiece of the cycle: the celebrated *Deposizione nel Sepolcro* (Deposition in the Tomb), which has attracted sustained scholarly attention for the exceptional emotional power of its figural language. 
+The church, which belongs to the Clarissan community and is today incorporated into the former Convitto INPDAP building complex in Anagni, preserves these frescoes in a state of partial but still communicative preservation, including what is undoubtedly the masterpiece of the cycle: the celebrated *Deposizione nel Sepolcro* (Deposition in the Tomb), which has attracted sustained scholarly attention for the exceptional emotional power of its figural language.
 
 <figure>
   <img src="/images/Maestro di San Pietro in Vineis/image 1.jpg" alt="Deposition in the Tomb">
