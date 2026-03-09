@@ -277,7 +277,7 @@ The painted Crucifix in the State Hermitage Museum in Saint Petersburg is the on
 The figure of the crucified Christ is rendered in the *Christus patiens* mode, the dying, suffering Christ, that Giunta Pisano had introduced into Pisan and Italian painting in the 1230s and 1240s under the influence of the Franciscan theology of the Passion, replacing the older *Christus triumphans* of the Romanesque tradition. The *veste di Giovanni dolente*, the garment of the mourning John, visible on the lateral fields of the cross exhibits the luminous striped highlights that Bellosi identified as the Maestro's characteristic *strigilature luminose*, providing one of the key formal bridges between this signed work and the unsigned panels in Pisa. The physiognomic analogy between the suffering Christ of the Hermitage Crucifix and the sleeping Joachim in the *Madonna di San Martino*, specifically a distinctive incised marking that descends from the eye along the cheek in both figures, constituted for Bellosi the strongest visual argument in favour of the identification of the Maestro di San Martino with Ugolino di Tedice.
 
 <figure>
-  <img src="/images/Maestro di San Martino/image 1.jpg" alt="Cristo Benedicente">
+  <img src="/images/Maestro di San Martino/image 3.jpg" alt="Cristo Benedicente">
   <figcaption>Cristo Benedicente, tempera on panel, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
