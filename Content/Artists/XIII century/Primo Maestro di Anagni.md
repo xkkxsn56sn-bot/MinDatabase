@@ -141,7 +141,7 @@ The surviving body of work attributable to the Primo Maestro di Anagni is concen
 
 <figure>
   <img src="/images/Primo Maestro di Anagni/image 1.jpg" alt="The Translation of Saint Magnus">
-  <figcaption>The Translation of Saint Magnus, c. 1255, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
+  <figcaption>The Translation of Saint Magnus, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
 The central and dominant figure is Bishop Zaudria, prelate of Anagni, who presided over the solemn reception of the relics. He can be recognized by his double-spiked episcopal mitre, his cope richly decorated with concentric golden circles, and the crosier he holds in his left hand. His central position and larger size emphasize his liturgical and civil role. Immediately to his left are clerics with golden processional crosses and a thurifer with a censer, all engaged in the adventus ceremony.
@@ -151,3 +151,41 @@ The large procession behind the bishop includes clerics and lay people from Anag
 The group of women on the right is one of the most extraordinary and controversial iconographic elements of this fresco. They are likely to be the women of the Christian community of Anagni, probably nuns or devout matrons. They wear long dresses and have their heads covered, arranged in orderly rows with gestures of prayer and devotion.
 
 According to Romanesque art critics, this group represents one of the very first examples in medieval Italian painting in which women are depicted as a group, as a cohesive social entity, present at a public and civil-religious event: “in the history of Italian painting, this is perhaps the first case in which the fair sex, understood as a group, as an entity, as a social reality, is represented in the square, at a public event.” From an iconographic point of view, the women in the crypt of Anagni are also linked to the cult of local saints: Secondina (baptized by St. Magnus himself), and her companions Aurelia and Noemisia, whose relics were kept in the left apse of the same crypt. It cannot be ruled out that the painter intended them to represent the entire female community of Anagni welcoming its patron saint.
+
+<figure>
+  <img src="/images/Primo Maestro di Anagni/image 2.jpg" alt="Galen and Hippokrates">
+  <figcaption>Galen and Hippokrates, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
+</figure>
+
+The scene is set against a dark blue background, inside a semicircular lunette bordered by inscriptions in Roman capital letters. The two figures are seated opposite each other in a symmetrical, conversational position, identified by the inscriptions above their heads: GALIENUS on the left, IPEDAS on the right—the latter being a medieval corruption of the Greek Hippokrates.
+
+Galen (left) is depicted as an elderly man with a long white beard, wrapped in a heavy amber-brown cloak with a central clasp, and wearing a pointed headdress in the oriental tradition. He holds a tablet inscribed with both hands. Hippocrates (on the right) also appears bearded, wearing a blue and white striped robe reminiscent of scale armor, and a tall white turban-like headdress, typical of the iconography of the medieval physicus. He is seated on a gilded wooden chair with turned legs, and he too is holding a tablet. With his right hand, he points towards Galen in an oratorical, authoritatively didactic gesture.
+
+At the center of the composition stands a small twisted column (Solomon's column), an element that in medieval iconography often symbolizes the connection between profane and sacred knowledge. On the right-hand side, behind Hippocrates, there is a shelf with pharmaceutical vessels: amphorae, long-necked bottles, albarelli, and containers of various types, attributes of the medical profession and ancient pharmakeia.
+
+At the top, in the semicircle of the arch, there is a long Latin inscription, and in the lower band, another epigraphic band completes the textual program of the painting.
+
+The intellectual heart of the painting is contained in the tablets held by the two physicians. The texts, partially corrupted by pictorial degradation, together form a single proposition:
+
+*Mundi presentis series manet, ex his formantur quae sunt quaecumque chreantur* ("The series/order of the present world remains; from these [four elements] all things that exist and all that has been created are formed.")
+
+This statement is a physical-cosmological principle: the multiplicity of visible natural forms is composed of a material substratum (the four elements) and an efficient cause that produces it.
+
+
+The inscription that runs along the frame of the upper arch is:
+*Materies rerum sunt quatuor elementa... de quo plus et inest complexio dicitur huius: aetas, vultus, humor mutantur tempore cuius* (”The matter of things is [the composition of] four elements, the greater or lesser proportion of which in the [body] of each [determines]: age, appearance, and humors, which change with the passage of time.")
+
+This inscription directly expresses the theory of the four humors (blood, yellow bile, black bile, phlegm), the foundation of Hippocratic-Galenic medicine, applied to the cycle of human life.
+
+<figure>
+  <img src="/images/Primo Maestro di Anagni/image 3.jpg" alt="Vision of Christ in the Apocalypse">
+  <figcaption>Vision of Christ in the Apocalypse, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
+</figure>
+
+Christ is depicted inside a mandorla in the shape of a vesica piscis—the elongated ogival shape symbolizing divine light and the separation between the celestial and earthly worlds—set against a background of intense lapis lazuli blue, the most precious color in medieval painting, used here to evoke the celestial sky. The mandorla is framed by a double border, red-orange on the inside and green on the outside, which hierarchically marks the boundary between the sacred and the cosmic. Around it, on the same blue background, are symmetrically arranged seven golden candlesticks and angelic figures with golden halos, in precise correspondence with the text of the Apocalypse of John (Rev 1:12-16).
+
+Christ is seated on a rainbow—barely visible beneath his feet—symbolizing the New Covenant between God and humanity after the flood, a motif that also echoes Ezekiel's vision (Ezekiel 1:28). He wears a long red cassock (a priestly insignia) with a golden belt at chest height (a royal insignia), while his white hair and beard refer to divine eternity, according to John's description: “His hair was white like white wool, like snow” (Rev 1:14).
+
+A sharp double-edged sword emerges from Christ's mouth, one of the most characteristic iconographic attributes of the Apocalyptic Christ, symbolizing sharp and infallible divine judgment. In his left hand he holds two keys, a reference to the keys of death and the infernal abyss (Rev. 1:18), while in his right hand he holds the seven stars, symbol of the seven angels of the Seven Churches of Asia to whom John addresses his prophetic letters.
+
+The First Master of Anagni works in a language that combines the Byzantine tradition—visible in the hieratic frontality of the figure, the fixed gaze, and the rich colors—with a nascent sense of Romanesque volumetric solidity. The figures of the angels in the corners of the composition show dynamic poses with outstretched wings, in a movement that frames the scene and gives it dramatic tension. At the bottom, on either side of the rainbow, we can glimpse representations of stylized architectural cities, probably the Seven Churches of Asia, rendered with miniature towers and bell towers in red and ochre.
