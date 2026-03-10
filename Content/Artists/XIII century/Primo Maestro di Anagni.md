@@ -62,9 +62,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html"
       - title: "Terzo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.html"
       - title: "Maestro di San Pietro in Vineis"
         url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
 ---
