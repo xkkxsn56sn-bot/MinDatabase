@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "Maestro della Madonna di Perugia"
-subtitle: "Anonymous Umbrian panel painter of the early Trecento; master of the intimate devotional Madonna"
+subtitle: "Anonymous Umbrian panel painter; Marian devotional specialist"
 dates: "Active c. 1320–1345"
 
 meta:
