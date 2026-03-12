@@ -3,30 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<style>
-    .entry-list {
-        columns: 3;
-        -webkit-columns: 3;
-        column-gap: 2rem;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-    }
-
-    .entry-list li {
-        break-inside: avoid;
-        -webkit-column-break-inside: avoid;
-        padding: 0.2rem 0;
-    }
-
-    @media (max-width: 768px) {
-        .entry-list {
-            columns: 1;
-        }
-    }
-</style>
-
-
 <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -44,6 +20,8 @@
             --text-light: #5a4d3a;
         }
 
+        * { box-sizing: border-box; }
+
         body {
             font-family: 'Georgia', 'Times New Roman', serif;
             background: var(--parchment);
@@ -51,6 +29,12 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
         }
 
         header {
@@ -63,16 +47,29 @@
 
         nav {
             background: var(--dark-parchment);
-            padding: 0.5rem;
-            text-align: center;
+            padding: 0.6rem 1rem;
             border-bottom: 1px solid var(--gold);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.3rem 0.5rem;
         }
 
         nav a {
             color: var(--burgundy);
             text-decoration: none;
-            margin: 0 1rem;
             font-weight: bold;
+            padding: 0.5rem 0.8rem;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+            border-radius: 4px;
+            white-space: nowrap;
+        }
+
+        nav a:hover {
+            background: var(--gold);
+            color: var(--dark-burgundy);
         }
 
         main {
@@ -101,19 +98,23 @@
             margin-bottom: 2rem;
         }
 
-        ul {
+        .entry-list {
+            columns: 3;
+            -webkit-columns: 3;
+            column-gap: 2rem;
             list-style: none;
             padding: 0;
+            margin: 0;
         }
 
-        li {
-            padding: 0.8rem 0;
+        .entry-list li {
+            break-inside: avoid;
+            -webkit-column-break-inside: avoid;
+            padding: 0.5rem 0;
             border-bottom: 1px solid var(--dark-parchment);
         }
 
-        li:last-child {
-            border-bottom: none;
-        }
+        .entry-list li:last-child { border-bottom: none; }
 
         li::before {
             content: "✦ ";
@@ -132,13 +133,25 @@
         }
 
         .back-btn {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
             margin-top: 2rem;
-            padding: 0.5rem 1rem;
+            padding: 0.6rem 1.2rem;
+            min-height: 44px;
             background: var(--gold);
             color: var(--dark-burgundy);
             border-radius: 4px;
             font-weight: bold;
+            text-decoration: none;
+        }
+
+        /* ── MOBILE ── */
+        @media (max-width: 600px) {
+            header { padding: 1.2rem 1rem; }
+            h1 { font-size: 1.5rem; }
+            main { margin: 1.5rem auto; padding: 0 1rem; }
+            .entry-list { columns: 1; }
+            .section-card { padding: 1rem; }
         }
     </style>
 </head>
@@ -161,11 +174,9 @@
                 <li><a href="Content/Churches/Autun%20Cathedral.html">Autun Cathedral</a></li>
                 <li><a href="Content/Churches/Fulda%20Abbey.html">Fulda Abbey</a></li>
                 <li><a href="Content/Churches/Helmarshausen%20Abbey.html">Helmarshausen Abbey</a></li>
-                <li><a href="Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html">Oratory of San
-                        Pellegrino in Bominaco</a></li>
+                <li><a href="Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html">Oratory of San Pellegrino in Bominaco</a></li>
                 <li><a href="Content/Churches/Pieve%20di%20San%20Leolino.html">Pieve di San Leolino</a></li>
-                <li><a href="Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html">Saint Savin
-                        sur Gartempe Abbey</a></li>
+                <li><a href="Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html">Saint Savin sur Gartempe Abbey</a></li>
                 <li><a href="Content/Churches/Santa%20Maria%20foris%20portas.html">Santa Maria foris portas</a></li>
             </ul>
         </div>
