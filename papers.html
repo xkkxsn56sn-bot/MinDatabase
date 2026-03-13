@@ -20,7 +20,9 @@
             --text-light: #5a4d3a;
         }
 
-        * { box-sizing: border-box; }
+        * {
+            box-sizing: border-box;
+        }
 
         body {
             font-family: 'Georgia', 'Times New Roman', serif;
@@ -73,7 +75,7 @@
         }
 
         main {
-            max-width: 1000px;
+            max-width: 1320px;
             margin: 2rem auto;
             padding: 0 2rem;
         }
@@ -114,7 +116,9 @@
             border-bottom: 1px solid var(--dark-parchment);
         }
 
-        .entry-list li:last-child { border-bottom: none; }
+        .entry-list li:last-child {
+            border-bottom: none;
+        }
 
         li::before {
             content: "✦ ";
@@ -147,11 +151,26 @@
 
         /* ── MOBILE ── */
         @media (max-width: 600px) {
-            header { padding: 1.2rem 1rem; }
-            h1 { font-size: 1.5rem; }
-            main { margin: 1.5rem auto; padding: 0 1rem; }
-            .entry-list { columns: 1; }
-            .section-card { padding: 1rem; }
+            header {
+                padding: 1.2rem 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            main {
+                margin: 1.5rem auto;
+                padding: 0 1rem;
+            }
+
+            .entry-list {
+                columns: 1;
+            }
+
+            .section-card {
+                padding: 1rem;
+            }
         }
     </style>
 </head>
@@ -171,12 +190,18 @@
         <div class="section-card">
             <h2>Art Historical Analyses & Interdisciplinary Research</h2>
             <ul class="entry-list">
-                <li><a href="Content/Papirer/Columba%20and%20Columban%20Monasteries.html">Columba and the Columban Monasteries</a></li>
-                <li><a href="Content/Papirer/Giunta%20Pisano%20San%20Domenico%20Crucifix.html">Giunta Pisano: San Domenico Crucifix</a></li>
-                <li><a href="Content/Papirer/Master%20of%20Soriguerola-Saint%20Christopher%20Altarpiece.html">Master of Soriguerola: Saint Christopher Altarpiece</a></li>
-                <li><a href="Content/Papirer/Master%20of%20Soriguerola-Saint%20Michael%20Altarpiece.html">Master of Soriguerola: Saint Michael Altarpiece</a></li>
-                <li><a href="Content/Papirer/The%20Maestro%20di%20Santa%20Cecilia%20and%20Gaddo%20Gaddi.html">The Maestro di Santa Cecilia and Gaddo Gaddi</a></li>
-                <li><a href="Content/Papirer/Scivias-Interdisciplinary%20Examination.html">Scivias: Interdisciplinary Examination</a></li>
+                <li><a href="Content/Papirer/Columba%20and%20Columban%20Monasteries.html">Columba and the Columban
+                        Monasteries</a></li>
+                <li><a href="Content/Papirer/Giunta%20Pisano%20San%20Domenico%20Crucifix.html">Giunta Pisano: San
+                        Domenico Crucifix</a></li>
+                <li><a href="Content/Papirer/Master%20of%20Soriguerola-Saint%20Christopher%20Altarpiece.html">Master of
+                        Soriguerola: Saint Christopher Altarpiece</a></li>
+                <li><a href="Content/Papirer/Master%20of%20Soriguerola-Saint%20Michael%20Altarpiece.html">Master of
+                        Soriguerola: Saint Michael Altarpiece</a></li>
+                <li><a href="Content/Papirer/The%20Maestro%20di%20Santa%20Cecilia%20and%20Gaddo%20Gaddi.html">The
+                        Maestro di Santa Cecilia and Gaddo Gaddi</a></li>
+                <li><a href="Content/Papirer/Scivias-Interdisciplinary%20Examination.html">Scivias: Interdisciplinary
+                        Examination</a></li>
             </ul>
         </div>
 
