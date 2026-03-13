@@ -20,7 +20,9 @@
             --text-light: #5a4d3a;
         }
 
-        * { box-sizing: border-box; }
+        * {
+            box-sizing: border-box;
+        }
 
         body {
             font-family: 'Georgia', 'Times New Roman', serif;
@@ -114,7 +116,9 @@
             border-bottom: 1px solid var(--dark-parchment);
         }
 
-        .entry-list li:last-child { border-bottom: none; }
+        .entry-list li:last-child {
+            border-bottom: none;
+        }
 
         li::before {
             content: "✦ ";
@@ -146,12 +150,33 @@
         }
 
         /* ── MOBILE ── */
+        @media (max-width: 900px) {
+            .entry-list {
+                columns: 2;
+            }
+        }
+
         @media (max-width: 600px) {
-            header { padding: 1.2rem 1rem; }
-            h1 { font-size: 1.5rem; }
-            main { margin: 1.5rem auto; padding: 0 1rem; }
-            .entry-list { columns: 1; }
-            .section-card { padding: 1rem; }
+            header {
+                padding: 1.2rem 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            main {
+                margin: 1.5rem auto;
+                padding: 0 1rem;
+            }
+
+            .entry-list {
+                columns: 1;
+            }
+
+            .section-card {
+                padding: 1rem;
+            }
         }
     </style>
 </head>
@@ -175,14 +200,16 @@
                 <li><a href="Content/Codex/Book%20of%20Kells.html">Book of Kells</a></li>
                 <li><a href="Content/Codex/Codex%20Aureus%20of%20Echternach.html">Codex Aureus of Echternach</a></li>
                 <li><a href="Content/Codex/Codex%20Aureus%20of%20Lorsch.html">Codex Aureus of Lorsch</a></li>
-                <li><a href="Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html">Codex Aureus of Saint Emmeram</a></li>
+                <li><a href="Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html">Codex Aureus of Saint Emmeram</a>
+                </li>
                 <li><a href="Content/Codex/Codex%20Vergilius%20Romanus.html">Codex Vergilius Romanus</a></li>
                 <li><a href="Content/Codex/Godescalc%20Evangelistary.html">Godescalc Evangelistary</a></li>
                 <li><a href="Content/Codex/Liber%20Divinorum%20Operum.html">Liber Divinorum Operum</a></li>
                 <li><a href="Content/Codex/Lichfield%20Gospels.html">Lichfield Gospels</a></li>
                 <li><a href="Content/Codex/Lindisfarne%20Gospels.html">Lindisfarne Gospels</a></li>
                 <li><a href="Content/Codex/Morgan%20Beatus.html">Morgan Beatus</a></li>
-                <li><a href="Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html">Scivias of Hildegard of Bingen</a></li>
+                <li><a href="Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html">Scivias of Hildegard of
+                        Bingen</a></li>
             </ul>
         </div>
 
