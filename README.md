@@ -1,6 +1,6 @@
 # MinDatabase
 
-"I saw the angel in the marble and carved until I set him free." (Michelangelo)
+"I saw the angel in the marble and carved until I set him free." (Michelangelo Buonarrori)
 
 ## Repository Structure
 
