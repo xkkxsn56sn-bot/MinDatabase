@@ -70,15 +70,15 @@ html[data-theme="dark"] body {
     gap: 1.5rem;
   }
 
-  /* Move sidebar below content on mobile so readers see the text first */
+  /* Sidebar (front matter) appears first on mobile */
   .entry__sidebar {
-    order: 2;
+    order: 1;
     position: static;
     max-height: none;
   }
 
   .entry__content {
-    order: 1;
+    order: 2;
   }
 
   .entry__theme-toggle {
