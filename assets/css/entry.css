@@ -103,13 +103,18 @@ html[data-theme="dark"] body {
 
 /* Sidebar styling */
 .entry__sidebar {
-  position: sticky;
-  top: 2rem;
   background: var(--bg-panel);            /* was #c1d4e7 */
   border: 1px solid var(--border-subtle); /* was #dee2e6 */
   border-radius: 8px;
-  max-height: calc(100vh - 4rem);
   overflow-y: auto;
+}
+
+@media (min-width: 769px) {
+  .entry__sidebar {
+    position: sticky;
+    top: 2rem;
+    max-height: calc(100vh - 4rem);
+  }
 }
 
 html[data-theme="dark"] .entry__sidebar {
