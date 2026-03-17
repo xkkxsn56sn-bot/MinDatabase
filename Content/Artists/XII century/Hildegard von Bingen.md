@@ -70,8 +70,6 @@ meta:
         url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
       - title: "Liber Divinorum Operum"
         url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
-      - title: "Herrade of Landsberg"
-        url: "/Content/Artists/XII%20century/Herrade%20di%20Landsberg.html"
 ---
 
 
