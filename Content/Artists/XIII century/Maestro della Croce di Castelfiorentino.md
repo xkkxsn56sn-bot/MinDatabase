@@ -84,13 +84,6 @@ The strongest conclusion about the artist’s family is thus negative but histor
 The patronage of the master was overwhelmingly ecclesiastical. His secure and probable works are tied to churches, pieve structures, and religious communities rather than to princely courts. This pattern accords with the normal uses of painted crucifixes and devotional panels in mid-thirteenth-century Tuscany. Such works served liturgy, prayer, preaching, and local cult. Their patrons were often institutions rather than individually named donors. The surviving catalog records for this painter confirm precisely that situation. We can usually identify the church for which a panel was made more confidently than the person who financed it. Even so, institutional provenance is not a minor detail, because it explains why specific saints appear beside Christ or the Virgin. It also clarifies the regional concentration of the corpus between Pisa and Volterra. The master’s patrons emerge, therefore, as communities of worship embedded in local topography and cult. 
 
 <figure>
-  <img src="/images/Maestro della Croce di Castelfiorentino/image 1.jpg" alt="">
-  <figcaption>.</figcaption>
-</figure>
-
-The fragmentary crucifix formerly in the church of Santa Chiara at Castelfiorentino offers the clearest example of institutional patronage. The work is cataloged as a painted cross with the subject of Christ crucified. It is now preserved in the Museo Diocesano di Arte Sacra in Volterra. Its original location in Santa Chiara indicates commission for a religious house rather than a private palace. The available records do not name the donor or abbess responsible for the commission. Nevertheless, the original setting implies an image meant for sustained devotional use within a sacred interior. A crucifix of this kind would have structured the beholder’s meditation on the Passion. It would also have marked the institutional identity of the church that possessed it. The later transfer to Volterra underscores the continuing diocesan value of the object. In patronal terms, Santa Chiara itself must be treated as the primary historical client. 
-
-<figure>
   <img src="/images/Maestro della Croce di Castelfiorentino/image 4.jpg" alt="Madonna col Bambino fra i ss. Martino e Giovanni Evangelista">
   <figcaption>Madonna col Bambino fra i ss. Martino e Giovanni Evangelista (Madonna del Latte), tempera and gold leaf on panel, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
