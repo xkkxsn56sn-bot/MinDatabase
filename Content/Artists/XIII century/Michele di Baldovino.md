@@ -201,7 +201,7 @@ The cult of Saint Nicholas was particularly strong in Pisa and its dependent ter
 
 The attribution of this work to Michele or his immediate circle has been a matter of scholarly discussion, with some researchers proposing a close workshop associate rather than the master himself as the principal executant, though the formal language is sufficiently consistent with the documented works to sustain the attribution within the broader context of Michele's oeuvre. The current location of this work places it within the heritage of the Valdera area in the province of Pisa, preserved as an example of the Duecento panel painting tradition that flourished in the Pisan contado under the patronage of local ecclesiastical institutions.
 
-figure>
+<figure>
   <img src="/images/Michele di Baldovino/image 5.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, c. 1250-74, tempera on panel, church of dSanti Ippolito e Cassiano, Riglione, Pisa.</figcaption>
 </figure>
