@@ -27,8 +27,8 @@ A SwiftUI app for iPhone and iPad that lets you browse and read the complete Min
    - **Interface:** SwiftUI
    - **Language:** Swift
 4. Set **Minimum Deployments** to **iOS 16.0**
-5. Save the project to any convenient location on your Mac (e.g. your Desktop or Documents).  
-   ⚠️ Do **not** save inside the cloned `ios-app/` folder — Xcode would try to create a `MinDatabaseApp/` subfolder there, but that directory already exists.
+
+5. Save the project in this repository's `ios-app/` folder (or any location)
 
 ### 2. Add the source files
 

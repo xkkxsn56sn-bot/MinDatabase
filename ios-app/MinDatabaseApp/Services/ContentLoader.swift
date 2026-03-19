@@ -2,6 +2,7 @@ import SwiftUI
 import Foundation
 import Combine
 
+
 /// Loads and parses all Markdown content from the app bundle.
 ///
 /// Call `load()` once on app launch. Results are published on the main thread.
@@ -20,6 +21,7 @@ class ContentLoader: ObservableObject {
 
     var sortedCenturies: [String] {
         artistsByCentury.keys.sorted { ContentLoader.centuryOrder($0) < ContentLoader.centuryOrder($1) }
+
     }
 
     // MARK: - Loading
@@ -44,11 +46,10 @@ class ContentLoader: ObservableObject {
     private func loadEntries(subpath: String, category: EntryCategory) -> [Entry] {
         guard let bundleURL = Bundle.main.resourceURL else { return [] }
         let folderURL = bundleURL.appendingPathComponent(subpath)
+<] \(exists ? "✅" : "❌") \(subpath) | root: \((try? FileManager.default.contentsOfDirectory(atPath: bundleURL.path))?.sorted() ?? [])")
 
-        // Optional: log existence and root contents for debugging
-        let exists = FileManager.default.fileExists(atPath: folderURL.path)
-        print("[ContentLoader] \(exists ? "✅" : "❌") \(subpath) | root: \((try? FileManager.default.contentsOfDirectory(atPath: bundleURL.path))?.sorted() ?? [])")
-
+=======
+>>>>>>> 60a49ab (pull origin main)
         return scanDirectory(folderURL, category: category, inheritedCentury: nil)
     }
 
@@ -175,4 +176,3 @@ class ContentLoader: ObservableObject {
         }
     }
 }
-
