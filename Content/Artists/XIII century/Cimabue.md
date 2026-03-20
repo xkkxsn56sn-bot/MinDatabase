@@ -267,7 +267,7 @@ This small *Maestà*, rare for Cimabue (known for large altarpieces such as thos
 
 <figure>
   <img src="/images/Cimabue/image 6.jpg" alt="The Mocking of Christ">
-  <figcaption>.</figcaption>The Mocking of Christ, 1280-85, tempera and gold on poplar panel, 25,6 x 20,3 x 1,2 cm, Louvre Museum, Paris.
+  <figcaption>The Mocking of Christ, 1280-85, tempera and gold on poplar panel, 25,6 x 20,3 x 1,2 cm, Louvre Museum, Paris.</figcaption>
 </figure>
 
 Christ stands at the center of the scene, wrapped in a red robe and a blue cloak, his eyes uncovered in the Byzantine style—unlike contemporary Northern European depictions, which show him seated and blindfolded—conveying an expression of serene and passive suffering. Around him, a compact group of tormentors in colorful robes and armor crowds together in a whirlwind of intertwined gestures: one strikes him with a long cane from the left, another is poised to slap him, pulling his arm back, while anonymous hands pull at his shoulder, cross his chest, and feign tearing off his halo. Two sheathed swords, symmetrically positioned on the left and right, serve as compositional elements that guide the gaze toward Christ’s sorrowful face, accentuating the dynamic chaos of the group through tangled chains of limbs that invite the viewer to decipher roles and actions.
@@ -282,7 +282,7 @@ Here, Cimabue excels at condensing a choral crowd into a tiny format, with dense
 
 <figure>
   <img src="/images/Cimabue/image 7.jpg" alt="The Flagellation of Christ">
-  <figcaption>.</figcaption>The Flagellation of Christ, 1280-85, tempera and gold on poplar panel, 24,7 x 20 cm, The Frick Collection, New York.
+  <figcaption>The Flagellation of Christ, 1280-85, tempera and gold on poplar panel, 24,7 x 20 cm, The Frick Collection, New York.</figcaption>
 </figure>
 
 The scene is small in scale and highly symmetrical: at the center stands a marble column that runs vertically across the entire panel, dividing the image into two mirror-image halves. Behind this column rise two tall urban buildings on either side and, lower down, a shorter structure, which function as a sort of architectural “backdrop” framing the flagellation. The space is constructed with a reverse perspective typical of Byzantine iconography, yet already showing an attention to a certain three-dimensionality, with volumes and shading that depart from purely frontal models.
