@@ -422,8 +422,6 @@ The work is part of the complete cycle of the Last Judgment, commissioned by the
 Coppo was among the few medieval artists named in documents, celebrated for panel paintings such as the Maestà of Siena and for this mosaic masterpiece that marks the transition from linear Gothic to pre-Giottesque naturalism.
 Coppo’s Inferno is not mere spectacle: each torture corresponds to a deadly sin—lust, gluttony, wrath—symbolized by specific poses and attributes (for example, snakes strangling the avaricious), creating a moral encyclopedia for the faithful. The central figure of Satan, with three faces or multiple jaws in some interpretations, evokes an inverted Trinity, opposed to the overarching Christ the Judge, and the compositional chaos contrasts with the opposing paradisiacal order, teaching the duality of the afterlife. 
 
-## The Saint Francis Altarpiece and Franciscan Hagiography
-
 <figure>
   <img src="/images/Coppo/image 8.jpg" alt="The Saint Francis Altarpiece">
   <figcaption>The Saint Francis Altarpiece with twenty scenes from his life, 1245-50, tempera and gold on panel, 230 x 123 cm, Basilica di Santa Croce, Cappella Bardi, Florence.</figcaption>
