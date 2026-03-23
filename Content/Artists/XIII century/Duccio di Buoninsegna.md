@@ -65,12 +65,6 @@ meta:
       - Siena — birthplace, lifelong base, Stalloreggi district workshop
       - Florence — Rucellai Madonna commission, c. 1285
 
-  - title: Further Reading
-    links:
-      - title: Duccio di Buoninsegna — Web Gallery of Art
-        url: https://www.wga.hu/bio/d/duccio/biograph.html
-      - title: Maestà — Museo dell'Opera del Duomo, Siena
-        url: https://operaduomo.siena.it/en/museo/le-collezioni/maesta-di-duccio/
 ---
 
 ## Early Life and Family
