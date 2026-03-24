@@ -1,3 +1,97 @@
+---
+layout: entry
+title: "Gaddo Gaddi"
+subtitle: "Florentine mosaicist and painter; founder of the Gaddi artistic dynasty"
+dates: "c. 1260, Florence – c. 1312–c. 1333, Florence"
+meta:
+  - title: "Biographical data"
+    pairs:
+      - label: "Born"
+        value: "c. 1260, Florence"
+      - label: "Died"
+        value: "c. 1312–c. 1333, Florence"
+      - label: "Burial"
+        value: "Santa Croce, Florence"
+      - label: "Father"
+        value: "Zenobi (Zenobi di Gaddo)"
+      - label: "Son"
+        value: "Taddeo Gaddi (painter, c. 1290–1366)"
+      - label: "Grandson"
+        value: "Agnolo Gaddi (painter, c. 1350–1396)"
+
+  - title: "Artistic profile"
+    pairs:
+      - label: "Activity"
+        value: "Mosaicist and painter"
+      - label: "Active period"
+        value: "c. 1280–c. 1330 (Late Duecento – early Trecento)"
+      - label: "Century"
+        value: "XIII"
+      - label: "Medium"
+        value: "Glass mosaic (polychrome tesserae; gold- and silver-leaf grounds); tempera on panel; miniature mosaic (egg-shell tesserae)"
+      - label: "Style"
+        value: 'Italo-Byzantine ("Greek manner"), with progressive softening toward Giottesque naturalism'
+      - label: "Guild"
+        value: "Arte dei Medici e Speziali, Florence (presumed)"
+
+  - title: "Training and influences"
+    list:
+      - 'Formed in the Florentine Italo-Byzantine tradition ("Maniera Greca")'
+      - "Collaboration with Andrea Tafi on the Battistero di San Giovanni mosaic program, Florence; subsequently autonomous execution of the Prophets in the spaces beneath the windows"
+      - "Close artistic friendship and sustained exchange on formal problems with Cimabue"
+      - "Direct study of Jacopo Torriti's monumental apse mosaics (Santa Maria Maggiore; San Giovanni in Laterano), Rome"
+      - "Exposure to the dense stratigraphy of late antique and early Christian basilica mosaics, Rome"
+      - "Possible sojourn at Assisi (conjectured); contact with the Upper Church fresco program"
+
+  - title: "Patronage"
+    list:
+      - "Opera del Duomo, Florence — Coronation of the Virgin, inner portal lunette of Santa Maria del Fiore, c. 1296–1310"
+      - "Pope Clement V — restoration and completion of mosaics left unfinished by Jacopo Torriti, San Giovanni in Laterano, Rome, c. 1308"
+      - "Pope Clement V — apse and façade mosaics (God the Father and celestial court), Old Saint Peter's, Rome, c. 1308"
+      - "Chapter of Santa Maria Maggiore, Rome — loggia narrative cycle illustrating the foundation legend (dreams of Pope Liberius and John the Patrician; August snowfall on the Esquiline Hill)"
+      - "Tarlati family, lords of Pietramala — mosaic vault of the old cathedral outside the city walls, Arezzo (destroyed)"
+      - "Cathedral fabric, Pisa — Assumption of the Virgin (Virgin ascending toward a prepared throne of Christ), Cappella dell'Incoronata, Cattedrale di Pisa"
+      - "Minerbetti family — panel altarpiece, tramezzo chapel, Santa Maria Novella, Florence (lost)"
+      - "King Robert of Anjou, Naples — two miniature egg-shell mosaic panels (diplomatic gift; lost)"
+
+  - title: "Major works"
+    list:
+      - "Coronation of the Virgin among Angels and the Symbols of the Evangelists, c. 1296–1310 — mosaic, counter-façade lunette, Cattedrale di Santa Maria del Fiore, Florence"
+      - "Prophets (spaces beneath the windows), c. 1280s–1290s — mosaic, Battistero di San Giovanni (with Andrea Tafi), Florence"
+      - "Foundation legend of Santa Maria Maggiore (dreams of Pope Liberius and John the Patrician; August snowfall) — mosaic, loggia, Basilica di Santa Maria Maggiore, Rome"
+      - "Assumption of the Virgin — mosaic, Cappella dell'Incoronata, Cattedrale di Pisa"
+      - "Madonna — mosaic, San Miniato al Monte, Florence (attributed)"
+      - "God the Father and celestial court — façade mosaic, Old Saint Peter's, Rome (lost; c. 1308)"
+      - "Completion of mosaic program (begun by Jacopo Torriti) — San Giovanni in Laterano, Rome (lost; c. 1308)"
+      - "Mosaic vault decoration — old cathedral of Arezzo (destroyed; executed for the Tarlati family)"
+      - "Panel altarpiece — Minerbetti chapel, Santa Maria Novella, Florence (lost)"
+      - "Two miniature mosaic panels (egg-shell tesserae) — sent to King Robert of Anjou, Naples (lost)"
+
+  - title: "Debated and conjectural attributions"
+    list:
+      - "Maestro della Maddalena — formerly proposed; now generally rejected"
+      - "Maestro della Santa Cecilia — formerly proposed"
+      - "Maestro di Isacco — proposed attribution"
+      - "Maestro del Trittico Horne — more recently and more plausibly proposed"
+      - "Certain scenes in the St Francis narrative cycle, Upper Church, Assisi — conjectured on stylistic grounds"
+
+  - title: "Related entries"
+    links:
+      - title: "Cimabue"
+      - title: "Coppo di Marcovaldo"
+      - title: "Andrea Tafi"
+      - title: "Jacopo Torriti"
+      - title: "Taddeo Gaddi"
+      - title: "Giotto di Bondone"
+
+  - title: "Primary sources"
+    list:
+      - "Giorgio Vasari, Le Vite de' più eccellenti pittori, scultori e architettori, 1st ed. Florence 1550; 2nd ed. Florence 1568"
+      - "J.A. Crowe and G.B. Cavalcaselle, A History of Painting in Italy, London 1864 and later editions"
+      - 'Encyclopaedia Britannica, 11th ed., Cambridge 1911, s.v. "Gaddi"'
+      - "Catholic Answers Encyclopedia, s.v. \"Gaddo Gaddi\""
+---
+
 ## Family and workshop
 
 *Gaddo di Zenobi*, known in the literary tradition as *Gaddo Gaddi*, was born around the year 1260 in Florence, into a milieu of artisans and small property‑holders that would, within two generations, ascend into the city’s patriciate. His family name, already attested in civic records, suggests a lineage rooted in the urban fabric of late Duecento Florence rather than in the rural nobility, and this background conditioned both his social mobility and his artistic trajectory. Sources agree that he was trained as a painter and, more distinctively, as a mosaicist, a specialization that placed him at the intersection of craft, liturgy, and civic display. 
