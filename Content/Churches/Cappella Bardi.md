@@ -231,7 +231,7 @@ From a social perspective, the figure of Jerome, the physician, holds particular
 
 Furthermore, the presence of laypeople on either side, participating in the funeral, indicates that the saint’s death is a collective event, akin to the death of a distinguished citizen, and not merely that of a reclusive monk, suggesting that holiness finds its full resonance when integrated into the daily life of the city, and that civic wealth, if well employed, can serve the same cause. In this way, the Funeral of Saint Francis, with the physician Girolamo searching for the stigmata becomes, for the Bardi, a representation of a gentle apocalypse, in which death is not an epiphany of chaos, but a revelation of order, a transformation of flesh and money into spirituality, of earthly memory into heavenly memory, and of a dynastic identity into a sanctified identity, like that of Francis, whose body becomes, forever, the visible proof of grace.
  
- ### On the right wall: 
+### On the right wall: 
 
 <figure>
   <img src="/images/Cappella Bardi/image 2.jpg" alt="Bardi Chapel - The Confirmation of the Rule">
