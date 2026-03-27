@@ -268,6 +268,20 @@ html[data-theme="dark"] .meta-block__list a:hover {
 .entry__title {
   font-weight: 700;
 }
+
+.entry__subtitle {
+  font-style: italic;
+  margin: 0.25rem 0 0;
+}
+
+.entry__subtitle::before {
+  content: "(";
+}
+
+.entry__subtitle::after {
+  content: ")";
+}
+
 .entry__meta {
   font-size: 0.875rem;
   color: var(--text-muted);  /* was #6c757d */
