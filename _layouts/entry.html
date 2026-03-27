@@ -90,7 +90,7 @@
       var tocNav = document.getElementById('toc-nav');
       if (!content || !tocList || !tocNav) return;
 
-      var headings = content.querySelectorAll('h2');
+      var headings = content.querySelectorAll('h2, h3');
       if (headings.length === 0) {
         tocNav.style.display = 'none';
         return;
@@ -104,6 +104,9 @@
             .replace(/\s+/g, '-');
         }
         var li = document.createElement('li');
+        if (h.tagName === 'H3') {
+          li.classList.add('toc-nav__item--sub');
+        }
         var a = document.createElement('a');
         a.href = '#' + h.id;
         a.textContent = h.textContent;

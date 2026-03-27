@@ -352,6 +352,11 @@ html[data-theme="dark"] .toc-nav__list {
   margin-bottom: 0.5rem;
 }
 
+.toc-nav__list li.toc-nav__item--sub {
+  padding-left: 1rem;
+  font-size: 0.8125rem;
+}
+
 .toc-nav__list a {
   color: var(--link);
   text-decoration: none;
