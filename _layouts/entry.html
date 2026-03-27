@@ -93,11 +93,12 @@
       var content = document.querySelector('.entry__content');
       var tocList = document.getElementById('toc-list');
       var tocNav = document.getElementById('toc-nav');
+      var tocSidebar = document.querySelector('.entry__toc-sidebar');
       if (!content || !tocList || !tocNav) return;
 
       var headings = content.querySelectorAll('h2, h3');
       if (headings.length === 0) {
-        tocNav.style.display = 'none';
+        if (tocSidebar) tocSidebar.classList.add('entry__toc-sidebar--hidden');
         return;
       }
 
