@@ -269,9 +269,13 @@ html[data-theme="dark"] .meta-block__list a:hover {
   font-weight: 700;
 }
 
+.entry__meta-line {
+  margin: 0.25rem 0 0;
+  text-align: center;
+}
+
 .entry__subtitle {
   font-style: italic;
-  margin: 0.25rem 0 0;
 }
 
 .entry__subtitle::before {
@@ -280,6 +284,15 @@ html[data-theme="dark"] .meta-block__list a:hover {
 
 .entry__subtitle::after {
   content: ")";
+}
+
+.entry__dates {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+html[data-theme="dark"] .entry__dates {
+  color: var(--text-muted-dark);
 }
 
 .entry__meta {

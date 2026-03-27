@@ -21,10 +21,10 @@
       </button>
 
       {% if page.subtitle or page.dates %}
-      <p class="entry__subtitle">
-        {% if page.subtitle %}{{ page.subtitle }}{% endif %}
+      <p class="entry__meta-line">
+        {% if page.subtitle %}<span class="entry__subtitle">{{ page.subtitle }}</span>{% endif %}
         {% if page.subtitle and page.dates %}<br>{% endif %}
-        {% if page.dates %}{{ page.dates }}{% endif %}
+        {% if page.dates %}<span class="entry__dates">{{ page.dates }}</span>{% endif %}
       </p>
       {% endif %}
     </header>
