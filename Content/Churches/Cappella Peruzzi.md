@@ -241,7 +241,7 @@ The vault and archivolt, with their figures of the Evangelists’ symbols and th
 
 The viewer entering from the transept first sees the altar and apsidal wall behind it, where a fragment of the *Mystic Lamb* above the altar links the chapel’s liturgical function to the apocalyptic imagery associated with the Evangelist, before the eye rises to the paired saints John on the flanking walls.
 
-### On the north wall:
+### The north wall
 
 <figure>
   <img src="/images/Cappella Peruzzi/image 1.jpg" alt="Peruzzi Chapel - Zacharias Receives the Angel's Announcement">
@@ -316,7 +316,7 @@ In the Franciscan context, which extols poverty and simplicity, the scene of Her
 In the ornamental frieze separating the scenes, some polygons are occupied by small heads, often interpreted as portraits of members of the Peruzzi family. If this interpretation is correct, it is one of the earliest Italian examples in which the patrons appear in the form of “autonomous” portraits, without being depicted in a posture of prayer before a saint.
 This innovative choice underscores the family’s awareness of being part of sacred history: the Peruzzis are not merely devotees, but actors participating in the narrative through their visual memory. Herod’s banquet, floating beneath this frieze, can thus be read as a warning placed at the feet of the ancestors, urging them not to repeat the errors of Herod and Herodias, but to convert their wealth and power into a means of salvation.
 
-### On the south wall:
+### The south wall
 
 <figure>
   <img src="/images/Cappella Peruzzi/image 4.jpg" alt="Peruzzi Chapel - A Vision on the Island of Patmos">
