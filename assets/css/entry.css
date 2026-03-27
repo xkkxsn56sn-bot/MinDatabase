@@ -250,6 +250,16 @@ html[data-theme="dark"] .entry__meta {
 }
 
 
+.entry__content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.entry__content h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
 .entry__content a {
   color: var(--link);
   text-decoration: underline;
