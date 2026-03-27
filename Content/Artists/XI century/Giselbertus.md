@@ -139,7 +139,9 @@ In the end, Giselbertus' travels seem to have been confined to the ecclesiastica
 
 The curtain on Giselbertus's life falls with as little fanfare as it rose, and his death is shrouded in the same obscurity that surrounds his birth. Scholars believe he died around 1135, probably in Autun, where his most important works stand as silent sentinels. The causes of his death are not recorded—perhaps old age, perhaps illness, or the wear and tear of a life spent carving beauty from stone—but his legacy suggests a man who devoted himself completely to his craft until the end.
 
-## The Last Judgment
+## Works
+
+### The Last Judgment
 
 His most important works, housed in Saint-Lazare Cathedral, are a gallery of Romanesque genius, each piece a chapter in a stone-bound epic. The tympanum of the Last Judgment, dominating the western portal, is a sprawling vision of Christ's return, its 12 feet of width accommodating the saved and the damned. Christ sits enthroned, serene amid the chaos, while angels blow trumpets and demons drag sinners to their doom; the entire scene is a cosmic drama carved between 1120 and 1135. Probably commissioned by Bishop Étienne, it remains in situ, a testament to Giselbertus' narrative power.
 
@@ -160,7 +162,7 @@ Medieval reception of the tympanum was likely immediate and visceral: pilgrims a
 
 Modern scholarship, conservation, and photography have deepened appreciation of the ensemble without exhausting its ambiguity. Even after centuries of weathering, restoration, and debate, the portal retains a rare power to hold together catechesis, spectacle, and artistic invention. For this reason, the Last Judgment of Autun is not only a monument of Romanesque sculpture; it remains one of the great visual meditations on judgment, mercy, and human frailty in the medieval West.
 
-## The Temptation of Eve
+### The Temptation of Eve
 
 The Temptation of Eve, originally on the lintel of the north portal, is a haunting study of sin and grace, with the reclining figure stretching almost a meter as she plucks the forbidden fruit. Created around the same time, her sensual curves and sorrowful gaze make her the first large-scale nude since antiquity, a masterpiece lost for centuries after being reused as building material in 1769. Rediscovered in the 19th century, it now resides in the Musée Rolin in Autun, a fragile relic of Giselbertus' audacity.
 
@@ -169,7 +171,7 @@ The Temptation of Eve, originally on the lintel of the north portal, is a haunti
   <figcaption>The Temptation of Eve, c. 1130, high relief in Autun limestone, 72 x 13 x 18 cm, Musée Rolin, Autun.</figcaption>
 </figure>
 
-## The Flight into Egypt
+### The Flight into Egypt
 
 The capital of the Flight into Egypt, one of many adorning the interior of Saint-Lazare, captures the Holy Family's escape with tender intimacy, Mary cradling Jesus while Joseph leads the donkey. Carved in the 1120s or 1130s, its delicate vines and flowing drapery soften the stone, offering pilgrims a moment of relief. Still in its original location, it exemplifies Giselbertus's ability to distill scripture into poignant vignettes.
 
@@ -178,7 +180,7 @@ The capital of the Flight into Egypt, one of many adorning the interior of Saint
   <figcaption>The Flight into Egypt, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.</figcaption>
 </figure>
 
-## The Suicide of Judas
+### The Suicide of Judas
 
 The Suicide of Judas Capital, another interior gem, freezes the despair of the traitor hanging from a tree, with demons clawing at his soul. Its raw emotion and contorted forms, carved in the same era, underscore the range of Giselbertus's work, balancing redemption and punishment. Like his companions, he remains in the cathedral, a dark mirror of the scenes of hope that surround him.
 
