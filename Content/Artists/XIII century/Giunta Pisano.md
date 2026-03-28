@@ -279,27 +279,21 @@ The six scenes depict episodes of miraculous healing associated with Saint Franc
 Below is the description in order, following the customary reading from top left to bottom right, according to the division accepted by the catalog entry and the literature.
 
 *Healing of the Girl with a Twisted Neck*
-
 This scene depicts a girl with a severely twisted neck, who is brought to the saint’s tomb or relic and is miraculously healed. The composition often shows the child preceded by a female figure (her mother) who accompanies her, while St. Francis or his miraculous presence straightens the spine, either through a gesture of prayer or a direct action denoting immediate supernatural intervention. The architectural elements in the background (arches, portals, columns) structure the space, creating a setting that is both sacred and familiar, typical of urban Franciscan patrons.
 
 *The story of the deformed young woman*
-
 Here appears a girl with a visibly deformed figure, often interpreted as suffering from a congenital physical malformation or a chronic condition that renders her socially marginalized. The hagiographic narrative associated with this scene emphasizes the theme of social redemption: St. Francis’s healing is not merely a physical act, but also a visible redemption before the community. The scene takes place indoors (a house or a small chapel) where the young woman is surrounded by family members or acquaintances, while the presence of the saint or his posthumous intervention is indicated by an aura, a gesture made from a distance, or a hallucinatory apparition.
 
 *Miraculous healing of the woman afflicted by a breast fistula*
-
 This scene depicts a woman with a breast fistula, a condition that, in medieval sensibilities, combines elements of physical contamination and social embarrassment, particularly associated with the female sphere. The woman is often depicted in a prayerful posture at the saint’s tomb or relics, while the healing occurs through Franciscan intercession, highlighting the emotional bond between the suffering body and the figure of the miracle-worker. A significant aspect is the strong materiality of the wound, depicted with a certain almost “anatomical” rawness, which reflects the Franciscan focus on the body as a place of suffering and redemption.
 
 *Healing of the Cripple*
-
 In this scene, a cripple comes into play—that is, a person with a severe deformity of the limbs, often with twisted or immobilized legs, who walks with extreme difficulty or is forced to crawl. The composition shows the figure in the foreground, sometimes on a bed or near a shrine, while the role of St. Francis (whether present or merely evoked) is to restore his full mobility, through an action symbolizing complete rehabilitation: not only the healing of the body, but the restoration of social dignity.
 
 *Healing of the Lame Man*
-
 This scene focuses on a lame man, that is, a figure with a more limited limp compared to the cripple, but no less significant in the urban and devotional context. The iconographic difference between “cripple” and “lame man” is often subtle: in the cripple, the fixed deformity prevails; in the lame man, the idea of a movement deficit that can be overcome. The scene emphasizes the miracle of mobility, with the figure transitioning from a state of immobility or unsteady gait to a steady stride, often accompanied by gestures of collective prayer or a procession that makes the community’s participation in the grace visible.
 
 *Healing of the Possessed Woman*
-
 The final scene concludes the series with an episode of demonic possession: a woman or young girl, described as “possessed,” is freed from the demon through the intercession of Saint Francis. Here the tone becomes more explicitly exorcistic and dramatic, with the presence of figures restraining the possessed woman, demons depicted in stylized form, or symbols of possession, while the saint or his miraculous power breaks the demonic action. This scene introduces a dimension of spiritual struggle into the cycle, which contrasts with the previous narratives centered on the physical body, and underscores Francis’s role as a mediator between sinful humanity and divine mercy.
 
 The six scenes, arranged in overlapping columns, are designed to be read in horizontal rows, with an almost mirror-like repetition of the architectural backgrounds, so that the believer’s eye can move rhythmically from left to right and from top to bottom, reinforcing the narrative sequence. This construction of aligned “panels” anticipates solutions used in other Franciscan altarpieces and in some fourteenth-century cycles, while maintaining a strong link to the Giottesque-precursory compositional tradition, characterized by spatial clarity and the stability of visual rhythm. The choice to prioritize miracles of physical healing and one of demonic deliverance reflects the altarpiece’s function as an object of popular devotion and a reminder of the saint’s miraculous protection for both friars and laypeople, in an urban context such as Pisa’s, where the Franciscan presence was particularly strong. Furthermore, the fact that some episodes are documented in written form only by Tommaso da Celano (1253) suggests that the iconographic program was defined at a relatively advanced stage of the Franciscan legend, when the figure of the saint was already established as a universal miracle-worker.
