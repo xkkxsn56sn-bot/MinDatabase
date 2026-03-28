@@ -254,6 +254,10 @@ The possibility of travel beyond Italy has been raised, if cautiously, in connec
 
 The date and cause of Jacopo Torriti's death are entirely unknown, as no contemporary document records either. The Treccani *Dizionario Biografico* states with careful precision that his last documented work is the mosaic for the funerary monument of Pope Boniface VIII, executed in collaboration with Arnolfo di Cambio around 1295–96, and suggests that his death may be placed "ipoteticamente intorno alla metà degli anni Novanta del Duecento", that is, around the mid-1290s. Italian Wikipedia places his death at the beginning of the fourteenth century, and a more cautious estimate holds that he may have lived into the first years of the 1300s, though he had in any case ceased to be artistically active well before that date. The cause of death is entirely unknown. Given the complete silence of the sources after the Boniface monument, and the absence of any further signed or securely attributed work, it is most probable that Torriti died sometime between 1296 and 1305, likely in Rome.
 
+## Works
+
+### Apse decorations
+
 <figure>
   <img src="/images/Jacopo Torriti/image 1.jpg" alt="Mosaici abside della Basilica di San Giovanni in Laterano">
   <figcaption>Apse decorations, 1291, mosaic (glass paste tiles (enamel) and gilded tiles (glass with gold leaf)), Basilica di San Giovanni in Laterano, Rome.</figcaption>
@@ -269,6 +273,8 @@ What visitors see today is not the mosaic as Torriti conceived it. When Pope Leo
 
 Because Vespignani's neo-Gothic apse is structurally larger than its medieval predecessor, the mosaic was adapted to a surface different from the one for which Torriti designed it. Academic sources consistently describe the composition as occupying the full apse basin, but precise metric measurements remain undocumented — a gap that is, unfortunately, common for medieval mosaics that have undergone remounting.
 
+### Apse and Triumphal Arch
+
 <figure>
   <img src="/images/Jacopo Torriti/image 3.jpg" alt="Apse and Triumphal Arch Mosaics, Chiesa di Santa Maria Maggiore, Rome">
   <figcaption>Apse and Triumphal Arch, 1295-96, mosaic, Chiesa di Santa Maria Maggiore, Rome.</figcaption>
@@ -282,15 +288,21 @@ Eight angels and a six-winged seraph flank the central pair on each side, their 
 
 The deliberate axial alignment of the *Dormitio* below with the Coronation above creates a powerful visual theology of the Marian mystery, linking death and heavenly glory in a programmatic unity that reflects both Franciscan mariological devotion and the ancient Roman liturgical tradition of the Assumption feast. The sprawling acanthus scroll populated with birds, fish, deer, and other animals that fills the decorative border between the figurative registers draws directly on late antique ornamental conventions visible in the fourth- and fifth-century mosaics of the same basilica, creating a deliberately retrospective evocation of Christian Rome's golden age. The mosaic is still visible in situ in the apse of the Basilica of Santa Maria Maggiore, Rome, though a nineteenth-century restoration affected the lower narrative scenes.
 
+### Sinopia del Cristo Pantocratore
+
 <figure>
   <img src="/images/Jacopo Torriti/image 4.jpg" alt="Sinopia del Cristo Pantocratore - Basilica Superiore di San Francesco d'Assisi">
   <figcaption>Pantocrator (sinopia from the Creation of the World), c. 1290, Basilica Superiore di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
+### The Creation of the World
+
 <figure>
   <img src="/images/Jacopo Torriti/image 5.jpg" alt="The Creation of the World, Basilica Superiore di San Francesco d'Assisi, Assisi">
   <figcaption>The Creation of the World, c. 1290, fresco, Basilica Superiore di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
+
+### Construction of the Ark
 
 <figure>
   <img src="/images/Jacopo Torriti/image 6.jpg" alt=" Construction of the Ark, Basilica Superiore di San Francesco d'Assisi, Assisi">
@@ -299,12 +311,16 @@ The deliberate axial alignment of the *Dormitio* below with the Coronation above
 
 Among the works attributed to Torriti on the basis of stylistic analysis rather than documentary signature, the frescoes in the upper nave of the Basilica of San Francesco in Assisi represent the most debated and yet the most instructive body of evidence for understanding the artist's formation. The vault of the second bay of the nave, the *Volta degli Intercessori* or *Volta dei Santi*, preserves four tondi within a decorative framework of angels, depicting Christ, the Virgin, John the Baptist, and Francis of Assisi as celestial intercessors, and this composition is among the passages most consistently assigned to Torriti by modern scholars. The frescoes in the clerestory zone of the north wall of the nave, depicting scenes from the Old Testament beginning with the Creation of the World, are also widely attributed to Torriti and his workshop, with the *Creazione del Mondo* (Creation of the World) and the *Costruzione dell'Arca* (Construction of the Ark, 1290) standing among the most stylistically coherent passages. A preparatory drawing, a *sinopia*, preserving the face of the Creator from the Creation scene survives in the Museo del Tesoro at Assisi and is considered one of the finest examples of Torriti's draftsmanship, displaying a monumentality and expressive depth that directly prefigures the Christ figure in the Santa Maria Maggiore apse. The Assisi frescoes are visually more archaic in their spatial handling than the subsequent Roman mosaics, suggesting that Torriti's encounter with the innovative currents circulating at Assisi, including the Gothicizing manner of the *Maestro Oltremontano* and the early activity of Giotto, stimulated a stylistic evolution that would come to full fruition in the Roman works. The frescoes remain in situ in the Upper Basilica of San Francesco, Assisi.
 
+### Head of the Madonna
+
 <figure>
   <img src="/images/Jacopo Torriti/image 7.jpg" alt=" Head of the Madonna - Brooklyn Museum, New York">
   <figcaption> Head of the Virgin, 1296, mosaic, 67.9 × 56.8 × 7.1 cm, Brooklyn Museum, New York. </figcaption>
 </figure>
 
 The third securely documented commission of Jacopo Torriti was the mosaic panel created for the funerary monument of Pope Boniface VIII, executed in collaboration with Arnolfo di Cambio and originally positioned against the inner façade wall of the ancient Constantinian basilica of Saint Peter's in the Vatican. The monument, an elaborate Gothic tabernacle combining sculpture and mosaic in a synthesis characteristic of Arnolfo's mature Roman work, presented in its upper mosaic zone a composition depicting Saints Peter and Paul presenting the kneeling Boniface VIII to the enthroned Virgin and Child, enclosed within a medallion and surmounted by an *etimasia*, the empty throne symbolizing the divine presence, a compositional format closely related to that employed by Torriti at the Lateran. The mosaic was signed with the formula *Iacob[us] Tor(r)iti pictor*, establishing beyond doubt Torriti's personal involvement in its execution. The monument was destroyed in the seventeenth-century rebuilding of Saint Peter's, but two fragments of the original mosaic survive: a portion of the Christ Child's bust, now in the Pushkin Museum of Fine Arts in Moscow, and a fragment of the Virgin's face, preserved in the Brooklyn Museum in New York. These fragments, though small, confirm the high quality of Torriti's execution and display the same refined coloristic sensibility and delicate facial modeling visible in his surviving Roman works. The destruction of the monument represents one of the most significant losses in the history of medieval art in Rome.
+
+### Saint Lucia
 
 <figure>
   <img src="/images/Jacopo Torriti/image 2.jpg" alt="Saint Lucia - Musée de Grenoble">
