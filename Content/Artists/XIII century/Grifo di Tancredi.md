@@ -179,6 +179,10 @@ The decision to return permanently to Florence by 1295, when the document record
 
 The precise date and cause of Grifo di Tancredi's death are entirely unknown, as is customary for artists of his generation who left no testamentary documents or biographical notices in chronicles or hagiographic sources. The last documentary attestation of his activity is the payment of 30 September 1303 recorded in connection with the frescoes in the Palazzo Vecchio. The date of 1315 sometimes proposed as an approximate year of death, and visible in secondary sources, is inferential rather than documented, based on the absence of any further archival record after 1303 and on the stylistic evidence suggesting that his late works, such as the tabernacle in Memphis and the Fiesole panel, belong to a period immediately after the turn of the century. The possibility that he survived until 1328, the date of the document mentioning "Grifo del fu Tancredi di Montegonzi", is considered unlikely by most specialists, as the phrase *del fu* (son of the late) would make the document an inheritance or patronage record rather than a professional notice, and the social profile of the person described does not correspond well to what is known of the painter.
 
+## Important works
+
+### The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings)
+
 <figure>
   <img src="/images/Grifo di Tancredi/image 1.jpg" alt="The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings)">
   <figcaption>The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings), 1280-90, tempera and gold on panel, Overall (with wings open): 118.5 x 124.5 x 7.6 cm; Central panel: 112 x 62; Wings (left): 87.4 x 30.9 cm; Wings (right): 87.8 x 31 cm; Overall (with wings closed): 118.8 x 65.7 x 7.6 cm; Shadow box: 134 x 138 x 13 cm, National Gallery of Scotland, Edinburgh.</figcaption>
@@ -190,6 +194,8 @@ Above the central panel, Christ in Benediction is shown surrounded by six angels
 
 This triptych is the anchor of Grifo's entire reconstructed catalogue, since its fragmentary inscription, "H(oc) op(us) q(uod) fec(it) m(agister) Gri(fus) Fl(orentinus)", provided Miklós Boskovits in 1988 with the textual key that allowed the name of the painter to be securely attached to the group of works previously attributed to the anonymous Master of San Gaggio.
 
+### Virgin and Child Enthroned and Four Saints
+
 <figure>
   <img src="/images/Grifo di Tancredi/image 2.jpg" alt="Virgin and Child Enthroned and Four Saints">
   <figcaption>Virgin and Child Enthroned and Four Saints, c. 1290, tempera on panel, 188 x 101,5 cm, Galleria dell'Accademia, Florence.</figcaption>
@@ -199,20 +205,28 @@ Now preserved in the Galleria dell'Accademia in Florence, this large panel paint
 
 The throne is rendered with a Trecento spatial ambition, decorated with Cosmatesque inlays that point to Grifo's familiarity with the decorative vocabulary then being propagated by Roman-trained artists active in central Italy. The work represents the apex of Grifo's late style, demonstrating his capacity to synthesize the accumulated lessons of Cimabue, Giotto, and the Master of Santa Cecilia into a compositional solution of dignified monumentality, while still retaining in the gold ground and the overall hieratic arrangement the imprint of his Duecento formation. This altarpiece is also the work from which the conventional name "Master of San Gaggio" was derived, since it formed the nucleus of the group of paintings assembled under that designation by Roberto Longhi in 1948 before Grifo's true identity was recovered.
 
+### Christ Blessing
+
 <figure>
   <img src="/images/Grifo di Tancredi/image 5.jpg" alt="Christ Blessing">
   <figcaption>Christ Blessing, c. 1310, tempera on panel, 78.2 × 55.5 × 1.5 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
+
+### Saint Peter
 
 <figure>
   <img src="/images/Grifo di Tancredi/image 3.jpg" alt="Saint Peter">
   <figcaption>Saint Peter, c. 1310, tempera on panel, 66.2 × 36.6 × 1 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
+### Saint James Major
+
 <figure>
   <img src="/images/Grifo di Tancredi/image 4.jpg" alt="Saint James Major">
   <figcaption>Saint James Major, c. 1310, tempera on panel, 66.7 × 36.7 × 1.2 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
+
+### Saint John the Baptist
 
 <figure>
   <img src="/images/Grifo di Tancredi/image 6.jpg" alt="Saint John the Baptist">
@@ -223,12 +237,16 @@ This polyptych, now divided between the National Gallery of Art in Washington an
 
 The Cimabuesque quality of these panels is so thoroughly assimilated that their attribution to Grifo rather than to Cimabue himself remained controversial for decades, and they continue to offer one of the clearest demonstrations of the extent to which Grifo had internalized the formal language of the great Florentine master. The panels presumably served as an altarpiece for a private or monastic chapel, though the name of the original patron or institution cannot be recovered from surviving documentation.
 
+### Tabernacle
+
 <figure>
   <img src="/images/Grifo di Tancredi/image 7.jpg" alt="Tabernacle">
   <figcaption>Tabernacle, 1300-05, tempera and gold on panel, 39 x 59 cm, Gemäldegalerie, Berlin.</figcaption>
 </figure>
 
 The portable tabernacle now in the Gemäldegalerie in Berlin, dateable to around the mid-1280s, is one of the most formally refined works in Grifo's catalogue, and its attribution was established independently and simultaneously by Luciano Bellosi and Angelo Tartuferi in 1985 and 1986. The central panel presents the Madonna and Child in a composition closely modeled on that of the dossale by Manfredino da Pistoia in the Acton collection in Florence, a relationship that provides important evidence for the dense network of formal borrowing and creative competition that characterized the Florentine painting milieu of the 1280s. The right shutter of the tabernacle contains a Crucifixion scene in which the expressive vocabulary of Cimabue is deployed with particular intensity, the inclined body of Christ against the cross rendered with a physical weight and emotional gravity that goes beyond mere formal citation to achieve a genuinely moving devotional image. The tabernacle was presumably created for private devotional use, most likely for a wealthy lay patron or a small religious house in or near Florence, and its relatively intimate scale, typical of objects designed for personal prayer in private spaces, contrasts with the public or semi-public contexts for which Grifo's larger altarpieces were made.
+
+### Dossale with Passion Scenes
 
 <figure>
   <img src="/images/Grifo di Tancredi/image 8.jpg" alt="Dossale with Passion Scenes">
