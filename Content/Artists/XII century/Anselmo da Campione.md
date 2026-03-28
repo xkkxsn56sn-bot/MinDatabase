@@ -283,6 +283,8 @@ The expansion of Campionesi operations beyond Modena to include commissions at M
 
 Anselmo da Campione's artistic legacy rests primarily on his sculptural contributions to Modena Cathedral, where nearly five decades of his career were devoted to the monumental cathedral project. While documentation regarding works at Milan and Parma is fragmentary, the surviving sculptural elements at Modena—particularly the *pontile* with its Passion narrative reliefs and the supplementary panels depicting events from the apostolic tradition—constitute the most securely attributed and comprehensively documented body of work by any master of the Campionesi dynasty. These sculptures, executed in marble and originally enhanced with polychromy, demonstrate the technical mastery and aesthetic sophistication that distinguished Anselmo's practice and influenced subsequent generations of northern Italian sculptors. The integration of these works with the cathedral's architecture, both structurally and symbolically, exemplifies the Romanesque principle of unified artistic production wherein sculpture, architecture, and painting collaborated toward comprehensive devotional and didactic programs. The survival of these major works *in situ*, combined with documentary evidence of commissions and contract renewals, provides unusually detailed evidence for reconstructing Anselmo's artistic method and the workshop practices of the mature Campionesi tradition.
 
+## Works
+
 ### The Pontile at Modena Cathedral
 
 <figure>

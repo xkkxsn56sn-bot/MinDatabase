@@ -186,7 +186,7 @@ The Suicide of Judas Capital, another interior gem, freezes the despair of the t
 
 <figure>
   <img src="/images/Giselbertus/image 4.jpg" alt="Suicide of Judas - Musée Rolin, Autun">
-  <figcaption>Suicide of Judas, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.</figcaption>
+  <figcaption>The Suicide of Judas, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.</figcaption>
 </figure>
 
 These works, linked to the fervor of the Autun pilgrimage and the vision of its clergy, remain as the strongest echoes of Giselbertus, whose corpus is a dialogue between heaven and earth. Although time has scattered some pieces, their power persists, drawing eyes and hearts to a sculptor whose name—whether his own or that of a patron—continues to whisper through the centuries

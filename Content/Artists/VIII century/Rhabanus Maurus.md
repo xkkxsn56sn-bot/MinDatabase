@@ -175,6 +175,8 @@ The intellectual networks established through his travels enabled Rhabanus to ma
 
 ## Major Works and Their Contents
 
+### Rabanus (left), introduced by Alcuin, presents the illuminated codex to Otgar, Bishop of Mainz
+
 <figure>
   <img src="/images/Rhabanus/image 1.jpg" alt="Rhabanus, Alcuin and Otgar in De Laudibus sanctae crucis">
   <figcaption>Rabanus (left), introduced by Alcuin, presents the illuminated codex to Otgar, Bishop of Mainz - folio 2v, De Laudibus sanctae crucis, 830-840, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 403 x 307 mm, Österreichische Nationalbibliothek, Wien, cod. 652.</figcaption>

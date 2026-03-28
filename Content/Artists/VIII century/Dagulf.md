@@ -126,6 +126,8 @@ In conclusion, while a biography of Dagulf's personal life and travels is unatta
 
 The corpus of work attributable to Dagulf is singular and definitive: the manuscript known as the *Dagulf Psalter*. This single artifact constitutes the entirety of his known artistic output and is the only basis for any assessment of his professional skill and contribution to the arts of the Carolingian Renaissance. The manuscript is a lavishly decorated copy of the Book of Psalms, rendered in the Latin Vulgate translation that formed the bedrock of Western Christian liturgy. Its primary content is therefore the 150 psalms, traditionally attributed to King David, a fact noted in the dedicatory verses included within the manuscript itself. These verses frame the work's content within a sacred lineage, emphasizing its theological significance. The psalms were not merely copied as a literary exercise but were intended for use in the daily office and other religious services, serving as a tool for public and private devotion. The meticulous care with which Dagulf transcribed the text reflects the reverence accorded to this particular biblical book. Every letter, every word, was treated with the utmost seriousness, as the faithful reproduction of God's word was considered a holy act. The manuscript's content, therefore, is inseparable from its function as a liturgical object, a vehicle for prayer and worship.
 
+### Dagulf's Psalter, folio 24-25v
+
 <figure>
   <img src="/images/Dagulf/Dagulf Psalter.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
   <figcaption>Dagulf's Psalter, 793-95, Codex 1861, folio 24-25v, Österreichische Nationalbibliothek, Vienna.</figcaption>
