@@ -176,7 +176,7 @@ meta:
         url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
 ---
 
-The Master of the Franciscan Crucifixes is the conventional name (*notname*) assigned to an anonymous Italian painter active during the 1260s and 1270s, whose identity remains one of the most intriguing puzzles of Duecento Italian art history. Regarded by modern scholarship as ranking among the most significant painters of the Italian thirteenth century, situated chronologically and stylistically between Giunta Pisano and Cimabue, this artist produced a coherent and powerful corpus of devotional imagery almost exclusively for Franciscan patrons, stamping the visual culture of central and northern Italy with a deeply emotional interpretation of the Crucified Christ.
+The *Master of the Franciscan Crucifixes* is the conventional name (*notname*) assigned to an anonymous Italian painter active during the 1260s and 1270s, whose identity remains one of the most intriguing puzzles of Duecento Italian art history. Regarded by modern scholarship as ranking among the most significant painters of the Italian thirteenth century, situated chronologically and stylistically between Giunta Pisano and Cimabue, this artist produced a coherent and powerful corpus of devotional imagery almost exclusively for Franciscan patrons, stamping the visual culture of central and northern Italy with a deeply emotional interpretation of the Crucified Christ.
 
 ## Origins and Anonymous Identity
 
@@ -230,12 +230,18 @@ The career of the Master of the Franciscan Crucifixes can be understood as a ser
 
 From Assisi, the Master moved into the Marches, the mountainous region of central Italy lying between Umbria and the Adriatic coast, where he is known to have been active and where a crucifix attributed to him was once recorded in the Fornari collection at Fabriano, a town that would later become one of the most important centers of parchment production in medieval Italy. The trajectory from Assisi through the Marches to Bologna follows the natural communication routes of the Apennine interior, the roads and mountain passes through which merchants, pilgrims, and itinerant craftsmen regularly traveled, connecting the sacred center of Franciscan devotion at Assisi with the wealthy university city of Bologna, whose Franciscan community was one of the Order's most intellectually and institutionally significant houses. In Bologna, which appears to have been the final destination of his career and the city where he settled permanently, the Master produced the most mature and refined works of his known corpus, including the multiple crosses for the church of San Francesco and the Croce di Santa Maria del Borgo, all of which demonstrate a deepened engagement with the artistic culture of a city that was simultaneously a center of legal learning, mercantile wealth, and mendicant patronage.
 
+## Works
+
+### Christus patiens, c. 1250
+
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 1.jpg" alt="Christus Patiens - Museo della Basilica di San Francesco d'Assisi, Assisi">
   <figcaption>Christus patiens, c. 1250, tempera and gold leaf on wooden panel, Museo della Basilica di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
 The earliest of the Master's securely attributed works, and the one upon which Osvald Sirén originally grounded his identification of the painter's artistic personality, is the double-sided painted processional crucifix preserved in the Museo del Tesoro of the Basilica of San Francesco in Assisi. Painted on both faces and designed to be carried on a pole during solemn liturgical processions, this panel presents the *Christus patiens* on its principal face: Christ is depicted with his eyes closed, his head inclined to the right, and his body curved in the characteristic *S*-bend of the suffering and dead figure, rendered against a gilded ground that asserts both the divinity of the subject and the material dignity of the devotional object. The lateral *tabelloni* at the ends of the horizontal arms show the half-length figures of the grieving Virgin and the mourning Saint John the Evangelist, their faces registering grief through conventions drawn from Byzantine iconographic tradition but inflected with a new emotional directness characteristic of the Franciscan devotional aesthetic. The reverse face of the cross presents a different iconographic program, consistent with the processional function of the object, which required it to be visually meaningful from both sides as it was carried through the sacred and civic spaces of Assisi. The commission was almost certainly issued by the Franciscan community of the basilica itself, possibly in connection with the liturgical requirements of the community during the crucial decades following the canonization of Francis (1228) and the formal consecration of the basilica (1253), when the decoration of the sacred space was proceeding at an intense pace. This work has been at the center of all scholarly discussions of the Master's career since Sirén's initial attribution, and it remains the cornerstone of his attributed corpus, the work against which all other attributions are measured and evaluated.
+
+### Christus patiens, 1272
 
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 6.jpg" alt="Christus Patiens - Pinacoteca Nazionale dell'Umbria, Perugia">
@@ -248,6 +254,8 @@ The work belongs to the tradition of the *croce dipinta* of Byzantine origin, a 
 
 The technique is tempera and gold on wood, animated by a rich and skillfully orchestrated chromatic scheme. The blue ground of the cross body is overlaid with floral geometries in golden rosettes, producing an almost mosaic-like effect of great preciousness. Gold heightening traces the contours of the figures, articulates the folds of the drapery, and constructs those meticulous geometrical patterns that the Galleria Nazionale dell'Umbria identifies among the composition's highest qualities. This decorative opulence also responds to a concrete circumstance of the Umbrian context: the relative scarcity of goldsmiths' workshops in the region made painted crosses particularly sought after as precious substitutes for metalwork furnishings.
 
+### Christus patiens, 1255-60
+
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 2.jpg" alt="Christus Patiens - Pinacoteca Nazionale, Bologna">
   <figcaption>Christus patiens, 1255-60, tempera and gold leaf on wooden panel, 309 × 196 cm, Pinacoteca Nazionale, Bologna.</figcaption>
@@ -255,10 +263,14 @@ The technique is tempera and gold on wood, animated by a rich and skillfully orc
 
 The work known as the Croce di Santa Maria del Borgo, now in the Pinacoteca Nazionale di Bologna, represents the most celebrated and most studied of the Master's Bolognese productions, and the one through which Evelyn Sandberg-Vavalà first expanded the attributed corpus of the painter in her foundational 1929 study. Originally belonging to the church of Santa Maria in Borgo in Bologna, the cross was acquired during the Napoleonic suppressions by the Marchese Giacomo Malvezzi Campeggi, who exercised his claimed property rights over the panel, before it eventually entered the collections of the Pinacoteca Nazionale. The crucifix presents the *Christus patiens* in the Master's mature Bolognese idiom, with the body of Christ painted against a rich gold ground and flanked by the half-length figures of the mourning Virgin and Saint John in the lateral panels. The formal refinement of this work is generally considered to represent the apogee of the Master's stylistic evolution, showing a complete assimilation of the influences absorbed from Giunta Pisano's Bolognese cross alongside a personal formal authority that transforms those influences into something distinctly original. The work has been at the center of debates about the boundaries of the Master's corpus, with some scholars arguing for its close relationship to works attributed to the "Master of the Blue Crucifixes," a related anonymous personality whose corpus Miklós Boskovits proposed merging with that of the Master of the Franciscan Crucifixes. The current location in the Pinacoteca Nazionale di Bologna makes this work accessible for scholarly study and public appreciation, where it stands as one of the most important documents of Duecento panel painting in Emilia-Romagna.
 
+### Mourning Madonna
+
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 4.jpg" alt="Mourning Madonna - National Gallery of Art, Washington ">
   <figcaption>Mourning Madonna, 1270-75, tempera on panel, 81 x 31,7 cm, National Gallery of Art, Washington .</figcaption>
 </figure>
+
+### Mourning Saint John the Evangelist
 
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 5.jpg" alt="Mourning Saint John - National Gallery of Art, Washington ">
@@ -266,6 +278,8 @@ The work known as the Croce di Santa Maria del Borgo, now in the Pinacoteca Nazi
 </figure>
 
 Among the most poignant and psychologically penetrating works in the Master's attributed corpus are the two fragments known as the *Mourning Madonna* and the *Mourning Saint John*, now preserved in the National Gallery of Art in Washington D.C., which Osvald Sirén included in his original 1922 group attribution as essential components of his identification of the painter's hand. These fragments were originally the lateral *tabelloni* of a larger painted crucifix, severed from their central panel at some point in the history of the object's dispersal and transmission through the art market before reaching their current location in one of the world's great collections of medieval painting. The *Mourning Madonna* shows the half-length figure of the Virgin Mary with her head inclined and her hands raised in a gesture of grief, her face expressing a controlled but unmistakable sorrow rendered through the Byzantine convention of the tilted head and sorrowful gaze directed toward the central figure of Christ that once occupied the adjacent panel. The *Mourning Saint John* presents the beloved disciple in a complementary posture of grief, his head inclined in the opposite direction and his facial features rendered with the same formal economy and emotional directness as the Virgin. The quality of execution in these fragments is exceptionally high, with the facial modeling showing a delicacy of graduated color and a precision of linear articulation that rank among the finest achievements of Italian panel painting in the Duecento. Their presence in Washington is a testament to the global dispersal of medieval Italian art through centuries of collecting and the art market, and they serve today as among the most frequently cited examples of the Master's range and formal accomplishment.
+
+### Christus patiens, 1270-75
 
 <figure>
   <img src="/images/Maestro Crocifissi francescani/image 3.jpg" alt="Christus Patiens - Pinacoteca Comunale, Faenza ">
