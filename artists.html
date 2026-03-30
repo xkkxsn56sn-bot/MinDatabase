@@ -125,9 +125,10 @@
         }
 
         .back-btn {
-            display: inline-flex;
+            display: block;
+            width: fit-content;
             align-items: center;
-            margin-top: 2rem;
+            margin: 2rem auto 0;
             padding: 0.6rem 1.2rem;
             min-height: 44px;
             background: var(--gold);
@@ -135,6 +136,7 @@
             border-radius: 4px;
             font-weight: bold;
             text-decoration: none;
+            text-align: center;
         }
 
         /* ── MOBILE ── */
@@ -373,7 +375,7 @@
             </ul>
         </section>
 
-        <a href="index.html" class="back-btn">← Back to Home</a>
+        <a href="index.html" class="back-btn">Back to Home</a>
     </main>
     <footer
         style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
