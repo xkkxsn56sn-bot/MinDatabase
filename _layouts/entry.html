@@ -16,17 +16,17 @@
     <header class="entry__header">
       <h1 class="entry__title">{{ page.title }}</h1>
 
-      <button id="theme-toggle" type="button" aria-label="Toggle dark mode" class="entry__theme-toggle">
-        🌞 / 🌙
-      </button>
-
       {% if page.subtitle or page.dates %}
       <p class="entry__meta-line">
         {% if page.subtitle %}<span class="entry__subtitle">{{ page.subtitle }}</span>{% endif %}
         {% if page.subtitle and page.dates %}<br>{% endif %}
-        {% if page.dates %}<span class="entry__dates">{{ page.dates }}</span>{% endif %}
+        {% if page.dates %}<span class="entry__dates">Period of activity: {{ page.dates }}</span>{% endif %}
       </p>
       {% endif %}
+
+      <button id="theme-toggle" type="button" aria-label="Toggle dark mode" class="entry__theme-toggle">
+        Day mode / Night mode
+      </button>
     </header>
 
     <div class="entry__grid">
