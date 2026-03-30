@@ -70,21 +70,21 @@ html[data-theme="dark"] body {
     gap: 1.5rem;
   }
 
-  /* Sidebar (front matter) appears first on mobile */
-  .entry__sidebar {
+  /* Sections (TOC) appears first on mobile */
+  .entry__toc-sidebar {
     order: 1;
     position: static;
     max-height: none;
   }
 
-  .entry__content {
+  .entry__sidebar {
     order: 2;
-  }
-
-  .entry__toc-sidebar {
-    order: 3;
     position: static;
     max-height: none;
+  }
+
+  .entry__content {
+    order: 3;
   }
 
   .entry__theme-toggle {
