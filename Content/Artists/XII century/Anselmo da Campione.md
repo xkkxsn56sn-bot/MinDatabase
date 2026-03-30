@@ -198,16 +198,16 @@ The relief unfolds beneath a series of small arches, which visually organizes th
   
 The first scene depicts the central moment of the institution of the Eucharist, with the disciples gathered around the table and Judas placed in a particularly significant position, close to Christ. This iconographic choice accentuates the dramatic tension: Judas is not just another character among the others, but the one who already brings the seed of betrayal into the scene. The composition emphasizes the communal dimension of the banquet, but the presence of the traitor disrupts the group’s harmony from within.​ From a theological perspective, the scene juxtaposes two planes: sacramental communion and the future breaking of the covenant. The artist does not seek everyday naturalism, but rather immediate clarity, conveyed through the figures’ gestures and hierarchy.
 
-- The Kiss and the Arrest
+<u>The Kiss and the Arrest</u>
   
 The second scene condenses the episode in the Garden of Gethsemane: Judas’s kiss and Jesus’s arrest. Here, betrayal becomes a physical and visible gesture, transforming an act of false intimacy into the ultimate sign of moral dissimulation. The choice to unite the kiss and the capture in a single image intensifies the rapidity of the action and its dramatic charge.
 Narratively, the scene is constructed as a sudden shift from calm to conflict. The relief emphasizes the contrast between Christ, who appears as a stable and self-aware figure, and the figures involved in the arrest, driven by frenzied energy. In this way, the event is not rendered as a simple chronicle, but as a visible manifestation of the drama of salvation.
 
-- Christ Before Pilate
+<u>Christ Before Pilate</u>
   
 The third scene depicts Christ before Pontius Pilate, a moment of earthly judgment and a clash between truth and power. The episode introduces a shift in tone: from the violence of the arrest, the narrative moves to the institutional dimension of the trial. Pilate represents political authority, but the relief shows him in a subordinate position relative to the moral strength of the figure of Christ. Iconographically, this scene reinforces the idea of the Passion as an unjust trial. Christ is not depicted as a passive defendant in a merely narrative sense, but as the utterly innocent one, before whom the human court reveals its own inadequacy. The relief thus translates the theme of justice turned upside down into images.
 
-- Jesus Carries the Cross
+<u>Jesus Carries the Cross</u>
   
 In the final scene, Jesus carries the cross, that is, he enters the final stage of the Passion and moves toward the fulfillment of the sacrifice. It is an image of great spiritual intensity, because it unites the material weight of the cross with the redemptive meaning of the ordeal. After the betrayal and the trial, the figure of Christ focuses entirely on the salvific dimension of suffering. The scene closes the cycle with intense emotional tension: the movement of the body and the weight of the cross make the fatigue palpable, yet without diminishing the protagonist’s sacred dignity. In this way, the relief does not dwell on pathos, but rather on suffering that holds exemplary and theological value.
 
