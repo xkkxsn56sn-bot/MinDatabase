@@ -368,6 +368,41 @@ html[data-theme="dark"] .entry__content a:hover {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.92rem;
+}
+
+.entry__content table th,
+.entry__content table td {
+  border: 1px solid var(--border-subtle);
+  padding: 0.55rem 0.9rem;
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.4;
+}
+
+.entry__content table th {
+  background: var(--bg-panel);
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.entry__content table tr:nth-child(even) td {
+  background: var(--bg-panel);
+}
+
+html[data-theme="dark"] .entry__content table th,
+html[data-theme="dark"] .entry__content table td {
+  border-color: var(--border-subtle-dark);
+}
+
+html[data-theme="dark"] .entry__content table th {
+  background: var(--bg-panel-dark);
+  color: var(--text-main-dark);
+}
+
+html[data-theme="dark"] .entry__content table tr:nth-child(even) td {
+  background: var(--bg-panel-dark);
 }
 
 /* Three-column directory list */
