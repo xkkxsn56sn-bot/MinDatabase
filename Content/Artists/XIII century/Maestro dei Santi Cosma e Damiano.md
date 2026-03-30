@@ -196,10 +196,10 @@ Possibly originating from Pisan devotional contexts, it attests to the vitality 
 
 This Madonna exemplifies the Pisan Giunta style: rigid yet expressive, with an emphasis on sacred hierarchy and gold as a symbol of eternal light, distinguishing itself from the more elegant Sienese trends. Compared to contemporary works such as the Madonna dei Mantellini by the same master (Siena, ca. 1260), here the angels add dynamism, foreshadowing the complex polyptychs of the late 13th century.
  
- ### Madonna and Child with Two Angels
+### Madonna and Child with Two Angels
 
- <figure>
-  <img src="/images/Maestro Cosma Damiano/image 2.jpg" alt="Madonna and Child with Two Angels">
+<figure>
+ <img src="/images/Maestro Cosma Damiano/image 2.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1260, tempera and gold leaf on panel, 87,6 x 50,2 cm, Museo nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
