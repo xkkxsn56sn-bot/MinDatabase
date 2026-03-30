@@ -194,7 +194,7 @@ Anselmo da Campione’s pylon in Modena Cathedral is one of the great narrative 
 
 The relief unfolds beneath a series of small arches, which visually organizes the narrative and simultaneously unifies it into a single grand narrative episode. The division into successive scenes is not merely chronological: it also serves to guide the viewer’s eye along a theological path, from the initial communion to the condemnation and the sacrifice.
 
-- The Last Supper
+<u>The Last Supper</u>
   
 The first scene depicts the central moment of the institution of the Eucharist, with the disciples gathered around the table and Judas placed in a particularly significant position, close to Christ. This iconographic choice accentuates the dramatic tension: Judas is not just another character among the others, but the one who already brings the seed of betrayal into the scene. The composition emphasizes the communal dimension of the banquet, but the presence of the traitor disrupts the group’s harmony from within.​ From a theological perspective, the scene juxtaposes two planes: sacramental communion and the future breaking of the covenant. The artist does not seek everyday naturalism, but rather immediate clarity, conveyed through the figures’ gestures and hierarchy.
 
