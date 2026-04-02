@@ -131,7 +131,7 @@ The hypothesis that Wiligelmo might have come from a family with deep connection
 
 <figure class="figure--right">
 <figure>
-  <img src="/images/Wiligelmo/image 6.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
+  <img src="/images/Wiligelmo/image 7.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
   <figcaption>Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis, Manuscript O.II.11[^1], Cathedral Chapter, Modena.</figcaption>
 </figure>
 
