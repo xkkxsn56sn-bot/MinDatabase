@@ -343,7 +343,7 @@ html[data-theme="dark"] .entry__content a:hover {
   display: block;
   margin: 0 0 1.5rem 2rem;
   max-width: 40%;
-  text-align: center;
+  text-align: left;
 }
 
 .entry__content figure.figure--right figcaption {
@@ -361,7 +361,7 @@ html[data-theme="dark"] .entry__content a:hover {
   display: table-caption;
   caption-side: bottom;
   margin-top: 0.5rem;
-  text-align: center;
+  text-align: left;
   font-style: italic;
   font-size: 0.85rem;
 }
