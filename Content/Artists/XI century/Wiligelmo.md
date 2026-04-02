@@ -129,10 +129,12 @@ Scholars have speculated, on the basis of the sheer organisational complexity of
 
 The hypothesis that Wiligelmo might have come from a family with deep connections to ecclesiastical patronage, perhaps a family that already provided stone-carvers or builders to the reformed monasteries of northern Italy, is supported by the evident theological sophistication of the iconographic programmes he executed, a sophistication that could only have been nurtured in close proximity to ecclesiastical learning. 
 
+### Manuscript O.II.11 [^1]
+
 <figure class="figure--right">
 <figure>
   <img src="/images/Wiligelmo/image 7.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
-  <figcaption>Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis, Manuscript O.II.11[^1], Cathedral Chapter, Modena.</figcaption>
+  <figcaption>Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis, Manuscript O.II.11, Cathedral Chapter, Modena.</figcaption>
 </figure>
 
 The *Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis*, the near-contemporary account of the translation of the relics of St Geminianus that prompted the construction of the Modena Cathedral, describes the search for Lanfranco, the cathedral's architect, but makes no equivalent biographical statement about Wiligelmo's origins, merely confirming his identity through the epigraph he carved upon the foundation tablet. This asymmetry in which Lanfranco is described as a travelling architect summoned from a distance, while Wiligelmo is known only through his own self-advertising inscription, suggests that the sculptor, whatever his geographic origins, had already acquired sufficient fame to require no further introduction to a Modenese audience.
