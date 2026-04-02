@@ -251,7 +251,7 @@ The two prophet figures draw directly upon the compositional formula of the *Sar
 ### Portal of the Abbey of Nonantola
 
 <figure>
-  <img src="/images/Wiligelmo/image 5.jpg" alt="Portal of the Abbey of Nonantola">
+  <img src="/images/Wiligelmo/image 6.jpg" alt="Portal of the Abbey of Nonantola">
   <figcaption>Portal of the Abbey of Nonantola, bef. 1117, marble, Abbey of Santi Silvestro e Anselmo, Nonantola.</figcaption>
 </figure>
 
