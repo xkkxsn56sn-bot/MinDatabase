@@ -480,6 +480,36 @@ html[data-theme="dark"] .toc-nav__list a:hover {
   color: var(--link-hover-dark);
 }
 
+/* Footnotes */
+.entry__content ol.footnotes {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-subtle);
+  margin-top: 3rem;
+  padding-top: 1rem;
+  padding-left: 1.5rem;
+}
+
+html[data-theme="dark"] .entry__content ol.footnotes {
+  color: var(--text-muted-dark);
+  border-top-color: var(--border-subtle-dark);
+}
+
+.entry__content ol.footnotes li {
+  margin-bottom: 0.75rem;
+}
+
+.entry__content ol.footnotes p {
+  margin: 0 0 0.5rem;
+}
+
+.entry__content a.footnote sup {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* -------------------------------- */
+
 .entry__theme-toggle {
   margin-top: 0.5rem;
   border: 1px solid var(--border-subtle);
