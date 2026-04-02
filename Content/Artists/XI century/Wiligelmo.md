@@ -129,10 +129,9 @@ Scholars have speculated, on the basis of the sheer organisational complexity of
 
 The hypothesis that Wiligelmo might have come from a family with deep connections to ecclesiastical patronage, perhaps a family that already provided stone-carvers or builders to the reformed monasteries of northern Italy, is supported by the evident theological sophistication of the iconographic programmes he executed, a sophistication that could only have been nurtured in close proximity to ecclesiastical learning. 
 
-### Manuscript O.II.11 [^1]
+### Manuscript O.II.11
 
 <figure class="figure--right">
-<figure>
   <img src="/images/Wiligelmo/image 7.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
   <figcaption>Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis, Manuscript O.II.11, Cathedral Chapter, Modena.</figcaption>
 </figure>
