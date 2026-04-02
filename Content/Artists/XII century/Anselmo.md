@@ -1,3 +1,79 @@
+---
+layout: entry
+title: "Anselmo (Anselmus Dedalus alter)"
+subtitle: "Milanese sculptor active in the third quarter of the twelfth century; author of the Porta Romana reliefs"
+dates: "Active c. 1171, Milan"
+
+meta:
+  - title: "Identity"
+    pairs:
+      - label: "Signed as"
+        value: "Anselmus Dedalus alter — 'Anselmus, a second Daedalus'"
+      - label: "Floruit"
+        value: "c. 1171, Milan"
+      - label: "Nationality"
+        value: "Lombard (Milanese)"
+      - label: "Occupation"
+        value: "Sculptor (monumental marble relief)"
+      - label: "Collaborator"
+        value: "Girardus (signed 'Istud sculpsit Girardus pollice docto' on the same ensemble)"
+      - label: "Distinction"
+        value: "Not to be confused with Anselmo da Campione (Modena Cathedral sculptor)"
+
+  - title: "Documentary evidence"
+    list:
+      - "Principal source: dedicatory inscription on the Porta Romana reliefs — 'Hoc opus formavit Anselmus Dedalus alter'"
+      - "Collaborator Girardus identified by a second inscription on the same monument"
+      - "Girardus de Mastegnianega named on the consular plaque (lastra dei Consoli) dated 1171 — normally identified with the signed Girardus"
+      - "No birth record, baptismal entry, notarial act, guild register, or necrology survives for Anselmus"
+      - "Earlier misreading of alter as toponym 'de Ale' (provenance from Alzate) definitively rejected by Novati and later epigraphists"
+      - "Identity reconstructed entirely from epigraphic and stylistic evidence"
+
+  - title: "Patron and civic context"
+    pairs:
+      - label: "Primary patron"
+        value: "Consuls of the Commune of Milan"
+      - label: "Commission"
+        value: "Sculptural programme of Porta Romana, begun 1 March 1171"
+      - label: "Historical occasion"
+        value: "Refortification of Milan following Frederick Barbarossa's destruction of the city (1162); return of the Milanese, May 1167; Lombard League"
+      - label: "Gate demolished"
+        value: "1793; reliefs moved to Castello Sforzesco in 1895"
+
+  - title: "Key works"
+    list:
+      - "Frieze: Return of the Milanese to the city — c. 1171, marble, 72 × 202 × 96 cm, Museo d'Arte Antica del Castello Sforzesco, Milan"
+      - "Frieze: Saint Ambrose driving the Arians out of Milan — c. 1171, marble, 72 × 201 × 131 cm, Museo d'Arte Antica del Castello Sforzesco, Milan"
+      - "Frieze: Friar Jacopo leads the allied troops toward Milan — c. 1171, marble, 48 × 181 × 85 cm, Museo d'Arte Antica del Castello Sforzesco, Milan"
+      - "Memorial Stone of the Milanese Consuls — post 1172, marble, 60 × 8.5 × 101 cm, Museo d'Arte Antica del Castello Sforzesco, Milan"
+
+  - title: "Style and technique"
+    pairs:
+      - label: "Medium"
+        value: "Marble bas-relief and architectural carving"
+      - label: "Period"
+        value: "Late Lombard Romanesque, third quarter of the XII century"
+      - label: "Characteristics"
+        value: "Stocky volumetric figures; rigid frontal alignment; compressed, schematic drapery; accentuated plastic relief; archaizing compositional conception"
+      - label: "Distinction from Girardus"
+        value: "More archaic figure alignment and heavier plasticity; Girardus credited with greater narrative fluidity and finer carving"
+      - label: "Iconographic innovation"
+        value: "Earliest known depiction of Saint Ambrose with a scourge — predates the canonical XIV-century type"
+
+  - title: "Artistic influences"
+    list:
+      - "Lombard Romanesque tradition — affinities with the pulpito of Sant'Ambrogio, Milan"
+      - "Byzantine compositional conventions — hierarchical processional friezes and rigid figure types"
+      - "Classical rhetorical tradition — the Daedalus topos as artistic self-presentation, comparables in other medieval inscriptions"
+      - "Communal building-site culture of northern Italy — workshop collaboration practices at Modena, Pavia, and Milan"
+      - "Civic epigraphy — integration of tituli and narrative relief into a coherent political programme"
+
+  - title: "Current location of works"
+    list:
+      - "Museo d'Arte Antica, Castello Sforzesco, Milan — principal surviving reliefs (since 1895)"
+      - "Original site: Porta Romana, inner city walls of Milan (demolished 1793)"
+---
+
 The sculptor who signs himself *Anselmus* "Dedalus alter" is one of the very few twelfth‑century Lombard artists whose name is preserved directly by an inscription on a surviving monument. His authorship is attested on reliefs from the now‑destroyed Porta Romana of Milan, today largely conserved in the Museo d’Arte Antica of the Castello Sforzesco, which commemorate the refortification of the city after the devastations inflicted by *Frederick Barbarossa*. Modern scholarship treats Anselmus and his colleague *Girardus*, who likewise signed the ensemble, as distinct from the better‑documented Campionese masters active in Modena and elsewhere, and identifies them as Milan‑based sculptors working in the third quarter of the twelfth century. Beyond the epigraphic self‑identification and the stylistic profile of the Porta Romana reliefs, however, no medieval narrative or documentary source provides biographical information such as date or place of birth, family background, travels, or circumstances of death, and these aspects therefore remain unknown.
 
 ## Documentary evidence and identity
