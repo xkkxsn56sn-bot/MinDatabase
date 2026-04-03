@@ -1,0 +1,417 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scholars - Medieval Visions</title>
+    <style>
+        :root {
+            --parchment: #f4f1e8;
+            --dark-parchment: #e8e3d3;
+            --gold: #c9a961;
+            --dark-gold: #a68948;
+            --burgundy: #722f37;
+            --dark-burgundy: #4a1f26;
+            --text: #2c2416;
+            --text-light: #5a4d3a;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: var(--parchment);
+            color: var(--text);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
+            color: var(--parchment);
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 3px solid var(--gold);
+        }
+
+        nav {
+            background: var(--dark-parchment);
+            padding: 0.6rem 1rem;
+            border-bottom: 1px solid var(--gold);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.3rem 0.5rem;
+        }
+
+        nav a {
+            color: var(--burgundy);
+            text-decoration: none;
+            font-weight: bold;
+            padding: 0.5rem 0.8rem;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+            border-radius: 4px;
+            white-space: nowrap;
+        }
+
+        nav a:hover {
+            background: var(--gold);
+            color: var(--dark-burgundy);
+        }
+
+        main {
+            max-width: 1320px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        h1 {
+            color: var(--parchment);
+            margin: 0;
+        }
+
+        h2 {
+            color: var(--burgundy);
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+
+        .scholar-section {
+            background: white;
+            padding: 1.5rem 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .scholar-entry {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--dark-parchment);
+        }
+
+        .scholar-entry:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+
+        .scholar-entry h3 {
+            color: var(--dark-burgundy);
+            font-size: 1.2rem;
+            margin: 0 0 0.25rem 0;
+        }
+
+        .scholar-entry .dates {
+            font-size: 0.9rem;
+            color: var(--text-light);
+            font-style: italic;
+            margin-bottom: 0.75rem;
+        }
+
+        .scholar-entry p {
+            margin: 0;
+            font-size: 0.97rem;
+            color: var(--text);
+        }
+
+        .alpha-index {
+            background: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem 0.75rem;
+        }
+
+        .alpha-index a {
+            color: var(--burgundy);
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1rem;
+            padding: 0.2rem 0.5rem;
+            border-radius: 3px;
+        }
+
+        .alpha-index a:hover {
+            background: var(--gold);
+            color: var(--dark-burgundy);
+        }
+
+        .back-btn {
+            display: block;
+            width: fit-content;
+            align-items: center;
+            margin: 2rem auto 0;
+            padding: 0.6rem 1.2rem;
+            min-height: 44px;
+            background: var(--gold);
+            color: var(--dark-burgundy);
+            border-radius: 4px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        /* ── MOBILE ── */
+        @media (max-width: 600px) {
+            header {
+                padding: 1.2rem 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            main {
+                margin: 1.5rem auto;
+                padding: 0 1rem;
+            }
+
+            .scholar-section {
+                padding: 1rem 1.2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Scholars</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="artists.html">Artists</a>
+        <a href="churches.html">Churches</a>
+        <a href="codices.html">Codices</a>
+        <a href="papers.html">Papers</a>
+        <a href="scholars.html">Scholars</a>
+    </nav>
+    <main>
+
+        <div class="alpha-index">
+            <a href="#b">B</a>
+            <a href="#d">D</a>
+            <a href="#g">G</a>
+            <a href="#l">L</a>
+            <a href="#s">S</a>
+            <a href="#t">T</a>
+            <a href="#v">V</a>
+        </div>
+
+        <section class="scholar-section" id="b">
+            <h2>B</h2>
+
+            <div class="scholar-entry">
+                <h3>Bertelli, Carlo</h3>
+                <p class="dates">b. Florence, 1935</p>
+                <p>Italian art historian and former Soprintendente of the Pinacoteca di Brera in Milan. One of the
+                    foremost specialists in early medieval and pre-Romanesque painting in northern Italy, Bertelli
+                    produced fundamental studies of the frescoes of Castelseprio (Santa Maria Foris Portas) and the
+                    broader tradition of Lombard monumental painting in the ninth and tenth centuries. His work on the
+                    Ambrosian pictorial tradition and its articulation within the cultural networks of Carolingian and
+                    Ottonian patronage constitutes an essential methodological framework for understanding artists such
+                    as the Maestro di Galliano. Bertelli also held important roles in major restoration campaigns and
+                    contributed to several canonical survey volumes on Italian medieval art.</p>
+            </div>
+
+            <div class="scholar-entry">
+                <h3>Boskovits, Miklós</h3>
+                <p class="dates">Budapest, 1935 – Florence, 2011</p>
+                <p>Hungarian-Italian art historian and one of the towering figures of twentieth-century research on
+                    early Italian panel painting. Educated in Budapest and subsequently based in Florence, where he
+                    worked at the Kunsthistorisches Institut, Boskovits devoted his career to the systematic
+                    reconstruction of anonymous artistic personalities and the elucidation of attribution problems in
+                    Duecento and Trecento painting. His 1988 identification of the Florentine painter Grifo di Tancredi,
+                    achieved by connecting a fragmentary workshop inscription to a group of works previously attributed
+                    to the anonymous Master of San Gaggio, stands as a model of connoisseurial method. He was equally
+                    authoritative on Cimabue — confirming key attributions including a small <em>Maestà</em> discovered
+                    in a French farmhouse — and contributed major entries to the corpus of works associated with Coppo
+                    di Marcovaldo, the Maestro della Maddalena, and the Maestro del Dossale di Yale. His multi-volume
+                    <em>Italian Paintings before 1400</em> for the National Gallery of Art in Washington remains a
+                    fundamental reference tool.
+                </p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="d">
+            <h2>D</h2>
+
+            <div class="scholar-entry">
+                <h3>De Francovich, Géza</h3>
+                <p class="dates">Budapest, 1902 – Rome, 1980</p>
+                <p>Hungarian-born art historian who settled in Italy and became one of the principal authorities on
+                    medieval sculpture and painting, with particular focus on the problem of trans-Alpine artistic
+                    exchange in the pre-Romanesque and early Romanesque periods. Associated with the Istituto Nazionale
+                    di Archeologia e Storia dell'Arte in Rome, de Francovich contributed prolifically to Italian art
+                    historical journals, publishing detailed formal analyses that shaped the discipline's vocabulary.
+                    His extended study of the Galliano frescoes, published in two instalments in <em>Rivista
+                        dell'Istituto Nazionale d'Archeologia e Storia dell'Arte</em> (1942–1944), remains the most
+                    thorough formal treatment of the apse cycle and established the critical characterization — the
+                    figures inhabiting a dimension simultaneously "hyper-real and metaphysical" — that has anchored all
+                    subsequent scholarship. A further contribution in 1955 refined his analysis of the relationship
+                    between the Galliano master and the Reichenau school and opened the comparative discussion with the
+                    roughly contemporaneous Catalan painter known as the Maestro di Pedret.</p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="g">
+            <h2>G</h2>
+
+            <div class="scholar-entry">
+                <h3>Garrison, Edward B.</h3>
+                <p class="dates">United States, 1908 – 1983</p>
+                <p>American art historian and specialist in Italian Romanesque panel painting, author of the
+                    foundational four-volume catalogue <em>Italian Romanesque Panel Painting: An Illustrated Index</em>
+                    (Florence, 1949–1962), which systematically documented early Italian painted panels and established
+                    the scholarly framework within which anonymous masters such as Maestro Guglielmo could be assessed.
+                    Garrison's patient archival and connoisseurial work identified stylistic relationships between
+                    objects previously treated in isolation, and his 1953 identification of connections between the
+                    Sarzana Cross and the Passionary P+ manuscript initiated the scholarly programme of reconstructing
+                    Guglielmo's broader artistic activity. His indices remain an indispensable reference for any
+                    researcher working on Italian Romanesque and early Duecento painting.</p>
+            </div>
+
+            <div class="scholar-entry">
+                <h3>Ghiberti, Lorenzo</h3>
+                <p class="dates">Florence, 1378 – Florence, 1455</p>
+                <p>Florentine sculptor, goldsmith, and early art chronicler, celebrated above all for the two sets of
+                    bronze doors for the Baptistery of Florence — the second of which Michelangelo later called the
+                    "Gates of Paradise." Alongside his activity as one of the foremost artists of the early Renaissance,
+                    Ghiberti composed the <em>Commentarii</em> (c. 1447–1455), a three-part text that stands as the
+                    earliest sustained attempt at a history of Italian art from ancient times to Ghiberti's own day. The
+                    <em>Commentarii</em> preserve important biographical and critical notices on Trecento masters —
+                    including Giotto, Cimabue, and the Berlinghieri family — that corroborate, amplify, or occasionally
+                    contradict the later accounts compiled by Vasari, and they remain a primary source for understanding
+                    how the art of the Duecento and Trecento was perceived by an informed contemporary witness working
+                    one generation after the style's apogee.
+                </p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="l">
+            <h2>L</h2>
+
+            <div class="scholar-entry">
+                <h3>Longhi, Roberto</h3>
+                <p class="dates">Alba, 1890 – Florence, 1970</p>
+                <p>Perhaps the most influential Italian art historian of the twentieth century, Roberto Longhi
+                    transformed the study of Italian painting across virtually every period through a combination of
+                    incisive connoisseurship, vivid critical prose, and an extraordinary gift for visual analysis. After
+                    formative studies in Turin and Rome, he held the chair of art history at the University of Bologna
+                    and subsequently at Florence, where his teaching and publications shaped generations of scholars.
+                    His contributions to medieval art history include foundational studies of Cimabue, the Maestro
+                    Consolo, and the Roman school of the late Duecento, as well as path-breaking assessments of the role
+                    of anonymous masters in the formation of the Florentine and Sienese traditions. Longhi also coined
+                    or refined several of the critical terms — including the attribution of anonymous works to
+                    reconstructed artistic personalities — that became standard tools of the scholarly literature. He
+                    founded the journal <em>Paragone</em> in 1950, which under his editorship became the most
+                    prestigious Italian venue for art historical studies, and the Fondazione Roberto Longhi in Florence,
+                    established in his name, remains a leading centre for doctoral training in the history of Italian
+                    art.</p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="s">
+            <h2>S</h2>
+
+            <div class="scholar-entry">
+                <h3>Salvini, Roberto</h3>
+                <p class="dates">Modena, 1912 – Florence, 1985</p>
+                <p>Italian art historian and university professor whose scholarly interests ranged from Romanesque
+                    sculpture and early medieval painting to early Netherlandish and Renaissance art. He held chairs at
+                    the universities of Trieste and Florence and contributed extensively to the <em>Enciclopedia
+                        Universale dell'Arte</em>. His 1954 study of the Galliano frescoes engaged systematically with
+                    questions of iconographic programme, stylistic chronology, and the relative dating of the apse and
+                    nave campaigns, building on the analytical foundations laid by Toesca and de Francovich. The study
+                    is regularly cited in the subsequent specialist literature as a standard point of reference for
+                    attribution and dating questions, and Salvini's broader work on the Romanesque in Italy and Germany
+                    helped establish a comparative framework for understanding the trans-Alpine exchanges that shaped
+                    the Galliano master's formation.</p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="t">
+            <h2>T</h2>
+
+            <div class="scholar-entry">
+                <h3>Toesca, Pietro</h3>
+                <p class="dates">Turin, 1877 – Rome, 1962</p>
+                <p>The preeminent Italian art historian of the medieval period and the founding figure of the systematic
+                    study of Lombard painting. After formative studies in Turin under Adolfo Venturi, Toesca held the
+                    chair of history of medieval and modern art successively at Turin and at the Università degli Studi
+                    di Roma, where he taught from 1923 until his retirement. His <em>La pittura e la miniatura nella
+                        Lombardia dai più antichi monumenti alla metà del Quattrocento</em> (Milan, 1912) constitutes
+                    the first comprehensive scholarly treatment of Lombard painting from late antiquity through the
+                    early Renaissance, and it established the Maestro di Galliano as a major artistic personality and
+                    defined the terms of all subsequent discussion of the Galliano frescoes. His two-volume <em>Storia
+                        dell'arte italiana</em> — comprising <em>Il Medioevo</em> (Turin, 1927) and <em>Il Trecento</em>
+                    (Turin, 1951) — established the canon of Italian medieval art history for much of the twentieth
+                    century and remains an indispensable reference. Toesca is cited across virtually the entire database
+                    as the ultimate scholarly authority on the pre-Duecento period.</p>
+            </div>
+        </section>
+
+        <section class="scholar-section" id="v">
+            <h2>V</h2>
+
+            <div class="scholar-entry">
+                <h3>Van Marle, Raimond</h3>
+                <p class="dates">The Hague, 1888 – Perugia, 1936</p>
+                <p>Dutch art historian who spent much of his career in Italy and produced the monumental eighteen-volume
+                    <em>The Development of the Italian Schools of Painting</em> (The Hague, 1923–1938), the most
+                    encyclopaedic survey of Italian painting from its origins to the sixteenth century ever attempted by
+                    a single scholar. Though inevitably uneven in its attributions and assessments — and substantially
+                    revised by subsequent scholarship — the work remains an invaluable documentary resource for tracing
+                    the state of knowledge at the time of writing and for its systematic cataloguing of works that have
+                    since been lost or dispersed. Van Marle's treatment of the Duecento and Trecento, including his
+                    extended notices on the Berlinghieri family, Cimabue, and the Roman school, provided the
+                    bibliographic infrastructure within which mid-twentieth-century revision by scholars such as Toesca,
+                    Longhi, and Boskovits could operate. He died in Perugia before the final volumes of his
+                    encyclopaedia were complete.
+                </p>
+            </div>
+
+            <div class="scholar-entry">
+                <h3>Vasari, Giorgio</h3>
+                <p class="dates">Arezzo, 1511 – Florence, 1574</p>
+                <p>Florentine architect, painter, and the most influential art historian of the early modern period,
+                    whose <em>Le vite de' più eccellenti pittori, scultori e architettori</em> (Florence, 1550; revised
+                    and enlarged edition, 1568) established the canonical narrative of Italian art history from Cimabue
+                    to Michelangelo. Articulating a teleological model in which art was understood to pass through
+                    cycles of birth, growth, decay, and rebirth, Vasari positioned the medieval period as an era of
+                    decline from ancient Roman standards, characterised by what he called the <em>maniera greca</em> —
+                    the Byzantine-influenced style he described as "clumsy" and backward — from which Italian painting
+                    was rescued by Cimabue and his pupil Giotto. This framework, while enormously productive in
+                    organizing the historical material, has been recognized by modern scholarship as distorting in its
+                    devaluation of medieval artistic achievement on its own terms; yet the <em>Vite</em> remain an
+                    irreplaceable primary source, preserving biographical notices, workshop traditions, and critical
+                    perceptions not recoverable from any other source. Vasari is cited throughout this database as an
+                    early written witness for works and attributions that must be weighed critically against documentary
+                    and material evidence.</p>
+            </div>
+        </section>
+
+        <a href="index.html" class="back-btn">← Back to Home</a>
+    </main>
+</body>
+
+</html>

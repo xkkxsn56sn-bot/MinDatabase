@@ -127,7 +127,7 @@
 
         .content-grid {
             display: grid;
-            grid-template-columns: repeat(4, minmax(0, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
             gap: 2rem;
             margin-bottom: 3rem;
         }
@@ -223,12 +223,6 @@
         }
 
         /* ── MOBILE ── */
-        @media (max-width: 900px) {
-            .content-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-
         @media (max-width: 600px) {
             header {
                 padding: 1.5rem 1rem;
@@ -346,6 +340,17 @@
                     <li>Interdisciplinary Studies</li>
                 </ul>
                 <a href="papers.html" class="btn">Read Papers</a>
+            </div>
+
+            <div class="card">
+                <h3>Scholars</h3>
+                <p>Biographical notes on the historians and critics whose scholarship underpins this database.</p>
+                <ul class="collections">
+                    <li>Founding Historians</li>
+                    <li>Connoisseurs & Attribution</li>
+                    <li>Early Sources</li>
+                </ul>
+                <a href="scholars.html" class="btn">Browse Scholars</a>
             </div>
         </section>
 
