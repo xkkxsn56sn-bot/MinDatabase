@@ -193,7 +193,7 @@ The damage has preserved mainly the upper parts, allowing identification through
 
 ### Madonna and Child with Angels and Saints
 
-figure>
+<figure>
   <img src="/images/Maestro Tressa/image 4.jpg" alt="Madonna and Child with Angels and Saints">
   <figcaption>Madonna and Child with Angels and Saints, c. 1240, tempera and gold leaf on panel, 93 x 52 cm, Chigi Saracini Collection, Siena. </figcaption>
 </figure>
