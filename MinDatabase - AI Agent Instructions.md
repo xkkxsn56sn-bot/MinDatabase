@@ -413,6 +413,34 @@ Church essays and artist essays interlink through shared geographic/temporal con
 - Paragraph breaks: Double newlines between paragraphs; single newlines within continuous prose
 - Long quotations from archival sources embedded inline with context; no separate blockquote formatting
 
+## Footnote Conventions
+
+All footnotes throughout the site use HTML anchor syntax, not Markdown `[^N]` syntax. The Markdown footnote format is **never** used.
+
+### Inline reference (in body text)
+Place immediately after the annotated term or phrase, with no space before it:
+```html
+monastery of Korwey<a id="fnref:1" href="#fn:1" class="footnote"><sup>1</sup></a>
+```
+
+### Definition block (end of file)
+A single `<ol class="footnotes">` block appears at the very end of the file, after all prose sections. Each item uses this structure:
+```html
+<ol class="footnotes">
+  <li id="fn:1">
+    <p>Footnote text here. <a href="#fnref:1" class="footnote__back" aria-label="Back to reference">↩</a></p>
+  </li>
+  <li id="fn:2">
+    <p>Footnote text here. <a href="#fnref:2" class="footnote__back" aria-label="Back to reference">↩</a></p>
+  </li>
+</ol>
+```
+
+### Numbering rules
+- Numbers run sequentially (1, 2, 3…) in the order they first appear in the body text, top to bottom
+- The `<li>` items in the definition block must follow the same top-to-bottom order
+- If a new footnote is inserted earlier in the text than existing ones, renumber all subsequent references to keep inline order and definition order in sync
+
 ## Media and Image Guidelines
 
 ### Current State: Text-Only Repository
