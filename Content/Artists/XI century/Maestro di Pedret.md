@@ -281,7 +281,6 @@ The program at Sant Pere de Burgal serves as a visual compendium of Christian th
 In the context of a small abbey community along the Noguera de Ribagorça river, the Sant Pere de Burgal cycle is not merely decoration, but a tool for visual theological education, for reinforcing ecclesiastical authority, and for celebrating the memory of the founders and patrons.
 
 The Sant Pere de Burgal cycle is considered one of the central points in defining the “Master of Pedret” as a critical convention, alongside the frescoes of Santa Maria d’Àneu, Sant Quirze de Pedret, and Sant Pere d’Àger. Precisely for this reason, the fragments from Burgal on display at the MNAC constitute a sort of key to understanding the circulation of Lombard models, the unity of the figurative language of the Pyrenees, and the echo of a monastic culture deeply rooted in Gregorian theology.
----
 
 <ol class="footnotes">
   <li id="fn:1">
