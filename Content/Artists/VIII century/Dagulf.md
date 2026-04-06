@@ -214,12 +214,16 @@ The corpus of work attributable to Dagulf is singular and definitive: the manusc
 
 The physical form of the Dagulf Psalter is as significant as its textual content. Produced around the year 800 CE, it is a prime example of late 8th-century Carolingian manuscript production. The manuscript was written in Caroline Minuscule, a script developed under Charlemagne's patronage to standardize Latin writing and improve legibility. Dagulf’s execution of this script is exemplary, demonstrating a mastery of calligraphy that made the text both easy to read and aesthetically pleasing. The pages are adorned with ornamental initials and other decorative elements, the work of an unknown illuminator who collaborated with the scribe. These decorations would have served to mark the beginning of new sections and to add visual splendor to the sacred text. The use of gold leaf and vibrant mineral pigments would have made the manuscript shimmer, enhancing its aura of majesty and holiness. The combination of precise, linear script and colorful, figurative illumination creates a harmonious and balanced whole. The entire manuscript, from the quality of the parchment to the elegance of the script and the richness of the decoration, testifies to the high status of its commission and the exceptional skill of its creators. It was designed not just to contain the words of God but to make those words beautiful and worthy of veneration.
 
+### Dagulf's Psalter, folio 68r
+
 <figure>
   <img src="/images/Dagulf/image 2.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
   <figcaption>Dagulf's Psalter (folio 68r), 782-95, 192 x 120 mm, Codex 1861, Österreichische Nationalbibliothek, Vienna.</figcaption>
 </figure>
 
 The patronage behind the Dagulf Psalter is clearly documented and of immense historical importance. The manuscript was made by order of Charlemagne, the Emperor of the Carolingian Empire, who was the supreme political and cultural patron of his age. This commission demonstrates Charlemagne's direct involvement in cultural projects and his use of art as a tool of statecraft and religious policy. By directing the creation of such a magnificent book, he was asserting the cultural preeminence of his empire and his role as the protector of Christendom. The psalter was not intended for private use by the Emperor but was destined for a specific recipient: Pope Hadrian I. This act of gifting a luxury manuscript to the Pope was a powerful diplomatic gesture, reinforcing the close alliance between the Frankish monarchy and the Papacy. The relationship between Charlemagne and Pope Hadrian I was symbiotic; the Pope provided spiritual legitimacy for the Emperor's rule, while the Emperor offered military and political protection to the Papal States. The Dagulf Psalter stands as a physical symbol of this relationship, a gift that articulated the unity of the two powers. The involvement of these two towering figures gives the manuscript an unparalleled historical weight, transforming it from a mere object into a document of state.
+
+### Dagulf's Psalter, folio 109r
 
 <figure>
   <img src="/images/Dagulf/image 3.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
