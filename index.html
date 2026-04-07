@@ -127,18 +127,26 @@
 
         .content-grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(4, minmax(240px, 280px));
+            justify-content: center;
             gap: 2rem;
             margin-bottom: 3rem;
         }
 
         .card {
             background: white;
+            width: 100%;
             padding: 2rem;
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-top: 4px solid var(--gold);
+        }
+
+        @media (max-width: 1200px) {
+            .content-grid {
+                grid-template-columns: repeat(2, minmax(240px, 320px));
+            }
         }
 
         .card:hover {
