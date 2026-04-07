@@ -207,6 +207,8 @@ The figured poems employ multiple scripts including Rustic Capitals and Uncials 
 
 The final figured poem presents an author portrait showing Rhabanus himself kneeling in prayer before the cross, with text in red uncials outlined by his tonsured figure asking Christ to protect "Rabanus myself". Each figured poem is accompanied by a prose explanation (*declaratio figurae*) that elucidates the symbolic meanings embedded in the visual-textual composition, providing readers with interpretive guidance. The work concludes with prose paraphrases of all the figured poems, creating multiple textual levels that enhance the reader's understanding of the complex symbolic systems employed throughout. The survival of approximately eighty manuscript copies from the ninth through twelfth centuries attests to the work's extraordinary popularity and influence on medieval manuscript production.
 
+### De Universo (The building of the Tower of Babel)
+
 <figure>
   <img src="/images/Rhabanus/image 3.jpg" alt="The building of the Tower of Babel - De Universo">
   <figcaption>De Universo (The building of the Tower of Babel), c. 1023, mineral and vegetal pigments parchment, 490 x 350 mm, Monastery Library, Montecassino, Cod. 132.</figcaption>

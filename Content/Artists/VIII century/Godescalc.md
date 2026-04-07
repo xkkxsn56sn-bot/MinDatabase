@@ -202,6 +202,8 @@ The artistic influences at work in the Godescalc Evangelistary are best understo
 
 Yet such classicism is never simply antiquarian; it is pressed into service as a means of representing inspired authors whose intellectual authority undergirds Carolingian law and worship. The early Christian heritage, transmitted through late antique Gospel books and purple codices such as the Vienna Genesis, provides models for the integration of text, color, and sacred figuration. In this context, the Evangelistary aligns itself with a prestigious continuum of imperial Christian books while simultaneously marking a new beginning. The manuscript thus functions as a hinge between the Roman and Carolingian worlds, visually negotiating continuity and innovation.
 
+### From the Rabula Gospels depicting the Crucifixion in the upper panel and the Resurrection in the lower panel
+
 <figure>
   <img src="/images/Godescalc/image 1.jpg" alt="Rabula Gospels">
   <figcaption>Miniature painting from the Rabula Gospels depicting the Crucifixion in the upper panel and the Resurrection in the lower panel, 586, mineral and vegetal pigments on vellum parchment, 340 x 270 mm, Biblioteca Medicea Laurenziana, Cod. Plut. I, 56, fol. 13r.</figcaption>
