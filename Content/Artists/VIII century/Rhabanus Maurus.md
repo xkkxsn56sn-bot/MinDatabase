@@ -115,6 +115,17 @@ meta:
       - "Medieval illumination"
       - "Patristic exegesis"
       - "Praeceptor Germaniae"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Alcuin of York"
+        url: "/Content/Scholars/Alcuin%20of%20York.html"
+      - title: "Otgar of Mainz"
+        url: "/Content/Scholars/Otgar%20of%20Mainz.html"
+      - title: "De laudibus sanctae crucis"
+        url: "/Content/Codex/De%20laudibus%20sanctae%20crucis.html"
+      - title: "De universo"
+        url: "/Content/Codex/De%20universo.html"
 ---
 
 *Rhabanus Maurus Magnentius* (c. 780–856) stands as one of the most significant scholars and artistic innovators of the Carolingian Renaissance, whose contributions to medieval manuscript illumination and pattern poetry profoundly influenced the development of text-image synthesis in European culture. Born in Mainz around 780 to a noble Frankish family, he became a Benedictine monk, theologian, encyclopedist, and eventually Archbishop of Mainz, earning the title *Praeceptor Germaniae* (Teacher of Germany) for his scholarly achievements. His artistic legacy centers primarily on his revolutionary work in manuscript illumination, particularly his masterpiece *De laudibus sanctae crucis* (In Praise of the Holy Cross), which represents the pinnacle of Carolingian carmina figurata—pattern poems that create visual images through the arrangement of text. 
