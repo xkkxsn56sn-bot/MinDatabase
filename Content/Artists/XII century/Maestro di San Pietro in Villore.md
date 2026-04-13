@@ -107,6 +107,7 @@ One of the most striking features of the Villore work is the presence of four fu
 The style therefore joins monumentality to an unexpectedly delicate refinement, avoiding both crude simplification and the harder geometrization associated with some later Byzantineizing tendencies. Its overall effect is to combine doctrinal authority, decorative intelligence, and measured emotional resonance in a manner of real importance for the earliest history of Sienese panel painting.
 
 ## Artistic influences
+
 The master’s art belongs to a central Italian world in which Tuscan and Umbro-Spoletan traditions were in active dialogue, and modern scholarship repeatedly notes affinities with the Spoleto area. The possible Umbrian connection has even led some writers to hypothesize a Spoletan origin for the painter, although this remains a stylistic proposal rather than a documented fact. A key comparison is the Porziano Cross, a work of the Spoleto school now in the Treasury Museum of the Basilica of San Francesco at Assisi, because it clarifies the identity of the woman gathering Christ’s blood and illuminates the master’s iconographic culture. Through that comparison, what at first seems an isolated motif becomes part of a broader central Italian repertoire of crucifix imagery.
 
 The Sant’Antimo crucifix confirms the same network of influences, since its delicate surviving colors, translucent passages, incisive drawing, and comparison with the signed Spoletan cross of Alberto Sotio dated 1187 have all been emphasized in the literature. These parallels suggest that the master worked within a stylistic horizon open to Umbrian models while adapting them to Tuscan devotional expectations. At the same time, the painter has been described as a distant antecedent of the Maestro di Tressa and, more broadly, of that line of development which culminated in the mature Duecento culture associated with Margarito d’Arezzo. This assessment places the Maestro di San Pietro in Villore not at the edge of Sienese art, but close to the origins of its earliest painted-panel tradition.
@@ -118,6 +119,10 @@ His artistic influences should therefore not be reduced to passive borrowing, be
 No document records the master’s travels, yet the distribution of the works associated with him suggests an operative range across southern Tuscany, especially between San Giovanni d’Asso, Pienza, Sant’Antimo, and Montalcino. Rather than imagining long or prestigious journeys, it is safer to think of a painter or workshop active within a connected ecclesiastical landscape shaped by roads, abbeys, and rural churches.
 
 The date and cause of death are, like the birth data, unknown, because the artist remains unattested in surviving biographical documentation. Any precise statement concerning his death would therefore exceed the evidence and would not satisfy academic standards of historical method.
+
+## Works
+
+### Christ Triumphant
 
 <figure>
  <img src="/images/Maestro San Pietro in Villore/image 1.jpg" alt="Christ Triumphant">
