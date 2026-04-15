@@ -1,27 +1,60 @@
-# MinDatabase
+# Personal Python Scripts
 
-"I saw the angel in the marble and carved until I set him free." (Michelangelo Buonarrori)
+Questa cartella contiene script Python personali e un launcher unico (`main.py`) per eseguirli rapidamente.
 
-## Repository Structure
+## Setup veloce
 
-MinDatabase is a scholarly knowledge repository documenting medieval Italian artists (13th-14th centuries, Duecento/Trecento periods) through detailed academic essays.
+1. Crea/attiva ambiente virtuale:
 
-### Content Organization
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
 
-All content is organized under the **`Content/`** directory:
+2. Installa dipendenze Python:
 
-- **`Content/Artists/`** - Artist biographies organized by century (VII, VIII, X, XI, XII, XIII, XIII-XIV, XIV)
-- **`Content/Churches/`** - Church and institutional essays
-- **`Content/Codex/`** - Historical documents
-- **`Content/Papirer/`** - Artwork or paper studies
-- **`Content/prompts/`** - Planning and prompt templates
+```bash
+pip install -r requirements.txt
+```
 
-### Documentation
+3. Installa dipendenze di sistema (richieste da alcuni script):
 
-For complete guidelines on contributing to this repository, including content structure, file naming conventions, and commit workflows, please refer to:
+```bash
+brew install pandoc libreoffice
+```
 
-**[MinDatabase - AI Agent Instructions.md](MinDatabase%20-%20AI%20Agent%20Instructions.md)**
+Per conversione PDF con `xelatex`, installa anche una distribuzione TeX (es. MacTeX).
 
-### Note on Repository Reorganization
+## Uso di main.py
 
-The `docs/` folder has been deprecated and should be removed. All content is maintained exclusively in `Content`.
+Elenca gli script disponibili:
+
+```bash
+python main.py list
+```
+
+Esegui uno script tramite chiave:
+
+```bash
+python main.py run md_to_pdf_batch -- --help
+```
+
+Note:
+- Le chiavi sono generate automaticamente dai nomi file in `scripts/`.
+- In alternativa puoi passare il nome file esatto (incluso `.py`).
+- Tutti gli argomenti dopo `--` vengono inoltrati allo script scelto.
+
+## Task VS Code
+
+Sono disponibili task in `.vscode/tasks.json`:
+
+- Python: List Personal Scripts
+- Python: Run Personal Script
+
+Uso:
+
+1. Apri Command Palette e avvia Run Task.
+2. Seleziona Python: List Personal Scripts per vedere le chiavi disponibili.
+3. Seleziona Python: Run Personal Script e inserisci:
+	- scriptKey: la chiave script mostrata dalla task list
+	- scriptArgs: argomenti opzionali (esempio: `--help`)
