@@ -76,8 +76,6 @@ Content/
 │   ├── XIII century/
 │   │   ├── add_sections.py      # Python utility for inserting ## headings (described below)
 │   │   └── [Artist Name].md
-│   ├── XIII-XIV century/
-│   │   └── [Artist Name].md
 │   └── XIV century/
 │       └── [Artist Name].md
 ├── Churches/
@@ -100,7 +98,6 @@ Use the artist's primary active period (not birth) to pick the folder. When unce
 - **XI century**: Active 1000s
 - **XII century**: Active 1100s
 - **XIII century**: Active 1200s (Duecento)
-- **XIII-XIV century**: Career spans late 1200s into early 1300s without a clear dominant decade
 - **XIV century**: Active 1300s (Trecento)
 
 If an artist's only secure date is a single commission, file by that commission's date. If multiple commissions cluster in one century, use that century even if the artist's life crosses the boundary.
@@ -734,7 +731,6 @@ MinDatabase/
 │   │   ├── XIII century/
 │   │   │   ├── add_sections.py    # Section heading insertion utility
 │   │   │   └── [Artist Name].md
-│   │   ├── XIII-XIV century/
 │   │   └── XIV century/
 │   ├── Churches/
 │   │   └── [Church Name].md       # Church/institutional essays
