@@ -1,5 +1,10 @@
 ## Plan: Add Repo-Level Copilot Instructions
 
+**Non-Negotiable Formatting Rule**
+- Use only HTML footnotes with a single `<ol class="footnotes">` block at the end of each file.
+- Inline references must use linked anchors (for example, `href="#fn:1"` and back-link `href="#fnref:1"`).
+- Never use Markdown footnotes (`[^1]` / `[^1]: ...`) anywhere in the site.
+
 This repo is a content-only Markdown knowledge base with long-form academic essays under Content/.github/Artists (century subfolders), Content/.github/Churches, Content/.github/Codex, and Content/.github/Papirer. You want a root instructions file at MinDatabase - AI Agent Instructions.md covering the entire repo, while leaving any existing Papirer-specific instructions in place. The plan is to draft a concise, repo-wide instruction set that reflects the observed structure, writing conventions, and citation patterns, and to reference any Papirer-specific instructions for that subarea.
 
 **Steps**
