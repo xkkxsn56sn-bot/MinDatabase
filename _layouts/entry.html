@@ -22,6 +22,12 @@
       </p>
       {% endif %}
 
+      {% if page.dates %}
+      <p class="entry__meta-line">
+        <span class="entry__dates">{{ page.dates }}</span>
+      </p>
+      {% endif %}
+
       <button id="theme-toggle" type="button" aria-label="Toggle dark mode" class="entry__theme-toggle">
         Day / Night mode
       </button>
@@ -37,29 +43,41 @@
             <h3 class="meta-block__title">{{ block.title }}</h3>
 
             {% if block.pairs %}
-            <dl class="meta-block__dl">
-              {% for pair in block.pairs %}
-              <dt>{{ pair.label }}</dt>
-              <dd>{{ pair.value }}</dd>
-              {% endfor %}
-            </dl>
+            <div class="meta-block__dl" role="list">
+              {%- for pair in block.pairs -%}
+              <div class="meta-block__pair" role="listitem">
+                <p class="meta-block__term">{{ pair.label }}</p>
+                <p class="meta-block__value">{{ pair.value }}</p>
+              </div>
+              {%- endfor -%}
+            </div>
             {% endif %}
 
             {% if block.list %}
-            <ul class="meta-block__list">
-              {% for item in block.list %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
+            <div class="meta-block__list" role="list">
+              {%- for item in block.list -%}
+              <div class="meta-block__list-item" role="listitem">{{ item }}</div>
+              {%- endfor -%}
+            </div>
             {% endif %}
 
             {% if block.links %}
-            <ul class="meta-block__list">
-              {% for link in block.links %}
-              <li>{% if link.url %}<a href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title
-                }}{% endif %}</li>
-              {% endfor %}
-            </ul>
+            <div class="meta-block__list" role="list">
+              {%- for link in block.links -%}
+              <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
+                  href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
+              {%- endfor -%}
+            </div>
+            {% endif %}
+
+            {% if block.note %}
+            <p class="meta-block__note">{{ block.note }}</p>
+            {% endif %}
+
+            {% if block.paragraphs %}
+            {%- for paragraph in block.paragraphs -%}
+            <p class="meta-block__paragraph">{{ paragraph }}</p>
+            {%- endfor -%}
             {% endif %}
           </section>
           {% endfor %}
@@ -83,8 +101,36 @@
       </aside>
     </div>
 
+    {% assign back_url = '/artists.html' %}
+    {% assign back_label = 'Back to Artists' %}
+    {% assign has_saints_page = false %}
+    {% for nav_page in site.pages %}
+    {% if nav_page.url == '/saints.html' %}
+    {% assign has_saints_page = true %}
+    {% break %}
+    {% endif %}
+    {% endfor %}
+    {% if page.url contains '/Content/Churches/' %}
+    {% assign back_url = '/churches.html' %}
+    {% assign back_label = 'Back to Churches' %}
+    {% elsif page.url contains '/Content/Codex/' %}
+    {% assign back_url = '/codices.html' %}
+    {% assign back_label = 'Back to Codices' %}
+    {% elsif page.url contains '/Content/Papers/' %}
+    {% assign back_url = '/papers.html' %}
+    {% assign back_label = 'Back to Papers' %}
+    {% elsif page.url contains '/Content/Saints/' %}
+    {% if has_saints_page %}
+    {% assign back_url = '/saints.html' %}
+    {% assign back_label = 'Back to Saints' %}
+    {% else %}
+    {% assign back_url = '/scholars.html' %}
+    {% assign back_label = 'Back to Scholars' %}
+    {% endif %}
+    {% endif %}
+
     <nav class="entry__nav-footer" aria-label="Page navigation">
-      <a href="/artists.html" class="entry__nav-btn">Back to Artists</a>
+      <a href="{{ back_url | relative_url }}" class="entry__nav-btn">{{ back_label }}</a>
     </nav>
 
   </article>
