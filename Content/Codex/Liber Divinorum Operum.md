@@ -46,13 +46,10 @@ related_entries:
   - title: "Scivias"
     url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
   - title: "Liber Vitae Meritorum"
-    url: "/Content/Codex/Liber%20Vitae%20Meritorum.html"
   - title: "Hildegard of Bingen"
-    url: "/Content/Artists/Hildegard%20of%20Bingen.html"
   - title: "Rupertsberg and Eibingen convents"
-    url: "/Content/Churches/Rupertsberg%20and%20Eibingen.html"
   - title: "Lucca MS 1942 and Hildegard’s manuscript tradition"
-    url: "/Content/Codex/Lucca%20MS%201942%20Hildegard.html"
+  
 
 category: "codex"
 
@@ -110,7 +107,6 @@ meta:
         url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
       - title: "Liber Vitae Meritorum"
       - title: "Hildegard of Bingen"
-        url: "/Content/Artists/Hildegard%20of%20Bingen.html"
       - title: "Rupertsberg and Eibingen convents"
       - title: "Lucca MS 1942 and Hildegard’s manuscript tradition"
 ---

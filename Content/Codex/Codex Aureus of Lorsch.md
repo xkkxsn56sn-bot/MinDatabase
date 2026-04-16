@@ -59,9 +59,7 @@ related_entries:
   - title: "Codex Aureus of Saint Emmeram"
     url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
   - title: "Lorsch Abbey"
-    url: "/Content/Churches/Lorsch%20Abbey.html"
   - title: "Aachen, Palatine Chapel and court scriptorium"
-    url: "/Content/Churches/Aachen%20Palatine%20Chapel.html"
 
 category: "codex"
 
@@ -119,9 +117,7 @@ meta:
       - title: "Codex Aureus of Saint Emmeram"
         url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
       - title: "Lorsch Abbey"
-        url: "/Content/Churches/Lorsch%20Abbey.html"
       - title: "Aachen, Palatine Chapel and court scriptorium"
-        url: "/Content/Churches/Aachen%20Palatine%20Chapel.html"
 ---
 
 

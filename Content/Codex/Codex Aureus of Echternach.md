@@ -36,13 +36,11 @@ thematic_keywords:
 
 related_entries:
   - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
   - title: "Golden Gospels of Henry III"
-    url: "/Content/Codex/Golden%20Gospels%20of%20Henry%20III.html"
   - title: "Book of Kells"
     url: "/Content/Codex/Book%20of%20Kells.html"
   - title: "Echternach Abbey"
-    url: "/Content/Churches/Echternach%20Abbey.html"
 
 category: "codex"
 
@@ -92,13 +90,11 @@ meta:
   - title: "Related entries"
     links:
       - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
       - title: "Golden Gospels of Henry III"
-        url: "/Content/Codex/Golden%20Gospels%20of%20Henry%20III.html"
       - title: "Book of Kells"
         url: "/Content/Codex/Book%20of%20Kells.html"
       - title: "Echternach Abbey"
-        url: "/Content/Churches/Echternach%20Abbey.html"
 ---
 
 

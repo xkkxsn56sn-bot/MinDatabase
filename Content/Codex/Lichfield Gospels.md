@@ -74,7 +74,7 @@ related_entries:
   - title: "Book of Kells"
     url: "/Content/Codex/Book%20of%20Kells.html"
   - title: "Eadfrith of Lindisfarne"
-    url: "/Content/Artists/VIII%20century/Eadfrith%20di%20Lindisfarne.html"
+    url: "/Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html"
 
 category: "codex"
 

@@ -36,7 +36,7 @@ thematic_keywords:
 
 related_entries:
   - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
   - title: "Codex Aureus of Echternach"
     url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
   - title: "Codex Aureus of Saint Emmeram"
@@ -90,7 +90,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
       - title: "Codex Aureus of Echternach"
         url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
       - title: "Codex Aureus of Saint Emmeram"

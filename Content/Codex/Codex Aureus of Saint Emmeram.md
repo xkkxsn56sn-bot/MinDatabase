@@ -43,13 +43,11 @@ thematic_keywords:
 
 related_entries:
   - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+    url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
   - title: "Codex Aureus of Echternach"
     url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
   - title: "Lindau Gospels"
-    url: "/Content/Codex/Lindau%20Gospels.html"
   - title: "Saint Emmeram’s Abbey, Regensburg"
-    url: "/Content/Churches/Saint%20Emmeram%20Abbey.html"
 
 category: "codex"
 
@@ -104,13 +102,11 @@ meta:
   - title: "Related entries"
     links:
       - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex%20Aureus%20of%20%20Lorsch.html"
+        url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
       - title: "Codex Aureus of Echternach"
         url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
       - title: "Lindau Gospels"
-        url: "/Content/Codex/Lindau%20Gospels.html"
       - title: "Saint Emmeram’s Abbey, Regensburg"
-        url: "/Content/Churches/Saint%20Emmeram%20Abbey.html"
 ---
 
 

@@ -49,13 +49,10 @@ related_entries:
   - title: "St Cuthbert and his cult"
     url: "/Content/Saints/Saint%20Cuthbert.html"
   - title: "Lindisfarne (Holy Island) monastery"
-    url: "/Content/Churches/Lindisfarne%20Monastery.html"
   - title: "Insular Gospel books and the Book of Kells"
-    url: "/Content/Codex/Insular%20Gospel%20Books.html"
   - title: "Anglo-Saxon England and Northumbria"
-    url: "/Content/Historical/Age%20of%20Bede%20and%20Northumbria.html"
 
-category: "codex"
+  category: "codex"
 
 meta:
   - title: "Core data"
@@ -111,11 +108,8 @@ meta:
       - title: "St Cuthbert and his cult"
         url: "/Content/Saints/Saint%20Cuthbert.html"
       - title: "Lindisfarne (Holy Island) monastery"
-        url: "/Content/Churches/Lindisfarne%20Monastery.html"
       - title: "Insular Gospel books and the Book of Kells"
-        url: "/Content/Codex/Insular%20Gospel%20Books.html"
       - title: "Anglo-Saxon England and Northumbria"
-        url: "/Content/Historical/Age%20of%20Bede%20and%20Northumbria.html"
 ---
 
 

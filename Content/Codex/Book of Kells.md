@@ -41,7 +41,6 @@ related_entries:
   - title: "Lichfield Gospels"
     url: "/Content/Codex/Lichfield%20Gospels.html"
   - title: "Columba (Colum Cille) and the Columban monasteries"
-    url: "/Content/Artists/Columba%20and%20Columban%20Monasteries.html"
 
 category: "codex"
 
@@ -95,7 +94,6 @@ meta:
       - title: "Lichfield Gospels"
         url: "/Content/Codex/Lichfield%20Gospels.html"
       - title: "Columba (Colum Cille) and the Columban monasteries"
-        url: "/Content/Artists/Columba%20and%20Columban%20Monasteries.html"
 ---
 
 
