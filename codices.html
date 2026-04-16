@@ -17,8 +17,8 @@
         }
 
         .entry-list {
-            columns: 3;
             -webkit-columns: 3;
+            columns: 3;
             column-gap: 2rem;
             list-style: none;
             padding: 0;
@@ -27,9 +27,27 @@
 
         .entry-list li {
             break-inside: avoid;
-            -webkit-column-break-inside: avoid;
             padding: 0.5rem 0;
             border-bottom: 1px solid var(--dark-parchment);
+        }
+
+        .site-footer {
+            background: var(--burgundy);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            border-top: 3px solid var(--gold);
+            margin-top: 3rem;
+        }
+
+        .footer-link {
+            color: var(--gold);
+        }
+
+        .footer-updated {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 0.5rem;
         }
 
         .entry-list li:last-child {
@@ -94,12 +112,10 @@
 
         <a href="index.html" class="back-btn">Back to Home</a>
     </main>
-    <footer
-        style="background: var(--burgundy); color: white; text-align: center; padding: 2rem; border-top: 3px solid var(--gold); margin-top: 3rem;">
+    <footer class="site-footer">
         <p>Medieval Visions - Medieval Artistic Dataset</p>
-        <p>Contact: <a href="mailto:contact@medievalvisions.com"
-                style="color: var(--gold);">contact@medievalvisions.com</a></p>
-        <p style="font-size: 0.85rem; color: rgba(255,255,255,0.6); margin-top: 0.5rem;">Last updated: {{ site.time |
+        <p>Contact: <a href="mailto:contact@medievalvisions.com" class="footer-link">contact@medievalvisions.com</a></p>
+        <p class="footer-updated">Last updated: {{ site.time |
             date: "%e %B %Y" }}</p>
     </footer>
 </body>
