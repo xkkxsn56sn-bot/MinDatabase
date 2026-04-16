@@ -227,10 +227,27 @@ Pantaleone's legacy extends beyond the physical survival of his work to influenc
 
 ## Works
 
+### Otranto Mosaic (The Zodiac)
+
 <figure>
   <img src="/images/Pantaleone/image 1.jpg" alt="Otranto Mosaic (The Zodiac)">
   <figcaption>Otranto Mosaic (The Zodiac), 1163–65, mosaic tesserae cut from Salento limestone, measuring 0.5 to 1.5 cm, Cathedral of Santa Maria Annunziata, Otranto.</figcaption>
 </figure>
+
+The “zodiacal mosaic” of Otranto is an integral part of the large mosaic floor of the Cathedral of Santa Maria Annunziata, created between 1163 and 1165 by the monk-priest Pantaleone on commission from the Bishop of Otranto, Gionata. This astrological cycle is not an isolated element but part of a vast theological and cosmological program linking the history of salvation, daily life, the medieval bestiary, and the natural cycle of the year.
+
+The zodiacal motif is divided into twelve medallions (clipei) arranged along the floor of the central nave, the presbytery, and the side apses, each dedicated to a month of the year. Each medallion features the name of the month, the corresponding zodiac sign, and a depiction of the agricultural and artisanal activities typical of that period, such as plowing, harvesting, grape-picking, hunting, or grazing.
+
+Each zodiac sign is rendered in a stylized yet recognizable form: Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, and Aries appear in sequence, marking the cyclical rhythm of the year. These panels are among the “realistic” elements of the mosaic, as they offer clear ethnographic evidence of peasant life in 12th-century Salento, even though they are embedded within a broader theological framework.
+
+The zodiac is not interpreted as an astrological horoscope, but rather as a sign of cosmic order and the harmony of creation, in which celestial time converges with man’s earthly labor. The twelve signs, arranged as a “wheel of time,” connect the celestial sphere with the eschatological and didactic dimension of the entire cycle (Tree of Life, Last Judgment, biblical scenes, and bestiary), emphasizing the continuity between nature, history, and salvation.
+
+The zodiac is embedded within the broader system of the “Tree of Life,” which runs across the floor as the supporting structure of the entire design, marking the various iconographic bands. The lower and middle bands, where the scenes of the months and signs are concentrated, are divided among bestiary figures, Old Testament narratives, and secular images, creating a complex visual labyrinth in which earthly time and divine time intertwine.
+
+The mosaic is executed with polychrome tesserae of local limestone, alternating with glass paste inserts, with effects of color and light that enhance the material richness of the surface. Pantaleone’s style combines Byzantine elements (compositional rigor, frontal orientation) with Romanesque and sculptural solutions, particularly in the figures of fantastical animals and the characters also found in contemporary sculptural works.
+
+
+
 
 <ol class="footnotes">
   <li id="fn:1">
