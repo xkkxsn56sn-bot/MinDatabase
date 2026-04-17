@@ -92,14 +92,14 @@
 
             input.addEventListener('input', function () {
                 filterNotes(this.value);
-                if (clearBtn) clearBtn.style.display = this.value ? '' : 'none';
+                if (clearBtn) clearBtn.hidden = !this.value;
             });
 
             if (clearBtn) {
                 clearBtn.addEventListener('click', function () {
                     input.value = '';
                     filterNotes('');
-                    clearBtn.style.display = 'none';
+                    clearBtn.hidden = true;
                     input.focus();
                 });
             }
