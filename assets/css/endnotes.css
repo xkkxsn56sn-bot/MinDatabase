@@ -1,0 +1,344 @@
+/* ============================================================
+   endnotes.css  –  styles for the dedicated Endnotes page
+   Reuses the CSS custom-property tokens defined in entry.css.
+   ============================================================ */
+
+/* ---------- page shell ---------- */
+.endnotes-page {
+  background-color: transparent;
+  color: inherit;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ---------- header ---------- */
+.endnotes-page__header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border-subtle);
+}
+
+html[data-theme="dark"] .endnotes-page__header {
+  border-bottom-color: var(--border-subtle-dark);
+}
+
+.endnotes-page__title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: var(--text-main);
+}
+
+html[data-theme="dark"] .endnotes-page__title {
+  color: var(--text-main-dark);
+}
+
+.endnotes-page__subtitle {
+  font-style: italic;
+  color: var(--text-muted);
+  margin: 0 0 1.25rem;
+  font-size: 0.95rem;
+}
+
+html[data-theme="dark"] .endnotes-page__subtitle {
+  color: var(--text-muted-dark);
+}
+
+/* ---------- theme toggle (shared style) ---------- */
+.endnotes-page__theme-toggle {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.endnotes-page__theme-toggle:hover {
+  border-color: var(--link);
+  color: var(--link);
+}
+
+html[data-theme="dark"] .endnotes-page__theme-toggle {
+  border-color: var(--border-subtle-dark);
+  color: var(--text-muted-dark);
+}
+
+html[data-theme="dark"] .endnotes-page__theme-toggle:hover {
+  border-color: var(--link-dark);
+  color: var(--link-dark);
+}
+
+/* ---------- search bar ---------- */
+.endnotes-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.endnotes-search__input {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  background: var(--bg-panel);
+  color: var(--text-main);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.endnotes-search__input:focus {
+  border-color: var(--link);
+}
+
+.endnotes-search__input::placeholder {
+  color: var(--text-muted);
+}
+
+html[data-theme="dark"] .endnotes-search__input {
+  background: var(--bg-panel-dark);
+  color: var(--text-main-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+html[data-theme="dark"] .endnotes-search__input::placeholder {
+  color: var(--text-muted-dark);
+}
+
+.endnotes-search__clear {
+  padding: 0.5rem 0.75rem;
+  font-size: 0.85rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.endnotes-search__clear:hover {
+  color: var(--link);
+  border-color: var(--link);
+}
+
+html[data-theme="dark"] .endnotes-search__clear {
+  border-color: var(--border-subtle-dark);
+  color: var(--text-muted-dark);
+}
+
+/* ---------- alphabet jump nav ---------- */
+.endnotes-alphajump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-bottom: 2rem;
+}
+
+.endnotes-alphajump__link {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--link);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.endnotes-alphajump__link:hover {
+  background: var(--link);
+  color: var(--bg-page);
+}
+
+html[data-theme="dark"] .endnotes-alphajump__link {
+  color: var(--link-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+html[data-theme="dark"] .endnotes-alphajump__link:hover {
+  background: var(--link-dark);
+  color: var(--bg-page-dark);
+}
+
+.endnotes-alphajump__link--inactive {
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+/* ---------- letter section heading ---------- */
+.endnotes-section__letter {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+html[data-theme="dark"] .endnotes-section__letter {
+  color: var(--text-muted-dark);
+  border-bottom-color: var(--border-subtle-dark);
+}
+
+/* ---------- note list ---------- */
+.endnotes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* ---------- individual note entry ---------- */
+.endnotes-list__item {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  scroll-margin-top: 1.5rem;
+}
+
+html[data-theme="dark"] .endnotes-list__item {
+  background: var(--bg-panel-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+.endnotes-list__item--hidden {
+  display: none;
+}
+
+.endnotes-list__item-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+  color: var(--text-main);
+}
+
+html[data-theme="dark"] .endnotes-list__item-title {
+  color: var(--text-main-dark);
+}
+
+.endnotes-list__item p {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--text-main);
+}
+
+html[data-theme="dark"] .endnotes-list__item p {
+  color: var(--text-main-dark);
+}
+
+.endnotes-list__item p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---------- "referenced in" footer ---------- */
+.endnotes-list__item-refs {
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--border-subtle);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+html[data-theme="dark"] .endnotes-list__item-refs {
+  border-top-color: var(--border-subtle-dark);
+  color: var(--text-muted-dark);
+}
+
+.endnotes-list__item-refs a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.endnotes-list__item-refs a:hover {
+  text-decoration: underline;
+  color: var(--link-hover);
+}
+
+html[data-theme="dark"] .endnotes-list__item-refs a {
+  color: var(--link-dark);
+}
+
+html[data-theme="dark"] .endnotes-list__item-refs a:hover {
+  color: var(--link-hover-dark);
+}
+
+/* ---------- no-results message ---------- */
+.endnotes-no-results {
+  display: none;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+html[data-theme="dark"] .endnotes-no-results {
+  color: var(--text-muted-dark);
+}
+
+.endnotes-no-results--visible {
+  display: block;
+}
+
+/* ---------- back nav ---------- */
+.endnotes-page__nav-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-subtle);
+  text-align: center;
+}
+
+html[data-theme="dark"] .endnotes-page__nav-footer {
+  border-top-color: var(--border-subtle-dark);
+}
+
+.endnotes-page__nav-btn {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.9rem;
+  color: var(--link);
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.endnotes-page__nav-btn:hover {
+  background: var(--link);
+  color: var(--bg-page);
+  border-color: var(--link);
+}
+
+html[data-theme="dark"] .endnotes-page__nav-btn {
+  color: var(--link-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+html[data-theme="dark"] .endnotes-page__nav-btn:hover {
+  background: var(--link-dark);
+  color: var(--bg-page-dark);
+  border-color: var(--link-dark);
+}
+
+/* ---------- responsive ---------- */
+@media (max-width: 640px) {
+  .endnotes-page {
+    padding: 1rem;
+  }
+
+  .endnotes-list__item {
+    padding: 1rem;
+  }
+
+  .endnotes-page__title {
+    font-size: 1.5rem;
+  }
+}
