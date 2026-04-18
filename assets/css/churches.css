@@ -175,13 +175,17 @@ body {
 
 .churches-list li {
     break-inside: avoid;
-    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
     padding: 0.55rem 0;
 }
 
 .churches-list li:first-child {
-    border-top: none;
     padding-top: 0;
+}
+
+.churches-list li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 .churches-list a {
