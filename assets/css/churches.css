@@ -50,6 +50,7 @@ body {
     border-radius: 16px;
     box-shadow: var(--shadow);
     padding: 1.5rem 1.4rem;
+    text-align: center;
 }
 
 .churches-header__kicker {
@@ -78,6 +79,8 @@ body {
 
 .churches-header__controls {
     margin-top: 1rem;
+    display: flex;
+    justify-content: center;
 }
 
 .churches-theme-toggle {
@@ -144,7 +147,6 @@ body {
     margin: 0 0 0.55rem;
     color: var(--muted);
     line-height: 1.58;
-    max-width: 78ch;
 }
 
 .churches-intro p:last-child {
