@@ -175,7 +175,6 @@ body {
 
 .churches-list li {
     break-inside: avoid;
-    border-bottom: 1px solid var(--line);
     padding: 0.55rem 0;
 }
 
@@ -184,16 +183,21 @@ body {
 }
 
 .churches-list li:last-child {
-    border-bottom: none;
     padding-bottom: 0;
 }
 
 .churches-list a {
     display: block;
     white-space: nowrap;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 0.3rem;
     color: var(--accent);
     text-decoration: none;
     font-weight: 600;
+}
+
+.churches-list li:last-child a {
+    border-bottom: none;
 }
 
 .churches-list a:hover {
