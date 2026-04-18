@@ -65,13 +65,15 @@ body {
     margin: 0.35rem 0 0.55rem;
     font-size: clamp(2rem, 4vw, 3rem);
     line-height: 1.05;
+    text-align: center;
 }
 
 .churches-header__subtitle {
-    margin: 0;
+    margin: 0 auto;
     max-width: 75ch;
     color: var(--muted);
     font-size: 1.05rem;
+    text-align: center;
 }
 
 .churches-header__controls {
