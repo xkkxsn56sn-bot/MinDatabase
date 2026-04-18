@@ -1,3 +1,99 @@
+---
+layout: entry
+title: "Maestro di Vico l'Abate"
+subtitle: "Anonymous Florentine Duecento master (notname based on the Vico l'Abate dossale)"
+dates: "active c. 1240–1270 (documentary identity unknown)"
+
+meta:
+  - title: "IDENTITY"
+    pairs:
+      - label: "Conventional name"
+        value: "Maestro di Vico l'Abate"
+      - label: "Attribution type"
+        value: "Nomen fictum (critical notname for an anonymous painter)"
+      - label: "Primary corpus basis"
+        value: "Dossale of San Michele Arcangelo from Sant'Angelo a Vico l'Abate"
+      - label: "Documentary status"
+        value: "No secure archival records for personal name, birth, family, or death"
+
+  - title: "PERIOD"
+    list:
+      - "XIII century"
+      - "Middle Duecento"
+
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Probable activity window"
+        value: "c. 1240–1270"
+      - label: "Formation horizon"
+        value: "Mid-thirteenth-century Tuscan Italo-Byzantine panel painting"
+      - label: "Date anchors"
+        value: "Stylistic and comparative dating of attributed works (not documentary dates)"
+
+  - title: "FIELD"
+    list:
+      - "Tempera on panel"
+      - "Gold-ground devotional painting"
+      - "Narrative dossali with central hieratic figure and lateral scenes"
+
+  - title: "GEOGRAPHY"
+    list:
+      - "Florentine contado"
+      - "Vico l'Abate / San Casciano in Val di Pesa"
+      - "Chianti and Val di Pesa ecclesiastical network"
+
+  - title: "PATRONAGE"
+    list:
+      - "Church of Sant'Angelo a Vico l'Abate"
+      - "Benedictine network linked to Badia Fiorentina"
+      - "Rural ecclesiastical clients of the Florentine diocese"
+
+  - title: "STYLE"
+    list:
+      - "Refined Italo-Byzantine language with strong Berlinghieri/Lucchese substratum"
+      - "Warm chromatic scale and careful chrysography"
+      - "Hieratic central icon integrated with narrative side episodes"
+      - "High finish in gold-ground surfaces and ornamental throne architecture"
+
+  - title: "ARTISTIC RELATIONSHIPS"
+    list:
+      - "Close stylistic dialogue with Coppo di Marcovaldo and the Maestro del Bigallo"
+      - "Connections to the circle of the Maestro del San Francesco Bardi"
+      - "Foundational influence of the Berlinghieri workshop tradition"
+
+  - title: "HISTORIOGRAPHY"
+    pairs:
+      - label: "Key scholars"
+        value: "Richard Offner, Luigi Coletti, Robert Oertel, Roberto Longhi, Edward B. Garrison, Carlo Ludovico Ragghianti"
+      - label: "Critical issue"
+        value: "Distinguishing this hand from Coppo di Marcovaldo and related Florentine anonymous masters"
+      - label: "Modern catalog contexts"
+        value: "Fondazione Zeri records and Italian cultural heritage catalogues"
+
+  - title: "KEY ATTRIBUTED WORKS"
+    list:
+      - "Dossale con San Michele Arcangelo in trono e Storie di san Michele Arcangelo, c. 1250–1265, tempera on panel, Museo di Arte Sacra / Museo Giuliano Ghelli, San Casciano in Val di Pesa"
+      - "Madonna con Bambino (Madonna dei Miracoli), c. 1240–1260, tempera on panel, Monastero di Santa Maria, Rosano"
+
+  - title: "SIGNIFICANCE"
+    list:
+      - "One of the most cultivated anonymous painters in the Florentine Duecento debate"
+      - "Crucial case for attribution methodology in thirteenth-century Tuscan painting"
+      - "Representative of the transition from strict Byzantine inheritance toward localized Tuscan individualization"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Coppo di Marcovaldo"
+        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+      - title: "Maestro del Bigallo"
+      - url: "/Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+      - title: "Maestro del San Francesco Bardi"
+      - url: "/Content/Artists/XIII%20century/Maestro%20del%20San%20Francesco%20Bardi.html"
+      - title: "Badia Fiorentina"
+      - title: "Hugh of Tuscany (endnote)"
+        url: "/endnotes.html#fn-hugh-great-tuscany"
+---
+
 ## Historiographical Identity
 
 The designation *Maestro di Vico l'Abate* belongs to the category of *nomina ficta* — critical conventions by which art historians assign a working identity to anonymous painters of the medieval period whose personal records have not survived, grouping their works under a name derived from the most distinctive or best-documented panel attributed to them. The name, which may be translated as "Master of Vico l'Abate," was proposed and employed by scholars including [Richard Offner](/scholars.html#offner-richard), [Luigi Coletti](/scholars.html#coletti-luigi), [Robert Oertel](/scholars.html#oertel-robert), [Roberto Longhi](/scholars.html#longhi-roberto), and [Edward B. Garrison](/scholars.html#garrison-edward) in the mid-twentieth century as an alternative to attributing the principal work in question, the dossale of *San Michele Arcangelo* from the church of Sant'Angelo at Vico l'Abate, to *Coppo di Marcovaldo*. The scholarly divergence was not merely nomenclatural but reflected a deeper disagreement about the stylistic identity and chronological placement of a body of work at the threshold of Byzantine-derived Florentine painting and early Tuscan individualism. [Carlo Ludovico Ragghianti](/scholars.html#ragghianti-carlo-ludovico), one of the most authoritative voices in this critical debate, recognized in the Maestro di Vico l'Abate *il più colto e squisito artista di questo periodo* — a judgment that signals the exceptional artistic refinement behind this anonymous hand.
