@@ -1,120 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: churches
+title: "Churches & Sacred Spaces"
+subtitle: "Academic directory of sites, chapels, and monastic contexts in the Medieval Visions corpus"
+---
 
-<head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Churches & Sacred Spaces - Medieval Visions</title>
-    <link rel="stylesheet" href="assets/css/directory-base.css">
-    <style>
-        .section-card {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            margin-bottom: 2rem;
-        }
+<section class="churches-intro" aria-labelledby="churches-intro-heading">
+    <h2 id="churches-intro-heading">Scope and Method</h2>
+    <p>This directory gathers churches, chapels, and monastic institutions cited across the database as architectural
+        frameworks for medieval artistic production. The selection privileges sites that preserve, commissioned, or
+        historically framed fresco cycles, panel painting programs, sculptural ensembles, and manuscript cultures.
+    </p>
+    <p>Entries are listed in a research-oriented format and linked directly to their individual records for historical,
+        iconographic, and bibliographic consultation.</p>
+</section>
 
-        .entry-list {
-            -webkit-columns: 3;
-            columns: 3;
-            column-gap: 2rem;
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        .entry-list li {
-            break-inside: avoid;
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--dark-parchment);
-        }
-
-        .site-footer {
-            background: var(--burgundy);
-            color: white;
-            text-align: center;
-            padding: 2rem;
-            border-top: 3px solid var(--gold);
-            margin-top: 3rem;
-        }
-
-        .footer-link {
-            color: var(--gold);
-        }
-
-        .footer-updated {
-            font-size: 0.85rem;
-            color: rgba(255, 255, 255, 0.6);
-            margin-top: 0.5rem;
-        }
-
-        .entry-list li:last-child {
-            border-bottom: none;
-        }
-
-        li::before {
-            content: "✦ ";
-            color: var(--gold);
-        }
-
-        @media (max-width: 900px) {
-            .entry-list {
-                columns: 2;
-            }
-        }
-
-        @media (max-width: 600px) {
-            .entry-list {
-                columns: 1;
-            }
-
-            .section-card {
-                padding: 1rem;
-            }
-        }
-    </style>
-</head>
-
-<body>
-    <header>
-        <h1>Churches & Sacred Spaces</h1>
-    </header>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="artists.html">Artists</a>
-        <a href="churches.html">Churches</a>
-        <a href="codices.html">Codices</a>
-        <a href="papers.html">Papers</a>
-    </nav>
-    <main>
-        <div class="section-card">
-            <h2>Sacred Architecture & Fresco Cycles</h2>
-            <ul class="entry-list">
-                <li><a href="Content/Churches/Autun%20Cathedral.html">Autun Cathedral</a></li>
-                <li><a href="Content/Churches/Cappella%20Bardi.html">Bardi Chapel - Florence </a></li>
-                <li><a href="Content/Churches/Cappella%20Peruzzi.html">Peruzzi Chapel - Florence</a></li>
-                <li><a href="Content/Churches/Fulda%20Abbey.html">Fulda Abbey</a></li>
-                <li><a href="Content/Churches/Helmarshausen%20Abbey.html">Helmarshausen Abbey</a></li>
-                <li><a href="Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html">Oratory of San
-                        Pellegrino - Bominaco</a></li>
-                <li><a href="Content/Churches/Pieve%20di%20San%20Leolino.html">Pieve di San Leolino</a></li>
-                <li><a href="Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html">Saint Savin sur Gartempe
-                        Abbey</a></li>
-                <li><a href="Content/Churches/Santa%20Maria%20foris%20portas.html">Santa Maria foris portas -
-                        Castelseprio</a></li>
-            </ul>
-        </div>
-
-        <a href="index.html" class="back-btn">Back to Home</a>
-    </main>
-    <footer class="site-footer">
-        <p>Medieval Visions - Medieval Artistic Dataset</p>
-        <p>Contact: <a href="mailto:contact@medievalvisions.com" class="footer-link">contact@medievalvisions.com</a></p>
-        <p class="footer-updated">Last updated: {{ site.time |
-            date: "%e %B %Y" }}</p>
-    </footer>
-</body>
-
-</html>
+<section class="churches-catalog" aria-labelledby="churches-catalog-heading">
+    <h2 id="churches-catalog-heading">Sacred Architecture and Fresco Cycles</h2>
+    <ul class="churches-list">
+        <li><a href="/Content/Churches/Autun%20Cathedral.html">Autun Cathedral</a></li>
+        <li><a href="/Content/Churches/Cappella%20Bardi.html">Bardi Chapel, Florence</a></li>
+        <li><a href="/Content/Churches/Cappella%20Peruzzi.html">Peruzzi Chapel, Florence</a></li>
+        <li><a href="/Content/Churches/Fulda%20Abbey.html">Fulda Abbey</a></li>
+        <li><a href="/Content/Churches/Helmarshausen%20Abbey.html">Helmarshausen Abbey</a></li>
+        <li><a href="/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html">Oratory of San Pellegrino,
+                Bominaco</a></li>
+        <li><a href="/Content/Churches/Pieve%20di%20San%20Leolino.html">Pieve di San Leolino</a></li>
+        <li><a href="/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html">Saint-Savin-sur-Gartempe Abbey</a>
+        </li>
+        <li><a href="/Content/Churches/Santa%20Maria%20foris%20portas.html">Santa Maria foris portas, Castelseprio</a>
+        </li>
+    </ul>
+</section>

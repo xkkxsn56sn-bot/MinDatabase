@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | Medieval Visions</title>
+    <link rel="stylesheet" href="{{ '/assets/css/churches.css' | relative_url }}">
+</head>
+
+<body>
+    <div class="churches-page">
+        <header class="churches-header">
+            <p class="churches-header__kicker">Medieval Visions Directory</p>
+            <h1 class="churches-header__title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <p class="churches-header__subtitle">{{ page.subtitle }}</p>
+            {% endif %}
+
+            <div class="churches-header__controls">
+                <button id="theme-toggle" type="button" aria-label="Toggle day and night mode"
+                    class="churches-theme-toggle">Day / Night mode</button>
+            </div>
+        </header>
+
+        <nav class="churches-nav" aria-label="Primary">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/artists.html' | relative_url }}">Artists</a>
+            <a href="{{ '/churches.html' | relative_url }}" aria-current="page">Churches</a>
+            <a href="{{ '/codices.html' | relative_url }}">Codices</a>
+            <a href="{{ '/papers.html' | relative_url }}">Papers</a>
+            <a href="{{ '/scholars.html' | relative_url }}">Scholars</a>
+            <a href="{{ '/endnotes.html' | relative_url }}">Endnotes</a>
+        </nav>
+
+        <main class="churches-main">
+            {{ content }}
+        </main>
+
+        <footer class="churches-footer">
+            <p>Medieval Visions - Medieval Artistic Dataset</p>
+            <p>
+                Contact:
+                <a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>
+            </p>
+            <p class="churches-footer__updated">Last updated: {{ site.time | date: "%e %B %Y" }}</p>
+        </footer>
+    </div>
+
+    <script>
+        (function () {
+            const STORAGE_KEY = 'site-theme';
+            const root = document.documentElement;
+            const toggle = document.getElementById('theme-toggle');
+
+            function getTheme() {
+                const saved = localStorage.getItem(STORAGE_KEY);
+                if (saved === 'light' || saved === 'dark') return saved;
+                return 'light';
+            }
+
+            function applyTheme(theme) {
+                root.setAttribute('data-theme', theme);
+                localStorage.setItem(STORAGE_KEY, theme);
+            }
+
+            applyTheme(getTheme());
+
+            if (toggle) {
+                toggle.addEventListener('click', function () {
+                    const next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+                    applyTheme(next);
+                });
+            }
+        })();
+    </script>
+</body>
+
+</html>
