@@ -170,7 +170,7 @@ body {
     padding: 0;
     list-style: none;
     columns: 2;
-    column-gap: 1.1rem;
+    column-gap: 1.8rem;
 }
 
 .churches-list li {
@@ -185,6 +185,8 @@ body {
 }
 
 .churches-list a {
+    display: block;
+    white-space: nowrap;
     color: var(--accent);
     text-decoration: none;
     font-weight: 600;
