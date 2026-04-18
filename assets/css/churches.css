@@ -84,6 +84,9 @@ body {
 }
 
 .churches-theme-toggle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid var(--line);
     background: var(--panel-soft);
     color: var(--text);
@@ -141,6 +144,9 @@ body {
 .churches-catalog h2 {
     margin: 0 0 0.55rem 0;
     font-size: 1.4rem;
+    display: block;
+    width: 100%;
+    max-width: none;
 }
 
 .churches-intro p {
