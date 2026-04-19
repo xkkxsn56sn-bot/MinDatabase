@@ -540,6 +540,37 @@
             return `${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
         }
 
+        function parseCsvJulianDate(csvDateLabel) {
+            const monthMap = {
+                Gen: 1,
+                Feb: 2,
+                Mar: 3,
+                Apr: 4,
+                Mag: 5,
+                Giu: 6,
+                Lug: 7,
+                Ago: 8,
+                Set: 9,
+                Ott: 10,
+                Nov: 11,
+                Dic: 12
+            };
+            const parts = (csvDateLabel || '').trim().split(/\s+/);
+            if (parts.length < 3) {
+                return null;
+            }
+
+            const day = Number.parseInt(parts[0], 10);
+            const month = monthMap[parts[1]];
+            const year = Number.parseInt(parts[2], 10);
+
+            if (!Number.isFinite(day) || !Number.isFinite(year) || !month) {
+                return null;
+            }
+
+            return { day, month, year };
+        }
+
         function parseDistanceCsv(csvText) {
             return csvText
                 .replace(/^\uFEFF/, '')
@@ -580,7 +611,11 @@
                 const julianDayOfYear = getJulianDayOfYear(julianDateParts);
                 const clampedDay = Math.max(1, Math.min(julianDayOfYear, entries.length));
 
-                const selectedEntry = entries.find((entry) => entry.day === clampedDay) || entries[clampedDay - 1];
+                const selectedEntryByDate = entries.find((entry) => {
+                    const parsed = parseCsvJulianDate(entry.julianDate);
+                    return parsed && parsed.day === julianDateParts.day && parsed.month === julianDateParts.month;
+                });
+                const selectedEntry = selectedEntryByDate || entries.find((entry) => entry.day === clampedDay) || entries[clampedDay - 1];
                 const meanDistance = entries.reduce((sum, entry) => sum + entry.distance, 0) / entries.length;
                 const perigeeEntry = entries.reduce((min, entry) => (entry.distance < min.distance ? entry : min), entries[0]);
                 const apogeeEntry = entries.reduce((max, entry) => (entry.distance > max.distance ? entry : max), entries[0]);
@@ -613,7 +648,7 @@
                 metaElement.textContent = `Julian day ${clampedDay} of year ${julianDateParts.year}`;
                 meanElement.textContent = `Annual mean: ${meanLabel} km`;
                 relativeElement.textContent = `Relative to mean: ${signedDeviation} km (${toward}) • Perigee ${perigeeLabel} km • Apogee ${apogeeLabel} km`;
-                dateElement.textContent = `Today's Julian date: ${formatJulianDate(julianDateParts)} • CSV reference: ${selectedEntry.julianDate}`;
+                dateElement.textContent = `Today's Julian date: ${formatJulianDate(julianDateParts)} • Ephemeris date: ${selectedEntry.julianDate}`;
                 statusElement.textContent = '';
                 statusElement.dataset.state = 'ready';
             } catch (error) {
