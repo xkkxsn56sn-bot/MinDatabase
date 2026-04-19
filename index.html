@@ -51,6 +51,20 @@
             border-bottom: 3px solid var(--gold);
         }
 
+        .header-shell {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) minmax(0, 800px) minmax(260px, 320px);
+            gap: 2rem;
+            align-items: start;
+            max-width: 1440px;
+            margin: 0 auto;
+        }
+
+        .header-copy {
+            grid-column: 2;
+            text-align: center;
+        }
+
         header h1 {
             font-size: 2.8rem;
             margin-bottom: 0.5rem;
@@ -70,6 +84,64 @@
             opacity: 0.9;
             max-width: 800px;
             margin: 0 auto;
+        }
+
+        .moon-distance-card {
+            grid-column: 3;
+            justify-self: end;
+            width: 100%;
+            background: rgba(244, 241, 232, 0.12);
+            border: 1px solid rgba(201, 169, 97, 0.55);
+            border-radius: 12px;
+            padding: 1rem 1.1rem;
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+            -webkit-backdrop-filter: blur(8px);
+            backdrop-filter: blur(8px);
+            text-align: left;
+        }
+
+        .moon-distance-card__label {
+            font-size: 0.72rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 0.35rem;
+        }
+
+        .moon-distance-card__title {
+            font-size: 1.15rem;
+            line-height: 1.2;
+            margin-bottom: 0.45rem;
+        }
+
+        .moon-distance-card__value {
+            font-size: 1.9rem;
+            font-weight: bold;
+            color: #fff7df;
+            line-height: 1.1;
+            margin-bottom: 0.35rem;
+        }
+
+        .moon-distance-card__meta,
+        .moon-distance-card__date,
+        .moon-distance-card__status {
+            font-size: 0.88rem;
+            color: rgba(244, 241, 232, 0.92);
+        }
+
+        .moon-distance-card__stats {
+            font-size: 0.82rem;
+            color: rgba(244, 241, 232, 0.88);
+            margin-top: 0.2rem;
+        }
+
+        .moon-distance-card__date {
+            color: rgba(201, 169, 97, 0.95);
+            margin-top: 0.25rem;
+        }
+
+        .moon-distance-card__status[data-state="error"] {
+            color: #ffd9cf;
         }
 
         main {
@@ -144,6 +216,20 @@
         }
 
         @media (max-width: 1200px) {
+            .header-shell {
+                grid-template-columns: minmax(0, 1fr) minmax(0, 720px);
+            }
+
+            .header-copy {
+                grid-column: 2;
+            }
+
+            .moon-distance-card {
+                grid-column: 2;
+                justify-self: end;
+                max-width: 320px;
+            }
+
             .content-grid {
                 grid-template-columns: repeat(2, minmax(240px, 320px));
             }
@@ -237,6 +323,21 @@
                 padding: 1.5rem 1rem;
             }
 
+            .header-shell {
+                grid-template-columns: 1fr;
+                gap: 1.25rem;
+            }
+
+            .header-copy,
+            .moon-distance-card {
+                grid-column: 1;
+            }
+
+            .moon-distance-card {
+                justify-self: stretch;
+                max-width: none;
+            }
+
             header h1 {
                 font-size: 1.8rem;
                 letter-spacing: 1px;
@@ -276,10 +377,26 @@
 
 <body>
     <header>
-        <h1>Medieval Visions</h1>
-        <p class="subtitle">"I saw the angel in the marble and carved until I set him free." (Michelangelo Buonarroti)
-        </p>
-        <p class="tagline">A Database of Medieval Art & Artists</p>
+        <div class="header-shell">
+            <div class="header-copy">
+                <h1>Medieval Visions</h1>
+                <p class="subtitle">"I saw the angel in the marble and carved until I set him free." (Michelangelo
+                    Buonarroti)
+                </p>
+                <p class="tagline">A Database of Medieval Art & Artists</p>
+            </div>
+
+            <aside class="moon-distance-card" aria-live="polite">
+                <p class="moon-distance-card__label">Astronomical Daily Data</p>
+                <h2 class="moon-distance-card__title">Earth-Moon Distance</h2>
+                <p class="moon-distance-card__value" id="moon-distance-value">Loading...</p>
+                <p class="moon-distance-card__meta" id="moon-distance-meta">Computing current Julian day of year</p>
+                <p class="moon-distance-card__stats" id="moon-distance-mean"></p>
+                <p class="moon-distance-card__stats" id="moon-distance-relative"></p>
+                <p class="moon-distance-card__date" id="moon-distance-date"></p>
+                <p class="moon-distance-card__status" id="moon-distance-status"></p>
+            </aside>
+        </div>
     </header>
 
     <main>
@@ -367,6 +484,151 @@
         <p><a href="https://github.com/xkkxsn56sn-bot/MinDatabase">View on GitHub</a></p>
         <p>Contact: <a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a></p>
     </footer>
+
+    <script>
+        function gregorianToJdn(year, month, day) {
+            const a = Math.floor((14 - month) / 12);
+            const y = year + 4800 - a;
+            const m = month + 12 * a - 3;
+
+            return day
+                + Math.floor((153 * m + 2) / 5)
+                + 365 * y
+                + Math.floor(y / 4)
+                - Math.floor(y / 100)
+                + Math.floor(y / 400)
+                - 32045;
+        }
+
+        function jdnToJulian(jdn) {
+            const c = jdn + 32082;
+            const d = Math.floor((4 * c + 3) / 1461);
+            const e = c - Math.floor((1461 * d) / 4);
+            const m = Math.floor((5 * e + 2) / 153);
+
+            const day = e - Math.floor((153 * m + 2) / 5) + 1;
+            const month = m + 3 - 12 * Math.floor(m / 10);
+            const year = d - 4800 + Math.floor(m / 10);
+
+            return { year, month, day };
+        }
+
+        function isJulianLeapYear(year) {
+            return year % 4 === 0;
+        }
+
+        function getJulianDayOfYear(dateParts) {
+            const monthLengths = [31, isJulianLeapYear(dateParts.year) ? 29 : 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+            let dayOfYear = dateParts.day;
+
+            for (let i = 0; i < dateParts.month - 1; i += 1) {
+                dayOfYear += monthLengths[i];
+            }
+
+            return dayOfYear;
+        }
+
+        function getCurrentJulianDateParts() {
+            const now = new Date();
+            const jdn = gregorianToJdn(now.getFullYear(), now.getMonth() + 1, now.getDate());
+            return jdnToJulian(jdn);
+        }
+
+        function formatJulianDate(dateParts) {
+            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            const day = String(dateParts.day).padStart(2, '0');
+            return `${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
+        }
+
+        function parseDistanceCsv(csvText) {
+            return csvText
+                .replace(/^\uFEFF/, '')
+                .trim()
+                .split(/\r?\n/)
+                .slice(1)
+                .map((line) => {
+                    const [day, julianDate, distance] = line.split(',');
+                    return {
+                        day: Number.parseInt(day, 10),
+                        julianDate: julianDate ? julianDate.trim() : '',
+                        distance: Number.parseFloat(distance)
+                    };
+                })
+                .filter((entry) => Number.isFinite(entry.day) && Number.isFinite(entry.distance));
+        }
+
+        async function renderMoonDistanceCard() {
+            const valueElement = document.getElementById('moon-distance-value');
+            const metaElement = document.getElementById('moon-distance-meta');
+            const meanElement = document.getElementById('moon-distance-mean');
+            const relativeElement = document.getElementById('moon-distance-relative');
+            const dateElement = document.getElementById('moon-distance-date');
+            const statusElement = document.getElementById('moon-distance-status');
+
+            try {
+                const response = await fetch('./luna_distanza_1300.csv');
+                if (!response.ok) {
+                    throw new Error('Unable to load CSV file.');
+                }
+
+                const entries = parseDistanceCsv(await response.text());
+                if (!entries.length) {
+                    throw new Error('CSV file does not contain valid data.');
+                }
+
+                const julianDateParts = getCurrentJulianDateParts();
+                const julianDayOfYear = getJulianDayOfYear(julianDateParts);
+                const clampedDay = Math.max(1, Math.min(julianDayOfYear, entries.length));
+
+                const selectedEntry = entries.find((entry) => entry.day === clampedDay) || entries[clampedDay - 1];
+                const meanDistance = entries.reduce((sum, entry) => sum + entry.distance, 0) / entries.length;
+                const perigeeEntry = entries.reduce((min, entry) => (entry.distance < min.distance ? entry : min), entries[0]);
+                const apogeeEntry = entries.reduce((max, entry) => (entry.distance > max.distance ? entry : max), entries[0]);
+                const deviationFromMean = selectedEntry.distance - meanDistance;
+
+                const distanceLabel = new Intl.NumberFormat('en-US', {
+                    minimumFractionDigits: 1,
+                    maximumFractionDigits: 1
+                }).format(selectedEntry.distance);
+                const meanLabel = new Intl.NumberFormat('en-US', {
+                    minimumFractionDigits: 1,
+                    maximumFractionDigits: 1
+                }).format(meanDistance);
+                const signedDeviation = new Intl.NumberFormat('en-US', {
+                    signDisplay: 'always',
+                    minimumFractionDigits: 1,
+                    maximumFractionDigits: 1
+                }).format(deviationFromMean);
+                const toward = deviationFromMean >= 0 ? 'toward apogee' : 'toward perigee';
+                const perigeeLabel = new Intl.NumberFormat('en-US', {
+                    minimumFractionDigits: 1,
+                    maximumFractionDigits: 1
+                }).format(perigeeEntry.distance);
+                const apogeeLabel = new Intl.NumberFormat('en-US', {
+                    minimumFractionDigits: 1,
+                    maximumFractionDigits: 1
+                }).format(apogeeEntry.distance);
+
+                valueElement.textContent = `${distanceLabel} km`;
+                metaElement.textContent = `Julian day ${clampedDay} of year ${julianDateParts.year}`;
+                meanElement.textContent = `Annual mean: ${meanLabel} km`;
+                relativeElement.textContent = `Relative to mean: ${signedDeviation} km (${toward}) • Perigee ${perigeeLabel} km • Apogee ${apogeeLabel} km`;
+                dateElement.textContent = `Today's Julian date: ${formatJulianDate(julianDateParts)} • CSV reference: ${selectedEntry.julianDate}`;
+                statusElement.textContent = '';
+                statusElement.dataset.state = 'ready';
+            } catch (error) {
+                valueElement.textContent = 'Data unavailable';
+                metaElement.textContent = 'Check luna_distanza_1300.csv';
+                meanElement.textContent = '';
+                relativeElement.textContent = '';
+                dateElement.textContent = '';
+                statusElement.textContent = error.message;
+                statusElement.dataset.state = 'error';
+            }
+        }
+
+        renderMoonDistanceCard();
+    </script>
 </body>
 
 </html>
