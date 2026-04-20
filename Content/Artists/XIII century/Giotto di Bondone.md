@@ -110,13 +110,13 @@ Over time, the name of Bondone’s son, Giotto, ceased to be merely a local curi
 
 ## Patrons and Commissions
 
-Giotto’s reputation drew the attention of wealthy patrons whose ambitions were matched only by the grandeur of the ecclesiastical spaces they sought to adorn. One of his earliest and most notable patrons was *Enrico Scrovegni*, a prosperous Paduan banker who recognized Giotto’s singular gifts and entrusted him with the monumental task of decorating the private chapel that would come to be known as the Arena (or Scrovegni) Chapel. This commission was a bold statement of status, given that the Scrovegni family wished to distance themselves from any association with usury, and a visually stunning set of frescoes, executed by a rising star like Giotto, served as a resounding testament to their piety and cultural sophistication.
+Giotto’s reputation drew the attention of wealthy patrons whose ambitions were matched only by the grandeur of the ecclesiastical spaces they sought to adorn. One of his earliest and most notable patrons was Enrico Scrovegni<a href="../../../endnotes.html#fn-scrovegni-enrico" class="footnote"><sup>1</sup></a>, a prosperous Paduan banker who recognized Giotto’s singular gifts and entrusted him with the monumental task of decorating the private chapel that would come to be known as the Arena<a href="../../../endnotes.html#fn-arena-chapel" class="footnote"><sup>2</sup></a> (or Scrovegni) Chapel. This commission was a bold statement of status, given that the Scrovegni family wished to distance themselves from any association with usury, and a visually stunning set of frescoes, executed by a rising star like Giotto, served as a resounding testament to their piety and cultural sophistication.
 
 Florence itself, teeming with mercantile wealth and prominent families, provided Giotto with other notable benefactors, including members of the Bardi and Peruzzi families. These families were deeply involved in commerce and banking, and they regarded the adornment of sacred spaces, such as the chapels within the Franciscan church of Santa Croce, as a matter of both spiritual devotion and civic pride. Giotto, with his unmatched ability to convey human emotion and divine narratives through color, composition, and innovative use of perspective, was uniquely positioned to satisfy their desire for visual magnificence that would inspire the faithful and further elevate the reputation of their families.
 
 In Rome, Giotto was reportedly summoned to work for high-ranking church officials, including certain contacts within the papal circle, although details regarding the extent of his commissions in the Eternal City remain somewhat fragmentary. Nevertheless, the mere fact that his name circulated among the papal corridors attests to his growing renown and suggests that his patrons were powerful individuals who understood how visual culture could serve as an impressive extension of their authority and legacy. The likelihood that he also crafted altarpieces for important basilicas points to a patronage network that spanned multiple regions, reinforcing the notion that Giotto’s fame was not confined to Florence and its immediate surroundings.
 
-He also found favor in the court of *King Robert of Anjou* in Naples, where he was invited to execute works that would embellish the royal chapels and proclaim the monarch’s devotion to faith and the arts. The presence of Giotto in this southern Italian kingdom reveals how far his reputation had traveled and how discerning patrons, eager for the most innovative and inspiring painters, would spare no expense to bring him into their sphere of influence. While not all commissions survived the ravages of time and political upheaval, the historical references to his work there underline the high esteem in which he was held by Europe’s elite.
+He also found favor in the court of *King Robert of Anjou*<a href="../../../endnotes.html#fn-robert-anjou" class="footnote"><sup>3</sup></a> in Naples, where he was invited to execute works that would embellish the royal chapels and proclaim the monarch’s devotion to faith and the arts. The presence of Giotto in this southern Italian kingdom reveals how far his reputation had traveled and how discerning patrons, eager for the most innovative and inspiring painters, would spare no expense to bring him into their sphere of influence. While not all commissions survived the ravages of time and political upheaval, the historical references to his work there underline the high esteem in which he was held by Europe’s elite.
 
 In his later career, Giotto continued to attract commissions that underscored his status as a cultural luminary, including the design of Florence’s iconic bell tower, the Campanile, a project that demonstrates the trust placed in him not only as a painter but also as an architect. Prominent civic and religious patrons, long accustomed to granting him significant projects, recognized in Giotto a unique ability to blend art and architecture in harmonious fashion. This trust, built through a sustained track record of skill and reliability, cemented Giotto’s relationship with an influential network of supporters that extended across political and ecclesiastical boundaries.
 
@@ -194,6 +194,8 @@ The physical preservation of Giotto's works, while subject to the inevitable wea
 
 ## Major Works and Masterpieces
 
+### Crucifix
+
 <figure>
   <img src="/images/Giotto/image 1.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1290-95, tempera and gold on panel, 578 x 406 cm, Basilica di Santa Maria Novella, Florence.</figcaption>
@@ -207,19 +209,22 @@ Giotto abandons the 13th-century conventions of an arched, two-dimensional body,
 
 This cross emphasizes physical pain and human empathy, transforming the sacred icon into an emotionally engaging image for the Dominican faithful, who preached the Passion; traditional elements such as the decorated panel and the mourners on the sides blend with Giotto’s realism, inaugurating a new pictorial style. The monumental dimensions amplify the visual impact within the basilica, inviting the viewer to contemplate the redemptive suffering.
 
+### Madonna and Child
+
 <figure>
   <img src="/images/Giotto/image 2.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1320, tempera and gold on panel, 85,5 x 62 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
-This is the central panel of a five-panel polyptych, originally part of a Tuscan high altar that was later dismantled and separated; today, it is the only version of Giotto’s work outside Europe that is widely recognized as an authentic work by the artist.
-The Madonna is depicted in half-length, in a vertical composition, holding the Child in her arms, against a background of a golden palette that echoes the Byzantine tradition of symbolic gold as “divine light” and celestial space. The Virgin is depicted in a frontal pose, with an elongated, serene face, large, deep eyes, and a meditative, melancholic expression typical of Italian Gothic devotion, while her body is impressively massive and “sculptural,” with a strong sense of volume and weight.
+This is the central panel of a five-panel polyptych, originally part of a Tuscan high altar that was later dismantled and separated; today, it is the only version of Giotto’s work outside Europe that is widely recognized as an authentic work by the artist. The Madonna is depicted in half-length, in a vertical composition, holding the Child in her arms, against a background of a golden palette that echoes the Byzantine tradition of symbolic gold as “divine light” and celestial space. The Virgin is depicted in a frontal pose, with an elongated, serene face, large, deep eyes, and a meditative, melancholic expression typical of Italian Gothic devotion, while her body is impressively massive and “sculptural,” with a strong sense of volume and weight.
 
 Giotto accentuates the volumetric solidity of the figures: the Madonna’s mantle falls in broad, heavy folds, with reflections suggesting a lateral light source, and the figure of the Child is positioned to cast a shadow of projection onto his mother’s left arm, an advanced sign of spatial exploration. Instead of displaying the customary “philosophical” gesture of blessing, the infant Christ clutches his mother’s index finger with his left hand and extends his right hand toward a white rose she is holding, in a typically childlike and intimate gesture that reinforces the effect of naturalness and tenderness.
 
 This altarpiece is fundamental because it embodies the transition between Byzantine and “pre-Renaissance” styles: on the one hand, the gold background and the frontal majesty recall the Byzantine icon (Hodegetria type); on the other, the weight, mass, chiaroscuro, and physical relationship between mother and son foreshadow the sculptural quality that would be typical of the Renaissance. Giotto retains a traditional style but dramatizes the physicality of the figures, reducing the linear decorativism typical of the Sienese (such as Duccio) and emphasizing volume, relief, and shadow, as if these were painted sculptures rather than drawings.
 
 The white rose in the Virgin’s hand is a classic symbol of her purity, but it is also interpreted as a reference to the loss of innocence (original sin) and, at times, in a Christological key, to the Passion of Christ: the Child’s gesture of reaching out for it can be read as an anticipation of his future sacrifice. The combination of golden halos, a gold background, and a deeply emotional spirituality transforms the scene into a moment of mystical yet profoundly human contemplation, intended to move and engage the faithful in private or parish devotion.
+
+### Madonna and Child with Saints (Badia polyptych)
 
 <figure>
   <img src="/images/Giotto/image 3.jpg" alt="Badia Polyptych">
@@ -232,8 +237,9 @@ The structure of the polyptych is highly “architecturalized”: the five proje
 
 Formally, the polyptych is an early yet mature example of the Giottesque revolution: the figures possess a sense of bodily volume rendered through a clear modulation of light and shadow, with folds in the garments that envelop the body and emphasize its mass, as in the gilded pastoral robe of Saint Nicholas or in the folds swirling around Saint Peter’s stole. Giotto moves away from the hieratic Byzantine scheme, replacing it with intense gazes, individualized faces, and a presence in space that seems almost to “emerge” from the panel, anticipating solutions typical of 14th-century Florentine painting. The gold ground remains traditional, but the use of half-figures in an arc, with slight relief and a slight twist of the torso, marks a decisive step toward a more modern conception of space and devotional performance.
 
-Originally, the polyptych decorated thehigh altar of the Badia Fiorentina, as also noted by Lorenzo Ghiberti in his Commentari, which attests to Giotto’s presence in the church with the “panel” of the main altar. It remained in situ until 1568, when it was replaced by a work by Vasari, moved to various locations (San Marco, Museo dell’Opera di Santa Croce), and finally placed in the Uffizi in 1957, following complex restorations that brought to light its original material and chromatic richness. Today, the Badia Polyptych is considered one of the cornerstones of transitional Italian painting, in which the childlike and human sensibility of the Child, the mystical austerity of the saints, and the architectural structure of the polyptych merge into an image that Dante might have seen shortly before his exile, almost like an icon of the new Florentine humanism.
+Originally, the polyptych decorated thehigh altar of the Badia Fiorentina, as also noted by [Lorenzo Ghiberti](/scholars.html#ghiberti-lorenzo) in his Commentari, which attests to Giotto’s presence in the church with the “panel” of the main altar. It remained in situ until 1568, when it was replaced by a work by Vasari, moved to various locations (San Marco, Museo dell’Opera di Santa Croce), and finally placed in the Uffizi in 1957, following complex restorations that brought to light its original material and chromatic richness. Today, the Badia Polyptych is considered one of the cornerstones of transitional Italian painting, in which the childlike and human sensibility of the Child, the mystical austerity of the saints, and the architectural structure of the polyptych merge into an image that Dante might have seen shortly before his exile, almost like an icon of the new Florentine humanism.
 
+### Ognissanti Maestà
 <figure>
   <img src="/images/Giotto/image 4.jpg" alt="Madonna Enthroned (Ognissanti Madonna)">
   <figcaption>Virgin and Child enthroned, surrounded by angels and saints (Ognissanti Maestà), 1300-05, tempera and gold on panel, 325 x 204 cm, Galleria degli Uffizi, Florence.</figcaption>
@@ -255,6 +261,8 @@ The work is generally attributed to the Florentine church of Sant’Elisabetta d
 
 For over a century, the Maestà di Ognissanti served as a compositional and iconographic model for Florentine painters, who would adopt the arrangement of the enthroned Madonna, the crowd of angels, and the architectural structure of the throne, while progressively adding greater spatiality and depth.
 
+### The Entombment of Mary
+
 <figure>
   <img src="/images/Giotto/image 5.jpg" alt="The Entombment of Mary">
   <figcaption>The Entombment of Mary, c. 1310, tempera and gold on poplar panel, 75 x 179 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
@@ -267,6 +275,8 @@ This narrative fusion, typical of Gothic storytelling but revolutionized by Giot
 The composition is hierarchical and symmetrical, with Christ at the apex as the dominant divine figure, but Giotto introduces an innovative psychological intimacy and three-dimensional volume: the bodies are solid, with elbows pressing against the hips to create realistic folds in the drapery, and gazes that intertwine emotionally, breaking the Byzantine flatness. The gold ground, typical of sacred painting, is punctuated by contemporary details such as the Book of Psalms held by Peter or the funeral pall, which reflect 14th-century burial rites associated with the Order of the Humiliati of the Florentine church of Ognissanti, for which the work was likely commissioned.
 
 Originating from the Church of Ognissanti in Florence, the panel disappeared for centuries until its arrival in Berlin in 1920–1922, purchased for the Kaiser-Friedrich-Museum; its attribution to Giotto has been debated, with some German critics considering it a workshop piece due to damage to the gold leaf and the faces, perhaps from clumsy restorations. Giotto, a master of naturalism, uses the elongated form here to guide the gaze from bottom to top, symbolizing spiritual elevation, and infuses divine humanity into a moment of collective mourning, paving the way for the Renaissance revolution.
+
+### The Crucifixion of Christ
 
 <figure>
   <img src="/images/Giotto/image 6.jpg" alt="The Crucifixion of Christ">
