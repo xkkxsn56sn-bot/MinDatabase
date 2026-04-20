@@ -114,6 +114,18 @@
             margin-bottom: 0.45rem;
         }
 
+        .moon-distance-card__metric {
+            margin-top: 0.35rem;
+            font-size: 0.92rem;
+            color: rgba(244, 241, 232, 0.96);
+        }
+
+        .moon-distance-card__metric strong {
+            color: var(--gold);
+            font-weight: 700;
+            margin-right: 0.35rem;
+        }
+
         .moon-distance-card__value {
             font-size: 1.9rem;
             font-weight: bold;
@@ -388,12 +400,14 @@
 
             <aside class="moon-distance-card" aria-live="polite">
                 <p class="moon-distance-card__label">Astronomical Daily Data</p>
-                <h2 class="moon-distance-card__title">Earth-Moon Distance</h2>
-                <p class="moon-distance-card__value" id="moon-distance-value">Loading...</p>
-                <p class="moon-distance-card__meta" id="moon-distance-meta">Computing current Julian day of year</p>
-                <p class="moon-distance-card__stats" id="moon-distance-mean"></p>
-                <p class="moon-distance-card__stats" id="moon-distance-relative"></p>
-                <p class="moon-distance-card__date" id="moon-distance-date"></p>
+                <h2 class="moon-distance-card__title">Daily Orbital Snapshot</h2>
+                <p class="moon-distance-card__metric"><strong>Julian date:</strong><span
+                        id="julian-date-value">Loading...</span></p>
+                <p class="moon-distance-card__metric"><strong>Earth-Moon:</strong><span
+                        id="moon-distance-value">Loading...</span></p>
+                <p class="moon-distance-card__metric"><strong>Earth-Sun:</strong><span
+                        id="sun-distance-value">Loading...</span></p>
+                <p class="moon-distance-card__stats" id="sun-distance-meta"></p>
                 <p class="moon-distance-card__status" id="moon-distance-status"></p>
             </aside>
         </div>
@@ -571,7 +585,7 @@
             return { day, month, year };
         }
 
-        function parseDistanceCsv(csvText) {
+        function parseMoonDistanceCsv(csvText) {
             return csvText
                 .replace(/^\uFEFF/, '')
                 .trim()
@@ -588,75 +602,91 @@
                 .filter((entry) => Number.isFinite(entry.day) && Number.isFinite(entry.distance));
         }
 
+        function parseSunDistanceCsv(csvText) {
+            return csvText
+                .replace(/^\uFEFF/, '')
+                .trim()
+                .split(/\r?\n/)
+                .slice(1)
+                .map((line) => {
+                    const [date, distance, delta] = line.split(',');
+                    return {
+                        date: date ? date.trim() : '',
+                        distance: Number.parseFloat(distance),
+                        delta: Number.parseFloat(delta)
+                    };
+                })
+                .filter((entry) => entry.date && Number.isFinite(entry.distance));
+        }
+
         async function renderMoonDistanceCard() {
+            const julianDateValue = document.getElementById('julian-date-value');
             const valueElement = document.getElementById('moon-distance-value');
-            const metaElement = document.getElementById('moon-distance-meta');
-            const meanElement = document.getElementById('moon-distance-mean');
-            const relativeElement = document.getElementById('moon-distance-relative');
-            const dateElement = document.getElementById('moon-distance-date');
+            const sunValueElement = document.getElementById('sun-distance-value');
+            const sunMetaElement = document.getElementById('sun-distance-meta');
             const statusElement = document.getElementById('moon-distance-status');
 
             try {
-                const response = await fetch('./luna_distanza_1300.csv');
-                if (!response.ok) {
-                    throw new Error('Unable to load CSV file.');
+                const [moonResponse, sunResponse] = await Promise.all([
+                    fetch('./luna_distanza_1300.csv'),
+                    fetch('./distanza_terra_sole_2026.csv')
+                ]);
+
+                if (!moonResponse.ok) {
+                    throw new Error('Unable to load luna_distanza_1300.csv.');
+                }
+                if (!sunResponse.ok) {
+                    throw new Error('Unable to load distanza_terra_sole_2026.csv.');
                 }
 
-                const entries = parseDistanceCsv(await response.text());
-                if (!entries.length) {
-                    throw new Error('CSV file does not contain valid data.');
+                const moonEntries = parseMoonDistanceCsv(await moonResponse.text());
+                const sunEntries = parseSunDistanceCsv(await sunResponse.text());
+
+                if (!moonEntries.length) {
+                    throw new Error('Moon CSV file does not contain valid data.');
+                }
+                if (!sunEntries.length) {
+                    throw new Error('Sun CSV file does not contain valid data.');
                 }
 
+                const now = new Date();
+                const isoDate = now.toISOString().slice(0, 10);
                 const julianDateParts = getCurrentJulianDateParts();
                 const julianDayOfYear = getJulianDayOfYear(julianDateParts);
-                const clampedDay = Math.max(1, Math.min(julianDayOfYear, entries.length));
+                const clampedDay = Math.max(1, Math.min(julianDayOfYear, moonEntries.length));
 
-                const selectedEntryByDate = entries.find((entry) => {
+                const selectedEntryByDate = moonEntries.find((entry) => {
                     const parsed = parseCsvJulianDate(entry.julianDate);
                     return parsed && parsed.day === julianDateParts.day && parsed.month === julianDateParts.month;
                 });
-                const selectedEntry = selectedEntryByDate || entries.find((entry) => entry.day === clampedDay) || entries[clampedDay - 1];
-                const meanDistance = entries.reduce((sum, entry) => sum + entry.distance, 0) / entries.length;
-                const perigeeEntry = entries.reduce((min, entry) => (entry.distance < min.distance ? entry : min), entries[0]);
-                const apogeeEntry = entries.reduce((max, entry) => (entry.distance > max.distance ? entry : max), entries[0]);
-                const deviationFromMean = selectedEntry.distance - meanDistance;
+                const selectedMoonEntry = selectedEntryByDate || moonEntries.find((entry) => entry.day === clampedDay) || moonEntries[clampedDay - 1];
+                const selectedSunEntry = sunEntries.find((entry) => entry.date === isoDate) || sunEntries[0];
 
                 const distanceLabel = new Intl.NumberFormat('en-US', {
                     minimumFractionDigits: 1,
                     maximumFractionDigits: 1
-                }).format(selectedEntry.distance);
-                const meanLabel = new Intl.NumberFormat('en-US', {
-                    minimumFractionDigits: 1,
-                    maximumFractionDigits: 1
-                }).format(meanDistance);
-                const signedDeviation = new Intl.NumberFormat('en-US', {
+                }).format(selectedMoonEntry.distance);
+                const sunDistanceLabel = new Intl.NumberFormat('en-US', {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                }).format(selectedSunEntry.distance);
+                const sunDeltaLabel = new Intl.NumberFormat('en-US', {
                     signDisplay: 'always',
-                    minimumFractionDigits: 1,
-                    maximumFractionDigits: 1
-                }).format(deviationFromMean);
-                const toward = deviationFromMean >= 0 ? 'toward apogee' : 'toward perigee';
-                const perigeeLabel = new Intl.NumberFormat('en-US', {
-                    minimumFractionDigits: 1,
-                    maximumFractionDigits: 1
-                }).format(perigeeEntry.distance);
-                const apogeeLabel = new Intl.NumberFormat('en-US', {
-                    minimumFractionDigits: 1,
-                    maximumFractionDigits: 1
-                }).format(apogeeEntry.distance);
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                }).format(selectedSunEntry.delta || 0);
 
+                julianDateValue.textContent = `${formatJulianDate(julianDateParts)} (day ${clampedDay})`;
                 valueElement.textContent = `${distanceLabel} km`;
-                metaElement.textContent = `Julian day ${clampedDay} of year ${julianDateParts.year}`;
-                meanElement.textContent = `Annual mean: ${meanLabel} km`;
-                relativeElement.textContent = `Relative to mean: ${signedDeviation} km (${toward}) • Perigee ${perigeeLabel} km • Apogee ${apogeeLabel} km`;
-                dateElement.textContent = `Today's Julian date: ${formatJulianDate(julianDateParts)} • Ephemeris date: ${selectedEntry.julianDate}`;
+                sunValueElement.textContent = `${sunDistanceLabel} km`;
+                sunMetaElement.textContent = `Earth-Sun delta from mean: ${sunDeltaLabel} km`;
                 statusElement.textContent = '';
                 statusElement.dataset.state = 'ready';
             } catch (error) {
+                julianDateValue.textContent = 'Data unavailable';
                 valueElement.textContent = 'Data unavailable';
-                metaElement.textContent = 'Check luna_distanza_1300.csv';
-                meanElement.textContent = '';
-                relativeElement.textContent = '';
-                dateElement.textContent = '';
+                sunValueElement.textContent = 'Data unavailable';
+                sunMetaElement.textContent = '';
                 statusElement.textContent = error.message;
                 statusElement.dataset.state = 'error';
             }
