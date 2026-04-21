@@ -87,7 +87,7 @@ meta:
         url: /Content/Churches/Santa%20Chiara%20Assisi.html
 ---
 
-*Rainaldetto di Ranuccio*, known also as Rainaldo, Rinaldo, or Magister Rainaldo di Ranuccio, was an Umbrian painter from Spoleto active in the second half of the thirteenth century, and one of the most significant regional voices in Italian panel painting of the Duecento. The scholarly record preserves only sparse biographical documentation, and virtually all that is known about him derives from the inscriptions on his two signed works and from the stylistic analysis of a wider group of attributed panels. Despite the silence of the archives, the richness of his surviving production has made him a focal point of discussion for any historian concerned with the diffusion of the *giuntesco* idiom into central and Adriatic Italy.
+*Rainaldetto di Ranuccio*, known also as Rainaldo, Rinaldo, or *Magister Rainaldo di Ranuccio*, was an Umbrian painter from Spoleto active in the second half of the thirteenth century, and one of the most significant regional voices in Italian panel painting of the Duecento. The scholarly record preserves only sparse biographical documentation, and virtually all that is known about him derives from the inscriptions on his two signed works and from the stylistic analysis of a wider group of attributed panels. Despite the silence of the archives, the richness of his surviving production has made him a focal point of discussion for any historian concerned with the diffusion of the *giuntesco* idiom into central and Adriatic Italy.
 
 ## Family and Origins
 
