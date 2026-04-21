@@ -1,99 +1,90 @@
 ---
 layout: entry
 title: Rainaldetto di Ranuccio
-subtitle: "Also known as: Rainaldo, Rinaldo, Magister Rainaldo di Ranuccio, Rainaldetto da Spoleto"
-dates: c. 1225/1235 – after 1265
+subtitle: Umbrian Duecento painter associated with the giuntesque Franciscan tradition
+dates: active c. 1260-1272; documented in 1265
+category: artist
 meta:
   - title: Identity
     pairs:
       - label: Also known as
-        value: Rainaldo di Ranuccio; Rinaldo di Ranuccio; Magister Rainaldo di Ranuccio; Rainaldetto da Spoleto
-      - label: Born
-        value: c. second quarter of the 13th century, Spoleto (undocumented)
-      - label: Died
-        value: unknown; last documented April 1265
-      - label: Nationality
-        value: Italian (Spoletan / Umbrian)
+        value: Rainaldo; Rinaldo; Magister Rainaldo di Ranuccio
+      - label: Origin
+        value: Spoleto (Umbrian duchy tradition)
       - label: Active period
-        value: c. 1255 – c. 1275
-      - label: Media
-        value: Tempera on panel; tempera with gold and silver on panel
+        value: second half of the thirteenth century
+      - label: Documentary anchors
+        value: Signed cross in Fabriano; signed and dated cross in Bologna (April 1265)
+      - label: Status
+        value: Titled magister in inscriptional record
+      - label: Death
+        value: Date and cause unknown (no secure documentary evidence after 1265)
 
-  - title: Patrons
+  - title: Places of Activity
     list:
-      - Franciscan Order — Pinacoteca Nazionale, Bologna (formerly San Francesco, Bologna)
-      - Order of Poor Ladies (Clares) — Basilica of Santa Chiara, Assisi
-      - Franciscan community — Fabriano (Marche)
-      - Franciscan convent of San Francesco — Massa Fermana (Marche)
-      - Franciscan church of San Francesco — Montefalco (Umbria)
-      - Convent of Santa Chiara — Montalto Marche
-      - Franciscan community — Matelica (Marche)
+      - Spoleto and broader Umbrian context
+      - Assisi (Franciscan and Clarissan patronage sphere)
+      - Fabriano
+      - Bologna (documented by dated 1265 cross)
+      - Montefalco
+      - Massa Fermana
+      - Montalto Marche
+      - Matelica
+
+  - title: Patrons and Institutions
+    list:
+      - Franciscan communities in Umbria and the Marche
+      - Clarissan network at Santa Chiara, Assisi (hypothetical for key commission context)
+      - Ecclesiastical and hospital circuits linked to post-Unification transfers (later provenances)
 
   - title: Key Works
     list:
-      - "Painted Cross (Croce dipinta), c. 1260 — Pinacoteca Civica Bruno Molajoli, Fabriano (signed)"
-      - "Painted Cross (Croce dipinta), April 1265 — Pinacoteca Nazionale di Bologna (signed and dated)"
-      - "Painted Cross (Croce dipinta), c. 1260–70 — Galleria Enrico Frascione, Florence (attributed)"
-      - "Painted Cross (Croce dipinta) — Museo di San Francesco, Montefalco (attributed)"
-      - "Painted Cross (Croce dipinta) — Franciscan convent, Massa Fermana (attributed)"
-      - "Painted Cross (Croce dipinta) — Convent of Santa Chiara, Montalto Marche (attributed)"
-      - "Madonna dei Crociati (wooden tabernacle) — Basilica of Santa Chiara, Assisi (attributed)"
-      - "Triptych: Madonna col Bambino e storie di Cristo — Basilica of Santa Chiara, Assisi (attributed)"
-      - "Cross and tabernacle of the Blessed Mattia Nazzarei — Matelica (attributed)"
+      - Painted Cross, c. 1260, Pinacoteca Civica Bruno Molajoli, Fabriano (signed)
+      - Painted Cross, April 1265, Pinacoteca Nazionale di Bologna (signed and dated)
+      - Painted Cross, c. 1260-1270, Galleria Enrico Frascione, Florence (attributed)
+      - Works attributed in Franciscan contexts at Montefalco, Massa Fermana, Montalto Marche, and Matelica
+
+  - title: Media and Technique
+    pairs:
+      - label: Primary media
+        value: Tempera on panel with gold ground
+      - label: Main format
+        value: Monumental painted crucifixes for mendicant devotion
+      - label: Visual language
+        value: Soft line, flat yet controlled color fields, geometric textile-like grounds
+
+  - title: Style and Iconography
+    list:
+      - Christus patiens emphasis with bowed and suffering body
+      - Detailed anatomical articulation of torso and limbs
+      - Emotional but restrained mourning figures of the Virgin and Saint John
+      - Decorative patterned grounds and strong linear clarity
+      - Synthesis of Byzantine inheritance and affective Franciscan devotional imagery
 
   - title: Artistic Influences
     list:
-      - Giunta Pisano — Christus patiens iconography and emotional reformulation of the painted cross
-      - Alberto Sotio — Spoletan Romanesque tradition and Byzantine pictorial formulae
-      - Simeone and Machilone — immediate Spoletan precursors; drapery and facial expression models
-      - Master of San Francesco — narrative drama and affective figural expression at Assisi, c. 1260
-      - Byzantine art — Hodegetria and Deesis iconographic conventions; decorative tappeti grounds
-      - Master of the Franciscan Crucifixes — regional contemporaneous influence in Umbria
+      - Giunta Pisano and giuntesque crucifix traditions
+      - Spoletan workshop lineage (including Simeone and Machilone)
+      - Master of San Francesco and wider Assisi visual culture
+      - Byzantine models circulating through Umbria and central Italy
 
-  - title: Innovations
-    list:
-      - Synthesis of Spoletan Romanesque tradition with Giuntesque Christus patiens expressionism
-      - Use of silver-ground support (Frascione cross) — rare for 13th-century Umbrian panel painting
-      - Introduction of St. Francis and St. Clare as lateral figures on the cross arms — unique iconographic unicum among Duecento painted crosses
-      - Bipartite abdominal rendering of Christ (Fabriano cross) as evolutionary step from tripartite Giuntesque model
-      - Diffusion of the reformed central Italian pictorial language into the Adriatic hinterland and Emilia Romagna
-
-  - title: Related Artists
-    list:
-      - Alberto Sotio (Spoletan predecessor)
-      - Simeone and Machilone (Spoletan predecessors)
-      - Giunta Pisano (primary formative influence)
-      - Master of San Francesco (Assisi, c. 1260 — parallel influence)
-      - Master of the Franciscan Crucifixes (Umbrian contemporary)
-
-  - title: Documentary Record
+  - title: Scholarly Relevance
     pairs:
-      - label: Fabriano Cross inscription
-        value: "\"Rainaldictus Ranuci de Spol(eto) p(insit) h(oc) (opus)\" — establishes origin; undated"
-      - label: Bologna Cross inscription
-        value: "\"magister Rainaldo Ranucai pinsit h.\" — April 1265; earliest and only documented date"
-      - label: Bologna Cross provenance
-        value: Formerly San Francesco, Bologna; Volpi collection, Florence; acquired by the Italian state 1930
-      - label: Fabriano Cross provenance
-        value: Formerly Ospedale del Buon Gesù, Fabriano; entered civic collection via post-Unification secularizations
+      - label: Attribution and chronology
+        value: Central case study for Duecento Umbrian-Marche chronology
+      - label: Key modern scholars
+        value: Edward B. Garrison; Roberto Longhi; Giordana Benazzi; Silvia Giorgi; Andrea De Marchi; Angelo Tartuferi; Alessandro Delpriori
+      - label: Historiographic value
+        value: Rare corpus anchored by two inscriptional works (one dated)
 
-  - title: Scholarly References
+  - title: Related Entries
     links:
-      - title: Edward B. Garrison — first proposed c. 1260 dating for the Fabriano Cross (1949)
-        url: /scholars.html#garrison-edward
-      - title: Lionello Venturi — noted stylistic affinities with the Master of the Franciscan Crucifixes (1915)
-        url: /scholars.html#venturi-lionello
-      - title: Roberto Longhi — attributed the Frascione Cross and situated Rainaldetto within Duecento central Italian painting (1966)
-        url: /scholars.html#longhi-roberto
-      - title: Giordana Benazzi — proposed that the Bologna Cross served the 1265 consecration of Santa Chiara, Assisi (2014)
-        url: /scholars.html#benazzi-giordana
-      - title: Andrea De Marchi — confirmed attributions in the Marche including Montalto and Matelica
-      - title: Angelo Tartuferi — highlighted the modernity of the Frascione Cross within the Umbrian tradition
-        url: /scholars.html#tartuferi-angelo
-      - title: Alessandro Delpriori — argued for the trans-Apennine cultural unity of the Duchy of Spoleto and the Marche
-        url: /scholars.html#delpriori-alessandro
-      - title: Silvia Giorgi — catalog entry for the Bologna Cross; revised Garrison's dating hypothesis (Pinacoteca Nazionale di Bologna)
-        url: /scholars.html#giorgi-silvia
+      - title: Giunta Pisano
+        url: /Content/Artists/XIII%20century/Giunta%20Pisano.html
+      - title: Maestro di San Francesco
+        url: /Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html
+      - title: Santa Chiara, Assisi
+        url: /Content/Churches/Santa%20Chiara%20Assisi.html
 ---
 
 *Rainaldetto di Ranuccio*, known also as Rainaldo, Rinaldo, or Magister Rainaldo di Ranuccio, was an Umbrian painter from Spoleto active in the second half of the thirteenth century, and one of the most significant regional voices in Italian panel painting of the Duecento. The scholarly record preserves only sparse biographical documentation, and virtually all that is known about him derives from the inscriptions on his two signed works and from the stylistic analysis of a wider group of attributed panels. Despite the silence of the archives, the richness of his surviving production has made him a focal point of discussion for any historian concerned with the diffusion of the *giuntesco* idiom into central and Adriatic Italy.
@@ -118,7 +109,7 @@ The Clarissan patronage at Assisi places Rainaldetto within a refined and theolo
 
 This Franciscan provenance reflects the broader pattern of the artist's career, in which the mendicant communities of central Italy provided both the theological program and the material resources for the production of large devotional crosses. The cross attributed to Rainaldetto in the Museo di San Francesco at Montefalco further corroborates the Franciscan dimension of his patronage, as does the cross preserved in the Franciscan convent of Massa Fermana, a town in the southern Marche where Umbrian pictorial traditions penetrated through both itinerant artists and traveling works. 
 
-A cross conserved in the convent of Santa Chiara at Montalto Marche and the tabernacle and cross of the Blessed Mattia Nazzarei at Matelica, both attributed to Rainaldetto by Edward Garrison and subsequently confirmed by Andrea De Marchi and Giordana Benazzi, further extend the geographical and institutional reach of his patronage into the Adriatic hinterland. The diversity of these commissions, ranging from Umbrian Franciscan convents to Clarissan foundations and hospital chapels, testifies to Rainaldetto's reputation as a reliable and skilled interpreter of the devotional needs of the Mendicant Orders across a broad stretch of central Italy, and confirms his status as one of the principal disseminators of the reformed pictorial language codified by Giunta Pisano and the Master of San Francesco.
+A cross conserved in the convent of Santa Chiara at Montalto Marche and the tabernacle and cross of the Blessed Mattia Nazzarei at Matelica, both attributed to Rainaldetto by Edward Garrison and subsequently confirmed by [Andrea De Marchi](/scholars.html#de-marchi-andrea) and Giordana Benazzi, further extend the geographical and institutional reach of his patronage into the Adriatic hinterland. The diversity of these commissions, ranging from Umbrian Franciscan convents to Clarissan foundations and hospital chapels, testifies to Rainaldetto's reputation as a reliable and skilled interpreter of the devotional needs of the Mendicant Orders across a broad stretch of central Italy, and confirms his status as one of the principal disseminators of the reformed pictorial language codified by Giunta Pisano and the Master of San Francesco.
 
 ## Painting Style
 
