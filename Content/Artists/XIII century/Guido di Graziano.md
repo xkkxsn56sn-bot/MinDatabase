@@ -191,7 +191,7 @@ The panel reveals a dual influence: on the one hand, the Sienese school of Guido
 ### Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo)
 
 <figure>
-  <img src="/images/Guido di Graziano/image 2.jpg" alt="Dossale di San Pietro">
+  <img src="/images/Guido di Graziano/image 2.jpg" alt="Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo)">
   <figcaption>Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo), 1280, tempera on panel, Archivio di Stato, Siena.</figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ This small work, commissioned by the financial magistracy of Siena, was intended
 ### San Francesco e storie della sua vita
 
 <figure>
-  <img src="/images/Guido di Graziano/image 2.jpg" alt="Dossale di San Pietro">
+  <img src="/images/Guido di Graziano/image 3.jpg" alt="San Francesco e storie della sua vita">
   <figcaption>San Francesco e storie della sua vita, post 1270, 237 x 113 cm, tempera and gold on panel, Pinacoteca Nazionale di Siena.</figcaption>
 </figure>
 
