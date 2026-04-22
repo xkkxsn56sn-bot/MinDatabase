@@ -5,46 +5,82 @@ subtitle: "Transitional Sienese painter and principal civic artist of thirteenth
 dates: "Documented 1250 – 1291"
 
 meta:
-  - title: "CORE DATA"
+  - title: Identity
     pairs:
-      - label: "Name"
+      - label: Also known as
         value: "Dietisalvi di Speme (also recorded as Dietisalvi di Schettino in some archival sources)"
-      - label: "Primary role"
+      - label: Primary role
         value: "Panel painter and civic artist"
-      - label: "Main affiliation"
+      - label: Main affiliation
         value: "Biccherna administration, Comune di Siena; Siena Cathedral"
-      - label: "Period"
+      - label: Nationality
+        value: "Italian (Sienese)"
+      - label: Period
         value: "XIII century, second half; transitional Italo-Byzantine to Gothic"
-      - label: "Documented activity window"
+      - label: Active period
         value: "1250–1291"
-      - label: "Securely attributed evidence"
+      - label: Securely attributed evidence
         value: "Four surviving Biccherna covers (Archivio di Stato, Siena, and Museum of Fine Arts, Budapest); documentary records of approximately fifty-six civic commissions"
 
-  - title: "IDENTITY AND BIOGRAPHICAL LIMITS"
+  - title: Family and Workshop
     list:
       - "Name 'Dietisalvi' (May-God-Save-You) and patronymic 'di Speme' (of Hope) indicate probable foundling status"
       - "No verifiable records for parents, siblings, spouse, or children"
       - "Patronymic 'di Speme' attested only once in documents, dated 18 January 1290 (Sienese usage: 1289)"
       - "Birthplace presumed Siena; no documentation of activity outside the city"
       - "Social mobility achieved through guild membership and sustained civic patronage"
-      - "Oeuvre substantially reconstructed through Luciano Bellosi's 1991 critical reassessment"
+      - "Workshop practice included panel painting, small-scale civic painting, and collaborative production"
 
-  - title: "CHRONOLOGY"
+  - title: Patrons
+    list:
+      - "Biccherna (Sienese civic finance administration): approximately fifty-six cover commissions, 1259–1288"
+      - "Opera del Duomo, Siena Cathedral: Madonna del Voto altar commission"
+      - "Confraternity of the Blessed Ever-Virgin Mary: Madonna di San Bernardino (1262)"
+      - "Casa della Misericordia / cult of Beato Andrea Gallerani: reliquary diptych"
+      - "Civic commissions: gonfalon for Terzo di San Martino (1262); Palazzo Pubblico inscription (1281/1291)"
+      - "Post-1272: competed with Duccio di Buoninsegna and others for Biccherna contracts while retaining majority of commissions"
+
+  - title: Chronology
     pairs:
-      - label: "First documentary mention"
+      - label: First documentary mention
         value: "1250 Biccherna tablet (known through eighteenth-century transcription by G.G. Carli; original lost)"
-      - label: "Exclusive civic employment phase"
+      - label: Exclusive civic employment phase
         value: "1259–1272, Biccherna administration"
-      - label: "Major religious commission"
+      - label: Major religious commission
         value: "Madonna del Voto, Siena Cathedral, c. 1267"
-      - label: "Collaborative phase"
+      - label: Collaborative phase
         value: "c. 1270, reliquary diptych of Beato Andrea Gallerani with Guido da Siena"
-      - label: "Late civic phase"
+      - label: Late civic phase
         value: "1272–1288, majority of Biccherna commissions amid growing competition including Duccio"
-      - label: "Final documented activity"
+      - label: Final documented activity
         value: "August 1291, decoration of chests for civic patrons"
 
-  - title: "ARTISTIC PRACTICE"
+  - title: Key Works
+    pairs:
+      - label: Madonna di San Bernardino
+        value: "1262, tempera and gold on panel, 142 × 100 cm, Pinacoteca Nazionale, Siena"
+      - label: Madonna del Voto
+        value: "c. 1267–68, tempera and gold on panel, 122 × 70 cm, Siena Cathedral"
+      - label: Madonna Galli-Dunn
+        value: "c. 1262, tempera and gold on panel, 120 × 70 cm, Pinacoteca Nazionale, Siena"
+      - label: Biccherna cover: camarlingo Ildebrandino Pagliaresi
+        value: "July–December 1264, tempera on panel, 36.4 × 24.2 cm, Archivio di Stato, Siena (inv. 2)"
+      - label: Biccherna cover: heraldic devices of four provisors
+        value: "July–December 1267, Archivio di Stato, Siena (inv. 3)"
+      - label: Biccherna cover: camarlingo Ranieri Pagliaresi
+        value: "January–June 1270, Archivio di Stato, Siena (inv. 4)"
+      - label: Biccherna cover: don Griffolino
+        value: "July–December 1282, tempera on panel, Museum of Fine Arts, Budapest (inv. 2-36)"
+      - label: Reliquary diptych of Beato Andrea Gallerani (outer doors)
+        value: "c. 1270, tempera and gold on panel, 128 × 77 cm, Pinacoteca Nazionale, Siena (inv. 5); inner doors by Guido da Siena"
+      - label: Dossale di Badia Ardenga (five Passion panels)
+        value: "c. 1280, tempera on panel, Pinacoteca Nazionale, Siena; remaining panels dispersed to Altenburg, Utrecht, London, and Princeton"
+      - label: Madonna col Bambino in trono
+        value: "1270–80, tempera on panel, 198 × 122 cm, Museo Nazionale d'Arte Medievale e Moderna, Arezzo"
+      - label: Crucifix
+        value: "Late career, Museo delle Pie Disposizioni, Siena; influenced by Cimabue's Maestà"
+
+  - title: Artistic Practice
     list:
       - "Panel painting in egg tempera and gold leaf on wooden support"
       - "Fresco decoration (cathedral crypt, Siena, attributed)"
@@ -53,41 +89,22 @@ meta:
       - "Collaborative workshop production alongside Guido da Siena on major commissions"
       - "Competence in heraldic representation, civil portraiture, and Marian devotional imagery"
 
-  - title: "STYLE"
+  - title: Artistic Influences
     list:
       - "Byzantine foundation: gold backgrounds, hieratic frontality, chrysography, elongated proportions"
       - "Early influence of Coppo di Marcovaldo, especially in Marian iconography (1260s)"
+      - "Late assimilation of Cimabue's monumental scale and expressive pathos"
+      - "Collaborative exchange with Guido da Siena and the Sienese civic workshop milieu"
+
+  - title: Innovations
+    list:
       - "Progressive departure from Coppo toward greater corporeality and chromatic refinement"
       - "Looser, more spontaneous brushwork than the more diligent Guido da Siena"
-      - "Late assimilation of Cimabue's monumental scale and expressive pathos"
+      - "Outstanding adaptation of devotional panel language to civic administrative imagery"
       - "Transitional position between rigid Italo-Byzantine conventions and emerging Gothic sensibility"
+      - "One of the earliest major painters to define Siena's civic visual identity through Biccherna production"
 
-  - title: "ATTRIBUTED WORKS"
-    pairs:
-      - label: "Madonna di San Bernardino"
-        value: "1262, tempera and gold on panel, 142 × 100 cm, Pinacoteca Nazionale, Siena"
-      - label: "Madonna del Voto"
-        value: "c. 1267–68, tempera and gold on panel, 122 × 70 cm, Siena Cathedral"
-      - label: "Madonna Galli-Dunn"
-        value: "c. 1262, tempera and gold on panel, 120 × 70 cm, Pinacoteca Nazionale, Siena"
-      - label: "Biccherna cover: camarlingo Ildebrandino Pagliaresi"
-        value: "July–December 1264, tempera on panel, 36.4 × 24.2 cm, Archivio di Stato, Siena (inv. 2)"
-      - label: "Biccherna cover: heraldic devices of four provisors"
-        value: "July–December 1267, Archivio di Stato, Siena (inv. 3)"
-      - label: "Biccherna cover: camarlingo Ranieri Pagliaresi"
-        value: "January–June 1270, Archivio di Stato, Siena (inv. 4)"
-      - label: "Biccherna cover: don Griffolino"
-        value: "July–December 1282, tempera on panel, Museum of Fine Arts, Budapest (inv. 2-36)"
-      - label: "Reliquary diptych of Beato Andrea Gallerani (outer doors)"
-        value: "c. 1270, tempera and gold on panel, 128 × 77 cm, Pinacoteca Nazionale, Siena (inv. 5); inner doors by Guido da Siena"
-      - label: "Dossale di Badia Ardenga (five Passion panels)"
-        value: "c. 1280, tempera on panel, Pinacoteca Nazionale, Siena; remaining panels dispersed to Altenburg, Utrecht, London, and Princeton"
-      - label: "Madonna col Bambino in trono"
-        value: "1270–80, tempera on panel, 198 × 122 cm, Museo Nazionale d'Arte Medievale e Moderna, Arezzo"
-      - label: "Crucifix"
-        value: "Late career, Museo delle Pie Disposizioni, Siena; influenced by Cimabue's Maestà"
-
-  - title: "ICONOGRAPHIC PROFILE"
+  - title: Iconographic Profile
     list:
       - "Marian Hodighitria (Odeghétria) typology: Virgin pointing to Child as way of salvation"
       - "Maiestas: Virgin and Child Enthroned with Angels"
@@ -97,27 +114,18 @@ meta:
       - "Byzantine-derived chrysography and gold leaf backgrounds throughout career"
       - "Unusual medallion angels around Madonna's halo, derived from direct Byzantine models"
 
-  - title: "PATRONAGE CONTEXT"
-    list:
-      - "Biccherna (Sienese civic finance administration): approximately fifty-six cover commissions, 1259–1288"
-      - "Opera del Duomo, Siena Cathedral: Madonna del Voto altar commission"
-      - "Confraternity of the Blessed Ever-Virgin Mary: Madonna di San Bernardino (1262)"
-      - "Casa della Misericordia / cult of Beato Andrea Gallerani: reliquary diptych"
-      - "Civic commissions: gonfalon for Terzo di San Martino (1262); Palazzo Pubblico inscription (1281/1291)"
-      - "Post-1272: competed with Duccio di Buoninsegna and others for Biccherna contracts while retaining majority of commissions"
-
-  - title: "GEOGRAPHY AND MOBILITY"
+  - title: Geography and Mobility
     pairs:
-      - label: "Primary production center"
+      - label: Primary production center
         value: "Siena (exclusive throughout documented career)"
-      - label: "Documented residences"
+      - label: Documented residences
         value: "Contrada of Sant'Egidio de' Malavolti (1285); Contrada of San Donato (1291)"
-      - label: "Mobility evidence"
+      - label: Mobility evidence
         value: "No documentary record of activity outside Siena; stylistic influences absorbed through works arriving in the city rather than travel"
-      - label: "Key external influence in Siena"
+      - label: Key external influence in Siena
         value: "Coppo di Marcovaldo, present in Siena after capture at Montaperti (1261)"
 
-  - title: "HISTORICAL SIGNIFICANCE"
+  - title: Historical Significance
     list:
       - "Principal civic painter of Siena for over three decades; primary visual agent of Biccherna governance"
       - "Author of the Madonna del Voto, one of the most venerated images in Siena, still honoured as Advocata Senensium"
@@ -126,32 +134,19 @@ meta:
       - "Critical rehabilitation by Luciano Bellosi (1991) elevated him from minor civic painter to major figure of thirteenth-century Sienese painting"
       - "Documented collaboration with Guido da Siena illustrates workshop cooperation and artistic networks of medieval Siena"
 
-  - title: "THEMATIC KEYWORDS"
+  - title: Related Artists
     list:
-      - "Dietisalvi di Speme"
-      - "Sienese Duecento painting"
-      - "Italo-Byzantine transition"
-      - "Biccherna tablets"
-      - "Marian devotion in medieval Siena"
-      - "Civic painting and visual governance"
-      - "Coppo di Marcovaldo influence"
-      - "Pre-Duccio Sienese school"
+      - "Coppo di Marcovaldo"
       - "Guido da Siena"
-      - "Panel painting technique"
-      - "Foundling artist and social mobility"
+      - "Cimabue"
+      - "Duccio di Buoninsegna"
+      - "Margarito d'Arezzo"
 
-  - title: "RELATED ENTRIES"
-    links:
-      - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
-      - title: "Guido da Siena"
-        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.html"
-      - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
-      - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
-      - title: "Margarito d'Arezzo"
-        url: "/Content/Artists/XIII%20century/Margarito.html"
+  - title: Scholarly References
+    list:
+      - "Luciano Bellosi — decisive 1991 reassessment and reconstruction of the oeuvre"
+      - "Archivio di Stato di Siena — documentary base for Biccherna commissions and civic activity"
+      - "Modern Siena Cathedral and Biccherna scholarship — context for his role in civic visual culture"
 ---
 
 *Dietisalvi di Speme* was an Italian painter active in Siena during the second half of the thirteenth century, specifically documented between 1250 and 1291. His artistic career coincided with a crucial period in the development of Sienese painting, preceding the work of Duccio di Buoninsegna and representing a transitional phase between Byzantine tradition and the emerging Gothic style. The artist's contributions to Sienese civic and religious art were substantial, though much of his production has been lost to time. His work demonstrates the evolution of painting in thirteenth-century Tuscany, particularly the gradual departure from rigid Byzantine iconography toward more naturalistic representations. 

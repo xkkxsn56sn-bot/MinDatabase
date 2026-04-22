@@ -17,6 +17,13 @@ meta:
       - label: Media
         value: Tempera and gold on panel; stained glass (design)
 
+  - title: Family and Workshop
+    list:
+      - Son of Buoninsegna; from an artisan Sienese urban milieu
+      - Maintained a workshop in Siena's Stalloreggi district near the cathedral
+      - Documentary evidence indicates a household with children but sparse family detail
+      - Workshop practice likely combined autograph execution with controlled assistant labor on major commissions
+
   - title: Patrons
     list:
       - Opera del Duomo (Cathedral Chapter), Siena
@@ -50,6 +57,21 @@ meta:
       - Refined linear draftsmanship — confident underdrawing, expressive contour
       - Elaborate gold tooling — punched haloes, decorative patterning, chrysography
 
+  - title: Geography and Mobility
+    pairs:
+      - label: Primary production center
+        value: Siena
+      - label: Major extra-urban commission
+        value: Florence (Rucellai Madonna, c. 1285)
+      - label: Mobility evidence
+        value: Strongly Sienese career with selective travel for major institutional commissions
+
+  - title: Historical Significance
+    list:
+      - Founder of the mature Sienese school in the late Duecento
+      - Author of the cathedral Maesta, a defining monument of medieval panel painting
+      - Established a narrative and chromatic model that shaped Simone Martini, the Lorenzetti circle, and wider Trecento practice
+
   - title: Related Artists
     list:
       - Guido da Siena (probable predecessor / indirect master)
@@ -60,10 +82,11 @@ meta:
       - Simone Martini (next generation — built on Ducciesque foundations)
       - Pietro Lorenzetti (next generation — absorbed Duccio's narrative approach)
 
-  - title: Key Locations
+  - title: Scholarly References
     list:
-      - Siena — birthplace, lifelong base, Stalloreggi district workshop
-      - Florence — Rucellai Madonna commission, c. 1285
+      - Documentary records from Opera del Duomo and Sienese civic archives
+      - Modern Duccio scholarship on the Maesta, narrative structure, and workshop practice
+      - Technical studies of panel construction, underdrawing, and gold tooling across dispersed Maesta panels
 
 ---
 

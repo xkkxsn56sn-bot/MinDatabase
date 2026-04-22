@@ -1,3 +1,80 @@
+---
+layout: entry
+title: Guido di Graziano
+subtitle: Sienese painter and manuscript illuminator
+dates: active c. 1278 – 1302
+meta:
+  - title: Identity
+    pairs:
+      - label: Also known as
+        value: Guidone di Graziano
+      - label: Born
+        value: c. 1240s–1250s, probably Siena
+      - label: Died
+        value: after 1302, probably Siena
+      - label: Nationality
+        value: Italian (Sienese)
+      - label: Active period
+        value: c. 1278 – 1302
+      - label: Media
+        value: Tempera and gold on panel, manuscript illumination, painted Biccherna covers, fresco (lost)
+
+  - title: Family and Workshop
+    list:
+      - Brother of the painters Meo and Guarnerio
+      - Documented in the lira of San Donato, within Siena's terzo di Camollia
+      - Probably trained within a family workshop in Siena
+      - Active as both panel painter and miniatore within a multi-purpose urban workshop
+
+  - title: Patrons
+    list:
+      - Biccherna of Siena — repeated civic commissions between 1278 and 1302
+      - Commune of Siena — painted standards, books, and lost frescoes for the Palazzo Pubblico
+      - Cistercian Abbey of San Galgano — via the documented Biccherna panel for Don Guido
+      - Church of San Pietro in Banchi, Siena — probable original setting of the Dossale di San Pietro
+      - Franciscan church of San Francesco, Colle di Val d'Elsa — narrative altarpiece of Saint Francis
+      - Siena Cathedral crypt — collaborative fresco decoration with other Sienese painters
+
+  - title: Key Works
+    list:
+      - Dossale di San Pietro (c. 1280s–1290s) — Pinacoteca Nazionale, Siena
+      - Tavoletta di Biccherna with Don Guido of San Galgano as camarlengo (1280) — Archivio di Stato, Siena
+      - San Francesco e storie della sua vita (after 1270) — Pinacoteca Nazionale, Siena
+      - Lost Maestà for the Palazzo Pubblico, Siena
+      - Lost Saints Peter and Paul fresco for the Palazzo Pubblico, Siena
+
+  - title: Artistic Influences
+    list:
+      - Byzantine and Italo-Byzantine painting tradition — gold grounds, hieratic figures, chrysography
+      - Guido da Siena — Sienese altarpiece structure and monumental devotional types
+      - Cimabue — greater weight, monumentality, and more dynamic figural construction
+      - Franciscan hagiographic panel tradition — narrative cycles around a central saintly image
+      - Sienese workshop milieu of the late Duecento — exchange with painters such as Dietisalvi di Speme and Rinaldo da Siena
+
+  - title: Innovations
+    list:
+      - Refined Byzantine formulas toward greater psychological presence and narrative clarity
+      - Elegant architectural framing that gives sacred figures a more coherent pictorial stage
+      - Integration of vivid multi-scene narrative cycles into Sienese altarpiece formats before Duccio
+      - Important bridge between civic panel production and major ecclesiastical commissions in Siena
+
+  - title: Related Artists
+    list:
+      - Guido da Siena (older Sienese model and likely formative influence)
+      - Cimabue (major stylistic influence)
+      - Duccio di Buoninsegna (near-contemporary and successor within the Sienese school)
+      - Meo di Graziano (brother and collaborator)
+      - Guarnerio di Graziano (brother and collaborator)
+      - Dietisalvi di Speme (contemporary Sienese painter)
+      - Rinaldo da Siena (contemporary Sienese painter)
+
+  - title: Scholarly References
+    list:
+      - Luciano Bellosi — decisive reconstruction of Guido di Graziano's corpus from the documented 1280 Biccherna panel
+      - Archivio di Stato di Siena — documentary payments for Biccherna commissions between 1278 and 1302
+      - Modern studies of the Siena Cathedral crypt — confirmation of Guido's role in a major collaborative fresco context
+---
+
 *Guido di Graziano* was an Italian painter and manuscript illuminator active in Siena between approximately 1278 and 1302, widely regarded as one of the pivotal figures in the formation of the Sienese School of painting in the late thirteenth century. Though his precise dates of birth and death remain unknown, documentary evidence places his artistic activity firmly within the final quarter of the Duecento, making him a near-contemporary of Duccio di Buoninsegna and a crucial, if somewhat shadowy, predecessor to the great flowering of Sienese art in the Trecento.
 
 ## Family background

@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: Cimabue
-subtitle: Cenni di Pepo (Bencivieni di Pepo)
+subtitle: Florentine master bridging Byzantine tradition and Proto-Renaissance naturalism
 dates: c. 1240 – c. 1302
 meta:
   - title: Identity
@@ -20,6 +20,13 @@ meta:
         value: c. 1270 – 1302
       - label: Media
         value: Tempera on panel, fresco, mosaic
+
+  - title: Family and Workshop
+    list:
+      - Personal family details remain largely undocumented in surviving archives
+      - Trained in a Florentine workshop environment deeply shaped by Byzantine practice
+      - Directed large collaborative projects (especially Assisi), indicating workshop leadership at scale
+      - Traditionally linked to Giotto as principal pupil within later historiography
 
   - title: Patrons
     list:
@@ -55,6 +62,21 @@ meta:
       - Emotionally engaged Passion imagery — pathos and affective devotion
       - Chromatic sophistication — ultramarine, vermillion, elaborately tooled gold
 
+  - title: Geography and Mobility
+    pairs:
+      - label: Primary production center
+        value: Florence
+      - label: Major documented activity zones
+        value: Rome (documented 1272), Assisi (Upper Basilica campaigns), Pisa (late mosaic commission)
+      - label: Mobility evidence
+        value: Career reflects movement across major ecclesiastical centers of central Italy
+
+  - title: Historical Significance
+    list:
+      - Crucial transitional figure between the maniera greca and early Italian naturalism
+      - Established monumental visual models for late Duecento devotional art
+      - Central predecessor for Giotto and the broader Trecento transformation of narrative painting
+
   - title: Related Artists
     list:
       - Giotto di Bondone (principal pupil)
@@ -70,6 +92,12 @@ meta:
         value: "Rome, 1272 — identified as \"Cimabove pictor de Florentia\""
       - label: Final commission
         value: Pisa Cathedral apse mosaic, c. 1301–1302
+
+  - title: Scholarly References
+    list:
+      - Dante (Purgatorio XI) as an early witness to Cimabue's contemporary fame
+      - Vasarian and post-Vasarian historiography on Cimabue's foundational role
+      - Modern technical and conservation studies (Assisi frescoes, Santa Croce Crucifix, panel analyses)
 ---
 
 *Cimabue*, born *Cenni di Pepo* (or possibly Bencivieni di Pepo) around 1240 in Florence, emerged as the most influential painter of the third quarter of the thirteenth century and the pivotal figure bridging Byzantine tradition and Proto-Renaissance innovation. The precise circumstances of his birth remain obscure, with contemporary documents providing no definitive record of his parentage or exact birthdate, though scholarly consensus places his nativity circa 1240 based on stylistic chronology and the documented trajectory of his career. The name "Cimabue," by which he became universally known, appears to be a nickname rather than a family surname, possibly deriving from the Florentine dialect "cima bue" (ox head) or from a corruption of an earlier patronymic, though its exact etymology remains contested among scholars. 

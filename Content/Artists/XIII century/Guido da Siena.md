@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: Guido da Siena
-subtitle: Guido di Siena
+subtitle: Early Sienese master of the Italo-Byzantine tradition
 dates: c. 1230 – c. 1290
 meta:
   - title: Identity
@@ -18,6 +18,13 @@ meta:
         value: c. 1260 – c. 1285
       - label: Media
         value: Tempera on panel, tempera on canvas, tempera with silver leaf, gold ground
+
+  - title: Family and Workshop
+    list:
+      - Family background undocumented in surviving Sienese records
+      - No secure identification with Guido di Graziano, despite older scholarly confusion
+      - Probably trained in a local Sienese workshop shaped by Byzantine and central Italian models
+      - Career suggests integration into high-status ecclesiastical patronage networks rather than a purely local artisan sphere
 
   - title: Patrons
     list:
@@ -55,6 +62,22 @@ meta:
       - Integration of narrative Infancy and Passion cycles into a single large altarpiece format
       - Incipient spatial organisation of narrative scenes anticipating Duccio's compositional approach
       - Pioneering use of mordant gilding technique on canvas support
+
+  - title: Geography and Mobility
+    pairs:
+      - label: Primary production center
+        value: Siena
+      - label: Main documented or attributed orbit
+        value: Siena, Colle di Val d'Elsa, Grosseto, and other Tuscan ecclesiastical contexts
+      - label: Mobility evidence
+        value: No secure documentary travel record; geographic range reconstructed chiefly from surviving commissions and later attributions
+
+  - title: Historical Significance
+    list:
+      - One of the earliest named masters in the history of Sienese painting
+      - Key predecessor to Duccio in the formation of a distinct Sienese pictorial language
+      - Important mediator between rigid Italo-Byzantine formula and more affective late Duecento panel painting
+      - Central figure in later historiography of the origins of the Sienese school
 
   - title: Related Artists
     list:
