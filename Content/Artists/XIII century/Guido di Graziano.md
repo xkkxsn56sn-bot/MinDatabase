@@ -158,31 +158,31 @@ The central figure is framed by a trefoil arch with angels in the spandrels, a d
 
 The seven images: 
 
-1. Saint Peter Enthroned (central panel)
+- Saint Peter Enthroned (central panel)
 
 Saint Peter is seated on a precious throne, wrapped in a wide purple-red mantle that covers a blue tunic. In his right hand he holds the keys to Paradise—an unmistakable iconographic attribute—and in his left a scroll, symbol of his apostolic preaching. On either side of the trefoil arch framing the scene appear two half-length angels with their hands raised in a gesture of adoration. The solemn, frontal pose, the controlled gestures, and the fixed gaze directly recall the tradition of the Byzantine icon, filtered through the Sienese school. The identifying inscription S. Petrus is legible on the frame.
 
-2. Annunciation (side panel, top left)
+- Annunciation (side panel, top left)
 
 The scene depicts the Archangel Gabriel announcing to Mary her divine calling. The figures face each other within a simplified architectural setting of towers and arches, rendered in the vivid colors—red, green, blue—typical of the Sienese school. Mary appears in her classic receptive iconography, with her head slightly bowed. The angel, with outstretched wings and an eloquent hand gesture, represents the heavenly message. The gold of the background unifies the two figures, placed in a sacred and otherworldly realm.
 
-3. Nativity (side panel)
+- Nativity (side panel)
 
 The scene of the Nativity includes both the birth of Jesus, with the Child swaddled in the manger, and secondary scenes typical of medieval iconography, such as the Annunciation to the Shepherds and the Washing of the Child. The composition follows the tradition of Sienese narrative scenes, where secondary characters—the midwives, the shepherds—enrich the Gospel narrative with stylized details of daily life.
 
-4. The Calling of Saint Peter and Saint Andrew (side panel)
+- The Calling of Saint Peter and Saint Andrew (side panel)
 
 Christ appears on the shores of Lake Tiberias and calls Peter and his brother Andrew while they are fishing. The scene visually renders the Gospel passage (Mt 4:18–20): the two brothers, nets in hand, turn toward the figure of Christ, who beckons them with a gesture of his arm. The boat, the lake, and the figures compose a linear narrative in which the compositional simplicity is typical of 13th-century Sienese painting, where the essentiality of the story prevails over spatial depth.
 
-5. The Release of Saint Peter from Prison (side panel)
+- The Release of Saint Peter from Prison (side panel)
 
 The Angel of the Lord descends into the prison in Jerusalem where Peter is being held captive and, touching him on the side, awakens him from sleep and frees him from his chains (Acts 12:7). The scene shows Peter asleep among the guards, with the luminous angel breaking the darkness of the prison with his presence. The contrast between the winged figure of the angel and the heavy, bound figure of the prisoner creates an effective narrative polarity.
 
-6. The Fall of Simon Magus (side panel)
+- The Fall of Simon Magus (side panel)
 
 This is one of the most dramatically intense scenes in the entire altarpiece. Simon Magus, the magician who, according to the Acts of Peter, had challenged the apostle before Emperor Nero by attempting to fly with the help of the devil, falls to the ground just as Peter begins to pray. In the composition, demons are seen desperately trying to hold him back as he falls, but the miracle is inevitable. The architectural elements colored in almost acid-like hues—pink, light blue, pale yellow—lend the scene an almost supernatural dimension, alluding to the miraculous nature of the event. The figure of Simon Magus, contorted in his upside-down flight, is one of the first such dynamic representations in 13th-century Sienese painting.
 
-7. Martyrdom and Death of Saint Peter (side panel)
+- Martyrdom and Death of Saint Peter (side panel)
 
 The final scene depicts the martyrdom of Peter, crucified upside down on Vatican Hill at his own request, as he did not consider himself worthy of dying in the same posture as Christ. The inverted crucifixion is one of the most powerful iconographic elements in the hagiography of Peter, and Guido di Graziano renders it with the stylistic restraint that characterizes the entire panel. The presence of onlookers and executioners completes the narrative, set within a simplified architectural setting in accordance with the formal language of the late 13th-century Sienese school.
 
