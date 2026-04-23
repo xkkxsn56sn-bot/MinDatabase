@@ -262,7 +262,7 @@ The narrative nature of the theme allowed the artists working on this entire ser
 
 <figure>
   <img src="/images/Maestro Galliano/image 3.jpg" alt="Ariberto of Intimiano presents the model of the basilica">
-  <figcaption>TAriberto of Intimiano presents the model of the basilica, 1000-07, fresco, Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
+  <figcaption>Ariberto of Intimiano presents the model of the basilica, 1000-07, fresco, Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
 </figure>
 
 The southernmost section of the fresco cycle, executed no later than 1007 alongside the rest of the program, portrays Ariberto da Intimiano, the basilica's patron. Originally identified by inscriptions that have since disappeared, he stands in three-quarter profile dressed in the canonical vestments of a subdeacon — a green tunic, yellow dalmatic, and red shoes — turning toward the enthroned Christ in Majesty within the apse semicircle and presenting a model of the building he commissioned.
