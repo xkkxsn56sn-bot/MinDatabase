@@ -58,3 +58,4 @@ Uso:
 3. Seleziona Python: Run Personal Script e inserisci:
 	- scriptKey: la chiave script mostrata dalla task list
 	- scriptArgs: argomenti opzionali (esempio: `--help`)
+
