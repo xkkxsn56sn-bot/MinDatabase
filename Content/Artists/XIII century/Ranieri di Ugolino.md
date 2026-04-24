@@ -1,97 +1,60 @@
 ---
 layout: entry
 title: "Ranieri di Ugolino"
-subtitle: "Pisan panel painter (late Duecento), known chiefly for a signed painted cross from Santa Chiara"
-dates: "active late XIII century (c. 1290; possibly c. 1287–1310)"
-
+subtitle: "Pisan panel painter; last known master of the Tedice workshop dynasty"
+dates: "active c. 1287–1310, Pisa"
 meta:
- - title: "PERIOD"
-  list:
-   - "Late XIII century (Duecento)"
-   - "Final phase of the Pisan painted-cross tradition of the Tedice workshop"
+  - title: "Biographical data"
+    pairs:
+      - label: "Born"
+        value: "Date and place unknown (Pisa, presumed)"
+      - label: "Died"
+        value: "Date and place unknown (after 1310)"
+      - label: "Father"
+        value: "Ugolino di Tedice (panel painter, documented Pisa 1273 and 1277)"
+      - label: "Uncle"
+        value: "Enrico di Tedice (panel painter, active mid-thirteenth century, Pisa)"
 
- - title: "ROLE"
-  list:
-   - "Pisan panel painter"
-   - "Specialist in monumental painted crosses (crucifixes)"
-   - "Last known painter of the Tedice family workshop line"
+  - title: "Artistic profile"
+    pairs:
+      - label: "Activity"
+        value: "Panel painter"
+      - label: "Active period"
+        value: "c. 1287–1310 (Late Duecento)"
+      - label: "Century"
+        value: "XIII"
+      - label: "Medium"
+        value: "Tempera and gold on panel"
+      - label: "Style"
+        value: "Late Duecento Pisan school; Giuntesque structure overlaid with Cimabuesque volumetry; popular-expressive inflection inherited from the Tedice bottega"
 
- - title: "LOCATION"
-  list:
-   - "Pisa (probable birthplace, training, and principal activity)"
-   - "Spedali di Santa Chiara, Pisa (original setting of signed cross)"
-   - "Museo Nazionale di San Matteo, Pisa (current location of signed cross)"
+  - title: "Training and influences"
+    list:
+      - "Ugolino di Tedice (father and primary master): the Hermitage cross signed 'Ugolinus' provided a direct model of vigorous Giuntesque realism"
+      - "Enrico di Tedice (uncle): mid-century signed cross in San Martino, Pisa, offered the family's expressive, caricatural idiom and narrative schema"
+      - "Giunta Pisano: dominant influence on all Pisan crucifix painting; Ranieri preserves 'forme giuntesche' including the arched Christus patiens, sagging torso, and emphatic Passion wounds"
+      - "Cimabue: secondary influence detected by Treccani, interpreted with a more realist and popular accent — heavier bodies, deeper chiaroscuro, intensified pathos"
+      - "Byzantine tradition: sustained through Pisa's commercial exchanges with the eastern Mediterranean; gold grounds, hieratic frontality, and Christus patiens iconography all derive from this source"
+      - "Franciscan spirituality: indirect influence on the choice of the suffering Christ type, aimed at affective lay piety"
 
- - title: "BIRTH & DEATH"
-  pairs:
-   - label: "Birth"
-    value: "Unknown; probably Pisa (not documented)"
-   - label: "Death"
-    value: "Unknown (not documented)"
+  - title: "Patronage"
+    list:
+      - "Spedali di Santa Chiara, Pisa — Christus patiens cross, c. 1270–90 (now Museo Nazionale di San Matteo, Pisa)"
+      - "Unidentified religious community — double-sided processional crucifix, c. 1290–1310 (now Musée national d'archéologie, d'histoire et d'art, Luxembourg)"
 
- - title: "FAMILY / WORKSHOP"
-  list:
-   - "Son of Ugolino di Tedice"
-   - "Nephew of Enrico di Tedice"
-   - "Associated with the Tedice family workshop (bottega Tedice)"
+  - title: "Major works"
+    list:
+      - "Christus patiens between the Virgin and St. John the Evangelist, c. 1270–90 — tempera and gold on panel, 90 × 82 cm, Museo Nazionale di San Matteo, Pisa (from Spedali di Santa Chiara)"
+      - "Crucifix painted on both sides (Christus patiens / Christus triumphans with saints), c. 1290–1310 — tempera and gold on panel, 56.5 × 43.7 cm, Musée national d'archéologie, d'histoire et d'art, Luxembourg"
 
- - title: "KEY WORKS"
-  list:
-   - "Signed painted cross from the Spedali di Santa Chiara, now Museo Nazionale di San Matteo, Pisa (c. 1290)"
-   - "Double-sided crucifix, attributed, Musée National d’Histoire et d’Art, Luxembourg (c. 1290–1310)"
-
- - title: "ARTISTIC PROFILE"
-  list:
-   - "Giuntesque structures (“forms giuntesche”) likely learned in the Tedice workshop"
-   - "Reception of Cimabue’s innovations filtered through a more realist and ‘popular’ expressivity"
-   - "Christus patiens iconography within late Duecento Pisan crucifix formats"
-
- - title: "PATRONS / CONTEXT"
-  list:
-   - "Institutional commission context: Spedali di Santa Chiara (hospital complex), Pisa"
-   - "Liturgical and didactic function of monumental painted crosses in late Duecento Pisa"
-
- - title: "ATTRIBUTION NOTES"
-  list:
-   - "Sometimes (without proof) identified with the so-called Maestro di San Martino; identification remains hypothetical"
-
- - title: "THEMATIC KEYWORDS"
-  list:
-   - "Pisan school (Duecento)"
-   - "Painted crosses / crucifix panels"
-   - "Christus patiens and Passion devotion"
-   - "Giunta Pisano reception"
-   - "Cimabue reception"
-   - "Tedice workshop-family"
-
-author: "Ranieri di Ugolino"
-role: "Pisan panel painter (late XIII century), associated with the Tedice family workshop and known chiefly for a signed painted cross"
-birth_place: "Probably Pisa (not documented)"
-death_place: "Unknown"
-period: "Late XIII century"
-
-key_works:
- - "Signed painted cross from the Spedali di Santa Chiara, now Museo Nazionale di San Matteo, Pisa (c. 1290)"
- - "Double-sided crucifix, attributed, Musée National d’Histoire et d’Art, Luxembourg (c. 1290–1310)"
-
-tradition: "Pisan Duecento panel painting (painted-cross tradition) within the Tedice workshop-family line"
-artistic_style: "Giuntesque structures with a reported reflection of Cimabue’s lesson; more realist, ‘popular’ expressivity; focus on Christus patiens"
-
-thematic_keywords:
- - "Pisa"
- - "Duecento"
- - "painted cross"
- - "crucifix"
- - "Christus patiens"
- - "Giunta Pisano"
- - "Cimabue"
- - "Ugolino di Tedice"
- - "Enrico di Tedice"
- - "Santa Chiara (Pisa)"
-
-category: "artists"
+  - title: "Related entries"
+    links:
+      - title: "Enrico di Tedice"
+      - title: "Giunta Pisano"
+      - title: "Cimabue"
+      - title: "Deodato Orlandi"
+      - title: "Maestro di San Martino"
 ---
-
 
 *Ranieri di Ugolino* was a late thirteenth‑century Pisan painter, known almost exclusively through a single signed painted cross and through his membership in the Tedice workshop family. No secure documents record his exact date or place of birth, nor the date or cause of his death, so his career must be reconstructed from stylistic analysis and a few museum attributions.
 
