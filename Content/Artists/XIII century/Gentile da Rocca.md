@@ -1,3 +1,103 @@
+---
+layout: entry
+title: Gentile da Rocca
+subtitle: Abruzzese Duecento painter associated with Santa Maria ad Cryptas and Celestine patronage
+dates: c. 1240-1250 - after 1294?
+meta:
+  - title: Identity
+    pairs:
+      - label: Also known as
+        value: Magister Gentilis pictor
+      - label: Born
+        value: c. 1240-1250, probably Roccamorice (Abruzzo)
+      - label: Died
+        value: after 1294? (undocumented)
+      - label: Nationality
+        value: Italian (Abruzzese)
+      - label: Active period
+        value: documented from 1271; active c. 1271 - after 1283, probably into the 1290s
+      - label: Media
+        value: Fresco; tempera on cloth mounted on wood; silver leaf; gold-ground panel painting
+
+  - title: Family and Workshop
+    list:
+      - Family background undocumented in surviving Abruzzese records
+      - Probably originated from the mountainous territory around Roccamorice
+      - Likely trained within a regional workshop shaped by Byzantine and central Italian models
+      - Documentary title Magister implies recognized professional status and probable workshop leadership
+      - Influence across inland Abruzzo suggests followers or an active local circle, even if no named apprentices survive
+
+  - title: Patrons
+    list:
+      - Ecclesiastical community of Santa Maria ad Cryptas, Fossa
+      - Morel de Saour, identified in modern scholarship as patron connected with Santa Maria ad Cryptas
+      - Celestine community at San Onofrio sul Monte Morrone
+      - Pietro del Morrone (later Pope Celestine V), associated with the Monte Morrone milieu
+      - Rural and monastic communities across the Aterno, Peligna, and Vomano valleys
+
+  - title: Key Works
+    list:
+      - Virgin Mary Enthroned, Nursing the Child, 1283 - MuNDA, L'Aquila (signed and dated panel from Santa Maria ad Cryptas)
+      - Fresco cycle of Santa Maria ad Cryptas, Fossa - attributed in substantial part to Gentile and workshop
+      - Last Supper - Santa Maria ad Cryptas, Fossa
+      - Christ Pantocrator - Santa Maria ad Cryptas, Fossa
+      - Creation of Adam - Santa Maria ad Cryptas, Fossa
+      - Crucifixion and Saints - Oratory of San Onofrio, Monte Morrone
+
+  - title: Artistic Influences
+    list:
+      - Byzantine painting - frontal figures, hieratic structure, gold and silver effects, elongated types
+      - Central Italian Duecento panel practice - signed devotional panels, throne Madonnas, narrative fresco cycles
+      - Local Abruzzese monumental painting, especially the earlier cycle of San Pellegrino at Bominaco
+      - Roman monumental painting in mediated form, especially through late Duecento central Italian currents
+      - Celestine and Benedictine devotional culture in inland Abruzzo
+
+  - title: Innovations and Style
+    list:
+      - Distinctive cool palette of clear, greenish, and bluish tones noted by Enzo Carli
+      - Blend of Byzantine frontality with more expressive and affective human relationships
+      - Use of cloth mounted on panel and silver leaf reinforcement in the signed Fossa work
+      - Strong narrative clarity in fresco cycles designed for doctrinal and devotional instruction
+      - Vivid eschatological and Passion imagery adapted to local ecclesiastical settings
+
+  - title: Geography and Mobility
+    pairs:
+      - label: Probable origin
+        value: Roccamorice, province of Pescara
+      - label: Documented activity zones
+        value: Diocese of Chieti; Fossa near L'Aquila; Monte Morrone near Sulmona
+      - label: Attributed wider orbit
+        value: Santa Maria di Ronzano; San Clemente al Vomano; Fontecchio and other inland Abruzzese sites
+      - label: Mobility evidence
+        value: Career reconstructed through a 1271 witness document, the signed 1283 panel, Celestine connections, and dispersed regional attributions
+
+  - title: Documentary Record
+    pairs:
+      - label: 1271
+        value: Magister Gentilis pictor recorded as witness in Santa Maria della Plebe, diocese of Chieti
+      - label: 1283
+        value: Signed inscription on the Fossa tabernacle - Gentile de Rocca me pinxit
+      - label: Late 13th century
+        value: Vita et miracula s. Petri Coelestini records Magister Gentilis pictor at San Onofrio sul Monte Morrone
+
+  - title: Historical Significance
+    list:
+      - One of the very few named painters active in 13th-century Abruzzo
+      - Central figure for the reconstruction of regional Duecento painting in the Abruzzese interior
+      - Key link between Byzantine visual tradition and local pre-Gothic narrative painting
+      - Essential reference point for the frescoes of Santa Maria ad Cryptas and the artistic culture around Celestine patronage
+
+  - title: Related Scholars
+    list:
+      - Guglielmo Matthiae
+      - Enzo Carli
+      - Ferdinando Bologna
+      - Valentino Pace
+      - Lucia Arbace
+      - Marta Vittorini
+      - Gilberto Paolini
+---
+
 ## Family Origins and Social Context
 
 The precise date and place of birth of *Gentile da Rocca* remain, to this day, irrecoverable from the historical record. The epithet "da Rocca" by which the painter is universally identified in the scholarly literature most plausibly refers to Roccamorice, a fortified settlement in the province of Pescara in the Abruzzo region of central Italy, and it is from this locality that the artist presumably drew both his surname and his early cultural formation. The absence of a baptismal register, a notarial birth document, or any testamentary instrument referencing his family makes it impossible to determine with certainty his parentage, the number of siblings he may have had, or the social stratum from which he emerged. 
