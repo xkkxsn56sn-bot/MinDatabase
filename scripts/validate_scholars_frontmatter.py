@@ -51,6 +51,27 @@ def extract_scholar_ids(text: str) -> set[str]:
     return {m.group(1).lower() for m in SCHOLAR_LINK_RE.finditer(text)}
 
 
+def extract_top_level_scholars_block(front_matter: str) -> str:
+    lines = front_matter.splitlines()
+
+    scholars_start = None
+    for idx, line in enumerate(lines):
+        if re.match(r"^scholars:\s*$", line):
+            scholars_start = idx
+            break
+
+    if scholars_start is None:
+        return ""
+
+    scholars_end = len(lines)
+    for idx in range(scholars_start + 1, len(lines)):
+        if re.match(r"^[A-Za-z0-9_-]+:\s*.*$", lines[idx]):
+            scholars_end = idx
+            break
+
+    return "\n".join(lines[scholars_start:scholars_end])
+
+
 def iter_content_files(root: Path) -> Iterable[Path]:
     content_root = root / "Content"
     if not content_root.exists():
@@ -88,7 +109,7 @@ def analyze_file(path: Path) -> FileAnalysis:
     if not body_ids:
         return FileAnalysis(has_front_matter=True, missing_ids=[])
 
-    front_matter_ids = extract_scholar_ids(front_matter)
+    front_matter_ids = extract_scholar_ids(extract_top_level_scholars_block(front_matter))
     missing = sorted(body_ids - front_matter_ids)
     return FileAnalysis(has_front_matter=True, missing_ids=missing)
 
@@ -249,7 +270,7 @@ def validate_file(path: Path, root: Path) -> list[ValidationError]:
         ValidationError(
             file_path=rel,
             message=(
-                "Missing scholar links in YAML front matter for anchors: "
+                "Missing scholar links in top-level scholars YAML front matter for anchors: "
                 + ", ".join(analysis.missing_ids)
             ),
         )
@@ -259,7 +280,7 @@ def validate_file(path: Path, root: Path) -> list[ValidationError]:
 def main() -> int:
     parser = argparse.ArgumentParser(
         description=(
-            "Validate that scholar citations in content bodies also appear in YAML front matter."
+            "Validate that scholar citations in content bodies also appear in the top-level scholars YAML front matter block."
         )
     )
     parser.add_argument(

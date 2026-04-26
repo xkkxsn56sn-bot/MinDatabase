@@ -79,6 +79,11 @@ meta:
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Boskovits, Miklos"
         url: "/scholars.html#boskovits-miklos"
+
+scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+
 ---
 
 ## Family and Origins

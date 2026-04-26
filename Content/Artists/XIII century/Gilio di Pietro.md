@@ -111,6 +111,12 @@ thematic_keywords:
   - "Civic patronage"
   - "Duecento panel painting"
 
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+
 category: "artists"
 ---
 

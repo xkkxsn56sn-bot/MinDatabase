@@ -123,6 +123,24 @@ thematic_keywords:
   - "Rupestrian sanctuary"
   - "Proto-Giottesque tendencies in Lazio"
 
+scholars:
+  - title: "Federici, Vincenzo"
+    url: "/scholars.html#federici-vincenzo"
+  - title: "Hermanin de Reichenfeld, Federico"
+    url: "/scholars.html#hermanin-federico"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Mari, Fabio"
+    url: "/scholars.html#mari-fabio"
+  - title: "Matthiae, Guglielmo"
+    url: "/scholars.html#matthiae-guglielmo"
+  - title: "Toesca, Pietro"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Van Marle, Raimond"
+    url: "/scholars.html#van-marle-raimond"
+  - title: "Venturi, Adolfo"
+    url: "/scholars.html#venturi-adolfo"
+
 category: "artists"
 ---
 

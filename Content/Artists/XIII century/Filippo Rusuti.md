@@ -133,6 +133,10 @@ thematic_keywords:
   - "Late Duecento Roman school"
   - "Rome–France–Naples artistic mobility"
 
+scholars:
+  - title: "Romano, Serena"
+    url: "/scholars.html#romano-serena"
+
 category: "artists"
 ---
 

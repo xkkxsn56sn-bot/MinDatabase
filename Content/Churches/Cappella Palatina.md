@@ -21,6 +21,12 @@ scholars:
   - title: "Tronzo, William"
     url: "/scholars.html#tronzo-william"
 
+  - title: "Johns, Jeremy"
+    url: "/scholars.html#johns-jeremy"
+  - title: "Kapitaikin, Lev Arie"
+    url: "/scholars.html#kapitaikin-lev-arie"
+  - title: "Kitzinger, Ernst"
+    url: "/scholars.html#kitzinger-ernst"
 category: "churches"
 
 tradition: "Latin Christian royal chapel with Greek and Latin liturgical usage under Norman rule"
