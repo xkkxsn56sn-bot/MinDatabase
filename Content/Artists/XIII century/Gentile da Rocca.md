@@ -236,7 +236,7 @@ The codex *Vita et miracula s. Petri Coelestini* explicitly names a "Magister Ge
 
 <figure>
   <img src="/images/Gentile da Rocca/image 6.jpg" alt="Madonna and Child known as Madonna di Ambro">
-  <figcaption>Madonna and Child known as Madonna di Ambro, after 1287, tempera and gold canvas mounted on panel, 17 × 66 × 4,5 cm, Museo nazionale d'Abruzzo, L'Aquila.</figcaption>
+  <figcaption>Madonna and Child known as Madonna di Ambro, after 1287, tempera and gold canvas mounted on panel, 179 × 66 × 4,5 cm, Museo nazionale d'Abruzzo, L'Aquila.</figcaption>
 </figure>
 
 The Madonna di Ambro (or Madonna de Ambro) is one of the most significant medieval icons in Abruzzo. It is housed at the National Museum of Abruzzo (MuNDA) in L'Aquila, dates to the first half of the 13th century, and is traditionally associated with the Umbrian-Abruzzese artistic tradition of the same period as Gentile da Rocca.
