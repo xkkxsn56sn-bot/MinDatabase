@@ -59,3 +59,37 @@ Uso:
 	- scriptKey: la chiave script mostrata dalla task list
 	- scriptArgs: argomenti opzionali (esempio: `--help`)
 
+## Visitor Counter (private)
+
+Il sito usa ora uno script invisibile per contare le visite pagina tramite CountAPI.
+
+- Tracker client: `assets/js/visitor-counter.js`
+- Script lettura totale: `scripts/get_visitor_count.py`
+- Script delta settimanale/mensile: `scripts/visitor_count_deltas.py`
+
+Leggere il totale visite:
+
+```bash
+python scripts/get_visitor_count.py
+```
+
+Cambiare namespace/key (facoltativo):
+
+```bash
+python scripts/get_visitor_count.py --namespace my-namespace --key my-key
+```
+
+Leggere delta 7/30 giorni (usa snapshot locali salvati a ogni esecuzione):
+
+```bash
+python scripts/visitor_count_deltas.py
+```
+
+Percorso storico personalizzato (facoltativo):
+
+```bash
+python scripts/visitor_count_deltas.py --history-file scripts/.visitor_count_history.json
+```
+
+Se vuoi cambiare il contatore usato dal sito, modifica le costanti `COUNTER_NAMESPACE` e `COUNTER_KEY` in `assets/js/visitor-counter.js`.
+
