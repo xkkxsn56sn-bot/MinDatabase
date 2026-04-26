@@ -100,6 +100,12 @@ thematic_keywords:
   - "Rupestrian sanctuary"
   - "Proto-Giottesque tendencies in Lazio"
 
+scholars:
+  - title: "Rotili, Mario"
+    url: "/scholars.html#rotili-mario"
+  - title: "Kaftal, George"
+    url: "/scholars.html#kaftal-george"
+
 category: "artists"
 ---
 
@@ -118,7 +124,7 @@ The identification of these documentary "Consoli" with the painter himself was a
 
 It is worth pausing to examine this apparently small detail more carefully.
 
-<div class="entry-callout">
+<div class="entry-callout" markdown="1">
 
 At the heart of this study lies a far from trivial issue of artistic attribution. In the lower church of the Sacro Speco in Subiaco, there is a 14th-century fresco depicting a Madonna and Child flanked by two angels, beside which the painter inscribed: MAGISTER CONXOLUS PINXIT HOC OPUS. In the archives of the monastery of Santa Scolastica in Subiaco, however, the name never appeared in that form: nine parchments dated between 1292 and 1328 repeatedly mention a “Benedictus Consuli” of Subiaco—that is, Benedetto di Consulo—and his descendants. The nineteenth-century scholar Vincenzo Federici, who had cataloged those parchments, had read “Consulus” as if it were the Latin form of “Console” (Consul, third declension), thus missing the connection with the autograph name.
 
@@ -128,7 +134,7 @@ However, even the painter, in that incorrect spelling, intended to write Consulu
 
 Salvi’s thesis had significant implications for art history: it demonstrated that Magister Conxolus was a painter born in Subiaco, locally rooted with houses and vineyards in the territory of Subiaco, belonging to a family of considerable wealth. This placed him within the circle of the great Roman masters of the second half of the 13th century—Jacopo Torriti, Filippo Rusutti, Pietro Cavallini—not as a foreign artist but as an exponent of a local school of painting that contributed to the development of medieval Roman painting. The genealogical reconstruction traced by Salvi, from the progenitor Consulo, to his son Benedetto (attested from 1292 to 1314), to his grandson Berardo, and to his great-grandson Giovanni (attested in 1328), remains to this day the primary documentary framework for historians studying the Subiaco-born master.
 
-The thesis was accepted and cited by [Mario Rotili](/scholars.html#rotili-mario) in Origini della pittura italiana (Bergamo, 1963) and by [George Kaftal](/scholars.html#kaftal-george) in his monumental Iconography of the Saints in Central and South Italian Schools of Painting (Florence, 1965). The most recent academic research—including Caramico’s doctoral dissertation defended at the University of Florence in 2019—continues to cite “SALVI 1960” as an indispensable reference, a sign that the hypothesis has not been refuted. Despite the exceptional brevity of the contribution—just two pages in the Bollettino d'Arte—G. Salvi thus carried out an act of archival criticism of remarkable insight, which made it possible to restore to the painter of the Sacro Speco a precise civil identity and territorial roots.
+The thesis was accepted and cited by Mario Rotili in Origini della pittura italiana (Bergamo, 1963) and by George Kaftal in his monumental Iconography of the Saints in Central and South Italian Schools of Painting (Florence, 1965). The most recent academic research—including Caramico’s doctoral dissertation defended at the University of Florence in 2019—continues to cite “SALVI 1960” as an indispensable reference, a sign that the hypothesis has not been refuted. Despite the exceptional brevity of the contribution—just two pages in the Bollettino d'Arte—G. Salvi thus carried out an act of archival criticism of remarkable insight, which made it possible to restore to the painter of the Sacro Speco a precise civil identity and territorial roots.
 
 </div>
 
