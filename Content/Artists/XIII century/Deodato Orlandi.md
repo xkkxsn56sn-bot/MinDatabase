@@ -68,6 +68,10 @@ meta:
         value: Lucchese document of 16 October 1331 refers to him as deceased
       - label: Posthumous note
         value: "1332 document describes him as a rebel and exile — circumstances unknown"
+
+scholars:
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
 ---
 
 *Deodato Orlandi*, also known as *Deodato di Orlando* and documented in some sources as *Deodato Orlandi Bentivegna*, stands as one of the most significant transitional painters operating in Tuscany during the late thirteenth and early fourteenth centuries. Born in Lucca around 1260, this dating is established through documentary evidence placing him among the participants of the Consiglio generale del popolo of Lucca in 1284, an assembly restricted to citizens who had attained their eighteenth year. His birthplace in the city of Lucca, a thriving commercial and artistic center of medieval Tuscany, provided the foundational environment for his artistic development. 

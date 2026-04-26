@@ -125,6 +125,18 @@ meta:
       - "panel painting"
       - "chiaroscuro"
       - "gold ground"
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Della Valle, Guglielmo"
+    url: "/scholars.html#della-valle-guglielmo"
+  - title: "Donati, Piero"
+    url: "/scholars.html#donati-piero"
+  - title: "Marrone, Raffaele"
+    url: "/scholars.html#marrone-raffaele"
+  - title: "Romagnoli, Ettore"
+    url: "/scholars.html#romagnoli-ettore"
 ---
 
 *Vigoroso da Siena* — active documentably between 1276 and 1293 — stands as one of the most singular and enigmatic figures in the history of Duecento Italian painting. Working at the confluence of a powerful Cimabuesque tradition and the nascent Sienese pictorial school, he occupies a pivotal, if still partially obscure, position in the transition from Italo-Byzantine conventions toward the emerging Gothic sensibility that would define central Italian art in the early Trecento.

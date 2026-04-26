@@ -117,6 +117,10 @@ meta:
         url: "/Content/Codex/Book%20of%20Durrow.html"
       - title: "Book of Kells"
         url: "/Content/Codex/Book%20of%20Kells.html"
+
+scholars:
+  - title: "Brown, Michelle P."
+    url: "/scholars.html#brown-michelle-p"
 ---
 
 

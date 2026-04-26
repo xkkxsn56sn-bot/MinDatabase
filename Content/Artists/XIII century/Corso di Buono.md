@@ -62,6 +62,10 @@ meta:
       - Franciscan and Augustinian religious orders
       - Florentine confraternities (Laudesi companies)
       - Private mercantile families, Florence
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
 ---
 
 The origins of *Corso di Buono*, a pivotal figure in late thirteenth-century Florentine painting, are rooted in the artisan class that flourished alongside the economic expansion of the commune. Born presumably around the middle of the thirteenth century in Florence or its immediate territories, Corso carried a patronymic indicating his father was named Buono, a common Tuscan name of the era which may suggest a lineage of craftsmen or minor merchants. Archival traces have recently illuminated his domestic sphere, revealing the existence of a brother named *Segnorello di Buono*, a relationship that implies a stable family network typical of the *popolo* class asserting its rights in republican Florence. The most significant domestic document concerns his wife, *Lore*, who is recorded as his widow in later records, establishing both his marital status and the survival of his spouse after his death. This mention of *Lore vedova di Corso* provides a rare glimpse into the private life of a trecento artist, a category of professional often visible only through contracts and guild matriculations rather than personal relationships. The family likely resided within one of the growing *sestieri* of Florence, embedded in the neighborhood networks that defined civic identity before the full consolidation of the major guilds. His social standing was not merely that of a manual laborer but of a respected master, a status confirmed by his eventual elevation to a leadership role within the nascent artistic community of the city.

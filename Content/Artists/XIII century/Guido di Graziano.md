@@ -73,6 +73,10 @@ meta:
       - Luciano Bellosi — decisive reconstruction of Guido di Graziano's corpus from the documented 1280 Biccherna panel
       - Archivio di Stato di Siena — documentary payments for Biccherna commissions between 1278 and 1302
       - Modern studies of the Siena Cathedral crypt — confirmation of Guido's role in a major collaborative fresco context
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
 ---
 
 *Guido di Graziano* was an Italian painter and manuscript illuminator active in Siena between approximately 1278 and 1302, widely regarded as one of the pivotal figures in the formation of the Sienese School of painting in the late thirteenth century. Though his precise dates of birth and death remain unknown, documentary evidence places his artistic activity firmly within the final quarter of the Duecento, making him a near-contemporary of Duccio di Buoninsegna and a crucial, if somewhat shadowy, predecessor to the great flowering of Sienese art in the Trecento.

@@ -136,6 +136,20 @@ meta:
         url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
       - title: "Maestro di Rosano"
         url: "/Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+
+scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Caleca, Antonino"
+    url: "/scholars.html#caleca-antonino"
+  - title: "Ciatti, Marco"
+    url: "/scholars.html#ciatti-marco"
+  - title: "Donati, Piero"
+    url: "/scholars.html#donati-piero"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Masetti, Anna Rosa Calderoni"
+    url: "/scholars.html#masetti-anna-rosa-calderoni"
 ---
 
 *Maestro Guglielmo*, also known as *Guillielmus* or *Mastro Guglielmo*, represents one of the most enigmatic yet significant figures in the history of twelfth-century Italian painting, whose identity remains shrouded in mystery despite the survival of his most celebrated work. The only secure documentation of his existence derives from a Latin inscription on the Sarzana Crucifix, which reads *Anno milleno centeno ter quoque deno octavo pinxit Guillielmus et hec metra finxit*, establishing 1138 as the date of the work's execution and identifying its creator simply as "Guillielmus". Neither the exact date nor place of his birth has been preserved in any surviving document, leaving scholars to speculate based on stylistic analysis and the technical sophistication evident in his work. The artist's familiarity with Latin hexameter verse, demonstrated in both the inscription and the now-illegible captions accompanying the Passion narratives on the cross, suggests an ecclesiastical background and education unavailable to most laypeople of the period. 

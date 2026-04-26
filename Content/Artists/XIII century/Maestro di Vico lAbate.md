@@ -92,6 +92,24 @@ meta:
       - title: "Badia Fiorentina"
       - title: "Hugh of Tuscany (endnote)"
         url: "/endnotes.html#fn-hugh-great-tuscany"
+
+scholars:
+  - title: "Casazza, Ornella"
+    url: "/scholars.html#casazza-ornella"
+  - title: "Coletti, Luigi"
+    url: "/scholars.html#coletti-luigi"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Lo Vullo, Gaetano"
+    url: "/scholars.html#lo-vullo-gaetano"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Oertel, Robert"
+    url: "/scholars.html#oertel-robert"
+  - title: "Offner, Richard"
+    url: "/scholars.html#offner-richard"
+  - title: "Ragghianti, Carlo Ludovico"
+    url: "/scholars.html#ragghianti-carlo-ludovico"
 ---
 
 ## Historiographical Identity

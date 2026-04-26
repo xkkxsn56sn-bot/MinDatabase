@@ -133,6 +133,10 @@ meta:
         url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
+
+scholars:
+  - title: "Schapiro, Meyer"
+    url: "/scholars.html#schapiro-meyer"
 ---
 
 ## Anonymity and Socio-Economic Context

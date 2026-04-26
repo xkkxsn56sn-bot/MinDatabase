@@ -55,6 +55,12 @@ related_entries:
   - title: "Council of Trent and post‑Tridentine reforms"
     url: "/Content/Papirer/Council%20of%20Trent%20Rood%20Screens.html"
 
+scholars:
+  - title: "Edgell, George Henry"
+    url: "/scholars.html#edgell-george-henry"
+  - title: "Venturi, Adolfo"
+    url: "/scholars.html#venturi-adolfo"
+
 category: "papirer"
 
 meta:

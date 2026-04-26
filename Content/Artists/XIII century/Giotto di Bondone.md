@@ -92,6 +92,10 @@ meta:
       - "Lorenzo Ghiberti, I Commentari, I (c. 1447–55): foundational catalogue of Giotto's works"
       - "Giorgio Vasari, Le Vite de' più eccellenti pittori, scultori e architettori, 1st ed. Florence 1550; 2nd ed. Florence 1568"
       - "Anonymous Florentine chronicler, Cronica fiorentina (c. 1335): death notice and praise"
+
+scholars:
+  - title: "Ghiberti, Lorenzo"
+    url: "/scholars.html#ghiberti-lorenzo"
 ---
 
 *Giotto di Bondone* is traditionally believed to have been born around 1267 in the humble village of Colle di Vespignano, situated in the scenic countryside of Mugello, not far from the bustling city of Florence in the historic Republic of Florence. Although definitive birth records have never been discovered, many early sources and chronicles point to this approximate date as the most likely, and his childhood in this rural environment has long been associated with stories of his innate gift for drawing that purportedly captured the attention of the celebrated Florentine painter Cimabue. The intriguing narratives surrounding his youthful talents, while occasionally embellished by later biographers, highlight the magnetic appeal Giotto would have for generations of art lovers and provide a glimpse into the exceptional nature of his creative genius at a time when painting was still constrained by the conventions of Byzantine tradition.

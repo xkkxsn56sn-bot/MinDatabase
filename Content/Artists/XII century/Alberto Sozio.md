@@ -120,6 +120,12 @@ meta:
         url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
       - title: "Maestro della Croce del Santo Sepolcro"
         url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
+
+scholars:
+  - title: "Parlato, Enrico"
+    url: "/scholars.html#parlato-enrico"
+  - title: "Todini, Filippo"
+    url: "/scholars.html#todini-filippo"
 ---
 
 

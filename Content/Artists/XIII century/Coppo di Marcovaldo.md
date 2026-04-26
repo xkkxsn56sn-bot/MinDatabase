@@ -84,6 +84,12 @@ key_works:
   - "Madonna and Child in Majesty (attr.), Museo dell'Opera del Duomo, Orvieto"
 
 artistic_style: "Byzantine Maniera Greca as foundation, transformed by powerful chiaroscuro modeling, psychologically intense expression, and a proto-naturalist weight that anticipates Cimabue and the Florentine tradition leading to Giotto"
+
+scholars:
+  - title: "Douglas, Robert Langton"
+    url: "/scholars.html#douglas-robert-langton"
+  - title: "Venturi, Adolfo"
+    url: "/scholars.html#venturi-adolfo"
 ---
 
 *Coppo di Marcovaldo* was born in Florence around 1225, most likely in the second or third decade of the thirteenth century, in the parish of San Lorenzo, a district in the heart of the Tuscan city that was already establishing itself as a significant artistic center. The exact date of his birth remains undocumented, as is common for artists of this period, though archival evidence places his active artistic career firmly within the third quarter of the thirteenth century. 

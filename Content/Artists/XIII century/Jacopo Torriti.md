@@ -114,6 +114,16 @@ related_entries:
   - title: "Cimabue"
     url: "/Content/Artists/XIII%20century/Cimabue.html"
 
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "De Angelis, Luigi"
+    url: "/scholars.html#de-angelis-luigi"
+  - title: "Pace, Valentino"
+    url: "/scholars.html#pace-valentino"
+  - title: "Toesca, Pietro"
+    url: "/scholars.html#toesca-pietro"
+
 category: "artist"
 
 meta:

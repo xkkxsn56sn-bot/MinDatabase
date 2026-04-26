@@ -96,6 +96,26 @@ meta:
       - Lucia Arbace
       - Marta Vittorini
       - Gilberto Paolini
+
+scholars:
+  - title: "Andaloro, Maria"
+    url: "/scholars.html#andaloro-maria"
+  - title: "Arbace, Lucia"
+    url: "/scholars.html#arbace-lucia"
+  - title: "Bologna, Ferdinando"
+    url: "/scholars.html#bologna-ferdinando"
+  - title: "Carli, Enzo"
+    url: "/scholars.html#carli-enzo"
+  - title: "Matthiae, Guglielmo"
+    url: "/scholars.html#matthiae-guglielmo"
+  - title: "Pace, Valentino"
+    url: "/scholars.html#pace-valentino"
+  - title: "Paolini, Gilberto"
+    url: "/scholars.html#paolini-gilberto"
+  - title: "Piccirilli, Pietro"
+    url: "/scholars.html#piccirilli-pietro"
+  - title: "Vittorini, Marta"
+    url: "/scholars.html#vittorini-marta"
 ---
 
 ## Family Origins and Social Context

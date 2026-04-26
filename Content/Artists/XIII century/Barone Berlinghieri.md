@@ -66,6 +66,12 @@ meta:
         url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html"
       - title: "Marco Berlinghieri"
         url: "/Content/Artists/XIII%20century/Marco%20Berlinghieri.html"
+
+scholars:
+  - title: "Ghiberti, Lorenzo"
+    url: "/scholars.html#ghiberti-lorenzo"
+  - title: "Vasari, Giorgio"
+    url: "/scholars.html#vasari-giorgio"
 ---
 
 ## The Founding Patriarch

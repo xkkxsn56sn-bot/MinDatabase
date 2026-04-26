@@ -92,6 +92,14 @@ meta:
       - Luciano Bellosi — distinction of Guido from Guido di Graziano
       - Bernard Berenson — attribution of Pinacoteca panels (1936)
       - Cesare Brandi — Sienese school historiography
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Berenson, Bernard"
+    url: "/scholars.html#berenson-bernard"
+  - title: "Brandi, Cesare"
+    url: "/scholars.html#brandi-cesare"
 ---
 
 *Guido da Siena*, also known as Guido di Siena, was an Italian painter active in Siena during the second half of the thirteenth century, conventionally placed ca. 1230–1290, although no firm documentation of his birth or precise biographical details survives. His name is preserved almost exclusively through inscriptions on panels, most famously the large Madonna with Christ Child Enthroned, originally in the Basilica di San Domenico in Siena, which bears the line *Me Guido de Senis diebus depinxit amenis / quem Christus lenis nullis velit angere penes. Anno Domini MCCXXI.* Modern scholarship generally places the actual execution of that panel closer to the 1260s or 1270s and views the famous date 1221 either as a later restoration note or as a commemorative formula rather than a literal record of execution, a reconceptualisation that has reshaped assessments of his chronology and relative primacy in the Sienese school.

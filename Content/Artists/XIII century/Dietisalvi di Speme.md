@@ -147,6 +147,10 @@ meta:
       - "Luciano Bellosi — decisive 1991 reassessment and reconstruction of the oeuvre"
       - "Archivio di Stato di Siena — documentary base for Biccherna commissions and civic activity"
       - "Modern Siena Cathedral and Biccherna scholarship — context for his role in civic visual culture"
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
 ---
 
 *Dietisalvi di Speme* was an Italian painter active in Siena during the second half of the thirteenth century, specifically documented between 1250 and 1291. His artistic career coincided with a crucial period in the development of Sienese painting, preceding the work of Duccio di Buoninsegna and representing a transitional phase between Byzantine tradition and the emerging Gothic style. The artist's contributions to Sienese civic and religious art were substantial, though much of his production has been lost to time. His work demonstrates the evolution of painting in thirteenth-century Tuscany, particularly the gradual departure from rigid Byzantine iconography toward more naturalistic representations. 

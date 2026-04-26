@@ -104,6 +104,14 @@ meta:
       - "Umbrian painting"
       - "Giunta Pisano"
       - "Alberto Sotio"
+
+scholars:
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Meiss, Millard"
+    url: "/scholars.html#meiss-millard"
+  - title: "Ranucci, Cristina"
+    url: "/scholars.html#ranucci-cristina"
 ---
 
 ## Origins and Family

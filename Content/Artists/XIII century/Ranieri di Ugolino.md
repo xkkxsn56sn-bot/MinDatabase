@@ -54,6 +54,14 @@ meta:
       - title: "Cimabue"
       - title: "Deodato Orlandi"
       - title: "Maestro di San Martino"
+
+scholars:
+  - title: "Caleca, Antonino"
+    url: "/scholars.html#caleca-antonino"
+  - title: "Carli, Enzo"
+    url: "/scholars.html#carli-enzo"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
 ---
 
 *Ranieri di Ugolino* was a late thirteenth‑century Pisan painter, known almost exclusively through a single signed painted cross and through his membership in the Tedice workshop family. No secure documents record his exact date or place of birth, nor the date or cause of his death, so his career must be reconstructed from stylistic analysis and a few museum attributions.

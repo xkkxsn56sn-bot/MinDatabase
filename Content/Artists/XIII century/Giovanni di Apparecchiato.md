@@ -3,6 +3,13 @@ layout: entry
 title: "Giovanni d'Apparecchiato"
 subtitle: "Lucchese-Pisan panel painter and fresco master; documented collaborator of Cimabue"
 dates: "Active Pisa, documented 1299–1301"
+
+scholars:
+  - title: "Fontana, Giovanni"
+    url: "/scholars.html#fontana-giovanni"
+  - title: "Ghiberti, Lorenzo"
+    url: "/scholars.html#ghiberti-lorenzo"
+
 category: "artists"
 
 meta:
@@ -91,7 +98,6 @@ meta:
         url: "/Content/Artists/XIII century/Duccio di Buoninsegna"
       - title: "Giotto di Bondone"
         url: "/Content/Artists/XIII century/Giotto di Bondone"
-
 ---
 
 *Giovanni d'Apparecchiato*, known by the alternative designation *il Nuccaro* (or *Nuccolo* and *Nuchulus* in variant documentation), emerged from the merchant republic of Lucca in the late thirteenth century, where his family apparently maintained sufficient means to support the apprenticeship of a son in the prestigious craft of panel and fresco painting. The precise etymology of his surname remains contested among scholars, with "Apparecchiato" possibly deriving from a locality within Luccan territory, though no definitive genealogical records have survived to establish his parentage or collateral family members with certainty. 

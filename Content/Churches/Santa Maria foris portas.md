@@ -156,6 +156,10 @@ meta:
         url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
       - title: "Fulda Abbey"
         url: "/Content/Churches/Fulda%20Abbey.html"
+
+scholars:
+  - title: "Grabar, André"
+    url: "/scholars.html#grabar-andre"
 ---
 
 ## Introduction and Architectural Context

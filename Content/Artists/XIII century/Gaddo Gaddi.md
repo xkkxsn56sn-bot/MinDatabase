@@ -90,6 +90,12 @@ meta:
       - "J.A. Crowe and G.B. Cavalcaselle, A History of Painting in Italy, London 1864 and later editions"
       - 'Encyclopaedia Britannica, 11th ed., Cambridge 1911, s.v. "Gaddi"'
       - "Catholic Answers Encyclopedia, s.v. \"Gaddo Gaddi\""
+
+scholars:
+  - title: "Cavalcaselle, Giovanni Battista"
+    url: "/scholars.html#cavalcaselle-giovanni-battista"
+  - title: "Crowe, Joseph Archer"
+    url: "/scholars.html#crowe-joseph-archer"
 ---
 
 ## Family and workshop

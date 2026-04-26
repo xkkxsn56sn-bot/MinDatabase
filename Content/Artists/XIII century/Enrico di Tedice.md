@@ -124,6 +124,18 @@ meta:
         url: /Content/Artists/XIII century/Ranieri di Ugolino
       - title: Giunta Pisano
         url: /Content/Artists/XIII century/Giunta Pisano
+
+scholars:
+  - title: "Ascani, Valerio"
+    url: "/scholars.html#ascani-valerio"
+  - title: "Carli, Enzo"
+    url: "/scholars.html#carli-enzo"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Sirén, Osvald"
+    url: "/scholars.html#siren-osvald"
 ---
 
 *Enrico di Tedice* was a mid‑thirteenth‑century Pisan painter, documented in 1254 and best known for the signed painted cross in the church of San Martino and for a small cluster of stylistically related works in Pisa, Florence, and the lower Arno valley. His exact birth and death dates, the precise place of his birth, and the cause of his death are all unknown, but the concentration of documents and works around Pisa makes it highly probable that he was born in or near that city in the early decades of the thirteenth century and died sometime after the mid‑century, likely of natural causes, as no record of a violent or unusual death survives.

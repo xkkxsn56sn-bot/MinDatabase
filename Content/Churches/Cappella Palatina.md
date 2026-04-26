@@ -4,6 +4,23 @@ title: "Cappella Palatina (Palatine Chapel, Palermo)"
 subtitle: "Norman royal chapel uniting Byzantine mosaic, Fatimid-Islamic carpentry, and Romanesque spatial language"
 dates: "Commissioned 1132; consecrated 28 April 1140; principal mosaic campaigns c. 1140s-1170s; UNESCO inscription 2015"
 location: "Palazzo dei Normanni (Royal Palace), Palermo, Sicily, Italy"
+
+scholars:
+  - title: "Agnello, Fabrizio"
+    url: "/scholars.html#agnello-fabrizio"
+  - title: "Demus, Otto"
+    url: "/scholars.html#demus-otto"
+  - title: "Diehl, Charles (Michel-Charles)"
+    url: "/scholars.html#diehl-michel-charles"
+  - title: "Grube, Ernst J."
+    url: "/scholars.html#grube-ernst-j"
+  - title: "Monneret de Villard, Hugo"
+    url: "/scholars.html#monneret-de-villard-hugo"
+  - title: "Strzygowski, Josef Rudolph Thomas"
+    url: "/scholars.html#strzygowski-josef-rudolph-thomas"
+  - title: "Tronzo, William"
+    url: "/scholars.html#tronzo-william"
+
 category: "churches"
 
 tradition: "Latin Christian royal chapel with Greek and Latin liturgical usage under Norman rule"

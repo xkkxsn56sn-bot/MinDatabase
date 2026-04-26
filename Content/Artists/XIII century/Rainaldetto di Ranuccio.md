@@ -3,6 +3,25 @@ layout: entry
 title: Rainaldetto di Ranuccio
 subtitle: Umbrian Duecento painter associated with the giuntesque Franciscan tradition
 dates: active c. 1260-1272; documented in 1265
+
+scholars:
+  - title: "Benazzi, Giordana"
+    url: "/scholars.html#benazzi-giordana"
+  - title: "De Marchi, Andrea"
+    url: "/scholars.html#de-marchi-andrea"
+  - title: "Delpriori, Alessandro"
+    url: "/scholars.html#delpriori-alessandro"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Giorgi, Silvia"
+    url: "/scholars.html#giorgi-silvia"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
+  - title: "Venturi, Lionello"
+    url: "/scholars.html#venturi-lionello"
+
 category: artist
 meta:
   - title: Identity
