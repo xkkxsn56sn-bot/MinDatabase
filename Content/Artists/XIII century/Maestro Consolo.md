@@ -67,6 +67,13 @@ meta:
       - "Rupestrian sanctuary decoration"
       - "Proto-Giottesque narrative tendencies"
 
+  - title: "SCHOLARS"
+    links:
+      - title: "Rotili, Mario"
+        url: "/scholars.html#rotili-mario"
+      - title: "Kaftal, George"
+        url: "/scholars.html#kaftal-george"
+
   - title: "RELATED ENTRIES"
     links:
       - title: "Pietro Cavallini"
@@ -99,12 +106,6 @@ thematic_keywords:
   - "Hagiographic narrative fresco"
   - "Rupestrian sanctuary"
   - "Proto-Giottesque tendencies in Lazio"
-
-scholars:
-  - title: "Rotili, Mario"
-    url: "/scholars.html#rotili-mario"
-  - title: "Kaftal, George"
-    url: "/scholars.html#kaftal-george"
 
 category: "artists"
 ---
