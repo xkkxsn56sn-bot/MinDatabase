@@ -39,6 +39,10 @@
           <h2 class="sidebar__heading">General information</h2>
           {% if page.meta %}
           {% for block in page.meta %}
+          {% assign block_title_upcase = block.title | upcase %}
+          {% if page.scholars and block_title_upcase == 'SCHOLARS' %}
+          {% continue %}
+          {% endif %}
           <section class="meta-block">
             <h3 class="meta-block__title">{{ block.title }}</h3>
 
@@ -81,6 +85,17 @@
             {% endif %}
           </section>
           {% endfor %}
+          {% if page.scholars %}
+          <section class="meta-block">
+            <h3 class="meta-block__title">SCHOLARS</h3>
+            <div class="meta-block__list" role="list">
+              {%- for link in page.scholars -%}
+              <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
+                  href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
+              {%- endfor -%}
+            </div>
+          </section>
+          {% endif %}
           {% else %}
           <p class="sidebar__empty">No metadata available</p>
           {% endif %}
