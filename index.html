@@ -116,7 +116,7 @@
             margin: 0 auto;
         }
 
-        .moon-distance-card {
+        .push-notice-card {
             grid-column: 3;
             justify-self: end;
             width: 100%;
@@ -130,7 +130,7 @@
             text-align: left;
         }
 
-        .moon-distance-card__label {
+        .push-notice-card__label {
             font-size: 0.72rem;
             letter-spacing: 0.12em;
             text-transform: uppercase;
@@ -138,51 +138,107 @@
             margin-bottom: 0.35rem;
         }
 
-        .moon-distance-card__title {
+        .push-notice-card__title {
             font-size: 1.15rem;
             line-height: 1.2;
             margin-bottom: 0.45rem;
         }
 
-        .moon-distance-card__metric {
-            margin-top: 0.35rem;
+        .push-notice-card__list {
+            list-style: none;
+            margin: 0.3rem 0 0;
+            padding: 0;
+            display: grid;
+            gap: 0.55rem;
+        }
+
+        .push-notice-card__item {
+            border: 1px solid rgba(201, 169, 97, 0.26);
+            border-radius: 8px;
+            padding: 0.52rem 0.58rem;
+            background: rgba(244, 241, 232, 0.08);
+        }
+
+        .push-notice-card__item-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.5rem;
+        }
+
+        .push-notice-card__item-title {
             font-size: 0.92rem;
-            color: rgba(244, 241, 232, 0.96);
-        }
-
-        .moon-distance-card__metric strong {
-            color: var(--gold);
-            font-weight: 700;
-            margin-right: 0.35rem;
-        }
-
-        .moon-distance-card__value {
-            font-size: 1.9rem;
-            font-weight: bold;
             color: #fff7df;
-            line-height: 1.1;
-            margin-bottom: 0.35rem;
+            font-weight: 700;
+            line-height: 1.25;
         }
 
-        .moon-distance-card__meta,
-        .moon-distance-card__date,
-        .moon-distance-card__status {
-            font-size: 0.88rem;
+        .push-notice-card__badge {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 999px;
+            padding: 0.15rem 0.55rem;
+            font-size: 0.68rem;
+            letter-spacing: 0.05em;
+            font-weight: 700;
+            text-transform: uppercase;
+            white-space: nowrap;
+            border: 1px solid transparent;
+        }
+
+        .push-notice-card__badge--artists {
+            background: rgba(201, 169, 97, 0.2);
+            color: #fff0cb;
+            border-color: rgba(201, 169, 97, 0.55);
+        }
+
+        .push-notice-card__badge--churches {
+            background: rgba(165, 209, 191, 0.18);
+            color: #dcfff2;
+            border-color: rgba(165, 209, 191, 0.55);
+        }
+
+        .push-notice-card__badge--codices {
+            background: rgba(168, 189, 233, 0.2);
+            color: #e7eeff;
+            border-color: rgba(168, 189, 233, 0.52);
+        }
+
+        .push-notice-card__badge--papers {
+            background: rgba(225, 175, 160, 0.2);
+            color: #ffe7de;
+            border-color: rgba(225, 175, 160, 0.5);
+        }
+
+        .push-notice-card__badge--other {
+            background: rgba(218, 208, 182, 0.2);
+            color: #fff7df;
+            border-color: rgba(218, 208, 182, 0.45);
+        }
+
+        .push-notice-card__item-date {
+            margin-top: 0.2rem;
+            font-size: 0.8rem;
+            color: rgba(244, 241, 232, 0.88);
+        }
+
+        .push-notice-card__item-link {
+            color: rgba(201, 169, 97, 0.95);
+            text-decoration: none;
+        }
+
+        .push-notice-card__item-link:hover {
+            text-decoration: underline;
+        }
+
+        .push-notice-card__status,
+        .push-notice-card__empty {
+            margin-top: 0.35rem;
+            font-size: 0.85rem;
             color: rgba(244, 241, 232, 0.92);
         }
 
-        .moon-distance-card__stats {
-            font-size: 0.82rem;
-            color: rgba(244, 241, 232, 0.88);
-            margin-top: 0.2rem;
-        }
-
-        .moon-distance-card__date {
-            color: rgba(201, 169, 97, 0.95);
-            margin-top: 0.25rem;
-        }
-
-        .moon-distance-card__status[data-state="error"] {
+        .push-notice-card__status[data-state="error"] {
             color: #ffd9cf;
         }
 
@@ -271,7 +327,7 @@
                 grid-column: 2;
             }
 
-            .moon-distance-card {
+            .push-notice-card {
                 grid-column: 2;
                 justify-self: end;
                 max-width: 320px;
@@ -462,12 +518,12 @@
 
             .julian-date-panel,
             .header-copy,
-            .moon-distance-card {
+            .push-notice-card {
                 grid-column: 1;
             }
 
             .julian-date-panel,
-            .moon-distance-card {
+            .push-notice-card {
                 justify-self: stretch;
                 max-width: none;
             }
@@ -541,15 +597,13 @@
                 <p class="tagline">A Database of Medieval Art & Artists</p>
             </div>
 
-            <aside class="moon-distance-card" aria-live="polite">
-                <p class="moon-distance-card__label">Astronomical Daily Data</p>
-                <h2 class="moon-distance-card__title">Daily Orbital Snapshot</h2>
-                <p class="moon-distance-card__metric"><strong>Earth-Moon:</strong><span
-                        id="moon-distance-value">Loading...</span></p>
-                <p class="moon-distance-card__metric"><strong>Earth-Sun:</strong><span
-                        id="sun-distance-value">Loading...</span></p>
-                <p class="moon-distance-card__stats" id="sun-distance-meta"></p>
-                <p class="moon-distance-card__status" id="moon-distance-status"></p>
+            <aside class="push-notice-card" aria-live="polite">
+                <p class="push-notice-card__label">Recent Repository Updates</p>
+                <h2 class="push-notice-card__title">Latest Files</h2>
+                <ul class="push-notice-card__list" id="push-notice-list">
+                    <li class="push-notice-card__empty">Loading recent notices...</li>
+                </ul>
+                <p class="push-notice-card__status" id="push-notice-status"></p>
             </aside>
         </div>
     </header>
@@ -687,21 +741,6 @@
             return { year, month, day };
         }
 
-        function isJulianLeapYear(year) {
-            return year % 4 === 0;
-        }
-
-        function getJulianDayOfYear(dateParts) {
-            const monthLengths = [31, isJulianLeapYear(dateParts.year) ? 29 : 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-            let dayOfYear = dateParts.day;
-
-            for (let i = 0; i < dateParts.month - 1; i += 1) {
-                dayOfYear += monthLengths[i];
-            }
-
-            return dayOfYear;
-        }
-
         function getCurrentJulianDateParts() {
             const now = new Date();
             const jdn = gregorianToJdn(now.getFullYear(), now.getMonth() + 1, now.getDate());
@@ -714,145 +753,124 @@
             return `${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
         }
 
-        function parseCsvJulianDate(csvDateLabel) {
-            const monthMap = {
-                Gen: 1,
-                Feb: 2,
-                Mar: 3,
-                Apr: 4,
-                Mag: 5,
-                Giu: 6,
-                Lug: 7,
-                Ago: 8,
-                Set: 9,
-                Ott: 10,
-                Nov: 11,
-                Dic: 12
+        function formatPushedDate(isoDate) {
+            if (!isoDate) {
+                return 'Date unavailable';
+            }
+
+            const parsed = new Date(isoDate);
+            if (Number.isNaN(parsed.getTime())) {
+                return isoDate;
+            }
+
+            return new Intl.DateTimeFormat('en-GB', {
+                day: '2-digit',
+                month: 'short',
+                year: 'numeric'
+            }).format(parsed);
+        }
+
+        function escapeHtml(value) {
+            return String(value)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        function sectionPriority(section) {
+            const map = {
+                Artists: 0,
+                Churches: 1,
+                Codices: 2,
+                Papers: 3,
+                Other: 4
             };
-            const parts = (csvDateLabel || '').trim().split(/\s+/);
-            if (parts.length < 3) {
-                return null;
-            }
-
-            const day = Number.parseInt(parts[0], 10);
-            const month = monthMap[parts[1]];
-            const year = Number.parseInt(parts[2], 10);
-
-            if (!Number.isFinite(day) || !Number.isFinite(year) || !month) {
-                return null;
-            }
-
-            return { day, month, year };
+            return Object.prototype.hasOwnProperty.call(map, section) ? map[section] : map.Other;
         }
 
-        function parseMoonDistanceCsv(csvText) {
-            return csvText
-                .replace(/^\uFEFF/, '')
-                .trim()
-                .split(/\r?\n/)
-                .slice(1)
-                .map((line) => {
-                    const [day, julianDate, distance] = line.split(',');
-                    return {
-                        day: Number.parseInt(day, 10),
-                        julianDate: julianDate ? julianDate.trim() : '',
-                        distance: Number.parseFloat(distance)
-                    };
-                })
-                .filter((entry) => Number.isFinite(entry.day) && Number.isFinite(entry.distance));
+        function sectionBadgeClass(section) {
+            const normalized = String(section || '').toLowerCase();
+            if (normalized === 'artists') return 'push-notice-card__badge--artists';
+            if (normalized === 'churches') return 'push-notice-card__badge--churches';
+            if (normalized === 'codices') return 'push-notice-card__badge--codices';
+            if (normalized === 'papers') return 'push-notice-card__badge--papers';
+            return 'push-notice-card__badge--other';
         }
 
-        function parseSunDistanceCsv(csvText) {
-            return csvText
-                .replace(/^\uFEFF/, '')
-                .trim()
-                .split(/\r?\n/)
-                .slice(1)
-                .map((line) => {
-                    const [date, distance, delta] = line.split(',');
-                    return {
-                        date: date ? date.trim() : '',
-                        distance: Number.parseFloat(distance),
-                        delta: Number.parseFloat(delta)
-                    };
-                })
-                .filter((entry) => entry.date && Number.isFinite(entry.distance));
-        }
-
-        async function renderMoonDistanceCard() {
+        function renderJulianDatePanel() {
             const julianDateValue = document.getElementById('julian-date-value');
-            const valueElement = document.getElementById('moon-distance-value');
-            const sunValueElement = document.getElementById('sun-distance-value');
-            const sunMetaElement = document.getElementById('sun-distance-meta');
-            const statusElement = document.getElementById('moon-distance-status');
+            if (!julianDateValue) {
+                return;
+            }
+
+            const julianDateParts = getCurrentJulianDateParts();
+            julianDateValue.textContent = formatJulianDate(julianDateParts);
+        }
+
+        async function renderPushNoticesCard() {
+            const listElement = document.getElementById('push-notice-list');
+            const statusElement = document.getElementById('push-notice-status');
+
+            if (!listElement || !statusElement) {
+                return;
+            }
 
             try {
-                const [moonResponse, sunResponse] = await Promise.all([
-                    fetch('./luna_distanza_1300.csv'),
-                    fetch('./distanza_terra_sole_2026.csv')
-                ]);
-
-                if (!moonResponse.ok) {
-                    throw new Error('Unable to load luna_distanza_1300.csv.');
-                }
-                if (!sunResponse.ok) {
-                    throw new Error('Unable to load distanza_terra_sole_2026.csv.');
+                const response = await fetch('/assets/data/push_notices.json', { cache: 'no-store' });
+                if (!response.ok) {
+                    throw new Error('Unable to load push notices.');
                 }
 
-                const moonEntries = parseMoonDistanceCsv(await moonResponse.text());
-                const sunEntries = parseSunDistanceCsv(await sunResponse.text());
+                const data = await response.json();
+                const notices = Array.isArray(data.notices)
+                    ? data.notices
+                        .slice(0, 3)
+                        .sort((a, b) => {
+                            const sectionDelta = sectionPriority(a.section) - sectionPriority(b.section);
+                            if (sectionDelta !== 0) return sectionDelta;
+                            return (b.pushed_at || '').localeCompare(a.pushed_at || '');
+                        })
+                    : [];
 
-                if (!moonEntries.length) {
-                    throw new Error('Moon CSV file does not contain valid data.');
+                if (!notices.length) {
+                    listElement.innerHTML = '<li class="push-notice-card__empty">No new files in recent pushes.</li>';
+                    statusElement.textContent = '';
+                    statusElement.dataset.state = 'ready';
+                    return;
                 }
-                if (!sunEntries.length) {
-                    throw new Error('Sun CSV file does not contain valid data.');
-                }
 
-                const now = new Date();
-                const isoDate = now.toISOString().slice(0, 10);
-                const julianDateParts = getCurrentJulianDateParts();
-                const julianDayOfYear = getJulianDayOfYear(julianDateParts);
-                const clampedDay = Math.max(1, Math.min(julianDayOfYear, moonEntries.length));
+                listElement.innerHTML = notices.map((notice) => {
+                    const safeTitle = escapeHtml(notice.title || 'Untitled file');
+                    const safePath = escapeHtml(notice.path || '#');
+                    const pushedDate = escapeHtml(formatPushedDate(notice.pushed_at));
+                    const sectionName = escapeHtml(notice.section || 'Other');
+                    const badgeClass = sectionBadgeClass(notice.section);
 
-                const selectedEntryByDate = moonEntries.find((entry) => {
-                    const parsed = parseCsvJulianDate(entry.julianDate);
-                    return parsed && parsed.day === julianDateParts.day && parsed.month === julianDateParts.month;
-                });
-                const selectedMoonEntry = selectedEntryByDate || moonEntries.find((entry) => entry.day === clampedDay) || moonEntries[clampedDay - 1];
-                const selectedSunEntry = sunEntries.find((entry) => entry.date === isoDate) || sunEntries[0];
+                    return `
+                        <li class="push-notice-card__item">
+                            <div class="push-notice-card__item-head">
+                                <p class="push-notice-card__item-title">${safeTitle}</p>
+                                <span class="push-notice-card__badge ${badgeClass}">${sectionName}</span>
+                            </div>
+                            <p class="push-notice-card__item-date">Pushed: ${pushedDate}</p>
+                            <p class="push-notice-card__item-date"><a class="push-notice-card__item-link" href="/${safePath}">${safePath}</a></p>
+                        </li>
+                    `;
+                }).join('');
 
-                const distanceLabel = new Intl.NumberFormat('en-US', {
-                    minimumFractionDigits: 1,
-                    maximumFractionDigits: 1
-                }).format(selectedMoonEntry.distance);
-                const sunDistanceLabel = new Intl.NumberFormat('en-US', {
-                    minimumFractionDigits: 2,
-                    maximumFractionDigits: 2
-                }).format(selectedSunEntry.distance);
-                const sunDeltaLabel = new Intl.NumberFormat('en-US', {
-                    signDisplay: 'always',
-                    minimumFractionDigits: 2,
-                    maximumFractionDigits: 2
-                }).format(selectedSunEntry.delta || 0);
-
-                julianDateValue.textContent = `${formatJulianDate(julianDateParts)} (day ${clampedDay})`;
-                valueElement.textContent = `${distanceLabel} km`;
-                sunValueElement.textContent = `${sunDistanceLabel} km`;
-                sunMetaElement.textContent = `Earth-Sun delta from mean: ${sunDeltaLabel} km`;
                 statusElement.textContent = '';
                 statusElement.dataset.state = 'ready';
             } catch (error) {
-                julianDateValue.textContent = 'Data unavailable';
-                valueElement.textContent = 'Data unavailable';
-                sunValueElement.textContent = 'Data unavailable';
-                sunMetaElement.textContent = '';
+                listElement.innerHTML = '<li class="push-notice-card__empty">No notices available right now.</li>';
                 statusElement.textContent = error.message;
                 statusElement.dataset.state = 'error';
             }
         }
 
-        renderMoonDistanceCard();
+        renderJulianDatePanel();
+        renderPushNoticesCard();
     </script>
     <script src="/assets/js/visitor-counter.js" defer></script>
 </body>

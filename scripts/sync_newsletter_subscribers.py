@@ -30,6 +30,16 @@ DEFAULT_EXCLUDES = {
 }
 
 
+def _parse_imap_port(raw: str | None) -> int:
+    if not raw or not raw.strip():
+        return 993
+    try:
+        return int(raw.strip())
+    except ValueError:
+        print("Invalid IMAP_PORT value. Falling back to 993.", file=sys.stderr)
+        return 993
+
+
 def _decode_header_value(raw: str | None) -> str:
     if not raw:
         return ""
@@ -112,7 +122,7 @@ def main() -> int:
     csv_path = repo_root / "newsletter_subscribers.csv"
 
     imap_host = os.getenv("IMAP_HOST")
-    imap_port = int(os.getenv("IMAP_PORT", "993"))
+    imap_port = _parse_imap_port(os.getenv("IMAP_PORT"))
     imap_username = os.getenv("IMAP_USERNAME")
     imap_password = os.getenv("IMAP_PASSWORD")
     subject_filter = os.getenv("SUBSCRIBER_MAIL_SUBJECT", "Medieval Visions newsletter registration")

@@ -1,0 +1,41 @@
+name: Update Push Notices
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-notices:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build latest push notices
+        run: python scripts/update_push_notices.py
+
+      - name: Commit updated notices
+        run: |
+          if git diff --quiet -- assets/data/push_notices.json; then
+            echo "No notice changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/push_notices.json
+          git commit -m "chore: update homepage push notices"
+          git push
