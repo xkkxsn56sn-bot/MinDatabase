@@ -93,3 +93,31 @@ python scripts/visitor_count_deltas.py --history-file scripts/.visitor_count_his
 
 Se vuoi cambiare il contatore usato dal sito, modifica le costanti `COUNTER_NAMESPACE` e `COUNTER_KEY` in `assets/js/visitor-counter.js`.
 
+## Newsletter CSV auto-sync
+
+Per popolare automaticamente `newsletter_subscribers.csv` dai messaggi ricevuti su `contact@medievalvisions.com`:
+
+- Script: `scripts/sync_newsletter_subscribers.py`
+- Workflow GitHub Actions: `.github/workflows/sync-newsletter-subscribers.yml`
+
+Il workflow gira ogni ora (e anche manualmente via `workflow_dispatch`), legge le mail non lette con oggetto:
+
+- `Medieval Visions newsletter registration`
+
+estrae gli indirizzi e-mail trovati nel corpo della mail, evita duplicati e aggiorna `newsletter_subscribers.csv`.
+
+### Secrets richiesti (Repository Settings -> Secrets and variables -> Actions)
+
+- `IMAP_HOST` (es. `imap.mail.me.com` per iCloud)
+- `IMAP_PORT` (tipicamente `993`)
+- `IMAP_USERNAME`
+- `IMAP_PASSWORD` (per iCloud: app-specific password)
+
+### Note operative
+
+- Il workflow committa automaticamente solo se il CSV cambia.
+- Le righe aggiunte usano:
+	- `consent`: `yes`
+	- `source`: `formsubmit_email`
+	- `created_at`: timestamp UTC ISO-8601
+

@@ -1,0 +1,45 @@
+name: Sync Newsletter Subscribers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sync subscribers from inbox
+        env:
+          IMAP_HOST: ${{ secrets.IMAP_HOST }}
+          IMAP_PORT: ${{ secrets.IMAP_PORT }}
+          IMAP_USERNAME: ${{ secrets.IMAP_USERNAME }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          SUBSCRIBER_MAIL_SUBJECT: Medieval Visions newsletter registration
+          EXCLUDE_EMAILS: contact@medievalvisions.com
+        run: python scripts/sync_newsletter_subscribers.py
+
+      - name: Commit updated CSV
+        run: |
+          if git diff --quiet -- newsletter_subscribers.csv; then
+            echo "No CSV changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsletter_subscribers.csv
+          git commit -m "chore: sync newsletter subscribers"
+          git push
