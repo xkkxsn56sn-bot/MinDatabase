@@ -11,6 +11,11 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      IMAP_HOST_SECRET_NAME: IMAP_HOST
+      IMAP_PORT_SECRET_NAME: IMAP_PORT
+      IMAP_USERNAME_SECRET_NAME: IMAP_USERNAME
+      IMAP_PASSWORD_SECRET_NAME: IMAP_PASSWORD
 
     steps:
       - name: Checkout repository
@@ -26,10 +31,10 @@ jobs:
 
       - name: Sync subscribers from inbox
         env:
-          IMAP_HOST: ${{ secrets.IMAP_HOST }}
-          IMAP_PORT: ${{ secrets.IMAP_PORT }}
-          IMAP_USERNAME: ${{ secrets.IMAP_USERNAME }}
-          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
+          IMAP_PORT: ${{ secrets[env.IMAP_PORT_SECRET_NAME] }}
+          IMAP_USERNAME: ${{ secrets[env.IMAP_USERNAME_SECRET_NAME] }}
+          IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
           SUBSCRIBER_MAIL_SUBJECT: Medieval Visions newsletter registration
           EXCLUDE_EMAILS: contact@medievalvisions.com
         run: python scripts/sync_newsletter_subscribers.py
