@@ -101,6 +101,26 @@
             </ul>
         </div>
 
+        <section class="newsletter-signup" aria-labelledby="newsletter-signup-heading">
+            <h2 id="newsletter-signup-heading">Future Newsletter</h2>
+            <p>Register your e-mail to receive updates on papers, studies, and future publications.</p>
+            <form class="newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com" method="POST"
+                accept-charset="UTF-8">
+                <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
+                <input class="newsletter-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off"
+                    title="Leave this field empty" placeholder="Leave empty">
+
+                <label for="newsletter-email">E-mail address</label>
+                <input id="newsletter-email" name="email" type="email" placeholder="your@email.com" required>
+                <button type="submit">Join the List</button>
+            </form>
+            <p class="newsletter-note">By submitting, your e-mail is sent directly to <a
+                    href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
+        </section>
+
         <a href="index.html" class="back-btn">Back to Home</a>
     </main>
     <footer class="site-footer">

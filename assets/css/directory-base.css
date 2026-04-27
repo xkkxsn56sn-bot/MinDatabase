@@ -107,6 +107,81 @@ a:hover {
     text-align: center;
 }
 
+.newsletter-signup {
+    background: white;
+    border: 1px solid var(--dark-parchment);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0 2rem;
+    padding: 1.2rem;
+}
+
+.newsletter-signup h2 {
+    margin: 0 0 0.6rem;
+    color: var(--burgundy);
+}
+
+.newsletter-signup p {
+    margin: 0 0 0.9rem;
+    color: var(--text-light);
+}
+
+.newsletter-form {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.6rem;
+    align-items: center;
+}
+
+.newsletter-form label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.newsletter-form input[type="email"] {
+    width: 100%;
+    min-height: 44px;
+    border: 1px solid #c8bda7;
+    border-radius: 6px;
+    padding: 0.68rem 0.82rem;
+    font: inherit;
+    color: var(--text);
+    background: #fffdf8;
+}
+
+.newsletter-form input[type="email"]:focus {
+    outline: 2px solid rgba(114, 47, 55, 0.3);
+    border-color: var(--burgundy);
+    outline-offset: 1px;
+}
+
+.newsletter-form button {
+    min-height: 44px;
+    border: 2px solid var(--dark-gold);
+    border-radius: 6px;
+    padding: 0.64rem 1rem;
+    font: inherit;
+    font-weight: bold;
+    color: var(--dark-burgundy);
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--gold) 0%, var(--dark-gold) 100%);
+}
+
+.newsletter-note {
+    margin: 0.7rem 0 0;
+    font-size: 0.86rem;
+}
+
+.newsletter-honeypot {
+    display: none;
+}
+
 @media (max-width: 600px) {
     header {
         padding: 1.2rem 1rem;
@@ -119,5 +194,13 @@ a:hover {
     main {
         margin: 1.5rem auto;
         padding: 0 1rem;
+    }
+
+    .newsletter-form {
+        grid-template-columns: 1fr;
+    }
+
+    .newsletter-form button {
+        width: 100%;
     }
 }

@@ -305,6 +305,91 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
 
+        .newsletter-signup {
+            background: white;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            border-radius: 10px;
+            border: 1px solid var(--dark-parchment);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .newsletter-signup h2 {
+            color: var(--burgundy);
+            margin-bottom: 0.65rem;
+            font-size: 1.7rem;
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 0.45rem;
+        }
+
+        .newsletter-signup p {
+            color: var(--text-light);
+            margin-bottom: 1rem;
+        }
+
+        .newsletter-form {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 0.75rem;
+            align-items: center;
+        }
+
+        .newsletter-form label {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        .newsletter-form input[type="email"] {
+            width: 100%;
+            min-height: 44px;
+            border: 1px solid #c8bda7;
+            border-radius: 6px;
+            padding: 0.72rem 0.85rem;
+            font: inherit;
+            color: var(--text);
+            background: #fffdf8;
+        }
+
+        .newsletter-form input[type="email"]:focus {
+            outline: 2px solid rgba(114, 47, 55, 0.3);
+            border-color: var(--burgundy);
+            outline-offset: 1px;
+        }
+
+        .newsletter-form button {
+            min-height: 44px;
+            border: 2px solid var(--dark-gold);
+            border-radius: 6px;
+            padding: 0.7rem 1.2rem;
+            font: inherit;
+            font-weight: bold;
+            color: var(--dark-burgundy);
+            cursor: pointer;
+            background: linear-gradient(135deg, var(--gold) 0%, var(--dark-gold) 100%);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .newsletter-form button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        }
+
+        .newsletter-note {
+            margin: 0.75rem 0 0;
+            font-size: 0.86rem;
+            color: var(--text-light);
+        }
+
+        .newsletter-honeypot {
+            display: none;
+        }
+
         footer {
             background: var(--burgundy);
             color: var(--parchment);
@@ -382,6 +467,22 @@
 
             .card {
                 padding: 1.5rem 1.2rem;
+            }
+
+            .newsletter-signup {
+                padding: 1.4rem 1.2rem;
+            }
+
+            .newsletter-signup h2 {
+                font-size: 1.35rem;
+            }
+
+            .newsletter-form {
+                grid-template-columns: 1fr;
+            }
+
+            .newsletter-form button {
+                width: 100%;
             }
         }
     </style>
@@ -490,13 +591,32 @@
                 Renaissance worlds, illuminating the artistic achievements that transformed Western art forever.
             </p>
         </section>
+
+        <section class="newsletter-signup" aria-labelledby="newsletter-signup-heading">
+            <h2 id="newsletter-signup-heading">Future Newsletter</h2>
+            <p>Register your e-mail to receive future updates, new entries, and research highlights from Medieval
+                Visions.</p>
+            <form class="newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com" method="POST"
+                accept-charset="UTF-8">
+                <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
+                <input class="newsletter-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off">
+
+                <label for="newsletter-email">E-mail address</label>
+                <input id="newsletter-email" name="email" type="email" placeholder="your@email.com" required>
+                <button type="submit">Join the List</button>
+            </form>
+            <p class="newsletter-note">By submitting, your e-mail is sent directly to <a
+                    href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
+        </section>
     </main>
 
     <footer>
         <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
         <p>A collaborative scholarly project documenting medieval art and artists</p>
-        <p><a href="https://github.com/xkkxsn56sn-bot/MinDatabase">View on GitHub</a></p>
-        <p>Contact: <a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a></p>
+
     </footer>
 
     <script>

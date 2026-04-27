@@ -223,6 +223,76 @@ body {
     color: var(--accent);
 }
 
+.churches-newsletter {
+    margin-top: 0.8rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--line);
+}
+
+.churches-newsletter h2 {
+    margin: 0 0 0.4rem 0;
+    font-size: 1.05rem;
+    color: var(--text);
+}
+
+.churches-newsletter p {
+    margin: 0 0 0.6rem 0;
+}
+
+.churches-newsletter-form {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.55rem;
+    align-items: center;
+}
+
+.churches-newsletter-form label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.churches-newsletter-form input[type="email"] {
+    width: 100%;
+    min-height: 42px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.55rem 0.7rem;
+    font: inherit;
+    background: var(--panel-soft);
+    color: var(--text);
+}
+
+.churches-newsletter-form button {
+    min-height: 42px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    padding: 0.5rem 0.85rem;
+    font: inherit;
+    font-weight: 700;
+    color: var(--text);
+    background: var(--panel-soft);
+    cursor: pointer;
+}
+
+.churches-newsletter-form button:hover {
+    border-color: var(--accent-soft);
+}
+
+.churches-newsletter-note {
+    margin: 0.6rem 0 0;
+    font-size: 0.8rem;
+}
+
+.churches-newsletter-honeypot {
+    display: none;
+}
+
 .churches-footer__updated {
     font-size: 0.8rem;
 }
@@ -230,5 +300,13 @@ body {
 @media (max-width: 860px) {
     .churches-list {
         columns: 1;
+    }
+
+    .churches-newsletter-form {
+        grid-template-columns: 1fr;
+    }
+
+    .churches-newsletter-form button {
+        width: 100%;
     }
 }

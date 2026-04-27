@@ -34,6 +34,26 @@
                 Contact:
                 <a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>
             </p>
+            <section class="churches-newsletter" aria-labelledby="churches-newsletter-heading">
+                <h2 id="churches-newsletter-heading">Future Newsletter</h2>
+                <p>Register your e-mail to receive updates on sites, studies, and new entries.</p>
+                <form class="churches-newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com"
+                    method="POST" accept-charset="UTF-8">
+                    <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
+                    <input type="hidden" name="_template" value="table">
+                    <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
+                    <input class="churches-newsletter-honeypot" type="text" name="_honey" tabindex="-1"
+                        autocomplete="off" title="Leave this field empty" placeholder="Leave empty">
+
+                    <label for="churches-newsletter-email">E-mail address</label>
+                    <input id="churches-newsletter-email" name="email" type="email" placeholder="your@email.com"
+                        required>
+                    <button type="submit">Join the List</button>
+                </form>
+                <p class="churches-newsletter-note">Your e-mail is sent directly to <a
+                        href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
+            </section>
         </footer>
     </div>
 

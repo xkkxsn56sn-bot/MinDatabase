@@ -239,6 +239,77 @@
             min-width: 0;
         }
 
+        .scholars-newsletter {
+            margin: 1.2rem 0 1.6rem;
+            border: 1px solid var(--folio-line);
+            border-radius: 14px;
+            background: var(--folio-card);
+            padding: 1rem 1.1rem;
+        }
+
+        .scholars-newsletter h2 {
+            margin: 0 0 0.5rem;
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            color: var(--folio-accent);
+            font-size: 1.35rem;
+            letter-spacing: 0.03em;
+        }
+
+        .scholars-newsletter p {
+            margin: 0 0 0.7rem;
+            color: var(--folio-ink-soft);
+        }
+
+        .scholars-newsletter-form {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 0.55rem;
+            align-items: center;
+        }
+
+        .scholars-newsletter-form label {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        .scholars-newsletter-form input[type="email"] {
+            width: 100%;
+            min-height: 42px;
+            border: 1px solid var(--folio-line);
+            border-radius: 8px;
+            padding: 0.55rem 0.7rem;
+            font: inherit;
+            background: var(--folio-panel);
+            color: var(--folio-ink);
+        }
+
+        .scholars-newsletter-form button {
+            min-height: 42px;
+            border: 1px solid var(--folio-line);
+            border-radius: 8px;
+            padding: 0.5rem 0.88rem;
+            font: inherit;
+            font-weight: 700;
+            color: #fff9ef;
+            background: var(--folio-accent);
+            cursor: pointer;
+        }
+
+        .scholars-newsletter-note {
+            margin: 0.6rem 0 0;
+            font-size: 0.86rem;
+        }
+
+        .scholars-newsletter-honeypot {
+            display: none;
+        }
+
         @keyframes section-rise {
             from {
                 opacity: 0;
@@ -327,6 +398,14 @@
                 font-size: 2.05rem;
                 margin-right: 0.3rem;
             }
+
+            .scholars-newsletter-form {
+                grid-template-columns: 1fr;
+            }
+
+            .scholars-newsletter-form button {
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -346,6 +425,25 @@
     <main>
 
         {{ content }}
+
+        <section class="scholars-newsletter" aria-labelledby="scholars-newsletter-heading">
+            <h2 id="scholars-newsletter-heading">Future Newsletter</h2>
+            <p>Register your e-mail to receive updates on scholars, bibliography, and future additions.</p>
+            <form class="scholars-newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com"
+                method="POST" accept-charset="UTF-8">
+                <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
+                <input class="scholars-newsletter-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off">
+
+                <label for="scholars-newsletter-email">E-mail address</label>
+                <input id="scholars-newsletter-email" name="email" type="email" placeholder="your@email.com" required>
+                <button type="submit">Join the List</button>
+            </form>
+            <p class="scholars-newsletter-note">Your e-mail is sent directly to <a
+                    href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
+        </section>
 
         <a href="index.html" class="back-btn">Back to Home</a>
     </main>
