@@ -147,8 +147,8 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
 
 
 def main() -> int:
-    if not EVENT_PATH.exists():
-        print("GITHUB_EVENT_PATH not found, skipping push notices update.")
+    if not EVENT_PATH.exists() or not EVENT_PATH.is_file():
+        print("GITHUB_EVENT_PATH is not set to a readable event file, skipping push notices update.")
         return 0
 
     previous = _load_json(NOTICES_PATH)
