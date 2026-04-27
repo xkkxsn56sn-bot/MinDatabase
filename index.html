@@ -65,6 +65,36 @@
             text-align: center;
         }
 
+        .julian-date-panel {
+            grid-column: 1;
+            justify-self: start;
+            align-self: start;
+            width: 100%;
+            max-width: 260px;
+            background: rgba(244, 241, 232, 0.12);
+            border: 1px solid rgba(201, 169, 97, 0.45);
+            border-radius: 12px;
+            padding: 0.95rem 1rem;
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+            -webkit-backdrop-filter: blur(8px);
+            backdrop-filter: blur(8px);
+            text-align: left;
+        }
+
+        .julian-date-panel__label {
+            font-size: 0.72rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 0.35rem;
+        }
+
+        .julian-date-panel__value {
+            font-size: 1rem;
+            line-height: 1.35;
+            color: rgba(244, 241, 232, 0.96);
+        }
+
         header h1 {
             font-size: 2.8rem;
             margin-bottom: 0.5rem;
@@ -230,6 +260,11 @@
         @media (max-width: 1200px) {
             .header-shell {
                 grid-template-columns: minmax(0, 1fr) minmax(0, 720px);
+            }
+
+            .julian-date-panel {
+                grid-column: 1;
+                max-width: 240px;
             }
 
             .header-copy {
@@ -425,11 +460,13 @@
                 gap: 1.25rem;
             }
 
+            .julian-date-panel,
             .header-copy,
             .moon-distance-card {
                 grid-column: 1;
             }
 
+            .julian-date-panel,
             .moon-distance-card {
                 justify-self: stretch;
                 max-width: none;
@@ -491,6 +528,11 @@
 <body>
     <header>
         <div class="header-shell">
+            <aside class="julian-date-panel" aria-live="polite">
+                <p class="julian-date-panel__label">Julian Calendar Date</p>
+                <p class="julian-date-panel__value" id="julian-date-value">Loading...</p>
+            </aside>
+
             <div class="header-copy">
                 <h1>Medieval Visions</h1>
                 <p class="subtitle">"I saw the angel in the marble and carved until I set him free." (Michelangelo
@@ -502,8 +544,6 @@
             <aside class="moon-distance-card" aria-live="polite">
                 <p class="moon-distance-card__label">Astronomical Daily Data</p>
                 <h2 class="moon-distance-card__title">Daily Orbital Snapshot</h2>
-                <p class="moon-distance-card__metric"><strong>Julian date:</strong><span
-                        id="julian-date-value">Loading...</span></p>
                 <p class="moon-distance-card__metric"><strong>Earth-Moon:</strong><span
                         id="moon-distance-value">Loading...</span></p>
                 <p class="moon-distance-card__metric"><strong>Earth-Sun:</strong><span
