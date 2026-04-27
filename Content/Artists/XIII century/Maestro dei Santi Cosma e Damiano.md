@@ -3,6 +3,11 @@ layout: entry
 title: Maestro dei Santi Cosma e Damiano
 subtitle: Anonymous Pisan-Sienese painter in the orbit of Giunta Pisano
 dates: c. 1240 – c. 1270
+scholars:
+  - title: "Luciano Bellosi"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Edward B. Garrison"
+    url: "/scholars.html#garrison-edward"
 meta:
   - title: Identity
     pairs:

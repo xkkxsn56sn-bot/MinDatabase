@@ -128,8 +128,8 @@ def main() -> int:
     subject_filter = os.getenv("SUBSCRIBER_MAIL_SUBJECT", "Medieval Visions newsletter registration")
 
     if not all([imap_host, imap_username, imap_password]):
-        print("Missing IMAP configuration. Set IMAP_HOST, IMAP_USERNAME, IMAP_PASSWORD.", file=sys.stderr)
-        return 2
+        print("Skipping sync: IMAP_HOST, IMAP_USERNAME, or IMAP_PASSWORD is not configured.")
+        return 0
 
     excludes = set(DEFAULT_EXCLUDES)
     extra_excludes_raw = os.getenv("EXCLUDE_EMAILS", "")

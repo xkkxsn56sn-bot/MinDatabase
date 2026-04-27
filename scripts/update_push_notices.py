@@ -76,6 +76,10 @@ def _title_from_file(file_path: Path) -> str:
 def _load_json(path: Path) -> dict:
     if not path.exists():
         return {"updated_at": None, "notices": []}
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {"updated_at": None, "notices": []}
 
 
 def _section_from_path(relative_path: str) -> str:
@@ -97,10 +101,6 @@ def _notice_with_metadata(notice: dict) -> dict:
     section = cloned.get("section") or _section_from_path(path)
     cloned["section"] = section
     return cloned
-    try:
-        return json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
-        return {"updated_at": None, "notices": []}
 
 
 def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
