@@ -1,4 +1,17 @@
 {
-  "updated_at": null,
-  "notices": []
+  "updated_at": "2026-04-28T17:29:10+00:00",
+  "notices": [
+    {
+      "title": "Maestro del Dossale di Yale",
+      "path": "Content/Artists/XIII century/Maestro del Dossale di Yale.md",
+      "section": "Artists",
+      "pushed_at": "2026-04-28T19:20:24+02:00"
+    },
+    {
+      "title": "Master of the Bigallo",
+      "path": "Content/Artists/XIII century/Maestro del Bigallo.md",
+      "section": "Artists",
+      "pushed_at": "2026-04-28T19:19:50+02:00"
+    }
+  ]
 }

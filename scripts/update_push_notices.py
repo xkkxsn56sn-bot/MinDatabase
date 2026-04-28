@@ -11,6 +11,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import re
+import subprocess
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -150,6 +151,58 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
     return updated_at, entries
 
 
+def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict]]:
+    """Build notices from recent git history when no webhook payload is available."""
+    command = [
+        "git",
+        "log",
+        "--date=iso-strict",
+        f"--pretty=format:__COMMIT__%cI",
+        "--name-only",
+        f"-n{limit_commits}",
+    ]
+
+    try:
+        result = subprocess.run(
+            command,
+            cwd=REPO_ROOT,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except Exception:
+        return _safe_iso(None), []
+
+    entries: list[dict] = []
+    current_timestamp: str | None = None
+
+    for raw_line in result.stdout.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+
+        if line.startswith("__COMMIT__"):
+            current_timestamp = _safe_iso(line.replace("__COMMIT__", "", 1).strip())
+            continue
+
+        rel_path = line
+        if rel_path == "assets/data/push_notices.json":
+            continue
+
+        absolute = REPO_ROOT / rel_path
+        title = _title_from_file(absolute)
+        entries.append(
+            {
+                "title": title,
+                "path": rel_path,
+                "section": _section_from_path(rel_path),
+                "pushed_at": current_timestamp or _safe_iso(None),
+            }
+        )
+
+    return _safe_iso(None), entries
+
+
 def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for item in entries:
@@ -167,14 +220,15 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
 
 
 def main() -> int:
-    if not EVENT_PATH.exists() or not EVENT_PATH.is_file():
-        print("GITHUB_EVENT_PATH is not set to a readable event file, skipping push notices update.")
-        return 0
-
     previous = _load_json(NOTICES_PATH)
     previous_entries = previous.get("notices") or []
 
-    updated_at, new_entries = _parse_event_payload(EVENT_PATH)
+    if EVENT_PATH.exists() and EVENT_PATH.is_file():
+        updated_at, new_entries = _parse_event_payload(EVENT_PATH)
+    else:
+        print("GITHUB_EVENT_PATH not found. Falling back to recent git history.")
+        updated_at, new_entries = _parse_git_history_fallback()
+
     if not new_entries:
         print("No newly added or modified files found in this push.")
         return 0
