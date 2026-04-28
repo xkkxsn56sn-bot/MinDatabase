@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Update homepage push notices from the GitHub push event payload.
 
-The script reads files added in the latest push, extracts a human-friendly title,
-merges them with existing notices, and keeps only the 3 most recent entries.
+The script reads files added or modified in the latest push, extracts a
+human-friendly title, merges them with existing notices, and keeps only the
+3 most recent entries.
 """
 
 from __future__ import annotations
@@ -111,8 +112,27 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
 
     for commit in commits:
         timestamp = _safe_iso(commit.get("timestamp"))
-        for added_path in commit.get("added") or []:
-            rel_path = str(added_path).strip()
+        changed_paths = set(list(commit.get("added") or []) + list(commit.get("modified") or []))
+
+        # Some webhook payloads expose explicit rename metadata.
+        # Accept common shapes and capture only the destination path.
+        for renamed in commit.get("renamed") or []:
+            if isinstance(renamed, str):
+                changed_paths.add(renamed)
+                continue
+
+            if isinstance(renamed, dict):
+                new_path = (
+                    renamed.get("new")
+                    or renamed.get("to")
+                    or renamed.get("new_path")
+                    or renamed.get("path")
+                )
+                if new_path:
+                    changed_paths.add(new_path)
+
+        for changed_path in changed_paths:
+            rel_path = str(changed_path).strip()
             if not rel_path:
                 continue
             absolute = REPO_ROOT / rel_path
@@ -156,7 +176,7 @@ def main() -> int:
 
     updated_at, new_entries = _parse_event_payload(EVENT_PATH)
     if not new_entries:
-        print("No newly added files found in this push.")
+        print("No newly added or modified files found in this push.")
         return 0
 
     combined = _dedupe_and_sort(new_entries + previous_entries)
