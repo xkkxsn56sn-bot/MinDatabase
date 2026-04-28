@@ -109,8 +109,6 @@ meta:
 scholars:
   - title: "Longhi, Roberto"
     url: "/scholars.html#longhi-roberto"
-  - title: "Coor-Achenbach, Gertrude"
-    url: "/scholars.html#coor-achenbach-gertrude"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
   - title: "Tartuferi, Angelo"
