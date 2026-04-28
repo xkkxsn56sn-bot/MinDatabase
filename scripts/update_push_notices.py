@@ -77,11 +77,11 @@ def _title_from_file(file_path: Path) -> str:
 
 def _load_json(path: Path) -> dict:
     if not path.exists():
-        return {"updated_at": None, "notices": []}
+        return {"notices": []}
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
-        return {"updated_at": None, "notices": []}
+        return {"notices": []}
 
 
 def _is_markdown_path(relative_path: str) -> bool:
@@ -103,11 +103,12 @@ def _section_from_path(relative_path: str) -> str:
 
 
 def _notice_with_metadata(notice: dict) -> dict:
-    cloned = dict(notice)
-    path = str(cloned.get("path", ""))
-    section = cloned.get("section") or _section_from_path(path)
-    cloned["section"] = section
-    return cloned
+    # Keep output schema minimal for sidebar consumption.
+    return {
+        "title": notice.get("title") or "Untitled",
+        "section": notice.get("section") or "Other",
+        "pushed_at": notice.get("pushed_at") or _safe_iso(None),
+    }
 
 
 def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
@@ -148,7 +149,6 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
             entries.append(
                 {
                     "title": title,
-                    "path": rel_path,
                     "section": _section_from_path(rel_path),
                     "pushed_at": timestamp,
                 }
@@ -205,7 +205,6 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
         entries.append(
             {
                 "title": title,
-                "path": rel_path,
                 "section": _section_from_path(rel_path),
                 "pushed_at": current_timestamp or _safe_iso(None),
             }
@@ -218,7 +217,7 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for item in entries:
         enriched = _notice_with_metadata(item)
-        key = enriched.get("path", "")
+        key = f"{enriched.get('title', '')}::{enriched.get('section', '')}"
         if not key:
             continue
         existing = merged.get(key)
@@ -246,7 +245,6 @@ def main() -> int:
 
     combined = _dedupe_and_sort(new_entries + previous_entries)
     output = {
-        "updated_at": updated_at,
         "notices": combined[:MAX_NOTICES],
     }
 
