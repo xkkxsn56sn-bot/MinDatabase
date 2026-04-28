@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T17:29:10+00:00",
+  "updated_at": "2026-04-28T17:32:59+00:00",
   "notices": [
     {
       "title": "Maestro del Dossale di Yale",
@@ -12,6 +12,12 @@
       "path": "Content/Artists/XIII century/Maestro del Bigallo.md",
       "section": "Artists",
       "pushed_at": "2026-04-28T19:19:50+02:00"
+    },
+    {
+      "title": "Maestro di Faenza",
+      "path": "Content/Artists/XIII century/Maestro di Faenza.md",
+      "section": "Artists",
+      "pushed_at": "2026-04-28T11:08:54+02:00"
     }
   ]
 }

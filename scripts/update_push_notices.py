@@ -84,6 +84,11 @@ def _load_json(path: Path) -> dict:
         return {"updated_at": None, "notices": []}
 
 
+def _is_markdown_path(relative_path: str) -> bool:
+    lower = relative_path.lower()
+    return lower.endswith(".md") or lower.endswith(".markdown")
+
+
 def _section_from_path(relative_path: str) -> str:
     normalized = relative_path.replace("\\", "/")
     if normalized.startswith("Content/Artists/"):
@@ -136,6 +141,8 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
             rel_path = str(changed_path).strip()
             if not rel_path:
                 continue
+            if not _is_markdown_path(rel_path):
+                continue
             absolute = REPO_ROOT / rel_path
             title = _title_from_file(absolute)
             entries.append(
@@ -186,10 +193,14 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
             continue
 
         rel_path = line
+        if not _is_markdown_path(rel_path):
+            continue
         if rel_path == "assets/data/push_notices.json":
             continue
 
         absolute = REPO_ROOT / rel_path
+        if not absolute.exists() or not absolute.is_file():
+            continue
         title = _title_from_file(absolute)
         entries.append(
             {
