@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: Master of the Bigallo
+title: Maestero del Bigallo
 subtitle: Anonymous Florentine painter of monumental crucifixes and Marian devotional panels
 dates: active c. 1215–1220 to c. 1250–1260
 meta:
@@ -124,7 +124,7 @@ scholars:
 
 ---
 
-The figure known as the *Master of the Bigallo* is an anonymous painter whose personal name, family ties, and civic identity have not survived in any document. His conventional name, or notname, derives from a large painted crucifix now in the Museo del Bigallo in Florence, which became the keystone for reconstructing his oeuvre through stylistic comparison. His date and place of birth are therefore unknown, and any attempt to assign him a specific year or parish of origin would go beyond the available evidence and into fiction. On the basis of securely attributed works, scholars place his activity between roughly 1215–1220 and the middle decades of the thirteenth century, within the orbit of Florence and its contado. 
+The figure known as the *Maestro del Bigallo* (Master of the Bigallo) is an anonymous painter whose personal name, family ties, and civic identity have not survived in any document. His conventional name, or notname, derives from a large painted crucifix now in the Museo del Bigallo in Florence, which became the keystone for reconstructing his oeuvre through stylistic comparison. His date and place of birth are therefore unknown, and any attempt to assign him a specific year or parish of origin would go beyond the available evidence and into fiction. On the basis of securely attributed works, scholars place his activity between roughly 1215–1220 and the middle decades of the thirteenth century, within the orbit of Florence and its contado. 
 
 This chronology implies that he was probably born in the last decades of the twelfth century, but even that remains an inference rather than a recorded fact. The same paucity of archival sources means that nothing certain can be said about his parents, siblings, or marital status. Similarly, both the date and the cause of his death are entirely undocumented, and can only be approximated by the apparent terminus of his artistic production, which seems to fall in the 1250s or 1260s. The “biographical” profile of the Master is thus almost entirely constructed from his panels and crucifixes, which function as a substitute for the missing written record. This reliance on stylistic evidence has encouraged art historians to speak cautiously about his life, preferring to reconstruct his workshop and artistic environment rather than a conventional family narrative. In this sense, the Master of the Bigallo is emblematic of many anonymous Duecento painters whose social existence is known only through the visual traces they left behind.
 

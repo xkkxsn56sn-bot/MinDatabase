@@ -2,8 +2,7 @@
 """Update homepage push notices from the GitHub push event payload.
 
 The script reads files added or modified in the latest push, extracts a
-human-friendly title, merges them with existing notices, and keeps only the
-3 most recent entries.
+human-friendly title, and stores only the latest entry for homepage display.
 """
 
 from __future__ import annotations
@@ -13,11 +12,12 @@ import json
 import re
 import subprocess
 from pathlib import Path
+from urllib.parse import quote
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 EVENT_PATH = Path(__import__("os").environ.get("GITHUB_EVENT_PATH", ""))
 NOTICES_PATH = REPO_ROOT / "assets" / "data" / "push_notices.json"
-MAX_NOTICES = 3
+MAX_NOTICES = 1
 
 SECTION_PRIORITY = {
     "Artists": 0,
@@ -102,11 +102,25 @@ def _section_from_path(relative_path: str) -> str:
     return "Other"
 
 
+def _page_url_from_path(relative_path: str) -> str:
+    normalized = relative_path.replace("\\", "/").strip()
+    if not normalized:
+        return "/"
+    if normalized.lower().endswith((".md", ".markdown")):
+        normalized = re.sub(r"\.(md|markdown)$", ".html", normalized, flags=re.IGNORECASE)
+    return f"/{quote(normalized, safe='/')}"
+
+
 def _notice_with_metadata(notice: dict) -> dict:
     # Keep output schema minimal for sidebar consumption.
+    normalized_path = notice.get("path") or ""
+    normalized_page_url = _page_url_from_path(normalized_path) if normalized_path else (notice.get("page_url") or "/")
     return {
         "title": notice.get("title") or "Untitled",
         "section": notice.get("section") or "Other",
+        "path": normalized_path,
+        "page_url": normalized_page_url,
+        "change_type": notice.get("change_type") or "modified",
         "pushed_at": notice.get("pushed_at") or _safe_iso(None),
     }
 
@@ -119,13 +133,21 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
 
     for commit in commits:
         timestamp = _safe_iso(commit.get("timestamp"))
-        changed_paths = set(list(commit.get("added") or []) + list(commit.get("modified") or []))
+        typed_paths: dict[str, str] = {}
+
+        for added_path in commit.get("added") or []:
+            typed_paths[str(added_path).strip()] = "created"
+
+        for modified_path in commit.get("modified") or []:
+            normalized = str(modified_path).strip()
+            if normalized and normalized not in typed_paths:
+                typed_paths[normalized] = "modified"
 
         # Some webhook payloads expose explicit rename metadata.
         # Accept common shapes and capture only the destination path.
         for renamed in commit.get("renamed") or []:
             if isinstance(renamed, str):
-                changed_paths.add(renamed)
+                typed_paths[renamed] = "modified"
                 continue
 
             if isinstance(renamed, dict):
@@ -136,9 +158,9 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
                     or renamed.get("path")
                 )
                 if new_path:
-                    changed_paths.add(new_path)
+                    typed_paths[str(new_path).strip()] = "modified"
 
-        for changed_path in changed_paths:
+        for changed_path, change_type in typed_paths.items():
             rel_path = str(changed_path).strip()
             if not rel_path:
                 continue
@@ -150,6 +172,9 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
                 {
                     "title": title,
                     "section": _section_from_path(rel_path),
+                    "path": rel_path,
+                    "page_url": _page_url_from_path(rel_path),
+                    "change_type": change_type,
                     "pushed_at": timestamp,
                 }
             )
@@ -165,7 +190,7 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
         "log",
         "--date=iso-strict",
         f"--pretty=format:__COMMIT__%cI",
-        "--name-only",
+        "--name-status",
         f"-n{limit_commits}",
     ]
 
@@ -192,7 +217,10 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
             current_timestamp = _safe_iso(line.replace("__COMMIT__", "", 1).strip())
             continue
 
-        rel_path = line
+        parts = line.split(maxsplit=1)
+        if len(parts) != 2:
+            continue
+        status, rel_path = parts
         if not _is_markdown_path(rel_path):
             continue
         if rel_path == "assets/data/push_notices.json":
@@ -206,6 +234,9 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
             {
                 "title": title,
                 "section": _section_from_path(rel_path),
+                "path": rel_path,
+                "page_url": _page_url_from_path(rel_path),
+                "change_type": "created" if status == "A" else "modified",
                 "pushed_at": current_timestamp or _safe_iso(None),
             }
         )
@@ -217,11 +248,11 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for item in entries:
         enriched = _notice_with_metadata(item)
-        key = f"{enriched.get('title', '')}::{enriched.get('section', '')}"
+        key = enriched.get("path") or f"{enriched.get('title', '')}::{enriched.get('section', '')}"
         if not key:
             continue
         existing = merged.get(key)
-        if not existing or enriched.get("pushed_at", "") >= existing.get("pushed_at", ""):
+        if not existing or enriched.get("pushed_at", "") > existing.get("pushed_at", ""):
             merged[key] = enriched
 
     values = list(merged.values())
@@ -245,6 +276,7 @@ def main() -> int:
 
     combined = _dedupe_and_sort(new_entries + previous_entries)
     output = {
+        "updated_at": updated_at,
         "notices": combined[:MAX_NOTICES],
     }
 

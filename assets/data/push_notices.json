@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-04-28T17:32:59+00:00",
+  "updated_at": "2026-04-29T09:04:35+00:00",
   "notices": [
     {
       "title": "Maestro del Dossale di Yale",
       "section": "Artists",
+      "path": "Content/Artists/XIII century/Maestro del Dossale di Yale.md",
+      "page_url": "/Content/Artists/XIII%20century/Maestro%20del%20Dossale%20di%20Yale.html",
+      "change_type": "modified",
       "pushed_at": "2026-04-28T19:20:24+02:00"
-    },
-    {
-      "title": "Master of the Bigallo",
-      "section": "Artists",
-      "pushed_at": "2026-04-28T19:19:50+02:00"
-    },
-    {
-      "title": "Maestro di Faenza",
-      "section": "Artists",
-      "pushed_at": "2026-04-28T11:08:54+02:00"
     }
   ]
 }

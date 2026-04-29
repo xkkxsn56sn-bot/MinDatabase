@@ -173,6 +173,38 @@
             line-height: 1.25;
         }
 
+        .push-notice-card__title-row {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            flex-wrap: wrap;
+        }
+
+        .push-notice-card__change-badge {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 999px;
+            padding: 0.08rem 0.38rem;
+            font-size: 0.58rem;
+            letter-spacing: 0.08em;
+            font-weight: 800;
+            text-transform: uppercase;
+            white-space: nowrap;
+            border: 1px solid transparent;
+        }
+
+        .push-notice-card__change-badge--new {
+            background: rgba(170, 222, 187, 0.26);
+            color: #e5fff0;
+            border-color: rgba(170, 222, 187, 0.58);
+        }
+
+        .push-notice-card__change-badge--updated {
+            background: rgba(255, 229, 170, 0.2);
+            color: #fff2cf;
+            border-color: rgba(255, 229, 170, 0.55);
+        }
+
         .push-notice-card__badge {
             display: inline-flex;
             align-items: center;
@@ -799,6 +831,40 @@
             return 'push-notice-card__badge--other';
         }
 
+        function normalizeNoticeLink(notice) {
+            const rawUrl = String(notice.page_url || '').trim();
+            if (rawUrl.startsWith('/')) {
+                return rawUrl;
+            }
+
+            const sourcePath = String(notice.path || '').trim();
+            if (sourcePath) {
+                return `/${sourcePath.replace(/\.(md|markdown)$/i, '.html')}`;
+            }
+
+            const sectionLanding = {
+                artists: '/artists.html',
+                churches: '/churches.html',
+                codices: '/codices.html',
+                papers: '/papers.html'
+            };
+            const sectionKey = String(notice.section || 'other').toLowerCase();
+            return sectionLanding[sectionKey] || '/';
+        }
+
+        function noticeDateLabel(notice) {
+            const changeType = String(notice.change_type || 'modified').toLowerCase();
+            return changeType === 'created' ? 'Created on' : 'Modified on';
+        }
+
+        function noticeChangeBadge(notice) {
+            const changeType = String(notice.change_type || 'modified').toLowerCase();
+            if (changeType === 'created') {
+                return { text: 'NEW', className: 'push-notice-card__change-badge--new' };
+            }
+            return { text: 'UPDATED', className: 'push-notice-card__change-badge--updated' };
+        }
+
         function renderJulianDatePanel() {
             const julianDateValue = document.getElementById('julian-date-value');
             if (!julianDateValue) {
@@ -826,39 +892,39 @@
                 const data = await response.json();
                 const notices = Array.isArray(data.notices)
                     ? data.notices
-                        .slice(0, 3)
                         .sort((a, b) => {
-                            const sectionDelta = sectionPriority(a.section) - sectionPriority(b.section);
-                            if (sectionDelta !== 0) return sectionDelta;
                             return (b.pushed_at || '').localeCompare(a.pushed_at || '');
                         })
                     : [];
 
-                if (!notices.length) {
+                const latestNotice = notices[0] || null;
+
+                if (!latestNotice) {
                     listElement.innerHTML = '<li class="push-notice-card__empty">No new files in recent pushes.</li>';
                     statusElement.textContent = '';
                     statusElement.dataset.state = 'ready';
                     return;
                 }
 
-                listElement.innerHTML = notices.map((notice) => {
-                    const safeTitle = escapeHtml(notice.title || 'Untitled file');
-                    const safePath = escapeHtml(notice.path || '#');
-                    const pushedDate = escapeHtml(formatPushedDate(notice.pushed_at));
-                    const sectionName = escapeHtml(notice.section || 'Other');
-                    const badgeClass = sectionBadgeClass(notice.section);
+                const safeTitle = escapeHtml(latestNotice.title || 'Untitled file');
+                const sectionName = escapeHtml(latestNotice.section || 'Other');
+                const badgeClass = sectionBadgeClass(latestNotice.section);
+                const linkHref = escapeHtml(normalizeNoticeLink(latestNotice));
+                const dateLabel = escapeHtml(noticeDateLabel(latestNotice));
+                const pushedDate = escapeHtml(formatPushedDate(latestNotice.pushed_at));
+                const changeBadge = noticeChangeBadge(latestNotice);
+                const changeBadgeText = escapeHtml(changeBadge.text);
+                const changeBadgeClass = escapeHtml(changeBadge.className);
 
-                    return `
-                        <li class="push-notice-card__item">
-                            <div class="push-notice-card__item-head">
-                                <p class="push-notice-card__item-title">${safeTitle}</p>
-                                <span class="push-notice-card__badge ${badgeClass}">${sectionName}</span>
-                            </div>
-                            <p class="push-notice-card__item-date">Pushed: ${pushedDate}</p>
-                            <p class="push-notice-card__item-date"><a class="push-notice-card__item-link" href="/${safePath}">${safePath}</a></p>
-                        </li>
-                    `;
-                }).join('');
+                listElement.innerHTML = `
+                    <li class="push-notice-card__item">
+                        <div class="push-notice-card__item-head">
+                            <p class="push-notice-card__item-title"><span class="push-notice-card__title-row"><a class="push-notice-card__item-link" href="${linkHref}">${safeTitle}</a><span class="push-notice-card__change-badge ${changeBadgeClass}">${changeBadgeText}</span></span></p>
+                            <span class="push-notice-card__badge ${badgeClass}">${sectionName}</span>
+                        </div>
+                        <p class="push-notice-card__item-date">${dateLabel}: ${pushedDate}</p>
+                    </li>
+                `;
 
                 statusElement.textContent = '';
                 statusElement.dataset.state = 'ready';
