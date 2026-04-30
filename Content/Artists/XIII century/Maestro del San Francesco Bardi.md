@@ -99,26 +99,30 @@ meta:
         value: "HU[N]C EXA/UDITE P(ER)/HIBENT[EM]/DOGMAT/A VITE — formulated by the friars as a theological statement of the panel's didactic and intercessory function"
 
 scholars:
+  - title: Bellosi, Luciano
+    url: /scholars.html#bellosi-luciano
   - title: Boskovits, Miklós
     url: /scholars.html#boskovits-miklos
-  - title: Offner, Richard
-    url: /scholars.html#offner-richard
-  - title: Sandberg-Vavalà, Evelyn
-    url: /scholars.html#sandberg-vavala-evelyn
   - title: Garrison, Edward B.
     url: /scholars.html#garrison-edward
-  - title: Van Marle, Raimond
-    url: /scholars.html#van-marle-raimond
-  - title: Venturi, Adolfo
-    url: /scholars.html#venturi-adolfo
+  - title: Longhi, Roberto
+    url: /scholars.html#longhi-roberto
+  - title: Offner, Richard
+    url: /scholars.html#offner-richard
+  - title: Pasut, Francesca Rosa
+    url: /scholars.html#pasut-francesca-rosa
+  - title: Sandberg-Vavalà, Evelyn
+    url: /scholars.html#sandberg-vavala-evelyn
   - title: Sirén, Osvald
     url: /scholars.html#siren-osvald
   - title: Stubblebine, James H.
     url: /scholars.html#stubblebine-james-h
-  - title: Longhi, Roberto
-    url: /scholars.html#longhi-roberto
-  - title: Bellosi, Luciano
-    url: /scholars.html#bellosi-luciano
+  - title: Tartuferi, Angelo
+    url: /scholars.html#tartuferi-angelo
+  - title: Van Marle, Raimond
+    url: /scholars.html#van-marle-raimond
+  - title: Venturi, Adolfo
+    url: /scholars.html#venturi-adolfo
 
 ---
 
