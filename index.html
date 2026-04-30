@@ -136,12 +136,14 @@
             text-transform: uppercase;
             color: var(--gold);
             margin-bottom: 0.35rem;
+            text-align: center;
         }
 
         .push-notice-card__title {
             font-size: 1.15rem;
             line-height: 1.2;
             margin-bottom: 0.45rem;
+            text-align: center;
         }
 
         .push-notice-card__list {
@@ -776,13 +778,16 @@
         function getCurrentJulianDateParts() {
             const now = new Date();
             const jdn = gregorianToJdn(now.getFullYear(), now.getMonth() + 1, now.getDate());
-            return jdnToJulian(jdn);
+            const parts = jdnToJulian(jdn);
+            return { ...parts, jdn };
         }
 
         function formatJulianDate(dateParts) {
             const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            const dayNames = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
             const day = String(dateParts.day).padStart(2, '0');
-            return `${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
+            const weekday = dateParts.jdn !== undefined ? dayNames[dateParts.jdn % 7] + ', ' : '';
+            return `${weekday}${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
         }
 
         function formatPushedDate(isoDate) {
