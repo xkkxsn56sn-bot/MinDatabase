@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-30T15:12:50+00:00",
+  "updated_at": "2026-05-02T15:05:08+02:00",
   "notices": [
     {
-      "title": "Maestro del San Francesco Bardi",
+      "title": "Spinello Aretino",
       "section": "Artists",
-      "path": "Content/Artists/XIII century/Maestro del San Francesco Bardi.md",
-      "page_url": "/Content/Artists/XIII%20century/Maestro%20del%20San%20Francesco%20Bardi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-04-30T17:05:08+02:00"
+      "path": "Content/Artists/XIV century/Spinello Aretino.md",
+      "page_url": "/Content/Artists/XIV%20century/Spinello%20Aretino.html",
+      "change_type": "created",
+      "pushed_at": "2026-05-02T15:05:08+02:00"
     }
   ]
 }
