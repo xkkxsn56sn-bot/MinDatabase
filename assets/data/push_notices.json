@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-02T15:05:08+02:00",
+  "updated_at": "2026-05-03T15:05:08+02:00",
   "notices": [
     {
-      "title": "Spinello Aretino",
-      "section": "Artists",
-      "path": "Content/Artists/XIV century/Spinello Aretino.md",
-      "page_url": "/Content/Artists/XIV%20century/Spinello%20Aretino.html",
+      "title": "Porta dei Pellegrini",
+      "section": "Churches",
+      "path": "Content/Churches/Porta dei Pellegrini.md",
+      "page_url": "/Content/Churches/Porta%20dei%20Pellegrini.html",
       "change_type": "created",
-      "pushed_at": "2026-05-02T15:05:08+02:00"
+      "pushed_at": "2026-05-03T15:05:08+02:00"
     }
   ]
 }

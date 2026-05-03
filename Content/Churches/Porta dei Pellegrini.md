@@ -1,7 +1,9 @@
 ---
 layout: entry
 title: "Porta dei Pellegrini"
-subtitle: "The great southern portal of Ferrara Cathedral and its lost cycle of the Months"
+subtitle: "The lost southern portal of Ferrara Cathedral and its sculpted cycle of the Months"
+dates: "First campaign c. 1135 (Nicholaus); second campaign c. 1225–1230 (Master of the Months); walled up 1717; demolished 1736; fragments in Museo della Cattedrale di San Giorgio, Ferrara"
+location: "Cathedral of San Giorgio (Duomo di Ferrara), Ferrara, Emilia-Romagna, Italy"
 
 scholars:
   - title: "De Francovich, Géza"
@@ -10,6 +12,129 @@ scholars:
     url: "/scholars.html#salvini-roberto"
   - title: "Toesca, Pietro"
     url: "/scholars.html#toesca-pietro"
+
+category: "churches"
+
+founders_and_patrons:
+  - "Cathedral chapter of Ferrara (institutional patron for both building campaigns)"
+  - "Bishop of Ferrara (ecclesiastical authority; co-sponsor of the Romanesque campaign under Nicholaus)"
+  - "Commune of Ferrara (civic co-patron; the portal served as a landmark of communal identity on Via San Romano)"
+
+key_artists:
+  - "Nicholaus (architect-sculptor; active in northern Italy c. 1130s–1140s; responsible for the first campaign: animal supports, Eve spinner, and overall portal design)"
+  - "Master of the Months of Ferrara (anonymous sculptor; c. 1225–1230; executed the cycle of twelve months and related astrological panels; also associated with works in Forlì and Venice)"
+  - "Master of the Baptist Capital (associated anonymous sculptor; c. 1200; named after a capital with scenes from the life of John the Baptist tentatively linked to the same decorative campaign)"
+
+key_works:
+  - "Stylophoric lions and griffins (Nicholaus, c. 1135, stone, Cathedral parvise, Ferrara)"
+  - "Eve spinner (Nicholaus, c. 1135, stone, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Janus / January — two-faced god (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Pruning / February (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Reawakening of Nature and King of the Months / March–April (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Knight with shield / May (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Boy picking tree fruit / June — Gemini and Cancer (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Wheat threshing / July (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Preparing the barrel / August (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+  - "Grape harvest / September (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
+
+thematic_keywords:
+  - "Romanesque portal sculpture in northern Italy"
+  - "Labours of the months and calendrical imagery"
+  - "Zodiacal iconography in medieval portals"
+  - "Pilgrimage routes and urban liturgical topography"
+  - "Benedetto Antelami and the Po Valley Gothic"
+  - "Anonymous masters and medieval workshop practice"
+  - "Ferrara Cathedral and Este dynastic culture"
+  - "Loss, demolition, and musealisation of medieval sculpture"
+  - "Conservation and digital reconstruction"
+  - "Stone carving: relief technique and material biography"
+
+related_entries:
+  - title: "Girolamo Baruffaldi"
+    url: "/endnotes.html#fn-baruffaldi"
+  - title: "Ludovico Ariosto"
+    url: "/endnotes.html#fn-ariosto-ludovico"
+  - title: "Géza de Francovich"
+    url: "/scholars.html#de-francovich-geza"
+  - title: "Roberto Salvini"
+    url: "/scholars.html#salvini-roberto"
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
+
+meta:
+  - title: "Core data"
+    pairs:
+      - label: "Location"
+        value: "Cathedral of San Giorgio (Duomo di Ferrara), south flank, Ferrara, Emilia-Romagna, Italy"
+      - label: "Dedication"
+        value: "Portal of the Cathedral of Saint George"
+      - label: "Alternative names"
+        value: "Porta dei Pellegrini (pilgrims' gate); Porta dei Mesi (gate of the months)"
+      - label: "Current status"
+        value: "Demolished 1736; months panels and Eve spinner in Museo della Cattedrale di San Giorgio, Ferrara; stylophoric lions and griffins on cathedral parvise"
+      - label: "Chronology"
+        value: "First campaign c. 1135 under Nicholaus (animal supports, Eve spinner); second campaign c. 1225–1230 under the Master of the Months (cycle of twelve months and zodiacal panels); walled up 1717; demolished 1736; fragments recovered and musealised 19th–20th centuries"
+
+  - title: "Architecture and form"
+    pairs:
+      - label: "Portal typology"
+        value: "Monumental Romanesque–Gothic lateral portal with sculpted jambs, archivolt, lintel, and elaborately carved intrados"
+      - label: "Position"
+        value: "South flank of Ferrara Cathedral, facing Via San Romano and oriented toward Piazza Trento e Trieste"
+      - label: "Structural components"
+        value: "Arched ashlar opening; sculpted jambs and lintel; stylophoric animal supports (lions and griffins) projecting into public space; intrados with two superposed bands of narrative relief panels"
+      - label: "Urban function"
+        value: "Principal access from the river port on the Po via Via San Romano; threshold between commercial city life and cathedral precinct"
+
+  - title: "Materials and techniques"
+    pairs:
+      - label: "Stone (first campaign)"
+        value: "Light-coloured local stone for jambs, archivolt, and animal supports, integrated into the cathedral's Romanesque ashlar masonry"
+      - label: "Stone (second campaign)"
+        value: "Red Verona marble for the months panels; fine-grained surface facilitated delicate facial and figural modelling"
+      - label: "Panel dimensions"
+        value: "Approximately 94 × 48 × 37 cm per months slab"
+      - label: "Carving technique"
+        value: "Alternating high and low relief; progressive undercutting; roughing out with a point, refining with a toothed chisel, smoothing selected areas; deep drilling for grapes, tools, and plant motifs"
+      - label: "Polychromy"
+        value: "Not directly attested on surviving Ferrara slabs; probable by analogy with contemporary Romanesque portals"
+      - label: "Conservation"
+        value: "Panels damaged by prolonged reuse as pavement; desalination, consolidation, and controlled-climate display in the Museo della Cattedrale; TryeCo 2.0 digital models and physical replicas produced for virtual reconstruction"
+
+  - title: "Historical context"
+    pairs:
+      - label: "Ecclesiastical patron"
+        value: "Cathedral chapter of Ferrara under episcopal authority"
+      - label: "Civic context"
+        value: "Portal conceived at the intersection of the city's commercial axis and its liturgical core; functioned as pilgrimage gate for travellers from Rome and the Holy Land"
+      - label: "Baroque demolition"
+        value: "Walled up in 1717 as part of modernisation of the cathedral interior; definitively demolished in 1736; months panels reused face-down as paving stones"
+      - label: "Recovery and musealisation"
+        value: "Panels extracted during 19th–20th century floor repairs and restorations; transferred to Museo della Cattedrale di San Giorgio; stylophoric animals repositioned on cathedral parvise"
+      - label: "Digital reconstruction"
+        value: "TryeCo 2.0 project produced three-dimensional scans, digital models, and physical reproductions of the months panels to enable virtual reconstruction of the destroyed portal"
+
+  - title: "Principal artists"
+    pairs:
+      - label: "Nicholaus"
+        value: "Architect-sculptor active in northern Italy c. 1130s–1140s; responsible for the overall design of the portal and the first sculptural campaign, including the stylophoric animal supports and the Eve spinner panel; active also in Verona; occupies a transitional position between Lombard workshops and a classicising Romanesque idiom"
+      - label: "Master of the Months"
+        value: "Anonymous sculptor; c. 1225–1230; executed the cycle of twelve months and related astrological panels in red Verona marble; itinerant, with attributed works in Forlì and Venice; style combines Antelamian solidity with French Gothic elegance"
+      - label: "Master of the Baptist Capital"
+        value: "Anonymous associated sculptor; c. 1200; named after a capital with scenes from the life of John the Baptist tentatively linked to the same decorative programme; relationship to the Master of the Months debated"
+
+  - title: "Related entries"
+    links:
+      - title: "Girolamo Baruffaldi"
+        url: "/endnotes.html#fn-baruffaldi"
+      - title: "Ludovico Ariosto"
+        url: "/endnotes.html#fn-ariosto-ludovico"
+      - title: "Géza de Francovich"
+        url: "/scholars.html#de-francovich-geza"
+      - title: "Roberto Salvini"
+        url: "/scholars.html#salvini-roberto"
+      - title: "Pietro Toesca"
+        url: "/scholars.html#toesca-pietro"
 ---
 
 The *Porta dei Pellegrini* (or *Porta dei Mesi*) was the great southern portal of Ferrara Cathedral, a richly sculpted Romanesque–Gothic complex now known chiefly through its surviving reliefs and archival records. This account reconstructs its architectural form, materials, authorship, and historical fortunes from the twelfth century to its Baroque destruction and modern museal afterlife.
