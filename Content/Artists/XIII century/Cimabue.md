@@ -259,6 +259,7 @@ The work is seminal because it illustrates the transition from a more abstract a
 The work is linked to the Franciscan Basilica of Santa Croce and clearly reflects the mendicant spirituality, which placed great emphasis on meditating on the suffering of Christ. It has also become a symbol of Florence’s history due to the damage it sustained during the 1966 flood, an event that enhanced its civic value as well as its artistic one. Today, the crucifix is viewed not only as a testament to Cimabue’s greatness, but as one of the most important steps toward the naturalism and expressiveness of 14th-century painting.
 
 ### San Domenico Crucifix
+
 <figure>
   <img src="/images/Cimabue/image 3.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1265-71, tempera and gold on panel, 336 x 267 cm, church of San Domenico, Arezzo.</figcaption>
@@ -339,3 +340,4 @@ The painting is executed in egg tempera on poplar panel, with a generous applica
 The skillful use of small, layered brushstrokes produces an effect of extremely fine detail and a lively rhythm in the folds of the cloth and the anatomical features, a sign of a quest for expressiveness and naturalism that anticipates Giotto’s breakthrough.
 
 The theme is drawn from the Passion narrative (John 19:1): After his trial, Jesus is condemned to be flogged by Roman soldiers before his crucifixion. The choice of such an intensely painful scene, condensed into a very small format, suggests an original personal or family devotional purpose, perhaps as an image for meditation prior to the crucifixion, to be placed in a diptych or a small domestic altar. The image focuses on the emotional response and shared suffering of the faithful, combining Byzantine solemnity with a new sense of humanity and the physical presence of Christ, a concept that Giotto himself would later take to its extreme consequences.
+
