@@ -54,7 +54,9 @@ jobs:
 
       - name: Commit updated notices
         run: |
-          if git diff --quiet -- assets/data/push_notices.json assets/data/newsletter_last_notified.json; then
+          state_untracked=$(git ls-files --others --exclude-standard -- assets/data/newsletter_last_notified.json)
+
+          if git diff --quiet -- assets/data/push_notices.json assets/data/newsletter_last_notified.json && [ -z "$state_untracked" ]; then
             echo "No notice/notification state changes to commit."
             exit 0
           fi
