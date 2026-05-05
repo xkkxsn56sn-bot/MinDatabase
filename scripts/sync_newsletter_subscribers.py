@@ -3,7 +3,7 @@
 
 This script is designed for CI automation (GitHub Actions):
 - Connect to an IMAP inbox
-- Read unseen messages matching a subject filter
+- Read recent messages matching a subject filter (read/unread)
 - Extract e-mail addresses from the message body
 - Append unique addresses to newsletter_subscribers.csv
 """
@@ -38,6 +38,17 @@ def _parse_imap_port(raw: str | None) -> int:
     except ValueError:
         print("Invalid IMAP_PORT value. Falling back to 993.", file=sys.stderr)
         return 993
+
+
+def _parse_max_messages(raw: str | None) -> int:
+    if not raw or not raw.strip():
+        return 200
+    try:
+        value = int(raw.strip())
+    except ValueError:
+        print("Invalid SYNC_MAX_MESSAGES value. Falling back to 200.", file=sys.stderr)
+        return 200
+    return value if value > 0 else 200
 
 
 def _decode_header_value(raw: str | None) -> str:
@@ -126,6 +137,7 @@ def main() -> int:
     imap_username = os.getenv("IMAP_USERNAME")
     imap_password = os.getenv("IMAP_PASSWORD")
     subject_filter = os.getenv("SUBSCRIBER_MAIL_SUBJECT", "Medieval Visions newsletter registration")
+    sync_max_messages = _parse_max_messages(os.getenv("SYNC_MAX_MESSAGES"))
 
     if not all([imap_host, imap_username, imap_password]):
         print("Skipping sync: IMAP_HOST, IMAP_USERNAME, or IMAP_PASSWORD is not configured.")
@@ -157,16 +169,19 @@ def main() -> int:
             print("Could not select INBOX.", file=sys.stderr)
             return 1
 
-        # Search unseen messages first, then filter by decoded subject in Python.
-        # This is more resilient to IMAP server search quirks/encodings.
-        status, ids = mailbox.search(None, "UNSEEN")
+        # Search all messages, then limit to a recent window and filter subject in Python.
+        # This prevents missing signups when the mailbox message was already opened manually.
+        status, ids = mailbox.search(None, "ALL")
         if status != "OK":
             print("Could not search mailbox.", file=sys.stderr)
             return 1
 
         message_ids = ids[0].split()
+        if len(message_ids) > sync_max_messages:
+            message_ids = message_ids[-sync_max_messages:]
+
         if not message_ids:
-            print("No new subscriber emails found.")
+            print("No subscriber emails found in the recent scan window.")
             return 0
 
         now_iso = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
@@ -208,9 +223,6 @@ def main() -> int:
                     ]
                 )
                 new_count += 1
-
-            # Mark targeted messages as seen once successfully processed.
-            mailbox.store(message_id, "+FLAGS", "\\Seen")
 
         if not rows_to_append:
             print("No new unique subscribers to append.")
