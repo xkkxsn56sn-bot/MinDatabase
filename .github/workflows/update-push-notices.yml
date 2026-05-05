@@ -21,6 +21,9 @@ jobs:
       SMTP_PASSWORD_SECRET_NAME: SMTP_PASSWORD
       SMTP_FROM_SECRET_NAME: SMTP_FROM
       SMTP_SECURE_SECRET_NAME: SMTP_SECURE
+      IMAP_HOST_SECRET_NAME: IMAP_HOST
+      IMAP_USERNAME_SECRET_NAME: IMAP_USERNAME
+      IMAP_PASSWORD_SECRET_NAME: IMAP_PASSWORD
 
     steps:
       - name: Checkout repository
@@ -42,6 +45,9 @@ jobs:
           SMTP_PASSWORD: ${{ secrets[env.SMTP_PASSWORD_SECRET_NAME] }}
           SMTP_FROM: ${{ secrets[env.SMTP_FROM_SECRET_NAME] }}
           SMTP_SECURE: ${{ secrets[env.SMTP_SECURE_SECRET_NAME] }}
+          IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
+          IMAP_USERNAME: ${{ secrets[env.IMAP_USERNAME_SECRET_NAME] }}
+          IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
           NEWSLETTER_SUBJECT: Medieval Visions update
           SITE_BASE_URL: https://medievalvisions.com
         run: python scripts/send_newsletter_updates.py

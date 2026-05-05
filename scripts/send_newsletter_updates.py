@@ -42,6 +42,15 @@ def _parse_port(value: str | None, fallback: int) -> int:
         return fallback
 
 
+def _derive_smtp_host_from_imap(imap_host: str | None) -> str:
+    host = (imap_host or "").strip()
+    if not host:
+        return ""
+    if host.startswith("imap."):
+        return "smtp." + host[len("imap."):]
+    return host
+
+
 def _load_json(path: Path, fallback: dict) -> dict:
     if not path.exists():
         return fallback
@@ -204,9 +213,13 @@ def main() -> int:
         print("No recipients found in newsletter_subscribers.csv. Skipping.")
         return 0
 
-    host = (os.getenv("SMTP_HOST") or "").strip()
-    username = (os.getenv("SMTP_USERNAME") or "").strip() or None
-    password = (os.getenv("SMTP_PASSWORD") or "").strip() or None
+    imap_host = (os.getenv("IMAP_HOST") or "").strip()
+    imap_username = (os.getenv("IMAP_USERNAME") or "").strip() or None
+    imap_password = (os.getenv("IMAP_PASSWORD") or "").strip() or None
+
+    host = (os.getenv("SMTP_HOST") or "").strip() or _derive_smtp_host_from_imap(imap_host)
+    username = (os.getenv("SMTP_USERNAME") or "").strip() or imap_username
+    password = (os.getenv("SMTP_PASSWORD") or "").strip() or imap_password
     sender = (os.getenv("SMTP_FROM") or username or "contact@medievalvisions.com").strip()
     subject = (os.getenv("NEWSLETTER_SUBJECT") or "Medieval Visions update").strip()
     site_base_url = (os.getenv("SITE_BASE_URL") or "https://medievalvisions.com").strip()

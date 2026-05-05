@@ -149,3 +149,13 @@ e invia una e-mail per ogni nuovo aggiornamento non ancora notificato. Lo stato 
 - `SMTP_FROM` (facoltativo, default: `SMTP_USERNAME`)
 - `SMTP_SECURE` (facoltativo: `starttls` default, oppure `ssl`)
 
+### Fallback automatico
+
+Se i secret SMTP non sono configurati, `scripts/send_newsletter_updates.py` prova a usare:
+
+- `IMAP_HOST` -> host SMTP derivato (`imap.` -> `smtp.`)
+- `IMAP_USERNAME`
+- `IMAP_PASSWORD`
+
+Questo permette di inviare notifiche anche con la sola configurazione IMAP (tipico per iCloud con app password).
+
