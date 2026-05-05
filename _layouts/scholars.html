@@ -432,6 +432,8 @@
             <form class="scholars-newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com"
                 method="POST" accept-charset="UTF-8">
                 <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
+                <!-- Replace WORKER_URL with your deployed Cloudflare Worker URL (see scripts/subscriber_webhook_worker.js) -->
+                <input type="hidden" name="_webhook" value="https://subscriber-webhook.medievalvisions.workers.dev">
                 <input type="hidden" name="_autoresponse"
                     value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list.">
                 <input type="hidden" name="_template" value="table">
