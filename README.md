@@ -121,3 +121,31 @@ estrae gli indirizzi e-mail trovati nel corpo della mail, evita duplicati e aggi
 	- `source`: `formsubmit_email`
 	- `created_at`: timestamp UTC ISO-8601
 
+## Newsletter update notifications
+
+Per inviare notifiche e-mail agli iscritti quando vengono aggiunte/modificate entry (`.md`), il workflow:
+
+- `.github/workflows/update-push-notices.yml`
+
+esegue anche:
+
+- `scripts/send_newsletter_updates.py`
+
+Lo script legge:
+
+- `assets/data/push_notices.json` (ultime modifiche contenuti)
+- `newsletter_subscribers.csv` (destinatari)
+
+e invia una e-mail per ogni nuovo aggiornamento non ancora notificato. Lo stato di deduplica viene salvato in:
+
+- `assets/data/newsletter_last_notified.json`
+
+### Secrets SMTP richiesti
+
+- `SMTP_HOST`
+- `SMTP_PORT` (tipicamente `587` con STARTTLS, oppure `465` con SSL)
+- `SMTP_USERNAME`
+- `SMTP_PASSWORD`
+- `SMTP_FROM` (facoltativo, default: `SMTP_USERNAME`)
+- `SMTP_SECURE` (facoltativo: `starttls` default, oppure `ssl`)
+

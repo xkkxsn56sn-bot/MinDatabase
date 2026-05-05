@@ -139,12 +139,27 @@ def main() -> int:
     known_emails = _load_existing_emails(csv_path)
     rows_to_append: list[list[str]] = []
 
-    mailbox = imaplib.IMAP4_SSL(imap_host, imap_port)
     try:
-        mailbox.login(imap_username, imap_password)
-        mailbox.select("INBOX")
+        mailbox = imaplib.IMAP4_SSL(imap_host, imap_port)
+    except Exception as exc:
+        print(f"Could not connect to IMAP server {imap_host}:{imap_port}: {exc}", file=sys.stderr)
+        return 1
 
-        status, ids = mailbox.search(None, "UNSEEN", "SUBJECT", f'"{subject_filter}"')
+    try:
+        try:
+            mailbox.login(imap_username, imap_password)
+        except Exception as exc:
+            print(f"IMAP login failed: {exc}", file=sys.stderr)
+            return 1
+
+        select_status, _ = mailbox.select("INBOX")
+        if select_status != "OK":
+            print("Could not select INBOX.", file=sys.stderr)
+            return 1
+
+        # Search unseen messages first, then filter by decoded subject in Python.
+        # This is more resilient to IMAP server search quirks/encodings.
+        status, ids = mailbox.search(None, "UNSEEN")
         if status != "OK":
             print("Could not search mailbox.", file=sys.stderr)
             return 1
@@ -157,7 +172,12 @@ def main() -> int:
         now_iso = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
 
         for message_id in message_ids:
-            fetch_status, payload = mailbox.fetch(message_id, "(RFC822)")
+            try:
+                fetch_status, payload = mailbox.fetch(message_id, "(BODY.PEEK[])")
+            except Exception as exc:
+                print(f"Failed to fetch message {message_id!r}: {exc}", file=sys.stderr)
+                continue
+
             if fetch_status != "OK" or not payload or payload[0] is None:
                 continue
 
@@ -167,6 +187,9 @@ def main() -> int:
 
             message = email.message_from_bytes(raw_bytes)
             message_subject = _decode_header_value(message.get("Subject"))
+            if subject_filter.lower() not in message_subject.lower():
+                continue
+
             text_chunks = _extract_text_parts(message)
             found = _extract_candidate_emails(text_chunks)
 
@@ -186,9 +209,8 @@ def main() -> int:
                 )
                 new_count += 1
 
-            # Mark as seen once processed to prevent duplicate processing.
-            if new_count >= 0:
-                mailbox.store(message_id, "+FLAGS", "\\Seen")
+            # Mark targeted messages as seen once successfully processed.
+            mailbox.store(message_id, "+FLAGS", "\\Seen")
 
         if not rows_to_append:
             print("No new unique subscribers to append.")
