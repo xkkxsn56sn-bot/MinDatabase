@@ -39,10 +39,10 @@ jobs:
 
       - name: Send newsletter update notification
         env:
-          SMTP_HOST: ${{ secrets[env.SMTP_HOST_SECRET_NAME] }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets[env.SMTP_PORT_SECRET_NAME] }}
-          SMTP_USERNAME: ${{ secrets[env.SMTP_USERNAME_SECRET_NAME] }}
-          SMTP_PASSWORD: ${{ secrets[env.SMTP_PASSWORD_SECRET_NAME] }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_FROM: ${{ secrets[env.SMTP_FROM_SECRET_NAME] }}
           SMTP_SECURE: ${{ secrets[env.SMTP_SECURE_SECRET_NAME] }}
           IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
