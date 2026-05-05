@@ -3,7 +3,11 @@ name: Sync Newsletter Subscribers
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "*/5 * * * *"
+
+concurrency:
+  group: sync-newsletter-subscribers
+  cancel-in-progress: true
 
 permissions:
   contents: write
