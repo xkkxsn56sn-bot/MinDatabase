@@ -249,7 +249,6 @@ The Ragghianti Foundation describes the Master of Varlungo as a Cimabuesque pain
 
 ### Madonna and Child Enthroned with Angels
 
-***
 <figure>
   <img src="/images/Maestro di Varlungo/image 5.jpg" alt="Madonna and Child Enthroned with Angels">
   <figcaption>Madonna and Child Enthroned with Angels, 1300-10, tempera and gold on panel, 154 x 74 cm, Propositura del Santissimo Nome di Gesù, Pratovecchio.</figcaption>
