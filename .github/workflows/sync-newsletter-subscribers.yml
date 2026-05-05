@@ -10,6 +10,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
+  actions: read
   contents: write
 
 jobs:
@@ -22,18 +23,51 @@ jobs:
       IMAP_PASSWORD_SECRET_NAME: IMAP_PASSWORD
 
     steps:
+      - name: Skip overlapping scheduled sync runs
+        id: overlap_guard
+        if: github.event_name == 'schedule'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listWorkflowRuns({
+              owner,
+              repo,
+              workflow_id: 'sync-newsletter-subscribers.yml',
+              status: 'in_progress',
+              per_page: 100,
+            });
+
+            const overlappingRuns = data.workflow_runs.filter((run) => (
+              run.id !== context.runId &&
+              run.event === 'schedule' &&
+              run.status === 'in_progress'
+            ));
+
+            const shouldSkip = overlappingRuns.length > 0;
+            core.setOutput('should_skip', shouldSkip ? 'true' : 'false');
+
+            if (shouldSkip) {
+              core.notice(`Skipping scheduled sync because run(s) ${overlappingRuns.map((run) => run.id).join(', ')} already in progress.`);
+            } else {
+              core.notice('No overlapping scheduled sync runs detected.');
+            }
+
       - name: Checkout repository
+        if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
         uses: actions/checkout@v6
         with:
           ref: ${{ github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
+        if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
       - name: Sync subscribers from inbox
+        if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
         env:
           IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
           IMAP_PORT: ${{ secrets[env.IMAP_PORT_SECRET_NAME] }}
@@ -44,6 +78,7 @@ jobs:
         run: python scripts/sync_newsletter_subscribers.py
 
       - name: Commit updated CSV
+        if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
         run: |
           if git diff --quiet -- newsletter_subscribers.csv; then
             echo "No CSV changes to commit."
@@ -55,3 +90,7 @@ jobs:
           git add newsletter_subscribers.csv
           git commit -m "chore: sync newsletter subscribers"
           git push origin HEAD:${GITHUB_REF_NAME}
+
+      - name: Mark overlapping scheduled run as skipped
+        if: github.event_name == 'schedule' && steps.overlap_guard.outputs.should_skip == 'true'
+        run: echo "Skipping this scheduled run because another scheduled sync is already in progress."
