@@ -119,9 +119,9 @@ meta:
   - title: RELATED ENTRIES
     links:
       - title: San Zanobi (Bishop of Florence; traditional founder of the primitive settlement, c. 395 AD)
-        url: "/Content/Saints/San Zanobi.md"
+        url: "/Content/Saints/San%20Zanobi.html"
       - title: Saint John Gualbert (founder of the Vallombrosan Order; died at Passignano, 12 July 1073)
-        url: "/Content/Saints/Saint John Gualbert.md"
+        url: "/Content/Saints/Saint%20John%20Gualbert.html"
 
 scholars:
   - title: "Longhi, Roberto"
@@ -177,21 +177,21 @@ Ghirlandaio, trained in the workshop tradition of mid-fifteenth-century Florence
 
 Alessandro Allori<a href="../../../painters.html#allori-alessandro" class="footnote"><sup>7</sup></a>, one of the most accomplished Florentine Mannerist painters and a devoted pupil of Agnolo Bronzino, contributed extensively to the interior decoration of the church of San Michele Arcangelo, completing frescoes in 1581 that depicted episodes from the life of Giovanni Gualberto in the left transept, as well as an altarpiece for the Badia now deposited at the Galleria degli Uffizi. 
 
+Allori's formation under Bronzino gave him a refined linear control, an extraordinary command of complex multi-figure compositions, and a subtle palette derived from the court aesthetic of the Medici, all of which are visibly operative in the Passignano frescoes. The actual execution of the decorative programme designed by Allori in the transept was partly entrusted to his pupil and associate Giovanni Maria Butteri, who completed the scene of the recognition of the relics of San Giovanni Gualberto in November 1580. 
+
 <figure class="figure--right">
   <img src="/images/Badia a Passignano/image 3.jpg" alt="Episodes from the life of Giovanni Gualberto">
   <figcaption>Alessandro Allori (1535–1607), Episodes from the life of Giovanni Gualberto, 1581, fresco, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
-Allori's formation under Bronzino gave him a refined linear control, an extraordinary command of complex multi-figure compositions, and a subtle palette derived from the court aesthetic of the Medici, all of which are visibly operative in the Passignano frescoes. The actual execution of the decorative programme designed by Allori in the transept was partly entrusted to his pupil and associate Giovanni Maria Butteri, who completed the scene of the recognition of the relics of San Giovanni Gualberto in November 1580. 
-
 Domenico Cresti<a href="../../../painters.html#cresti-domenico" class="footnote"><sup>8</sup></a>, universally known as *il Passignano* because of his birth in the hamlet adjacent to the abbey around 1559, represents the most intimate artistic bond between the complex and a single painter: he directed the decorative campaigns of 1598 to 1602, producing frescoes for the nave and dome of the church that display the vigorous late Mannerist style he had refined during his formative years in Florence and his important stay in Venice. 
+
+Cresti's Venetian experience is directly legible in his Passignano frescoes, which share with the work of Tintoretto and Paolo Veronese a dramatic management of light, a rich and saturated palette, and a predilection for bold foreshortening and dynamic figural action. Alessandro Pieroni and Benedetto Veli, further names documented in the abbey's decorative record, contributed works of more modest scope but nonetheless of real quality, adding scenes from the life of Sant'Atto of Pistoia. 
 
 <figure class="figure--right">
   <img src="/images/Badia a Passignano/image 4.jpg" alt="Eternal father with playing angels">
   <figcaption>Domenico Cresti (1559–1638), Eternal Father with playing angels, 1601, fresco, Cappella Maggiore, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
-
-Cresti's Venetian experience is directly legible in his Passignano frescoes, which share with the work of Tintoretto and Paolo Veronese a dramatic management of light, a rich and saturated palette, and a predilection for bold foreshortening and dynamic figural action. Alessandro Pieroni and Benedetto Veli, further names documented in the abbey's decorative record, contributed works of more modest scope but nonetheless of real quality, adding scenes from the life of Sant'Atto of Pistoia. 
 
 The early eighteenth century brought the Sienese painter Giuseppe Nicola Nasini<a href="../../../painters.html#nasini-giuseppe-nicola" class="footnote"><sup>9</sup></a> to Passignano, where he executed a series of *Apostles* that reflect the formal classicism and decorative warmth characteristic of his Roman-trained manner. Collectively, the artists who worked at Passignano constitute a representative cross-section of Central Italian painting over two centuries, their successive interventions creating a visual sequence that encodes the stylistic transformations from High Renaissance naturalism through Mannerist refinement to the exuberant drama of the late Cinquecento and the measured classicism of the Settecento.
 
@@ -203,12 +203,12 @@ The *tramezzo*, or liturgical screen, dating to 1549, divides the nave from the 
 
 The marble funerary monument and sculpted effigy of San Giovanni Gualberto, carved by Giovanni Battista Caccini<a href="../../../painters.html#caccini-giovanni-battista" class="footnote"><sup>10</sup></a> in an archaizing pose described by contemporaries as Etruscan in its formal stillness, dominates the choir area and functions as the devotional focal point of the entire interior, receiving veneration from both the monastic community and lay pilgrims. 
 
+The reliquary of San Giovanni Gualberto, preserved in the abbey's church since his death in 1073, constitutes perhaps the most spiritually charged object in the entire complex, drawing generations of the faithful to Passignano and sustaining the abbey's status as a pilgrimage destination throughout the Middle Ages and beyond. The system of altarpieces that once enriched the lateral chapels of the church included the important painting by Alessandro Allori executed in 1580, now conserved on deposit at the Galleria degli Uffizi in Florence, a work that demonstrates the high quality of the patronage relationships that the abbey maintained with leading Florentine artists throughout the Cinquecento. 
+
 <figure class="figure--right">
   <img src="/images/Badia a Passignano/image 4.jpg" alt="funerary monument and sculpted effigy of San Giovanni Gualberto">
   <figcaption>Giovanni Battista Caccini (1556-1613), Funerary monument and effigy of Saint John Gualbert, 1580, marble, Saint John Gualbert chapel, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
-
-The reliquary of San Giovanni Gualberto, preserved in the abbey's church since his death in 1073, constitutes perhaps the most spiritually charged object in the entire complex, drawing generations of the faithful to Passignano and sustaining the abbey's status as a pilgrimage destination throughout the Middle Ages and beyond. The system of altarpieces that once enriched the lateral chapels of the church included the important painting by Alessandro Allori executed in 1580, now conserved on deposit at the Galleria degli Uffizi in Florence, a work that demonstrates the high quality of the patronage relationships that the abbey maintained with leading Florentine artists throughout the Cinquecento. 
 
 The choir stalls, the liturgical furniture of the sacristy, and the furnishings of the chapter house, though substantially modified in later periods, preserve residual elements of medieval and Renaissance craftsmanship that document the continuity of skilled woodworking within the Vallombrosan tradition. The kitchen of the monastery, which has remained virtually unchanged since the eighteenth century, represents an unusual survival of the practical domestic furnishings of monastic life, including its large fireplace, stone worktops, and terracotta flooring, and constitutes a material record of the daily routine that regulated the lives of the community alongside their liturgical and intellectual pursuits. 
 
