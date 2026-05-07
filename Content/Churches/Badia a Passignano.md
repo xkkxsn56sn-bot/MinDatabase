@@ -188,12 +188,12 @@ Domenico Cresti<a href="../../../painters.html#cresti-domenico" class="footnote"
 
 Cresti's Venetian experience is directly legible in his Passignano frescoes, which share with the work of Tintoretto and Paolo Veronese a dramatic management of light, a rich and saturated palette, and a predilection for bold foreshortening and dynamic figural action. Alessandro Pieroni and Benedetto Veli, further names documented in the abbey's decorative record, contributed works of more modest scope but nonetheless of real quality, adding scenes from the life of Sant'Atto of Pistoia. 
 
+The early eighteenth century brought the Sienese painter Giuseppe Nicola Nasini<a href="../../../painters.html#nasini-giuseppe-nicola" class="footnote"><sup>9</sup></a> to Passignano, where he executed a series of *Apostles* that reflect the formal classicism and decorative warmth characteristic of his Roman-trained manner. Collectively, the artists who worked at Passignano constitute a representative cross-section of Central Italian painting over two centuries, their successive interventions creating a visual sequence that encodes the stylistic transformations from High Renaissance naturalism through Mannerist refinement to the exuberant drama of the late Cinquecento and the measured classicism of the Settecento.
+
 <figure class="figure--right">
   <img src="/images/Badia a Passignano/image 4.jpg" alt="Eternal father with playing angels">
   <figcaption>Domenico Cresti (1559–1638), Eternal Father with playing angels, 1601, fresco, Cappella Maggiore, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
-
-The early eighteenth century brought the Sienese painter Giuseppe Nicola Nasini<a href="../../../painters.html#nasini-giuseppe-nicola" class="footnote"><sup>9</sup></a> to Passignano, where he executed a series of *Apostles* that reflect the formal classicism and decorative warmth characteristic of his Roman-trained manner. Collectively, the artists who worked at Passignano constitute a representative cross-section of Central Italian painting over two centuries, their successive interventions creating a visual sequence that encodes the stylistic transformations from High Renaissance naturalism through Mannerist refinement to the exuberant drama of the late Cinquecento and the measured classicism of the Settecento.
 
 ## Religious Art and Church Furnishings
 
@@ -206,7 +206,7 @@ The marble funerary monument and sculpted effigy of San Giovanni Gualberto, carv
 The reliquary of San Giovanni Gualberto, preserved in the abbey's church since his death in 1073, constitutes perhaps the most spiritually charged object in the entire complex, drawing generations of the faithful to Passignano and sustaining the abbey's status as a pilgrimage destination throughout the Middle Ages and beyond. The system of altarpieces that once enriched the lateral chapels of the church included the important painting by Alessandro Allori executed in 1580, now conserved on deposit at the Galleria degli Uffizi in Florence, a work that demonstrates the high quality of the patronage relationships that the abbey maintained with leading Florentine artists throughout the Cinquecento. 
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 4.jpg" alt="funerary monument and sculpted effigy of San Giovanni Gualberto">
+  <img src="/images/Badia a Passignano/image 5.jpg" alt="funerary monument and sculpted effigy of San Giovanni Gualberto">
   <figcaption>Giovanni Battista Caccini (1556-1613), Funerary monument and effigy of Saint John Gualbert, 1580, marble, Saint John Gualbert chapel, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
