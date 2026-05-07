@@ -207,11 +207,14 @@ def main() -> int:
     recipients = _load_recipients(SUBSCRIBERS_PATH)
     recipient_override = (os.getenv("NEWSLETTER_RECIPIENT_OVERRIDE") or "").strip()
     if recipient_override:
+        print("NEWSLETTER_RECIPIENT_OVERRIDE is set; using override recipients only.")
         recipients = [item.strip().lower() for item in recipient_override.split(",") if item.strip()]
 
     if not recipients:
         print("No recipients found in newsletter_subscribers.csv. Skipping.")
         return 0
+
+    print(f"Resolved {len(recipients)} newsletter recipient(s).")
 
     imap_host = (os.getenv("IMAP_HOST") or "").strip()
     imap_username = (os.getenv("IMAP_USERNAME") or "").strip() or None

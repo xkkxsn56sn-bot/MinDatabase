@@ -50,6 +50,7 @@ jobs:
           IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
           IMAP_USERNAME: ${{ secrets[env.IMAP_USERNAME_SECRET_NAME] }}
           IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
+          NEWSLETTER_RECIPIENT_OVERRIDE: ""
           NEWSLETTER_SUBJECT: Medieval Visions update
           SITE_BASE_URL: https://medievalvisions.com
         run: python scripts/send_newsletter_updates.py
