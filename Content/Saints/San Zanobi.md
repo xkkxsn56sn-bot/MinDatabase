@@ -96,7 +96,7 @@ scholars:
 
 <figure class="figure--right">
   <img src="/images/Saint Zanobi/image 3.jpg" alt="Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi">
-  <figcaption>Maestro del Bigallo, Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius (detail), 1240s, tempera and gold leaf on panel, 112 x 278 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
+  <figcaption>Maestro del Bigallo (active 1215-1250), Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius (detail), 1240s, tempera and gold leaf on panel, 112 x 278 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
 Zenobius was born around 337 AD in Florence, into a noble Florentine family of the gens Geronima, and was raised according to the pagan customs of his social class. His education was thorough, conducted under eminent masters, and included a deep engagement with philosophy — a discipline that, paradoxically, led him away from the polytheistic faith of his upbringing. Through rational inquiry, he came to perceive the contradictions of paganism and was drawn to the Christian gospel. He came under the formative influence of Bishop Theodore of Florence, who baptized him privately — an act that provoked a fierce reaction from his parents, who viewed it as an affront to their parental authority. With patience and eloquence, Zenobius defended both his own decision and the bishop, offering such a lucid exposition of the Christian faith that he ultimately succeeded in converting his father and mother as well.
@@ -133,12 +133,12 @@ In a third episode, a porter who had carried a casket of saints' relics across t
 
 A fourth miracle, depicted in the London panel, concerns two young men who had treated their mother with contempt and had been cursed by her in anger. The curse manifested as a diabolical affliction, and Zenobius exorcised both men of their demons. The fifth and final miracle in Botticelli's account — and among the most famous — depicts Zenobius restoring sight to a blind beggar outside the cathedral. The beggar had promised to convert to Christianity if his sight were restored; when Zenobius placed his fingers over the man's eyelids and prayed, the miracle was granted and the man kept his vow.
 
+A further miracle, separately documented, concerns a five-year-old boy who appeared to be dead after being struck by an ox. Zenobius revived him, an episode that led to his veneration in later centuries as a patron saint of injured children.
+
 <figure class="figure--right">
   <img src="/images/Saint Zanobi/image 4.jpg" alt="Last Miracle and the Death of Saint Zenobius">
   <figcaption>Sandro Botticelli (1445-1510), Last Miracle and the Death of Saint Zenobius, c. 1500, tempera on poplar panel, 66 × 182 cm, Staatliche Kunstsammlungen Dresden.</figcaption>
 </figure>
-
-A further miracle, separately documented, concerns a five-year-old boy who appeared to be dead after being struck by an ox. Zenobius revived him, an episode that led to his veneration in later centuries as a patron saint of injured children.
 
 ## The Posthumous Miracle of the Elm
 
