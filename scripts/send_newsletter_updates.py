@@ -42,6 +42,15 @@ def _parse_port(value: str | None, fallback: int) -> int:
         return fallback
 
 
+def _parse_int(value: str | None, fallback: int) -> int:
+    if not value or not value.strip():
+        return fallback
+    try:
+        return int(value.strip())
+    except ValueError:
+        return fallback
+
+
 def _derive_smtp_host_from_imap(imap_host: str | None) -> str:
     host = (imap_host or "").strip()
     if not host:
@@ -215,6 +224,17 @@ def main() -> int:
         return 0
 
     print(f"Resolved {len(recipients)} newsletter recipient(s).")
+
+    min_recipients = _parse_int(os.getenv("NEWSLETTER_MIN_RECIPIENTS"), 1)
+    if min_recipients < 1:
+        min_recipients = 1
+
+    if len(recipients) < min_recipients:
+        print(
+            f"Recipient safety check failed: resolved {len(recipients)} recipient(s), "
+            f"minimum required is {min_recipients}."
+        )
+        return 1
 
     imap_host = (os.getenv("IMAP_HOST") or "").strip()
     imap_username = (os.getenv("IMAP_USERNAME") or "").strip() or None

@@ -56,6 +56,7 @@ jobs:
           IMAP_USERNAME: ${{ secrets[env.IMAP_USERNAME_SECRET_NAME] }}
           IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
           NEWSLETTER_RECIPIENT_OVERRIDE: ""
+          NEWSLETTER_MIN_RECIPIENTS: "2"
           FORCE_NOTIFY: ${{ github.event.inputs.force_notify || 'false' }}
           NEWSLETTER_SUBJECT: Medieval Visions update
           SITE_BASE_URL: https://medievalvisions.com
