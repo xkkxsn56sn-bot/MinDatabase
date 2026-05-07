@@ -57,6 +57,7 @@ jobs:
           IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
           NEWSLETTER_RECIPIENT_OVERRIDE: ""
           NEWSLETTER_MIN_RECIPIENTS: "2"
+          NEWSLETTER_MIN_RECIPIENTS_MODE: ${{ github.event_name == 'workflow_dispatch' && 'warn' || 'fail' }}
           FORCE_NOTIFY: ${{ github.event.inputs.force_notify || 'false' }}
           NEWSLETTER_SUBJECT: Medieval Visions update
           SITE_BASE_URL: https://medievalvisions.com

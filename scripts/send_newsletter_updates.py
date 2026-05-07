@@ -51,6 +51,13 @@ def _parse_int(value: str | None, fallback: int) -> int:
         return fallback
 
 
+def _normalize_threshold_mode(value: str | None) -> str:
+    mode = (value or "fail").strip().lower()
+    if mode in {"warn", "warning"}:
+        return "warn"
+    return "fail"
+
+
 def _derive_smtp_host_from_imap(imap_host: str | None) -> str:
     host = (imap_host or "").strip()
     if not host:
@@ -229,12 +236,18 @@ def main() -> int:
     if min_recipients < 1:
         min_recipients = 1
 
+    threshold_mode = _normalize_threshold_mode(os.getenv("NEWSLETTER_MIN_RECIPIENTS_MODE"))
+
     if len(recipients) < min_recipients:
-        print(
-            f"Recipient safety check failed: resolved {len(recipients)} recipient(s), "
+        message = (
+            f"Recipient safety check: resolved {len(recipients)} recipient(s), "
             f"minimum required is {min_recipients}."
         )
-        return 1
+        if threshold_mode == "warn":
+            print(f"WARNING: {message} Continuing because NEWSLETTER_MIN_RECIPIENTS_MODE=warn.")
+        else:
+            print(f"ERROR: {message}")
+            return 1
 
     imap_host = (os.getenv("IMAP_HOST") or "").strip()
     imap_username = (os.getenv("IMAP_USERNAME") or "").strip() or None
