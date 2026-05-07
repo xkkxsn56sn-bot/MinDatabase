@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-05T15:05:08+02:00",
+  "updated_at": "2026-05-07T15:05:08+02:00",
   "notices": [
     {
-      "title": "Maestro di Montefioralle",
-      "section": "Artists",
-      "path": "Content/Artists/XIII%20century/Maestro%20di%20Montefioralle.md",
-      "page_url": "/Content/Artists/XIII%20century/Maestro%20di%20Montefioralle.html",
+      "title": "Badia a Passignano",
+      "section": "Churches",
+      "path": "Content/Churches/Badia%20a%20Passignano.md",
+      "page_url": "/Content/Churches/Badia%20a%20Passignano.html",
       "change_type": "created",
-      "pushed_at": "2026-05-05T15:05:08+02:00"
+      "pushed_at": "2026-05-07T15:05:08+02:00"
     }
   ]
 }
