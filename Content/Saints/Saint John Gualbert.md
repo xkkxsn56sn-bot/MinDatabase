@@ -176,7 +176,6 @@ The most celebrated medieval treatment is a large polyptych by Giovanni del Bion
 
 
 
-
 <figure class="figure--right" style="clear: right">
   <img src="/images/Saint John Gualbert/image 3.jpg" alt="Glory of St. John Gualbert">
   <figcaption>Neri di Bicci (-1492), Glory of St. John Gualbert, 1455, fresco, Basilica di Santa Trinità, Florence.</figcaption>
