@@ -94,7 +94,7 @@ scholars:
 
 *San Zanobi* — known in Latin as Zenobius — stands as one of the most revered figures in Florentine religious history, venerated as the city's first bishop, its patron saint, and its principal apostle. His life bridges the turbulent transition of late Roman antiquity from paganism to Christianity, making him not only a spiritual but also a historically significant figure of the fourth and early fifth centuries.
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/images/Saint Zanobi/image 3.jpg" alt="Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi">
   <figcaption>Maestro del Bigallo (active 1215-1250), Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius (detail), 1240s, tempera and gold leaf on panel, 112 x 278 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
@@ -115,7 +115,7 @@ His episcopate was marked by admirable personal qualities: humility, austerity, 
 
 The ancient accounts credit Zenobius with *five resurrections of the dead* during his lifetime, an extraordinary number that gave him an almost apostolic aura in the eyes of the Florentines. These miracles are documented in medieval chronicles and were immortalized in a celebrated cycle of paintings by Sandro Botticelli<a href="../../../painters.html#botticelli-sandro" class="footnote"><sup>3</sup></a> around 1500, now distributed among the National Gallery in London, the Metropolitan Museum of Art in New York, and the Gemäldegalerie in Dresden.
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/images/Saint Zanobi/image 1.jpg" alt="Three Miracles of Saint Zenobius">
   <figcaption>Sandro Botticelli (1445-1510), Three Miracles of Saint Zenobius, c. 1500, tempera on poplar panel, 67.3 x 150.5 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
@@ -126,7 +126,7 @@ The second miracle recounted by Botticelli shows Zenobius encountering a funeral
 
 In a third episode, a porter who had carried a casket of saints' relics across the Apennine mountains died of exhaustion upon his arrival in Florence. Zenobius, assisted by the power of the relics themselves, restored him to life in the middle of the city square.
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/images/Saint Zanobi/image 2.jpg" alt="Three Miracles of Saint Zenobius">
   <figcaption>Sandro Botticelli (1445-1510), Three Miracles of Saint Zenobius, c. 1500, tempera poplar on panel, 64.8 × 139.7 cm, National Gallery, London.</figcaption>
 </figure>
@@ -135,7 +135,7 @@ A fourth miracle, depicted in the London panel, concerns two young men who had t
 
 A further miracle, separately documented, concerns a five-year-old boy who appeared to be dead after being struck by an ox. Zenobius revived him, an episode that led to his veneration in later centuries as a patron saint of injured children.
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/images/Saint Zanobi/image 4.jpg" alt="Last Miracle and the Death of Saint Zenobius">
   <figcaption>Sandro Botticelli (1445-1510), Last Miracle and the Death of Saint Zenobius, c. 1500, tempera on poplar panel, 66 × 182 cm, Staatliche Kunstsammlungen Dresden.</figcaption>
 </figure>
@@ -154,7 +154,7 @@ His biographer and eventual successor in the See of Florence, Saint Antoninus (A
 
 The cult of San Zanobi inspired a rich tradition of artistic representation, particularly from the fourteenth century onward. He is conventionally depicted holding a dead child or accompanied by a flowering elm tree, both referencing his miracles. Sandro Botticelli painted a celebrated cycle of four panels illustrating scenes from his life, now divided among the National Gallery in London, the Gemäldegalerie in Dresden, and the Metropolitan Museum of Art in New York. 
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/images/Saint Zanobi/image 5.jpg" alt="Saint Zanobi with a Devotee and the Annunciation">
   <figcaption>Jacopo di Cione (1325-1399), Saint Zanobi with a Devotee and the Annunciation, 1383-1398, tempera and gold on panel, 162 × 77 x 6 cm, Museo dell'Opera del Duomo di Santa Maria del Fiore, Firenze.</figcaption>
 </figure>

@@ -146,14 +146,17 @@ def _build_message(subject: str, sender: str, recipient: str, notices: list[dict
         [
             "",
             "You are receiving this because you subscribed on medievalvisions.com.",
-            "For support, contact: contact@medievalvisions.com",
+            "For support, you are kindly requested to contact: contact@medievalvisions.com",
+            "Thank you for your interest in Medieval Visions!",
         ]
     )
     lines_html.extend(
         [
             "</ul>",
             "<p>You are receiving this because you subscribed on medievalvisions.com.</p>",
-            "<p>For support, contact: <a href=\"mailto:contact@medievalvisions.com\">contact@medievalvisions.com</a></p>",
+            "<p>For support, you are kindly requested to contact: <a href=\"mailto:contact@medievalvisions.com\">contact@medievalvisions.com</a></p>",
+            "<p>Thank you for your interest in Medieval Visions!</p>",
+
         ]
     )
 
