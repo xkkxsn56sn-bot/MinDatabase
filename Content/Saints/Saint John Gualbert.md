@@ -167,6 +167,16 @@ The visual arts were drawn to Giovanni Gualberto's story with particular frequen
 
 The most celebrated medieval treatment is a large polyptych by Giovanni del Biondo<a href="../../../painters.html#giovanni-del-biondo" class="footnote"><sup>10</sup></a>, painted in 1370, which depicts Saint John Gualbert enthroned in majesty with scenes from his life rendered in the predella panels, originally visible in Saint Micheal monastery at San Salvi and now housed in the Museo dell'Opera di Santa Croce, Florence. 
 
+
+
+
+
+
+
+
+
+
+
 <figure class="figure--right" style="clear: right">
   <img src="/images/Saint John Gualbert/image 3.jpg" alt="Glory of St. John Gualbert">
   <figcaption>Neri di Bicci (-1492), Glory of St. John Gualbert, 1455, fresco, Basilica di Santa Trinità, Florence.</figcaption>
