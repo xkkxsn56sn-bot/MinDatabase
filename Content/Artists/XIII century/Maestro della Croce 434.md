@@ -338,3 +338,27 @@ The rooster itself, a particularly lively and melodious iconographic element, be
 The work is executed in tempera and gold on shaped panel, in the typical form of the 13th-century Italian painted cross with tabelloni at the ends. The ground was originally in silver leaf—not gold as in the later version—which gave the image a cold, lunar luminosity, consistent with the solemnity of the Christus triumphans. The painter employs a still schematic chiaroscuro, with geometric highlights on Christ’s body that reflect contemporary Lucca models, far removed from the more naturalistic rendering that Cimabue would introduce a few decades later.
 
 The Bandini Crucifix is one of the rare examples of Florentine painting from the second quarter of the 13th century preserved in situ in Fiesole, and is of extraordinary importance for the history of modern restoration: the technique of separating the two layers of paint developed by Tintori in 1952 represented a methodological innovation documented in the *Bollettino d’Arte* of 1953. The scene of Peter’s Repentance with the rooster—an icon of second chances and mercy—adds a narrative and devotional dimension to the cross that goes beyond the simple commemoration of the Passion, transforming the work into a true theological treatise on redemption.
+
+### Madonna di Rosano
+
+<figure>
+  <img src="/images/Maestro Croce 434/image 5.jpg" alt="Madonna di Rosano">
+  <figcaption>Madonna di Rosano, c. 1230, tempera and gold on panel, Monastero di Santa Maria a Rosano, Rignano sull'Arno.</figcaption>
+</figure>
+
+The Madonna of Rosano is a panel painting on a gold ground dating from around 1230, housed in the Monastery of Santa Maria a Rosano near Rignano sull'Arno, attributed to the Master of the Cross 434 or, according to some scholars, to the young Coppo di Marcovaldo.The Master of the Cross 434 is an anonymous painter active in Florence during the second quarter of the 13th century, whose conventional name derives from the inventory number (no. 434) of his principal work, housed in the Uffizi. He is among the most significant figures in the Florentine painting scene of the first half of the 13th century, and some scholars have suggested that he may be identified with the young Coppo di Marcovaldo.
+ 
+The Madonna of Rosano is part of the Benedictine iconographic tradition of the monastery founded by the Guidi Counts, long-standing patrons of artistic works of the highest quality.
+The panel depicts the Virgin Enthroned in the style of the Theotokos or Majesty, seated facing forward with the Infant Jesus resting on her lap or left arm.
+
+Mary appears clad in a bluish-blue maphorion (mantle), decorated with delicate golden ornaments in accordance with the iconographic tradition of Byzantine derivation, and with a red or ochre inner tunic visible at the hem. The Virgin’s face is rendered in the characteristic Italo-Byzantine style: almond-shaped eyes with the whites outlined by thin black lines, a long, slender nose, and lips pressed together in a solemn, distant expression.
+
+The Bambino Gesù is depicted seated on his Mother’s arm in a solemn, frontal pose, already adult in his features—according to the “Wise Child” formula typical of medieval iconography—with his right hand raised in a gesture of blessing (Latin benedictio) and his left hand holding a scroll or codex, a symbol of the Divine Word. Surrounding the heads of both figures are large circular halos in gold leaf, which in the Virgin may feature decorative geometric or floral engravings.
+
+On either side of the central figure of the Madonna, figures of angels in adoration were likely present, either at the edges of the panel or on the side panels, following a compositional scheme common in Florentine painting of the second quarter of the 13th century—similar to that of Cimabue’s contemporary Maestà and the Enthroned Madonnas attributed to the same circles.
+ 
+The uniform gold ground creates a typically medieval effect of spatial abstraction, negating material depth in favor of a spiritual and otherworldly dimension.
+
+The support is a wooden panel—likely made of chestnut or poplar, woods favored by the Tuscan-Florentine workshops of the 13th century. A linen ground (a double layer of fine linen) was applied to the wooden surface, upon which several layers of very fine chalk mixed with vegetable gum were applied, unlike the custom of the time, which called for the use of animal glues. The paint film is in egg tempera, with chromatic backgrounds applied in successive glazes to build volume through strong contrasts of light and shadow. The gold ground is made with beaten gold leaf, applied to the preparatory layer and likely burnished with agate stone to achieve maximum luster.
+
+The master employs strong contrasts between light and shadow to suggest the plasticity of the bodies, rendered according to conventional Byzantine models. The color scheme alternates intense blues, vermilion reds, and gold on a gilded background, creating a precious and opulent effect typical of the taste of Tuscan monastic patrons of the time. The style is fully situated in the transition between the Byzantine Mannerism of icons and the early Proto-Gothic renewal that would fully establish itself with Cimabue and Duccio in the second half of the 13th century.

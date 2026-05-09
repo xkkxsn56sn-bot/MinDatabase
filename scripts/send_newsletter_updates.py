@@ -259,7 +259,7 @@ def main() -> int:
     host = (os.getenv("SMTP_HOST") or "").strip() or _derive_smtp_host_from_imap(imap_host)
     username = (os.getenv("SMTP_USERNAME") or "").strip() or imap_username
     password = (os.getenv("SMTP_PASSWORD") or "").strip() or imap_password
-    sender = (os.getenv("SMTP_FROM") or username or "contact@medievalvisions.com").strip()
+    sender = (os.getenv("SMTP_FROM") or "contact@medievalvisions.com").strip()
     subject = (os.getenv("NEWSLETTER_SUBJECT") or "Medieval Visions update").strip()
     site_base_url = (os.getenv("SITE_BASE_URL") or "https://medievalvisions.com").strip()
     secure_mode = (os.getenv("SMTP_SECURE") or "starttls").strip().lower()
