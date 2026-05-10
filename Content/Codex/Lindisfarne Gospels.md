@@ -52,7 +52,7 @@ related_entries:
   - title: "Insular Gospel books and the Book of Kells"
   - title: "Anglo-Saxon England and Northumbria"
 
-  category: "codex"
+category: "codex"
 
 meta:
   - title: "Core data"

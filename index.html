@@ -95,6 +95,21 @@
             color: rgba(244, 241, 232, 0.96);
         }
 
+        .julian-date-panel__phase-label {
+            margin-top: 0.8rem;
+            font-size: 0.68rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: rgba(201, 169, 97, 0.88);
+        }
+
+        .julian-date-panel__phase-value {
+            margin-top: 0.2rem;
+            font-size: 0.92rem;
+            line-height: 1.35;
+            color: rgba(244, 241, 232, 0.92);
+        }
+
         header h1 {
             font-size: 2.8rem;
             margin-bottom: 0.5rem;
@@ -621,6 +636,8 @@
             <aside class="julian-date-panel" aria-live="polite">
                 <p class="julian-date-panel__label">Julian Calendar Date</p>
                 <p class="julian-date-panel__value" id="julian-date-value">Loading...</p>
+                <p class="julian-date-panel__phase-label">Lunar Phase</p>
+                <p class="julian-date-panel__phase-value" id="lunar-phase-value">Loading...</p>
             </aside>
 
             <div class="header-copy">
@@ -794,6 +811,27 @@
             return `${weekday}${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
         }
 
+        function getCurrentLunarPhaseLabel() {
+            const synodicMonth = 29.530588853;
+            const knownNewMoon = Date.UTC(2000, 0, 6, 18, 14, 0);
+            const now = Date.now();
+            const daysSinceNewMoon = (now - knownNewMoon) / 86400000;
+            const phaseAge = ((daysSinceNewMoon % synodicMonth) + synodicMonth) % synodicMonth;
+            const phaseIndex = Math.floor(((phaseAge / synodicMonth) * 8) + 0.5) % 8;
+            const phaseNames = [
+                'New Moon',
+                'Waxing Crescent',
+                'First Quarter',
+                'Waxing Gibbous',
+                'Full Moon',
+                'Waning Gibbous',
+                'Last Quarter',
+                'Waning Crescent'
+            ];
+
+            return phaseNames[phaseIndex];
+        }
+
         function formatPushedDate(isoDate) {
             if (!isoDate) {
                 return 'Date unavailable';
@@ -876,12 +914,15 @@
 
         function renderJulianDatePanel() {
             const julianDateValue = document.getElementById('julian-date-value');
-            if (!julianDateValue) {
+            const lunarPhaseValue = document.getElementById('lunar-phase-value');
+
+            if (!julianDateValue || !lunarPhaseValue) {
                 return;
             }
 
             const julianDateParts = getCurrentJulianDateParts();
             julianDateValue.textContent = formatJulianDate(julianDateParts);
+            lunarPhaseValue.textContent = getCurrentLunarPhaseLabel();
         }
 
         async function renderPushNoticesCard() {

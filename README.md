@@ -159,3 +159,10 @@ Se i secret SMTP non sono configurati, `scripts/send_newsletter_updates.py` prov
 
 Questo permette di inviare notifiche anche con la sola configurazione IMAP (tipico per iCloud con app password).
 
+## Astronomical CSV datasets
+
+The repository root also contains downloadable astronomy CSV files used as reference material for chronological and calendrical comparisons.
+
+- `fasi_lunari_2026_otto_fasi_doppia_data.csv`: 2026 moon phases with Gregorian dates and the corresponding Julian dates, preserving the same event sequence and lunar intervals.
+- `fasi_lunari_2026_otto_fasi_doppia_data_validation.csv`: English validation summary confirming the file schema, chronological continuity, and the consistent 13-day Gregorian-to-Julian offset applied throughout the dataset.
+

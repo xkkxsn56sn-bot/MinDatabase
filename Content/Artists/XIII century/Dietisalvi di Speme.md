@@ -63,13 +63,13 @@ meta:
         value: "c. 1267–68, tempera and gold on panel, 122 × 70 cm, Siena Cathedral"
       - label: Madonna Galli-Dunn
         value: "c. 1262, tempera and gold on panel, 120 × 70 cm, Pinacoteca Nazionale, Siena"
-      - label: Biccherna cover: camarlingo Ildebrandino Pagliaresi
+      - label: "Biccherna cover: camarlingo Ildebrandino Pagliaresi"
         value: "July–December 1264, tempera on panel, 36.4 × 24.2 cm, Archivio di Stato, Siena (inv. 2)"
-      - label: Biccherna cover: heraldic devices of four provisors
+      - label: "Biccherna cover: heraldic devices of four provisors"
         value: "July–December 1267, Archivio di Stato, Siena (inv. 3)"
-      - label: Biccherna cover: camarlingo Ranieri Pagliaresi
+      - label: "Biccherna cover: camarlingo Ranieri Pagliaresi"
         value: "January–June 1270, Archivio di Stato, Siena (inv. 4)"
-      - label: Biccherna cover: don Griffolino
+      - label: "Biccherna cover: don Griffolino"
         value: "July–December 1282, tempera on panel, Museum of Fine Arts, Budapest (inv. 2-36)"
       - label: Reliquary diptych of Beato Andrea Gallerani (outer doors)
         value: "c. 1270, tempera and gold on panel, 128 × 77 cm, Pinacoteca Nazionale, Siena (inv. 5); inner doors by Guido da Siena"

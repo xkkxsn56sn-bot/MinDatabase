@@ -1,0 +1,7 @@
+dataset,check,result,details
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Header schema,pass,8 expected columns present in the documented order
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Row count,pass,99 data rows plus 1 header row
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Calendar offset,pass,All Julian dates equal the corresponding Gregorian dates minus 13 days
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Chronological continuity,pass,Each event matches the start of the following interval and each interval ends at the next event
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Coverage,pass,The file covers the 2026 civil-year slice from 2026-01-03 11:03 to 2026-12-30 19:59
+fasi_lunari_2026_otto_fasi_doppia_data.csv,Phase distribution,pass,"Event rows: Full Moon 13; Last Quarter 13; New Moon 12; First Quarter 12. Interval rows: Waning Gibbous 13; Waning Moon 12; Waxing Moon 12; Waxing Gibbous 12."
