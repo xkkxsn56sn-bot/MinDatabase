@@ -125,18 +125,18 @@ meta:
       - Career spans fresco, polyptych, and panel painting across Arezzo, Florence, Lucca, Pisa, and Siena — one of the most geographically extensive careers of any Tuscan painter of the period
 
 scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
   - title: "Pasqui, Ubaldo"
     url: "/scholars.html#pasqui-ubaldo"
   - title: "Procacci, Ugo"
     url: "/scholars.html#procacci-ugo"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
-  - title: "Longhi, Roberto"
-    url: "/scholars.html#longhi-roberto"
   - title: "Toesca, Pietro"
     url: "/scholars.html#toesca-pietro"
-  - title: "Boskovits, Miklós"
-    url: "/scholars.html#boskovits-miklos"
+  - title: "Vasari, Giorgio"
+    url: "/scholars.html#vasari-giorgio"
 ---
 
 ## Origins, Identity, and Name

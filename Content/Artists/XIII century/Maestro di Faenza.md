@@ -94,14 +94,14 @@ meta:
         url: "/Content/Artists/XIII%20century/Margarito.html"
 
 scholars:
-  - title: "Garrison, Edward"
-    url: "/scholars.html#garrison-edward"
   - title: "Cuppini, Luciano"
     url: "/scholars.html#cuppini-luciano"
-  - title: "Valagussa, Giovanni Francesco Maria"
-    url: "/scholars.html#valagussa-giovanni-francesco-maria"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
   - title: "Tambini Strocchi, Anna"
     url: "/scholars.html#tambini-strocchi-anna"
+  - title: "Valagussa, Giovanni Francesco Maria"
+    url: "/scholars.html#valagussa-giovanni-francesco-maria"
 
 category: "artist"
 ---

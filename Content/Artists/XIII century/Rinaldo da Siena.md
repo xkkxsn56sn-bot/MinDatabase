@@ -146,7 +146,6 @@ scholars:
     url: "/scholars.html#garrison-edward"
   - title: "Stubblebine, James H."
     url: "/scholars.html#stubblebine-james-h"
-
 ---
 
 *Rinaldo da Siena*, identified by modern scholarship with the anonymous convention-name *Maestro delle Clarisse*, stands as one of the most enigmatic and significant painters and manuscript illuminators of thirteenth-century Tuscany. Active in Siena between approximately 1260 and 1281, he represents a critical transitional figure in the development of central Italian painting: an artist rooted in the Byzantine tradition who nonetheless absorbed the humanizing reforms of *Coppo di Marcovaldo* and anticipated the formal innovations that Duccio di Buoninsegna would later canonize.

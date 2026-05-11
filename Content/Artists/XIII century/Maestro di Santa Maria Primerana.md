@@ -72,16 +72,16 @@ meta:
         value: "Attributed to the Primerana Master by Garrison (1947); the most widely accepted hypothesis in the specialized literature"
 
 scholars:
-  - title: "Garrison, Edward B."
-    url: "/scholars.html#garrison-edward"
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
   - title: "Scudieri, Magnolia"
     url: "/scholars.html#scudieri-magnolia"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 The Master of the Madonna di Santa Maria Primerana — known in Italian as the *Maestro di Santa Maria Primerana* or *Maestro della Madonna di Santa Maria Primerana* — is an anonymous Florentine painter active between approximately 1240 and 1270, whose singular artistic legacy represents one of the most significant, if still poorly understood, episodes in the early history of Tuscan panel painting. Born in or around Florence circa 1220, he died around 1270, and his identity has never been securely established; his conventional name was assigned posthumously by the American art historian [Edward Booth Garrison](/scholars.html#garrison-edward) in a landmark 1947 article in *The Burlington Magazine*, in which Garrison first recognized a coherent artistic personality behind the venerated image of the Madonna preserved in the church of Santa Maria Primerana in Fiesole.

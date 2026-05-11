@@ -99,31 +99,30 @@ meta:
         value: "HU[N]C EXA/UDITE P(ER)/HIBENT[EM]/DOGMAT/A VITE — formulated by the friars as a theological statement of the panel's didactic and intercessory function"
 
 scholars:
-  - title: Bellosi, Luciano
-    url: /scholars.html#bellosi-luciano
-  - title: Boskovits, Miklós
-    url: /scholars.html#boskovits-miklos
-  - title: Garrison, Edward B.
-    url: /scholars.html#garrison-edward
-  - title: Longhi, Roberto
-    url: /scholars.html#longhi-roberto
-  - title: Offner, Richard
-    url: /scholars.html#offner-richard
-  - title: Pasut, Francesca Rosa
-    url: /scholars.html#pasut-francesca-rosa
-  - title: Sandberg-Vavalà, Evelyn
-    url: /scholars.html#sandberg-vavala-evelyn
-  - title: Sirén, Osvald
-    url: /scholars.html#siren-osvald
-  - title: Stubblebine, James H.
-    url: /scholars.html#stubblebine-james-h
-  - title: Tartuferi, Angelo
-    url: /scholars.html#tartuferi-angelo
-  - title: Van Marle, Raimond
-    url: /scholars.html#van-marle-raimond
-  - title: Venturi, Adolfo
-    url: /scholars.html#venturi-adolfo
-
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Offner, Richard"
+    url: "/scholars.html#offner-richard"
+  - title: "Pasut, Francesca Rosa"
+    url: "/scholars.html#pasut-francesca-rosa"
+  - title: "Sandberg-Vavalà, Evelyn"
+    url: "/scholars.html#sandberg-vavala-evelyn"
+  - title: "Sirén, Osvald"
+    url: "/scholars.html#siren-osvald"
+  - title: "Stubblebine, James H."
+    url: "/scholars.html#stubblebine-james-h"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
+  - title: "Van Marle, Raimond"
+    url: "/scholars.html#van-marle-raimond"
+  - title: "Venturi, Adolfo"
+    url: "/scholars.html#venturi-adolfo"
 ---
 
 The *Maestro del San Francesco Bardi* (Master of the Bardi Saint Francis) is an anonymous Italian painter, conventionally active between approximately 1240 and 1270, whose name derives from the monumental altarpiece formerly attributed to him on the altar of the Cappella Bardi in the Basilica di Santa Croce in Florence. He represents one of the most significant, if enigmatic, artistic personalities of the Duecento, standing at the crossroads of Byzantine tradition and emerging Florentine pictorial innovation.

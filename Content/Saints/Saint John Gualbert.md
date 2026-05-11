@@ -74,9 +74,8 @@ meta:
       - The ordeal by fire of 1068 has attracted particular interest from scholars of canon law, liturgy, and the sociology of medieval public proof.
 
 scholars:
-  - title: Constable, Giles
-    url: /scholars.html#constable-giles
-
+  - title: "Constable, Giles"
+    url: "/scholars.html#constable-giles"
 ---
 
 *Giovanni Gualberto* — known in the Latin and ecclesiastical tradition as John Gualbert — was an Italian Benedictine abbot, monastic reformer, and founder of the Vallombrosan Order, one of the most spiritually rigorous and historically significant religious congregations of medieval Italy. Born into Florentine nobility at the cusp of the eleventh century, he passed through a turbulent youth, a moment of radical conversion, and decades of unwavering ascetic dedication before dying in the odour of sanctity and being canonized more than a century after his death. His life stands as one of the defining narratives of the Gregorian Reform era: a man who turned from revenge to mercy, from privilege to poverty, and who ultimately reshaped the monastic landscape of Tuscany.

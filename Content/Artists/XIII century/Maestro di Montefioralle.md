@@ -50,12 +50,12 @@ meta:
         url: "/Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
 
 scholars:
+  - title: "Bacci, Michele"
+    url: "/scholars.html#bacci-michele"
   - title: "Garrison, Edward B."
     url: "/scholars.html#garrison-edward"
   - title: "Ragghianti, Carlo Ludovico"
     url: "/scholars.html#ragghianti-carlo-ludovico"
-  - title: "Bacci, Michele"
-    url: "/scholars.html#bacci-michele"
 ---
 
 The *Maestro di Montefioralle* is a conventional name — a *convenzione critica* — for an anonymous or disputed painter of the late Duecento Florentine school, closely entangled with the documented identity of Meliore di Jacopo. Based on all available art-historical evidence, the following biography synthesizes the scholarship of [Garrison](/scholars.html#garrison-edward), [Ragghianti](/scholars.html#ragghianti-carlo-ludovico), [Bacci](/scholars.html#bacci-michele), and others into a comprehensive academic study.

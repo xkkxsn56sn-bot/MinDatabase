@@ -83,7 +83,6 @@ meta:
 scholars:
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
-
 ---
 
 ## Family and Origins

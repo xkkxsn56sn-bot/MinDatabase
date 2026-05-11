@@ -87,16 +87,18 @@ key_works:
 artistic_style: "Rooted in the Lucchese-Byzantine tradition inherited from Berlinghiero Berlinghieri, the Master employs gold grounds, frontal hieratic compositions, and strong linear contours while introducing unusually dramatic chiaroscuro, psychologically intense facial expression, and complex narrative cycles that anticipate the proto-naturalist achievements of Coppo di Marcovaldo and Cimabue"
 
 scholars:
-  - title: "Garrison, Edward B."
-    url: "/scholars.html#garrison-edward"
-  - title: "Boskovits, Miklós"
-    url: "/scholars.html#boskovits-miklos"
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Folda, Jaroslav"
+    url: "/scholars.html#folda-jaroslav"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
   - title: "Procacci, Ugo"
     url: "/scholars.html#procacci-ugo"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 ## Family and social background

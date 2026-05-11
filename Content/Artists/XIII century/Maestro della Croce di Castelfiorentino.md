@@ -101,23 +101,22 @@ meta:
       - Anonymous masters in medieval Italy
 
 scholars:
-  - title: Caleca, Antonino
-    url: /scholars.html#caleca-antonino
-  - title: Burresi, Mariagiulia
-    url: /scholars.html#burresi-mariagiulia
-  - title: Nassar, Magdi A.M.
-    url: /scholars.html#nassar-magdi-a-m
-  - title: Garrison, Edward B.
-    url: /scholars.html#garrison-edward
-  - title: Offner, Richard
-    url: /scholars.html#offner-richard
-  - title: Siren, Osvald
-    url: /scholars.html#siren-osvald
-  - title: Tartuferi, Angelo
-    url: /scholars.html#tartuferi-angelo
-  - title: Boskovits, Miklos
-    url: /scholars.html#boskovits-miklos
-
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Burresi, Mariagiulia"
+    url: "/scholars.html#burresi-mariagiulia"
+  - title: "Caleca, Antonino"
+    url: "/scholars.html#caleca-antonino"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Nassar, Magdi A.M."
+    url: "/scholars.html#nassar-magdi-a-m"
+  - title: "Offner, Richard"
+    url: "/scholars.html#offner-richard"
+  - title: "Sirén, Osvald"
+    url: "/scholars.html#siren-osvald"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 ## Identity and Family

@@ -3,11 +3,6 @@ layout: entry
 title: Maestro dei Santi Cosma e Damiano
 subtitle: Anonymous Pisan-Sienese painter in the orbit of Giunta Pisano
 dates: c. 1240 – c. 1270
-scholars:
-  - title: "Luciano Bellosi"
-    url: "/scholars.html#bellosi-luciano"
-  - title: "Edward B. Garrison"
-    url: "/scholars.html#garrison-edward"
 meta:
   - title: Identity
     pairs:
@@ -81,6 +76,12 @@ meta:
         url: /Content/Artists/XIII%20century/Cimabue.html
       - title: Duccio di Buoninsegna (later development of Sienese affective piety)
         url: /Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html
+
+scholars:
+  - title: "Bellosi, Luciano"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
 ---
 
 The *Maestro dei Santi Cosma e Damiano*, or *Master of the Madonna of Saints Cosmas and Damian*, remains an anonymous figure whose civil name, family background, and precise life dates are not recorded in surviving documents. Stylistic and archival evidence situate his activity between about 1240 and 1270, within the Pisan school and in close dependence on the maniera greca of *Giunta Pisano* and his circle. In the absence of direct biographical sources, scholars infer that he was likely born in the second quarter of the thirteenth century, probably in Pisa or its contado, because his earliest attributions are deeply rooted in Pisan workshop practice and iconography. No medieval text specifies a day, month, or even year of birth, and no record identifies his parents or kin, so any reconstruction of his early life necessarily rests on circumstantial argument rather than documentation. 

@@ -60,11 +60,10 @@ meta:
       - Later miracle and translation narratives document not only devotion but also political and institutional competition.
 
 scholars:
-  - title: Colgrave, Bertram
-    url: /scholars.html#colgrave-bertram
-  - title: Ward, Benedicta (Florence Margaret Ward)
-    url: /scholars.html#ward-benedicta
-
+  - title: "Colgrave, Bertram"
+    url: "/scholars.html#colgrave-bertram"
+  - title: "Ward, Benedicta (Florence Margaret Ward)"
+    url: "/scholars.html#ward-benedicta"
 ---
 
 ## Family Origins and Early Life

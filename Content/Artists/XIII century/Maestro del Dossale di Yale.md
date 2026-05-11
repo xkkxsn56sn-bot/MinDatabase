@@ -70,19 +70,18 @@ meta:
         url: "/Content/Saints/Saint%20Leonard.html"
 
 scholars:
-  - title: Siren, Osvald
-    url: /scholars.html#siren-osvald
-  - title: Offner, Richard
-    url: /scholars.html#offner-richard
-  - title: Boskovits, Miklos
-    url: /scholars.html#boskovits-miklos
-  - title: Sandberg-Vavala, Evelyn
-    url: /scholars.html#sandberg-vavala-evelyn
-  - title: Garrison, Edward B.
-    url: /scholars.html#garrison-edward
-  - title: Van Marle, Raimond
-    url: /scholars.html#van-marle-raimond
-
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Offner, Richard"
+    url: "/scholars.html#offner-richard"
+  - title: "Sandberg-Vavalà, Evelyn"
+    url: "/scholars.html#sandberg-vavala-evelyn"
+  - title: "Sirén, Osvald"
+    url: "/scholars.html#siren-osvald"
+  - title: "Van Marle, Raimond"
+    url: "/scholars.html#van-marle-raimond"
 ---
 
 The conventional name *Maestro del Dossale di Yale*, rendered in the anglophone scholarly tradition as the Master of the Yale Dossal, designates an anonymous Florentine painter of the second half of the thirteenth century, whose identity remains unknown but whose surviving work places him among the most accomplished panel painters of his generation. The principal work from which his name derives, a horizontally oriented altarpiece now conserved at the Yale University Art Gallery, represents one of the most complete and best-preserved examples of Duecento Tuscan painting in North American collections.

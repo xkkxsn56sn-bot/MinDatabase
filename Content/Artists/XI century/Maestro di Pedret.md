@@ -103,7 +103,6 @@ scholars:
     url: "/scholars.html#gudiol-i-ricart-josep"
   - title: "Post, Chandler Rathfon"
     url: "/scholars.html#post-chandler-rathfon"
-
 ---
 
 The *Maestro di Pedret* is the conventional designation assigned by art historians to an anonymous Romanesque fresco painter — or, more precisely, to the most gifted member of a workshop of itinerant artists — active in the Pyrenean region straddling present-day Catalonia and southern France between approximately the last two decades of the eleventh century and the early decades of the twelfth. The name derives from his most celebrated surviving decorative cycle, the frescoes of the *pre-Romanesque church of Sant Quirze de Pedret* in the Berguedà region of Catalonia, a modest but iconographically remarkable building whose painted programme elevated the unknown master to canonical status within the history of European Romanesque art.

@@ -133,14 +133,14 @@ meta:
         value: "Father Ugo participated in Loggia degli Osii, Piazza Mercanti, ca. 1314 — establishing the family's position within the regional building trade"
 
 scholars:
-  - title: "Toesca, Pietro"
-    url: "/scholars.html#toesca-pietro"
   - title: "Baroni, Costantino Nicola"
     url: "/scholars.html#baroni-costantino-nicola"
   - title: "Meyer, Alfred Gotthold"
     url: "/scholars.html#meyer-alfred-gotthold"
   - title: "Recanati, Maria Grazia"
     url: "/scholars.html#recanati-maria-grazia"
+  - title: "Toesca, Pietro"
+    url: "/scholars.html#toesca-pietro"
 ---
 
 *Giovanni di Ugo da Campione* was one of the most accomplished sculptor-architects of fourteenth-century Lombardy, a leading representative of the celebrated *Maestri Campionesi* tradition who left an indelible mark on the ecclesiastical landscape of the Po Valley and the Lombard lake districts. Though his precise birth date remains unrecorded, scholarly consensus places his birth at approximately 1320 in Campione, a small village on the eastern shore of Lake Lugano — today known as Campione d'Italia — within the territory broadly administered under the diocese of Como.

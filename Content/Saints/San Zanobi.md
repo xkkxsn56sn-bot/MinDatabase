@@ -71,23 +71,22 @@ meta:
       - Saint Antoninus of Florence (Antonino Pierozzi) is treated in this entry as a principal medieval hagiographical witness and textual source, rather than as a modern critical scholar.
 
 scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Caleca, Antonino"
+    url: "/scholars.html#caleca-antonino"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
   - title: "Longhi, Roberto"
     url: "/scholars.html#longhi-roberto"
-  - title: "Boskovits, Miklos"
-    url: "/scholars.html#boskovits-miklos"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
   - title: "Offner, Richard"
     url: "/scholars.html#offner-richard"
   - title: "Ragghianti, Carlo Ludovico"
     url: "/scholars.html#ragghianti-carlo-ludovico"
-  - title: "Garrison, Edward B."
-    url: "/scholars.html#garrison-edward"
-  - title: "Siren, Osvald"
+  - title: "Sirén, Osvald"
     url: "/scholars.html#siren-osvald"
-  - title: "Caleca, Antonino"
-    url: "/scholars.html#caleca-antonino"
-
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 ## Origins and Early Life

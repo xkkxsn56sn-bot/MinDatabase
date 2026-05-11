@@ -124,17 +124,16 @@ meta:
         url: "/Content/Saints/Saint%20John%20Gualbert.html"
 
 scholars:
-  - title: "Longhi, Roberto"
-    url: "/scholars.html#longhi-roberto"
-  - title: "Boskovits, Miklos"
+  - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
   - title: "Constable, Giles"
     url: "/scholars.html#constable-giles"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
   - title: "Offner, Richard"
     url: "/scholars.html#offner-richard"
-
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 ## Introduction

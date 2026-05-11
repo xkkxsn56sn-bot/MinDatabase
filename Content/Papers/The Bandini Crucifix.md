@@ -74,16 +74,18 @@ meta:
         url: "/scholars.html#tartuferi-angelo"
 
 scholars:
+  - title: "Bellosi Luuciano"
+    url: "/scholars.html#bellosi-luuciano"
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
   - title: "Procacci, Ugo"
     url: "/scholars.html#procacci-ugo"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
   - title: "Salmi, Mario"
     url: "/scholars.html#salmi-mario"
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 The artist known as the *Master of the Cross 434* remains one of the most enigmatic figures of thirteenth-century Tuscan painting, his very designation arising from the conventions of modern art historiography rather than from any documented biographical record. The conventional name *Maestro della Croce 434* derives from the inventory number assigned in 1890 to his principal work, the painted cross now preserved in the Galleria degli Uffizi in Florence, a practice typical of medieval Italian art history when original identities are irretrievable. 

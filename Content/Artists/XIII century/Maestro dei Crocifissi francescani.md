@@ -4,20 +4,6 @@ title: "Maestro dei Crocifissi francescani"
 subtitle: "Umbrian Panel Painter"
 dates: "Active ca. 1255–1275"
 
-scholars:
-  - title: "Osvald Sirén"
-    url: "/scholars.html#siren-osvald"
-  - title: "Elvio Lunghi"
-    url: "/scholars.html#lunghi-elvio"
-  - title: "Emanuele Zappasodi"
-    url: "/scholars.html#zappasodi-emanuele"
-  - title: "Fabrizio Lollini"
-    url: "/scholars.html#lollini-fabrizio"
-  - title: "Miklós Boskovits"
-    url: "/scholars.html#boskovitz-miklos"
-  - title: "Evelyn Sandberg-Vavalà"
-    url: "/scholars.html#sandberg-vavala-evelyn"
-
 meta:
   - title: "CORE DATA"
     pairs:
@@ -188,6 +174,20 @@ meta:
         url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
       - title: "Maestro della Croce 432"
         url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
+
+scholars:
+  - title: "Boskovitz Miklos"
+    url: "/scholars.html#boskovitz-miklos"
+  - title: "Lollini, Fabrizio"
+    url: "/scholars.html#lollini-fabrizio"
+  - title: "Lunghi, Elvio"
+    url: "/scholars.html#lunghi-elvio"
+  - title: "Sandberg-Vavalà, Evelyn"
+    url: "/scholars.html#sandberg-vavala-evelyn"
+  - title: "Sirén, Osvald"
+    url: "/scholars.html#siren-osvald"
+  - title: "Zappasodi, Emanuele"
+    url: "/scholars.html#zappasodi-emanuele"
 ---
 
 The *Master of the Franciscan Crucifixes* is the conventional name (*notname*) assigned to an anonymous Italian painter active during the 1260s and 1270s, whose identity remains one of the most intriguing puzzles of Duecento Italian art history. Regarded by modern scholarship as ranking among the most significant painters of the Italian thirteenth century, situated chronologically and stylistically between Giunta Pisano and Cimabue, this artist produced a coherent and powerful corpus of devotional imagery almost exclusively for Franciscan patrons, stamping the visual culture of central and northern Italy with a deeply emotional interpretation of the Crucified Christ.

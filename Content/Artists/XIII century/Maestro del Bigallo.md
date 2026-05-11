@@ -107,21 +107,20 @@ meta:
         value: "Conventional art-historical designation (notname) deriving from single work's location rather than documented identity"
 
 scholars:
-  - title: "Longhi, Roberto"
-    url: "/scholars.html#longhi-roberto"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
+  - title: "Garrison, Edward B."
+    url: "/scholars.html#garrison-edward"
+  - title: "Longhi, Roberto"
+    url: "/scholars.html#longhi-roberto"
   - title: "Offner, Richard"
     url: "/scholars.html#offner-richard"
   - title: "Ragghianti, Carlo Ludovico"
     url: "/scholars.html#ragghianti-carlo-ludovico"
-  - title: "Garrison, Edward B."
-    url: "/scholars.html#garrison-edward"
   - title: "Sirén, Osvald"
     url: "/scholars.html#siren-osvald"
-
+  - title: "Tartuferi, Angelo"
+    url: "/scholars.html#tartuferi-angelo"
 ---
 
 The figure known as the *Maestro del Bigallo* (Master of the Bigallo) is an anonymous painter whose personal name, family ties, and civic identity have not survived in any document. His conventional name, or notname, derives from a large painted crucifix now in the Museo del Bigallo in Florence, which became the keystone for reconstructing his oeuvre through stylistic comparison. His date and place of birth are therefore unknown, and any attempt to assign him a specific year or parish of origin would go beyond the available evidence and into fiction. On the basis of securely attributed works, scholars place his activity between roughly 1215–1220 and the middle decades of the thirteenth century, within the orbit of Florence and its contado. 
