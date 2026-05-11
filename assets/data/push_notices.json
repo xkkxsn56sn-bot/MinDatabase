@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-10T15:05:08+02:00",
+  "updated_at": "2026-05-11T15:05:08+02:00",
   "notices": [
     {
-      "title": "Maestro della Croce di Castelfiorentino",
-      "section": "Artists",
-      "path": "Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.md",
-      "page_url": "/Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.html",
-      "change_type": "modified",
-      "pushed_at": "2026-05-10T15:05:08+02:00"
+      "title": "The Bandini Crucifix",
+      "section": "Papers",
+      "path": "Content/Papers/The Bandini Crucifix.md",
+      "page_url": "/Content/Papers/The Bandini Crucifix.html",
+      "change_type": "created",
+      "pushed_at": "2026-05-11T15:05:08+02:00"
     }
   ]
 }

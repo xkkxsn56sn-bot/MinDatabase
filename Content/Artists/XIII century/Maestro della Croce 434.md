@@ -362,3 +362,48 @@ The uniform gold ground creates a typically medieval effect of spatial abstracti
 The support is a wooden panel—likely made of chestnut or poplar, woods favored by the Tuscan-Florentine workshops of the 13th century. A linen ground (a double layer of fine linen) was applied to the wooden surface, upon which several layers of very fine chalk mixed with vegetable gum were applied, unlike the custom of the time, which called for the use of animal glues. The paint film is in egg tempera, with chromatic backgrounds applied in successive glazes to build volume through strong contrasts of light and shadow. The gold ground is made with beaten gold leaf, applied to the preparatory layer and likely burnished with agate stone to achieve maximum luster.
 
 The master employs strong contrasts between light and shadow to suggest the plasticity of the bodies, rendered according to conventional Byzantine models. The color scheme alternates intense blues, vermilion reds, and gold on a gilded background, creating a precious and opulent effect typical of the taste of Tuscan monastic patrons of the time. The style is fully situated in the transition between the Byzantine Mannerism of icons and the early Proto-Gothic renewal that would fully establish itself with Cimabue and Duccio in the second half of the 13th century.
+
+### Madonna Enthroned with Seventeen Scenes from the Life of the Virgin
+
+<figure>
+  <img src="/images/Maestro Croce 434/image 6.jpg" alt="Madonna Enthroned with Seventeen Scenes from the Life of the Virgin">
+  <figcaption>Madonna Enthroned with Seventeen Scenes from the Life of the Virgin, 1255-60, tempera and gold on panel, 246 × 138 cm, Pushkin Museum, Moscow.</figcaption>
+</figure>
+
+The Madonna and Child Enthroned with Seventeen Scenes from the Life of the Virgin by the Master of Cross 434 is one of the most important 13th-century panels in early Italian painting; it is housed at the Pushkin Museum in Moscow and dates from around 1255–1260. The work is executed in tempera and gold on panel, with a gold-leaf ground, a technique typical of 13th-century Italian painting of Byzantine origin. Its dimensions are 246 × 138 cm, making it a large altarpiece of considerable grandeur.
+
+The panel was purchased on the antiquities market in Rome in 1863 by the Russian traveler and collector Petr Ivanovich Sevastyanov, a well-known enthusiast of Christian antiquities, who brought it to Russia. Prior to this acquisition, the work was virtually unknown even to scholars of early Italian painting.
+
+At the center of the composition stands the Enthroned Madonna, following the iconography of the *Hodegetria Dexiokratousa*, that is, the Virgin seated on a throne holding the Infant Jesus on her right arm. The Virgin wears a deep blue mantle (maphorion) over a red tunic, adorned with refined chrysography—gold relief decorations created using a mordant technique, which lend luster and preciousness to the painted surface. The Child is dressed in a decorated tunic and holds a scroll in his left hand, a symbol of his divine and sapiential nature.
+
+The Greek inscriptions MP ΘV (Mater Theou, Mother of God) identify the figure of the Virgin according to Byzantine iconographic tradition. The throne is richly decorated, and the Madonna’s frontal, solemn pose attests to the profound influence of the Greek manner (Greek manner as Vasari defined it) on 13th-century Tuscan painting.
+
+The scenes are arranged on either side of the central figure in small narrative panels, forming a complete cycle of the Life of the Virgin, ranging from the Birth of Mary to her Dormition and Assumption. The precise identification of all seventeen scenes, which can be read from top to bottom across the two side registers, includes the following episodes:
+
+#### Left side (to be read from top to bottom)
+
+- Joachim and Anna, the Virgin’s parents in prayer, perhaps the scene of the Angel announcing Mary’s birth
+- Birth of Mary, the newborn Virgin, with the midwives and Anna at her bedside
+- Presentation of Mary at the Temple with the infant Mary led by her parents to the priest
+- Betrothal of the Virgin with Mary and Joseph before the priest
+- Annunciation (the Archangel Gabriel announces the Incarnation to Mary)
+- Visitation (Mary visits her cousin Elizabeth)
+- Nativity of Jesus with the birth of Christ in the manger with angels and shepherds
+- Adoration of the Magi with the Magi pay homage to the Child
+- Flight into Egypt (the Holy Family fleeing)
+
+#### Right side (to be read from top to bottom)
+
+- Presentation of Jesus in the Temple (the Purification of Mary and the presentation of the Child to the priest Simeon)
+- Jesus among the Doctors, the young Christ debating in the Temple
+- Wedding at Cana, Jesus’ first miracle, witnessed by Mary
+- Dormition of the Virgin (Koimesis)
+- Mary on her deathbed, surrounded by the apostles and Christ holding her soul
+- Assumption of Mary (the Virgin assumed into heaven)
+- Coronation of the Virgin (Mary crowned Queen of Heaven by Christ)
+
+Two additional scenes complete the cycle, featuring episodes related to the lives of Mary and Christ, including likely the Presentation or scenes from the Passion in connection with Our Lady of Sorrows.
+
+In the Pushkin panel, the master reveals himself to be a skilled storyteller: he employs strong contrasts of light and shadow to suggest the plasticity of the bodies, rendered according to conventional Byzantine models, but with a narrative vitality that foreshadows the figurative revolution of Cimabue and Giotto. The painting displays an extraordinary mastery of the chrysographic technique, with gilded lines applied with mordant to the Virgin’s garments to evoke the divine light radiating from her body, following a Byzantine-Crusader tradition that arrived in Tuscany in the second half of the 13th century.
+
+Scholars have compared the panel to the great Maestà works by Cimabue, Duccio, and Giotto, with which it was placed in direct dialogue during the exhibition held at the Uffizi between October 2011 and January 2012, titled The Dawn of Florentine Painting. The Maestà from the Pushkin Museum in Moscow. [Jaroslav Folda](/scholars.html#folda-jaroslav), in his monograph Byzantine Art and Italian Panel Painting (Cambridge University Press), devotes considerable attention to the Pushkin Madonna as an exceptional document of the moment when Tuscan painting absorbed and reworked the Crusader and Byzantine traditions, placing it within the context of the great Hodegetria Madonnas of the third quarter of the 13th century. 

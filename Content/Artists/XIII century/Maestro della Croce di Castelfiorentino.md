@@ -203,7 +203,7 @@ The six narrative scenes are arranged in three panels on each side, to the left 
 
 The opening scene depicts the rite of baptism administered by Saint Peter himself, thus emphasizing the saint’s spiritual nobility and his direct link to the apostolic succession. Peter’s presence bestows upon Verano an aura of exceptional election from the very beginning of his Christian life.
 
-- Verano and the angel, and the deliverance of a possessed woman* (upper right panel) 
+- Verano and the angel, and the deliverance of a possessed woman (upper right panel) 
 
 An angel appears to the saint in conversation, while in a later moment—or within the same panel according to the formula of continuous narration—Verano exorcises a possessed woman. The simultaneity of distinct events within the same pictorial space is a narrative technique typical of Byzantine-derived medieval art.
 

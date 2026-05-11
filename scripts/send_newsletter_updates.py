@@ -218,10 +218,19 @@ def main() -> int:
     state = _load_json(STATE_PATH, {})
     current_signature = _signature_for_notices(notices)
     force_notify = _parse_bool(os.getenv("FORCE_NOTIFY"), default=False)
+    signature_already_notified = state.get("last_signature") == current_signature
 
-    if not force_notify and state.get("last_signature") == current_signature:
+    if not force_notify and signature_already_notified:
+        print("Newsletter status: skipped: already notified")
         print("Latest notices were already notified. Skipping.")
         return 0
+
+    if force_notify and signature_already_notified:
+        print("Newsletter status: sent: forced resend")
+        print("FORCE_NOTIFY is enabled and the latest notice signature matches the previous send. Continuing with forced resend.")
+    elif not signature_already_notified:
+        print("Newsletter status: sent: new notice")
+        print("Latest notice signature is new. Continuing with newsletter send.")
 
     recipients = _load_recipients(SUBSCRIBERS_PATH)
     recipient_override = (os.getenv("NEWSLETTER_RECIPIENT_OVERRIDE") or "").strip()
