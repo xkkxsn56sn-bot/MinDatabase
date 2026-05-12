@@ -102,7 +102,7 @@ The Master's attributed corpus is relatively compact but internally coherent, an
 
 The Pushkin Museum in Moscow preserves what may be the most ambitious late work attributable to the Master, a large-format *Madonna in trono con diciassette storie della vita della Vergine*, whose narrative complexity and refined execution suggest an artist of considerable intellectual ambition. The Bandini Crucifix, as the chronologically earliest work in this corpus, thus stands at the opening of a creative trajectory of exceptional historical importance.
 
-The question of the Master's cultural formation — whether Lucchese or Florentine by training, or perhaps originating in a milieu where both traditions coexisted — remains unresolved, yet it is precisely this ambiguity that makes his art so historically fertile. He appears to have been the agent through whom the Lucchese pictorial manner — characterized by its accentuated chiaroscuro, its graphic clarity of contour, and its intense narrative compression — was transplanted into the Florentine artistic environment. This translocation was not a simple mechanical transfer but a creative synthesis, in which the inherited Byzantine formulas of Berlinghiero's workshop were adapted to suit the religious sensibilities and perhaps the liturgical requirements of Florentine patrons and institutions. In doing so, the Master laid the groundwork for the achievements of Coppo di Marcovaldo and, ultimately, Cimabue, whose revolutionary contribution to Italian painting would have been inconceivable without the preparatory work accomplished by artists of this earlier generation.[
+The question of the Master's cultural formation — whether Lucchese or Florentine by training, or perhaps originating in a milieu where both traditions coexisted — remains unresolved, yet it is precisely this ambiguity that makes his art so historically fertile. He appears to have been the agent through whom the Lucchese pictorial manner — characterized by its accentuated chiaroscuro, its graphic clarity of contour, and its intense narrative compression — was transplanted into the Florentine artistic environment. This translocation was not a simple mechanical transfer but a creative synthesis, in which the inherited Byzantine formulas of Berlinghiero's workshop were adapted to suit the religious sensibilities and perhaps the liturgical requirements of Florentine patrons and institutions. In doing so, the Master laid the groundwork for the achievements of Coppo di Marcovaldo and, ultimately, Cimabue, whose revolutionary contribution to Italian painting would have been inconceivable without the preparatory work accomplished by artists of this earlier generation.
 
 ## The Iconographic Program: Christus Triumphans and the Denial of Peter
 
@@ -152,7 +152,9 @@ Procacci, who was both a distinguished art historian and the founder in 1932 of 
 
 Around these three primary elements, various wooden additions had been assembled to create the superficial appearance of a single rectangular panel, concealing the original nature and shape of each component beneath a unified but entirely artificial surface.
 
-<a href="/assets/pdf/Bandini-crucifix.pdf" target="_blank" rel="noopener">Bollettino d’arte, anno XXXVIII, 1953, n. I gennaio-marzo - Sommario</a>
+<div class="pdf-embed" style="margin: 2rem 0; padding: 0.75rem; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 12px; background: rgba(0, 0, 0, 0.02);">
+  <iframe src="/assets/pdf/Bandini-crucifix.pdf" title="Bollettino d’arte, anno XXXVIII, 1953, n. I gennaio-marzo - Sommario" loading="lazy" style="width: 100%; height: min(90vh, 980px); min-height: 720px; border: 0; border-radius: 8px;"></iframe>
+</div>
 
 The first crucial clue to the presence of a concealed older painting was provided by accidental abrasions in the surface of the eighteenth-century repainting, which revealed traces of an underlying pictorial layer of demonstrably higher quality. 
 
