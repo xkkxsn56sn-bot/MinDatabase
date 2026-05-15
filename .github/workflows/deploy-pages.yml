@@ -9,6 +9,8 @@ on:
       - "**/*.html"
       - "Content/**"
       - "assets/**"
+      - "Images/**"
+      - "Thumbnails/**"
       - "_layouts/**"
       - "_config.yml"
       - "CNAME"
