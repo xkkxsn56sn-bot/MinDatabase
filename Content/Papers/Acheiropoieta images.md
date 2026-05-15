@@ -130,7 +130,7 @@ This linguistic formulation itself carries enormous philosophical weight, for in
 The historical crystallisation of the acheiropoieton tradition in the sixth century was no accident of piety but a calculated theological and political move during a period of profound anxiety about the very legitimacy of Christian image-making. The Second Commandment's prohibition against depicting the divine remained a source of tension, and legends attributing the creation of iconic images to God himself offered a powerful rebuttal to iconophobic critics: if the images were not made by human hands, then their existence could not be condemned as the presumptuous attempt of a craftsman to represent the ineffable. The earliest and most celebrated of these images is the **Mandylion of Edessa**, whose legendary history — in which King Abgar V<a href="../../../ancient-world.html#fn-abgar-v" class="footnote"><sup>1</sup></a>, suffering from an illness, sent messengers to Jesus requesting either his presence or his portrait, and received in return a cloth (*mandylion*) bearing the miraculous imprint of Christ's face — was already well established by the reign of the Emperor Justinian I<a href="../../../anient-world.html#fn-justinian-i" class="footnote"><sup>2</sup></a>. 
 
 <figure class="figure--right figure--right-400">
-  <img src="/images/Acheropoieta/image 1.jpg" alt=" Abgar V of Edessa receiving the Mandylion from Thaddeus">
+  <img src="/Images/Acheropoieta/image 1.jpg" alt=" Abgar V of Edessa receiving the Mandylion from Thaddeus">
   <figcaption> Abgar V of Edessa receiving the Mandylion from Addai (Thaddeus), after 944, encaustic painting, Saint Catherine's Monastery, Saint Catherine, Moint Sinai, Egypt</figcaption>
 </figure>
 
