@@ -244,7 +244,7 @@ The viewer entering from the transept first sees the altar and apsidal wall behi
 ### The north wall
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 1.jpg" alt="Peruzzi Chapel - Zacharias Receives the Angel's Announcement">
+  <img src="/Images/Cappella Peruzzi/image 1.jpg" alt="Peruzzi Chapel - Zacharias Receives the Angel's Announcement">
   <figcaption>Zacharias Receives the Angel's Announcement, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ The Peruzzi Chapel, with its stories of John the Baptist and John the Evangelist
 In summary, Giotto’s Annunciation to Zechariah in the Peruzzi Chapel is not merely a depiction of a Gospel episode, but a theological nexus linking human barrenness to the fruitfulness of grace, the ancient Temple to the proclamation of the New Covenant, and a powerful family of bankers to the history of redemption.
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 2.jpg" alt="Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony">
+  <img src="/Images/Cappella Peruzzi/image 2.jpg" alt="Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony">
   <figcaption>The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ The choice of John the Baptist, together with John the Evangelist in the same ch
 For the Peruzzi family, active in a city increasingly marked by tensions between civic power, the papacy, and the empire, this iconography offers a model of “public” holiness: holiness is not merely a hermit’s life, but also civic engagement, economic responsibility, and the protection of justice, as exemplified by John the Baptist himself, who does not shy away from confronting the political elite of his time.
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 3.jpg" alt="Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias">
+  <img src="/Images/Cappella Peruzzi/image 3.jpg" alt="Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias">
   <figcaption>Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -319,7 +319,7 @@ This innovative choice underscores the family’s awareness of being part of sac
 ### The south wall
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 4.jpg" alt="Peruzzi Chapel - A Vision on the Island of Patmos">
+  <img src="/Images/Cappella Peruzzi/image 4.jpg" alt="Peruzzi Chapel - A Vision on the Island of Patmos">
   <figcaption>A Vision on the Island of Patmos, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -336,7 +336,7 @@ For the Peruzzi family, one of the city’s most influential banking families, t
 In summary, Giotto’s Vision on the Island of Patmos is a powerful theological image: it portrays the eschatological revelation as the result of a life of holiness and a Church on a journey, in accordance with a Franciscan-Augustinian sensibility. At the same time, for the Peruzzi family, the scene serves as a symbolic guarantee of their belonging to the “heavenly city”: the commission is thus interpreted as an act of faith that, through the figure of St. John the Evangelist, links the dynastic memory to the history of salvation.
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 5.jpg" alt="Peruzzi Chapel - The Resurrection of Drusiana">
+  <img src="/Images/Cappella Peruzzi/image 5.jpg" alt="Peruzzi Chapel - The Resurrection of Drusiana">
   <figcaption>The Resurrection of Drusiana, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -363,7 +363,7 @@ Unlike traditional depictions of kneeling patrons, here the Peruzzis are shown i
 The choice of John the Evangelist, linked to a message of love and communion, allows the Peruzzis to balance their image as bankers and powerful figures with a critical acceptance of earthly wealth. In the Resurrection of Drusiana, it is not economic power that brings life back, but the word of an apostle obedient to Christ: the family’s glory is thus reflected in, but does not replace, divine power. Thus, the chapel serves as a “theological document”: wealth can serve the Church and family memory, but final salvation depends on faith, charity, and fidelity to the Word of Christ proclaimed by John.
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 6.jpg" alt="Peruzzi Chapel - The Ascension of St. John">
+  <img src="/Images/Cappella Peruzzi/image 6.jpg" alt="Peruzzi Chapel - The Ascension of St. John">
   <figcaption>The Ascension of St. John, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -394,7 +394,7 @@ This mechanism of “identification” is not only visual but also theological: 
 ## The Peruzzi Altarpiece
 
 <figure>
-  <img src="/images/Cappella Peruzzi/image 7.jpg" alt="Peruzzi Chapel - The Peruzzi Polyptych">
+  <img src="/Images/Cappella Peruzzi/image 7.jpg" alt="Peruzzi Chapel - The Peruzzi Polyptych">
   <figcaption>The Peruzzi Polyptych, 1318-22, tempera and gold on panel, 105,7 x 250,2 cm, North Carolina Museum of Art, Raleigh.</figcaption>
 </figure>
 

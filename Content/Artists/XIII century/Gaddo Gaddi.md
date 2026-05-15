@@ -221,7 +221,7 @@ In the absence of contrary evidence, it is therefore reasonable to infer that he
 ### Coronation of the Virgin among angels and the symbols of the Evangelists
 
 <figure>
-  <img src="/images/Gaddo Gaddi/image 1.jpg" alt="Coronation of the Virgin">
+  <img src="/Images/Gaddo Gaddi/image 1.jpg" alt="Coronation of the Virgin">
   <figcaption>Coronation of the Virgin among angels and the symbols of the Evangelists, 1296-1310, mosaic, Cattedrale di Santa Maria del Fiore, Florence.</figcaption>
 </figure>
 

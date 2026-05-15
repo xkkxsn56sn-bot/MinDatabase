@@ -163,7 +163,7 @@ The Master of Varlungo's activity is attested, on the basis of the attributed co
 ### Madonna Enthroned with the Infant Jesus and Two Angels
 
 <figure>
-  <img src="/images/Maestro di Varlungo/image 1.jpg" alt="Madonna Enthroned with the Infant Jesus and Two Angels">
+  <img src="/Images/Maestro di Varlungo/image 1.jpg" alt="Madonna Enthroned with the Infant Jesus and Two Angels">
   <figcaption>Madonna Enthroned with the Infant Jesus and Two Angels (Maestà di Stia), c. 1290, tempera and gold on panel, 160 x 74 cm, Pieve di Santa Maria Assunta, Stia.</figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ From a stylistic point of view, the work was long attributed to an artist close 
 ### Madonna and Child
 
 <figure>
-  <img src="/images/Maestro di Varlungo/image 2.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro di Varlungo/image 2.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1285-99, tempera and gold on panel, 115 x 50 cm, church of San Pietro a Varlungo, Florence.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ This Madonna and Child from Varlungo is described by the CEI as a “fundamental
 ### Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction
 
 <figure>
-  <img src="/images/Maestro di Varlungo/image 3.jpg" alt="Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction">
+  <img src="/Images/Maestro di Varlungo/image 3.jpg" alt="Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction">
   <figcaption>Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction, 1285-99, 1285-90, tempera and gold on panel, 115 x 50 cm, Museo Stefano Bardini, Florence.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ The cross by the Master of Varlungo belongs to the great period of Tuscan panel 
 ### Madonna and Child Enthroned with Angels
 
 <figure>
-  <img src="/images/Maestro di Varlungo/image 4.jpg" alt="Madonna and Child Enthroned with Angels">
+  <img src="/Images/Maestro di Varlungo/image 4.jpg" alt="Madonna and Child Enthroned with Angels">
   <figcaption>Madonna and Child Enthroned with Angels, 1285-90, tempera and silver on panel, Overall: 130.2 x 82.9 cm; painted surface: 127.6 x 71.1 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ The Ragghianti Foundation describes the Master of Varlungo as a Cimabuesque pain
 ### Madonna and Child Enthroned with Angels
 
 <figure>
-  <img src="/images/Maestro di Varlungo/image 5.jpg" alt="Madonna and Child Enthroned with Angels">
+  <img src="/Images/Maestro di Varlungo/image 5.jpg" alt="Madonna and Child Enthroned with Angels">
   <figcaption>Madonna and Child Enthroned with Angels, 1300-10, tempera and gold on panel, 154 x 74 cm, Propositura del Santissimo Nome di Gesù, Pratovecchio.</figcaption>
 </figure>
 

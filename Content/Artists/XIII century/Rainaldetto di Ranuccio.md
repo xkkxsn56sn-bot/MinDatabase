@@ -167,7 +167,7 @@ The date and cause of Rainaldetto di Ranuccio's death are entirely unknown, as t
 ### Painted Cross (Croce dipinta), c. 1260
 
 <figure>
-  <img src="/images/Rainaldetto/image 1.jpg" alt="Painted Cross">
+  <img src="/Images/Rainaldetto/image 1.jpg" alt="Painted Cross">
   <figcaption>Painted Cross (Croce dipinta), c. 1260, tempera on panel, 154 x 120 cm, Pinacoteca Civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ The signature affixed to the lower register makes this cross an exceptional docu
 ### Painted Cross (Croce dipinta), 1265, Pinacoteca Nazionale di Bologna
 
 <figure>
-  <img src="/images/Rainaldetto/image 3.jpg" alt="Painted Cross">
+  <img src="/Images/Rainaldetto/image 3.jpg" alt="Painted Cross">
   <figcaption>Painted Cross (Croce dipinta), c. 1265, tempera on panel, 224 x 141,5 cm, Pinacoteca Nazionale di Bologna.</figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ The comparison between the two crosses signed by Rainaldetto constitutes one of 
 ### Painted Cross (Croce dipinta), Galleria Enrico Frascione, Florence
 
 <figure>
-  <img src="/images/Rainaldetto/image 2.jpg" alt="Painted Cross">
+  <img src="/Images/Rainaldetto/image 2.jpg" alt="Painted Cross">
   <figcaption>Painted Cross (Croce dipinta), 1260-70, tempera with gold and silver on panel, 160 x 119 cm, Galleria Enrico Frascione, Florence.</figcaption>
 </figure>
 

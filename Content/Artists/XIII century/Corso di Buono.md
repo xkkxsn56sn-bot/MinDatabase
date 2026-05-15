@@ -141,28 +141,28 @@ Corso di Buono is presumed to have died shortly after his last documented appear
 ### Saint John the Evangelist
 
 <figure>
-  <img src="/images/Corso di Buono/image 1.jpg" alt="Saint John the Evangelist">
+  <img src="/Images/Corso di Buono/image 1.jpg" alt="Saint John the Evangelist">
   <figcaption>Saint John the Evangelist, 1284, fresco, 210 x 170 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
 ### orso di Buono's signature
 
 <figure>
-  <img src="/images/Corso di Buono/image 2.jpg" alt="Corso di Buono's signature">
+  <img src="/Images/Corso di Buono/image 2.jpg" alt="Corso di Buono's signature">
   <figcaption>Corso di Buono's signature, 1284, fresco, 80 x 52 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
 ### Christ Pantocrator among cherubs
 
 <figure>
-  <img src="/images/Corso di Buono/image 3.jpg" alt="Christ Pantocrator among cherubs">
+  <img src="/Images/Corso di Buono/image 3.jpg" alt="Christ Pantocrator among cherubs">
   <figcaption>Christ Pantocrator among cherubs, 1284, fresco, 303 cm length, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
 ### The Miracle of Saint John the Evangelist
 
 <figure>
-  <img src="/images/Corso di Buono/image 4.jpg" alt="The Miracle of St. John the Evangelist">
+  <img src="/Images/Corso di Buono/image 4.jpg" alt="The Miracle of St. John the Evangelist">
   <figcaption>The Miracle of Saint John the Evangelist (Saint John the Evangelist raises two children from the dead using the seamless robe of Jesus Christ), 1284, fresco, 210 x 170 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 

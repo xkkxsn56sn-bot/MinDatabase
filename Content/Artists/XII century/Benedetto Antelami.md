@@ -237,7 +237,7 @@ Benedetto Antelami is believed to have died around 1230, most likely in Parma, w
 ### Deposition from the Cross
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 1.jpg" alt="Deposition from the Cross">
+  <img src="/Images/Benedetto Antelami/image 1.jpg" alt="Deposition from the Cross">
   <figcaption>Deposition from the Cross, 1178, red Verona marble, 110 × 230 cm, Parma Cathedral.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ The *Deposition*'s significance resides in its demonstration of Antelami's matur
 ### King David
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 2.jpg" alt="King David">
+  <img src="/Images/Benedetto Antelami/image 2.jpg" alt="King David">
   <figcaption>King David, c. 1200, marble, height: 180-200 cm, Fidenza Cathedral.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ The statue is integrated into the Romanesque façade of the cathedral, rich in r
 ### Prophet Ezechiel
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 3.jpg" alt="Prophet Ezechiel">
+  <img src="/Images/Benedetto Antelami/image 3.jpg" alt="Prophet Ezechiel">
   <figcaption>Prophet Ezechiel, c. 1200, soft Vicenza stone, height: 180-200 cm, marble, Fidenza Cathedral.</figcaption>
 </figure>
 
@@ -287,7 +287,7 @@ The statue of Ezekiel is carved from soft Vicenza stone, a material also used fo
 ### Absalom on horseback and the Queen of Sheba
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 4.jpg" alt="Capital featuring biblical scenes (Absalom on horseback and the Queen of Sheba)">
+  <img src="/Images/Benedetto Antelami/image 4.jpg" alt="Capital featuring biblical scenes (Absalom on horseback and the Queen of Sheba)">
   <figcaption>Capital featuring biblical scenes (Absalom on horseback and the Queen of Sheba), 1178, red Verona marble, Santa Maria Assunta Cathedral, Parma.</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ The capital belongs to the same workshop as the Deposition from the Cross of 117
 ### The Original Sin
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 5.jpg" alt="Capital featuring biblical scenes (The Original Sin)">
+  <img src="/Images/Benedetto Antelami/image 5.jpg" alt="Capital featuring biblical scenes (The Original Sin)">
   <figcaption>Capital featuring biblical scenes (The Original Sin), 1178, red Verona marble, Santa Maria Assunta Cathedral, Parma.</figcaption>
 </figure>
 
@@ -315,7 +315,7 @@ The capital depicting the Original Sin serves an intensely catechetical function
 ### The Expulsion from the Garden of Eden
 
 <figure>
-  <img src="/images/Benedetto Antelami/image 6.jpg" alt="Capital featuring biblical scenes (The Expulsion from the Garden of Eden)">
+  <img src="/Images/Benedetto Antelami/image 6.jpg" alt="Capital featuring biblical scenes (The Expulsion from the Garden of Eden)">
   <figcaption>Capital featuring biblical scenes (The Expulsion from the Garden of Eden), 1178, red Verona marble, Santa Maria Assunta Cathedral, Parma.</figcaption>
 </figure>
 

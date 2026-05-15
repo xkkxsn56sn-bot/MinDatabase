@@ -103,7 +103,7 @@ Inline note<a id="fnref:1" href="#fn:1" class="footnote"><sup>1</sup></a>
 This repository already contains embedded images in content files.
 
 - Keep existing `<figure>`, `<img>`, and `<figcaption>` patterns where used.
-- Use consistent image paths (typically `/images/...` in content markup, matching site conventions).
+- Use consistent image paths (typically `/Images/...` in content markup, matching site conventions).
 - Add clear alt text and concise scholarly captions.
 - Prefer legally reusable/public-domain or properly credited sources.
 

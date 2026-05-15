@@ -125,7 +125,7 @@ The date and cause of death are, like the birth data, unknown, because the artis
 ### Christ Triumphant
 
 <figure>
- <img src="/images/Maestro San Pietro in Villore/image 1.jpg" alt="Christ Triumphant">
+ <img src="/Images/Maestro San Pietro in Villore/image 1.jpg" alt="Christ Triumphant">
  <figcaption>Christ Triumphant, fat tempera and gold on an oak panel covered with canvas, 177 x 116,5 x 12 cm, Museo Diocesano di Palazzo Borgia, Pienza.</figcaption>
 </figure>
 

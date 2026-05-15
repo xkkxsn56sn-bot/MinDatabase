@@ -234,7 +234,7 @@ The date and cause of the Maestro della Maddalena's death are, like the circumst
 ### Penitent Magdalen with 8 scenes from her life
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 1.jpg" alt="Penitent Magdalen with 8 scenes from her life">
+  <img src="/Images/Maestro della Maddalena/image 1.jpg" alt="Penitent Magdalen with 8 scenes from her life">
   <figcaption>Penitent Magdalen with 8 scenes from her life, 1280-85, tempera and gold on panel, 178 x 91 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ A comparison with contemporary works reveals how the Master of Mary Magdalene mo
 ### Saint Luke the Evangelist
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 2.jpg" alt="Saint Luke the Evangelist">
+  <img src="/Images/Maestro della Maddalena/image 2.jpg" alt="Saint Luke the Evangelist">
   <figcaption>Saint Luke the Evangelist, 1275-90, tempera and gold on panel, 132 x 50 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -312,7 +312,7 @@ Critical analysis pioneered by Osvald Sirén (1922) identified this panel as the
 ### Madonna and Child Enthroned with Saints Andrew and James, a Donor, and Six Stories
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 3.jpg" alt="Madonna and Child Enthroned with Saints Andrew and James, a Donor, and Six Stories">
+  <img src="/Images/Maestro della Maddalena/image 3.jpg" alt="Madonna and Child Enthroned with Saints Andrew and James, a Donor, and Six Stories">
   <figcaption>Madonna and Child Enthroned with Saints Andrew and James, a Donor, and Six Stories, 1275-80, tempera and gold on panel, 93 x 133 cm, Musée des Arts Décoratifs, Paris.</figcaption>
 </figure>
 
@@ -354,7 +354,7 @@ The Paris panel represents the pinnacle of the Master of the Magdalene’s outpu
 ### Madonna and Child Enthroned (Triptych)
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 4.jpg" alt="Madonna and Child Enthroned">
+  <img src="/Images/Maestro della Maddalena/image 4.jpg" alt="Madonna and Child Enthroned">
   <figcaption>Madonna and Child Enthroned, c. 1270, tempera and gold on panel, Central panel 40.6 x 28.3 cm; left wing 38.1 x 14.3 cm; right wing 38.1 x 14 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -379,7 +379,7 @@ The workshop was acutely aware of the local tradition and produced both large-sc
 ### Madonna and Child (fragment)
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 5.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro della Maddalena/image 5.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1280, tempera on panel, 74.9 x 46.4 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -401,7 +401,7 @@ The practice of cutting out the face of the Madonna from a larger panel belongs 
 ### Enthroned Madonna with Child and Angels
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 6.jpg" alt="Enthroned Madonna with Child and Angels">
+  <img src="/Images/Maestro della Maddalena/image 6.jpg" alt="Enthroned Madonna with Child and Angels">
   <figcaption>Enthroned Madonna with Child and Angels, 1280-90, tempera on panel, Abbazia di San Fedele, Poppi, Arezzo.</figcaption>
 </figure>
 
@@ -418,7 +418,7 @@ The panel was originally situated in the right transept of the church, where it 
 ### Last Supper (fragment)
 
 <figure>
-  <img src="/images/Maestro della Maddalena/image 7.jpg" alt="fragment of a Last Supper">
+  <img src="/Images/Maestro della Maddalena/image 7.jpg" alt="fragment of a Last Supper">
   <figcaption>Last Supper (fragment), 1250-75, tempera on panel, Musée du Petit Palais, Avignon.</figcaption>
 </figure>
 

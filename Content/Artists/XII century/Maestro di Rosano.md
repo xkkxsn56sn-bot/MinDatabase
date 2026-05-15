@@ -162,7 +162,7 @@ As with the date and circumstances of his birth, the death of the Maestro di Ros
 ### Painted Cross with Passion Scenes
 
 <figure>
- <img src="/images/Maestro di Rosano/image 1.jpg" alt="Painted Cross with Passion Scenes">
+ <img src="/Images/Maestro di Rosano/image 1.jpg" alt="Painted Cross with Passion Scenes">
  <figcaption>Painted Cross with Passion Scenes, 1120–30, tempera and gold on chestnut wood panel, 254 x 230 cm, Monastero di Santa Maria a Rosano, Rignano sull'Arno, Florence.</figcaption>
 </figure>
 

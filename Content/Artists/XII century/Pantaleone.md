@@ -230,7 +230,7 @@ Pantaleone's legacy extends beyond the physical survival of his work to influenc
 ### Otranto Mosaic (The Zodiac)
 
 <figure>
-  <img src="/images/Pantaleone/image 1.jpg" alt="Otranto Mosaic (The Zodiac)">
+  <img src="/Images/Pantaleone/image 1.jpg" alt="Otranto Mosaic (The Zodiac)">
   <figcaption>Otranto Mosaic (The Zodiac), 1163–65, mosaic tesserae cut from Salento limestone, measuring 0.5 to 1.5 cm, Cathedral of Santa Maria Annunziata, Otranto.</figcaption>
 </figure>
 

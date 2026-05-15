@@ -155,7 +155,7 @@ The triptych at San Leolino in Panzano in Chianti, which gives the master his na
 ## Principal Works and Their Content
 
 <figure>
-  <img src="/images/Maestro di Panzano/image 1.jpg" alt="Triptych of the Mystic Marriage of Saint Catherine with Saints Peter and Paul">
+  <img src="/Images/Maestro di Panzano/image 1.jpg" alt="Triptych of the Mystic Marriage of Saint Catherine with Saints Peter and Paul">
   <figcaption>Triptych of the Mystic Marriage of Saint Catherine with Saints Peter and Paul, c. 1390, tempera on panel, Pieve di San Leolino, Panzano.</figcaption>
 </figure>
 
@@ -164,28 +164,28 @@ The most important surviving work by the Maestro di Panzano, and the one from wh
 The flanking panels depict Saints Peter and Paul in their traditional roles as the twin pillars of the apostolic Church: Peter stands to the left holding his keys, Paul to the right bearing his sword and epistles, both rendered with the hieratic dignity and psychological presence characteristic of the master's mature style. The composition is unified by the gilded ground, which dissolves spatial distinctions and asserts the otherworldly register of the sacred narrative, while the three figures' eyes are coordinated to create a circuit of devotional address between the painted subjects and the worshipping viewer. This triptych was the founding document of the artist's critical identity and remains the indispensable reference point for any attribution to his hand.
 
 <figure>
-  <img src="/images/Maestro di Panzano/image 2.jpg" alt="Madonna and Child Enthroned with Saints">
+  <img src="/Images/Maestro di Panzano/image 2.jpg" alt="Madonna and Child Enthroned with Saints">
   <figcaption>Madonna and Child Enthroned with Saints, 1380-1400, tempera and gold on panel, Walters Art Museum, Baltimore.</figcaption>
 </figure>
 
 The **Madonna and Child Enthroned with Saints** in the Walters Art Museum in Baltimore is one of the master's most fully preserved works and serves as the principal basis for the Zeri catalogue entry dedicated to him. The central panel presents the enthroned Virgin in the tradition of the *Maestà*, her blue maphorion draped over a red undergown, the Christ Child seated on her left knee and raising his right hand in benediction while his left holds a symbolic object, the whole composition framed by flanking angels in attitudes of adoration. The lateral saints, identifiable through their attributes, are disposed with the elegant containment and psychological immediacy that distinguish the master's figure style from the more schematic treatments found in workshop productions of the period. The Walters acquired this panel through the bequest of 1931, and it has since been one of the museum's most significant examples of late-Trecento Sienese devotional painting.
 
 <figure>
-  <img src="/images/Maestro di Panzano/image 3.jpg" alt="Madonna with Child between Saints Ansanus and Lawrence">
+  <img src="/Images/Maestro di Panzano/image 3.jpg" alt="Madonna with Child between Saints Ansanus and Lawrence">
   <figcaption>Madonna with Child between Saints Ansanus and Lawrence, 1382, tempera and gold on panel, Museo Civico e Diocesano, Montalcino.</figcaption>
 </figure>
 
 The **Madonna with Child between Saints Ansanus and Lawrence**, now in the Museo Civico e Diocesano in Montalcino, is unique within the master's attributed corpus in bearing a date — a circumstance that makes it the chronological anchor of his entire career and the primary evidence for his activity in the 1380s. Saint Ansanus, the first martyr-apostle of Siena who is shown holding the Sienese flag as his attribute, was one of the most venerated saints in the Sienese religious calendar, and his inclusion in this panel signals the work's deep rootedness in Sienese civic piety and its commission by a patron, whether institutional or private, with strong Sienese cultural allegiances even in the context of Montalcino, a town that had maintained close political ties to Siena throughout the communal period. Saint Lawrence, the deacon-martyr identified by his gridiron, occupies the right panel and provides the work's second hagiographic identity, possibly reflecting the dedication of the chapel or altar for which the triptych was originally commissioned. The panel is also accompanied by a small figure of the *Redentore benedicente fra due cherubini* — the Blessing Redeemer between two cherubim — which occupied a secondary register within the original complex.
 
 <figure>
-  <img src="/images/Maestro di Panzano/image 5.jpg" alt="Saint Nicholas of Tolentino">
+  <img src="/Images/Maestro di Panzano/image 5.jpg" alt="Saint Nicholas of Tolentino">
   <figcaption>Saint Nicholas of Tolentino, 1380-1400, tempera and gold on panel, arched top, in an engaged frame, 111.7 × 39 cm, Middlebury College Museum of Art in Middlebury, Vermont.</figcaption>
 </figure>
 
 The **Saint Nicholas of Tolentino** panel housed in the Middlebury College Museum of Art in Middlebury, Vermont, represents a single standing saint figure that originally formed part of a larger polyptych, now disassembled. Nicholas of Tolentino, the Augustinian friar canonized in 1446 but already venerated as a miracle-worker and intercessor throughout the late Trecento, stands in the frontal posture traditional for single-saint panels, dressed in the black habit of the Augustinian Hermits and holding the lily of purity, his gaze directed slightly downward in an attitude of humble contemplation. The scale of the panel and its format as a single standing figure suggest its origin as part of an elaborate multi-panel altarpiece commissioned for an Augustinian friary, where Nicholas would have occupied one of the lateral positions flanking a central *Maestà* or Christological subject. The inclusion of a saint not yet formally canonized in a major altarpiece commission speaks to the intensity of popular and institutional devotion to Nicholas within the Augustinian order, which actively promoted his cult throughout central Italy during the second half of the Trecento.
 
 <figure>
-  <img src="/images/Maestro di Panzano/image 4.jpg" alt="Madonna con Bambino in trono con San Giovanni Battista, Sant'Antonio Abate, San Pietro e Santa Caterina d'Alessandria">
+  <img src="/Images/Maestro di Panzano/image 4.jpg" alt="Madonna con Bambino in trono con San Giovanni Battista, Sant'Antonio Abate, San Pietro e Santa Caterina d'Alessandria">
   <figcaption>Madonna con Bambino in trono con San Giovanni Battista, Sant'Antonio Abate, San Pietro e Santa Caterina d'Alessandria, tempera and gold on panel, Monte dei Paschi Art Collection, Siena.</figcaption>
 </figure>
 

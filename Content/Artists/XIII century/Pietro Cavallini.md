@@ -228,21 +228,21 @@ The continuing influence of Pietro's artistic legacy on contemporary art histori
 Pietro Cavallini's most celebrated surviving masterpiece, the mosaic cycle depicting scenes from the life of the Virgin Mary in Santa Maria in Trastevere (1291-1296), represents the pinnacle of medieval mosaic art whilst simultaneously pointing toward Renaissance developments in naturalistic representation. Commissioned by Bertoldo Stefaneschi, these six magnificent scenes demonstrate Pietro's revolutionary approach to traditional religious iconography through unprecedented attention to spatial logic, psychological characterisation, and naturalistic detail. The Birth of the Virgin establishes an intimate domestic setting where Saint Anne reclines in an elegant bedchamber whilst servants attend to the newborn Mary with touching human tenderness, creating a sense of familial warmth that transforms traditional religious narrative into emotionally accessible human drama. The sophisticated architectural setting, with its convincing perspective and luxurious furnishings, demonstrates Pietro's mastery of spatial representation, while the psychological interaction between figures creates narrative engagement that surpasses conventional Byzantine approaches to religious storytelling.
 
 <figure>
-  <img src="/images/Cavallini/Annunciazione.jpg" alt="Annunciazione mosaic by Pietro Cavallini">
+  <img src="/Images/Cavallini/Annunciazione.jpg" alt="Annunciazione mosaic by Pietro Cavallini">
   <figcaption>Annunciazione, 1296, mosaic, Basilica di Santa Maria in Trastevere, Roma.</figcaption>
 </figure>
 
 The *Annunciation* within the same cycle showcases Pietro's ability to infuse traditional iconographic requirements with unprecedented emotional depth and spatial sophistication. The Virgin Mary's response to the angelic message displays psychological complexity that makes the miraculous event comprehensible in human terms whilst maintaining appropriate spiritual dignity. The architectural framework provides convincing three-dimensional space that enhances narrative clarity whilst the subtle colour harmonies create atmospheric effects that were revolutionary in mosaic technique. The successful integration of naturalistic observation with symbolic requirements established new standards for religious art that influenced subsequent developments throughout Italy. The technical mastery evident in the precise placement of tesserae to achieve unprecedented modelling effects demonstrates Pietro's transformation of traditional mosaic technique into a medium capable of sophisticated pictorial expression.
 
 <figure>
-  <img src="/images/Cavallini/Nativita.jpg" alt="Natività mosaic by Pietro Cavallini">
+  <img src="/Images/Cavallini/Nativita.jpg" alt="Natività mosaic by Pietro Cavallini">
   <figcaption>Natività, 1296, mosaic, Basilica di Santa Maria in Trastevere, Roma.</figcaption>
 </figure>
 
 The *Nativity* scene within the Santa Maria in Trastevere cycle demonstrates Pietro's innovative approach to traditional Christmas iconography through enhanced attention to human emotion and environmental detail. The intimate relationship between the Holy Family is rendered with unprecedented psychological authenticity whilst maintaining reverent spiritual tone appropriate to the sacred subject matter. The architectural and landscape elements create convincing spatial context that enhances narrative credibility whilst supporting rather than competing with the central religious message. The successful balance between naturalistic observation and spiritual significance established Pietro's reputation as an artist capable of enhancing religious devotion through artistic innovation. The continued effectiveness of these mosaics as objects of prayer and contemplation demonstrates Pietro's success in creating art that functions simultaneously as aesthetic achievement and spiritual inspiration. 
 
 <figure>
-  <img src="/images/Cavallini/Giudizio.jpg" alt="Giudizio Universale fresco by Pietro Cavallini">
+  <img src="/Images/Cavallini/Giudizio.jpg" alt="Giudizio Universale fresco by Pietro Cavallini">
   <figcaption>Giudizio Universale, c. 1293, fresco, 320 x 400 cm, Basilica di Santa Cecilia in Trastevere, Roma.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ Pietro's mosaic decorations for the apse of Santa Maria in Trastevere include so
 The attributed apse paintings at San Giorgio al Velabro, though fragmentary and damaged, provide important evidence for Pietro's approach to large-scale religious decoration within one of Rome's most historically significant churches. The commission by Cardinal Giacomo Gaetani Stefaneschi in 1295 connected Pietro to the highest levels of ecclesiastical patronage whilst requiring him to work within the architectural constraints of an ancient basilica. The surviving fragments suggest sophisticated integration of figures with architectural setting that enhanced both spatial coherence and narrative effectiveness. The damaged condition of these works reflects the vulnerability of fresco technique to environmental deterioration, whilst emphasising the importance of Pietro's better-preserved mosaic works for understanding his artistic achievement.
 
 <figure>
-  <img src="/images/Cavallini/Crocifissione.jpg" alt="Crucifixion fresco by Pietro Cavallini">
+  <img src="/Images/Cavallini/Crocifissione.jpg" alt="Crucifixion fresco by Pietro Cavallini">
   <figcaption>Crocifissione, c. 1307, fresco, San Domenico Maggiore, Naples.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ The attributed mosaic of Mary with Saints Sebastian and Chrysogonus in San Criso
 The possible attribution of the illustrated Clement Bible to Pietro or his workshop suggests his involvement in manuscript illumination, a medium that would have required adaptation of his large-scale techniques to intimate scale whilst maintaining comparable standards of artistic quality. This hypothetical connection to manuscript production would indicate Pietro's participation in the full range of medieval artistic practise whilst demonstrating the versatility that characterised leading artists of his era. The scholarly uncertainty surrounding this attribution reflects both the collaborative nature of medieval artistic production and the difficulty of maintaining clear distinctions between individual contributions within workshop contexts. The continuing investigation of Pietro's possible involvement in manuscript illumination contributes to a broader understanding of how major artists engaged with diverse media and formats during the late medieval period.
 
 <figure>
-  <img src="/images/Cavallini/Bocciata.jpg" alt="Madonna della Bocciata fresco by Pietro Cavallini">
+  <img src="/Images/Cavallini/Bocciata.jpg" alt="Madonna della Bocciata fresco by Pietro Cavallini">
   <figcaption>Madonna della Bocciata, 1277-80, fresco, Grotte Vaticane, Città del Vaticano.</figcaption>
 </figure>
 

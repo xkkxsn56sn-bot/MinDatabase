@@ -258,7 +258,7 @@ Educational programmes use the months cycle to explore themes of time, labour, a
 ### Janus, the two-faced god (Allegory of January)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 1.jpg" alt="Janus, the two-faced god (January)">
+  <img src="/Images/Maestro dei Mesi/image 1.jpg" alt="Janus, the two-faced god (January)">
   <figcaption>Janus, the two-faced god (Allegory of January), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ Within the cycle of the months, January serves as a symbolic boundary: it marks 
 ### Pruning (Allegory of February)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 2.jpg" alt="Pruning (Allegory of February)">
+  <img src="/Images/Maestro dei Mesi/image 2.jpg" alt="Pruning (Allegory of February)">
   <figcaption>Pruning (Allegory of February), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ The cycle of the months embodies an idea of the “economy” of sacred and prof
 ### Reawakening of Nature and the King of the Months (Allegory of March and April)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 3.jpg" alt="Reawakening of Nature and the King of the Months (Allegory of March and April)">
+  <img src="/Images/Maestro dei Mesi/image 3.jpg" alt="Reawakening of Nature and the King of the Months (Allegory of March and April)">
   <figcaption>Reawakening of Nature and the King of the Months (Allegory of March and April), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -299,7 +299,7 @@ Unlike panels such as July (wheat threshing) or September (grape harvest), where
 ### Knight with shield (Allegory of May)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 4.jpg" alt="Knight with shield (Allegory of May)">
+  <img src="/Images/Maestro dei Mesi/image 4.jpg" alt="Knight with shield (Allegory of May)">
   <figcaption>Knight with shield (Allegory of May), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -312,7 +312,7 @@ In this sense, the Knight of May is not merely an image of the warrior, but a sy
 ### Boy picking tree fruit (Allegory of June)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 5.jpg" alt="Boy picking tree fruit (Allegory of June)">
+  <img src="/Images/Maestro dei Mesi/image 5.jpg" alt="Boy picking tree fruit (Allegory of June)">
   <figcaption>Boy picking tree fruit (Allegory of June), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -323,7 +323,7 @@ The crab/cancer at the bottom symbolizes the zodiac sign of June (from around Ju
 ### Wheat threshing (Allegory of July)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 6.jpg" alt="Wheat threshing (Allegory of July)">
+  <img src="/Images/Maestro dei Mesi/image 6.jpg" alt="Wheat threshing (Allegory of July)">
   <figcaption>Wheat threshing (Allegory of July), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -334,7 +334,7 @@ The style is Romanesque-Gothic, with figures strongly modeled and deeply carved 
 ### Preparing the barrel (Allegory of August)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 7.jpg" alt="Preparing the barrel (Allegory of August)">
+  <img src="/Images/Maestro dei Mesi/image 7.jpg" alt="Preparing the barrel (Allegory of August)">
   <figcaption>Preparing the barrel (Allegory of August), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -347,7 +347,7 @@ Within the context of the Cycle of the Months on the Pilgrims’ Door, the “Al
 ### The Grape Harvest (Allegory of September)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 8.jpg" alt="The Grape Harvest (Allegory of September)">
+  <img src="/Images/Maestro dei Mesi/image 8.jpg" alt="The Grape Harvest (Allegory of September)">
   <figcaption>The Grape Harvest (Allegory of September), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -360,7 +360,7 @@ Allegorically speaking, the month of September is not merely an image of agricul
 ### Harvesting turnips (Allegory of November)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 9.jpg" alt="Harvesting turnips (Allegory of November)">
+  <img src="/Images/Maestro dei Mesi/image 9.jpg" alt="Harvesting turnips (Allegory of November)">
   <figcaption>Harvesting turnips (Allegory of November), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
@@ -375,7 +375,7 @@ This damage stems primarily from its original location on the Porta dei Mesi of 
 ### Goat who suckles a child  (Allegory of December)
 
 <figure>
-  <img src="/images/Maestro dei Mesi/image 10.jpg" alt="Goat who suckles a child  (Allegory of December)">
+  <img src="/Images/Maestro dei Mesi/image 10.jpg" alt="Goat who suckles a child  (Allegory of December)">
   <figcaption>Goat who suckles a child  (Allegory of December), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 

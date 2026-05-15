@@ -111,7 +111,7 @@ In modern historiography, especially after Bologna’s 1969 study and subsequent
 ## Major works and iconography
 
 <figure>
-  <img src="/images/Maestro delle Tempere Francescane/image 5.jpg" alt="Madonna and Child between Saints Francis and Clare">
+  <img src="/Images/Maestro delle Tempere Francescane/image 5.jpg" alt="Madonna and Child between Saints Francis and Clare">
   <figcaption>Madonna and Child between Saints Francis and Clare, 1345, tempera and gold on panel, church of Santa Chiara, Naples.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ On the left stands Saint Clare of Assisi, founder of the Order of Poor Clares, r
 Inscriptions in Gothic script, probably dedications or liturgical invocations, a recurring element in 14th-century Franciscan devotional panels, are still partially legible on the gold background. The composition is strictly symmetrical, with the figures of the saints arranged symmetrically with respect to the central axis of the Madonna, creating a formal balance that betrays the influence of the Giotto tradition.
 
 <figure>
-  <img src="/images/Maestro delle Tempere Francescane/image 2.jpg" alt="Ottana polyptych depicting Saints Francis and Nicholas and their respective stories">
+  <img src="/Images/Maestro delle Tempere Francescane/image 2.jpg" alt="Ottana polyptych depicting Saints Francis and Nicholas and their respective stories">
   <figcaption>Ottana polyptych depicting Saints Francis and Nicholas and their respective stories, 1339-44, tempera and gold on wooden panel, 172 x 229 cm, church of San Nicola, Ottana, Nuoro.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ The settings alternate between urban architectural spaces—with well-defined Go
 The Ottana Altarpiece is the first certain document of a Sardinian court commission directed towards continental artistic offerings. It testifies to the vitality of the Mediterranean circuits that connected Barcelona, Naples, and Sardinia in the 14th century, and confirms the strategic role of the Franciscan order as a vector of cultural and artistic models updated towards the island periphery. The work is preserved in the former Romanesque cathedral of San Nicola in Ottana (Nuoro, Sardinia), consecrated in 1160, and is still today the absolute jewel of that building.
 
 <figure>
-  <img src="/images/Maestro delle Tempere Francescane/image.jpg" alt="Madonna con Bambino, San Giovanni Battista, San Giovanni Evangelista, Annunciazione, Trinità (trittico, opera isolata)">
+  <img src="/Images/Maestro delle Tempere Francescane/image.jpg" alt="Madonna con Bambino, San Giovanni Battista, San Giovanni Evangelista, Annunciazione, Trinità (trittico, opera isolata)">
   <figcaption>Madonna con Bambino, San Giovanni Battista, San Giovanni Evangelista, Annunciazione, Trinità (trittico, opera isolata), c. 1350, tempera on wooden panel, 138 x 149 cm, Museo Diocesano Tursi-Lagonegro.</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ The cornice above the central panel bears a representation of the Holy Trinity, 
 The right door presents Saint John the Evangelist once more, this time in his conventional youthful guise, holding the Gospel firmly in his hands. Above him unfolds the first half of the Annunciation scene, featuring the saluting Archangel Gabriel, whose figure is completed on the facing door. The left door, in its lower register, portrays the Forerunner, Saint John the Baptist, or Prodromos, standing in a wilderness from which sparse plants and delicate twigs spring forth. At his feet, prominently painted, lies an axe: a direct allusion to the Baptist's own words as recorded in Matthew 3:10, "the axe is already laid at the root of the trees."
 
 <figure>
-  <img src="/images/Maestro delle Tempere Francescane/image 3.jpg" alt="Madonna of Humility with Saint Dominic and a donor">
+  <img src="/Images/Maestro delle Tempere Francescane/image 3.jpg" alt="Madonna of Humility with Saint Dominic and a donor">
   <figcaption>Madonna of Humility with Saint Dominic and a donor, c. 1330-55, tempera on wooden panel, Museo Nazionale di Capodimonte, Naples.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ The Capodimonte panel is compositionally notable for the striking contrast in sc
 The prominent role of Saint Dominic as intercessor strongly suggests this panel was either commissioned by a Dominican institution or by a lay confraternity with close ties to the Order of Preachers. In 14th-century devotional practice, the donor's image embedded within the sacred scene was not mere vanity: it was a perpetual visual prayer, ensuring that the patron's soul would be continually interceded for before the Virgin. The Madonna dell'Umiltà type was particularly favored by Dominican patrons, as the theme of holy humility aligned directly with the spiritual charism of the order. Naples, with its powerful Dominican presence centered on San Domenico Maggiore, was fertile ground for this iconographic tradition.
 
 <figure>
-  <img src="/images/Maestro delle Tempere Francescane/image 4.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro delle Tempere Francescane/image 4.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1330-50, tempera on wooden panel, 37 x 20 cm, Private collection.</figcaption>
 </figure>
 

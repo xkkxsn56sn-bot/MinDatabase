@@ -196,7 +196,7 @@ The date and circumstances of the death of the Maestro del San Francesco Bardi a
 ### Saint Francis and Twenty Stories from His Life (Tavola Bardi)
 
 <figure>
-  <img src="/images/Maestro del San Francesco Bardi/image 1.jpg" alt="Saint Francis and Twenty Stories from His Life (Tavola Bardi)">
+  <img src="/Images/Maestro del San Francesco Bardi/image 1.jpg" alt="Saint Francis and Twenty Stories from His Life (Tavola Bardi)">
   <figcaption>Saint Francis and Twenty Stories from His Life (Tavola Bardi), 1245–1250, tempera and gold on panel, 230 × 123 cm, Basilica di Santa Croce, Florence (Cappella Bardi / currently in the transept).</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ Upon close inspection, the contrast between the enormous scale of the central sa
 ### Crucifix with Eight Scenes from the Passion
 
 <figure>
-  <img src="/images/Maestro del San Francesco Bardi/image 2.jpg" alt="Crucifix with Eight Scenes from the Passion">
+  <img src="/Images/Maestro del San Francesco Bardi/image 2.jpg" alt="Crucifix with Eight Scenes from the Passion">
   <figcaption>Crucifix with Eight Scenes from the Passion, 1250–60, tempera and gold on panel, Gallerie degli Uffizi, Florence (inv. no. 434).</figcaption>
 </figure>
 
@@ -233,7 +233,7 @@ From a stylistic perspective, the work combines monumentality with detailed narr
 ### Saint Francis Receives the Stigmata
 
 <figure>
-  <img src="/images/Maestro del San Francesco Bardi/image 3.jpg" alt="Saint Francis Receives the Stigmata">
+  <img src="/Images/Maestro del San Francesco Bardi/image 3.jpg" alt="Saint Francis Receives the Stigmata">
   <figcaption>Saint Francis Receives the Stigmata, 1250–65, tempera on panel, 81 × 51 cm, Gallerie degli Uffizi, Florence.</figcaption>
 </figure>
 

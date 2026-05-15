@@ -241,7 +241,7 @@ The cause of death is equally unknown and cannot be inferred from surviving evid
 ### The Crucifix of Pisa
 
 <figure>
-  <img src="/images/Maestro bizantino/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Maestro bizantino/image 1.jpg" alt="Crucifix">
   <figcaption>Crucifix no. 20, c. 1230, tempera and gold leaf on a contoured panel, 297 x 234 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

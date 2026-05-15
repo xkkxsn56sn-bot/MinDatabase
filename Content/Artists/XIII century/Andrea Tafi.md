@@ -189,7 +189,7 @@ In the final phase of his life, as far as the sources indicate, Andrea remained 
 ### The angelic ranks
 
 <figure>
-  <img src="/images/Andrea Tafi/image 1.jpg" alt="The angelic ranks">
+  <img src="/Images/Andrea Tafi/image 1.jpg" alt="The angelic ranks">
   <figcaption>The angelic ranks, c. 1250, mosaic, Baptistery of San Giovanni, Florence.</figcaption>
 </figure>
 

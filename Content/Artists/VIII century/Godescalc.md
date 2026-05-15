@@ -190,7 +190,7 @@ Finally, the material choices of purple parchment and metallic inks, often discu
 The artistic program of the Godescalc Evangelistary reveals a sophisticated synthesis of multiple cultural and artistic traditions, reflecting the cosmopolitan nature of Charlemagne's court. Byzantine influence is particularly evident in the portraits of the Evangelists and Christ in Majesty, which appear to be based on Eastern models such as the mosaics of San Vitale in Ravenna. The Christ in Majesty miniature was probably influenced by the famous Acheropita image in the Lateran Basilica in Rome, which Charlemagne and his entourage would have seen during their Italian journey. The elongated proportions of Christ's figure, particularly between the shoulders and hips, suggest knowledge of Italian iconographic traditions, possibly the icon of the *Virgin as Queen of Heaven* in Santa Maria in Trastevere. 
 
 <figure class="figure--right">
-  <img src="/images/Godescalc/image 2.jpg" alt="Virgin as Queen of Heaven">
+  <img src="/Images/Godescalc/image 2.jpg" alt="Virgin as Queen of Heaven">
   <figcaption>Virgin as Queen of Heaven, 6th century, tempera on panel in encaustic, height: 164 cm, Basilica di Santa Maria in Trastevere, Rome.</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ Yet such classicism is never simply antiquarian; it is pressed into service as a
 ### From the Rabula Gospels depicting the Crucifixion in the upper panel and the Resurrection in the lower panel
 
 <figure>
-  <img src="/images/Godescalc/image 1.jpg" alt="Rabula Gospels">
+  <img src="/Images/Godescalc/image 1.jpg" alt="Rabula Gospels">
   <figcaption>Miniature painting from the Rabula Gospels depicting the Crucifixion in the upper panel and the Resurrection in the lower panel, 586, mineral and vegetal pigments on vellum parchment, 340 x 270 mm, Biblioteca Medicea Laurenziana, Cod. Plut. I, 56, fol. 13r.</figcaption>
 </figure>
 

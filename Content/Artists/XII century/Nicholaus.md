@@ -214,7 +214,7 @@ This pattern of commissions suggests that Niccolò and his workshop travelled as
 ### Saint George on horseback kills the dragon
 
 <figure>
- <img src="/images/Nicholaus/image 1.jpg" alt="Saint George on horseback kills the dragon">
+ <img src="/Images/Nicholaus/image 1.jpg" alt="Saint George on horseback kills the dragon">
  <figcaption>Saint George on horseback kills the dragon, c. 1135, white marble with pink marble accents, main portal of the Cathedral of Saint George, Ferrara.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ The cycle closes with the **Baptism of Christ** (Matthew 3:13–17; Mark 1:9–1
 ### Lunette of the portal of San Zeno Basilica, Verona
 
 <figure>
- <img src="/images/Nicholaus/image 2.jpg" alt="Lunette of the portal of San Zeno Basilica, Verona">
+ <img src="/Images/Nicholaus/image 2.jpg" alt="Lunette of the portal of San Zeno Basilica, Verona">
  <figcaption>Lunette of the portal, 1138, marble, Saint Zeno Basilica, Verona.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ From an art-historical perspective, the lunette is significant because it displa
 ### Madonna Enthroned Between Two Angels (original polychrome)
 
 <figure>
- <img src="/images/Nicholaus/image 3.jpg" alt="Capital from the Parma Cathedral">
+ <img src="/Images/Nicholaus/image 3.jpg" alt="Capital from the Parma Cathedral">
  <figcaption>Madonna Enthroned Between Two Angels (original polychrome), 1106-20, marble, Parma Cathedral, Parma.</figcaption>
 </figure>
 
@@ -269,7 +269,7 @@ In the context of Parma Cathedral, this image belongs to an advanced Romanesque 
 ### Zodiac portal
 
 <figure>
- <img src="/images/Nicholaus/image 4.jpg" alt="Capitals from the Zodiac portal">
+ <img src="/Images/Nicholaus/image 4.jpg" alt="Capitals from the Zodiac portal">
  <figcaption>Capitals from the Zodiac portal, c. 1128-30, marble, Sacra di San Michele, Chiusa San Michele.</figcaption>
 </figure>
 

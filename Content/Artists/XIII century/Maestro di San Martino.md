@@ -256,7 +256,7 @@ The date and cause of the Maestro di San Martino's death are not recorded in any
 ## Principal Works
 
 <figure>
-  <img src="/images/Maestro di San Martino/image 1.jpg" alt="Madonna with child">
+  <img src="/Images/Maestro di San Martino/image 1.jpg" alt="Madonna with child">
   <figcaption>Madonna with child, c. 1270, tempera on panel, 162 x 125 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ The Virgin's face is rendered with remarkable psychological subtlety: her expres
 These narrative scenes include the Annunciation to Joachim, the Dream of Joachim, the Meeting at the Golden Gate, the Birth of the Virgin, and several episodes relating to the presentation of Mary in the Temple, each executed with a narrative vivacity and compositional intelligence that are wholly exceptional for Pisan painting of the mid-thirteenth century. In the lower register at the right of the altarpiece, four saints are depicted within a lateral compartment, providing the iconic figures required for the complete liturgical programme of the altarpiece. Below the Virgin's throne, occupying a separate horizontal register, appears the episode of Saint Martin dividing his cloak with the poor man, the titular subject of the church, rendered in a compact, narrative idiom that links the altarpiece's Marian programme to the hagiographic identity of its original ecclesiastical location. Stylistically, the work has been dated by various scholars to between the 1250s and the 1290s, with the majority of critical opinion in the late twentieth and early twenty-first centuries gravitating toward the 1260s–1270s as the most probable period of execution.
 
 <figure>
-  <img src="/images/Maestro di San Martino/image 2.jpg" alt="Saint Anne Enthroned with the Infant Mary and Two Angels">
+  <img src="/Images/Maestro di San Martino/image 2.jpg" alt="Saint Anne Enthroned with the Infant Mary and Two Angels">
   <figcaption>Saint Anne Enthroned with the Infant Mary and Two Angels, c. 1270, tempera on panel, 125 x 75 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ The panel depicting *Sant'Anna in trono con Maria bambina e due angeli*, now als
 The iconographic type of the enthroned Saint Anne with the infant Virgin has its roots in the Byzantine tradition of the enthroned Virgin with the Christ Child (*Theotokos*), and the Maestro's adaptation of this schema for a representation of Mary's earthly mother constitutes one of the earliest and most refined Italian examples of this devotional image. The work's provenance from the church of Sant'Anna in Pisa indicates that it was commissioned for a congregation with a specific devotional investment in the cult of Saint Anne, a cult that grew in importance in central Italy in the second half of the Duecento under the influence of Franciscan and Dominican preaching. The panel is consistent in date with the *Madonna di San Martino* and is regarded by most scholars as a roughly contemporary work, produced within the same creative phase of the painter's activity.
 
 <figure>
-  <img src="/images/Ugolino di Tedice/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Ugolino di Tedice/image 1.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1250-60, tempera on poplar panel, 90 x 62 cm, Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -285,7 +285,7 @@ The painted Crucifix in the State Hermitage Museum in Saint Petersburg is the on
 The figure of the crucified Christ is rendered in the *Christus patiens* mode, the dying, suffering Christ, that Giunta Pisano had introduced into Pisan and Italian painting in the 1230s and 1240s under the influence of the Franciscan theology of the Passion, replacing the older *Christus triumphans* of the Romanesque tradition. The *veste di Giovanni dolente*, the garment of the mourning John, visible on the lateral fields of the cross exhibits the luminous striped highlights that Bellosi identified as the Maestro's characteristic *strigilature luminose*, providing one of the key formal bridges between this signed work and the unsigned panels in Pisa. The physiognomic analogy between the suffering Christ of the Hermitage Crucifix and the sleeping Joachim in the *Madonna di San Martino*, specifically a distinctive incised marking that descends from the eye along the cheek in both figures, constituted for Bellosi the strongest visual argument in favour of the identification of the Maestro di San Martino with Ugolino di Tedice.
 
 <figure>
-  <img src="/images/Maestro di San Martino/image 3.jpg" alt="Cristo Benedicente">
+  <img src="/Images/Maestro di San Martino/image 3.jpg" alt="Cristo Benedicente">
   <figcaption>Cristo Benedicente, tempera on panel, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -294,7 +294,7 @@ The small panel depicting the *Cristo Benedicente*, now in the Museo Nazionale d
 Despite the conventionality of the iconographic schema, the face of Christ is animated by the same psychological depth and warm, modulated colorism that distinguishes the painter's Marian images, and the drapery is marked by the fine luminous strigilature that are his hallmark. The work is modest in scale but notable for the quality of its execution, and it testifies to the range of formats and devotional functions for which the painter's panels were produced in the context of thirteenth-century Pisan religious life.
 
 <figure>
-  <img src="/images/Maestro di San Martino/image 4.jpg" alt="Monk before Saint Francis">
+  <img src="/Images/Maestro di San Martino/image 4.jpg" alt="Monk before Saint Francis">
   <figcaption>Monk before Saint Francis, c. 1285, tempera and silver on panel with horizontal grain, Philadelphia Museum of Art, Johnson Collection, Philadelphia.</figcaption>
 </figure>
 

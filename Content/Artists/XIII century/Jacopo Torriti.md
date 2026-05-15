@@ -273,7 +273,7 @@ The date and cause of Jacopo Torriti's death are entirely unknown, as no contemp
 ### Apse decorations
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 1.jpg" alt="Mosaici abside della Basilica di San Giovanni in Laterano">
+  <img src="/Images/Jacopo Torriti/image 1.jpg" alt="Mosaici abside della Basilica di San Giovanni in Laterano">
   <figcaption>Apse decorations, 1291, mosaic (glass paste tiles (enamel) and gilded tiles (glass with gold leaf)), Basilica di San Giovanni in Laterano, Rome.</figcaption>
 </figure>
 
@@ -290,7 +290,7 @@ Because Vespignani's neo-Gothic apse is structurally larger than its medieval pr
 ### Apse and Triumphal Arch
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 3.jpg" alt="Apse and Triumphal Arch Mosaics, Chiesa di Santa Maria Maggiore, Rome">
+  <img src="/Images/Jacopo Torriti/image 3.jpg" alt="Apse and Triumphal Arch Mosaics, Chiesa di Santa Maria Maggiore, Rome">
   <figcaption>Apse and Triumphal Arch, 1295-96, mosaic, Chiesa di Santa Maria Maggiore, Rome.</figcaption>
 </figure>
 
@@ -305,21 +305,21 @@ The deliberate axial alignment of the *Dormitio* below with the Coronation above
 ### Sinopia del Cristo Pantocratore
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 4.jpg" alt="Sinopia del Cristo Pantocratore - Basilica Superiore di San Francesco d'Assisi">
+  <img src="/Images/Jacopo Torriti/image 4.jpg" alt="Sinopia del Cristo Pantocratore - Basilica Superiore di San Francesco d'Assisi">
   <figcaption>Pantocrator (sinopia from the Creation of the World), c. 1290, Basilica Superiore di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
 ### The Creation of the World
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 5.jpg" alt="The Creation of the World, Basilica Superiore di San Francesco d'Assisi, Assisi">
+  <img src="/Images/Jacopo Torriti/image 5.jpg" alt="The Creation of the World, Basilica Superiore di San Francesco d'Assisi, Assisi">
   <figcaption>The Creation of the World, c. 1290, fresco, Basilica Superiore di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
 ### Construction of the Ark
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 6.jpg" alt=" Construction of the Ark, Basilica Superiore di San Francesco d'Assisi, Assisi">
+  <img src="/Images/Jacopo Torriti/image 6.jpg" alt=" Construction of the Ark, Basilica Superiore di San Francesco d'Assisi, Assisi">
   <figcaption> Construction of the Ark, c. 1290, fresco, Basilica Superiore di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
@@ -328,7 +328,7 @@ Among the works attributed to Torriti on the basis of stylistic analysis rather 
 ### Head of the Madonna
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 7.jpg" alt=" Head of the Madonna - Brooklyn Museum, New York">
+  <img src="/Images/Jacopo Torriti/image 7.jpg" alt=" Head of the Madonna - Brooklyn Museum, New York">
   <figcaption> Head of the Virgin, 1296, mosaic, 67.9 × 56.8 × 7.1 cm, Brooklyn Museum, New York. </figcaption>
 </figure>
 
@@ -337,7 +337,7 @@ The third securely documented commission of Jacopo Torriti was the mosaic panel 
 ### Saint Lucia
 
 <figure>
-  <img src="/images/Jacopo Torriti/image 2.jpg" alt="Saint Lucia - Musée de Grenoble">
+  <img src="/Images/Jacopo Torriti/image 2.jpg" alt="Saint Lucia - Musée de Grenoble">
   <figcaption>Saint Lucia (central panel in a triptych of Roman origin), tempera on wood, 170 x 64 cm, Musée de Grenoble.</figcaption>
 </figure>
 

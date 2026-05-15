@@ -194,7 +194,7 @@ His legacy, however, can be measured with considerable precision through the evi
 The Treccani *Enciclopedia dell'Arte Medievale* characterizes the Cecilia Master as one of the most important personalities of the Giottesque school active in Florence, a judgement that situates him firmly within the hierarchy of the Trecento's dominant artistic current while recognizing his independence from Giotto's direct influence. For the modern scholar of medieval Italian painting, the Maestro di Santa Cecilia remains an indispensable reference point in the mapping of the complex intellectual and aesthetic exchanges that made the first two decades of the fourteenth century one of the most generative moments in the history of European art.
 
 <figure>
-  <img src="/images/Maestro di Santa Cecilia/image 1.jpg" alt="Saint Cecilia and stories from her life">
+  <img src="/Images/Maestro di Santa Cecilia/image 1.jpg" alt="Saint Cecilia and stories from her life">
   <figcaption>Saint Cecilia and stories from her life, 1305-10, tempera and gold on panel, 85 x 181 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -203,14 +203,14 @@ The altarpiece of *Santa Cecilia e storie della sua vita* is not merely the work
 The composition follows the established typology of the Tuscan dossal (*dossale*): a large rectangular panel divided into a central field occupied by the enthroned saint and eight flanking scenes arranged in vertical pairs, each recounting an episode from her hagiography as transmitted by the *Passio Sanctae Caeciliae*. Saint Cecilia is shown enthroned in a frontal, hieratic pose, robed in an elaborate gown of red and gold and holding both the palm of martyrdom and an open codex, her expression combining the formality of a sacred icon with a nascent humanity that places this image at the threshold between the Byzantine tradition and the new naturalism. The eight lateral scenes narrate events including her mystical marriage to Valerian, the baptism of Valerian and his brother Tiburtius, the acts of Christian charity for which she and her companions were denounced to the Roman authorities, her appearance before the Prefect Almachius, her attempted martyrdom by suffocation in the baths, her miraculous survival, her preaching to the people of Rome, and her eventual decapitation, all rendered with a narrative clarity and figural grace that makes this altarpiece one of the most accomplished examples of hagiographic painting of its period.
 
 <figure>
-  <img src="/images/Maestro di Santa Cecilia/image 2.jpg" alt="Saint Margaret of Antioch and stories from her life">
+  <img src="/Images/Maestro di Santa Cecilia/image 2.jpg" alt="Saint Margaret of Antioch and stories from her life">
   <figcaption>Saint Margaret of Antioch and stories from her life, 1300s, tempera and gold on panel, 130 x 163 cm, Santa Margherita a Montici, Arcetri.</figcaption>
 </figure>
 
 The *Santa Margherita d'Antiochia e storie della sua vita* is the second major panel attributable to the Master and the one that most clearly demonstrates the geographical reach of his reputation and the adaptability of his compositional format to different hagiographic subjects. Commissioned for the altar of the church of Santa Margherita a Montici, a small hilltop settlement in the Arcetri district south of Florence, this work follows the same dossal typology as the Uffizi altarpiece but is organized around the figure of Saint Margaret of Antioch, the virgin martyr whose legend, narrated in the *Legenda Aurea* of Jacopo da Voragine, included episodes of demonic apparition, miraculous escape from the belly of a dragon, and steadfast resistance to the temptations and tortures of the pagan governor Olybrius. The Richard Offner catalogue of 1931, which first systematically defined the Cecilia Master's corpus, provides the fundamental bibliographic reference for this attribution, confirming that the formal language of this altarpiece is consistent in every essential respect with the Uffizi panel and represents a work of the same hand produced within the same years.
 
 <figure>
-  <img src="/images/Maestro di Santa Cecilia/image 3.jpg" alt="Madonna and Child Enthroned with Saint Francis">
+  <img src="/Images/Maestro di Santa Cecilia/image 3.jpg" alt="Madonna and Child Enthroned with Saint Francis">
   <figcaption>Madonna and Child Enthroned with Saint Francis, c. 1315, tempera and gold on panel, 126,4 x 68,9 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 

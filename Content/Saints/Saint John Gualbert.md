@@ -101,7 +101,7 @@ The confrontation, which became the defining episode of Giovanni's entire life, 
 The gesture struck Giovanni with sudden and overwhelming force. In that instant, he experienced what his biographers interpret as a vision or acute awareness of Christ on the Cross — a direct spiritual confrontation with the logic of Christian forgiveness that cut through every social and familial imperative he had been conditioned to obey. He threw down his sword, granted his brother's murderer full forgiveness, and embraced him. 
 
 <figure class="figure--right figure--right-400">
-  <img src="/images/Saint John Gualbert/image 1.jpg" alt="The Merciful Knight">
+  <img src="/Images/Saint John Gualbert/image 1.jpg" alt="The Merciful Knight">
   <figcaption>Edward Burne-Jones (1833-1898), The Merciful Knight, 1863, watercolour and bodycolour on paper, 100.3 x 69.2 cm, Birmingham City Museum and Art Gallery, Birmingham.</figcaption>
 </figure>
 
@@ -160,21 +160,21 @@ He was universally celebrated for his compassion toward the poor and the sick. A
 The visual arts were drawn to Giovanni Gualberto's story with particular frequency, finding in his life a wealth of dramatic and devotional subject matter. 
 
 <figure class="figure--right figure--right-400">
-  <img src="/images/Saint John Gualbert/image 2.jpg" alt="St. John Gualbert Enthroned with Four Stories from his Life">
+  <img src="/Images/Saint John Gualbert/image 2.jpg" alt="St. John Gualbert Enthroned with Four Stories from his Life">
   <figcaption>Giovanni dal Biondo (news from 1356 to 1398), St. John Gualbert Enthroned with Four Stories from his Life, c. 1370, tempera on panel, Museo dell'Opera di Santa Croce, Florence.</figcaption>
 </figure>
 
 The most celebrated medieval treatment is a large polyptych by Giovanni del Biondo<a href="../../../painters.html#giovanni-del-biondo" class="footnote"><sup>10</sup></a>, painted in 1370, which depicts Saint John Gualbert enthroned in majesty with scenes from his life rendered in the predella panels, originally visible in Saint Micheal monastery at San Salvi and now housed in the Museo dell'Opera di Santa Croce, Florence. 
 
 <figure class="figure--right figure--clear-right figure--right-400">
-  <img src="/images/Saint John Gualbert/image 3.jpg" alt="Glory of St. John Gualbert">
+  <img src="/Images/Saint John Gualbert/image 3.jpg" alt="Glory of St. John Gualbert">
   <figcaption>Neri di Bicci (-1492), Glory of St. John Gualbert, 1455, fresco, Basilica di Santa Trinità, Florence.</figcaption>
 </figure>
 
 A later and more celebrated work is the altarpiece by Neri di Bicci<a href="../../../painters.html#neri-di-bicci" class="footnote"><sup>11</sup></a> painted in 1455 for Santa Trinita in Florence, showing the saint enthroned among companion saints in a gold-ground composition of great refinement. 
 
 <figure class="figure--right figure--clear-right figure--right-400">
-  <img src="/images/Saint John Gualbert/image 4.jpg" alt="Miracle of St. John Gualbert">
+  <img src="/Images/Saint John Gualbert/image 4.jpg" alt="Miracle of St. John Gualbert">
   <figcaption>Bicci di Lorenzo (1368-1452), Miracle of St. John Gualbert, 1434, tempera on panel, 27,5 x 31 cm, Private collection.</figcaption>
 </figure>
 

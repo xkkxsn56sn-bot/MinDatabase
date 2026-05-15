@@ -174,7 +174,7 @@ Whether his cessation of activity was caused by death, by the dissolution of the
 ### The Wise and Foolish Virgins 
 
 <figure>
-  <img src="/images/Maestro Pedret/image 1.jpg" alt="The Wise and Foolish Virgins">
+  <img src="/Images/Maestro Pedret/image 1.jpg" alt="The Wise and Foolish Virgins">
   <figcaption>The Wise and Foolish Virgins, 1090-1110, fresco transferred on canvas, 325 x 315 x 320 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -189,27 +189,27 @@ The scene is often linked to the parable of the Wise and Foolish Virgins, althou
 ### Mural decoration of the central apse: The Apocalypse
 
 <figure>
-  <img src="/images/Maestro Pedret/image 2.jpg" alt="The Apocalypse">
+  <img src="/Images/Maestro Pedret/image 2.jpg" alt="The Apocalypse">
   <figcaption>The Apocalypse, 1090-1110, fresco, 700 x 529 x 775 cm, Museu Diocesà i Comarcal de Solsona.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Maestro Pedret/image 3.jpg" alt="The Apocalypse">
+  <img src="/Images/Maestro Pedret/image 3.jpg" alt="The Apocalypse">
   <figcaption>The Apocalypse, 1090-1110, fresco, 700 x 529 x 775 cm, Museu Diocesà i Comarcal de Solsona.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Maestro Pedret/image 4.jpg" alt="The Apocalypse">
+  <img src="/Images/Maestro Pedret/image 4.jpg" alt="The Apocalypse">
   <figcaption>The Apocalypse, 1090-1110, fresco, 700 x 529 x 775 cm, Museu Diocesà i Comarcal de Solsona.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Maestro Pedret/image 5.jpg" alt="The Apocalypse">
+  <img src="/Images/Maestro Pedret/image 5.jpg" alt="The Apocalypse">
   <figcaption>The Apocalypse, 1090-1110, fresco, 700 x 529 x 775 cm, Museu Diocesà i Comarcal de Solsona.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Maestro Pedret/image 6.jpg" alt="The Apocalypse">
+  <img src="/Images/Maestro Pedret/image 6.jpg" alt="The Apocalypse">
   <figcaption>The Apocalypse, 1090-1110, fresco, 700 x 529 x 775 cm, Museu Diocesà i Comarcal de Solsona.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ The work, removed from the church of Pedret (Cercs, Berguedà) and restored, bea
 ### The Virgin and Child in Majesty and the Adoration of the Magi
 
 <figure>
-  <img src="/images/Maestro Pedret/image 7.jpg" alt="The Virgin and Child in Majesty and the Adoration of the Magi">
+  <img src="/Images/Maestro Pedret/image 7.jpg" alt="The Virgin and Child in Majesty and the Adoration of the Magi">
   <figcaption>The Virgin and Child in Majesty and the Adoration of the Magi, c. 1100, fresco, Metropolitan Museum of Art, The Cloisters, New York.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ In the cylinder of the apse below the hemicycle, fragmentary remains of figures 
 ### Epiphany of Christ
 
 <figure>
-  <img src="/images/Maestro Pedret/image 8.jpg" alt="Epiphany of Christ">
+  <img src="/Images/Maestro Pedret/image 8.jpg" alt="Epiphany of Christ">
   <figcaption>Epiphany of Christ, 1080-1100, fresco, 700 x 410 x 210 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ This programme, which has no precise iconographic parallel in surviving Romanesq
 ### Apostles from Àger: Thaddeus and James
 
 <figure>
-  <img src="/images/Maestro Pedret/image 9.jpg" alt="Apostles from Àger: Thaddeus and James">
+  <img src="/Images/Maestro Pedret/image 9.jpg" alt="Apostles from Àger: Thaddeus and James">
   <figcaption>Apostles from Àger: Thaddeus and James, 1065-80, fresco transferred on canvas, 280 x 144,5 x 4,5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ The faces of the two figures are among the most compelling in the entire Pedret 
 ### Christy in Majesty (Pantocrator)
 
 <figure>
-  <img src="/images/Maestro Pedret/image 10.jpg" alt="Christy in majesty">
+  <img src="/Images/Maestro Pedret/image 10.jpg" alt="Christy in majesty">
   <figcaption>Christy in Majesty (Pantocrator), after 1095, fresco transferred on canvas, 280 x 144,5 x 4,5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 

@@ -222,7 +222,7 @@ The absence of later works in his characteristic style, combined with the emerge
 ### Pistoia Saint Francis Retable
 
 <figure>
-  <img src="/images/Maestro di Santa Primerana/image 6.jpg" alt="Pistoia Saint Francis Retable">
+  <img src="/Images/Maestro di Santa Primerana/image 6.jpg" alt="Pistoia Saint Francis Retable">
   <figcaption>Saint Francis and Eight Stories from His Life (Pistoia Saint Francis Retable), 1250-60, tempera and gold on panel, 160 x 132 cm, Museo Civico, Pistoia.</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ The work is a fundamental document for understanding the birth of hagiographic p
 ### Painted Cross
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 1.jpg" alt="Painted Cross">
+  <img src="/Images/Maestro Croce 434/image 1.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, tempera and gold on panel, 247 x 202 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -280,7 +280,7 @@ The provenance of the cross is unknown: it was already in the Uffizi’s storage
 ### The Stigmata of Saint Francis
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 2.jpg" alt="The Stigmata of Saint Francis">
+  <img src="/Images/Maestro Croce 434/image 2.jpg" alt="The Stigmata of Saint Francis">
   <figcaption>The Stigmata of Saint Francis, 1240s, tempera and gold on panel, 81 x 51 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -301,7 +301,7 @@ This work constitutes an absolute rarity among 13th-century images of Francis: u
 ### Tereglio Crucifix
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 3.jpg" alt="Tereglio Crucifix">
+  <img src="/Images/Maestro Croce 434/image 3.jpg" alt="Tereglio Crucifix">
   <figcaption>Tereglio Crucifix (Christus triumphans), post 1235, tempera and gold on panel, church of Santa Maria Assunta, Tereglio.</figcaption>
 </figure>
 
@@ -325,7 +325,7 @@ Critics have long debated whether the Tereglio Crucifix is the work of the Maste
 ### Bandini Crucifix
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 4.jpg" alt="Bandini Crucifix">
+  <img src="/Images/Maestro Croce 434/image 4.jpg" alt="Bandini Crucifix">
   <figcaption>Bandini Crucifix (Christus triumphans) and The Penitence of Peter, 1230s, tempera and gold on panel, Museo Bandini, Fiesole.</figcaption>
 </figure>
 
@@ -344,7 +344,7 @@ The Bandini Crucifix is one of the rare examples of Florentine painting from the
 ### Madonna di Rosano
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 5.jpg" alt="Madonna di Rosano">
+  <img src="/Images/Maestro Croce 434/image 5.jpg" alt="Madonna di Rosano">
   <figcaption>Madonna di Rosano, c. 1230, tempera and gold on panel, Monastero di Santa Maria a Rosano, Rignano sull'Arno.</figcaption>
 </figure>
 
@@ -368,7 +368,7 @@ The master employs strong contrasts between light and shadow to suggest the plas
 ### Madonna Enthroned with Seventeen Scenes from the Life of the Virgin
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 6.jpg" alt="Madonna Enthroned with Seventeen Scenes from the Life of the Virgin">
+  <img src="/Images/Maestro Croce 434/image 6.jpg" alt="Madonna Enthroned with Seventeen Scenes from the Life of the Virgin">
   <figcaption>Madonna Enthroned with Seventeen Scenes from the Life of the Virgin, 1255-60, tempera and gold on panel, 246 × 138 cm, Pushkin Museum, Moscow.</figcaption>
 </figure>
 

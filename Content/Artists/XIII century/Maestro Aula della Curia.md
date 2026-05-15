@@ -152,56 +152,56 @@ That said, the frescoes themselves testify to a painter who was visually informe
 ### Aula Picta (detail)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 1.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 1.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (detail), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (detail)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 2.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 2.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (detail), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (Saint Alexander on horseback (lintel), Saints Narno and Viatore in pontifical vestments)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 3.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 3.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (Saint Alexander on horseback (lintel), Saints Narno and Viatore in pontifical vestments), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (The Annunciation)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 4.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 4.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (The Annunciation), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (The Last Judgement)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 5.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 5.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (The Last Judgement), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (The Last Supper and the Washing of the Feet)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 6.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 6.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (The Last Supper and the Washing of the Feet), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (Jesus in the Garden of Gethsemane, Jesus' Arrest by the Soldiers, Jesus Before Pilate)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 7.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 7.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (Jesus in the Garden of Gethsemane, Jesus' Arrest by the Soldiers, Jesus Before Pilate), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
 ### Aula Picta (detail)
 
 <figure>
-  <img src="/images/Maestro Aula della Curia/image 8.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
+  <img src="/Images/Maestro Aula della Curia/image 8.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (detail), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 

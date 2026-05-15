@@ -175,7 +175,7 @@ That silence in the historical record is not unusual for a painter of his status
 ### Altarpiece depicting the Transfiguration, the Entry into Jerusalem, and the Raising of Lazarus
 
 <figure>
-  <img src="/images/Guido da Siena/image 1.jpg" alt="Altarpiece depicting the Transfiguration, the Entry into Jerusalem, and the Raising of Lazarus">
+  <img src="/Images/Guido da Siena/image 1.jpg" alt="Altarpiece depicting the Transfiguration, the Entry into Jerusalem, and the Raising of Lazarus">
   <figcaption>Altarpiece depicting the Transfiguration, the Entry into Jerusalem, and the Raising of Lazarus, c. 1270, tempera on linen canvas, 91 x 187 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ In summary, Guido da Siena’s altar frontal combines a strong devotional signif
 ### The Last Judgment
 
 <figure>
-  <img src="/images/Guido da Siena/image 2.jpg" alt="The Last Judgment">
+  <img src="/Images/Guido da Siena/image 2.jpg" alt="The Last Judgment">
   <figcaption>The Last Judgment, 1280, tempera and gold on panel, 140 x 100 cm, Museo Archeologico e d’Arte della Maremma, Grosseto.</figcaption>
 </figure>
 
@@ -233,7 +233,7 @@ The presence of the Franciscan saint, together with the tradition of the blessed
 ### Dossale n. 7
 
 <figure>
-  <img src="/images/Guido da Siena/image 3.jpg" alt="Dossale n. 7">
+  <img src="/Images/Guido da Siena/image 3.jpg" alt="Dossale n. 7">
   <figcaption>Dossale n. 7, 1270, tempera and gold on panel, 96 x 186 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -274,7 +274,7 @@ The work was originally an altar frontal (or altar cloth), serving as liturgical
 ### The Annunciation
 
 <figure>
-  <img src="/images/Guido da Siena/image 4.jpg" alt="The Annunciation">
+  <img src="/Images/Guido da Siena/image 4.jpg" alt="The Annunciation">
   <figcaption>The Annunciation, c. 1270, tempera on panel, 35,1 x 48,8 cm, Princeton University Art Museum, Princeton.</figcaption>
 </figure>
 
@@ -291,7 +291,7 @@ The support is a wooden panel, prepared with gesso and gilding, on which vegetab
 ### The Virgin and Child on the Throne
 
 <figure>
-  <img src="/images/Guido da Siena/image 5.jpg" alt="The Virgin and Child on the Throne">
+  <img src="/Images/Guido da Siena/image 5.jpg" alt="The Virgin and Child on the Throne">
   <figcaption>The Virgin and Child on the Throne, c. 1270, tempera and gold on panel, 198 x 122 cm, Palazzo Bruni-Ciocchi, Museo di Arte Medievale e Moderna, Arezzo.</figcaption>
 </figure>
 
@@ -306,7 +306,7 @@ Originally, this type of panel painting was intended to be an object of collecti
 ### Christ Mounting the Cross and the Funeral of Saint Clare
 
 <figure>
-  <img src="/images/Guido da Siena/image 6.jpg" alt="Christ Mounting the Cross and the Funeral of Saint Clare">
+  <img src="/Images/Guido da Siena/image 6.jpg" alt="Christ Mounting the Cross and the Funeral of Saint Clare">
   <figcaption>Christ Mounting the Cross and the Funeral of Saint Clare, c. 1290, tempera and silver leaf on panel, 79,4 x 51,8 cm, Davis Museum, Wellesley College, Wellesley, MA.</figcaption>
 </figure>
 
@@ -320,7 +320,7 @@ The technique of tempera with silver leaf lends the panel a luminous and preciou
 ### The Flagellation of Christ
 
 <figure>
-  <img src="/images/Guido da Siena/image 7.jpg" alt="The Flagellation of Christ">
+  <img src="/Images/Guido da Siena/image 7.jpg" alt="The Flagellation of Christ">
   <figcaption>The Flagellation of Christ, c. 1270-80, tempera and gold leaf on poplar panel, 33,8 x 45,8 cm, Lindenau Museum, Altenburg.</figcaption>
 </figure>
 
@@ -333,7 +333,7 @@ The theme of the flagellation, widespread in the late medieval period, was parti
 ### The Crucifixion with the Penitent Magdalen
 
 <figure>
-  <img src="/images/Guido da Siena/image 8.jpg" alt="The Crucifixion with the Penitent Magdalen">
+  <img src="/Images/Guido da Siena/image 8.jpg" alt="The Crucifixion with the Penitent Magdalen">
   <figcaption>The Crucifixion with the Penitent Magdalen, c. 1270-80, tempera and gold leaf on panel, 65.1 × 96.5 cm, Yale University Art Museum, New Haven.</figcaption>
 </figure>
 

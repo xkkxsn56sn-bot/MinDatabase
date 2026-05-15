@@ -109,7 +109,7 @@ Meliore di Jacopo is believed to have died around 1285, though no death record, 
 The possibility that a pupil or close follower, identified in the scholarship as the "Maestro del Crocifisso n. 434" by the art historian Edward Garrison, continued his workshop tradition and perpetuated his formal vocabulary into the 1280s adds a further dimension to the question of Meliore's posthumous influence. This anonymous follower is believed to have produced several works previously attributed to Meliore himself, including some of the panels now discussed under his name, suggesting that the master's style was sufficiently distinctive and prestigious to merit deliberate imitation by members of his workshop circle.
 
 <figure>
-  <img src="/images/Meliore di Jacopo/image 1.jpg" alt="Christ the Redeemer alongside Saints Peter, the Virgin Mary, John the Evangelist and Paul">
+  <img src="/Images/Meliore di Jacopo/image 1.jpg" alt="Christ the Redeemer alongside Saints Peter, the Virgin Mary, John the Evangelist and Paul">
   <figcaption>Christ the Redeemer alongside Saints Peter, the Virgin Mary, John the Evangelist and Paul, 1271, tempera and gold on panel, 85 x 209 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ To the right of Christ stand the Virgin Mary and Saint John the Evangelist, the 
 The dossale was acquired by the Uffizi in 1948, and its condition, while not perfect, is sufficiently well preserved to allow a clear reading of Meliore's formal language at the peak of his mature career. The work represents a crucial moment in the history of Florentine painting, combining the inherited Byzantine formal vocabulary with an emergent sensitivity to volume and individual expression that anticipates the innovations of Cimabue.
 
 <figure>
-  <img src="/images/Meliore di Jacopo/image 2.jpg" alt="Madonna and Child Enthroned with Two Angels">
+  <img src="/Images/Meliore di Jacopo/image 2.jpg" alt="Madonna and Child Enthroned with Two Angels">
   <figcaption>Madonna and Child Enthroned with Two Angels, 1270-75, tempera and gold on panel, 118 x 58 cm, Museo di Arte Sacra, Certaldo.</figcaption>
 </figure>
 
@@ -133,7 +133,7 @@ The Child raises his right hand in the blessing gesture common to Byzantine Chri
 The colour palette of this work is among the most celebrated aspects of Meliore's achievement: the intense blue of the Virgin's mantle, the vivid red of her dress, and the warm gold of the ground create a chromatic harmony of extraordinary richness that has been described by scholars as enamel-like in its density and luminosity. The panel has been exceptionally well preserved, having undergone only minimal restorations in 1935-1936 and again in 1972.
 
 <figure>
-  <img src="/images/Meliore di Jacopo/image 3.jpg" alt="Madonna and Child Enthroned between Saint Peter and Saint Paul with Stories from Their Lives">
+  <img src="/Images/Meliore di Jacopo/image 3.jpg" alt="Madonna and Child Enthroned between Saint Peter and Saint Paul with Stories from Their Lives">
   <figcaption>Madonna and Child Enthroned between Saint Peter and Saint Paul with Stories from Their Lives, c. 1270, tempera and gold on panel, 94 x 154 cm, Pieve di San Leolino, Panzano in Chianti.</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ The composition follows a well-established *Duecento* format: the central enthro
 Despite these conservative features, the panel already displays the chromatic sensibility and formal precision that would distinguish Meliore's mature work: the colours are intense and carefully balanced, the gold ground applied with evident skill, and the overall compositional organization confident and assured. The Pieve di San Leolino is a Romanesque basilica of considerable antiquity, and the presence of this early Meliore panel within its walls attests to the importance attributed to Florentine artistic production by the rural ecclesiastical communities of the Chianti.
 
 <figure>
-  <img src="/images/Meliore di Jacopo/image 4.jpg" alt="Sections of the Last Judgment Mosaic">
+  <img src="/Images/Meliore di Jacopo/image 4.jpg" alt="Sections of the Last Judgment Mosaic">
   <figcaption>Sections of the Last Judgment Mosaic, c. 1260-75, mosaic, Battistero di San Giovanni, Florence.</figcaption>
 </figure>
 

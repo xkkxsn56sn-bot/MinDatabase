@@ -173,7 +173,7 @@ The date and cause of death of Gentile da Rocca are entirely unknown to scholars
 ### The Virgin Mary Enthroned, Nursing the Child
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 1.jpg" alt="The Virgin Mary Enthroned, Nursing the Child">
+  <img src="/Images/Gentile da Rocca/image 1.jpg" alt="The Virgin Mary Enthroned, Nursing the Child">
   <figcaption>The Virgin Mary Enthroned, Nursing the Child, 1283, tempera on panel, 169 x 145 x 3 cm, Museo nazionale d'Abruzzo, L'Aquila.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ The scholar [Lucia Arbace](/scholars.html#arbace-lucia) has observed that Gentil
 #### The Last Supper
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 2.jpg" alt="The Last Supper">
+  <img src="/Images/Gentile da Rocca/image 2.jpg" alt="The Last Supper">
   <figcaption>The Last Supper, 1285, fresco, church of Santa Maria ad Cryptas, Fossa.</figcaption>
 </figure>
 
@@ -211,7 +211,7 @@ The critic has astutely observed that this Last Supper is “a particularly sad 
 #### Christ Pantocrator 
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 3.jpg" alt="Christ Pantocrator">
+  <img src="/Images/Gentile da Rocca/image 3.jpg" alt="Christ Pantocrator">
   <figcaption>Christ Pantocrator, 1285, fresco, church of Santa Maria ad Cryptas, Fossa.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ This system was widely used in 13th-century Abruzzo cycles and in Italian painti
 #### The Creation of Adam
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 4.jpg" alt="Creation of Adam ">
+  <img src="/Images/Gentile da Rocca/image 4.jpg" alt="Creation of Adam ">
   <figcaption>The Creation of Adam, 1285, fresco, church of Santa Maria ad Cryptas, Fossa.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ In the scene of the Creation of Adam, Gentile da Rocca depicts the Creator in th
 ### Crucifixion and Saints
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 5.jpg" alt="Crucifixion and Saints">
+  <img src="/Images/Gentile da Rocca/image 5.jpg" alt="Crucifixion and Saints">
   <figcaption>Crucifixion and Saints, 1285, fresco, Oratory of San Onofrio, Monte Morrone.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ The codex *Vita et miracula s. Petri Coelestini* explicitly names a "Magister Ge
 ### Madonna and Child known as Madonna di Ambro
 
 <figure>
-  <img src="/images/Gentile da Rocca/image 6.jpg" alt="Madonna and Child known as Madonna di Ambro">
+  <img src="/Images/Gentile da Rocca/image 6.jpg" alt="Madonna and Child known as Madonna di Ambro">
   <figcaption>Madonna and Child known as Madonna di Ambro, after 1287, tempera and gold canvas mounted on panel, 179 × 66 × 4,5 cm, Museo nazionale d'Abruzzo, L'Aquila.</figcaption>
 </figure>
 

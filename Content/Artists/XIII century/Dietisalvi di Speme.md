@@ -252,7 +252,7 @@ Dietisalvi di Speme's historical significance extends beyond purely aesthetic co
 ### Madonna di San Bernardino
 
 <figure>
-  <img src="/images/Dietisalvi di Speme/image 1.jpg" alt="Madonna di San Bernardino">
+  <img src="/Images/Dietisalvi di Speme/image 1.jpg" alt="Madonna di San Bernardino">
   <figcaption>Madonna di San Bernardino, 1262, tempera and gold on panel, 142 x 100 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ The attribution is far from settled among critics. For a long time, the work was
 ### Madonna del Voto
 
 <figure>
-  <img src="/images/Dietisalvi di Speme/image 2.jpg" alt="Madonna del Voto">
+  <img src="/Images/Dietisalvi di Speme/image 2.jpg" alt="Madonna del Voto">
   <figcaption>Madonna del Voto, 1267-68, tempera and gold on panel, 122 x 70 cm, Cattedrale di Siena.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ The work is not documented in its current location prior to 1420, when it was pl
 ### Madonna Galli-Dunn
 
 <figure>
-  <img src="/images/Dietisalvi di Speme/image 3.jpg" alt="Madonna Galli-Dunn">
+  <img src="/Images/Dietisalvi di Speme/image 3.jpg" alt="Madonna Galli-Dunn">
   <figcaption>Madonna Galli-Dunn, c. 1262, tempera and gold on panel, 120 x 70 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ Despite the overall compositional flair, the folds of the drapery reveal a certa
 ### Tavoletta di biccherna del camarlengo Ildebrandino Pagliaresi
 
 <figure>
-  <img src="/images/Dietisalvi di Speme/image 4.jpg" alt="Tavoletta di biccherna del camarlengo Ildebrandino Pagliaresi, 1264">
+  <img src="/Images/Dietisalvi di Speme/image 4.jpg" alt="Tavoletta di biccherna del camarlengo Ildebrandino Pagliaresi, 1264">
   <figcaption>Tavoletta di biccherna del camarlengo Ildebrandino Pagliaresi, 1264, tempera on panel, 36,4 x 24,2 cm, Archivio di Stato, Siena.</figcaption>
 </figure>
 
@@ -326,7 +326,7 @@ From a stylistic point of view, critics place it outside the strictly Byzantine-
 ### Madonna col Bambino in trono
 
 <figure>
-  <img src="/images/Dietisalvi di Speme/image 5.jpg" alt="Madonna col Bambino in trono">
+  <img src="/Images/Dietisalvi di Speme/image 5.jpg" alt="Madonna col Bambino in trono">
   <figcaption>Madonna col Bambino in trono, 1270-80, tempera on panel, 198 x 122 cm, Museo Nazionale d'Arte Medievale e Moderna, Arezzo.</figcaption>
 </figure>
 

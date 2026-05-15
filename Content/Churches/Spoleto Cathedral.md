@@ -130,7 +130,7 @@ The Diocesan Museum extends this artistic constellation by preserving works link
 The interior of Spoleto Cathedral houses a dense assemblage of liturgical furnishings and devotional images that embody its long history as the diocesan mother church. The high altar and side altars, reshaped by Valadier in the late eighteenth century, frame Lippi’s apse frescoes and integrate marble revetments, sculpted ornament, and tabernacles in a unified late Baroque idiom. Numerous chapels along the aisles and transept are equipped with altarpieces, reliquaries, and sculpted ensembles that reflect the devotions of local confraternities, noble families, and religious orders. These settings once formed part of a still richer Baroque apparatus documented, for example, in the Barberini visitation manuscript of 1610, which records altars, images, and furnishings subsequently removed or transformed.
 
 <figure>
-  <img src="/images/Spoleto Cathedral/image 1.jpg" alt="Holy Icon">
+  <img src="/Images/Spoleto Cathedral/image 1.jpg" alt="Holy Icon">
   <figcaption>Holy Icon, 11-12th century, wooden panel, Chapel of the Holy Icon, Spoleto Cathedral.</figcaption>
 </figure>
 

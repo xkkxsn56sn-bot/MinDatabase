@@ -201,7 +201,7 @@ The physical preservation of Giotto's works, while subject to the inevitable wea
 ### Crucifix
 
 <figure>
-  <img src="/images/Giotto/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Giotto/image 1.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1290-95, tempera and gold on panel, 578 x 406 cm, Basilica di Santa Maria Novella, Florence.</figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ This cross emphasizes physical pain and human empathy, transforming the sacred i
 ### Madonna and Child
 
 <figure>
-  <img src="/images/Giotto/image 2.jpg" alt="Madonna and Child">
+  <img src="/Images/Giotto/image 2.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1320, tempera and gold on panel, 85,5 x 62 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ The white rose in the Virgin’s hand is a classic symbol of her purity, but it 
 ### Madonna and Child with Saints (Badia polyptych)
 
 <figure>
-  <img src="/images/Giotto/image 3.jpg" alt="Badia Polyptych">
+  <img src="/Images/Giotto/image 3.jpg" alt="Badia Polyptych">
   <figcaption>Madonna and Child with Saints (Badia polyptych), 1295-1300, tempera and gold on panel, 142 x 337 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ Originally, the polyptych decorated thehigh altar of the Badia Fiorentina, as al
 
 ### Ognissanti Maestà
 <figure>
-  <img src="/images/Giotto/image 4.jpg" alt="Madonna Enthroned (Ognissanti Madonna)">
+  <img src="/Images/Giotto/image 4.jpg" alt="Madonna Enthroned (Ognissanti Madonna)">
   <figcaption>Virgin and Child enthroned, surrounded by angels and saints (Ognissanti Maestà), 1300-05, tempera and gold on panel, 325 x 204 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ For over a century, the Maestà di Ognissanti served as a compositional and icon
 ### The Entombment of Mary
 
 <figure>
-  <img src="/images/Giotto/image 5.jpg" alt="The Entombment of Mary">
+  <img src="/Images/Giotto/image 5.jpg" alt="The Entombment of Mary">
   <figcaption>The Entombment of Mary, c. 1310, tempera and gold on poplar panel, 75 x 179 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ Originating from the Church of Ognissanti in Florence, the panel disappeared for
 ### The Crucifixion of Christ
 
 <figure>
-  <img src="/images/Giotto/image 6.jpg" alt="The Crucifixion of Christ">
+  <img src="/Images/Giotto/image 6.jpg" alt="The Crucifixion of Christ">
   <figcaption>The Crucifixion of Christ, c. 1315, tempera and gold on panel, 56,4 x 33,7 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 

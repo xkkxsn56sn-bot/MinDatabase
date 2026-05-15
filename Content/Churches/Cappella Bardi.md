@@ -189,7 +189,7 @@ The entire sequence functions as a symbolic narrative: on the one hand, it spiri
 ### The left wall
 
 <figure>
-  <img src="/images/Cappella Bardi/image 1.jpg" alt="Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone">
+  <img src="/Images/Cappella Bardi/image 1.jpg" alt="Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone">
   <figcaption>St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ From a theological perspective, the scene dramatizes the break with the paternal
 Socially, this image speaks powerfully to the Bardi family: Francis’s renunciation of possessions can be read as a projection of a desire for purification, a way to ensure that the wealth accumulated by the bank could be re-legitimized in the light of a complete conversion, even though, economically speaking, the family continued to operate as one of the most powerful forces in Florence. The figure of the bishop, who welcomes the naked Francis into his cloak, further suggests that Franciscan poverty is a matter of the Church, subject to papal and local authority, a message assuring the Bardi family that their devotion to the saint falls within the bounds of orthodoxy and does not contradict their political and economic standing.
 
 <figure>
-  <img src="/images/Cappella Bardi/image 4.jpg" alt="Bardi Chapel - Apparition of Francis to Saint Anthony in the Chapter of Arles">
+  <img src="/Images/Cappella Bardi/image 4.jpg" alt="Bardi Chapel - Apparition of Francis to Saint Anthony in the Chapter of Arles">
   <figcaption>Apparition of Francis to Saint Anthony in the Chapter of Arles, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ Socially, the choice of an apparition episode during a general chapter, thus a c
 For the Bardi, the message is twofold: Francis’s protection extends even to places of power, such as a chapter of friars, and thus, by analogy, can extend to their banking houses and their political alliances, provided they are oriented toward the public good and the Church. The figure of Anthony, in the foreground, then suggests a popular pedagogy: the Franciscan saint also becomes a model for preaching to the citizens, which the Bardi, as patrons, can support through funding for convents, oratories, and street preaching.
 
 <figure>
-  <img src="/images/Cappella Bardi/image 5.jpg" alt="Bardi Chapel - The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata">
+  <img src="/Images/Cappella Bardi/image 5.jpg" alt="Bardi Chapel - The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata">
   <figcaption>The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ Furthermore, the presence of laypeople on either side, participating in the fune
 ### The right wall
 
 <figure>
-  <img src="/images/Cappella Bardi/image 2.jpg" alt="Bardi Chapel - The Confirmation of the Rule">
+  <img src="/Images/Cappella Bardi/image 2.jpg" alt="Bardi Chapel - The Confirmation of the Rule">
   <figcaption>The Confirmation of the Rule, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ Furthermore, the scene offers the Bardi family a representation of social and po
 The Rule, therefore, is an image of control and stability: Francis’s spiritual passion is channeled into a form that makes it enduring, institutionally and socially acceptable, just as the Bardi’s wealth and power can be channeled into architectural, charitable, and cultural projects, so that their presence in the city is not seen as destabilizing, but as a bringer of order, beauty, and faith. The chapel, as a physical space, repeats this pattern: the family owns the chapel but dedicates it exclusively to a saint of poverty, emphasizing that their wealth is not a self-celebration but a means to embody an order of holiness recognized by Rome, symbolized by the pope confirming the Rule. In conclusion, the fresco of the Confirmation of the Rule functions, for the Bardi family, as an icon of theological and social legitimization, in which the Church welcomes and ratifies spiritual radicalism, just as it can welcome, purify, and direct wealth, transforming capital into spirituality, power into service, and family history into a chapter of canonical holiness.
 
 <figure>
-  <img src="/images/Cappella Bardi/image 3.jpg" alt="Bardi Chapel - Trial by Fire">
+  <img src="/Images/Cappella Bardi/image 3.jpg" alt="Bardi Chapel - Trial by Fire">
   <figcaption>Trial by Fire, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -272,7 +272,7 @@ From a social perspective and for the Bardi family, the *Trial by Fire* resonate
 In the context of the Bardi Chapel, the *Trial by Fire* is situated between the establishment of the Rule and the glorification of the saint, functioning as an epiphany of Francis’s apostolic power, which extends beyond the borders of Assisi and Florence, into an arena of universal confrontation. For the Bardi family, the message is clear: Franciscan poverty and holiness possess such strong authority that they can stand up to the political and religious powers of the world, gaining recognition and confirmation, just as their wealth can be recognized as legitimate if used in service to the Church, as in the patronage of the basilica and the chapel itself. The scene, therefore, is an affirmation of intellectual courage and moral commitment, which, ultimately, invites the Bardi family and their successors to view their existence not merely as an accumulation of wealth, but as an opportunity to test their faith and justice in the face of a judgment that, from an eschatological perspective, can be identified with the fire of God’s trial.
 
 <figure>
-  <img src="/images/Cappella Bardi/image 6.jpg" alt="Bardi Chapel - The visions of Brother Augustine and Bishop Guido of Assisi">
+  <img src="/Images/Cappella Bardi/image 6.jpg" alt="Bardi Chapel - The visions of Brother Augustine and Bishop Guido of Assisi">
   <figcaption>The visions of Brother Augustine and Bishop Guido of Assisi, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ At the centre of the fresco, the bier with Francis’s body and the surrounding 
 For the Bardi family, the theological content of the fresco intersects closely with issues of social identity, memoria, and the management of wealth and death. Their chapel, positioned prominently in Santa Croce and adorned with Giotto’s narrative, functioned as a dynastic mausoleum and a visual testament to their piety, seeking to counterbalance the moral ambiguity of vast financial power with the sponsorship of an exemplary Franciscan programme. In this context, the fresco’s emphasis on a “good death” supported by visions and ecclesial recognition offered a paradigm for the Bardi’s own hopes at the hour of death: like Francis, they wished to die under the sign of the Church, surrounded by ritual, aided by intercessors, and ultimately affirmed by divine grace rather than condemned for their riches. The dual visions of Augustine and Guido are particularly meaningful as they bridge monastic and episcopal spheres, implicitly assuring the patrons that devotion to Francis could mediate between their worldly status and the ideals of evangelical poverty celebrated in the chapel. In commissioning such a scene, the Bardi aligned themselves with a saint whose life dramatized radical renunciation yet whose posthumous cult depended on negotiation with urban elites and institutional Church structures—not unlike their own position as bankers serving popes and princes. The fresco, with its interplay of grief, verification, and exaltation, invites viewers to read the chapel itself as a place where the passage from wealth to grace, from civic fame to eternal memory, is staged under the patronage of Francis, thereby transforming financial capital into symbolic and spiritual capital.
 
 <figure>
-  <img src="/images/Cappella Bardi/image 7.jpg" alt="Bardi Chapel - Saint Francis receives the stigmata">
+  <img src="/Images/Cappella Bardi/image 7.jpg" alt="Bardi Chapel - Saint Francis receives the stigmata">
   <figcaption>Saint Francis receives the stigmata, 1325, fresco, 390 x 370 cm, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 

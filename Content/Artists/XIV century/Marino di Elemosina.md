@@ -129,7 +129,7 @@ The mention of Marino in discussions of Umbrian painted crosses “at the time o
 ## Works and iconography
 
 <figure>
-  <img src="/images/Marino di Elemosina/image 1.jpg" alt="Madonna in trono col Bambino tra i santi Paolo, Pietro Celestino e quattro angeli">
+  <img src="/Images/Marino di Elemosina/image 1.jpg" alt="Madonna in trono col Bambino tra i santi Paolo, Pietro Celestino e quattro angeli">
   <figcaption>Madonna Enthroned with Child between Saints Paul, Peter Celestine, and Four Angels, c. 1313, tempera on panel, 151 x 233 cm, Galleria Nazionale dell'Umbria, Palazzo dei Priori, Perugia.</figcaption>
 </figure>
 

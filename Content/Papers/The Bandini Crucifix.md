@@ -107,7 +107,7 @@ The question of the Master's cultural formation — whether Lucchese or Florenti
 ## The Iconographic Program: Christus Triumphans and the Denial of Peter
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 4.jpg" alt="Bandini Crucifix">
+  <img src="/Images/Maestro Croce 434/image 4.jpg" alt="Bandini Crucifix">
   <figcaption>Bandini Crucifix and The Penitence of Peter, 1230s, tempera and gold on panel, Museo Bandini, Fiesole.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ The recovery of the Bandini Crucifix as an independently legible work of Duecent
 Procacci, who was both a distinguished art historian and the founder in 1932 of the *Gabinetto di restauro dei dipinti* in Florence, encountered at the Museo Bandini an object of extraordinary complexity: a composite assemblage of pictorial and structural elements from different periods, which he himself described in print as *un insolito raffazzonamento* — an unusual and incoherent patchwork. At the center of this assemblage was a cross-shaped panel bearing a crude painted Crucifixion apparently dating from the eighteenth century; flanking it were two panels representing Saints James and Nicholas of Bari, extracted from a dismembered polyptych and identified by [Mario Salmi](/scholars.html#salmi-mario) as works of the Florentine painter Lorenzo di Bicci, dateable to approximately 1395–1400. 
 
 <figure>
-  <img src="/images/Maestro Croce 434/image 7.jpg" alt="The Unusual Composition of the Crucifixion Scene Between Saints James and Nicholas">
+  <img src="/Images/Maestro Croce 434/image 7.jpg" alt="The Unusual Composition of the Crucifixion Scene Between Saints James and Nicholas">
   <figcaption>The Unusual Composition of the Crucifixion Scene Between Saints James and Nicholas, Museo Bandini, Fiesole.</figcaption>
 </figure>
 

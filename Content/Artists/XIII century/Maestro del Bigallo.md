@@ -302,7 +302,7 @@ The Compagnia del Bigallo was thus the product of a specific and unrepeatable hi
 ### Crucifix with Angels and the Mourners (Christus Triumphans) - Florence
 
 <figure>
- <img src="/images/Maestro Bigallo/image 1.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
+ <img src="/Images/Maestro Bigallo/image 1.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
   <figcaption>Crucifix with Angels and the Mourners (Christus Triumphans), 1230-35, tempera and gold leaf on panel, 191 x 127 cm, Loggia del Bigallo, Florence.</figcaption>
 </figure>
 
@@ -323,7 +323,7 @@ This work reflects the transition from rigid Byzantine frontality to greater Ita
 ### Madonna and Child with Saints
 
 <figure>
- <img src="/images/Maestro Bigallo/image 2.jpg" alt="Madonna and Child with Saints">
+ <img src="/Images/Maestro Bigallo/image 2.jpg" alt="Madonna and Child with Saints">
   <figcaption>Madonna and Child with Saints, 1230-35, tempera and gold leaf on panel, 129 x 67,5 m, Museo di Arte Sacra, Certaldo.</figcaption>
 </figure>
 
@@ -342,7 +342,7 @@ The work, documented since 1589 on the altar of Santa Maria a Bagnano, was moved
 ### Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi
 
 <figure>
- <img src="/images/Maestro Bigallo/image 3.jpg" alt="Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi">
+ <img src="/Images/Maestro Bigallo/image 3.jpg" alt="Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi">
   <figcaption>Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi, 1240s, tempera and gold leaf on panel, 112 x 278 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -359,7 +359,7 @@ The surface is covered in gold leaf stamped with rosettes and stars, featuring p
 ### Madonna and Child in majesty with two angels
 
 <figure>
- <img src="/images/Maestro Bigallo/image 4.jpg" alt="Madonna and Child in majesty with two angels">
+ <img src="/Images/Maestro Bigallo/image 4.jpg" alt="Madonna and Child in majesty with two angels">
   <figcaption>Madonna and Child in majesty with two angels, 1261-75, tempera and gold leaf on panel, 130 x 56 cm, São Paulo Museum of Art, São Paulo.</figcaption>
 </figure>
 
@@ -378,7 +378,7 @@ The hammered and engraved gold background creates divine luminosity, with pale c
 ### The Enthroned Madonna and Child
 
 <figure>
- <img src="/images/Maestro Bigallo/image 5.jpg" alt="The Enthroned Madonna and Child">
+ <img src="/Images/Maestro Bigallo/image 5.jpg" alt="The Enthroned Madonna and Child">
   <figcaption>The Enthroned Madonna and Child, 1215-20, tempera and gold leaf on panel, 123 x 73 cm, Cattedrale di San Romolo, Fiesole.</figcaption>
 </figure>
 
@@ -395,7 +395,7 @@ The technique emphasizes incisive lines, pale flesh tones modeled by minimal sha
 ### Crucifix with Angels and the Mourners (Christus Triumphans) - Rome
 
 <figure>
- <img src="/images/Maestro Bigallo/image 6.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
+ <img src="/Images/Maestro Bigallo/image 6.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
   <figcaption>Crucifix with Angels and the Mourners (Christus Triumphans), post 1225, tempera and gold leaf on panel, 160 x 110 cm, Galleria Nazionale d'Arte Antica, Palazzo Barberini, Rome.</figcaption>
 </figure>
 
@@ -414,7 +414,7 @@ The technique employs lean tempera on beaten gold, with incisive lines for outli
 ### Crucifix (Christus patiens)
 
 <figure>
- <img src="/images/Maestro Bigallo/image 7.jpg" alt="Crucifix (Christus patiens)">
+ <img src="/Images/Maestro Bigallo/image 7.jpg" alt="Crucifix (Christus patiens)">
   <figcaption>Crucifix (Christus patiens), 1230-40, tempera and gold leaf on panel, 191 x 127,2 cm, Art Institute of Chicago, Chicago, IL.</figcaption>
 </figure>
 

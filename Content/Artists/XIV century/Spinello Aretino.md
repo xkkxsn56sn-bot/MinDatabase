@@ -216,7 +216,7 @@ Spinello Aretino's surviving oeuvre is large and varied, encompassing monumental
 ### Crucifixion Triptych
 
 <figure>
-  <img src="/images/Spinello Aretino/image 1.jpg" alt="Crucifixion Triptych">
+  <img src="/Images/Spinello Aretino/image 1.jpg" alt="Crucifixion Triptych">
   <figcaption>Crucifixion Triptych, c. 1395, tempera and gold on panel, 125 x 191,7 cm, Museo nazionale di Villa Guinigi, Lucca.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ In the left panel, two patron saints of Lucca dominate the composition: Saint Pa
 ### Annunciation
 
 <figure>
-  <img src="/images/Spinello Aretino/image 2.jpg" alt="Annunciation">
+  <img src="/Images/Spinello Aretino/image 2.jpg" alt="Annunciation">
   <figcaption>Annunciation, 1395-1405, tempera and gold on panel, each panel: 80 x 50.8 cm, Fitzwilliam Museum, Cambridge.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ This Annunciation exemplifies Spinello’s stylistic evolution toward an interna
 ### Saint Stephen
 
 <figure>
-  <img src="/images/Spinello Aretino/image 3.jpg" alt="Saint Stephen">
+  <img src="/Images/Spinello Aretino/image 3.jpg" alt="Saint Stephen">
   <figcaption>Saint Stephen, 1400-05, tempera and gold on panel, 93 x 33 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ The composition as a whole creates an image of powerful symbolic intensity: Step
 ### Triptych of Madonna enthroned with child and saints
 
 <figure>
-  <img src="/images/Spinello Aretino/image 4.jpg" alt="Triptych of Madonna enthroned with child and saints">
+  <img src="/Images/Spinello Aretino/image 4.jpg" alt="Triptych of Madonna enthroned with child and saints">
   <figcaption>Triptych of Madonna enthroned with child and saints, 1391, tempera and gold on panel, 170 x 209 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ The work is therefore much more than a simple Madonna and Child: it is a great d
 ### Saints Benedikt and Pontian
 
 <figure>
-  <img src="/images/Spinello Aretino/image 5.jpg" alt="Saints Benedikt and Pontian">
+  <img src="/Images/Spinello Aretino/image 5.jpg" alt="Saints Benedikt and Pontian">
   <figcaption>Saints Benedict and Pontian, 1384-85, tempera and gold on poplar panel, 127,5 x 44,5 cm and 130 x 41,5 cm, Hermitage, Saint Petersburg.</figcaption>
 </figure>
 
@@ -306,7 +306,7 @@ Spinello Aretino’s fresco *Stories from the Life of St. Benedict* in the sacri
 The patron was *Benedetto degli Alberti*, a wealthy banker exiled from Florence, who in 1387 left a bequest for the decoration of the sacristy, thus linking the figure of Abbot Benedict to that of a Florentine patron associated with the themes of exile and redemption. Saint Benedict thus appears both as the founder of the Order and as a charismatic patron capable of subduing kings and demons, exalting the moral primacy of the ascetic over temporal power.
 
 <figure>
-  <img src="/images/Spinello Aretino/image 6.jpg" alt="Stories of the life of S. Benedict (south wall)">
+  <img src="/Images/Spinello Aretino/image 6.jpg" alt="Stories of the life of S. Benedict (south wall)">
   <figcaption>Stories of the life of S. Benedict (south wall), 1387-88, fresco, sacristy of San Miniato al Monte, Florence.</figcaption>
 </figure>
 
@@ -326,7 +326,7 @@ This choice to place scenes 15 and 16 at the bottom is not accidental: the lower
 ### Stories of the life of S. Benedict (north wall)
 
 <figure>
-  <img src="/images/Spinello Aretino/image 7.jpg" alt="Stories of the life of S. Benedict (north wall)">
+  <img src="/Images/Spinello Aretino/image 7.jpg" alt="Stories of the life of S. Benedict (north wall)">
   <figcaption>Stories of the life of S. Benedict (north wall), 1387-88, fresco, sacristy of San Miniato al Monte, Florence.</figcaption>
 </figure>
 
@@ -345,7 +345,7 @@ Overall, the north wall constructs a true “trial phase” of the cycle: carnal
 ### Stories of the life of S. Benedict (east wall)
 
 <figure>
-  <img src="/images/Spinello Aretino/image 8.jpg" alt="Stories of the life of S. Benedict (east wall)">
+  <img src="/Images/Spinello Aretino/image 8.jpg" alt="Stories of the life of S. Benedict (east wall)">
   <figcaption>Stories of the life of S. Benedict (east wll), 1387-88, fresco, sacristy of San Miniato al Monte, Florence.</figcaption>
 </figure>
 
@@ -364,7 +364,7 @@ Overall, the east wall serves as a narrative bridge between the community’s fo
 ### Stories of the life of S. Benedict (west wall)
 
 <figure>
-  <img src="/images/Spinello Aretino/image 9.jpg" alt="Stories of the life of S. Benedict (west wall)">
+  <img src="/Images/Spinello Aretino/image 9.jpg" alt="Stories of the life of S. Benedict (west wall)">
   <figcaption>Stories of the life of S. Benedict (west wall), 1387-88, fresco, sacristy of San Miniato al Monte, Florence.</figcaption>
 </figure>
 
@@ -383,7 +383,7 @@ Overall, the west wall functions as the “heart” of the Order’s foundation:
 ### Road to Calvary
 
 <figure>
-  <img src="/images/Spinello Aretino/image 10.jpg" alt="Road to Calvary">
+  <img src="/Images/Spinello Aretino/image 10.jpg" alt="Road to Calvary">
   <figcaption>Road to Calvary, 1380-90, fresco, sacristy of Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -403,7 +403,7 @@ Spinello uses color and the arrangement of the figures to accentuate the dramati
 ### Madonna Enthroned with the Child and Four Saints
 
 <figure>
-  <img src="/images/Spinello Aretino/image 11.jpg" alt="Madonna Enthroned with the Child and Four Saints">
+  <img src="/Images/Spinello Aretino/image 11.jpg" alt="Madonna Enthroned with the Child and Four Saints">
   <figcaption>Madonna Enthroned with the Child and Four Saints, 1393, tempera and gold on panel, church of Santa Maria a Quinto, Sesto Fiorentino.</figcaption>
 </figure>
 

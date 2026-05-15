@@ -121,7 +121,7 @@ The iconographic program of the *Paliotto del Salvatore*, and in particular the 
 ### The Savior Blessing and Stories of the True Cross
 
 <figure>
-  <img src="/images/Maestro Tressa/image 1.jpg" alt="The Savior Blessing and Stories of the True Cross">
+  <img src="/Images/Maestro Tressa/image 1.jpg" alt="The Savior Blessing and Stories of the True Cross">
   <figcaption>The Savior Blessing and Stories of the True Cross, 1215, tempera and gold leaf on panel, 98 x 198 cm, Pinacoteca Nazionale di Siena. </figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ The final scene completes the program with the martyrdom of Saint Alexander (and
 ### Madonna with the Big Eyes
 
 <figure>
-  <img src="/images/Maestro Tressa/image 2.jpg" alt="Madonna with the Big Eyes">
+  <img src="/Images/Maestro Tressa/image 2.jpg" alt="Madonna with the Big Eyes">
   <figcaption>Madonna with the Big Eyes, c. 1225, tempera and gold leaf on panel, 97 x 67 cm, Museo dell'Opera del Duomo, Siena. </figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ Originally part of a larger altarpiece with Marian scenes on the sides (now lost
 ### Madonna di Tressa
 
 <figure>
-  <img src="/images/Maestro Tressa/image 3.jpg" alt="Madonna di Tressa">
+  <img src="/Images/Maestro Tressa/image 3.jpg" alt="Madonna di Tressa">
   <figcaption>Madonna di Tressa, 1230-40, tempera and gold leaf on panel, 75,5 x 56,5, Museo Diocesano di Siena. </figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ The damage has preserved mainly the upper parts, allowing identification through
 ### Madonna and Child with Angels and Saints
 
 <figure>
-  <img src="/images/Maestro Tressa/image 4.jpg" alt="Madonna and Child with Angels and Saints">
+  <img src="/Images/Maestro Tressa/image 4.jpg" alt="Madonna and Child with Angels and Saints">
   <figcaption>Madonna and Child with Angels and Saints, c. 1240, tempera and gold leaf on panel, 93 x 52 cm, Chigi Saracini Collection, Siena. </figcaption>
 </figure>
 

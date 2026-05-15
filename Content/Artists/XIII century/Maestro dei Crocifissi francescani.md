@@ -257,7 +257,7 @@ The date and cause of death of the Master of the Franciscan Crucifixes are entir
 ### Christus patiens, c. 1250
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 1.jpg" alt="Christus Patiens - Museo della Basilica di San Francesco d'Assisi, Assisi">
+  <img src="/Images/Maestro Crocifissi francescani/image 1.jpg" alt="Christus Patiens - Museo della Basilica di San Francesco d'Assisi, Assisi">
   <figcaption>Christus patiens, c. 1250, tempera and gold leaf on wooden panel, Museo della Basilica di San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ The lateral *tabelloni* at the ends of the horizontal arms show the half-length 
 ### Christus patiens, 1272
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 6.jpg" alt="Christus Patiens - Pinacoteca Nazionale dell'Umbria, Perugia">
+  <img src="/Images/Maestro Crocifissi francescani/image 6.jpg" alt="Christus Patiens - Pinacoteca Nazionale dell'Umbria, Perugia">
   <figcaption>Christus patiens, 1272, tempera and gold leaf on wooden panel, 410 × 328 cm, Pinacoteca Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ The technique is tempera and gold on wood, animated by a rich and skillfully orc
 ### Christus patiens, 1255-60
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 2.jpg" alt="Christus Patiens - Pinacoteca Nazionale, Bologna">
+  <img src="/Images/Maestro Crocifissi francescani/image 2.jpg" alt="Christus Patiens - Pinacoteca Nazionale, Bologna">
   <figcaption>Christus patiens, 1255-60, tempera and gold leaf on wooden panel, 309 × 196 cm, Pinacoteca Nazionale, Bologna.</figcaption>
 </figure>
 
@@ -294,14 +294,14 @@ The work has been at the center of debates about the boundaries of the Master's 
 ### Mourning Madonna
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 4.jpg" alt="Mourning Madonna - National Gallery of Art, Washington ">
+  <img src="/Images/Maestro Crocifissi francescani/image 4.jpg" alt="Mourning Madonna - National Gallery of Art, Washington ">
   <figcaption>Mourning Madonna, 1270-75, tempera on panel, 81 x 31,7 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
 ### Mourning Saint John the Evangelist
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 5.jpg" alt="Mourning Saint John - National Gallery of Art, Washington ">
+  <img src="/Images/Maestro Crocifissi francescani/image 5.jpg" alt="Mourning Saint John - National Gallery of Art, Washington ">
   <figcaption>Mourning Saint John the Evangelist, 1270-75, tempera on panel, 81,2 x 31,1 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
@@ -314,7 +314,7 @@ The *Mourning Saint John* presents the beloved disciple in a complementary postu
 ### Christus patiens, 1270-75
 
 <figure>
-  <img src="/images/Maestro Crocifissi francescani/image 3.jpg" alt="Christus Patiens - Pinacoteca Comunale, Faenza ">
+  <img src="/Images/Maestro Crocifissi francescani/image 3.jpg" alt="Christus Patiens - Pinacoteca Comunale, Faenza ">
   <figcaption>Christus patiens, 1270-75, tempera on canvas applied to wood with semi-precious stone and glass paste inserts, 198 × 157 cm, Pinacoteca Comunale, Faenza.</figcaption>
 </figure>
 

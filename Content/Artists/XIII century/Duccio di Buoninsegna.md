@@ -185,21 +185,21 @@ The technical investigations employing scientific analysis, infrared reflectogra
 ### Maestà (central panel)
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 1.jpg" alt="Maestà (central panel)">
+  <img src="/Images/Duccio di Buoninsegna/image 1.jpg" alt="Maestà (central panel)">
   <figcaption>Maestà (central panel), 1308-11, tempera and gold on panel, 214 x 435 cm, Museo dell'Opera del Duomo, Siena.</figcaption>
 </figure>
 
 ### Maestà (Virtual reconstruction of the front section)
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 2.jpg" alt="Maestà (Ricostruzione virtuale della parte anteriore)">
+  <img src="/Images/Duccio di Buoninsegna/image 2.jpg" alt="Maestà (Ricostruzione virtuale della parte anteriore)">
   <figcaption>Maestà (Virtual reconstruction of the front section), 1308-11, tempera and gold on panel, 370 x 450 cm.</figcaption>
 </figure>
 
 ### Maestà (Virtual reconstruction of the back section)
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 3.jpg" alt="Maestà (Ricostruzione virtuale della parte posteriore)">
+  <img src="/Images/Duccio di Buoninsegna/image 3.jpg" alt="Maestà (Ricostruzione virtuale della parte posteriore)">
   <figcaption>Maestà (Virtual reconstruction of the back section), 1308-11, tempera and gold on panel, 370 x 450 cm.</figcaption>
 </figure>
 
@@ -224,7 +224,7 @@ The subsequent dismantling of the Maestà, beginning in the sixteenth century an
 ### Virgin and Child enthroned, surrounded by angels (the Rucellai Madonna)
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 4.jpg" alt="Madonna Rucellai">
+  <img src="/Images/Duccio di Buoninsegna/image 4.jpg" alt="Madonna Rucellai">
   <figcaption>Virgin and Child enthroned, surrounded by angels (known as the Rucellai Madonna), c. 1285, tempera and gold on panel, 450 x 290 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ The work's attribution history illuminates broader issues of artistic identity a
 ### Stained Glass Window
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 5.jpg" alt="Stained Glass Window">
+  <img src="/Images/Duccio di Buoninsegna/image 5.jpg" alt="Stained Glass Window">
   <figcaption>Stained Glass Window, 1286-87, stained glass, 560 cm diameter, Museo dell'Opera del Duomo, Siena.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ The window's prominent architectural position, filling the apse's circular openi
 ### Madonna and Child with Saints
 
 <figure>
-  <img src="/images/Duccio di Buoninsegna/image 6.jpg" alt="Madonna and Child with Saints">
+  <img src="/Images/Duccio di Buoninsegna/image 6.jpg" alt="Madonna and Child with Saints">
   <figcaption>Madonna and Child with Saints, 1300s, tempera and gold on panel, 128 x 234 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 

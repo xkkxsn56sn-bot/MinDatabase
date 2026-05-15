@@ -92,7 +92,7 @@ Regarding the date and cause of his death, the silence of the surviving sources 
 ### Christus Triumphans and stories
 
 <figure>
- <img src="/images/Santo Sepolcro/Croce dipinta.jpg" alt="Croce dipinta by Maestro della Croce del Santo Sepolcro">
+ <img src="/Images/Santo Sepolcro/Croce dipinta.jpg" alt="Croce dipinta by Maestro della Croce del Santo Sepolcro">
  <figcaption>Christus Triumphans and stories, second half of the 12th century, tempera and gold on panel, 282 x 236 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

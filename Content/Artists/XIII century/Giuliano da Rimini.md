@@ -171,7 +171,7 @@ The precise details of Giuliano da Rimini's final years are somewhat obscure, as
 ### The Coronation of the Virgin and the Saints
 
 <figure>
-  <img src="/images/Giuliano da Rimini/image 1.jpg" alt="The Coronation of the Virgin and the Saints">
+  <img src="/Images/Giuliano da Rimini/image 1.jpg" alt="The Coronation of the Virgin and the Saints">
   <figcaption>The Coronation of the Virgin and the Saints, 1320, 205,5 x 500 cm, tempera and gold on panel, Museo della Città di Rimini.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ The overall dimensions of the triptych are impressive: the total width is approx
 ### Crucifixion
 
 <figure>
-  <img src="/images/Giuliano da Rimini/image 2.jpg" alt="Crucifixion">
+  <img src="/Images/Giuliano da Rimini/image 2.jpg" alt="Crucifixion">
   <figcaption>Crucifixion, fresco, church of San Marco, Jesi.</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ In the church of San Marco in Jesi, the Crucifixion serves as a high point of th
 ### Virgin and Child Enthroned with Saints
 
 <figure>
-  <img src="/images/Giuliano da Rimini/image 3.jpg" alt="Virgin and Child Enthroned with Saints">
+  <img src="/Images/Giuliano da Rimini/image 3.jpg" alt="Virgin and Child Enthroned with Saints">
   <figcaption>Virgin and Child Enthroned with Saints, 1307, tempera and gold on panel, 164 x 300 cm, Isabella Stewart-Gardner Museum, Boston.</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ The work was conceived as a central focus of contemplation for a community of nu
 ### Crucifixion with Mary and John the Apostle
 
 <figure>
-  <img src="/images/Giuliano da Rimini/image 4.jpg" alt="Crucifixion with Mary and John the Apostle">
+  <img src="/Images/Giuliano da Rimini/image 4.jpg" alt="Crucifixion with Mary and John the Apostle">
   <figcaption>Crucifixion with Mary and John the Apostle, 1315-20, detached fresco, 137 × 220 cm, Palazzo dei Servi di Maria, Forlì.</figcaption>
 </figure>
 

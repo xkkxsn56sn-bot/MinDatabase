@@ -146,7 +146,7 @@ The papal library's collection of his works reflects the highest level of church
 Rhabanus Maurus developed a revolutionary artistic style centered on the creation of *carmina figurata*, pattern poems that integrated textual and visual elements in unprecedented ways within medieval manuscript illumination. His artistic approach combined Rustic Capitals and Uncial scripts within grid patterns that formed recognizable images including crosses, human figures, animals, and geometric shapes. 
 
 <figure class="figure--right">
-  <img src="/images/Rhabanus/image 2.jpg" alt="Carmina Figurata">
+  <img src="/Images/Rhabanus/image 2.jpg" alt="Carmina Figurata">
   <figcaption>Example of carmina figurata (Leaf 5 verso of Liber de Laudibus Sanctae Crucis), 11th century, mineral pigments on parchment, 42 x 34.5 cm, Bern burgbiblothek, Cod.9.</figcaption>
 </figure>
 
@@ -197,7 +197,7 @@ The survival of approximately eighty manuscript copies of his major work "De lau
 ### Rabanus (left), introduced by Alcuin, presents the illuminated codex to Otgar, Bishop of Mainz
 
 <figure>
-  <img src="/images/Rhabanus/image 1.jpg" alt="Rhabanus, Alcuin and Otgar in De Laudibus sanctae crucis">
+  <img src="/Images/Rhabanus/image 1.jpg" alt="Rhabanus, Alcuin and Otgar in De Laudibus sanctae crucis">
   <figcaption>Rabanus (left), introduced by Alcuin, presents the illuminated codex to Otgar, Bishop of Mainz - folio 2v, De Laudibus sanctae crucis, 830-840, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 403 x 307 mm, Österreichische Nationalbibliothek, Wien, cod. 652.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ The final figured poem presents an author portrait showing Rhabanus himself knee
 ### De Universo (The building of the Tower of Babel)
 
 <figure>
-  <img src="/images/Rhabanus/image 3.jpg" alt="The building of the Tower of Babel - De Universo">
+  <img src="/Images/Rhabanus/image 3.jpg" alt="The building of the Tower of Babel - De Universo">
   <figcaption>De Universo (The building of the Tower of Babel), c. 1023, mineral and vegetal pigments parchment, 490 x 350 mm, Monastery Library, Montecassino, Cod. 132.</figcaption>
 </figure>
 

@@ -108,7 +108,7 @@ meta:
 The Morgan Beatus, formally known as Pierpont Morgan Library manuscript M.644, stands as one of the most visually arresting and historically significant illuminated manuscripts produced in medieval Europe. Its creation around the mid-10th century, approximately 945, places it at a critical juncture in the history of the Iberian Peninsula, a period defined by the complex interplay of warring Christian and Muslim polities. This manuscript is a richly illustrated copy of the Commentary on the Apocalypse attributed to the 8th-century Spanish monk Beatus of Liébana, a work that achieved remarkable popularity in the Christian kingdoms of northern Iiberia. The Morgan Beatus exemplifies the unique artistic tradition often termed "Mozarabic," a style that emerged from centuries of cultural coexistence and conflict between Christians, Muslims, and Jews in the Iberian Peninsula. Its vibrant palette, dynamic figures, and intricate decorative programs reflect a sophisticated synthesis of local Hispano-Visigothic traditions, revived Carolingian forms, and direct borrowings from the artistic vocabulary of neighboring Umayyad al-Andalus. 
 
 <figure>
-  <img src="/images/Morgan Beatus/Morgan Beatus 1.jpg" alt="Commentary on the Apocalypse, folio 2r">
+  <img src="/Images/Morgan Beatus/Morgan Beatus 1.jpg" alt="Commentary on the Apocalypse, folio 2r">
   <figcaption>Commentary on the Apocalypse - folio 2r, Inscription: "VOX CLAMANTIS IN DESERTO". Half figure of Evangelist Symbol of Mark, Morgan Beatus, c. 945, mineral and vegetal pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.</figcaption>
 </figure>
 

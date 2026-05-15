@@ -300,7 +300,7 @@ No documentary record of the Maestro di San Francesco's death survives, as would
 ## Principal Works
 
 <figure>
-  <img src="/images/Maestro di San Francesco/image 1.jpg" alt="San Francesco e due angeli - Museo della Porziuncola at Santa Maria degli Angeli in Assisi">
+  <img src="/Images/Maestro di San Francesco/image 1.jpg" alt="San Francesco e due angeli - Museo della Porziuncola at Santa Maria degli Angeli in Assisi">
   <figcaption>Portrait of Saint Francis with two angels, 1265-75, tempera and gold leaf on panel, 107 x 57 cm, Museo della Porziuncola at Santa Maria degli Angeli in Assisi.</figcaption>
 </figure>
 
@@ -313,7 +313,7 @@ The fresco cycle in the Lower Basilica of San Francesco at Assisi (ca. 1260–12
 The Treccani entry identifies as autograph the scenes concentrated in the second bay and partially in the first and third, while attributing the Dream and Renunciation to a hand more closely aligned with the giuntesco-Spoletine culture of the late 1250s, and the Funeral to a more cursive and summary execution style. The Crucifixion scene, in which the dying Christ commends his mother to John the Evangelist while angels descend to gather the blood from his wounds and a Byzantine-derived crowd of soldiers, mourners, and witnesses surrounds the cross, deploys the dramatic resources of the Maestro's mature style with particular authority, organizing the complex multi-figure composition around the central vertical of the cross with a clarity of theological vision that makes the complex narrative immediately readable. The Lamentation, in which the body of Christ is mourned by the Virgin (who swoons in a gesture of total physical abandonment to grief), Saint John, the Magdalene, and other holy figures, represents the most emotionally intense passage in the cycle and the most direct anticipation of the great Trecento Passion cycles. The parallel scene of the Funeral of Saint Francis on the opposite wall, in which the assembled friars point to the stigmata on the dead saint's body as proof of his Christ-like sanctity, completes the typological argument of the cycle by showing the death of the alter Christus in explicit visual correspondence with the death of Christ himself. The fresco cycle is now housed in a condition of significant damage, the enlargement of the nave windows for the lateral chapel entrances in the fourteenth century destroyed substantial portions of each scene, but the surviving fragments retain sufficient legibility to sustain scholarly analysis and to communicate the cycle's extraordinary expressive power. The fresco cycle remains in situ in the Lower Basilica of San Francesco at Assisi, preserved as a component of the UNESCO World Heritage complex that includes both the upper and lower basilica.
 
 <figure>
-  <img src="/images/Maestro di San Francesco/image 4.jpg" alt="Crucifix of London - National Gallery, London">
+  <img src="/Images/Maestro di San Francesco/image 4.jpg" alt="Crucifix of London - National Gallery, London">
   <figcaption>Crucifix of London, c. 1265-70, tempera and gold leaf on panel, 91.8x 70.6 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -328,12 +328,12 @@ The terminal panels of the horizontal beam present a Passion assembly that depar
 The dating of the London Crucifix to approximately 1265–70, proposed by the National Gallery, positions the work in the mature phase of the Maestro di San Francesco's activity, after the completion of the Assisi fresco cycle and before the firmly dated 1272 Crucifix in Perugia's Galleria Nazionale dell'Umbria. This intermediate chronological position gives the London cross a pivotal significance in the reconstruction of the master's stylistic trajectory: it documents the painter's handling of the Christus patiens type in the period between the two major documented crucifix commissions and provides evidence for a consistent deepening of expressive intensity across the master's career. The iconographic comparison with the 1272 Perugia Crucifix reveals both the continuity and the development of the Maestro's treatment of the dying Christ: while the London cross shares the fundamental formal typology of the Perugia cross, the representation of the Passion assembly in the terminal panels shows a richer narrative and doctrinal complexity, suggesting that the painter was in this period actively expanding the iconographic possibilities of the cross type he had inherited from Giunta Pisano.
 
 <figure>
-  <img src="/images/Maestro di San Francesco/image 2.jpg" alt="The lamentation over the dead Christ - Galleria Nazionale dell'Umbria, Perugia">
+  <img src="/Images/Maestro di San Francesco/image 2.jpg" alt="The lamentation over the dead Christ - Galleria Nazionale dell'Umbria, Perugia">
   <figcaption>The lamentation over the dead Christ (part of a double sided polyptych), c. 1272, tempera and gold leaf on panel, 54 x 48,5 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Maestro di San Francesco/image 3.jpg" alt="The deposition of the dead Christ - Galleria Nazionale dell'Umbria, Perugia">
+  <img src="/Images/Maestro di San Francesco/image 3.jpg" alt="The deposition of the dead Christ - Galleria Nazionale dell'Umbria, Perugia">
   <figcaption>The deposition of the dead Christ (part of a double sided polyptych), c. 1272, tempera and gold leaf on panel, 54 x 48,5 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 

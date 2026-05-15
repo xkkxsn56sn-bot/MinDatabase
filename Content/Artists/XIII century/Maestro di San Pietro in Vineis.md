@@ -109,7 +109,7 @@ The most important surviving work associated with the Maestro di San Pietro in V
 The church, which belongs to the Clarissan community and is today incorporated into the former Convitto INPDAP building complex in Anagni, preserves these frescoes in a state of partial but still communicative preservation, including what is undoubtedly the masterpiece of the cycle: the celebrated *Deposizione nel Sepolcro* (Deposition in the Tomb), which has attracted sustained scholarly attention for the exceptional emotional power of its figural language.
 
 <figure>
-  <img src="/images/Maestro di San Pietro in Vineis/image 1.jpg" alt="Deposition in the Tomb">
+  <img src="/Images/Maestro di San Pietro in Vineis/image 1.jpg" alt="Deposition in the Tomb">
   <figcaption>Deposition in the Tomb, c. 1255, fresco, church of San Pietro in Vineis, Anagni.</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ In this composition, the body of the dead Christ is placed in the tomb by Joseph
 The chromatic range of the *Deposizione* demonstrates the painter's mature command of fresco pigmentation: the pale, waxen flesh of the dead Christ, rendered with delicate passages of white and ochre, contrasts with the deep blues and greens of the surrounding garments and with the warm terre verte of the landscape setting, creating a pictorial harmony at once visually beautiful and emotionally resonant. 
 
 <figure>
-  <img src="/images/Maestro di San Pietro in Vineis/image 2.jpg" alt="Kiss of Judas">
+  <img src="/Images/Maestro di San Pietro in Vineis/image 2.jpg" alt="Kiss of Judas">
   <figcaption>Kiss of Judas, c. 1255, fresco, church of San Pietro in Vineis, Anagni.</figcaption>
 </figure>
 

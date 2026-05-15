@@ -223,7 +223,7 @@ The Cappella Palatina must be understood not in isolation but as part of a broad
 ### Mantle of Roger II
 
 <figure>
-  <img src="/images/Cappella Palatina/image 1.jpg" alt="Mantle of Roger II">
+  <img src="/Images/Cappella Palatina/image 1.jpg" alt="Mantle of Roger II">
   <figcaption>Mantle of Roger II, 1133/34 (Norman Sicily, Italy), textiles, patterned samite (kermes dye), gold and silk embroidery, pearls, gold with cellular enamel, rubies, spinels, sapphires, garnets, glass, tablet weave, 146 x 345 cm, Kunsthistorisches Museum, Vienna.</figcaption>
 </figure>
 
@@ -278,7 +278,7 @@ This extensive account of the Cappella Palatina encompasses its historical found
 ### Mosaics of Christ Pantocrator (Dome)
 
 <figure>
-  <img src="/images/Cappella Palatina/image 2.jpg" alt="Mosaics of Christ Pantocrator (Dome)">
+  <img src="/Images/Cappella Palatina/image 2.jpg" alt="Mosaics of Christ Pantocrator (Dome)">
   <figcaption>Mosaics of Christ Pantocrator (Dome), 1143, mosaic, Cappella Palatina, Palermo.</figcaption>
 </figure>
 
@@ -299,7 +299,7 @@ The golden light of the mosaic background, enhanced by the Gospel inscription on
 ### Mosaics of Christ Pantocrator (Apse)
 
 <figure>
-  <img src="/images/Cappella Palatina/image 3.jpg" alt="Mosaics of Christ Pantocrator (Apse)">
+  <img src="/Images/Cappella Palatina/image 3.jpg" alt="Mosaics of Christ Pantocrator (Apse)">
   <figcaption>Mosaics of Christ Pantocrator (Apse), 1143, mosaic, Cappella Palatina, Palermo.</figcaption>
 </figure>
 
@@ -320,7 +320,7 @@ The Madonna in the lower part of the apse dates to a 17th-century restoration, b
 ### Mosaics of Christ Pantocrator with Saints Peter and Paul
 
 <figure>
-  <img src="/images/Cappella Palatina/image 4.jpg" alt="Mosaics of Christ Pantocrator with Saints Peter and Paul">
+  <img src="/Images/Cappella Palatina/image 4.jpg" alt="Mosaics of Christ Pantocrator with Saints Peter and Paul">
   <figcaption>Mosaics of Christ Pantocrator with Saints Peter and Paul, after 1143, mosaic, Cappella Palatina, Palermo.</figcaption>
 </figure>
 

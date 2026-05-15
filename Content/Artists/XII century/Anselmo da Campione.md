@@ -181,12 +181,12 @@ It is likely that he succumbed to age‑related illness or to the physical toll 
 ### Reliefs on the parapet (The image depicts four separate scenes: The Last Supper, Judas' kiss and the arrest, Jesus before Pontius Pilate, and Jesus carrying the cross)
 
 <figure>
-  <img src="/images/Anselmo da Campione/image 1.jpg" alt="Reliefs on the parapet (The image depicts four separate scenes: The Last Supper, Judas' kiss and the arrest, Jesus before Pontius Pilate, and Jesus carrying the cross)">
+  <img src="/Images/Anselmo da Campione/image 1.jpg" alt="Reliefs on the parapet (The image depicts four separate scenes: The Last Supper, Judas' kiss and the arrest, Jesus before Pontius Pilate, and Jesus carrying the cross)">
   <figcaption>Reliefs on the parapet (The image depicts four separate scenes: The Last Supper, Judas' kiss and the arrest, Jesus before Pontius Pilate, and Jesus carrying the cross), 1175-84, marble, Cattedrale Metropolitana di Santa Maria Assunta e San Geminiano, Modena.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Anselmo da Campione/image 5.jpg" alt="Reliefs on the parapet (The image depicts the Last Supper)">
+  <img src="/Images/Anselmo da Campione/image 5.jpg" alt="Reliefs on the parapet (The image depicts the Last Supper)">
   <figcaption>Reliefs on the parapet (The Last Supper), 1175-84, marble, Cattedrale Metropolitana di Santa Maria Assunta e San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ The work demonstrates the ability of Romanesque sculpture to blend narrative, sy
 ### Terracotta pulpit
 
 <figure>
-  <img src="/images/Anselmo da Campione/image 3.jpg" alt="Terracotta pulpit">
+  <img src="/Images/Anselmo da Campione/image 3.jpg" alt="Terracotta pulpit">
   <figcaption>Terracotta pulpit, 1175-84, marble, Cattedrale Metropolitana di Santa Maria Assunta e San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -236,12 +236,12 @@ Research and restoration work have revealed *traces of polychromy*: the backgrou
 ### Figures of Saints and Apostles
 
 <figure>
-  <img src="/images/Anselmo da Campione/image 2.jpg" alt="Figures of Saints and Apostles">
+  <img src="/Images/Anselmo da Campione/image 2.jpg" alt="Figures of Saints and Apostles">
   <figcaption>Figures of Saints and Apostles, 1180-90, red Verona marble, Cattedrale Metropolitana della Natività della Beata Vergine Maria, Milano.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/Anselmo da Campione/image 4.jpg" alt="Figures of Saints and Apostles">
+  <img src="/Images/Anselmo da Campione/image 4.jpg" alt="Figures of Saints and Apostles">
   <figcaption>Figures of Saints and Apostles, 1175-84, red Verona marble, Cattedrale Metropolitana della Natività della Beata Vergine Maria, Milano.</figcaption>
 </figure>
 

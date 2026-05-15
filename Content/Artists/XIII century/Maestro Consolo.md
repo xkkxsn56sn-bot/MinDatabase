@@ -147,7 +147,7 @@ category: "artists"
 *Magister Conxolus*, known in the historiographic tradition variously as Maestro Consolo, Magister Consolus, or simply Consolo, stands as one of the most arresting, if elusive, figures in the panorama of late-thirteenth-century Italian painting. His name survives almost exclusively through a single, definitive inscription, *Magister Conxolus pinxit hoc opus*, painted upon a lunette in the lower church of the Sacro Speco at Subiaco, yet that spare autograph opens a window onto a world of vigorous narrative invention, regional artistic ambition, and the complex interweaving of Roman, proto-Giottesque, and popular pictorial traditions that defined the final decades of the Duecento.
 
 <figure class="figure--right">
-  <img src="/images/Maestro Consolo/image 2.jpg" alt="Sacro Speco at Subiaco">
+  <img src="/Images/Maestro Consolo/image 2.jpg" alt="Sacro Speco at Subiaco">
   <figcaption>Monastero di San Benedetto (Sacro Speco), Subiaco.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ The entire corpus of works attributed to Magister Conxolus is located within the
 ### The Virgin Mary, Christ child and two angels
 
 <figure>
-  <img src="/images/Maestro Consolo/image 1.jpg" alt="Vergine e bambino tra due angeli - Sacro Speco, Subiaco">
+  <img src="/Images/Maestro Consolo/image 1.jpg" alt="Vergine e bambino tra due angeli - Sacro Speco, Subiaco">
   <figcaption>The Virgin Mary, Christ child and two angels, c. 1290, fresco, Sacro Speco, Subiaco.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ The *Cycle of the Stories of Saint Benedict* covers almost the entirety of the w
 ### Miracle of the Servant
 
 <figure>
-  <img src="/images/Maestro Consolo/image 3.jpg" alt="Miracle of the Servant - Sacro Speco, Subiaco">
+  <img src="/Images/Maestro Consolo/image 3.jpg" alt="Miracle of the Servant - Sacro Speco, Subiaco">
   <figcaption>Miracle of the Servant, c. 1290, fresco, Sacro Speco, Subiaco.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ The *Life in the Grotto* (*Vita nella grotta*) constitutes perhaps the most icon
 ### Bust of Pope Innocent III
 
 <figure>
-  <img src="/images/Maestro Consolo/image 4.jpg" alt="Bust of Pope Innocent III - Sacro Speco, Subiaco">
+  <img src="/Images/Maestro Consolo/image 4.jpg" alt="Bust of Pope Innocent III - Sacro Speco, Subiaco">
   <figcaption>Bust of Pope Innocent III, c. 1290, fresco, Sacro Speco, Subiaco.</figcaption>
 </figure>
 

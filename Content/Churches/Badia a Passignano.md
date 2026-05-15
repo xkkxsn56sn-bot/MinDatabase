@@ -163,14 +163,14 @@ The large *Last Supper* by Ghirlandaio<a href="../../../painters.html#ghirlandai
 The artistic history of the Badia a Passignano constitutes a rich record of Florentine and Tuscan painterly culture spanning roughly three centuries, from the late fifteenth century to the early seventeenth, and encompassing artists of widely differing formation, technique, and stylistic allegiance. The most celebrated name associated with the abbey is undoubtedly Domenico Ghirlandaio, whose *Last Supper* of 1476 in the refectory stands as the earliest of his three treatments of this compositional theme and as a foundational document of Renaissance Florentine painting. 
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 1.jpg" alt="The Last Supper">
+  <img src="/Images/Badia a Passignano/image 1.jpg" alt="The Last Supper">
   <figcaption>Domenico Ghirlandaio (1449-1494), The Last Supper, 1476, fresco, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
 Ghirlandaio, trained in the workshop tradition of mid-fifteenth-century Florence and deeply influenced by Flemish naturalism in his rendering of facial types, fabric, and still-life detail, brought to Passignano a compositional strategy that extended the actual architectural space of the refectory into a fictive room populated by the figures of Christ and the Apostles. The fresco was executed in collaboration with his brother Davide Ghirlandaio, who played a significant role in the decorative execution of the broader refectory programme, including the lunettes painted by Bernardo di Stefano Rosselli<a href="../../../painters.html#bernardo-di-stefano-rosselli" class="footnote"><sup>6</sup></a>, a Florentine painter trained in the circle of Ghirlandaio who contributed the flanking Old Testament scenes of the *Expulsion from Paradise* and *Cain and Abel*. 
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 2.jpg" alt="Expulsion from Paradise and Cain and Abel">
+  <img src="/Images/Badia a Passignano/image 2.jpg" alt="Expulsion from Paradise and Cain and Abel">
   <figcaption>Bernardo di Stefano Rosselli (c. 1450–1526), Expulsion from Paradise and Cain and Abel, 1474, fresco, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ Alessandro Allori<a href="../../../painters.html#allori-alessandro" class="footn
 Allori's formation under Bronzino gave him a refined linear control, an extraordinary command of complex multi-figure compositions, and a subtle palette derived from the court aesthetic of the Medici, all of which are visibly operative in the Passignano frescoes. The actual execution of the decorative programme designed by Allori in the transept was partly entrusted to his pupil and associate Giovanni Maria Butteri, who completed the scene of the recognition of the relics of San Giovanni Gualberto in November 1580. 
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 3.jpg" alt="Episodes from the life of Giovanni Gualberto">
+  <img src="/Images/Badia a Passignano/image 3.jpg" alt="Episodes from the life of Giovanni Gualberto">
   <figcaption>Alessandro Allori (1535–1607), Episodes from the life of Giovanni Gualberto, 1581, fresco, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ Cresti's Venetian experience is directly legible in his Passignano frescoes, whi
 The early eighteenth century brought the Sienese painter Giuseppe Nicola Nasini<a href="../../../painters.html#nasini-giuseppe-nicola" class="footnote"><sup>9</sup></a> to Passignano, where he executed a series of *Apostles* that reflect the formal classicism and decorative warmth characteristic of his Roman-trained manner. Collectively, the artists who worked at Passignano constitute a representative cross-section of Central Italian painting over two centuries, their successive interventions creating a visual sequence that encodes the stylistic transformations from High Renaissance naturalism through Mannerist refinement to the exuberant drama of the late Cinquecento and the measured classicism of the Settecento.
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 4.jpg" alt="Eternal father with playing angels">
+  <img src="/Images/Badia a Passignano/image 4.jpg" alt="Eternal father with playing angels">
   <figcaption>Domenico Cresti (1559–1638), Eternal Father with playing angels, 1601, fresco, Cappella Maggiore, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ The marble funerary monument and sculpted effigy of San Giovanni Gualberto, carv
 The reliquary of San Giovanni Gualberto, preserved in the abbey's church since his death in 1073, constitutes perhaps the most spiritually charged object in the entire complex, drawing generations of the faithful to Passignano and sustaining the abbey's status as a pilgrimage destination throughout the Middle Ages and beyond. The system of altarpieces that once enriched the lateral chapels of the church included the important painting by Alessandro Allori executed in 1580, now conserved on deposit at the Galleria degli Uffizi in Florence, a work that demonstrates the high quality of the patronage relationships that the abbey maintained with leading Florentine artists throughout the Cinquecento. 
 
 <figure class="figure--right">
-  <img src="/images/Badia a Passignano/image 5.jpg" alt="funerary monument and sculpted effigy of San Giovanni Gualberto">
+  <img src="/Images/Badia a Passignano/image 5.jpg" alt="funerary monument and sculpted effigy of San Giovanni Gualberto">
   <figcaption>Giovanni Battista Caccini (1556-1613), Funerary monument and effigy of Saint John Gualbert, 1580, marble, Saint John Gualbert chapel, Badia di San Michele Arcangelo, Passignano.</figcaption>
 </figure>
 

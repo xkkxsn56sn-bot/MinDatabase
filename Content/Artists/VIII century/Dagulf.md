@@ -208,7 +208,7 @@ The corpus of work attributable to Dagulf is singular and definitive: the manusc
 ### Dagulf's Psalter, folio 25v
 
 <figure>
-  <img src="/images/Dagulf/image 1.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
+  <img src="/Images/Dagulf/image 1.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
   <figcaption>Dagulf's Psalter (folio 25v), 782-95, 192 x 120 mm, Codex 1861, Österreichische Nationalbibliothek, Vienna.</figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ The physical form of the Dagulf Psalter is as significant as its textual content
 ### Dagulf's Psalter, folio 68r
 
 <figure>
-  <img src="/images/Dagulf/image 2.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
+  <img src="/Images/Dagulf/image 2.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
   <figcaption>Dagulf's Psalter (folio 68r), 782-95, 192 x 120 mm, Codex 1861, Österreichische Nationalbibliothek, Vienna.</figcaption>
 </figure>
 
@@ -226,7 +226,7 @@ The patronage behind the Dagulf Psalter is clearly documented and of immense his
 ### Dagulf's Psalter, folio 109r
 
 <figure>
-  <img src="/images/Dagulf/image 3.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
+  <img src="/Images/Dagulf/image 3.jpg" alt="Dagulf's Psalter, cod. 1861 - Österreichische Nationalbibliothek, Vienna">
   <figcaption>Dagulf's Psalter (folio 109r), 782-95, 192 x 120 mm, Codex 1861, Österreichische Nationalbibliothek, Vienna.</figcaption>
 </figure>
 

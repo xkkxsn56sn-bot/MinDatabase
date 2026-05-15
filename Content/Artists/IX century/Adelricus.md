@@ -176,7 +176,7 @@ The most significant and securely attributed work of Adelricus is the miniature 
 ### Terentius Comoediae, folio 2r
 
 <figure>
-  <img src="/images/Adelricus/image 1.jpg" alt="Vatican Terence">
+  <img src="/Images/Adelricus/image 1.jpg" alt="Vatican Terence">
   <figcaption>Terentius Comoediae, IX century, folio 2r, mineral and vegetal pigment on parchment, Biblioteca Apostolica Vaticana, Vat.lat.3868</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ The iconography of the signed miniature from the *Vatican Terence* depicts a sce
 ### Terentius Comoediae, folio 3r
 
 <figure>
-  <img src="/images/Adelricus/image 2.jpg" alt="Vatican Terence">
+  <img src="/Images/Adelricus/image 2.jpg" alt="Vatican Terence">
   <figcaption>Terentius Comoediae, IX century, folio 3r, mineral and vegetal pigment on parchment, Biblioteca Apostolica Vaticana, Vat.lat.3868</figcaption>
 </figure>
 
