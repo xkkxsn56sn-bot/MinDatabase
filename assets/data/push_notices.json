@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-11T15:05:08+02:00",
+  "updated_at": "2026-05-15T15:05:08+02:00",
   "notices": [
     {
-      "title": "The Bandini Crucifix",
+      "title": "Acheiropoieta Images (Not made by human hands)",
       "section": "Papers",
-      "path": "Content/Papers/The Bandini Crucifix.md",
-      "page_url": "/Content/Papers/The Bandini Crucifix.html",
+      "path": "Content/Papers/Acheiropoieta images.md",
+      "page_url": "/Content/Papers/Acheiropoieta%20images.html",
       "change_type": "created",
-      "pushed_at": "2026-05-11T15:05:08+02:00"
+      "pushed_at": "2026-05-15T15:05:08+02:00"
     }
   ]
 }

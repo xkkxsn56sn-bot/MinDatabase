@@ -152,9 +152,11 @@ Procacci, who was both a distinguished art historian and the founder in 1932 of 
 
 Around these three primary elements, various wooden additions had been assembled to create the superficial appearance of a single rectangular panel, concealing the original nature and shape of each component beneath a unified but entirely artificial surface.
 
-<div class="pdf-embed" style="margin: 2rem 0; padding: 0.75rem; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 12px; background: rgba(0, 0, 0, 0.02);">
-  <iframe src="/assets/pdf/Bandini-crucifix.pdf" title="Bollettino d’arte, anno XXXVIII, 1953, n. I gennaio-marzo - Sommario" loading="lazy" style="width: 100%; height: min(90vh, 980px); min-height: 720px; border: 0; border-radius: 8px;"></iframe>
-</div>
+<p>
+  <a href="/assets/pdf/Bandini-crucifix.pdf" download>
+    (Bollettino d'Arte, anno XXXVIII, 1953, n. I gennaio-marzo - Sommario)
+  </a>
+</p>
 
 The first crucial clue to the presence of a concealed older painting was provided by accidental abrasions in the surface of the eighteenth-century repainting, which revealed traces of an underlying pictorial layer of demonstrably higher quality. 
 

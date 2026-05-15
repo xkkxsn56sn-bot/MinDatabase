@@ -95,6 +95,10 @@ scholars:
     url: "/scholars.html#sandberg-vavala-evelyn"
   - title: "Garrison, Edward B."
     url: "/scholars.html#garrison-edward"
+  - title: "Toesca, Pietro"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Hautecoeur, Louis-Eugene-Georges"
+    url: "/scholars.html#hautecoeur-louis-eugene-georges"
 ---
 
 The artist known as the *Maestro della Maddalena*, equally referenced in scholarship as the Magdalen Master or the Master of the Magdalen, stands as one of the most consequential and yet enigmatically anonymous figures in the history of Florentine Duecento painting. His conventional designation, standardized in modern art-historical literature following the foundational work of the Swedish scholar [Osvald Sirén](/scholars.html#siren-osvald) in 1922, derives directly from a large altarpiece panel depicting a standing figure of Saint Mary Magdalen flanked by eight narrative scenes from her life, today preserved in the Galleria dell'Accademia in Florence. As is customary with Italian medieval *maestri* of this period whose given names have not survived in any documentary record, the artist is known exclusively through his surviving production, which the Uffizi, custodian of his *Saint Luke the Evangelist*, dates approximately to the years 1250–1300. 
