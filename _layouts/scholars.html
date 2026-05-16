@@ -190,6 +190,31 @@
             margin-bottom: 0;
         }
 
+        .scholar-entry .scholar-portrait {
+            margin: 0;
+        }
+
+        .scholar-entry .scholar-portrait img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .scholar-entry .scholar-portrait figcaption {
+            margin-top: 0.35rem;
+            font-size: 0.82rem;
+            font-style: italic;
+            line-height: 1.35;
+            color: var(--folio-ink-soft);
+        }
+
+        .scholar-entry .scholar-portrait--right {
+            float: right;
+            width: min(240px, 42%);
+            margin: 0 0 0.9rem 1rem;
+        }
+
         .scholar-entry p:not(.dates):first-of-type::first-letter {
             float: left;
             font-family: 'Cormorant Garamond', Georgia, serif;
@@ -392,6 +417,16 @@
                 font-size: 0.9rem;
                 line-height: 1.6;
                 margin-bottom: 0.55rem;
+            }
+
+            .scholar-entry .scholar-portrait--right {
+                float: none;
+                width: min(260px, 100%);
+                margin: 0 auto 0.75rem;
+            }
+
+            .scholar-entry .scholar-portrait figcaption {
+                text-align: center;
             }
 
             .scholar-entry p:not(.dates):first-of-type::first-letter {
