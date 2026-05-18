@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-15T15:05:08+02:00",
+  "updated_at": "2026-05-18T15:05:08+02:00",
   "notices": [
     {
-      "title": "Acheiropoieta Images (Not made by human hands)",
-      "section": "Papers",
-      "path": "Content/Papers/Acheiropoieta images.md",
-      "page_url": "/Content/Papers/Acheiropoieta%20images.html",
+      "title": "Maestro delle Palazze",
+      "section": "Artists",
+      "path": "Content/Artists/XIII%20century/Maestro%20delle%20Palazze.md",
+      "page_url": "/Content/Artists/XIII%20century/Maestro%20delle%20Palazze.html",
       "change_type": "created",
-      "pushed_at": "2026-05-15T15:05:08+02:00"
+      "pushed_at": "2026-05-18T15:05:08+02:00"
     }
   ]
 }

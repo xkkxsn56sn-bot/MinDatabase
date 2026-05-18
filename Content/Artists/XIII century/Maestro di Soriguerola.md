@@ -243,7 +243,7 @@ The Master of Soriguerola is documented by a small but coherent group of works, 
 
 His style is recognizable by the combination of elements still rooted in the Romanesque tradition (rigidity of the bodies, frontal orientation, heavy use of gold) with traits of Gothic sensibility, such as greater attention to facial expressions and the lightness of the lines, all of which are found in this Supplicating Soul between Saint Peter and Saint Paul. In this sense, the panel represents a valuable document of popular piety and visual catechesis in the Catalan Pyrenean territories of the early 14th century, where the theme of the soul’s destiny was particularly felt and translated into highly didactic images.
 
-### Saint Michael Weighing Souls
+### Saint Michael Weighing Souls, Barcelona
 
 <figure>
   <img src="/Images/Maestro di Soriguerola/image-4.jpg" alt="Saint Michael Weighing Souls">
@@ -302,7 +302,7 @@ In this sense, the work belongs fully to the Catalan figurative culture of the l
 
 This panel is also important because it demonstrates the maturity of the style of the so-called Master of Soriguerola, one of the most original figures in late-medieval Catalan painting. His clear and concise way of constructing the scene is not a “popular” style in a reductive sense, but a highly effective solution for rendering complex content visible. Precisely for this reason, the Vic panel is useful for understanding the transition from Romanesque heritage to Gothic sensibility in the Pyrenean region.
 
-### Saint Michael Weighing Souls
+### Saint Michael Weighing Souls, Vic
 
 <figure>
   <img src="/Images/Maestro di Soriguerola/image-6.jpg" alt="Saint Michael Weighing Souls">

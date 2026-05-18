@@ -1,415 +1,818 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Artists Directory - Medieval Visions</title>
+    <link rel="stylesheet" href="assets/css/directory-base.css" />
+    <style>
+      .century-section {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin-bottom: 2rem;
+      }
 
-<head>
-        <meta charset="UTF-8">
-        <link rel="icon" type="image/png" href="/favicon.png">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Artists Directory - Medieval Visions</title>
-        <link rel="stylesheet" href="assets/css/directory-base.css">
-        <style>
-                .century-section {
-                        background: white;
-                        padding: 1.5rem;
-                        border-radius: 8px;
-                        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-                        margin-bottom: 2rem;
-                }
+      ul {
+        list-style: none;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 1rem;
+      }
 
-                ul {
-                        list-style: none;
-                        padding: 0;
-                        display: grid;
-                        grid-template-columns: repeat(3, minmax(0, 1fr));
-                        gap: 1rem;
-                }
+      li::before {
+        content: "✦ ";
+        color: var(--gold);
+      }
 
-                li::before {
-                        content: "✦ ";
-                        color: var(--gold);
-                }
+      .site-footer {
+        background: var(--burgundy);
+        color: white;
+        text-align: center;
+        padding: 2rem;
+        border-top: 3px solid var(--gold);
+        margin-top: 3rem;
+      }
 
-                .site-footer {
-                        background: var(--burgundy);
-                        color: white;
-                        text-align: center;
-                        padding: 2rem;
-                        border-top: 3px solid var(--gold);
-                        margin-top: 3rem;
-                }
+      .footer-link {
+        color: var(--gold);
+      }
 
-                .footer-link {
-                        color: var(--gold);
-                }
+      .footer-updated {
+        font-size: 0.85rem;
+        color: rgba(255, 255, 255, 0.6);
+        margin-top: 0.5rem;
+      }
 
-                .footer-updated {
-                        font-size: 0.85rem;
-                        color: rgba(255, 255, 255, 0.6);
-                        margin-top: 0.5rem;
-                }
+      @media (max-width: 600px) {
+        ul {
+          grid-template-columns: 1fr;
+        }
 
-                @media (max-width: 600px) {
-                        ul {
-                                grid-template-columns: 1fr;
-                        }
+        .century-section {
+          padding: 1rem;
+        }
+      }
+    </style>
+  </head>
 
-                        .century-section {
-                                padding: 1rem;
-                        }
-                }
-        </style>
-</head>
+  <body>
+    <header>
+      <h1>Artists Directory</h1>
+    </header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="artists.html">Artists</a>
+      <a href="churches.html">Churches</a>
+      <a href="codices.html">Codices</a>
+      <a href="papers.html">Papers</a>
+    </nav>
+    <main>
+      <section class="century-section">
+        <h2>VII Century</h2>
+        <ul>
+          <li>
+            <a
+              href="Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html"
+              >Eadfrith di Lindisfarne</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/VII%20century/Maestro%20di%20Castelseprio.html"
+              >Maestro di Castelseprio</a
+            >
+          </li>
+        </ul>
+      </section>
 
-<body>
-        <header>
-                <h1>Artists Directory</h1>
-        </header>
-        <nav>
-                <a href="index.html">Home</a>
-                <a href="artists.html">Artists</a>
-                <a href="churches.html">Churches</a>
-                <a href="codices.html">Codices</a>
-                <a href="papers.html">Papers</a>
-        </nav>
-        <main>
-                <section class="century-section">
-                        <h2>VII Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html">Eadfrith di
-                                                Lindisfarne</a>
-                                </li>
-                                <li><a href="Content/Artists/VII%20century/Maestro%20di%20Castelseprio.html">Maestro di
-                                                Castelseprio</a>
-                                </li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>VIII Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/VIII%20century/Dagulf.html">Dagulf</a>
+          </li>
+          <li>
+            <a href="Content/Artists/VIII%20century/Godescalc.html"
+              >Godescalc</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+              >Rhabanus Maurus</a
+            >
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>VIII Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/VIII%20century/Dagulf.html">Dagulf</a></li>
-                                <li><a href="Content/Artists/VIII%20century/Godescalc.html">Godescalc</a></li>
-                                <li><a href="Content/Artists/VIII%20century/Rhabanus%20Maurus.html">Rhabanus Maurus</a>
-                                </li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>IX Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/IX%20century/Adelricus.html">Adelricus</a>
+          </li>
+          <li>
+            <a
+              href="Content/Artists/IX%20century/Brun%20Candidus%20of%20Fulda.html"
+              >Brun Candidus of Fulda</a
+            >
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>IX Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/IX%20century/Adelricus.html">Adelricus</a></li>
-                                <li><a href="Content/Artists/IX%20century/Brun%20Candidus%20of%20Fulda.html">Brun
-                                                Candidus of Fulda</a>
-                                </li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>X Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/X%20century/Maestro%20di%20Galliano.html"
+              >Maestro di Galliano</a
+            >
+          </li>
+          <li><a href="Content/Artists/X%20century/Maius.html">Maius</a></li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>X Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/X%20century/Maestro%20di%20Galliano.html">Maestro di
-                                                Galliano</a></li>
-                                <li><a href="Content/Artists/X%20century/Maius.html">Maius</a></li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>XI Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/XI%20century/Giselbertus.html"
+              >Giselbertus</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XI%20century/Maestro%20di%20Pedret.html"
+              >Maestro di Pedret</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html"
+              >Roger di Helmarshausen</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XI%20century/Wiligelmo.html">Wiligelmo</a>
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>XI Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/XI%20century/Giselbertus.html">Giselbertus</a></li>
-                                <li><a href="Content/Artists/XI%20century/Maestro%20di%20Pedret.html">Maestro di
-                                                Pedret</a></li>
-                                <li><a href="Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html">Roger di
-                                                Helmarshausen</a>
-                                </li>
-                                <li><a href="Content/Artists/XI%20century/Wiligelmo.html">Wiligelmo</a></li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>XII Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/XII%20century/Alberto%20Sozio.html"
+              >Alberto Sozio</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Anselmo.html">Anselmo</a>
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
+              >Anselmo da Campione</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Benedetto%20Antelami.html"
+              >Benedetto Antelami</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
+              >Berlinghiero Berlinghieri</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XII%20century/Hildegard%20von%20Bingen.html"
+              >Hildegard von Bingen</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
+              >Maestro della Croce 432</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
+              >Maestro della Croce del Santo Sepolcro</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+              >Maestro di Rosano</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XII%20century/Maestro%20di%20San%20Pietro%20in%20Villore.html"
+              >Maestro di San Pietro in Villore</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Maestro%20Guglielmo.html"
+              >Maestro Guglielmo</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Nicholaus.html">Nicholaus</a>
+          </li>
+          <li>
+            <a href="Content/Artists/XII%20century/Pantaleone.html"
+              >Pantaleone</a
+            >
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>XII Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/XII%20century/Alberto%20Sozio.html">Alberto Sozio</a></li>
-                                <li><a href="Content/Artists/XII%20century/Anselmo.html">Anselmo</a></li>
-                                <li><a href="Content/Artists/XII%20century/Anselmo%20da%20Campione.html">Anselmo da
-                                                Campione</a></li>
-                                <li><a href="Content/Artists/XII%20century/Benedetto%20Antelami.html">Benedetto
-                                                Antelami</a></li>
-                                <li><a href="Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html">Berlinghiero
-                                                Berlinghieri</a></li>
-                                <li><a href="Content/Artists/XII%20century/Hildegard%20von%20Bingen.html">Hildegard von
-                                                Bingen</a></li>
-                                <li><a href="Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html">Maestro
-                                                della Croce
-                                                432</a></li>
-                                <li><a href="Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html">Maestro
-                                                della Croce del Santo Sepolcro</a></li>
-                                <li><a href="Content/Artists/XII%20century/Maestro%20di%20Rosano.html">Maestro di
-                                                Rosano</a></li>
-                                <li><a href="Content/Artists/XII%20century/Maestro%20di%20San%20Pietro%20in%20Villore.html">Maestro
-                                                di
-                                                San Pietro in Villore</a></li>
-                                <li><a href="Content/Artists/XII%20century/Maestro%20Guglielmo.html">Maestro
-                                                Guglielmo</a></li>
-                                <li><a href="Content/Artists/XII%20century/Nicholaus.html">Nicholaus</a></li>
-                                <li><a href="Content/Artists/XII%20century/Pantaleone.html">Pantaleone</a></li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>XIII Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/XIII%20century/Andrea%20Tafi.html"
+              >Andrea Tafi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html"
+              >Arnolfo di Cambio</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Barone%20Berlinghieri.html"
+              >Barone Berlinghieri</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html"
+              >Bonaventura Berlinghieri</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Cimabue.html">Cimabue</a>
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+              >Coppo di Marcovaldo</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Corso%20di%20Buono.html"
+              >Corso di Buono</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Deodato%20Orlandi.html"
+              >Deodato Orlandi</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Dietisalvi%20di%20Speme.html"
+              >Dietisalvi di Speme</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+              >Duccio di Buoninsegna</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Enrico%20di%20Tedice.html"
+              >Enrico di Tedice</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Filippo%20di%20Jacopo.html"
+              >Filippo di Jacopo</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Filippo%20Rusuti.html"
+              >Filippo Rusuti</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Gaddo%20Gaddi.html"
+              >Gaddo Gaddi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Gentile%20da%20Rocca.html"
+              >Gentile da Rocca</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Gilio%20di%20Pietro.html"
+              >Gilio di Pietro</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+              >Giotto di Bondone</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Giovanni%20di%20Apparecchiato.html"
+              >Giovanni di Apparecchiato</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Giuliano%20da%20Rimini.html"
+              >Giuliano da Rimini</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Giunta%20Pisano.html"
+              >Giunta Pisano</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Grifo%20di%20Tancredi.html"
+              >Grifo di Tancredi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Guido%20da%20Siena.html"
+              >Guido da Siena</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Guido%20di%20Graziano.html"
+              >Guido di Graziano</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Jacopo%20Torriti.html"
+              >Jacopo Torriti</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20bizantino%20del%20Crocifisso%20di%20Pisa.html"
+              >Maestro bizantino del Crocifisso di Pisa</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Maestro%20Consolo.html"
+              >Maestro Consolo</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20dei%20Crocifissi%20francescani.html"
+              >Maestro dei Crocifissi francescani</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Maestro%20dei%20Mesi.html"
+              >Maestro dei Mesi</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20dei%20Santi%20Cosma%20e%20Damiano.html"
+              >Maestro dei Santi Cosma e Damiano</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+              >Maestro del Bigallo</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20del%20Dossale%20di%20Yale.html"
+              >Maestro del Dossale di Yale</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20del%20San%20Francesco%20Bardi.html"
+              >Maestro del San Francesco Bardi</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20Aula%20della%20Curia.html"
+              >Maestro dell'Aula della Curia</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html"
+              >Maestro della Croce 434</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.html"
+              >Maestro della Croce di Castelfiorentino</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20della%20Maddalena.html"
+              >Maestro della Maddalena</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20delle%20Palazze.html"
+              >Maestro delle Palazze</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20delle%20Storie%20di%20Isacco.html"
+              >Maestro delle Storie di Isacco</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Maestro%20di%20Faenza.html"
+              >Maestro di Faenza</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Montefioralle.html"
+              >Maestro di Montefioralle</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Naumburg.html"
+              >Maestro di Naumburg</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html"
+              >Maestro di San Francesco</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20San%20Martino.html"
+              >Maestro di San Martino</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
+              >Maestro di San Pietro in Vineis</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20San%20Torpe.html"
+              >Maestro di San Torpè</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Sant%20Alo.html"
+              >Maestro di Sant'Alò</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Santa%20Chiara.html"
+              >Maestro di Santa Chiara</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Santa%20Maria%20Primerana.html"
+              >Maestro di Santa Maria Primerana</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Soriguerola.html"
+              >Maestro di Soriguerola</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Maestro%20di%20Tressa.html"
+              >Maestro di Tressa</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Varlungo.html"
+              >Maestro di Varlungo</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Maestro%20di%20Vico%20lAbate.html"
+              >Maestro di Vico l'Abate</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Manfredino%20da%20Pistoia.html"
+              >Manfredino da Pistoia</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Marco%20Berlinghieri.html"
+              >Marco Berlinghieri</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Margarito.html"
+              >Margarito d'Arezzo</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Meliore%20di%20Jacopo.html"
+              >Meliore di Jacopo</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Michele%20di%20Baldovino.html"
+              >Michele di Baldovino</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Nicola%20Pisano.html"
+              >Nicola Pisano</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+              >Pietro Cavallini</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.html"
+              >Primo Maestro di Anagni</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Rainaldetto%20di%20Ranuccio.html"
+              >Rainaldetto di Ranuccio</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Ranieri%20di%20Ugolino.html"
+              >Ranieri di Ugolino</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Rinaldo%20da%20Siena.html"
+              >Rinaldo da Siena</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html"
+              >Secondo Maestro di Anagni</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Simeone%20e%20Machilone.html"
+              >Simeone e Machilone</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Simone%20Martini.html"
+              >Simone Martini</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Solsternus.html"
+              >Solsternus</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.html"
+              >Terzo Maestro di Anagni</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Ugolino%20di%20Tedice.html"
+              >Ugolino di Tedice</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIII%20century/Vigoroso%20da%20Siena.html"
+              >Vigoroso da Siena</a
+            >
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>XIII Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/XIII%20century/Andrea%20Tafi.html">Andrea Tafi</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html">Arnolfo di
-                                                Cambio</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Barone%20Berlinghieri.html">Barone
-                                                Berlinghieri</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html">Bonaventura
-                                                Berlinghieri</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Cimabue.html">Cimabue</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html">Coppo di
-                                                Marcovaldo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Corso%20di%20Buono.html">Corso di Buono</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Deodato%20Orlandi.html">Deodato Orlandi</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Dietisalvi%20di%20Speme.html">Dietisalvi di
-                                                Speme</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html">Duccio di
-                                                Buoninsegna</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Enrico%20di%20Tedice.html">Enrico di
-                                                Tedice</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Filippo%20di%20Jacopo.html">Filippo di
-                                                Jacopo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Filippo%20Rusuti.html">Filippo Rusuti</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Gaddo%20Gaddi.html">Gaddo Gaddi</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Gentile%20da%20Rocca.html">Gentile da
-                                                Rocca</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Gilio%20di%20Pietro.html">Gilio di
-                                                Pietro</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Giotto%20di%20Bondone.html">Giotto di
-                                                Bondone</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Giovanni%20di%20Apparecchiato.html">Giovanni
-                                                di
-                                                Apparecchiato</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Giuliano%20da%20Rimini.html">Giuliano da
-                                                Rimini</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Giunta%20Pisano.html">Giunta Pisano</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Grifo%20di%20Tancredi.html">Grifo di
-                                                Tancredi</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Guido%20da%20Siena.html">Guido da Siena</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Guido%20di%20Graziano.html">Guido di
-                                                Graziano</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Jacopo%20Torriti.html">Jacopo Torriti</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20bizantino%20del%20Crocifisso%20di%20Pisa.html">Maestro
-                                                bizantino
-                                                del Crocifisso di Pisa</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20Consolo.html">Maestro Consolo</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20dei%20Crocifissi%20francescani.html">Maestro
-                                                dei
-                                                Crocifissi francescani</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20dei%20Mesi.html">Maestro dei
-                                                Mesi</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20dei%20Santi%20Cosma%20e%20Damiano.html">Maestro
-                                                dei Santi Cosma e Damiano</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html">Maestro del
-                                                Bigallo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20del%20Dossale%20di%20Yale.html">Maestro
-                                                del
-                                                Dossale di Yale</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20del%20San%20Francesco%20Bardi.html">Maestro
-                                                del
-                                                San Francesco Bardi</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20Aula%20della%20Curia.html">Maestro
-                                                dell'Aula della
-                                                Curia</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html">Maestro
-                                                della Croce
-                                                434</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.html">Maestro
-                                                della Croce
-                                                di Castelfiorentino</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20della%20Maddalena.html">Maestro
-                                                della
-                                                Maddalena</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20delle%20Storie%20di%20Isacco.html">Maestro
-                                                delle
-                                                Storie di Isacco</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Faenza.html">Maestro di
-                                                Faenza</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Montefioralle.html">Maestro
-                                                di
-                                                Montefioralle</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Naumburg.html">Maestro di
-                                                Naumburg</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html">Maestro
-                                                di San
-                                                Francesco</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20San%20Martino.html">Maestro
-                                                di San
-                                                Martino</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html">Maestro
-                                                di
-                                                San Pietro in Vineis</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20San%20Torpe.html">Maestro di
-                                                San Torpè</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Sant%20Alo.html">Maestro di
-                                                Sant'Alò</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Santa%20Chiara.html">Maestro
-                                                di Santa
-                                                Chiara</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Santa%20Maria%20Primerana.html">Maestro
-                                                di Santa Maria Primerana</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Soriguerola.html">Maestro di
-                                                Soriguerola</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Tressa.html">Maestro di
-                                                Tressa</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Varlungo.html">Maestro di
-                                                Varlungo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Maestro%20di%20Vico%20lAbate.html">Maestro
-                                                di Vico
-                                                l'Abate</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Manfredino%20da%20Pistoia.html">Manfredino
-                                                da Pistoia</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Marco%20Berlinghieri.html">Marco
-                                                Berlinghieri</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Margarito.html">Margarito d'Arezzo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Meliore%20di%20Jacopo.html">Meliore di
-                                                Jacopo</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Michele%20di%20Baldovino.html">Michele di
-                                                Baldovino</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Nicola%20Pisano.html">Nicola Pisano</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Pietro%20Cavallini.html">Pietro
-                                                Cavallini</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.html">Primo
-                                                Maestro di
-                                                Anagni</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Rainaldetto%20di%20Ranuccio.html">Rainaldetto
-                                                di
-                                                Ranuccio</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Ranieri%20di%20Ugolino.html">Ranieri di
-                                                Ugolino</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Rinaldo%20da%20Siena.html">Rinaldo da
-                                                Siena</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html">Secondo
-                                                Maestro di
-                                                Anagni</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Simeone%20e%20Machilone.html">Simeone e
-                                                Machilone</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Simone%20Martini.html">Simone Martini</a>
-                                </li>
-                                <li><a href="Content/Artists/XIII%20century/Solsternus.html">Solsternus</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.html">Terzo
-                                                Maestro di
-                                                Anagni</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Ugolino%20di%20Tedice.html">Ugolino di
-                                                Tedice</a></li>
-                                <li><a href="Content/Artists/XIII%20century/Vigoroso%20da%20Siena.html">Vigoroso da
-                                                Siena</a></li>
-                        </ul>
-                </section>
+      <section class="century-section">
+        <h2>XIV Century</h2>
+        <ul>
+          <li>
+            <a href="Content/Artists/XIV%20century/Allegretto%20Nuzi.html"
+              >Allegretto Nuzi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Andrea%20de%20Bartoli.html"
+              >Andrea de Bartoli</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Andrea%20di%20Bonaiuto.html"
+              >Andrea di Bonaiuto</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Bartolomeo%20Bulgarini.html"
+              >Bartolomeo Bulgarini</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Bartolomeo%20da%20Camogli.html"
+              >Bartolomeo da Camogli</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Caterino%20di%20Marco%20da%20Venezia.html"
+              >Caterino di Marco da Venezia</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Francesco%20Traini.html"
+              >Francesco Traini</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Dalmasio%20degli%20Scannabecchi.html"
+              >Dalmasio degli Scannabecchi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Francescuccio%20Ghissi.html"
+              >Francescuccio Ghissi</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Giovanni%20di%20Nicola%20da%20Pisa.html"
+              >Giovanni di Nicola da Pisa</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Giovanni%20di%20Ugo%20da%20Campione.html"
+              >Giovanni di Ugo da Campione</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Lippo%20di%20Dalmasio%20degli%20Scannabecchi.html"
+              >Lippo di Dalmasio degli Scannabecchi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Lippo%20Memmi.html"
+              >Lippo Memmi</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Maestro%20Albero%20della%20Vita.html"
+              >Maestro dell'Albero della Vita</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Maestro%20della%20Madonna%20di%20Perugia.html"
+              >Maestro della Madonna di Perugia</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Maestro%20della%20Maesta%20delle%20Volte.html"
+              >Maestro della Maestà delle Volte</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Maestro%20delle%20Tempere%20Francescane.html"
+              >Maestro delle Tempere Francescane</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Maestro%20di%20Panzano.html"
+              >Maestro di Panzano</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Maestro%20di%20Santa%20Cecilia.html"
+              >Maestro di Santa Cecilia</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Marino%20di%20Elemosina.html"
+              >Marino d'Elemosina</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Meo%20da%20Siena.html"
+              >Meo da Siena</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Memmo%20di%20Filippuccio.html"
+              >Memmo di Filippuccio</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Niccolò%20di%20Buonaccorso.html"
+              >Niccolò di Buonaccorso</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Nicolò%20di%20Giacomo.html"
+              >Nicolò di Giacomo</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Pacino%20di%20Bonaguida.html"
+              >Pacino di Bonaguida</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Paolo%20di%20Giovanni%20Fei.html"
+              >Paolo di Giovanni Fei</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Paolo%20Veneziano.html"
+              >Paolo Veneziano</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Puccio%20di%20Simone.html"
+              >Puccio di Simone</a
+            >
+          </li>
+          <li>
+            <a
+              href="Content/Artists/XIV%20century/Simone%20dei%20Crocifissi.html"
+              >Simone dei Crocifissi</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Spinello%20Aretino.html"
+              >Spinello Aretino</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Ugolino%20di%20Nerio.html"
+              >Ugolino di Nerio</a
+            >
+          </li>
+          <li>
+            <a href="Content/Artists/XIV%20century/Vitale%20da%20Bologna.html"
+              >Vitale da Bologna</a
+            >
+          </li>
+        </ul>
+      </section>
 
-                <section class="century-section">
-                        <h2>XIV Century</h2>
-                        <ul>
-                                <li><a href="Content/Artists/XIV%20century/Allegretto%20Nuzi.html">Allegretto Nuzi</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Andrea%20de%20Bartoli.html">Andrea de
-                                                Bartoli</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Andrea%20di%20Bonaiuto.html">Andrea di
-                                                Bonaiuto</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Bartolomeo%20Bulgarini.html">Bartolomeo
-                                                Bulgarini</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Bartolomeo%20da%20Camogli.html">Bartolomeo da
-                                                Camogli</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Caterino%20di%20Marco%20da%20Venezia.html">Caterino
-                                                di Marco
-                                                da Venezia</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Francesco%20Traini.html">Francesco Traini</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Dalmasio%20degli%20Scannabecchi.html">Dalmasio
-                                                degli
-                                                Scannabecchi</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Francescuccio%20Ghissi.html">Francescuccio
-                                                Ghissi</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Giovanni%20di%20Nicola%20da%20Pisa.html">Giovanni
-                                                di Nicola da
-                                                Pisa</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Giovanni%20di%20Ugo%20da%20Campione.html">Giovanni
-                                                di
-                                                Ugo da Campione</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Lippo%20di%20Dalmasio%20degli%20Scannabecchi.html">Lippo
-                                                di
-                                                Dalmasio degli Scannabecchi</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Lippo%20Memmi.html">Lippo Memmi</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20Albero%20della%20Vita.html">Maestro
-                                                dell'Albero
-                                                della Vita</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20della%20Madonna%20di%20Perugia.html">Maestro
-                                                della
-                                                Madonna di Perugia</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20della%20Maesta%20delle%20Volte.html">Maestro
-                                                della
-                                                Maestà delle Volte</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20delle%20Tempere%20Francescane.html">Maestro
-                                                delle
-                                                Tempere Francescane</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20di%20Panzano.html">Maestro di
-                                                Panzano</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Maestro%20di%20Santa%20Cecilia.html">Maestro
-                                                di Santa
-                                                Cecilia</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Marino%20di%20Elemosina.html">Marino
-                                                d'Elemosina</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Meo%20da%20Siena.html">Meo da Siena</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Memmo%20di%20Filippuccio.html">Memmo di
-                                                Filippuccio</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Niccolò%20di%20Buonaccorso.html">Niccolò
-                                                di
-                                                Buonaccorso</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Nicolò%20di%20Giacomo.html">Nicolò di
-                                                Giacomo</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Pacino%20di%20Bonaguida.html">Pacino di
-                                                Bonaguida</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Paolo%20di%20Giovanni%20Fei.html">Paolo di
-                                                Giovanni Fei</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Paolo%20Veneziano.html">Paolo Veneziano</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Puccio%20di%20Simone.html">Puccio di
-                                                Simone</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Simone%20dei%20Crocifissi.html">Simone dei
-                                                Crocifissi</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Spinello%20Aretino.html">Spinello Aretino</a>
-                                </li>
-                                <li><a href="Content/Artists/XIV%20century/Ugolino%20di%20Nerio.html">Ugolino di
-                                                Nerio</a></li>
-                                <li><a href="Content/Artists/XIV%20century/Vitale%20da%20Bologna.html">Vitale da
-                                                Bologna</a></li>
-                        </ul>
-                </section>
+      <a href="index.html" class="back-btn">Back to Home</a>
+    </main>
 
-                <a href="index.html" class="back-btn">Back to Home</a>
-        </main>
+    <footer class="site-footer">
+      <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
+      <p>
+        A collaborative scholarly project documenting medieval art and artists
+      </p>
+    </footer>
 
-        <footer class="site-footer">
-                <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
-                <p>A collaborative scholarly project documenting medieval art and artists</p>
-
-        </footer>
-
-        <script src="/assets/js/visitor-counter.js" defer></script>
-</body>
-
+    <script src="/assets/js/visitor-counter.js" defer></script>
+  </body>
 </html>
