@@ -1,3 +1,46 @@
+---
+layout: entry
+title: Maestro della Cattura
+subtitle: Anonymous fresco painter of the Assisi Christological cycle
+dates: c. 1287-1295
+meta:
+  - title: Identity
+    pairs:
+      - label: Conventional name
+        value: Maestro della Cattura ("Master of the Arrest")
+      - label: Status
+        value: Anonymous fresco painter
+      - label: Place of activity
+        value: Upper church of San Francesco, Assisi
+      - label: Active period
+        value: Late 1280s to mid-1290s
+      - label: Documentation
+        value: No surviving archival identification
+
+  - title: Patronage
+    list:
+      - Upper church of San Francesco at Assisi - Christological cycle of the nave
+      - Franciscan Order and papal curia - coordinated basilica program
+      - Umbrian ecclesiastical patrons - later debated Trevi Crucifix attribution
+
+  - title: Key Works
+    list:
+      - The Arrest of Christ - upper church of San Francesco, Assisi
+      - Nativity - upper church of San Francesco, Assisi
+      - The debated Crucifix of Trevi - formerly attributed by some scholars
+
+  - title: Artistic Influences
+    list:
+      - Jacopo Torriti - Roman classicizing idiom and workshop formation
+      - Cimabue - early Assisi campaign and monumentality
+      - Roman apse mosaics and wall cycles - volumetric forms and architecture
+      - Umbrian Franciscan painting traditions - local narrative context
+
+scholars:
+  - title: "Boskovits, Miklos"
+    url: "/scholars.html#boskovits-miklos"
+---
+
 The *Maestro della Cattura* (“Master of the Arrest”) is an anonymous fresco painter active in the last quarter of the thirteenth century in the upper church of San Francesco at Assisi, best known for the scene of the Arrest of Christ in the Christological cycle of the nave. No documentary source records his name, dates, family, place of birth, or circumstances of death, so what follows is a reconstruction of his life and work based solely on stylistic and contextual analysis rather than archival biography.
 
 ## Identity and chronology

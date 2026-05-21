@@ -1,67 +1,63 @@
 ---
 layout: entry
 title: Corso di Buono
-subtitle: Florentine Painter
-dates: c. 1250–1260 – c. 1295–1300
+subtitle: Also known through documents as a Florentine painter and rector of the Painters' Guild
+dates: c. 1250/1260 – after 1295
 meta:
   - title: Identity
     pairs:
-      - label: Born
-        value: c. 1250–1260, Florence
-      - label: Died
-        value: c. 1295–1300, Florence
-      - label: Active
-        value: 1280s–1295
-      - label: Nationality
-        value: Italian (Florentine)
-      - label: Profession
-        value: Painter — fresco and panel
-      - label: Movement
-        value: **maniera greca** / proto-Naturalism
+      - label: Full name
+        value: Corso di Buono
+      - label: Occupation
+        value: Painter
+      - label: Civic office
+        value: Rector of the Painters' Guild, 1295
+      - label: Place of activity
+        value: Florence and the Florentine contado
+      - label: Death
+        value: After 1295; exact date unknown
 
   - title: Family
     pairs:
       - label: Father
-        value: Buono (inferred from patronymic)
-      - label: Brother
+        value: Buono
+      - label: Sibling
         value: Segnorello di Buono
-      - label: Wife
-        value: Lore (survived him as widow)
-
-  - title: Guild
-    pairs:
-      - label: Rank
-        value: Rector, Painters' Guild
-      - label: Co-rector
-        value: Rossello di Lottiere
-      - label: Year of office
-        value: 1295
-      - label: Parent guild
-        value: Arte dei Medici e Speziali
-
-  - title: Major Works
-    links:
-      - title: Frescoes, San Lorenzo, Montelupo Fiorentino, 1284
-      - title: Stories of St. John the Baptist, Florence Baptistery mosaics (attr.)
-      - title: Frescoes, Oratory of San Jacopo at Girone (attr.)
-      - title: Madonna and Child enthroned with Saints, panel (Christie's)
-      - title: Madonna della Misericordia, panel (attr.)
-
-  - title: Influences
-    list:
-      - Cimabue
-      - Coppo di Marcovaldo
-      - Duccio di Buoninsegna (early works)
-      - Pietro Cavallini and the Roman school
-      - Byzantine tradition
+      - label: Spouse
+        value: Lore, later recorded as his widow
 
   - title: Patrons
     list:
-      - Pieve of San Lorenzo, Montelupo Fiorentino
-      - Arte di Calimala (Florence Baptistery)
-      - Franciscan and Augustinian religious orders
-      - Florentine confraternities (Laudesi companies)
-      - Private mercantile families, Florence
+      - Pieve of San Lorenzo, Montelupo Fiorentino — fresco cycle of 1284
+      - Arte di Calimala — Baptistery mosaics, including the Stories of St. John the Baptist
+      - Rural parish clergy, mendicant houses, and lay confraternities in Florence and its contado
+
+  - title: Key Works
+    list:
+      - Saint John the Evangelist — fresco, San Lorenzo, Montelupo Fiorentino, 1284
+      - Corso di Buono's signature — fresco, San Lorenzo, Montelupo Fiorentino, 1284
+      - Christ Pantocrator among cherubs — fresco, San Lorenzo, Montelupo Fiorentino, 1284
+      - The Miracle of Saint John the Evangelist — fresco, San Lorenzo, Montelupo Fiorentino, 1284
+      - Baptistery vault mosaics, Stories of St. John the Baptist — attributed by Luciano Bellosi
+
+  - title: Artistic Influences
+    list:
+      - Cimabue — monumental figure style, emotional gravitas, and Florentine workshop culture
+      - Coppo di Marcovaldo — expressive weight and darker Florentine inheritance
+      - Pietro Cavallini and the Roman school — volumetric forms and spatial authority
+      - Duccio — selective refinement of gesture and drapery
+      - Byzantine art — iconic formulas, gold grounds, and hieratic compositions
+
+  - title: Documentary Record
+    pairs:
+      - label: Earliest secure document
+        value: 1284, the San Lorenzo cycle at Montelupo Fiorentino
+      - label: Guild office
+        value: Rector of the Painters' Guild in 1295
+      - label: Later family references
+        value: Mention of his wife Lore as widow and of a brother, Segnorello di Buono
+      - label: Career span
+        value: Documented in the late thirteenth century; no exact death record survives
 
 scholars:
   - title: "Bellosi, Luciano"
