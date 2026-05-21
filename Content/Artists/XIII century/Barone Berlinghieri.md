@@ -96,6 +96,10 @@ scholars:
     url: "/scholars.html#meiss-millard"
   - title: "Roberto Longhi"
     url: "/scholars.html#longhi-roberto"
+  - title: "Giorgio Vasari"
+    url: "/scholars.html#vasari-giorgio"
+  - title: "Lorenzo Ghiberti"
+    url: "/scholars.html#ghiberti-lorenzo"
 ---
 
 ## The Founding Patriarch
