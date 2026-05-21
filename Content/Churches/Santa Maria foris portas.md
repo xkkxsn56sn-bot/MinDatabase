@@ -102,7 +102,7 @@ meta:
 
   - title: "Materials and Techniques"
     list:
-      - "Layered plaster preparation: arriccio (rough undercoat) and intonaco (fine painted surface) applied across interior walls"
+      - "Layered plaster preparation: arriccio (rough undercoat) and *intonaco* (fine painted surface) applied across interior walls"
       - "Dual technique: buon fresco (pigments applied to wet plaster) combined with tempera passages (egg binder) for detail, glazes, and colour nuance"
       - "Egyptian blue (cuprorivaite): synthetic pigment identified by VIL imaging; key technical and potential chronological evidence"
       - "Vibrant, high-quality polychrome palette: iron-based ochres, mineral earth pigments, and expensive synthetic materials"
@@ -160,6 +160,18 @@ meta:
 scholars:
   - title: "Grabar, André"
     url: "/scholars.html#grabar-andre"
+  - title: "Kitzinger, Ernst"
+    url: "/scholars.html#kitzinger-ernst"
+  - title: "Toesca, Pietro"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Bertelli, Carlo"
+    url: "/scholars.html#bertelli-carlo"
+  - title: "De Francovich, Geza"
+    url: "/scholars.html#de-francovich-geza"
+  - title: "Salmi, Mario"
+    url: "/scholars.html#salmi-mario"
+  - title: "Demus, Otto"
+    url: "/scholars.html#demus-otto"
 ---
 
 ## Introduction and Architectural Context
@@ -183,7 +195,7 @@ The religious studies perspective offers a complementary lens through which to i
 
 ## Materials, Techniques, and Scientific Analysis
 
-The creation of the frescoes at Santa Maria foris portas involved a sophisticated application of materials and techniques, the study of which has been greatly enhanced by modern scientific methodologies. The paintings were executed on the surface of the church's interior walls, which were prepared with multiple layers of plaster, or *intonaco*. The primary techniques employed were a combination of buon fresco, where pigment is applied to wet plaster, and tempera, where pigments are bound with a water-soluble medium, likely egg. This mixed technique allowed for a wide range of effects, contributing to the vibrancy of the color palette and the intricate detailing observed in the figures. The preparatory layers of plaster are themselves a subject of analysis, as their composition can provide clues about the workshop practices and the materials available to the painters. The identification of different intonaco layers helps art historians understand the sequence of painting and any subsequent restorations or interventions that may have occurred over the centuries. The careful preparation of the substrate was essential for ensuring the durability of the paint layers, although the subsequent burial of the church under plaster for centuries ultimately proved to be the most effective form of preservation.
+The creation of the frescoes at Santa Maria foris portas involved a sophisticated application of materials and techniques, the study of which has been greatly enhanced by modern scientific methodologies. The paintings were executed on the surface of the church's interior walls, which were prepared with multiple layers of plaster, or *intonaco*. The primary techniques employed were a combination of buon fresco, where pigment is applied to wet plaster, and tempera, where pigments are bound with a water-soluble medium, likely egg. This mixed technique allowed for a wide range of effects, contributing to the vibrancy of the color palette and the intricate detailing observed in the figures. The preparatory layers of plaster are themselves a subject of analysis, as their composition can provide clues about the workshop practices and the materials available to the painters. The identification of different *intonaco* layers helps art historians understand the sequence of painting and any subsequent restorations or interventions that may have occurred over the centuries. The careful preparation of the substrate was essential for ensuring the durability of the paint layers, although the subsequent burial of the church under plaster for centuries ultimately proved to be the most effective form of preservation.
 
 One of the most significant discoveries in the material analysis of the Castelseprio frescoes is the identification of Egyptian blue, a synthetic pigment that had been used in antiquity but whose production and use declined significantly in the early medieval period. The presence of this specific blue pigment, confirmed through advanced imaging techniques, is a critical piece of evidence for dating the work. The detection of Egyptian blue allows for a direct comparison with other early medieval sites where the pigment has been identified, helping to establish a more precise chronology. The synthesis of Egyptian blue involves a complex process of sintering or melting raw materials, indicating access to specialized knowledge and resources. The fact that this costly and technically demanding pigment was used in the Castelseprio cycle suggests a significant investment in the artwork and points to the involvement of skilled artisans. The study of pigments extends beyond just Egyptian blue, encompassing a broader investigation into the full spectrum of colors used in the cycle, each with its own chemical signature and historical context.
 
@@ -194,7 +206,7 @@ The results of this scientific analysis contribute directly to several areas of 
 The table below summarizes the key scientific methods used in the study of the Castelseprio frescoes and their primary applications.
 
 | Method | Primary Application | Key Information Provided |
-|---|---|---|
+| --- | --- | --- |
 | X-ray Fluorescence (XRF) | Elemental analysis of pigments and plasters. | Determines the elemental composition of materials without sampling. |
 | Micro-Raman (μ-Raman) Spectroscopy | Molecular identification of pigments and binding media. | Provides information on the specific crystalline compounds present. |
 | Fourier Transform Infrared (FT-IR) Spectroscopy | Identification of organic materials and some inorganic compounds. | Detects molecular vibrations characteristic of specific chemical bonds. |
@@ -243,7 +255,7 @@ The Lombard context itself provides another crucial frame of reference. The Lomb
 The table below outlines the key comparative attributes of the Castelseprio frescoes against the defining characteristics of Byzantine, Carolingian, and Lombard artistic traditions.
 
 | Feature | Castelseprio Frescoes | Byzantine Style | Carolingian Style | Lombard Style |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Figural Modeling** | High relief, volumetric, Hellenistic influence | Flatter, more hieratic, emerging from the 9th century | Revival of classical forms, but often more rigid and linear | Blend of classical, Germanic, and Mediterranean elements |
 | **Spatial Representation** | Illusionistic, creates depth | Hierarchical, symbolic space, flat background | Attempts at classical perspective, but often shallow | Varied, often integrated with architectural frames |
 | **Color Palette** | Vibrant, with use of expensive pigments like Egyptian blue | Luminous, with gold backgrounds and strong contrasts | More muted, earth-toned | Dependent on local availability of materials |

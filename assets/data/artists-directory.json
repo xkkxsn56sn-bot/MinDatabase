@@ -1,0 +1,534 @@
+{
+  "VII Century": [
+    {
+      "name": "Eadfrith di Lindisfarne",
+      "href": "Content/Artists/VII%20century/Eadfrith%20di%20Lindisfarne.html"
+    },
+    {
+      "name": "Maestro di Castelseprio",
+      "href": "Content/Artists/VII%20century/Maestro%20di%20Castelseprio.html"
+    }
+  ],
+  "VIII Century": [
+    {
+      "name": "Dagulf",
+      "href": "Content/Artists/VIII%20century/Dagulf.html"
+    },
+    {
+      "name": "Godescalc",
+      "href": "Content/Artists/VIII%20century/Godescalc.html"
+    },
+    {
+      "name": "Rhabanus Maurus",
+      "href": "Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+    }
+  ],
+  "IX Century": [
+    {
+      "name": "Adelricus",
+      "href": "Content/Artists/IX%20century/Adelricus.html"
+    },
+    {
+      "name": "Brun Candidus of Fulda",
+      "href": "Content/Artists/IX%20century/Brun%20Candidus%20of%20Fulda.html"
+    }
+  ],
+  "X Century": [
+    {
+      "name": "Maestro di Galliano",
+      "href": "Content/Artists/X%20century/Maestro%20di%20Galliano.html"
+    },
+    {
+      "name": "Maius",
+      "href": "Content/Artists/X%20century/Maius.html"
+    }
+  ],
+  "XI Century": [
+    {
+      "name": "Giselbertus",
+      "href": "Content/Artists/XI%20century/Giselbertus.html"
+    },
+    {
+      "name": "Maestro di Pedret",
+      "href": "Content/Artists/XI%20century/Maestro%20di%20Pedret.html"
+    },
+    {
+      "name": "Roger di Helmarshausen",
+      "href": "Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html"
+    },
+    {
+      "name": "Wiligelmo",
+      "href": "Content/Artists/XI%20century/Wiligelmo.html"
+    }
+  ],
+  "XII Century": [
+    {
+      "name": "Alberto Sozio",
+      "href": "Content/Artists/XII%20century/Alberto%20Sozio.html"
+    },
+    {
+      "name": "Anselmo",
+      "href": "Content/Artists/XII%20century/Anselmo.html"
+    },
+    {
+      "name": "Anselmo da Campione",
+      "href": "Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
+    },
+    {
+      "name": "Benedetto Antelami",
+      "href": "Content/Artists/XII%20century/Benedetto%20Antelami.html"
+    },
+    {
+      "name": "Berlinghiero Berlinghieri",
+      "href": "Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
+    },
+    {
+      "name": "Hildegard von Bingen",
+      "href": "Content/Artists/XII%20century/Hildegard%20von%20Bingen.html"
+    },
+    {
+      "name": "Maestro della Croce 432",
+      "href": "Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
+    },
+    {
+      "name": "Maestro della Croce del Santo Sepolcro",
+      "href": "Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
+    },
+    {
+      "name": "Maestro di Rosano",
+      "href": "Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+    },
+    {
+      "name": "Maestro di San Pietro in Villore",
+      "href": "Content/Artists/XII%20century/Maestro%20di%20San%20Pietro%20in%20Villore.html"
+    },
+    {
+      "name": "Maestro Guglielmo",
+      "href": "Content/Artists/XII%20century/Maestro%20Guglielmo.html"
+    },
+    {
+      "name": "Nicholaus",
+      "href": "Content/Artists/XII%20century/Nicholaus.html"
+    },
+    {
+      "name": "Pantaleone",
+      "href": "Content/Artists/XII%20century/Pantaleone.html"
+    }
+  ],
+  "XIII Century": [
+    {
+      "name": "Andrea Tafi",
+      "href": "Content/Artists/XIII%20century/Andrea%20Tafi.html"
+    },
+    {
+      "name": "Arnolfo di Cambio",
+      "href": "Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html"
+    },
+    {
+      "name": "Barone Berlinghieri",
+      "href": "Content/Artists/XIII%20century/Barone%20Berlinghieri.html"
+    },
+    {
+      "name": "Bonaventura Berlinghieri",
+      "href": "Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html"
+    },
+    {
+      "name": "Cimabue",
+      "href": "Content/Artists/XIII%20century/Cimabue.html"
+    },
+    {
+      "name": "Coppo di Marcovaldo",
+      "href": "Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+    },
+    {
+      "name": "Corso di Buono",
+      "href": "Content/Artists/XIII%20century/Corso%20di%20Buono.html"
+    },
+    {
+      "name": "Deodato Orlandi",
+      "href": "Content/Artists/XIII%20century/Deodato%20Orlandi.html"
+    },
+    {
+      "name": "Dietisalvi di Speme",
+      "href": "Content/Artists/XIII%20century/Dietisalvi%20di%20Speme.html"
+    },
+    {
+      "name": "Duccio di Buoninsegna",
+      "href": "Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+    },
+    {
+      "name": "Enrico di Tedice",
+      "href": "Content/Artists/XIII%20century/Enrico%20di%20Tedice.html"
+    },
+    {
+      "name": "Filippo di Jacopo",
+      "href": "Content/Artists/XIII%20century/Filippo%20di%20Jacopo.html"
+    },
+    {
+      "name": "Filippo Rusuti",
+      "href": "Content/Artists/XIII%20century/Filippo%20Rusuti.html"
+    },
+    {
+      "name": "Gaddo Gaddi",
+      "href": "Content/Artists/XIII%20century/Gaddo%20Gaddi.html"
+    },
+    {
+      "name": "Gentile da Rocca",
+      "href": "Content/Artists/XIII%20century/Gentile%20da%20Rocca.html"
+    },
+    {
+      "name": "Gilio di Pietro",
+      "href": "Content/Artists/XIII%20century/Gilio%20di%20Pietro.html"
+    },
+    {
+      "name": "Giotto di Bondone",
+      "href": "Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+    },
+    {
+      "name": "Giovanni di Apparecchiato",
+      "href": "Content/Artists/XIII%20century/Giovanni%20di%20Apparecchiato.html"
+    },
+    {
+      "name": "Giuliano da Rimini",
+      "href": "Content/Artists/XIII%20century/Giuliano%20da%20Rimini.html"
+    },
+    {
+      "name": "Giunta Pisano",
+      "href": "Content/Artists/XIII%20century/Giunta%20Pisano.html"
+    },
+    {
+      "name": "Grifo di Tancredi",
+      "href": "Content/Artists/XIII%20century/Grifo%20di%20Tancredi.html"
+    },
+    {
+      "name": "Guido da Siena",
+      "href": "Content/Artists/XIII%20century/Guido%20da%20Siena.html"
+    },
+    {
+      "name": "Guido di Graziano",
+      "href": "Content/Artists/XIII%20century/Guido%20di%20Graziano.html"
+    },
+    {
+      "name": "Jacopo Torriti",
+      "href": "Content/Artists/XIII%20century/Jacopo%20Torriti.html"
+    },
+    {
+      "name": "Maestro bizantino del Crocifisso di Pisa",
+      "href": "Content/Artists/XIII%20century/Maestro%20bizantino%20del%20Crocifisso%20di%20Pisa.html"
+    },
+    {
+      "name": "Maestro Consolo",
+      "href": "Content/Artists/XIII%20century/Maestro%20Consolo.html"
+    },
+    {
+      "name": "Maestro dei Crocifissi francescani",
+      "href": "Content/Artists/XIII%20century/Maestro%20dei%20Crocifissi%20francescani.html"
+    },
+    {
+      "name": "Maestro dei Mesi",
+      "href": "Content/Artists/XIII%20century/Maestro%20dei%20Mesi.html"
+    },
+    {
+      "name": "Maestro dei Santi Cosma e Damiano",
+      "href": "Content/Artists/XIII%20century/Maestro%20dei%20Santi%20Cosma%20e%20Damiano.html"
+    },
+    {
+      "name": "Maestro del Bigallo",
+      "href": "Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+    },
+    {
+      "name": "Maestro del Dossale di Yale",
+      "href": "Content/Artists/XIII%20century/Maestro%20del%20Dossale%20di%20Yale.html"
+    },
+    {
+      "name": "Maestro del San Francesco Bardi",
+      "href": "Content/Artists/XIII%20century/Maestro%20del%20San%20Francesco%20Bardi.html"
+    },
+    {
+      "name": "Maestro dell'Aula della Curia",
+      "href": "Content/Artists/XIII%20century/Maestro%20Aula%20della%20Curia.html"
+    },
+    {
+      "name": "Maestro della Cattura",
+      "href": "Content/Artists/XIII%20century/Maestro%20della%20Cattura.html"
+    },
+    {
+      "name": "Maestro della Croce 434",
+      "href": "Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html"
+    },
+    {
+      "name": "Maestro della Croce di Castelfiorentino",
+      "href": "Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.html"
+    },
+    {
+      "name": "Maestro della Maddalena",
+      "href": "Content/Artists/XIII%20century/Maestro%20della%20Maddalena.html"
+    },
+    {
+      "name": "Maestro delle Palazze",
+      "href": "Content/Artists/XIII%20century/Maestro%20delle%20Palazze.html"
+    },
+    {
+      "name": "Maestro delle Storie di Isacco",
+      "href": "Content/Artists/XIII%20century/Maestro%20delle%20Storie%20di%20Isacco.html"
+    },
+    {
+      "name": "Maestro di Faenza",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Faenza.html"
+    },
+    {
+      "name": "Maestro di Montefioralle",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Montefioralle.html"
+    },
+    {
+      "name": "Maestro di Naumburg",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Naumburg.html"
+    },
+    {
+      "name": "Maestro di San Francesco",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html"
+    },
+    {
+      "name": "Maestro di San Martino",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20San%20Martino.html"
+    },
+    {
+      "name": "Maestro di San Pietro in Vineis",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
+    },
+    {
+      "name": "Maestro di San Torpè",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20San%20Torpe.html"
+    },
+    {
+      "name": "Maestro di Sant'Alò",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Sant%20Alo.html"
+    },
+    {
+      "name": "Maestro di Santa Chiara",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Santa%20Chiara.html"
+    },
+    {
+      "name": "Maestro di Santa Maria Primerana",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Santa%20Maria%20Primerana.html"
+    },
+    {
+      "name": "Maestro di Soriguerola",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Soriguerola.html"
+    },
+    {
+      "name": "Maestro di Tressa",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Tressa.html"
+    },
+    {
+      "name": "Maestro di Varlungo",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Varlungo.html"
+    },
+    {
+      "name": "Maestro di Vico l'Abate",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Vico%20lAbate.html"
+    },
+    {
+      "name": "Manfredino da Pistoia",
+      "href": "Content/Artists/XIII%20century/Manfredino%20da%20Pistoia.html"
+    },
+    {
+      "name": "Marco Berlinghieri",
+      "href": "Content/Artists/XIII%20century/Marco%20Berlinghieri.html"
+    },
+    {
+      "name": "Margarito d'Arezzo",
+      "href": "Content/Artists/XIII%20century/Margarito.html"
+    },
+    {
+      "name": "Meliore di Jacopo",
+      "href": "Content/Artists/XIII%20century/Meliore%20di%20Jacopo.html"
+    },
+    {
+      "name": "Michele di Baldovino",
+      "href": "Content/Artists/XIII%20century/Michele%20di%20Baldovino.html"
+    },
+    {
+      "name": "Nicola Pisano",
+      "href": "Content/Artists/XIII%20century/Nicola%20Pisano.html"
+    },
+    {
+      "name": "Pietro Cavallini",
+      "href": "Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+    },
+    {
+      "name": "Primo Maestro di Anagni",
+      "href": "Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.html"
+    },
+    {
+      "name": "Rainaldetto di Ranuccio",
+      "href": "Content/Artists/XIII%20century/Rainaldetto%20di%20Ranuccio.html"
+    },
+    {
+      "name": "Ranieri di Ugolino",
+      "href": "Content/Artists/XIII%20century/Ranieri%20di%20Ugolino.html"
+    },
+    {
+      "name": "Rinaldo da Siena",
+      "href": "Content/Artists/XIII%20century/Rinaldo%20da%20Siena.html"
+    },
+    {
+      "name": "Secondo Maestro di Anagni",
+      "href": "Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html"
+    },
+    {
+      "name": "Simeone e Machilone",
+      "href": "Content/Artists/XIII%20century/Simeone%20e%20Machilone.html"
+    },
+    {
+      "name": "Simone Martini",
+      "href": "Content/Artists/XIII%20century/Simone%20Martini.html"
+    },
+    {
+      "name": "Solsternus",
+      "href": "Content/Artists/XIII%20century/Solsternus.html"
+    },
+    {
+      "name": "Terzo Maestro di Anagni",
+      "href": "Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.html"
+    },
+    {
+      "name": "Ugolino di Tedice",
+      "href": "Content/Artists/XIII%20century/Ugolino%20di%20Tedice.html"
+    },
+    {
+      "name": "Vigoroso da Siena",
+      "href": "Content/Artists/XIII%20century/Vigoroso%20da%20Siena.html"
+    }
+  ],
+  "XIV Century": [
+    {
+      "name": "Allegretto Nuzi",
+      "href": "Content/Artists/XIV%20century/Allegretto%20Nuzi.html"
+    },
+    {
+      "name": "Andrea de Bartoli",
+      "href": "Content/Artists/XIV%20century/Andrea%20de%20Bartoli.html"
+    },
+    {
+      "name": "Andrea di Bonaiuto",
+      "href": "Content/Artists/XIV%20century/Andrea%20di%20Bonaiuto.html"
+    },
+    {
+      "name": "Bartolomeo Bulgarini",
+      "href": "Content/Artists/XIV%20century/Bartolomeo%20Bulgarini.html"
+    },
+    {
+      "name": "Bartolomeo da Camogli",
+      "href": "Content/Artists/XIV%20century/Bartolomeo%20da%20Camogli.html"
+    },
+    {
+      "name": "Caterino di Marco da Venezia",
+      "href": "Content/Artists/XIV%20century/Caterino%20di%20Marco%20da%20Venezia.html"
+    },
+    {
+      "name": "Dalmasio degli Scannabecchi",
+      "href": "Content/Artists/XIV%20century/Dalmasio%20degli%20Scannabecchi.html"
+    },
+    {
+      "name": "Francesco Traini",
+      "href": "Content/Artists/XIV%20century/Francesco%20Traini.html"
+    },
+    {
+      "name": "Francescuccio Ghissi",
+      "href": "Content/Artists/XIV%20century/Francescuccio%20Ghissi.html"
+    },
+    {
+      "name": "Giovanni di Nicola da Pisa",
+      "href": "Content/Artists/XIV%20century/Giovanni%20di%20Nicola%20da%20Pisa.html"
+    },
+    {
+      "name": "Giovanni di Ugo da Campione",
+      "href": "Content/Artists/XIV%20century/Giovanni%20di%20Ugo%20da%20Campione.html"
+    },
+    {
+      "name": "Lippo di Dalmasio degli Scannabecchi",
+      "href": "Content/Artists/XIV%20century/Lippo%20di%20Dalmasio%20degli%20Scannabecchi.html"
+    },
+    {
+      "name": "Lippo Memmi",
+      "href": "Content/Artists/XIV%20century/Lippo%20Memmi.html"
+    },
+    {
+      "name": "Maestro dell'Albero della Vita",
+      "href": "Content/Artists/XIV%20century/Maestro%20Albero%20della%20Vita.html"
+    },
+    {
+      "name": "Maestro della Madonna di Perugia",
+      "href": "Content/Artists/XIV%20century/Maestro%20della%20Madonna%20di%20Perugia.html"
+    },
+    {
+      "name": "Maestro della Maestà delle Volte",
+      "href": "Content/Artists/XIV%20century/Maestro%20della%20Maesta%20delle%20Volte.html"
+    },
+    {
+      "name": "Maestro delle Tempere Francescane",
+      "href": "Content/Artists/XIV%20century/Maestro%20delle%20Tempere%20Francescane.html"
+    },
+    {
+      "name": "Maestro di Panzano",
+      "href": "Content/Artists/XIV%20century/Maestro%20di%20Panzano.html"
+    },
+    {
+      "name": "Maestro di Santa Cecilia",
+      "href": "Content/Artists/XIV%20century/Maestro%20di%20Santa%20Cecilia.html"
+    },
+    {
+      "name": "Marino d'Elemosina",
+      "href": "Content/Artists/XIV%20century/Marino%20di%20Elemosina.html"
+    },
+    {
+      "name": "Memmo di Filippuccio",
+      "href": "Content/Artists/XIV%20century/Memmo%20di%20Filippuccio.html"
+    },
+    {
+      "name": "Meo da Siena",
+      "href": "Content/Artists/XIV%20century/Meo%20da%20Siena.html"
+    },
+    {
+      "name": "Niccolò di Buonaccorso",
+      "href": "Content/Artists/XIV%20century/Niccolò%20di%20Buonaccorso.html"
+    },
+    {
+      "name": "Nicolò di Giacomo",
+      "href": "Content/Artists/XIV%20century/Nicolò%20di%20Giacomo.html"
+    },
+    {
+      "name": "Pacino di Bonaguida",
+      "href": "Content/Artists/XIV%20century/Pacino%20di%20Bonaguida.html"
+    },
+    {
+      "name": "Paolo di Giovanni Fei",
+      "href": "Content/Artists/XIV%20century/Paolo%20di%20Giovanni%20Fei.html"
+    },
+    {
+      "name": "Paolo Veneziano",
+      "href": "Content/Artists/XIV%20century/Paolo%20Veneziano.html"
+    },
+    {
+      "name": "Puccio di Simone",
+      "href": "Content/Artists/XIV%20century/Puccio%20di%20Simone.html"
+    },
+    {
+      "name": "Simone dei Crocifissi",
+      "href": "Content/Artists/XIV%20century/Simone%20dei%20Crocifissi.html"
+    },
+    {
+      "name": "Spinello Aretino",
+      "href": "Content/Artists/XIV%20century/Spinello%20Aretino.html"
+    },
+    {
+      "name": "Ugolino di Nerio",
+      "href": "Content/Artists/XIV%20century/Ugolino%20di%20Nerio.html"
+    },
+    {
+      "name": "Vitale da Bologna",
+      "href": "Content/Artists/XIV%20century/Vitale%20da%20Bologna.html"
+    }
+  ]
+}

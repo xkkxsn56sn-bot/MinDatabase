@@ -1,102 +1,120 @@
 ---
 layout: entry
 title: "Maestro di San Torpè"
-subtitle: "Anonymous Tuscan painter named from a panel or cycle for the church of San Torpè"
-dates: "Active c. 1290–1325"
+subtitle: "Anonymous Tuscan painter active in Pisa between late Duecento traditions and early Trecento renewal"
+dates: "active c. 1290-1325"
 
 meta:
-  - title: "PERIOD"
-    list:
-      - "XIII–XIV century"
-      - "Late Duecento to early Trecento transition in Pisa"
-
-  - title: "ROLE"
-    list:
-      - "Anonymous Tuscan painter"
-      - "Leading Pisan master between Cimabue and Simone Martini"
-      - "Possible historical identification with Vanni di Bindo"
-
-  - title: "LOCATION"
-    list:
-      - "Pisa (principal documented activity)"
-      - "Pisan contado and diocesan territory (Campiglia, Morrona, Latignano, Casciana)"
-      - "Possible Sienese formative phase"
-
-  - title: "BIRTH & DEATH"
+  - title: "CORE DATA"
     pairs:
-      - label: "Birth"
-        value: "Unknown; probably late XIII century (possibly Sienese origin if identified with Vanni di Bindo)"
-      - label: "Death"
-        value: "Unknown; probably after 1318 and before c. 1325"
+      - label: "Name"
+        value: "Maestro di San Torpè (conventional attribution name)"
+      - label: "Primary role"
+        value: "Anonymous panel and fresco painter in the Pisan-Tuscan orbit"
+      - label: "Period"
+        value: "Late XIII to early XIV century (Duecento-Trecento transition)"
+      - label: "Primary center"
+        value: "Pisa, with activity across the Pisan diocese and contado"
+      - label: "Documentary status"
+        value: "Attribution-defined corpus; frequently linked to documented painter Vanni di Bindo"
 
-  - title: "KEY WORKS"
+  - title: "IDENTITY AND ATTRIBUTION"
     list:
-      - "Madonna and Child associated with the church of San Torpè, Pisa (namesake work)"
-      - "Cinquini polyptych (now divided between Museo Nazionale di San Matteo and Uffizi)"
-      - "Madonna and Child fresco on the triumphal arch of Pisa Cathedral"
-      - "Saint Julia panel (Terreni Museum, Livorno)"
-      - "Additional Marian/devotional panels in London, Providence, Seattle, and Pisan collections"
+      - "Notname derived from a Madonna associated with the church of San Torpè in Pisa"
+      - "Corpus first systematically grouped in modern scholarship in the XX century"
+      - "Roberto Longhi's reassessment established the master as a major Pisan figure"
+      - "Possible identification with Vanni di Bindo remains influential but not conclusively proven"
 
-  - title: "ARTISTIC PROFILE"
-    list:
-      - "Gold-ground Italo‑Byzantine structure with refined Sienese chromaticism"
-      - "Strong Cimabuesque expressionism in early phase"
-      - "Progressive assimilation of Giottesque volumetry and directed light"
-      - "Narrative clarity and devotional tenderness in mature works"
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Early phase"
+        value: "c. 1290-1305, with strong Cimabuesque and late-Duecento structural features"
+      - label: "Documented Pisan activity"
+        value: "1302-1318 under the Vanni di Bindo identification hypothesis"
+      - label: "Mature phase"
+        value: "c. 1305-1320, refined synthesis of Pisan monumentality and Sienese chromatic elegance"
+      - label: "Late horizon"
+        value: "Possibly extending to c. 1325 in stylistic terms"
 
-  - title: "PATRONS"
+  - title: "PATRONAGE AND COMMISSIONS"
     list:
       - "Pisa Cathedral chapter and Opera del Duomo"
       - "Church of San Torpè and associated confraternities"
       - "Cinquini family and Franciscan settings"
       - "Hospital and monastic institutions in the Pisan territory"
+      - "Urban religious patrons requiring Marian and saintly devotional images"
 
-  - title: "KEY PHASES"
+  - title: "ARTISTIC PRACTICE"
     list:
-      - "Formation in late Duecento Tuscan workshops (Siena/Pisa axis)"
-      - "Major cathedral and hospital commissions in Pisa (1302–1315)"
-      - "Mature production of polyptychs and regional devotional panels"
-      - "Late Gothic inflection in works near the 1320s"
+      - "Tempera and gold on panel for polyptychs, dossals, and devotional icons"
+      - "Fresco intervention in major ecclesiastical spaces including cathedral contexts"
+      - "Workshop-based production with serial Marian formats and variable panel scales"
+      - "Punched and hand-worked decorative systems in halos and borders"
+      - "Integration of sculptural and architectural motifs into painted altarpiece structures"
 
-  - title: "THEMATIC KEYWORDS"
+  - title: "STYLE"
     list:
-      - "Cult of Saint Torpes"
-      - "Tuscan gold-ground painting"
-      - "Transition from maniera greca to Trecento naturalism"
-      - "Local saintly cults and confraternal devotion"
+      - "Gold-ground Italo-Byzantine base reworked through Sienese chromatic finesse"
+      - "Early Cimabuesque intensity in faces and dramatic contouring"
+      - "Growing Giottesque volumetry, spatial coherence, and directional light"
+      - "Mature devotional tenderness without abandoning formal hierarchy"
+      - "Late Gothic inflection in selected works approaching the 1320s"
+
+  - title: "KEY WORKS"
+    list:
+      - "Madonna and Child associated with San Torpè, Pisa"
+      - "Cinquini polyptych (now divided between Museo Nazionale di San Matteo and Uffizi)"
+      - "Madonna and Child fresco on the triumphal arch of Pisa Cathedral"
+      - "Saint Julia panel, Terreni Museum, Livorno"
+      - "Madonna and Child panels in London, Providence, Seattle, and Pisan collections"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "Principal Pisan mediator between late Duecento traditions and early Trecento innovation"
+      - "Central to understanding artistic exchange between Pisa and Siena"
+      - "Key case study for linking stylistic masters to documented civic artists"
+      - "Important witness to devotional image culture in cathedral, Franciscan, and confraternal settings"
 
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
       - title: "Deodato Orlandi"
-        url: "/Content/Artists/XIII-XIV%20century/Deodato%20Orlandi.md"
+        url: "/Content/Artists/XIII%20century/Deodato%20Orlandi.html"
       - title: "Francesco Traini"
-        url: "/Content/Artists/XIII-XIV%20century/Francesco%20Traini.md"
-      - title: "Pisan and Tuscan painting between XIII and XIV century"
-        url: "/Content/Topics/Pisan%20and%20Tuscan%20painting%20between%20XIII%20and%20XIV%20century.md"
+        url: "/Content/Artists/XIV%20century/Francesco%20Traini.html"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII%20century/Cimabue.html"
+      - title: "Duccio di Buoninsegna"
+        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
 
-author: "Maestro di San Torpè"
-role: "Anonymous Tuscan painter named from a panel or cycle for the church of San Torpè"
-birth_place: "Tuscany (probable, between Pisa and its hinterland)"
-death_place: "Unknown (probably in Tuscany)"
-period: "XIII–XIV century"
-
-key_works:
-  - "Panel painting or dossal for the church of San Torpè (work giving the master’s name)"
-  - "Related panels with Saint Torpes and companion saints attributed to the same hand or workshop"
-  - "Small Marian and Christological images for Tuscan parish churches (attributed corpus)"
-
-tradition: "Tuscan panel painting between the Pisan and Florentine spheres, in the wake of Giunta Pisano and Giotto"
-artistic_style: "Gold-ground Italo‑Byzantine structure enlivened by growing Giottesque volumetry, narrative clarity, and devotional sweetness"
-
-thematic_keywords:
-  - "Cult of Saint Torpes"
-  - "Tuscan gold-ground painting"
-  - "Transition from maniera greca to Trecento naturalism"
-  - "Local saintly cults and confraternal devotion"
-
-category: "artists"
+scholars:
+  - title: "Roberto Longhi"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Evelyn Sandberg Vavalà"
+    url: "/scholars.html#sandberg-vavala-evelyn"
+  - title: "Luciano Bellosi"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Mariagiulia Burresi"
+    url: "/scholars.html#burresi-mariagiulia"
+  - title: "Antonino Caleca"
+    url: "/scholars.html#caleca-antonino"
+  - title: "Enzo Carli"
+    url: "/scholars.html#carli-enzo"
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Edward B. Garrison"
+    url: "/scholars.html#garrison-edward"
+  - title: "Millard Meiss"
+    url: "/scholars.html#meiss-millard"
+  - title: "Richard Offner"
+    url: "/scholars.html#offner-richard"
+  - title: "Mario Salmi"
+    url: "/scholars.html#salmi-mario"
+  - title: "Miklos Boskovits"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Cesare Brandi"
+    url: "/scholars.html#brandi-cesare"
 ---
 
 

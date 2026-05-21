@@ -4,24 +4,6 @@ title: "Oratorio di San Pellegrino, Bominaco"
 subtitle: "High medieval Benedictine oratory and shrine"
 dates: "Monastic foundation 10th–11th century; oratory and fresco cycle dated 1263"
 
-location: "Bominaco (Caporciano), Altopiano di Navelli, Abruzzo, Italy"
-ecclesiastical_tradition: "Benedictine monasticism, Diocese of Valva (later L’Aquila)"
-order: "Benedictine"
-architectural_style: "Romanesque with early Gothic elements"
-
-founders_and_patrons:
-  - "Benedictine monks dependent on Farfa Abbey"
-  - "Abbot Teodino of Bominaco"
-  - "Legendary Carolingian attribution to Charlemagne"
-
-related_entries:
-  - title: "Santa Maria Assunta, Bominaco"
-    url: "/Content/Churches/Santa%20Maria%20Assunta%20Bominaco.html"
-  - title: "Farfa Abbey"
-    url: "/Content/Churches/Farfa%20Abbey.html"
-
-category: "churches"
-
 meta:
   - title: "Core data"
     pairs:
@@ -45,9 +27,19 @@ meta:
   - title: "Related entries"
     links:
       - title: "Santa Maria Assunta, Bominaco"
-        url: "/Content/Churches/Santa%20Maria%20Assunta%20Bominaco.html"
       - title: "Farfa Abbey"
-        url: "/Content/Churches/Farfa%20Abbey.html"
+
+scholars:
+  - title: "Enzo Carli"
+    url: "/scholars.html#carli-enzo"
+  - title: "Giles Constable"
+    url: "/scholars.html#constable-giles"
+  - title: "Otto Demus"
+    url: "/scholars.html#demus-otto"
+  - title: "Ernst Kitzinger"
+    url: "/scholars.html#kitzinger-ernst"
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
 ---
 
 
@@ -79,7 +71,7 @@ The Infancy cycle, executed by the Maestro dell'Infanzia di Cristo, demonstrates
 
 The calendar cycle represents an iconographic innovation and artistic achievement of genuine significance, constituting one of the oldest surviving examples of a monastic calendar in European fresco painting and anticipating by only a few decades the great calendar cycles that would flourish in fourteenth-century manuscript illumination and monumental painting. The personification of each month through a human figure engaged in appropriate seasonal labor—January depicted as a man drinking from a flask to warm himself against winter's cold, February as a man pruning branches from a tree, March as a sleeping or reclining figure representing the month's lethargy, April as a young man holding flowers, May as a rider on horseback, and June as a figure gathering fruit—reveals the artist's attention to agricultural calendar and seasonal labor while maintaining the sacred character of these cycles through their association with ecclesiastical feast days and zodiacal signs. Each monthly figure is framed within a trefoil arch, a Gothic decorative element that suggests the artist's familiarity with contemporary French architectural ornament and manuscript decoration, introducing an ornamental vocabulary foreign to the more traditionally Byzantine and Romanesque idiom employed by his colleagues in the Passion and Infancy cycles. The dynamism of the calendar figures, with pronounced movement conveyed through posture and gesture, suggests the artist's knowledge of contemporary Gothic manuscript traditions and his comfort with compositional energy and narrative specificity characterizing miniature painting rather than monumental fresco. The calendar cycle, while occupying a smaller proportion of the total decorative program, represents perhaps the most innovative and forward-looking element of the entire fresco campaign, anticipating developments that would flourish only in subsequent decades as Gothic sensibility increasingly influenced Italian painting and as the calendrical cycles of great cathedrals like Notre-Dame of Paris and Amiens became recognized subjects worthy of substantial pictorial investment.
 
-The technical execution of the fresco cycle reveals sophisticated understanding of fresco methodology and material chemistry that enabled the painters to achieve the remarkable preservation visible today. The preparation of the wall surfaces through successive applications of arriccio and intonaco—the rough undercoat and the final lime plaster upon which painting occurred—created a stable ground capable of supporting centuries of environmental exposure while maintaining pigment adhesion and chromatic brilliance. The painters' evident mastery of fresco technique permitted the execution of extraordinarily detailed work despite the medium's demanding requirements: the need to paint rapidly upon wet plaster before carbonation occurred, the inability to make substantial corrections without significant rework, and the necessity of predetermined compositional planning to ensure successful execution. The pigment palette employed—ultramarine blues derived from precious lapis lazuli, reds and vermilions from iron oxides and mercury compounds, ochres and earth pigments from mineral sources, white from lime or chalk—represents substantial investment in materials, with the blue pigments alone consuming considerable financial resources and thus underscoring the monastery's wealth and commitment to the decorative program's magnificence. The conservation of these frescoes has revealed through scientific analysis (infrared reflectography, multispectral imaging, pigment sampling) preparatory underdrawing in sinopia, the network of preliminary sketches guiding the painters' hands and attesting to careful compositional planning before final painted execution. The absence of pentimenti—the visible corrections or alterations to compositions—across most of the fresco cycle suggests either extraordinary technical assurance permitting execution without error or the creation of preparatory cartoons permitting precise transfer of designs to the wet plaster, eliminating the need for hesitant revision. The longevity of the pigments and their continued chromatic intensity centuries after application demonstrates that the painters possessed empirical knowledge of material durability and selected pigment combinations specifically for their permanence, anticipating modern scientific understanding of pigment chemistry through practical experience and traditional craft knowledge transmitted through workshop apprenticeship.
+The technical execution of the fresco cycle reveals sophisticated understanding of fresco methodology and material chemistry that enabled the painters to achieve the remarkable preservation visible today. The preparation of the wall surfaces through successive applications of arriccio and *intonaco*—the rough undercoat and the final lime plaster upon which painting occurred—created a stable ground capable of supporting centuries of environmental exposure while maintaining pigment adhesion and chromatic brilliance. The painters' evident mastery of fresco technique permitted the execution of extraordinarily detailed work despite the medium's demanding requirements: the need to paint rapidly upon wet plaster before carbonation occurred, the inability to make substantial corrections without significant rework, and the necessity of predetermined compositional planning to ensure successful execution. The pigment palette employed—ultramarine blues derived from precious lapis lazuli, reds and vermilions from iron oxides and mercury compounds, ochres and earth pigments from mineral sources, white from lime or chalk—represents substantial investment in materials, with the blue pigments alone consuming considerable financial resources and thus underscoring the monastery's wealth and commitment to the decorative program's magnificence. The conservation of these frescoes has revealed through scientific analysis (infrared reflectography, multispectral imaging, pigment sampling) preparatory underdrawing in sinopia, the network of preliminary sketches guiding the painters' hands and attesting to careful compositional planning before final painted execution. The absence of pentimenti—the visible corrections or alterations to compositions—across most of the fresco cycle suggests either extraordinary technical assurance permitting execution without error or the creation of preparatory cartoons permitting precise transfer of designs to the wet plaster, eliminating the need for hesitant revision. The longevity of the pigments and their continued chromatic intensity centuries after application demonstrates that the painters possessed empirical knowledge of material durability and selected pigment combinations specifically for their permanence, anticipating modern scientific understanding of pigment chemistry through practical experience and traditional craft knowledge transmitted through workshop apprenticeship.
 
 The spatial organization of the fresco program, distributed across vault surfaces and walls at varying heights and viewing distances, creates a complex visual experience requiring viewers to move within the interior space to encounter the complete program rather than absorbing it from a single static position. The division of the vault into registers through horizontal bands permits the organization of multiple narrative sequences simultaneously visible, yet requiring the viewer's eye to trace narrative coherence across spatial discontinuity, forcing active interpretive engagement rather than passive reception of a unified perspectival composition. The placement of scenes at nave level versus vault level creates a hierarchy of visual access, with scenes visible to standing observers at eye level and those requiring upward gazing positioned on the vault overhead, a vertical stratification that may correspond to different liturgical contexts within monastic observance or reflect practical considerations regarding the painters' access and working positions during execution. The monumental Saint Christopher positioned at the entry, overshadowing normal human scale and dominating the visual field as one enters the space, functions as both protective guardian and compositional anchor, establishing a threshold figure whose protective presence greets arrivals and whose monumentality frames the experience of entering sacred space. The rhythmic articulation created by the vault's ogival arches and reinforcing pilasters provides visual structure that organizes the proliferation of narrative imagery into comprehensible units, the regular spacing of structural elements preventing the fresco program from appearing chaotic or overwhelming despite the density of painted content. The light filtering through modest window openings creates a deliberately luminous quality adapted to fresco visibility while maintaining the sacred atmosphere appropriate to monastic contemplation, with natural illumination varying throughout the day and across seasons, creating perpetually changing conditions of visibility and optical experience that would have invited continued contemplation rather than exhaustive visual comprehension at a single viewing.
 

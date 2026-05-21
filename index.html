@@ -1,972 +1,1099 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Medieval Visions - Medieval Art & Artists</title>
-    <meta name="description"
-        content="A database documenting medieval artists from the 7th-14th centuries, with a focus on Italian art history.">
+    <meta
+      name="description"
+      content="A database documenting medieval artists from the 7th-14th centuries, with a focus on Italian art history."
+    />
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-        :root {
-            --parchment: #f4f1e8;
-            --dark-parchment: #e8e3d3;
-            --gold: #c9a961;
-            --dark-gold: #a68948;
-            --burgundy: #722f37;
-            --dark-burgundy: #4a1f26;
-            --text: #2c2416;
-            --text-light: #5a4d3a;
-        }
+      :root {
+        --parchment: #f4f1e8;
+        --dark-parchment: #e8e3d3;
+        --gold: #c9a961;
+        --dark-gold: #a68948;
+        --burgundy: #722f37;
+        --dark-burgundy: #4a1f26;
+        --text: #2c2416;
+        --text-light: #5a4d3a;
+      }
 
-        body {
-            font-family: 'Georgia', 'Times New Roman', serif;
-            background: linear-gradient(135deg, var(--parchment) 0%, var(--dark-parchment) 100%);
-            color: var(--text);
-            line-height: 1.6;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-        }
+      body {
+        font-family: "Georgia", "Times New Roman", serif;
+        background: linear-gradient(
+          135deg,
+          var(--parchment) 0%,
+          var(--dark-parchment) 100%
+        );
+        color: var(--text);
+        line-height: 1.6;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
 
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-        }
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
 
-        header {
-            background: linear-gradient(135deg, var(--burgundy) 0%, var(--dark-burgundy) 100%);
-            color: var(--parchment);
-            padding: 3rem 2rem;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-            border-bottom: 3px solid var(--gold);
-        }
+      header {
+        background: linear-gradient(
+          135deg,
+          var(--burgundy) 0%,
+          var(--dark-burgundy) 100%
+        );
+        color: var(--parchment);
+        padding: 3rem 2rem;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        border-bottom: 3px solid var(--gold);
+      }
 
+      .header-shell {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 800px) minmax(
+            260px,
+            320px
+          );
+        gap: 2rem;
+        align-items: start;
+        max-width: 1440px;
+        margin: 0 auto;
+      }
+
+      .header-copy {
+        grid-column: 2;
+        text-align: center;
+      }
+
+      .julian-date-panel {
+        grid-column: 1;
+        justify-self: center;
+        align-self: start;
+        width: 100%;
+        max-width: 260px;
+        background: rgba(244, 241, 232, 0.12);
+        border: 1px solid rgba(201, 169, 97, 0.45);
+        border-radius: 12px;
+        padding: 0.95rem 1rem;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+        text-align: center;
+      }
+
+      .julian-date-panel__label {
+        font-size: 0.72rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--gold);
+        margin-bottom: 0.35rem;
+      }
+
+      .julian-date-panel__value {
+        font-size: 1rem;
+        line-height: 1.35;
+        color: rgba(244, 241, 232, 0.96);
+      }
+
+      .julian-date-panel__phase-label {
+        margin-top: 0.8rem;
+        font-size: 0.68rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: rgba(201, 169, 97, 0.88);
+      }
+
+      .julian-date-panel__phase-value {
+        margin-top: 0.2rem;
+        font-size: 0.92rem;
+        line-height: 1.35;
+        color: rgba(244, 241, 232, 0.92);
+      }
+
+      header h1 {
+        font-size: 2.8rem;
+        margin-bottom: 0.5rem;
+        letter-spacing: 2px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      }
+
+      header .subtitle {
+        font-size: 1.1rem;
+        font-style: italic;
+        color: var(--gold);
+        margin-bottom: 1rem;
+      }
+
+      header .tagline {
+        font-size: 0.95rem;
+        opacity: 0.9;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      .push-notice-card {
+        grid-column: 3;
+        justify-self: end;
+        width: 100%;
+        background: rgba(244, 241, 232, 0.12);
+        border: 1px solid rgba(201, 169, 97, 0.55);
+        border-radius: 12px;
+        padding: 1rem 1.1rem;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+        text-align: left;
+      }
+
+      .push-notice-card__label {
+        font-size: 0.72rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--gold);
+        margin-bottom: 0.35rem;
+        text-align: center;
+      }
+
+      .push-notice-card__title {
+        font-size: 1.15rem;
+        line-height: 1.2;
+        margin-bottom: 0.45rem;
+        text-align: center;
+      }
+
+      .push-notice-card__list {
+        list-style: none;
+        margin: 0.3rem 0 0;
+        padding: 0;
+        display: grid;
+        gap: 0.55rem;
+      }
+
+      .push-notice-card__item {
+        border: 1px solid rgba(201, 169, 97, 0.26);
+        border-radius: 8px;
+        padding: 0.52rem 0.58rem;
+        background: rgba(244, 241, 232, 0.08);
+      }
+
+      .push-notice-card__item-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.5rem;
+      }
+
+      .push-notice-card__item-title {
+        font-size: 0.92rem;
+        color: #fff7df;
+        font-weight: 700;
+        line-height: 1.25;
+      }
+
+      .push-notice-card__title-row {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        flex-wrap: wrap;
+      }
+
+      .push-notice-card__change-badge {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        padding: 0.08rem 0.38rem;
+        font-size: 0.58rem;
+        letter-spacing: 0.08em;
+        font-weight: 800;
+        text-transform: uppercase;
+        white-space: nowrap;
+        border: 1px solid transparent;
+      }
+
+      .push-notice-card__change-badge--new {
+        background: rgba(170, 222, 187, 0.26);
+        color: #e5fff0;
+        border-color: rgba(170, 222, 187, 0.58);
+      }
+
+      .push-notice-card__change-badge--updated {
+        background: rgba(255, 229, 170, 0.2);
+        color: #fff2cf;
+        border-color: rgba(255, 229, 170, 0.55);
+      }
+
+      .push-notice-card__badge {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        padding: 0.15rem 0.55rem;
+        font-size: 0.68rem;
+        letter-spacing: 0.05em;
+        font-weight: 700;
+        text-transform: uppercase;
+        white-space: nowrap;
+        border: 1px solid transparent;
+      }
+
+      .push-notice-card__badge--artists {
+        background: rgba(201, 169, 97, 0.2);
+        color: #fff0cb;
+        border-color: rgba(201, 169, 97, 0.55);
+      }
+
+      .push-notice-card__badge--churches {
+        background: rgba(165, 209, 191, 0.18);
+        color: #dcfff2;
+        border-color: rgba(165, 209, 191, 0.55);
+      }
+
+      .push-notice-card__badge--codices {
+        background: rgba(168, 189, 233, 0.2);
+        color: #e7eeff;
+        border-color: rgba(168, 189, 233, 0.52);
+      }
+
+      .push-notice-card__badge--papers {
+        background: rgba(225, 175, 160, 0.2);
+        color: #ffe7de;
+        border-color: rgba(225, 175, 160, 0.5);
+      }
+
+      .push-notice-card__badge--other {
+        background: rgba(218, 208, 182, 0.2);
+        color: #fff7df;
+        border-color: rgba(218, 208, 182, 0.45);
+      }
+
+      .push-notice-card__item-date {
+        margin-top: 0.2rem;
+        font-size: 0.8rem;
+        color: rgba(244, 241, 232, 0.88);
+      }
+
+      .push-notice-card__item-link {
+        color: rgba(201, 169, 97, 0.95);
+        text-decoration: none;
+      }
+
+      .push-notice-card__item-link:hover {
+        text-decoration: underline;
+      }
+
+      .push-notice-card__status,
+      .push-notice-card__empty {
+        margin-top: 0.35rem;
+        font-size: 0.85rem;
+        color: rgba(244, 241, 232, 0.92);
+      }
+
+      .push-notice-card__status[data-state="error"] {
+        color: #ffd9cf;
+      }
+
+      main {
+        flex: 1;
+        max-width: 1320px;
+        margin: 3rem auto;
+        padding: 0 2rem;
+        width: 100%;
+      }
+
+      .quote-section {
+        background: white;
+        padding: 2rem;
+        margin-bottom: 3rem;
+        border-radius: 8px;
+        border-left: 4px solid var(--gold);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .quote-section blockquote {
+        font-size: 1.3rem;
+        font-style: italic;
+        color: var(--text-light);
+        margin-bottom: 0.5rem;
+      }
+
+      .quote-section cite {
+        display: block;
+        text-align: right;
+        color: var(--burgundy);
+        font-weight: bold;
+      }
+
+      .intro {
+        background: white;
+        padding: 2.5rem;
+        margin-bottom: 3rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .intro h2 {
+        color: var(--burgundy);
+        margin-bottom: 1rem;
+        font-size: 2rem;
+        border-bottom: 2px solid var(--gold);
+        padding-bottom: 0.5rem;
+      }
+
+      .intro p {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+        color: var(--text);
+      }
+
+      .content-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(240px, 280px));
+        justify-content: center;
+        gap: 2rem;
+        margin-bottom: 3rem;
+      }
+
+      .card {
+        background: white;
+        width: 100%;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition:
+          transform 0.3s ease,
+          box-shadow 0.3s ease;
+        border-top: 4px solid var(--gold);
+      }
+
+      @media (max-width: 1200px) {
         .header-shell {
-            display: grid;
-            grid-template-columns: minmax(0, 1fr) minmax(0, 800px) minmax(260px, 320px);
-            gap: 2rem;
-            align-items: start;
-            max-width: 1440px;
-            margin: 0 auto;
-        }
-
-        .header-copy {
-            grid-column: 2;
-            text-align: center;
+          grid-template-columns: minmax(0, 1fr) minmax(0, 720px);
         }
 
         .julian-date-panel {
-            grid-column: 1;
-            justify-self: center;
-            align-self: start;
-            width: 100%;
-            max-width: 260px;
-            background: rgba(244, 241, 232, 0.12);
-            border: 1px solid rgba(201, 169, 97, 0.45);
-            border-radius: 12px;
-            padding: 0.95rem 1rem;
-            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
-            -webkit-backdrop-filter: blur(8px);
-            backdrop-filter: blur(8px);
-            text-align: center;
+          grid-column: 1;
+          max-width: 240px;
         }
 
-        .julian-date-panel__label {
-            font-size: 0.72rem;
-            letter-spacing: 0.12em;
-            text-transform: uppercase;
-            color: var(--gold);
-            margin-bottom: 0.35rem;
-        }
-
-        .julian-date-panel__value {
-            font-size: 1rem;
-            line-height: 1.35;
-            color: rgba(244, 241, 232, 0.96);
-        }
-
-        .julian-date-panel__phase-label {
-            margin-top: 0.8rem;
-            font-size: 0.68rem;
-            letter-spacing: 0.12em;
-            text-transform: uppercase;
-            color: rgba(201, 169, 97, 0.88);
-        }
-
-        .julian-date-panel__phase-value {
-            margin-top: 0.2rem;
-            font-size: 0.92rem;
-            line-height: 1.35;
-            color: rgba(244, 241, 232, 0.92);
-        }
-
-        header h1 {
-            font-size: 2.8rem;
-            margin-bottom: 0.5rem;
-            letter-spacing: 2px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
-
-        header .subtitle {
-            font-size: 1.1rem;
-            font-style: italic;
-            color: var(--gold);
-            margin-bottom: 1rem;
-        }
-
-        header .tagline {
-            font-size: 0.95rem;
-            opacity: 0.9;
-            max-width: 800px;
-            margin: 0 auto;
+        .header-copy {
+          grid-column: 2;
         }
 
         .push-notice-card {
-            grid-column: 3;
-            justify-self: end;
-            width: 100%;
-            background: rgba(244, 241, 232, 0.12);
-            border: 1px solid rgba(201, 169, 97, 0.55);
-            border-radius: 12px;
-            padding: 1rem 1.1rem;
-            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
-            -webkit-backdrop-filter: blur(8px);
-            backdrop-filter: blur(8px);
-            text-align: left;
-        }
-
-        .push-notice-card__label {
-            font-size: 0.72rem;
-            letter-spacing: 0.12em;
-            text-transform: uppercase;
-            color: var(--gold);
-            margin-bottom: 0.35rem;
-            text-align: center;
-        }
-
-        .push-notice-card__title {
-            font-size: 1.15rem;
-            line-height: 1.2;
-            margin-bottom: 0.45rem;
-            text-align: center;
-        }
-
-        .push-notice-card__list {
-            list-style: none;
-            margin: 0.3rem 0 0;
-            padding: 0;
-            display: grid;
-            gap: 0.55rem;
-        }
-
-        .push-notice-card__item {
-            border: 1px solid rgba(201, 169, 97, 0.26);
-            border-radius: 8px;
-            padding: 0.52rem 0.58rem;
-            background: rgba(244, 241, 232, 0.08);
-        }
-
-        .push-notice-card__item-head {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 0.5rem;
-        }
-
-        .push-notice-card__item-title {
-            font-size: 0.92rem;
-            color: #fff7df;
-            font-weight: 700;
-            line-height: 1.25;
-        }
-
-        .push-notice-card__title-row {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.35rem;
-            flex-wrap: wrap;
-        }
-
-        .push-notice-card__change-badge {
-            display: inline-flex;
-            align-items: center;
-            border-radius: 999px;
-            padding: 0.08rem 0.38rem;
-            font-size: 0.58rem;
-            letter-spacing: 0.08em;
-            font-weight: 800;
-            text-transform: uppercase;
-            white-space: nowrap;
-            border: 1px solid transparent;
-        }
-
-        .push-notice-card__change-badge--new {
-            background: rgba(170, 222, 187, 0.26);
-            color: #e5fff0;
-            border-color: rgba(170, 222, 187, 0.58);
-        }
-
-        .push-notice-card__change-badge--updated {
-            background: rgba(255, 229, 170, 0.2);
-            color: #fff2cf;
-            border-color: rgba(255, 229, 170, 0.55);
-        }
-
-        .push-notice-card__badge {
-            display: inline-flex;
-            align-items: center;
-            border-radius: 999px;
-            padding: 0.15rem 0.55rem;
-            font-size: 0.68rem;
-            letter-spacing: 0.05em;
-            font-weight: 700;
-            text-transform: uppercase;
-            white-space: nowrap;
-            border: 1px solid transparent;
-        }
-
-        .push-notice-card__badge--artists {
-            background: rgba(201, 169, 97, 0.2);
-            color: #fff0cb;
-            border-color: rgba(201, 169, 97, 0.55);
-        }
-
-        .push-notice-card__badge--churches {
-            background: rgba(165, 209, 191, 0.18);
-            color: #dcfff2;
-            border-color: rgba(165, 209, 191, 0.55);
-        }
-
-        .push-notice-card__badge--codices {
-            background: rgba(168, 189, 233, 0.2);
-            color: #e7eeff;
-            border-color: rgba(168, 189, 233, 0.52);
-        }
-
-        .push-notice-card__badge--papers {
-            background: rgba(225, 175, 160, 0.2);
-            color: #ffe7de;
-            border-color: rgba(225, 175, 160, 0.5);
-        }
-
-        .push-notice-card__badge--other {
-            background: rgba(218, 208, 182, 0.2);
-            color: #fff7df;
-            border-color: rgba(218, 208, 182, 0.45);
-        }
-
-        .push-notice-card__item-date {
-            margin-top: 0.2rem;
-            font-size: 0.8rem;
-            color: rgba(244, 241, 232, 0.88);
-        }
-
-        .push-notice-card__item-link {
-            color: rgba(201, 169, 97, 0.95);
-            text-decoration: none;
-        }
-
-        .push-notice-card__item-link:hover {
-            text-decoration: underline;
-        }
-
-        .push-notice-card__status,
-        .push-notice-card__empty {
-            margin-top: 0.35rem;
-            font-size: 0.85rem;
-            color: rgba(244, 241, 232, 0.92);
-        }
-
-        .push-notice-card__status[data-state="error"] {
-            color: #ffd9cf;
-        }
-
-        main {
-            flex: 1;
-            max-width: 1320px;
-            margin: 3rem auto;
-            padding: 0 2rem;
-            width: 100%;
-        }
-
-        .quote-section {
-            background: white;
-            padding: 2rem;
-            margin-bottom: 3rem;
-            border-radius: 8px;
-            border-left: 4px solid var(--gold);
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .quote-section blockquote {
-            font-size: 1.3rem;
-            font-style: italic;
-            color: var(--text-light);
-            margin-bottom: 0.5rem;
-        }
-
-        .quote-section cite {
-            display: block;
-            text-align: right;
-            color: var(--burgundy);
-            font-weight: bold;
-        }
-
-        .intro {
-            background: white;
-            padding: 2.5rem;
-            margin-bottom: 3rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .intro h2 {
-            color: var(--burgundy);
-            margin-bottom: 1rem;
-            font-size: 2rem;
-            border-bottom: 2px solid var(--gold);
-            padding-bottom: 0.5rem;
-        }
-
-        .intro p {
-            font-size: 1.1rem;
-            margin-bottom: 1rem;
-            color: var(--text);
+          grid-column: 2;
+          justify-self: end;
+          max-width: 320px;
         }
 
         .content-grid {
-            display: grid;
-            grid-template-columns: repeat(4, minmax(240px, 280px));
-            justify-content: center;
-            gap: 2rem;
-            margin-bottom: 3rem;
+          grid-template-columns: repeat(2, minmax(240px, 320px));
+        }
+      }
+
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+      }
+
+      .card h3 {
+        color: var(--burgundy);
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+      }
+
+      .card p {
+        color: var(--text-light);
+        margin-bottom: 1.5rem;
+        font-size: 0.95rem;
+      }
+
+      .card .collections {
+        list-style: none;
+        margin-bottom: 1rem;
+      }
+
+      .card .collections li {
+        padding: 0.4rem 0;
+        color: var(--text);
+        border-bottom: 1px solid var(--dark-parchment);
+        font-size: 0.9rem;
+      }
+
+      .card .collections li:last-child {
+        border-bottom: none;
+      }
+
+      .card .collections li::before {
+        content: "✦ ";
+        color: var(--gold);
+        margin-right: 0.5rem;
+      }
+
+      .btn {
+        display: inline-block;
+        background: linear-gradient(
+          135deg,
+          var(--gold) 0%,
+          var(--dark-gold) 100%
+        );
+        color: var(--dark-burgundy);
+        padding: 0.8rem 1.5rem;
+        border-radius: 4px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: all 0.3s ease;
+        border: 2px solid var(--dark-gold);
+        white-space: nowrap;
+      }
+
+      .btn:hover {
+        background: linear-gradient(
+          135deg,
+          var(--dark-gold) 0%,
+          var(--gold) 100%
+        );
+        transform: scale(1.05);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+
+      .newsletter-signup {
+        background: white;
+        padding: 2rem;
+        margin-bottom: 3rem;
+        border-radius: 10px;
+        border: 1px solid var(--dark-parchment);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .newsletter-signup h2 {
+        color: var(--burgundy);
+        margin-bottom: 0.65rem;
+        font-size: 1.7rem;
+        border-bottom: 2px solid var(--gold);
+        padding-bottom: 0.45rem;
+      }
+
+      .newsletter-signup p {
+        color: var(--text-light);
+        margin-bottom: 1rem;
+      }
+
+      .newsletter-form {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 0.75rem;
+        align-items: center;
+      }
+
+      .newsletter-form label {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0;
+      }
+
+      .newsletter-form input[type="email"] {
+        width: 100%;
+        min-height: 44px;
+        border: 1px solid #c8bda7;
+        border-radius: 6px;
+        padding: 0.72rem 0.85rem;
+        font: inherit;
+        color: var(--text);
+        background: #fffdf8;
+      }
+
+      .newsletter-form input[type="email"]:focus {
+        outline: 2px solid rgba(114, 47, 55, 0.3);
+        border-color: var(--burgundy);
+        outline-offset: 1px;
+      }
+
+      .newsletter-form button {
+        min-height: 44px;
+        border: 2px solid var(--dark-gold);
+        border-radius: 6px;
+        padding: 0.7rem 1.2rem;
+        font: inherit;
+        font-weight: bold;
+        color: var(--dark-burgundy);
+        cursor: pointer;
+        background: linear-gradient(
+          135deg,
+          var(--gold) 0%,
+          var(--dark-gold) 100%
+        );
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .newsletter-form button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      }
+
+      .newsletter-note {
+        margin: 0.75rem 0 0;
+        font-size: 0.86rem;
+        color: var(--text-light);
+      }
+
+      .newsletter-honeypot {
+        display: none;
+      }
+
+      footer {
+        background: var(--burgundy);
+        color: var(--parchment);
+        text-align: center;
+        padding: 2rem;
+        margin-top: 3rem;
+        border-top: 3px solid var(--gold);
+      }
+
+      footer p {
+        margin-bottom: 0.5rem;
+      }
+
+      footer a {
+        color: var(--gold);
+        text-decoration: none;
+        transition: color 0.3s ease;
+      }
+
+      footer a:hover {
+        color: white;
+        text-decoration: underline;
+      }
+
+      /* ── MOBILE ── */
+      @media (max-width: 600px) {
+        header {
+          padding: 1.5rem 1rem;
+        }
+
+        .header-shell {
+          grid-template-columns: 1fr;
+          gap: 1.25rem;
+        }
+
+        .julian-date-panel,
+        .header-copy,
+        .push-notice-card {
+          grid-column: 1;
+        }
+
+        .julian-date-panel,
+        .push-notice-card {
+          justify-self: stretch;
+          max-width: none;
+        }
+
+        header h1 {
+          font-size: 1.8rem;
+          letter-spacing: 1px;
+        }
+
+        header .subtitle {
+          font-size: 0.95rem;
+        }
+
+        .content-grid {
+          grid-template-columns: 1fr;
+        }
+
+        main {
+          margin: 1.5rem auto;
+          padding: 0 1rem;
+        }
+
+        .intro {
+          padding: 1.5rem 1.2rem;
+        }
+
+        .intro h2 {
+          font-size: 1.5rem;
+        }
+
+        .quote-section blockquote {
+          font-size: 1rem;
         }
 
         .card {
-            background: white;
-            width: 100%;
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border-top: 4px solid var(--gold);
-        }
-
-        @media (max-width: 1200px) {
-            .header-shell {
-                grid-template-columns: minmax(0, 1fr) minmax(0, 720px);
-            }
-
-            .julian-date-panel {
-                grid-column: 1;
-                max-width: 240px;
-            }
-
-            .header-copy {
-                grid-column: 2;
-            }
-
-            .push-notice-card {
-                grid-column: 2;
-                justify-self: end;
-                max-width: 320px;
-            }
-
-            .content-grid {
-                grid-template-columns: repeat(2, minmax(240px, 320px));
-            }
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
-        }
-
-        .card h3 {
-            color: var(--burgundy);
-            margin-bottom: 1rem;
-            font-size: 1.5rem;
-        }
-
-        .card p {
-            color: var(--text-light);
-            margin-bottom: 1.5rem;
-            font-size: 0.95rem;
-        }
-
-        .card .collections {
-            list-style: none;
-            margin-bottom: 1rem;
-        }
-
-        .card .collections li {
-            padding: 0.4rem 0;
-            color: var(--text);
-            border-bottom: 1px solid var(--dark-parchment);
-            font-size: 0.9rem;
-        }
-
-        .card .collections li:last-child {
-            border-bottom: none;
-        }
-
-        .card .collections li::before {
-            content: "✦ ";
-            color: var(--gold);
-            margin-right: 0.5rem;
-        }
-
-        .btn {
-            display: inline-block;
-            background: linear-gradient(135deg, var(--gold) 0%, var(--dark-gold) 100%);
-            color: var(--dark-burgundy);
-            padding: 0.8rem 1.5rem;
-            border-radius: 4px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            border: 2px solid var(--dark-gold);
-            white-space: nowrap;
-        }
-
-        .btn:hover {
-            background: linear-gradient(135deg, var(--dark-gold) 0%, var(--gold) 100%);
-            transform: scale(1.05);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          padding: 1.5rem 1.2rem;
         }
 
         .newsletter-signup {
-            background: white;
-            padding: 2rem;
-            margin-bottom: 3rem;
-            border-radius: 10px;
-            border: 1px solid var(--dark-parchment);
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+          padding: 1.4rem 1.2rem;
         }
 
         .newsletter-signup h2 {
-            color: var(--burgundy);
-            margin-bottom: 0.65rem;
-            font-size: 1.7rem;
-            border-bottom: 2px solid var(--gold);
-            padding-bottom: 0.45rem;
-        }
-
-        .newsletter-signup p {
-            color: var(--text-light);
-            margin-bottom: 1rem;
+          font-size: 1.35rem;
         }
 
         .newsletter-form {
-            display: grid;
-            grid-template-columns: minmax(0, 1fr) auto;
-            gap: 0.75rem;
-            align-items: center;
-        }
-
-        .newsletter-form label {
-            position: absolute;
-            width: 1px;
-            height: 1px;
-            padding: 0;
-            margin: -1px;
-            overflow: hidden;
-            clip: rect(0, 0, 0, 0);
-            border: 0;
-        }
-
-        .newsletter-form input[type="email"] {
-            width: 100%;
-            min-height: 44px;
-            border: 1px solid #c8bda7;
-            border-radius: 6px;
-            padding: 0.72rem 0.85rem;
-            font: inherit;
-            color: var(--text);
-            background: #fffdf8;
-        }
-
-        .newsletter-form input[type="email"]:focus {
-            outline: 2px solid rgba(114, 47, 55, 0.3);
-            border-color: var(--burgundy);
-            outline-offset: 1px;
+          grid-template-columns: 1fr;
         }
 
         .newsletter-form button {
-            min-height: 44px;
-            border: 2px solid var(--dark-gold);
-            border-radius: 6px;
-            padding: 0.7rem 1.2rem;
-            font: inherit;
-            font-weight: bold;
-            color: var(--dark-burgundy);
-            cursor: pointer;
-            background: linear-gradient(135deg, var(--gold) 0%, var(--dark-gold) 100%);
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+          width: 100%;
         }
-
-        .newsletter-form button:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-        }
-
-        .newsletter-note {
-            margin: 0.75rem 0 0;
-            font-size: 0.86rem;
-            color: var(--text-light);
-        }
-
-        .newsletter-honeypot {
-            display: none;
-        }
-
-        footer {
-            background: var(--burgundy);
-            color: var(--parchment);
-            text-align: center;
-            padding: 2rem;
-            margin-top: 3rem;
-            border-top: 3px solid var(--gold);
-        }
-
-        footer p {
-            margin-bottom: 0.5rem;
-        }
-
-        footer a {
-            color: var(--gold);
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-
-        footer a:hover {
-            color: white;
-            text-decoration: underline;
-        }
-
-        /* ── MOBILE ── */
-        @media (max-width: 600px) {
-            header {
-                padding: 1.5rem 1rem;
-            }
-
-            .header-shell {
-                grid-template-columns: 1fr;
-                gap: 1.25rem;
-            }
-
-            .julian-date-panel,
-            .header-copy,
-            .push-notice-card {
-                grid-column: 1;
-            }
-
-            .julian-date-panel,
-            .push-notice-card {
-                justify-self: stretch;
-                max-width: none;
-            }
-
-            header h1 {
-                font-size: 1.8rem;
-                letter-spacing: 1px;
-            }
-
-            header .subtitle {
-                font-size: 0.95rem;
-            }
-
-            .content-grid {
-                grid-template-columns: 1fr;
-            }
-
-            main {
-                margin: 1.5rem auto;
-                padding: 0 1rem;
-            }
-
-            .intro {
-                padding: 1.5rem 1.2rem;
-            }
-
-            .intro h2 {
-                font-size: 1.5rem;
-            }
-
-            .quote-section blockquote {
-                font-size: 1rem;
-            }
-
-            .card {
-                padding: 1.5rem 1.2rem;
-            }
-
-            .newsletter-signup {
-                padding: 1.4rem 1.2rem;
-            }
-
-            .newsletter-signup h2 {
-                font-size: 1.35rem;
-            }
-
-            .newsletter-form {
-                grid-template-columns: 1fr;
-            }
-
-            .newsletter-form button {
-                width: 100%;
-            }
-        }
+      }
     </style>
-</head>
+  </head>
 
-<body>
+  <body>
     <header>
-        <div class="header-shell">
-            <aside class="julian-date-panel" aria-live="polite">
-                <p class="julian-date-panel__label">Julian Calendar Date</p>
-                <p class="julian-date-panel__value" id="julian-date-value">Loading...</p>
-                <p class="julian-date-panel__phase-label">Lunar Phase</p>
-                <p class="julian-date-panel__phase-value" id="lunar-phase-value">Loading...</p>
-            </aside>
+      <div class="header-shell">
+        <aside class="julian-date-panel" aria-live="polite">
+          <p class="julian-date-panel__label">Julian Calendar Date</p>
+          <p class="julian-date-panel__value" id="julian-date-value">
+            Loading...
+          </p>
+          <p class="julian-date-panel__phase-label">Lunar Phase</p>
+          <p class="julian-date-panel__phase-value" id="lunar-phase-value">
+            Loading...
+          </p>
+        </aside>
 
-            <div class="header-copy">
-                <h1>Medieval Visions</h1>
-                <p class="subtitle">"I saw the angel in the marble and carved until I set him free." (Michelangelo
-                    Buonarroti)
-                </p>
-                <p class="tagline">A Database of Medieval Art & Artists</p>
-            </div>
-
-            <aside class="push-notice-card" aria-live="polite">
-                <p class="push-notice-card__label">Recent Repository Updates</p>
-                <h2 class="push-notice-card__title">Latest Files</h2>
-                <ul class="push-notice-card__list" id="push-notice-list">
-                    <li class="push-notice-card__empty">Loading recent notices...</li>
-                </ul>
-                <p class="push-notice-card__status" id="push-notice-status"></p>
-            </aside>
+        <div class="header-copy">
+          <h1>Medieval Visions</h1>
+          <p class="subtitle">
+            "I saw the angel in the marble and carved until I set him free."
+            (Michelangelo Buonarroti)
+          </p>
+          <p class="tagline">A Database of Medieval Art & Artists</p>
         </div>
+
+        <aside class="push-notice-card" aria-live="polite">
+          <p class="push-notice-card__label">Recent Repository Updates</p>
+          <h2 class="push-notice-card__title">Latest Files</h2>
+          <ul class="push-notice-card__list" id="push-notice-list">
+            <li class="push-notice-card__empty">Loading recent notices...</li>
+          </ul>
+          <p class="push-notice-card__status" id="push-notice-status"></p>
+        </aside>
+      </div>
     </header>
 
     <main>
+      <section class="intro">
+        <h2>About the site</h2>
+        <p>
+          Medieval Visions is a comprehensive database dedicated to documenting
+          the rich tapestry of medieval art and artists, with a particular focus
+          on the Duecento and Trecento periods (13th-14th centuries).
+        </p>
+        <p>
+          This collection features detailed essays, biographical studies, and
+          in-depth analyses of masterworks that shaped the transition from
+          Byzantine traditions to the flowering of early Italian art. From
+          illuminated manuscripts to monumental frescoes, from anonymous masters
+          to celebrated innovators, this site preserves and presents the visual
+          and spiritual heritage of medieval Italy.
+        </p>
+      </section>
 
-        <section class="intro">
-            <h2>About the site</h2>
-            <p>
-                Medieval Visions is a comprehensive database dedicated to documenting the rich tapestry
-                of medieval art and artists, with a particular focus on the Duecento and Trecento periods
-                (13th-14th centuries).
-            </p>
-            <p>
-                This collection features detailed essays, biographical studies, and in-depth analyses of
-                masterworks that shaped the transition from Byzantine traditions to the flowering of early Italian art.
-                From illuminated manuscripts to monumental frescoes, from anonymous masters to celebrated innovators,
-                this site preserves and presents the visual and spiritual heritage of medieval Italy.
-            </p>
-        </section>
+      <section class="content-grid">
+        <div class="card">
+          <h3>Artists</h3>
+          <p>
+            Biographies and scholarly essays on medieval artists organized by
+            century.
+          </p>
+          <ul class="collections">
+            <li>VII Century</li>
+            <li>VIII Century</li>
+            <li>IX Century</li>
+            <li>X Century</li>
+            <li>XI Century</li>
+            <li>XII Century</li>
+            <li>XIII Century</li>
+            <li>XIV Century</li>
+          </ul>
+          <a href="artists.html" class="btn">Browse Artists</a>
+        </div>
 
-        <section class="content-grid">
-            <div class="card">
-                <h3>Artists</h3>
-                <p>Biographies and scholarly essays on medieval artists organized by century.</p>
-                <ul class="collections">
-                    <li>VII Century</li>
-                    <li>VIII Century</li>
-                    <li>IX Century</li>
-                    <li>X Century</li>
-                    <li>XI Century</li>
-                    <li>XII Century</li>
-                    <li>XIII Century</li>
-                    <li>XIV Century</li>
-                </ul>
-                <a href="artists.html" class="btn">Browse Artists</a>
-            </div>
+        <div class="card">
+          <h3>Churches & Sacred Spaces</h3>
+          <p>
+            Comprehensive art historical analyses of medieval churches, chapels,
+            and sacred architecture.
+          </p>
+          <ul class="collections">
+            <li>Abbey Churches</li>
+            <li>Oratories & Chapels</li>
+            <li>Architectural Studies</li>
+            <li>Fresco Cycles</li>
+          </ul>
+          <a href="churches.html" class="btn">Explore Churches</a>
+        </div>
 
-            <div class="card">
-                <h3>Churches & Sacred Spaces</h3>
-                <p>Comprehensive art historical analyses of medieval churches, chapels, and sacred architecture.</p>
-                <ul class="collections">
-                    <li>Abbey Churches</li>
-                    <li>Oratories & Chapels</li>
-                    <li>Architectural Studies</li>
-                    <li>Fresco Cycles</li>
-                </ul>
-                <a href="churches.html" class="btn">Explore Churches</a>
-            </div>
+        <div class="card">
+          <h3>Illuminated Codices</h3>
+          <p>
+            Studies of precious illuminated manuscripts and historical documents
+            from the medieval period.
+          </p>
+          <ul class="collections">
+            <li>Codex Aureus Collections</li>
+            <li>Gospel Books</li>
+            <li>Religious Manuscripts</li>
+          </ul>
+          <a href="codices.html" class="btn">View Codices</a>
+        </div>
 
-            <div class="card">
-                <h3>Illuminated Codices</h3>
-                <p>Studies of precious illuminated manuscripts and historical documents from the medieval period.</p>
-                <ul class="collections">
-                    <li>Codex Aureus Collections</li>
-                    <li>Gospel Books</li>
-                    <li>Religious Manuscripts</li>
-                </ul>
-                <a href="codices.html" class="btn">View Codices</a>
-            </div>
+        <div class="card">
+          <h3>Research Papers</h3>
+          <p>
+            In-depth scholarly papers and detailed studies of specific artworks
+            and artistic movements.
+          </p>
+          <ul class="collections">
+            <li>Crucifix Studies</li>
+            <li>Altarpiece Analyses</li>
+            <li>Iconographic Research</li>
+            <li>Interdisciplinary Studies</li>
+          </ul>
+          <a href="papers.html" class="btn">Read Papers</a>
+        </div>
+      </section>
 
-            <div class="card">
-                <h3>Research Papers</h3>
-                <p>In-depth scholarly papers and detailed studies of specific artworks and artistic movements.</p>
-                <ul class="collections">
-                    <li>Crucifix Studies</li>
-                    <li>Altarpiece Analyses</li>
-                    <li>Iconographic Research</li>
-                    <li>Interdisciplinary Studies</li>
-                </ul>
-                <a href="papers.html" class="btn">Read Papers</a>
-            </div>
-        </section>
+      <section class="intro">
+        <h2>Purpose & Scope</h2>
+        <p>
+          The database continues to grow, documenting the masters and
+          masterworks that bridge the medieval and Renaissance worlds,
+          illuminating the artistic achievements that transformed Western art
+          forever.
+        </p>
+      </section>
 
-        <section class="intro">
-            <h2>Purpose & Scope</h2>
-            <p>
-                The database continues to grow, documenting the masters and masterworks that bridge the medieval and
-                Renaissance worlds, illuminating the artistic achievements that transformed Western art forever.
-            </p>
-        </section>
+      <section
+        class="newsletter-signup"
+        aria-labelledby="newsletter-signup-heading"
+      >
+        <h2 id="newsletter-signup-heading">Future Newsletter</h2>
+        <p>
+          Register your e-mail to receive future updates, new entries, and
+          research highlights from Medieval Visions.
+        </p>
+        <form
+          class="newsletter-form"
+          action="https://formsubmit.co/contact@medievalvisions.com"
+          method="POST"
+          accept-charset="UTF-8"
+        >
+          <input
+            type="hidden"
+            name="_subject"
+            value="Medieval Visions newsletter registration"
+          />
+          <!-- Replace WORKER_URL with your deployed Cloudflare Worker URL (see scripts/subscriber_webhook_worker.js) -->
+          <input
+            type="hidden"
+            name="_webhook"
+            value="https://subscriber-webhook.medievalvisions.workers.dev"
+          />
+          <input
+            type="hidden"
+            name="_autoresponse"
+            value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list."
+          />
+          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input
+            type="hidden"
+            name="_next"
+            value="https://medievalvisions.com/newsletter-thank-you.html"
+          />
+          <input
+            class="newsletter-honeypot"
+            type="text"
+            name="_honey"
+            tabindex="-1"
+            autocomplete="off"
+          />
 
-        <section class="newsletter-signup" aria-labelledby="newsletter-signup-heading">
-            <h2 id="newsletter-signup-heading">Future Newsletter</h2>
-            <p>Register your e-mail to receive future updates, new entries, and research highlights from Medieval
-                Visions.</p>
-            <form class="newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com" method="POST"
-                accept-charset="UTF-8">
-                <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
-                <!-- Replace WORKER_URL with your deployed Cloudflare Worker URL (see scripts/subscriber_webhook_worker.js) -->
-                <input type="hidden" name="_webhook" value="https://subscriber-webhook.medievalvisions.workers.dev">
-                <input type="hidden" name="_autoresponse"
-                    value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list.">
-                <input type="hidden" name="_template" value="table">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
-                <input class="newsletter-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off">
-
-                <label for="newsletter-email">E-mail address</label>
-                <input id="newsletter-email" name="email" type="email" placeholder="your@email.com" required>
-                <button type="submit">Join the List</button>
-            </form>
-            <p class="newsletter-note">By submitting, your e-mail is sent directly to <a
-                    href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
-        </section>
+          <label for="newsletter-email">E-mail address</label>
+          <input
+            id="newsletter-email"
+            name="email"
+            type="email"
+            placeholder="your@email.com"
+            required
+          />
+          <button type="submit">Join the List</button>
+        </form>
+        <p class="newsletter-note">
+          By submitting, your e-mail is sent directly to
+          <a href="mailto:contact@medievalvisions.com"
+            >contact@medievalvisions.com</a
+          >.
+        </p>
+      </section>
     </main>
 
     <footer>
-        <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
-        <p>A collaborative scholarly project documenting medieval art and artists</p>
-
+      <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
+      <p>
+        A collaborative scholarly project documenting medieval art and artists
+      </p>
     </footer>
 
     <script>
-        function gregorianToJdn(year, month, day) {
-            const a = Math.floor((14 - month) / 12);
-            const y = year + 4800 - a;
-            const m = month + 12 * a - 3;
+      function gregorianToJdn(year, month, day) {
+        const a = Math.floor((14 - month) / 12);
+        const y = year + 4800 - a;
+        const m = month + 12 * a - 3;
 
-            return day
-                + Math.floor((153 * m + 2) / 5)
-                + 365 * y
-                + Math.floor(y / 4)
-                - Math.floor(y / 100)
-                + Math.floor(y / 400)
-                - 32045;
+        return (
+          day +
+          Math.floor((153 * m + 2) / 5) +
+          365 * y +
+          Math.floor(y / 4) -
+          Math.floor(y / 100) +
+          Math.floor(y / 400) -
+          32045
+        );
+      }
+
+      function jdnToJulian(jdn) {
+        const c = jdn + 32082;
+        const d = Math.floor((4 * c + 3) / 1461);
+        const e = c - Math.floor((1461 * d) / 4);
+        const m = Math.floor((5 * e + 2) / 153);
+
+        const day = e - Math.floor((153 * m + 2) / 5) + 1;
+        const month = m + 3 - 12 * Math.floor(m / 10);
+        const year = d - 4800 + Math.floor(m / 10);
+
+        return { year, month, day };
+      }
+
+      function getCurrentJulianDateParts() {
+        const now = new Date();
+        const jdn = gregorianToJdn(
+          now.getFullYear(),
+          now.getMonth() + 1,
+          now.getDate(),
+        );
+        const parts = jdnToJulian(jdn);
+        return { ...parts, jdn };
+      }
+
+      function formatJulianDate(dateParts) {
+        const monthNames = [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec",
+        ];
+        const dayNames = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+        const day = String(dateParts.day).padStart(2, "0");
+        const weekday =
+          dateParts.jdn !== undefined ? dayNames[dateParts.jdn % 7] + ", " : "";
+        return `${weekday}${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
+      }
+
+      function getCurrentLunarPhaseLabel() {
+        const synodicMonth = 29.530588853;
+        const knownNewMoon = Date.UTC(2000, 0, 6, 18, 14, 0);
+        const now = Date.now();
+        const daysSinceNewMoon = (now - knownNewMoon) / 86400000;
+        const phaseAge =
+          ((daysSinceNewMoon % synodicMonth) + synodicMonth) % synodicMonth;
+        const phaseIndex = Math.floor((phaseAge / synodicMonth) * 8 + 0.5) % 8;
+        const phaseNames = [
+          "New Moon",
+          "Waxing Crescent",
+          "First Quarter",
+          "Waxing Gibbous",
+          "Full Moon",
+          "Waning Gibbous",
+          "Last Quarter",
+          "Waning Crescent",
+        ];
+
+        return phaseNames[phaseIndex];
+      }
+
+      function formatPushedDate(isoDate) {
+        if (!isoDate) {
+          return "Date unavailable";
         }
 
-        function jdnToJulian(jdn) {
-            const c = jdn + 32082;
-            const d = Math.floor((4 * c + 3) / 1461);
-            const e = c - Math.floor((1461 * d) / 4);
-            const m = Math.floor((5 * e + 2) / 153);
-
-            const day = e - Math.floor((153 * m + 2) / 5) + 1;
-            const month = m + 3 - 12 * Math.floor(m / 10);
-            const year = d - 4800 + Math.floor(m / 10);
-
-            return { year, month, day };
+        const parsed = new Date(isoDate);
+        if (Number.isNaN(parsed.getTime())) {
+          return isoDate;
         }
 
-        function getCurrentJulianDateParts() {
-            const now = new Date();
-            const jdn = gregorianToJdn(now.getFullYear(), now.getMonth() + 1, now.getDate());
-            const parts = jdnToJulian(jdn);
-            return { ...parts, jdn };
+        return new Intl.DateTimeFormat("en-GB", {
+          day: "2-digit",
+          month: "short",
+          year: "numeric",
+        }).format(parsed);
+      }
+
+      function escapeHtml(value) {
+        return String(value)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#39;");
+      }
+
+      function sectionPriority(section) {
+        const map = {
+          Artists: 0,
+          Churches: 1,
+          Codices: 2,
+          Papers: 3,
+          Other: 4,
+        };
+        return Object.prototype.hasOwnProperty.call(map, section)
+          ? map[section]
+          : map.Other;
+      }
+
+      function sectionBadgeClass(section) {
+        const normalized = String(section || "").toLowerCase();
+        if (normalized === "artists") return "push-notice-card__badge--artists";
+        if (normalized === "churches")
+          return "push-notice-card__badge--churches";
+        if (normalized === "codices") return "push-notice-card__badge--codices";
+        if (normalized === "papers") return "push-notice-card__badge--papers";
+        return "push-notice-card__badge--other";
+      }
+
+      function normalizeNoticeLink(notice) {
+        const rawUrl = String(notice.page_url || "").trim();
+        if (rawUrl.startsWith("/")) {
+          return rawUrl;
         }
 
-        function formatJulianDate(dateParts) {
-            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-            const dayNames = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
-            const day = String(dateParts.day).padStart(2, '0');
-            const weekday = dateParts.jdn !== undefined ? dayNames[dateParts.jdn % 7] + ', ' : '';
-            return `${weekday}${day} ${monthNames[dateParts.month - 1]} ${dateParts.year}`;
+        const sourcePath = String(notice.path || "").trim();
+        if (sourcePath) {
+          return `/${sourcePath.replace(/\.(md|markdown)$/i, ".html")}`;
         }
 
-        function getCurrentLunarPhaseLabel() {
-            const synodicMonth = 29.530588853;
-            const knownNewMoon = Date.UTC(2000, 0, 6, 18, 14, 0);
-            const now = Date.now();
-            const daysSinceNewMoon = (now - knownNewMoon) / 86400000;
-            const phaseAge = ((daysSinceNewMoon % synodicMonth) + synodicMonth) % synodicMonth;
-            const phaseIndex = Math.floor(((phaseAge / synodicMonth) * 8) + 0.5) % 8;
-            const phaseNames = [
-                'New Moon',
-                'Waxing Crescent',
-                'First Quarter',
-                'Waxing Gibbous',
-                'Full Moon',
-                'Waning Gibbous',
-                'Last Quarter',
-                'Waning Crescent'
-            ];
+        const sectionLanding = {
+          artists: "/artists.html",
+          churches: "/churches.html",
+          codices: "/codices.html",
+          papers: "/papers.html",
+        };
+        const sectionKey = String(notice.section || "other").toLowerCase();
+        return sectionLanding[sectionKey] || "/";
+      }
 
-            return phaseNames[phaseIndex];
+      function noticeDateLabel(notice) {
+        const changeType = String(
+          notice.change_type || "modified",
+        ).toLowerCase();
+        return changeType === "created" ? "Created on" : "Modified on";
+      }
+
+      function noticeChangeBadge(notice) {
+        const changeType = String(
+          notice.change_type || "modified",
+        ).toLowerCase();
+        if (changeType === "created") {
+          return {
+            text: "NEW",
+            className: "push-notice-card__change-badge--new",
+          };
+        }
+        return {
+          text: "UPDATED",
+          className: "push-notice-card__change-badge--updated",
+        };
+      }
+
+      function renderJulianDatePanel() {
+        const julianDateValue = document.getElementById("julian-date-value");
+        const lunarPhaseValue = document.getElementById("lunar-phase-value");
+
+        if (!julianDateValue || !lunarPhaseValue) {
+          return;
         }
 
-        function formatPushedDate(isoDate) {
-            if (!isoDate) {
-                return 'Date unavailable';
-            }
+        const julianDateParts = getCurrentJulianDateParts();
+        julianDateValue.textContent = formatJulianDate(julianDateParts);
+        lunarPhaseValue.textContent = getCurrentLunarPhaseLabel();
+      }
 
-            const parsed = new Date(isoDate);
-            if (Number.isNaN(parsed.getTime())) {
-                return isoDate;
-            }
+      async function renderPushNoticesCard() {
+        const listElement = document.getElementById("push-notice-list");
+        const statusElement = document.getElementById("push-notice-status");
 
-            return new Intl.DateTimeFormat('en-GB', {
-                day: '2-digit',
-                month: 'short',
-                year: 'numeric'
-            }).format(parsed);
+        if (!listElement || !statusElement) {
+          return;
         }
 
-        function escapeHtml(value) {
-            return String(value)
-                .replace(/&/g, '&amp;')
-                .replace(/</g, '&lt;')
-                .replace(/>/g, '&gt;')
-                .replace(/"/g, '&quot;')
-                .replace(/'/g, '&#39;');
-        }
+        try {
+          const response = await fetch("/assets/data/push_notices.json", {
+            cache: "no-store",
+          });
+          if (!response.ok) {
+            throw new Error("Unable to load push notices.");
+          }
 
-        function sectionPriority(section) {
-            const map = {
-                Artists: 0,
-                Churches: 1,
-                Codices: 2,
-                Papers: 3,
-                Other: 4
-            };
-            return Object.prototype.hasOwnProperty.call(map, section) ? map[section] : map.Other;
-        }
+          const data = await response.json();
+          const notices = Array.isArray(data.notices)
+            ? data.notices.sort((a, b) => {
+                return (b.pushed_at || "").localeCompare(a.pushed_at || "");
+              })
+            : [];
 
-        function sectionBadgeClass(section) {
-            const normalized = String(section || '').toLowerCase();
-            if (normalized === 'artists') return 'push-notice-card__badge--artists';
-            if (normalized === 'churches') return 'push-notice-card__badge--churches';
-            if (normalized === 'codices') return 'push-notice-card__badge--codices';
-            if (normalized === 'papers') return 'push-notice-card__badge--papers';
-            return 'push-notice-card__badge--other';
-        }
+          const latestNotice = notices[0] || null;
 
-        function normalizeNoticeLink(notice) {
-            const rawUrl = String(notice.page_url || '').trim();
-            if (rawUrl.startsWith('/')) {
-                return rawUrl;
-            }
+          if (!latestNotice) {
+            listElement.innerHTML =
+              '<li class="push-notice-card__empty">No new files in recent pushes.</li>';
+            statusElement.textContent = "";
+            statusElement.dataset.state = "ready";
+            return;
+          }
 
-            const sourcePath = String(notice.path || '').trim();
-            if (sourcePath) {
-                return `/${sourcePath.replace(/\.(md|markdown)$/i, '.html')}`;
-            }
+          const safeTitle = escapeHtml(latestNotice.title || "Untitled file");
+          const sectionName = escapeHtml(latestNotice.section || "Other");
+          const badgeClass = sectionBadgeClass(latestNotice.section);
+          const linkHref = escapeHtml(normalizeNoticeLink(latestNotice));
+          const dateLabel = escapeHtml(noticeDateLabel(latestNotice));
+          const pushedDate = escapeHtml(
+            formatPushedDate(latestNotice.pushed_at),
+          );
+          const changeBadge = noticeChangeBadge(latestNotice);
+          const changeBadgeText = escapeHtml(changeBadge.text);
+          const changeBadgeClass = escapeHtml(changeBadge.className);
 
-            const sectionLanding = {
-                artists: '/artists.html',
-                churches: '/churches.html',
-                codices: '/codices.html',
-                papers: '/papers.html'
-            };
-            const sectionKey = String(notice.section || 'other').toLowerCase();
-            return sectionLanding[sectionKey] || '/';
-        }
-
-        function noticeDateLabel(notice) {
-            const changeType = String(notice.change_type || 'modified').toLowerCase();
-            return changeType === 'created' ? 'Created on' : 'Modified on';
-        }
-
-        function noticeChangeBadge(notice) {
-            const changeType = String(notice.change_type || 'modified').toLowerCase();
-            if (changeType === 'created') {
-                return { text: 'NEW', className: 'push-notice-card__change-badge--new' };
-            }
-            return { text: 'UPDATED', className: 'push-notice-card__change-badge--updated' };
-        }
-
-        function renderJulianDatePanel() {
-            const julianDateValue = document.getElementById('julian-date-value');
-            const lunarPhaseValue = document.getElementById('lunar-phase-value');
-
-            if (!julianDateValue || !lunarPhaseValue) {
-                return;
-            }
-
-            const julianDateParts = getCurrentJulianDateParts();
-            julianDateValue.textContent = formatJulianDate(julianDateParts);
-            lunarPhaseValue.textContent = getCurrentLunarPhaseLabel();
-        }
-
-        async function renderPushNoticesCard() {
-            const listElement = document.getElementById('push-notice-list');
-            const statusElement = document.getElementById('push-notice-status');
-
-            if (!listElement || !statusElement) {
-                return;
-            }
-
-            try {
-                const response = await fetch('/assets/data/push_notices.json', { cache: 'no-store' });
-                if (!response.ok) {
-                    throw new Error('Unable to load push notices.');
-                }
-
-                const data = await response.json();
-                const notices = Array.isArray(data.notices)
-                    ? data.notices
-                        .sort((a, b) => {
-                            return (b.pushed_at || '').localeCompare(a.pushed_at || '');
-                        })
-                    : [];
-
-                const latestNotice = notices[0] || null;
-
-                if (!latestNotice) {
-                    listElement.innerHTML = '<li class="push-notice-card__empty">No new files in recent pushes.</li>';
-                    statusElement.textContent = '';
-                    statusElement.dataset.state = 'ready';
-                    return;
-                }
-
-                const safeTitle = escapeHtml(latestNotice.title || 'Untitled file');
-                const sectionName = escapeHtml(latestNotice.section || 'Other');
-                const badgeClass = sectionBadgeClass(latestNotice.section);
-                const linkHref = escapeHtml(normalizeNoticeLink(latestNotice));
-                const dateLabel = escapeHtml(noticeDateLabel(latestNotice));
-                const pushedDate = escapeHtml(formatPushedDate(latestNotice.pushed_at));
-                const changeBadge = noticeChangeBadge(latestNotice);
-                const changeBadgeText = escapeHtml(changeBadge.text);
-                const changeBadgeClass = escapeHtml(changeBadge.className);
-
-                listElement.innerHTML = `
+          listElement.innerHTML = `
                     <li class="push-notice-card__item">
                         <div class="push-notice-card__item-head">
                             <p class="push-notice-card__item-title"><span class="push-notice-card__title-row"><a class="push-notice-card__item-link" href="${linkHref}">${safeTitle}</a><span class="push-notice-card__change-badge ${changeBadgeClass}">${changeBadgeText}</span></span></p>
@@ -976,19 +1103,20 @@
                     </li>
                 `;
 
-                statusElement.textContent = '';
-                statusElement.dataset.state = 'ready';
-            } catch (error) {
-                listElement.innerHTML = '<li class="push-notice-card__empty">No notices available right now.</li>';
-                statusElement.textContent = error.message;
-                statusElement.dataset.state = 'error';
-            }
+          statusElement.textContent = "";
+          statusElement.dataset.state = "ready";
+        } catch (error) {
+          listElement.innerHTML =
+            '<li class="push-notice-card__empty">No notices available right now.</li>';
+          statusElement.textContent = error.message;
+          statusElement.dataset.state = "error";
         }
+      }
 
-        renderJulianDatePanel();
-        renderPushNoticesCard();
+      renderJulianDatePanel();
+      renderPushNoticesCard();
     </script>
+    <script src="/assets/js/amended-on.js" defer></script>
     <script src="/assets/js/visitor-counter.js" defer></script>
-</body>
-
+  </body>
 </html>

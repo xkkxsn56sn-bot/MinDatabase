@@ -1,0 +1,52 @@
+{
+  "Manuscripts & Visionary Works": [
+    {
+      "name": "Book of Durrow",
+      "href": "/Content/Codex/Book%20of%20Durrow.html"
+    },
+    {
+      "name": "Book of Kells",
+      "href": "/Content/Codex/Book%20of%20Kells.html"
+    },
+    {
+      "name": "Codex Aureus of Echternach",
+      "href": "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+    },
+    {
+      "name": "Codex Aureus of Lorsch",
+      "href": "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
+    },
+    {
+      "name": "Codex Aureus of Saint Emmeram",
+      "href": "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
+    },
+    {
+      "name": "Codex Vergilius Romanus",
+      "href": "/Content/Codex/Codex%20Vergilius%20Romanus.html"
+    },
+    {
+      "name": "Godescalc Evangelistary",
+      "href": "/Content/Codex/Godescalc%20Evangelistary.html"
+    },
+    {
+      "name": "Liber Divinorum Operum",
+      "href": "/Content/Codex/Liber%20Divinorum%20Operum.html"
+    },
+    {
+      "name": "Lichfield Gospels",
+      "href": "/Content/Codex/Lichfield%20Gospels.html"
+    },
+    {
+      "name": "Lindisfarne Gospels",
+      "href": "/Content/Codex/Lindisfarne%20Gospels.html"
+    },
+    {
+      "name": "Morgan Beatus",
+      "href": "/Content/Codex/Morgan%20Beatus.html"
+    },
+    {
+      "name": "Scivias of Hildegard of Bingen",
+      "href": "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+    }
+  ]
+}

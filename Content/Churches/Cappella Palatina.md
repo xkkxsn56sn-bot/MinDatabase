@@ -3,74 +3,6 @@ layout: entry
 title: "Cappella Palatina (Palatine Chapel, Palermo)"
 subtitle: "Norman royal chapel uniting Byzantine mosaic, Fatimid-Islamic carpentry, and Romanesque spatial language"
 dates: "Commissioned 1132; consecrated 28 April 1140; principal mosaic campaigns c. 1140s-1170s; UNESCO inscription 2015"
-location: "Palazzo dei Normanni (Royal Palace), Palermo, Sicily, Italy"
-
-scholars:
-  - title: "Agnello, Fabrizio"
-    url: "/scholars.html#agnello-fabrizio"
-  - title: "Demus, Otto"
-    url: "/scholars.html#demus-otto"
-  - title: "Diehl, Charles (Michel-Charles)"
-    url: "/scholars.html#diehl-michel-charles"
-  - title: "Grube, Ernst J."
-    url: "/scholars.html#grube-ernst-j"
-  - title: "Johns, Jeremy"
-    url: "/scholars.html#johns-jeremy"
-  - title: "Kapitaikin, Lev Arie"
-    url: "/scholars.html#kapitaikin-lev-arie"
-  - title: "Kitzinger, Ernst"
-    url: "/scholars.html#kitzinger-ernst"
-  - title: "Monneret de Villard, Hugo"
-    url: "/scholars.html#monneret-de-villard-hugo"
-  - title: "Strzygowski, Josef Rudolph Thomas"
-    url: "/scholars.html#strzygowski-josef-rudolph-thomas"
-  - title: "Tronzo, William"
-    url: "/scholars.html#tronzo-william"
-
-category: "churches"
-
-tradition: "Latin Christian royal chapel with Greek and Latin liturgical usage under Norman rule"
-architectural_style: "Byzantine domed sanctuary + Romanesque three-aisled nave with Islamic muqarnas ceiling"
-
-founders_and_patrons:
-  - "Roger II of Sicily (principal founder and patron; commissioned the chapel as royal capella regia)"
-  - "William I of Sicily (continued decorative and institutional development)"
-  - "William II of Sicily (completed major portions of nave mosaic program and palace ceremonial context)"
-
-key_artists:
-  - "Byzantine-trained mosaic masters (likely linked to Constantinopolitan or Italo-Byzantine workshops)"
-  - "Muslim carpenters and painters active in Norman Sicily (muqarnas ceiling and painted figurative cycles)"
-  - "Romanesque marmorarii from southern Italian traditions (ambo, pavements, liturgical stone furnishings)"
-
-key_works:
-  - "Christ Pantocrator, dome mosaics, c. 1143, glass tesserae on mortar, Cappella Palatina"
-  - "Christ Pantocrator, apse mosaics, mid-12th century, glass tesserae on mortar, Cappella Palatina"
-  - "Christ in Majesty with Saints Peter and Paul (above royal throne), after 1143, mosaic, Cappella Palatina"
-  - "Wooden muqarnas ceiling with painted figural and epigraphic program, 12th century, painted wood and gesso"
-  - "Opus sectile pavements and marble revetments, 12th century, polychrome stone inlay"
-
-thematic_keywords:
-  - "Norman Sicily and royal ideology"
-  - "Byzantine mosaics in the Latin West"
-  - "Islamic muqarnas and painted wooden ceilings"
-  - "Trilingual visual culture (Greek, Arabic, Latin)"
-  - "Mediterranean cross-cultural artistic exchange"
-  - "Royal chapel as liturgical and political theater"
-  - "Conservation of medieval mosaics and painted wood"
-
-related_entries:
-  - title: "Roger II of Sicily"
-    url: "/endnotes.html#fn-roger-ii-sicily"
-  - title: "Fatimid Caliphate"
-    url: "/endnotes.html#fn-fatimid-caliphate"
-  - title: "Muqarnas"
-    url: "/endnotes.html#fn-muqarnas"
-  - title: "Jeremy Johns"
-    url: "/scholars.html#johns-jeremy"
-  - title: "Ernst Kitzinger"
-    url: "/scholars.html#kitzinger-ernst"
-  - title: "Lev Kapitaikin"
-    url: "/scholars.html#kapitaikin-lev-arie"
 
 meta:
   - title: "Core data"
@@ -84,7 +16,7 @@ meta:
       - label: "Chronology"
         value: "Founded under Roger II (1130s); consecrated 1140; decorated through the 1170s"
       - label: "UNESCO"
-        value: "Part of Arab-Norman Palermo and the Cathedral Churches of Cefalu and Monreale (inscribed 2015)"
+        value: "Part of Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale (inscribed 2015)"
 
   - title: "Architecture and plan"
     pairs:
@@ -133,6 +65,12 @@ meta:
       - "Current stewardship integrates visitor management with long-term preservation strategies"
 
   - title: "Related entries"
+    list:
+      - "Monreale Cathedral"
+      - "Santa Maria dell'Ammiraglio (La Martorana)"
+      - "Cefalù Cathedral"
+
+  - title: "Reference links"
     links:
       - title: "Roger II of Sicily"
         url: "/endnotes.html#fn-roger-ii-sicily"
@@ -140,27 +78,44 @@ meta:
         url: "/endnotes.html#fn-fatimid-caliphate"
       - title: "Muqarnas"
         url: "/endnotes.html#fn-muqarnas"
-      - title: "Jeremy Johns"
-        url: "/scholars.html#johns-jeremy"
-      - title: "Ernst Kitzinger"
-        url: "/scholars.html#kitzinger-ernst"
-      - title: "Lev Kapitaikin"
-        url: "/scholars.html#kapitaikin-lev-arie"
+
+scholars:
+  - title: "Fabrizio Agnello"
+    url: "/scholars.html#agnello-fabrizio"
+  - title: "Otto Demus"
+    url: "/scholars.html#demus-otto"
+  - title: "Charles Diehl (Michel-Charles)"
+    url: "/scholars.html#diehl-michel-charles"
+  - title: "Ernst J. Grube"
+    url: "/scholars.html#grube-ernst-j"
+  - title: "Jeremy Johns"
+    url: "/scholars.html#johns-jeremy"
+  - title: "Lev Arie Kapitaikin"
+    url: "/scholars.html#kapitaikin-lev-arie"
+  - title: "Ernst Kitzinger"
+    url: "/scholars.html#kitzinger-ernst"
+  - title: "Hugo Monneret de Villard"
+    url: "/scholars.html#monneret-de-villard-hugo"
+  - title: "Josef Rudolph Thomas Strzygowski"
+    url: "/scholars.html#strzygowski-josef-rudolph-thomas"
+  - title: "William Tronzo"
+    url: "/scholars.html#tronzo-william"
+      
 ---
 
-The *Cappella Palatina* — the royal chapel of the Norman Palace in Palermo, Sicily — stands as one of the most exceptional monuments of medieval art and architecture surviving anywhere in the world. Commissioned by Roger II of Sicily<a href="../../../endnotes.html#fn-roger-ii-sicily" class="footnote"><sup>1</sup></a> in 1132 and consecrated on 28 April 1140, the chapel was built upon an older oratory dating to approximately 1080, which today functions as the crypt of Santa Maria delle Grazie. Situated within the Palazzo dei Normanni at the highest point of Palermo, the complex occupied a site that had long served as a fortress, first in Arab hands and then seized by the Norman conquerors. 
+The *Cappella Palatina* — the royal chapel of the Norman Palace in Palermo, Sicily — stands as one of the most exceptional monuments of medieval art and architecture surviving anywhere in the world. Commissioned by Roger II of Sicily<a href="../../../endnotes.html#fn-roger-ii-sicily" class="footnote"><sup>1</sup></a> in 1132 and consecrated on 28 April 1140, the chapel was built upon an older oratory dating to approximately 1080, which today functions as the crypt of Santa Maria delle Grazie. Situated within the Palazzo dei Normanni at the highest point of Palermo, the complex occupied a site that had long served as a fortress, first in Arab hands and then seized by the Norman conquerors.
 
-The chapel was dedicated to Saint Peter the Apostle, and its design — integrating Byzantine, Romanesque, and Fatimid Islamic elements<a href="../../../endnotes.html#fn-fatimid-caliphate" class="footnote"><sup>2</sup></a> — embodied the extraordinary multicultural ambitions of the Norman monarchy. Its construction was overseen with considerable investment of royal resources, and the mosaic decoration was completed only gradually under Roger II's successors, William I<a href="../../../endnotes.html#fn-william-i-sicily" class="footnote"><sup>3</sup></a> and William II<a href="../../../endnotes.html#fn-william-ii-sicily" class="footnote"><sup>4</sup></a>, extending into the 1170s. 
+The chapel was dedicated to Saint Peter the Apostle, and its design — integrating Byzantine, Romanesque, and Fatimid Islamic elements<a href="../../../endnotes.html#fn-fatimid-caliphate" class="footnote"><sup>2</sup></a> — embodied the extraordinary multicultural ambitions of the Norman monarchy. Its construction was overseen with considerable investment of royal resources, and the mosaic decoration was completed only gradually under Roger II's successors, William I<a href="../../../endnotes.html#fn-william-i-sicily" class="footnote"><sup>3</sup></a> and William II<a href="../../../endnotes.html#fn-william-ii-sicily" class="footnote"><sup>4</sup></a>, extending into the 1170s.
 
-The Cappella Palatina has been designated a component of the UNESCO World Heritage Site titled "Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale," inscribed in 2015. No other building in the Latin Christian world of the twelfth century so deliberately and successfully synthesized three distinct civilizational idioms within a single coherent sacred space. The chapel served a dual function as both the liturgical heart of the Norman royal court and a ceremonial audience hall, making it as much a theatre of political power as a house of worship. 
+The Cappella Palatina has been designated a component of the UNESCO World Heritage Site titled "Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale," inscribed in 2015. No other building in the Latin Christian world of the twelfth century so deliberately and successfully synthesized three distinct civilizational idioms within a single coherent sacred space. The chapel served a dual function as both the liturgical heart of the Norman royal court and a ceremonial audience hall, making it as much a theatre of political power as a house of worship.
 
 The structure runs along an east–west axis, with the domed Byzantine sanctuary to the east and the three-aisled basilical nave to the west, each part expressing a distinct cultural vocabulary while forming an integrated whole. This deliberate juxtaposition was not accidental or merely aesthetic; scholars such as [Jeremy Johns](/scholars.html#johns-jeremy) and [William Tronzo](/scholars.html#tronzo-william) have argued that King Roger II consciously engineered this multicultural visual program to legitimize his rule over a population of Greeks, Arabs, Latins, and Jews. In this sense, the Cappella Palatina is a monument to the Norman monarchy's concept of *renovatio imperii* — a renewal of imperial grandeur modelled on both the Byzantine emperor in Constantinople and the Fatimid caliph in Cairo.
 
-The political context in which the chapel was conceived is inseparable from its artistic identity, and understanding Norman Sicily as a polity is fundamental to interpreting the monument. Roger II had inherited from his father, Roger I<a href="../../../endnotes.html#fn-roger-i-sicily" class="footnote"><sup>5</sup></a>, a kingdom that was in the process of transforming Arab Sicily into a Latin Christian monarchy while retaining most of the administrative infrastructure of its Muslim predecessors. The king employed Muslim administrators, Greek secretaries, and Latin ecclesiastics in a kind of tripartite bureaucracy unprecedented in medieval Europe. His court at Palermo was the most cosmopolitan in the Mediterranean world of the twelfth century, attracting scholars, poets, and artisans from distant lands including the geographer al-Idrisi<a href="../../../endnotes.html#fn-al-idrisi" class="footnote"><sup>6</sup></a> from North Africa and mosaicists from Byzantine Constantinople. 
+The political context in which the chapel was conceived is inseparable from its artistic identity, and understanding Norman Sicily as a polity is fundamental to interpreting the monument. Roger II had inherited from his father, Roger I<a href="../../../endnotes.html#fn-roger-i-sicily" class="footnote"><sup>5</sup></a>, a kingdom that was in the process of transforming Arab Sicily into a Latin Christian monarchy while retaining most of the administrative infrastructure of its Muslim predecessors. The king employed Muslim administrators, Greek secretaries, and Latin ecclesiastics in a kind of tripartite bureaucracy unprecedented in medieval Europe. His court at Palermo was the most cosmopolitan in the Mediterranean world of the twelfth century, attracting scholars, poets, and artisans from distant lands including the geographer al-Idrisi<a href="../../../endnotes.html#fn-al-idrisi" class="footnote"><sup>6</sup></a> from North Africa and mosaicists from Byzantine Constantinople.
 
 This environment of cultural porosity gave rise to what modern historians describe as the "Norman multicultural project," a calculated policy of cultural synthesis enacted through architecture, coinage, royal inscriptions, and ceremonial art. The Cappella Palatina was the supreme architectural expression of this project, concentrating within a single space the visual languages of three civilizations that had successively dominated the Mediterranean. The Norman kings did not simply commission individual craftsmen from different traditions; they conceived of an ensemble in which each tradition contributed in a systematic way to a unified royal theological program. Roger II's decision to build the chapel immediately after his coronation as king of Sicily in 1130 signals his desire to announce himself as a new kind of ruler, one whose kingdom transcended conventional medieval boundaries of faith and ethnicity. The Cappella Palatina thus must be read not only as an aesthetic object but as a political manifesto rendered in marble, mosaic, and wood.
 
-The architectural form of the Cappella Palatina reflects the same spirit of synthesis that pervades its decoration, drawing selectively from Roman basilica planning, Byzantine domed-church design, and Islamic spatial organization. The building's east end, comprising the sanctuary with its central dome, two transepts, a main apse, and two secondary apses, is wholly in conformity with middle Byzantine sacred architecture and closely resembles contemporaneous church plans in Constantinople and Greece. The western nave, on the other hand, follows a traditional three-aisled Roman basilica plan, with two rows of colonnades running the length of the hall and windows inserted between the columns to illuminate the interior. 
+The architectural form of the Cappella Palatina reflects the same spirit of synthesis that pervades its decoration, drawing selectively from Roman basilica planning, Byzantine domed-church design, and Islamic spatial organization. The building's east end, comprising the sanctuary with its central dome, two transepts, a main apse, and two secondary apses, is wholly in conformity with middle Byzantine sacred architecture and closely resembles contemporaneous church plans in Constantinople and Greece. The western nave, on the other hand, follows a traditional three-aisled Roman basilica plan, with two rows of colonnades running the length of the hall and windows inserted between the columns to illuminate the interior.
 
 These two distinct architectural typologies are joined at the crossing, where a second dome of more moderate proportions marks the transition from the Byzantine east to the Romanesque west. The sanctuary's three apses, particularly the main apse with its flanking chapels, recall not only Byzantine prototypes but also the Benedictine<a href="../../../endnotes.html#fn-benedictine-order" class="footnote"><sup>7</sup></a> and Cluniac traditions that the Norman kings patronized in their homeland of Normandy and in southern Italy. Along the northern wall of the sanctuary, a royal balcony gave the king a privileged vantage point from which to observe the liturgy during solemn feast days without mixing with ordinary worshippers or clergy. The throne platform, positioned on the west wall of the nave, was decorated with mosaic spandrels bearing heraldic lions in roundels, directly referencing Near Eastern royal imagery. These features transform the chapel into a ceremonial stage in which architectural space itself orchestrated the hierarchical relationships among king, clergy, and congregation. The building's east–west axis thus constituted a royal corridor linking the Norman king on his throne to the Christ Pantokrator in the main apse, creating a visual and theological chain from earthly to divine sovereignty.
 
@@ -218,7 +173,7 @@ The integration of the Cappella Palatina's religious art into a coherent theolog
 
 ## Illuminated Manuscripts and Pictorial Arts
 
-The Cappella Palatina must be understood not in isolation but as part of a broader courtly culture of artistic production in Norman Palermo that encompassed the making of illuminated manuscripts, embroidered textiles, ivory carvings, and other portable luxury arts alongside the great monumental works of architecture and mosaic. The Norman royal court maintained specialized workshops within the palace precinct, including the famous *tiraz* workshop — an institution borrowed directly from Fatimid Egyptian and Abbasid practice — in which skilled weavers produced silk textiles with Arabic inscriptions destined for royal ceremonial use. 
+The Cappella Palatina must be understood not in isolation but as part of a broader courtly culture of artistic production in Norman Palermo that encompassed the making of illuminated manuscripts, embroidered textiles, ivory carvings, and other portable luxury arts alongside the great monumental works of architecture and mosaic. The Norman royal court maintained specialized workshops within the palace precinct, including the famous *tiraz* workshop — an institution borrowed directly from Fatimid Egyptian and Abbasid practice — in which skilled weavers produced silk textiles with Arabic inscriptions destined for royal ceremonial use.
 
 ### Mantle of Roger II
 
@@ -255,7 +210,7 @@ The role of ancient Greek and Roman antiquity as a further source of artistic in
 
 ## Preservation and Conservation
 
-The physical condition of the Cappella Palatina has been a matter of scholarly and institutional concern for well over a century, and the monument's survival to the present day in a relatively complete state is the result of a sustained, if sometimes erratic, series of conservation interventions extending from the Bourbon period in the eighteenth century to the large-scale restoration campaigns of the twenty-first. The most fundamental challenge to the long-term preservation of the chapel's mosaics is the instability of the adhesive mortars that anchor the glass tesserae to the wall surface, a problem that arises from the combined effects of thermal cycling, humidity fluctuations, salt crystallization within the masonry, and the cumulative damage inflicted by previous inadequate conservation treatments. These processes cause the mortar beds to shrink, crack, and detach from the substrate, eventually leading to the loss of individual tesserae or entire sections of mosaic — a form of deterioration that is both visually destructive and extremely difficult to reverse once it has progressed beyond a certain stage. 
+The physical condition of the Cappella Palatina has been a matter of scholarly and institutional concern for well over a century, and the monument's survival to the present day in a relatively complete state is the result of a sustained, if sometimes erratic, series of conservation interventions extending from the Bourbon period in the eighteenth century to the large-scale restoration campaigns of the twenty-first. The most fundamental challenge to the long-term preservation of the chapel's mosaics is the instability of the adhesive mortars that anchor the glass tesserae to the wall surface, a problem that arises from the combined effects of thermal cycling, humidity fluctuations, salt crystallization within the masonry, and the cumulative damage inflicted by previous inadequate conservation treatments. These processes cause the mortar beds to shrink, crack, and detach from the substrate, eventually leading to the loss of individual tesserae or entire sections of mosaic — a form of deterioration that is both visually destructive and extremely difficult to reverse once it has progressed beyond a certain stage.
 
 Technical investigations conducted in recent decades using X-ray fluorescence, photogrammetric survey, and high-resolution digital imaging have provided conservators with an unprecedented understanding of the stratigraphy of the mosaic beds and the distribution of detachment zones across the chapel's interior surfaces, enabling a more systematic and targeted approach to stabilization interventions than was possible with earlier empirical methods. The Fondazione Federico II, which currently administers the Cappella Palatina, and the Assessorato dei Beni Culturali of the Sicilian Regional Government share institutional responsibility for the monument's conservation, a dual jurisdiction that has sometimes complicated the coordination of large-scale campaigns but has also ensured that significant public resources have been directed toward its preservation. A major new phase of restoration of the mosaics was officially announced and commenced in late 2024, with particular attention directed to the apse and sanctuary areas, where detachment of tesserae had reached levels that demanded immediate intervention.
 
@@ -267,7 +222,7 @@ The methodological shift from purely visual restoration toward a conservation ph
 
 The challenge of managing the Cappella Palatina as a heritage site open to large numbers of tourists while simultaneously preserving its delicate medieval fabric is among the most pressing practical problems facing its custodians. The chapel receives hundreds of thousands of visitors annually, generating revenue that supports its conservation but also introducing environmental stresses — elevated humidity, increased particulate deposition on surfaces, vibration from foot traffic — that accelerate the deterioration of its painted and mosaic decorations. The installation of climate monitoring systems within the chapel, recording temperature, relative humidity, and carbon dioxide levels in real time, has enabled conservators to correlate fluctuations in environmental conditions with specific deterioration processes observed in the historic fabric, building an evidence base for more effective environmental management. Visitor management protocols, including controlled entry numbers, defined circulation routes that minimize proximity to the most vulnerable surfaces, and restrictions on artificial lighting in sensitive areas, represent institutional responses to the tension between public access and physical preservation. The debate among heritage professionals about the appropriate balance between access and conservation is particularly acute for a monument of such extraordinary cultural significance, where the ethical obligation to share the chapel's treasures with the widest possible audience must be weighed against the equally compelling obligation to transmit them intact to future generations.
 
-The relationship between conservation and scholarly research has been particularly productive in the case of the Cappella Palatina, where conservation campaigns have repeatedly generated new knowledge about the monument's construction history, its artistic techniques, and the sequence of its decorative programs. The detailed technical examination of the sanctuary mosaics conducted in connection with the 2024 restoration campaign revealed previously unknown details of the medieval intonaco preparation and established a more precise stratigraphy of the mortar beds, contributing to a revised understanding of the phasing of the mosaic work. Cleaning operations on the nave ceiling paintings have exposed areas of original pigment beneath later repaintings that modify our understanding of the ceiling's original chromatic scheme, suggesting that the contrast between the figure areas and the geometric background was originally sharper and more brilliant than the current somewhat muted palette suggests. The interdisciplinary character of these investigations, which bring together art historians, architects, chemists, physicists, and conservation scientists in a shared research enterprise, exemplifies the collaborative intellectual model that now governs the best practice of heritage conservation internationally. The publication of conservation research findings in peer-reviewed journals and conference proceedings has ensured that the knowledge generated by these campaigns is shared with the international scholarly community and fed back into the ongoing development of conservation methodology for similarly complex monuments. This virtuous cycle between conservation practice and scholarly research is one of the most positive developments in the stewardship of the Cappella Palatina over the past two decades.
+The relationship between conservation and scholarly research has been particularly productive in the case of the Cappella Palatina, where conservation campaigns have repeatedly generated new knowledge about the monument's construction history, its artistic techniques, and the sequence of its decorative programs. The detailed technical examination of the sanctuary mosaics conducted in connection with the 2024 restoration campaign revealed previously unknown details of the medieval *intonaco* preparation and established a more precise stratigraphy of the mortar beds, contributing to a revised understanding of the phasing of the mosaic work. Cleaning operations on the nave ceiling paintings have exposed areas of original pigment beneath later repaintings that modify our understanding of the ceiling's original chromatic scheme, suggesting that the contrast between the figure areas and the geometric background was originally sharper and more brilliant than the current somewhat muted palette suggests. The interdisciplinary character of these investigations, which bring together art historians, architects, chemists, physicists, and conservation scientists in a shared research enterprise, exemplifies the collaborative intellectual model that now governs the best practice of heritage conservation internationally. The publication of conservation research findings in peer-reviewed journals and conference proceedings has ensured that the knowledge generated by these campaigns is shared with the international scholarly community and fed back into the ongoing development of conservation methodology for similarly complex monuments. This virtuous cycle between conservation practice and scholarly research is one of the most positive developments in the stewardship of the Cappella Palatina over the past two decades.
 
 The international framework within which the Cappella Palatina's conservation is now embedded reflects its status as a UNESCO World Heritage Site, a designation that brings both obligations and resources to its custodians. The UNESCO inscription of the "Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale" in 2015 established a formal monitoring mechanism through which the Italian state is required to report periodically to UNESCO on the state of conservation of the inscribed properties and on the management measures in place to protect their outstanding universal value. This reporting obligation has provided a structural incentive for the development of comprehensive management plans, condition assessments, and conservation strategies that may not otherwise have been produced within the existing Italian institutional framework, and it has elevated the profile of the Cappella Palatina's conservation needs within the priorities of national heritage policy. International partnerships, including collaboration with the Getty Conservation Institute, the German Archaeological Institute, and the École française de Rome, have brought additional expertise and resources to bear on specific conservation problems and have contributed to the training of Italian conservation professionals in the most advanced international techniques. The Fondazione Federico II, established in 2000 as the principal institutional vehicle for the promotion and conservation of the Arab-Norman heritage of Palermo, has developed a long-term conservation masterplan that identifies priorities, allocates resources, and coordinates the activities of the various institutional partners involved in the stewardship of the Cappella Palatina and associated monuments. The most recent phase of this masterplan, launched in 2024, prioritizes the stabilization of the sanctuary mosaics and the environmental management of the nave ceiling, with a projected timeline extending over a decade and a budget that reflects the scale and complexity of the work required to secure the monument for the long-term future.
 
@@ -336,4 +291,3 @@ The dedication of the Chapel to Saints Peter and Paul makes their presence in th
 At the far ends of the composition, beyond the figures of the Apostles, stand the two Archangels Michael and Gabriel. They are depicted in a frontal and solemn pose, wearing the regal robes of the heavenly court—the imperial loros and the divitision—and carry, respectively, the labarum and the globe cruciger, exactly like the archangels in the dome. Their symmetrical presence frames the entire composition, emphasizing the triumphal and celestial dimension of the scene.
 
 The placement of this Majesty directly above Roger II’s royal throne is by no means accidental: Christ in glory visually blesses the sovereign seated below, creating a hierarchical chain descending from heaven to earth. The entire panel functions as a sacred legitimization of Norman power: the king rules by divine grace, under the protection of Saints Peter and Paul and the watchful eye of the archangels. This visual scheme mirrors the model of the Constantinopolitan imperial basileia, in which the sovereign is the Vicar of Christ on earth, and fits into the broader political communication strategy through which Roger II constructed the image of his monarchy as cosmopolitan, divine, and universal.
-

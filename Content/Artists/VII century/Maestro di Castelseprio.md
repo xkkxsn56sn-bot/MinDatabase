@@ -43,7 +43,7 @@ meta:
 
   - title: "ARTISTIC PRACTICE"
     list:
-      - "Technique: buon fresco (pigments applied to freshly laid lime plaster, intonaco)"
+      - "Technique: buon fresco (pigments applied to freshly laid lime plaster, *intonaco*)"
       - "Worked in a workshop (bottega) structure with assistants for arriccio preparation and secondary passages"
       - "Master responsible for overall design, draftsmanship, and principal figure execution"
       - "Palette: mineral blues, kermes red, earth tones, and expensive ultramarine (lapis lazuli) for the Virgin"
@@ -141,7 +141,7 @@ scholars:
 
 ## Anonymity and Socio-Economic Context
 
-The figure known as the *Maestro di Castelseprio* occupies a unique position within the historiography of medieval art, defined almost entirely by his anonymity. His identity remains one of the great unresolved questions of early medieval Lombard art; no contemporary records have preserved his name, nor has any archival evidence been discovered that would allow for his definitive identification. This absence of a personal history is not merely a biographical gap but a fundamental characteristic of his legacy, compelling art historians to reconstruct his professional life through the analysis of his singular, monumental body of work. 
+The figure known as the *Maestro di Castelseprio* occupies a unique position within the historiography of medieval art, defined almost entirely by his anonymity. His identity remains one of the great unresolved questions of early medieval Lombard art; no contemporary records have preserved his name, nor has any archival evidence been discovered that would allow for his definitive identification. This absence of a personal history is not merely a biographical gap but a fundamental characteristic of his legacy, compelling art historians to reconstruct his professional life through the analysis of his singular, monumental body of work.
 
 <figure class="figure--right">
   <img src="/Images/Maestro di Castelseprio/image 4.jpg" alt="church of Santa Maria foris portas - Castelseprio">

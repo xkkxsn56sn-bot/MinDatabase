@@ -91,9 +91,25 @@ meta:
         url: "/Content/Artists/XIII%20century/Solsternus.html"
       - title: "Oratory of San Pellegrino in Bominaco"
         url: "/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html"
+
+scholars:
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Otto Demus"
+    url: "/scholars.html#demus-otto"
+  - title: "Mario Salmi"
+    url: "/scholars.html#salmi-mario"
+  - title: "Roberto Longhi"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Carlo Bertelli"
+    url: "/scholars.html#bertelli-carlo"
+  - title: "Ernst Kitzinger"
+    url: "/scholars.html#kitzinger-ernst"
+  - title: "Enzo Carli"
+    url: "/scholars.html#carli-enzo"
 ---
 
-*Spoleto Cathedral* (Cattedrale di Santa Maria Assunta) is the principal church of Spoleto and the core of a wider episcopal complex that includes the bishop’s palace, the Romanesque basilica of Sant’Eufemia, and the Diocesan Museum. 
+*Spoleto Cathedral* (Cattedrale di Santa Maria Assunta) is the principal church of Spoleto and the core of a wider episcopal complex that includes the bishop’s palace, the Romanesque basilica of Sant’Eufemia, and the Diocesan Museum.
 
 The present cathedral was begun in the second half of the twelfth century, after Frederick Barbarossa’s troops had devastated the city and destroyed the earlier cathedral dedicated to Saint Primianus. Built in Romanesque style over or near the pre‑existing church of Santa Maria in Vescovado, it was consecrated by Innocent III in 1198 and again solemnly dedicated under Honorius III in the early thirteenth century, marking the completion of the main construction campaign. The building occupies a terraced platform at the foot of Colle Sant’Elia, and the broad stair of via dell’Arringo frames its façade as a scenographic backdrop to the piazza below. From the outset, therefore, the cathedral was conceived not only as a liturgical focus but also as a civic landmark dominating the urban topography.
 
@@ -109,7 +125,7 @@ The celebrated façade mosaic of 1207, signed by the elusive *Solsternus*, emplo
 
 Inside, the pavement of the nave preserves an extensive *Cosmatesque* floor of stone, porphyry, and serpentine inlays, laid in complex geometric patterns that combine opus sectile and mosaic techniques. The Cosmati‑style craftsmen set disks and spolia fragments within grids of pale stone, creating a richly polychrome yet highly ordered visual field that articulates processional routes toward the presbytery. The side aisles, by contrast, received a later pavement of red and white lozenges installed in 1481 by Matteo Rosso Balsimelli of Settignano, indicating an ongoing dialogue between older Romanesque surfaces and Quattrocento taste. Recent restoration campaigns begun in 2021 have highlighted the technical complexity of these pavements, which incorporate re‑used fragments of liturgical furniture and employ delicate glass‑paste tesserae in certain zones.
 
-The apse frescoes of *Fra' Filippo Lippi* and his workshop represent a mature use of buon fresco technique in the later Quattrocento, though detailed technical analyses specific to Spoleto have been less widely published than for his Tuscan works. Documentary and stylistic evidence nevertheless confirm a traditional sequence of arriccio and intonaco layers, incised sinopie or underdrawing, and the application of mineral pigments in successive giornate following the curvature of the apse. In the semi‑dome and wall fields, Lippi’s assistants had to adapt large narrative scenes to a complex architectural surface, requiring careful planning of plaster joints and compositional divisions. The luminosity of the palette as it survives today suggests the use of high‑quality pigments comparable to those documented in contemporary central Italian mural cycles, although centuries of overpainting and cleaning have inevitably altered the original chromatic balance.
+The apse frescoes of *Fra' Filippo Lippi* and his workshop represent a mature use of buon fresco technique in the later Quattrocento, though detailed technical analyses specific to Spoleto have been less widely published than for his Tuscan works. Documentary and stylistic evidence nevertheless confirm a traditional sequence of arriccio and *intonaco* layers, incised sinopie or underdrawing, and the application of mineral pigments in successive giornate following the curvature of the apse. In the semi‑dome and wall fields, Lippi’s assistants had to adapt large narrative scenes to a complex architectural surface, requiring careful planning of plaster joints and compositional divisions. The luminosity of the palette as it survives today suggests the use of high‑quality pigments comparable to those documented in contemporary central Italian mural cycles, although centuries of overpainting and cleaning have inevitably altered the original chromatic balance.
 
 Beyond fresco and mosaic, the complex preserves significant works of metalwork, sculpture, and wood carving that demonstrate a wide range of materials and techniques. The painted cross signed by *Alberto Sotio* in 1187—now in a chapel off the right aisle—is executed in tempera on a wooden support, with gesso ground and gilding techniques characteristic of late Romanesque panel production in Umbria. A polychrome wooden Madonna of the fourteenth century shows the continued vitality of carved and painted sculpture as a medium for devotional images in the cathedral’s chapels. Liturgical silver and reliquaries preserved today in the Diocesan Museum and treasury employ casting, chasing, and filigree work, reflecting the skills of goldsmiths active in the diocesan territory from the thirteenth to the eighteenth century.
 

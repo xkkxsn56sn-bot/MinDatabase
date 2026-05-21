@@ -3,69 +3,6 @@ layout: entry
 title: "Cathedral of Saint-Lazare, Autun"
 subtitle: "Supreme monument of Romanesque pilgrimage architecture and monumental sculpture in Burgundy"
 dates: "Commissioned c. 1120; consecrated 1132; relics translated 1146; narthex completed late 12th century; Gothic additions 15th century"
-location: "Autun (ancient Augustodunum), Burgundy, France"
-tradition: "Secular cathedral chapter; Cluniac reform movement; pilgrimage church of the Via Tolosana network"
-architectural_style: "Romanesque pilgrimage church; Latin cross plan; three-storey nave elevation (grand arcade, triforium, clerestory); banded barrel vault with ogival transverse ribs; pointed arches throughout"
-order: "Secular cathedral chapter (diocese of Autun)"
-
-founders_and_patrons:
-  - "Bishop Étienne de Bâgé (initiated building campaign, c. 1120)"
-  - "Pope Eugenius III and King Louis VII of France (translation of relics of Saint Lazarus, 1146)"
-  - "Bishop Jean Rolin (Gothic belfry and restorations, 1462–1469)"
-  - "Chancellor Nicolas Rolin (donor of Jan van Eyck's Madonna of Chancellor Rolin, c. 1435)"
-
-key_phases:
-  - "Acquisition of supposed relics of Lazarus of Bethany from Marseille (9th century)"
-  - "Construction commissioned by Bishop Étienne de Bâgé in response to pilgrimage overcrowding of Saint-Nazaire (c. 1120)"
-  - "Building consecrated (1132)"
-  - "Sculptural campaign of Gislebertus: tympana, lintel, and nave capitals (c. 1120–1135)"
-  - "Solemn translation of relics; Pope Eugenius III and King Louis VII presiding (1146)"
-  - "Construction of the Tomb of Lazarus in the choir (1170–1180)"
-  - "Completion of the narthex and western portal programme (late 12th century)"
-  - "Saint-Lazare confirmed as sole cathedral of Autun (1195)"
-  - "Fire damage; Gothic additions: spire, flying buttresses, side chapels; new belfry by Bishop Jean Rolin (1462–1469)"
-  - "Canons plaster over the Last Judgment tympanum (1766)"
-  - "Rediscovery of the tympanum (1837)"
-  - "Removal and interior transfer of crossing-tower capitals to chapter house (19th century)"
-  - "Long-term restoration of the cathedral treasury (20th–21st century)"
-
-key_artists:
-  - "Gislebertus (fl. c. 1115–1135) — principal sculptor of the tympana, Eve lintel, and c. 60 nave and chancel capitals; trained at Cluny workshop, possibly at Vézelay; signed *Gislebertus hoc fecit* beneath the western tympanum Christ"
-  - "Workshop assistants of Gislebertus (anonymous) — responsible for secondary and ornamental capitals"
-  - "Bishop Étienne de Bâgé — intellectual author of the iconographic programme"
-
-key_works:
-  - "Last Judgment tympanum of the western portal, Gislebertus, c. 1130–1135 (in situ)"
-  - "Temptation of Eve, lintel of the northern doorway, Gislebertus, c. 1130 (Musée Rolin, Autun)"
-  - "Historiated nave and chancel capitals (c. 60 surviving), Gislebertus and workshop, c. 1120–1135 (in situ and Musée Rolin)"
-  - "Three Magi Asleep capital, Flight into Egypt capital, Suicide of Judas capital (in situ)"
-  - "Tomb of Lazarus in the choir, 1170–1180 (in situ)"
-  - "Sacramentary of Marmoutier, c. mid-9th century (Bibliothèque Municipale d'Autun, Ms. S 19)"
-  - "Jan van Eyck, Madonna of Chancellor Rolin, c. 1435 (housed in Saint-Lazare 1793–1805; now Musée du Louvre, Paris)"
-
-thematic_keywords:
-  - "Romanesque pilgrimage church and Cluniac reform"
-  - "Monumental Romanesque stone sculpture"
-  - "Last Judgment iconography and eschatological programme"
-  - "Historiated capitals and narrative stone carving"
-  - "Individual artistic identity in the Middle Ages (Gislebertus hoc fecit)"
-  - "Hagiography and relic cult of Saint Lazarus of Bethany"
-  - "Byzantine and Ottonian pictorial conventions in Burgundian Romanesque"
-  - "Late antique (Roman Augustodunum) substratum"
-  - "Santiago de Compostela pilgrimage network"
-  - "Conservation history: inadvertent preservation and modern restoration"
-
-related_entries:
-  - title: "Giselbertus"
-    url: "/Content/Artists/XI%20century/Giselbertus.html"
-  - title: "Godefroid de Claire"
-    url: "/Content/Artists/XII%20century/Godefroid%20de%20Claire.html"
-  - title: "Helmarshausen Abbey"
-    url: "/Content/Churches/Helmarshausen%20Abbey.html"
-  - title: "Saint Savin sur Gartempe Abbey"
-    url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
-
-category: "churches"
 
 meta:
   - title: "Core data"
@@ -139,11 +76,18 @@ meta:
       - title: "Giselbertus"
         url: "/Content/Artists/XI%20century/Giselbertus.html"
       - title: "Godefroid de Claire"
-        url: "/Content/Artists/XII%20century/Godefroid%20de%20Claire.html"
       - title: "Helmarshausen Abbey"
         url: "/Content/Churches/Helmarshausen%20Abbey.html"
       - title: "Saint Savin sur Gartempe Abbey"
         url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
+
+scholars:
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Richard Offner"
+    url: "/scholars.html#offner-richard"
+  - title: "Edward B. Garrison"
+    url: "/scholars.html#garrison-edward"
 ---
 
 The Cathedral of Saint-Lazare at Autun, known in French as the *Cathédrale Saint-Lazare d'Autun*, stands as one of the supreme monuments of Romanesque art and architecture in Western Europe, combining liturgical function, sculptural brilliance, and theological purpose within a single monumental ensemble. Situated in the ancient city of Autun in the Burgundy region of central France — a city itself founded as the Roman *Augustodunum* — the cathedral occupies the highest and most strategically commanding position within the urban topography, a placement that underscores its civic as much as its sacred significance. Its construction arose directly from the religious and social dynamics of twelfth-century pilgrimage culture, when the veneration of saintly relics drew vast numbers of faithful across the entire European continent along routes converging toward Santiago de Compostela in northwestern Spain. The cathedral was conceived and ordered by Bishop Étienne de Bâgé around 1120 in response to the overcrowding of the earlier cathedral of Saint-Nazaire, which could no longer accommodate the throngs of pilgrims arriving to venerate what were believed to be the earthly remains of Lazarus of Bethany, the man whom the Gospel of John records as having been raised from the dead by Christ. These relics had passed into the possession of the church at Autun as early as the ninth century, when they were acquired from Marseille under the belief that they were identical with the remains of Lazarus of Aix, a conflation that proved extraordinarily fruitful for the religious economy of the region. The decision to erect an entirely new sacred building, rather than merely enlarging the existing structure, reflects the ambition and theological self-confidence of the Burgundian episcopal establishment of the period, shaped profoundly by the reforming spirit of the Cluniac monastic movement. Construction proceeded rapidly by medieval standards, and the building was consecrated in 1132, with the relics of Lazarus ceremonially translated from Saint-Nazaire in 1146, after which both cathedrals operated in tandem for several decades — Saint-Lazare as the summer cathedral and Saint-Nazaire as the winter cathedral — before Saint-Lazare was confirmed as the sole cathedral of Autun in 1195. The narthex or western portico, among the most sculptural and iconographically complex portions of the building, was not completed until the very end of the twelfth century, while the Tomb of Lazarus in the choir was constructed between 1170 and 1180. Through subsequent centuries the building underwent considerable transformation, acquiring Gothic additions in the fifteenth century including a spire, flying buttresses, and new side chapels following a fire, as well as the replacement of the original Romanesque belfry by Bishop Jean Rolin between 1462 and 1469 after the earlier structure was destroyed by lightning. Despite these accretions and alterations, the interior of the cathedral has retained an overwhelmingly Romanesque character, preserving in stone a remarkable record of twelfth-century theological imagination, artistic skill, and ecclesiastical ambition.
@@ -202,7 +146,7 @@ The question of the relationship between the pictorial arts of Saint-Lazare and 
 
 The Cathedral of Saint-Lazare at Autun is comprehensible as a work of art and architecture only in the context of the multiple external influences that converged upon its conception and execution, the most fundamental of which was the overwhelming authority of the Cluniac reform movement and its architectural expression in the Abbey Church of Cluny III, begun in 1088 and largely complete by the time construction began at Autun. The direct formal debt of Saint-Lazare to Cluny III is evident in the nave vaulting system — a banded barrel vault with transverse ogival ribs — in the three-storey nave elevation of grand arcade, triforium, and clerestory, and in the general spatial proportions and material quality of the interior, all of which mark the Autun building as a work produced within the Cluniac orbit even as its institutional status as a bishop's cathedral distinguished it from the monastic context of its model. The influence of Paray-le-Monial, the Cluniac priory church whose design Bishop Étienne de Bâgé specifically cited as an inspiration for his new building, is also evident in the exterior composition of the east end and in certain details of the decorative programme, confirming that the bishop's intentions were shaped by a knowledge of the existing Cluniac architectural tradition in Burgundy rather than by a desire for original departure from established conventions. The pointed arch, deployed at Autun in structural contexts throughout the nave and vaulting, represents an element whose origins have been traced by various scholars to Islamic architecture, where it had been in use since at least the seventh century, and its appearance in Romanesque Burgundian buildings before its adoption in what would be identified as the first Gothic structures suggests channels of cultural transmission operating through pilgrimage contacts, diplomatic exchanges, and the direct experience of Islamic architecture in Spain by monks and pilgrims. The Crusades, which began in 1095 and which drew large numbers of pilgrims and warriors through Burgundy on their way to the eastern Mediterranean, provided another conduit through which Eastern Mediterranean artistic and architectural forms might have reached the workshops of Autun and Cluny, even if the specific mechanisms of transmission remain difficult to document.
 
-The influence of Byzantine pictorial conventions on the sculptural style of Gislebertus is one of the most extensively debated questions in the scholarship on Romanesque art, and at Autun it is particularly evident in the use of hierarchic scale to express spiritual status, in the stylisation of drapery into systems of linear folds analogous to the Byzantine *maniera greca*, and in the frontal, transcendent presentation of Christ and the saints that contrasts with the more emotionally naturalistic treatment of secondary and negative figures. The Santiago de Compostela pilgrimage route, which passed through Autun and Vézelay and constituted one of the principal highways of cultural exchange in twelfth-century Europe, must be considered a major vector for the transmission of artistic models between the major pilgrimage churches along its course — Conques, Toulouse, Moissac, and Saint-Jacques de Compostela itself — all of which share with Saint-Lazare a vocabulary of portal sculpture that reflects a common Romanesque koine disseminated precisely through the networks of pilgrimage and ecclesiastical communication. The formal connections between the Last Judgment tympanum at Autun and the comparable tympana at Moissac, Beaulieu, and Vézelay have been extensively charted in the art-historical literature, establishing a pattern of reciprocal influence among the major Romanesque portal programmes of southern and central France within which the Autun tympanum represents simultaneously a culmination and a highly individual transformation of inherited conventions. The sculptural programme of the capitals at Saint-Lazare also reveals awareness of Italo-Byzantine models, particularly in the treatment of certain Old Testament narratives that share compositional solutions with Italo-Byzantine manuscript illustrations and ivory carvings that would have circulated within the networks of ecclesiastical gift exchange connecting French and Italian religious institutions during the eleventh and twelfth centuries. The late Gothic additions to the cathedral fabric in the fifteenth century introduce the influence of the broader Burgundian Gothic style as it had developed under the patronage of the Valois Dukes of Burgundy, connecting Saint-Lazare to one of the most sophisticated courtly artistic cultures of fifteenth-century Europe and ensuring that the building's development continued to reflect the dominant external artistic movements of each successive phase of its history.
+The influence of Byzantine pictorial conventions on the sculptural style of Gislebertus is one of the most extensively debated questions in the scholarship on Romanesque art, and at Autun it is particularly evident in the use of hierarchic scale to express spiritual status, in the stylisation of drapery into systems of linear folds analogous to the Byzantine **maniera greca**, and in the frontal, transcendent presentation of Christ and the saints that contrasts with the more emotionally naturalistic treatment of secondary and negative figures. The Santiago de Compostela pilgrimage route, which passed through Autun and Vézelay and constituted one of the principal highways of cultural exchange in twelfth-century Europe, must be considered a major vector for the transmission of artistic models between the major pilgrimage churches along its course — Conques, Toulouse, Moissac, and Saint-Jacques de Compostela itself — all of which share with Saint-Lazare a vocabulary of portal sculpture that reflects a common Romanesque koine disseminated precisely through the networks of pilgrimage and ecclesiastical communication. The formal connections between the Last Judgment tympanum at Autun and the comparable tympana at Moissac, Beaulieu, and Vézelay have been extensively charted in the art-historical literature, establishing a pattern of reciprocal influence among the major Romanesque portal programmes of southern and central France within which the Autun tympanum represents simultaneously a culmination and a highly individual transformation of inherited conventions. The sculptural programme of the capitals at Saint-Lazare also reveals awareness of Italo-Byzantine models, particularly in the treatment of certain Old Testament narratives that share compositional solutions with Italo-Byzantine manuscript illustrations and ivory carvings that would have circulated within the networks of ecclesiastical gift exchange connecting French and Italian religious institutions during the eleventh and twelfth centuries. The late Gothic additions to the cathedral fabric in the fifteenth century introduce the influence of the broader Burgundian Gothic style as it had developed under the patronage of the Valois Dukes of Burgundy, connecting Saint-Lazare to one of the most sophisticated courtly artistic cultures of fifteenth-century Europe and ensuring that the building's development continued to reflect the dominant external artistic movements of each successive phase of its history.
 
 The transmission of late antique artistic forms into the Romanesque sculptural programme of Saint-Lazare constitutes a further dimension of the building's external debt that has been explored at length in the scholarship, given that Autun itself was, as the Roman *Augustodunum*, one of the most richly decorated cities of Roman Gaul and that its surviving ancient monuments — including the Porte Saint-André and the Porte d'Arroux, both of which remained standing and visible throughout the Middle Ages — provided the sculptors and architects of the twelfth century with direct access to the architectural vocabulary and decorative conventions of imperial Rome. The fluted pilasters, the acanthus-derived capitals, and the regular ashlar masonry technique of the Roman gates were not merely theoretical presences in the intellectual formation of the Autun builders but visible, physically accessible models in the immediate urban environment of the construction site, and the degree to which these ancient structures informed the proportional and decorative choices of Saint-Lazare has been the subject of sustained art-historical investigation. Gislebertus's exploitation of the Corinthian capital form as the structural basis for his historiated capitals enacts at the level of individual sculptural units the same dialogue between the inherited classical vocabulary and the requirements of Christian iconographic narrative that the cathedral as a building enacts at the architectural scale, and the residual classicism detectable in certain of the more refined figurative capitals — particularly in the treatment of drapery folds that recall the calligraphic linearity of late Roman relief carving — may well owe something to the example of the Roman sculptures and architectural fragments that circulated in Burgundy as spolia and as models available for study in ecclesiastical collections. The survival of a significant quantity of Gallo-Roman sculpture and architectural decoration in the museums and churches of Autun and the surrounding region has ensured that this classical substratum of the Romanesque artistic culture of the diocese remains tangible and documentable in a way that is less easily achieved in regions where the Roman heritage has been more completely effaced.
 

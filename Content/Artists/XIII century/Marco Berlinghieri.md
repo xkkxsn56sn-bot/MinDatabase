@@ -1,98 +1,106 @@
 ---
 layout: entry
 title: "Marco Berlinghieri"
-subtitle: "Pittore lucchese del Duecento, attivo tra miniatura, croci dipinte e cicli murali"
-dates: "Attivo tra il secondo quarto e la metà del XIII secolo (cronologia documentaria variabile)"
+subtitle: "Lucchese Italo-Byzantine painter and illuminator active between Lucca and Bologna"
+dates: "Active c. 1230s-1260s (documentary range uncertain)"
 
 meta:
-  - title: "PERIOD"
-    list:
-      - "XIII century"
-      - "Duecento toscano tra tradizione italo-bizantina e prime aperture narrative"
+  - title: "CORE DATA"
+    pairs:
+      - label: "Name"
+        value: "Marco Berlinghieri"
+      - label: "Primary role"
+        value: "Panel painter and manuscript illuminator"
+      - label: "Period"
+        value: "XIII century, Duecento"
+      - label: "Primary centers"
+        value: "Lucca and Bologna"
+      - label: "Documentary status"
+        value: "Fragmentary records; several attributions remain debated"
 
-  - title: "ROLE"
+  - title: "IDENTITY AND FAMILY"
     list:
-      - "Pittore e miniatore della scuola lucchese"
-      - "Esponente della bottega Berlinghieri"
-      - "Interprete del linguaggio bizantino in contesti ecclesiastici e civili"
+      - "Son of Berlinghiero Berlinghieri"
+      - "Brother of Bonaventura Berlinghieri and Barone Berlinghieri"
+      - "Formed in the Berlinghieri workshop environment"
+      - "Linked to both panel painting and manuscript illumination"
+      - "Active in Lucchese and Bolognese contexts"
 
-  - title: "LOCATION"
-    list:
-      - "Lucca (contesto originario e principale)"
-      - "Bologna (attività documentata a metà Duecento)"
-      - "Italia centrale (diffusione di bottega e attribuzioni)"
-
-  - title: "BIRTH & DEATH"
+  - title: "CHRONOLOGY"
     pairs:
       - label: "Birth"
-        value: "Probabilmente Lucca; data non documentata"
+        value: "Probably Lucca, date unknown"
+      - label: "Early activity horizon"
+        value: "c. 1230s-1240s in Lucca"
+      - label: "Key manuscript horizon"
+        value: "c. 1248-1250 (Luccan biblical manuscript attribution)"
+      - label: "Bolognese phase"
+        value: "c. 1250s-1260s (including civic decorative work references)"
       - label: "Death"
-        value: "Ignota; attestazioni incerte oltre la fase bolognese"
+        value: "Unknown"
+
+  - title: "PATRONAGE AND COMMISSIONS"
+    list:
+      - "Ecclesiastical institutions in Lucca"
+      - "Hospital and manuscript-centered patronage (San Martino context)"
+      - "Civic commission context in Bologna"
+      - "Devotional networks for portable and liturgical images"
+
+  - title: "ARTISTIC PRACTICE"
+    list:
+      - "Tempera and gold techniques in panel and miniature formats"
+      - "Strong linear contouring and compositional hierarchy"
+      - "Narrative concentration in compact formats"
+      - "Adaptation of Italo-Byzantine conventions to varied supports"
+
+  - title: "STYLE"
+    list:
+      - "Italo-Byzantine formal language with elongated figuration"
+      - "Gold-ground symbolic space and hieratic composure"
+      - "Miniaturist precision in detail and ornament"
+      - "Measured narrative dynamism in monumental cycles"
 
   - title: "KEY WORKS"
     list:
-      - "Miniatura della Bibbia per lo Spedale di San Martino, Lucca (Codex 1, attribuzione tradizionale)"
-      - "Ciclo della Strage degli Innocenti, Santo Stefano, Bologna (staccato e attribuito)"
-      - "Croci dipinte e tavole devozionali in ambito lucchese (attribuzioni di bottega)"
+      - "Illuminated Bible for the Spedale di San Martino, Lucca (Codex 1, traditional attribution)"
+      - "Massacre of the Innocents cycle, Santo Stefano, Bologna (detached fresco, attributed)"
+      - "Painted crosses and devotional panels in Lucchese orbit (workshop/circle attributions)"
 
-  - title: "ARTISTIC PROFILE"
+  - title: "HISTORICAL SIGNIFICANCE"
     list:
-      - "Forte impianto italo-bizantino con figure allungate e fondi aurei"
-      - "Linearismo rigoroso, cromia intensa e gerarchie simboliche marcate"
-      - "Progressiva attenzione narrativa nei cicli monumentali"
-
-  - title: "PATRONS"
-    list:
-      - "Istituzioni ecclesiastiche lucchesi (capitoli, ospedali, ordini mendicanti)"
-      - "Committenza civica bolognese (podestà e ambienti pubblici)"
-      - "Reti devozionali laiche per immagini portatili"
-
-  - title: "KEY PHASES"
-    list:
-      - "Formazione nella bottega familiare dei Berlinghieri"
-      - "Attività di miniatura e pittura devozionale a Lucca"
-      - "Trasferimento a Bologna e commissioni monumentali"
-
-  - title: "THEMATIC KEYWORDS"
-    list:
-      - "Scuola lucchese"
-      - "Italo-bizantino"
-      - "Miniatura duecentesca"
-      - "Croci dipinte"
-      - "Cicli murali"
+      - "Key witness to the diversification of Berlinghieri production beyond Bonaventura"
+      - "Important for studying links between manuscript and monumental painting in the Duecento"
+      - "Represents mobility of Tuscan artists into Emilian civic and ecclesiastical circuits"
+      - "Useful case for attribution problems in collaborative workshop culture"
 
   - title: "RELATED ENTRIES"
     links:
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.md"
+        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
       - title: "Bonaventura Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.md"
+        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html"
+      - title: "Barone Berlinghieri"
+        url: "/Content/Artists/XIII%20century/Barone%20Berlinghieri.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.md"
+        url: "/Content/Artists/XIII%20century/Cimabue.html"
 
-author: "Marco Berlinghieri"
-role: "Pittore lucchese del Duecento, figlio di Berlinghiero, attivo tra Lucca e Bologna"
-birth_place: "Lucca (probabile)"
-death_place: "Ignota"
-period: "XIII century"
-
-key_works:
-  - "Bibbia miniata dello Spedale di San Martino (attribuita)"
-  - "Strage degli Innocenti, Santo Stefano, Bologna (attribuita)"
-  - "Croci dipinte e tavole devozionali di ambito lucchese"
-
-tradition: "Pittura duecentesca lucchese nel solco italo-bizantino e nel dialogo con le innovazioni coeve"
-artistic_style: "Linearismo bizantino, forte monumentalità simbolica e crescente complessità narrativa"
-
-thematic_keywords:
-  - "Bottega Berlinghieri"
-  - "Scuola lucchese del Duecento"
-  - "Miniatura e pittura murale"
-  - "Transizione italo-bizantina"
-
-category: "artists"
+scholars:
+  - title: "Mario Salmi"
+    url: "/scholars.html#salmi-mario"
+  - title: "Giovanni Battista Cavalcaselle"
+    url: "/scholars.html#cavalcaselle-giovanni-battista"
+  - title: "Joseph Archer Crowe"
+    url: "/scholars.html#crowe-joseph-archer"
+  - title: "Miklos Boskovits"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Mariagiulia Burresi"
+    url: "/scholars.html#burresi-mariagiulia"
+  - title: "Andrea De Marchi"
+    url: "/scholars.html#de-marchi-andrea"
+  - title: "Roberto Longhi"
+    url: "/scholars.html#longhi-roberto"
 ---
 
 

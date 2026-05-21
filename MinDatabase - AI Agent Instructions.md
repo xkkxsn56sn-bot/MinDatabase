@@ -98,6 +98,33 @@ Inline note<a id="fnref:1" href="#fn:1" class="footnote"><sup>1</sup></a>
 </ol>
 ```
 
+## Endnote Conventions (Page-End Notes)
+
+Use endnotes for supplemental notes that should appear after the main text and after any footnotes, but remain visually distinct from the footnote list.
+
+- Inline reference pattern: `id="enref:N"` linking to `href="#en:N"`
+- Endnote block pattern: a single `<ol class="endnotes">` at the end of the content
+- Each item: `<li id="en:N"> ... <a href="#enref:N" class="endnote__back" ...>↩</a>`
+- Endnotes may appear on the same page as footnotes, but they should use a separate list and separate class names
+
+### Required Pattern
+
+```html
+Main text with a note<a id="enref:1" href="#en:1" class="endnote"><sup>1</sup></a>
+
+<ol class="footnotes">
+  <li id="fn:1">
+    <p>Footnote text. <a href="#fnref:1" class="footnote__back" aria-label="Back to reference">↩</a></p>
+  </li>
+</ol>
+
+<ol class="endnotes">
+  <li id="en:1">
+    <p>Endnote text. <a href="#enref:1" class="endnote__back" aria-label="Back to endnote reference">↩</a></p>
+  </li>
+</ol>
+```
+
 ## Images and Figures
 
 This repository already contains embedded images in content files.

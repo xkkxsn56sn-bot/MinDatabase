@@ -1,485 +1,582 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} | Medieval Visions</title>
-    <link rel="stylesheet" href="assets/css/directory-base.css">
+    <link rel="stylesheet" href="assets/css/directory-base.css" />
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;700&display=swap');
+      @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;700&display=swap");
 
-        :root {
-            --folio-ink: #2f2216;
-            --folio-ink-soft: #5a4734;
-            --folio-accent: #7a2f2f;
-            --folio-accent-soft: #a67149;
-            --folio-line: rgba(92, 61, 33, 0.26);
-            --folio-card: rgba(255, 251, 242, 0.88);
-            --folio-panel: rgba(250, 241, 227, 0.92);
+      :root {
+        --folio-ink: #2f2216;
+        --folio-ink-soft: #5a4734;
+        --folio-accent: #7a2f2f;
+        --folio-accent-soft: #a67149;
+        --folio-line: rgba(92, 61, 33, 0.26);
+        --folio-card: rgba(255, 251, 242, 0.88);
+        --folio-panel: rgba(250, 241, 227, 0.92);
+      }
+
+      body[data-theme="museum"] {
+        --folio-ink: #1f2a32;
+        --folio-ink-soft: #4c5a64;
+        --folio-accent: #1f5b6d;
+        --folio-accent-soft: #7aa4b2;
+        --folio-line: rgba(42, 67, 79, 0.25);
+        --folio-card: rgba(247, 251, 253, 0.88);
+        --folio-panel: rgba(238, 246, 249, 0.94);
+      }
+
+      body {
+        color: var(--folio-ink);
+        font-family: "Manrope", "Trebuchet MS", sans-serif;
+        background:
+          radial-gradient(
+            circle at 12% 8%,
+            rgba(161, 121, 73, 0.2),
+            transparent 33%
+          ),
+          radial-gradient(
+            circle at 88% 12%,
+            rgba(122, 47, 47, 0.16),
+            transparent 35%
+          ),
+          repeating-linear-gradient(
+            0deg,
+            rgba(85, 60, 35, 0.02) 0 2px,
+            rgba(255, 255, 255, 0) 2px 6px
+          ),
+          linear-gradient(180deg, #efe4d2 0%, #e8d9c4 100%);
+      }
+
+      body[data-theme="museum"] {
+        background:
+          radial-gradient(
+            circle at 14% 8%,
+            rgba(122, 164, 178, 0.18),
+            transparent 34%
+          ),
+          radial-gradient(
+            circle at 88% 10%,
+            rgba(31, 91, 109, 0.14),
+            transparent 35%
+          ),
+          repeating-linear-gradient(
+            0deg,
+            rgba(45, 73, 86, 0.02) 0 2px,
+            rgba(255, 255, 255, 0) 2px 6px
+          ),
+          linear-gradient(180deg, #e6edf0 0%, #dde7eb 100%);
+      }
+
+      main {
+        max-width: 1400px;
+      }
+
+      header h1 {
+        font-family: "Cormorant Garamond", Georgia, serif;
+        letter-spacing: 0.04em;
+        font-size: clamp(2.2rem, 3.8vw, 3.25rem);
+        color: var(--folio-ink);
+      }
+
+      .scholars-layout {
+        display: grid;
+        grid-template-columns: minmax(240px, 280px) 1fr;
+        gap: 1.8rem;
+        align-items: start;
+      }
+
+      .scholars-sidebar {
+        position: sticky;
+        top: 1rem;
+        background:
+          linear-gradient(
+            165deg,
+            rgba(255, 249, 239, 0.95) 0%,
+            rgba(247, 234, 211, 0.95) 100%
+          ),
+          repeating-linear-gradient(
+            45deg,
+            rgba(122, 47, 47, 0.03) 0 1px,
+            transparent 1px 9px
+          );
+        border: 1px solid var(--folio-line);
+        border-radius: 16px;
+        padding: 1.15rem;
+        box-shadow: 0 16px 34px rgba(48, 33, 19, 0.16);
+      }
+
+      .scholars-sidebar h2 {
+        margin: 0 0 0.45rem 0;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 1.25rem;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--folio-accent);
+      }
+
+      .scholars-sidebar p {
+        margin: 0 0 1rem 0;
+        font-size: 0.88rem;
+        color: var(--folio-ink-soft);
+        line-height: 1.5;
+      }
+
+      .theme-toggle {
+        width: 100%;
+        margin: 0.2rem 0 0.95rem 0;
+        padding: 0.55rem 0.7rem;
+        border-radius: 999px;
+        border: 1px solid var(--folio-line);
+        background: var(--folio-panel);
+        color: var(--folio-accent);
+        font: inherit;
+        font-weight: 700;
+        cursor: pointer;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .theme-toggle:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 6px 12px rgba(40, 56, 63, 0.15);
+      }
+
+      .scholar-section {
+        background:
+          linear-gradient(
+            180deg,
+            rgba(255, 253, 249, 0.9) 0%,
+            rgba(255, 245, 230, 0.92) 100%
+          ),
+          repeating-linear-gradient(
+            -45deg,
+            rgba(122, 47, 47, 0.02) 0 1px,
+            transparent 1px 10px
+          );
+        padding: 1.5rem 2rem;
+        border-radius: 16px;
+        border: 1px solid var(--folio-line);
+        box-shadow: 0 12px 28px rgba(54, 38, 21, 0.14);
+        margin-bottom: 1.3rem;
+        position: relative;
+        overflow: hidden;
+        animation: section-rise 420ms ease both;
+      }
+
+      .scholar-section::before {
+        content: "";
+        position: absolute;
+        inset: 0 auto 0 0;
+        width: 6px;
+        background: linear-gradient(
+          180deg,
+          var(--folio-accent-soft) 0%,
+          var(--folio-accent) 100%
+        );
+      }
+
+      .scholar-section h2 {
+        margin: 0 0 1.1rem 0;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 1.35rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--folio-accent);
+      }
+
+      .scholar-entry {
+        margin-bottom: 1.3rem;
+        padding: 1.05rem 1.1rem;
+        border: 1px solid var(--folio-line);
+        border-radius: 12px;
+        background: var(--folio-card);
+        -webkit-backdrop-filter: blur(1px);
+        backdrop-filter: blur(1px);
+        transition:
+          transform 200ms ease,
+          box-shadow 200ms ease;
+      }
+
+      .scholar-entry:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 22px rgba(72, 50, 28, 0.12);
+      }
+
+      .scholar-entry:last-child {
+        margin-bottom: 0;
+      }
+
+      .scholar-entry h3 {
+        color: var(--folio-accent);
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: clamp(1.26rem, 1.6vw, 1.45rem);
+        margin: 0 0 0.25rem 0;
+        line-height: 1.1;
+      }
+
+      .scholar-entry .dates {
+        font-size: 0.9rem;
+        color: #6a5844;
+        font-style: italic;
+        margin-bottom: 0.75rem;
+      }
+
+      .scholar-entry p {
+        margin: 0 0 0.65rem 0;
+        font-size: 0.96rem;
+        color: var(--folio-ink);
+        line-height: 1.68;
+      }
+
+      .scholar-entry p:last-child {
+        margin-bottom: 0;
+      }
+
+      .scholar-entry p:not(.dates):first-of-type::first-letter {
+        float: left;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 2.45rem;
+        line-height: 0.95;
+        margin: 0.07rem 0.38rem 0 0;
+        color: var(--folio-accent);
+        font-weight: 700;
+      }
+
+      .alpha-index {
+        background: rgba(255, 251, 244, 0.45);
+        padding: 0;
+        border-radius: 10px;
+        box-shadow: none;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+
+      .alpha-index a {
+        color: var(--folio-accent);
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 0.92rem;
+        width: 2rem;
+        height: 2rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 999px;
+        border: 1px solid rgba(122, 47, 47, 0.3);
+        background: var(--folio-panel);
+        transition:
+          transform 0.22s ease,
+          background-color 0.22s ease,
+          color 0.22s ease,
+          box-shadow 0.22s ease;
+      }
+
+      .alpha-index a:hover {
+        background: var(--folio-accent);
+        color: #fff7ec;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 14px rgba(122, 47, 47, 0.28);
+      }
+
+      .scholars-content {
+        min-width: 0;
+      }
+
+      .scholars-newsletter {
+        margin: 1.2rem 0 1.6rem;
+        border: 1px solid var(--folio-line);
+        border-radius: 14px;
+        background: var(--folio-card);
+        padding: 1rem 1.1rem;
+      }
+
+      .scholars-newsletter h2 {
+        margin: 0 0 0.5rem;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        color: var(--folio-accent);
+        font-size: 1.35rem;
+        letter-spacing: 0.03em;
+      }
+
+      .scholars-newsletter p {
+        margin: 0 0 0.7rem;
+        color: var(--folio-ink-soft);
+      }
+
+      .scholars-newsletter-form {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 0.55rem;
+        align-items: center;
+      }
+
+      .scholars-newsletter-form label {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0;
+      }
+
+      .scholars-newsletter-form input[type="email"] {
+        width: 100%;
+        min-height: 42px;
+        border: 1px solid var(--folio-line);
+        border-radius: 8px;
+        padding: 0.55rem 0.7rem;
+        font: inherit;
+        background: var(--folio-panel);
+        color: var(--folio-ink);
+      }
+
+      .scholars-newsletter-form button {
+        min-height: 42px;
+        border: 1px solid var(--folio-line);
+        border-radius: 8px;
+        padding: 0.5rem 0.88rem;
+        font: inherit;
+        font-weight: 700;
+        color: #fff9ef;
+        background: var(--folio-accent);
+        cursor: pointer;
+      }
+
+      .scholars-newsletter-note {
+        margin: 0.6rem 0 0;
+        font-size: 0.86rem;
+      }
+
+      .scholars-newsletter-honeypot {
+        display: none;
+      }
+
+      @keyframes section-rise {
+        from {
+          opacity: 0;
+          transform: translateY(8px);
         }
 
-        body[data-theme="museum"] {
-            --folio-ink: #1f2a32;
-            --folio-ink-soft: #4c5a64;
-            --folio-accent: #1f5b6d;
-            --folio-accent-soft: #7aa4b2;
-            --folio-line: rgba(42, 67, 79, 0.25);
-            --folio-card: rgba(247, 251, 253, 0.88);
-            --folio-panel: rgba(238, 246, 249, 0.94);
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .scholar-section {
+          animation: none;
         }
 
-        body {
-            color: var(--folio-ink);
-            font-family: 'Manrope', 'Trebuchet MS', sans-serif;
-            background:
-                radial-gradient(circle at 12% 8%, rgba(161, 121, 73, 0.2), transparent 33%),
-                radial-gradient(circle at 88% 12%, rgba(122, 47, 47, 0.16), transparent 35%),
-                repeating-linear-gradient(0deg, rgba(85, 60, 35, 0.02) 0 2px, rgba(255, 255, 255, 0) 2px 6px),
-                linear-gradient(180deg, #efe4d2 0%, #e8d9c4 100%);
+        .scholar-entry,
+        .alpha-index a,
+        .theme-toggle {
+          transition: none;
         }
+      }
 
-        body[data-theme="museum"] {
-            background:
-                radial-gradient(circle at 14% 8%, rgba(122, 164, 178, 0.18), transparent 34%),
-                radial-gradient(circle at 88% 10%, rgba(31, 91, 109, 0.14), transparent 35%),
-                repeating-linear-gradient(0deg, rgba(45, 73, 86, 0.02) 0 2px, rgba(255, 255, 255, 0) 2px 6px),
-                linear-gradient(180deg, #e6edf0 0%, #dde7eb 100%);
-        }
-
-        main {
-            max-width: 1400px;
-        }
-
-        header h1 {
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            letter-spacing: 0.04em;
-            font-size: clamp(2.2rem, 3.8vw, 3.25rem);
-            color: var(--folio-ink);
-        }
-
+      @media (max-width: 960px) {
         .scholars-layout {
-            display: grid;
-            grid-template-columns: minmax(240px, 280px) 1fr;
-            gap: 1.8rem;
-            align-items: start;
+          grid-template-columns: 1fr;
+          gap: 1rem;
         }
 
         .scholars-sidebar {
-            position: sticky;
-            top: 1rem;
-            background:
-                linear-gradient(165deg, rgba(255, 249, 239, 0.95) 0%, rgba(247, 234, 211, 0.95) 100%),
-                repeating-linear-gradient(45deg, rgba(122, 47, 47, 0.03) 0 1px, transparent 1px 9px);
-            border: 1px solid var(--folio-line);
-            border-radius: 16px;
-            padding: 1.15rem;
-            box-shadow: 0 16px 34px rgba(48, 33, 19, 0.16);
+          position: static;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .scholars-sidebar {
+          padding: 0.9rem;
         }
 
         .scholars-sidebar h2 {
-            margin: 0 0 0.45rem 0;
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            font-size: 1.25rem;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color: var(--folio-accent);
+          font-size: 1.1rem;
         }
 
         .scholars-sidebar p {
-            margin: 0 0 1rem 0;
-            font-size: 0.88rem;
-            color: var(--folio-ink-soft);
-            line-height: 1.5;
+          font-size: 0.82rem;
+          margin-bottom: 0.75rem;
         }
 
         .theme-toggle {
-            width: 100%;
-            margin: 0.2rem 0 0.95rem 0;
-            padding: 0.55rem 0.7rem;
-            border-radius: 999px;
-            border: 1px solid var(--folio-line);
-            background: var(--folio-panel);
-            color: var(--folio-accent);
-            font: inherit;
-            font-weight: 700;
-            cursor: pointer;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
-        }
-
-        .theme-toggle:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 6px 12px rgba(40, 56, 63, 0.15);
+          font-size: 0.82rem;
+          padding: 0.5rem 0.6rem;
+          margin-bottom: 0.75rem;
         }
 
         .scholar-section {
-            background:
-                linear-gradient(180deg, rgba(255, 253, 249, 0.9) 0%, rgba(255, 245, 230, 0.92) 100%),
-                repeating-linear-gradient(-45deg, rgba(122, 47, 47, 0.02) 0 1px, transparent 1px 10px);
-            padding: 1.5rem 2rem;
-            border-radius: 16px;
-            border: 1px solid var(--folio-line);
-            box-shadow: 0 12px 28px rgba(54, 38, 21, 0.14);
-            margin-bottom: 1.3rem;
-            position: relative;
-            overflow: hidden;
-            animation: section-rise 420ms ease both;
-        }
-
-        .scholar-section::before {
-            content: "";
-            position: absolute;
-            inset: 0 auto 0 0;
-            width: 6px;
-            background: linear-gradient(180deg, var(--folio-accent-soft) 0%, var(--folio-accent) 100%);
+          padding: 1rem 1rem 1rem 1.2rem;
         }
 
         .scholar-section h2 {
-            margin: 0 0 1.1rem 0;
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            font-size: 1.35rem;
-            letter-spacing: 0.08em;
-            text-transform: uppercase;
-            color: var(--folio-accent);
+          font-size: 1.16rem;
+          letter-spacing: 0.06em;
+          margin-bottom: 0.8rem;
         }
 
         .scholar-entry {
-            margin-bottom: 1.3rem;
-            padding: 1.05rem 1.1rem;
-            border: 1px solid var(--folio-line);
-            border-radius: 12px;
-            background: var(--folio-card);
-            -webkit-backdrop-filter: blur(1px);
-            backdrop-filter: blur(1px);
-            transition: transform 200ms ease, box-shadow 200ms ease;
-        }
-
-        .scholar-entry:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 22px rgba(72, 50, 28, 0.12);
-        }
-
-        .scholar-entry:last-child {
-            margin-bottom: 0;
+          padding: 0.9rem;
         }
 
         .scholar-entry h3 {
-            color: var(--folio-accent);
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            font-size: clamp(1.26rem, 1.6vw, 1.45rem);
-            margin: 0 0 0.25rem 0;
-            line-height: 1.1;
+          font-size: 1.1rem;
         }
 
         .scholar-entry .dates {
-            font-size: 0.9rem;
-            color: #6a5844;
-            font-style: italic;
-            margin-bottom: 0.75rem;
+          font-size: 0.82rem;
+          margin-bottom: 0.56rem;
         }
 
         .scholar-entry p {
-            margin: 0 0 0.65rem 0;
-            font-size: 0.96rem;
-            color: var(--folio-ink);
-            line-height: 1.68;
-        }
-
-        .scholar-entry p:last-child {
-            margin-bottom: 0;
+          font-size: 0.9rem;
+          line-height: 1.6;
+          margin-bottom: 0.55rem;
         }
 
         .scholar-entry p:not(.dates):first-of-type::first-letter {
-            float: left;
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            font-size: 2.45rem;
-            line-height: 0.95;
-            margin: 0.07rem 0.38rem 0 0;
-            color: var(--folio-accent);
-            font-weight: 700;
-        }
-
-        .alpha-index {
-            background: rgba(255, 251, 244, 0.45);
-            padding: 0;
-            border-radius: 10px;
-            box-shadow: none;
-            margin: 0;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
-
-        .alpha-index a {
-            color: var(--folio-accent);
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 0.92rem;
-            width: 2rem;
-            height: 2rem;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 999px;
-            border: 1px solid rgba(122, 47, 47, 0.3);
-            background: var(--folio-panel);
-            transition: transform 0.22s ease, background-color 0.22s ease, color 0.22s ease,
-                box-shadow 0.22s ease;
-        }
-
-        .alpha-index a:hover {
-            background: var(--folio-accent);
-            color: #fff7ec;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 14px rgba(122, 47, 47, 0.28);
-        }
-
-        .scholars-content {
-            min-width: 0;
-        }
-
-        .scholars-newsletter {
-            margin: 1.2rem 0 1.6rem;
-            border: 1px solid var(--folio-line);
-            border-radius: 14px;
-            background: var(--folio-card);
-            padding: 1rem 1.1rem;
-        }
-
-        .scholars-newsletter h2 {
-            margin: 0 0 0.5rem;
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            color: var(--folio-accent);
-            font-size: 1.35rem;
-            letter-spacing: 0.03em;
-        }
-
-        .scholars-newsletter p {
-            margin: 0 0 0.7rem;
-            color: var(--folio-ink-soft);
+          font-size: 2.05rem;
+          margin-right: 0.3rem;
         }
 
         .scholars-newsletter-form {
-            display: grid;
-            grid-template-columns: minmax(0, 1fr) auto;
-            gap: 0.55rem;
-            align-items: center;
-        }
-
-        .scholars-newsletter-form label {
-            position: absolute;
-            width: 1px;
-            height: 1px;
-            padding: 0;
-            margin: -1px;
-            overflow: hidden;
-            clip: rect(0, 0, 0, 0);
-            border: 0;
-        }
-
-        .scholars-newsletter-form input[type="email"] {
-            width: 100%;
-            min-height: 42px;
-            border: 1px solid var(--folio-line);
-            border-radius: 8px;
-            padding: 0.55rem 0.7rem;
-            font: inherit;
-            background: var(--folio-panel);
-            color: var(--folio-ink);
+          grid-template-columns: 1fr;
         }
 
         .scholars-newsletter-form button {
-            min-height: 42px;
-            border: 1px solid var(--folio-line);
-            border-radius: 8px;
-            padding: 0.5rem 0.88rem;
-            font: inherit;
-            font-weight: 700;
-            color: #fff9ef;
-            background: var(--folio-accent);
-            cursor: pointer;
+          width: 100%;
         }
-
-        .scholars-newsletter-note {
-            margin: 0.6rem 0 0;
-            font-size: 0.86rem;
-        }
-
-        .scholars-newsletter-honeypot {
-            display: none;
-        }
-
-        @keyframes section-rise {
-            from {
-                opacity: 0;
-                transform: translateY(8px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-            .scholar-section {
-                animation: none;
-            }
-
-            .scholar-entry,
-            .alpha-index a,
-            .theme-toggle {
-                transition: none;
-            }
-        }
-
-        @media (max-width: 960px) {
-            .scholars-layout {
-                grid-template-columns: 1fr;
-                gap: 1rem;
-            }
-
-            .scholars-sidebar {
-                position: static;
-            }
-        }
-
-        @media (max-width: 600px) {
-            .scholars-sidebar {
-                padding: 0.9rem;
-            }
-
-            .scholars-sidebar h2 {
-                font-size: 1.1rem;
-            }
-
-            .scholars-sidebar p {
-                font-size: 0.82rem;
-                margin-bottom: 0.75rem;
-            }
-
-            .theme-toggle {
-                font-size: 0.82rem;
-                padding: 0.5rem 0.6rem;
-                margin-bottom: 0.75rem;
-            }
-
-            .scholar-section {
-                padding: 1rem 1rem 1rem 1.2rem;
-            }
-
-            .scholar-section h2 {
-                font-size: 1.16rem;
-                letter-spacing: 0.06em;
-                margin-bottom: 0.8rem;
-            }
-
-            .scholar-entry {
-                padding: 0.9rem;
-            }
-
-            .scholar-entry h3 {
-                font-size: 1.1rem;
-            }
-
-            .scholar-entry .dates {
-                font-size: 0.82rem;
-                margin-bottom: 0.56rem;
-            }
-
-            .scholar-entry p {
-                font-size: 0.9rem;
-                line-height: 1.6;
-                margin-bottom: 0.55rem;
-            }
-
-            .scholar-entry p:not(.dates):first-of-type::first-letter {
-                font-size: 2.05rem;
-                margin-right: 0.3rem;
-            }
-
-            .scholars-newsletter-form {
-                grid-template-columns: 1fr;
-            }
-
-            .scholars-newsletter-form button {
-                width: 100%;
-            }
-        }
+      }
     </style>
-</head>
+  </head>
 
-<body>
+  <body>
     <header>
-        <h1>{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
     </header>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="artists.html">Artists</a>
-        <a href="churches.html">Churches</a>
-        <a href="codices.html">Codices</a>
-        <a href="painters.html">Painters</a>
-        <a href="papers.html">Papers</a>
-        <a href="scholars.html">Scholars</a>
+      <a href="index.html">Home</a>
+      <a href="artists.html">Artists</a>
+      <a href="churches.html">Churches</a>
+      <a href="codices.html">Codices</a>
+      <a href="painters.html">Painters</a>
+      <a href="papers.html">Papers</a>
+      <a href="scholars.html">Scholars</a>
     </nav>
     <main>
+      {{ content }}
 
-        {{ content }}
+      <section
+        class="scholars-newsletter"
+        aria-labelledby="painters-newsletter-heading"
+      >
+        <h2 id="painters-newsletter-heading">Future Newsletter</h2>
+        <p>
+          Register your e-mail to receive updates on painters, bibliography, and
+          future additions.
+        </p>
+        <form
+          class="scholars-newsletter-form"
+          action="https://formsubmit.co/contact@medievalvisions.com"
+          method="POST"
+          accept-charset="UTF-8"
+        >
+          <input
+            type="hidden"
+            name="_subject"
+            value="Medieval Visions newsletter registration"
+          />
+          <input
+            type="hidden"
+            name="_webhook"
+            value="https://subscriber-webhook.medievalvisions.workers.dev"
+          />
+          <input
+            type="hidden"
+            name="_autoresponse"
+            value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list."
+          />
+          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input
+            type="hidden"
+            name="_next"
+            value="https://medievalvisions.com/newsletter-thank-you.html"
+          />
+          <input
+            class="scholars-newsletter-honeypot"
+            type="text"
+            name="_honey"
+            tabindex="-1"
+            autocomplete="off"
+          />
 
-        <section class="scholars-newsletter" aria-labelledby="painters-newsletter-heading">
-            <h2 id="painters-newsletter-heading">Future Newsletter</h2>
-            <p>Register your e-mail to receive updates on painters, bibliography, and future additions.</p>
-            <form class="scholars-newsletter-form" action="https://formsubmit.co/contact@medievalvisions.com"
-                method="POST" accept-charset="UTF-8">
-                <input type="hidden" name="_subject" value="Medieval Visions newsletter registration">
-                <input type="hidden" name="_webhook" value="https://subscriber-webhook.medievalvisions.workers.dev">
-                <input type="hidden" name="_autoresponse"
-                    value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list.">
-                <input type="hidden" name="_template" value="table">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_next" value="https://medievalvisions.com/newsletter-thank-you.html">
-                <input class="scholars-newsletter-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off">
+          <label for="painters-newsletter-email">E-mail address</label>
+          <input
+            id="painters-newsletter-email"
+            name="email"
+            type="email"
+            placeholder="your@email.com"
+            required
+          />
+          <button type="submit">Join the List</button>
+        </form>
+        <p class="scholars-newsletter-note">
+          Your e-mail is sent directly to
+          <a href="mailto:contact@medievalvisions.com"
+            >contact@medievalvisions.com</a
+          >.
+        </p>
+      </section>
 
-                <label for="painters-newsletter-email">E-mail address</label>
-                <input id="painters-newsletter-email" name="email" type="email" placeholder="your@email.com" required>
-                <button type="submit">Join the List</button>
-            </form>
-            <p class="scholars-newsletter-note">Your e-mail is sent directly to <a
-                    href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.</p>
-        </section>
-
-        <a href="index.html" class="back-btn">Back to Home</a>
+      <a href="index.html" class="back-btn">Back to Home</a>
     </main>
     <script>
-        (function () {
-            const btn = document.getElementById('themeToggle');
-            if (!btn) return;
+      (function () {
+        const btn = document.getElementById("themeToggle");
+        if (!btn) return;
 
-            const saved = localStorage.getItem('paintersTheme');
-            if (saved === 'museum') {
-                document.body.setAttribute('data-theme', 'museum');
-                btn.textContent = 'Switch To Manuscript';
-                btn.setAttribute('aria-pressed', 'true');
-            }
+        const saved = localStorage.getItem("paintersTheme");
+        if (saved === "museum") {
+          document.body.setAttribute("data-theme", "museum");
+          btn.textContent = "Switch To Manuscript";
+          btn.setAttribute("aria-pressed", "true");
+        }
 
-            btn.addEventListener('click', function () {
-                const museumActive = document.body.getAttribute('data-theme') === 'museum';
-                if (museumActive) {
-                    document.body.removeAttribute('data-theme');
-                    localStorage.setItem('paintersTheme', 'folio');
-                    btn.textContent = 'Switch To Museum-Minimal';
-                    btn.setAttribute('aria-pressed', 'false');
-                } else {
-                    document.body.setAttribute('data-theme', 'museum');
-                    localStorage.setItem('paintersTheme', 'museum');
-                    btn.textContent = 'Switch To Manuscript';
-                    btn.setAttribute('aria-pressed', 'true');
-                }
-            });
-        })();
+        btn.addEventListener("click", function () {
+          const museumActive =
+            document.body.getAttribute("data-theme") === "museum";
+          if (museumActive) {
+            document.body.removeAttribute("data-theme");
+            localStorage.setItem("paintersTheme", "folio");
+            btn.textContent = "Switch To Museum-Minimal";
+            btn.setAttribute("aria-pressed", "false");
+          } else {
+            document.body.setAttribute("data-theme", "museum");
+            localStorage.setItem("paintersTheme", "museum");
+            btn.textContent = "Switch To Manuscript";
+            btn.setAttribute("aria-pressed", "true");
+          }
+        });
+      })();
     </script>
-    <script src="{{ '/assets/js/visitor-counter.js' | relative_url }}" defer></script>
-</body>
-
+    <script
+      src="{{ '/assets/js/amended-on.js' | relative_url }}"
+      defer
+    ></script>
+    <script
+      src="{{ '/assets/js/visitor-counter.js' | relative_url }}"
+      defer
+    ></script>
+  </body>
 </html>

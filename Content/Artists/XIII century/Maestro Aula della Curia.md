@@ -2,52 +2,83 @@
 layout: entry
 title: "Maestro dell'Aula della Curia"
 subtitle: "Anonymous Lombard fresco painter active in Bergamo; master of the Aula Picta of the Episcopal Palace"
-dates: "Active second half of the XIII century"
+dates: "active second half of the XIII century"
 
 meta:
-  - title: "PERIOD"
-    list:
-      - "XIII century (second half, Duecento)"
-
-  - title: "ROLE"
-    list:
-      - "Fresco painter, Lombard school"
-      - "Anonymous master (nome di convenzione)"
-      - "Master of the Aula Picta, Episcopal Palace, Bergamo Alta"
-
-  - title: "LOCATION"
-    list:
-      - "Bergamo Alta, Lombardy — primary site"
-      - "Probable formation within the Lombard Duecento artistic milieu"
-
-  - title: "BIRTH & DEATH"
+  - title: "CORE DATA"
     pairs:
-      - label: "Birth"
-        value: "Unknown; no documentation survives"
-      - label: "Death"
-        value: "Unknown; no documentation survives"
+      - label: "Name"
+        value: "Maestro dell'Aula della Curia (modern conventional attribution)"
+      - label: "Primary role"
+        value: "Anonymous mural painter specializing in large ecclesiastical-political fresco cycles"
+      - label: "Period"
+        value: "XIII century, likely second half (Duecento Lombard context)"
+      - label: "Primary center"
+        value: "Bergamo Alta, Episcopal Palace complex near Santa Maria Maggiore"
+      - label: "Documentary status"
+        value: "Anonymous hand identified through the Aula Picta cycle; no secure personal archival identity"
 
-  - title: "DOCUMENTED ACTIVITY"
+  - title: "IDENTITY AND ATTRIBUTION"
+    list:
+      - "Attribution name derives from the Aula della Curia Vescovile (Aula Picta) rather than personal documents"
+      - "No confirmed legal name, family lineage, or workshop contract has survived"
+      - "Profile reconstructed through stylistic and iconographic analysis of in situ frescoes"
+      - "Considered a key anonymous master within Lombard Duecento mural painting"
+
+  - title: "CHRONOLOGY"
     pairs:
-      - label: "Designation"
-        value: "Nome di convenzione derived from the Aula della Curia Vescovile (also called Aula Picta), Episcopal Palace, Bergamo Alta"
-      - label: "Active"
-        value: "Second half of the XIII century; the hall is first documented in 1225 as the camera nova alta episcopatus"
-      - label: "Technique"
-        value: "Buon fresco (pigment applied to wet intonaco)"
-      - label: "Scale"
-        value: "Fully frescoed hall; decoration in horizontal registers divided by ornamental zones; original height c. 9.40 m before later subdivision into two levels"
+      - label: "Hall documentary anchor"
+        value: "Aula cited in 1225 as camera nova alta episcopatus"
+      - label: "Probable execution window"
+        value: "Second half XIII century (scholarly consensus range)"
+      - label: "Modern restoration milestone"
+        value: "Comprehensive restoration completed in 2025"
+      - label: "Biographical endpoints"
+        value: "Birth and death unknown; no direct personal records"
 
-  - title: "PATRONAGE"
+  - title: "PATRONAGE AND COMMISSION CONTEXT"
     pairs:
       - label: "Primary patron"
-        value: "Bishop of Bergamo; the Aula Picta served as the episcopal audience hall for judicial, administrative, and ceremonial functions"
-      - label: "Proposed patron"
-        value: "Bishop Giovanni Tornielli, Diocese of Bergamo, 1211–1240 (hypothesis, not established fact)"
+        value: "Episcopal authority of Bergamo for a judicial-administrative and ceremonial audience hall"
+      - label: "Institutional use"
+        value: "Visual program aligned with governance, adjudication, and episcopal public legitimacy"
+      - label: "Proposed historical figure"
+        value: "Association with Bishop Giovanni Tornielli remains a scholarly hypothesis"
       - label: "Institutional context"
         value: "Episcopal palace adjacent to the Basilica of Santa Maria Maggiore, Bergamo Alta"
       - label: "Current custody"
         value: "Museo Diocesano Adriano Bernareggi, Bergamo; restoration completed 2025"
+
+  - title: "ARTISTIC PRACTICE"
+    list:
+      - "Buon fresco on wet intonaco across a monumental hall-scale program"
+      - "Register-based composition with ornamental separators and hierarchical narrative flow"
+      - "Integration of Christological narrative, eschatology, local sanctity, and civic-moral allegory"
+      - "High-density figurative and symbolic language suited to public episcopal space"
+      - "Complex wall program adapted to architectural constraints and later structural modifications"
+
+  - title: "STYLE"
+    list:
+      - "Monumental didactic narrative style combining theological clarity and political symbolism"
+      - "Vivid chromatic effects with strong rhetorical contrasts in Passion and Judgment sequences"
+      - "Architectural staging used to organize sacred episodes and scriptural text elements"
+      - "Broad ornamental repertoire including zoomorphic and bestiary-derived imagery"
+      - "Lombard Duecento visual language open to trans-regional iconographic currents"
+
+  - title: "KEY WORKS"
+    list:
+      - "Aula Picta fresco cycle, Episcopal Palace, Bergamo Alta (in situ), second half XIII century"
+      - "Annunciation scene with inscriptional dialogue integrated into architectural framing"
+      - "Passion register including Last Supper, Arrest, Trial, Crucifixion, Resurrection, and Descent into Limbo"
+      - "Judgment imagery with Christ in mandorla, Saint Michael psychostasis, and moral allegories"
+      - "Local saints ensemble including Alexander, Narno, and Viatore in episcopal representational context"
+
+  - title: "HISTORICAL SIGNIFICANCE"
+    list:
+      - "One of the most important surviving witnesses of XIII-century Lombard mural painting"
+      - "Rare case where ecclesiastical governance, judicial ideology, and visual theology converge in one cycle"
+      - "Critical source for studying anonymous workshop culture in northern Italian Duecento"
+      - "Essential reference point for Bergamo's medieval artistic topography"
 
   - title: "ICONOGRAPHIC PROGRAMME"
     list:
@@ -58,24 +89,6 @@ meta:
       - "Local saints: Alexander on horseback, Narno and Viatore in pontifical vestments"
       - "Encyclopedic decorative frieze: domestic animals, wild beasts, monsters, anthropomorphic figures, and vegetal motifs drawn from the medieval bestiary tradition"
       - "Praying bishop, possibly a votive portrait of Giovanni Tornielli"
-
-  - title: "KEY WORK"
-    pairs:
-      - label: "Aula Picta"
-        value: "Fresco cycle, second half XIII century, Aula della Curia del Palazzo Episcopale, Bergamo Alta (in situ)"
-
-  - title: "ARTISTIC CONTEXT"
-    list:
-      - "Most important surviving witness to Lombard Duecento mural painting"
-      - "Points of iconographic contact with the Maestro dell'Albero della Vita at Santa Maria Maggiore, Bergamo: both cycles include the Last Supper in adjacent sacred spaces"
-      - "Broad acquaintance with trans-regional Christological narrative cycles, apocalyptic imagery, moral-philosophical allegory, and medieval bestiary iconography"
-      - "No documented travel itinerary survives; artistic influence reconstructed exclusively from the frescoes"
-
-  - title: "SCHOLARSHIP"
-    list:
-      - "Hall first recorded as camera nova alta episcopatus, 1225"
-      - "Diocesan presentation: dates the hall to the first half of the XIII century; attributes the fresco cycle more broadly to the second half of the Duecento"
-      - "2025 restoration dossier, Museo Diocesano Adriano Bernareggi, Bergamo"
 
   - title: "RELATED ENTRIES"
     links:
@@ -89,6 +102,26 @@ meta:
         url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
       - title: "Maestro Consolo"
         url: "/Content/Artists/XIII%20century/Maestro%20Consolo.html"
+
+scholars:
+  - title: "Luciano Bellosi"
+    url: "/scholars.html#bellosi-luciano"
+  - title: "Roberto Longhi"
+    url: "/scholars.html#longhi-roberto"
+  - title: "Pietro Toesca"
+    url: "/scholars.html#toesca-pietro"
+  - title: "Edward B. Garrison"
+    url: "/scholars.html#garrison-edward"
+  - title: "Millard Meiss"
+    url: "/scholars.html#meiss-millard"
+  - title: "Richard Offner"
+    url: "/scholars.html#offner-richard"
+  - title: "Mario Salmi"
+    url: "/scholars.html#salmi-mario"
+  - title: "Miklos Boskovits"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Cesare Brandi"
+    url: "/scholars.html#brandi-cesare"
 ---
 
 The *Maestro dell'Aula della Curia* was an anonymous Italian mural painter active in Bergamo in the 13th century, and the name used for him is a modern scholarly convenience derived from the frescoed episcopal audience hall known as the Aula Picta. No source presently identified preserves his personal name, family lineage, birth date, birth place, death date, or cause of death, so any biography must be reconstructed from the fresco cycle itself, from the building’s function, and from later art-historical attribution.
@@ -149,14 +182,14 @@ That said, the frescoes themselves testify to a painter who was visually informe
 
 ## Works
 
-### Aula Picta (detail)
+### Aula Picta (detail 1)
 
 <figure>
   <img src="/Images/Maestro Aula della Curia/image 1.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
   <figcaption>Aula Picta (detail), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
-### Aula Picta (detail)
+### Aula Picta (detail 2)
 
 <figure>
   <img src="/Images/Maestro Aula della Curia/image 2.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
@@ -198,7 +231,7 @@ That said, the frescoes themselves testify to a painter who was visually informe
   <figcaption>Aula Picta (Jesus in the Garden of Gethsemane, Jesus' Arrest by the Soldiers, Jesus Before Pilate), 2nd half XIII century, fresco, Aula della Curia del Palazzo episcopale, Bergamo Alta.</figcaption>
 </figure>
 
-### Aula Picta (detail)
+### Aula Picta (detail 3)
 
 <figure>
   <img src="/Images/Maestro Aula della Curia/image 8.jpg" alt="Aula Picta - Aula della Curia del Palazzo episcopale, Bergamo Alta">
@@ -215,7 +248,7 @@ Another important element is the bricked-up mullioned window located on the nort
 
 The surviving decoration is organized in overlapping bands, following a highly sophisticated medieval logic. From the bottom, one can recognize a velarium, two registers of crustae with figurative and vegetal medallions, a Christological cycle, a branch of palmettes, and finally a zoomorphic frieze. This sequence creates an effect of progressive elevation: from the ornamental base, one ascends to the sacred narrative, reaching a higher zone that is more dynamic and symbolic, also populated by animals and motifs derived from the imagery of medieval bestiaries.
 
-The Christological cycle ranges from the Annunciation to the Last Judgment, located on the west wall in a counter-façade position, that is, in the place traditionally reserved for eschatological themes. We also know that among the recognizable scenes are the Infancy of Christ on the north wall, the Last Supper, and the Washing of the Feet on the east wall. 
+The Christological cycle ranges from the Annunciation to the Last Judgment, located on the west wall in a counter-façade position, that is, in the place traditionally reserved for eschatological themes. We also know that among the recognizable scenes are the Infancy of Christ on the north wall, the Last Supper, and the Washing of the Feet on the east wall.
 
 The combined presence of the life of Jesus, visions of the end times, the Wheel of Fortune, and animal imagery shows that the program was not purely devotional, but also moral and political: it served as a reminder of man’s destiny, the fragility of power, and the divine judgment that transcends all earthly authority.
 
