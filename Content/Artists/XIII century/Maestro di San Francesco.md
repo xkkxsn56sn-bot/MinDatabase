@@ -407,6 +407,7 @@ The work represents the culmination of the career of the Master of Saint Francis
 <figure>
   <img src="/Images/Maestro di San Francesco/image 7.jpg" alt="Bifrontal Processional Cross - verso">
   <figcaption>Bifrontal Processional Cross - The Crucified Christ; panels: the Sorrowful Virgin Mary and Saint John the Evangelist (verso), c. 1272, tempera on panel, 129 x 77 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
+</figure>
 
 This is the double-sided processional cross by the Master of St. Francis, dated 1272 and housed in the National Gallery of Umbria in Perugia—one of the most important works of 13th-century Umbrian painting. A complete analytical description follows.
 The cross belongs to a type of purely Umbrian origin, widespread since the 13th century: the double-sided processional cross, designed to be carried in procession mounted on a pole, or placed on the altar on a pedestal. The expanded “tau” structure—characteristic of the Franciscan tradition—features a cimasa (the upper panel, above Christ’s head), two side panels on either side of the horizontal arm, and a soppedaneo (the lower panel, beneath Christ’s feet). Its dimensions—129 × 77 cm—make it a medium-sized artifact, intended for devotional processions rather than as a monument.
