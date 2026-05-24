@@ -93,7 +93,7 @@ Because no document mentions the Maestro della Cattura by name, the date and cau
 
 The core of the Maestro della Cattura’s oeuvre lies in the Christological cycle of the second bay (seconda campata) of the nave of the upper church of San Francesco at Assisi, where he painted a sequence of scenes from the Nativity to the Ascent to Calvary. These include, among others, the Nativity, the Adoration of the Magi, the Presentation in the Temple, and the Arrest of Christ, as well as the Ascent to Calvary, the last of which appears to have been executed in part with the collaboration of a more elegant and advanced colleague, probably to be identified with Memmo di Filippuccio. In these frescoes, Christ’s life is narrated in a continuous visual band that anticipates the later Francis cycles below, aligning the earthly story of the Redeemer with the spiritual itinerary of the Poverello, and situating both within the grand historical theology promoted by the Franciscan Order and the papacy.
 
-## The Arrest of Christ
+### The Arrest of Christ
 
 <figure>
  <img src="/Images/Maestro Cattura/image 1.jpg" alt="The Arrest of Christ">
