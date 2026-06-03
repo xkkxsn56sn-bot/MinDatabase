@@ -39,8 +39,12 @@ body.papers-entry-page {
 
 body.papers-entry-page .entry {
   padding: 0;
-  max-width: none;
+  max-width: 1920px;
   margin: 0;
+}
+
+body.papers-entry-page main {
+  max-width: 1920px;
 }
 
 body.papers-entry-page header p {
@@ -60,7 +64,7 @@ html[data-theme="dark"] body {
   background-color: transparent;
   color: inherit;
   padding: 2rem;
-  max-width: 1400px;
+  max-width: 1920px;
   margin: 0 auto;
 }
 
