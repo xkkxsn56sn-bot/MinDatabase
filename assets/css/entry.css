@@ -142,7 +142,8 @@ html[data-theme="dark"] body {
 }
 
 /* Sidebar styling */
-.entry__sidebar {
+.entry__sidebar,
+.entry__toc-sidebar {
   background: var(--bg-panel); /* was #c1d4e7 */
   border: 1px solid var(--border-subtle); /* was #dee2e6 */
   border-radius: 8px;
@@ -158,16 +159,10 @@ html[data-theme="dark"] body {
   }
 }
 
-html[data-theme="dark"] .entry__sidebar {
+html[data-theme="dark"] .entry__sidebar,
+html[data-theme="dark"] .entry__toc-sidebar {
   background: var(--bg-panel-dark);
   border-color: var(--border-subtle-dark);
-}
-
-.entry__toc-sidebar {
-  background: var(--bg-panel);
-  border: 1px solid var(--border-subtle);
-  border-radius: 8px;
-  overflow-y: auto;
 }
 
 .entry__toc-sidebar--hidden {
@@ -177,11 +172,6 @@ html[data-theme="dark"] .entry__sidebar {
 /* When right sidebar is hidden, collapse the 3rd grid column */
 .entry__grid:has(.entry__toc-sidebar--hidden) {
   grid-template-columns: clamp(220px, 24vw, 320px) minmax(0, 1fr);
-}
-
-html[data-theme="dark"] .entry__toc-sidebar {
-  background: var(--bg-panel-dark);
-  border-color: var(--border-subtle-dark);
 }
 
 .sidebar__content {
