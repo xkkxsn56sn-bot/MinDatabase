@@ -48,7 +48,8 @@ body.papers-entry-page main {
 }
 
 body.papers-entry-page .entry__grid {
-  grid-template-columns: clamp(220px, 24vw, 320px) minmax(0, 1fr);
+  grid-template-columns: clamp(180px, 16vw, 260px) minmax(0, 1fr);
+  gap: 1.5rem;
 }
 
 body.papers-entry-page header p {
@@ -95,7 +96,8 @@ html[data-theme="dark"] body {
   }
 
   body.papers-entry-page .entry__grid {
-    grid-template-columns: clamp(220px, 30vw, 300px) minmax(0, 1fr);
+    grid-template-columns: clamp(180px, 28vw, 260px) minmax(0, 1fr);
+    gap: 1.25rem;
   }
 
   .entry__toc-sidebar {
