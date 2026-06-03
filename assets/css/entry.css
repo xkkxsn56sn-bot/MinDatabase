@@ -47,6 +47,10 @@ body.papers-entry-page main {
   max-width: 1920px;
 }
 
+body.papers-entry-page .entry__grid {
+  grid-template-columns: clamp(220px, 24vw, 320px) minmax(0, 1fr);
+}
+
 body.papers-entry-page header p {
   margin: 0.5rem 0 0;
   color: var(--dark-parchment);
@@ -87,6 +91,10 @@ html[data-theme="dark"] body {
 
 @media (max-width: 1200px) {
   .entry__grid {
+    grid-template-columns: clamp(220px, 30vw, 300px) minmax(0, 1fr);
+  }
+
+  body.papers-entry-page .entry__grid {
     grid-template-columns: clamp(220px, 30vw, 300px) minmax(0, 1fr);
   }
 

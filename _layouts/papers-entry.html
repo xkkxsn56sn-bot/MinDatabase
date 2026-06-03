@@ -97,15 +97,6 @@
           </aside>
 
           <div class="entry__content">{{ content }}</div>
-
-          <aside class="entry__toc-sidebar">
-            <div class="sidebar__content">
-              <nav class="toc-nav" id="toc-nav" aria-label="Page sections">
-                <h2 class="sidebar__heading">Sections</h2>
-                <ul class="toc-nav__list" id="toc-list"></ul>
-              </nav>
-            </div>
-          </aside>
         </div>
 
         <a href="{{ '/papers.html' | relative_url }}" class="back-btn"
@@ -120,43 +111,6 @@
         A collaborative scholarly project documenting medieval art and artists
       </p>
     </footer>
-
-    <!-- TOC: auto-populate from h2 headings in content -->
-    <script>
-      (function () {
-        var content = document.querySelector(".entry__content");
-        var tocList = document.getElementById("toc-list");
-        var tocNav = document.getElementById("toc-nav");
-        var tocSidebar = document.querySelector(".entry__toc-sidebar");
-        if (!content || !tocList || !tocNav) return;
-
-        var headings = content.querySelectorAll("h2, h3");
-        if (headings.length === 0) {
-          if (tocSidebar)
-            tocSidebar.classList.add("entry__toc-sidebar--hidden");
-          return;
-        }
-
-        headings.forEach(function (h) {
-          if (!h.id) {
-            h.id = h.textContent
-              .trim()
-              .toLowerCase()
-              .replace(/[^\w\s-]/g, "")
-              .replace(/\s+/g, "-");
-          }
-          var li = document.createElement("li");
-          if (h.tagName === "H3") {
-            li.classList.add("toc-nav__item--sub");
-          }
-          var a = document.createElement("a");
-          a.href = "#" + h.id;
-          a.textContent = h.textContent;
-          li.appendChild(a);
-          tocList.appendChild(li);
-        });
-      })();
-    </script>
 
     <script
       src="{{ '/assets/js/amended-on.js' | relative_url }}"
