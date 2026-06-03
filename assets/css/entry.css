@@ -45,10 +45,11 @@ body.papers-entry-page .entry {
 
 body.papers-entry-page main {
   max-width: 1920px;
+  padding: 0 1rem;
 }
 
 body.papers-entry-page .entry__grid {
-  grid-template-columns: clamp(180px, 16vw, 260px) minmax(0, 1fr);
+  grid-template-columns: clamp(140px, 12vw, 220px) minmax(0, 1fr);
   gap: 1.5rem;
 }
 
@@ -96,7 +97,7 @@ html[data-theme="dark"] body {
   }
 
   body.papers-entry-page .entry__grid {
-    grid-template-columns: clamp(180px, 28vw, 260px) minmax(0, 1fr);
+    grid-template-columns: clamp(160px, 24vw, 220px) minmax(0, 1fr);
     gap: 1.25rem;
   }
 
