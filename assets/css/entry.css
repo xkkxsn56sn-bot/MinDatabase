@@ -72,8 +72,9 @@ html[data-theme="dark"] body {
 
 .entry__grid {
   display: grid;
-  grid-template-columns: minmax(240px, 320px) minmax(0, 1fr) minmax(
-      240px,
+  grid-template-columns: clamp(220px, 24vw, 320px) minmax(0, 1fr) clamp(
+      220px,
+      24vw,
       320px
     );
   gap: 2rem;
@@ -82,7 +83,7 @@ html[data-theme="dark"] body {
 
 @media (max-width: 1200px) {
   .entry__grid {
-    grid-template-columns: 280px minmax(0, 1fr);
+    grid-template-columns: clamp(220px, 30vw, 300px) minmax(0, 1fr);
   }
 
   .entry__toc-sidebar {
@@ -175,7 +176,7 @@ html[data-theme="dark"] .entry__sidebar {
 
 /* When right sidebar is hidden, collapse the 3rd grid column */
 .entry__grid:has(.entry__toc-sidebar--hidden) {
-  grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
+  grid-template-columns: clamp(220px, 24vw, 320px) minmax(0, 1fr);
 }
 
 html[data-theme="dark"] .entry__toc-sidebar {
