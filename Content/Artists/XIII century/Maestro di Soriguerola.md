@@ -121,6 +121,11 @@ The patronage network that sustained the Master of Soriguerola was composed prim
 
 This monastic connection is significant, as it suggests that at least some of the master's commissions were mediated or funded not by isolated village communities but by the wider institutional network of Benedictine monasticism, which in thirteenth-century Catalonia maintained both the financial resources and the cultural ambitions necessary to commission substantial works of devotional painting. The parish of Sant Cristòfol de Toses, in the Ripollès, similarly formed part of an ecclesiastical landscape shaped by monastic and episcopal oversight, and its altar frontal—today in the Museu Nacional d'Art de Catalunya—testifies to the willingness of rural communities to invest in high-quality painted furnishings for their churches.
 
+<figure class="figure--right figure--right-400">
+  <img src="/Images/Maestro di Soriguerola/image 8.jpg" alt="Church of Sant Miquel de Soriguerola">
+  <figcaption>Church of Sant Miquel de Soriguerola (back view).</figcaption>
+</figure>
+
 The patronage of the church of Sant Vicenç de La Llaguna, another attributed work, reflects the broad geographic range of the workshop's clientele and the consistent demand for narrative painted frontals among the parishes of the eastern Pyrenean valleys. The altar frontal from Santa Eugènia de Saga, now preserved in the Musée des Arts Décoratifs in Paris, was commissioned for another small Cerdanya parish, its subsequent dispersal to a French collection being a consequence of the nineteenth- and early twentieth-century art market rather than of any medieval patronage link to France.
 
 The two lateral panels from a church in the Ribes Valley, today in the Museu Episcopal de Vic, demonstrate that the workshop also served parishes in the broader Ripollès territory, further south toward the pre-Pyrenean foothills. The patrons of these works were not, in most cases, wealthy aristocratic donors or royal foundations, but rather the modest ecclesiastical communities whose collective resources—gathered through tithes, donations, and the support of local lords—were sufficient to commission painted wooden altar furnishings.

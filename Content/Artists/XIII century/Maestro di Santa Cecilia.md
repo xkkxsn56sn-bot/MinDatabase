@@ -211,6 +211,8 @@ His legacy, however, can be measured with considerable precision through the evi
 
 The Treccani *Enciclopedia dell'Arte Medievale* characterizes the Cecilia Master as one of the most important personalities of the Giottesque school active in Florence, a judgement that situates him firmly within the hierarchy of the Trecento's dominant artistic current while recognizing his independence from Giotto's direct influence. For the modern scholar of medieval Italian painting, the Maestro di Santa Cecilia remains an indispensable reference point in the mapping of the complex intellectual and aesthetic exchanges that made the first two decades of the fourteenth century one of the most generative moments in the history of European art.
 
+### Saint Cecilia and stories from her life
+
 <figure>
   <img src="/Images/Maestro di Santa Cecilia/image 1.jpg" alt="Saint Cecilia and stories from her life">
   <figcaption>Saint Cecilia and stories from her life, 1305-10, tempera and gold on panel, 85 x 181 cm, Galleria degli Uffizi, Florence.</figcaption>
@@ -218,18 +220,115 @@ The Treccani *Enciclopedia dell'Arte Medievale* characterizes the Cecilia Master
 
 The altarpiece of *Santa Cecilia e storie della sua vita* is not merely the work from which the Maestro di Santa Cecilia derives his name, it is the cornerstone of his entire attributed corpus, the work against which all other attributions are measured and the most complete expression of his mature pictorial intelligence. Commissioned for the high altar of the church of Santa Cecilia in Florence, it passed subsequently to the nearby church of Santa Maria delle Grazie before entering the Uffizi collection around 1845, where it now hangs in the room dedicated to Trecento Florentine painting.
 
-The composition follows the established typology of the Tuscan dossal (*dossale*): a large rectangular panel divided into a central field occupied by the enthroned saint and eight flanking scenes arranged in vertical pairs, each recounting an episode from her hagiography as transmitted by the *Passio Sanctae Caeciliae*. Saint Cecilia is shown enthroned in a frontal, hieratic pose, robed in an elaborate gown of red and gold and holding both the palm of martyrdom and an open codex, her expression combining the formality of a sacred icon with a nascent humanity that places this image at the threshold between the Byzantine tradition and the new naturalism. The eight lateral scenes narrate events including her mystical marriage to Valerian, the baptism of Valerian and his brother Tiburtius, the acts of Christian charity for which she and her companions were denounced to the Roman authorities, her appearance before the Prefect Almachius, her attempted martyrdom by suffocation in the baths, her miraculous survival, her preaching to the people of Rome, and her eventual decapitation, all rendered with a narrative clarity and figural grace that makes this altarpiece one of the most accomplished examples of hagiographic painting of its period.
+The composition follows the established typology of the Tuscan dossal (*dossale*): a large rectangular panel divided into a central field occupied by the enthroned saint and eight flanking scenes arranged in vertical pairs, each recounting an episode from her hagiography as transmitted by the *Passio Sanctae Caeciliae*.
+
+- The central figure: Saint Cecilia Enthroned
+The saint occupies the central panel with full hierarchical authority. She is depicted in a frontal pose, seated on an architectural throne with Gothic elements (arches, small columns), which recall contemporary sacred architecture. She wears a dark robe (probably green or black) covered by a wide pinkish-red cloak that falls in abundant folds—the red of martyrdom. Her head is surrounded by a golden halo, a sign of her holiness. With her right hand raised, she likely holds a book or a palm branch (an attribute of martyrdom), while her left hand holds another liturgical object. The face, frontal and hieratic, still reflects the late Byzantine style (the Greek manner), but with a softening of the forms that already foreshadows Giotto’s Gothic style.
+
+- The narrative panels
+The scenes are interpreted according to the Passio Sanctae Caeciliae, a fundamental hagiographic text.
+
+Left column (from top to bottom):
+
+The wedding banquet. Cecilia marries the young pagan Valeriano. The guests are seated around a lavishly set table; Cecilia is distinguished by her halo. The scene reflects the medieval pictorial convention of the “convivio,” with figures dressed in contemporary 14th-century attire.
+
+The angelic coronation. An angel descends and crowns Cecilia and Valeriano with flowers, after she has convinced him to embrace chastity and he has been baptized. The crowns of roses and lilies symbolize martyrdom and purity, respectively. It is one of the most iconographically rich moments in the legend.
+
+The Conversion of Tiburtius / Cecilia in Prayer. This likely depicts the conversion of her brother-in-law Tiburtius, or Cecilia in prayer—a moment of her inner life before her martyrdom.
+
+Right column (from top to bottom):
+
+Cecilia before the prefect Almachio. The saint is brought before the Roman authority, who orders her to renounce her faith. The architectural setting (a hall with arches) evokes a courtroom scene. Cecilia stands with dignity, in contrast to the kneeling or prostrate figures around her.
+
+The Martyrdom of Valerian and Tiburtius / The Burial of the Martyrs. Valerian and Tiburtius, having converted, are executed. The scene may also depict Cecilia’s retrieval of their bodies and their Christian burial in the catacombs.
+
+The Torture in the Stove (Steam Bath). Almachio, failing to make her renounce her faith, condemns her to be suffocated in the balneum (steam room). The dark figures around the tub are the executioners. The saint, instead of dying, is miraculously spared—the fire does not touch her. The composition with dark figures in an enclosed space creates a strong dramatic contrast.
+
+### Saint Margaret of Antioch and stories from her life
 
 <figure>
   <img src="/Images/Maestro di Santa Cecilia/image 2.jpg" alt="Saint Margaret of Antioch and stories from her life">
   <figcaption>Saint Margaret of Antioch and stories from her life, 1300s, tempera and gold on panel, 130 x 163 cm, Santa Margherita a Montici, Arcetri.</figcaption>
 </figure>
 
-The *Santa Margherita d'Antiochia e storie della sua vita* is the second major panel attributable to the Master and the one that most clearly demonstrates the geographical reach of his reputation and the adaptability of his compositional format to different hagiographic subjects. Commissioned for the altar of the church of Santa Margherita a Montici, a small hilltop settlement in the Arcetri district south of Florence, this work follows the same dossal typology as the Uffizi altarpiece but is organized around the figure of Saint Margaret of Antioch, the virgin martyr whose legend, narrated in the *Legenda Aurea* of Jacopo da Voragine, included episodes of demonic apparition, miraculous escape from the belly of a dragon, and steadfast resistance to the temptations and tortures of the pagan governor Olybrius. The Richard Offner catalogue of 1931, which first systematically defined the Cecilia Master's corpus, provides the fundamental bibliographic reference for this attribution, confirming that the formal language of this altarpiece is consistent in every essential respect with the Uffizi panel and represents a work of the same hand produced within the same years.
+The panel has a gable shape (with a triangular apex), typical of late 13th-century and early 14th-century hagiographic altarpieces. The composition is organized according to a vertically tripartite scheme: the monumental figure of the saint occupies the central panel, while four narrative episodes are distributed in panels on the sides, two per column, as in hagiographic panels of the Byzantine-Italian tradition.
+The saint is depicted in a frontal and hieratic pose, significantly larger in size than the surrounding narrative figures, in accordance with the Byzantine hieratia convention that expresses dignity and holiness through scale. She wears a finely decorated golden robe with geometric motifs, overlaid with a bright red cloak. She wears a golden nimbus on her head, a symbol of holiness. In her left hand she holds a book or document (probably the Holy Scriptures), while in her right she holds a palm of martyrdom, an iconographic attribute identifying her as a martyr. Her face, elongated and with delicate features, still reveals influences from the Greek manner tradition (Greco-Byzantine style), though with a three-dimensional plasticity reflecting Giotto’s influence.
+
+The cycle illustrates episodes from the Passio Sanctae Margaritae, a hagiographic text that narrates the life and martyrdom of the saint, a virgin from Antioch in Pisidia, who lived during the persecutions of Diocletian (late 3rd – early 4th century).
+Top left panel — Saint Margaret tends the flock The saint is depicted in a hilly landscape with stylized vegetation (the typical bright green of early 14th-century Florentine painting), in the act of watching over the sheep entrusted to her care. In the background, several figures can be glimpsed, likely maidservants or shepherds. This episode refers to Margaret’s youth, when her family entrusted her to a pagan nurse who raised her as a shepherdess.
+
+- Top right panel — The Encounter with Prefect Olibrio / Margaret Brought Before the Prefect
+
+The scene depicts the moment when the Roman prefect Olibrio notices Margaret’s beauty and, upon discovering she is a Christian, orders her to be captured. Figures in courtly attire are seen against an urban architectural backdrop featuring reddish buildings and arched openings, a stylistic trait typical of the Master, who inherited Giotto’s architectural settings.
+
+- Lower left panel — Margaret in the pit with the wild beasts / The torment of boiling water
+
+This is one of the most dramatic episodes of the martyrdom. A large basin or cauldron with figures around it is clearly visible. According to the Passio, after various tortures, Margaret was immersed in boiling water, from which she emerged unharmed by a miracle. The presence of the hemispherical basin and the figures in attitudes of anticipation or astonishment suggests precisely this episode of the boiling bath. In the corner, architectural elements framing the scene can be glimpsed.
+
+- Lower right panel — The dragon and the beheading / Scene of the final martyrdom
+
+This panel likely depicts the climactic scene of the martyrdom. The *Passio* recounts that Margaret was swallowed by a dragon but emerged alive thanks to the cross she carried. Prostrate figures and a frenzied atmosphere are glimpsed. The scene may depict the final beheading of the saint, which occurred after all previous tortures had failed to kill her.
+
+As for the relative dating within the master’s corpus, the majority of scholars tend to consider the Uffizi panel (which gives the painter his name) to be immediately subsequent to the Assisi frescoes, regarding the two panels of Saint Margaret at Montici as later works. Previtali, however, considers the altarpiece of Saint Margaret to be the master’s earliest work, drawing parallels with Duccio’s Madonna Rucellai.
+Among the hypotheses for his identification, one suggests Gaddo Gaddi, a painter mentioned in historical sources, while another school of thought proposes identifying the Master of Santa Cecilia with Pietro Cavallini, thereby validating the Roman master’s supposed Florentine activity.
+
+The panel is an exceptional document of the transitional period between the Byzantine-Dugentesque tradition and the proto-Renaissance innovations introduced by Giotto. The architecture of the narrative panels demonstrates that mastery of space and three-dimensional architectural settings which is the Master’s stylistic signature, learned directly from the Assisi workshop. The gold ground, still predominant, anchors the work to the iconographic tradition, while the rendering of volumes and the narrative vitality of the scenes reveal a painter fully engaged in the figurative revolution of early 14th-century Florence.
+
+### Madonna and Child Enthroned with Saint Francis
 
 <figure>
   <img src="/Images/Maestro di Santa Cecilia/image 3.jpg" alt="Madonna and Child Enthroned with Saint Francis">
   <figcaption>Madonna and Child Enthroned with Saint Francis, c. 1315, tempera and gold on panel, 126,4 x 68,9 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 
-The *Madonna and Child Enthroned with Saint Francis* represents the Master's engagement with a devotional format that had been one of the dominant productions of Florentine painting throughout the preceding century: the *sacra conversazione* in miniature, designed for intimate devotional use rather than monumental public display. The work shows the Virgin enthroned and presented in three-quarter view, the Christ Child upright and regal on her knee, both figures turning toward the viewer with an air of composed, gentle authority, their robes adorned with the characteristic star motif (*Stella Maris*) that serves as a Marian attribute of ancient liturgical derivation. The figure of Saint Francis, kneeling in adoration at the lower left, situates this panel within the tradition of Franciscan devotional art and connects it to the wider programme of the Order's visual self-representation, of which the Assisi frescoes were the supreme expression.
+The panel has a vaulted panel shape with an ogival apex, typical of early 14th-century Florentine devotional art. The contoured profile evokes Gothic architecture and frames the scene like a window onto the sacred. The background is in gold leaf, a symbol of divine light and eternity, in keeping with the Byzantine tradition still deeply rooted in Italian painting of this period.
+
+The Virgin is depicted in a frontal and solemn pose, seated on a barely discernible wooden throne. She wears a black cloak (maphorion) that completely envelops her figure, over a mauve-pink robe. The black of the cloak—unusual compared to the more common ultramarine blue—could indicate mourning or a local iconographic choice. Her face is elongated and solemn, with features still strongly influenced by the Greek manner (a gentle transition from the 13th-century style), yet with a certain psychological softness that foreshadows Giotto’s achievements. On the chest of the cloak, a small decorative cross is visible, a detail of Marian devotion.
+
+The Christ Child sits on the Mother’s left arm, dressed in a vibrant red tunic, barefoot. His body is proportionally larger than naturalistic standards—in accordance with the medieval tradition that depicts him as a puer senex, an ancient child. In his right hand he holds a dark object (likely a goldfinch, a symbol of the Passion, or a scroll), while with his left he gently interacts with his mother. The golden halo is finely decorated with geometric incisions made with a punch.
+
+In the lower right corner, on a significantly smaller scale according to medieval dimensional hierarchy, Saint Francis of Assisi is kneeling, recognizable by his brown Franciscan habit and the gesture of his hands clasped in prayer. The stigmata are visible on his hands. His posture of adoration—orans—identifies him as a spiritual patron or intercessor, likely placing the work in a Franciscan context (a convent or church of the Order).
+
+The gold background is flanked by painted architectural elements—green-gray marble columns with capitals and bases, and geometric decorative panels in red and white—that form a symbolic apse or canopy. These elements, of classical origin reworked in a Gothic style, are characteristic of early Renaissance spatial exploration, still flat but already oriented toward a definition of sacred space.
+This panel is an excellent example of early 14th-century Florentine panel painting, poised between the Byzantine legacy and the new Italian Gothic sensibility.
+
+### Saint Peter Enthroned
+
+<figure>
+  <img src="/Images/Maestro di Santa Cecilia/image 4.jpg" alt="Saint Peter Enthroned">
+  <figcaption>Saint Peter Enthroned, 1307, tempera and gold on panel, church of Santi Simone e Giuda, Florence.</figcaption>
+</figure>
+
+The panel features the customary arched format with an ogival apex, typical of early 14th-century Florentine production. The edge is decorated with a multiple frame of polychrome bands—gold, purple, black, and pink—finely painted, which lend the work a precious, almost goldsmith-like appearance. The gold leaf background, extensively worn in the upper area due to natural deterioration over the centuries, envelops the scene in the metaphysical light of the divine, in accordance with the Byzantine iconographic tradition. This is one of the Master’s works that can be dated with certainty, making it fundamental for the reconstruction of his oeuvre.
+
+The figure of Saint Peter dominates the entire pictorial surface with compositional force, seated in a frontal and solemn pose on a marble throne decorated with geometric and floral motifs of refined execution. His body, broad and monumental, reveals a clear assimilation of Cimabue’s teachings in the volumetric construction of the form, with echoes of Giotto’s plasticity in the treatment of the drapery.
+
+The saint wears:
+
+- A light green robe—an unusual shade of great chromatic elegance—that falls in soft, well-modelled folds down to his feet, shod in simple sandals
+
+- Beneath, a dark blue-green tunic barely visible
+
+- On his chest, a white papal stole richly decorated with black cross motifs and gold details, explicitly identifying him as the first pope of the Church
+
+The face is powerful and authoritative: a short beard and bluish-gray hair in accordance with established Petrine iconographic tradition, a broad forehead, and a direct, gravely solemn gaze. The golden nimbus is engraved with geometric punch-marked decorations, following the technique in use in Florentine workshops of the time.
+
+Saint Peter holds his canonical attributes:
+
+- With his right hand, he performs the gesture of the Latin blessing (with the index and middle fingers extended, the ring and little fingers folded), a gesture of apostolic and papal authority
+
+- With his left hand he holds a red book (the Gospel) and the keys to Paradise—the quintessential attribute of the Prince of the Apostles, here rendered as a large golden key hanging from a red ribbon—a symbol of the power to “bind and loose” (Mt 16:19)
+
+On either side of the throne, partially hidden by the side screens of the throne itself, are depicted two angels in a posture of adoration:
+
+- Both wear pink-red robes with green-blue cloaks, a color scheme complementary to the central figure
+
+- Their faces are delicate and pensive, with blond hair and barely visible wings
+
+- Their function is that of a heavenly court (angeloi), underscoring the quasi-divine dignity of the Vicar of Christ
+
+The tripartite composition, saint in the center, angels on the sides, echoes the scheme of the Maestà, applied, however, not to the Virgin but to an apostolic saint, an iconographic choice of great significance for the Florentine devotional context.
+
+The throne is an element of great architectural interest: built on two levels with a backrest decorated with geometric and floral openwork motifs (rhombuses, stars, rosettes), it recalls Roman Cosmatesque plutei and the marble decoration of Tuscan pulpits. The side armrests are decorated with panels featuring Oriental-style motifs, likely inspired by textiles.
+
+This decorative attention is a stylistic signature of the Master of Santa Cecilia. The work was intended for the Church of Saints Simon and Jude in Florence, and the choice of Saint Peter as the main subject—in the format of a freestanding altarpiece—is significant: it indicates a particular devotion to the apostle or a commission linked to a confraternity or chapel dedicated to Saint Peter. The date 1307 places it at the height of the Master’s career, shortly after the creation of the Altarpiece of Santa Cecilia in the Uffizi (c. 1304), and constitutes a valuable document of Florentine painting at the crucial moment of transition from the 13th to the 14th century, between the legacy of Cimabue and the revolutionary innovation of Giotto.

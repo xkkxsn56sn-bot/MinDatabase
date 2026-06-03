@@ -182,6 +182,29 @@ a:hover {
     display: none;
 }
 
+.site-footer {
+    background: var(--burgundy);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    border-top: 3px solid var(--gold);
+    margin-top: 3rem;
+}
+
+.site-footer p {
+    margin: 0.25rem 0;
+}
+
+.footer-link {
+    color: var(--gold);
+}
+
+.footer-updated {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 0.5rem;
+}
+
 @media (max-width: 600px) {
     header {
         padding: 1.2rem 1rem;

@@ -141,7 +141,7 @@ Corso di Buono is presumed to have died shortly after his last documented appear
   <figcaption>Saint John the Evangelist, 1284, fresco, 210 x 170 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
-### orso di Buono's signature
+### Corso di Buono's signature
 
 <figure>
   <img src="/Images/Corso di Buono/image 2.jpg" alt="Corso di Buono's signature">

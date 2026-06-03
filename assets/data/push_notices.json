@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-25T15:05:08+02:00",
+  "updated_at": "2026-06-03T15:05:08+02:00",
   "notices": [
     {
-      "title": "Montano d'Arezzo",
-      "section": "Artists",
-      "path": "Content/Artists/XIII%20century/MontanoArezzo.md",
-      "page_url": "/Content/Artists/XIII%20century/MontanoArezzo.html",
+      "title": "Byzantine Frescoes at Saint Panteleimon, Nerezi",
+      "section": "Papers",
+      "path": "Content/Papers/Nerezi.md",
+      "page_url": "/Content/Papers/Nerezi.html",
       "change_type": "created",
-      "pushed_at": "2026-05-25T15:05:08+02:00"
+      "pushed_at": "2026-06-03T15:05:08+02:00"
     }
   ]
 }

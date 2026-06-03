@@ -305,6 +305,10 @@
       "href": "Content/Artists/XIII%20century/Maestro%20di%20Sant%20Alo.html"
     },
     {
+      "name": "Maestro di Santa Cecilia",
+      "href": "Content/Artists/XIII%20century/Maestro%20di%20Santa%20Cecilia.html"
+    },
+    {
       "name": "Maestro di Santa Chiara",
       "href": "Content/Artists/XIII%20century/Maestro%20di%20Santa%20Chiara.html"
     },
@@ -477,10 +481,6 @@
     {
       "name": "Maestro di Panzano",
       "href": "Content/Artists/XIV%20century/Maestro%20di%20Panzano.html"
-    },
-    {
-      "name": "Maestro di Santa Cecilia",
-      "href": "Content/Artists/XIV%20century/Maestro%20di%20Santa%20Cecilia.html"
     },
     {
       "name": "Marino d'Elemosina",

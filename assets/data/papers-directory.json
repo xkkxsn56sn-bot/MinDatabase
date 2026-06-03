@@ -5,8 +5,12 @@
       "href": "/Content/Papers/Acheiropoieta%20images.html"
     },
     {
+      "name": "Byzantine Frescoes at Saint Panteleimon, Nerezi",
+      "href": "/Content/Papers/Nerezi.html"
+    },
+    {
       "name": "Columba and the Columban Monasteries",
-      "href": "/Content/Papers/Columba%20and%20Columban%20Monasteries.html"
+      "href": "/Content/Papers/Columba.html"
     },
     {
       "name": "Giunta Pisano: San Domenico Crucifix",
@@ -14,15 +18,7 @@
     },
     {
       "name": "Master of Saint Cecilia and Gaddo Gaddi",
-      "href": "/Content/Papers/Master%20of%20Saint%20Cecilia%20and%20Gaddo%20Gaddi.html"
-    },
-    {
-      "name": "Master of Soriguerola: Saint Christopher Altarpiece",
-      "href": "/Content/Papers/Saint%20Christopher%20Altarpiece.html"
-    },
-    {
-      "name": "Master of Soriguerola: Saint Michael Altarpiece",
-      "href": "/Content/Papers/Saint%20Michael%20Altarpiece.html"
+      "href": "/Content/Papers/MSCandGaddoGaddi.html"
     },
     {
       "name": "Master of the Cross 434 and the Bandini Crucifix",
@@ -30,7 +26,7 @@
     },
     {
       "name": "Scivias: An Interdisciplinary Examination",
-      "href": "/Content/Papers/Scivias-Interdisciplinary%20Examination.html"
+      "href": "/Content/Papers/Scivias.html"
     }
   ]
 }
