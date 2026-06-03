@@ -72,7 +72,10 @@ html[data-theme="dark"] body {
 
 .entry__grid {
   display: grid;
-  grid-template-columns: 320px 1fr 240px;
+  grid-template-columns: minmax(240px, 320px) minmax(0, 1fr) minmax(
+      240px,
+      320px
+    );
   gap: 2rem;
   align-items: start;
 }
@@ -172,7 +175,7 @@ html[data-theme="dark"] .entry__sidebar {
 
 /* When right sidebar is hidden, collapse the 3rd grid column */
 .entry__grid:has(.entry__toc-sidebar--hidden) {
-  grid-template-columns: 320px 1fr;
+  grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
 }
 
 html[data-theme="dark"] .entry__toc-sidebar {
@@ -529,7 +532,7 @@ html[data-theme="dark"] .entry__content table tr:nth-child(even) td {
   border-bottom: none;
 }
 .toc-nav__list {
-  list-style: none;
+  list-style: disc;
   margin: 0;
   padding-left: 1.25rem;
   font-size: 0.875rem;
@@ -541,11 +544,14 @@ html[data-theme="dark"] .toc-nav__list {
 
 .toc-nav__list li {
   margin-bottom: 0.5rem;
+  display: list-item;
+  list-style: disc;
 }
 
 .toc-nav__list li.toc-nav__item--sub {
   padding-left: 1rem;
   font-size: 0.8125rem;
+  list-style: circle;
 }
 
 .toc-nav__list a {
