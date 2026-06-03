@@ -1,168 +1,170 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | Medieval Visions</title>
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/directory-base.css' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/entry.css' | relative_url }}"
+    />
+  </head>
 
-<head>
-  <meta charset="utf-8">
-  <link rel="icon" type="image/png" href="/favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | Medieval Visions</title>
-  <link rel="stylesheet" href="{{ '/assets/css/directory-base.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/entry.css' | relative_url }}">
-  <style>
-    .entry { padding: 0; max-width: none; margin: 0; }
-    header p { margin: 0.5rem 0 0; color: var(--dark-parchment); font-style: italic; font-size: 1rem; }
-  </style>
-</head>
+  <body class="papers-entry-page">
+    <header>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p>{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
 
-<body>
+    <nav>
+      <a href="/index.html">Home</a>
+      <a href="/artists.html">Artists</a>
+      <a href="/churches.html">Churches</a>
+      <a href="/codices.html">Codices</a>
+      <a href="/papers.html">Papers</a>
+    </nav>
 
-  <header>
-    <h1>{{ page.title }}</h1>
-    {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
-  </header>
+    <main>
+      <article class="entry">
+        <div class="entry__grid">
+          <aside class="entry__sidebar">
+            <div class="sidebar__content">
+              <h2 class="sidebar__heading">General information</h2>
+              {% if page.meta %} {% for block in page.meta %} {% assign
+              block_title_upcase = block.title | upcase %} {% if page.scholars
+              and block_title_upcase == 'SCHOLARS' %} {% continue %} {% endif %}
+              <section class="meta-block">
+                <h3 class="meta-block__title">{{ block.title }}</h3>
 
-  <nav>
-    <a href="/index.html">Home</a>
-    <a href="/artists.html">Artists</a>
-    <a href="/churches.html">Churches</a>
-    <a href="/codices.html">Codices</a>
-    <a href="/papers.html">Papers</a>
-  </nav>
-
-  <main>
-    <article class="entry">
-
-      <div class="entry__grid">
-        <aside class="entry__sidebar">
-          <div class="sidebar__content">
-            <h2 class="sidebar__heading">General information</h2>
-            {% if page.meta %}
-            {% for block in page.meta %}
-            {% assign block_title_upcase = block.title | upcase %}
-            {% if page.scholars and block_title_upcase == 'SCHOLARS' %}
-            {% continue %}
-            {% endif %}
-            <section class="meta-block">
-              <h3 class="meta-block__title">{{ block.title }}</h3>
-
-              {% if block.pairs %}
-              <div class="meta-block__dl" role="list">
-                {%- for pair in block.pairs -%}
-                <div class="meta-block__pair" role="listitem">
-                  <p class="meta-block__term">{{ pair.label }}</p>
-                  <p class="meta-block__value">{{ pair.value }}</p>
+                {% if block.pairs %}
+                <div class="meta-block__dl" role="list">
+                  {%- for pair in block.pairs -%}
+                  <div class="meta-block__pair" role="listitem">
+                    <p class="meta-block__term">{{ pair.label }}</p>
+                    <p class="meta-block__value">{{ pair.value }}</p>
+                  </div>
+                  {%- endfor -%}
                 </div>
-                {%- endfor -%}
-              </div>
+                {% endif %} {% if block.list %}
+                <div class="meta-block__list" role="list">
+                  {%- for item in block.list -%}
+                  <div class="meta-block__list-item" role="listitem">
+                    {{ item }}
+                  </div>
+                  {%- endfor -%}
+                </div>
+                {% endif %} {% if block.links %}
+                <div class="meta-block__list" role="list">
+                  {%- for link in block.links -%}
+                  <div class="meta-block__list-item" role="listitem">
+                    {% if link.url %}<a href="{{ link.url | relative_url }}"
+                      >{{ link.title }}</a
+                    >{% else %}{{ link.title }}{% endif %}
+                  </div>
+                  {%- endfor -%}
+                </div>
+                {% endif %} {% if block.note %}
+                <p class="meta-block__note">{{ block.note }}</p>
+                {% endif %} {% if block.paragraphs %} {%- for paragraph in
+                block.paragraphs -%}
+                <p class="meta-block__paragraph">{{ paragraph }}</p>
+                {%- endfor -%} {% endif %}
+              </section>
+              {% endfor %} {% if page.scholars %}
+              <section class="meta-block">
+                <h3 class="meta-block__title">SCHOLARS</h3>
+                <div class="meta-block__list" role="list">
+                  {%- for link in page.scholars -%}
+                  <div class="meta-block__list-item" role="listitem">
+                    {% if link.url %}<a href="{{ link.url | relative_url }}"
+                      >{{ link.title }}</a
+                    >{% else %}{{ link.title }}{% endif %}
+                  </div>
+                  {%- endfor -%}
+                </div>
+              </section>
+              {% endif %} {% else %}
+              <p class="sidebar__empty">No metadata available</p>
               {% endif %}
+            </div>
+          </aside>
 
-              {% if block.list %}
-              <div class="meta-block__list" role="list">
-                {%- for item in block.list -%}
-                <div class="meta-block__list-item" role="listitem">{{ item }}</div>
-                {%- endfor -%}
-              </div>
-              {% endif %}
+          <div class="entry__content">{{ content }}</div>
 
-              {% if block.links %}
-              <div class="meta-block__list" role="list">
-                {%- for link in block.links -%}
-                <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
-                    href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
-                {%- endfor -%}
-              </div>
-              {% endif %}
-
-              {% if block.note %}
-              <p class="meta-block__note">{{ block.note }}</p>
-              {% endif %}
-
-              {% if block.paragraphs %}
-              {%- for paragraph in block.paragraphs -%}
-              <p class="meta-block__paragraph">{{ paragraph }}</p>
-              {%- endfor -%}
-              {% endif %}
-            </section>
-            {% endfor %}
-            {% if page.scholars %}
-            <section class="meta-block">
-              <h3 class="meta-block__title">SCHOLARS</h3>
-              <div class="meta-block__list" role="list">
-                {%- for link in page.scholars -%}
-                <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
-                    href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
-                {%- endfor -%}
-              </div>
-            </section>
-            {% endif %}
-            {% else %}
-            <p class="sidebar__empty">No metadata available</p>
-            {% endif %}
-          </div>
-        </aside>
-
-        <div class="entry__content">
-          {{ content }}
+          <aside class="entry__toc-sidebar">
+            <div class="sidebar__content">
+              <nav class="toc-nav" id="toc-nav" aria-label="Page sections">
+                <h2 class="sidebar__heading">Sections</h2>
+                <ul class="toc-nav__list" id="toc-list"></ul>
+              </nav>
+            </div>
+          </aside>
         </div>
 
-        <aside class="entry__toc-sidebar">
-          <div class="sidebar__content">
-            <nav class="toc-nav" id="toc-nav" aria-label="Page sections">
-              <h2 class="sidebar__heading">Sections</h2>
-              <ul class="toc-nav__list" id="toc-list"></ul>
-            </nav>
-          </div>
-        </aside>
-      </div>
+        <a href="{{ '/papers.html' | relative_url }}" class="back-btn"
+          >Back to Papers</a
+        >
+      </article>
+    </main>
 
-      <a href="{{ '/papers.html' | relative_url }}" class="back-btn">Back to Papers</a>
+    <footer class="site-footer">
+      <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
+      <p>
+        A collaborative scholarly project documenting medieval art and artists
+      </p>
+    </footer>
 
-    </article>
-  </main>
+    <!-- TOC: auto-populate from h2 headings in content -->
+    <script>
+      (function () {
+        var content = document.querySelector(".entry__content");
+        var tocList = document.getElementById("toc-list");
+        var tocNav = document.getElementById("toc-nav");
+        var tocSidebar = document.querySelector(".entry__toc-sidebar");
+        if (!content || !tocList || !tocNav) return;
 
-  <footer class="site-footer">
-    <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
-    <p>A collaborative scholarly project documenting medieval art and artists</p>
-  </footer>
-
-  <!-- TOC: auto-populate from h2 headings in content -->
-  <script>
-    (function () {
-      var content = document.querySelector('.entry__content');
-      var tocList = document.getElementById('toc-list');
-      var tocNav = document.getElementById('toc-nav');
-      var tocSidebar = document.querySelector('.entry__toc-sidebar');
-      if (!content || !tocList || !tocNav) return;
-
-      var headings = content.querySelectorAll('h2, h3');
-      if (headings.length === 0) {
-        if (tocSidebar) tocSidebar.classList.add('entry__toc-sidebar--hidden');
-        return;
-      }
-
-      headings.forEach(function (h) {
-        if (!h.id) {
-          h.id = h.textContent.trim()
-            .toLowerCase()
-            .replace(/[^\w\s-]/g, '')
-            .replace(/\s+/g, '-');
+        var headings = content.querySelectorAll("h2, h3");
+        if (headings.length === 0) {
+          if (tocSidebar)
+            tocSidebar.classList.add("entry__toc-sidebar--hidden");
+          return;
         }
-        var li = document.createElement('li');
-        if (h.tagName === 'H3') {
-          li.classList.add('toc-nav__item--sub');
-        }
-        var a = document.createElement('a');
-        a.href = '#' + h.id;
-        a.textContent = h.textContent;
-        li.appendChild(a);
-        tocList.appendChild(li);
-      });
-    })();
-  </script>
 
-  <script src="{{ '/assets/js/amended-on.js' | relative_url }}" defer></script>
-  <script src="{{ '/assets/js/visitor-counter.js' | relative_url }}" defer></script>
+        headings.forEach(function (h) {
+          if (!h.id) {
+            h.id = h.textContent
+              .trim()
+              .toLowerCase()
+              .replace(/[^\w\s-]/g, "")
+              .replace(/\s+/g, "-");
+          }
+          var li = document.createElement("li");
+          if (h.tagName === "H3") {
+            li.classList.add("toc-nav__item--sub");
+          }
+          var a = document.createElement("a");
+          a.href = "#" + h.id;
+          a.textContent = h.textContent;
+          li.appendChild(a);
+          tocList.appendChild(li);
+        });
+      })();
+    </script>
 
-</body>
-
+    <script
+      src="{{ '/assets/js/amended-on.js' | relative_url }}"
+      defer
+    ></script>
+    <script
+      src="{{ '/assets/js/visitor-counter.js' | relative_url }}"
+      defer
+    ></script>
+  </body>
 </html>

@@ -33,6 +33,23 @@ body {
   color: var(--text-main);
 }
 
+body.papers-entry-page {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body.papers-entry-page .entry {
+  padding: 0;
+  max-width: none;
+  margin: 0;
+}
+
+body.papers-entry-page header p {
+  margin: 0.5rem 0 0;
+  color: var(--dark-parchment);
+  font-style: italic;
+  font-size: 1rem;
+}
+
 html[data-theme="dark"] body {
   background-color: var(--bg-page-dark);
   color: var(--text-main-dark);
