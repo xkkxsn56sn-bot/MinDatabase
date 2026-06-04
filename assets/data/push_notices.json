@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-03T15:05:08+02:00",
+  "updated_at": "2026-06-04T15:05:08+02:00",
   "notices": [
     {
-      "title": "Byzantine Frescoes at Saint Panteleimon, Nerezi",
-      "section": "Papers",
-      "path": "Content/Papers/Nerezi.md",
-      "page_url": "/Content/Papers/Nerezi.html",
+      "title": "Maestro del Trittico Horne",
+      "section": "Artists",
+      "path": "Content/Artists/XIV%20century/MaestroHorne.md",
+      "page_url": "/Content/Artists/XIV%20century/MaestroHorne.html",
       "change_type": "created",
-      "pushed_at": "2026-06-03T15:05:08+02:00"
+      "pushed_at": "2026-06-04T15:05:08+02:00"
     }
   ]
 }

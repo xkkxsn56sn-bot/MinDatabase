@@ -56,7 +56,9 @@ html[data-theme="dark"] .endnotes-page__subtitle {
   background: transparent;
   color: var(--text-muted);
   cursor: pointer;
-  transition: border-color 0.2s, color 0.2s;
+  transition:
+    border-color 0.2s,
+    color 0.2s;
 }
 
 .endnotes-page__theme-toggle:hover {
@@ -149,7 +151,9 @@ html[data-theme="dark"] .endnotes-search__clear {
   border: 1px solid var(--border-subtle);
   border-radius: 3px;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s;
+  transition:
+    background 0.15s,
+    color 0.15s;
 }
 
 .endnotes-alphajump__link:hover {
@@ -202,6 +206,12 @@ html[data-theme="dark"] .endnotes-section__letter {
   border: 1px solid var(--border-subtle);
   border-radius: 6px;
   scroll-margin-top: 1.5rem;
+}
+
+.endnotes-list__item p,
+.endnotes-list__item li {
+  text-align: justify;
+  hyphens: auto;
 }
 
 html[data-theme="dark"] .endnotes-list__item {
@@ -339,7 +349,9 @@ html[data-theme="dark"] .endnotes-page__nav-footer {
   border: 1px solid var(--border-subtle);
   border-radius: 4px;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s;
+  transition:
+    background 0.15s,
+    color 0.15s;
 }
 
 .endnotes-page__nav-btn:hover {

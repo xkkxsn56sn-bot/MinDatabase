@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap");
+
 :root {
   /* Light (day) */
   --bg-page: #f5f0e6;
@@ -31,10 +33,13 @@ html[data-theme="dark"] {
 body {
   background-color: var(--bg-page);
   color: var(--text-main);
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-size: clamp(1.02rem, 0.2vw + 0.98rem, 1.12rem);
+  line-height: 1.68;
 }
 
 body.papers-entry-page {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
 }
 
 body.papers-entry-page .entry {
@@ -78,6 +83,15 @@ html[data-theme="dark"] body {
   background-color: transparent;
   color: inherit;
   min-width: 0;
+  font-size: clamp(1.04rem, 0.18vw + 1rem, 1.14rem);
+  line-height: 1.72;
+}
+
+.entry__content p,
+.entry__content li,
+.entry__content dd {
+  text-align: justify;
+  hyphens: auto;
 }
 
 .entry__grid {
@@ -195,7 +209,7 @@ html[data-theme="dark"] .entry__toc-sidebar {
 
 .sidebar__heading {
   margin: 0 0 1.25rem 0;
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   font-weight: 700;
   color: var(--text-main); /* was #212529 */
   padding-bottom: 0.75rem;
@@ -228,7 +242,7 @@ html[data-theme="dark"] .sidebar__empty {
 
 .meta-block__title {
   margin: 0 0 0.75rem 0;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -249,7 +263,7 @@ html[data-theme="dark"] .meta-block__title {
 .meta-block__term {
   font-weight: 600;
   color: var(--text-muted); /* was #495057 */
-  font-size: 0.875rem;
+  font-size: 0.95rem;
   margin: 0;
 }
 html[data-theme="dark"] .meta-block__dl dt,
@@ -261,7 +275,7 @@ html[data-theme="dark"] .meta-block__term {
 .meta-block__value {
   margin: 0 0 0.75rem 0;
   color: var(--text-main); /* was #212529 */
-  font-size: 0.875rem;
+  font-size: 1rem;
 }
 html[data-theme="dark"] .meta-block__dl dd,
 html[data-theme="dark"] .meta-block__value {
@@ -275,7 +289,7 @@ html[data-theme="dark"] .meta-block__value {
 .meta-block__list {
   margin: 0;
   padding-left: 1.25rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: var(--text-main); /* was #212529 */
 }
 html[data-theme="dark"] .meta-block__list {
@@ -313,6 +327,7 @@ html[data-theme="dark"] .meta-block__list a:hover {
 }
 
 .entry__title {
+  font-size: clamp(2rem, 2vw + 1.1rem, 3rem);
   font-weight: 700;
 }
 
@@ -343,7 +358,7 @@ html[data-theme="dark"] .entry__dates {
 }
 
 .entry__meta {
-  font-size: 0.875rem;
+  font-size: 0.98rem;
   color: var(--text-muted); /* was #6c757d */
   margin-top: 0.5rem;
 }
@@ -352,11 +367,13 @@ html[data-theme="dark"] .entry__meta {
 }
 
 .entry__content h2 {
+  font-size: clamp(1.6rem, 1.1vw + 1rem, 2.1rem);
   margin-top: 2.5rem;
   margin-bottom: 0.75rem;
 }
 
 .entry__content h3 {
+  font-size: clamp(1.3rem, 0.7vw + 0.95rem, 1.7rem);
   margin-top: 1.75rem;
   margin-bottom: 0.5rem;
 }
@@ -577,8 +594,8 @@ html[data-theme="dark"] .toc-nav__list a:hover {
 
 /* Footnotes */
 .entry__content ol.footnotes {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.82rem;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
   color: var(--text-muted);
   border-top: 1px solid var(--border-subtle);
   margin-top: 3rem;
@@ -609,7 +626,7 @@ html[data-theme="dark"] .entry__content ol.footnotes li::marker {
 }
 
 .entry__content a.footnote sup {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-size: 0.8em;
   font-weight: 700;
   color: var(--link);
@@ -625,7 +642,7 @@ html[data-theme="dark"] .entry__content a.footnote sup {
 }
 
 .entry__content a.footnote__back {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-style: normal;
   margin-left: 0.4em;
   text-decoration: none;
@@ -646,8 +663,8 @@ html[data-theme="dark"] .entry__content a.footnote__back:hover {
 
 /* End-of-page notes */
 .entry__content ol.endnotes {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.82rem;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
   color: var(--text-muted);
   border-top: 1px solid var(--border-subtle);
   clear: both;
@@ -679,7 +696,7 @@ html[data-theme="dark"] .entry__content ol.endnotes li::marker {
 }
 
 .entry__content a.endnote sup {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-size: 0.8em;
   font-weight: 700;
   color: var(--link);
@@ -695,7 +712,7 @@ html[data-theme="dark"] .entry__content a.endnote sup {
 }
 
 .entry__content a.endnote__back {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-style: normal;
   margin-left: 0.4em;
   text-decoration: none;
@@ -724,7 +741,7 @@ html[data-theme="dark"] .entry__content a.endnote__back:hover {
   background: var(--bg-panel);
   color: var(--text-main);
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 html[data-theme="dark"] .entry__theme-toggle {
@@ -751,8 +768,9 @@ html[data-theme="dark"] .entry__theme-toggle {
   background: var(--link);
   color: #f4f1e8;
   text-decoration: none;
-  font-weight: bold;
-  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 600;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-size: 1.02rem;
   border-radius: 4px;
   white-space: nowrap;
   transition: background 0.15s;

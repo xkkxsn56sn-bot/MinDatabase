@@ -1,312 +1,324 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Work+Sans:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap");
 
 :root {
-    --bg: #f3efe7;
-    --panel: #fffdf8;
-    --panel-soft: #f7f2e8;
-    --text: #1f1a15;
-    --muted: #5a4e40;
-    --line: #d8cdbc;
-    --accent: #6a2f1f;
-    --accent-soft: #9c6a3f;
-    --shadow: 0 14px 38px rgba(48, 31, 18, 0.12);
+  --bg: #f3efe7;
+  --panel: #fffdf8;
+  --panel-soft: #f7f2e8;
+  --text: #1f1a15;
+  --muted: #5a4e40;
+  --line: #d8cdbc;
+  --accent: #6a2f1f;
+  --accent-soft: #9c6a3f;
+  --shadow: 0 14px 38px rgba(48, 31, 18, 0.12);
 }
 
 html[data-theme="dark"] {
-    --bg: #12151a;
-    --panel: #1a2027;
-    --panel-soft: #202a34;
-    --text: #e8e2d7;
-    --muted: #b7ad9f;
-    --line: #33404d;
-    --accent: #c88d5a;
-    --accent-soft: #8cb6d1;
-    --shadow: 0 16px 44px rgba(0, 0, 0, 0.32);
+  --bg: #12151a;
+  --panel: #1a2027;
+  --panel-soft: #202a34;
+  --text: #e8e2d7;
+  --muted: #b7ad9f;
+  --line: #33404d;
+  --accent: #c88d5a;
+  --accent-soft: #8cb6d1;
+  --shadow: 0 16px 44px rgba(0, 0, 0, 0.32);
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    margin: 0;
-    background:
-        radial-gradient(circle at 12% 6%, rgba(156, 106, 63, 0.14), transparent 36%),
-        radial-gradient(circle at 88% 12%, rgba(106, 47, 31, 0.1), transparent 34%),
-        linear-gradient(180deg, var(--bg) 0%, var(--panel-soft) 100%);
-    color: var(--text);
-    font-family: 'Crimson Text', Georgia, serif;
+  margin: 0;
+  background:
+    radial-gradient(
+      circle at 12% 6%,
+      rgba(156, 106, 63, 0.14),
+      transparent 36%
+    ),
+    radial-gradient(circle at 88% 12%, rgba(106, 47, 31, 0.1), transparent 34%),
+    linear-gradient(180deg, var(--bg) 0%, var(--panel-soft) 100%);
+  color: var(--text);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(1.02rem, 0.2vw + 0.98rem, 1.1rem);
+  line-height: 1.62;
 }
 
 .churches-page {
-    width: min(1100px, 94vw);
-    margin: 0 auto;
-    padding: 2rem 0 2.5rem;
+  width: min(1100px, 94vw);
+  margin: 0 auto;
+  padding: 2rem 0 2.5rem;
 }
 
 .churches-header {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 16px;
-    box-shadow: var(--shadow);
-    padding: 1.5rem 1.4rem;
-    text-align: center;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 1.5rem 1.4rem;
+  text-align: center;
 }
 
 .churches-header__kicker {
-    margin: 0;
-    font-family: 'Work Sans', Arial, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    font-size: 0.74rem;
-    color: var(--accent-soft);
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.82rem;
+  color: var(--accent-soft);
 }
 
 .churches-header__title {
-    margin: 0.35rem 0 0.55rem;
-    font-size: clamp(2rem, 4vw, 3rem);
-    line-height: 1.05;
-    text-align: center;
+  margin: 0.35rem 0 0.55rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.05;
+  text-align: center;
 }
 
 .churches-header__subtitle {
-    margin: 0 auto;
-    max-width: 75ch;
-    color: var(--muted);
-    font-size: 1.05rem;
-    text-align: center;
+  margin: 0 auto;
+  max-width: 75ch;
+  color: var(--muted);
+  font-size: clamp(1.12rem, 0.35vw + 1rem, 1.3rem);
+  text-align: center;
 }
 
 .churches-header__controls {
-    margin-top: 1rem;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  margin-top: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .churches-theme-toggle {
-    display: inline-flex;
-    margin: 0 auto;
-    align-self: center;
-    border: 1px solid var(--line);
-    background: var(--panel-soft);
-    color: var(--text);
-    font-family: 'Work Sans', Arial, sans-serif;
-    font-size: 0.86rem;
-    font-weight: 700;
-    border-radius: 999px;
-    padding: 0.45rem 0.8rem;
-    cursor: pointer;
+  display: inline-flex;
+  margin: 0 auto;
+  align-self: center;
+  border: 1px solid var(--line);
+  background: var(--panel-soft);
+  color: var(--text);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 0.98rem;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
 }
 
 .churches-nav {
-    margin-top: 0.8rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.45rem;
-    border: 1px solid var(--line);
-    background: var(--panel);
-    border-radius: 12px;
-    padding: 0.55rem;
+  margin-top: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 12px;
+  padding: 0.55rem;
 }
 
 .churches-nav a {
-    font-family: 'Work Sans', Arial, sans-serif;
-    text-decoration: none;
-    color: var(--text);
-    border: 1px solid transparent;
-    padding: 0.35rem 0.55rem;
-    border-radius: 8px;
-    font-size: 0.9rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  text-decoration: none;
+  color: var(--text);
+  border: 1px solid transparent;
+  padding: 0.35rem 0.55rem;
+  border-radius: 8px;
+  font-size: 1rem;
 }
 
 .churches-nav a:hover,
 .churches-nav a[aria-current="page"] {
-    border-color: var(--line);
-    background: var(--panel-soft);
+  border-color: var(--line);
+  background: var(--panel-soft);
 }
 
 .churches-main {
-    margin-top: 1rem;
-    display: grid;
-    gap: 1rem;
+  margin-top: 1rem;
+  display: grid;
+  gap: 1rem;
 }
 
 .churches-intro,
 .churches-catalog {
-    border: 1px solid var(--line);
-    background: var(--panel);
-    border-radius: 14px;
-    box-shadow: var(--shadow);
-    padding: 1.1rem 1.2rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 1.1rem 1.2rem;
 }
 
 .churches-intro h2,
 .churches-catalog h2 {
-    margin: 0 0 0.55rem 0;
-    font-size: 1.4rem;
-    display: block;
-    width: 100%;
-    max-width: none;
-    text-align: center;
+  margin: 0 0 0.55rem 0;
+  font-size: clamp(1.5rem, 0.8vw + 1.1rem, 2rem);
+  display: block;
+  width: 100%;
+  max-width: none;
+  text-align: center;
 }
 
 .churches-intro p {
-    margin: 0 0 0.55rem;
-    color: var(--muted);
-    line-height: 1.58;
-    width: 100%;
-    max-width: none;
+  margin: 0 0 0.55rem;
+  color: var(--muted);
+  font-size: clamp(1.06rem, 0.25vw + 1rem, 1.16rem);
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+  width: 100%;
+  max-width: none;
 }
 
 .churches-intro p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .churches-list {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    columns: 3;
-    column-gap: 1.8rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  columns: 3;
+  column-gap: 1.8rem;
 }
 
 .churches-list li {
-    break-inside: avoid;
-    padding: 0.55rem 0;
+  break-inside: avoid;
+  padding: 0.55rem 0;
 }
 
 .churches-list li:first-child {
-    padding-top: 0;
+  padding-top: 0;
 }
 
 .churches-list li:last-child {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
 
 .churches-list a {
-    display: block;
-    white-space: nowrap;
-    border-bottom: 1px solid var(--line);
-    padding-bottom: 0.3rem;
-    color: var(--accent);
-    text-decoration: none;
-    font-weight: 600;
+  display: block;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.3rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.03rem;
 }
 
 .churches-list li:last-child a {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 .churches-list a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .churches-footer {
-    margin-top: 1rem;
-    border: 1px solid var(--line);
-    background: var(--panel);
-    border-radius: 12px;
-    padding: 1rem 1.2rem;
-    font-family: 'Work Sans', Arial, sans-serif;
-    font-size: 0.9rem;
-    color: var(--muted);
+  margin-top: 1rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1rem;
+  color: var(--muted);
 }
 
 .churches-footer p {
-    margin: 0.2rem 0;
+  margin: 0.2rem 0;
+  text-align: justify;
+  hyphens: auto;
 }
 
 .churches-footer a {
-    color: var(--accent);
+  color: var(--accent);
 }
 
 .churches-newsletter {
-    margin-top: 0.8rem;
-    padding-top: 0.8rem;
-    border-top: 1px solid var(--line);
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--line);
 }
 
 .churches-newsletter h2 {
-    margin: 0 0 0.4rem 0;
-    font-size: 1.05rem;
-    color: var(--text);
+  margin: 0 0 0.4rem 0;
+  font-size: 1.05rem;
+  color: var(--text);
 }
 
 .churches-newsletter p {
-    margin: 0 0 0.6rem 0;
+  margin: 0 0 0.6rem 0;
 }
 
 .churches-newsletter-form {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 0.55rem;
-    align-items: center;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.55rem;
+  align-items: center;
 }
 
 .churches-newsletter-form label {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
 
 .churches-newsletter-form input[type="email"] {
-    width: 100%;
-    min-height: 42px;
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    padding: 0.55rem 0.7rem;
-    font: inherit;
-    background: var(--panel-soft);
-    color: var(--text);
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.55rem 0.7rem;
+  font: inherit;
+  background: var(--panel-soft);
+  color: var(--text);
 }
 
 .churches-newsletter-form button {
-    min-height: 42px;
-    border-radius: 8px;
-    border: 1px solid var(--line);
-    padding: 0.5rem 0.85rem;
-    font: inherit;
-    font-weight: 700;
-    color: var(--text);
-    background: var(--panel-soft);
-    cursor: pointer;
+  min-height: 42px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  padding: 0.5rem 0.85rem;
+  font: inherit;
+  font-weight: 700;
+  color: var(--text);
+  background: var(--panel-soft);
+  cursor: pointer;
 }
 
 .churches-newsletter-form button:hover {
-    border-color: var(--accent-soft);
+  border-color: var(--accent-soft);
 }
 
 .churches-newsletter-note {
-    margin: 0.6rem 0 0;
-    font-size: 0.8rem;
+  margin: 0.6rem 0 0;
+  font-size: 0.8rem;
 }
 
 .churches-newsletter-honeypot {
-    display: none;
+  display: none;
 }
 
 .churches-footer__updated {
-    font-size: 0.8rem;
+  font-size: 0.8rem;
 }
 
 @media (max-width: 860px) {
-    .churches-list {
-        columns: 1;
-    }
+  .churches-list {
+    columns: 1;
+  }
 
-    .churches-newsletter-form {
-        grid-template-columns: 1fr;
-    }
+  .churches-newsletter-form {
+    grid-template-columns: 1fr;
+  }
 
-    .churches-newsletter-form button {
-        width: 100%;
-    }
+  .churches-newsletter-form button {
+    width: 100%;
+  }
 }
