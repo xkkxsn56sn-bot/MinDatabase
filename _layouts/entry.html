@@ -1,227 +1,212 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | Medieval Visions</title>
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/entry.css' | relative_url }}"
+    />
+  </head>
 
-<head>
-  <meta charset="utf-8">
-  <link rel="icon" type="image/png" href="/favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | Medieval Visions</title>
-  <link rel="stylesheet" href="{{ '/assets/css/entry.css' | relative_url }}">
-</head>
+  <body>
+    <article class="entry">
+      <header class="entry__header">
+        <h1 class="entry__title">{{ page.title }}</h1>
 
-<body>
+        {% if page.subtitle %}
+        <p class="entry__meta-line">
+          <span class="entry__subtitle">{{ page.subtitle }}</span>
+        </p>
+        {% endif %} {% if page.dates %}
+        <p class="entry__meta-line">
+          <span class="entry__dates">{{ page.dates }}</span>
+        </p>
+        {% endif %}
 
-  <article class="entry">
+        <button
+          id="theme-toggle"
+          type="button"
+          aria-label="Toggle dark mode"
+          class="entry__theme-toggle"
+        >
+          Day / Night mode
+        </button>
+      </header>
 
-    <header class="entry__header">
-      <h1 class="entry__title">{{ page.title }}</h1>
+      <div class="entry__grid">
+        <aside class="entry__sidebar">
+          <div class="sidebar__content">
+            <h2 class="sidebar__heading">General information</h2>
+            {% if page.meta %} {% for block in page.meta %} {% assign
+            block_title_upcase = block.title | upcase %} {% if page.scholars and
+            block_title_upcase == 'SCHOLARS' %} {% continue %} {% endif %}
+            <section class="meta-block">
+              <h3 class="meta-block__title">{{ block.title }}</h3>
 
-      {% if page.subtitle %}
-      <p class="entry__meta-line">
-        <span class="entry__subtitle">{{ page.subtitle }}</span>
-      </p>
-      {% endif %}
-
-      {% if page.dates %}
-      <p class="entry__meta-line">
-        <span class="entry__dates">{{ page.dates }}</span>
-      </p>
-      {% endif %}
-
-      <button id="theme-toggle" type="button" aria-label="Toggle dark mode" class="entry__theme-toggle">
-        Day / Night mode
-      </button>
-    </header>
-
-    <div class="entry__grid">
-      <aside class="entry__sidebar">
-        <div class="sidebar__content">
-          <h2 class="sidebar__heading">General information</h2>
-          {% if page.meta %}
-          {% for block in page.meta %}
-          {% assign block_title_upcase = block.title | upcase %}
-          {% if page.scholars and block_title_upcase == 'SCHOLARS' %}
-          {% continue %}
-          {% endif %}
-          <section class="meta-block">
-            <h3 class="meta-block__title">{{ block.title }}</h3>
-
-            {% if block.pairs %}
-            <div class="meta-block__dl" role="list">
-              {%- for pair in block.pairs -%}
-              <div class="meta-block__pair" role="listitem">
-                <p class="meta-block__term">{{ pair.label }}</p>
-                <p class="meta-block__value">{{ pair.value }}</p>
+              {% if block.pairs %}
+              <div class="meta-block__dl" role="list">
+                {%- for pair in block.pairs -%}
+                <div class="meta-block__pair" role="listitem">
+                  <p class="meta-block__term">{{ pair.label }}</p>
+                  <p class="meta-block__value">{{ pair.value }}</p>
+                </div>
+                {%- endfor -%}
               </div>
-              {%- endfor -%}
-            </div>
+              {% endif %} {% if block.list %}
+              <div class="meta-block__list" role="list">
+                {%- for item in block.list -%}
+                <div class="meta-block__list-item" role="listitem">
+                  {{ item }}
+                </div>
+                {%- endfor -%}
+              </div>
+              {% endif %} {% if block.links %}
+              <div class="meta-block__list" role="list">
+                {%- for link in block.links -%}
+                <div class="meta-block__list-item" role="listitem">
+                  {% if link.url %}<a href="{{ link.url | relative_url }}"
+                    >{{ link.title }}</a
+                  >{% else %}{{ link.title }}{% endif %}
+                </div>
+                {%- endfor -%}
+              </div>
+              {% endif %} {% if block.note %}
+              <p class="meta-block__note">{{ block.note }}</p>
+              {% endif %} {% if block.paragraphs %} {%- for paragraph in
+              block.paragraphs -%}
+              <p class="meta-block__paragraph">{{ paragraph }}</p>
+              {%- endfor -%} {% endif %}
+            </section>
+            {% endfor %} {% if page.scholars %}
+            <section class="meta-block">
+              <h3 class="meta-block__title">SCHOLARS</h3>
+              <div class="meta-block__list" role="list">
+                {%- for link in page.scholars -%}
+                <div class="meta-block__list-item" role="listitem">
+                  {% if link.url %}<a href="{{ link.url | relative_url }}"
+                    >{{ link.title }}</a
+                  >{% else %}{{ link.title }}{% endif %}
+                </div>
+                {%- endfor -%}
+              </div>
+            </section>
+            {% endif %} {% else %}
+            <p class="sidebar__empty">No metadata available</p>
             {% endif %}
+          </div>
+        </aside>
 
-            {% if block.list %}
-            <div class="meta-block__list" role="list">
-              {%- for item in block.list -%}
-              <div class="meta-block__list-item" role="listitem">{{ item }}</div>
-              {%- endfor -%}
-            </div>
-            {% endif %}
+        <div class="entry__content">{{ content }}</div>
 
-            {% if block.links %}
-            <div class="meta-block__list" role="list">
-              {%- for link in block.links -%}
-              <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
-                  href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
-              {%- endfor -%}
-            </div>
-            {% endif %}
-
-            {% if block.note %}
-            <p class="meta-block__note">{{ block.note }}</p>
-            {% endif %}
-
-            {% if block.paragraphs %}
-            {%- for paragraph in block.paragraphs -%}
-            <p class="meta-block__paragraph">{{ paragraph }}</p>
-            {%- endfor -%}
-            {% endif %}
-          </section>
-          {% endfor %}
-          {% if page.scholars %}
-          <section class="meta-block">
-            <h3 class="meta-block__title">SCHOLARS</h3>
-            <div class="meta-block__list" role="list">
-              {%- for link in page.scholars -%}
-              <div class="meta-block__list-item" role="listitem">{% if link.url %}<a
-                  href="{{ link.url | relative_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
-              {%- endfor -%}
-            </div>
-          </section>
-          {% endif %}
-          {% else %}
-          <p class="sidebar__empty">No metadata available</p>
-          {% endif %}
-        </div>
-      </aside>
-
-      <div class="entry__content">
-        {{ content }}
+        <aside class="entry__toc-sidebar">
+          <div class="sidebar__content">
+            <nav class="toc-nav" id="toc-nav" aria-label="Page sections">
+              <h2 class="sidebar__heading">Sections</h2>
+              <ul class="toc-nav__list" id="toc-list"></ul>
+            </nav>
+          </div>
+        </aside>
       </div>
 
-      <aside class="entry__toc-sidebar">
-        <div class="sidebar__content">
-          <nav class="toc-nav" id="toc-nav" aria-label="Page sections">
-            <h2 class="sidebar__heading">Sections</h2>
-            <ul class="toc-nav__list" id="toc-list"></ul>
-          </nav>
-        </div>
-      </aside>
-    </div>
+      {% assign back_url = '/artists.html' %} {% assign back_label = 'Back to
+      Artists' %} {% assign has_saints_page = false %} {% for nav_page in
+      site.pages %} {% if nav_page.url == '/saints.html' %} {% assign
+      has_saints_page = true %} {% break %} {% endif %} {% endfor %} {% if
+      page.url contains '/Content/Churches/' %} {% assign back_url =
+      '/churches.html' %} {% assign back_label = 'Back to Churches' %} {% elsif
+      page.url contains '/Content/Codex/' %} {% assign back_url =
+      '/codices.html' %} {% assign back_label = 'Back to Codices' %} {% elsif
+      page.url contains '/Content/Papers/' %} {% assign back_url =
+      '/papers.html' %} {% assign back_label = 'Back to Papers' %} {% elsif
+      page.url contains '/Content/Saints/' %} {% if has_saints_page %} {% assign
+      back_url = '/saints.html' %} {% assign back_label = 'Back to Saints' %} {%
+      else %} {% assign back_url = '/scholars.html' %} {% assign back_label =
+      'Back to Scholars' %} {% endif %} {% endif %}
 
-    {% assign back_url = '/artists.html' %}
-    {% assign back_label = 'Back to Artists' %}
-    {% assign has_saints_page = false %}
-    {% for nav_page in site.pages %}
-    {% if nav_page.url == '/saints.html' %}
-    {% assign has_saints_page = true %}
-    {% break %}
-    {% endif %}
-    {% endfor %}
-    {% if page.url contains '/Content/Churches/' %}
-    {% assign back_url = '/churches.html' %}
-    {% assign back_label = 'Back to Churches' %}
-    {% elsif page.url contains '/Content/Codex/' %}
-    {% assign back_url = '/codices.html' %}
-    {% assign back_label = 'Back to Codices' %}
-    {% elsif page.url contains '/Content/Papers/' %}
-    {% assign back_url = '/papers.html' %}
-    {% assign back_label = 'Back to Papers' %}
-    {% elsif page.url contains '/Content/Saints/' %}
-    {% if has_saints_page %}
-    {% assign back_url = '/saints.html' %}
-    {% assign back_label = 'Back to Saints' %}
-    {% else %}
-    {% assign back_url = '/scholars.html' %}
-    {% assign back_label = 'Back to Scholars' %}
-    {% endif %}
-    {% endif %}
+      <nav class="entry__nav-footer" aria-label="Page navigation">
+        <a href="{{ back_url | relative_url }}" class="entry__nav-btn"
+          >{{ back_label }}</a
+        >
+      </nav>
+    </article>
 
-    <nav class="entry__nav-footer" aria-label="Page navigation">
-      <a href="{{ back_url | relative_url }}" class="entry__nav-btn">{{ back_label }}</a>
-    </nav>
+    <!-- TOC: auto-populate from h2 headings in content -->
+    <script>
+      (function () {
+        var content = document.querySelector(".entry__content");
+        var tocList = document.getElementById("toc-list");
+        var tocNav = document.getElementById("toc-nav");
+        var tocSidebar = document.querySelector(".entry__toc-sidebar");
+        if (!content || !tocList || !tocNav) return;
 
-  </article>
-
-  <!-- TOC: auto-populate from h2 headings in content -->
-  <script>
-    (function () {
-      var content = document.querySelector('.entry__content');
-      var tocList = document.getElementById('toc-list');
-      var tocNav = document.getElementById('toc-nav');
-      var tocSidebar = document.querySelector('.entry__toc-sidebar');
-      if (!content || !tocList || !tocNav) return;
-
-      var headings = content.querySelectorAll('h2, h3');
-      if (headings.length === 0) {
-        if (tocSidebar) tocSidebar.classList.add('entry__toc-sidebar--hidden');
-        return;
-      }
-
-      headings.forEach(function (h) {
-        if (!h.id) {
-          h.id = h.textContent.trim()
-            .toLowerCase()
-            .replace(/[^\w\s-]/g, '')
-            .replace(/\s+/g, '-');
+        var headings = content.querySelectorAll("h2, h3");
+        if (headings.length === 0) {
+          if (tocSidebar)
+            tocSidebar.classList.add("entry__toc-sidebar--hidden");
+          return;
         }
-        var li = document.createElement('li');
-        if (h.tagName === 'H3') {
-          li.classList.add('toc-nav__item--sub');
-        }
-        var a = document.createElement('a');
-        a.href = '#' + h.id;
-        a.textContent = h.textContent;
-        li.appendChild(a);
-        tocList.appendChild(li);
-      });
-    })();
-  </script>
 
-  <!-- theme script goes here, inside body and AFTER the button -->
-  <script>
-    (function () {
-      const STORAGE_KEY = 'site-theme';
-      const html = document.documentElement;
-      const toggleBtn = document.getElementById('theme-toggle');
-
-      function getPreferredTheme() {
-        const stored = localStorage.getItem(STORAGE_KEY);
-        if (stored === 'light' || stored === 'dark') {
-          return stored;
-        }
-        // you can re-enable system preference later if you want
-        return 'light';
-      }
-
-      function applyTheme(theme) {
-        html.setAttribute('data-theme', theme);
-        localStorage.setItem(STORAGE_KEY, theme);
-      }
-
-      const initialTheme = getPreferredTheme();
-      applyTheme(initialTheme);
-
-      if (toggleBtn) {
-        toggleBtn.addEventListener('click', function () {
-          const current = html.getAttribute('data-theme') || 'light';
-          const next = current === 'light' ? 'dark' : 'light';
-          applyTheme(next);
+        headings.forEach(function (h) {
+          if (!h.id) {
+            h.id = h.textContent
+              .trim()
+              .toLowerCase()
+              .replace(/[^\w\s-]/g, "")
+              .replace(/\s+/g, "-");
+          }
+          var li = document.createElement("li");
+          if (h.tagName === "H3") {
+            li.classList.add("toc-nav__item--sub");
+          }
+          var a = document.createElement("a");
+          a.href = "#" + h.id;
+          a.textContent = h.textContent;
+          li.appendChild(a);
+          tocList.appendChild(li);
         });
-      }
-    })();
-  </script>
+      })();
+    </script>
 
-  <script src="{{ '/assets/js/amended-on.js' | relative_url }}" defer></script>
-  <script src="{{ '/assets/js/visitor-counter.js' | relative_url }}" defer></script>
+    <!-- theme script goes here, inside body and AFTER the button -->
+    <script>
+      (function () {
+        const STORAGE_KEY = "site-theme";
+        const html = document.documentElement;
+        const toggleBtn = document.getElementById("theme-toggle");
 
-</body>
+        function getPreferredTheme() {
+          const stored = localStorage.getItem(STORAGE_KEY);
+          if (stored === "light" || stored === "dark") {
+            return stored;
+          }
+          // you can re-enable system preference later if you want
+          return "light";
+        }
 
+        function applyTheme(theme) {
+          html.setAttribute("data-theme", theme);
+          localStorage.setItem(STORAGE_KEY, theme);
+        }
+
+        const initialTheme = getPreferredTheme();
+        applyTheme(initialTheme);
+
+        if (toggleBtn) {
+          toggleBtn.addEventListener("click", function () {
+            const current = html.getAttribute("data-theme") || "light";
+            const next = current === "light" ? "dark" : "light";
+            applyTheme(next);
+          });
+        }
+      })();
+    </script>
+
+    <script
+      src="{{ '/assets/js/visitor-counter.js' | relative_url }}"
+      defer
+    ></script>
+  </body>
 </html>

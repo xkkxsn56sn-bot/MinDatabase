@@ -1,105 +1,103 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} - Medieval Visions</title>
-    <link rel="stylesheet" href="assets/css/directory-base.css">
+    <link rel="stylesheet" href="assets/css/directory-base.css" />
     <style>
+      .churches-intro,
+      .churches-catalog {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin-bottom: 2rem;
+      }
+
+      .churches-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        columns: 3;
+        column-gap: 2rem;
+      }
+
+      .churches-list li {
+        break-inside: avoid;
+        padding: 0.5rem 0;
+        border-bottom: 1px solid var(--dark-parchment);
+      }
+
+      .churches-list li:last-child {
+        border-bottom: none;
+      }
+
+      .churches-list li::before {
+        content: "✦ ";
+        color: var(--gold);
+      }
+
+      .site-footer {
+        background: var(--burgundy);
+        color: white;
+        text-align: center;
+        padding: 2rem;
+        border-top: 3px solid var(--gold);
+        margin-top: 3rem;
+      }
+
+      .footer-link {
+        color: var(--gold);
+      }
+
+      .footer-updated {
+        font-size: 0.85rem;
+        color: rgba(255, 255, 255, 0.6);
+        margin-top: 0.5rem;
+      }
+
+      @media (max-width: 900px) {
+        .churches-list {
+          columns: 2;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .churches-list {
+          columns: 1;
+        }
+
         .churches-intro,
         .churches-catalog {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            margin-bottom: 2rem;
+          padding: 1rem;
         }
-
-        .churches-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            columns: 3;
-            column-gap: 2rem;
-        }
-
-        .churches-list li {
-            break-inside: avoid;
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--dark-parchment);
-        }
-
-        .churches-list li:last-child {
-            border-bottom: none;
-        }
-
-        .churches-list li::before {
-            content: "✦ ";
-            color: var(--gold);
-        }
-
-        .site-footer {
-            background: var(--burgundy);
-            color: white;
-            text-align: center;
-            padding: 2rem;
-            border-top: 3px solid var(--gold);
-            margin-top: 3rem;
-        }
-
-        .footer-link {
-            color: var(--gold);
-        }
-
-        .footer-updated {
-            font-size: 0.85rem;
-            color: rgba(255, 255, 255, 0.6);
-            margin-top: 0.5rem;
-        }
-
-        @media (max-width: 900px) {
-            .churches-list {
-                columns: 2;
-            }
-        }
-
-        @media (max-width: 600px) {
-            .churches-list {
-                columns: 1;
-            }
-
-            .churches-intro,
-            .churches-catalog {
-                padding: 1rem;
-            }
-        }
+      }
     </style>
-</head>
+  </head>
 
-<body>
+  <body>
     <header>
-        <h1>{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
     </header>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="artists.html">Artists</a>
-        <a href="churches.html">Churches</a>
-        <a href="codices.html">Codices</a>
-        <a href="papers.html">Papers</a>
+      <a href="index.html">Home</a>
+      <a href="artists.html">Artists</a>
+      <a href="churches.html">Churches</a>
+      <a href="codices.html">Codices</a>
+      <a href="papers.html">Papers</a>
     </nav>
     <main>
-        {{ content }}
-        <a href="index.html" class="back-btn">Back to Home</a>
+      {{ content }}
+      <a href="index.html" class="back-btn">Back to Home</a>
     </main>
     <footer class="site-footer">
-        <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
-        <p>A collaborative scholarly project documenting medieval art and artists</p>
-
+      <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
+      <p>
+        A collaborative scholarly project documenting medieval art and artists
+      </p>
     </footer>
-    <script src="/assets/js/amended-on.js" defer></script>
     <script src="/assets/js/visitor-counter.js" defer></script>
-</body>
-
+  </body>
 </html>
