@@ -285,6 +285,10 @@
       "href": "Content/Artists/XIII%20century/Maestro%20di%20Naumburg.html"
     },
     {
+      "name": "Maestro di San Felice di Giano",
+      "href": "Content/Artists/XIII%20century/MaestrodiSanFelicediGiano.html"
+    },
+    {
       "name": "Maestro di San Francesco",
       "href": "Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html"
     },
@@ -310,7 +314,7 @@
     },
     {
       "name": "Maestro di Santa Chiara",
-      "href": "Content/Artists/XIII%20century/Maestro%20di%20Santa%20Chiara.html"
+      "href": "Content/Artists/XIII%20century/MaestrodiSantaChiara.html"
     },
     {
       "name": "Maestro di Santa Maria Primerana",

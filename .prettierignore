@@ -1,0 +1,9 @@
+# Ignore node_modules and build directories
+node_modules/
+_site/
+.git/
+.venv/
+
+# Don't format these file types
+*.md
+*.csv
