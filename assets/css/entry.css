@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&display=swap");
 
 :root {
   /* Light (day) */
@@ -33,13 +33,15 @@ html[data-theme="dark"] {
 body {
   background-color: var(--bg-page);
   color: var(--text-main);
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-family:
+    "Cormorant Garamond", "Noto Serif", Georgia, "Times New Roman", serif;
   font-size: clamp(1.02rem, 0.2vw + 0.98rem, 1.12rem);
   line-height: 1.68;
 }
 
 body.papers-entry-page {
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-family:
+    "Cormorant Garamond", "Noto Serif", Georgia, "Times New Roman", serif;
 }
 
 body.papers-entry-page .entry {

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&display=swap");
 
 :root {
   --parchment: #f4f1e8;
@@ -16,7 +16,8 @@
 }
 
 body {
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-family:
+    "Cormorant Garamond", "Noto Serif", Georgia, "Times New Roman", serif;
   font-size: clamp(1.03rem, 0.18vw + 0.98rem, 1.13rem);
   background: var(--parchment);
   color: var(--text);
