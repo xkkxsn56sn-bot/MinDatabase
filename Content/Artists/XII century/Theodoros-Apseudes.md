@@ -114,7 +114,7 @@ No source — documentary or epigraphic — records the date or place of *Theodo
 
 Nothing whatsoever is documented about the family of Theodoros Apseudes, and this silence is itself historically informative. In contrast to his patron St. Neophytos, whose parents Athanasios and Eudoxia, peasant background, and seven siblings are recorded in the saint's own writings, Apseudes left no autobiographical trace beyond his professional signature. The surname "Apseudes" (Ἀψευδής), meaning "the truthful" or "one who does not lie," is itself the only personal datum we possess, and scholars have not been able to attach it securely to any known Byzantine family. It is unclear whether the name was a genuine patronymic, a nickname, or even a quasi-professional sobriquet expressing the painter's claim to fidelity in representing sacred prototypes. The signature at Lagoudera, if the very lacunose inscription beneath the Baptism scene indeed belongs to him, may have identified the painter as a monk or hieromonk, but the name is entirely lost in that text. The Enkleistra<a href="../../../endnotes.html#fn-enkleistra" class="footnote"><sup>1</sup></a> signature, by contrast, gives the name clearly but offers no indication of monastic status, family, or origin. This ambiguity has left open the question of whether Apseudes was a layman heading a secular workshop or a monastic painter. The matter bears on his family circumstances, since a monastic vocation would imply a renunciation of family ties that Byzantine sources often noted. Given the high social standing implied by his Constantinopolitan training and aristocratic patronage, some scholars have speculated that he came from an educated or artisanal urban milieu rather than a peasant background. Such speculation, however, rests entirely on the sophistication of his art rather than on any record of kin or household.
 
-<figure class="class=figure--right figure--right-400">
+<figure class="figure--right figure--right-400">
   <img src="/Images/TheodoreApseudes/image 1.jpg" alt="The exterior of the Enkleistra">
   <figcaption>The exterior of the Enkleistra, Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
@@ -394,7 +394,7 @@ The frescoes of the church of the **Panagia tou Arakou**, situated in the Pitsil
 
 The iconographic cycle includes the Nativity, the Presentation/Meeting in the Temple, the Baptism, the Ascension in the vault, the Pentecost, and the Dormition of the Virgin, together with the seven Cypriot saints depicted in the semi-cylindrical apse. The eponymous image, the Panagia Arakiotissa on the south wall beneath the Dormition, is one of the earliest known examples of the iconographic type of the Virgin of the Passion, in which the Christ Child shrinks from the instruments of his coming Passion borne by angels. This innovative image, executed in Apseudes's calligraphic and emotionally restrained manner, exerted a profound influence on later Eastern Christian and post-Byzantine art. The two portable despotic icons of Christ and the Virgin Arakiotissa from the church, now in the Byzantine Museum of the Archbishop Makarios III Foundation in Nicosia, are attributed to the same painter.
 
-<figure class="class=figure--right figure--right-400">
+<figure class="figure--right figure--right-400">
   <img src="/Images/TheodoreApseudes/image 19.jpg" alt="The exterior of the church Panagia tou Arakou">
   <figcaption>The exterior of the church Panagia tou Arakou, Lagoudera village, Cyprus.</figcaption>
 </figure>
