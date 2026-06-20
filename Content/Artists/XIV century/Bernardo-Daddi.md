@@ -487,7 +487,7 @@ The text at the bottom reads as follows:
 
 <div style="text-align: center;">
 
-**hec su[n]t no[m]i[n]a. s[an]c[t]or[um] [et] s[an]c[t]ar[um] quor[um] reliq[ui]e su[n]t hic. S[cilicet].bo[ni]fatii. / leonis. alexa[n]dri. peregrin[i] philypy. Rufi [Iu]ste co[n]cordie [et] dece[n]tie: / [et] alior[um] s[an]c[t]or[um] de monasterno s[an]c[t]i sebastian[i] deroma. quas frater / Simon abbas d[i]c[t]i monasterii dedit**
+hec su[n]t no[m]i[n]a. s[an]c[t]or[um] [et] s[an]c[t]ar[um] quor[um] reliq[ui]e su[n]t hic. S[cilicet].bo[ni]fatii. / leonis. alexa[n]dri. peregrin[i] philypy. Rufi [Iu]ste co[n]cordie [et] dece[n]tie: / [et] alior[um] s[an]c[t]or[um] de monasterno s[an]c[t]i sebastian[i] deroma. quas frater / Simon abbas d[i]c[t]i monasterii dedit
 
 </div>
 
@@ -950,7 +950,7 @@ Running along the base of the lower zone, the NGA records the following text:
 
 <div style="text-align: center;">
 
-**[ANNO DOMI]NI · MCCCXXXIII · M...II · ESPLETUM FUIT H[O]C OPUS**
+[ANNO DOMI]NI · MCCCXXXIII · M...II · ESPLETUM FUIT H[O]C OPUS
 
 </div>
 
@@ -1134,7 +1134,7 @@ The episode depicted is known in hagiographic tradition as the Girding of Saint 
 
 <div style="text-align: center;">
 
-**We gird thee on God's behalf with the girdle of chastity, which henceforth no assault of concupiscence shall ever break.**
+We gird thee on God's behalf with the girdle of chastity, which henceforth no assault of concupiscence shall ever break.
 
 </div>
 
