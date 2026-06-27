@@ -247,12 +247,12 @@ The following table summarizes the key stylistic characteristics of the Maestro 
 
 | Stylistic Characteristic | Description | Primary Influence |
 | :--- | :--- | :--- |
-| **Figure Treatment** | Elongated, stylized figures with a blend of monumental rigidity and subtle emotional expressiveness. | Byzantine , Carolingian  |
-| **Spatial Organization** | Shallow, hieratic space with figures arranged in a frontal or symmetrical fashion to prioritize clarity of narrative over naturalism. | Byzantine  |
-| **Iconography** | Dominated by Marian themes, Theotokos type, Nativity, and Passion cycles, following established Christian pictorial formulas. | Byzantine , Early Christian  |
-| **Color and Light** | Use of strong, vibrant colors; dramatic use of light and halos to signify the divine. Jagged circles of light in some scenes. | Byzantine , Ottonian  |
-| **Draperies** | Sharp, angular folds that define form while contributing to the rhythmic pattern of the composition. | Lombard (Local Adaptation)  |
-| **Narrative Clarity** | Clear, sequential arrangement of figures to tell a coherent biblical story. Gestures and positioning aid comprehension. | Carolingian , Ottonian  |
+| **Figure Treatment** | Elongated, stylized figures with a blend of monumental rigidity and subtle emotional expressiveness. | Byzantine, Carolingian |
+| **Spatial Organization** | Shallow, hieratic space with figures arranged in a frontal or symmetrical fashion to prioritize clarity of narrative over naturalism. | Byzantine |
+| **Iconography** | Dominated by Marian themes, Theotokos type, Nativity, and Passion cycles, following established Christian pictorial formulas. | Byzantine, Early Christian |
+| **Color and Light** | Use of strong, vibrant colors; dramatic use of light and halos to signify the divine. Jagged circles of light in some scenes. | Byzantine, Ottonian |
+| **Draperies** | Sharp, angular folds that define form while contributing to the rhythmic pattern of the composition. | Lombard (local adaptation) |
+| **Narrative Clarity** | Clear, sequential arrangement of figures to tell a coherent biblical story. Gestures and positioning aid comprehension. | Carolingian, Ottonian |
 
 This synthesis of diverse influences is what makes the Maestro's work so significant. He was able to absorb and reinterpret foreign artistic languages, filtering them through a distinctly Lombard sensibility. The result is a style that is neither purely Byzantine nor purely Frankish, but something altogether new and innovative. This hybridization speaks to the cosmopolitan nature of early medieval culture, challenging simplistic notions of a divided "East" and "West." Instead, it points to a world of interconnected artistic centers, where ideas and styles flowed freely along trade routes, pilgrimage paths, and diplomatic missions. The Maestro, as a practitioner of this hybrid style, was a key agent in this cultural exchange. He took inspiration from the grandeur of Byzantium and the narrative clarity of the Carolingian world and fused them into a local idiom that served the specific religious and cultural needs of his Lombard patrons and audience. This ability to synthesize disparate elements into a cohesive and powerful whole is the ultimate measure of his artistic genius.
 
