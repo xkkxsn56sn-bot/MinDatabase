@@ -176,7 +176,12 @@ def main() -> int:
             print("Could not search mailbox.", file=sys.stderr)
             return 1
 
-        message_ids = ids[0].split()
+        search_ids = ids[0] if ids else b""
+        if not search_ids:
+            print("No subscriber emails found in the recent scan window.")
+            return 0
+
+        message_ids = search_ids.split()
         if len(message_ids) > sync_max_messages:
             message_ids = message_ids[-sync_max_messages:]
 
