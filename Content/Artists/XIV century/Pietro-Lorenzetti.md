@@ -444,7 +444,7 @@ Given Anthony Abbot's standing as one of the most widely venerated hermit-saints
 ### Saint Anthony Abbot (Private collection)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 6.jpg" alt="Saint Anthony Abbot">
+  <img src="/Images/Pietro-Lorenzetti/image 7.jpg" alt="Saint Anthony Abbot">
   <figcaption>Saint Anthony Abbot, c. 1330, tempera on gold ground panel, the inset quatrefoil with a band of decoration above and the inscribed band below, 47.5 x 38.9 cm, Private collection.</figcaption>
 </figure>
 
