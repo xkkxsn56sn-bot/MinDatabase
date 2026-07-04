@@ -424,7 +424,7 @@
   "XIV Century": [
     {
       "name": "Allegretto Nuzi",
-      "href": "Content/Artists/XIV%20century/Allegretto%20Nuzi.html"
+      "href": "Content/Artists/XIV%20century/Allegretto-Nuzi.html"
     },
     {
       "name": "Andrea de Bartoli",
@@ -541,6 +541,10 @@
     {
       "name": "Paolo Veneziano",
       "href": "Content/Artists/XIV%20century/Paolo%20Veneziano.html"
+    },
+    {
+      "name": "Pietro Lorenzetti",
+      "href": "Content/Artists/XIV%20century/Pietro-Lorenzetti.html"
     },
     {
       "name": "Puccio di Simone",
