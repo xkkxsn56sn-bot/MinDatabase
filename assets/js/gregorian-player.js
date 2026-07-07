@@ -219,10 +219,19 @@
     audio.muted = savedMuted;
 
     var inlineToggle = document.getElementById("gregorian-inline-toggle");
+    var inlineVolume = document.getElementById("gregorian-inline-volume");
     var ui;
 
     if (inlineToggle) {
-      ui = { toggle: inlineToggle };
+      ui = { toggle: inlineToggle, inlineVolume: inlineVolume };
+      if (audio.volume <= 0.001) {
+        audio.volume = 0.25;
+        store.setItem(KEYS.volume, "0.25");
+      }
+      if (audio.muted) {
+        audio.muted = false;
+        store.setItem(KEYS.muted, "false");
+      }
     } else {
       injectStyles();
       ui = createUi(formatTrackLabel(track));
@@ -234,6 +243,14 @@
       ui.toggle.textContent = audio.paused ? "Riproduci" : "Pausa";
       if (!shouldPlay && audio.paused) {
         ui.toggle.textContent = inlineToggle ? "Attiva audio" : "Attiva canti";
+      }
+      if (ui.inlineVolume) {
+        if (audio.muted) {
+          ui.inlineVolume.textContent = "muted";
+        } else {
+          ui.inlineVolume.textContent =
+            String(Math.round(audio.volume * 100)) + "%";
+        }
       }
       if (ui.mute) {
         ui.mute.textContent = audio.muted ? "Audio" : "Muto";
@@ -260,6 +277,17 @@
     });
 
     function attemptPlay() {
+      if (!ui.volume) {
+        if (audio.volume <= 0.001) {
+          audio.volume = 0.25;
+          store.setItem(KEYS.volume, "0.25");
+        }
+        if (audio.muted) {
+          audio.muted = false;
+          store.setItem(KEYS.muted, "false");
+        }
+      }
+
       var playPromise = audio.play();
       if (!playPromise || typeof playPromise.then !== "function") {
         return;
@@ -278,6 +306,16 @@
 
     ui.toggle.addEventListener("click", function () {
       if (audio.paused) {
+        if (!ui.volume) {
+          if (audio.volume <= 0.001) {
+            audio.volume = 0.25;
+            store.setItem(KEYS.volume, "0.25");
+          }
+          if (audio.muted) {
+            audio.muted = false;
+            store.setItem(KEYS.muted, "false");
+          }
+        }
         shouldPlay = true;
         store.setItem(KEYS.enabled, "true");
         attemptPlay();
@@ -324,6 +362,14 @@
       store.setItem(KEYS.volume, String(audio.volume));
       if (ui.volume) {
         ui.volume.value = String(Math.round(audio.volume * 100));
+      }
+      if (ui.inlineVolume) {
+        if (audio.muted) {
+          ui.inlineVolume.textContent = "muted";
+        } else {
+          ui.inlineVolume.textContent =
+            String(Math.round(audio.volume * 100)) + "%";
+        }
       }
       if (ui.volumeValue) {
         var percent = String(Math.round(audio.volume * 100)) + "%";
