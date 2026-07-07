@@ -1,13 +1,13 @@
 ---
 layout: entry
-title: Saint Humility (Umilta da Faenza)
+title: Saint Humility (Umiltà da Faenza)
 subtitle: Vallombrosan anchoress, abbess, foundress, and attributed author of Latin sermons
 dates: "c. 1226 - 22 May 1310"
 meta:
   - title: IDENTITY
     pairs:
       - label: Name
-        value: Umilta da Faenza; Latin - Humilitas
+        value: Umiltà da Faenza; Latin - Humilitas
       - label: Birth name
         value: Rosanese Negusanti (traditional attribution)
       - label: Historical profile
@@ -28,7 +28,7 @@ meta:
       - label: Conversion
         value: Husband's grave illness and mutual renunciation of married life
       - label: Early religious life
-        value: Entry at Santa Perpetua near Faenza; receives name Umilta
+        value: Entry at Santa Perpetua near Faenza; receives name Umiltà
       - label: Anchoritic phase
         value: Enclosed near Sant'Apollinare, Faenza, traditionally about 12 years
       - label: Monastic foundations
@@ -50,7 +50,7 @@ meta:
   - title: PRIMARY SOURCES
     links:
       - title: Two Latin Vitae (Vallombrosan redactions; critical edition by Adele Simonetti)
-      - title: Latin sermones attributed to Umilta (critical edition by Adele Simonetti)
+      - title: Latin sermones attributed to Umiltà (critical edition by Adele Simonetti)
       - title: Acta Sanctorum (Bollandist compilations)
       - title: Bibliotheca Sanctorum (reference tradition)
     note: Documentation is internally produced by the cult tradition; source-critical reading is necessary for all biographical claims.
@@ -78,7 +78,7 @@ meta:
 
   - title: HISTORIOGRAPHICAL NOTES
     paragraphs:
-      - Modern work on Umilta depends on critical philology of the Vitae and sermones and on close separation of documented data from hagiographic topoi.
+      - Modern work on Umiltà depends on critical philology of the Vitae and sermones and on close separation of documented data from hagiographic topoi.
       - Claims about chronology, juridical status of cult confirmation, and sermon count remain partly provisional and should be cited with explicit source control.
       - Art-historical interpretation of the Lorenzetti ensemble must distinguish secure evidence from reconstruction hypotheses.
 
