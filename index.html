@@ -122,6 +122,34 @@
         color: rgba(244, 241, 232, 0.92);
       }
 
+      .julian-date-panel__audio {
+        margin-top: 0.75rem;
+        text-align: center;
+        color: rgba(244, 241, 232, 0.9);
+        font-size: 0.9rem;
+      }
+
+      .julian-date-panel__audio-btn {
+        appearance: none;
+        border: 1px solid rgba(201, 169, 97, 0.55);
+        background: rgba(201, 169, 97, 0.2);
+        color: #fff4da;
+        border-radius: 999px;
+        padding: 0.2rem 0.7rem;
+        font: inherit;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      .julian-date-panel__audio-btn:hover {
+        background: rgba(201, 169, 97, 0.32);
+      }
+
+      .julian-date-panel__audio-btn:focus-visible {
+        outline: 2px solid #f4c96f;
+        outline-offset: 2px;
+      }
+
       header h1 {
         font-size: 2.8rem;
         margin-bottom: 0.5rem;
@@ -670,6 +698,18 @@
           <p class="julian-date-panel__phase-value" id="lunar-phase-value">
             Loading...
           </p>
+          <div class="julian-date-panel__audio">
+            (
+            <button
+              id="gregorian-inline-toggle"
+              type="button"
+              class="julian-date-panel__audio-btn"
+              aria-label="Attiva o metti in pausa i canti gregoriani"
+            >
+              Attiva audio
+            </button>
+            )
+          </div>
         </aside>
 
         <div class="header-copy">
@@ -892,7 +932,7 @@
         const jdn = gregorianToJdn(
           now.getFullYear(),
           now.getMonth() + 1,
-          now.getDate(),
+          now.getDate()
         );
         const parts = jdnToJulian(jdn);
         return { ...parts, jdn };
@@ -1014,14 +1054,14 @@
 
       function noticeDateLabel(notice) {
         const changeType = String(
-          notice.change_type || "modified",
+          notice.change_type || "modified"
         ).toLowerCase();
         return changeType === "created" ? "Created on" : "Modified on";
       }
 
       function noticeChangeBadge(notice) {
         const changeType = String(
-          notice.change_type || "modified",
+          notice.change_type || "modified"
         ).toLowerCase();
         if (changeType === "created") {
           return {
@@ -1087,7 +1127,7 @@
           const linkHref = escapeHtml(normalizeNoticeLink(latestNotice));
           const dateLabel = escapeHtml(noticeDateLabel(latestNotice));
           const pushedDate = escapeHtml(
-            formatPushedDate(latestNotice.pushed_at),
+            formatPushedDate(latestNotice.pushed_at)
           );
           const changeBadge = noticeChangeBadge(latestNotice);
           const changeBadgeText = escapeHtml(changeBadge.text);
@@ -1116,6 +1156,7 @@
       renderJulianDatePanel();
       renderPushNoticesCard();
     </script>
+    <script src="/assets/js/gregorian-player.js" defer></script>
     <script src="/assets/js/visitor-counter.js" defer></script>
   </body>
 </html>

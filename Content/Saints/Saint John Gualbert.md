@@ -98,7 +98,7 @@ Hagiographic tradition, while shaped by later devotional aims, preserves this pr
 
 The confrontation, which became the defining episode of Giovanni's entire life, took place on a Good Friday, the most solemn day of the Christian liturgical calendar. As Giovanni was riding through Florence with his armed followers, he encountered his brother's killer in a narrow lane — possibly near the Porta San Miniato. He drew his sword and was prepared to carry out the killing when the man fell to his knees, extended his arms in the form of a cross, and begged for mercy in the name of Jesus Christ, reminding Giovanni that this was the very day on which the Saviour had died forgiving his own murderers.
 
-The gesture struck Giovanni with sudden and overwhelming force. In that instant, he experienced what his biographers interpret as a vision or acute awareness of Christ on the Cross — a direct spiritual confrontation with the logic of Christian forgiveness that cut through every social and familial imperative he had been conditioned to obey. He threw down his sword, granted his brother's murderer full forgiveness, and embraced him. 
+The gesture struck Giovanni with sudden and overwhelming force. In that instant, he experienced what his biographers interpret as a vision or acute awareness of Christ on the Cross — a direct spiritual confrontation with the logic of Christian forgiveness that cut through every social and familial imperative he had been conditioned to obey. He threw down his sword, granted his brother's murderer full forgiveness, and embraced him.
 
 <figure class="figure--right figure--right-400">
   <img src="/Images/Saint John Gualbert/image 1.jpg" alt="The Merciful Knight">
@@ -157,21 +157,21 @@ He was universally celebrated for his compassion toward the poor and the sick. A
 
 ## Artistic Representation
 
-The visual arts were drawn to Giovanni Gualberto's story with particular frequency, finding in his life a wealth of dramatic and devotional subject matter. 
+The visual arts were drawn to Giovanni Gualberto's story with particular frequency, finding in his life a wealth of dramatic and devotional subject matter.
 
 <figure class="figure--right figure--right-400">
   <img src="/Images/Saint John Gualbert/image 2.jpg" alt="St. John Gualbert Enthroned with Four Stories from his Life">
   <figcaption>Giovanni dal Biondo (news from 1356 to 1398), St. John Gualbert Enthroned with Four Stories from his Life, c. 1370, tempera on panel, Museo dell'Opera di Santa Croce, Florence.</figcaption>
 </figure>
 
-The most celebrated medieval treatment is a large polyptych by Giovanni del Biondo<a href="../../../painters.html#giovanni-del-biondo" class="footnote"><sup>10</sup></a>, painted in 1370, which depicts Saint John Gualbert enthroned in majesty with scenes from his life rendered in the predella panels, originally visible in Saint Micheal monastery at San Salvi and now housed in the Museo dell'Opera di Santa Croce, Florence. 
+The most celebrated medieval treatment is a large polyptych by Giovanni del Biondo<a href="../../../painters.html#giovanni-del-biondo" class="footnote"><sup>10</sup></a>, painted in 1370, which depicts Saint John Gualbert enthroned in majesty with scenes from his life rendered in the predella panels, originally visible in Saint Micheal monastery at San Salvi and now housed in the Museo dell'Opera di Santa Croce, Florence.
 
 <figure class="figure--right figure--clear-right figure--right-400">
   <img src="/Images/Saint John Gualbert/image 3.jpg" alt="Glory of St. John Gualbert">
   <figcaption>Neri di Bicci (-1492), Glory of St. John Gualbert, 1455, fresco, Basilica di Santa Trinità, Florence.</figcaption>
 </figure>
 
-A later and more celebrated work is the altarpiece by Neri di Bicci<a href="../../../painters.html#neri-di-bicci" class="footnote"><sup>11</sup></a> painted in 1455 for Santa Trinita in Florence, showing the saint enthroned among companion saints in a gold-ground composition of great refinement. 
+A later and more celebrated work is the altarpiece by Neri di Bicci<a href="../../../painters.html#neri-di-bicci" class="footnote"><sup>11</sup></a> painted in 1455 for Santa Trinita in Florence, showing the saint enthroned among companion saints in a gold-ground composition of great refinement.
 
 <figure class="figure--right figure--clear-right figure--right-400">
   <img src="/Images/Saint John Gualbert/image 4.jpg" alt="Miracle of St. John Gualbert">
@@ -192,7 +192,7 @@ Giovanni Gualberto was named patron saint of foresters and park rangers, a patro
 
 The Vallombrosan Order he founded has survived without interruption to the present day. As of 2015, the congregation maintained nine houses with 73 monks and 43 priests, with the motherhouse still located at the ancient Abbey of Vallombrosa in the Apennines above Florence. The order counts among its most curious historical footnotes the fact that a young Galileo Galilei spent a period as a novice with the Vallombrosans in the 1570s before his father withdrew him and redirected him toward medicine and mathematics, setting in motion one of the most consequential scientific careers in human history. The monastery of Vallombrosa itself remains a site of active monastic life, a destination for pilgrims, and one of the most strikingly beautiful sacred landscapes in all of Tuscany.
 
-The historical significance of Giovanni Gualberto's life and reform can be fully appreciated only against the broader panorama of eleventh- and twelfth-century religious renewal that the American medievalist [Giles Constable](/scholars.html#constable-giles) spent his career illuminating. In his landmark synthesis *The Reformation of the Twelfth Century* (1996), Constable argued that the explosion of new religious orders, hermit movements, and monastic experiments between roughly 1050 and 1150 constituted a coherent reforming impulse of the first magnitude — comparable in scope and seriousness to the Protestant Reformation five centuries later. 
+The historical significance of Giovanni Gualberto's life and reform can be fully appreciated only against the broader panorama of eleventh- and twelfth-century religious renewal that the American medievalist [Giles Constable](/scholars.html#constable-giles) spent his career illuminating. In his landmark synthesis *The Reformation of the Twelfth Century* (1996), Constable argued that the explosion of new religious orders, hermit movements, and monastic experiments between roughly 1050 and 1150 constituted a coherent reforming impulse of the first magnitude — comparable in scope and seriousness to the Protestant Reformation five centuries later.
 
 Within that framework, Giovanni Gualberto emerges not as an isolated charismatic figure but as one of the earliest and most consequential architects of the new monastic landscape: his insistence on absolute poverty, his militant campaign against simony, and his creation of a congregational structure that subordinated all daughter houses to Vallombrosa anticipated the organizational innovations that would later characterize Cluny and Cîteaux. Constable's interpretive lens makes visible the degree to which Giovanni was simultaneously a local Tuscan reformer and a pan-European forerunner.
 

@@ -92,7 +92,7 @@
 
           sections.forEach(function (sec) {
             const visibleItems = sec.querySelectorAll(
-              ".endnotes-list__item:not(.endnotes-list__item--hidden)",
+              ".endnotes-list__item:not(.endnotes-list__item--hidden)"
             );
             sec.style.display = visibleItems.length ? "" : "none";
           });
@@ -100,7 +100,7 @@
           if (noResults) {
             noResults.classList.toggle(
               "endnotes-no-results--visible",
-              !anyVisible,
+              !anyVisible
             );
           }
         }
@@ -120,6 +120,11 @@
         }
       })();
     </script>
+
+    <script
+      src="{{ '/assets/js/gregorian-player.js' | relative_url }}"
+      defer
+    ></script>
 
     <script
       src="{{ '/assets/js/visitor-counter.js' | relative_url }}"
