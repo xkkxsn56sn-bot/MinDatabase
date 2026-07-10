@@ -178,6 +178,34 @@
         margin: 0 auto;
       }
 
+      .apsis-flag {
+        margin: 0.8rem auto 0;
+        display: none;
+        width: fit-content;
+        max-width: 100%;
+        padding: 0.4rem 0.75rem;
+        border-radius: 999px;
+        border: 1px solid rgba(201, 169, 97, 0.7);
+        background: rgba(201, 169, 97, 0.22);
+        color: #fff6dc;
+        font-size: 0.85rem;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+        text-align: center;
+      }
+
+      .apsis-flag--perihelion {
+        background: rgba(170, 222, 187, 0.2);
+        border-color: rgba(170, 222, 187, 0.65);
+        color: #ecfff3;
+      }
+
+      .apsis-flag--aphelion {
+        background: rgba(168, 189, 233, 0.24);
+        border-color: rgba(168, 189, 233, 0.7);
+        color: #edf2ff;
+      }
+
       .push-notice-card {
         grid-column: 3;
         justify-self: end;
@@ -731,6 +759,7 @@
             (Michelangelo Buonarroti)
           </p>
           <p class="tagline">A Database of Medieval Art & Artists</p>
+          <p id="apsis-flag" class="apsis-flag" aria-live="polite"></p>
         </div>
 
         <aside class="push-notice-card" aria-live="polite">
@@ -1100,6 +1129,94 @@
         lunarPhaseValue.textContent = getCurrentLunarPhaseLabel();
       }
 
+      function todayIsoDate() {
+        const now = new Date();
+        const year = now.getFullYear();
+        const month = String(now.getMonth() + 1).padStart(2, "0");
+        const day = String(now.getDate()).padStart(2, "0");
+        return `${year}-${month}-${day}`;
+      }
+
+      function parseApsisCsv(text) {
+        const lines = String(text || "")
+          .trim()
+          .split(/\r?\n/)
+          .slice(1);
+
+        const map = new Map();
+        for (const line of lines) {
+          const [date, distance] = line.split(",");
+          if (!date || !distance) {
+            continue;
+          }
+          map.set(date.trim(), Number(distance));
+        }
+        return map;
+      }
+
+      async function loadApsisMap(url) {
+        const response = await fetch(url, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`Unable to load ${url}`);
+        }
+        const csvText = await response.text();
+        return parseApsisCsv(csvText);
+      }
+
+      function showApsisFlag(type, distance) {
+        const flag = document.getElementById("apsis-flag");
+        if (!flag) {
+          return;
+        }
+
+        flag.classList.remove("apsis-flag--perihelion", "apsis-flag--aphelion");
+
+        const label = type === "perihelion" ? "perihelion" : "aphelion";
+        const distanceText = Number(distance).toFixed(6);
+        flag.textContent = `Today is ${label} - ${distanceText} million km`;
+        flag.classList.add(
+          type === "perihelion"
+            ? "apsis-flag--perihelion"
+            : "apsis-flag--aphelion"
+        );
+        flag.style.display = "inline-block";
+      }
+
+      async function renderApsisFlag() {
+        const flag = document.getElementById("apsis-flag");
+        if (!flag) {
+          return;
+        }
+
+        const today = todayIsoDate();
+        const year = Number(today.slice(0, 4));
+        if (year < 2027) {
+          flag.style.display = "none";
+          return;
+        }
+
+        try {
+          const [perihelionMap, aphelionMap] = await Promise.all([
+            loadApsisMap("/distanza_terra_sole_perielio_2027_2100.csv"),
+            loadApsisMap("/distanza_terra_sole_afelio_2027_2100.csv"),
+          ]);
+
+          if (perihelionMap.has(today)) {
+            showApsisFlag("perihelion", perihelionMap.get(today));
+            return;
+          }
+
+          if (aphelionMap.has(today)) {
+            showApsisFlag("aphelion", aphelionMap.get(today));
+            return;
+          }
+
+          flag.style.display = "none";
+        } catch (_error) {
+          flag.style.display = "none";
+        }
+      }
+
       async function renderPushNoticesCard() {
         const listElement = document.getElementById("push-notice-list");
         const statusElement = document.getElementById("push-notice-status");
@@ -1167,6 +1284,7 @@
 
       renderJulianDatePanel();
       renderPushNoticesCard();
+      renderApsisFlag();
     </script>
     <script src="/assets/js/gregorian-player.js" defer></script>
     <script src="/assets/js/visitor-counter.js" defer></script>
