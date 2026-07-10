@@ -12,8 +12,6 @@ title: "Scholars"
       type="button"
       id="themeToggle"
       aria-pressed="false"
-      aria-label="Switch To Museum-Minimal"
-      title="Switch To Museum-Minimal"
     >
       Switch To Museum-Minimal
     </button>
@@ -1974,6 +1972,91 @@ title: "Scholars"
         </p>
       </div>
 
+      <div class="scholar-entry" id="binaghi-olivari-maria-teresa">
+        <h3>Binaghi Olivari, Maria Teresa</h3>
+        <p class="dates">d. 20 August 2021</p>
+        <p>
+          Maria Teresa Binaghi Olivari was an Italian art historian and heritage
+          official whose career was bound up with the study and conservation of
+          Lombard art, and in particular with the Pinacoteca di Brera and the
+          wider Milanese Soprintendenza. A word of caution at the outset:
+          biographical documentation on her is thin. The fullest single source
+          is the obituary Franco Moro published in
+          <em>Il Giornale dell'Arte</em> in September 2021, supplemented by her
+          own professional self-description and her bibliographic footprint. Her
+          date and place of birth are not recorded in the sources available, and
+          this gap is best flagged rather than filled with conjecture.
+        </p>
+        <p>
+          By her own account, Binaghi Olivari served as a
+          <em>funzionario storico dell'arte</em> (art-historical officer) at the
+          Soprintendenza per i Beni Artistici e Storici in Milan from 1969 to
+          1998, rising eventually to the rank of
+          <em>soprintendente aggiunto</em> (deputy superintendent) over what her
+          obituarist counted as more than forty years of service. Moro records
+          that she trained under, and was shaped by, the examples of Gian
+          Alberto Dell'Acqua, Franco Russoli, and Carlo Bertelli - three
+          dominant figures in mid-twentieth-century Milanese museum culture and
+          Brera scholarship. That lineage situates her firmly within the
+          Brera-Poldi Pezzoli axis of Lombard connoisseurship rather than the
+          academic university system.
+        </p>
+        <p>
+          Her published interests were unusually wide, spanning roughly six
+          centuries, though the center of gravity lay in the Lombard
+          Renaissance. According to Moro, her earliest work, from 1965,
+          addressed the thirteenth-century sculptor Guido Bigarelli da Como; she
+          then turned to Bernardino Luini - a projected monograph that,
+          tellingly, she never brought to completion - and to the Lombard
+          woodcarvers (<em>intagliatori</em>). In her later years her attention
+          shifted toward subjects often neglected as marginal: the history of
+          Milanese embroiderers and of the first museum restorers. One fruit of
+          this late direction was her 2018 identification, in the parish church
+          of Caglio above Lake Como, of four canvases painted in 1776 by the
+          young Andrea Appiani - the pursuit of a restorer's biography leading
+          to an attributional discovery.
+        </p>
+        <p>
+          Her most cited contributions belong to the study of painting in Milan
+          around 1500. She was among the authors of the landmark catalogue
+          <em
+            >Zenale e Leonardo. Tradizione e rinnovamento della pittura
+            lombarda</em
+          >
+          (Museo Poldi Pezzoli, 4 December 1982 - 28 February 1983), where her
+          attributional arguments - for instance connecting works to Bernardo
+          Zenale's circle and tracing Bramantino's and Luini's inflections in
+          provincial cycles such as those at Gravedona - are still engaged with
+          by specialists today. She also wrote on the artistic and cultural
+          situation of Milan under French occupation, in her essay
+          <em>I francesi a Milano (1499-1525): arti figurative e moda</em>
+          (1979), and, reflecting her interest in textiles, co-edited studies of
+          lace and its symbolism with Alessandra Mottola Molfino (<em
+            >I pizzi: moda e simbolo</em
+          >). She authored a well-known guide to the Brera picture gallery (<em
+            >The Pinacoteca of Brera</em
+          >, with a preface by Carlo Bertelli). In 1992 she supervised the
+          celebrated restoration of Luini's <em>Pelucca</em> frescoes, carried
+          out by Pinin Brambilla. Decades on, she was still active as a member
+          of the working group for the 2010-11 exhibition
+          <em
+            >Il Rinascimento nelle terre ticinesi. Da Bramantino a Bernardino
+            Luini</em
+          >
+          at Rancate.
+        </p>
+        <p>
+          Moro's obituary is candid about a professional disappointment - that
+          the top superintendency she was equipped for never came - and warm
+          about her personality, remembering her sharp wit and the cropped,
+          jaunty haircut by which colleagues had known her since the 1980s. The
+          portrait that emerges is of a rigorous heritage professional who did
+          much of her most valuable work on precisely the unglamorous, archival
+          edges of the discipline: restorers, embroiderers, and provincial
+          attributions.
+        </p>
+      </div>
+
       <div class="scholar-entry" id="bikiaris-dimitrios">
         <div class="endnotes-list__item-heading">
           <div class="endnotes-list__item-thumb">
@@ -2112,91 +2195,6 @@ title: "Scholars"
           arsenal of a modern polymer chemistry department to bear on medieval
           sacred art gave the Ormylia team a scientific depth that few
           comparable heritage institutions could match.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="binaghi-olivari-maria-teresa">
-        <h3>Binaghi Olivari, Maria Teresa</h3>
-        <p class="dates">d. 20 August 2021</p>
-        <p>
-          Maria Teresa Binaghi Olivari was an Italian art historian and heritage
-          official whose career was bound up with the study and conservation of
-          Lombard art, and in particular with the Pinacoteca di Brera and the
-          wider Milanese Soprintendenza. A word of caution at the outset:
-          biographical documentation on her is thin. The fullest single source
-          is the obituary Franco Moro published in
-          <em>Il Giornale dell'Arte</em> in September 2021, supplemented by her
-          own professional self-description and her bibliographic footprint. Her
-          date and place of birth are not recorded in the sources available, and
-          this gap is best flagged rather than filled with conjecture.
-        </p>
-        <p>
-          By her own account, Binaghi Olivari served as a
-          <em>funzionario storico dell'arte</em> (art-historical officer) at the
-          Soprintendenza per i Beni Artistici e Storici in Milan from 1969 to
-          1998, rising eventually to the rank of
-          <em>soprintendente aggiunto</em> (deputy superintendent) over what her
-          obituarist counted as more than forty years of service. Moro records
-          that she trained under, and was shaped by, the examples of Gian
-          Alberto Dell'Acqua, Franco Russoli, and Carlo Bertelli - three
-          dominant figures in mid-twentieth-century Milanese museum culture and
-          Brera scholarship. That lineage situates her firmly within the
-          Brera-Poldi Pezzoli axis of Lombard connoisseurship rather than the
-          academic university system.
-        </p>
-        <p>
-          Her published interests were unusually wide, spanning roughly six
-          centuries, though the center of gravity lay in the Lombard
-          Renaissance. According to Moro, her earliest work, from 1965,
-          addressed the thirteenth-century sculptor Guido Bigarelli da Como; she
-          then turned to Bernardino Luini - a projected monograph that,
-          tellingly, she never brought to completion - and to the Lombard
-          woodcarvers (<em>intagliatori</em>). In her later years her attention
-          shifted toward subjects often neglected as marginal: the history of
-          Milanese embroiderers and of the first museum restorers. One fruit of
-          this late direction was her 2018 identification, in the parish church
-          of Caglio above Lake Como, of four canvases painted in 1776 by the
-          young Andrea Appiani - the pursuit of a restorer's biography leading
-          to an attributional discovery.
-        </p>
-        <p>
-          Her most cited contributions belong to the study of painting in Milan
-          around 1500. She was among the authors of the landmark catalogue
-          <em
-            >Zenale e Leonardo. Tradizione e rinnovamento della pittura
-            lombarda</em
-          >
-          (Museo Poldi Pezzoli, 4 December 1982 - 28 February 1983), where her
-          attributional arguments - for instance connecting works to Bernardo
-          Zenale's circle and tracing Bramantino's and Luini's inflections in
-          provincial cycles such as those at Gravedona - are still engaged with
-          by specialists today. She also wrote on the artistic and cultural
-          situation of Milan under French occupation, in her essay
-          <em>I francesi a Milano (1499-1525): arti figurative e moda</em>
-          (1979), and, reflecting her interest in textiles, co-edited studies of
-          lace and its symbolism with Alessandra Mottola Molfino (<em
-            >I pizzi: moda e simbolo</em
-          >). She authored a well-known guide to the Brera picture gallery (<em
-            >The Pinacoteca of Brera</em
-          >, with a preface by Carlo Bertelli). In 1992 she supervised the
-          celebrated restoration of Luini's <em>Pelucca</em> frescoes, carried
-          out by Pinin Brambilla. Decades on, she was still active as a member
-          of the working group for the 2010-11 exhibition
-          <em
-            >Il Rinascimento nelle terre ticinesi. Da Bramantino a Bernardino
-            Luini</em
-          >
-          at Rancate.
-        </p>
-        <p>
-          Moro's obituary is candid about a professional disappointment - that
-          the top superintendency she was equipped for never came - and warm
-          about her personality, remembering her sharp wit and the cropped,
-          jaunty haircut by which colleagues had known her since the 1980s. The
-          portrait that emerges is of a rigorous heritage professional who did
-          much of her most valuable work on precisely the unglamorous, archival
-          edges of the discipline: restorers, embroiderers, and provincial
-          attributions.
         </p>
       </div>
 
@@ -3167,112 +3165,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="cameron-alan">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/alan-cameron.webp"
-              alt="Portrait of Alan Cameron"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">Cameron, Alan</h3>
-        </div>
-        <p class="dates">13 March 1938 - 31 July 2017</p>
-        <p>
-          Alan Cameron was one of the most formidable classical scholars of the
-          late twentieth and early twenty-first centuries, a historian and
-          philologist whose work ranged from Hellenistic poetry to Byzantine
-          circus factions, with the whole cultural and political world of late
-          antiquity in between. His scholarship is especially notable for its
-          recurring impact on the study of late antique intellectual, religious,
-          and artistic culture, where he repeatedly used exacting philology to
-          dismantle entrenched interpretive narratives.
-        </p>
-        <p>
-          He was born on 13 March 1938 and educated at St Paul's School in
-          London between 1951 and 1956. There he and Martin West, later one of
-          the other great classical philologists of the generation, founded an
-          astronomical society, an early sign of the minute observational habits
-          that would mark both men's careers. Cameron later paid explicit
-          tribute to the formidable schoolmaster W. W. Cruickshank, a teacher he
-          regarded as central to his formation. He went on to New College,
-          Oxford, where he took firsts in Honour Moderations in 1959 and in
-          Literae Humaniores in 1961. At Oxford he attended Eduard Fraenkel's
-          celebrated and intimidating seminars, while Arnaldo Momigliano took a
-          direct interest in his earliest papers. He later named Fraenkel,
-          Momigliano, and Cruickshank together in the preface to his book on
-          Callimachus. He never completed a doctorate, a fact he later recalled
-          with some pride and amusement.
-        </p>
-        <p>
-          Cameron's academic career moved quickly and internationally. He began
-          as Lecturer at Glasgow in 1961, then became Lecturer and later Reader
-          in Latin at Bedford College, London, from 1964 to 1972. From 1972 to
-          1977 he held the Chair of Latin at King's College London. In 1977 he
-          crossed to Columbia University as Charles Anthon Professor of Latin
-          Language and Literature, remaining there until his retirement in 2008.
-          His honors reflect the exceptional range of his authority: Fellow of
-          the British Academy in 1975, Fellow of the American Academy of Arts
-          and Sciences in 1978, Fellow of the American Philosophical Society in
-          1992, and recipient of the British Academy's Kenyon Medal for
-          Classical Studies and Archaeology in 2013. In 1998 he married Carla
-          Asher, who survived him. He died in New York on 31 July 2017 at the
-          age of seventy-nine, while being treated for complications of ALS.
-        </p>
-        <p>
-          The range of his scholarship was extraordinary. His essential books
-          include
-          <em>Claudian: Poetry and Propaganda at the Court of Honorius</em>
-          (1970), which made the late antique poet a historical source rather
-          than a literary ornament; <em>Porphyrius the Charioteer</em> (1973);
-          <em>Bread and Circuses</em> (1974);
-          <em>Circus Factions: Blues and Greens at Rome and Byzantium</em>
-          (1976), where he demolished the long-popular idea that the circus
-          factions were simply fronts for organised religious or political
-          parties;
-          <em>Barbarians and Politics at the Court of Arcadius</em> (1993, with
-          Jacqueline Long);
-          <em>The Greek Anthology from Meleager to Planudes</em> (1993);
-          <em>Callimachus and His Critics</em> (1995);
-          <em>Greek Mythography in the Roman World</em> (2004);
-          <em>The Last Pagans of Rome</em> (2011); and
-          <em
-            >Wandering Poets and Other Essays on Late Greek Literature and
-            Philosophy</em
-          >
-          (2015). Across these works the method is strikingly consistent: exact
-          philology used to overturn a widely accepted but, in his view, weakly
-          supported orthodoxy.
-        </p>
-        <p>
-          His most consequential intervention for late antique cultural history
-          was <em>The Last Pagans of Rome</em>, an immense and combative book in
-          which he attacked the still-popular narrative of a heroic,
-          self-conscious pagan senatorial resistance in the fourth-century West,
-          culminating in the battle of the Frigidus. Cameron argued instead that
-          no such organised final stand existed, that the paganism of the Roman
-          aristocracy was often social, cultivated, and antiquarian rather than
-          ideologically militant, and that the Christianisation of the elite was
-          both earlier and less dramatically contested than standard narratives
-          had allowed. The book is exemplary of his historical style: patient,
-          overwhelming in documentation, and openly revisionist.
-        </p>
-        <p>
-          For scholars of late antique art, Cameron's importance lies partly in
-          this broader dismantling of inherited narratives, but also in his
-          repeated engagement with visual and material culture as evidence. His
-          work on late antique ceremonial, elite self-representation, public
-          spectacle, and literary-historical context bears directly on the world
-          in which ivories, manuscripts, inscriptions, consular diptychs, and
-          monumental imagery were produced and read. Even when writing as a
-          philologist rather than as an art historian, he persistently altered
-          the historical framework within which late antique art must be
-          interpreted.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="cannon-joanna">
         <div class="endnotes-list__item-heading">
           <div class="endnotes-list__item-thumb">
@@ -3477,6 +3369,70 @@ title: "Scholars"
         </p>
       </div>
 
+      <div class="scholar-entry" id="casazza-ornella">
+        <h3>Casazza, Ornella</h3>
+        <p class="dates">Rezzoaglio (Genoa), 1943 – Florence, March 2020</p>
+        <p>
+          Ornella Casazza was one of the most celebrated and respected Italian
+          restorers of the twentieth century, widely recognized as a leading
+          authority in the conservation of pictorial heritage. Although born in
+          Rezzoaglio in Liguria in 1943, she spent almost her entire
+          professional life in Florence, where she developed the career that
+          would place her at the center of postwar restoration culture in Italy
+          and abroad.
+        </p>
+        <p>
+          Her formation unfolded in a decisive historical context. Living in
+          Florence at the time of the catastrophic flood of 4 November 1966, she
+          experienced directly the emergency that transformed the discipline of
+          conservation and brought her into contact with Umberto Baldini and the
+          restoration environment that later shaped the Opificio delle Pietre
+          Dure's post-flood methodologies. After a long workshop apprenticeship,
+          she entered the Opificio officially in 1974, following a national
+          competitive examination.
+        </p>
+        <p>
+          The range and quality of her interventions are exceptional. Her work
+          on Cimabue's Crucifix in Santa Croce became a key site for the
+          refinement of lacuna reintegration methods, while the restoration of
+          Botticelli's <em>Primavera</em> was presented as a methodological
+          landmark in the 1982 exhibition <em>Method and Science</em>. The most
+          internationally celebrated project of her career, however, was the
+          direction of the restoration of the Brancacci Chapel frescoes by
+          Masaccio, Masolino, and Filippino Lippi in Santa Maria del Carmine, a
+          campaign considered exemplary for both technical innovation and
+          historical results. She also directed the restoration of Masaccio's
+          San Giovenale Triptych, a fundamental work for early fifteenth-century
+          Florentine painting.
+        </p>
+        <p>
+          Casazza's contribution was as theoretical as it was practical. Through
+          sustained work on flood-damaged paintings and on major medieval and
+          Renaissance panels, she helped define and stabilize the methods of
+          chromatic selection and chromatic abstraction, approaches that made
+          visual reintegration possible without falsifying the original. In this
+          sense, her work belongs to the broader methodological transformation
+          associated with the Florentine school of restoration in the second
+          half of the twentieth century. Antonio Paolucci would later remember
+          her as a restorer of exceptional standing with international
+          recognition.
+        </p>
+        <p>
+          After advancing through further competitive appointments, Casazza also
+          held major institutional roles, including leadership of
+          advanced-technology research for conservation in Florence and
+          direction of the Museum of Silver and Porcelain at Palazzo Pitti. She
+          curated projects that connected restoration, decorative arts, and
+          modern production, and remained active as a teacher and author in
+          Italy and abroad, with publications on conservation, iconography, and
+          painting techniques that remain widely cited. She died in Florence in
+          March 2020. The 2021 volume
+          <em>L'eredità culturale di Ornella Casazza</em>, edited by Lura
+          Felici, stands as the principal collective tribute to her life and
+          legacy.
+        </p>
+      </div>
+
       <div class="scholar-entry" id="carr-annemarie-weyl">
         <div class="endnotes-list__item-heading">
           <div class="endnotes-list__item-thumb">
@@ -3635,70 +3591,6 @@ title: "Scholars"
           supported, and co-edited across five decades. No single scholar has
           done more to make the painted world of medieval Cyprus legible to the
           international scholarly community.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="casazza-ornella">
-        <h3>Casazza, Ornella</h3>
-        <p class="dates">Rezzoaglio (Genoa), 1943 – Florence, March 2020</p>
-        <p>
-          Ornella Casazza was one of the most celebrated and respected Italian
-          restorers of the twentieth century, widely recognized as a leading
-          authority in the conservation of pictorial heritage. Although born in
-          Rezzoaglio in Liguria in 1943, she spent almost her entire
-          professional life in Florence, where she developed the career that
-          would place her at the center of postwar restoration culture in Italy
-          and abroad.
-        </p>
-        <p>
-          Her formation unfolded in a decisive historical context. Living in
-          Florence at the time of the catastrophic flood of 4 November 1966, she
-          experienced directly the emergency that transformed the discipline of
-          conservation and brought her into contact with Umberto Baldini and the
-          restoration environment that later shaped the Opificio delle Pietre
-          Dure's post-flood methodologies. After a long workshop apprenticeship,
-          she entered the Opificio officially in 1974, following a national
-          competitive examination.
-        </p>
-        <p>
-          The range and quality of her interventions are exceptional. Her work
-          on Cimabue's Crucifix in Santa Croce became a key site for the
-          refinement of lacuna reintegration methods, while the restoration of
-          Botticelli's <em>Primavera</em> was presented as a methodological
-          landmark in the 1982 exhibition <em>Method and Science</em>. The most
-          internationally celebrated project of her career, however, was the
-          direction of the restoration of the Brancacci Chapel frescoes by
-          Masaccio, Masolino, and Filippino Lippi in Santa Maria del Carmine, a
-          campaign considered exemplary for both technical innovation and
-          historical results. She also directed the restoration of Masaccio's
-          San Giovenale Triptych, a fundamental work for early fifteenth-century
-          Florentine painting.
-        </p>
-        <p>
-          Casazza's contribution was as theoretical as it was practical. Through
-          sustained work on flood-damaged paintings and on major medieval and
-          Renaissance panels, she helped define and stabilize the methods of
-          chromatic selection and chromatic abstraction, approaches that made
-          visual reintegration possible without falsifying the original. In this
-          sense, her work belongs to the broader methodological transformation
-          associated with the Florentine school of restoration in the second
-          half of the twentieth century. Antonio Paolucci would later remember
-          her as a restorer of exceptional standing with international
-          recognition.
-        </p>
-        <p>
-          After advancing through further competitive appointments, Casazza also
-          held major institutional roles, including leadership of
-          advanced-technology research for conservation in Florence and
-          direction of the Museum of Silver and Porcelain at Palazzo Pitti. She
-          curated projects that connected restoration, decorative arts, and
-          modern production, and remained active as a teacher and author in
-          Italy and abroad, with publications on conservation, iconography, and
-          painting techniques that remain widely cited. She died in Florence in
-          March 2020. The 2021 volume
-          <em>L'eredità culturale di Ornella Casazza</em>, edited by Lura
-          Felici, stands as the principal collective tribute to her life and
-          legacy.
         </p>
       </div>
 
@@ -6298,109 +6190,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="dudden-frederick-homes">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/frederick-homes-dudden.webp"
-              alt="Portrait of Frederick Homes Dudden"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">Dudden, Frederick Homes</h3>
-        </div>
-        <p class="dates">28 December 1874 - 21 June 1955</p>
-        <p>
-          Frederick Homes Dudden was an English theologian, church historian,
-          Oxford college head, and royal chaplain whose reputation rests on two
-          careers that only occasionally intersect: the public life of a major
-          Anglican academic administrator and the scholarly life of a patristic
-          biographer. He is remembered above all as the author of large-scale
-          English studies of Gregory the Great and Saint Ambrose, works that for
-          decades remained standard points of entry into the Latin Fathers for
-          students of late antique and early medieval Christianity.
-        </p>
-        <p>
-          Educated at Bath College, Dudden matriculated at Pembroke College,
-          Oxford, in 1893, took a first in Classics in 1897, and received his
-          M.A. from Lincoln College in 1900. He then became Fellow, Lecturer in
-          Theology, and Chaplain of Lincoln College from 1898 to 1914, the
-          decisive formative phase of his scholarly life. These were the years
-          in which his patristic interests took definite shape and in which he
-          developed the combination of classical training, ecclesiastical
-          history, and theological reading that marks all his major books.
-        </p>
-        <p>
-          His best-known work is
-          <em>Gregory the Great: His Place in History and Thought</em>
-          (Longmans, Green, 1905), published in two volumes under the name F.
-          Homes Dudden, B.D., Fellow of Lincoln College, Oxford. Written when he
-          was only thirty, the book is a monument of the older English tradition
-          of narrative church history: expansive, carefully sourced, judicious
-          in tone, and occasionally marked by the moralising cadence of late
-          Victorian scholarship. Dudden traced Gregory I's early life, papal
-          elevation, consolidation of the Roman see as a political as well as
-          spiritual power, and major theological writings, setting the whole
-          within a broad historical frame drawn from the primary sources. For
-          medievalists, the book mattered not only as biography but as a
-          synthesis of Gregory's role in transmitting Roman order into the
-          medieval West.
-        </p>
-        <p>
-          That Gregory is the Gregory of the <em>Moralia</em>, the
-          <em>Dialogi</em>, the Augustinian mission to Kent, and the letter to
-          Serenus of Marseilles on sacred images. Dudden treated that letter at
-          length, and in doing so helped shape later English-language readings
-          of Gregory as a key authority for the didactic function of pictures
-          for the illiterate. For historians of manuscripts, church decoration,
-          and medieval image theory, this aspect of Dudden's Gregory remained
-          particularly influential, because it underwrote generations of
-          argument about the legitimacy and pedagogical use of sacred imagery in
-          the Latin West.
-        </p>
-        <p>
-          Alongside scholarship, Dudden built a substantial ecclesiastical and
-          academic career. He became Vicar of Holy Trinity, Sloane Street, in
-          London, and in 1918 was elected Master of Pembroke College, Oxford, a
-          post he held until his death in 1955. He was Canon of Gloucester from
-          1918 to 1937, Chaplain to Kings George V and George VI from 1929 to
-          1952, a member of the Hebdomadal Council from 1924 to 1945,
-          Pro-Vice-Chancellor in two long phases between 1925 and 1949, and
-          Vice-Chancellor of Oxford from 1929 to 1932. His friendship with Lord
-          Nuffield was important for Pembroke's institutional history, since it
-          helped produce the endowment that freed the Mastership from the old
-          canonical link with Gloucester, and he was also the first Master to
-          live in the Lodgings after the previous Master's house had been turned
-          into undergraduate rooms.
-        </p>
-        <p>
-          Dudden returned to patristic scholarship in 1935 with another
-          substantial two-volume study,
-          <em>The Life and Times of St. Ambrose</em> (Oxford University Press).
-          Like the Gregory book, it is expansive and documentary in method,
-          treating its subject not only as theologian and bishop but as a force
-          in the making of late Roman Christian public life. The long interval
-          between the two books did not alter his fundamental method: large
-          narrative construction grounded in close reading of the sources and
-          intended for a learned but broad Anglophone audience.
-        </p>
-        <p>
-          His final major work moved away from patristics altogether. In 1952 he
-          published the two-volume
-          <em>Henry Fielding: His Life, Works, and Times</em> (Clarendon Press),
-          valued especially for its account of the social world around Fielding:
-          poverty, criminal justice, and the failures of the eighteenth-century
-          courts. By the final years of his mastership Dudden had become
-          physically frail, and R. B. McCallum was effectively carrying much of
-          the office before formally succeeding him in 1955. Dudden died on 21
-          June of that year, leaving behind a legacy divided but coherent:
-          administrator of great endurance, and author of patristic biographies
-          that long shaped English understanding of Gregory the Great and
-          Ambrose.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="dufour-bozzo-colette">
         <div class="endnotes-list__item-heading">
           <div class="endnotes-list__item-thumb">
@@ -6499,77 +6288,6 @@ title: "Scholars"
 
     <section class="scholar-section" id="f">
       <h2>F</h2>
-
-      <div class="scholar-entry" id="falk-ilse">
-        <h3>Falk, Ilse</h3>
-        <p class="dates">born 1906; dates uncertain</p>
-        <p>
-          Ilse Falk, later Ilse Falk Silvers, was a German-born art historian of
-          the Trecento remembered chiefly for a single monograph and a single
-          article, both on Andrea Pisano and both still cited today. Her work is
-          better documented than her life, and any honest biography has to say
-          so.
-        </p>
-        <p>
-          She was born in 1906. In 1940 she published
-          <em>Studien zu Andrea Pisano</em> (Hamburg: Niemann &amp; Moschinski),
-          211 pages with plates. The imprint, format, and inclusion of a
-          <em>Lebenslauf</em> identify it as a doctoral dissertation, probably
-          submitted in Hamburg, though the university and the exact year of
-          acceptance still need verification. The date matters: the Hamburg
-          art-historical seminar had belonged to the Warburg-Panofsky milieu
-          until 1933, and by 1940 that world was gone.
-        </p>
-        <p>
-          The book's central thesis outlived it. Falk argued that Andrea
-          Pisano's historical importance lay in his transposition of the
-          principles of monumental painting worked out by Giotto into relief,
-          and that in doing so he gave the decisive impetus toward the
-          weightiness of the Renaissance standing figure with its organically
-          related drapery. That formulation - sometimes quoted directly as "Falk
-          1940" - passed into the Grove/Macmillan article on Andrea and from
-          there into a wide body of later literature. In the standard citation
-          chain she stands alongside Schlosser, Toesca, Valentiner, Ilaria
-          Toesca, Pope-Hennessy, and Wundram, in the pre-Kreytenberg layer of
-          Andrea scholarship.
-        </p>
-        <p>
-          By the early 1940s Falk was in New York. There she collaborated with
-          Jenő Lányi on <em>The Genesis of Andrea Pisano's Bronze Doors</em>,
-          published in <em>The Art Bulletin</em> 25, no. 2 (June 1943), pp.
-          132-153, with both authors listed as "New York City." The article
-          takes up the long-standing relation between medieval Italian art and
-          Byzantium and the place of that relation in the passage from Duecento
-          to Trecento. It appeared posthumously for Lányi, who had drowned in
-          the sinking of the <em>City of Benares</em> in September 1940. Whether
-          the article was already substantially complete before his death, or
-          whether Falk brought the material to publication herself, remains an
-          open question.
-        </p>
-        <p>
-          Ulrike Wendland's
-          <em
-            >Biographisches Handbuch deutschsprachiger Kunsthistoriker im
-            Exil</em
-          >
-          lists her as "Falk Silvers, Ilse" and classifies her as an emigrant.
-          The compound surname is explained by her 1944 marriage to the sculptor
-          Herbert Ferber, born Herbert Ferber Silvers, a leading figure of the
-          New York School and one of the first American sculptors to win major
-          architectural commissions. They later separated, and Ferber remarried
-          in 1967. The identification of the Andrea Pisano scholar with Ferber's
-          second wife rests on the Wendland entry's compound name together with
-          the New York chronology; it is persuasive, but still an inference
-          rather than an explicit source statement.
-        </p>
-        <p>
-          After 1943 her published output on Trecento sculpture appears to stop.
-          That silence is familiar in the history of emigrant women scholars,
-          and Wendland's handbook exists in part because so many such careers
-          were truncated. But the bibliography alone cannot say what she did or
-          did not do after that point.
-        </p>
-      </div>
 
       <div class="scholar-entry" id="federici-vincenzo">
         <h3>Federici, Vincenzo</h3>
@@ -6684,114 +6402,6 @@ title: "Scholars"
           of the leading Italian diplomatists of the twentieth century and his
           ideal successor in teaching. Vincenzo Federici passed away in Rome on
           November 20, 1953, at the age of 82.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="filippini-francesco">
-        <h3>Filippini, Francesco</h3>
-        <p class="dates">
-          art historian and documentary scholar of Bolognese medieval painting
-          and manuscript illumination (active c. 1911-1947; d. before 1968)
-        </p>
-        <p>
-          Francesco Filippini was an Italian art historian whose enduring
-          contribution lies in the systematic archival documentation of painters
-          and illuminators active in Bologna during the Duecento, Trecento, and
-          Quattrocento. Working principally in the documentary-philological
-          tradition rather than the connoisseurial one, he assembled, most
-          famously in collaboration with the Bolognese architect and scholar
-          Guido Zucchini, the <em>regesti</em> of notarial and archival records
-          that remain an empirical foundation for the modern study of the
-          <em>scuola bolognese</em> and its <em>miniatore</em> workshops.
-        </p>
-        <p>
-          His name is cited constantly in the standard reference literature on
-          the period. Entries in the
-          <em>Enciclopedia dell'Arte Medievale</em> and the
-          <em>Dizionario Biografico degli Italiani</em> for Vitale da Bologna,
-          Andrea da Bologna, Iacopo (Jacopo) Avanzi, Oderisi da Gubbio, and the
-          Pseudo Jacopino all rely, at documentary level, on Filippini's work.
-        </p>
-        <p>
-          The scholar's own life dates are not securely established in the
-          accessible reference literature. What can be stated with confidence is
-          that his active scholarly career spans at least 1911-1912 (his first
-          major study) to the material behind the 1947 documentary corpus, and
-          that he had died before 1968, when the companion
-          <em>Miniatori e pittori a Bologna</em> volume on the Quattrocento and
-          Cinquecento appeared posthumously under the Accademia Nazionale dei
-          Lincei with later editorial revision. A birth in the 1870s-1880s is a
-          plausible inference from publication chronology, but not a documented
-          fact.
-        </p>
-        <p>
-          Filippini belonged to the generation of Bolognese erudits who, in the
-          first decades of the twentieth century, mined the city's notarial and
-          communal archives to recover names, contracts, and payments attached
-          to medieval artists known previously mostly through attributions. His
-          method was archival and prosopographical: transcribing and dating
-          documents (including the <em>venticinquine</em>, painters' guild
-          matriculation records, notarial <em>rogiti</em>, and payments), and
-          only then relating them to surviving works.
-        </p>
-        <p>
-          This placed him in a complementary relationship with the
-          connoisseurial renewal associated with Roberto Longhi from 1934-1935
-          onward. Where Longhi, and later Francesco Arcangeli, supplied the
-          stylistic framework for reconstructing Bolognese Trecento painting as
-          an autonomous tradition, Filippini provided much of the documentary
-          scaffolding on which those reconstructions relied. At least one of
-          Filippini's early intuitions in the 1911-1912 Avanzi study was later
-          taken up and developed by Arcangeli.
-        </p>
-        <p><strong>Documentary corpora (central achievement)</strong></p>
-        <p>
-          F. Filippini - G. Zucchini,
-          <em>Miniatori e pittori a Bologna. Documenti dei secoli XIII e XIV</em
-          >, Firenze, 1947 (xv + 262 pp.): his magnum opus and still the first
-          point of reference for archival evidence on Bolognese illuminators and
-          painters of the thirteenth and fourteenth centuries.
-        </p>
-        <p>
-          F. Filippini - G. Zucchini,
-          <em>Miniatori e pittori a Bologna. Documenti del secolo XV</em> (with
-          sixteenth-century materials), Roma, Accademia Nazionale dei Lincei,
-          1968: companion volume published posthumously, with later editorial
-          revision and correction.
-        </p>
-        <p><strong>Earlier studies (Bolognese Trecento painting)</strong></p>
-        <p>
-          "Iacopo Avanzi pittore bolognese del Trecento,"
-          <em
-            >Atti e memorie della R. Deputazione di Storia Patria per le
-            Province di Romagna</em
-          >, s. IV, vol. II (1911-1912), pp. 397-432.
-        </p>
-        <p>
-          "Andrea da Bologna. Miniatore e pittore del Sec. XIV,"
-          <em>Bollettino d'Arte</em> (early study; exact year to be verified
-          before final citation).
-        </p>
-        <p>
-          "Per la storia dell'antica pittura bolognese,"
-          <em>Il Comune di Bologna</em>, XVIII (1931), p. 817.
-        </p>
-        <p>
-          Documentary contributions on Vitale da Bologna (cited in specialist
-          literature as "Filippini, 1912"), including the transcription of 1340
-          payments to Vitale <em>pro picturis foresterie</em> in San Francesco.
-        </p>
-        <p>
-          Filippini's regesti became a shared reference apparatus for medieval
-          Bologna and retain that status today. Their use in scholarship is
-          critical rather than unqualified: A. I. Pini (1981) published explicit
-          integrations and additions to the Filippini-Zucchini documentary
-          regesti, and individual misdatings in the 1947 corpus have been
-          corrected in specialist literature (for example, a document later
-          shown to belong to 13 November rather than the printed 3 November).
-          These corrections are the expected evolution of large transcription
-          enterprises and do not diminish Filippini's standing as documentary
-          bedrock for Bolognese medieval art history.
         </p>
       </div>
 
@@ -6921,6 +6531,114 @@ title: "Scholars"
           cross-sectional microscopy, X-ray spectroscopy, and terahertz imaging
           — different tools applied, across half a century, to the same
           irreplaceable monument.
+        </p>
+      </div>
+
+      <div class="scholar-entry" id="filippini-francesco">
+        <h3>Filippini, Francesco</h3>
+        <p class="dates">
+          art historian and documentary scholar of Bolognese medieval painting
+          and manuscript illumination (active c. 1911-1947; d. before 1968)
+        </p>
+        <p>
+          Francesco Filippini was an Italian art historian whose enduring
+          contribution lies in the systematic archival documentation of painters
+          and illuminators active in Bologna during the Duecento, Trecento, and
+          Quattrocento. Working principally in the documentary-philological
+          tradition rather than the connoisseurial one, he assembled, most
+          famously in collaboration with the Bolognese architect and scholar
+          Guido Zucchini, the <em>regesti</em> of notarial and archival records
+          that remain an empirical foundation for the modern study of the
+          <em>scuola bolognese</em> and its <em>miniatore</em> workshops.
+        </p>
+        <p>
+          His name is cited constantly in the standard reference literature on
+          the period. Entries in the
+          <em>Enciclopedia dell'Arte Medievale</em> and the
+          <em>Dizionario Biografico degli Italiani</em> for Vitale da Bologna,
+          Andrea da Bologna, Iacopo (Jacopo) Avanzi, Oderisi da Gubbio, and the
+          Pseudo Jacopino all rely, at documentary level, on Filippini's work.
+        </p>
+        <p>
+          The scholar's own life dates are not securely established in the
+          accessible reference literature. What can be stated with confidence is
+          that his active scholarly career spans at least 1911-1912 (his first
+          major study) to the material behind the 1947 documentary corpus, and
+          that he had died before 1968, when the companion
+          <em>Miniatori e pittori a Bologna</em> volume on the Quattrocento and
+          Cinquecento appeared posthumously under the Accademia Nazionale dei
+          Lincei with later editorial revision. A birth in the 1870s-1880s is a
+          plausible inference from publication chronology, but not a documented
+          fact.
+        </p>
+        <p>
+          Filippini belonged to the generation of Bolognese erudits who, in the
+          first decades of the twentieth century, mined the city's notarial and
+          communal archives to recover names, contracts, and payments attached
+          to medieval artists known previously mostly through attributions. His
+          method was archival and prosopographical: transcribing and dating
+          documents (including the <em>venticinquine</em>, painters' guild
+          matriculation records, notarial <em>rogiti</em>, and payments), and
+          only then relating them to surviving works.
+        </p>
+        <p>
+          This placed him in a complementary relationship with the
+          connoisseurial renewal associated with Roberto Longhi from 1934-1935
+          onward. Where Longhi, and later Francesco Arcangeli, supplied the
+          stylistic framework for reconstructing Bolognese Trecento painting as
+          an autonomous tradition, Filippini provided much of the documentary
+          scaffolding on which those reconstructions relied. At least one of
+          Filippini's early intuitions in the 1911-1912 Avanzi study was later
+          taken up and developed by Arcangeli.
+        </p>
+        <p><strong>Documentary corpora (central achievement)</strong></p>
+        <p>
+          F. Filippini - G. Zucchini,
+          <em>Miniatori e pittori a Bologna. Documenti dei secoli XIII e XIV</em
+          >, Firenze, 1947 (xv + 262 pp.): his magnum opus and still the first
+          point of reference for archival evidence on Bolognese illuminators and
+          painters of the thirteenth and fourteenth centuries.
+        </p>
+        <p>
+          F. Filippini - G. Zucchini,
+          <em>Miniatori e pittori a Bologna. Documenti del secolo XV</em> (with
+          sixteenth-century materials), Roma, Accademia Nazionale dei Lincei,
+          1968: companion volume published posthumously, with later editorial
+          revision and correction.
+        </p>
+        <p><strong>Earlier studies (Bolognese Trecento painting)</strong></p>
+        <p>
+          "Iacopo Avanzi pittore bolognese del Trecento,"
+          <em
+            >Atti e memorie della R. Deputazione di Storia Patria per le
+            Province di Romagna</em
+          >, s. IV, vol. II (1911-1912), pp. 397-432.
+        </p>
+        <p>
+          "Andrea da Bologna. Miniatore e pittore del Sec. XIV,"
+          <em>Bollettino d'Arte</em> (early study; exact year to be verified
+          before final citation).
+        </p>
+        <p>
+          "Per la storia dell'antica pittura bolognese,"
+          <em>Il Comune di Bologna</em>, XVIII (1931), p. 817.
+        </p>
+        <p>
+          Documentary contributions on Vitale da Bologna (cited in specialist
+          literature as "Filippini, 1912"), including the transcription of 1340
+          payments to Vitale <em>pro picturis foresterie</em> in San Francesco.
+        </p>
+        <p>
+          Filippini's regesti became a shared reference apparatus for medieval
+          Bologna and retain that status today. Their use in scholarship is
+          critical rather than unqualified: A. I. Pini (1981) published explicit
+          integrations and additions to the Filippini-Zucchini documentary
+          regesti, and individual misdatings in the 1947 corpus have been
+          corrected in specialist literature (for example, a document later
+          shown to belong to 13 November rather than the printed 3 November).
+          These corrections are the expected evolution of large transcription
+          enterprises and do not diminish Filippini's standing as documentary
+          bedrock for Bolognese medieval art history.
         </p>
       </div>
 
@@ -9138,6 +8856,296 @@ title: "Scholars"
         </p>
       </div>
 
+      <div class="scholar-entry" id="hendrik-willem-van-os">
+        <div class="endnotes-list__item-heading">
+          <div class="endnotes-list__item-thumb">
+            <img
+              src="/Images/Thumbnails/henk-van-os.webp"
+              alt="Portrait of Hendrik Willem van Os"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <h3 class="endnotes-list__item-title">van Os, Hendrik Willem</h3>
+        </div>
+        <p class="dates">Harderwijk, 28 February 1938 - 14 June 2025</p>
+        <p>
+          Hendrik Willem van Os (28 February 1938 - 14 June 2025) was a Dutch
+          art historian. He served as professor of Art and Cultural History,
+          director of the Rijksmuseum in Amsterdam, and presenter of television
+          programs on art. In the specific field of Italian medieval and early
+          Renaissance painting, he was the author of the most comprehensive
+          treatment of Sienese altarpiece production from the thirteenth through
+          the fifteenth century produced in the twentieth century - a two-volume
+          work that established the functional study of the altarpiece as a
+          scholarly programme and whose influence has been permanent and wide.
+          That the same scholar directed the Rijksmuseum and presented popular
+          television programmes on art to a mass Dutch audience in the same
+          years he was producing his most rigorous scholarly work makes him,
+          among the historians encountered in this research thread, one of the
+          most unusual in the range of his public and institutional commitments.
+        </p>
+        <p>
+          Hendrik Willem van Os (Harderwijk, 28 February 1938) studied History
+          and Art History at the University of Groningen from 1957-1964, where
+          he also obtained his doctorate <em>cum laude</em> with a thesis
+          entitled "Iconological problems in Sienese painting from 1300-1450."
+          While working on his PhD, he resided in Florence and Siena for several
+          years.
+        </p>
+        <p>
+          Henk van Os studied art history at the University of Groningen, where
+          his father, Frederik van Os, served as rector magnificus during two
+          terms. The institutional connection between the van Os family and
+          Groningen was thus biographical as well as intellectual: his formation
+          in the university where his father held its highest office embedded
+          him in a specific institutional culture that shaped his later
+          commitment to the public responsibilities of the senior academic. He
+          also spent time studying in Rome - the essential Italian complement to
+          his Sienese specialization - before completing his doctorate in 1969.
+        </p>
+        <p>
+          The doctoral dissertation, published in German as
+          <em
+            >Marias Demut und Verherrlichung in der sienesischen Malerei
+            1300-1450</em
+          >
+          (Mary's Humility and Glorification in Sienese Painting 1300-1450, The
+          Hague, 1969), established the programmatic concerns that would govern
+          his scholarly work for the next fifty years: the iconological analysis
+          of religious imagery, the specific tradition of Sienese Marian
+          devotion, and the function of images as instruments of prayer and
+          theological statement rather than purely as aesthetic objects. The
+          German-language publication - unusual for a Dutch scholar's doctoral
+          work - signalled an immediate orientation toward the international
+          German-language art historical community that had dominated the field
+          of Italian medieval painting since Schmarsow and his successors.
+        </p>
+        <p>
+          In parallel with the doctoral dissertation, Van Os produced the first
+          of his contributions to the study of Italian paintings in Dutch
+          collections: <em>Sienese Paintings in Holland</em> (Groningen, 1969)
+          and, in collaboration with Marian Bisanz-Prakken,
+          <em>The Florentine Paintings in Holland 1300-1500</em> (Amsterdam: De
+          Arbeiderspers/Netherlands Institute for Art History, 1974). These
+          catalogues of Italian medieval and Renaissance panels in Dutch public
+          and private collections performed a service analogous to Luisa
+          Marcucci's catalogue of the Florentine national collections -
+          systematic documentation of a defined corpus, providing the scholarly
+          community with reliable physical descriptions, attributions, and
+          bibliographic apparatus for objects that had not previously been
+          comprehensively treated.
+        </p>
+        <p>
+          His 1974 monograph
+          <em
+            >Vecchietta and the Sacristy of the Siena Hospital Church: A Study
+            in Renaissance Religious Symbolism</em
+          >
+          (New York: A. Schram, 1974) turned the lens onto a single Sienese
+          painter-sculptor of the mid-fifteenth century and a single
+          institutional commission - the painted programme of the sacristy of
+          the Spedale di Santa Maria della Scala - in a study that combined
+          attributional analysis with the kind of contextual interpretation,
+          rooted in the specific liturgical and civic function of the decorated
+          space, that would become his signature method.
+        </p>
+        <p>
+          Van Os was appointed professor of Art and Cultural History at the
+          University of Groningen in 1974, and subsequently became dean of the
+          Faculty of Arts in 1984. The fifteen years between his professorial
+          appointment and his move to the Rijksmuseum were the period of his
+          most sustained scholarly production. He continued to publish on
+          Italian painting in Dutch collections - the
+          <em>Early Venetian Paintings in Holland</em> (Maarssen: G. Schwartz,
+          1978) extended his systematic catalogue work to the Venetian school -
+          while simultaneously conducting the research that would produce his
+          major scholarly monument.
+        </p>
+        <p>
+          The two-volume
+          <em>Sienese Altarpieces, 1215-1460: Form, Content, Function</em>
+          (Groningen: Bouma's Boekhuis, 1984 and 1990) is Van Os's principal
+          scholarly legacy. Volume I covers the period 1215-1344 - from the
+          earliest surviving examples of the Sienese altarpiece tradition
+          through the death of Simone Martini; Volume II extends to 1460,
+          covering the post-plague generation and the Quattrocento. His many
+          publications include
+          <em
+            >Mariological Themes in Sienese Painting: The Art of Devotion in the
+            Late Middle Ages in Europe</em
+          >
+          and <em>Sienese Altarpieces, 1215-1460: Form, Content, Function</em>.
+        </p>
+        <p>
+          The title's three terms - Form, Content, Function - are the
+          programmatic declaration of Van Os's method. Where earlier scholarship
+          on Italian altarpieces had concentrated primarily on formal and
+          attributional questions (who painted it, when, in what style), Van Os
+          insisted on the necessity of understanding the altarpiece as a
+          functional object: an artefact designed for a specific liturgical
+          setting, addressing a specific congregation, in service of specific
+          patterns of devotion shaped by the particular theology, hagiography,
+          and institutional culture of its commissioners. The Tarlati Polyptych,
+          commissioned by Guido Tarlati for the high altar of Santa Maria della
+          Pieve; the Orsini Polyptych, designed for Cardinal Napoleone Orsini's
+          private prayer: both are illuminated by this methodology, which asks
+          not only what an altarpiece represents but what it was for.
+        </p>
+        <p>
+          The <em>Sienese Altarpieces</em> is cited in every subsequent serious
+          study of the Sienese Trecento - in the literature on Duccio, Simone
+          Martini, the Lorenzetti brothers, Sassetta, and Giovanni di Paolo - as
+          the standard systematic treatment of the context within which each of
+          these painters' works functioned. The range of material covered, from
+          the earliest surviving Sienese frontal paintings of the early Duecento
+          to the late Quattrocento works that close the medieval tradition,
+          encompasses the entire arc of Sienese devotional painting, making it
+          the Sienese equivalent of what Erling Skaug attempted for Florentine
+          punch marks or what Lambros attempted for the Athonite manuscript
+          catalogue: a comprehensive scholarly survey that provides the
+          foundational reference for all subsequent work.
+        </p>
+        <p>
+          From 1989 to 1996, Van Os was general director of the Rijksmuseum. The
+          directorship of the Rijksmuseum - the principal museum of the
+          Netherlands and one of the great encyclopaedic collections in the
+          world, housing Rembrandt's <em>Night Watch</em>, Vermeer's
+          <em>The Milkmaid</em>, and the most comprehensive collection of Dutch
+          Golden Age painting in existence - was the institutional pinnacle
+          available to a Dutch art historian. Van Os brought to it the same
+          combination of scholarly rigour and public commitment that had
+          characterized his Groningen years.
+        </p>
+        <p>
+          He organised numerous exhibitions, such as "Prayer Embedded in Beauty"
+          (<em>Gebed in Schoonheid</em>). This exhibition, presented in 1994-95,
+          brought together forty-four objects of private medieval devotion from
+          Dutch and other collections - ivory diptychs, small panel paintings,
+          Books of Hours, sculpted altarpieces, limewood Christ children - and
+          presented them not as art objects but as instruments of prayer, each
+          addressed to a specific kind of devotee: nun, duke, pilgrim, merchant
+          wife. The exhibition and its accompanying publication,
+          <em
+            >The Art of Devotion in the Late Middle Ages in Europe,
+            1300-1500</em
+          >
+          (Princeton University Press, 1994), translated the functional
+          methodology of the <em>Sienese Altarpieces</em> into a format
+          accessible to the general museum-going public while maintaining its
+          scholarly integrity. For Alberto's research on illuminated manuscripts
+          and private devotional objects, <em>The Art of Devotion</em>
+          remains a foundational reference: the analysis of the Book of Hours as
+          a specifically tailored instrument of lay piety - its calendar
+          personalized, its devotional emphases calibrated to the owner's
+          particular needs, its images selected to support the prayers that
+          frame each of the canonical hours - draws directly on Van Os's
+          insistence that medieval religious objects must be understood through
+          the devotional practices they were designed to serve.
+        </p>
+        <p>
+          During his Rijksmuseum directorship, Van Os also developed the
+          television work for which he became most widely known to the Dutch
+          public. Van Os became widely known to the public through his
+          presentation of TV programs such as <em>Beeldenstorm</em> (AVRO) and
+          <em>Museumschatten</em> (VARA), which aimed to popularize art,
+          especially painting. The programme <em>Museumschatten</em> (Museum
+          Treasures) invited Van Os to present individual works from the
+          national collection in terms accessible to a general audience, drawing
+          on his gifts as a teacher and communicator to make the specific visual
+          and historical arguments of art history legible to viewers with no
+          prior preparation. The programme reached audiences of millions and
+          established Van Os as the most publicly recognized art historian in
+          the Netherlands - a position analogous to that which Kenneth Clark had
+          occupied in Britain through the <em>Civilisation</em> series a
+          generation earlier.
+        </p>
+        <p>
+          In 1996, he stepped down as director of the Rijksmuseum and was
+          appointed University Professor holding the chair in Art and Society at
+          the University of Amsterdam (UvA). The chair title - Art and Society
+          rather than Art History - reflected the programmatic commitment of his
+          Amsterdam years to the study of art as a social practice embedded in
+          specific communities, institutions, and patterns of use, rather than
+          as an autonomous aesthetic phenomenon to be evaluated by formal
+          criteria alone.
+        </p>
+        <p>
+          He has held teaching positions at Princeton University, Harvard
+          University, Heidelberg University, the Harvard Center for Renaissance
+          Studies, and Smith College. The Harvard Center for Renaissance Studies
+          - Villa I Tatti in Florence, the same institution where Erling Skaug
+          had spent his postdoctoral years - was among the institutions at which
+          Van Os held visiting appointments, placing him within the
+          international scholarly community of Italian Renaissance specialists
+          gathered around that extraordinary Florentine research library.
+        </p>
+        <p>
+          His later publications extended the range of his public engagement
+          beyond his core Italian medieval specialization:
+          <em
+            >The Discovery of the Netherlands: Four Centuries of Landscape
+            Painting by Dutch Masters</em
+          >
+          (Rotterdam: Nai Publishers, 2008) addressed the canonical Dutch
+          landscape tradition in the accessible register of his television work;
+          <em>Young in Groningen: Art from the Period 1945-1975</em> (Groninger
+          Museum, 2009) returned to the city of his formation to document its
+          postwar artistic culture. A series of popular books in Dutch -
+          including reflections on the pleasures of art history (<em
+            >De vreugden van de kunst(geschiedenis)</em
+          >), on looking (<em>Zien is genoeg</em> - Seeing is Enough), and on
+          individual meditations on works he loved - established his
+          Dutch-language voice as one of the most readable and intellectually
+          serious in the genre of accessible art writing.
+        </p>
+        <p>
+          The collected essays published as
+          <em>Studies in Early Tuscan Painting</em> (London: Pindar Press, 1992)
+          gathered contributions to specific attributional and iconographic
+          problems in Trecento Florentine and Sienese painting that complement
+          and extend the systematic treatment of the
+          <em>Sienese Altarpieces</em>. The essay "From Rome to Siena: the
+          Altarpiece of San Stefano alle Lizza" (<em
+            >Mededelingen van het Nederlands Instituut te Rome</em
+          >, 43, 1981) traces the specific artistic and institutional history of
+          a single Sienese altarpiece with the documentary precision of a
+          scholar who has absorbed both the Italian archival tradition and the
+          iconological method of the Warburg school.
+        </p>
+        <p>
+          His "Reassembling a Giovanni di Paolo triptych" (<em
+            >The Burlington Magazine</em
+          >, 119, 1977) exemplifies the connoisseurial contribution - the
+          identification and physical reconstruction of a dispersed polyptych's
+          original ensemble - that Van Os pursued alongside his broader cultural
+          and functional analyses. The dual commitment to connoisseurship and
+          function is characteristic of his generation of Italian Trecento
+          specialists, trained in the tradition that runs from Richard Offner
+          through Federico Zeri and Miklos Boskovits, who understood that the
+          close visual analysis of individual objects and the contextual
+          interpretation of their social function were complementary rather than
+          competing activities.
+        </p>
+        <p>
+          Van Os died on 14 June 2025 at the age of eighty-seven, having spent
+          the better part of six decades bringing the art of late medieval Siena
+          to scholarly and public audiences. His career represents one of the
+          most successful integrations of specialist scholarship and public
+          communication in the history of art history: the man who wrote the
+          standard treatment of the Sienese altarpiece was the same man who
+          explained Rembrandt's <em>Night Watch</em> to millions of Dutch
+          television viewers, and who made private medieval devotional objects
+          accessible to visitors without prior art historical preparation. The
+          <em>Sienese Altarpieces</em> and <em>The Art of Devotion</em> remain
+          the starting points for any serious engagement with the function of
+          painting and the sculpted or painted altarpiece in the religious life
+          of the late medieval period - precisely the territory that Alberto's
+          research on illuminated manuscripts, Trecento patronage, and Byzantine
+          devotional imagery inhabits.
+        </p>
+      </div>
+
       <div class="scholar-entry" id="hermanin-federico">
         <h3>Hermanin de Reichenfeld, Federico</h3>
         <p class="dates">Bari, 16 September 1868 – Rome, 29 June 1953</p>
@@ -10260,112 +10268,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="kreytenberg-gert">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/gert-kreytenberg.webp"
-              alt="Portrait of Gert Kreytenberg"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">Kreytenberg, Gert</h3>
-        </div>
-        <p class="dates">born 1942</p>
-        <p>
-          Gert Kreytenberg is a German art historian and one of the leading
-          specialists of his generation in Tuscan sculpture of the Trecento. His
-          name is inseparable from three artists in particular - Andrea Pisano,
-          Tino di Camaino, and Orcagna - and from the sculptural and
-          architectural fabric of the Florentine Duomo.
-        </p>
-        <p>
-          His formation was unusual and important for understanding his later
-          work. After completing the classical Gymnasium at Emmerich in 1962, he
-          studied in Kassel under the abstract painter Fritz Winter, moving into
-          art history from modern art and artistic practice rather than from
-          medieval studies. Kreytenberg later described this trajectory as a
-          wandering out of modernism and into the Middle Ages, where he remained
-          for some thirty years. From 1973 to 1979 he lived in Florence with his
-          family, carrying out a systematic examination of Andrea Pisano's
-          oeuvre and assembling a photographic archive of more than four
-          thousand images.
-        </p>
-        <p>
-          That Florentine period produced his Habilitationsschrift, accepted at
-          the Ruhr-Universität Bochum in 1982 and published as
-          <em
-            >Andrea Pisano und die toskanische Skulptur des 14. Jahrhunderts</em
-          >
-          (Munich: Bruckmann, 1984), in the
-          <em>Italienische Forschungen</em> series of the Kunsthistorisches
-          Institut in Florenz. The book runs to 424 pages and nearly 500
-          illustrations, moving from Andrea's biography and training through his
-          earliest marble sculpture, his work as an architect, the Trecento
-          sculptures of the Florentine campanile, the Saint Stephen of
-          Orsanmichele, and his final years in Pisa and Orvieto. It remains the
-          fundamental monograph on Andrea Pisano, and was warmly reviewed by
-          John Pope-Hennessy in <em>Apollo</em> and by Julian Gardner in
-          <em>The Burlington Magazine</em>.
-        </p>
-        <p>
-          Returning from Florence to Dorsten in Westphalia in 1979, Kreytenberg
-          taught art at the Gymnasium Petrinum while also lecturing at the
-          Kunsthistorisches Institut of the Ruhr-Universität Bochum. His wife
-          Ingrid, herself an artist and the daughter of the painter Karl Korte,
-          taught there as well. He defended this double life as productive
-          rather than compromised: distance, he told the
-          <em>Dorstener Zeitung</em>, opens the eyes, whereas constant immersion
-          produces a kind of oversaturation of the senses. German authority
-          files style him as <em>Kunsthistoriker, Hochschulprofessor</em>, while
-          the fullest local account describes his Bochum teaching as
-          <em>nebenher</em>, so the precise title and dates should be checked
-          before citation.
-        </p>
-        <p>
-          His bibliography beyond Andrea Pisano is substantial.
-          <em>Die Werke von Tino di Camaino</em> (Frankfurt am Main:
-          Liebieghaus, 1987) is a catalogue of that Sienese sculptor's oeuvre,
-          preceded by attributional studies such as "Giovanni Pisano oder Tino
-          di Camaino?" and the identification of fragments of a Saint
-          Bartholomew altar in Pisa Cathedral. He also published a monograph on
-          Orcagna's tabernacle in Orsanmichele and the culminating
-          <em
-            >Orcagna (Andrea di Cione): Ein universeller Künstler der Gotik in
-            Florenz</em
-          >
-          (Mainz: Philipp von Zabern, 2000), which presented Orcagna as painter,
-          sculptor, and architect together. Among its more consequential claims
-          is the proposal that Orcagna intervened in the planning of the Duomo's
-          cupola and that the introduction of the drum, anticipated in the
-          Orsanmichele tabernacle, was his idea; that argument remains contested
-          and should be treated as such.
-        </p>
-        <p>
-          Shorter studies by Kreytenberg range widely across Florentine and
-          Tuscan Trecento sculpture: Orcagna's frescoes in the choir of Santa
-          Maria Novella, the frame of the Strozzi altarpiece, the fresco of the
-          expulsion of the Duke of Athens, the Inferno fresco as the first
-          monumental painting after Dante's cantos, and the sculptors of
-          Cardinal Philippe d'Alençon's tomb in Santa Maria in Trastevere. Later
-          in life he turned to Japanese, Korean, and Near Eastern art, working
-          voluntarily for the private Museum DKM in Duisburg, cataloguing,
-          conserving, and mounting exhibitions. His publication record from
-          those years reflects that widening horizon, with entries on George
-          Segal, Henry Moore, and the DKM collections alongside his Trecento
-          scholarship.
-        </p>
-        <p>
-          Two points matter most. First, the biographical record is thin and
-          largely local, so dates beyond 1942, 1962, 1973-79, and 1982 should be
-          handled cautiously. Second, his method is fundamentally connoisseurial
-          and photographic: like Jenő Lányi before him, he built his arguments
-          on exhaustive visual documentation, and his attributions have
-          therefore been both influential and contested.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="kurmann-peter">
         <h3>Kurmann, Peter</h3>
         <p class="dates">Littau (Lucerne), 31 December 1940</p>
@@ -10527,6 +10429,67 @@ title: "Scholars"
           He has participated in high-profile academic symposia, including the
           Royal Irish Academy's <em>Colmcille 1500</em> lecture series, where he
           presented on the tangible material heritage of the saint.
+        </p>
+      </div>
+
+      <div class="scholar-entry" id="lampugnani-elena">
+        <h3>Lampugnani, Elena</h3>
+        <p>
+          Elena Lampugnani is a contemporary Italian art historian specializing
+          in early medieval Lombard painting and ecclesiastical patronage, whose
+          work on the Galliano frescoes has made the single most important
+          iconographic discovery of recent decades regarding this cycle. Her
+          principal contribution to the study of the Maestro di Galliano is the
+          essay
+          <em
+            >La "commendatio animae" di Ariberto nelle pitture absidali di San
+            Vincenzo a Galliano (1007)</em
+          >, published in 2006 in the collective volume
+          <em
+            >Pittura murale del Medioevo lombardo: Ricerche iconografiche
+            (secoli XI–XIII)</em
+          >, edited by Paolo Piva (Jaca Book, 2006), a volume that brought
+          together the most recent Italian scholarship on the major mural
+          painting cycles of the provinces of Como, Lecco, and Bergamo between
+          the year 1000 and the thirteenth century. In this essay, Lampugnani
+          proposed for the first time a comprehensive reading of the entire apse
+          program at Galliano as a <em>commendatio animae</em> — that is, a
+          liturgical prayer of commendation of the soul to God, spoken at the
+          moment of death and translated here into a painted visual program — a
+          theological framework that unifies all the apparently disparate
+          iconographic elements of the apse into a single coherent argument
+          about intercession, death, and resurrection. The
+          <em>commendatio animae</em> interpretation, now widely accepted in the
+          scholarly literature, explains the selection of figures — Elijah and
+          Enoch (who avoided death), the prophets prostrating before the
+          Theophany, the martyred Vincent (who gained eternal life through his
+          <em>passio</em>), the intercessor Adeodato, and finally the praying
+          donor Ariberto — as the successive stages of a liturgical and
+          eschatological narrative culminating in Ariberto's own petition for
+          divine mercy at the moment of his anticipated death. Lampugnani's
+          essay thus belongs to the tradition of iconographic theology in
+          medieval art studies — a method that decodes painted programs not
+          merely as aesthetic ensembles but as precise translations of
+          theological and liturgical texts into visual form — and it represents
+          a significant methodological advance over both Ansaldi's documentary
+          approach and de Francovich's primarily stylistic analysis. She also
+          authored the essay
+          <em
+            >Ariberto, custos a Galliano e arcivescovo a Milano: la personalità
+            storica di un committente artistico attraverso i suoi "ritratti"</em
+          >
+          (Monduzzi Editoriale), in which she analysed the four known portraits
+          of Ariberto — beginning with the Galliano apse fresco and extending
+          through his later representations in manuscript illuminations and
+          goldsmiths' works — as a coherent self-representational strategy
+          through which Ariberto constructed and projected his public identity
+          as a patron of exceptional cultural ambition. Her work has been
+          incorporated and cited by subsequent scholars — including the authors
+          of the entries in the Treccani
+          <em>Enciclopedia dell'Arte Medievale</em> and of the JSTOR article on
+          the nave paintings — confirming her position as one of the leading
+          current authorities on the patronage and iconographic programs of the
+          early eleventh-century Ambrosian world.
         </p>
       </div>
 
@@ -10781,155 +10744,6 @@ title: "Scholars"
           generation that documented them with photographic completeness.
           Between these two moments lies the entire history of twentieth-century
           Byzantine manuscript studies in Greece.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="lampugnani-elena">
-        <h3>Lampugnani, Elena</h3>
-        <p>
-          Elena Lampugnani is a contemporary Italian art historian specializing
-          in early medieval Lombard painting and ecclesiastical patronage, whose
-          work on the Galliano frescoes has made the single most important
-          iconographic discovery of recent decades regarding this cycle. Her
-          principal contribution to the study of the Maestro di Galliano is the
-          essay
-          <em
-            >La "commendatio animae" di Ariberto nelle pitture absidali di San
-            Vincenzo a Galliano (1007)</em
-          >, published in 2006 in the collective volume
-          <em
-            >Pittura murale del Medioevo lombardo: Ricerche iconografiche
-            (secoli XI–XIII)</em
-          >, edited by Paolo Piva (Jaca Book, 2006), a volume that brought
-          together the most recent Italian scholarship on the major mural
-          painting cycles of the provinces of Como, Lecco, and Bergamo between
-          the year 1000 and the thirteenth century. In this essay, Lampugnani
-          proposed for the first time a comprehensive reading of the entire apse
-          program at Galliano as a <em>commendatio animae</em> — that is, a
-          liturgical prayer of commendation of the soul to God, spoken at the
-          moment of death and translated here into a painted visual program — a
-          theological framework that unifies all the apparently disparate
-          iconographic elements of the apse into a single coherent argument
-          about intercession, death, and resurrection. The
-          <em>commendatio animae</em> interpretation, now widely accepted in the
-          scholarly literature, explains the selection of figures — Elijah and
-          Enoch (who avoided death), the prophets prostrating before the
-          Theophany, the martyred Vincent (who gained eternal life through his
-          <em>passio</em>), the intercessor Adeodato, and finally the praying
-          donor Ariberto — as the successive stages of a liturgical and
-          eschatological narrative culminating in Ariberto's own petition for
-          divine mercy at the moment of his anticipated death. Lampugnani's
-          essay thus belongs to the tradition of iconographic theology in
-          medieval art studies — a method that decodes painted programs not
-          merely as aesthetic ensembles but as precise translations of
-          theological and liturgical texts into visual form — and it represents
-          a significant methodological advance over both Ansaldi's documentary
-          approach and de Francovich's primarily stylistic analysis. She also
-          authored the essay
-          <em
-            >Ariberto, custos a Galliano e arcivescovo a Milano: la personalità
-            storica di un committente artistico attraverso i suoi "ritratti"</em
-          >
-          (Monduzzi Editoriale), in which she analysed the four known portraits
-          of Ariberto — beginning with the Galliano apse fresco and extending
-          through his later representations in manuscript illuminations and
-          goldsmiths' works — as a coherent self-representational strategy
-          through which Ariberto constructed and projected his public identity
-          as a patron of exceptional cultural ambition. Her work has been
-          incorporated and cited by subsequent scholars — including the authors
-          of the entries in the Treccani
-          <em>Enciclopedia dell'Arte Medievale</em> and of the JSTOR article on
-          the nave paintings — confirming her position as one of the leading
-          current authorities on the patronage and iconographic programs of the
-          early eleventh-century Ambrosian world.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="lanyi-jeno">
-        <h3>Lányi, Jenő</h3>
-        <p class="dates">
-          Várna, Hungary, 1902 - North Atlantic, 17 September 1940
-        </p>
-        <p>
-          Jenő Lányi (1902–1940) was a Hungarian art historian whose short life
-          was devoted almost entirely to the study of Donatello, and whose death
-          at sea during the Second World War is often described as one of the
-          tragedies of the discipline. Though his own publications were few, his
-          notes and photographs became the foundation of the standard modern
-          catalogue of Donatello's sculpture.
-        </p>
-        <p>
-          He was born in 1902 in Várna, Hungary — today Varín in Slovakia — the
-          son of a Hungarian civil servant, Árpád Lányi. He spent only his
-          childhood in Hungary; after taking his Abitur at a humanities
-          Gymnasium in Budapest in 1920, his training was entirely
-          Austro-German. He studied art history, archaeology, and history in
-          Vienna under Julius von Schlosser, the great Vienna-School scholar,
-          and then in Munich under Wilhelm Pinder, completing a dissertation on
-          Jacopo della Quercia (<em>Quercia-Studien</em>) in 1929, probably
-          under Pinder's supervision. Between 1929 and 1932 he worked as a
-          volunteer researcher in Berlin — in the graphics collection under Max
-          J. Friedländer and at the Kaiser Friedrich Museum, where his contact
-          with the Italian Renaissance sculpture specialist Frida Schottmüller
-          proved formative for his later work.
-        </p>
-        <p>
-          In 1932 a Swiss benefactor financed a research stay at the
-          Kunsthistorisches Institut in Florence, where he began the monograph
-          on Donatello that would occupy the rest of his life. In Florence he
-          met Monika Mann, daughter of Thomas Mann, then herself studying art
-          history. The Nazi laws of 1938 barring Jews from academic and museum
-          posts foreclosed any career in German-speaking lands, and Lányi
-          emigrated to England in 1938; he and Monika married in 1939. It was in
-          London in 1939 that he gave a series of lectures — at the Warburg
-          Institute among other venues — presenting both his Donatello research
-          and his enormous photographic documentation of the sculptor's work.
-        </p>
-        <p>
-          That photographic campaign is central to his significance. In the mid-
-          1930s Lányi commissioned the photographer Gino Malenotti, of the Brogi
-          firm, to produce a systematic corpus of roughly 3,000 photographs of
-          Donatello's sculptures, documenting each work from multiple angles and
-          under varied lighting to capture its three-dimensionality — the Judith
-          and Holofernes group alone was shot some fifty times. This reflected a
-          genuine methodological conviction: Lányi treated photography not as
-          mere illustration but as an instrument of analysis, using it to test
-          and revise attributions in the absence of documentary evidence. He is
-          often credited as one of the first art historians to question
-          systematically the traditional attributions to Donatello. His
-          best-known specific proposal — that the bronze <em>David</em> in the
-          Bargello might represent not David but Mercury (hence the occasional
-          label "David-Mercury") — dates to around 1939. It is worth stressing,
-          since it is easy to misstate, that Lányi never published this
-          hypothesis himself; it entered scholarship posthumously, chiefly
-          through John Pope-Hennessy, and remains contested (most quattrocento
-          references to the statue call it David).
-        </p>
-        <p>
-          His death came in 1940. His father-in-law, Thomas Mann, by then in
-          Princeton, secured passage for the couple to North America. Their
-          ship, the SS <em>City of Benares</em>, was torpedoed by the German
-          submarine U-48 in the North Atlantic on 17 September 1940 and sank —
-          the same disaster, notorious for the child evacuees lost aboard, in
-          which Monika Mann was injured but survived. Lányi drowned. (A caution
-          on the record: because so many émigré scholars were lost in this
-          period, his death is occasionally conflated with other wartime
-          sinkings, but the <em>City of Benares</em> is the well-attested
-          vessel.)
-        </p>
-        <p>
-          The afterlife of his work is the reason his name survives. The
-          suitcases holding his Donatello notes were recovered and reached his
-          widow, who carried them to the United States. His material was judged
-          so important that H. W. Janson took it over, and it was published,
-          incorporating Lányi's notes and photographs, as
-          <em>The Sculpture of Donatello</em> (Princeton, 1957) — for decades
-          the critical catalogue of the sculptor. Two of Lányi's own English
-          articles appeared posthumously in the <em>Art Bulletin</em> and the
-          <em>Burlington Magazine</em>, and his thinking is said to have
-          influenced Pope-Hennessy. A recent doctoral project by Martina
-          Medolago has begun the fuller reconstruction of his life and ideas
-          that scholarship has long lacked.
         </p>
       </div>
 
@@ -12606,135 +12420,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="marcucci-luisa">
-        <h3>Marcucci, Luisa</h3>
-        <p class="dates">active mid-20th century</p>
-        <p>
-          Luisa Marcucci was an Italian art historian and museum official who
-          served within the Gallerie Nazionali di Firenze during the
-          mid-twentieth century. Though biographical details about her personal
-          life remain sparsely documented in available sources, her scholarly
-          legacy is tangible and consequential: she produced two of the
-          foundational systematic catalogues of the medieval Florentine
-          collections, volumes that remain standard references in Trecento
-          studies to this day.
-        </p>
-        <p>
-          Marcucci's work belongs to one of the most ambitious collective
-          enterprises in twentieth-century Italian museum scholarship: the
-          <em>Cataloghi dei Musei e Gallerie d'Italia</em>, published by the
-          Istituto Poligrafico dello Stato under the auspices of the Ministero
-          della Pubblica Istruzione — Direzione delle Antichità e Belle Arti.
-          This series, launched in the postwar period, aimed to produce rigorous
-          scientific catalogues of the state collections in a standardized
-          format: each volume covering a defined school or period within a
-          specific museum, with entries including physical description,
-          provenance, critical history, bibliography, and photographic
-          documentation. The series sat at the intersection of museum practice
-          and academic scholarship, and its authors were typically the
-          conservators and functionaries directly responsible for the works in
-          question — custodians with daily, hands-on knowledge of the objects
-          they catalogued.
-        </p>
-        <p>
-          Luisa Marcucci published
-          <em
-            >Gallerie Nazionali di Firenze: I dipinti toscani del secolo XIII.
-            Scuole bizantine e russe dal secolo XII al secolo XVIII</em
-          >
-          with the Istituto Poligrafico dello Stato in 1958. This volume
-          catalogued the thirteenth-century Tuscan panels in the Florentine
-          national collections alongside Byzantine and Russian icons spanning
-          the twelfth to eighteenth centuries — a pairing that reflects the
-          collecting logic of the period, which grouped pre-Gothic and Byzantine
-          material together as expressions of a shared pre-naturalistic
-          tradition predating the Giottesque revolution.
-        </p>
-        <p>
-          The century covered — the Duecento — is among the most technically
-          demanding in Italian art history: a period of transition from the
-          Byzantine manner to the new pictorial language developing
-          simultaneously in Florence, Siena, Lucca, and Pisa, when the
-          distinction between individual artistic personalities and workshop
-          traditions is often contested, and when documentary evidence is thin.
-          Cataloguing this material with scientific rigour required both
-          connoisseurial precision and a thorough command of the sparse archival
-          record.
-        </p>
-        <p>
-          Her second volume,
-          <em
-            >Gallerie Nazionali di Firenze: I dipinti toscani del secolo XIV</em
-          >, was published by the Istituto Poligrafico dello Stato in 1965,
-          containing 210 pages and 170 black-and-white plates. This is the more
-          widely cited of the two catalogues, covering the Trecento — the
-          century of Giotto's legacy, the great Florentine workshops of the
-          Gaddi family, Bernardo Daddi, Maso di Banco, Orcagna, and their
-          circles, and the generation leading into the International Gothic. It
-          is precisely the territory that Erling Skaug would later map through
-          his <em>punzoni</em> research, and Bruce Cole addressed in his
-          monograph on Giotto and Florentine painting.
-        </p>
-        <p>
-          The volume's entries are cited throughout the subsequent half-century
-          of scholarship on Trecento Florence. A characteristic example of
-          Marcucci's critical method appears in the museum database record for a
-          Bernardo Daddi panel in the Galleria dell'Accademia: Marcucci
-          considered this work particularly important because, being dated 1333,
-          it confirmed that the stylistic change in the artist — due to his
-          approach to Maso di Banco and Taddeo Gaddi — was occurring precisely
-          at that date. This is a concise illustration of how she used
-          individual dated works as chronological anchors for mapping the
-          broader currents of stylistic evolution within the Florentine school.
-        </p>
-        <p>
-          Her engagement with the critical tradition was equally rigorous: where
-          Richard Offner had assigned certain works to his anonymous grouping
-          "Close Following of Daddi," Marcucci's attributions typically restored
-          them to Daddi himself or to his documented workshop — a position
-          subsequently confirmed by Angelo Tartuferi in later Accademia
-          catalogues.
-        </p>
-        <p>
-          Marcucci's two catalogues occupy a specific and important position in
-          the historiography of medieval Italian art. They were produced at a
-          moment — the late 1950s and early 1960s — when the systematic,
-          object-based approach to Trecento painting was gaining momentum,
-          following the methodological groundwork laid by Richard Offner's
-          <em>Corpus of Florentine Painting</em> (begun in 1930) and pursued in
-          Italy by Roberto Longhi and his school. Her volumes provided the field
-          with a reliable, systematic inventory of the Florentine state
-          collections' medieval holdings at precisely the moment when scholars
-          like Skaug, Cole, and Boskovits were building the modern critical
-          literature on the period.
-        </p>
-        <p>
-          The consistent citation of her 1965 catalogue in subsequent
-          scholarship — in attributional debates, in provenance research, in
-          auction and exhibition literature, and in the MiBAC's national art
-          database — confirms its enduring authority. Her name appears in the
-          bibliographic apparatus of works on Giovanni del Biondo, Bernardo
-          Daddi, and other major Trecento artists as a standard point of
-          reference, functioning as the first systematic checkpoint between the
-          older connoisseurial tradition and the more analytical scholarship
-          that followed.
-        </p>
-        <p>
-          The relative biographical obscurity of Luisa Marcucci — a scholar
-          whose contribution to the field is substantive and whose catalogues
-          are cited by virtually every serious student of Trecento Florentine
-          painting — reflects a broader pattern in twentieth-century Italian
-          institutional art history, where the predominantly female workforce of
-          the Soprintendenze and museum administrations produced scholarship of
-          lasting value while remaining largely invisible in the biographical
-          record that the discipline has maintained for its most prominent
-          figures. Her case is analogous to that of several other women
-          officials of the mid-century Florentine institutions whose cataloguing
-          work underpins the field without their names having attracted the
-          biographical attention they merit.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="mari-fabio">
         <h3>Mari, Fabio</h3>
         <p class="dates">Rome, 1993</p>
@@ -12947,77 +12632,132 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="markus-robert-austin">
-        <h3>Markus, Robert Austin</h3>
-        <p class="dates">Budapest, 8 October 1924 - 2010</p>
+      <div class="scholar-entry" id="marcucci-luisa">
+        <h3>Marcucci, Luisa</h3>
+        <p class="dates">active mid-20th century</p>
         <p>
-          Robert Austin Markus (1924–2010) was a Hungarian-born British
-          historian widely credited, alongside Peter Brown, with helping to
-          establish "Late Antiquity" as a distinct field of study. He was
-          Professor of Medieval History at Nottingham between 1974 and 1982, and
-          subsequently professor emeritus, and is best remembered for his work
-          on Augustine of Hippo and Gregory the Great.
+          Luisa Marcucci was an Italian art historian and museum official who
+          served within the Gallerie Nazionali di Firenze during the
+          mid-twentieth century. Though biographical details about her personal
+          life remain sparsely documented in available sources, her scholarly
+          legacy is tangible and consequential: she produced two of the
+          foundational systematic catalogues of the medieval Florentine
+          collections, volumes that remain standard references in Trecento
+          studies to this day.
         </p>
         <p>
-          He was born Róbert Imre Márkus in Budapest, Hungary on 8 October 1924,
-          into an assimilated Jewish family with, as the biographical record
-          puts it, strong ties to Christianity. His father, Gyözö (Victor)
-          Márkus, was the director of a heavy engineering firm founded by
-          Robert's grandfather, and his mother, Lili Elek, was an
-          internationally recognised ceramicist. Markus fled Hungary with his
-          parents in 1939 amid rising antisemitism, settling in England, where
-          he anglicised his name and pursued education at the University of
-          Manchester, initially in chemistry before shifting to philosophy,
-          earning an MA and PhD under Dorothy Emmet. At Manchester he studied
-          medieval philosophy alongside figures such as Alasdair MacIntyre.
+          Marcucci's work belongs to one of the most ambitious collective
+          enterprises in twentieth-century Italian museum scholarship: the
+          <em>Cataloghi dei Musei e Gallerie d'Italia</em>, published by the
+          Istituto Poligrafico dello Stato under the auspices of the Ministero
+          della Pubblica Istruzione — Direzione delle Antichità e Belle Arti.
+          This series, launched in the postwar period, aimed to produce rigorous
+          scientific catalogues of the state collections in a standardized
+          format: each volume covering a defined school or period within a
+          specific museum, with entries including physical description,
+          provenance, critical history, bibliography, and photographic
+          documentation. The series sat at the intersection of museum practice
+          and academic scholarship, and its authors were typically the
+          conservators and functionaries directly responsible for the works in
+          question — custodians with daily, hands-on knowledge of the objects
+          they catalogued.
         </p>
         <p>
-          The intellectual trajectory that defined his life began with religious
-          conversion. His philosophical turn was intimately connected with his
-          conversion to Roman Catholicism in 1946, and after completing his
-          doctorate he spent four years as a Dominican, reading deeply in the
-          Church Fathers, especially Augustine. In 1954 he made the decision to
-          leave the Dominicans. A year later he married a longstanding Catholic
-          friend, Margaret Bullen, to whom he would later dedicate his first
-          major book. He also became, and remained, an active supporter of the
-          Campaign for Nuclear Disarmament — a detail worth noting, since his
-          politics and his theology were not kept in separate compartments.
+          Luisa Marcucci published
+          <em
+            >Gallerie Nazionali di Firenze: I dipinti toscani del secolo XIII.
+            Scuole bizantine e russe dal secolo XII al secolo XVIII</em
+          >
+          with the Istituto Poligrafico dello Stato in 1958. This volume
+          catalogued the thirteenth-century Tuscan panels in the Florentine
+          national collections alongside Byzantine and Russian icons spanning
+          the twelfth to eighteenth centuries — a pairing that reflects the
+          collecting logic of the period, which grouped pre-Gothic and Byzantine
+          material together as expressions of a shared pre-naturalistic
+          tradition predating the Giottesque revolution.
         </p>
         <p>
-          His teaching career ran first through Liverpool, where he taught
-          medieval history from 1955 to 1974, and then Nottingham, where he held
-          the chair in medieval history until his relatively early retirement in
-          1982. Retirement did not slow his output; his two most influential
-          books both appeared afterward.
+          The century covered — the Duecento — is among the most technically
+          demanding in Italian art history: a period of transition from the
+          Byzantine manner to the new pictorial language developing
+          simultaneously in Florence, Siena, Lucca, and Pisa, when the
+          distinction between individual artistic personalities and workshop
+          traditions is often contested, and when documentary evidence is thin.
+          Cataloguing this material with scientific rigour required both
+          connoisseurial precision and a thorough command of the sparse archival
+          record.
         </p>
         <p>
-          Markus's scholarly reputation rests on three works in particular.
-          <em>Saeculum: History and Society in the Theology of St Augustine</em>
-          (1970) advanced a then-radical reading of Augustine's concept of the
-          "secular" — the <em>saeculum</em> as the shared temporal space of
-          political communities, which Augustine, on Markus's account,
-          effectively "liberated" from direct sacral control. It is worth
-          flagging that this reading has been contested: critics have debated
-          whether its true centre lies in Augustine's relation between sacred
-          and secular history or in a broader "secularisation" of political
-          institutions, and some have argued Markus read his own post-Vatican II
-          sensibilities back into the fourth century. His
-          <em>The End of Ancient Christianity</em> (1990) examined how Roman
-          culture eroded from the time of Augustine to that of Pope Gregory the
-          Great; Wolf Liebeschuetz regarded it as Markus's masterpiece, though
-          it too generated debate about how sharply "ancient" Christianity can
-          be said to have "ended." It was followed by
-          <em>Gregory the Great and His World</em> (1997).
+          Her second volume,
+          <em
+            >Gallerie Nazionali di Firenze: I dipinti toscani del secolo XIV</em
+          >, was published by the Istituto Poligrafico dello Stato in 1965,
+          containing 210 pages and 170 black-and-white plates. This is the more
+          widely cited of the two catalogues, covering the Trecento — the
+          century of Giotto's legacy, the great Florentine workshops of the
+          Gaddi family, Bernardo Daddi, Maso di Banco, Orcagna, and their
+          circles, and the generation leading into the International Gothic. It
+          is precisely the territory that Erling Skaug would later map through
+          his <em>punzoni</em> research, and Bruce Cole addressed in his
+          monograph on Giotto and Florentine painting.
         </p>
         <p>
-          He was elected a Fellow of the British Academy and appointed OBE. He
-          died of cancer in 2010, at the age of 86. His long intellectual
-          friendship and productive disagreement with Peter Brown — who
-          contributed the epilogue to Markus's Festschrift — is itself part of
-          the story of how the study of Late Antiquity took shape in the
-          anglophone academy. Obituaries appeared in <em>The Guardian</em> (by
-          Dame Janet Nelson) and <em>The Independent</em> (by Wolf
-          Liebeschuetz), and the <em>ODNB</em> carries a full entry.
+          The volume's entries are cited throughout the subsequent half-century
+          of scholarship on Trecento Florence. A characteristic example of
+          Marcucci's critical method appears in the museum database record for a
+          Bernardo Daddi panel in the Galleria dell'Accademia: Marcucci
+          considered this work particularly important because, being dated 1333,
+          it confirmed that the stylistic change in the artist — due to his
+          approach to Maso di Banco and Taddeo Gaddi — was occurring precisely
+          at that date. This is a concise illustration of how she used
+          individual dated works as chronological anchors for mapping the
+          broader currents of stylistic evolution within the Florentine school.
+        </p>
+        <p>
+          Her engagement with the critical tradition was equally rigorous: where
+          Richard Offner had assigned certain works to his anonymous grouping
+          "Close Following of Daddi," Marcucci's attributions typically restored
+          them to Daddi himself or to his documented workshop — a position
+          subsequently confirmed by Angelo Tartuferi in later Accademia
+          catalogues.
+        </p>
+        <p>
+          Marcucci's two catalogues occupy a specific and important position in
+          the historiography of medieval Italian art. They were produced at a
+          moment — the late 1950s and early 1960s — when the systematic,
+          object-based approach to Trecento painting was gaining momentum,
+          following the methodological groundwork laid by Richard Offner's
+          <em>Corpus of Florentine Painting</em> (begun in 1930) and pursued in
+          Italy by Roberto Longhi and his school. Her volumes provided the field
+          with a reliable, systematic inventory of the Florentine state
+          collections' medieval holdings at precisely the moment when scholars
+          like Skaug, Cole, and Boskovits were building the modern critical
+          literature on the period.
+        </p>
+        <p>
+          The consistent citation of her 1965 catalogue in subsequent
+          scholarship — in attributional debates, in provenance research, in
+          auction and exhibition literature, and in the MiBAC's national art
+          database — confirms its enduring authority. Her name appears in the
+          bibliographic apparatus of works on Giovanni del Biondo, Bernardo
+          Daddi, and other major Trecento artists as a standard point of
+          reference, functioning as the first systematic checkpoint between the
+          older connoisseurial tradition and the more analytical scholarship
+          that followed.
+        </p>
+        <p>
+          The relative biographical obscurity of Luisa Marcucci — a scholar
+          whose contribution to the field is substantive and whose catalogues
+          are cited by virtually every serious student of Trecento Florentine
+          painting — reflects a broader pattern in twentieth-century Italian
+          institutional art history, where the predominantly female workforce of
+          the Soprintendenze and museum administrations produced scholarship of
+          lasting value while remaining largely invisible in the biographical
+          record that the discipline has maintained for its most prominent
+          figures. Her case is analogous to that of several other women
+          officials of the mid-century Florentine institutions whose cataloguing
+          work underpins the field without their names having attracted the
+          biographical attention they merit.
         </p>
       </div>
 
@@ -13267,6 +13007,80 @@ title: "Scholars"
           culture and history, further confirming his deep roots in the
           scholarly tradition of the city that was the center of his entire
           intellectual life.
+        </p>
+      </div>
+
+      <div class="scholar-entry" id="markus-robert-austin">
+        <h3>Markus, Robert Austin</h3>
+        <p class="dates">Budapest, 8 October 1924 - 2010</p>
+        <p>
+          Robert Austin Markus (1924–2010) was a Hungarian-born British
+          historian widely credited, alongside Peter Brown, with helping to
+          establish "Late Antiquity" as a distinct field of study. He was
+          Professor of Medieval History at Nottingham between 1974 and 1982, and
+          subsequently professor emeritus, and is best remembered for his work
+          on Augustine of Hippo and Gregory the Great.
+        </p>
+        <p>
+          He was born Róbert Imre Márkus in Budapest, Hungary on 8 October 1924,
+          into an assimilated Jewish family with, as the biographical record
+          puts it, strong ties to Christianity. His father, Gyözö (Victor)
+          Márkus, was the director of a heavy engineering firm founded by
+          Robert's grandfather, and his mother, Lili Elek, was an
+          internationally recognised ceramicist. Markus fled Hungary with his
+          parents in 1939 amid rising antisemitism, settling in England, where
+          he anglicised his name and pursued education at the University of
+          Manchester, initially in chemistry before shifting to philosophy,
+          earning an MA and PhD under Dorothy Emmet. At Manchester he studied
+          medieval philosophy alongside figures such as Alasdair MacIntyre.
+        </p>
+        <p>
+          The intellectual trajectory that defined his life began with religious
+          conversion. His philosophical turn was intimately connected with his
+          conversion to Roman Catholicism in 1946, and after completing his
+          doctorate he spent four years as a Dominican, reading deeply in the
+          Church Fathers, especially Augustine. In 1954 he made the decision to
+          leave the Dominicans. A year later he married a longstanding Catholic
+          friend, Margaret Bullen, to whom he would later dedicate his first
+          major book. He also became, and remained, an active supporter of the
+          Campaign for Nuclear Disarmament — a detail worth noting, since his
+          politics and his theology were not kept in separate compartments.
+        </p>
+        <p>
+          His teaching career ran first through Liverpool, where he taught
+          medieval history from 1955 to 1974, and then Nottingham, where he held
+          the chair in medieval history until his relatively early retirement in
+          1982. Retirement did not slow his output; his two most influential
+          books both appeared afterward.
+        </p>
+        <p>
+          Markus's scholarly reputation rests on three works in particular.
+          <em>Saeculum: History and Society in the Theology of St Augustine</em>
+          (1970) advanced a then-radical reading of Augustine's concept of the
+          "secular" — the <em>saeculum</em> as the shared temporal space of
+          political communities, which Augustine, on Markus's account,
+          effectively "liberated" from direct sacral control. It is worth
+          flagging that this reading has been contested: critics have debated
+          whether its true centre lies in Augustine's relation between sacred
+          and secular history or in a broader "secularisation" of political
+          institutions, and some have argued Markus read his own post-Vatican II
+          sensibilities back into the fourth century. His
+          <em>The End of Ancient Christianity</em> (1990) examined how Roman
+          culture eroded from the time of Augustine to that of Pope Gregory the
+          Great; Wolf Liebeschuetz regarded it as Markus's masterpiece, though
+          it too generated debate about how sharply "ancient" Christianity can
+          be said to have "ended." It was followed by
+          <em>Gregory the Great and His World</em> (1997).
+        </p>
+        <p>
+          He was elected a Fellow of the British Academy and appointed OBE. He
+          died of cancer in 2010, at the age of 86. His long intellectual
+          friendship and productive disagreement with Peter Brown — who
+          contributed the epilogue to Markus's Festschrift — is itself part of
+          the story of how the study of Late Antiquity took shape in the
+          anglophone academy. Obituaries appeared in <em>The Guardian</em> (by
+          Dame Janet Nelson) and <em>The Independent</em> (by Wolf
+          Liebeschuetz), and the <em>ODNB</em> carries a full entry.
         </p>
       </div>
 
@@ -15741,109 +15555,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="palanque-jean-remy">
-        <h3>Palanque, Jean-Rémy</h3>
-        <p class="dates">
-          Marseille, 7 March 1898 - Aix-en-Provence, 2 June 1988
-        </p>
-        <p>
-          Jean-Rémy Palanque was a French historian of late antiquity and early
-          Christianity whose work helped renew the historical study of the later
-          Roman Empire in the French academy. He is remembered especially for
-          his major study of Saint Ambrose, produced at almost exactly the same
-          moment as Frederick Homes Dudden's work on the same figure, but in
-          complete independence and with a distinctly historical rather than
-          Anglican-ecclesiastical emphasis.
-        </p>
-        <p>
-          Born in Marseille on 7 March 1898, the son of a merchant, Palanque
-          studied at the Lycée Thiers, took his baccalauréat in 1914, and
-          entered the École normale supérieure on the rue d'Ulm in 1917. He was
-          licencié ès lettres in 1918 and placed first in the agrégation in
-          history and geography in 1921. Appointed that same year to the lycée
-          at Montpellier, he began lecturing in ancient history at the Faculty
-          of Letters there from 1925, laying the foundations for a career that
-          moved steadily from school teaching to university research and major
-          scholarly synthesis.
-        </p>
-        <p>
-          His first publications already announced the subject that would make
-          his name. In 1924 he published two studies on Ambrose: a critical
-          examination of Paulinus of Milan's <em>Vita Ambrosii</em> in the
-          <em>Revue des sciences religieuses</em>, and an analysis of the
-          testimony of Socrates Scholasticus on Ambrose in the
-          <em>Revue des études anciennes</em>. These studies fed directly into
-          the doctoral thesis he defended in 1933,
-          <em
-            >Saint Ambroise et l'Empire romain: contribution à l'histoire des
-            rapports de l'Église et de l'État à la fin du IVe siècle</em
-          >, printed at Bordeaux in 1933 and issued in Paris by de Boccard in
-          1935, hence the double dating by which the book is often cited. His
-          complementary thesis was the
-          <em>Essai sur la préfecture du prétoire du Bas-Empire</em> (1933),
-          showing the extent to which his Ambrose study emerged from a wider
-          command of the late Roman administrative world.
-        </p>
-        <p>
-          The Ambrose book is structured in two large movements: first the
-          history of the bishop of Milan's personal and political dealings with
-          the emperors Gratian, Valentinian II, and Theodosius; then, drawn from
-          that narrative, a reconstruction of Ambrose's political ideas.
-          Palanque rightly insisted that Ambrose never set out a formal doctrine
-          of Church and State in systematic fashion; his position emerges
-          instead from letters, occasional writings, and texts produced in the
-          pressure of events. The chronological framework Palanque established,
-          especially for the letters and the sequence of confrontations with
-          imperial authority, remains a standard point of departure for later
-          work on Ambrose and on the late fourth-century relationship between
-          episcopal authority and imperial government.
-        </p>
-        <p>
-          Palanque's academic career advanced rapidly thereafter. He became
-          maître de conférences at Montpellier in 1937, professeur sans chaire
-          in 1938, and in 1940 transferred to the chair of ancient history at
-          Aix-en-Provence. His public life extended beyond the seminar room: he
-          was decorated with the Medal of the Resistance in 1945, and in the
-          elections to the constituent assembly that same year he stood in
-          second place on a list associated with the Resistance. In 1950 he was
-          behind the creation of the Fédération historique de Provence,
-          strengthening the scholarly infrastructure of regional history in
-          southern France. He also taught for a period in Tananarive,
-          Madagascar, in 1961.
-        </p>
-        <p>
-          Scholarly recognition followed at the highest level. Palanque was
-          elected to the Académie des Inscriptions et Belles-Lettres on 15
-          November 1968 and later presided over the Société d'histoire
-          religieuse de la France. His wider work ranged well beyond Ambrose. In
-          collaboration with Henri-Irénée Marrou, he helped renew the historical
-          reading of the later Roman Empire and of early Christianity, and he
-          translated and completed in French the late antique studies of the
-          Austrian historian Ernst Stein. He contributed the volume
-          <em>De la paix constantinienne à la mort de Théodose</em> to the
-          Fliche–Martin <em>Histoire de l'Église</em>, wrote
-          <em>Les impérialismes antiques</em> (PUF, "Que sais-je?", 1948) and
-          <em>Le Bas-Empire</em>
-          (1971), collaborated with Latreille and Delaruelle on the three-volume
-          <em>Histoire du catholicisme en France</em> (Spes, 1957–62), and
-          edited the diocesan histories of Marseille (1967) and Aix-en-Provence
-          (1975) for the <em>Histoire des diocèses de France</em>.
-        </p>
-        <p>
-          Particularly important for late antique and early medieval prosopical
-          work was his role, together with Marrou, in the long-term project of
-          the <em>Prosopographie chrétienne du Bas-Empire</em>, launched in
-          publication from 1982. The second volume, <em>Italie (313–604)</em>
-          by Charles and Luce Pietri, remains one of the essential research
-          tools for anyone working on Milanese or north-Italian ecclesiastical
-          names in the age of Ambrose, Gregory, and the post-imperial church.
-          Palanque died in Aix-en-Provence on 2 June 1988, leaving behind a body
-          of work that remains central to the historical study of Ambrose,
-          Church-State relations in the late Roman Empire, and the Christian
-          prosopography of late antiquity.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="paolini-gilberto">
         <h3>Paolini, Gilberto</h3>
         <p class="dates">
@@ -17475,75 +17186,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="ramsey-j-boniface">
-        <h3>Ramsey, J. Boniface</h3>
-        <p class="dates">b. 6 October 1945</p>
-        <p>
-          J. Boniface Ramsey (born 6 October 1945) is an American Catholic
-          priest, patristics scholar, and translator, known in two quite
-          distinct capacities: as a prolific editor and translator of early
-          Christian texts, and as the priest who tried, over nearly two decades,
-          to alert Church authorities to the misconduct of Theodore McCarrick.
-        </p>
-        <p>
-          He was ordained in 1973 as a member of the Dominican Order, and earned
-          a doctorate in theology in 1983 following studies at the Institut
-          Catholique in Paris. He taught patrology at institutions including The
-          Catholic University of America and, from 1986 to 1996, at Immaculate
-          Conception Seminary at Seton Hall University in New Jersey (the
-          seminary serving the Archdiocese of Newark). In 2004 he left the
-          Dominicans to join the Archdiocese of New York, his hometown, where he
-          has served as pastor and administrator in several Manhattan parishes —
-          over the years associated with St. Vincent Ferrer, St.
-          Joseph-Yorkville, and, most recently, St. Rita's in Long Island City.
-        </p>
-        <p>
-          Ramsey's scholarly reputation rests principally on his work with the
-          Church Fathers. His introductory survey
-          <em>Beginning to Read the Fathers</em> (Paulist Press, 1985), a
-          thematic guide to the principal Greek and Latin patristic writings,
-          remains widely used as a teaching text. He is the general editor of
-          <em
-            >The Works of Saint Augustine: A Translation for the 21st
-            Century</em
-          >
-          (New City Press), the ambitious project begun in 1990 in conjunction
-          with the Augustinian Heritage Institute to render Augustine's entire
-          corpus — some 132 works — into modern English for the first time.
-          Within that series he served as editor of volumes including
-          <em>The City of God</em>, and himself translated Augustine's
-          <em>Revisions</em> (<em>Retractationes</em>). Beyond Augustine, he
-          produced the standard modern English translations of John Cassian's
-          monastic works — <em>The Conferences</em> (1997) and
-          <em>The Institutes</em> (2000) in the Ancient Christian Writers series
-          — and translated the sermons of Maximus of Turin. He also edited the
-          volume on <em>Ambrose</em> in Routledge's Early Church Fathers series
-          (1997), which may be of particular interest given your work on Milan.
-        </p>
-        <p>
-          The second strand of his public life concerns McCarrick. While on the
-          Immaculate Conception faculty in the early 1990s — when McCarrick was
-          Archbishop of Newark — Ramsey heard persistent reports that the
-          archbishop invited seminarians to his beach house and shared his bed
-          with them. In November 2000, after McCarrick was appointed Archbishop
-          of Washington, Ramsey wrote to the Apostolic Nuncio, Archbishop
-          Gabriel Montalvo, setting out these allegations; by his own later
-          account, he did so on his own initiative, having phoned the nunciature
-          beforehand. As a Dominican rather than a diocesan priest, he was not
-          under McCarrick's supervision, which gave him a measure of
-          independence in speaking out. He received no formal reply, but a 2006
-          letter from the Vatican's Leonardo Sandri confirmed the 2000 complaint
-          had been received in Rome. Ramsey later renewed his warnings,
-          including a 2015 letter to Cardinal Seán O'Malley. When the McCarrick
-          scandal broke publicly in 2018, and Archbishop Carlo Maria Viganò
-          cited Ramsey's letter in his own dossier, Ramsey emerged as the
-          central whistleblower in the affair — though he has been careful to
-          distinguish his documented factual claims from Viganò's broader and
-          more contested accusations, and has resisted framing the matter as a
-          campaign against gay priests.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="ranucci-cristina">
         <h3>Ranucci, Cristina</h3>
         <p class="dates">active 20th-21st century</p>
@@ -18732,6 +18374,103 @@ title: "Scholars"
         </div>
       </div>
 
+      <div class="scholar-entry" id="schmidt-victor-michael">
+        <div class="endnotes-list__item-heading">
+          <div class="endnotes-list__item-thumb">
+            <img
+              src="/Images/Thumbnails/victor-schmidt.webp"
+              alt="Portrait of Victor Michael Schmidt"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <h3 class="endnotes-list__item-title">Schmidt, Victor Michael</h3>
+        </div>
+        <p class="dates">active late 20th-21st century; retired May 2024</p>
+        <p>
+          Victor Michael Schmidt is a Dutch art historian specializing in
+          Italian medieval and Renaissance painting, with a particular focus on
+          panel painting, the typology and function of art objects, iconography,
+          and the origins of art theory. For decades, he served as
+          <strong
+            >Associate Professor of Art History at Utrecht University</strong
+          >, where he remained until his retirement in May 2024.
+        </p>
+        <p>
+          Schmidt's research focuses on Italian painting of the
+          <strong>13th and 14th centuries</strong>, employing an approach that
+          integrates typological analysis, liturgical function, and the private
+          devotion associated with pictorial objects. He is one of the foremost
+          living specialists in late medieval Italian panel painting, with a
+          specific focus on the Marche, Tuscany, and the Umbrian region.
+        </p>
+        <p>
+          His perspective is distinctly interdisciplinary: in addition to
+          stylistic attribution, he investigates the artist's social status,
+          patronage, and the reception of the works within the religious and
+          civil context of the Middle Ages.
+        </p>
+        <p>
+          Schmidt's most influential publication is his editorship of the volume
+          <em>Italian Panel Painting of the Duecento and Trecento</em>
+          (Studies in the History of Art, 61), published by the National Gallery
+          of Art in Washington in 2002, which brings together twenty-three
+          essays by international specialists and grew out of a symposium held
+          in Florence in 1998.
+        </p>
+        <p>
+          This volume has become an indispensable reference tool for anyone
+          studying the origins of Italian panel painting. Equally significant is
+          <em
+            >Painted Piety: Panel Paintings for Personal Devotion in Tuscany,
+            1250-1400</em
+          >
+          (Centro Di, Florence, 2005), a monographic study on private devotion
+          and the relationship between patron and sacred image in 13th- and
+          14th-century Tuscany. In 2010, he co-edited with Justin Kroesen
+          <em>The Altar and Its Environment, 1150-1400</em> (Brepols, Turnhout),
+          a collective volume on the altar as a physical, liturgical, and visual
+          space in the Middle Ages. More recently, he published
+          <em
+            >Processional Banners and Gonfalons from the Marche. Late Middle
+            Ages and Renaissance</em
+          >
+          (Edizioni Centro Studi "G. Mazzini," Fermignano, 2020), exploring
+          processional painting in the Marche region.
+        </p>
+        <p>
+          Schmidt is a member of the editorial boards of some of the most
+          authoritative Italian journals of medieval and Renaissance art
+          history, including <em>Prospettiva</em>, <em>La Diana</em> (journal of
+          the School of Specialization in Historical and Artistic Heritage at
+          the University of Siena), <em>Arte marchigiana</em>, and
+          <em>Studi montefeltrani</em>.
+        </p>
+        <p>
+          He is also a member of the board of directors of the
+          <strong
+            >Stichting voor Nederlandse Kunsthistorische Publicaties</strong
+          >, the Dutch organization that publishes the journal
+          <em>Simiolus</em>, one of the most respected art history publications
+          in the Netherlands. He has maintained academic ties with the
+          <strong>Dutch University Institute of Art History</strong> in
+          Florence, an institution that has traditionally fostered the
+          relationship between Dutch art historiography and Italian art.
+        </p>
+        <p>
+          Until his retirement, Schmidt trained entire generations of art
+          historians in Utrecht, supervising theses and research on topics
+          related to medieval Italian painting. As evidenced by his students
+          still active in 2025-2026, his influence extended far beyond his
+          direct teaching: a recent example is the presentation of a bachelor's
+          thesis on Francesco da Bologna at Utrecht University in May 2026,
+          supervised by Schmidt himself. The National Gallery of Art in
+          Washington has also included his bibliography in online catalogs
+          dedicated to 13th- and 14th-century Italian painting, a recognition of
+          the institutional significance of his work.
+        </p>
+      </div>
+
       <div class="scholar-entry" id="schmarsow-august">
         <div class="endnotes-list__item-heading">
           <div class="endnotes-list__item-thumb">
@@ -18983,103 +18722,6 @@ title: "Scholars"
           Norberg-Schulz to Juhani Pallasmaa, descends in large part from the
           argument that Schmarsow first articulated in his Leipzig inaugural
           lecture of 1893.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="schmidt-victor-michael">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/victor-schmidt.webp"
-              alt="Portrait of Victor Michael Schmidt"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">Schmidt, Victor Michael</h3>
-        </div>
-        <p class="dates">active late 20th-21st century; retired May 2024</p>
-        <p>
-          Victor Michael Schmidt is a Dutch art historian specializing in
-          Italian medieval and Renaissance painting, with a particular focus on
-          panel painting, the typology and function of art objects, iconography,
-          and the origins of art theory. For decades, he served as
-          <strong
-            >Associate Professor of Art History at Utrecht University</strong
-          >, where he remained until his retirement in May 2024.
-        </p>
-        <p>
-          Schmidt's research focuses on Italian painting of the
-          <strong>13th and 14th centuries</strong>, employing an approach that
-          integrates typological analysis, liturgical function, and the private
-          devotion associated with pictorial objects. He is one of the foremost
-          living specialists in late medieval Italian panel painting, with a
-          specific focus on the Marche, Tuscany, and the Umbrian region.
-        </p>
-        <p>
-          His perspective is distinctly interdisciplinary: in addition to
-          stylistic attribution, he investigates the artist's social status,
-          patronage, and the reception of the works within the religious and
-          civil context of the Middle Ages.
-        </p>
-        <p>
-          Schmidt's most influential publication is his editorship of the volume
-          <em>Italian Panel Painting of the Duecento and Trecento</em>
-          (Studies in the History of Art, 61), published by the National Gallery
-          of Art in Washington in 2002, which brings together twenty-three
-          essays by international specialists and grew out of a symposium held
-          in Florence in 1998.
-        </p>
-        <p>
-          This volume has become an indispensable reference tool for anyone
-          studying the origins of Italian panel painting. Equally significant is
-          <em
-            >Painted Piety: Panel Paintings for Personal Devotion in Tuscany,
-            1250-1400</em
-          >
-          (Centro Di, Florence, 2005), a monographic study on private devotion
-          and the relationship between patron and sacred image in 13th- and
-          14th-century Tuscany. In 2010, he co-edited with Justin Kroesen
-          <em>The Altar and Its Environment, 1150-1400</em> (Brepols, Turnhout),
-          a collective volume on the altar as a physical, liturgical, and visual
-          space in the Middle Ages. More recently, he published
-          <em
-            >Processional Banners and Gonfalons from the Marche. Late Middle
-            Ages and Renaissance</em
-          >
-          (Edizioni Centro Studi "G. Mazzini," Fermignano, 2020), exploring
-          processional painting in the Marche region.
-        </p>
-        <p>
-          Schmidt is a member of the editorial boards of some of the most
-          authoritative Italian journals of medieval and Renaissance art
-          history, including <em>Prospettiva</em>, <em>La Diana</em> (journal of
-          the School of Specialization in Historical and Artistic Heritage at
-          the University of Siena), <em>Arte marchigiana</em>, and
-          <em>Studi montefeltrani</em>.
-        </p>
-        <p>
-          He is also a member of the board of directors of the
-          <strong
-            >Stichting voor Nederlandse Kunsthistorische Publicaties</strong
-          >, the Dutch organization that publishes the journal
-          <em>Simiolus</em>, one of the most respected art history publications
-          in the Netherlands. He has maintained academic ties with the
-          <strong>Dutch University Institute of Art History</strong> in
-          Florence, an institution that has traditionally fostered the
-          relationship between Dutch art historiography and Italian art.
-        </p>
-        <p>
-          Until his retirement, Schmidt trained entire generations of art
-          historians in Utrecht, supervising theses and research on topics
-          related to medieval Italian painting. As evidenced by his students
-          still active in 2025-2026, his influence extended far beyond his
-          direct teaching: a recent example is the presentation of a bachelor's
-          thesis on Francesco da Bologna at Utrecht University in May 2026,
-          supervised by Schmidt himself. The National Gallery of Art in
-          Washington has also included his bibliography in online catalogs
-          dedicated to 13th- and 14th-century Italian painting, a recognition of
-          the institutional significance of his work.
         </p>
       </div>
 
@@ -19934,113 +19576,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="sophocleous-sophocles">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/sophocles-sophocleous.webp"
-              alt="Portrait of Sophocles Sophocleous"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">Sophocleous, Sophocles</h3>
-        </div>
-        <p class="dates">Nicosia, active late 20th–21st century</p>
-        <p>
-          Sophocles Sophocleous was born and educated in Lefkosia (Nicosia). He
-          studied at the University of Human Sciences of Strasbourg and at
-          Paris-X-Nanterre, and at ICCROM in Rome — the International Centre for
-          the Study of the Preservation and Restoration of Cultural Property,
-          which provided him with rigorous grounding in the theory and practice
-          of conservation. He obtained his Doctorat, Sciences de l'Antiquité at
-          the University of Human Sciences of Strasbourg in 1990, with a thesis
-          on the heritage of icons in the Diocese of Limassol, Cyprus, from the
-          12th to the 16th century, written in French under the title
-          <em
-            >Le Patrimoine des icônes dans le diocèse de Limassol, Chypre,
-            12–16e siècle</em
-          >. His research areas span Classical, Byzantine, and post-Byzantine
-          art and archaeology, European and Middle Eastern art history, cultural
-          heritage, religious and mythological imagery, iconographic analysis,
-          the history of aesthetics, the theory and practice of conservation and
-          restoration, and museology.
-        </p>
-        <p>
-          The foundation of Sophocleous's fieldwork lies in a sustained,
-          systematic survey of Cyprus's ecclesiastical heritage. He worked at
-          the Bishopric of Limassol for five years, recording the Byzantine and
-          post-Byzantine heritage of more than 100 communities and
-          municipalities of the district of Limassol and in various monasteries
-          of the area, before appointment as District Archaeological Officer at
-          Paphos within the Department of Antiquities of Cyprus. This dual
-          experience — diocesan survey and state archaeological service — gave
-          Sophocleous an unusually comprehensive grasp of Cyprus's dispersed and
-          fragile sacred heritage, spanning churches, monasteries, and rural
-          chapels often overlooked by institutional scholarship.
-        </p>
-        <p>
-          In 1991 he created, and has since directed, the Centre of Cultural
-          Heritage in Nicosia, which has become the primary instrument through
-          which he has pursued a threefold mission of research, conservation,
-          and public education. The conservation atelier focuses on icons,
-          murals, and archaeological finds; the educational department organises
-          special programmes for children involving visits to churches and
-          monasteries; and the museum of the Byzantine Heritage of Palaichori,
-          inaugurated on 11 January 1998, showcases ecclesiastical art from
-          Frankish rule to the present, reflecting social and economic life in a
-          rural Cypriot community. He was Invited Professor (Directeur d'Études
-          Invité) at the École Pratique des Hautes Études, Sorbonne, Paris
-          (1996–1998), and Professor of Art History, Archaeology and Cultural
-          Heritage at the University of Nicosia (2005–2011).
-        </p>
-        <p>
-          Sophocleous's most significant book-length contribution is his
-          <em>Icons of Cyprus: 7th–20th Century</em> (Nicosia, 1994), a
-          pioneering work intended for both the expert and the layman that
-          investigates the history of Byzantine painting in one of the most
-          fascinating provinces of the Byzantine Empire. Byzantine province,
-          Crusader kingdom, and Venetian stronghold in the Eastern
-          Mediterranean, Cyprus continued its Byzantine artistic traditions
-          under Ottoman and British rule and renewed them in the modern
-          Byzantine painting of the twentieth century. The volume presents for
-          the first time a panorama of 116 icons from the seventh to the
-          twentieth century and three iconostases of the sixteenth century, as
-          well as three mural mosaics and six mural paintings from the sixth to
-          the eleventh century. A complementary volume,
-          <em>Icons of Cyprus: Diocese of Limassol, 12th–16th Century</em>
-          (Nicosia, 2006), developed from his doctoral research into a
-          comprehensive catalogue of a regionally specific corpus.
-        </p>
-        <p>
-          His published exhibition catalogue contributions include "L'évolution
-          de la peinture chypriote durant la période franque et vénitienne" in
-          <em>La France aux portes de l'Orient: Chypre XIIe–XVe siècle</em>
-          (Paris, 1991) and "L'art des icônes byzantines et post-byzantines à
-          Chypre" in
-          <em
-            >À l'image de Dieu: Icônes byzantines de Chypre du 12e siècle à nos
-            jours</em
-          >
-          (Mulhouse/Strasbourg, 1994). At the 25th Spring Symposium of Byzantine
-          Studies (Birmingham, 1991), he presented recently discovered medieval
-          Cypriot icons from his diocesan surveys — 235 icons from the twelfth
-          to the sixteenth century — exploring the implications of Western
-          influences in Cypriot iconography and the interconnections between
-          Byzantine and Crusader art. His paper "Cypriot icons before the 12th
-          century: A critical reconsideration" (Nicosia, 2011) argued for the
-          necessity of more rigorous scientific analyses to overcome the sparse
-          data and aesthetic subjectivity on which pre-iconoclastic dating had
-          previously relied.
-        </p>
-        <p>
-          In 2011 the French Republic honoured him with the distinction of
-          Chevalier de l'Ordre des Arts et Lettres, and in 2012 he was honoured
-          by the Cyprus Green Party with the Prize of Architectural Heritage in
-          memory of Neoptolemos Michaïlidis.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="sotirakoglou-christina">
         <h3>Sotirakoglou, Christina</h3>
         <p class="dates">active 2024</p>
@@ -20274,6 +19809,113 @@ title: "Scholars"
           northern Greece. She is, in the fullest sense, a co-founder of the
           scientific study of Byzantine iconography as an internationally
           recognised discipline.
+        </p>
+      </div>
+
+      <div class="scholar-entry" id="sophocleous-sophocles">
+        <div class="endnotes-list__item-heading">
+          <div class="endnotes-list__item-thumb">
+            <img
+              src="/Images/Thumbnails/sophocles-sophocleous.webp"
+              alt="Portrait of Sophocles Sophocleous"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <h3 class="endnotes-list__item-title">Sophocleous, Sophocles</h3>
+        </div>
+        <p class="dates">Nicosia, active late 20th–21st century</p>
+        <p>
+          Sophocles Sophocleous was born and educated in Lefkosia (Nicosia). He
+          studied at the University of Human Sciences of Strasbourg and at
+          Paris-X-Nanterre, and at ICCROM in Rome — the International Centre for
+          the Study of the Preservation and Restoration of Cultural Property,
+          which provided him with rigorous grounding in the theory and practice
+          of conservation. He obtained his Doctorat, Sciences de l'Antiquité at
+          the University of Human Sciences of Strasbourg in 1990, with a thesis
+          on the heritage of icons in the Diocese of Limassol, Cyprus, from the
+          12th to the 16th century, written in French under the title
+          <em
+            >Le Patrimoine des icônes dans le diocèse de Limassol, Chypre,
+            12–16e siècle</em
+          >. His research areas span Classical, Byzantine, and post-Byzantine
+          art and archaeology, European and Middle Eastern art history, cultural
+          heritage, religious and mythological imagery, iconographic analysis,
+          the history of aesthetics, the theory and practice of conservation and
+          restoration, and museology.
+        </p>
+        <p>
+          The foundation of Sophocleous's fieldwork lies in a sustained,
+          systematic survey of Cyprus's ecclesiastical heritage. He worked at
+          the Bishopric of Limassol for five years, recording the Byzantine and
+          post-Byzantine heritage of more than 100 communities and
+          municipalities of the district of Limassol and in various monasteries
+          of the area, before appointment as District Archaeological Officer at
+          Paphos within the Department of Antiquities of Cyprus. This dual
+          experience — diocesan survey and state archaeological service — gave
+          Sophocleous an unusually comprehensive grasp of Cyprus's dispersed and
+          fragile sacred heritage, spanning churches, monasteries, and rural
+          chapels often overlooked by institutional scholarship.
+        </p>
+        <p>
+          In 1991 he created, and has since directed, the Centre of Cultural
+          Heritage in Nicosia, which has become the primary instrument through
+          which he has pursued a threefold mission of research, conservation,
+          and public education. The conservation atelier focuses on icons,
+          murals, and archaeological finds; the educational department organises
+          special programmes for children involving visits to churches and
+          monasteries; and the museum of the Byzantine Heritage of Palaichori,
+          inaugurated on 11 January 1998, showcases ecclesiastical art from
+          Frankish rule to the present, reflecting social and economic life in a
+          rural Cypriot community. He was Invited Professor (Directeur d'Études
+          Invité) at the École Pratique des Hautes Études, Sorbonne, Paris
+          (1996–1998), and Professor of Art History, Archaeology and Cultural
+          Heritage at the University of Nicosia (2005–2011).
+        </p>
+        <p>
+          Sophocleous's most significant book-length contribution is his
+          <em>Icons of Cyprus: 7th–20th Century</em> (Nicosia, 1994), a
+          pioneering work intended for both the expert and the layman that
+          investigates the history of Byzantine painting in one of the most
+          fascinating provinces of the Byzantine Empire. Byzantine province,
+          Crusader kingdom, and Venetian stronghold in the Eastern
+          Mediterranean, Cyprus continued its Byzantine artistic traditions
+          under Ottoman and British rule and renewed them in the modern
+          Byzantine painting of the twentieth century. The volume presents for
+          the first time a panorama of 116 icons from the seventh to the
+          twentieth century and three iconostases of the sixteenth century, as
+          well as three mural mosaics and six mural paintings from the sixth to
+          the eleventh century. A complementary volume,
+          <em>Icons of Cyprus: Diocese of Limassol, 12th–16th Century</em>
+          (Nicosia, 2006), developed from his doctoral research into a
+          comprehensive catalogue of a regionally specific corpus.
+        </p>
+        <p>
+          His published exhibition catalogue contributions include "L'évolution
+          de la peinture chypriote durant la période franque et vénitienne" in
+          <em>La France aux portes de l'Orient: Chypre XIIe–XVe siècle</em>
+          (Paris, 1991) and "L'art des icônes byzantines et post-byzantines à
+          Chypre" in
+          <em
+            >À l'image de Dieu: Icônes byzantines de Chypre du 12e siècle à nos
+            jours</em
+          >
+          (Mulhouse/Strasbourg, 1994). At the 25th Spring Symposium of Byzantine
+          Studies (Birmingham, 1991), he presented recently discovered medieval
+          Cypriot icons from his diocesan surveys — 235 icons from the twelfth
+          to the sixteenth century — exploring the implications of Western
+          influences in Cypriot iconography and the interconnections between
+          Byzantine and Crusader art. His paper "Cypriot icons before the 12th
+          century: A critical reconsideration" (Nicosia, 2011) argued for the
+          necessity of more rigorous scientific analyses to overcome the sparse
+          data and aesthetic subjectivity on which pre-iconoclastic dating had
+          previously relied.
+        </p>
+        <p>
+          In 2011 the French Republic honoured him with the distinction of
+          Chevalier de l'Ordre des Arts et Lettres, and in 2012 he was honoured
+          by the Cyprus Green Party with the Prize of Architectural Heritage in
+          memory of Neoptolemos Michaïlidis.
         </p>
       </div>
 
@@ -22367,296 +22009,6 @@ title: "Scholars"
         </p>
       </div>
 
-      <div class="scholar-entry" id="hendrik-willem-van-os">
-        <div class="endnotes-list__item-heading">
-          <div class="endnotes-list__item-thumb">
-            <img
-              src="/Images/Thumbnails/henk-van-os.webp"
-              alt="Portrait of Hendrik Willem van Os"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <h3 class="endnotes-list__item-title">van Os, Hendrik Willem</h3>
-        </div>
-        <p class="dates">Harderwijk, 28 February 1938 - 14 June 2025</p>
-        <p>
-          Hendrik Willem van Os (28 February 1938 - 14 June 2025) was a Dutch
-          art historian. He served as professor of Art and Cultural History,
-          director of the Rijksmuseum in Amsterdam, and presenter of television
-          programs on art. In the specific field of Italian medieval and early
-          Renaissance painting, he was the author of the most comprehensive
-          treatment of Sienese altarpiece production from the thirteenth through
-          the fifteenth century produced in the twentieth century - a two-volume
-          work that established the functional study of the altarpiece as a
-          scholarly programme and whose influence has been permanent and wide.
-          That the same scholar directed the Rijksmuseum and presented popular
-          television programmes on art to a mass Dutch audience in the same
-          years he was producing his most rigorous scholarly work makes him,
-          among the historians encountered in this research thread, one of the
-          most unusual in the range of his public and institutional commitments.
-        </p>
-        <p>
-          Hendrik Willem van Os (Harderwijk, 28 February 1938) studied History
-          and Art History at the University of Groningen from 1957-1964, where
-          he also obtained his doctorate <em>cum laude</em> with a thesis
-          entitled "Iconological problems in Sienese painting from 1300-1450."
-          While working on his PhD, he resided in Florence and Siena for several
-          years.
-        </p>
-        <p>
-          Henk van Os studied art history at the University of Groningen, where
-          his father, Frederik van Os, served as rector magnificus during two
-          terms. The institutional connection between the van Os family and
-          Groningen was thus biographical as well as intellectual: his formation
-          in the university where his father held its highest office embedded
-          him in a specific institutional culture that shaped his later
-          commitment to the public responsibilities of the senior academic. He
-          also spent time studying in Rome - the essential Italian complement to
-          his Sienese specialization - before completing his doctorate in 1969.
-        </p>
-        <p>
-          The doctoral dissertation, published in German as
-          <em
-            >Marias Demut und Verherrlichung in der sienesischen Malerei
-            1300-1450</em
-          >
-          (Mary's Humility and Glorification in Sienese Painting 1300-1450, The
-          Hague, 1969), established the programmatic concerns that would govern
-          his scholarly work for the next fifty years: the iconological analysis
-          of religious imagery, the specific tradition of Sienese Marian
-          devotion, and the function of images as instruments of prayer and
-          theological statement rather than purely as aesthetic objects. The
-          German-language publication - unusual for a Dutch scholar's doctoral
-          work - signalled an immediate orientation toward the international
-          German-language art historical community that had dominated the field
-          of Italian medieval painting since Schmarsow and his successors.
-        </p>
-        <p>
-          In parallel with the doctoral dissertation, Van Os produced the first
-          of his contributions to the study of Italian paintings in Dutch
-          collections: <em>Sienese Paintings in Holland</em> (Groningen, 1969)
-          and, in collaboration with Marian Bisanz-Prakken,
-          <em>The Florentine Paintings in Holland 1300-1500</em> (Amsterdam: De
-          Arbeiderspers/Netherlands Institute for Art History, 1974). These
-          catalogues of Italian medieval and Renaissance panels in Dutch public
-          and private collections performed a service analogous to Luisa
-          Marcucci's catalogue of the Florentine national collections -
-          systematic documentation of a defined corpus, providing the scholarly
-          community with reliable physical descriptions, attributions, and
-          bibliographic apparatus for objects that had not previously been
-          comprehensively treated.
-        </p>
-        <p>
-          His 1974 monograph
-          <em
-            >Vecchietta and the Sacristy of the Siena Hospital Church: A Study
-            in Renaissance Religious Symbolism</em
-          >
-          (New York: A. Schram, 1974) turned the lens onto a single Sienese
-          painter-sculptor of the mid-fifteenth century and a single
-          institutional commission - the painted programme of the sacristy of
-          the Spedale di Santa Maria della Scala - in a study that combined
-          attributional analysis with the kind of contextual interpretation,
-          rooted in the specific liturgical and civic function of the decorated
-          space, that would become his signature method.
-        </p>
-        <p>
-          Van Os was appointed professor of Art and Cultural History at the
-          University of Groningen in 1974, and subsequently became dean of the
-          Faculty of Arts in 1984. The fifteen years between his professorial
-          appointment and his move to the Rijksmuseum were the period of his
-          most sustained scholarly production. He continued to publish on
-          Italian painting in Dutch collections - the
-          <em>Early Venetian Paintings in Holland</em> (Maarssen: G. Schwartz,
-          1978) extended his systematic catalogue work to the Venetian school -
-          while simultaneously conducting the research that would produce his
-          major scholarly monument.
-        </p>
-        <p>
-          The two-volume
-          <em>Sienese Altarpieces, 1215-1460: Form, Content, Function</em>
-          (Groningen: Bouma's Boekhuis, 1984 and 1990) is Van Os's principal
-          scholarly legacy. Volume I covers the period 1215-1344 - from the
-          earliest surviving examples of the Sienese altarpiece tradition
-          through the death of Simone Martini; Volume II extends to 1460,
-          covering the post-plague generation and the Quattrocento. His many
-          publications include
-          <em
-            >Mariological Themes in Sienese Painting: The Art of Devotion in the
-            Late Middle Ages in Europe</em
-          >
-          and <em>Sienese Altarpieces, 1215-1460: Form, Content, Function</em>.
-        </p>
-        <p>
-          The title's three terms - Form, Content, Function - are the
-          programmatic declaration of Van Os's method. Where earlier scholarship
-          on Italian altarpieces had concentrated primarily on formal and
-          attributional questions (who painted it, when, in what style), Van Os
-          insisted on the necessity of understanding the altarpiece as a
-          functional object: an artefact designed for a specific liturgical
-          setting, addressing a specific congregation, in service of specific
-          patterns of devotion shaped by the particular theology, hagiography,
-          and institutional culture of its commissioners. The Tarlati Polyptych,
-          commissioned by Guido Tarlati for the high altar of Santa Maria della
-          Pieve; the Orsini Polyptych, designed for Cardinal Napoleone Orsini's
-          private prayer: both are illuminated by this methodology, which asks
-          not only what an altarpiece represents but what it was for.
-        </p>
-        <p>
-          The <em>Sienese Altarpieces</em> is cited in every subsequent serious
-          study of the Sienese Trecento - in the literature on Duccio, Simone
-          Martini, the Lorenzetti brothers, Sassetta, and Giovanni di Paolo - as
-          the standard systematic treatment of the context within which each of
-          these painters' works functioned. The range of material covered, from
-          the earliest surviving Sienese frontal paintings of the early Duecento
-          to the late Quattrocento works that close the medieval tradition,
-          encompasses the entire arc of Sienese devotional painting, making it
-          the Sienese equivalent of what Erling Skaug attempted for Florentine
-          punch marks or what Lambros attempted for the Athonite manuscript
-          catalogue: a comprehensive scholarly survey that provides the
-          foundational reference for all subsequent work.
-        </p>
-        <p>
-          From 1989 to 1996, Van Os was general director of the Rijksmuseum. The
-          directorship of the Rijksmuseum - the principal museum of the
-          Netherlands and one of the great encyclopaedic collections in the
-          world, housing Rembrandt's <em>Night Watch</em>, Vermeer's
-          <em>The Milkmaid</em>, and the most comprehensive collection of Dutch
-          Golden Age painting in existence - was the institutional pinnacle
-          available to a Dutch art historian. Van Os brought to it the same
-          combination of scholarly rigour and public commitment that had
-          characterized his Groningen years.
-        </p>
-        <p>
-          He organised numerous exhibitions, such as "Prayer Embedded in Beauty"
-          (<em>Gebed in Schoonheid</em>). This exhibition, presented in 1994-95,
-          brought together forty-four objects of private medieval devotion from
-          Dutch and other collections - ivory diptychs, small panel paintings,
-          Books of Hours, sculpted altarpieces, limewood Christ children - and
-          presented them not as art objects but as instruments of prayer, each
-          addressed to a specific kind of devotee: nun, duke, pilgrim, merchant
-          wife. The exhibition and its accompanying publication,
-          <em
-            >The Art of Devotion in the Late Middle Ages in Europe,
-            1300-1500</em
-          >
-          (Princeton University Press, 1994), translated the functional
-          methodology of the <em>Sienese Altarpieces</em> into a format
-          accessible to the general museum-going public while maintaining its
-          scholarly integrity. For Alberto's research on illuminated manuscripts
-          and private devotional objects, <em>The Art of Devotion</em>
-          remains a foundational reference: the analysis of the Book of Hours as
-          a specifically tailored instrument of lay piety - its calendar
-          personalized, its devotional emphases calibrated to the owner's
-          particular needs, its images selected to support the prayers that
-          frame each of the canonical hours - draws directly on Van Os's
-          insistence that medieval religious objects must be understood through
-          the devotional practices they were designed to serve.
-        </p>
-        <p>
-          During his Rijksmuseum directorship, Van Os also developed the
-          television work for which he became most widely known to the Dutch
-          public. Van Os became widely known to the public through his
-          presentation of TV programs such as <em>Beeldenstorm</em> (AVRO) and
-          <em>Museumschatten</em> (VARA), which aimed to popularize art,
-          especially painting. The programme <em>Museumschatten</em> (Museum
-          Treasures) invited Van Os to present individual works from the
-          national collection in terms accessible to a general audience, drawing
-          on his gifts as a teacher and communicator to make the specific visual
-          and historical arguments of art history legible to viewers with no
-          prior preparation. The programme reached audiences of millions and
-          established Van Os as the most publicly recognized art historian in
-          the Netherlands - a position analogous to that which Kenneth Clark had
-          occupied in Britain through the <em>Civilisation</em> series a
-          generation earlier.
-        </p>
-        <p>
-          In 1996, he stepped down as director of the Rijksmuseum and was
-          appointed University Professor holding the chair in Art and Society at
-          the University of Amsterdam (UvA). The chair title - Art and Society
-          rather than Art History - reflected the programmatic commitment of his
-          Amsterdam years to the study of art as a social practice embedded in
-          specific communities, institutions, and patterns of use, rather than
-          as an autonomous aesthetic phenomenon to be evaluated by formal
-          criteria alone.
-        </p>
-        <p>
-          He has held teaching positions at Princeton University, Harvard
-          University, Heidelberg University, the Harvard Center for Renaissance
-          Studies, and Smith College. The Harvard Center for Renaissance Studies
-          - Villa I Tatti in Florence, the same institution where Erling Skaug
-          had spent his postdoctoral years - was among the institutions at which
-          Van Os held visiting appointments, placing him within the
-          international scholarly community of Italian Renaissance specialists
-          gathered around that extraordinary Florentine research library.
-        </p>
-        <p>
-          His later publications extended the range of his public engagement
-          beyond his core Italian medieval specialization:
-          <em
-            >The Discovery of the Netherlands: Four Centuries of Landscape
-            Painting by Dutch Masters</em
-          >
-          (Rotterdam: Nai Publishers, 2008) addressed the canonical Dutch
-          landscape tradition in the accessible register of his television work;
-          <em>Young in Groningen: Art from the Period 1945-1975</em> (Groninger
-          Museum, 2009) returned to the city of his formation to document its
-          postwar artistic culture. A series of popular books in Dutch -
-          including reflections on the pleasures of art history (<em
-            >De vreugden van de kunst(geschiedenis)</em
-          >), on looking (<em>Zien is genoeg</em> - Seeing is Enough), and on
-          individual meditations on works he loved - established his
-          Dutch-language voice as one of the most readable and intellectually
-          serious in the genre of accessible art writing.
-        </p>
-        <p>
-          The collected essays published as
-          <em>Studies in Early Tuscan Painting</em> (London: Pindar Press, 1992)
-          gathered contributions to specific attributional and iconographic
-          problems in Trecento Florentine and Sienese painting that complement
-          and extend the systematic treatment of the
-          <em>Sienese Altarpieces</em>. The essay "From Rome to Siena: the
-          Altarpiece of San Stefano alle Lizza" (<em
-            >Mededelingen van het Nederlands Instituut te Rome</em
-          >, 43, 1981) traces the specific artistic and institutional history of
-          a single Sienese altarpiece with the documentary precision of a
-          scholar who has absorbed both the Italian archival tradition and the
-          iconological method of the Warburg school.
-        </p>
-        <p>
-          His "Reassembling a Giovanni di Paolo triptych" (<em
-            >The Burlington Magazine</em
-          >, 119, 1977) exemplifies the connoisseurial contribution - the
-          identification and physical reconstruction of a dispersed polyptych's
-          original ensemble - that Van Os pursued alongside his broader cultural
-          and functional analyses. The dual commitment to connoisseurship and
-          function is characteristic of his generation of Italian Trecento
-          specialists, trained in the tradition that runs from Richard Offner
-          through Federico Zeri and Miklos Boskovits, who understood that the
-          close visual analysis of individual objects and the contextual
-          interpretation of their social function were complementary rather than
-          competing activities.
-        </p>
-        <p>
-          Van Os died on 14 June 2025 at the age of eighty-seven, having spent
-          the better part of six decades bringing the art of late medieval Siena
-          to scholarly and public audiences. His career represents one of the
-          most successful integrations of specialist scholarship and public
-          communication in the history of art history: the man who wrote the
-          standard treatment of the Sienese altarpiece was the same man who
-          explained Rembrandt's <em>Night Watch</em> to millions of Dutch
-          television viewers, and who made private medieval devotional objects
-          accessible to visitors without prior art historical preparation. The
-          <em>Sienese Altarpieces</em> and <em>The Art of Devotion</em> remain
-          the starting points for any serious engagement with the function of
-          painting and the sculpted or painted altarpiece in the religious life
-          of the late medieval period - precisely the territory that Alberto's
-          research on illuminated manuscripts, Trecento patronage, and Byzantine
-          devotional imagery inhabits.
-        </p>
-      </div>
-
       <div class="scholar-entry" id="vapheiades-konstantinos">
         <h3>Vapheiades, Konstantinos</h3>
         <p class="dates">active late 20th–21st century</p>
@@ -23717,127 +23069,6 @@ title: "Scholars"
           metodologia della storia dell'arte nel solco longhiano.
         </p>
       </div>
-
-      <div class="scholar-entry" id="campenhausen-hans-freiherr-von">
-        <h3>von Campenhausen, Hans Freiherr</h3>
-        <p class="dates">
-          Rosenbeck (Livonia), 16 December 1903 - Heidelberg, 6 January 1989
-        </p>
-        <p>
-          Hans Erich Freiherr von Campenhausen was one of the most important
-          Protestant church historians of the twentieth century, known above all
-          for his work on the early Church, the formation of canon, and the
-          political and theological history of late antiquity. He also occupies
-          a particular place in Ambrose studies, because his first major work on
-          the bishop of Milan appeared almost simultaneously with the great
-          books of Jean-Rémy Palanque and Frederick Homes Dudden, yet was
-          conceived entirely independently and with a sharply argumentative,
-          historically focused method of its own.
-        </p>
-        <p>
-          Campenhausen was born on 16 December 1903 at Rosenbeck in Livonia,
-          then part of the Russian Empire, into a Baltic-German baronial family
-          of large landowners whose ancestors had come from Germany into the
-          still-pagan Baltic in the High Middle Ages. The Russian Revolution
-          destroyed that world. His father was killed in the upheavals of 1919
-          as a representative of the "feudal class," and the young Campenhausen
-          himself was imprisoned before the family eventually escaped to
-          Germany. He had begun his schooling at Dorpat and Riga and completed
-          his Abitur at Heidelberg in 1922, bringing to German academia the
-          experience of violent political rupture that marked so many scholars
-          of his generation from the Baltic provinces.
-        </p>
-        <p>
-          He studied theology and history at Heidelberg and Marburg, with
-          periods in Berlin and Rome. His formation was shaped above all by
-          Rudolf Bultmann and Hans Freiherr von Soden, while the methodological
-          influence of Martin Dibelius was especially decisive. In 1926 he took
-          his doctorate at Heidelberg under Hans von Schubert with a study of
-          <em>Ambrosius von Mailand als Kirchenpolitiker</em>, published by de
-          Gruyter in 1929. He habilitated at Marburg in 1928 with a work
-          suggested by von Soden on the Passion sarcophagi,
-          <em
-            >Die Passionssarkophage: Zur Geschichte eines altchristlichen
-            Bildkreises</em
-          >, a study of direct importance for Christian archaeology and
-          iconography because it traces the formation of an early Christian
-          image-cycle in sculpted stone rather than treating late antique
-          Christianity only through texts.
-        </p>
-        <p>
-          His Ambrose dissertation asked the sharpest single question in the
-          field: what kind of church politician Ambrose was. This was not merely
-          a biography but an inquiry into episcopal action, political tactics,
-          and relations with imperial power under Gratian, Valentinian II, and
-          Theodosius. In later historiography, Palanque's great thesis supplied
-          the chronological and epistolary scaffolding for Ambrose's career,
-          while Dudden's two volumes offered the full English narrative; but
-          Campenhausen's book remained the shortest, most pointed, and most
-          argumentative of the three, and it set enduring terms for the debate
-          over Ambrose's political posture and practical dealings with the late
-          Roman court.
-        </p>
-        <p>
-          Campenhausen's early academic career unfolded under the increasingly
-          difficult conditions of the Third Reich. In 1930 he became
-          Privatdozent for church history and Christian archaeology at
-          Göttingen, and from 1931 to 1935 held the modest office of Inspector
-          at the Theological Stift there. A compromised fact of his record is
-          that on 11 November 1933 his name appeared among the signatories of
-          the professors' declaration supporting Hitler and the National
-          Socialist state. Yet he kept his distance from the regime, joined the
-          Confessing Church, and paid for that distance professionally. From
-          1935 onward he survived on a sequence of stand-in lectureships at
-          Giessen, Greifswald, Göttingen, Kiel, Heidelberg, and Vienna. Two
-          academic chairs were blocked for political reasons: first the
-          succession to Heinrich Bornkamm at Giessen in 1935, and then, in 1937,
-          the Heidelberg chair of church history vacated by Walther Köhler,
-          where he had already received favourable support from the dean, the
-          faculty, and even student representatives before the office of the
-          Deputy of the Führer vetoed him because of his Confessing Church ties.
-        </p>
-        <p>
-          Only after the collapse of the regime was he finally called, in 1945,
-          to Heidelberg as successor to his own teacher Hans von Schubert. He
-          was elected Rector of the university in 1946 and taught there until
-          1968, making Heidelberg the center of his mature scholarly life. The
-          major books of these decades include
-          <em>Die Idee des Martyriums in der alten Kirche</em> (1936),
-          <em
-            >Kirchliches Amt und geistliche Vollmacht in den ersten drei
-            Jahrhunderten</em
-          >
-          (Mohr, 1953), <em>Griechische Kirchenväter</em> (1955),
-          <em>Lateinische Kirchenväter</em> (1960),
-          <em>Die Jungfrauengeburt in der Theologie der alten Kirche</em>
-          (1962), <em>Aus der Frühzeit des Christentums</em> (1963), and above
-          all <em>Die Entstehung der christlichen Bibel</em> (Mohr, 1968), which
-          remains one of the classic accounts of the formation of the Christian
-          canon. The two small books on the Greek and Latin Fathers became
-          especially influential in teaching and were long available in English
-          translation as <em>The Fathers of the Greek Church</em> and
-          <em>The Fathers of the Latin Church</em>.
-        </p>
-        <p>
-          His later years brought extensive honors. He received honorary
-          doctorates from Göttingen, Oslo, St Andrews, and Uppsala; belonged for
-          more than forty years to the Heidelberg Academy; was a member of the
-          German Archaeological Institute; and served as corresponding fellow of
-          the British Academy and the Göttingen Academy, as well as honorary
-          member of the American Academy of Arts and Sciences from 1972. Severe
-          visual impairment gradually made research more difficult and
-          eventually impossible. His scholarly legacy remained institutional as
-          well as bibliographical: fifteen of his students became university
-          teachers, a school often said to be the largest left by any Protestant
-          church historian since Harnack. His son Axel von Campenhausen later
-          became a professor of canon law. Hans Freiherr von Campenhausen died
-          in Heidelberg on 6 January 1989 and was buried in the
-          Bassermann–Campenhausen family plot in the Bergfriedhof, leaving a
-          body of work central to early Christian studies, late antique church
-          politics, and the historical interpretation of figures such as
-          Ambrose.
-        </p>
-      </div>
     </section>
 
     <section class="scholar-section" id="w">
@@ -24025,72 +23256,6 @@ title: "Scholars"
           both East and West, as a fitting testament to a life of learning lived
           entirely in service to understanding the deep roots of Christian
           spirituality.
-        </p>
-      </div>
-
-      <div class="scholar-entry" id="washburn-daniel-a">
-        <h3>Washburn, Daniel A.</h3>
-        <p class="dates">born 20th century</p>
-        <p>
-          Daniel A. Washburn is an American scholar of late antique religion
-          whose work centers on the fraught relationship between the Christian
-          church and the Roman state in the later Empire, with exile and
-          banishment as recurring analytical lenses. He studied Religion at the
-          University of Puget Sound, spent part of his formation at the School
-          of Oriental and African Studies in London and at Keble College,
-          Oxford, and completed a doctorate in Religious Studies at Stanford. He
-          has taught at Seattle University, where he has served both as a
-          humanities instructor in what was then Matteo Ricci College and later
-          as a teacher-administrator.
-        </p>
-        <p>
-          His principal book,
-          <em>Banishment in the Later Roman Empire, 284-476 CE</em> (Routledge
-          Studies in Ancient History, 2013), filled a genuine gap in scholarship
-          by treating exile not as a secondary legal detail but as a central
-          structure of late Roman political and social life. Washburn argues
-          that banishment was simultaneously a punishment and a symbol: it
-          marked the condemned as fallen, made visible the asymmetry between
-          punisher and punished, and did so in a distinctive way by moving the
-          body of the exile through space. Because exile could be reversed, it
-          also functioned as negotiation, preserving the possibility of pardon
-          and making restoration itself part of the drama of authority.
-        </p>
-        <p>
-          The book works from the legal precision of the second- and
-          third-century jurists forward and combines juristic material and the
-          <em>Codex Theodosianus</em> with ecclesiastical and literary sources.
-          Its seven chapters trace the forms of banishment, its relation to the
-          church, the officials who imposed and enforced it, the people who
-          suffered it, the practical reality of life in exile, and the
-          conditions of return. Among Washburn's key findings are that exiles
-          were generally given time to arrange their affairs, that guile more
-          often succeeded than force in removing them, that civil rather than
-          military personnel usually carried out expulsions, that bishops appear
-          more often than anyone else as supervising authorities over the
-          banished, and that exile remained above all a penalty of the higher
-          social orders, increasingly functioning as the elite alternative to
-          capital punishment and as a standard sentence for <em>maiestas</em>.
-          Eric Fournier's 2015 review in the
-          <em>Journal of Early Christian Studies</em> underlined the importance
-          of the study.
-        </p>
-        <p>
-          Washburn is also the author of "The Thessalonian Affair in the
-          Fifth-Century Histories," published in H. A. Drake's
-          <em>Violence in Late Antiquity: Perceptions and Practices</em>
-          (Aldershot, 2006), a volume emerging from the Shifting Frontiers
-          conference held at Santa Barbara in 2003. That essay belongs directly
-          to the historiography of Ambrose and Theodosius: the Thessalonian
-          massacre of 390 and the emperor's subsequent penance at Milan had
-          already been treated by Campenhausen, chronologically anchored by
-          Palanque, narrated at length by Dudden, and fundamentally re-read by
-          Neil McLynn. Washburn's contribution is sharply source-critical. He
-          asks what the fifth-century ecclesiastical historians Rufinus,
-          Socrates, Sozomen, and Theodoret actually knew, and how much of the
-          famous later image of Ambrose barring the emperor at the church door
-          is a construction of those historians rather than a recoverable record
-          of the events of 390.
         </p>
       </div>
 
@@ -24873,105 +24038,6 @@ title: "Scholars"
       </div>
     </section>
 
-    <section class="scholar-section" id="x">
-      <h2>X</h2>
-
-      <div class="scholar-entry" id="xyngopoulos-andreas">
-        <h3>Xyngopoulos, Andreas</h3>
-        <p class="dates">Athens, 1891 – Athens, 22 April 1979</p>
-        <p>
-          Andreas Xyngopoulos was born in Athens in 1891 and died in the same
-          city on 22 April 1979. His entire life was devoted to the systematic
-          study of Early Christian and Byzantine art and architecture — two
-          fields that, during his formative years, were undergoing a profound
-          methodological transformation across Europe.
-        </p>
-        <p>
-          Xyngopoulos studied at the School of Philosophy of the University of
-          Athens, graduating in 1924. Concurrently with his studies, he joined
-          the Greek Archaeological Service in 1920, and that dual engagement —
-          academic and fieldwork — would leave an indelible mark on his approach
-          to research: rigorous in its philological grounding, yet always rooted
-          in the direct observation of monuments. In 1937 he completed his
-          doctoral dissertation at the École Pratique des Hautes Études in
-          Paris, working under Charles Diehl and Gabriel Millet. Both mentors
-          were among the most authoritative figures in European Byzantine
-          studies of the time: Diehl had transformed the understanding of
-          Byzantine civilisation and art, while Millet had established the
-          systematic method for studying medieval Greek wall paintings and
-          mosaics. His Parisian training equipped Xyngopoulos with the
-          methodological tools to tackle the major questions of chronology and
-          style in the sacred art of the medieval Greek-speaking East.
-        </p>
-        <p>
-          Xyngopoulos continued his work within the Greek Archaeological
-          Service, focusing primarily on the region of Macedonia and eventually
-          rising to become supervisor (<em>ephor</em>) of Byzantine monuments —
-          a role in which he exercised a crucial function for decades in the
-          protection and study of the monumental heritage of a region of
-          exceptional richness for scholars of Late Antique and medieval art,
-          owing to its density of Early Christian churches, wall mosaics, and
-          monastic architecture. In 1940 he left the Archaeological Service to
-          take up the chair of Byzantine Archaeology at the University of
-          Thessaloniki, from which he retired in 1956. His years in Thessaloniki
-          represented the most productive period of his scientific career, spent
-          in one of the world's most important laboratories for the study of
-          Early Christian and proto-medieval art.
-        </p>
-        <p>
-          Xyngopoulos's most celebrated contribution to art history is bound up
-          with his discoveries at two great mosaic ensembles in Thessaloniki. At
-          the church of Hosios David — the ancient <em>katholikon</em> of the
-          Latomos Monastery — he identified and studied the late fifth-century
-          apse mosaic: a Theophania depicting a youthful, beardless Christ
-          surrounded by the symbols of the four evangelists, with the figures of
-          the prophets Ezekiel and Habakkuk on either side, one of the most
-          enigmatic and captivating Early Christian mosaics in the entire
-          Eastern tradition. His research on this monument, published in the
-          pages of the <em>Archaiologikon Deltion</em>, remains a fundamental
-          reference point in the scholarly literature. For the Church of the
-          Holy Apostles — a masterpiece of fourteenth-century Palaiologan art —
-          he presented his observations on the style and character of the
-          mosaics at the proceedings of the VIII International Congress of
-          Byzantine Studies (Rome, 1953), making a decisive contribution to the
-          debate on the origin and training of the craftsmen who worked at that
-          site.
-        </p>
-        <p>
-          Beyond his work on monuments, Xyngopoulos devoted a substantial part
-          of his career to the study of illuminated manuscripts. He was among
-          the supervisors of the
-          <em
-            >Catalogue of the Illuminated Byzantine Manuscripts of the National
-            Library of Greece</em
-          >, published by the Academy of Athens from 1978 onwards — a collective
-          work of great importance for the systematic inventory of the Greek
-          miniature heritage. As a testament to his enduring passion for
-          post-Byzantine pictorial arts, Xyngopoulos bequeathed to the Benaki
-          Museum in Athens his collection of preparatory drawings for icons, now
-          known as the Xyngopoulos Portfolio: 452 loose sheets, mostly pricked
-          cartoons (<em>anthivola</em>) intended for the production of portable
-          icons. The largest known collection of such workshop materials, some
-          of these sheets can be linked to the great Cretan painters of the
-          sixteenth and seventeenth centuries — Michael Damaskenos, Emmanuel
-          Tzanes, and Theodoros Poulakis — and to icons produced by them, many
-          of which are preserved in the Ionian Islands and on Corfu in
-          particular.
-        </p>
-        <p>
-          Andreas Xyngopoulos belongs to that generation of art historians
-          trained between the two World Wars who helped establish Byzantine
-          studies as an autonomous discipline with its own methods. His
-          formation under Diehl and Millet, his long fieldwork experience in
-          Macedonia, and his Thessaloniki chair made him a central reference
-          point for generations of Greek and international scholars. His
-          discoveries concerning the mosaics of Thessaloniki — today a UNESCO
-          World Heritage Site — remain among the most enduring contributions to
-          the understanding of medieval sacred art in the eastern Mediterranean.
-        </p>
-      </div>
-    </section>
-
     <section class="scholar-section" id="y">
       <h2>Y</h2>
 
@@ -25133,6 +24199,101 @@ title: "Scholars"
           <em>Imagenes y promotores en el arte medieval</em> (2001) stand as
           lasting monuments to his influence on generations of students and
           scholars.
+        </p>
+      </div>
+
+      <div class="scholar-entry" id="xyngopoulos-andreas">
+        <h3>Xyngopoulos, Andreas</h3>
+        <p class="dates">Athens, 1891 – Athens, 22 April 1979</p>
+        <p>
+          Andreas Xyngopoulos was born in Athens in 1891 and died in the same
+          city on 22 April 1979. His entire life was devoted to the systematic
+          study of Early Christian and Byzantine art and architecture — two
+          fields that, during his formative years, were undergoing a profound
+          methodological transformation across Europe.
+        </p>
+        <p>
+          Xyngopoulos studied at the School of Philosophy of the University of
+          Athens, graduating in 1924. Concurrently with his studies, he joined
+          the Greek Archaeological Service in 1920, and that dual engagement —
+          academic and fieldwork — would leave an indelible mark on his approach
+          to research: rigorous in its philological grounding, yet always rooted
+          in the direct observation of monuments. In 1937 he completed his
+          doctoral dissertation at the École Pratique des Hautes Études in
+          Paris, working under Charles Diehl and Gabriel Millet. Both mentors
+          were among the most authoritative figures in European Byzantine
+          studies of the time: Diehl had transformed the understanding of
+          Byzantine civilisation and art, while Millet had established the
+          systematic method for studying medieval Greek wall paintings and
+          mosaics. His Parisian training equipped Xyngopoulos with the
+          methodological tools to tackle the major questions of chronology and
+          style in the sacred art of the medieval Greek-speaking East.
+        </p>
+        <p>
+          Xyngopoulos continued his work within the Greek Archaeological
+          Service, focusing primarily on the region of Macedonia and eventually
+          rising to become supervisor (<em>ephor</em>) of Byzantine monuments —
+          a role in which he exercised a crucial function for decades in the
+          protection and study of the monumental heritage of a region of
+          exceptional richness for scholars of Late Antique and medieval art,
+          owing to its density of Early Christian churches, wall mosaics, and
+          monastic architecture. In 1940 he left the Archaeological Service to
+          take up the chair of Byzantine Archaeology at the University of
+          Thessaloniki, from which he retired in 1956. His years in Thessaloniki
+          represented the most productive period of his scientific career, spent
+          in one of the world's most important laboratories for the study of
+          Early Christian and proto-medieval art.
+        </p>
+        <p>
+          Xyngopoulos's most celebrated contribution to art history is bound up
+          with his discoveries at two great mosaic ensembles in Thessaloniki. At
+          the church of Hosios David — the ancient <em>katholikon</em> of the
+          Latomos Monastery — he identified and studied the late fifth-century
+          apse mosaic: a Theophania depicting a youthful, beardless Christ
+          surrounded by the symbols of the four evangelists, with the figures of
+          the prophets Ezekiel and Habakkuk on either side, one of the most
+          enigmatic and captivating Early Christian mosaics in the entire
+          Eastern tradition. His research on this monument, published in the
+          pages of the <em>Archaiologikon Deltion</em>, remains a fundamental
+          reference point in the scholarly literature. For the Church of the
+          Holy Apostles — a masterpiece of fourteenth-century Palaiologan art —
+          he presented his observations on the style and character of the
+          mosaics at the proceedings of the VIII International Congress of
+          Byzantine Studies (Rome, 1953), making a decisive contribution to the
+          debate on the origin and training of the craftsmen who worked at that
+          site.
+        </p>
+        <p>
+          Beyond his work on monuments, Xyngopoulos devoted a substantial part
+          of his career to the study of illuminated manuscripts. He was among
+          the supervisors of the
+          <em
+            >Catalogue of the Illuminated Byzantine Manuscripts of the National
+            Library of Greece</em
+          >, published by the Academy of Athens from 1978 onwards — a collective
+          work of great importance for the systematic inventory of the Greek
+          miniature heritage. As a testament to his enduring passion for
+          post-Byzantine pictorial arts, Xyngopoulos bequeathed to the Benaki
+          Museum in Athens his collection of preparatory drawings for icons, now
+          known as the Xyngopoulos Portfolio: 452 loose sheets, mostly pricked
+          cartoons (<em>anthivola</em>) intended for the production of portable
+          icons. The largest known collection of such workshop materials, some
+          of these sheets can be linked to the great Cretan painters of the
+          sixteenth and seventeenth centuries — Michael Damaskenos, Emmanuel
+          Tzanes, and Theodoros Poulakis — and to icons produced by them, many
+          of which are preserved in the Ionian Islands and on Corfu in
+          particular.
+        </p>
+        <p>
+          Andreas Xyngopoulos belongs to that generation of art historians
+          trained between the two World Wars who helped establish Byzantine
+          studies as an autonomous discipline with its own methods. His
+          formation under Diehl and Millet, his long fieldwork experience in
+          Macedonia, and his Thessaloniki chair made him a central reference
+          point for generations of Greek and international scholars. His
+          discoveries concerning the mosaics of Thessaloniki — today a UNESCO
+          World Heritage Site — remain among the most enduring contributions to
+          the understanding of medieval sacred art in the eastern Mediterranean.
         </p>
       </div>
     </section>
