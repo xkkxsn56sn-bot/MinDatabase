@@ -122,41 +122,6 @@
         color: rgba(244, 241, 232, 0.92);
       }
 
-      .julian-date-panel__audio {
-        margin-top: 0.75rem;
-        text-align: center;
-        color: rgba(244, 241, 232, 0.9);
-        font-size: 0.9rem;
-      }
-
-      .julian-date-panel__audio-btn {
-        appearance: none;
-        border: 1px solid rgba(201, 169, 97, 0.55);
-        background: rgba(201, 169, 97, 0.2);
-        color: #fff4da;
-        border-radius: 999px;
-        padding: 0.2rem 0.7rem;
-        font: inherit;
-        font-weight: 700;
-        cursor: pointer;
-      }
-
-      .julian-date-panel__audio-btn:hover {
-        background: rgba(201, 169, 97, 0.32);
-      }
-
-      .julian-date-panel__audio-btn:focus-visible {
-        outline: 2px solid #f4c96f;
-        outline-offset: 2px;
-      }
-
-      .julian-date-panel__audio-vol {
-        margin-left: 0.28rem;
-        font-size: 0.74rem;
-        color: rgba(244, 241, 232, 0.8);
-        letter-spacing: 0.01em;
-      }
-
       header h1 {
         font-size: 2.8rem;
         margin-bottom: 0.5rem;
@@ -733,23 +698,6 @@
           <p class="julian-date-panel__phase-value" id="lunar-phase-value">
             Loading...
           </p>
-          <div class="julian-date-panel__audio">
-            (
-            <button
-              id="gregorian-inline-toggle"
-              type="button"
-              class="julian-date-panel__audio-btn"
-              aria-label="Attiva o metti in pausa i canti gregoriani"
-            >
-              Attiva audio
-            </button>
-            <span
-              id="gregorian-inline-volume"
-              class="julian-date-panel__audio-vol"
-              >25%</span
-            >
-            )
-          </div>
         </aside>
 
         <div class="header-copy">
@@ -1286,7 +1234,6 @@
       renderPushNoticesCard();
       renderApsisFlag();
     </script>
-    <script src="/assets/js/gregorian-player.js" defer></script>
     <script src="/assets/js/visitor-counter.js" defer></script>
   </body>
 </html>
