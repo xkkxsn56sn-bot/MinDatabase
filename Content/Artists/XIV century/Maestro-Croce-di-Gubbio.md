@@ -224,6 +224,8 @@ The combination now reads clearly: a Crucifixion with Franciscan intercessors (F
 
 The state of conservation on this face is instructive — the extensive craquelure, the gold losses along the arms, and the abraded terminals show the classic *gesso*-and-*bole* substrate beneath the water-gilding, and the survival of the green *proplasmos* where the pink flesh glazes have worn away. That green-underpaint exposure is one of the most legible teaching examples of Duecento panel technique you could put in front of a reader.
 
+### Crucifix (Croce dipinta)
+
 <figure>
   <img src="/Images/Maestro-Croce-Gubbio/image 3.jpg" alt="Crucifix">
   <figcaption>Crucifix (Croce dipinta), c. 1295, tempera on panel, 243 x 168 cm, Museo Civico di Gubbio.</figcaption>
