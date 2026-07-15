@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll-site",
+      "runtimeExecutable": "jekyll",
+      "runtimeArgs": ["serve"],
+      "port": 4000
+    },
+    {
+      "name": "subscriber-webhook-worker",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["wrangler", "dev"],
+      "port": 8787
+    }
+  ]
+}

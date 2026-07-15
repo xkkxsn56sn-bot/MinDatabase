@@ -220,23 +220,20 @@
 
     var inlineToggle = document.getElementById("gregorian-inline-toggle");
     var inlineVolume = document.getElementById("gregorian-inline-volume");
+    if (!inlineToggle) {
+      // Disable the floating player fallback: only pages with inline controls can use audio.
+      return;
+    }
     var ui;
 
-    if (inlineToggle) {
-      ui = { toggle: inlineToggle, inlineVolume: inlineVolume };
-      if (audio.volume <= 0.001) {
-        audio.volume = 0.25;
-        store.setItem(KEYS.volume, "0.25");
-      }
-      if (audio.muted) {
-        audio.muted = false;
-        store.setItem(KEYS.muted, "false");
-      }
-    } else {
-      injectStyles();
-      ui = createUi(formatTrackLabel(track));
-      ui.volume.value = String(Math.round(savedVolume * 100));
-      ui.volumeValue.textContent = ui.volume.value + "%";
+    ui = { toggle: inlineToggle, inlineVolume: inlineVolume };
+    if (audio.volume <= 0.001) {
+      audio.volume = 0.25;
+      store.setItem(KEYS.volume, "0.25");
+    }
+    if (audio.muted) {
+      audio.muted = false;
+      store.setItem(KEYS.muted, "false");
     }
 
     function refreshButtons() {
