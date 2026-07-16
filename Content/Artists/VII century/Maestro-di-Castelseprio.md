@@ -143,7 +143,7 @@ scholars:
 
 The figure known as the *Maestro di Castelseprio* occupies a unique position within the historiography of medieval art, defined almost entirely by his anonymity. His identity remains one of the great unresolved questions of early medieval Lombard art; no contemporary records have preserved his name, nor has any archival evidence been discovered that would allow for his definitive identification. This absence of a personal history is not merely a biographical gap but a fundamental characteristic of his legacy, compelling art historians to reconstruct his professional life through the analysis of his singular, monumental body of work.
 
-<figure class="figure--right">
+<figure class="figure--right figure--right-400">
   <img src="/Images/Maestro di Castelseprio/image 4.jpg" alt="church of Santa Maria foris portas - Castelseprio">
   <figcaption>Church of Santa Maria foris portas, Castelseprio, Varese.</figcaption>
 </figure>
