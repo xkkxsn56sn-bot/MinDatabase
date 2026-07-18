@@ -290,7 +290,7 @@
     },
     {
       "name": "Maestro di San Felice di Giano",
-      "href": "Content/Artists/XIII%20century/MaestrodiSanFelicediGiano.html"
+      "href": "Content/Artists/XIII%20century/Maestro-di-San-Felice-di-Giano.html"
     },
     {
       "name": "Maestro di San Francesco",
@@ -306,7 +306,7 @@
     },
     {
       "name": "Maestro di San Torpè",
-      "href": "Content/Artists/XIII%20century/MaestrodiSanTorpe.html"
+      "href": "Content/Artists/XIII%20century/Maestro-di-San-Torpe.html"
     },
     {
       "name": "Maestro di Sant'Alò",
@@ -318,7 +318,7 @@
     },
     {
       "name": "Maestro di Santa Chiara",
-      "href": "Content/Artists/XIII%20century/MaestrodiSantaChiara.html"
+      "href": "Content/Artists/XIII%20century/Maestro-di-Santa-Chiara.html"
     },
     {
       "name": "Maestro di Santa Maria Primerana",
@@ -346,7 +346,7 @@
     },
     {
       "name": "Manuel Panselinos",
-      "href": "Content/Artists/XIII%20century/ManuelPanselinos.html"
+      "href": "Content/Artists/XIII%20century/Manuel-Panselinos.html"
     },
     {
       "name": "Marco Berlinghieri",
@@ -366,7 +366,7 @@
     },
     {
       "name": "Montano d'Arezzo",
-      "href": "Content/Artists/XIII%20century/MontanoArezzo.html"
+      "href": "Content/Artists/XIII%20century/Montano-di-Arezzo.html"
     },
     {
       "name": "Nicola Pisano",
@@ -504,7 +504,11 @@
     },
     {
       "name": "Maestro della Croce di Gubbio",
-      "href": "Content/Artists/XIV%20century/Maestro-Croce-di-Gubbio.html"
+      "href": "Content/Artists/XIV%20century/Maestro-della-Croce-di-Gubbio.html"
+    },
+    {
+      "name": "Maestro della Croce di Trevi",
+      "href": "Content/Artists/XIV%20century/Maestro-della-Croce-di-Trevi.html"
     },
     {
       "name": "Maestro della Madonna di Perugia",
