@@ -206,11 +206,11 @@ To the right of the crossbar is the Saint John the Evangelist in sorrow, also de
 - Christ Blessing in a Mandorla with Angels (Cimasa)
 
 The topmost cimasa features the Blessing Savior in the act of displaying a scroll, enclosed within a mandorla supported by two flying angels. This theme of the Ascension in the cymatium is a particularly refined and relatively rare iconographic element that enriches the theological program of the cross: the redemptive death of Christ below corresponds to the glory of the Risen One above.
-  
+
 - The Patroness “Domina Maria” (base of the cross)
 
 At the base of the cross, the patroness is depicted in prayer, identified by the inscription as “Domina Maria”. She is depicted as a devout figure kneeling, rendered on a smaller scale in accordance with medieval hierarchical tradition, likely modeled after a similar figure found in Giunta Pisano’s Crucifix of 1236. The presence of this figure personalizes the work as a private commission and constitutes a valuable record of lay female patronage in 13th-century Umbria.
-  
+
 Simeone and Machilone were painters from Spoleto, documented by the 1230 inscription on a painting in Ancona (now lost) and by this 1257 cross. Their work fits into the crucial transition between the iconography of the Christus Triumphans—the living, solemn Christ—and that of the Christus Patiens, which would prevail because it more directly engaged the believer’s pietas. The influence of Giunta Pisano is fully assimilated but reinterpreted through the specific characteristics of the Umbrian-Spoleto figurative tradition.
 
 ### Dossal with Madonna and Child Enthroned and Scenes from the Life of the Virgin
@@ -220,9 +220,7 @@ Simeone and Machilone were painters from Spoleto, documented by the 1230 inscrip
   <figcaption>Altarpiece with Madonna and Child Enthroned and Scenes from the Life of the Virgin, c. 1258, tempera on panel, 79 x 120 cm, Museum Mayer van den Bergh, Antwerp.</figcaption>
 </figure>
 
-**Dossal with Madonna and Child Enthroned and Scenes from the Life of the Virgin, ca. 1258 — Museum Mayer van den Bergh, Antwerp**
-
-The painting is divided into five sections arranged horizontally, separated by painted columns that divide the central panel from the side panels. This vertical division with simulated columns is considered a direct precursor to the altar triptych, and allows the work to be classified as belonging to the Tuscan or Umbrian school. 
+The painting is divided into five sections arranged horizontally, separated by painted columns that divide the central panel from the side panels. This vertical division with simulated columns is considered a direct precursor to the altar triptych, and allows the work to be classified as belonging to the Tuscan or Umbrian school.
 
 The altarpiece format—a horizontal panel intended to be placed behind or above the altar—was typical of Marian devotion in 13th-century Italy.
 
@@ -261,6 +259,37 @@ The Virgin Mary is depicted enthroned (Theotokos en Majestate), seated in a fron
 
 The background is entirely gilded with gold leaf, in accordance with the tradition of sacred icons, and enriched by two large blue glass gems in the upper spandrels of the arch—a precious and unusual decorative element explicitly cited in sources as a characteristic feature of this work. The Virgin’s mantle is a deep blue (ultramarine), while the robe beneath is a vivid red, creating the canonical chromatic contrast of the Mater Dei. The drapery is rendered with rigid, parallel folds, typical of the linearity of the mature Romanesque style, lacking the volumetric softness that would characterize Umbrian Gothic art.
 
-Simeone and Machilone trained under the Spoleto master Alberto Sotio, a central figure of 13th-century Umbrian art. Their painting reflects the so-called late Komnenian Byzantinism: elongated figures, frontal and fixed gazes, sharp contours, and abundant gold. 
+Simeone and Machilone trained under the Spoleto master Alberto Sotio, a central figure of 13th-century Umbrian art. Their painting reflects the so-called late Komnenian Byzantinism: elongated figures, frontal and fixed gazes, sharp contours, and abundant gold.
 
 At the same time, the Orvieto work displays a slightly more articulated sense of space compared to purely Greek icons, with the throne unfolding across multiple decorative planes, foreshadowing the proto-Gothic experiments of late 13th-century Umbria.
+
+### Madonna delle Concanelle
+
+<figure>
+  <img src="/Images/Simeone e Machilone/image 4.jpg" alt="Madonna delle Concanelle">
+  <figcaption>Madonna delle Concanelle, 1262, polychrome wood with traces of gilding, from the church of Santa Maria delle Concanelle (Madonna della Neve), Bugnara (L'Aquila), Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
+</figure>
+
+The group presents the Virgin enthroned in rigid frontality, conceived within the *Sedes Sapientiae* / *Maestà* tradition, with the Christ Child set upon her left knee. The Virgin's veil and mantle envelop her in long, tubular folds articulated by contrasting blue and red borders, over a red gown revealed at the cuffs and along the lower hem; her proper right hand is extended outward in an open presentational gesture, while the Child—clad in a long banded tunic, his feet bare—raises his right hand in benediction and reaches outward with his left. The high-backed throne is crowned by two bolster cushions decorated with roundels and interlace, its lateral panels painted with vertical bands and lozenge motifs over a gilded ground that evokes both textile hangings and an architectural niche; the whole rests on a base whose front face carries the dedicatory inscription. The features—the Virgin's elongated oval face, heavy-lidded almond eyes, long straight nose, and composed mouth, set against the more animated, upturned head of the Child—retain the hieratic gravity of the Byzantine *maniera greca* while registering the transition toward an early Gothic sensibility. Substantial abrasion and paint loss across the faces and hands, together with the surviving gilding, testify to its devotional use and successive restorations.
+
+The base bears the inscription:
+
+(A)NNO D(O)M(IN)I MCCLXII M(A)CH(I)LON(US) ET CE[P]LA[.] EI FILIUS (DE)P(IN)S(E)RU(N)T HOC OPUS
+
+"In the year of the Lord 1262, Machilonus and his son *painted* this work."
+
+The verb *depinserunt* is significant: the current museum attribution assigns the polychromy to *magister* Machilonus, identifiable with the Spoletan painter Machilone, working with his son, while ascribing the carving itself to an anonymous sculptor of Umbrian-Abruzzese milieu. The son's name is only partially legible; it has been read as Ceccarello, though the epigraph does not permit certainty. The epithet *delle Concanelle* derives from the copper vessels in which grain was offered—the sanctuary reputedly rose over an earlier pagan temple, and the grain-offering rite was transferred to the Marian cult, a detail of some ethno-anthropological interest.
+
+## Conclusion
+
+The historical profile of Simeone and Machilone is defined by a paradox that is common in the study of the Duecento: biographical opacity combined with artistic clarity. Their personal lives remain almost entirely undocumented, yet the signed and datable works associated with their names allow a precise understanding of their role in the visual culture of central Italy between 1230 and the late 1250s. Through inscriptions, stylistic coherence, and geographic distribution, they emerge not as marginal provincial craftsmen but as active protagonists in the transformation of devotional painting during a crucial transitional generation.
+
+Their corpus demonstrates that the Spoletine tradition was neither static nor isolated. Rooted in the legacy of Alberto Sotio and in a late Comnenian Byzantine matrix, their painting nonetheless reveals a sustained engagement with newer currents, especially those associated with Giunta Pisano and the expanding Franciscan devotional sensibility. In their hands, the Italo-Byzantine language becomes a flexible instrument: still hieratic in structure, but increasingly open to emotional inflection, narrative clarity, and iconographic experimentation. This balance between continuity and innovation is the central key to understanding their historical importance.
+
+The patronage network reconstructed from their works further confirms their significance. Cathedral commissions, confraternal contexts, and private lay devotion all converge in their production, indicating a workshop able to respond to distinct liturgical and social needs without sacrificing stylistic identity. The figure of Domina Maria on the 1257 crucifix is particularly revealing in this respect, because it anchors their art in the lived practices of medieval piety and attests to the concrete role of female patronage in shaping sacred imagery. Their paintings were not abstract exercises in style; they were devotional instruments designed for specific communities, spaces, and acts of prayer.
+
+Equally telling is the geographic range of their activity and influence. From Spoleto to Ancona, from the Umbrian-Lazio corridor to the Marche, the circulation of their works and models reflects the mobility of artists and visual ideas across ecclesiastical and confraternal networks in thirteenth-century Italy. Whether through direct travel or workshop diffusion, their pictorial solutions entered a wider regional conversation that included Orvieto, Assisi, and related centers. In this sense, Simeone and Machilone belong to the connective tissue of Italian art history: they bridge territories as effectively as they bridge styles.
+
+At the formal level, their surviving panels and crucifixes reveal a disciplined intelligence in composition, iconographic selection, and theological articulation. The Barberini crucifix synthesizes suffering and triumph through a carefully structured hierarchy of images, while the Antwerp dossal expands Marian devotion into a coherent narrative program that combines Byzantine authority and Western narrative developments. Even where attributional questions remain, the workshop's visual grammar is sufficiently distinctive to map a broader circle of production and reception. Their art thus provides an essential case study for understanding how medieval workshops negotiated authorship, collaboration, and continuity across generations.
+
+For all these reasons, Simeone and Machilone should be recognized as major mediators in the long passage from Romanesque-Byzantine convention to the more differentiated pictorial languages of the later Duecento. They did not inaugurate the radical naturalism of Cimabue or Giotto, but they prepared the ground on which that transformation became possible, translating inherited formulas into images capable of renewed affective and doctrinal force. Their work stands at a historical threshold: faithful to tradition, responsive to change, and indispensable for reconstructing the artistic ecology of central Italy before the great canonical masters.

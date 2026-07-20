@@ -178,7 +178,7 @@
     },
     {
       "name": "Gentile da Rocca",
-      "href": "Content/Artists/XIII%20century/Gentile%20da%20Rocca.html"
+      "href": "Content/Artists/XIII%20century/Gentile-da-Rocca.html"
     },
     {
       "name": "Gilio di Pietro",
@@ -398,7 +398,7 @@
     },
     {
       "name": "Simeone e Machilone",
-      "href": "Content/Artists/XIII%20century/Simeone%20e%20Machilone.html"
+      "href": "Content/Artists/XIII%20century/Simeone-and-Machilone.html"
     },
     {
       "name": "Simone Martini",
@@ -525,6 +525,10 @@
     {
       "name": "Maestro di Cesi",
       "href": "Content/Artists/XIV%20century/Maestro-di-Cesi.html"
+    },
+    {
+      "name": "Maestro di Fossa",
+      "href": "Content/Artists/XIV%20century/Maestro-di-Fossa.html"
     },
     {
       "name": "Maestro di Panzano",
