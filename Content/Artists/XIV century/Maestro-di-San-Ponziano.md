@@ -153,7 +153,7 @@ Below the conch, on the drum wall flanking the window, two half-length female fi
 
 A significant contextual observation from the local literature: two holes in the wall have prompted the hypothesis that a bracket here supported the wooden statue of St Pontianus — by the same master who frescoed the apsidiole — which would explain the Magdalene gazing tenderly at the martyr and the Virgin extending her hands toward Pontianus's severed head. If correct, this transforms the reading of the ensemble: the two women are not simply mourners of Christ but are gesturing toward a sculpted martyr physically present in the apse, making this a mixed painting-and-sculpture installation.
 
-#### The wooden statue of St Pontianus
+### The wooden statue of St Pontianus
 
 <figure>
   <img src="/Images/Maestro-di-San-Ponziano/image 4.jpg" alt="The wooden statue of St Pontianus">
@@ -191,7 +191,7 @@ The discrepancy is instructive and must be handled honestly: the crypt contains 
 
 A further work reported in the abbey — a panel **Crucifix**, formerly in the refectory and now near the presbytery, attributed by the same devotional literature to the Maestro di San Ponziano, with the saint on horseback painted on its predella — should likewise be treated with reserve. It is a plausible local tradition, consistent with the master's association with the site, but it rests (in the sources available here) on the topographical guide rather than on the peer-reviewed corpus, and it is listed below among reported rather than secure attributions.
 
-#### Madonna enthroned with the Child
+### Madonna enthroned with the Child
 
 <figure>
   <img src="/Images/Maestro-di-San-Ponziano/image 3.jpg" alt="Madonna enthroned with the Child">
