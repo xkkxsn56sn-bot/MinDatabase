@@ -75,6 +75,8 @@ scholars:
     url: "/scholars.html#gregori-mina"
   - title: "Roberto Longhi"
     url: "/scholars.html#longhi-roberto"
+  - title: "Federico Zeri"
+    url: "/scholars.html#zeri-federico"
 ---
 
 ## Prefatory note on method and evidence
