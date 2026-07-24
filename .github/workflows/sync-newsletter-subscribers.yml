@@ -55,14 +55,14 @@ jobs:
 
       - name: Checkout repository
         if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
         if: github.event_name != 'schedule' || steps.overlap_guard.outputs.should_skip != 'true'
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
           python-version: "3.11"
 
