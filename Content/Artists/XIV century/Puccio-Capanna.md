@@ -22,8 +22,8 @@ meta:
     list:
       - "24 November 1341: contract with the Comune di Assisi, jointly with Cecce (Cecco) di Saraceno, to fresco the Porta Bonaematris and the Porta San Rufino (discovered by P. Giuseppe Abate, 1956)"
       - "1347: sale of an ox to the friars of the Sacro Convento di San Francesco, confirming continued residence at Assisi (published by Cesare Cenci, 1974)"
-      - "1350: entry as "Puccio di ser Firençe Capanna" in the Florentine Libro della Compagnia di San Luca, carta 32"
-      - "No autograph signature survives on any extant work; Vasari's reported "Puccio di Fiorenza me fece" concerned a lost, undocumented Pistoia Crucifixion"
+      - "1350: entry as “Puccio di ser Firençe Capanna” in the Florentine Libro della Compagnia di San Luca, carta 32"
+      - "No autograph signature survives on any extant work; Vasari's reported “Puccio di Fiorenza me fece” concerned a lost, undocumented Pistoia Crucifixion"
       - "Only two archival documents are known for the painter; a third, Florentine, trace may be added"
 
   - title: "SOURCES"
@@ -36,8 +36,8 @@ meta:
 
   - title: "ATTRIBUTION HISTORY"
     list:
-      - "Adolfo Venturi (1907) tentatively connects the Assisan fresco group to Ghiberti's "Stefano fiorentino""
-      - "Roberto Longhi (1951) assembles the group under the name "Stefano Fiorentino", winning wide critical acceptance"
+      - "Adolfo Venturi (1907) tentatively connects the Assisan fresco group to Ghiberti's “Stefano fiorentino”"
+      - "Roberto Longhi (1951) assembles the group under the name “Stefano Fiorentino”, winning wide critical acceptance"
       - "P. Giuseppe Abate (1956) publishes the 1341 gate commission naming the documented painter Puccio Capanna"
       - "Luisa Marcucci (1963) identifies the surviving gate fragment with the 1341 contract, anchoring the stylistic group to Puccio rather than to the undocumented Stefano"
       - "Pietro Scarpellini (1969) carries out the definitive reconstruction of the catalogue under Puccio's name"
@@ -50,23 +50,23 @@ meta:
       - "Not to be confused with Puccio di Simone, the Florentine painter identified with the Master of the Fabriano Altarpiece, with whom Vasari conflated him"
       - "Not to be confused with Puccio di Landuccio, a Pisan architect and sculptor, nor with Puccio di ser Firenze construed as a distinct Florentine"
       - "Not to be confused with Pace di Bartolo d'Assisi or Cecco di Pietro"
-      - "To be distinguished from the conventional "Maestro Espressionista di Santa Chiara" (probably Palmerino di Guido), the "Maestro delle Vele", and the "Maestro della Cappella Velluti""
-      - "The "Maestro colorista di Assisi" (Coletti) is not a rival personality but an earlier, now-abandoned label for Puccio himself"
+      - "To be distinguished from the conventional “Maestro Espressionista di Santa Chiara” (probably Palmerino di Guido), the “Maestro delle Vele”, and the “Maestro della Cappella Velluti”"
+      - "The “Maestro colorista di Assisi” (Coletti) is not a rival personality but an earlier, now-abandoned label for Puccio himself"
       - "Documented associate: Cecce (Cecco) di Saraceno, co-signatory of the 1341 contract, otherwise almost unknown"
 
   - title: "STYLE"
     list:
       - "Giottesque of the second generation, developing the atmospheric and coloristic possibilities of Giotto's Assisan work (the Magdalen Chapel) rather than the monumental line of the Peruzzi Chapel"
       - "Staging built on a firm sense of perspective, forms absorbed into a softening light that nonetheless confers plastic evidence and reality (Boskovits)"
-      - "Form defined through dense impasto of colour rather than through line (Todini): "forse il più grande, certo il più moderno discepolo di Giotto""
-      - "Called by Luigi Coletti the greatest colourist, the "pittore più pittore", of the entire Italian Trecento"
+      - "Form defined through dense impasto of colour rather than through line (Todini): “forse il più grande, certo il più moderno discepolo di Giotto”"
+      - "Called by Luigi Coletti the greatest colourist, the “pittore più pittore”, of the entire Italian Trecento"
       - "Restrained gestural rhetoric, measured narrative pacing, and a luminous, delicate palette of ochre, rose, dull violet, and blue-green"
       - "Consistent technical practice of buon fresco with substantial azurite and cinnabar a secco finishing, specified in the 1341 contract and now largely lost to abrasion"
 
   - title: "ARTISTIC INFLUENCES"
     list:
       - "Giotto, above all the atmospheric late Assisan work of the Lower Church"
-      - "The Assisan workshop milieu, alongside the "Maestro dell'Infanzia di Cristo" and the "Maestro delle Vele\""
+      - "The Assisan workshop milieu, alongside the “Maestro dell'Infanzia di Cristo” and the “Maestro delle Vele”"
       - "Pietro Lorenzetti's frescoes in the left transept of the Lower Church"
       - "Reciprocal affinities with Ambrogio Lorenzetti around 1330"
       - "Later echoes among the Lombard-Paduan Giottesques (the Master of the San Gottardo Crucifixion, Giusto de' Menabuoi, Giovanni da Milano), suggesting a career that may have ended in northern Italy"
