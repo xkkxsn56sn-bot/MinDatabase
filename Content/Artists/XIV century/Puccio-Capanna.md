@@ -219,7 +219,7 @@ The critical history of Puccio Capanna is inseparable from the "Assisi Problem" 
 
 ### The antiquarian and nineteenth-century tradition
 
-The Umbrian antiquarian literature preserved the local memory of Puccio as an Assisan: Ludovico Iacobilli in the seventeenth century; the Conventual historian Francesco Maria Angeli, whose *Collis Paradisi Amoenitas, seu Sacri Conventus Assisiensis historiae libri II* (Montefiascone, 1704) was the first book devoted to the Basilica and the first printed at Montefiascone; and, in the nineteenth century, Antonio Cristofani. Johann David Passavant, Franz Kugler (*Handbuch der Geschichte der Malerei*, 1837), and Jacob Burckhardt (*Il Cicerone*, 1855) transmitted the Vasarian picture. The decisive nineteenth-century intervention was that of [Giovanni Battista Cavalcaselle](/scholars.html#cavalcaselle-giovanni-battista), in *A New History of Painting in Italy* written with [Joseph Archer Crowe](/scholars#crowe-joseph-archer) (1864), who correctly removed the Passion frescoes of the left transept of the Lower Church from Puccio and restored them to Pietro Lorenzetti. Carlo Fea and Sebastiano Ranghiasci had already (1820) reassigned the St Martin Chapel to Simone Martini. [Henry Thode](/scholars.html#thode-heinrich), in *Franz von Assisi und die Anfänge der Kunst der Renaissance in Italien* (Berlin, 1885; 2nd ed. 1904), engaged extensively with the Assisan Giottesques and named the "Master of Santa Chiara," but his attempts (following Vasari's indications) to reconstruct Puccio from the Vasarian texts failed, as did those of [Osvald Sirén](/scholars.html#siren-osvald) and Alessandro Chiappelli.
+The Umbrian antiquarian literature preserved the local memory of Puccio as an Assisan: Ludovico Iacobilli in the seventeenth century; the Conventual historian Francesco Maria Angeli, whose *Collis Paradisi Amoenitas, seu Sacri Conventus Assisiensis historiae libri II* (Montefiascone, 1704) was the first book devoted to the Basilica and the first printed at Montefiascone; and, in the nineteenth century, Antonio Cristofani. Johann David Passavant, Franz Kugler (*Handbuch der Geschichte der Malerei*, 1837), and Jacob Burckhardt (*Il Cicerone*, 1855) transmitted the Vasarian picture. The decisive nineteenth-century intervention was that of [Giovanni Battista Cavalcaselle](/scholars.html#cavalcaselle-giovanni-battista), in *A New History of Painting in Italy* written with [Joseph Archer Crowe](/scholars.html#crowe-joseph-archer) (1864), who correctly removed the Passion frescoes of the left transept of the Lower Church from Puccio and restored them to Pietro Lorenzetti. Carlo Fea and Sebastiano Ranghiasci had already (1820) reassigned the St Martin Chapel to Simone Martini. [Henry Thode](/scholars.html#thode-heinrich), in *Franz von Assisi und die Anfänge der Kunst der Renaissance in Italien* (Berlin, 1885; 2nd ed. 1904), engaged extensively with the Assisan Giottesques and named the "Master of Santa Chiara," but his attempts (following Vasari's indications) to reconstruct Puccio from the Vasarian texts failed, as did those of [Osvald Sirén](/scholars.html#siren-osvald) and Alessandro Chiappelli.
 
 ### Early twentieth century
 
@@ -280,7 +280,7 @@ The attribution to Puccio Capanna derives from Fra Ludovico da Pietralunga (16th
 
 ### Martyrdom of St Stanislas (attr.)
 
-figure>
+<figure>
   <img src="/Images/Puccio-Capanna/image 3.jpg" alt="Martyrdom of St Stanislas">
   <figcaption>Martyrdom of St Stanislas, 1337-47, fresco, Lower Basilica of San Francesco, Assisi.</figcaption>
 </figure>
