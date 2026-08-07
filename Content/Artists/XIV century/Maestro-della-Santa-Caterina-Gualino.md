@@ -14,13 +14,13 @@ meta:
       - label: "Period"
         value: "First half of the fourteenth century"
       - label: "Cultural region"
-        value: "Southern Umbria "alla sinistra del Tevere" and northern Abruzzo (Teramano, Aquilano)"
+        value: "Southern Umbria “alla sinistra del Tevere” and northern Abruzzo (Teramano, Aquilano)"
       - label: "Documentary status"
         value: "No archival identity survives; the corpus is reconstructed through connoisseurship and, since 2015, technical and scientific analysis"
 
   - title: "ATTRIBUTION HISTORY"
     list:
-      - "Name coined by Giovanni Previtali in 1965 ("Sulle tracce di una scultura umbra del Trecento," Paragone)"
+      - "Name coined by Giovanni Previtali in 1965 (“Sulle tracce di una scultura umbra del Trecento,” Paragone)"
       - "Corpus expanded by Previtali himself in 1966 and again in 1984, eventually to some twelve sculptures"
       - "Enzo Carli (1984) and Lucia Arbace (2009-2019) argued for an Abruzzese/Teraman rather than Umbrian origin"
       - "Luca Palozzi (2014) added further pieces and proposed an itinerant Umbria-to-Abruzzo career"
@@ -29,15 +29,15 @@ meta:
   - title: "GEOGRAPHY"
     pairs:
       - label: "Likely working zone"
-        value: "Southern Umbria "to the left of the Tiber," Ascoli Piceno, and the Teramo, Aquila and Rieti districts of Abruzzo"
+        value: "Southern Umbria “to the left of the Tiber,” Ascoli Piceno, and the Teramo, Aquila and Rieti districts of Abruzzo"
       - label: "Probable mobility"
         value: "Possibly formed near Orvieto and active thereafter along the Via degli Abruzzi into Abruzzese territory"
       - label: "Regional significance"
-        value: "A principal sculptural exponent of the "Umbria alla sinistra del Tevere" culture theorised by Previtali after Longhi"
+        value: "A principal sculptural exponent of the “Umbria alla sinistra del Tevere” culture theorised by Previtali after Longhi"
 
   - title: "FORMATION AND STYLE"
     list:
-      - "A highly personal, sophisticated "francesizzante" (Frenchifying) Gothic manner"
+      - "A highly personal, sophisticated “francesizzante” (Frenchifying) Gothic manner"
       - "Elongated facial oval, thin sensitive lips, sharp knife-edged nose, and raised orbital arches"
       - "A columnar, frontal conception of the body with an arched, cascading cadence of drapery"
       - "Works conceived as the carved cores of shuttered devotional tabernacles (tabernacoli a sportelli)"
