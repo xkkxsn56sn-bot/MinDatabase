@@ -2,8 +2,9 @@ name: Sync Newsletter Subscribers
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
+  # schedule disabled: sync on hold
+  # schedule:
+  #   - cron: "*/5 * * * *"
 
 concurrency:
   group: sync-newsletter-subscribers
