@@ -34,7 +34,7 @@ meta:
       - label: "1965-66"
         value: "Giovanni Previtali's first studies on Umbrian Trecento wood sculpture, in *Paragone*"
       - label: "1984"
-        value: "Previtali defines "l'Umbria alla sinistra del Tevere" in *Prospettiva* 38"
+        value: "Previtali defines “l'Umbria alla sinistra del Tevere” in *Prospettiva* 38"
       - label: "1986"
         value: "Previtali isolates and names the Master of the Cross of Visso, in *Prospettiva* 44"
       - label: "1997-2001"
@@ -49,7 +49,7 @@ meta:
   - title: "GEOGRAPHY AND CONTEXT"
     list:
       - "Valnerina and the upper Nera valley, straddling southern Umbria and the Marche"
-      - "Previtali's concept of "Umbria alla sinistra del Tevere" (Umbria to the left of the Tiber)"
+      - "Previtali's concept of “Umbria alla sinistra del Tevere” (Umbria to the left of the Tiber)"
       - "Formed in the orbit of the Assisi Basilica di San Francesco and its Giottesque campaigns"
       - "Extensions of the related corpus toward L'Aquila, Ascoli Piceno, and Rieti"
       - "Heritage severely affected by the 2016-2017 Central Italy earthquake sequence"
