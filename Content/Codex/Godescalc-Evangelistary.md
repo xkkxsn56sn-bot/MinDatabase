@@ -1,110 +1,193 @@
 ---
 layout: entry
 title: "Godescalc Evangelistary"
-subtitle: "Imperial Carolingian luxury evangelistary commissioned by Charlemagne and Hildegard, written in gold and silver on purple parchment"
-author: "Godescalc (scribe of Charlemagne’s court chapel)"
-role: "Carolingian court evangelistary and foundational monument of imperial manuscript production"
-dates: "781–783 CE"
-place_of_origin: "Royal court scriptorium (Aachen, possibly Worms), Frankish Empire"
-current_location: "Paris, Bibliothèque nationale de France, NAL 1203"
-type: "Illuminated Evangelistary (liturgical Gospel lectionary)"
+subtitle: "The earliest securely datable manuscript of Charlemagne's Court School, a purple-and-gold evangelistary made for Charlemagne and Queen Hildegard"
+author: "Godescalc, capellanus (chaplain) and servus of Charlemagne"
+role: "Evangelistary (Gospel lectionary) commissioned as a joint devotional and dynastic monument for Charlemagne and Queen Hildegard, and the founding manuscript of the Carolingian Court School"
+dates: "781–783 CE (between Charlemagne's Roman journey/imperial coronation of 781 and the death of Queen Hildegard in 783)"
+
+place_of_origin: "Royal court scriptorium, traditionally localised to Aachen, though Worms has also been proposed; the court itself was itinerant"
+
+current_location: "Paris, Bibliothèque Nationale de France, Nouvelles acquisitions latines 1203 (NAL 1203)"
+
+type: "Evangelistary (Gospel lectionary), containing the designated Gospel readings for Sundays and feast days of the liturgical year"
 
 contents:
-  - "Gospel readings organized for the liturgical year (comes evangeliorum)"
-  - "Full-page miniatures of Christ and the Evangelists"
-  - "Decorated incipits and ornamental pages including the Fountain of Life"
+  - "Six complete books of the Gospels"
+  - "The *comes evangeliorum* (gospel lectionary), assigning a Gospel reading to every day of the liturgical year"
+  - "Affiliation with the 'Gelasian fragments' and the Roman Sacramentarium Gelasianum tradition"
+  - "A dedicatory poem by the scribe Godescalc, naming Charlemagne and Queen Hildegard as patrons"
 
-script: "Large uncial script in alternating gold and silver ink"
+script: "Carolingian uncial — an archaising, self-consciously Roman book hand, written in alternating gold and silver ink (chrysography), with litterae notabiliores marking sentence openings"
 
 materials_and_techniques:
-  - "Purple-dyed parchment"
-  - "Gold and silver inks for the main text"
-  - "Luxury pigments including Egyptian Blue in selected illuminations"
-  - "Court-style synthesis of Insular ornament and Late Antique/Byzantine figural models"
+  support:
+    - "Purple-dyed vellum parchment, coloured with plant-based dyes (folium or orchil) rather than costly Tyrian purple, confined as a painted ground to the ruled text field"
+  writing_and_pigments:
+    - "Text in gold suspended in glair (chrysography); rubric-like display lines in silver, now largely oxidised and effaced"
+    - "Mineral and vegetal pigments mixed with egg white for the illuminations"
+    - "XRF analysis confirmed exceptionally pure gold used specifically for the illumination on folio 3"
+    - "Egyptian Blue pigment identified in the peacocks of the 'Fountain of Life' illumination (folio 3v), evidence of extensive trade networks"
 
-historical_context_short:
-  - "Commissioned at the start of Carolingian imperial culture after Charlemagne’s Roman coronation context"
-  - "Produced within the court school as part of liturgical and cultural correctio"
-  - "Among the earliest and most influential manuscripts of the Ada-group milieu"
+decoration:
+  - "Full-page miniature of Christ in Majesty (folio 3r)"
+  - "'Fountain of Life' (folio 3v) — the first appearance of this Eastern Christian iconographic theme in a Western manuscript, with Christ giving the keys to Peter above a fountain and the Lamb of God"
+  - "Full-page evangelist portraits: Matthew (folio 1r), Mark (folio 1v), Luke (folio 2r), John (folio 2v)"
+  - "Decorated incipit pages, including the elaborate ligature for 'In' opening Matthew's Gospel (folio 4r)"
+  - "Frame registers combining Insular-derived ribbon interlace, Late Antique Mediterranean foliate/acanthus scrolls, and Italo-Byzantine chains of palmette-rosettes and cross-in-circle medallions"
+
+historical_context:
+  - "Produced immediately after Charlemagne's coronation as Emperor of the Romans by Pope Leo III in Rome on Christmas Day 781, functioning as political and dynastic legitimation"
+  - "Jointly commissioned by Charlemagne and Queen Hildegard, who died in 783, the year the manuscript is thought to have been completed"
+  - "The earliest securely datable member of the group Wilhelm Koehler named the *Hofschule Karls des Großen* (Court School), a corpus of luxury liturgical books he argued were produced in the immediate orbit of the ruler rather than in a monastic scriptorium"
+  - "Belongs to the 'Ada group' of early Carolingian manuscripts characterised by expansive throne landscapes and late antique models"
+  - "Product of the Carolingian liturgical reform of *correctio*, adapting Roman liturgical models (via the comes evangeliorum) to a Frankish context"
+  - "Comparable in function to the Dagulf Psalter, another Court School manuscript sent as a diplomatic gift to Pope Adrian I"
+  - "Set a precedent for later Court School luxury manuscripts, including the Vienna Coronation Gospels"
+  - "Produced within the intellectual milieu of Charlemagne's Court School, associated with Alcuin of York's contemporary programme of textual and educational reform"
 
 thematic_keywords:
-  - "Carolingian Renaissance"
-  - "Imperial manuscript culture"
-  - "Gold and silver script"
-  - "Court liturgy and correctio"
-  - "Insular and Late Antique synthesis"
+  - "Carolingian Court School (Hofschule Karls des Großen) and Wilhelm Koehler's corpus"
+  - "Imperial patronage and dynastic legitimacy of Charlemagne and Queen Hildegard"
+  - "Chrysography and purple-dyed codices purpurei as imperial display"
+  - "Synthesis of Insular, Late Antique/Byzantine and Italo-Byzantine ornament"
+  - "Liturgical *correctio* and the Roman comes evangeliorum tradition"
+  - "Scribal self-attribution: Godescalc as a named capellanus of the royal chancery"
 
 related_entries:
+  - title: "Book of Kells"
+    url: "/Content/Codex/Book-of-Kells.html"
+  - title: "Lindisfarne Gospels"
+    url: "/Content/Codex/Lindisfarne-Gospels.html"
   - title: "Codex Aureus of Lorsch"
     url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
-  - title: "Codex Aureus of Echternach"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
-  - title: "Codex Aureus of Saint Emmeram"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
-  - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne%20Gospels.html"
+
+scholars:
+  - title: "Koehler, Wilhelm"
+    url: "/scholars.html#koehler-wilhelm"
 
 category: "codex"
 
 meta:
   - title: "Core data"
     pairs:
+      - label: "Scribe"
+        value: "Godescalc, capellanus (chaplain) and servus of Charlemagne"
       - label: "Date"
         value: "781–783 CE"
-      - label: "Place of origin"
-        value: "Royal court scriptorium (Aachen, possibly Worms), Frankish Empire"
-      - label: "Current location"
-        value: "Paris, Bibliothèque nationale de France, NAL 1203"
       - label: "Type"
-        value: "Illuminated Evangelistary (liturgical Gospel lectionary)"
+        value: "Evangelistary (Gospel lectionary)"
       - label: "Script"
-        value: "Large uncial script in alternating gold and silver ink"
+        value: "Carolingian uncial, gold and silver chrysography"
+
+  - title: "Place of origin"
+    list:
+      - "Royal court scriptorium; localisation to Aachen is traditional, though Worms has also been proposed given the itinerant nature of Charlemagne's court"
+
+  - title: "Current location"
+    list:
+      - "Bibliothèque Nationale de France, Paris — Nouvelles acquisitions latines 1203 (NAL 1203)"
 
   - title: "Contents"
     list:
-      - "Gospel readings organized for the liturgical year (comes evangeliorum)"
-      - "Full-page miniatures of Christ and the Evangelists"
-      - "Decorated incipits and ornamental pages including the Fountain of Life"
+      - "Six complete books of the Gospels"
+      - "The *comes evangeliorum* gospel lectionary, assigning readings to every day of the liturgical year"
+      - "Dedicatory poem naming Charlemagne and Queen Hildegard as patrons"
 
   - title: "Materials and techniques"
     list:
-      - "Purple-dyed parchment"
-      - "Alternating gold and silver inks for text"
-      - "Use of luxury pigments, including Egyptian Blue in selected passages"
-      - "Hybrid visual language: Insular ornament with Late Antique/Byzantine monumentality"
+      - "Purple-dyed vellum (folium or orchil dyes) as ground for the text field"
+      - "Gold and silver chrysography; silver rubrics now largely oxidised"
+      - "Mineral and vegetal pigments with egg white for the illuminations"
+      - "Egyptian Blue pigment for the peacocks in the 'Fountain of Life' (folio 3v)"
+      - "XRF-confirmed exceptionally pure gold on folio 3"
 
-  - title: "Historical context (summary)"
+  - title: "Historical context"
     list:
-      - "Court commission tied to Charlemagne and Hildegard"
-      - "Produced during the early Carolingian Renaissance and liturgical reform"
-      - "Model of centralized court manuscript production"
+      - "Commissioned by Charlemagne and Queen Hildegard, 781–783, following Charlemagne's imperial coronation in Rome"
+      - "Head of Wilhelm Koehler's *Hofschule Karls des Großen* (Court School) corpus"
+      - "Member of the 'Ada group' of early Carolingian manuscripts"
+      - "Product of the Carolingian liturgical reform of *correctio*"
+      - "Comparable to the Dagulf Psalter; precedent for the Vienna Coronation Gospels"
 
   - title: "Thematic keywords"
     list:
-      - "Carolingian Renaissance"
-      - "Imperial patronage"
-      - "Evangelistary and court liturgy"
-      - "Gold-script manuscripts"
-      - "Cross-cultural artistic synthesis"
+      - "Court School (Hofschule) and Koehler's workshop-based corpus"
+      - "Imperial and dynastic patronage"
+      - "Chrysography and purple codices purpurei"
+      - "Insular, Late Antique and Byzantine artistic synthesis"
+      - "Liturgical correctio and the Roman lectionary tradition"
 
   - title: "Related entries"
     links:
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
       - title: "Codex Aureus of Lorsch"
         url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
-      - title: "Codex Aureus of Echternach"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
-      - title: "Codex Aureus of Saint Emmeram"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
-      - title: "Lindisfarne Gospels"
-        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book-of-Kells.html"
 ---
 
 ## Introduction and Historical Context
 
-The *Godescalc Evangelistary* stands as a monumental artifact of the early Carolingian period, representing a pivotal moment in the history of European book arts and religious culture. It is an illuminated manuscript classified as an evangelistary, a type of liturgical book that contains the designated Gospel readings for each Sunday and feast day throughout the liturgical year. Its creation marks one of the first major commissions undertaken by the young Carolingian Empire under the rule of Charlemagne, signaling a deliberate and ambitious cultural program aimed at consolidating imperial authority through the medium of the sacred text. The manuscript is identified by its modern catalog number, Paris, Bibliothèque Nationale de France, Nouvelles acquisitions latines 1203 (NAL 1203), a designation that anchors it within the vast corpus of surviving medieval manuscripts. The work’s date of execution is firmly established by scholarly consensus as falling between the years 781 and 783 CE. This timeframe is of profound historical significance, as it immediately follows Charlemagne's coronation as Emperor of the Romans by Pope Leo III in Rome on Christmas Day, 781. The manuscript was therefore conceived and produced during a period of intense political and religious realignment, a time when Charlemagne was actively constructing a new image of empire that sought to blend Frankish kingship with the legacy of the Christian Roman Empire. The choice of this specific moment for such a lavish commission underscores its symbolic weight as a tool of propaganda and legitimation.
+Every modern discussion of the *Godescalc Evangelistary* begins, whether it acknowledges it or not, with [Wilhelm Koehler](/scholars.html#koehler-wilhelm). Trained in Vienna under Franz Wickhoff and Max Dvořák, Koehler conceived as early as 1907 a corpus of Carolingian illumination organised not by library or by date but by workshop, and he spent the following half-century assembling it. The decisive methodological move was to group manuscripts by handwriting as well as by ornamental and figural style — a double criterion that allowed him to bind together a set of luxury liturgical books produced for Charlemagne and his circle and to name them collectively the *Hofschule Karls des Großen*, the Court School. The term was his coinage, and with it came a thesis: that these books were made not in a monastic scriptorium but in the immediate orbit of the ruler. The Godescalc Evangelistary, dated by its own dedicatory poem to the years between the Roman journey of 781 and the death of Queen Hildegard in 783, stood at the head of the series as its earliest securely datable member, and therefore as the fixed point against which the rest of the group could be measured.
+
+Koehler's full treatment of the manuscript appeared only at the very end of his life, in *Die karolingischen Miniaturen*, volume II: *Die Hofschule Karls des Großen* (Berlin: Deutscher Verein für Kunstwissenschaft, 1958), issued in two parts — a text volume of 104 pages and a *Tafelband* of 116 plates. By then Koehler had been in the United States for a quarter of a century, having left Weimar and Jena under pressure from the National Socialist government and succeeded A. Kingsley Porter at Harvard; the volume was written in retirement and still published in German by the association that had commissioned it half a century earlier. Florentine Mütherich, who inherited the corpus and carried it forward, judged this contribution the masterpiece on which Koehler's reputation rests. Its authority has not gone unchallenged — the localisation of the Godescalc to Aachen rather than Worms remains open, and scholars such as Lawrence Nees have questioned the diffusionist model of "influence" that underlies much of the older account of the Court School's Insular and Late Antique borrowings — but the descriptive framework, the grouping, and even the vocabulary in which the debate is conducted are still substantially Koehler's.
+
+The Godescalc Evangelistary stands as a monumental artifact of the early Carolingian period, representing a pivotal moment in the history of European book arts and religious culture. It is an illuminated manuscript classified as an evangelistary, a type of liturgical book that contains the designated Gospel readings for each Sunday and feast day throughout the liturgical year. Its creation marks one of the first major commissions undertaken by the young Carolingian Empire under the rule of Charlemagne<a href="../../../endnotes.html#fn-charlemagne" class="footnote"><sup>1</sup></a>, signaling a deliberate and ambitious cultural program aimed at consolidating imperial authority through the medium of the sacred text. The manuscript is identified by its modern catalog number, Paris, Bibliothèque Nationale de France, Nouvelles acquisitions latines 1203 (NAL 1203), a designation that anchors it within the vast corpus of surviving medieval manuscripts. The work’s date of execution is firmly established by scholarly consensus as falling between the years 781 and 783 CE. This timeframe is of profound historical significance, as it immediately follows Charlemagne's coronation as Emperor of the Romans by Pope Leo III<a href="../../../endnotes.html#fn-leo-iii" class="footnote"><sup>2</sup></a> in Rome on Christmas Day, 781. The manuscript was therefore conceived and produced during a period of intense political and religious realignment, a time when Charlemagne was actively constructing a new image of empire that sought to blend Frankish kingship with the legacy of the Christian Roman Empire. The choice of this specific moment for such a lavish commission underscores its symbolic weight as a tool of propaganda and legitimation.
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/Christ in Majesty.jpg" alt="Christ in Majesty in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 7.jpg" alt="The Christmas Pericopes of the Godescalc Evangelistary">
+  <figcaption>The Christmas Pericopes of the Godescalc Evangelistary - folio 3r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
+</figure>
+
+The purple is laid down as a painted ground confined to the ruled text field, leaving the natural vellum of the margins visible — you can see the tonal break clearly along the frame's outer edge, and the pigment has abraded in places, especially in the lower third of the left column. The text is written in **chrysography**, gold suspended in glair, with silver used for the rubric-like display lines. The silver has oxidised to the point of near-invisibility, which is why the four lines between the two pericopes now read as ghosts.
+
+- Script
+
+Carolingian uncial, not minuscule — a deliberately archaising, self-consciously Roman book hand chosen for its authority, exactly the register the court was cultivating in these years. Line-initial letters are slightly enlarged and occasionally given a half-uncial form; sentence openings (*Ecce*, *Pariet*, *Ascendit*, *Factum*, *Exiit*) are marked by taller litterae notabiliores rather than by coloured initials.
+
+- Layout and ornament
+
+Two columns of twenty-seven long lines (worth checking against the BnF codicological notice before publication), separated by a narrow vertical panel filled with a serpentine ribbon-interlace in green, orange and gold.
+
+The frame is built in registers:
+
+- an outer gold fillet;
+
+- corner panels with Insular-derived ribbon interlace and, at the outer corners, loose foliate/acanthus scrolls that betray a Late Antique Mediterranean model;
+
+- long bands of a chain of stylised palmette-rosettes in blue, gold and grey-green, alternating with disc medallions — including several with a cross-in-circle — a motif with clear Italo-Byzantine ancestry.
+
+The mixture is precisely what makes the Court School interesting: Insular interlace, Mediterranean palmette and rosette repertories, and Late Antique purple-and-gold *codices purpurei* imperial display, fused into a new imperial idiom.
+
+The page carries the two Christmas pericopes of an evangelistary: the end of the **Vigil** reading (Matthew) and the beginning of the **Mass of the Nativity** reading (Luke).
+
+- Left column — Matthew 1:19b–21
+
+> ET NOLLET EAM TRA|DUCERE UOLUIT OCCU|LTE DEMITTERE EAM | HAEC AUTEM EO COGI|TANTE ECCE ANGEL|US D(OMI)NI IN SOMNIS APPA|RUIT EI DICENS IOSEPH | FILI DAUID NOLI TIME|RE ACCIPERE MARIAM | CONIUGEM TUAM | QUOD ENIM IN EA NATU(M) | EST DE SP(IRIT)U S(AN)C(T)O EST | PARIET AUTEM FILIU(M) | ET UOCABIS NOMEN | EIUS IH(SU)M IPSE ENIM | SALUUM FACIET PO|PULUM SUUM A PEC|CATIS EORUM
+
+Note the *nomina sacra* with suspension strokes: `DNI`, `SPU SCO`, `IHM`.
+
+Four effaced lines follow, in oxidised silver, with a gold flourish separating them. This is the rubric announcing the feast and the evangelist (the standard form would be something like *In natale Domini … secundum Lucam*), but it is too far gone to transcribe honestly from the digitisation — leave it as a placeholder and check it against the BnF colour images at high magnification, or against a published transcription.
+
+- Left column, foot — Luke 2:1
+
+> IN ILLO TEMPORE · | EXIIT EDICTUM | A CAESARE AUGUSTO | UT DESCRIBERETUR | UNIUERSUS ORBIS
+
+- Right column — Luke 2:2–8
+
+> HAEC DESCRIPTIO PRI|MA FACTA EST A PRAE|SIDE SYRIAE CYRINO | ET IBANT OMNES UT | PROFITERENTUR SIN|GULI IN SUAM CIUITATE(M) | ASCENDIT AUTEM ET IO|SEPH A GALILAEA DE CIUI|TATE NAZARETH IN IUDAE|AM CIUITATEM DAUID | UT PROFITERETUR CUM | MARIA DISPONSATA SIBI | UXORE PRAEGNANTE | FACTUM EST AUTEM | CUM ESSENT IBI IMPLE|TI SUNT DIES UT PARE|RET ET PEPERIT FILIU(M) | SUUM PRIMOGENITUM | ET PANNIS EUM INUOLUIT | ET RECLINAUIT EUM IN | PRAESEPIO QUIA NON | ERAT EIS LOCUS IN DIUE|RSORIO · ET PASTORES | ERANT IN REGIONE EA|DEM UIGILANTES ET CUS|TODIENTES UIGILIAS | NOCTIS SUPRA GREGEM SUUM
+
+Two textual points are worthy of attention:
+
+1. **`DISPONSATA`** for Vulgate *desponsata* — an orthographic variant, unremarkable in itself but useful if you are characterising the recension.
+2. At Luke 2:4 the page reads *in Iudaeam civitatem David* and moves straight on to *ut profiteretur*, omitting the Vulgate's *quae vocatur Bethlehem quod erat de domo et familia David*. This looks like a saut du même au même on *David … David*. It is a genuine variant reading in this witness and would be worth verifying against Fischer's *Vetus Latina*/Vulgate apparatus before you cite it, since the Court School gospel books have their own textual profile.
+
+### Christ in Majesty
+
+<figure>
+  <img src="/Images/Godescalc Evangelistary/image 1.jpg" alt="Christ in Majesty in Godescalc Evangelistary">
   <figcaption>Christ in Majesty - folio 3r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -112,8 +195,10 @@ The location of the manuscript's production is subject to some scholarly debate,
 
 Codicologically, the Godescalc Evangelistary is a masterpiece of luxury book production. The manuscript is written entirely on purple parchment, a material choice laden with deep symbolic meaning. The text itself is inscribed in large, elegant uncial letters executed in alternating gold and silver ink, a technique that imbues the sacred words with a luminous, divine quality. The use of precious metals for the script elevates the manuscript beyond mere utility, transforming it into a resplendent object worthy of the imperial treasury and the high altar. Scientific analysis has revealed further details about its luxurious materials. For instance, X-ray fluorescence (XRF) analysis confirmed the exceptionally high purity of the gold used specifically for the illuminations on folio 3, which may suggest either material scarcity or an economically motivated decision during Charlemagne's reign. More remarkably, scientific investigation has identified the presence of Egyptian Blue, a rare and costly pigment, used for the bodies of the peacocks in the 'Fountain of Life' illumination on folio 3v. The procurement of such a material points to extensive trade networks and a willingness to use the most expensive available resources to achieve a desired visual effect. The choice of purple for the parchment is also significant; while Tyrian purple derived from mollusks was the traditional imperial color, its cost was prohibitive. Instead, the manuscript's makers used plant-based dyes like folium or orchil, which produced a more accessible but still rich shade of purple-pink. This choice reflects a calculated balancing act between the desire for imperial symbolism and economic practicality.
 
+### Fountain of Life
+
 <figure>
-  <img src="/Images/Godescalc Evangelistary/Fountain of Life.jpg" alt="Fountain of Life in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 2.jpg" alt="Fountain of Life in Godescalc Evangelistary">
   <figcaption>Fountain of Life - folio 3v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -121,15 +206,19 @@ The manuscript's structure is designed to facilitate its liturgical function. It
 
 The manuscript opens with a dedicatory poem composed by its scribe, Godescalc, who identifies himself as a servant of the emperor. This prologue is a critical piece of evidence, providing the manuscript's name and offering a glimpse into the mind of its creator. The poem announces that the work was created between 781 and 783 for Charlemagne and his wife, Queen Hildegard, framing the manuscript as a joint act of pious patronage. This attribution makes the Godescalc Evangelistary a unique case study, as the authorship is documented in the manuscript itself, unlike many contemporary works whose creators remain anonymous. The existence of this signed dedication provides scholars with a direct link between a named artisan and a specific, dated artistic product, allowing for a more nuanced understanding of the relationship between patron, artist, and artwork. The poem functions as a formal record of the manuscript's commission, embedding its creation narrative within its own pages and ensuring its purpose and provenance would be known to future generations. This practice of self-attribution by the scribe was relatively uncommon and adds a layer of personal investment to the work.
 
+### The Evangelist Matthew
+
 <figure>
-  <img src="/Images/Godescalc Evangelistary/Matthew.jpg" alt="Matthew in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 3.jpg" alt="Matthew in Godescalc Evangelistary">
   <figcaption>The Evangelist Matthew - folio 1r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
 The artistic program of the Godescalc Evangelistary is a remarkable synthesis of diverse stylistic influences, reflecting the Carolingian ambition to synthesize disparate artistic heritages into a new, unified visual language suitable for a Christian empire. The manuscript exhibits a blend of traditions, drawing upon Insular book painting for its decorative elements, while simultaneously engaging with late antique and Byzantine models for its monumental figurative style. This hybrid character is one of its defining features. The illuminations include full-page miniatures of the enthroned Christ, the four evangelists, and a novel iconographic theme for Western Europe: the 'Fountain of Life'. These images, alongside intricate decorated initial letters and ornamental pages, demonstrate a sophisticated artistic vision that looked both backward to earlier traditions and forward to a new Carolingian aesthetic. The manuscript serves as a prime example of how the Carolingian court actively curated and adapted artistic styles from across the former Roman world to serve its political and religious agenda. The result is a work that is neither purely Insular nor purely classical but a creative amalgamation that embodies the cultural aspirations of Charlemagne's reign.
 
+### The Evangelist Mark
+
 <figure>
-  <img src="/Images/Godescalc Evangelistary/Mark.jpg" alt="Mark in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 4.jpg" alt="Mark in Godescalc Evangelistary">
   <figcaption>The Evangelist Mark - folio 1v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -137,8 +226,10 @@ In terms of its physical dimensions and layout, the manuscript was designed to b
 
 The manuscript's creation coincided with a period of significant liturgical change across Francia. The Carolingians initiated a policy of *correctio*, a meticulous refinement of religious observance intended to guarantee salvation through proper ritual practice, rather than a simple return to an idealized past. This involved a careful adaptation of Roman liturgical texts and practices, which were seen as authoritative and ancient. The Godescalc Evangelistary, with its Roman-style lectionary, was a direct product of this movement. Its production demonstrates the Carolingian capacity to absorb and repackage Roman traditions for their own context, making the power and culture of Rome tangible in the Frankish kingdom. This process was not one of blind replication but of thoughtful appropriation. Local innovations were incorporated, and texts were treated as propositions for local construction rather than as immutable authorities. The manuscript thus played a crucial role in the formation of a distinct Carolingian liturgical identity, one that was rooted in the universal traditions of Rome but expressed through a uniquely Frankish imperial lens. It served as both a model and a catalyst for subsequent liturgical reforms and manuscript production throughout the empire.
 
+### The Evangelist Luke
+
 <figure>
-  <img src="/Images/Godescalc Evangelistary/Luke.jpg" alt="Luke in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 5.jpg" alt="Luke in Godescalc Evangelistary">
   <figcaption>The Evangelist Luke - folio 2r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -152,8 +243,10 @@ The commissioning of the Godescalc Evangelistary was a complex act of royal patr
 
 Queen Hildegard's role as a co-patron is equally crucial to the manuscript's meaning. Her involvement, explicitly noted in the dedicatory poem, served to construct a public-facing image of a harmonious and pious imperial couple, working in tandem to promote Christian learning and devotion. As Empress, Hildegard's patronage was vital for legitimizing Charlemagne's new title and reinforcing the sanctity of their joint rule. The manuscript may have been intended as a personal devotional book for her, a symbol of her elevated status, or a gift to be used in the imperial chapel. The inclusion of her name alongside Charlemagne's in the inscription transformed the work from a purely masculine assertion of political power into a representation of dynastic partnership, which was essential for securing the succession and maintaining stability within the empire. This collaborative patronage strategy allowed the couple to project an image of shared commitment to the ideals of the Carolingian Renaissance, fostering a perception of the royal court as the center of Christian civilization.
 
+### The Evangelist John
+
 <figure>
-  <img src="/Images/Godescalc Evangelistary/John.jpg" alt="John in Godescalc Evanglistary">
+  <img src="/Images/Godescalc Evangelistary/image 6.jpg" alt="John in Godescalc Evangelistary">
   <figcaption>The Evangelist John - folio 2v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -173,14 +266,14 @@ The legacy of this patronage extended beyond the individual couple to the instit
 
 | Feature | Description | Significance |
 | :--- | :--- | :--- |
-| **Title** | Godescalc Evangelistary (Paris, BnF, MS n.a. 1 1203)  | Named after its scribe; modern catalog identifier. |
+| **Title** | Godescalc Evangelistary (Paris, BnF, MS n.a. 1 1203) | Named after its scribe; modern catalog identifier. |
 | **Date of Creation** | 781–783 CE | Coincides with Charlemagne's imperial coronation in Rome (781). |
 | **Place of Production** | Royal court scriptorium, likely Aachen or Worms | Centralized production under royal control, not a remote monastery. |
 | **Patrons** | Charlemagne and Queen Hildegard | Dual patronage reinforces imperial legitimacy and dynastic harmony. |
 | **Type of Manuscript** | Evangelistary (Gospel Lectionary) | Contains Gospel readings arranged by the liturgical calendar. |
-| **Script** | Large uncial letters  | Grand, legible script appropriate for liturgical use. |
-| **Ink** | Alternating gold and silver ink  | Signifies the sacredness and imperial importance of the text. |
-| **Parchment** | Purple-dyed (using plant-based dyes like folium/orchil)  | Imperial color symbolism; accessible alternative to costly Tyrian purple. |
+| **Script** | Large uncial letters | Grand, legible script appropriate for liturgical use. |
+| **Ink** | Alternating gold and silver ink | Signifies the sacredness and imperial importance of the text. |
+| **Parchment** | Purple-dyed (using plant-based dyes like folium/orchil) | Imperial color symbolism; accessible alternative to costly Tyrian purple. |
 | **Key Illuminations** | Full-page miniatures of Christ Pantocrator, Evangelists, and the 'Fountain of Life' | Innovative iconography and grand scale for Western Europe. |
 | **Unique Material** | Use of Egyptian Blue pigment | Extremely rare and expensive material, indicating high value and expertise. |
 

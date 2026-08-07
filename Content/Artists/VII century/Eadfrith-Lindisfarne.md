@@ -110,13 +110,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Lindisfarne Gospels"
-        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
       - title: "St Cuthbert of Lindisfarne"
         url: "/Content/Saints/Saint%20Cuthbert.html"
       - title: "Book of Durrow"
-        url: "/Content/Codex/Book%20of%20Durrow.html"
+        url: "/Content/Codex/Book-of-Durrow.html"
       - title: "Book of Kells"
-        url: "/Content/Codex/Book%20of%20Kells.html"
+        url: "/Content/Codex/Book-of-Kells.html"
 
 scholars:
   - title: "Brown, Michelle P."

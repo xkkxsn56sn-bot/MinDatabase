@@ -26,7 +26,7 @@
   "IX Century": [
     {
       "name": "Adelricus",
-      "href": "Content/Artists/IX%20century/Adelricus.html"
+      "href": "Content/Artists/IX%20century/Adelricus-of-Korwey.html"
     },
     {
       "name": "Brun Candidus of Fulda",
@@ -511,12 +511,20 @@
       "href": "Content/Artists/XIV%20century/Maestro-della-Croce-di-Trevi.html"
     },
     {
+      "name": "Maestro della Croce di Visso",
+      "href": "Content/Artists/XIV%20century/Maestro-della-Croce-di-Visso.html"
+    },
+    {
       "name": "Maestro della Madonna di Perugia",
       "href": "Content/Artists/XIV%20century/Maestro%20della%20Madonna%20di%20Perugia.html"
     },
     {
       "name": "Maestro della Maestà delle Volte",
       "href": "Content/Artists/XIV%20century/Maestro%20della%20Maesta%20delle%20Volte.html"
+    },
+    {
+      "name": "Maestro della Santa Caterina Gualino",
+      "href": "Content/Artists/XIV%20century/Maestro-della-Santa-Caterina-Gualino.html"
     },
     {
       "name": "Maestro delle Tempere Francescane",
@@ -573,6 +581,10 @@
     {
       "name": "Pietro Lorenzetti",
       "href": "Content/Artists/XIV%20century/Pietro-Lorenzetti.html"
+    },
+    {
+      "name": "Puccio Capanna",
+      "href": "Content/Artists/XIV%20century/Puccio-Capanna.html"
     },
     {
       "name": "Puccio di Simone",
