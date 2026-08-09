@@ -228,6 +228,8 @@ A memorandum on f. 248v, added c. 1100 by the Durrow scribe Flannchad Ua hEolais
 
 The illumination programme comprises eleven full-page miniatures — six carpet pages and five figural (evangelist-symbol) pages — plus six major decorated incipit/initial pages and numerous minor initials. Each Gospel is prefaced by a set of decorated pages: an evangelist-symbol page, a carpet page, and an incipit/initial page. Matthew is the exception, now lacking a carpet page.
 
+### The double-armed cross carpet page
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 3.jpg" alt="The double-armed cross carpet page">
   <figcaption>The double-armed cross carpet page, Dublin, Trinity College Library, MS 57, fol. 1v.</figcaption>
@@ -244,6 +246,8 @@ Around and between the arms the ground is packed with dense ornament in two dist
 The palette is the restricted one of the manuscript throughout: red lead, orpiment, a copper-based green, and dark brown ink over the reserved vellum. What appears golden in reproduction is orpiment, not metal leaf — a point that bears repeating in any caption, since Insular illumination of this horizon does not employ gilding.
 
 The folio's condition is conspicuous. Extensive losses of the paint film appear as irregular white patches across both the border and the central field, most severely along the left side of the cross and in the lower border; the pigment has lifted in flakes, exposing the support. The edges of the decorated leaf have been sewn to a modern guard, the stitching plainly visible around the perimeter — evidence of the twentieth-century conservation campaign that separated, repaired and rebound the codex after centuries of hard use.
+
+### The four-symbols page
 
 <figure>
   <img src="/Images/Book-of-Durrow/image 2.jpg" alt="The four-symbols page">
@@ -262,6 +266,8 @@ The drawing throughout is linear and heraldic. There is no ground line, no model
 
 The folio's condition is itself part of its history. The losses visible across the border, the abraded pigment in the central field and the tear crossing the lower right quadrant are consistent with the damage sustained by the codex over its long life at Durrow, including the well-attested early modern practice of immersing the book in water as a remedy for sick cattle.
 
+### Carpet Page (2)
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 5.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, MS 57, fol. 3v.</figcaption>
@@ -278,6 +284,8 @@ The visual logic of the page is one of controlled centrifugal motion. Nothing is
 The palette is the restricted one used throughout the codex: red lead, orpiment, a copper-based green, and dark brown ink, applied over and around the reserved vellum. The apparent gold is orpiment; no metal leaf is employed.
 
 Condition is comparatively good here relative to fol. 1v — the paint film has held better across the central field — though losses are visible along the left border, the upper edge is abraded, and the decorated leaf has been sewn to a modern guard, the stitching plainly visible around the perimeter as a result of the twentieth-century rebinding.
+
+### The opening of Jerome's letter to Damasus
 
 <figure>
   <img src="/Images/Book-of-Durrow/image 4.jpg" alt="The opening of Jerome's letter to Damasus">
@@ -298,6 +306,8 @@ Two later interventions should be noted. Across the upper margin runs an early m
 
 The condition of the leaf is poor by comparison with the decorated folios. The vellum is heavily stained and cockled, with brown discolouration spreading across the lower half and the outer margin, and the surface abraded in places so that the ink has faded. The upper right corner has been repaired, and the leaf is sewn along its inner and lower edges to a modern guard, the stitching plainly visible — the same twentieth-century conservation campaign evident throughout the codex.
 
+### The Symbol of Saint Matthew
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 1.jpg" alt="The Symbol of Saint Matthew">
   <figcaption>The Symbol of Saint Matthew, Dublin, Trinity College Library, Dublin, MS 57, fol. 21v.</figcaption>
@@ -316,6 +326,8 @@ The cloak has long been read in relation to contemporary textiles and to the ena
 The palette is the restricted one of the codex throughout — red lead, orpiment, copper green, brown ink — applied over reserved vellum. The apparent gold is orpiment, not metal leaf.
 
 The condition of the leaf is variable. The vellum is discoloured and cockled, particularly along the left margin and the lower edge; a loss has been made good at the upper left corner; small paint losses appear within the cloak and along the border, and two abraded spots are visible below the figure. The leaf is sewn to a modern guard along its outer edges, the stitching plainly visible, as elsewhere in the manuscript.
+
+### The Symbol of Saint Mark
 
 <figure>
   <img src="/Images/Book-of-Durrow/image 6.jpg" alt="The Symbol of Saint Mark">
@@ -338,6 +350,8 @@ The palette remains the restricted one of the codex: red lead, orpiment, copper 
 
 Condition here is good. The vellum is clean and only lightly discoloured, the paint film largely intact, with minor abrasion at the lower left corner of the border and slight staining at the upper right. The leaf is sewn to a modern guard along the inner edge, the stitching visible in the gutter.
 
+### Carpet Page (3)
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 7.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 85v.</figcaption>
@@ -357,6 +371,8 @@ The palette remains the restricted one of the codex — red lead, orpiment, copp
 
 The condition of this leaf is excellent by the standards of the manuscript. The vellum is clean, the paint film almost wholly intact, with only minor abrasion visible along the right side of the field and slight cockling at the outer margin. The leaf is sewn along the inner edge to a modern guard, the stitching visible in the gutter.
 
+### The Calf of Saint Luke
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 8.jpg" alt="The Calf of Saint Luke">
   <figcaption>The Calf of Saint Luke, Dublin, Trinity College Library, Dublin, MS 57, fol. 124v.</figcaption>
@@ -371,6 +387,8 @@ The interlace frame is constructed from a rhythmic sequence of broad, ribbon-lik
 The calf itself is rendered in the same non-illusionistic idiom. Its body is a pale, cream-pink field uniformly scattered with red dots, the head shown in profile with a single large almond eye, incised nostril, and small horns. The most striking feature is the treatment of the haunches and shoulders, where the joints are resolved into tight, spiralling volutes in green and yellow — a device drawn directly from La Tène and metalwork ornament, transposing the joint from an anatomical articulation into an ornamental one. The lower legs are banded in green and ochre, terminating in cloven hooves; the tail hangs as a stiff striated pendant. The result is a body decomposed into a series of decorative panels, more heraldic device than living creature.
 
 Two further material observations bear noting. The show-through of script from the recto and adjacent leaves is clearly visible across the reserved field — a reminder of the thinness of the vellum and of the manuscript's long working life. More significant is the Irish marginal inscription in a seventeenth-century hand at the foot of the page, dated 1633; this belongs to the group of later notes associated with the antiquary Conall Mac Eochagáin (Conell Mageoghegan), translator of the Annals of Clonmacnoise, and relates to the folk practice of immersing the book in water administered to sick cattle — a use whose apparent placement on the page of the calf symbol has often been remarked, though the connection may well be coincidental. The inscription is a valuable witness to the manuscript's function as relic and thaumaturgic object long after it ceased to be read liturgically.
+
+### Carpet Page (4)
 
 <figure>
   <img src="/Images/Book-of-Durrow/image 9.jpg" alt="Carpet page">
@@ -389,6 +407,8 @@ Flanking this central field, eight subsidiary panels are set out in mirrored pai
 
 The palette remains the restricted one characteristic of the earliest Insular books — orpiment yellow, red lead, and a copper green, applied flatly, with the parchment itself functioning as a fourth tone. There is no gold leaf; the yellow, as is often observed, may have served as a substitute for it. Two areas of loss and abrasion are visible along the outer border, where the pigment has flaked to expose the underlying vellum, and the reserved margins show the discolouration and handling wear consistent with a book that remained in use, and in veneration, for many centuries.
 
+### The Lion of Saint John
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 10.jpg" alt="The Lion of Saint John">
   <figcaption>The Lion of Saint John, Dublin, Trinity College Library, Dublin, MS 57, fol. 191v.</figcaption>
@@ -406,6 +426,8 @@ The frame comprises two distinct ornamental systems, deliberately contrasted. Th
 
 The reserved field shows pronounced show-through from the adjacent leaves, including a passage of red rubricated script legible in the lower half — a consequence of the thinness of the vellum, and a reminder that these pages were never seen in the isolation that modern reproduction affords. The outer margin at left bears substantial staining and darkening, consistent with prolonged handling and with the manuscript's later history as a venerated object rather than a working liturgical book.
 
+### Carpet Page (5)
+
 <figure>
   <img src="/Images/Book-of-Durrow/image 11.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 192v.</figcaption>
@@ -422,6 +444,8 @@ At the compositional and conceptual centre lies a circular field, framed by conc
 Two further features merit attention. The four corners of the outer frame carry delicate zoomorphic terminals — attenuated beasts with scrolled tails, drawn in fine line with minimal colour — which extend beyond the rectangle into the surrounding margin and prevent the frame from closing as a purely mechanical boundary. And throughout the page a lavish use of gold is apparent, particularly in the framing fillets and in the bodies of the interlaced animals, where it produces a metallic sheen quite unlike the flat matte surfaces of the manuscript's other decorated folios.
 
 The animal ornament here has long been recognised as bearing a close relationship to *Germanic Style II* zoomorphic interlace, of the kind found on the Sutton Hoo shoulder-clasps and purse-lid, and this page is accordingly central to arguments about Anglo-Saxon components in the Durrow illuminator's formation. Whether this indicates a Northumbrian place of production, or the circulation of metalwork models within a Columban network extending across the Irish Sea, remains open.
+
+### Carpet Page (6)
 
 <figure>
   <img src="/Images/Book-of-Durrow/image 12.jpg" alt="Carpet page">

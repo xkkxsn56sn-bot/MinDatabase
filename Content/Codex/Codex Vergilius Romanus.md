@@ -43,7 +43,7 @@ thematic_keywords:
 related_entries:
   - title: "Vergilius Vaticanus"
   - title: "Book of Kells"
-    url: "/Content/Codex/Book%20of%20Kells.html"
+    url: "/Content/Codex/Book-of-Kells.html"
   - title: "Codex Aureus of Lorsch"
     url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
 
@@ -95,9 +95,8 @@ meta:
 
   - title: "Related entries"
     links:
-      - title: "Vergilius Vaticanus"
       - title: "Book of Kells"
-        url: "/Content/Codex/Book%20of%20Kells.html"
+        url: "/Content/Codex/Book-of-Kells.html"
       - title: "Codex Aureus of Lorsch"
         url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
 ---

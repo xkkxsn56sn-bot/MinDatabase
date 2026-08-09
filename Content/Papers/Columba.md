@@ -27,9 +27,9 @@ keywords:
   - "Monastic networks"
 related_entries:
   - title: "Book of Kells"
-    url: "/Content/Codex/Book%20of%20Kells.html"
+    url: "/Content/Codex/Book-of-Kells.html"
   - title: "Book of Durrow"
-    url: "/Content/Codex/Book%20of%20Durrow.html"
+    url: "/Content/Codex/Book-of-Durrow.html"
   - title: "Finnian of Clonard"
     url: "/ancient-world.html#fn-finnian-clonard"
   - title: "Finnian of Movilla"
@@ -95,9 +95,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Book of Kells"
-        url: "/Content/Codex/Book%20of%20Kells.html"
+        url: "/Content/Codex/Book-of-Kells.html"
       - title: "Book of Durrow"
-        url: "/Content/Codex/Book%20of%20Durrow.html"
+        url: "/Content/Codex/Book-of-Durrow.html"
       - title: "Finnian of Clonard"
         url: "/ancient-world.html#fn-finnian-clonard"
       - title: "Finnian of Movilla"
