@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: Maestero del Bigallo
+title: Maestro del Bigallo
 subtitle: Anonymous Florentine painter of monumental crucifixes and Marian devotional panels
 dates: active c. 1215–1220 to c. 1250–1260
 meta:
