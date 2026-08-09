@@ -19,3 +19,4 @@ coverage/
 .mypy_cache/
 .ruff_cache/
 .cache/
+newsletter_subscribers.csv

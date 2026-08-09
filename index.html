@@ -825,7 +825,8 @@
         <p>
           We welcome contributions from scholars and researchers who wish to
           share their expertise and expand the collective knowledge of medieval
-          art. If you want to contribute, please contact us at
+          art. If you want to contribute, or to be notified of new entries and
+          research updates, please contact us at
           <a href="mailto:contact@medievalvisions.com"
             >contact@medievalvisions.com</a
           >.
@@ -834,66 +835,11 @@
 
       <section
         class="newsletter-signup is-hidden"
+        hidden
         aria-labelledby="newsletter-signup-heading"
       >
         <h2 id="newsletter-signup-heading">Future Newsletter</h2>
-        <p>
-          Register your e-mail to receive future updates, new entries, and
-          research highlights from Medieval Visions.
-        </p>
-        <form
-          class="newsletter-form"
-          action="https://formsubmit.co/contact@medievalvisions.com"
-          method="POST"
-          accept-charset="UTF-8"
-        >
-          <input
-            type="hidden"
-            name="_subject"
-            value="Medieval Visions newsletter registration"
-          />
-          <!-- Replace WORKER_URL with your deployed Cloudflare Worker URL (see scripts/subscriber_webhook_worker.js) -->
-          <input
-            type="hidden"
-            name="_webhook"
-            value="https://subscriber-webhook.medievalvisions.workers.dev"
-          />
-          <input
-            type="hidden"
-            name="_autoresponse"
-            value="Thank you for registering to Medieval Visions. Your email has been added to our newsletter list."
-          />
-          <input type="hidden" name="_template" value="table" />
-          <input type="hidden" name="_captcha" value="false" />
-          <input
-            type="hidden"
-            name="_next"
-            value="https://medievalvisions.com/newsletter-thank-you.html"
-          />
-          <input
-            class="newsletter-honeypot"
-            type="text"
-            name="_honey"
-            tabindex="-1"
-            autocomplete="off"
-          />
-
-          <label for="newsletter-email">E-mail address</label>
-          <input
-            id="newsletter-email"
-            name="email"
-            type="email"
-            placeholder="your@email.com"
-            required
-          />
-          <button type="submit">Join the List</button>
-        </form>
-        <p class="newsletter-note">
-          By submitting, your e-mail is sent directly to
-          <a href="mailto:contact@medievalvisions.com"
-            >contact@medievalvisions.com</a
-          >.
-        </p>
+        <p>Registration is temporarily unavailable.</p>
       </section>
     </main>
 

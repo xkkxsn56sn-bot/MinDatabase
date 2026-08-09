@@ -8,11 +8,6 @@ on:
     paths:
       - "Content/**/*.md"
   workflow_dispatch:
-    inputs:
-      force_notify:
-        description: "Send newsletter even if latest notice was already notified"
-        required: false
-        default: "false"
 
 permissions:
   contents: write
@@ -21,15 +16,6 @@ jobs:
   update-notices:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    env:
-      SMTP_HOST_SECRET_NAME: SMTP_HOST
-      SMTP_PORT_SECRET_NAME: SMTP_PORT
-      SMTP_USERNAME_SECRET_NAME: SMTP_USERNAME
-      SMTP_PASSWORD_SECRET_NAME: SMTP_PASSWORD
-      SMTP_SECURE_SECRET_NAME: SMTP_SECURE
-      IMAP_HOST_SECRET_NAME: IMAP_HOST
-      IMAP_USERNAME_SECRET_NAME: IMAP_USERNAME
-      IMAP_PASSWORD_SECRET_NAME: IMAP_PASSWORD
 
     steps:
       - name: Checkout repository
@@ -43,38 +29,17 @@ jobs:
       - name: Build latest push notices
         run: python scripts/update_push_notices.py
 
-      - name: Send newsletter update notification
-        env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets[env.SMTP_PORT_SECRET_NAME] }}
-          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          SMTP_FROM: contact@medievalvisions.com
-          SMTP_SECURE: ${{ secrets[env.SMTP_SECURE_SECRET_NAME] }}
-          IMAP_HOST: ${{ secrets[env.IMAP_HOST_SECRET_NAME] }}
-          IMAP_USERNAME: ${{ secrets[env.IMAP_USERNAME_SECRET_NAME] }}
-          IMAP_PASSWORD: ${{ secrets[env.IMAP_PASSWORD_SECRET_NAME] }}
-          NEWSLETTER_RECIPIENT_OVERRIDE: ""
-          NEWSLETTER_MIN_RECIPIENTS: "2"
-          NEWSLETTER_MIN_RECIPIENTS_MODE: ${{ github.event_name == 'workflow_dispatch' && 'warn' || 'fail' }}
-          FORCE_NOTIFY: ${{ github.event.inputs.force_notify || 'false' }}
-          NEWSLETTER_SUBJECT: Medieval Visions update
-          SITE_BASE_URL: https://medievalvisions.com
-        run: python scripts/send_newsletter_updates.py
-
       - name: Commit updated notices
         run: |
-          state_untracked=$(git ls-files --others --exclude-standard -- assets/data/newsletter_last_notified.json)
-
-          if git diff --quiet -- assets/data/push_notices.json assets/data/newsletter_last_notified.json && [ -z "$state_untracked" ]; then
+          if git diff --quiet -- assets/data/push_notices.json; then
             echo "No notice/notification state changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/data/push_notices.json assets/data/newsletter_last_notified.json
-          git commit -m "chore: update push notices and newsletter state"
+          git add assets/data/push_notices.json
+          git commit -m "chore: update push notices"
 
           target_branch="${GITHUB_REF_NAME:-main}"
           git pull --rebase origin "$target_branch"
