@@ -75,11 +75,11 @@ meta:
       - title: "Lindisfarne Gospels"
         url: "/Content/Codex/Lindisfarne%20Gospels.html"
       - title: "Morgan Beatus"
-        url: "/Content/Codex/Morgan%20Beatus.html"
+        url: "/Content/Codex/Morgan-Beatus.html"
       - title: "Godescalc Evangelistary"
         url: "/Content/Codex/Godescalc%20Evangelistary.html"
       - title: "Fulda Abbey"
-        url: "/Content/Churches/Fulda%20Abbey.html"
+        url: "/Content/Churches/Fulda-Abbey.html"
 
 scholars:
   - title: "Giles Constable"

@@ -41,13 +41,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Meliore di Jacopo"
-        url: "/Content/Artists/XIII%20century/Meliore%20di%20Jacopo.html"
+        url: "/Content/Artists/XIII%20century/Meliore-di-Jacopo.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Maestro del Bigallo"
-        url: "/Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+        url: "/Content/Artists/XIII%20century/Maestro-del-Bigallo.html"
 
 scholars:
   - title: "Bacci, Michele"

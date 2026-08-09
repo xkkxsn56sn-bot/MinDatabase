@@ -77,9 +77,9 @@ meta:
         url: "/Content/Artists/XI%20century/Giselbertus.html"
       - title: "Godefroid de Claire"
       - title: "Helmarshausen Abbey"
-        url: "/Content/Churches/Helmarshausen%20Abbey.html"
+        url: "/Content/Churches/Helmarshausen-Abbey.html"
       - title: "Saint Savin sur Gartempe Abbey"
-        url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
+        url: "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
 
 scholars:
   - title: "Pietro Toesca"

@@ -95,11 +95,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Meliore di Jacopo"
-        url: "/Content/Artists/XIII%20century/Meliore%20di%20Jacopo.html"
+        url: "/Content/Artists/XIII%20century/Meliore-di-Jacopo.html"
       - title: "Mariotto di Nardo"
       - title: "Bicci di Lorenzo"
       - title: "Maestro di Panzano"
-        url: "/Content/Artists/XIV%20century/Maestro%20di%20Panzano.html"
+        url: "/Content/Artists/XIV%20century/Maestro-di-Panzano.html"
 
 scholars:
   - title: "Bernard Berenson"

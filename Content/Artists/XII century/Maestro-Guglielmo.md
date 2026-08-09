@@ -131,11 +131,11 @@ meta:
       - title: "Alberto Sozio"
         url: "/Content/Artists/XII%20century/Alberto%20Sozio.html"
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
+        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
       - title: "Maestro della Croce del Santo Sepolcro"
-        url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20del%20Santo%20Sepolcro.html"
+        url: "/Content/Artists/XII%20century/Maestro-della-Croce-del-Santo-Sepolcro.html"
       - title: "Maestro di Rosano"
-        url: "/Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+        url: "/Content/Artists/XII%20century/Maestro-di-Rosano.html"
 
 scholars:
   - title: "Boskovits, Miklós"

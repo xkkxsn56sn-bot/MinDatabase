@@ -63,13 +63,13 @@ meta:
   - title: Related Artists
     links:
       - title: Berlinghiero Berlinghieri
-        url: "/Content/Artists/XII%20century/Berlinghiero%20Berlinghieri.html"
+        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
       - title: Bonaventura Berlinghieri
-        url: "/Content/Artists/XIII%20century/Bonaventura%20Berlinghieri.html"
+        url: "/Content/Artists/XIII%20century/Bonaventura-Berlinghieri.html"
       - title: Coppo di Marcovaldo
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: Giunta Pisano
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: Cimabue
         url: "/Content/Artists/XIII%20century/Cimabue.html"
 

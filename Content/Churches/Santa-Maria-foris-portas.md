@@ -151,11 +151,11 @@ meta:
       - title: "Maestro di Castelseprio"
         url: "/Content/Artists/VII%20century/Maestro%20di%20Castelseprio.html"
       - title: "Oratory of San Pellegrino in Bominaco"
-        url: "/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html"
+        url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
       - title: "Saint Savin sur Gartempe Abbey"
-        url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
+        url: "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
       - title: "Fulda Abbey"
-        url: "/Content/Churches/Fulda%20Abbey.html"
+        url: "/Content/Churches/Fulda-Abbey.html"
 
 scholars:
   - title: "Grabar, André"

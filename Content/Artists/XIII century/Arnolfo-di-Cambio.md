@@ -84,13 +84,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Nicola Pisano"
-        url: "/Content/Artists/XIII%20century/Nicola%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Nicola-Pisano.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
 
 author: "Arnolfo di Cambio"
 role: "Sculptor, architect, and urban planner"

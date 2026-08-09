@@ -70,13 +70,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII%20century/Simone%20Martini.html"
+        url: "/Content/Artists/XIII%20century/Simone-Martini.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
       - title: "Lippo Memmi"
-        url: "/Content/Artists/XIV%20century/Lippo%20Memmi.html"
+        url: "/Content/Artists/XIV%20century/Lippo-Memmi.html"
       - title: "San Gimignano (Palazzo del Popolo)"
 
 scholars:

@@ -95,11 +95,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Primo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.html"
+        url: "/Content/Artists/XIII%20century/Primo-Maestro-di-Anagni.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
       - title: "Jacopo Torriti"
-        url: "/Content/Artists/XIII%20century/Jacopo%20Torriti.html"
+        url: "/Content/Artists/XIII%20century/Jacopo-Torriti.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
 

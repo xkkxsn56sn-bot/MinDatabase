@@ -47,7 +47,7 @@ thematic_keywords:
 
 related_entries:
   - title: "St Cuthbert and his cult"
-    url: "/Content/Saints/Saint%20Cuthbert.html"
+    url: "/Content/Saints/Saint-Cuthbert.html"
   - title: "Lindisfarne (Holy Island) monastery"
   - title: "Insular Gospel books and the Book of Kells"
   - title: "Anglo-Saxon England and Northumbria"
@@ -115,7 +115,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "St Cuthbert and his cult"
-        url: "/Content/Saints/Saint%20Cuthbert.html"
+        url: "/Content/Saints/Saint-Cuthbert.html"
       - title: "Lindisfarne (Holy Island) monastery"
       - title: "Insular Gospel books and the Book of Kells"
       - title: "Anglo-Saxon England and Northumbria"

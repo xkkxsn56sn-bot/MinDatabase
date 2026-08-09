@@ -112,13 +112,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Guido da Siena"
-        url: "/Content/Artists/XIII%20century/Guido%20da%20Siena.html"
+        url: "/Content/Artists/XIII%20century/Guido-da-Siena.html"
 
   - title: "THEMATIC KEYWORDS"
     list:

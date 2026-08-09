@@ -53,13 +53,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: "Enrico di Tedice"
-        url: "/Content/Artists/XIII%20century/Enrico%20di%20Tedice.html"
+        url: "/Content/Artists/XIII%20century/Enrico-di-Tedice.html"
       - title: "Maestro della Croce di Castelfiorentino"
-        url: "/Content/Artists/XIII%20century/Maestro%20della%20Croce%20di%20Castelfiorentino.html"
+        url: "/Content/Artists/XIII%20century/Maestro-della-Croce-di-Castelfiorentino.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
 

@@ -62,10 +62,10 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html"
+        url: "/Content/Artists/XIII%20century/Secondo-Maestro-di-Anagni.html"
       - title: "Terzo Maestro di Anagni"
       - title: "Maestro di San Pietro in Vineis"
-        url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
+        url: "/Content/Artists/XIII%20century/Maestro-di-San-Pietro-in-Vineis.html"
 ---
 
 ## A Note on Anonymity and Historical Identity

@@ -26,9 +26,9 @@ keywords:
   - "Florentine mosaic tradition"
 related_entries:
   - title: "Gaddo Gaddi"
-    url: "/Content/Artists/XIII%20century/Gaddo%20Gaddi.html"
+    url: "/Content/Artists/XIII%20century/Gaddo-Gaddi.html"
   - title: "Giotto di Bondone"
-    url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+    url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
   - title: "Cimabue"
     url: "/Content/Artists/XIII%20century/Cimabue.html"
   - title: "Sonia Chiodo"
@@ -94,9 +94,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Gaddo Gaddi"
-        url: "/Content/Artists/XIII%20century/Gaddo%20Gaddi.html"
+        url: "/Content/Artists/XIII%20century/Gaddo-Gaddi.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Monica Bietti Favi"

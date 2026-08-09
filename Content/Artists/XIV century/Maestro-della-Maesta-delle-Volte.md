@@ -86,15 +86,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro della Madonna di Perugia"
-        url: "/Content/Artists/XIV%20century/Maestro%20della%20Madonna%20di%20Perugia.html"
+        url: "/Content/Artists/XIV%20century/Maestro-della-Madonna-di-Perugia.html"
       - title: "Maestro delle Tempere Francescane"
-        url: "/Content/Artists/XIV%20century/Maestro%20delle%20Tempere%20Francescane.html"
+        url: "/Content/Artists/XIV%20century/Maestro-delle-Tempere-Francescane.html"
       - title: "Pacino di Bonaguida"
-        url: "/Content/Artists/XIV%20century/Pacino%20di%20Bonaguida.html"
+        url: "/Content/Artists/XIV%20century/Pacino-di-Bonaguida.html"
       - title: "Puccio di Simone"
-        url: "/Content/Artists/XIV%20century/Puccio%20di%20Simone.html"
+        url: "/Content/Artists/XIV%20century/Puccio-di-Simone.html"
       - title: "Spoleto Cathedral"
-        url: "/Content/Churches/Spoleto%20Cathedral.html"
+        url: "/Content/Churches/Spoleto-Cathedral.html"
 ---
 
 ## Introduction

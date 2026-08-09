@@ -74,7 +74,7 @@ meta:
       - title: Wiligelmo
         url: "/Content/Artists/XI%20century/Wiligelmo.html"
       - title: Giovanni di Ugo da Campione
-        url: "/Content/Artists/XIV%20century/Giovanni%20di%20Ugo%20da%20Campione.html"
+        url: "/Content/Artists/XIV%20century/Giovanni-di-Ugo-da-Campione.html"
 
 scholars:
   - title: Geza de Francovich

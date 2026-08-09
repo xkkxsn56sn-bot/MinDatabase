@@ -111,7 +111,7 @@ meta:
       - title: "Godescalc"
         url: "/Content/Artists/VIII%20century/Godescalc.html"
       - title: "Fulda Abbey"
-        url: "/Content/Churches/Fulda%20Abbey.html"
+        url: "/Content/Churches/Fulda-Abbey.html"
 ---
 
 ## Monastic Origins and Intellectual Formation

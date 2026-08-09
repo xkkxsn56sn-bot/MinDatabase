@@ -77,9 +77,9 @@ meta:
       - title: "Alberto Sozio"
         url: "/Content/Artists/XII%20century/Alberto%20Sozio.html"
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro%20Guglielmo.html"
+        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
       - title: "Maestro di Rosano"
-        url: "/Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+        url: "/Content/Artists/XII%20century/Maestro-di-Rosano.html"
 ---
 
 ## Family and identity

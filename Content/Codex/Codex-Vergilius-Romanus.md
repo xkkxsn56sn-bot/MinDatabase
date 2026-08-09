@@ -45,7 +45,7 @@ related_entries:
   - title: "Book of Kells"
     url: "/Content/Codex/Book-of-Kells.html"
   - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
+    url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
 
 category: "codex"
 
@@ -98,7 +98,7 @@ meta:
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
       - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
+        url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
 ---
 
 

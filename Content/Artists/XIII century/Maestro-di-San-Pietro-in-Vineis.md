@@ -99,13 +99,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Terzo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.md"
+        url: "/Content/Artists/XIII%20century/Terzo-Maestro-di-Anagni.md"
       - title: "Primo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.md"
+        url: "/Content/Artists/XIII%20century/Primo-Maestro-di-Anagni.md"
       - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.md"
+        url: "/Content/Artists/XIII%20century/Secondo-Maestro-di-Anagni.md"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.md"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.md"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.md"
 

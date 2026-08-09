@@ -96,13 +96,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Andrea Pisano"
         url: "/Content/Artists/XIV%20century/Andrea-Pisano.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
       - title: "Giovanni di Apparecchiato"
-        url: "/Content/Artists/XIII%20century/Giovanni%20di%20Apparecchiato.html"
+        url: "/Content/Artists/XIII%20century/Giovanni-di-Apparecchiato.html"
 
 scholars:
   - title: "Valerio Ascani"

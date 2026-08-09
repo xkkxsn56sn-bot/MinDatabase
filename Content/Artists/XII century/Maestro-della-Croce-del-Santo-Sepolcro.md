@@ -54,9 +54,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro%20della%20Croce%20432.html"
+        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
 ---
 
 The *Master of the Cross of the Holy Sepulcher* is a conventional name given by modern art history to an anonymous painter active in Pisa in the later twelfth century, identified solely through the large painted cross once in the church of Santo Sepolcro and now in the Museo Nazionale di San Matteo.  No documentary evidence transmits his personal name, family, date or place of birth, and the biographical data that can be inferred from stylistic analysis remain hypothetical and broad. For this reason it is not possible, in responsible scholarly terms, to indicate his family background, marital status, social milieu, or precise training as if they were known facts, and any attempt to reconstruct such aspects in detail would be purely fictional and misleading. The same constraints apply to his date and cause of death, which are completely absent from surviving sources and not recoverable from the works alone. What can be described with some precision is the cultural and artistic environment of Pisa in the twelfth century, within which this painter worked, and the ways in which his surviving cross participates in Mediterranean exchanges between Byzantine, Romanesque, and emerging Tuscan visual languages. In this sense, a “biography” of the Maestro must be understood as a history of his workshop’s activity and its visual culture rather than as a narrative of a documented individual life, since the archival silence is complete. 

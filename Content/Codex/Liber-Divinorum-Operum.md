@@ -44,7 +44,7 @@ thematic_keywords:
 
 related_entries:
   - title: "Scivias"
-    url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+    url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
   - title: "Liber Vitae Meritorum"
   - title: "Hildegard of Bingen"
   - title: "Rupertsberg and Eibingen convents"
@@ -104,7 +104,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "Scivias"
-        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+        url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
       - title: "Liber Vitae Meritorum"
       - title: "Hildegard of Bingen"
       - title: "Rupertsberg and Eibingen convents"

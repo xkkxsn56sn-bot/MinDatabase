@@ -93,13 +93,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Master of the Life of Saint Francis (Assisi)"
-        url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html"
+        url: "/Content/Artists/XIII%20century/Maestro-di-San-Francesco.html"
 
 author: "Maestro Consolo (Magister Conxolus)"
 role: "Fresco painter; author of the hagiographic cycle of Saint Benedict in the lower church of the Sacro Speco, Subiaco"

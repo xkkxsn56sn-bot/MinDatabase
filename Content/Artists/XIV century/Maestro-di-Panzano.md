@@ -83,13 +83,13 @@ meta:
       - title: "Luca di Tommè"
         url: "/Content/Artists/XIV%20century/Luca%20di%20Tomme.html"
       - title: "Paolo di Giovanni Fei"
-        url: "/Content/Artists/XIV%20century/Paolo%20di%20Giovanni%20Fei.html"
+        url: "/Content/Artists/XIV%20century/Paolo-di-Giovanni-Fei.html"
       - title: "Pieve di San Leolino"
-        url: "/Content/Churches/Pieve%20di%20San%20Leolino.html"
+        url: "/Content/Churches/Pieve-di-San-Leolino.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII%20century/Simone%20Martini.html"
+        url: "/Content/Artists/XIII%20century/Simone-Martini.html"
 ---
 
 ## Identity and Scholarly Reconstruction

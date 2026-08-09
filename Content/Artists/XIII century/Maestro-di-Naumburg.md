@@ -95,9 +95,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro dei Mesi"
-        url: "/Content/Artists/XIII%20century/Maestro%20dei%20Mesi.html"
+        url: "/Content/Artists/XIII%20century/Maestro-dei-Mesi.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
+        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
       - title: "Wiligelmo"
         url: "/Content/Artists/XI%20century/Wiligelmo.html"
 

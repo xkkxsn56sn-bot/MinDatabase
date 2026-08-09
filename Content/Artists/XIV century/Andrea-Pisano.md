@@ -97,11 +97,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Nicola Pisano"
-        url: "/Content/Artists/XIII%20century/Nicola%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Nicola-Pisano.html"
       - title: "Arnolfo di Cambio"
-        url: "/Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html"
+        url: "/Content/Artists/XIII%20century/Arnolfo-di-Cambio.html"
 
 scholars:
   - title: "John Pope-Hennessy"
@@ -400,7 +400,7 @@ She wears a long girded gown falling to the feet, over which a full mantle envel
 
 The head is covered by a decorated openwork headdress, worked as a low pierced crown with quatrefoil-like piercings — not the martyr's diadem of later convention but a courtly cap. The hair is drawn back and tucked beneath it. The face is young, oval, unmarked by suffering; the expression serene and impassive.
 
-Note what is absent: the lily. Reparata is often given the lily of Florence — the emblem entrusted to her rather than to [San Zanobi](/Content/Saints/San%20Zanobi.html) — and its omission here is worth registering rather than explaining away.
+Note what is absent: the lily. Reparata is often given the lily of Florence — the emblem entrusted to her rather than to [San Zanobi](/Content/Saints/San-Zanobi.html) — and its omission here is worth registering rather than explaining away.
 
 Three observations, from the Opera del Duomo's own catalogue record, converge:
 

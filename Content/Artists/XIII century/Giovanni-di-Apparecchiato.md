@@ -83,9 +83,9 @@ meta:
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Vincino da Pistoia"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
 
 scholars:
   - title: "Giovanni Fontana"

@@ -29,11 +29,11 @@ related_entries:
   - title: "Scivias - Interdisciplinary Examination"
     url: "/Content/Papers/Scivias-Interdisciplinary%20Examination.html"
   - title: "Oratorio di San Pellegrino, Bominaco"
-    url: "/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html"
+    url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
   - title: "Cappella Palatina"
-    url: "/Content/Churches/Cappella%20Palatina.html"
+    url: "/Content/Churches/Cappella-Palatina.html"
   - title: "Hildegard von Bingen"
-    url: "/Content/Artists/XII%20century/Hildegard%20von%20Bingen.html"
+    url: "/Content/Artists/XII%20century/Hildegard-von-Bingen.html"
 
 meta:
   - title: "SUBJECT"
@@ -96,9 +96,9 @@ meta:
       - title: "Scivias - Interdisciplinary Examination"
         url: "/Content/Papers/Scivias-Interdisciplinary%20Examination.html"
       - title: "Oratorio di San Pellegrino, Bominaco"
-        url: "/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html"
+        url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
       - title: "Cappella Palatina"
-        url: "/Content/Churches/Cappella%20Palatina.html"
+        url: "/Content/Churches/Cappella-Palatina.html"
       - title: "Saint Michael Altarpiece"
         url: "/Content/Papers/Saint%20Michael%20Altarpiece.html"
 

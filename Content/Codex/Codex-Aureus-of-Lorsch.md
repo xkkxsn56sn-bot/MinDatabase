@@ -57,7 +57,7 @@ related_entries:
   - title: "Codex Aureus of Echternach"
     url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
   - title: "Codex Aureus of Saint Emmeram"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
+    url: "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
 
 category: "codex"
 
@@ -113,7 +113,7 @@ meta:
       - title: "Codex Aureus of Echternach"
         url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
       - title: "Codex Aureus of Saint Emmeram"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Saint%20Emmeram.html"
+        url: "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
 ---
 
 

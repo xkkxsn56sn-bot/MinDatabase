@@ -67,7 +67,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Saint Leonard of Noblac"
-        url: "/Content/Saints/Saint%20Leonard.html"
+        url: "/Content/Saints/Saint-Leonard.html"
 
 scholars:
   - title: "Boskovits, Miklós"

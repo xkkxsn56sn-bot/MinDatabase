@@ -87,9 +87,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: "Maestro dei Crocifissi francescani"
-        url: "/Content/Artists/XIII%20century/Maestro%20dei%20Crocifissi%20francescani.html"
+        url: "/Content/Artists/XIII%20century/Maestro-dei-Crocifissi-francescani.html"
       - title: "Margarito"
         url: "/Content/Artists/XIII%20century/Margarito.html"
 

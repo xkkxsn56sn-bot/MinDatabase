@@ -153,15 +153,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
+        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
       - title: "Anselmo da Campione"
         url: "/Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
       - title: "Nicola Pisano"
-        url: "/Content/Artists/XIII%20century/Nicola%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Nicola-Pisano.html"
       - title: "Arnolfo di Cambio"
-        url: "/Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html"
+        url: "/Content/Artists/XIII%20century/Arnolfo-di-Cambio.html"
       - title: "Maestro di Naumburg"
-        url: "/Content/Artists/XIII%20century/Maestro%20di%20Naumburg.html"
+        url: "/Content/Artists/XIII%20century/Maestro-di-Naumburg.html"
 ---
 
 The figure conventionally known as the *Master of the Months* is an anonymous Italian sculptor active during the first half of the thirteenth century, primarily in Ferrara, Forlì and probably Venice. He owes his modern name to the celebrated cycle of reliefs representing the calendar months that once adorned the so‑called Porta dei Pellegrini, or Porta dei Mesi, on the south side of Ferrara Cathedral and are now preserved in the Museo della Cattedrale. Archival documentation about his person has not survived, so neither his precise date nor his place of birth is known, and modern scholarship can only situate his floruit around 1220–1230 on the basis of style and architectural history. 

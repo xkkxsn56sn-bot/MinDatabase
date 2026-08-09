@@ -82,11 +82,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
 
 scholars:
   - title: "Roberto Longhi"

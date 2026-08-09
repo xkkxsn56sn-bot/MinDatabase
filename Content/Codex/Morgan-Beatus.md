@@ -89,7 +89,7 @@ meta:
       - title: "Godescalc Evangelistary"
         url: "/Content/Codex/Godescalc-Evangelistary.html"
       - title: "Scivias of Hildegard of Bingen"
-        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+        url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
 
   - title: "Keywords"
     list:

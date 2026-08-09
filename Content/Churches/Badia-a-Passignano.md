@@ -119,9 +119,9 @@ meta:
   - title: RELATED ENTRIES
     links:
       - title: San Zanobi (Bishop of Florence; traditional founder of the primitive settlement, c. 395 AD)
-        url: "/Content/Saints/San%20Zanobi.html"
+        url: "/Content/Saints/San-Zanobi.html"
       - title: Saint John Gualbert (founder of the Vallombrosan Order; died at Passignano, 12 July 1073)
-        url: "/Content/Saints/Saint%20John%20Gualbert.html"
+        url: "/Content/Saints/Saint-John-Gualbert.html"
 
 scholars:
   - title: "Boskovits, Miklós"

@@ -32,9 +32,9 @@ related_entries:
   - title: "Book of Durrow"
     url: "/Content/Codex/Book-of-Durrow.html"
   - title: "Cappella Palatina"
-    url: "/Content/Churches/Cappella%20Palatina.html"
+    url: "/Content/Churches/Cappella-Palatina.html"
   - title: "Santa Maria foris portas"
-    url: "/Content/Churches/Santa%20Maria%20foris%20portas.html"
+    url: "/Content/Churches/Santa-Maria-foris-portas.html"
 
 meta:
   - title: "TYPE"

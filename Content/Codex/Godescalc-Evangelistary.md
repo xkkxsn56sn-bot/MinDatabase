@@ -60,7 +60,7 @@ related_entries:
   - title: "Lindisfarne Gospels"
     url: "/Content/Codex/Lindisfarne-Gospels.html"
   - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
+    url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
 
 scholars:
   - title: "Koehler, Wilhelm"
@@ -123,7 +123,7 @@ meta:
       - title: "Lindisfarne Gospels"
         url: "/Content/Codex/Lindisfarne-Gospels.html"
       - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Lorsch.html"
+        url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
 ---

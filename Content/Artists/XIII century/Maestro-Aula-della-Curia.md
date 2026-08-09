@@ -93,15 +93,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Primo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Primo%20Maestro%20di%20Anagni.html"
+        url: "/Content/Artists/XIII%20century/Primo-Maestro-di-Anagni.html"
       - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Secondo%20Maestro%20di%20Anagni.html"
+        url: "/Content/Artists/XIII%20century/Secondo-Maestro-di-Anagni.html"
       - title: "Terzo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Terzo%20Maestro%20di%20Anagni.html"
+        url: "/Content/Artists/XIII%20century/Terzo-Maestro-di-Anagni.html"
       - title: "Maestro di San Pietro in Vineis"
-        url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
+        url: "/Content/Artists/XIII%20century/Maestro-di-San-Pietro-in-Vineis.html"
       - title: "Maestro Consolo"
-        url: "/Content/Artists/XIII%20century/Maestro%20Consolo.html"
+        url: "/Content/Artists/XIII%20century/Maestro-Consolo.html"
 
 scholars:
   - title: "Luciano Bellosi"

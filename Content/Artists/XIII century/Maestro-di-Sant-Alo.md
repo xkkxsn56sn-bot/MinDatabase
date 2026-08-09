@@ -77,15 +77,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: "Deodato Orlandi"
-        url: "/Content/Artists/XIII%20century/Deodato%20Orlandi.html"
+        url: "/Content/Artists/XIII%20century/Deodato-Orlandi.html"
       - title: "Francesco Traini"
         url: "/Content/Artists/XIV%20century/Francesco%20Traini.html"
       - title: "Maestro di San Torpè"
         url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Torpe.html"
       - title: "Maestro di San Pietro in Vineis"
-        url: "/Content/Artists/XIII%20century/Maestro%20di%20San%20Pietro%20in%20Vineis.html"
+        url: "/Content/Artists/XIII%20century/Maestro-di-San-Pietro-in-Vineis.html"
 
 scholars:
   - title: "Carlo Volpe"

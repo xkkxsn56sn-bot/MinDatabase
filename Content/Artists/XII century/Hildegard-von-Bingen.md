@@ -67,9 +67,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Scivias of Hildegard of Bingen"
-        url: "/Content/Codex/Scivias%20of%20Hildegard%20of%20Bingen.html"
+        url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
       - title: "Liber Divinorum Operum"
-        url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+        url: "/Content/Codex/Liber-Divinorum-Operum.html"
 ---
 
 

@@ -103,7 +103,7 @@ meta:
       - title: "Rhabanus Maurus"
         url: "/Content/Artists/VIII%20century/Rhabanus-Maurus.html"
       - title: "Fulda Abbey"
-        url: "/Content/Churches/Fulda%20Abbey.html"
+        url: "/Content/Churches/Fulda-Abbey.html"
 
 scholars:
   - title: "Charles Rufus Morey"

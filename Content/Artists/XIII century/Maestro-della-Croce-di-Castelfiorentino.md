@@ -83,13 +83,13 @@ meta:
   - title: RELATED ENTRIES
     links:
       - title: Michele di Baldovino
-        url: /Content/Artists/XIII%20century/Michele%20di%20Baldovino.html
+        url: /Content/Artists/XIII%20century/Michele-di-Baldovino.html
       - title: Giunta Pisano
-        url: /Content/Artists/XIII%20century/Giunta%20Pisano.html
+        url: /Content/Artists/XIII%20century/Giunta-Pisano.html
       - title: Enrico di Tedice
-        url: /Content/Artists/XIII%20century/Enrico%20di%20Tedice.html
+        url: /Content/Artists/XIII%20century/Enrico-di-Tedice.html
       - title: Maestro della Croce 434
-        url: /Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html
+        url: /Content/Artists/XIII%20century/Maestro-della-Croce-434.html
 
   - title: THEMATIC KEYWORDS
     list:

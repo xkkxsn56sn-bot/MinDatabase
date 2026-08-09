@@ -52,9 +52,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Autun Cathedral"
-        url: "/Content/Churches/Autun%20Cathedral.html"
+        url: "/Content/Churches/Autun-Cathedral.html"
       - title: "Saint Savin sur Gartempe Abbey"
-        url: "/Content/Churches/Saint%20Savin%20sur%20Gartempe%20Abbey.html"
+        url: "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
 ---
 
 

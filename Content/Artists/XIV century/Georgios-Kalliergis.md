@@ -94,9 +94,9 @@ meta:
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro%20Cavallini.html"
+        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
 
 scholars:
   - title: "Stylianos Pelekanidis"

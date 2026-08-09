@@ -99,9 +99,9 @@ meta:
   - title: Related Entries
     links:
       - title: Giunta Pisano
-        url: /Content/Artists/XIII%20century/Giunta%20Pisano.html
+        url: /Content/Artists/XIII%20century/Giunta-Pisano.html
       - title: Maestro di San Francesco
-        url: /Content/Artists/XIII%20century/Maestro%20di%20San%20Francesco.html
+        url: /Content/Artists/XIII%20century/Maestro-di-San-Francesco.html
       - title: Santa Chiara, Assisi
         url: /Content/Churches/Santa%20Chiara%20Assisi.html
 ---

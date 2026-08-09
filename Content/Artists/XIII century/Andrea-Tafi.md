@@ -76,9 +76,9 @@ meta:
       - title: Cimabue
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: Coppo di Marcovaldo
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: Gaddo Gaddi
-        url: "/Content/Artists/XIII%20century/Gaddo%20Gaddi.html"
+        url: "/Content/Artists/XIII%20century/Gaddo-Gaddi.html"
       - title: Buonamico Buffalmacco
         url:
 

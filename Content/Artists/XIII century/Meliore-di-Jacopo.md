@@ -37,15 +37,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Maestro del Bigallo"
-        url: "/Content/Artists/XIII%20century/Maestro%20del%20Bigallo.html"
+        url: "/Content/Artists/XIII%20century/Maestro-del-Bigallo.html"
       - title: "Maestro della Croce 434"
-        url: "/Content/Artists/XIII%20century/Maestro%20della%20Croce%20434.html"
+        url: "/Content/Artists/XIII%20century/Maestro-della-Croce-434.html"
 ---
 
 *Meliore di Jacopo* was one of the most significant panel painters active in Florence during the second half of the thirteenth century, standing at a pivotal crossroads between the prevailing Byzantine tradition and the emergent naturalism that would fully flower in the work of Cimabue and, subsequently, Giotto. He is among the very few Italian painters of the *Duecento* whose identity can be confirmed through both documentary evidence and signed works, making him an exceptionally valuable figure in the reconstruction of early Florentine painting.

@@ -126,11 +126,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Santa Maria foris portas"
-        url: "/Content/Churches/Santa%20Maria%20foris%20portas.html"
+        url: "/Content/Churches/Santa-Maria-foris-portas.html"
       - title: "Maestro di Rosano"
-        url: "/Content/Artists/XII%20century/Maestro%20di%20Rosano.html"
+        url: "/Content/Artists/XII%20century/Maestro-di-Rosano.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
+        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
 

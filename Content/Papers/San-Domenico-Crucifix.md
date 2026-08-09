@@ -26,11 +26,11 @@ keywords:
   - "Bologna"
 related_entries:
   - title: "Giunta Pisano"
-    url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+    url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
   - title: "Cimabue"
     url: "/Content/Artists/XIII%20century/Cimabue.html"
   - title: "The Bandini Crucifix"
-    url: "/Content/Papers/The%20Bandini%20Crucifix.html"
+    url: "/Content/Papers/The-Bandini-Crucifix.html"
   - title: "Saint Michael Altarpiece"
     url: "/Content/Papers/Saint%20Michael%20Altarpiece.html"
 
@@ -92,11 +92,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta%20Pisano.html"
+        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "The Bandini Crucifix"
-        url: "/Content/Papers/The%20Bandini%20Crucifix.html"
+        url: "/Content/Papers/The-Bandini-Crucifix.html"
       - title: "Adolfo Venturi"
         url: "/scholars.html#venturi-adolfo"
 

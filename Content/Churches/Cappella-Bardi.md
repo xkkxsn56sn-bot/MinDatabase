@@ -101,11 +101,11 @@ meta:
   - title: "Related Entries"
     links:
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo%20di%20Marcovaldo.html"
+        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
       - title: "Spoleto Cathedral"
-        url: "/Content/Churches/Spoleto%20Cathedral.html"
+        url: "/Content/Churches/Spoleto-Cathedral.html"
 
 scholars:
   - title: "Roberto Longhi"

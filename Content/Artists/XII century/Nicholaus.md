@@ -160,9 +160,9 @@ meta:
       - title: "Wiligelmo"
         url: "/Content/Artists/XI%20century/Wiligelmo.html"
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro%20Guglielmo.html"
+        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto%20Antelami.html"
+        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
       - title: "Anselmo da Campione"
         url: "/Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
 

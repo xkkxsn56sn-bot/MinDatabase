@@ -77,15 +77,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Cimabue"
         url: "/Content/Artists/XIII%20century/Cimabue.html"
       - title: "Jacopo Torriti"
-        url: "/Content/Artists/XIII%20century/Jacopo%20Torriti.html"
+        url: "/Content/Artists/XIII%20century/Jacopo-Torriti.html"
       - title: "Filippo Rusuti"
-        url: "/Content/Artists/XIII%20century/Filippo%20Rusuti.html"
+        url: "/Content/Artists/XIII%20century/Filippo-Rusuti.html"
       - title: "Arnolfo di Cambio"
-        url: "/Content/Artists/XIII%20century/Arnolfo%20di%20Cambio.html"
+        url: "/Content/Artists/XIII%20century/Arnolfo-di-Cambio.html"
 
 scholars:
   - title: "Maria Andaloro"

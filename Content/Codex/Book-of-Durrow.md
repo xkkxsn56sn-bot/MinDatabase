@@ -66,7 +66,7 @@ related_entries:
   - title: "Book of Kells"
     url: "/Content/Codex/Book-of-Kells.html"
   - title: "Lichfield Gospels"
-    url: "/Content/Codex/Lichfield%20Gospels.html"
+    url: "/Content/Codex/Lichfield-Gospels.html"
   - title: "Columba"
     url: "/Content/Papers/Columba.html"
 
@@ -183,7 +183,7 @@ meta:
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
       - title: "Lichfield Gospels"
-        url: "/Content/Codex/Lichfield%20Gospels.html"
+        url: "/Content/Codex/Lichfield-Gospels.html"
       - title: "Columba"
         url: "/Content/Papers/Columba.html"
 ---

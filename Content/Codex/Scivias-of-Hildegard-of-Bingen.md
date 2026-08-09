@@ -52,7 +52,7 @@ thematic_keywords:
 related_entries:
   - title: "Liber Vitae Meritorum"
   - title: "Liber Divinorum Operum"
-    url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+    url: "/Content/Codex/Liber-Divinorum-Operum.html"
   - title: "Hildegard of Bingen"
   - title: "Rupertsberg monastery and Eibingen facsimile"
   - title: "Twelfth‑century visionary literature"
@@ -116,7 +116,7 @@ meta:
     links:
       - title: "Liber Vitae Meritorum"
       - title: "Liber Divinorum Operum"
-        url: "/Content/Codex/Liber%20Divinorum%20Operum.html"
+        url: "/Content/Codex/Liber-Divinorum-Operum.html"
       - title: "Hildegard of Bingen"
       - title: "Rupertsberg monastery and Eibingen facsimile"
       - title: "Twelfth‑century visionary literature"

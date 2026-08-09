@@ -77,17 +77,17 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro della Maestà delle Volte"
-        url: "/Content/Artists/XIV%20century/Maestro%20della%20Maesta%20delle%20Volte.html"
+        url: "/Content/Artists/XIV%20century/Maestro-della-Maesta-delle-Volte.html"
       - title: "Puccio di Simone"
-        url: "/Content/Artists/XIV%20century/Puccio%20di%20Simone.html"
+        url: "/Content/Artists/XIV%20century/Puccio-di-Simone.html"
       - title: "Pacino di Bonaguida"
-        url: "/Content/Artists/XIV%20century/Pacino%20di%20Bonaguida.html"
+        url: "/Content/Artists/XIV%20century/Pacino-di-Bonaguida.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto%20di%20Bondone.html"
+        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio%20di%20Buoninsegna.html"
+        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
       - title: "Giuliano da Rimini"
-        url: "/Content/Artists/XIII%20century/Giuliano%20da%20Rimini.html"
+        url: "/Content/Artists/XIII%20century/Giuliano-da-Rimini.html"
 ---
 
 ## Introduction

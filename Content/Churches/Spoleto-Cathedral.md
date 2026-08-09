@@ -90,7 +90,7 @@ meta:
       - title: "Solsternus"
         url: "/Content/Artists/XIII%20century/Solsternus.html"
       - title: "Oratory of San Pellegrino in Bominaco"
-        url: "/Content/Churches/Oratory%20of%20San%20Pellegrino%20in%20Bominaco.html"
+        url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
 
 scholars:
   - title: "Pietro Toesca"
