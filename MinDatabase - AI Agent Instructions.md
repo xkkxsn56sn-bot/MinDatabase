@@ -46,9 +46,10 @@ MinDatabase/
 
 ### File Naming
 
-- Artist files: `[Name].md` with historically standard naming (e.g., `Giotto di Bondone.md`).
-- Anonymous masters: full scholarly label (e.g., `Maestro di ...`).
+- Artist files: `[Name].md` with historically standard naming, using hyphens in place of spaces (e.g., `Giotto-di-Bondone.md`).
+- Anonymous masters: full scholarly label, hyphenated (e.g., `Maestro-di-San-Martino.md`).
 - Churches, Codex, Papers, Saints: descriptive scholarly titles.
+- Legacy `.html` pages at the old, space-based paths are preserved as static redirect stubs pointing to the current hyphenated URL. Do not remove or modify these redirect files.
 
 ## Writing Model
 
