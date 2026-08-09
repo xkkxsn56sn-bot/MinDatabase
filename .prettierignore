@@ -7,3 +7,7 @@ _site/
 # Don't format these file types
 *.md
 *.csv
+
+# Stub di redirect legacy (path con spazi): da non modificare.
+# Il markup e il meta refresh vanno lasciati invariati, cfr. istruzioni del repo.
+Content/**/* *.html
