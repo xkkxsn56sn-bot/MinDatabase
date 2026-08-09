@@ -20,3 +20,4 @@ coverage/
 .ruff_cache/
 .cache/
 newsletter_subscribers.csv
+.obsidian/workspace.json
