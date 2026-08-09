@@ -152,6 +152,12 @@ This repository already contains embedded images in content files.
 
 **Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII century/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
 
+## Tooling Note: validate_content_indexes.py
+
+`scripts/validate_content_indexes.py` checks the consistency between the `.md` files in `Content/` and the JSON directory indexes in `assets/data/` (matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules). It runs read-only and is executed automatically by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself.
+
+`Content/Saints/` is, by editorial choice, an unindexed section: saint entries are reachable only via links from other entries, not from a listing page. The script excludes `Saints/` from the "has a JSON entry" check, but flags any Saints entry that isn't linked from any other entry, since such an entry would otherwise be unreachable.
+
 ## Quality Checklist Before Finalizing
 
 1. Folder and filename match canonical structure (`Papers`, current century folders).
