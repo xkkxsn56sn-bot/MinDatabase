@@ -387,15 +387,7 @@
     <header>
       <h1>{{ page.title }}</h1>
     </header>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="artists.html">Artists</a>
-      <a href="churches.html">Churches</a>
-      <a href="codices.html">Codices</a>
-      <a href="painters.html">Painters</a>
-      <a href="papers.html">Papers</a>
-      <a href="scholars.html">Scholars</a>
-    </nav>
+    <nav>{% include nav.html %}</nav>
     <main>
       {{ content }}
       <a href="index.html" class="back-btn">Back to Home</a>
