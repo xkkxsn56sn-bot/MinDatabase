@@ -25,7 +25,6 @@ MinDatabase/
 │   │   ├── XI century/
 │   │   ├── XII century/
 │   │   ├── XIII century/
-│   │   │   ├── add_sections.py
 │   │   │   └── [Artist Name].md
 │   │   └── XIV century/
 │   ├── Churches/
@@ -144,27 +143,14 @@ This repository already contains embedded images in content files.
 ## Editing and Commit Workflow
 
 - Make focused, incremental commits by section or topic.
-- Separate content edits from tooling edits (for example, changes to `add_sections.py`).
+- Separate content edits from tooling edits when tooling changes are involved.
 - Commit message style examples:
   - `Add Early Life section to [Artist]`
   - `Update patronage chronology in [Artist]`
-  - `Configure add_sections.py for [Artist]`
 
 ## Tooling Note: add_sections.py
 
-Utility location: `Content/Artists/XIII century/add_sections.py`
-
-- Purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements.
-- Always run with `--dry-run` first.
-- Validate section placement manually after execution.
-
-Example:
-
-```bash
-cd Content/Artists/XIII\ century/
-python3 add_sections.py "Artist Name.md" --dry-run
-python3 add_sections.py "Artist Name.md"
-```
+**Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII century/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
 
 ## Quality Checklist Before Finalizing
 
