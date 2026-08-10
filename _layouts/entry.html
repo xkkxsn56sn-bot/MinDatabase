@@ -9,6 +9,7 @@
       rel="stylesheet"
       href="{{ '/assets/css/entry.css' | relative_url }}"
     />
+    <link rel="stylesheet" href="{{ '/assets/css/nav.css' | relative_url }}" />
     <style>
       .entry__audio-toggle-wrap {
         margin-top: 0.6rem;
@@ -76,6 +77,8 @@
           Day / Night mode
         </button>
       </header>
+
+      {% include nav.html %}
 
       <div class="entry__grid">
         <aside class="entry__sidebar">

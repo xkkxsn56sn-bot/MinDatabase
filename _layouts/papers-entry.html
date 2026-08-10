@@ -13,6 +13,7 @@
       rel="stylesheet"
       href="{{ '/assets/css/entry.css' | relative_url }}"
     />
+    <link rel="stylesheet" href="{{ '/assets/css/nav.css' | relative_url }}" />
   </head>
 
   <body class="papers-entry-page">
@@ -23,7 +24,7 @@
       {% endif %}
     </header>
 
-    <nav>{% include nav.html %}</nav>
+    {% include nav.html %}
 
     <main>
       <article class="entry">

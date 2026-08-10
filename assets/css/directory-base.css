@@ -44,33 +44,6 @@ header {
   border-bottom: 3px solid var(--gold);
 }
 
-nav {
-  background: var(--dark-parchment);
-  padding: 0.6rem 1rem;
-  border-bottom: 1px solid var(--gold);
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.3rem 0.5rem;
-}
-
-nav a {
-  color: var(--burgundy);
-  text-decoration: none;
-  font-weight: 600;
-  padding: 0.5rem 0.8rem;
-  min-height: 44px;
-  display: inline-flex;
-  align-items: center;
-  border-radius: 4px;
-  white-space: nowrap;
-}
-
-nav a:hover {
-  background: var(--gold);
-  color: var(--dark-burgundy);
-}
-
 main {
   max-width: 1320px;
   margin: 2rem auto;

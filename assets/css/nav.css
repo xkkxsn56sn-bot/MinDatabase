@@ -1,0 +1,38 @@
+nav[aria-label="Main navigation"] {
+  --nav-bg: var(--dark-parchment, var(--bg-panel, #e8d9c4));
+  --nav-fg: var(--burgundy, var(--link, #7a2f2f));
+  --nav-accent: var(--gold, var(--link-hover, #a67149));
+  --nav-fg-active: var(--dark-burgundy, var(--bg-page, #4a1c1c));
+
+  background: var(--nav-bg);
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--nav-accent);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.3rem 0.5rem;
+}
+
+nav[aria-label="Main navigation"] a {
+  color: var(--nav-fg);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 0.8rem;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+nav[aria-label="Main navigation"] a:hover {
+  background: var(--nav-accent);
+  color: var(--nav-fg-active);
+}
+
+html[data-theme="dark"] nav[aria-label="Main navigation"] {
+  --nav-bg: var(--bg-panel-dark, #1a1a1a);
+  --nav-fg: var(--link-dark, #c9a961);
+  --nav-accent: var(--link-hover-dark, #e8c87a);
+  --nav-fg-active: var(--bg-page-dark, #111111);
+}
