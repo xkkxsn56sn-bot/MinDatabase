@@ -152,20 +152,23 @@
         </aside>
       </div>
 
-      {% assign back_url = '/artists.html' %} {% assign back_label = 'Back to
-      Artists' %} {% assign has_saints_page = false %} {% for nav_page in
-      site.pages %} {% if nav_page.url == '/saints.html' %} {% assign
-      has_saints_page = true %} {% break %} {% endif %} {% endfor %} {% if
-      page.url contains '/Content/Churches/' %} {% assign back_url =
-      '/churches.html' %} {% assign back_label = 'Back to Churches' %} {% elsif
-      page.url contains '/Content/Codex/' %} {% assign back_url =
-      '/codices.html' %} {% assign back_label = 'Back to Codices' %} {% elsif
-      page.url contains '/Content/Papers/' %} {% assign back_url =
-      '/papers.html' %} {% assign back_label = 'Back to Papers' %} {% elsif
-      page.url contains '/Content/Saints/' %} {% if has_saints_page %} {% assign
-      back_url = '/saints.html' %} {% assign back_label = 'Back to Saints' %} {%
-      else %} {% assign back_url = '/scholars.html' %} {% assign back_label =
-      'Back to Scholars' %} {% endif %} {% endif %}
+      {%- assign back_url = '/artists.html' -%} {%- assign back_label = 'Back to
+      Artists' -%} {%- comment -%} saints.html non esiste: Content/Saints/ è
+      volutamente non indicizzata (cfr. AI Agent Instructions). Il ramo resta
+      per attivarsi da solo se un giorno la pagina venisse creata. {%-
+      endcomment -%} {%- assign has_saints_page = false -%} {%- for nav_page in
+      site.pages -%} {%- if nav_page.url == '/saints.html' -%} {%- assign
+      has_saints_page = true -%} {%- break -%} {%- endif -%} {%- endfor -%} {%-
+      if page.url contains '/Content/Churches/' -%} {%- assign back_url =
+      '/churches.html' -%} {%- assign back_label = 'Back to Churches' -%} {%-
+      elsif page.url contains '/Content/Codex/' -%} {%- assign back_url =
+      '/codices.html' -%} {%- assign back_label = 'Back to Codices' -%} {%-
+      elsif page.url contains '/Content/Papers/' -%} {%- assign back_url =
+      '/papers.html' -%} {%- assign back_label = 'Back to Papers' -%} {%- elsif
+      page.url contains '/Content/Saints/' -%} {%- if has_saints_page -%} {%-
+      assign back_url = '/saints.html' -%} {%- assign back_label = 'Back to
+      Saints' -%} {%- else -%} {%- assign back_url = '/index.html' -%} {%-
+      assign back_label = 'Back to Home' -%} {%- endif -%} {%- endif -%}
 
       <nav class="entry__nav-footer" aria-label="Page navigation">
         <a href="{{ back_url | relative_url }}" class="entry__nav-btn"
