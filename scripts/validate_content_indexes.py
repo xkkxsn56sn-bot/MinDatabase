@@ -68,11 +68,11 @@ NO_INDEX_DIRS = {"Saints"}
 # frontmatter tipo `url: "/Content/Saints/Saint-Cuthbert.html"`.
 LINK_RE = re.compile(r"/?Content/[^\s\"'()<>]+\.html")
 
-CENTURY_FOLDER_RE = re.compile(r"^([IVXLCDM]+)\s+century$", re.IGNORECASE)
+CENTURY_FOLDER_RE = re.compile(r"^([IVXLCDM]+)-c$", re.IGNORECASE)
 
 
 def folder_to_century_key(folder_name):
-    """'VII century' -> 'VII Century' (chiave attesa in artists-directory.json)."""
+    """'VII-c' -> 'VII Century' (chiave attesa in artists-directory.json)."""
     m = CENTURY_FOLDER_RE.match(folder_name)
     if not m:
         return None
@@ -279,7 +279,7 @@ def main():
             expected_key = folder_to_century_key(century_folder)
             if expected_key is None:
                 anomalies["Nome cartella secolo inatteso"].append(
-                    f"{rel}: cartella '{century_folder}' non nella forma '<romano> century'"
+                    f"{rel}: cartella '{century_folder}' non nella forma '<romano>-c'"
                 )
             elif section_key != expected_key:
                 anomalies["Sezione JSON non corrispondente alla cartella"].append(
