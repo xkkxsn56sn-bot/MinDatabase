@@ -38,11 +38,11 @@ thematic_keywords:
 
 related_entries:
   - title: "Giotto di Bondone"
-    url: "/Content/Artists/XIII century/Giotto di Bondone"
+    url: "/Content/Artists/XIII-c/Giotto di Bondone"
   - title: "Cappella Bardi"
     url: "/Content/Churches/Cappella Bardi"
   - title: "Pacino di Bonaguida"
-    url: "/Content/Artists/XIV century/Pacino di Bonaguida"
+    url: "/Content/Artists/XIV-c/Pacino di Bonaguida"
 
 meta:
   - title: "Location"
@@ -150,11 +150,11 @@ meta:
   - title: "Related Entries"
     links:
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII century/Giotto di Bondone"
+        url: "/Content/Artists/XIII-c/Giotto di Bondone"
       - title: "Cappella Bardi"
         url: "/Content/Churches/Cappella Bardi"
       - title: "Pacino di Bonaguida"
-        url: "/Content/Artists/XIV century/Pacino di Bonaguida"
+        url: "/Content/Artists/XIV-c/Pacino di Bonaguida"
 ---
 
 The *Peruzzi Chapel* in the Basilica of Santa Croce in Florence is one of the earliest and most significant products of Giotto di Bondone’s late phase in the city, embodying the complex interplay of Franciscan spirituality, civic prestige, and private devotion that characterized early fourteenth‑century Florentine art. Commissioned by the Peruzzi family, a powerful banking dynasty, it was conceived as a family memorial chapel dedicated to the two saints, John the Baptist and the Evangelist, whose dual patronage reflects both the name of the primary patron and the overarching devotional and civic identity of Florence. The chapel’s construction was made possible by the wealthy banker *Donato di Arnoldo Peruzzi*, who provided funds in his will of 1299 to establish a family memorial chapel within the basilica. The pictorial decoration by Giotto, probably executed around 1318–1322, appears to have been commissioned by a later generation of the family, with scholars often attributing the fresco commission to *Giovanni di Rinieri Peruzzi*, grandson of Donato.

@@ -26,13 +26,13 @@ keywords:
   - "Angelo Tartuferi"
 related_entries:
   - title: "Maestro della Croce 434"
-    url: "/Content/Artists/XIII%20century/Maestro-della-Croce-434.html"
+    url: "/Content/Artists/XIII-c/Maestro-della-Croce-434.html"
   - title: "San Domenico Crucifix"
     url: "/Content/Papers/San-Domenico-Crucifix.html"
   - title: "Giunta Pisano"
-    url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+    url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
   - title: "Cimabue"
-    url: "/Content/Artists/XIII%20century/Cimabue.html"
+    url: "/Content/Artists/XIII-c/Cimabue.html"
 dates: "c. 1230-1260; restored 1952; attribution consolidated 1977-1990"
 
 meta:
@@ -94,7 +94,7 @@ meta:
   - title: RELATED ENTRIES
     links:
       - title: "Maestro della Croce 434"
-        url: "/Content/Artists/XIII%20century/Maestro-della-Croce-434.html"
+        url: "/Content/Artists/XIII-c/Maestro-della-Croce-434.html"
       - title: "Luciano Bellosi"
         url: "/scholars.html#bellosi-luciano"
       - title: "Ugo Procacci"

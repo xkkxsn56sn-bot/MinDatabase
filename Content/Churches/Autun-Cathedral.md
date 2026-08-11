@@ -74,7 +74,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "Giselbertus"
-        url: "/Content/Artists/XI%20century/Giselbertus.html"
+        url: "/Content/Artists/XI-c/Giselbertus.html"
       - title: "Godefroid de Claire"
       - title: "Helmarshausen Abbey"
         url: "/Content/Churches/Helmarshausen-Abbey.html"

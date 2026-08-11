@@ -149,7 +149,7 @@ meta:
   - title: "Related Entries"
     links:
       - title: "Maestro di Castelseprio"
-        url: "/Content/Artists/VII%20century/Maestro%20di%20Castelseprio.html"
+        url: "/Content/Artists/VII-c/Maestro%20di%20Castelseprio.html"
       - title: "Oratory of San Pellegrino in Bominaco"
         url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
       - title: "Saint Savin sur Gartempe Abbey"

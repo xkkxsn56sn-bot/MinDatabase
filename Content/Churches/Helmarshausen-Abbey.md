@@ -71,7 +71,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "Roger di Helmarshausen"
-        url: "/Content/Artists/XI%20century/Roger%20di%20Helmarshausen.html"
+        url: "/Content/Artists/XI-c/Roger%20di%20Helmarshausen.html"
       - title: "Lindisfarne Gospels"
         url: "/Content/Codex/Lindisfarne%20Gospels.html"
       - title: "Morgan Beatus"

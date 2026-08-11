@@ -33,7 +33,7 @@ related_entries:
   - title: "Cappella Palatina"
     url: "/Content/Churches/Cappella-Palatina.html"
   - title: "Hildegard von Bingen"
-    url: "/Content/Artists/XII%20century/Hildegard-von-Bingen.html"
+    url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
 
 meta:
   - title: "SUBJECT"

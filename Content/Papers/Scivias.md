@@ -27,7 +27,7 @@ keywords:
   - "Interdisciplinary medieval studies"
 related_entries:
   - title: "Hildegard von Bingen"
-    url: "/Content/Artists/XII%20century/Hildegard-von-Bingen.html"
+    url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
   - title: "Scivias of Hildegard of Bingen"
     url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
   - title: "Liber Divinorum Operum"
@@ -87,7 +87,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Hildegard von Bingen"
-        url: "/Content/Artists/XII%20century/Hildegard-von-Bingen.html"
+        url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
       - title: "Scivias of Hildegard of Bingen"
         url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
       - title: "Liber Divinorum Operum"
