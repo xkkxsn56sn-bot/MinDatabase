@@ -74,11 +74,11 @@ meta:
   - title: Related Artists
     links:
       - title: Cimabue
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: Coppo di Marcovaldo
-        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
+        url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: Gaddo Gaddi
-        url: "/Content/Artists/XIII%20century/Gaddo-Gaddi.html"
+        url: "/Content/Artists/XIII-c/Gaddo-Gaddi.html"
       - title: Buonamico Buffalmacco
         url:
 

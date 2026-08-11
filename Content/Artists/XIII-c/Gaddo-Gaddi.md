@@ -82,16 +82,16 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
+        url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: "Andrea Tafi"
-        url: "/Content/Artists/XIII%20century/Andrea-Tafi.html"
+        url: "/Content/Artists/XIII-c/Andrea-Tafi.html"
       - title: "Jacopo Torriti"
-        url: "/Content/Artists/XIII%20century/Jacopo-Torriti.html"
+        url: "/Content/Artists/XIII-c/Jacopo-Torriti.html"
       - title: "Taddeo Gaddi"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
+        url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
 
 scholars:
   - title: "Giorgio Vasari"

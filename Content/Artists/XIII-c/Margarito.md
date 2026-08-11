@@ -64,11 +64,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
+        url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
       - title: "Andrea Tafi"
-        url: "/Content/Artists/XIII%20century/Andrea-Tafi.html"
+        url: "/Content/Artists/XIII-c/Andrea-Tafi.html"
 ---
 
 Margarito d'Arezzo, more commonly called Margaritone in early modern historiography, was an Aretine painter whose documented activity falls broadly between about 1250 and 1290 within the Italo-Byzantine current of central Italian art.

@@ -117,9 +117,9 @@ meta:
       - title: "Spoleto Cathedral"
         url: "/Content/Churches/Spoleto-Cathedral.html"
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
+        url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
       - title: "Maestro della Croce del Santo Sepolcro"
-        url: "/Content/Artists/XII%20century/Maestro-della-Croce-del-Santo-Sepolcro.html"
+        url: "/Content/Artists/XII-c/Maestro-della-Croce-del-Santo-Sepolcro.html"
 
 scholars:
   - title: "Parlato, Enrico"

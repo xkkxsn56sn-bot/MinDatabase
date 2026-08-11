@@ -104,11 +104,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Godescalc"
-        url: "/Content/Artists/VIII%20century/Godescalc.html"
+        url: "/Content/Artists/VIII-c/Godescalc.html"
       - title: "Rhabanus Maurus"
-        url: "/Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+        url: "/Content/Artists/VIII-c/Rhabanus%20Maurus.html"
       - title: "Brun Candidus of Fulda"
-        url: "/Content/Artists/IX%20century/Brun%20Candidus%20of%20Fulda.html"
+        url: "/Content/Artists/IX-c/Brun%20Candidus%20of%20Fulda.html"
       - title: "Godescalc Evangelistary"
         url: "/Content/Codex/Godescalc%20Evangelistary.html"
 

@@ -64,13 +64,13 @@ meta:
   - title: Related Artists
     links:
       - title: Cimabue
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: Giunta Pisano
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: Duccio di Buoninsegna
-        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
+        url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
       - title: Bonaventura Berlinghieri
-        url: "/Content/Artists/XIII%20century/Bonaventura-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
 
 author: "Coppo di Marcovaldo"
 period: "XIII century"

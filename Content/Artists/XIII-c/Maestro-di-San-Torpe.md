@@ -96,15 +96,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
+        url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
+        url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII%20century/Simone-Martini.html"
+        url: "/Content/Artists/XIII-c/Simone-Martini.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
 
 scholars:
   - title: "Sandberg Vavalà, Evelyn"

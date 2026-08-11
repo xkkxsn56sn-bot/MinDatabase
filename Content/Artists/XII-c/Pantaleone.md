@@ -132,11 +132,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Alberto Sozio"
-        url: "/Content/Artists/XII%20century/Alberto%20Sozio.html"
+        url: "/Content/Artists/XII-c/Alberto%20Sozio.html"
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
+        url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
+        url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
 ---
 
 *Pantaleone* was a 12th-century presbitero (priest) and mosaicist active in the region of Apulia, specifically in Otranto, during the Norman period of Southern Italy. The only certain biographical information derives from four inscriptions within the mosaic pavement of the Cathedral of Santa Maria Annunziata in Otranto, which identify him as "Pantaleonis presbiteri" and date his work to the period between 1163 and 1165. The name Pantaleone itself suggests Greek or Byzantine origins, a designation common in the cultural melting pot of medieval Apulia where Greek, Latin, Norman, and Byzantine traditions intersected. His designation as *presbyter* in contemporary Latin usage could indicate he was either an ordained priest, a cleric in minor orders, or more likely a learned monk, as scholarly consensus suggests. 

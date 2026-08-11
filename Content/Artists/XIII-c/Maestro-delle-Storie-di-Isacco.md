@@ -69,9 +69,9 @@ meta:
   - title: Related Entries
     links:
       - title: Cimabue
-        url: /Content/Artists/XIII%20century/Cimabue.html
+        url: /Content/Artists/XIII-c/Cimabue.html
       - title: Pietro Cavallini
-        url: /Content/Artists/XIII%20century/Pietro-Cavallini.html
+        url: /Content/Artists/XIII-c/Pietro-Cavallini.html
 scholars:
   - title: Offner, Richard
     url: /scholars.html#offner-richard

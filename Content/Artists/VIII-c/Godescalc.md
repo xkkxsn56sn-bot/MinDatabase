@@ -95,9 +95,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Dagulf"
-        url: "/Content/Artists/VIII%20century/Dagulf.html"
+        url: "/Content/Artists/VIII-c/Dagulf.html"
       - title: "Rhabanus Maurus"
-        url: "/Content/Artists/VIII%20century/Rhabanus-Maurus.html"
+        url: "/Content/Artists/VIII-c/Rhabanus-Maurus.html"
       - title: "Godescalc Evangelistary"
         url: "/Content/Codex/Godescalc-Evangelistary.html"
 

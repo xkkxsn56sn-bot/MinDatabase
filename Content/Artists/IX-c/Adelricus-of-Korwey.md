@@ -99,9 +99,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Brun Candidus of Fulda"
-        url: "/Content/Artists/IX%20century/Brun-Candidus-of-Fulda.html"
+        url: "/Content/Artists/IX-c/Brun-Candidus-of-Fulda.html"
       - title: "Rhabanus Maurus"
-        url: "/Content/Artists/VIII%20century/Rhabanus-Maurus.html"
+        url: "/Content/Artists/VIII-c/Rhabanus-Maurus.html"
       - title: "Fulda Abbey"
         url: "/Content/Churches/Fulda-Abbey.html"
 

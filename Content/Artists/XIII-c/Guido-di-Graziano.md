@@ -80,17 +80,17 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Guido da Siena"
-        url: "/Content/Artists/XIII%20century/Guido-da-Siena.html"
+        url: "/Content/Artists/XIII-c/Guido-da-Siena.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
+        url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
       - title: "Meo di Graziano"
       - title: "Guarnerio di Graziano"
       - title: "Dietisalvi di Speme"
-        url: "/Content/Artists/XIII%20century/Dietisalvi-di-Speme.html"
+        url: "/Content/Artists/XIII-c/Dietisalvi-di-Speme.html"
       - title: "Rinaldo da Siena"
-        url: "/Content/Artists/XIII%20century/Rinaldo-da-Siena.html"
+        url: "/Content/Artists/XIII-c/Rinaldo-da-Siena.html"
 
 scholars:
   - title: "Luciano Bellosi"

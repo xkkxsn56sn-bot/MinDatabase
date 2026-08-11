@@ -128,11 +128,11 @@ meta:
       - title: "Santa Maria foris portas"
         url: "/Content/Churches/Santa-Maria-foris-portas.html"
       - title: "Maestro di Rosano"
-        url: "/Content/Artists/XII%20century/Maestro-di-Rosano.html"
+        url: "/Content/Artists/XII-c/Maestro-di-Rosano.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
+        url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
 
 scholars:
   - title: "Schapiro, Meyer"

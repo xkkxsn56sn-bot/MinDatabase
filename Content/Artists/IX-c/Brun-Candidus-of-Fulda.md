@@ -105,11 +105,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Rhabanus Maurus"
-        url: "/Content/Artists/VIII%20century/Rhabanus%20Maurus.html"
+        url: "/Content/Artists/VIII-c/Rhabanus%20Maurus.html"
       - title: "Dagulf"
-        url: "/Content/Artists/VIII%20century/Dagulf.html"
+        url: "/Content/Artists/VIII-c/Dagulf.html"
       - title: "Godescalc"
-        url: "/Content/Artists/VIII%20century/Godescalc.html"
+        url: "/Content/Artists/VIII-c/Godescalc.html"
       - title: "Fulda Abbey"
         url: "/Content/Churches/Fulda-Abbey.html"
 ---

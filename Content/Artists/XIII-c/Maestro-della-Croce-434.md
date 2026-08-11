@@ -63,15 +63,15 @@ meta:
   - title: Related Artists
     links:
       - title: Berlinghiero Berlinghieri
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: Bonaventura Berlinghieri
-        url: "/Content/Artists/XIII%20century/Bonaventura-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
       - title: Coppo di Marcovaldo
-        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
+        url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: Giunta Pisano
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: Cimabue
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
 
 author: "Maestro della Croce 434"
 period: "XIII century"

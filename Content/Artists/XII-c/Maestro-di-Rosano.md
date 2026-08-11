@@ -74,11 +74,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
+        url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: "Bonaventura Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Bonaventura-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
 ---
 
 The artist known to modern scholarship as the *Maestro di Rosano* stands as one of the most enigmatic and historically significant figures in the panorama of early medieval Italian panel painting. He is identified solely through his masterwork — the *Croce dipinta con storie della Passione* preserved in the Benedictine monastery of Santa Maria a Rosano, near Rignano sull'Arno in the province of Florence — a work that predates the famous Cross of Sarzana by several years and thus occupies a foundational position in the evolution of Tuscan Romanesque pictorial art.

@@ -79,11 +79,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: "Barone Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Barone-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Barone-Berlinghieri.html"
       - title: "Marco Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Marco-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
 
 scholars:
   - title: "Mario Salmi"

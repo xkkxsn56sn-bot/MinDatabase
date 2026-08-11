@@ -95,11 +95,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro dei Mesi"
-        url: "/Content/Artists/XIII%20century/Maestro-dei-Mesi.html"
+        url: "/Content/Artists/XIII-c/Maestro-dei-Mesi.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
+        url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
       - title: "Wiligelmo"
-        url: "/Content/Artists/XI%20century/Wiligelmo.html"
+        url: "/Content/Artists/XI-c/Wiligelmo.html"
 
 scholars:
   - title: "Willibald Sauerlander"

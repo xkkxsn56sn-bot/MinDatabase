@@ -116,17 +116,17 @@ meta:
   - title: Related entries
     links:
       - title: "Enrico di Tedice"
-        url: "/Content/Artists/XIII%20century/Enrico-di-Tedice.md"
+        url: "/Content/Artists/XIII-c/Enrico-di-Tedice.md"
       - title: "Ranieri di Ugolino"
-        url: "/Content/Artists/XIII%20century/Ranieri-di-Ugolino.md"
+        url: "/Content/Artists/XIII-c/Ranieri-di-Ugolino.md"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.md"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.md"
       - title: "Master of San Martino"
-        url: "/Content/Artists/XIII%20century/Maestro-di-San-Martino.md"
+        url: "/Content/Artists/XIII-c/Maestro-di-San-Martino.md"
       - title: "Third Master of Anagni"
-        url: "/Content/Artists/XIII%20century/Terzo-Maestro-di-Anagni.md"
+        url: "/Content/Artists/XIII-c/Terzo-Maestro-di-Anagni.md"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.md"
+        url: "/Content/Artists/XIII-c/Cimabue.md"
 
 author: "Ugolino di Tedice"
 role: "Pisan panel painter, leading figure of the mid‑Duecento Pisan school"

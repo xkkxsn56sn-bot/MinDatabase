@@ -81,17 +81,17 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII%20century/Giotto-di-Bondone.html"
+        url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Guido da Siena"
-        url: "/Content/Artists/XIII%20century/Guido-da-Siena.html"
+        url: "/Content/Artists/XIII-c/Guido-da-Siena.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
+        url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII%20century/Simone-Martini.html"
+        url: "/Content/Artists/XIII-c/Simone-Martini.html"
       - title: "Ugolino di Nerio"
-        url: "/Content/Artists/XIV%20century/Ugolino-di-Nerio.html"
+        url: "/Content/Artists/XIV-c/Ugolino-di-Nerio.html"
 
 scholars:
   - title: "Richard Offner"

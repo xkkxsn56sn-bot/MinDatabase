@@ -87,11 +87,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: "Maestro dei Crocifissi francescani"
-        url: "/Content/Artists/XIII%20century/Maestro-dei-Crocifissi-francescani.html"
+        url: "/Content/Artists/XIII-c/Maestro-dei-Crocifissi-francescani.html"
       - title: "Margarito"
-        url: "/Content/Artists/XIII%20century/Margarito.html"
+        url: "/Content/Artists/XIII-c/Margarito.html"
 
 scholars:
   - title: "Cuppini, Luciano"

@@ -158,13 +158,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Wiligelmo"
-        url: "/Content/Artists/XI%20century/Wiligelmo.html"
+        url: "/Content/Artists/XI-c/Wiligelmo.html"
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
+        url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
       - title: "Benedetto Antelami"
-        url: "/Content/Artists/XII%20century/Benedetto-Antelami.html"
+        url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
       - title: "Anselmo da Campione"
-        url: "/Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
 
 scholars:
   - title: "Zimmermann, Max Georg"

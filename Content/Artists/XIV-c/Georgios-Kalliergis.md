@@ -92,11 +92,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
+        url: "/Content/Artists/XIII-c/Pietro-Cavallini.html"
       - title: "Duccio di Buoninsegna"
-        url: "/Content/Artists/XIII%20century/Duccio-di-Buoninsegna.html"
+        url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
 
 scholars:
   - title: "Stylianos Pelekanidis"

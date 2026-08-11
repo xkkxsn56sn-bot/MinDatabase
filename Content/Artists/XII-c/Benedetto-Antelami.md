@@ -155,13 +155,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro dei Mesi"
-        url: "/Content/Artists/XIII%20century/Maestro-dei-Mesi.html"
+        url: "/Content/Artists/XIII-c/Maestro-dei-Mesi.html"
       - title: "Anselmo da Campione"
-        url: "/Content/Artists/XII%20century/Anselmo%20da%20Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
       - title: "Nicola Pisano"
-        url: "/Content/Artists/XIII%20century/Nicola-Pisano.html"
+        url: "/Content/Artists/XIII-c/Nicola-Pisano.html"
       - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII%20century/Maestro-Guglielmo.html"
+        url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
 ---
 
 *Benedetto Antelami*, born around 1150 in Val d’Intelvi, in the Lombard pre‑Alps, is one of the most important Italian sculptors and architects of the late twelfth and early thirteenth centuries, active primarily in Emilia‑Romagna and the wider Po valley. He died around 1230 in Parma, probably in the same city that hosted his most celebrated projects and became the center of his long artistic career. His work stands at the threshold between a mature Romanesque idiom and the first incursions of a proto‑Gothic language, and he is traditionally grouped with Nicola Pisano as a foundational figure in the renewal of Italian monumental sculpture.

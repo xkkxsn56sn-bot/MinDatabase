@@ -70,13 +70,13 @@ meta:
   - title: Related Entries
     links:
       - title: "Grifo di Tancredi"
-        url: "/Content/Artists/XIII%20century/Grifo-di-Tancredi.html"
+        url: "/Content/Artists/XIII-c/Grifo-di-Tancredi.html"
       - title: "Maestro della Maddalena"
-        url: "/Content/Artists/XIII%20century/Maestro-della-Maddalena.html"
+        url: "/Content/Artists/XIII-c/Maestro-della-Maddalena.html"
       - title: "Coppo di Marcovaldo"
-        url: "/Content/Artists/XIII%20century/Coppo-di-Marcovaldo.html"
+        url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Boskovits, Miklos"
         url: "/scholars.html#boskovits-miklos"
 

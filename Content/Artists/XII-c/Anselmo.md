@@ -70,7 +70,7 @@ meta:
   - title: Related Entries
     links:
       - title: Anselmo da Campione
-        url: "/Content/Artists/XII%20century/Anselmo-da-Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
 
 scholars:
   - title: Maria Teresa Binaghi Olivari

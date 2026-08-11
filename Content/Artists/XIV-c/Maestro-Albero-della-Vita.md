@@ -86,7 +86,7 @@ meta:
       - title: "Bonaventure of Bagnoregio — Lignum Vitae"
         url: ""
       - title: "Pacino di Bonaguida — Tree of Life panel, Accademia, Florence"
-        url: "/Content/Artists/XIV century/Pacino di Bonaguida"
+        url: "/Content/Artists/XIV-c/Pacino di Bonaguida"
 ---
 
 ## Biographical frame

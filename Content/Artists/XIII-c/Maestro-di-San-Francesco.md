@@ -82,11 +82,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII%20century/Pietro-Cavallini.html"
+        url: "/Content/Artists/XIII-c/Pietro-Cavallini.html"
 
 scholars:
   - title: "Thode, Heinrich"

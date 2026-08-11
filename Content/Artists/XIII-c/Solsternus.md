@@ -63,7 +63,7 @@ meta:
       - title: "Spoleto Cathedral (Santa Maria Assunta)"
         url: "/Content/Churches/Spoleto-Cathedral.md"
       - title: "Alberto Sotio"
-        url: "/Content/Artists/XII%20century/Alberto%20Sotio.md"
+        url: "/Content/Artists/XII-c/Alberto%20Sotio.md"
       - title: "Byzantine mosaic traditions in Italy"
         url: "/Content/Topics/Byzantine%20mosaic%20traditions%20in%20Italy.md"
       - title: "Deesis iconography"

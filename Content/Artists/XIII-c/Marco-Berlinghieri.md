@@ -76,15 +76,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: "Bonaventura Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Bonaventura-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
       - title: "Barone Berlinghieri"
-        url: "/Content/Artists/XIII%20century/Barone-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Barone-Berlinghieri.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.html"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
 
 scholars:
   - title: "Mario Salmi"

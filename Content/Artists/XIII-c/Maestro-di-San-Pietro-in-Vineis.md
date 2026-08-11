@@ -99,15 +99,15 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Terzo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Terzo-Maestro-di-Anagni.md"
+        url: "/Content/Artists/XIII-c/Terzo-Maestro-di-Anagni.md"
       - title: "Primo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Primo-Maestro-di-Anagni.md"
+        url: "/Content/Artists/XIII-c/Primo-Maestro-di-Anagni.md"
       - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII%20century/Secondo-Maestro-di-Anagni.md"
+        url: "/Content/Artists/XIII-c/Secondo-Maestro-di-Anagni.md"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.md"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.md"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII%20century/Cimabue.md"
+        url: "/Content/Artists/XIII-c/Cimabue.md"
 
 scholars:
   - title: "Pietro Toesca"

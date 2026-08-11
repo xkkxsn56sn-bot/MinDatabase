@@ -169,11 +169,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII%20century/Giunta-Pisano.html"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII%20century/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
       - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII%20century/Maestro-della-Croce-432.html"
+        url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
 
 scholars:
   - title: "Boskovitz Miklos"
