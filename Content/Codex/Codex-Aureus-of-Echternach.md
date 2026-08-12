@@ -519,7 +519,7 @@ Two observations seem worth pursuing. First, the presence of an extended parable
 
 ### Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard
 
-figure>
+<figure>
   <img src="/Images/Codex-Aureus-of-Echternach/echternach-17.jpg" alt="Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard">
   <figcaption>Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 77r.</figcaption>
 </figure>
