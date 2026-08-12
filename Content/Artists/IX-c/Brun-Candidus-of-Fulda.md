@@ -105,7 +105,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Rhabanus Maurus"
-        url: "/Content/Artists/VIII-c/Rhabanus%20Maurus.html"
+        url: "/Content/Artists/VIII-c/Rhabanus-Maurus.html"
       - title: "Dagulf"
         url: "/Content/Artists/VIII-c/Dagulf.html"
       - title: "Godescalc"

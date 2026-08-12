@@ -81,7 +81,7 @@ meta:
   - title: "Related Entries"
     links:
       - title: "Lindisfarne Gospels"
-        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
       - title: "Book of Durrow"

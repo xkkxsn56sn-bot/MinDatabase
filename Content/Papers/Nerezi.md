@@ -27,7 +27,7 @@ keywords:
   - "Byzantine influence on Italy"
 related_entries:
   - title: "Scivias - Interdisciplinary Examination"
-    url: "/Content/Papers/Scivias-Interdisciplinary%20Examination.html"
+    url: "/Content/Papers/Scivias.html"
   - title: "Oratorio di San Pellegrino, Bominaco"
     url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
   - title: "Cappella Palatina"
@@ -94,13 +94,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Scivias - Interdisciplinary Examination"
-        url: "/Content/Papers/Scivias-Interdisciplinary%20Examination.html"
+        url: "/Content/Papers/Scivias.html"
       - title: "Oratorio di San Pellegrino, Bominaco"
         url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
       - title: "Cappella Palatina"
         url: "/Content/Churches/Cappella-Palatina.html"
-      - title: "Saint Michael Altarpiece"
-        url: "/Content/Papers/Saint%20Michael%20Altarpiece.html"
 
 scholars:
   - title: "Sinkevic, Ida"

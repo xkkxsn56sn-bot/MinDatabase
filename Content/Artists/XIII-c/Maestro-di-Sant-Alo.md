@@ -81,9 +81,9 @@ meta:
       - title: "Deodato Orlandi"
         url: "/Content/Artists/XIII-c/Deodato-Orlandi.html"
       - title: "Francesco Traini"
-        url: "/Content/Artists/XIV-c/Francesco%20Traini.html"
+        url: "/Content/Artists/XIV-c/Francesco-Traini.html"
       - title: "Maestro di San Torpè"
-        url: "/Content/Artists/XIII-c/Maestro%20di%20San%20Torpe.html"
+        url: "/Content/Artists/XIII-c/Maestro-di-San-Torpe.html"
       - title: "Maestro di San Pietro in Vineis"
         url: "/Content/Artists/XIII-c/Maestro-di-San-Pietro-in-Vineis.html"
 

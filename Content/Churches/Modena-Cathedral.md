@@ -85,7 +85,7 @@ thematic_keywords:
 
 related_entries:
   - title: "Anselmo da Campione"
-    url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
+    url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
   - title: "Benedetto Antelami"
     url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
   - title: "Maestro dei Mesi"
@@ -177,7 +177,7 @@ meta:
   - title: "Related entries"
     links:
       - title: "Anselmo da Campione"
-        url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
       - title: "Benedetto Antelami"
         url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
       - title: "Maestro dei Mesi"

@@ -157,7 +157,7 @@ meta:
       - title: "Maestro dei Mesi"
         url: "/Content/Artists/XIII-c/Maestro-dei-Mesi.html"
       - title: "Anselmo da Campione"
-        url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
       - title: "Nicola Pisano"
         url: "/Content/Artists/XIII-c/Nicola-Pisano.html"
       - title: "Maestro Guglielmo"

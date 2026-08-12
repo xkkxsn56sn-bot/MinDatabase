@@ -55,7 +55,7 @@ related_entries:
   - title: "Book of Kells"
     url: "/Content/Codex/Book-of-Kells.html"
   - title: "Codex Aureus of Echternach"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+    url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
   - title: "Codex Aureus of Saint Emmeram"
     url: "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
 
@@ -111,7 +111,7 @@ meta:
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
       - title: "Codex Aureus of Echternach"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+        url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
       - title: "Codex Aureus of Saint Emmeram"
         url: "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
 ---

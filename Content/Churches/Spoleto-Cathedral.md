@@ -86,7 +86,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Alberto Sozio"
-        url: "/Content/Artists/XII-c/Alberto%20Sozio.html"
+        url: "/Content/Artists/XII-c/Alberto-Sozio.html"
       - title: "Solsternus"
         url: "/Content/Artists/XIII-c/Solsternus.html"
       - title: "Oratory of San Pellegrino in Bominaco"

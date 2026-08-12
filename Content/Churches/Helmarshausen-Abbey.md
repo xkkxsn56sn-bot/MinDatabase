@@ -71,13 +71,13 @@ meta:
   - title: "Related entries"
     links:
       - title: "Roger di Helmarshausen"
-        url: "/Content/Artists/XI-c/Roger%20di%20Helmarshausen.html"
+        url: "/Content/Artists/XI-c/Roger-di-Helmarshausen.html"
       - title: "Lindisfarne Gospels"
-        url: "/Content/Codex/Lindisfarne%20Gospels.html"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
       - title: "Morgan Beatus"
         url: "/Content/Codex/Morgan-Beatus.html"
       - title: "Godescalc Evangelistary"
-        url: "/Content/Codex/Godescalc%20Evangelistary.html"
+        url: "/Content/Codex/Godescalc-Evangelistary.html"
       - title: "Fulda Abbey"
         url: "/Content/Churches/Fulda-Abbey.html"
 

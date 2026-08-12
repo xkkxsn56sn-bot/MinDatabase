@@ -25,6 +25,12 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
    solo per link da altre schede, quindi una scheda non linkata da nessuno
    è di fatto irraggiungibile.
 
+7. Ogni link a /Content/...html scritto dentro un .md punta a una pagina
+   esistente. Il check 2 copre solo gli href degli indici JSON; questo copre
+   i link contestuali nelle schede — blocchi "related artists", rimandi in
+   prosa, campi url: nel frontmatter — che sono la maggioranza dei link del
+   sito.
+
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
 
@@ -113,6 +119,35 @@ def path_key(p):
     resolve_existing_path avviene iterando su un set non ordinato).
     """
     return unicodedata.normalize("NFC", str(p))
+
+
+def check_md_outgoing_links(md_files, anomalies):
+    """Verifica che i link a /Content/...html dentro i .md abbiano un bersaglio reale.
+
+    Il check sugli href dei JSON copre gli indici; questo copre i link
+    contestuali scritti nelle schede (blocchi 'related artists', rimandi in
+    prosa, frontmatter). Sono la maggioranza dei link del sito e finora
+    nessuno li verificava.
+    """
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+
+        rel_src = md_path.relative_to(REPO_ROOT)
+        seen = set()
+
+        for href in LINK_RE.findall(text):
+            if href in seen:
+                continue
+            seen.add(href)
+
+            rel_target = href_to_rel_path(href)
+            if resolve_existing_path(rel_target) is None:
+                anomalies["Link interno a pagina inesistente"].append(
+                    f"{rel_src}: '{href}' -> {rel_target} non trovato"
+                )
 
 
 def it_sort_key(s):
@@ -328,6 +363,8 @@ def main():
         rel = str(p.relative_to(REPO_ROOT))
         if not linked_from.get(path_key(p.resolve())):
             anomalies["Scheda in Saints/ non linkata da nessun'altra scheda"].append(rel)
+
+    check_md_outgoing_links(all_md, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())

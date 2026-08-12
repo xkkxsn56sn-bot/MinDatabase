@@ -31,8 +31,6 @@ related_entries:
     url: "/Content/Artists/XIII-c/Cimabue.html"
   - title: "The Bandini Crucifix"
     url: "/Content/Papers/The-Bandini-Crucifix.html"
-  - title: "Saint Michael Altarpiece"
-    url: "/Content/Papers/Saint%20Michael%20Altarpiece.html"
 
 meta:
   - title: "SUBJECT"

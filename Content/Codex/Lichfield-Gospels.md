@@ -70,11 +70,11 @@ thematic_keywords:
 
 related_entries:
   - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne%20Gospels.html"
+    url: "/Content/Codex/Lindisfarne-Gospels.html"
   - title: "Book of Kells"
     url: "/Content/Codex/Book-of-Kells.html"
   - title: "Eadfrith of Lindisfarne"
-    url: "/Content/Artists/VII-c/Eadfrith%20di%20Lindisfarne.html"
+    url: "/Content/Artists/VII-c/Eadfrith-Lindisfarne.html"
 
 category: "codex"
 

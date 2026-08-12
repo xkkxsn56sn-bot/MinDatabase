@@ -45,7 +45,7 @@ related_entries:
   - title: "Codex Aureus of Lorsch"
     url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
   - title: "Codex Aureus of Echternach"
-    url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+    url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
   - title: "Lindau Gospels"
   - title: "Saint Emmeram’s Abbey, Regensburg"
 
@@ -104,7 +104,7 @@ meta:
       - title: "Codex Aureus of Lorsch"
         url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
       - title: "Codex Aureus of Echternach"
-        url: "/Content/Codex/Codex%20Aureus%20of%20Echternach.html"
+        url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
       - title: "Lindau Gospels"
       - title: "Saint Emmeram’s Abbey, Regensburg"
 ---

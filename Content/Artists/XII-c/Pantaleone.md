@@ -132,7 +132,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Alberto Sozio"
-        url: "/Content/Artists/XII-c/Alberto%20Sozio.html"
+        url: "/Content/Artists/XII-c/Alberto-Sozio.html"
       - title: "Maestro Guglielmo"
         url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
       - title: "Maestro della Croce 432"

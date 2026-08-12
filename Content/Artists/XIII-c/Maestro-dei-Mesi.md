@@ -155,7 +155,7 @@ meta:
       - title: "Benedetto Antelami"
         url: "/Content/Artists/XII-c/Benedetto-Antelami.html"
       - title: "Anselmo da Campione"
-        url: "/Content/Artists/XII-c/Anselmo%20da%20Campione.html"
+        url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
       - title: "Nicola Pisano"
         url: "/Content/Artists/XIII-c/Nicola-Pisano.html"
       - title: "Arnolfo di Cambio"
