@@ -85,7 +85,7 @@ One correction must be made at the outset, because it bears directly on how the 
 
 The Codex Aureus is a large-format parchment Gospel book. The most widely cited dimensions are approximately 446 × 310 mm (the English-language reference literature typically gives 446 × 310 mm; German and Italian descriptions give 445 × 310 mm), and the manuscript comprises 136 folios (leaves) of calfskin parchment (vellum). The facsimile literature describes the collation as seventeen quaternions (gatherings of four bifolia, i.e. eight leaves each), which yields 136 leaves and is consistent with the stated folio count. The parchment is of high quality and unusually white, a deliberate choice that sets off both the gold script and the passages of imperial purple.
 
-The manuscript's defining feature — and the source of its name — is its chrysography: the entire text is written in gold ink. A *chrysograph*, a book whose text is executed in gold, is a rare and enormously costly undertaking, and the Codex Aureus is among the most complete realisations of the type: not a few display pages but the whole of the four Gospels, together with the standard prefatory apparatus, is laid down in gold. The prefatory matter includes three prefaces by Jerome and the letter of Eusebius to Carpianus (the standard prologue to the canon tables), as is usual in medieval Gospel books, plus the short verse tituli carried by angels on the display pages.
+The manuscript's defining feature — and the source of its name — is its chrysography: the entire text is written in gold ink. A *chrysograph*, a book whose text is executed in gold, is a rare and enormously costly undertaking, and the Codex Aureus is among the most complete realisations of the type: not a few display pages but the whole of the four Gospels, together with the standard prefatory apparatus, is laid down in gold. The prefatory matter includes three prefaces by Jerome<a href="../../../endnotes.html#fn-jerome" class="footnote"><sup>2</sup></a> and the letter of Eusebius to Carpianus (the standard prologue to the canon tables), as is usual in medieval Gospel books, plus the short verse tituli carried by angels on the display pages.
 
 The script of the running text is a clear and disciplined Caroline (Carolingian) minuscule, the letters small, lively and precisely aligned; the facsimile commentary attributes the writing to at least two, and probably more, copyists whose hands can be distinguished. Headings, incipits and explicits are executed in display scripts — Roman square capitals (capitalis) with some uncial elements, and rustic capitals — and the book is furnished with gold interlace initials and versals in an uncial manner. The decorative apparatus is exceptionally dense. The GNM's own account speaks of "over 60 pictorial and ornamental pages" and "over 500 initials." The fuller breakdown given in the English reference literature and by the facsimile publisher runs: sixteen full-page miniatures; nine full-page initial pages; sixteen half-page initials; ten decorated canon-table pages; the evangelist portraits; the double "textile"/carpet pages; and 503 smaller initials in colours, gold and silver. Silver tones and imperial purple grounds heighten the effect of the gold.
 
@@ -94,7 +94,7 @@ As to state of preservation and material history, the manuscript block is in goo
 ## The treasure binding (Buchdeckel)
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 1.jpg" alt="The treasure binding (Buchdeckel)">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-01.jpg" alt="The treasure binding (Buchdeckel)">
   <figcaption>The treasure binding (Buchdeckel), Nurenberg, Germanisches National Museum, Hs. 156142.</figcaption>
 </figure>
 
@@ -150,12 +150,12 @@ The **evangelist portraits** and the **Maiestas Domini** descend, via the Trier 
 
 The **canon tables** (ten decorated pages) present the Eusebian apparatus — the system of numbered concordances allowing a reader to find parallel passages across the four Gospels — within columned and arched frames of an antique architectural type, ornamented with geometric and acanthus borders. Their derivation from Late Antique models is one strand of the larger argument (see §6) that the Echternach programme reaches back, through its Trier and Byzantine intermediaries, to Early Christian and Late Antique picture sources.
 
-## Folios
+## Folios (2v-20v)
 
 ### Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 2.jpg" alt="Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-02.jpg" alt="Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets">
   <figcaption>Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 2v.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ The page constructs a fourfold-by-fourfold concordance. The tetramorph derives u
 ### Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 3.jpg" alt="Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-03.jpg" alt="Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues">
   <figcaption>Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 3r.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ The choice of the *cardinal* rather than the theological virtues is worth noting
 ### Incipit Page to the Preface of St Jerome
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 4.jpg" alt="Incipit Page to the Preface of St Jerome">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-04.jpg" alt="Incipit Page to the Preface of St Jerome">
   <figcaption>Incipit Page to the Preface of St Jerome, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 3v.</figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ The design also demonstrates the Echternach workshop's characteristic strategy o
 ### Decorated Initial B opening Jerome's Letter to Pope Damasus
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 5.jpg" alt="Decorated Initial B opening Jerome's Letter to Pope Damasus">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-05.jpg" alt="Decorated Initial B opening Jerome's Letter to Pope Damasus">
   <figcaption>Decorated Initial B opening Jerome's Letter to Pope Damasus, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 4r.</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ More broadly, the four folios examined so far form a graduated approach to the G
 ### From Annunciation to Herod's Court: The Infancy Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 6.jpg" alt="From Annunciation to Herod's Court: The Infancy Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-06.jpg" alt="From Annunciation to Herod's Court: The Infancy Cycle">
   <figcaption>From Annunciation to Herod's Court: The Infancy Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 18v.</figcaption>
 </figure>
 
@@ -280,7 +280,7 @@ Stylistically the page exemplifies the mature Echternach manner: elongated figur
 ### Gifts, Dreams and Departures: The Magi Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 7.jpg" alt="Gifts, Dreams and Departures: The Magi Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-07.jpg" alt="Gifts, Dreams and Departures: The Magi Cycle">
   <figcaption>Gifts, Dreams and Departures: The Magi Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 19r.</figcaption>
 </figure>
 
@@ -303,7 +303,7 @@ The page displays the same idiom as the verso: elongated, small-headed figures w
 ### From the Angel's Command to the Jordan: Narrative Acceleration
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/image 8.jpg" alt="From the Angel's Command to the Jordan: Narrative Acceleration">
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-08.jpg" alt="From the Angel's Command to the Jordan: Narrative Acceleration">
   <figcaption>From the Angel's Command to the Jordan: Narrative Acceleration, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 19v.</figcaption>
 </figure>
 
@@ -323,6 +323,255 @@ Two scenes divided by a slender tower. At the left, Christ Among the Doctors: th
 
 The page is the most rhetorically varied of the opening. The painter modulates ground colour semantically — gold for the angelic apparition, blue for the massacre, rose for the Temple — and permits himself, in the Innocents, a density of overlapping bodies unmatched elsewhere in the cycle. The figures retain the Echternach idiom of small heads, elongated proportions and white-striated drapery, but the emotional register of the mothers, and the compressed disputation of the doctors, indicate an artist working comfortably beyond the repertory of hieratic frontality.
 
+### Hic … hic: Temptation, Calling and Table
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-09.jpg" alt="Hic … hic: Temptation, Calling and Table">
+  <figcaption>Hic … hic: Temptation, Calling and Table, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 20r.</figcaption>
+</figure>
+
+## Description
+
+With this folio the cycle has fully entered the public ministry. The tripartite scheme persists — three gold-framed registers divided by inscribed bands in blue capitals on burnished gold — but the narrative method shifts audibly: each register now accommodates two or three distinct moments, and the tituli have become explicitly deictic, marking off successive episodes with repeated *hic*. The page is, in effect, a diagram of continuous narration made articulate by its own captions.
+
+- Upper register
+
+The three Temptations (Matthew 4:1–11; Luke 4:1–13) are set out in sequence across a landscape of banded green, ochre and rose above, and lapis blue below. At the left, Christ, cross-nimbed and barefoot, raises his hand in refusal towards a winged, dark-bodied demon who presents a heap of stones; the demon is rendered in the Ottonian idiom of the tempter — nude, hirsute, taloned, with membranous wings and a bestial profile. At the centre, Christ stands upon the tiled roof of a low basilica-like structure, its arcaded façade and gilded flank denoting the pinnacle of the Temple, while the demon, now airborne beside him, gestures upward in the challenge to cast himself down. At the right, Christ dismisses the tempter with an outstretched hand; the demon recoils in flight above a flowering tree and a scattering of gold discs that represent the kingdoms of the world offered and refused. The titulus announces that Christ is tempted and the enemy thrice overcome — the numeral organising the register's rhythm.
+
+- Middle register
+
+The calling of the first four disciples, disposed as two paired scenes over a continuous sea of scalloped blue-green waves. At the left Christ, standing on the shore, extends his hand towards Peter and Andrew, who work a net from a curved-prowed boat; at the right he repeats the gesture towards James and John, seated in a second boat with their father Zebedee, the four heads compressed into a single overlapping cluster. The figures carry name-inscriptions in fine capitals above their heads. The titulus glosses the doubling precisely: here two brothers are taken by love of Christ; here two, called, leave both boat and father. The verse thus performs the same paired structure as the image — an unusually close coordination of text and design.
+
+- Lower register
+
+Two Matthaean episodes joined by a slender tower. At the left, the calling of Matthew: the evangelist, labelled by inscription and seated at a table on which coins and a balance are set, turns with open hands towards Christ, who approaches from the left holding a codex; a queue of figures waits behind him, and the apparatus of the *telonium* — scales, stacked coin, low counter — is described with unusual particularity. At the right, the meal in Matthew's house: Christ reclines with his disciples at a long white-draped table set with round loaves, fish and vessels, beneath a tiled roof and against a gilded ground, while figures crowd in at either end. The titulus is heavily abraded here; the fragments concerning gain, hope and the sinner are consistent with the standard exegesis of the passage — the tax-gatherer's profit exchanged for the sinner's hope — but the line should not be transcribed from reproduction.
+
+The painter exploits ground colour as a structural device with growing confidence: the banded sky of the Temptations, the flat sea of the calling, the gold and blue alternation of the lowest register. The compression of figures into overlapping clusters — the disciples in the second boat, the crowd at the tax booth — is by now a settled mannerism, and the demons demonstrate that the workshop commanded a fully developed vocabulary for the grotesque alongside its hieratic repertory. The *hic … hic* construction of the second titulus is worth flagging as evidence that the verses were composed with the completed page design in view, rather than adapted to it.
+
+### Carne Domini voce: The Evangelist Portrait of Matthew
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-10.jpg" alt="Carne Domini voce: The Evangelist Portrait of Matthew">
+  <figcaption>Carne Domini voce: The Evangelist Portrait of Matthew, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 20v.</figcaption>
+</figure>
+
+The folio marks a decisive change of register within the manuscript's visual economy. The narrative sequence of the preceding pages, with its three-tiered fields and continuous *hic … hic* captioning, gives way here to a single hieratic composition: the author portrait of Matthew, prefacing his Gospel. The shift from narrative to iconic mode is emphatic and evidently programmatic — the reader passes from the story of Christ's life to the person who authorises its telling.
+
+The miniature is enclosed within a broad ornamental border of gilded acanthus and palmette scrolls, disposed in alternating pink, blue, green and vermilion lobes against a gold ground, and bounded inside and out by gold fillets. Within this outer frame stands an architectural aedicula: two slender columns with painted shafts — one speckled, one patterned in fine sprigs — rising from moulded bases to composite capitals in blue and green, supporting a broad round arch decorated with a vine scroll on gold. Beyond the arch a schematic architecture of arcaded walls and towers closes the upper corners, a vestigial evocation of the Late Antique city backdrop transmitted through Carolingian intermediaries.
+
+In the tympanum, against a burnished gold ground, the winged man appears in half-length — the evangelist symbol of Matthew, here rendered not as a beast but as a haloed youth with pink-and-blue wings, holding an unfurled scroll extended horizontally along the base of the arch. The symbol occupies the position of celestial authority above, while the evangelist labours below: a vertical hierarchy of inspiration and execution that is standard in Ottonian author portraits but here articulated with unusual clarity by the intervening titulus band. That band, in gold capitals on a red ground, is among the best-preserved inscriptions in the codex and states that Matthew marks the flesh of the Lord by voice and by mouth — a compressed formulation of the traditional exegesis assigning to Matthew the human nature of Christ.
+
+Beneath, Matthew is seated on a cushioned bench with an orange draped backrest, his feet resting on a low footstool. He is bearded and white-haired, his head covered by a close-fitting cap, and turns in three-quarter profile towards a lectern at the right on which an open codex lies; his right hand rests on the page, his left steadies the volume, and an inkhorn and pen are set on the desk's edge. The drapery is the most accomplished passage on the folio: a heavy ochre-gold mantle falling in broad, deeply modelled folds over an under-tunic of pale blue and orange, articulated by gold striations and by the sharp angular breaks characteristic of the Echternach manner. Behind him, curtains of green patterned with gold rosettes are drawn back to either side and gathered at the columns, opening onto a ground divided into bands of blue and pale turquoise. Faint letters are visible on the open page, but they should not be read from reproduction.
+
+The page belongs to the most conservative stratum of the manuscript's imagery, deriving ultimately from Late Antique author portraits and mediated through Carolingian models of the kind available at Trier and Echternach. Its interest lies less in invention than in the calibration of luxury: the density of gold, the ornamental border, the architectural framing and the inscribed dedication together mark the opening of each Gospel as the codex's principal ceremonial threshold. Read against fols. 18v–20r, it also clarifies the structural logic of the book — narrative prefaces massed together, each Gospel then introduced by its evangelist in isolated majesty.
+
+## Folios (49v-54v)
+
+### MARCUS: The Monogram Incipit Page
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-11.jpg" alt="MARCUS: The Monogram Incipit Page">
+  <figcaption>MARCUS: The Monogram Incipit Page, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 49v.</figcaption>
+</figure>
+
+The folio belongs to a wholly different category of page from the narrative and iconic miniatures examined so far: it is a display page of pure letterforms, in which script itself becomes the sole ornamental subject. No figures, no architecture and no narrative content appear; the entire visual argument is carried by two lines of monumental gold capitals set against a field of purple.
+
+A rectangular panel occupies the upper half of the writing area, framed by a broad band of acanthus scroll in vermilion, rose, blue-grey and green on a gold ground — the same ornamental vocabulary as the evangelist frontispieces, here deployed without architectural pretext. Within this border, a plain gold fillet encloses the purple field. The purple is applied in narrow horizontal strips whose seams remain visible across the surface, an artefact of technique that is characteristically Ottonian and worth noting: the ground is built up in bands rather than laid as a single wash. Small tendril motifs in pale grey and orange are scattered sparsely across the empty purple, functioning as *lacunae*-fillers rather than as structural ornament.
+
+The composition is organised as a monogram above and a completing sequence below. The upper element is a large squared monogram set within a green-ground panel, in which the strokes of the letters are formed of broad gold bands filled with dense interlace and foliate scroll, reserved in red and pale lilac; the diagonal and vertical shafts are highlighted with white reserves that read as light striking the burnished surface. Beneath, separated by a wide expanse of bare purple, runs a second line of five letters — A R C U S — treated in the same manner, each letter serving as a compartment for its own independent interlace. Read together, monogram and line yield the name **MARCUS**, the initial M compressed into the monogrammatic square above and the remaining letters spelled out below.
+
+The page therefore introduces the second Gospel. Whether it opens the Gospel text proper or the prefatory material — the Monarchian prologue to Mark begins with the evangelist's name — cannot be determined from the image alone and must be checked against the codicological description; the position at fol. 49v, immediately preceding a page of continuous script visible at the gutter's right edge, is consistent with either.
+
+The page exemplifies the Ottonian conception of the incipit as ceremonial threshold. Gold on purple is deliberately imperial in association, evoking the *codices purpurei* of Late Antiquity and, through them, the visual language of chancery and court. The dissolution of the letterform into interlace — legible as script, yet requiring an effort of decipherment — belongs to a tradition ultimately Insular in origin but here regularised into a square, architectonic discipline entirely foreign to Insular practice. The generous emptiness of the purple field is itself a statement of luxury: parchment stained and gilded at this scale, then left largely bare, advertises expenditure as clearly as any figural miniature in the book.
+
+### Water into Wine, Leper into Whole: The Miracle Cycle
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-12.jpg" alt="Water into Wine, Leper into Whole: The Miracle Cycle">
+  <figcaption>Water into Wine, Leper into Whole: The Miracle Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 52v.</figcaption>
+</figure>
+
+The folio returns to the narrative mode established in the opening quires, but with a marked change of palette and setting: where the infancy pages were built on lapis and rose, the miniature cycle of the miracles unfolds against grounds of mineral green and pale mauve, and the surrounding margin is stained a deep, saturated purple rather than the soft rose of the earlier folios. The tripartite structure persists — three registers separated by inscribed bands in red capitals on burnished gold — and each register again accommodates two or three episodes disposed in continuous narration, without dividing frames.
+
+- Upper register
+
+The Marriage at Cana (John 2:1–11). At the left, beneath a tiled roof supported on a slender façade, the wedding party is seated at a long table set with dishes: the bride and the *architriclinus* are identified by inscriptions above their heads, and the steward is shown in the act of tasting from a shallow footed bowl brought to him by a servant who strides forward with a staff. At the right, separated by a tower, the miracle itself: two servants pour from amphorae into a row of six large stone jars, ranged along the groundline and rendered in banded ochre and green, while Christ approaches from the extreme right with his disciples, hand extended in the gesture of command. The Virgin stands at the centre-right, turning back towards her son with raised hands — the intercessory gesture that the Johannine text implies but does not describe. The titulus refers to water becoming wine, though the opening and closing words are abraded.
+
+- Middle register
+
+Three healings compressed into a single green field. At the left, the Cleansing of the Leper: Christ, followed by a dense cluster of disciples and by a further group of staff-bearing figures at the extreme left edge, bends forward to touch a bearded man whose bare torso and limbs are covered with the red spots that conventionally signify leprosy, and who leans on a stick; he is labelled LEPROSUS. At the centre, before an arcaded building, the Healing of the Centurion's Servant: Christ, again accompanied by disciples, turns towards a mantled figure with a staff — inscribed CENTURIO — who addresses him in the gesture of petition. At the right, the consequence of that exchange: the servant lies recumbent on a bed beneath a tiled roof, wrapped in an ochre coverlet, one hand raised. The juxtaposition of petition and result within a single unbroken field is a compact demonstration of the workshop's continuous-narrative technique.
+
+- Lower register
+
+Two further episodes against a green ground animated by stylised trees with mushroom-like canopies and red trunks. At the left, a healing of the blind: Christ, at the head of a crowd of disciples, extends his hand towards two seated figures, one of whom holds a staff and inclines his head to receive the touch.
+
+The two candidates episodes are:
+
+The blind man of Bethsaida (Mark 8:22–26), in which the man is led to Christ by companions and Christ lays hands on his eyes twice. The presence of a second, actively intervening figure fits this account unusually well. Bartimaeus at Jericho (Mark 10:46–52), where the blind man sits by the wayside and is summoned; here, however, the Gospel specifies no touch, and the second figure would be harder to explain. The bending figure in orange looks like a companion leading and presenting the blind man, so the Bethsaida episode is the stronger reading. One further piece of evidence. The titulus of this register, though badly abraded, appears to open with a sequence beginning AC LV… or AC LU…. If that resolves to lucem or lumen, it would confirm the subject as the restoration of sight and effectively settle the identification.
+
+The right-hand portion of the third register can be plausibly identified as the Canaanite Woman of Matthew 15:21–28, deployed in continuous narration across three moments.
+
+Two textual elements occupy the field. The first, set in short lines between the tree and the disciples, appears to preserve a nominal formula of the type MVLIER CHANANEA, with the initial ligature of *mulier* largely effaced and the terminal *-NA* of the ethnonym surviving; a third line remains unresolved and should not be pressed. The second is a longer sequence disposed vertically, one letter to the line, in the narrow interval before the turning figure of Christ. Its format — a column rather than a label — indicates a phrase rather than a caption, and most plausibly carries one of Christ's two utterances in the episode, or else a fragment of the register's *titulus* displaced into the painted field for want of space in the band above. This last practice occurs elsewhere in the codex and would account for the anomalous disposition.
+
+Read with these inscriptions, the composition resolves into a precise sequence:
+
+At the left, a woman in an ochre mantle bows steeply, her hands extended not towards the disciples. This is the intercession of verse 23, in which the disciples approach and entreat him on her behalf — a moment that Ottonian cycles rarely isolate, and whose presence here indicates a painter working from the Matthaean text rather than from a generic healing formula.
+
+At the centre, Christ opens **both hands** in a gesture of restraint or refusal, addressing the disciples rather than the woman. The gesture corresponds to verse 24, the declaration that he was sent only to the lost sheep of the house of Israel; the doubled open palm, distinct from the single extended hand of blessing used in the adjacent healings, is the painter's means of distinguishing speech of refusal from act of cure.
+
+At the right, Christ turns back against the direction of reading — the only figure on the folio to do so — and points downward with a single extended finger over a second woman, prostrate in red, her hands raised before her face. This is verse 28, the commendation of her faith and the granting of her request. The downward-pointing finger is the crucial detail: the daughter is absent from the composition because the healing occurs at a distance, and the gesture indicates the absent child rather than the woman before him.
+
+The doubling of Christ within a single unbroken field is the workshop's established marker of continuous narration, used identically for the Magi on fol. 19r and for the calling of the disciples on fol. 20r. What the Canaanite reading adds is a third moment rather than two, with the woman herself likewise doubled — approaching at the left, prostrate at the right — so that the register traces the full arc of petition, refusal and grant across a single green ground.
+
+*Chananea* is Matthaean usage; Mark 7:26 gives *Syrophoenissa*. If the reading holds, this register draws on Matthew on a folio which, by its position after the Marcan incipit at fol. 49v, might be expected to follow Mark. Taken together with the Johannine Marriage at Cana in the uppermost register, this suggests that the miracle cycle is **harmonised** rather than tied to the Gospel it introduces — a structural point of some consequence for how the picture cycles of this codex relate to its text.
+
+The page displays the mature Echternach manner in its most fluent narrative application: figures grouped into overlapping, wave-like masses whose contours carry the eye laterally across the register; drapery articulated by white and gold striations over green, ochre and vermilion; architecture reduced to signs of place rather than descriptions of space. Notable here is the painter's willingness to let the ground colour carry from one episode to the next without interruption, so that the boundaries between miracles are marked only by a tree, a tower, or a shift in the direction of gesture.
+
+### Hic sanatus abiit: Six Miracles and Three Distichs
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-13.jpg" alt="Hic sanatus abiit: Six Miracles and Three Distichs">
+  <figcaption>Hic sanatus abiit: Six Miracles and Three Distichs, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 53v.</figcaption>
+</figure>
+
+The folio continues the miracle cycle in the same tripartite format, but is exceptional within the sequence examined so far for the **legibility of its tituli**: all three bands survive in a state that permits confident reading, and the second and third are among the best-preserved verses in the codex. The page is correspondingly valuable as a control on the more abraded folios, since it shows the *hic … hic* captioning system operating at full strength.
+
+- Upper register
+
+Two Johannine episodes concerning women, joined by a tower. At the left, the Samaritan Woman at the Well: Christ sits on the low masonry kerb of a well surmounted by a windlass and pulley, holding a small vessel and extending his hand towards a woman in red who stands before him with a bucket, gesturing in reply. The inscription above her — MVLIER SAMARITANA, disposed in three short lines — identifies her explicitly. At the right, the Woman Taken in Adultery: a compact crowd of accusers in short tunics and hose presses forward from the left, pushing before them a woman in mauve who raises her hands; at the extreme right Christ, seated and holding a codex, bends sharply forward and points **downward with a single extended finger**, in the act of writing on the ground. Her inscription likewise survives in three lines. The titulus above states that Christ asked a drink of the one woman, and dispelled the guilt of the other — a distich that pairs the two episodes as complementary encounters with female petitioners.
+
+- Middle register
+
+At the left, the Healing of the Blind at Siloam: Christ, accompanied by a disciple, extends his hand towards a young man in ochre who leans on a staff; a second, near-identical figure walks away to the right, hand raised to his face, towards a tall column surmounted by a bird-form spout from which water falls in a broad blue stream — the pool of Siloam rendered as a fountain. The doubling of the man, before and after, is continuous narration in its clearest form on this page. At the right, the Raising of Lazarus: Christ, followed by a dense group of Jews and by two women, extends his hand towards a shrouded figure bound in cross-hatched wrappings who stands upright in an opened tomb-chest, while attendants at the extreme right lift the lid. The titulus is fully legible and names both subjects — the man born blind who receives sight, and Lazarus who rises from death.
+
+- Lower register
+
+At the left, the Healing of the Paralytic at Capernaum: beneath a tiled roof pierced open at the ridge, two men lower a third on a blue pallet by means of long poles, while a further pair look down from above; the recumbent man is labelled PARALYTICVS. Christ stands at the left before a group of onlookers, hands raised. At the right, the Healing of Peter's Mother-in-Law: Christ, holding a codex, advances with hand extended towards a woman lying on a couch beneath a coverlet, her hand raised; the inscription SOCRVS PETRI is visible above her, and a group of men gesture from behind. The titulus glosses both: here the healed man departed, and here the crowd entreated on account of the fever.
+
+The page confirms two things that the preceding folios could only suggest. First, that the cycle is **harmonised rather than gospel-specific**: the Samaritan woman, the adulteress, the blind man of Siloam and Lazarus are all Johannine, while the paralytic and Peter's mother-in-law are synoptic, and all six stand together on a folio following the Marcan incipit. Second, that the tituli were composed in close coordination with the finished design, since each distich accounts for exactly the two episodes of its register and in the order in which they are painted. The nominal captions — MVLIER SAMARITANA, PARALYTICVS, SOCRVS PETRI — belong to the same system of category-labels observed elsewhere in the cycle, which lends retrospective support to reading the isolated inscriptions on fol. 52v as labels of the same kind.
+
+### Decem mundabat: Miracle, Caption and Continuous Narration
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-14.jpg" alt="Decem mundabat: Miracle, Caption and Continuous Narration">
+  <figcaption>Decem mundabat: Miracle, Caption and Continuous Narration, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 54r.</figcaption>
+</figure>
+
+The recto continues the miracle cycle in the established tripartite format and, like fol. 53v, preserves its three tituli in near-complete legibility. The page is of particular interest because it contains, at the head of the first register, the very episode which I had earlier proposed — wrongly — for the third register of fol. 52v. Its appearance here, correctly captioned and unambiguously staged, supplies the decisive argument against that earlier reading and in favour of the Canaanite Woman.
+
+- Upper register
+
+Two miracles of raising and healing, set against a mauve ground and joined by a continuous green groundline. At the left, the Woman with the Issue of Blood: Christ turns back towards a woman who kneels low behind him and reaches for the hem of his mantle, while a dense crowd of onlookers presses in from the left. The Gospel's essential gesture — the touch from behind, unseen — is here rendered with exactness, and the woman is shown once only, not twice. At the right, the Raising of the Widow's Son at Nain: Christ, followed by disciples, extends both hands towards a bier draped in green and carried on poles by bearers at either end; a youth rises from it, labelled ADOLESCENS, while the widow stands beneath the bier in the posture of grief. A gate and city wall close the scene at the right. The titulus pairs the two: the flow of blood dried up in the one case, the assault of death repelled in the other.
+
+- Middle register
+
+At the left, the Healing of the Man with Dropsy: beneath a tiled roof, Christ reclines with two companions at a table draped in pale blue, extending his hand towards a naked man seated at the right whose body is covered with red spots and whose swollen abdomen identifies the condition; the inscription YDROPICVS runs vertically beside him. The setting at table corresponds to the Lucan account, in which the healing takes place in a Pharisee's house on the sabbath. At the right, the Stilling of the Storm: a boat with a curved animal-headed prow rides a sea of scalloped waves, its rigging taut; Christ stands at the stern with hand raised in command towards a green wind-demon who blows from the upper right corner, while at the left of the boat a second Christ lies asleep, head propped on his hand, above the caption HIC DORMIT. The disciples between the two figures gesticulate in alarm. The doubling of Christ — sleeping and waking within a single hull — is continuous narration at its most compressed, and the caption exists precisely to make the device legible. The titulus states that, curing the dropsical man, he restrained the wind by his word.
+
+- Lower register
+
+The Ten Lepers (Luke 17:11–19), disposed as two moments. At the left, before an arcaded building, Christ with a disciple gestures towards a crowd of spotted, half-naked men who press forward with raised hands; the group is labelled DECEM LEPROSI. At the right, the sequel: Christ turns back with both hands open in the gesture of question, while a single figure — inscribed SAMARITANVS — prostrates himself full-length on the ground before him, and the remaining nine stand or crouch at the extreme right, already departing. The titulus glosses the moral with epigrammatic economy: he cleansed ten, but one alone gave thanks.
+
+Three features deserve emphasis. First, the **captioning system** here operates at full strength and in two distinct modes: category-labels for persons (ADOLESCENS, YDROPICVS, DECEM LEPROSI, SAMARITANVS) and a deictic caption for narrative mechanics (HIC DORMIT), the latter functioning purely to signal that two figures of Christ constitute one moment's sequel to another. Second, the cycle's **harmonising character** is confirmed again: the dropsical man and the ten lepers are Lucan, Nain is Lucan, the storm synoptic, all on a folio within the Marcan section. Third, and most usefully for the reading of fol. 52v, the woman with the issue of blood **appears here**, in its proper Marcan-Matthaean form and with the woman shown once from behind. Since the picture cycle does not ordinarily duplicate episodes, its presence on this folio removes the principal support for identifying the fol. 52v group as the same subject, and correspondingly strengthens the Canaanite reading proposed there.
+
+### Fortior est omni: The Lion, the Pallium and the Authority of Mark
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-15.jpg" alt="Fortior est omni: The Lion, the Pallium and the Authority of Mark">
+  <figcaption>Fortior est omni: The Lion, the Pallium and the Authority of Mark, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 54v.</figcaption>
+</figure>
+
+With this folio the narrative sequence of the miracle cycle closes and the codex returns to its iconic register: the author portrait of Mark, prefacing the second Gospel. The page repeats the structural formula established for Matthew at fol. 20v — symbol above, evangelist below, inscribed band between — but elaborates it considerably, and a comparison of the two pages is instructive for the workshop's handling of variation within a fixed scheme.
+
+The composition is enclosed by a stepped border of graduated bands in rose, blue, ochre and green, laid so as to suggest a receding moulding. Within it rises an aedicula of two orders. The outer order consists of two heavy columns with shafts of speckled porphyry-red, rising to composite capitals from which project **human masks in green and rose** — a grotesque motif absent from the Matthew page and one of the more striking inventions on the folio. These support a broad round arch decorated with a gold band of stylised acanthus tips against green. The inner order comprises two slighter columns with variegated shafts and gilded capitals, carrying an arch of pink scroll on gold, from which a lamp is suspended; beyond and above runs an arcaded wall in rose punctuated by gold apertures and blue discs.
+
+In the tympanum, against a green ground, the winged lion of Mark advances to the right, haloed, its mane rendered in dense gold striations and its wings in overlapping bands of pink, blue and green. Its forepaws rest upon an open book or lectern at the right edge. The band beneath, in gold capitals on red, is fully legible and constitutes one of the most quotable inscriptions in the codex: it declares that he whom Mark designates by the lion is stronger than all — a formulation that reads the symbol not as an attribute of the evangelist but as a predicate of Christ, and thus stands within the standard exegetical tradition assigning to Mark the royal or resurrectional aspect.
+
+Beneath, Mark is seated frontally on a broad architectural throne with a cushioned seat and stepped footstool, set against a lapis ground. He is bearded, white-haired and tonsured, and — this is the most significant departure from the Matthew portrait — he is vested as a **bishop**: a deep crimson chasuble over a pale alb, with a pallium bearing black crosses laid across the shoulders and falling in a vertical band to the hem. He holds an open codex on his knee with the left hand while the right steadies it. The vesting is not incidental. It reflects the tradition of Mark as first bishop of Alexandria, and its deployment here, in a manuscript produced for an imperial or high ecclesiastical patron, invites reading in relation to the codex's own institutional setting.
+
+To either side stand the instruments of the scriptorium: at the left a lectern draped with a white cloth and surmounted by an inkhorn, its shaft rendered as a twisted column; at the right a second desk supporting an open book, its boards splayed. The frontality of the figure, in contrast to Matthew's three-quarter turn towards his desk, converts the author portrait from an image of composition into an image of authority.
+
+The page confirms that the four evangelist frontispieces operate as a system of controlled variation rather than repetition: shared armature, individualised in symbol, inscription, posture and — here — ecclesiastical status. The episcopal vesting of Mark is the element most worth pursuing, since it locates the portrait within a specific hagiographic tradition rather than a generic one, and since its presence or absence in the Luke and John pages of the same codex would show whether the workshop was applying a considered programme or an occasional flourish.
+
+## Folios (76v-)
+
+### Mundi vinea: The Parable of the Labourers
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-16.jpg" alt="Mundi vinea: The Parable of the Labourers">
+  <figcaption>Mundi vinea: The Parable of the Labourers, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 76v.</figcaption>
+</figure>
+
+This folio departs from everything examined so far in the codex. The tripartite armature persists, but the subject is neither a Gospel narrative nor an author portrait: it is a **parable**, illustrated at length and with a degree of attention to agricultural labour that is exceptional in Ottonian book painting. The three registers are given over to the Parable of the Labourers in the Vineyard (Matthew 20:1–16), and the pictorial resources of the workshop — continuous narration, category-labels, sequential hiring — are here applied to a story that has no historical referent at all.
+
+- Upper register
+
+The successive hirings. Against a ground banded in blue, ochre and dun, the composition alternates between two building-blocks — pink masonry towers with blue gateways, functioning as markers of the marketplace — and groups of figures. At the left, the householder, labelled PATERFAMILIAS, in a purple mantle over a rose tunic and carrying a staff, gestures towards a group of labourers inscribed MERCENNARII, who advance with hoes and mattocks over their shoulders. At the right, the sequence repeats: a second PATERFAMILIAS addresses a second group of workers, bearing tools and identified by their own caption. The doubling of the householder is the workshop's familiar device of continuous narration, here used not for two moments of a single scene but for two successive hours of hiring. The titulus, largely legible, speaks of the vineyard of the world requiring labourers at different hours, suited to the ages of men — an exegetical gloss, not a paraphrase, which already interprets the parable allegorically before the reader reaches the images.
+
+- Middle register
+
+The labour itself, and the most remarkable passage on the folio. Against a landscape of banded blue and gold, three groups of vine-dressers work among stylised vines rendered as slender red and green stalks with trefoil crowns; the word VINEA is repeated three times across the field, marking each section of the vineyard. The men dig with mattocks, prune with billhooks, carry tools over their shoulders, and stoop to the ground; one at the extreme right bends double under his labour. The **implements are described with unusual specificity** — long-hafted hoes, curved pruning knives, what appear to be two-pronged forks — and their rendering constitutes evidence of some value for eleventh-century agricultural practice, quite apart from the theological subject. The postures of stooping, digging and reaching are individuated rather than repeated, which is uncharacteristic of the workshop's normal treatment of crowds.
+
+- Lower register
+
+The reckoning. Against a plain green ground, the compositional formula of the first register returns — towers, householder, groups — but the action is now payment rather than hiring. At the left, the householder gestures towards labourers who carry their tools and raise their hands in what reads as protest or expostulation. At the right, a second scene: the steward, holding a small object, distributes to a crowd of men who press forward with cupped hands, while a bundle of tools stands propped at the extreme right corner. The titulus refers to labour and to those who were first, and to the shedding of tears — the language of the parable's final reversal, in which the last are made first.
+
+Two observations seem worth pursuing. First, the presence of an extended parable cycle indicates that the codex's picture programme extends well beyond the life of Christ into his teaching, and that the workshop possessed — or devised — compositional formulae for narrative material without fixed iconographic tradition. Second, the tituli here are **openly exegetical** rather than descriptive: they do not tell the reader what is shown but what it means, glossing the vineyard as the world and the hours as the ages of man. This is a different textual function from the *hic … hic* captions of the miracle folios, and the shift deserves comment in any account of how text and image cooperate in this manuscript.
+
+### Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard
+
+figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-17.jpg" alt="Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard">
+  <figcaption>Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 77r.</figcaption>
+</figure>
+
+The recto continues the vineyard theme of the facing verso but turns to a different and darker parable: the **Wicked Husbandmen** (Matthew 21:33–41; Mark 12:1–9; Luke 20:9–16). The tripartite armature is retained, yet the page is compositionally the most inventive encountered so far in this survey, since the painter has abandoned the lateral frieze in favour of a **great oval enclosure** — the vineyard's hedge — which dominates the upper two registers and organises the narrative from within rather than along a groundline.
+
+- Upper register
+
+The establishment of the vineyard, illustrating the parable's opening clause with an almost inventorial literalism. A wide ellipse of woven wattle, labelled SEPES, encloses a blue field in which vines are indicated by trailing tendrils and the word VINEA. At the left stands a winepress, its heavy timber frame and screw rendered with mechanical precision and captioned TORCULAR; at the centre rises a tower of pink masonry with tiled roof and gilded stages, inscribed TVRRIS. At the right, within the same enclosure, the householder — PATERFAMILIAS, in a green mantle over rose — hands a staff or key to a group of three tenants labelled AGRICOLAE. Each element of the Gospel's description (he planted a vineyard, set a hedge about it, dug a winepress, built a tower, let it out to husbandmen) is thus supplied with its own object and its own caption. The titulus names the vineyard and the letting-out.
+
+- Middle register
+
+The sending of the servants and their maltreatment. At the left, outside the enclosure, the householder — again labelled — despatches a file of four servants, inscribed SERVI, who carry staves. At the right, within a second oval hedge now set against a red ground, the violence: one servant crouches with hands to his face as stones fly about him; another, prostrate at the lower left, is struck with a cudgel; a third lies fallen among the vines; the tenants advance with clubs, staves and large **almond-shaped shields with bossed centres**, one of them hurling a stone from the top of a building at the upper right. The change of ground from blue to red between the two registers is unlikely to be accidental: the same enclosure, the same vines, but a field of blood. The titulus states that the servants are sent for the fruits and are struck down.
+
+- Lower register
+
+The sending and killing of the son. At the left, on a green ground outside the enclosure, the householder gestures towards a young man in ochre who stands before him with open hands — the son receiving his commission. At the right, within a third enclosure, now rendered as a **paling fence of vertical stakes** rather than woven wattle, the murder: a man in blue drags or holds down a fallen figure while two others advance with long spears, one carrying a red shield; the body lies at the base of the vines. A caption in the field appears to refer to the son being cast out. The titulus speaks of the son being sent, guiltless, and of what follows.
+
+Three features distinguish this folio. First, the **oval enclosure as compositional device** is without parallel in the pages examined so far, and it converts the register from a strip into a container: the eye is led around the ellipse rather than across the field. Second, the **captioning is at its densest here** — SEPES, VINEA, TORCULAR, TVRRIS, PATERFAMILIAS, AGRICOLAE, SERVI — and functions as a gloss on the parable's individual terms, each of which carried established allegorical value in patristic exegesis (the hedge as the Law, the tower as the Temple, the winepress as the altar or the martyrs' blood). The picture is thus not merely illustrated but **annotated for allegorical reading**. Third, the contemporary military equipment — kite shields, spears, mail — places the violence in an eleventh-century present, a choice that deserves comment in relation to the codex's imperial context.
+
+Taken with fol. 76v, this recto confirms that the parable section of the manuscript is substantial and internally organised: two vineyard parables on facing pages, the one concerning reward and the other concerning rejection.
+
+#### 1. The oval enclosure
+
+The cycle can now be delimited exactly. The Echternach picture programme places four parables, each occupying a full page, before the Gospel of Luke: the Workers in the Vineyard, the Wicked Husbandmen, the Great Banquet and the Rich Man and Lazarus. Only two of these involve a vineyard at all; the Banquet and Dives–Lazarus (fol. 78r, where the three registers show Lazarus dying at the rich man's door, his soul carried to Abraham's bosom, and the rich man's soul dragged to hell) have nothing to enclose.
+
+So the comparison reduces to the facing pair, and the result is sharper than I expected: **the two vineyard folios treat the vineyard in opposite ways**. On fol. 76v the vineyard is an open lateral field, with VINEA repeated three times across a landscape and no boundary of any kind. On fol. 77r it is enclosed three times over — twice in woven wattle, once in paling — and the enclosure is captioned SEPES.
+
+The reason is almost certainly textual. Matthew 20:1–16 mentions no hedge. Matthew 21:33 and Mark 12:1 both do, together with the winepress and tower. The painter drew an enclosure on one page and not the other because one text names it and the other does not. This considerably strengthens the "annotated vineyard" reading: the composition is generated by the words of the parable, item by item.
+
+It has to be taken into account that Luke 20:9, the version in the Gospel this cycle prefaces, gives only that a man planted a vineyard and let it to husbandmen — no hedge, no winepress, no tower. The painter therefore cannot be following Luke. This is a hard textual discriminator, not an impression: fol. 77r depends on Matthew 21:33 or Mark 12:1, on a page introducing Luke. It corroborates the harmonisation you have already observed on fols. 52v–54r, and here with unusual precision, since the evidence is the presence of three named objects rather than a general impression of gospel-mixing. The harmonising principle itself is established in the literature: the scenes cover the life and ministry of Jesus without concern for whether a particular scene is covered in the gospel it precedes.
+
+#### 2. Hedge, tower and winepress: named attributions
+
+These are commonplaces, but they are traceable to specific texts, and the *Catena aurea* preserves the attributions cleanly.
+
+- Sepes
+
+Jerome, on Matthew 21:33, offers two readings: either the wall of the city, or the guardianship of angels. The Pseudo-Chrysostom<a href="../../../endnotes.html#fn-pseudo-chrysostom" class="footnote"><sup>3</sup></a> of the *Opus imperfectum* gives instead the protection of the holy fathers, set as a wall round the people of Israel, and Origen God's own providence, or elsewhere the letter of Scripture.
+
+- Torcular
+
+Jerome again: an altar; or those winepresses after which three Psalms are entitled — that is, the martyrs (the *pro torcularibus* of Pss. 8, 80, 83 Vulg.). Hilary reads the winepresses as the prophets, into whom the Holy Spirit flowed as new wine; Origen as the place of offerings.
+
+- Turris
+
+Jerome: the Temple, on the authority of Micah's cloudy tower of the daughter of Sion. Hilary: the eminence of the Law, from which as from a watchtower the coming of Christ might be spied.
+
+The citation I would actually use is Bede<a href="../../../ancient-world.html#fn-bede" class="footnote"><sup>4</sup></a>, because he gives the set compactly in one place — the hedge is the wall of the city, the winefat is the altar, or those winefats by which three psalms receive their name — and because the Irish *Pseudo-Jerome* commentary transmitted alongside him supplies the complementary triad: the hedge is the guardianship of angels, the winefat the law, the tower the temple, and the husbandmen the priests.
+
+Why did I choose Bede rather than Jerome? The reason is that the abbey was founded from Northumbria by Willibrord, and its library and script traditions retain that Insular inheritance. Bede is therefore the more probable text physically present in the house. I would put this as a plausibility argument, clearly marked as such, not as a demonstrated source relation.
+
 ...
 
 ## Art-historical significance
@@ -339,7 +588,7 @@ Third, the book is an instrument of imperial ideology and of the politics of the
 
 For most of its life the Codex Aureus remained at Echternach. It was there that Henry III is thought to have seen it, and there it stayed through the later Middle Ages and the early modern period. The dispersal came with the French Revolutionary Wars. During the War of the First Coalition, Luxembourg was conquered and annexed by Revolutionary France (becoming part of the *département des Forêts*), and the abbey was suppressed in 1795/1796. The monks fled, carrying the manuscript and other portable treasures with them; the codex travelled by way of Mainz to Erfurt (the reference literature specifies the Benedictine house on the Petersberg at Erfurt).
 
-The next stage is well documented but carries a persistent nominal confusion that must be flagged. In 1801 the manuscript was acquired by Duke Ernst II of Saxe-Gotha-Altenburg<a href="../../../endnotes.html#fn-ernst-ii-saxe-gotha-altenburg" class="footnote"><sup>2</sup></a> — this is the reading of the German scholarly literature (the [Kahsnitz](/scholars.html#kahsnitz-rainer)/Rücker commentary) and of the Gotha Research Library, which records that Duke Ernst II bought some fifty valuable medieval manuscripts from Echternach and Murbach through the enterprising French Benedictine Jean-Baptiste Maugérard (1735–1815). Some English-language and facsimile sources garble the ducal name as "Ernst II of Saxe-Coburg and Altenburg"; this appears to be an error, and the correct attribution is to the House of Saxe-Gotha-Altenburg. Through dynastic inheritance the manuscript passed into the collection of the House of Saxe-Coburg and Gotha (which after the First World War was placed in a foundation), and it remained there until after the Second World War.
+The next stage is well documented but carries a persistent nominal confusion that must be flagged. In 1801 the manuscript was acquired by Duke Ernst II of Saxe-Gotha-Altenburg<a href="../../../endnotes.html#fn-ernst-ii-saxe-gotha-altenburg" class="footnote"><sup>5</sup></a> — this is the reading of the German scholarly literature (the [Kahsnitz](/scholars.html#kahsnitz-rainer)/Rücker commentary) and of the Gotha Research Library, which records that Duke Ernst II bought some fifty valuable medieval manuscripts from Echternach and Murbach through the enterprising French Benedictine Jean-Baptiste Maugérard (1735–1815). Some English-language and facsimile sources garble the ducal name as "Ernst II of Saxe-Coburg and Altenburg"; this appears to be an error, and the correct attribution is to the House of Saxe-Gotha-Altenburg. Through dynastic inheritance the manuscript passed into the collection of the House of Saxe-Coburg and Gotha (which after the First World War was placed in a foundation), and it remained there until after the Second World War.
 
 The modern acquisition is the last major episode. The ducal house resolved to sell the manuscript for financial reasons — German accounts connect the sale to the loss of the family's Gotha properties under Soviet occupation, forcing a distress sale. The then duke wished the book to stay in Germany, and its purchase was arranged jointly by the German federal government and the Länder, with Bavaria taking the lead, so that its new home would be the Germanisches Nationalmuseum in Nuremberg. German Wikipedia (echoing the museum's acquisition account) gives the sale as 9 May 1955, by the House of Coburg-Gotha to the GNM, "for financial reasons," at a price of 1.1 million Deutsche Mark; the price is reported variously, however (at least one German reference source gives 1.5 million DM), so the exact figure should be confirmed against the primary GNM acquisition record. The manuscript has remained in Nuremberg ever since, catalogued as Hs. 156142, with the treasure binding inventoried separately as KG 1138 and displayed in the museum's permanent medieval galleries; the manuscript block and the cover are deliberately kept and conserved apart so that each can be preserved under optimal conditions.
 
