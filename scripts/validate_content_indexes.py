@@ -30,6 +30,12 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
    i link contestuali nelle schede — blocchi "related artists", rimandi in
    prosa, campi url: nel frontmatter — che sono la maggioranza dei link del
    sito.
+8. ogni rimando #fn-... nei .md punta a un'ancora esistente nel file
+    indicato, in forma canonica /endnotes.html o /ancient-world.html;
+    nei due contenitori di note nessun id e' duplicato e ogni voce ha
+    esattamente un <h3>. I contenitori sono due, quindi un link puo'
+    nominare un id reale ma cercarlo nel file sbagliato; il path relativo
+    e' vietato perche' dipende dalla profondita' della cartella.
 
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
@@ -42,7 +48,7 @@ import re
 import sys
 import unicodedata
 import urllib.parse
-from collections import defaultdict
+from collections import defaultdict, Counter
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -207,6 +213,121 @@ def parse_frontmatter(text):
     return data, None
 
 
+# --- Check 8: ancore alle note ------------------------------------------
+# I due contenitori di note del sito. Ogni voce e' un <li id="fn-...">.
+NOTE_FILES = ("endnotes.html", "ancient-world.html")
+
+# Forma canonica di un rimando: /endnotes.html#fn-qualcosa
+# Il path relativo (../../endnotes.html) funziona ma dipende dalla profondita'
+# della cartella, quindi si rompe a ogni riorganizzazione: e' vietato.
+FN_LINK_RE = re.compile(r'([^\s"\'()<>]*)#(fn-[A-Za-z0-9_.-]+)')
+
+NOTE_ID_RE = re.compile(r'<li[^>]*\bid="(fn-[^"]+)"')
+NOTE_TITLE_RE = re.compile(r'endnotes-list__item-title')
+
+
+def load_note_ids(anomalies):
+    """Legge i contenitori di note.
+
+    Restituisce {nome_file: set_di_id}. Segnala per strada due difetti
+    strutturali che nessun altro controllo intercetta:
+      - id duplicati: l'ancora risolve sempre alla prima occorrenza, quindi
+        la seconda voce e' irraggiungibile pur esistendo (caso fn-clement-v);
+      - voci con un numero di <h3> diverso da uno: titolo ripetuto per
+        copia-incolla, oppure voce priva di titolo (caso dei dogi).
+    """
+    ids_by_file = {}
+
+    for fname in NOTE_FILES:
+        path = REPO_ROOT / fname
+        if not path.exists():
+            anomalies["File di note mancante"].append(fname)
+            ids_by_file[fname] = set()
+            continue
+
+        text = path.read_text(encoding="utf-8")
+
+        found = NOTE_ID_RE.findall(text)
+        ids_by_file[fname] = set(found)
+
+        for note_id, count in Counter(found).items():
+            if count > 1:
+                anomalies["id di nota duplicato"].append(
+                    f"{fname}: '{note_id}' definito {count} volte"
+                )
+
+        # Conteggio dei titoli entro ciascun <li id="fn-...">.
+        current_id = None
+        title_count = 0
+        for line in text.splitlines():
+            opening = NOTE_ID_RE.search(line)
+            if opening:
+                if current_id is not None and title_count != 1:
+                    anomalies["Voce di nota con numero di titoli inatteso"].append(
+                        f"{fname}: '{current_id}' ha {title_count} <h3>, atteso 1"
+                    )
+                current_id = opening.group(1)
+                title_count = 0
+                continue
+            if current_id is None:
+                continue
+            if NOTE_TITLE_RE.search(line):
+                title_count += 1
+            elif "</li>" in line:
+                if title_count != 1:
+                    anomalies["Voce di nota con numero di titoli inatteso"].append(
+                        f"{fname}: '{current_id}' ha {title_count} <h3>, atteso 1"
+                    )
+                current_id = None
+                title_count = 0
+
+    return ids_by_file
+
+
+def check_note_anchors(md_files, ids_by_file, anomalies):
+    """Verifica ogni rimando #fn-... presente nei .md.
+
+    Due controlli distinti, perche' due bug diversi:
+      - forma del path: deve essere '/<file>.html', non un relativo con '../'
+        (che dipende dalla profondita' della cartella) ne' un frammento nudo;
+      - esistenza dell'ancora NEL FILE INDICATO: i contenitori sono due, e un
+        link puo' puntare a quello sbagliato pur nominando un id esistente
+        altrove (caso fn-dietrich-ii-meissen).
+
+    Il confronto sugli id e' esatto, mai per sottostringa: 'fn-clement-viii'
+    contiene 'fn-clement-v' e un match parziale li confonderebbe.
+    """
+    canonical = {f"/{name}" for name in NOTE_FILES}
+
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+
+        rel_src = str(md_path.relative_to(REPO_ROOT))
+        seen = set()
+
+        for link_path, anchor in FN_LINK_RE.findall(text):
+            if (link_path, anchor) in seen:
+                continue
+            seen.add((link_path, anchor))
+
+            if link_path not in canonical:
+                anomalies["Rimando a nota in forma non canonica"].append(
+                    f"{rel_src}: '{link_path}#{anchor}' "
+                    f"(attesa una fra {', '.join(sorted(canonical))})"
+                )
+                continue
+
+            fname = link_path.lstrip("/")
+            if anchor not in ids_by_file.get(fname, set()):
+                other = [f for f in NOTE_FILES if anchor in ids_by_file.get(f, set())]
+                hint = f" (definita invece in {other[0]})" if other else ""
+                anomalies["Ancora di nota inesistente"].append(
+                    f"{rel_src}: '{anchor}' non trovata in {fname}{hint}"
+                )
+
 def main():
     anomalies = defaultdict(list)
 
@@ -365,6 +486,9 @@ def main():
             anomalies["Scheda in Saints/ non linkata da nessun'altra scheda"].append(rel)
 
     check_md_outgoing_links(all_md, anomalies)
+
+    ids_by_file = load_note_ids(anomalies)
+    check_note_anchors(all_md, ids_by_file, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
