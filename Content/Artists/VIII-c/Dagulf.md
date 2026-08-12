@@ -230,7 +230,7 @@ The corpus of work attributable to Dagulf is singular and definitive: the manusc
 ### Beatus vir: The Opening of the Psalter
 
 <figure>
-  <img src="/Images/Dagulf/image 1.jpg" alt="Beatus vir: The Opening of the Psalter">
+  <img src="/Images/Dagulf/dagulf-01.jpg" alt="Beatus vir: The Opening of the Psalter">
   <figcaption>Beatus vir: The Opening of the Psalter, Österreichische Nationalbibliothek, Vienna, Cod. 1861, fol. 25r.</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ The folio compresses into a single field three distinct traditions: the Late Ant
 ### Vox Christi de Iuda: The Opening of Psalm 51
 
 <figure>
-  <img src="/Images/Dagulf/image 2.jpg" alt="Vox Christi de Iuda: The Opening of Psalm 51">
+  <img src="/Images/Dagulf/dagulf-02.jpg" alt="Vox Christi de Iuda: The Opening of Psalm 51">
   <figcaption>Vox Christi de Iuda: The Opening of Psalm 51, Österreichische Nationalbibliothek, Vienna, Cod. 1861, fol. 67v. </figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ The ground is indigo, not purple. Analysis has shown that the dark blue of the d
 ### Vox Christi et ecclesiae: The Opening of Psalm 101
 
 <figure>
-  <img src="/Images/Dagulf/image 3.jpg" alt="Vox Christi et ecclesiae: The Opening of Psalm 101">
+  <img src="/Images/Dagulf/dagulf-03.jpg" alt="Vox Christi et ecclesiae: The Opening of Psalm 101">
   <figcaption>Vox Christi et ecclesiae: The Opening of Psalm 101, Österreichische Nationalbibliothek, Vienna, Cod. 1861, fol. 108v.</figcaption>
 </figure>
 
