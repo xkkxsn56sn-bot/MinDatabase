@@ -72,7 +72,7 @@ meta:
       - title: "Giovanni Pisano"
         url: "/Content/Artists/XIII-c/Giovanni%20Pisano.md"
       - title: "Arnolfo di Cambio"
-        url: "/Content/Artists/XIII-c/Arnolfo-di-Cambio.md"
+        url: "/Content/Artists/XIII-c/Arnolfo-di-Cambio.html"
       - title: "Pisa Baptistery"
         url: "/Content/Churches/Pisa%20Baptistery.md"
       - title: "Siena Cathedral"

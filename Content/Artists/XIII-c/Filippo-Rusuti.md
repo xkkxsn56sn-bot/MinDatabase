@@ -102,11 +102,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Jacopo Torriti"
-        url: "/Content/Artists/XIII-c/Jacopo-Torriti.md"
+        url: "/Content/Artists/XIII-c/Jacopo-Torriti.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII-c/Pietro-Cavallini.md"
+        url: "/Content/Artists/XIII-c/Pietro-Cavallini.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII-c/Cimabue.md"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Serena Romano"
         url: "/scholars.html#romano-serena"
 

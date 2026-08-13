@@ -72,7 +72,7 @@ meta:
       - title: "Santa Maria Novella"
         url: "/Content/Churches/Santa%20Maria%20Novella.md"
       - title: "Giotto di Bondone"
-        url: "/Content/Artists/XIII-XIV-c/Giotto-di-Bondone.md"
+        url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Andrea di Cione (Orcagna)"
         url: "/Content/Artists/XIII-XIV-c/Andrea%20di%20Cione%20Orcagna.md"
       - title: "Camposanto Monumentale, Pisa"

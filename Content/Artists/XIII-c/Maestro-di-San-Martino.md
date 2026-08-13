@@ -96,17 +96,17 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Ugolino di Tedice"
-        url: "/Content/Artists/XIII-c/Ugolino-di-Tedice.md"
+        url: "/Content/Artists/XIII-c/Ugolino-di-Tedice.html"
       - title: "Enrico di Tedice"
-        url: "/Content/Artists/XIII-c/Enrico-di-Tedice.md"
+        url: "/Content/Artists/XIII-c/Enrico-di-Tedice.html"
       - title: "Ranieri di Ugolino"
-        url: "/Content/Artists/XIII-c/Ranieri-di-Ugolino.md"
+        url: "/Content/Artists/XIII-c/Ranieri-di-Ugolino.html"
       - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII-c/Giunta-Pisano.md"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
       - title: "Cimabue"
-        url: "/Content/Artists/XIII-c/Cimabue.md"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Terzo Maestro di Anagni"
-        url: "/Content/Artists/XIII-c/Terzo-Maestro-di-Anagni.md"
+        url: "/Content/Artists/XIII-c/Terzo-Maestro-di-Anagni.html"
 
 scholars:
   - title: "Luciano Bellosi"

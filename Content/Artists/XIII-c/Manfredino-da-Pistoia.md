@@ -68,13 +68,13 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cimabue"
-        url: "/Content/Artists/XIII-c/Cimabue.md"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Pietro Cavallini"
-        url: "/Content/Artists/XIII-c/Pietro-Cavallini.md"
+        url: "/Content/Artists/XIII-c/Pietro-Cavallini.html"
       - title: "Guido da Siena"
-        url: "/Content/Artists/XIII-c/Guido-da-Siena.md"
+        url: "/Content/Artists/XIII-c/Guido-da-Siena.html"
       - title: "Maestro delle Storie di Isacco"
-        url: "/Content/Artists/XIII-c/Maestro-delle-Storie-di-Isacco.md"
+        url: "/Content/Artists/XIII-c/Maestro-delle-Storie-di-Isacco.html"
 
 author: "Manfredino da Pistoia"
 role: "Pittore pistoiese di formazione cimabuesca attivo tra Pistoia e Genova"

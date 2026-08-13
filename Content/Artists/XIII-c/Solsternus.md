@@ -61,9 +61,9 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Spoleto Cathedral (Santa Maria Assunta)"
-        url: "/Content/Churches/Spoleto-Cathedral.md"
+        url: "/Content/Churches/Spoleto-Cathedral.html"
       - title: "Alberto Sotio"
-        url: "/Content/Artists/XII-c/Alberto%20Sotio.md"
+        url: "/Content/Artists/XII-c/Alberto-Sozio.html"
       - title: "Byzantine mosaic traditions in Italy"
         url: "/Content/Topics/Byzantine%20mosaic%20traditions%20in%20Italy.md"
       - title: "Deesis iconography"
