@@ -69,16 +69,8 @@ meta:
 
   - title: "RELATED ENTRIES"
     links:
-      - title: "Giovanni Pisano"
-        url: "/Content/Artists/XIII-c/Giovanni%20Pisano.md"
       - title: "Arnolfo di Cambio"
         url: "/Content/Artists/XIII-c/Arnolfo-di-Cambio.html"
-      - title: "Pisa Baptistery"
-        url: "/Content/Churches/Pisa%20Baptistery.md"
-      - title: "Siena Cathedral"
-        url: "/Content/Churches/Siena%20Cathedral.md"
-      - title: "Fontana Maggiore, Perugia"
-        url: "/Content/Topics/Fontana%20Maggiore%20Perugia.md"
 
 author: "Nicola Pisano"
 role: "Sculptor and architect, founder of classicising Gothic sculpture in Italy"

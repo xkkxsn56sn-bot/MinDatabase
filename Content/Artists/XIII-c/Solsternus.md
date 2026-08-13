@@ -64,10 +64,6 @@ meta:
         url: "/Content/Churches/Spoleto-Cathedral.html"
       - title: "Alberto Sotio"
         url: "/Content/Artists/XII-c/Alberto-Sozio.html"
-      - title: "Byzantine mosaic traditions in Italy"
-        url: "/Content/Topics/Byzantine%20mosaic%20traditions%20in%20Italy.md"
-      - title: "Deesis iconography"
-        url: "/Content/Topics/Deesis%20iconography.md"
 
 author: "Solsternus"
 role: "Master mosaicist documented by the signed Deesis on the façade of Spoleto Cathedral (1207)"
