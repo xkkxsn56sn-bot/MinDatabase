@@ -30,12 +30,13 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
    i link contestuali nelle schede — blocchi "related artists", rimandi in
    prosa, campi url: nel frontmatter — che sono la maggioranza dei link del
    sito.
-8. ogni rimando #fn-... nei .md punta a un'ancora esistente nel file
-    indicato, in forma canonica /endnotes.html o /ancient-world.html;
-    nei due contenitori di note nessun id e' duplicato e ogni voce ha
-    esattamente un <h3>. I contenitori sono due, quindi un link puo'
-    nominare un id reale ma cercarlo nel file sbagliato; il path relativo
-    e' vietato perche' dipende dalla profondita' della cartella.
+8. Ogni rimando a un contenitore di ancore (endnotes.html, ancient-world.html,
+    scholars.html) punta a un'ancora esistente nel file indicato, in forma
+    canonica '/<file>.html'. I contenitori sono tre, quindi un link puo'
+    nominare un id reale ma cercarlo nel file sbagliato; il path relativo e'
+    vietato perche' dipende dalla profondita' della cartella. In ciascun
+    contenitore nessun id e' duplicato, e nelle due pagine di note ogni voce
+    ha esattamente un <h3>.
 
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
