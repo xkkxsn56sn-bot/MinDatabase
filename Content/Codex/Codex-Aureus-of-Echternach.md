@@ -542,6 +542,68 @@ Three features distinguish this folio. First, the **oval enclosure as compositio
 
 Taken with fol. 76v, this recto confirms that the parable section of the manuscript is substantial and internally organised: two vineyard parables on facing pages, the one concerning reward and the other concerning rejection.
 
+### Adhuc locus: The Great Banquet, its Excuses and its Hell
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-18.jpg" alt="Adhuc locus: The Great Banquet, its Excuses and its Hell">
+  <figcaption>Adhuc locus: The Great Banquet, its Excuses and its Hell, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 77v.</figcaption>
+</figure>
+
+The verso presents the third of the four parables prefacing Luke: the **Great Banquet** (Luke 14:16–24). It is the most legible page of the parable cycle so far — all three *tituli* survive substantially intact in gold capitals on purple — and it is also the most complex in its narrative logic, since the painter has been obliged to represent not a sequence of events but a set of *simultaneous refusals*, each with its own spoken excuse.
+
+The consequence is a page organised around **direct speech**. The three verse-bands are not descriptive but quotational: they give the words of the guests in the first person. The lowest band is the clearest of all, and reads unambiguously as an excuse offered on account of a marriage — the third of the Lucan refusals, spoken verbatim.
+
+- Upper register
+
+The banquet itself, against a lapis ground beneath a broad tiled roof carried on green-doored piers. At the centre, the host is enthroned frontally behind a long table draped in a heavy white cloth falling in vertical folds to a fringed hem; he is identified by an inscription disposed in two lines, HOMO QVIDAM — the parable's opening phrase, *homo quidam fecit cenam magnam*, used here as a name. To his right a compressed row of guests is captioned PAVPERES, and their poverty is rendered with unusual candour: several are bare-legged or half-clothed, one appears infirm. The table before them carries dishes, cups and a knife.
+
+At the right stands a servant in green, holding out a covered golden vessel, and beside him the inscription ADHVC LOCVS — the servant's report that there is still room (Luke 14:22). The register therefore compresses the poor already seated and the announcement that the house is not yet full into a single field, so that the reader sees the command and its incompleteness at once. The *titulus* above states that a man called many to the great supper, and that the poor entered.
+
+- Middle register
+
+The first two refusals, disposed across a landscape of green and rose. The compositional device here is striking and, so far as I can see, unique in the cycle: at the left, a **jagged, flame-edged field** of grey-mauve and orange encloses a group of tormented figures — bodies contorted, one prostrate, one gripped and dragged. This is not a scene from the parable but its consequence, the fate of those who refuse: an infernal zone intruding into the narrative field, marked off by an irregular border rather than a frame.
+
+To its right, the excuses proper. A servant with a staff addresses a man in red who gestures in refusal, above an inscription referring to the farm; further right, a second exchange takes place on a green hill before a walled city, where a servant confronts a man in red beside a pair of oxen, with an inscription that appears to name the calling and the yoke of oxen. The *titulus* gives both excuses in the first person: one begs to be excused because the business of the farm detains him, and the other asks not to be compelled, since he goes to prove his yoke of oxen.
+
+- Lower register
+
+The third refusal, and a second infernal zone. At the left, against a blue ground bounded below by a band of flame, a servant gestures towards a group of poor and crippled men, captioned PAVPERES — barefoot, one supporting himself on crutches, another crawling on his knees with hand-trestles. These are the halt and the blind of verse 21, and the painter has represented their disabilities with the same specificity he brought to the agricultural implements of fol. 76v.
+
+At the right, a servant with staff turns towards a couple riding a single dappled horse: a bearded man and a veiled woman seated behind him, the woman's presence supplying the whole content of the excuse. The *titulus* is complete and quotable: the speaker declares that on account of his marriage he cannot go there.
+
+- Three observations
+
+First, the **first-person tituli** mark a further shift in the text–image relation. On the miracle folios the verses were deictic (*hic … hic*); on fol. 76v they were exegetical (the vineyard of the world, the ages of man); here they are dramatic, giving the guests' own words. The workshop, or whoever composed the verses, was evidently prepared to vary the register of the accompanying text according to the character of the subject.
+
+Second, the **interpolated infernal zones** are the boldest invention on the page. They are not enclosed by frames but by ragged, flame-lipped contours that bite into the narrative field, so that damnation appears not as a separate scene but as an eruption within the same space as the refusals. The device converts a parable about discourtesy into one about judgement, and it does so purely by pictorial means, without any warrant in the Lucan text.
+
+Third, this folio makes explicit what the Dives and Lazarus page on fol. 78r will confirm, and what has been noted of the codex generally: the painter uses **colour semantically**, blue for the favourable and red for the adverse. The pairing of blue banquet-ground against red-and-orange infernal ground on this single page is the clearest demonstration of the principle yet encountered.
+
+### Ob mortem Christi: The Ox, the Passion and the Portrait of Luke
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-19.jpg" alt="Ob mortem Christi: The Ox, the Passion and the Portrait of Luke">
+  <figcaption>Ob mortem Christi: The Ox, the Passion and the Portrait of Luke, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 78v.</figcaption>
+</figure>
+
+With this folio the parable cycle closes and the codex returns to its iconic register: the author portrait of Luke, prefacing the third Gospel. The page follows the armature established for Matthew (fol. 20v) and Mark (fol. 54v) — ornamental border, arched aedicula, symbol in the lunette, inscribed band, evangelist enthroned below — but it is the most chromatically confident of the three, and it introduces a motif in the arch that does not appear on the earlier pages.
+
+The composition is enclosed by a broad border of gilded acanthus in vermilion and green against gold, bounded by fillets of gold and orange. Within it rises a stepped aedicula. The outer order consists of two columns with shafts of speckled green stone traversed by diagonal bands of pink and blue, rising to composite capitals of orange and green acanthus; these carry a broad round arch whose ornament is the folio's most striking feature. Set within a scrolling vine on gold are **small human heads**, disposed at intervals along the whole span of the arch — frontal, wide-eyed faces emerging from the foliage. The motif recalls the grotesque mask-capitals of the Mark page but redeploys them as an inhabited scroll running across the entire arch, and it deserves attention as a possible link to the *rinceaux habités* of Late Antique and Carolingian ornament.
+
+Behind, an inner order of slighter columns with variegated shafts and gilded capitals carries a green-ground arcade of three bays against lapis, with curtains of rose gathered and knotted at the shafts to either side.
+
+- The lunette
+
+Against a blue ground the winged ox of Luke advances to the right, haloed in gold, its wings rendered in overlapping bands of grey, blue and white, its forelegs resting on a book or lectern at the right edge. The band beneath, in gold capitals on a red ground, is fully legible and among the most quotable inscriptions in the codex: it states that Luke, on account of the death of Christ, holds the face of the calf. This is the standard exegesis of the ox as the sacrificial animal, and hence of Luke as the evangelist of the Passion — a reading that pairs neatly with the *fortior est omni* of the Mark page, where the lion was similarly construed as a predicate of Christ rather than an attribute of the evangelist.
+
+- The evangelist
+
+Luke is seated in three-quarter view on a stepped architectural throne, his feet on a low footstool. He is white-haired and bearded, his head bound in a close cap, and — unlike the frontal, episcopally vested Mark — he is shown **in the act of writing**: the right hand holds a quill, the left steadies an open codex propped on a lectern at the right, and a knife appears at the codex's edge. Behind him at the left a second desk supports a scroll unrolling downward, with an inkhorn beneath.
+
+The drapery is the finest passage on the page: a deep vermilion mantle articulated by a great spiral volute over the thigh, falling in broad folds across a pale blue tunic, the whole modelled in white and gold striations. It is presumably this quality that lies behind the observation, in the older critical literature, that the Echternach style produced some vigorous and cheerful patterns, as in the St Luke — the Luke portrait being singled out as the strongest of the evangelist pages even by a critic hostile to the workshop's decorative tendencies.
+
+Read against fols. 20v and 54v, the page confirms that the evangelist frontispieces constitute a system of **controlled variation on a fixed armature**: each shares frame, aedicula, lunette, titulus and throne, and each is individualised by symbol, inscription, posture and status. Matthew turns towards his desk in three-quarter composition; Mark sits frontally, vested with the pallium as bishop; Luke is caught mid-stroke, pen in hand, in the purest form of the author-at-work type. The three together suggest a designer thinking in terms of a set rather than repeating a formula — which accords with the view that the compositions and underdrawings throughout were the master's, whatever the division of painting.
+
 #### 1. The oval enclosure
 
 The cycle can now be delimited exactly. The Echternach picture programme places four parables, each occupying a full page, before the Gospel of Luke: the Workers in the Vineyard, the Wicked Husbandmen, the Great Banquet and the Rich Man and Lazarus. Only two of these involve a vineyard at all; the Banquet and Dives–Lazarus (fol. 78r, where the three registers show Lazarus dying at the rich man's door, his soul carried to Abraham's bosom, and the rich man's soul dragged to hell) have nothing to enclose.

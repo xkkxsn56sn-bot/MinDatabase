@@ -71,6 +71,8 @@ meta:
     links:
       - title: "Arnolfo di Cambio"
         url: "/Content/Artists/XIII-c/Arnolfo-di-Cambio.html"
+      - title: "Giovanni Pisano"
+        url: "/Content/Artists/XIII-c/Giovanni-Pisano.html"
 
 author: "Nicola Pisano"
 role: "Sculptor and architect, founder of classicising Gothic sculpture in Italy"
