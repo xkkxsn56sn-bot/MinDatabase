@@ -177,7 +177,7 @@ meta:
 
 scholars:
   - title: "Boskovitz Miklos"
-    url: "/scholars.html#boskovitz-miklos"
+    url: "/scholars.html#boskovits-miklos"
   - title: "Lollini, Fabrizio"
     url: "/scholars.html#lollini-fabrizio"
   - title: "Lunghi, Elvio"
@@ -289,7 +289,7 @@ The work known as the Croce di Santa Maria del Borgo, now in the Pinacoteca Nazi
 
 The crucifix presents the *Christus patiens* in the Master's mature Bolognese idiom, with the body of Christ painted against a rich gold ground and flanked by the half-length figures of the mourning Virgin and Saint John in the lateral panels. The formal refinement of this work is generally considered to represent the apogee of the Master's stylistic evolution, showing a complete assimilation of the influences absorbed from Giunta Pisano's Bolognese cross alongside a personal formal authority that transforms those influences into something distinctly original. 
 
-The work has been at the center of debates about the boundaries of the Master's corpus, with some scholars arguing for its close relationship to works attributed to the *Master of the Blue Crucifixes,* a related anonymous personality whose corpus [Miklós Boskovits](/scholars.html#boskovitz-miklos) proposed merging with that of the Master of the Franciscan Crucifixes. The current location in the Pinacoteca Nazionale di Bologna makes this work accessible for scholarly study and public appreciation, where it stands as one of the most important documents of Duecento panel painting in Emilia-Romagna.
+The work has been at the center of debates about the boundaries of the Master's corpus, with some scholars arguing for its close relationship to works attributed to the *Master of the Blue Crucifixes,* a related anonymous personality whose corpus [Miklós Boskovits](/scholars.html#boskovits-miklos) proposed merging with that of the Master of the Franciscan Crucifixes. The current location in the Pinacoteca Nazionale di Bologna makes this work accessible for scholarly study and public appreciation, where it stands as one of the most important documents of Duecento panel painting in Emilia-Romagna.
 
 ### Mourning Madonna
 
