@@ -324,7 +324,7 @@ His itinerary, taken as a whole, from Subiaco to Anagni, from Anagni to Rome, fr
 ## Principal Works
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 1.jpg" alt="The Madonna and Child, two angels in the spandrels above">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-01.jpg" alt="The Madonna and Child, two angels in the spandrels above">
   <figcaption>The Madonna and Child, two angels in the spandrels above, c. 1235, tempera on panel, gold ground, with four inset cabochon rock crystals, 58 x 46.5 cm, Private collection.</figcaption>
 </figure>
 
@@ -339,7 +339,7 @@ One of the most characteristic elements of this panel is the presence of four ro
 The attribution history of this panel has been the subject of lengthy debate: it was first published by Joseph Wilpert in 1916 and attributed to an anonymous artist close to the mosaics of St. Paul Outside the Walls; Edward Garrison later included it in the corpus of the “San Gregorio Master”; Finally, in 1988, Angelo Tartuferi definitively attributed it to the Third Master of Anagni, dating it to the mid-1230s, in close proximity to the St. Francis in the Louvre and the frescoes in Anagni and Subiaco.
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 2.jpg" alt="Miracles of San Magno">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-02.jpg" alt="Miracles of San Magno">
   <figcaption>Miracles of San Magno, 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
@@ -350,7 +350,7 @@ The scene on the right illustrates one of the most famous miracles of Saint Magn
 The Third Master of Anagni stands out for a pictorial quality that anticipates the achievements of the mature thirteenth century. The composition reveals an awareness of the third dimension that was unusual for the time, with spatiality rendered through luminous and serene shades. The attention to realistic detail is evident in the treatment of the clothing—the rich drapery and decorative motifs on the garments—and in the narrative rendering of the architecture in the background, with fully recognizable towers and battlements. The dominant colors play on intense reds, ochres, and golds, with vivid vegetal greens, within an architectural arched frame decorated with geometric and phytomorphic bands. The composition, while rooted in the Byzantine-Roman tradition, shows a tendency towards naturalism that heralds the developments of 13th-century Italian painting, anticipating some of the accents that we will later find in the narrative cycles of the Roman school.
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 3.jpg" alt="Saint Paul, Saint Peter, Saint Magnus, and Saint John the Evangelist">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-03.jpg" alt="Saint Paul, Saint Peter, Saint Magnus, and Saint John the Evangelist">
   <figcaption>Saint Paul, Saint Peter, Saint Magnus, and Saint John the Evangelist, 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
@@ -365,7 +365,7 @@ Saint Magnus, bishop of Trani and evangelizer of Anagni in the third century, oc
 Saint John is depicted as a beardless youth with delicate features, in keeping with the long iconographic tradition of the beloved Evangelist. He wears a salmon-pink robe with a bluish-gray cloak over his shoulders. His attribute is an open scroll bearing a Latin inscription (partially legible), instead of the code typical of the other apostles — a choice that emphasizes the prophetic and visionary nature of the writer of the Apocalypse. The youthful face already shows a plasticity of modeling that anticipates the pictorial achievements of the mature thirteenth century.
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 4.jpg" alt="Saint Francis of Assisi">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-04.jpg" alt="Saint Francis of Assisi">
   <figcaption>Saint Francis of Assisi, 1228-29, fresco, Sacro Speco, Subiaco.</figcaption>
 </figure>
 
@@ -389,7 +389,7 @@ The main obstacle is chronological: Conxolus worked in the second half of the 13
 In summary, the debate has now reached a relative consolidation: the portrait of St. Francis is attributed to the Third Master of Anagni (or Master of Friar Francis), an anonymous painter from the first half of the 13th century trained in the Byzantine tradition of Lazio, while Conxolus is credited with the great pictorial cycle of the lower church, dating from the last quarter of the century, a stylistically and chronologically distinct contribution.
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 5.jpg" alt="St. Augustine and the True Religion">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-05.jpg" alt="St. Augustine and the True Religion">
   <figcaption>St. Augustine and the True Religion, 1234-46, fresco, Aula Gotica, Santi Quattro Coronati, Rome.</figcaption>
 </figure>
 
@@ -407,7 +407,7 @@ The architectural framing is provided by two twisted or decorated columns with s
 From a stylistic point of view, the fresco reveals the salient characteristics of the Third Master: a refined color palette (acid green, warm brown, intense blue, gold), a volumetric modeling of the figures achieved with shades of white lead and dark glazes, and a linearity of the drapery that oscillates between the Byzantine tradition and the first Gothic openings. The face of the bishop on the shoulders of the True Religion, although reduced in size, shows the expressive power that scholars have identified as a distinctive feature of the Third Master, the same that is found in the cycles of Anagni.
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 6.jpg" alt="Madonna della Maestà">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-06.jpg" alt="Madonna della Maestà">
   <figcaption>Madonna della Maestà, fresco, Anagni Cathedral, Anagni.</figcaption>
 </figure>
 
@@ -426,7 +426,7 @@ Of the 13th-century frescoes that once covered the walls of the entire cathedral
 ### The Panel of Saint Francis, Musée du Louvre, Paris
 
 <figure>
-  <img src="/Images/Terzo Maestro di Anagni/image 7.jpg" alt="Saint Francis">
+  <img src="/Images/Terzo-Maestro-di-Anagni/terzo-maestro-di-anagni-07.jpg" alt="Saint Francis">
   <figcaption>Saint Francis, 1225-50, tempera and gold leaf on poplar panel, 95 x 39, Louvre Museum, Paris.</figcaption>
 </figure>
 

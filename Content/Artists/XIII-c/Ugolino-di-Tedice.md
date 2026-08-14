@@ -241,7 +241,7 @@ A final dimension of travel concerns the end of Ugolino’s life and the subsequ
 ## Major works
 
 <figure>
-  <img src="/Images/Ugolino di Tedice/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Ugolino-di-Tedice/ugolino-di-tedice-01.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1250-60, tempera on poplar panel, 90 x 62 cm, Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ The most important work that can be assigned to Ugolino di Tedice with absolute 
 Even so, the object’s form makes clear that it was conceived for a religious environment, since the Hermitage notes that painted crosses were a traditional element of thirteenth-century religious processions in Italy. The image centers on the dying Christ nailed to the cross, with the sorrowing Virgin and Saint John placed at the ends of the horizontal arms, according to the standard Byzantine-derived arrangement. The Hermitage emphasizes the emotional intensity of the work by describing the distorted proportions of the body, the suffering expression of Christ, and the blood issuing in narrow streams from the wound. It further notes the tense chromatic combination of black, olive green, and red, which deepens the tragic force of the Passion image. For art history, this panel is fundamental because it is the fixed documentary and stylistic point from which the broader corpus associated with Ugolino or with the Master of San Martino has been constructed. 
 
 <figure>
-  <img src="/Images/Maestro di San Martino/image 1.jpg" alt="Madonna with child">
+  <img src="/Images/Maestro-di-San-Martino/maestro-di-san-martino-01.jpg" alt="Madonna with child">
   <figcaption>Madonna with child, c. 1270, tempera on panel, 162 x 125 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -263,7 +263,7 @@ The content of the Madonna di San Martino deserves special emphasis because it s
 This combination of Marian centrality and Martinian reference indicates a sophisticated patronal program in which universal theology and local cult were deliberately fused. The same record compares the composition to other thirteenth-century Pisan works that combine a sacred protagonist with narrative compartments, but it stresses that the format and vertical organization of this panel are distinctive. It further suggests possible formal antecedents in central Italian wooden tabernacles and in Byzantine icons intended for private devotion, both of which help explain the panel’s hybrid structure. In stylistic terms, the catalogue speaks of a complex elaboration formed by Byzantine painting, attention to antiquity, and naturalistic experiment, while also noting affinities with Cimabue and even, by analogy, with the sculptural classicism of Nicola Pisano. For this reason the work has long occupied a central place in debates over the status of Pisan painting in the later Duecento, and some scholars even once attributed it to Cimabue before the autonomous personality of the Master of San Martino was more clearly defined. Whether read under the name of Ugolino or under the conventional label of the Master, the panel stands as one of the highest achievements of medieval painting in Pisa according to the judgement recorded in the official catalogue. 
 
 <figure>
-  <img src="/Images/Ugolino di Tedice/image 2.jpg" alt="Madonna and Child with two angels">
+  <img src="/Images/Ugolino-di-Tedice/ugolino-di-tedice-02.jpg" alt="Madonna and Child with two angels">
   <figcaption>Madonna and Child with two angels, c. 1250, tempera on panel, church of San Biagio, Cisanello.</figcaption>
 </figure>
 

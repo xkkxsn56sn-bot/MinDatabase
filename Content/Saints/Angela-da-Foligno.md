@@ -99,7 +99,7 @@ scholars:
 Angela of Foligno (Italian *Angela da Foligno*; c. 1248 – 4 January 1309) is one of the most powerful and disquieting voices in the Western Christian mystical tradition, and simultaneously one of its most elusive historical subjects. A well-to-do married woman of the Umbrian town of Foligno, near Assisi, she underwent a dramatic conversion in her late thirties, entered the Franciscan Third Order as a secular penitent, and, through years of dictation to a Franciscan confessor known only as "Brother A." (*Frater A.*), produced the text known as the *Liber* — comprising the autobiographical *Memoriale* and the more heterogeneous *Instructiones*, together with letters and an official approbation. Evelyn Underhill, the twentieth-century scholar of mysticism, judged that, excepting only St. Bonaventure, Angela "has probably exerted a more enduring, more far-reaching influence than any other Franciscan of the century which followed the Founder's death"; Bernard McGinn's more recent verdict is that her Book "rightly stands as the premier text of all Franciscan women mystics."
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Angela-da-Foligno/image 1.jpg" alt="B. ANGELA DE FVLGINIO">
+  <img src="/Images/Angela-da-Foligno/angela-da-foligno-01.jpg" alt="B. ANGELA DE FVLGINIO">
   <figcaption>Beata Angela da Foligno, XVII secolo, incisione in cavo su rame.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ Angela's relics are venerated in the Church of San Francesco in Foligno (Piazza 
 The most important artwork directly associated with her cult is the altarpiece over her altar: a "Vision of Blessed Angela of Foligno" (c. 1791) by Gaetano Gandolfi (1734–1802) of Bologna, commissioned by Bishop Filippo Trenta and since restored.
 
 <figure>
-  <img src="/Images/Angela-da-Foligno/image 2.jpg" alt="Crucifix">
+  <img src="/Images/Angela-da-Foligno/angela-da-foligno-02.jpg" alt="Crucifix">
   <figcaption>Vision of Blessed Angela of Foligno, c. 1791, oil on canvas, 62 x 40,5 cm. Staatsgalerie Stuttgart.</figcaption>
 </figure>
 

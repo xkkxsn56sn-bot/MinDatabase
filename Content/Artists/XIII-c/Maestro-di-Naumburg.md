@@ -169,41 +169,41 @@ The total absence of personal biographical information regarding his final years
 ### Margrave Ekkehard II with his wife Uta von Ballenstedt
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 1.jpg" alt="Margrave Ekkehard II with his wife Uta von Ballenstedt">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-01.jpg" alt="Margrave Ekkehard II with his wife Uta von Ballenstedt">
   <figcaption>Margrave Ekkehard II with his wife Uta von Ballenstedt, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>
 
 ### Margrave Hermann I with his wife Reglindis
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 2.jpg" alt="Margrave Hermann I with his wife Reglindis">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-02.jpg" alt="Margrave Hermann I with his wife Reglindis">
   <figcaption>Margrave Hermann I with his wife Reglindis, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>
 
 ### Saint Martin of Tours cutting his cloak to give to the poor
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 3.jpg" alt="Saint Martin of Tours cutting his cloak to give to the poor">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-03.jpg" alt="Saint Martin of Tours cutting his cloak to give to the poor">
   <figcaption>Saint Martin of Tours cutting his cloak to give to the poor, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>
 
 ### Adelheid von Burgund and Otto I
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 4.jpg" alt="Adelheid von Burgund and Otto I">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-04.jpg" alt="Adelheid von Burgund and Otto I">
   <figcaption>Adelheid von Burgund and Otto I, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>
 
 ### Crucifix with two Angels
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 5.jpg" alt="Crucifix with two Angels">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-05.jpg" alt="Crucifix with two Angels">
   <figcaption>Crucifix with two Angels, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>
 
 ### The Virgin Mary
 
 <figure>
-  <img src="/Images/Maestro Naumburg/image 6.jpg" alt="The Virgin Mary">
+  <img src="/Images/Maestro-Naumburg/maestro-naumburg-06.jpg" alt="The Virgin Mary">
   <figcaption>The Virgin Mary, c. 1245-1260, polychrome stone, Naumburg Cathedral, Naumburg.</figcaption>
 </figure>

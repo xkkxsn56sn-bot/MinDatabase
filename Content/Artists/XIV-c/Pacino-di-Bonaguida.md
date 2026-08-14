@@ -184,7 +184,7 @@ The collaborative relationships that Pacino cultivated with other independent ma
 ## Most Important Works
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 1.jpg" alt="Polyptych with the Crucifixion and Saints Nicholas, Bartholomew, Florentius, and Luke">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-01.jpg" alt="Polyptych with the Crucifixion and Saints Nicholas, Bartholomew, Florentius, and Luke">
   <figcaption>Polyptych with the Crucifixion and Saints Nicholas, Bartholomew, Florentius, and Luke, 1315-20, tempera on panel, 182 x 249 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ The polyptych depicts the Crucifixion at its center, flanked by Saints Nicholas,
 The predella of the polyptych has been dispersed, and fragments of a *Legend of Saint Proculus* connected to the church of San Procolo in Florence have been associated with this commission by recent scholarship, suggesting that the original altarpiece was considerably more complex than the surviving polyptych alone. The style of the polyptych is notably archaic in its gold ground conventions and figure typology, yet incorporates the softened tonal modeling and modest spatial recession that distinguish Pacino's mature manner from the pure Byzantine inheritance.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 4.jpg" alt="Tree of Life">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-04.jpg" alt="Tree of Life">
   <figcaption>Tree of Life, 1305-10, tempera and gold on panel, 248 × 151 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ At the base of the cross, within a rocky grotto signifying Mount Golgotha, Saint
 The upper portion of the panel opens onto a celestial vision, with the enthroned Christ in Majesty surrounded by angelic hierarchies and the blessed, constituting a visual representation of the eschatological consummation promised by the Resurrection. The composition is remarkable for its ability to sustain theological complexity without sacrificing visual legibility: the tree structure functions as both a theological diagram and a genuine pictorial device, guiding the viewer's eye through the program in a sequence that is simultaneously narrative and meditative.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 2.jpg" alt="The Martyrdom of Saint Lawrence">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-02.jpg" alt="The Martyrdom of Saint Lawrence">
   <figcaption>The Martyrdom of Saint Lawrence (from Laudario della Compagnia di Sant'Agnese), c. 1340, tempera and gold leaf on vellum, 19 × 20.8 cm, The J. Paul Getty Museum, Los Angeles, Ms. 80b, verso, 2006.13.verso.</figcaption>
 </figure>
 
@@ -219,14 +219,14 @@ The original volume has long been dismembered, and its leaves today are scattere
 Each surviving leaf bears a large miniature framed within an elaborate vinescroll border containing historiated medallions, full-length offering figures, and foliate ornament executed in gold, blue, and crimson; the main miniatures depict scenes from the life of the patron saint of the relevant lauda or directly illustrate the theological content of the hymn.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 3.jpg" alt="Christ in Majesty">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-03.jpg" alt="Christ in Majesty">
   <figcaption>Christ in Majesty (from Laudario della Compagnia di Sant'Agnese), c. 1340, tempera and gold leaf on vellum, 454 x 335 mm, Morgan Library and Museum, New York, MS M.742.</figcaption>
 </figure>
 
 The leaf depicting *Christ in Majesty* shows the enthroned Christ surrounded by angels, with two full-length offering figures, presumably representing members of the confraternity, kneeling in presentation at the base of the composition, an iconographic formula that both honors the divine subject and records the devotional act of the commissioning community. The collaboration with the Master of the Dominican Effigies in the execution of this manuscript has been confirmed by technical and stylistic analysis, with the two masters apparently dividing the illumination of individual leaves or even sections of leaves between them in a fluid and practiced manner.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 5.jpg" alt="The Last Supper">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-05.jpg" alt="The Last Supper">
   <figcaption>The Last Supper (from Vita di Cristo e del Beato Gherardo da Villamagna), c. 1320, tempera and gold leaf on vellum, 245 x 176 mm, Morgan Library and Museum, New York, MS M.643.</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ The illustrated codex known as the *Vita di Cristo e del Beato Gherardo da Villa
 The choice of this subject matter connects the codex to a specifically Florentine devotional culture of local sainthood and popular piety that Pacino's workshop consistently served. The miniatures display the characteristic qualities of Pacino's narrative approach at its most fluent: scenes are rendered with a warm, unrhetorical emotional register, figures are grouped with an instinctive spatial sense, and the brilliant colors, vermilion, azurite, green, and gold, create a luminous visual environment appropriate to the devotional purpose of the book.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 6.jpg" alt="Trivulziana Bible">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-06.jpg" alt="Trivulziana Bible">
   <figcaption>Trivulziana Bible, 1325-30, mineral pigments on parchment, 351 x 251 mm, Biblioteca Trivulziana, Milano, MS 2139.0270r.</figcaption>
 </figure>
 
@@ -244,7 +244,7 @@ The illuminated Bible represents the apex of Pacino's manuscript illumination, e
 The style of the Trivulziana Bible shows the fullest development of the Gothic inflections that entered Pacino's vocabulary during the 1320s: figures are more elongated and more elegantly posed than in earlier works, drapery falls in more complex and rhythmically sophisticated configurations, and the decorative borders achieve a new density of ornamental invention. The commission presumably came from a wealthy Florentine patron or institution connected to the Milanese collecting milieu, though the specific circumstances of its original commission remain unclear. The Trivulziana Bible is cited by Pasut as the culminating achievement of Pacino's career as an illuminator and one of the key monuments of Florentine manuscript painting of the first half of the fourteenth century. It's worth noticing a comment on the Trivulziana site in which it is suggested the "the miniature (is) traditionally attributed to Pacino da Bonaguida, but according to the most recent studies (is) perhaps attributable to an independent “Master of the Trivulziana Bible.”
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 7.jpg" alt="Antiphonaries of Santa Maria a Impruneta">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-07.jpg" alt="Antiphonaries of Santa Maria a Impruneta">
   <figcaption>Antiphonary, 1325-30, mineral pigments on parchment, 540 x 384 mm, Basilica di Santa Maria, Impruneta, Cod. VII.19r.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ The cycle of antiphonaries produced for the collegiate church of Santa Maria a I
 The five surviving choir books (now in the Museo del Tesoro di Impruneta) contain a series of historiated initials depicting scenes from the sanctoral and temporal cycles of the liturgical year, executed with varying degrees of refinement that reflect the division of labor between the master and his workshop collaborators. The more accomplished initials, attributed to Pacino's own hand, display a lively figure style in which the expressive range is somewhat broader than in his earlier works, with faces more animated and gestures more emphatic, suggesting a response to the dramatic idiom being developed in contemporary Florentine painting by the circle of Giotto's successors.
 
 <figure>
-  <img src="/Images/Pacino di Bonaguida/image 8.jpg" alt="Illustrated Copies of the Divina Commedia">
+  <img src="/Images/Pacino-di-Bonaguida/pacino-di-bonaguida-08.jpg" alt="Illustrated Copies of the Divina Commedia">
   <figcaption>Illustrated Copies of the Divina Commedia (Inferno, fol. 1r), 1330-37, mineral pigments on vellum, 340 x 250 mm, Morgan Library and Museum, New York, MS M.289.</figcaption>
 </figure>
 

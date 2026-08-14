@@ -179,7 +179,7 @@ scholars:
 The *Chiesa di Santa Maria foris portas*, situated in the municipality of Castelseprio within the province of Varese in Lombardy, Italy, represents one of the most significant early medieval religious complexes in northern Italy. Its rediscovery in 1944 transformed the understanding of artistic production during the period often characterized as the European Dark Ages, revealing a sophisticated and powerful visual culture that had previously been obscured. The church itself is a modest structure, consisting of a single nave covered by a barrel vault, which reflects a simple yet functional architectural typology common in rural ecclesiastical buildings of the era. This architectural simplicity, however, serves to concentrate attention entirely upon the extraordinary mural decoration that adorns its interior walls, a feature that elevates the humble building into a site of profound artistic importance. The complex also includes the nearby *Torba tower*, whose relationship to the church remains a subject of scholarly investigation, though both structures are considered key components of the archaeological landscape of Castelseprio. The very name *foris portas*, meaning "outside the gates," was applied to the church from at least the 13th century, indicating a long-standing recognition of its location relative to the ancient town walls that once surrounded Castelseprio.
 
 <figure>
- <img src="/Images/Chiesa Castelseprio/image 1.jpg" alt="church of Santa Maria foris portas - Castelseprio">
+ <img src="/Images/Chiesa-Castelseprio/chiesa-castelseprio-01.jpg" alt="church of Santa Maria foris portas - Castelseprio">
  <figcaption>Church of Santa Maria foris portas, Castelseprio, Varese.</figcaption>
 </figure>
 

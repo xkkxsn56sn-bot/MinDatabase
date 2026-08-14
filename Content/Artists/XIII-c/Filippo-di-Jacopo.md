@@ -132,7 +132,7 @@ No documentary record of the death of Filippo di Jacopo survives. Given that his
 ### Mary Magdalene Penitent and Eight Episodes of Her Life
 
 <figure>
-  <img src="/Images/Maestro della Maddalena/image 1.jpg" alt="Maddalena Penitente e Otto Storie della sua Vita - Galleria dell'Accademia, Florence">
+  <img src="/Images/Maestro-della-Maddalena/maestro-della-maddalena-01.jpg" alt="Maddalena Penitente e Otto Storie della sua Vita - Galleria dell'Accademia, Florence">
   <figcaption>Penitent Magdalen with 8 scenes from her life, 1280-85, tempera and gold on panel, 178 x 91 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 

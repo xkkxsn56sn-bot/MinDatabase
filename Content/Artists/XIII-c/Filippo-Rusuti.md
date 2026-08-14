@@ -203,7 +203,7 @@ Filippo Rusuti died around 1325, though neither the precise date nor the cause o
 ### Madonna di San Luca
 
 <figure>
-  <img src="/Images/Filippo Rusuti/image 1.jpg" alt="Madonna di San Luca">
+  <img src="/Images/Filippo-Rusuti/filippo-rusuti-01.jpg" alt="Madonna di San Luca">
   <figcaption>Madonna di San Luca, c. 1297, tempera and gold on panel, church of Santa Maria del Popolo, Rome.</figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ The restoration confirmed Rusuti’s authorship through the signature and style,
 ### Enthroned Christ (Pantocrator)
 
 <figure>
-  <img src="/Images/Filippo Rusuti/image 2.jpg" alt="Enthroned Christ">
+  <img src="/Images/Filippo-Rusuti/filippo-rusuti-02.jpg" alt="Enthroned Christ">
   <figcaption>Enthroned Christ (Pantocrator), mosaic, façade of Basilica of Santa Maria Maggiore, Rome.</figcaption>
 </figure>
 

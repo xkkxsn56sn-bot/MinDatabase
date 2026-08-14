@@ -130,7 +130,7 @@ Scholars have speculated, on the basis of the sheer organisational complexity of
 The hypothesis that Wiligelmo might have come from a family with deep connections to ecclesiastical patronage, perhaps a family that already provided stone-carvers or builders to the reformed monasteries of northern Italy, is supported by the evident theological sophistication of the iconographic programmes he executed, a sophistication that could only have been nurtured in close proximity to ecclesiastical learning.
 
 <figure class="figure--right">
-  <img src="/Images/Wiligelmo/image 7.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
+  <img src="/Images/Wiligelmo/wiligelmo-07.jpg" alt="Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis">
   <figcaption>Relatio de Innovatione Ecclesie Sancti Geminiani ac de Translatione Eius Beatissimi Corporis, Manuscript O.II.11, Cathedral Chapter, Modena.<a href="/endnotes.html#fn-modena-inscriptions" class="footnote"><sup>1</sup></a></figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ The work of a "terrible revolutionary," as Arcangeli named him, did not end with
 ### Stories from Genesis: the Eternal Father in the mandorla, the creation of Adam, the creation of Eve, the Original Sin
 
 <figure>
-  <img src="/Images/Wiligelmo/image 1.jpg" alt="Stories from Genesis: the Eternal Father in the mandorla, the creation of Adam, the creation of Eve, the Original Sin">
+  <img src="/Images/Wiligelmo/wiligelmo-01.jpg" alt="Stories from Genesis: the Eternal Father in the mandorla, the creation of Adam, the creation of Eve, the Original Sin">
   <figcaption>Stories from Genesis: the Eternal Father in the mandorla, the creation of Adam, the creation of Eve, the Original Sin, 1099-1110, Vicenza soft stone, Cathedral of San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ The first panel then proceeds, in a continuous left-to-right narrative flow, thr
 ### Stories from Genesis: God's rebuke, expulsion from Earthly Paradise, Labour
 
 <figure>
-  <img src="/Images/Wiligelmo/image 2.jpg" alt="Stories from Genesis: God's rebuke, expulsion from Earthly Paradise, Labour">
+  <img src="/Images/Wiligelmo/wiligelmo-02.jpg" alt="Stories from Genesis: God's rebuke, expulsion from Earthly Paradise, Labour">
   <figcaption>Stories from Genesis: God's rebuke, expulsion from Earthly Paradise, Labour, 1099-1110, Vicenza soft stone, Cathedral of San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ The second panel continues the narrative with the scene of *God's Reproof* in wh
 ### Stories from Genesis: the sacrifices of Cain and Abel, the killing of Abel, the encounter between God and Cain
 
 <figure>
-  <img src="/Images/Wiligelmo/image 3.jpg" alt="Stories from Genesis: the sacrifices of Cain and Abel, the killing of Abel, the encounter between God and Cain">
+  <img src="/Images/Wiligelmo/wiligelmo-03.jpg" alt="Stories from Genesis: the sacrifices of Cain and Abel, the killing of Abel, the encounter between God and Cain">
   <figcaption>Stories from Genesis: the sacrifices of Cain and Abel, the killing of Abel, the encounter between God and Cain, 1099-1110, Vicenza soft stone, Cathedral of San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -232,7 +232,7 @@ The third panel depicts the *Sacrifice of Cain and Abel* with both brothers pres
 ### Stories from Genesis: the slaying of Cain, Noah's ark, the exit of Noah and his sons from the ark
 
 <figure>
-  <img src="/Images/Wiligelmo/image 4.jpg" alt="Stories from Genesis: the slaying of Cain, Noah's ark, the exit of Noah and his sons from the ark">
+  <img src="/Images/Wiligelmo/wiligelmo-04.jpg" alt="Stories from Genesis: the slaying of Cain, Noah's ark, the exit of Noah and his sons from the ark">
   <figcaption>Stories from Genesis: the slaying of Cain, Noah's ark, the exit of Noah and his sons from the ark, 1099-1110, Vicenza soft stone, Cathedral of San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ The fourth and final panel narrates the *assassination of Cain* by the blind hun
 ### Epigraph with the prophets Enoch and Elijah
 
 <figure>
-  <img src="/Images/Wiligelmo/image 5.jpg" alt="Epigraph with the prophets Enoch and Elijah">
+  <img src="/Images/Wiligelmo/wiligelmo-05.jpg" alt="Epigraph with the prophets Enoch and Elijah">
   <figcaption>Epigraph with the prophets Enoch and Elijah, 1099-1110, Vicenza soft stone, Cathedral of San Geminiano, Modena.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ The two prophet figures draw directly upon the compositional formula of the *Sar
 ### Portal of the Abbey of Nonantola
 
 <figure>
-  <img src="/Images/Wiligelmo/image 6.jpg" alt="Portal of the Abbey of Nonantola">
+  <img src="/Images/Wiligelmo/wiligelmo-06.jpg" alt="Portal of the Abbey of Nonantola">
   <figcaption>Portal of the Abbey of Nonantola, bef. 1117, marble, Abbey of Santi Silvestro e Anselmo, Nonantola.</figcaption>
 </figure>
 

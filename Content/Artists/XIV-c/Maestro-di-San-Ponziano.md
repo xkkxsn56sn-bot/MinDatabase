@@ -92,7 +92,7 @@ This essay proceeds accordingly. It is grounded in the specialist Italian-langua
 The abbey of San Ponziano stands outside the medieval walls of Spoleto, along the road toward Colle Ciciano, amid woods and olive groves and close to the city cemetery and the palaeochristian church of San Salvatore. The site is one of the most ancient sacred places of the city. Tradition holds it to be the spot where Ponziano — a young Spoletan of good family, martyred, according to the *passio*, in 175 under Marcus Aurelius — was buried after his decapitation, or where his severed head is said to have rolled to rest. In historical terms the area was certainly an early-Christian cemetery; an inscription in the crypt commemorates the matron Procula, a *spectabilis foemina* who, probably in the sixth century, is said to have rediscovered the place where the martyr's remains had been laid by the matron Sincleta, and to have raised an altar there.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro-di-San-Ponziano/image 1.jpg" alt="church of San Ponziano">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-01.jpg" alt="church of San Ponziano">
   <figcaption>church of San Ponziano, Spoleto.</figcaption>
   </figure>
 
@@ -137,7 +137,7 @@ The core of the master's identity, and the origin of his name, lies in the fresc
 ### The central apse: the *Crucifixion with the animula*
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 2.jpg" alt="Crucifixion with the two Marys and the animula carried to heaven">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-02.jpg" alt="Crucifixion with the two Marys and the animula carried to heaven">
   <figcaption>Crucifixion with the two Marys and the animula carried to heaven, 1325-35, fresco, crypt of San Ponziano, Spoleto.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ A significant contextual observation from the local literature: two holes in the
 ### The wooden statue of St Pontianus
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 4.jpg" alt="The wooden statue of St Pontianus">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-04.jpg" alt="The wooden statue of St Pontianus">
   <figcaption>The statue of St Pontianus, carved and painted wood, 1325–1330, from the crypt of San Ponziano; Museo Nazionale del Ducato di Spoleto.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ The head, however, is the decisive element. It was carved as a separate piece an
 That single fact reorganises the entire object. What is at issue is not a mutilated statue of a saint but a deliberate representation of the decapitated corpse, an unusually literal and almost forensic image for central Italy in the 1320s and 1330s, and one that answers directly to local hagiography: Pontianus was beheaded on the Tessino bridge, thereafter known as the Ponte Sanguinario, and his head is said to have leapt a considerable distance uphill to the site on which the church dedicated to him was subsequently raised.
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 5.jpg" alt="The head of St Pontianus">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-05.jpg" alt="The head of St Pontianus">
   <figcaption>The head of St Pontianus, 1325–30, carved and painted wood, from the crypt of San Ponziano; Museo Nazionale del Ducato di Spoleto.</figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ A further work reported in the abbey — a panel **Crucifix**, formerly in the r
 ### Madonna enthroned with the Child
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 3.jpg" alt="Madonna enthroned with the Child">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-03.jpg" alt="Madonna enthroned with the Child">
   <figcaption>Madonna enthroned with the Child, 1325–35, fresco, crypt of San Ponziano, Spoleto.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ The lower third has suffered: heavy abrasion and whitish calcareous deposit have
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 6.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-06.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1325–30, detached fresco (halos originally gilded, gilding lost), from the church of the Trinità, Spoleto; Museo Nazionale del Ducato di Spoleto, Spoleto.</figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ The ground behind the figures is a warm brick red, worked with a large-scale inc
 ### Madonna di Belfiore (attributed)
 
 <figure>
-  <img src="/Images/Maestro-di-San-Ponziano/image 7.jpg" alt="Madonna di Belfiore">
+  <img src="/Images/Maestro-di-San-Ponziano/maestro-di-san-ponziano-07.jpg" alt="Madonna di Belfiore">
   <figcaption>Madonna di Belfiore, c. 1310, carved and painted wood, from the parish church of San Niccolò at Belfiore di Foligno; Museo Nazionale del Ducato di Spoleto.</figcaption>
 </figure>
 

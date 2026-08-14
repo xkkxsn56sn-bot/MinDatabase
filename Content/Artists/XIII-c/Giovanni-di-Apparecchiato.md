@@ -427,7 +427,7 @@ Giovanni's exclusion from these emerging biographical traditions reflects the co
 ### Madonna with Child between Saint John the Baptist and Saint John the Evangelist
 
 <figure>
-  <img src="/Images/Giovanni di Apparecchiato/image 1.jpg" alt="Madonna with Child between Saint John the Baptist and Saint John the Evangelist">
+  <img src="/Images/Giovanni-di-Apparecchiato/giovanni-di-apparecchiato-01.jpg" alt="Madonna with Child between Saint John the Baptist and Saint John the Evangelist">
   <figcaption>Madonna with Child between Saint John the Baptist and Saint John the Evangelist, 1299, fresco, Palazzo dell'Opera della Primaziale Pisana, sala della Deputazione, Pisa.</figcaption>
 </figure>
 

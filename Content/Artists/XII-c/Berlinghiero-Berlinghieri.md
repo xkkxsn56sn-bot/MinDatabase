@@ -137,7 +137,7 @@ The collaborative workshop practices that characterized Berlinghiero's studio re
 ### Christus Triumphans
 
 <figure>
-  <img src="/Images/Berlinghiero Berlinghieri/image 2.jpg" alt="Christus Triumphans">
+  <img src="/Images/Berlinghiero-Berlinghieri/berlinghiero-berlinghieri-02.jpg" alt="Christus Triumphans">
   <figcaption>Christus Triumphans, 1210-20, tempera and gold on panel, 176 x 141 cm, Museo nazionale di Villa Guinigi, Lucca.</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ The influence of the Lucca Crucifix on subsequent Tuscan painted crosses extends
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Berlinghiero Berlinghieri/image 2.jpg" alt="Madonna and Child">
+  <img src="/Images/Berlinghiero-Berlinghieri/berlinghiero-berlinghieri-02.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1230s, tempera and gold on panel, 76,2 x 49,5 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ The work's portability—despite its substantial size, it could be moved, transp
 ### Fucecchio Crucifix
 
 <figure>
-  <img src="/Images/Berlinghiero Berlinghieri/image 3.jpg" alt="Fucecchio Crucifix">
+  <img src="/Images/Berlinghiero-Berlinghieri/berlinghiero-berlinghieri-03.jpg" alt="Fucecchio Crucifix">
   <figcaption>Fucecchio Crucifix, 1230-35, tempera and gold on panel, 156 x 100 cm, Museo nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

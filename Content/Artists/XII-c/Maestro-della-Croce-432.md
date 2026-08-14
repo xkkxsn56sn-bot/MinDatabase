@@ -175,7 +175,7 @@ Considering the documented transition from *triumphant* to *sufferin*g crucifixe
 ### Christ Triumphant
 
 <figure>
-  <img src="/Images/Maestro Croce 432/image 1.jpg" alt="Painted Cross (Christ Triumphant)">
+  <img src="/Images/Maestro-Croce-432/maestro-croce-432-01.jpg" alt="Painted Cross (Christ Triumphant)">
   <figcaption>Painted Cross (Christ Triumphant), 1175-1200, tempera on elm panel with a gold ground and inlay decorations, 276 x 231 cm, Uffizi Gallery, Florence.</figcaption>
 </figure>
 

@@ -212,7 +212,7 @@ The corpus of works securely attributed to Vigoroso da Siena is, by the standard
 ### Altarpiece of Saint Juliana
 
 <figure>
-  <img src="/Images/Vigoroso da Siena/image 1.jpg" alt="Altarpiece of Saint Juliana">
+  <img src="/Images/Vigoroso-da-Siena/vigoroso-da-siena-01.jpg" alt="Altarpiece of Saint Juliana">
   <figcaption>Dossale with the Madonna and Child Enthroned with Saints, 1291, tempera on poplar panel, 233 x 153 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ This discovery has put the painter’s apparent “precocity” relative to Cima
 ### Attributed Miniature at the Fondazione Cini (Venice)
 
 <figure>
-  <img src="/Images/Vigoroso da Siena/image 2.jpg" alt="Altarpiece of Saint Juliana">
+  <img src="/Images/Vigoroso-da-Siena/vigoroso-da-siena-02.jpg" alt="Altarpiece of Saint Juliana">
   <figcaption>Letter "M" depicting the Twelve Apostles, c. 1291, mineral and vegetal pigments on parchment, Fondazione Cini, Venice.</figcaption>
 </figure>
 

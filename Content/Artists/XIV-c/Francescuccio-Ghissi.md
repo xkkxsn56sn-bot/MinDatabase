@@ -177,7 +177,7 @@ Francescuccio Ghissi's death remains undocumented in surviving historical source
 ### Our Lady of Humility (Vatican)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 1.jpg" alt="Our Lady of Humility">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-01.jpg" alt="Our Lady of Humility">
   <figcaption>Our Lady of Humility, c. 1365, tempera and gold on panel, 34,6 x 19,9 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ The attribution to Francescuccio Ghissi (Francescuccio di Cecco di Ghisso, activ
 ### Dead Christ and angels; Adoration of Baby Jesus
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 2.jpg" alt="Dead Christ and angels; Adoration of Baby Jesus">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-02.jpg" alt="Dead Christ and angels; Adoration of Baby Jesus">
   <figcaption>Dead Christ and angels; Adoration of Baby Jesus, c. 1360, tempera and gold on panel, 39,3 x 28,5 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ The attribution to Francescuccio Ghissi (active in Fabriano, c. 1359–1395) pla
 ### Our Lady of Humility (Fabriano)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 3.jpg" alt="Our Lady of Humility">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-03.jpg" alt="Our Lady of Humility">
   <figcaption>Our Lady of Humility, 1359, tempera on panel, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ Because it is signed and dated 1359, this Fabriano *Madonna dell'Umiltà* is the
 ### Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 4.jpg" alt="Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-04.jpg" alt="Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot">
   <figcaption>Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot, 1370, tempera on panel, 173 x 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ The attribution to Francescuccio Ghissi places this among his more ambitious sur
 ### Our Lady of Humility (Fermo)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 5.jpg" alt="Our Lady of Humility">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-05.jpg" alt="Our Lady of Humility">
   <figcaption>Our Lady of Humility, tempera and gold on panel, 95 x 77 cm, Pinacoteca civica, Fermo.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ The image compresses several Marian ideas into one intimate icon: the humility o
 ### Enthroned Madonna with Six Angels
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 6.jpg" alt="Enthroned Madonna with Six Angels">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-06.jpg" alt="Enthroned Madonna with Six Angels">
   <figcaption>Enthroned Madonna with Six Angels, tempera and gold on panel, 138 x 99 cm, Musée du Petit Palais, Avignon.</figcaption>
 </figure>
 
@@ -339,7 +339,7 @@ This is the regal counterpart to the humility images: where the *Madonna dell'Um
 ### Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 7.jpg" alt="Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right)">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-07.jpg" alt="Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right)">
   <figcaption>Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right), tempera on panel, 450 x 209 mm (central); 457 x 114 mm (wings), National Trust, Polesden Lacey, Surrey.</figcaption>
 </figure>
 
@@ -362,7 +362,7 @@ The programme is a compact meditation on Incarnation and Redemption, of the kind
 ### The Resurrection of Drusiana
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/image 8.jpg" alt="The Resurrection of Drusiana">
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-08.jpg" alt="The Resurrection of Drusiana">
   <figcaption>The Resurrection of Drusiana, c. 1370 tempera on panel, 34.3 x 36.8 cm, Portland Art Museum, Portland.</figcaption>
 </figure>
 

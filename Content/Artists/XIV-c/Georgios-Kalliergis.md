@@ -153,7 +153,7 @@ The first is the metrical inscription in the Church of the Resurrection of Chris
 Translation: A foreigner from Psalida (or Psalidas) built a temple for the Resurrection of Christ, seeking forgiveness for the many crimes committed. His name was Euphrosyne, the Heavenly One (=Sennos). He completed this. Historian Kaliergis, my good and kind brothers, from Thettalia, an excellent painter. Patriarchal hand erected the temple of the great king Andronikos Komnenus Palaiologos in the year [,s] okg.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Georgios-Kalliergis/image 1.jpg" alt="Church of the Resurrection of Christ in Veroia">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-01.jpg" alt="Church of the Resurrection of Christ in Veroia">
   <figcaption>Church of the Resurrection of Christ in Veroia, Greece.</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ The posthumous influence of Kalliergis's manner on later Byzantine and post-Byza
 ### Virgin and Child (Hodegetria)
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 7.jpg" alt="Virgin and Child">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-07.jpg" alt="Virgin and Child">
   <figcaption>Virgin and Child (Hodegetria), 1315, tempera on wood panel (portable icon), Byzantine Museum, Veroia, Greece.</figcaption>
 </figure>
 
@@ -291,7 +291,7 @@ The upper zone carries the principal narrative program, the Christological cycle
 ### The Crucifixion
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 3.jpg" alt="The Crucifixion">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-03.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1315, fresco, church of the Resurrection of Christ, Veroia, Greece.</figcaption>
 </figure>
 
@@ -386,7 +386,7 @@ Together, the *Crucifixion* and the *Koimesis* constitute the core of a unified 
 ### The Resurrection of Christ
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 4.jpg" alt="The Resurrection of Christ">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-04.jpg" alt="The Resurrection of Christ">
   <figcaption>The Resurrection of Christ, 1315, fresco, church of the Resurrection of Christ, Veroia, Greece.</figcaption>
 </figure>
 
@@ -475,7 +475,7 @@ Together with the *Koimesis* and the *Crucifixion*, this *Anastasis* confirms th
 ### The Dormition of the Virgin
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 2.jpg" alt="The Dormition of the Virgin">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-02.jpg" alt="The Dormition of the Virgin">
   <figcaption>The Dormition of the Virgin, 1315, fresco, church of the Resurrection of Christ, Veroia, Greece.</figcaption>
 </figure>
 
@@ -554,7 +554,7 @@ Kalliergis's self-identification as the finest painter of his region was the sta
 ### Annunciation, Apse, and Saints
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 5.jpg" alt="Annunciation, Apse, and Saints">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-05.jpg" alt="Annunciation, Apse, and Saints">
   <figcaption>Annunciation, Apse, and Saints, 1315, fresco, church of the Resurrection of Christ, Veroia, Greece.</figcaption>
 </figure>
 
@@ -635,7 +635,7 @@ Together these zones constitute not merely a decorative programme but a complete
 ### Four great Church Fathers
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 6.jpg" alt="Four great Church Fathers">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-06.jpg" alt="Four great Church Fathers">
   <figcaption>Four great Church Fathers: John Chrysostom, Basil the Great, Gregory the Theologian, and in the fourth position probably Athanasius the Great, 1315, fresco, church of the Resurrection of Christ, Veroia, Greece.</figcaption>
 </figure>
 
@@ -732,7 +732,7 @@ Together, the four Church Fathers and their kneeling supplicant constitute one o
 Beyond the Veroia frescoes, the scholarly debate over Kalliergis's oeuvre encompasses several further monuments whose attribution to his hand remains contested and in some cases actively disputed. The attribution discussions are significant not only for the history of Kalliergis's individual career but for the broader project of mapping the artistic landscape of early-Palaiologan Thessaloniki.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Georgios-Kalliergis/image 9.jpg" alt="The Church of Taxiarches, Thessaloniki Upper Town">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-09.jpg" alt="The Church of Taxiarches, Thessaloniki Upper Town">
   <figcaption>Church of Taxiarches (view from the north-west), Thessaloniki Upper Town, Greece.</figcaption>
 </figure>
 
@@ -741,7 +741,7 @@ The frescoes of the Taxiarchon (Taxiarches) church in the upper town of Thessalo
 The physical setting of the monument strengthens, though does not prove, the plausibility of this attribution. The church stands within the fortified upper town (*Ano Poli*), the sector of Thessaloniki where monastic foundations, urban aristocratic chapels, and strategic devotional sites formed a dense sacred topography in the late Byzantine period. A painter active in the city's principal ecclesiastical networks, and already linked by document to Athonite-Hilandar interests, would have been a natural candidate for commissions in precisely this milieu. In this sense, the Taxiarchon attribution is historically coherent even before style is considered: it fits the social geography of patronage that governed major fresco commissions in early-fourteenth-century Thessaloniki.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Georgios-Kalliergis/image 8.jpg" alt="The Church of Taxiarches, Thessaloniki Upper Town">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-08.jpg" alt="The Church of Taxiarches, Thessaloniki Upper Town">
   <figcaption>Church of Taxiarches (view from the north-east), Thessaloniki Upper Town, Greece.</figcaption>
 </figure>
 
@@ -750,7 +750,7 @@ At the stylistic level, proponents of the attribution emphasize traits that alig
 Methodologically, however, caution remains essential. The present state of preservation, the probable participation of assistants, and the permeability of workshop idioms in Palaiologan Macedonia make definitive hand-attribution difficult without systematic technical study (pigment analysis, plaster stratigraphy, and close epigraphic comparison of inscriptions where extant). For this reason, the most defensible formulation at present is one of calibrated probability: the Taxiarchon frescoes may represent either Kalliergis himself, a close collaborator operating under his supervision, or a workshop trained in his immediate stylistic orbit. Even in this more cautious form, the attribution remains art-historically consequential, because it enlarges the map of a Thessalonian classicizing current whose impact reached from urban Macedonia to the Athonite and Serbian patronage spheres.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Georgios-Kalliergis/image 10.jpg" alt="The Church of St. Nicholas Orphanos, Thessaloniki">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-10.jpg" alt="The Church of St. Nicholas Orphanos, Thessaloniki">
   <figcaption>Church of St. Nicholas Orphanos, Thessaloniki, Greece.</figcaption>
 </figure>
 
@@ -765,7 +765,7 @@ For attributional method, the most productive path now lies in integrating styli
 ### Two Deaths, One Wall: Kalliergis and the Theology of Sacred Passage
 
 <figure>
-  <img src="/Images/Georgios-Kalliergis/image 11.jpg" alt="Frescoes in the Church of St. Nicholas Orphanos, Thessaloniki">
+  <img src="/Images/Georgios-Kalliergis/georgios-kalliergis-11.jpg" alt="Frescoes in the Church of St. Nicholas Orphanos, Thessaloniki">
   <figcaption>Two Deaths, One Wall: Kalliergis and the Theology of Sacred Passage, 1310-20, fresco, church of St. Nicholas Orphanos, Thessaloniki, Greece.</figcaption>
 </figure>
 

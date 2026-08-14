@@ -138,7 +138,7 @@ Perched at roughly six hundred metres above sea level on the southern slopes of 
 What makes Nerezi extraordinary within the broader cartography of Byzantine monumental art is, above all, a fortuitous combination of historical accident and artistic ambition. The painted decoration of the capital Constantinople — which must once have provided the yardstick against which all provincial Byzantine painting measured itself — was effectively annihilated, first by the Latin sack of 1204, then by centuries of Ottoman conversion of churches into mosques. Nerezi, isolated on a Macedonian hillside and largely unknown to western scholarship until the 1920s, thus became by default the principal surviving witness to what the art of Komnenian Constantinople actually looked like at the height of the dynasty's cultural achievement. Scholars from [Nikolai Okunev](/scholars.html#okunev-nikolai-lvovich) to [Ida Sinkević](/scholars.html#sinkevic-ida) have therefore treated it not as a peripheral monument but as a displaced metropolitan masterpiece: Constantinopolitan in vocabulary, refinement, and iconographic ambition, yet miraculously preserved far from the city that inspired it.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Nerezi/image 1.jpg" alt="Church of Saint Panteleimon at Nerezi" loading="lazy" decoding="async" />
+  <img src="/Images/Nerezi/nerezi-01.jpg" alt="Church of Saint Panteleimon at Nerezi" loading="lazy" decoding="async" />
   <figcaption>The church of Saint Panteleimon at Nerezi.</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ The foundation of the Church of Saint Panteleimon is one of the most precisely d
 The political and cultural context of the 1160s is indispensable for reading the monument. Manuel I's reign represented the apex of the Komnenian second renaissance: the emperor pursued an ambitious foreign policy on all frontiers, engaged in protracted negotiations with Pope Alexander III<a href="/endnotes.html#fn-pope-alexander-iii" class="footnote"><sup>2</sup></a> over Church union, and presided over a court celebrated for its theological sophistication and its patronage of the arts. The concentration at Nerezi of unusually learned iconographic choices — the Hymnographers' cycle, the Eucharistic imagery in the bema, the patristic portraits in the bishop-saint frieze — reflects the theological preoccupations of a court that debated Christological subtleties with scholarly rigour. Ida Sinkević argues persuasively that Alexios's documented presence at the Church Council of Constantinople in 1166, alongside his brothers John, Andronikos, and Isaac, indicates a patron well integrated into the intellectual life of the Komnenian court and capable of commissioning a programme of corresponding depth.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Nerezi/image 4.jpg" alt="Saint Panteleimon">
+  <img src="/Images/Nerezi/nerezi-04.jpg" alt="Saint Panteleimon">
   <figcaption>Master of Nerezi, Saint Panteleimon, c. 1164, fresco, church of Saint Panteleimon, Nerezi, North Macedonia.</figcaption>
 </figure>
 
@@ -239,7 +239,7 @@ Formally, the correspondences between Nerezi and the Italian masters are indeed 
 ### The Deposition from the Cross
 
 <figure>
-  <img src="/Images/Nerezi/image 2.jpg" alt="The Deposition from the Cross">
+  <img src="/Images/Nerezi/nerezi-02.jpg" alt="The Deposition from the Cross">
   <figcaption>The Deposition from the Cross, c. 1164, fresco, church of Saint Panteleimon, Nerezi, North Macedonia.</figcaption>
 </figure>
 
@@ -263,7 +263,7 @@ The Nerezi frescoes are not, as was long believed, the work of an isolated maste
 ### The Lamentation over the Dead Christ
 
 <figure>
-  <img src="/Images/Nerezi/image 3.jpg" alt="The Lamentation over the Dead Christ">
+  <img src="/Images/Nerezi/nerezi-03.jpg" alt="The Lamentation over the Dead Christ">
   <figcaption>The Lamentation over the Dead Christ, c. 1164, fresco, church of Saint Panteleimon, Nerezi, North Macedonia.</figcaption>
 </figure>
 

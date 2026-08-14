@@ -234,7 +234,7 @@ The work's destruction resulted not from medieval misadventure but from delibera
 ### Friar Elia on his knees with the Pisano Cross
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 1.jpg" alt="Friar Elia on his knees with the Pisano Cross, formerly in the Church of Santa Maria della Concezione in Rome">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-01.jpg" alt="Friar Elia on his knees with the Pisano Cross, formerly in the Church of Santa Maria della Concezione in Rome">
   <figcaption>Friar Elia on his knees with the Pisano Cross, formerly in the Church of Santa Maria della Concezione in Rome.</figcaption>
 </figure>
 
@@ -243,7 +243,7 @@ An eighteenth-century engraving preserves an idealized record of the work's appe
 ### Crucifix of Santa Maria degli Angeli
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 2.jpg" alt="Crucifix of Santa Maria degli Angeli">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-02.jpg" alt="Crucifix of Santa Maria degli Angeli">
   <figcaption>Crucifix of Santa Maria degli Angeli, 1230s, tempera and gold on wood, 174 x 131 cm, Museum of the Basilica of Santa Maria degli Angeli, Assisi.</figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ The Crucifix of Santa Maria degli Angeli is considered one of the earliest survi
 ### Crucifix of San Ranierino
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 3.jpg" alt="Crucifix of San Ranierino">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-03.jpg" alt="Crucifix of San Ranierino">
   <figcaption>Crucifix of San Ranierino, 1240s, tempera and gold on panel, 185 x 135 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ The work comes from the church of Sant’Anna in Pisa, where it was discovered i
 ### Crucifix of San Domenico
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 4.jpg" alt="Crucifix of San Domenico">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-04.jpg" alt="Crucifix of San Domenico">
   <figcaption>Crucifix of San Domenico, 1250-55, tempera and gold on panel, 336 x 285 cm, Basilica di San Domenico, Bologna.</figcaption>
 </figure>
 
@@ -297,7 +297,7 @@ Historically, the crucifix represents a fundamental turning point in 13th-centur
 ### St. Francis and the Four Post-Mortem Miracles
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 5.jpg" alt="St. Francis and the Four Post-Mortem Miracles">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-05.jpg" alt="St. Francis and the Four Post-Mortem Miracles">
   <figcaption>St. Francis and the Four Post-Mortem Miracles, c. 1260, tempera and gold on poplar panel, 67 x 86,5 cm, Musei Vaticani, Città del Vaticano.</figcaption>
 </figure>
 
@@ -316,7 +316,7 @@ In the lower right panel appears the *healing of the lame Bartolomeo da Narni*, 
 ### St. Francis and Six Stories from his Life
 
 <figure>
-  <img src="/Images/Giunta Pisano/image 6.jpg" alt="St. Francis and Six Stories from his Life">
+  <img src="/Images/Giunta-Pisano/giunta-pisano-06.jpg" alt="St. Francis and Six Stories from his Life">
   <figcaption>St. Francis and Six Stories from his Life, c. 1250-60, tempera and gold on panel, 155 x 132,5 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

@@ -179,7 +179,7 @@ He died in the year 1373, most likely in his hometown of Fabriano, and although 
 ### Saints and angels (1)
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 1.jpg" alt="Saints and angels">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-01.jpg" alt="Saints and angels">
   <figcaption>Saints and angels, 1360-70, tempera and gold leaf on panel, 108 × 51 cm, Houston Museum of Fine Arts, Houston.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ The lowest and largest register contains four full-length standing saints, rende
 ### Saints and angels (2)
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 2.jpg" alt="Saints and angels">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-02.jpg" alt="Saints and angels">
   <figcaption>Saints and angels, 1360-70, tempera and gold leaf on panel, 107.6 × 51 cm, Houston Museum of Fine Arts, Houston.</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ As with the first panel, these identifications above the lower register are my o
 ### Madonna Enthroned with Child
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 3.jpg" alt="Madonna Enthroned with Child">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-03.jpg" alt="Madonna Enthroned with Child">
   <figcaption>Madonna Enthroned with Child, 1372, tempera and gold leaf on panel, 167 × 96 cm, Galleria Nazionale delle Marche, Urbino.</figcaption>
 </figure>
 
@@ -236,7 +236,7 @@ Unlike the two Houston panels you shared, which come from a dismembered multi-sa
 ### The Crucifixion
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 4.jpg" alt="The Crucifixion">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-04.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1355-60, tempera and gold leaf on panel, 43.5 x 20 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ As with all three panels we've discussed from Nuzi's mature and late career, the
 ### Busts of five Apostles
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 5.jpg" alt="Busts of five Apostles">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-05.jpg" alt="Busts of five Apostles">
   <figcaption>Busts of five Apostles (fragment from a predella), c. 1360, tempera and gold leaf on panel, 35,3 x 135,5 cm, Musée des Beaux-Arts de Strasbourg.</figcaption>
 </figure>
 
@@ -284,7 +284,7 @@ The panel sits comfortably within Nuzi's maturity, when his Florentine training 
 ### Virgin and Child, with Saints Mary Magdalene, James Major, Stephen, and a Bishop Saint
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 6.jpg" alt="Virgin and Child, with Saints Mary Magdalene, James Major, Stephen, and a Bishop Saint">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-06.jpg" alt="Virgin and Child, with Saints Mary Magdalene, James Major, Stephen, and a Bishop Saint">
   <figcaption>Virgin and Child, with Saints Mary Magdalene, James Major, Stephen, and a Bishop Saint, c. 1346, tempera, silver, and tooled gold on panels with vertical grain, Center panel: 72.1 x 41.9 cm; Side panels [each]: 60 x 29.8 cm, Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -307,7 +307,7 @@ At the far right is Saint Nicholas of Bari (S· NICHOLAUS), the only figure in e
 ### Virgin and Child Enthroned with Saints Lucy, John the Baptist, and Anthony Abbot, a Female Martyr, and the Annunciate Angel
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 7.jpg" alt="Virgin and Child Enthroned with Saints Lucy, John the Baptist, and Anthony Abbot, a Female Martyr, and the Annunciate Angel">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-07.jpg" alt="Virgin and Child Enthroned with Saints Lucy, John the Baptist, and Anthony Abbot, a Female Martyr, and the Annunciate Angel">
   <figcaption>Virgin and Child Enthroned with Saints Lucy, John the Baptist, and Anthony Abbot, a Female Martyr, and the Annunciate Angel, c. 1350, tempera and tooled gold on panel with vertical grain, 43.5 x 23.5 cm, Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -328,7 +328,7 @@ In the lower right is an elderly, white-bearded monk in a dark monastic habit wi
 ### Virgin and Child
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 8.jpg" alt="Virgin and Child">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-08.jpg" alt="Virgin and Child">
   <figcaption>Virgin and Child, c. 1360, tempera, silver, and tooled gold on panel with horizontal grain, 43.5 x 34.9 x 3.8 cm (framed), Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -345,7 +345,7 @@ Inscribed on the reverse (translation):
 ### Virgin and Child; Man of Sorrows
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 9.jpg" alt="Virgin and Child; Man of Sorrows">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-09.jpg" alt="Virgin and Child; Man of Sorrows">
   <figcaption>Virgin and Child; Man of Sorrows, c. 1366, tempera and tooled gold on panel with vertical grain, 39 x 50.8 cm (overall), Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -362,7 +362,7 @@ This pairing of the affectionate Madonna with the Man of Sorrows is one of the m
 ### Madonna and Child with Saint Mary Magdalene, Saint John the Evangelist, Saint Bartholomew and Saint Venantius
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 10.jpg" alt="Madonna and Child with Saint Mary Magdalene, Saint John the Evangelist, Saint Bartholomew and Saint Venantius">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-10.jpg" alt="Madonna and Child with Saint Mary Magdalene, Saint John the Evangelist, Saint Bartholomew and Saint Venantius">
   <figcaption>Madonna and Child with Saint Mary Magdalene, Saint John the Evangelist, Saint Bartholomew and Saint Venantius, c. 1360, tempera and gold on panel, 118 x 200,7 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
@@ -387,7 +387,7 @@ This is one of the anchor works for situating Nuzi in his maturity, around 1360,
 ### Saint Augustine between Saint Nicholas of Tolentino and Saint Stephen
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 11.jpg" alt="Saint Augustine between Saint Nicholas of Tolentino and Saint Stephen">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-11.jpg" alt="Saint Augustine between Saint Nicholas of Tolentino and Saint Stephen">
   <figcaption>Saint Augustine between Saint Nicholas of Tolentino and Saint Stephen, c. 1360, tempera and gold on panel, 118 x 139 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
@@ -408,7 +408,7 @@ This makes a satisfying pendant to the San Venanzio pentittico from the previous
 ### Our Lady of Humility
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 12.jpg" alt="Our Lady of Humility">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-12.jpg" alt="Our Lady of Humility">
   <figcaption>Our Lady of Humility, 1366, tempera and gold on panel, 164,5 x 125 cm, Pinacoteca civica Tacchi-Venturi, San Severino Marche.</figcaption>
 </figure>
 
@@ -429,7 +429,7 @@ The large single panel is crowned by a polylobed, scalloped arch drawn and toole
 ### Madonna and Child Enthroned between Saint Michael the Archangel and Saint Ursula
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 13.jpg" alt="Madonna and Child Enthroned between Saint Michael the Archangel and Saint Ursula">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-13.jpg" alt="Madonna and Child Enthroned between Saint Michael the Archangel and Saint Ursula">
   <figcaption>Madonna and Child Enthroned between Saint Michael the Archangel and Saint Ursula, 1365, tempera and gold on panel, 123 x 65.8 cm; left side panel: 91.3 x 41.8 cm; right side panel: 92 x 41.4 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -458,7 +458,7 @@ Along with the 1366 San Severino *Madonna of Humility*, this 1365 triptych is on
 ### Madonna and Child (and workshop)
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 14.jpg" alt="Madonna and Child">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-14.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1365, tempera and gold on panel, 34,6 x 19,9 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -471,7 +471,7 @@ The Child is held at the right, standing upright and turning back toward her. He
 ### Madonna Enthroned with Angels between Saints Catherine of Alexandria and John the Baptist (school of)
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 15.jpg" alt="Madonna Enthroned with Angels between Saints Catherine of Alexandria and John the Baptist">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-15.jpg" alt="Madonna Enthroned with Angels between Saints Catherine of Alexandria and John the Baptist">
   <figcaption>Madonna Enthroned with Angels between Saints Catherine of Alexandria and John the Baptist, 1380-90, tempera and gold on panel, 36,4 x 28,7 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -494,7 +494,7 @@ The panel is considerably worn, with pronounced craquelure across the faces and 
 ### Vir Dolorum (and workshop)
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/image 16.jpg" alt="Vir Dolorum">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-16.jpg" alt="Vir Dolorum">
   <figcaption>Vir Dolorum, c. 1365, tempera and gold on panel, 34,8 x 20,3 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 

@@ -194,7 +194,7 @@ Although this discussion concerns another painter, the fact that Scarpellini rel
 ## Principal Work: The Maestà delle Volte in Perugia
 
 <figure>
-  <img src="/Images/Maestro della Maesta delle Volte/image 1.jpg" alt="Madonna with the Child and angelic figures">
+  <img src="/Images/Maestro-della-Maesta-delle-Volte/maestro-della-maesta-delle-volte-01.jpg" alt="Madonna with the Child and angelic figures">
   <figcaption>Madonna with the Child and angelic figures (sinopia), c. 1330, .</figcaption>
 </figure>
 

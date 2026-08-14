@@ -234,7 +234,7 @@ Synthesizing the available evidence, modern reference works assign Arnolfo di Ca
 ### Monument to Charles I of Anjou
 
 <figure>
-  <img src="/Images/Arnolfo di Cambio/image 1.jpg" alt="Monument to Charles I of Anjou">
+  <img src="/Images/Arnolfo-di-Cambio/arnolfo-di-cambio-01.jpg" alt="Monument to Charles I of Anjou">
   <figcaption>Monument to Charles I of Anjou, c. 1277, white marble, height: 200 cm, Musei Capitolini, Rome.</figcaption>
 </figure>
 
@@ -249,7 +249,7 @@ This work marks the beginning of medieval secular portraiture, breaking with the
 ### Monument to cardinal De Braye
 
 <figure>
-  <img src="/Images/Arnolfo di Cambio/image 2.jpg" alt="Monument to cardinal De Braye">
+  <img src="/Images/Arnolfo-di-Cambio/arnolfo-di-cambio-02.jpg" alt="Monument to cardinal De Braye">
   <figcaption>Monument to cardinal De Braye, c. 1282, marble, Chiesa di San Domenico, Orvieto.</figcaption>
 </figure>
 
@@ -264,7 +264,7 @@ This work, commissioned by the executors of the will—including cardinals close
 ### St. Peter in the Chair
 
 <figure>
-  <img src="/Images/Arnolfo di Cambio/image 3.jpg" alt="St. Peter in the Chair">
+  <img src="/Images/Arnolfo-di-Cambio/arnolfo-di-cambio-03.jpg" alt="St. Peter in the Chair">
   <figcaption>St. Peter in the Chair, 1290s, bronze, Basilica di San Pietro, central aisle, right side, Città del Vaticano.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ Although once thought to date from the 5th century (perhaps due to the casting o
 ### Madonna with Glass Eyes
 
 <figure>
-  <img src="/Images/Arnolfo di Cambio/image 4.jpg" alt="Madonna with Glass Eyes">
+  <img src="/Images/Arnolfo-di-Cambio/arnolfo-di-cambio-04.jpg" alt="Madonna with Glass Eyes">
   <figcaption>Madonna with Glass Eyes, 1300-05, white marble, 174 x 71 x 94 cm; Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -306,7 +306,7 @@ The work is carved from white marble (likely Apuan marble) and measures 174 cm i
 ### Dormitio Virginis
 
 <figure>
-  <img src="/Images/Arnolfo di Cambio/image 5.jpg" alt="Dormitio Virginis">
+  <img src="/Images/Arnolfo-di-Cambio/arnolfo-di-cambio-05.jpg" alt="Dormitio Virginis">
   <figcaption>Dormitio Virginis, 1300-10, white marble bas-relief; Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 

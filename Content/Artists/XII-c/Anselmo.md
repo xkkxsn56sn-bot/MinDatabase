@@ -82,7 +82,7 @@ The sculptor who signs himself *Anselmus* "Dedalus alter" is one of the very few
 ## Documentary evidence and identity
 
 <figure class="figure--right">
-  <img src="/Images/Anselmo/image 6.jpg" alt="The ancient Porta Romana, from L'illustrazione Italiana - No. 30 - May 1876.">
+  <img src="/Images/Anselmo/anselmo-06.jpg" alt="The ancient Porta Romana, from L'illustrazione Italiana - No. 30 - May 1876.">
   <figcaption>The ancient Porta Romana, from L'illustrazione Italiana - No. 30 - May 1876.</figcaption>
 </figure>
 
@@ -157,7 +157,7 @@ The older misreading of the inscription as Hoc opus formavit Anselmus de Ale led
 ### Frieze: The return of the Milanese to the city
 
 <figure>
-  <img src="/Images/Anselmo/image 1.jpg" alt="The return of the Milanese to the city following the destruction of Milan in 1162 by Frederick Barbarossa">
+  <img src="/Images/Anselmo/anselmo-01.jpg" alt="The return of the Milanese to the city following the destruction of Milan in 1162 by Frederick Barbarossa">
   <figcaption>Frieze from the demolished Porta Romana of the inner city walls. It depicts the return of the Milanese to the city following the destruction of Milan in 1162 by Frederick Barbarossa, 1171, marble, 72 x 202 x 96 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ This work is a “place of memory” for Milan: it celebrates the defeat of Barb
 ### Frieze: Saint Ambrose driving the Jews out of Milan
 
 <figure>
-  <img src="/Images/Anselmo/image 2.jpg" alt="Saint Ambrose driving the Jews (who symbolize the defeated German oppressors) out of Milan">
+  <img src="/Images/Anselmo/anselmo-02.jpg" alt="Saint Ambrose driving the Jews (who symbolize the defeated German oppressors) out of Milan">
   <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. It depicts Saint Ambrose driving the Jews (who symbolize the defeated German oppressors) out of Milan, 1171, marble, 72 x 201 x 131 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
 </figure>
 
@@ -195,12 +195,12 @@ The style is characterized by the same stocky figures and compressed relief alre
 ### Frieze: Friar Jacopo leads the allied troops toward Milan
 
 <figure>
-  <img src="/Images/Anselmo/image 3.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
+  <img src="/Images/Anselmo/anselmo-03.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
   <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. Friar Jacopo leads the allied troops toward Milan, 1171, marble, 48 x 181 x 85 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
 </figure>
 
 <figure>
-  <img src="/Images/Anselmo/image 4.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
+  <img src="/Images/Anselmo/anselmo-04.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
   <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. Friar Jacopo leads the allied troops toward Milan, 1171, marble, 48 x 181 x 85 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ The frieze of Frate Jacopo is to be read in close relation to the other reliefs 
 ### Memorial Stone of the Milanese Consuls
 
 <figure>
-  <img src="/Images/Anselmo/image 5.jpg" alt="Memorial Stone of the Milanese Consuls">
+  <img src="/Images/Anselmo/anselmo-05.jpg" alt="Memorial Stone of the Milanese Consuls">
   <figcaption>Memorial Stone of the Milanese Consuls, post 1172, marble, 60 x 8.5 x 101 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
 </figure>
 

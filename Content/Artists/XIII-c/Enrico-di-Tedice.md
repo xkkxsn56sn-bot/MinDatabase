@@ -259,7 +259,7 @@ The absence of evidence for extensive travel should not, however, be equated wit
 ### Painted Cross (Pisa)
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 2.jpg" alt="Painted Cross">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-02.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, c. 1250, tempera on panel, 270 x 200 cm, church of San Martino, Pisa.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ The cross, now located in the nave of San Martino, was likely intended for a pro
 ### Painted Cross (Vicopisano)
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 3.jpg" alt="Painted Cross">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-03.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, c. 1250, tempera on panel, church of San Giovanni alla Vena, Vicopisano.</figcaption>
 </figure>
 
@@ -295,7 +295,7 @@ The cross of San Giovanni alla Vena follows in the tradition of the Pisan Giunto
 ### Madonna and Child, Two Angels, and Scenes from the Passion
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 4.jpg" alt="Madonna and Child, Two Angels, and Scenes from the Passion">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-04.jpg" alt="Madonna and Child, Two Angels, and Scenes from the Passion">
   <figcaption>Madonna and Child, Two Angels, and Scenes from the Passion, c. 1250, tempera and gold on panel, 110 x 71 cm, Museo Nazionale del Bargello, Florence.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Enrico di Tedice, known for his crucifixes and altarpieces (such as the one at S
 ### Deposition from the Cross
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 5.jpg" alt="Deposition from the Cross">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-05.jpg" alt="Deposition from the Cross">
   <figcaption>Deposition from the Cross, c. 1250, tempera and gold on panel, 57,5 x 35 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -325,7 +325,7 @@ This work is part of the rich collection of painted crosses at the Museum of San
 ### Madonna and Child with Two Angels
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 6.jpg" alt="Madonna and Child with Two Angels">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-06.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1250, fresco, 139 x 115 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -341,7 +341,7 @@ Enrico di Tedice emerges as a key figure in the pre-Cimabue Pisan school of pain
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Enrico di Tedice/image 7.jpg" alt="Madonna and Child">
+  <img src="/Images/Enrico-di-Tedice/enrico-di-tedice-07.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1250, tempera on panel, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

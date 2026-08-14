@@ -229,7 +229,7 @@ In the absence of contrary evidence, it is therefore reasonable to infer that he
 ### Coronation of the Virgin among angels and the symbols of the Evangelists
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 1.jpg" alt="Coronation of the Virgin">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-01.jpg" alt="Coronation of the Virgin">
   <figcaption>Coronation of the Virgin among angels and the symbols of the Evangelists, 1296-1310, mosaic, Cattedrale di Santa Maria del Fiore, Florence.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ The Coronation of Mary is a non-Gospel episode derived from the tradition of Chr
 ### Madonna and Child with Saint John the Baptist, Saint Peter, and Two Angels
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 2.jpg" alt="Madonna and Child with Saint John the Baptist, Saint Peter, and Two Angels">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-02.jpg" alt="Madonna and Child with Saint John the Baptist, Saint Peter, and Two Angels">
   <figcaption>Madonna and Child with Saint John the Baptist, Saint Peter, and Two Angels, c. 1290, tempera and gold on panel, 36 × 26 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ The work reflects the Florentine figurative culture of the late 13th century, du
 ### Madonna and Child with Two Angels
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 3.jpg" alt="Madonna and Child with Two Angels">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-03.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1290, tempera and gold on panel, church of San Remigio, Florence.</figcaption>
 </figure>
 
@@ -287,7 +287,7 @@ As with many works from this period, the attribution to Gaddo Gaddi remains hypo
 ### Christ Pantocrator
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 4.jpg" alt="Christ Pantocrator">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-04.jpg" alt="Christ Pantocrator">
   <figcaption>Christ Pantocrator, mosaic, church of San Miniato al Monte, Florence.</figcaption>
 </figure>
 
@@ -311,7 +311,7 @@ The mosaic has undergone numerous documented interventions over the centuries: i
 ### Stories of Saint John the Baptist
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 5.jpg" alt="Stories of Saint John the Baptist">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-05.jpg" alt="Stories of Saint John the Baptist">
   <figcaption>Stories of Saint John the Baptist, 1280-1305, mosaic, Baptistery, Florence.</figcaption>
 </figure>
 
@@ -332,7 +332,7 @@ The cycle of the Stories of John the Baptist is divided into fifteen scenes dist
 ### Genesis: Creation of the World
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 6.jpg" alt="Genesis: Creation of the World">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-06.jpg" alt="Genesis: Creation of the World">
   <figcaption>Genesis: Creation of the World, 1270-95, mosaic, Baptistery, Florence.</figcaption>
 </figure>
 
@@ -352,7 +352,7 @@ The entire Genesis cycle in the Baptistery follows a precise theological logic: 
 ### Genesis: the Temptation of Adam
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 7.jpg" alt="Genesis: the Temptation of Adam">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-07.jpg" alt="Genesis: the Temptation of Adam">
   <figcaption>Genesis: the Temptation of Adam, 1270-95, mosaic, Baptistery, Florence.</figcaption>
 </figure>
 
@@ -369,7 +369,7 @@ Within the iconographic scheme of the Baptistery, this scene plays a theological
 ### Genesis: God’s Rebuke
 
 <figure>
-  <img src="/Images/Gaddo Gaddi/image 8.jpg" alt="Genesis: God’s Rebuke">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-08.jpg" alt="Genesis: God’s Rebuke">
   <figcaption>Genesis: God’s Rebuke, 1270-95, mosaic, Baptistery, Florence.</figcaption>
 </figure>
 

@@ -160,7 +160,7 @@ scholars:
 The biographical recovery of Manuel Panselinos must begin with a frank acknowledgement that almost nothing about his origins can be documented. The earliest written source to name him is the *Hermeneia* (*Interpretation of the Art of Painting*), compiled on Mount Athos around 1730 by the monk and painter [Dionysios of Fourna](/scholars.html#dionysios-of-fourna), more than four centuries after the painter is presumed to have worked. Dionysios states that he learned his craft by imitating *the brilliant Manuel Panselinos of Thessaloniki, who painted the churches of Mount Athos,* and it is from this single phrase that the tradition of a Thessalonican birth derives. No contemporary baptismal record, monastic register or donor inscription survives to confirm a date or place of birth. Modern consensus, following [Andreas Xyngopoulos](/scholars.html#xyngopoulos-andreas) and [Manolis Chatzidakis](/scholars.html#chatzidakis-manolis), places his activity in the late thirteenth and early fourteenth centuries, which implies a birth in the second half of the thirteenth century. Thessaloniki, the second city of the Byzantine Empire and the acknowledged epicentre of the Macedonian School, is the most plausible birthplace, both because Dionysios asserts it and because the Protaton frescoes share their idiom with securely Thessalonican monuments. The name itself, "Panselinos" ("full moon"), is widely regarded as a sobriquet rather than a family surname, a point now broadly accepted in the scholarship. Consequently any reconstruction of his "family" is necessarily inferential, drawn from the social world of the Thessalonican painting workshops rather than from genealogical record. The honest position is that the man behind the Protaton has no securely documented family at all.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/ManuelPanselinos/image 13.jpg" alt="The Protaton at Karyes">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-13.jpg" alt="The Protaton at Karyes">
   <figcaption>The Protaton church at Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ The date and cause of Manuel Panselinos's death are entirely unknown, and any st
 ### Protaton church: Jesus as a Child
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 1.jpg" alt="Jesus as a Child">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-01.jpg" alt="Jesus as a Child">
   <figcaption>Jesus as a Child, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ Taken together, these qualities — the mastery of volumetric modelling, the sub
 ### John the Baptist
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 2.jpg" alt="John the Baptist">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-02.jpg" alt="John the Baptist">
   <figcaption>John the Baptist, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -279,7 +279,7 @@ What makes this image so remarkable in the broader context of Byzantine art is t
 ### Jesus and Samaritan Woman at the Well
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 3.jpg" alt="Jesus and Samaritan Woman at the Well">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-03.jpg" alt="Jesus and Samaritan Woman at the Well">
   <figcaption>Jesus and Samaritan Woman at the Well, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ Considered as a whole, this fresco exemplifies the qualities that place Panselin
 ### The Presentation of the Virgin
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 4.jpg" alt="The Presentation of the Virgin">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-04.jpg" alt="The Presentation of the Virgin">
   <figcaption>The Presentation of the Virgin, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -329,7 +329,7 @@ What elevates this fresco above the level of competent narrative illustration is
 ### Saint Demetrius
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 5.jpg" alt="Saint Demetrius">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-05.jpg" alt="Saint Demetrius">
   <figcaption>Saint Demetrius, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -356,7 +356,7 @@ Considered in its totality, this image of Saint Demetrius stands as one of the m
 ### Saint Eustace
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 6.jpg" alt="Saint Eustace">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-06.jpg" alt="Saint Eustace">
   <figcaption>Saint Eustace, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -381,7 +381,7 @@ Considered in the broader context of the Protaton programme, the Saint Eustace s
 ### Saint John the Theologian on the Island of Patmos
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 8.jpg" alt="Saint John the Theologian on the Island of Patmos">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-08.jpg" alt="Saint John the Theologian on the Island of Patmos">
   <figcaption>Saint John the Theologian on the Island of Patmos, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -410,7 +410,7 @@ What ultimately distinguishes this fresco above all others in the Protaton cycle
 ### Saints Mercurius and Artemius of Antioch
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 9.jpg" alt="Saints Mercurius and Artemius of Antioch">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-09.jpg" alt="Saints Mercurius and Artemius of Antioch">
   <figcaption>Saints Mercurius and Artemius of Antioch, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -437,7 +437,7 @@ The pairing of these two figures within a single compositional field invites ref
 ### Saints Theodore Stratelates and Theodore Tyron
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 10.jpg" alt="Saints Theodore Stratelates and Theodore Tyron">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-10.jpg" alt="Saints Theodore Stratelates and Theodore Tyron">
   <figcaption>Saints Theodore Stratelates and Theodore Tyron, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -466,7 +466,7 @@ Considered together, the Saints Theodore Stratelates and Theodore Tyron constitu
 ### Christ Bearing the Cross
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 12.jpg" alt="Christ Bearing the Cross">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-12.jpg" alt="Christ Bearing the Cross">
   <figcaption>Christ Bearing the Cross, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -493,7 +493,7 @@ In the upper left of the composition, a swirling, dynamic form — possibly an a
 ### The Resurrection of Christ
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 11.jpg" alt="The Resurrection of Christ">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-11.jpg" alt="The Resurrection of Christ">
   <figcaption>The Anastasis (Resurrection) of Christ, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -522,7 +522,7 @@ What ultimately makes this fresco the supreme achievement of the Protaton cycle 
 ### Christ Enthroned (The Blessing Christ)
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 14.jpg" alt="Christ Enthroned (The Blessing Christ)">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-14.jpg" alt="Christ Enthroned (The Blessing Christ)">
   <figcaption>Christ Enthroned (The Blessing Christ), 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -551,7 +551,7 @@ Considered in its totality, this image of the Blessing Christ constitutes the th
 ### Saint Nicholas of Myra
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 15.jpg" alt="Saint Nicholas of Myra">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-15.jpg" alt="Saint Nicholas of Myra">
   <figcaption>Saint Nicholas of Myra, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -580,7 +580,7 @@ In this respect, the portrait of Saint Nicholas stands as the most humanisticall
 ### Four Holy Figures
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 16.jpg" alt="Four Holy Figures">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-16.jpg" alt="Four Holy Figures">
   <figcaption>Four Holy Figures, 1290-1300, fresco, Protaton church, Karyes, Mount Athos, Greece.</figcaption>
 </figure>
 
@@ -603,7 +603,7 @@ Considered as a whole, this fresco represents one of the most theologically refl
 The frescoes of the *Chapel of Saint Euthymios*, attached to the basilica of *Saint Demetrios in Thessaloniki*, constitute the second pillar of his oeuvre and the crucial link between his name and the city of his birth. Dated by an inscription to 1302–1303 and commissioned by the protostrator Michael Glabas Tarchaneiotes together with his wife Maria Palaiologina, the small three-aisled basilica is decorated with an unusually ambitious narrative cycle. The programme comprises scenes from the Twelve Great Feasts, the miracles and teachings of Christ, and the life (*synaxarion*) of Saint Euthymios the Great, the founder of cenobitic monasticism, unfolded as a continuous narrative rather than divided into discrete panels.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/ManuelPanselinos/image 17.jpg" alt="The basilica of Saint Demetrios in Thessaloniki">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-17.jpg" alt="The basilica of Saint Demetrios in Thessaloniki">
   <figcaption>The basilica of Saint Demetrios, Thessaloniki, Greece.</figcaption>
 </figure>
 
@@ -612,7 +612,7 @@ The frescoes are celebrated for the psychological intensity of their faces, the 
 ### The Healing of Terebon
 
 <figure>
-  <img src="/Images/ManuelPanselinos/image 7.jpg" alt="The Healing of Terebon">
+  <img src="/Images/ManuelPanselinos/manuelpanselinos-07.jpg" alt="The Healing of Terebon">
   <figcaption>The Healing of Terebon, 1302-03, Saint Euthymius Chapel, basilica of Saint Demetrios, Thessaloniki.</figcaption>
 </figure>
 

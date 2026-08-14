@@ -73,7 +73,7 @@ The foundational biographical details concerning *St. Cuthbert* are anchored in 
 While one source suggests he was the son of an Irish king, this appears to be a later legendary embellishment rather than a historically verifiable fact, with the more credible tradition identifying him as a simple layman. The Anonymous Life presents Cuthbert not as a member of a royal or noble family, but as a *pastor*, a herdsman who lived a humble life before his conversion. This emphasis on his non-elite origins is a deliberate narrative choice common in Anglo-Saxon hagiography, designed to underscore the theme that divine grace can be found outside the established elite classes.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/St-Cuthbert/image 1.jpg" alt="Frontispiece of Bede's Life of St Cuthbert">
+  <img src="/Images/St-Cuthbert/st-cuthbert-01.jpg" alt="Frontispiece of Bede's Life of St Cuthbert">
   <figcaption>Frontispiece of Bede's Life of St Cuthbert, showing King Æthelstan (924–39) presenting a copy of the book to the saint himself. 29.2 x 20 cm. Originally from MS 183, folio 1v at Corpus Christi College, Cambridge.</figcaption>
 </figure>
 

@@ -232,7 +232,7 @@ The display of the Santa Trinita Maestà in the Uffizi's medieval galleries, pos
 ### Madonna and Child Enthroned with Angels and Prophets (Santa Trinità Maestà)
 
 <figure>
-  <img src="/Images/Cimabue/image 1.jpg" alt="Santa Trinità Maestà">
+  <img src="/Images/Cimabue/cimabue-01.jpg" alt="Santa Trinità Maestà">
   <figcaption>Madonna and Child Enthroned with Angels and Prophets (Santa Trinità Maestà), 1280-90, tempera on panel, 335 x 223 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ Painted in tempera on wood (dimensions approximately 385 x 223 cm, with slight v
 ### Crucifix
 
 <figure>
-  <img src="/Images/Cimabue/image 2.jpg" alt="Crucifix">
+  <img src="/Images/Cimabue/cimabue-02.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1286-88, tempera and gold on panel, 448 x 390 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -272,7 +272,7 @@ The work is linked to the Franciscan Basilica of Santa Croce and clearly reflect
 ### San Domenico Crucifix
 
 <figure>
-  <img src="/Images/Cimabue/image 3.jpg" alt="Crucifix">
+  <img src="/Images/Cimabue/cimabue-03.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1265-71, tempera and gold on panel, 336 x 267 cm, church of San Domenico, Arezzo.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ This work, among the first attributed with certainty to Cimabue, anticipates the
 ### The Madonna and Child in Majesty Surrounded by Angels (Maestà)
 
 <figure>
-  <img src="/Images/Cimabue/image 4.jpg" alt="Maestà">
+  <img src="/Images/Cimabue/cimabue-04.jpg" alt="Maestà">
   <figcaption>The Madonna and Child in Majesty Surrounded by Angels (Maestà), 1275-90, tempera and gold on panel, 427 x 280 cm, Louvre Museum, Paris.</figcaption>
 </figure>
 
@@ -306,7 +306,7 @@ Originally from the church of San Francesco in Pisa, the work was looted by Napo
 ### The Virgin and Child Enthroned with Two Angels
 
 <figure>
-  <img src="/Images/Cimabue/image 5.jpg" alt="The Virgin and Child Enthroned with Two Angels">
+  <img src="/Images/Cimabue/cimabue-05.jpg" alt="The Virgin and Child Enthroned with Two Angels">
   <figcaption>The Virgin and Child Enthroned with Two Angels, 1280-85, tempera and gold on poplar panel, 25,6 x 20,8 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ This small *Maestà*, rare for Cimabue (known for large altarpieces such as thos
 ### The Mocking of Christ
 
 <figure>
-  <img src="/Images/Cimabue/image 6.jpg" alt="The Mocking of Christ">
+  <img src="/Images/Cimabue/cimabue-06.jpg" alt="The Mocking of Christ">
   <figcaption>The Mocking of Christ, 1280-85, tempera and gold on poplar panel, 25,6 x 20,3 x 1,2 cm, Louvre Museum, Paris.</figcaption>
 </figure>
 
@@ -338,7 +338,7 @@ Here, Cimabue excels at condensing a choral crowd into a tiny format, with dense
 ### The Flagellation of Christ
 
 <figure>
-  <img src="/Images/Cimabue/image 7.jpg" alt="The Flagellation of Christ">
+  <img src="/Images/Cimabue/cimabue-07.jpg" alt="The Flagellation of Christ">
   <figcaption>The Flagellation of Christ, 1280-85, tempera and gold on poplar panel, 24,7 x 20 cm, The Frick Collection, New York.</figcaption>
 </figure>
 

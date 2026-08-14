@@ -183,7 +183,7 @@ The attribution of a Madonna to Simeone and Machilone in the church of San Giust
 ### Painted Crucifix, 1257
 
 <figure>
-  <img src="/Images/Simeone e Machilone/image 1.jpg" alt="Painted Crucifix">
+  <img src="/Images/Simeone-e-Machilone/simeone-e-machilone-01.jpg" alt="Painted Crucifix">
   <figcaption>Painted Crucifix, 1257, tempera on panel, 104 x 74 cm, Galleria Nazionale d'Arte Antica, Palazzo Barberini, Rome.</figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ Simeone and Machilone were painters from Spoleto, documented by the 1230 inscrip
 ### Dossal with Madonna and Child Enthroned and Scenes from the Life of the Virgin
 
 <figure>
-  <img src="/Images/Simeone e Machilone/image 2.jpg" alt="Dossal with Madonna and Child Enthroned and Scenes from the Life of the Virgin">
+  <img src="/Images/Simeone-e-Machilone/simeone-e-machilone-02.jpg" alt="Dossal with Madonna and Child Enthroned and Scenes from the Life of the Virgin">
   <figcaption>Altarpiece with Madonna and Child Enthroned and Scenes from the Life of the Virgin, c. 1258, tempera on panel, 79 x 120 cm, Museum Mayer van den Bergh, Antwerp.</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ The attribution to Simeone and Machilone was established only in 1949, when a fa
 ### Madonna and Child Enthroned
 
 <figure>
-  <img src="/Images/Simeone e Machilone/image 3.jpg" alt="Madonna and Child Enthroned">
+  <img src="/Images/Simeone-e-Machilone/simeone-e-machilone-03.jpg" alt="Madonna and Child Enthroned">
   <figcaption>Madonna and Child Enthroned, 1270-75, tempera and gold on panel, Museo dell'Opera del Duomo, Orvieto.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ At the same time, the Orvieto work displays a slightly more articulated sense of
 ### Madonna delle Concanelle
 
 <figure>
-  <img src="/Images/Simeone e Machilone/image 4.jpg" alt="Madonna delle Concanelle">
+  <img src="/Images/Simeone-e-Machilone/simeone-e-machilone-04.jpg" alt="Madonna delle Concanelle">
   <figcaption>Madonna delle Concanelle, 1262, polychrome wood with traces of gilding, from the church of Santa Maria delle Concanelle (Madonna della Neve), Bugnara (L'Aquila), Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 

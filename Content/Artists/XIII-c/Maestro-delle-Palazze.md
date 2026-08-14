@@ -172,7 +172,7 @@ The Master's documented activity in two distinct locations within Spoleto itself
 ### The Last Supper and Christ in the Garden of Gethsemane
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-1.jpg" alt="The Last Supper and Christ in the Garden of Gethsemane">
+  <img src="/Images/Maestro-Palazze/image-1.jpg" alt="The Last Supper and Christ in the Garden of Gethsemane">
   <figcaption>The Last Supper and Christ in the Garden of Gethsemane, 1290-1300, fresco transferred to canvas, 236 x 256 cm, Worcester Art Museum, Worcester, MA.</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ The style of the fresco—sharp figures, densely pleated drapery, strong lineari
 ### Crucifixion
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-2.jpg" alt="Crucifixion">
+  <img src="/Images/Maestro-Palazze/image-2.jpg" alt="Crucifixion">
   <figcaption>Crucifixion, 1290-1300, fresco transferred to canvas, 294.3 x 203.5 cm, Worcester Art Museum, Worcester, MA.</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ From a historical-artistic perspective, this Crucifixion is valuable because it 
 ### Madonna and Child with Saints Francis and Clare
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-3.jpg" alt="Madonna and Child with Saints Francis and Clare">
+  <img src="/Images/Maestro-Palazze/image-3.jpg" alt="Madonna and Child with Saints Francis and Clare">
   <figcaption>Madonna and Child with Saints Francis and Clare, 1290-1300, fresco transferred to canvas, Museo Nazionale del Ducato di Spoleto, Spoleto.</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ The work has come down to us in a fragmentary and heavily worn state, with exten
 ### Derision of Christ
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-4.jpg" alt="Derision of Christ">
+  <img src="/Images/Maestro-Palazze/image-4.jpg" alt="Derision of Christ">
   <figcaption>Derision of Christ, 1290-1300, fresco transferred to canvas, 308 x 189 cm, Museo Nazionale del Ducato di Spoleto, Spoleto.</figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ From a historical-artistic perspective, the painting belongs to an important tra
 ### Last Judgment
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-5.jpg" alt="Last Judgment">
+  <img src="/Images/Maestro-Palazze/image-5.jpg" alt="Last Judgment">
   <figcaption>Last Judgment, 1290-1300, fresco transferred to canvas, Glencairn Museum, Bryn Athyn, PA.</figcaption>
 </figure>
 
@@ -313,7 +313,7 @@ It is precisely this clarity that makes the work particularly effective on a dev
 ### Annunciation
 
 <figure>
-  <img src="/Images/Maestro Palazze/image-6.jpg" alt="Annunciation">
+  <img src="/Images/Maestro-Palazze/image-6.jpg" alt="Annunciation">
   <figcaption>Annunciation, 1290-1300, fresco transferred to canvas, Glencairn Museum, Bryn Athyn, PA.</figcaption>
 </figure>
 

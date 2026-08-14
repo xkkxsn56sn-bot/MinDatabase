@@ -232,7 +232,7 @@ The network of Campionese contacts across northern Italy — from Milan to Moden
 ### The Baptistery of Bergamo
 
 <figure>
-  <img src="/Images/Giovanni di Ugo da Campione/image 1.jpg" alt="The Baptistery of Bergamo">
+  <img src="/Images/Giovanni-di-Ugo-da-Campione/giovanni-di-ugo-da-campione-01.jpg" alt="The Baptistery of Bergamo">
   <figcaption>The Baptistery of Bergamo, Piazza Vecchia, Città Alta, Bergamo.</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ In summary, the figures depicted are as follows: Faith, Hope, Charity, Fortitude
 ### The North Portal (Protiro) of Santa Maria Maggiore
 
 <figure>
-  <img src="/Images/Giovanni di Ugo da Campione/image 2.jpg" alt="The North Portal (Protiro) of Santa Maria Maggiore">
+  <img src="/Images/Giovanni-di-Ugo-da-Campione/giovanni-di-ugo-da-campione-02.jpg" alt="The North Portal (Protiro) of Santa Maria Maggiore">
   <figcaption>The North Portal (Protiro) of Santa Maria Maggiore, Città Alta, Bergamo.</figcaption>
 </figure>
 
@@ -302,7 +302,7 @@ In the upper loggia (third order) appear:
 ### The South Portal (Protiro) of Santa Maria Maggiore
 
 <figure>
-  <img src="/Images/Giovanni di Ugo da Campione/image 3.jpg" alt="The South Portal (Protiro) of Santa Maria Maggiore">
+  <img src="/Images/Giovanni-di-Ugo-da-Campione/giovanni-di-ugo-da-campione-03.jpg" alt="The South Portal (Protiro) of Santa Maria Maggiore">
   <figcaption>The South Portal (Protiro) of Santa Maria Maggiore, Città Alta, Bergamo.</figcaption>
 </figure>
 

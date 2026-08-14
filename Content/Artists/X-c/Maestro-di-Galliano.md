@@ -115,7 +115,7 @@ scholars:
 The *Maestro di Galliano*, known in Italian art historical scholarship also as the *Magister Gallianensis*, is a conventional designation assigned by modern critics to an anonymous painter of extraordinary accomplishment active in the Lombard region of northern Italy at the very turn of the eleventh century, roughly between the years 995 and 1015 CE. He is known exclusively through the monumental fresco cycle adorning the apse, triumphal arch, and parts of the nave of the *Basilica of San Vincenzo at Galliano*, a hamlet today forming part of the commune of Cantù in the province of Como, Lombardy. His works constitute the most significant surviving ensemble of Ottonian-influenced monumental painting on Italian soil, and they have attracted sustained scholarly attention since the pioneering studies of [Pietro Toesca](/scholars.html#toesca-pietro) in the early twentieth century.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro Galliano/image 4.jpg" alt="Basilica of San Vincenzo at Galliano">
+  <img src="/Images/Maestro-Galliano/maestro-galliano-04.jpg" alt="Basilica of San Vincenzo at Galliano">
   <figcaption>Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ As with the painter's birth and family, no documents record the date or circumst
 ### The Theophany (Christ in Majesty)
 
 <figure>
-  <img src="/Images/Maestro Galliano/image 1.jpg" alt="Theophany (Christ in Majesty)">
+  <img src="/Images/Maestro-Galliano/maestro-galliano-01.jpg" alt="Theophany (Christ in Majesty)">
   <figcaption>Theophany (Christ in Majesty), 1000-07, fresco, Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
 </figure>
 
@@ -197,7 +197,7 @@ Stylistically, the cycle stands among the finest achievements of Romanesque monu
 ### The Torture of Saint Vincent with Molten Lead
 
 <figure>
-  <img src="/Images/Maestro Galliano/image 2.jpg" alt="The Torture of Saint Vincent with Molten Lead">
+  <img src="/Images/Maestro-Galliano/maestro-galliano-02.jpg" alt="The Torture of Saint Vincent with Molten Lead">
   <figcaption>The Torture of Saint Vincent with Molten Lead, 1000-07, fresco, Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ The narrative nature of the theme allowed the artists working on this entire ser
 ### Ariberto of Intimiano presents the model of the basilica
 
 <figure>
-  <img src="/Images/Maestro Galliano/image 3.jpg" alt="Ariberto of Intimiano presents the model of the basilica">
+  <img src="/Images/Maestro-Galliano/maestro-galliano-03.jpg" alt="Ariberto of Intimiano presents the model of the basilica">
   <figcaption>Ariberto of Intimiano presents the model of the basilica, 1000-07, fresco, Basilica of San Vincenzo, Galliano, Cantù.</figcaption>
 </figure>
 

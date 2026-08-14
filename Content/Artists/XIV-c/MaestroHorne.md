@@ -179,7 +179,7 @@ In the absence of any documented itinerary, the geography of the Master of the H
 ### Madonna and Child between Two Female Saints
 
 <figure>
-  <img src="/Images/MaestroHorne/image 1.jpg" alt="Madonna and Child between Two Female Saints">
+  <img src="/Images/MaestroHorne/maestrohorne-01.jpg" alt="Madonna and Child between Two Female Saints">
   <figcaption>Madonna and Child between Two Female Saints, 1310s, tempera and gold on panel, 120 x 160 cm, Museo Horne, Florence.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ In addition to the Horne Triptych, Offner attributed to the same master the Mado
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/MaestroHorne/image 2.jpg" alt="Madonna and Child">
+  <img src="/Images/MaestroHorne/maestrohorne-02.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1320s, tempera and gold on panel, Museo Giuliano Ghelli, San Casciano Val di Pesa.</figcaption>
 </figure>
 

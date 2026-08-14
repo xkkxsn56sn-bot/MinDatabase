@@ -129,7 +129,7 @@ The *Lindisfarne Gospels* is an illuminated Latin Gospel book produced in the ea
 The manuscript’s scale, complexity, and technical refinement mark it not as an ordinary service book, but as a ceremonial and prestige object designed for liturgical display and solemn processions. At the same time, its meticulous script and carefully organized text reflect a concern for accurate transmission of the Vulgate Gospels and for their use in public reading and private study. From an art‑historical perspective, the Lindisfarne Gospels have come to epitomize the synthesis of Celtic, Germanic, and Mediterranean visual languages that characterizes Insular illumination. From a codicological standpoint, the manuscript offers crucial evidence about the organization of the scriptorium at Lindisfarne and the technical capacities of early eighth‑century Northumbrian monastic culture. Its exceptional state of preservation allows modern scholars to reconstruct not only artistic processes but also aspects of liturgical performance and monastic identity. For these reasons the Lindisfarne Gospels occupy a central place in discussions of early medieval Christianity, Insular art, and the formation of a distinct Anglo‑Saxon religious culture.
 
 <figure>
-  <img src="/Images/Lindisfarne/Saint Matthew.jpg" alt="San Matteo in Lindisfarne Gospels">
+  <img src="/Images/Lindisfarne/Saint-Matthew.jpg" alt="San Matteo in Lindisfarne Gospels">
   <figcaption>Portrait of Saint Matthew the Evangelist - folio 25v, Lindisfarne Gospels, 715-20, mineral and vegetal pigments mixed with egg white on calf-skin parchment, 340 x 250 mm, British Library, London, Cotton MS Nero D IV.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Historically, the production of the Gospels coincides with the consolidation of 
 The Lindisfarne Gospels were almost certainly conceived in relation to this cult, whether to commemorate the elevation of Cuthbert’s relics or to serve as a permanent monument at his shrine. In this context, the manuscript functioned both as a liturgical instrument and as a visual proclamation of Lindisfarne’s sanctity and authority within the Northumbrian Church. The island monastery’s relative isolation, accessible only at low tide, gave it an aura of sacred separation, which the Gospels’ intricate and otherworldly imagery powerfully reinforces. At the same time, Lindisfarne was deeply enmeshed in regional networks of royal patronage, episcopal politics, and intellectual exchange with Iona, Wearmouth–Jarrow, and Continental centers. The Gospels  emerged from a milieu where manuscript production, hagiography, and historiography all served broader projects of dynastic legitimation and ecclesiastical identity. The book’s synthesis of multiple visual and textual traditions can be read as a programmatic statement of Northumbria’s aspiration to participate in, and even redefine, the Christian oikoumene. Consequently, any analysis of the Lindisfarne Gospels must situate the codex within these overlapping political, devotional, and cultural currents.
 
 <figure>
-  <img src="/Images/Lindisfarne/Saint Mark.jpg" alt="San Marco in Lindisfarne Gospels">
+  <img src="/Images/Lindisfarne/Saint-Mark.jpg" alt="San Marco in Lindisfarne Gospels">
   <figcaption>Portrait of Saint Mark the Evangelist - folio 94v, Lindisfarne Gospels, 715-20, mineral and vegetal pigments mixed with egg white on calf-skin parchment, 340 x 250 mm, British Library, London, Cotton MS Nero D IV.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ Such paired mobility suggests that the codex had effectively become an extension
 This saint‑centered perspective must be integrated with institutional and royal factors to form a complete picture of patronage.
 
 <figure>
-  <img src="/Images/Lindisfarne/Saint John.jpg" alt="San Giovanni in Lindisfarne Gospels">
+  <img src="/Images/Lindisfarne/Saint-John.jpg" alt="San Giovanni in Lindisfarne Gospels">
   <figcaption>Portrait of Saint John the Evangelist - folio 209v, Lindisfarne Gospels, 715-20, mineral and vegetal pigments mixed with egg white on calf-skin parchment, 340 x 250 mm, British Library, London, Cotton MS Nero D IV.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ This economic profile aligns with Lindisfarne’s status as a major episcopal se
 Patronage must also be understood ideologically, as an attempt to construct and project a particular vision of sanctity and orthodoxy. The elaborate cross‑carpet pages visually assert the centrality of the cross and the triumph of Christian order over chaotic interlace, thereby reflecting post‑Whitby Roman orthodoxy fused with Insular aesthetics. Evangelist portraits in classical pose situate Lindisfarne within the wider Christian ecumene and implicitly claim continuity with Mediterranean traditions. Canon tables framed in arcades evoke monumental architecture, suggesting that the codex itself functions as a portable church or shrine.
 
 <figure>
-  <img src="/Images/Lindisfarne/Saint Luke.jpg" alt="San Luca in Lindisfarne Gospels">
+  <img src="/Images/Lindisfarne/Saint-Luke.jpg" alt="San Luca in Lindisfarne Gospels">
   <figcaption>Portrait of Saint Luke the Evangelist - folio 137v, Lindisfarne Gospels, 715-20, mineral and vegetal pigments mixed with egg white on calf-skin parchment, 340 x 250 mm, British Library, London, Cotton MS Nero D IV.</figcaption>
 </figure>
 

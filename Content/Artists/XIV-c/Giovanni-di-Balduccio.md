@@ -204,7 +204,7 @@ Around 1325, according to Kreytenberg, Giovanni produced two funerary monuments 
 Giovanni's first signed work, and his first major commission, is the sepulchral monument of Guarniero (Gualtiero) degli Antelminelli in the church of San Francesco at Sarzana. Guarniero was the young son of Castruccio Castracani, lord of Lucca; he died in 1327 while still a small child, predeceasing his father. The tomb was certainly completed after Castruccio's death, in 1327–28, as the epigraph proves.
 
 <figure>
-  <img src="/Images/Giovanni-di-Balduccio/image 1.jpg" alt="Tomb of Guarniero degli Antelminelli">
+  <img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-01.jpg" alt="Tomb of Guarniero degli Antelminelli">
   <figcaption>Tomb of Guarniero degli Antelminelli, 1327-28, Carrara marble, church of San Francesco, Sarzana.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ Giovanni developed a distinctive, slightly mannered modelling style derived from
 ### Virgin and Child
 
 <figure>
-  <img src="/Images/Giovanni-di-Balduccio/image 6.jpg" alt="Virgin and Child">
+  <img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-06.jpg" alt="Virgin and Child">
   <figcaption>Virgin and Child, 1327-28, Carrara marble, 36 × 22.2 cm, Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ For that reason, it is no exaggeration to call these the years of maturity. If t
 ### The Baroncelli Tomb
 
 <figure>
-  <img src="/Images/Giovanni-di-Balduccio/image 2.jpg" alt="The Baroncelli Tomb">
+  <img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-02.jpg" alt="The Baroncelli Tomb">
   <figcaption>The Baroncelli Tomb, 1328-31, Carrara marble and fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
@@ -291,7 +291,7 @@ Carrara marble is the sculptural medium throughout, originally enlivened with po
 ### The San Casciano Pulpit
 
 <figure>
-  <img src="/Images/Giovanni-di-Balduccio/image 3.jpg" alt="The San Casciano Pulpit">
+  <img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-03.jpg" alt="The San Casciano Pulpit">
   <figcaption>The San Casciano Pulpit, 1330s, church of Santa Maria del Prato, San Casciano Val di Pesa.</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ The front face is divided into two framed marble reliefs.
 - Right panel: the Virgin Annunciate. Mary is seated, veiled, her right hand drawn to her breast in a gesture of humble acceptance. The commentary of the Misericordia notes the classicism of the conception: she is posed like an enthroned Roman matron, an echo of the antique sarcophagi in the Camposanto of Pisa, and in the face the relief rises almost to full round. Before her stands a lectern with an open book, inscribed with her reply — *Ecce ancilla Domini, fiat mihi secundum verbum tuum* ("Behold the handmaid of the Lord…"). Beside the lectern is a tall vase of flowering lilies (the Marian emblem of purity), and beneath it a small architectural structure with an arched doorway — a tabernacle-like "house" evoking the Temple. A curtain is draped behind her.
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 5.jpg" alt="The San Casciano Pulpit">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-05.jpg" alt="The San Casciano Pulpit">
   <figcaption>The San Casciano Pulpit (right side), 1330s, church of Santa Maria del Prato, San Casciano Val di Pesa.</figcaption>
 </figure>
 
@@ -317,7 +317,7 @@ The right lateral panel shows **Saint Dominic**, founder of the Order, half-leng
 Beneath this return runs the artist's **signature** in Gothic majuscule. The core of the text reads as a standard maker's formula — *Hoc opus fecit Ioh(anne)s Balduccii … de Pisis* ("Johannes [son] of Balduccio, of Pisa, made this work"), with "magister" among the visible words. Below the inscription sits the marble console with the family shield and a foliate scroll-bracket incorporating a small carved head.
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 4.jpg" alt="The San Casciano Pulpit">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-04.jpg" alt="The San Casciano Pulpit">
   <figcaption>The San Casciano Pulpit (left side), 1330s, church of Santa Maria del Prato, San Casciano Val di Pesa.</figcaption>
 </figure>
 
@@ -335,7 +335,7 @@ To the same decade belongs a marble polyptych that long stood in San Domenico in
 ### Saint Petronius
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 7.jpg" alt="Saint Petronius">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-07.jpg" alt="Saint Petronius">
   <figcaption>Saint Petronius, 1332-34, Carrara marble with gilding and rich punched/incised surface ornament, Museo di Santo Stefano, Bologna.</figcaption>
 </figure>
 
@@ -358,7 +358,7 @@ The attribution to Giovanni di Balduccio, though widely accepted and going back 
 ### Charity
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 8.jpg" alt="Charity">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-08.jpg" alt="Charity">
   <figcaption>Charity, c. 1330, white marble, 45.1 x 35.3 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
@@ -391,7 +391,7 @@ The reconstruction of Giovanni's earliest Milanese activity is hampered by heavy
 The Arca di San Pietro Martire in Sant'Eustorgio, the Dominican church of Milan, is Giovanni's masterpiece and the summit of his career. He worked on it assiduously, with workshop assistance, from about 1335–36, and completed it in 1339, as recorded on the monument itself.
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 10.jpg" alt="The Arca di San Pietro Martire">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-10.jpg" alt="The Arca di San Pietro Martire">
   <figcaption>The Arca di San Pietro Martire, 1339, white marble, Basilica di Sant'Eustorgio, Milan.</figcaption>
 </figure>
 
@@ -416,7 +416,7 @@ Given the monumentality of the work, Giovanni executed it with many workshop ass
 ### The Tomb of Azzone Visconti
 
 <figure>
-<img src="/Images/Giovanni-di-Balduccio/image 9.jpg" alt="The Tomb of Azzone Visconti">
+<img src="/Images/Giovanni-di-Balduccio/giovanni-di-balduccio-09.jpg" alt="The Tomb of Azzone Visconti">
   <figcaption>The Tomb of Azzone Visconti, 1333-34, white marble, church of San Gottardo in Corte, Milan.</figcaption>
 </figure>
 

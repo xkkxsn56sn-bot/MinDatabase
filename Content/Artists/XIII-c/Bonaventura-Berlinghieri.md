@@ -255,7 +255,7 @@ Artistic exchange in thirteenth-century Italy occurred through multiple mechanis
 ### Diptych of the Crucifixion and Madonna and Child
 
 <figure>
-  <img src="/Images/Bonaventura Berlinghieri/image 1.jpg" alt="Diptych of the Crucifixion and Madonna and Child">
+  <img src="/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-01.jpg" alt="Diptych of the Crucifixion and Madonna and Child">
   <figcaption>Diptych of the Crucifixion and Madonna and Child, c. 1255, tempera and gold on panel, 103 × 123 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ Bonaventura constructs the work with broad swaths of color, a gold background, a
 ### Saint Francis Altarpiece
 
 <figure>
-  <img src="/Images/Bonaventura Berlinghieri/image 2.jpg" alt="Saint Francis Altarpiece">
+  <img src="/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-02.jpg" alt="Saint Francis Altarpiece">
   <figcaption>Saint Francis Altarpiece, 1235, tempera on panel, 152 x 116 cm, Chiesa di San Francesco, Pescia.</figcaption>
 </figure>
 
@@ -293,7 +293,7 @@ The pictorial surface of the panel is dominated by gold, applied in leaf and eng
 ### Crucifixion with Mourners, Christ on the Road to Calvary and Deposition
 
 <figure>
-  <img src="/Images/Bonaventura Berlinghieri/image 3.jpg" alt="Crucifixion with Mourners, Christ on the Road to Calvary and Deposition">
+  <img src="/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-03.jpg" alt="Crucifixion with Mourners, Christ on the Road to Calvary and Deposition">
   <figcaption>Crucifixion with Mourners, Christ on the Road to Calvary and Deposition, c. 1255, tempera on wood panel, gold ground, 121 × 102 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ The gold background and the red outlines delimiting the individual narrative “
 ### Crucifix (Triumphant Christ)
 
 <figure>
-  <img src="/Images/Bonaventura Berlinghieri/image 4.jpg" alt="Crucifix (Triumphant Christ)">
+  <img src="/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-04.jpg" alt="Crucifix (Triumphant Christ)">
   <figcaption>Crucifix (Triumphant Christ), 1250-60, tempera and golf leaf on wood panel, 286 x 187 x 6 cm, Palazzo Barberini, Roma.</figcaption>
 </figure>
 

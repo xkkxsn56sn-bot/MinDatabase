@@ -163,7 +163,7 @@ The mention of Marino in discussions of Umbrian painted crosses “at the time o
 ### Madonna Enthroned with Child between Saints Paul, Peter Celestine, and Four Angels
 
 <figure>
-  <img src="/Images/Marino di Elemosina/image 1.jpg" alt="Madonna Enthroned with Child between Saints Paul, Peter Celestine, and Four Angels">
+  <img src="/Images/Marino-di-Elemosina/marino-di-elemosina-01.jpg" alt="Madonna Enthroned with Child between Saints Paul, Peter Celestine, and Four Angels">
   <figcaption>Madonna Enthroned with Child between Saints Paul, Peter Celestine, and Four Angels, c. 1295, tempera on panel, 151 x 233 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 

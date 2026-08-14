@@ -98,7 +98,7 @@ Few figures of the thirteenth century illustrate so vividly the paradoxes of med
 The historian approaches her, however, across a difficult evidentiary terrain. There is no contemporary chronicle, no dated charter, no autograph document that fixes the essential facts of her biography with the certainty a modern scholar would wish. What survives instead is hagiography: two Latin *Vitae*, closely related but not identical, composed within her own religious milieu and shaped by the conventions of the genre. Alongside them stands the sermon corpus, itself a text whose relationship to the historical woman is contested. The birth year traditionally given, 1226, rests on hagiographic reckoning rather than on any surviving record, and much of what is repeated about her — the ages, the intervals, the sequence of foundations — carries the same provisional character. A responsible account must therefore proceed with a double vision, narrating the tradition while marking its seams.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Saint-Humility/image 1.jpg" alt="Pala della Santa Umiltà">
+  <img src="/Images/Saint-Humility/saint-humility-01.jpg" alt="Pala della Santa Umiltà">
   <figcaption>Pietro Lorenzetti (1280/90-1348) - Pala della santa Umiltà (detail), 1335-40, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Everything known of Umiltà descends, in the first instance, from two Latin *Vit
 The authorship of the *Vitae* is not securely established, and here the sources demand caution. Hagiographic tradition and some scholarship have associated the composition of her Life with figures close to her community, but the attribution cannot be treated as certain, and it is more accurate to describe the *Vitae* as anonymous products of the Vallombrosan milieu, composed in the decades after her death and reflecting the concerns of the houses that preserved her memory. What matters for the historian is less the individual author than the institutional voice: these are texts produced by and for the monasteries she founded, designed to sustain her cult, to legitimise the female Vallombrosan foundations, and to model a form of sanctity for the nuns who read them. Their silences are as telling as their assertions, and their emphases — on enclosure, on obedience, on miraculous provision — belong to the rhetoric of a community defending its own religious identity.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Saint-Humility/image 2.jpg" alt="Vitae S. Humilitatis et S. Margaritae de Faventia">
+  <img src="/Images/Saint-Humility/saint-humility-02.jpg" alt="Vitae S. Humilitatis et S. Margaritae de Faventia">
   <figcaption>Vitae S. Humilitatis et S. Margaritae de Faventia, cod. 271, folio 1r, 355 x 218 mm, Biblioteca Riccardiana, Florence.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ The most important monument of Umiltà's cult, and one of the outstanding works 
 ### Pietro Lorenzetti - Pala della beata Umiltà
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 51.jpg" alt="Saint Humility and Scenes from Her Life (Pala della beata Umiltà)">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-51.jpg" alt="Saint Humility and Scenes from Her Life (Pala della beata Umiltà)">
   <figcaption>Saint Humility and Scenes from Her Life (Pala della beata Umiltà), 1335-40, tempera and gold on panel, central panel 128 × 57 cm; each lateral narrative compartment 45 × 32 cm; each surviving pinnacle 51 × 21 cm; and each predella tondo 18 cm in diameter; 257 x 168 cm (assembled), Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ The altarpiece does not survive intact. At some point in its history the ensembl
 ### Pietro Lorenzetti - St. Humility heals a sick Nun
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 12.jpg" alt="St. Humility heals a sick Nun">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-12.jpg" alt="St. Humility heals a sick Nun">
   <figcaption>St. Humility heals a sick Nun, 1341, tempera and gold on poplar panel, 45 × 55 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -249,7 +249,7 @@ The task of reconstructing the original disposition of the altarpiece — determ
 ### Pietro Lorenzetti - The Miracle of the Ice
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 13.jpg" alt="The Miracle of the Ice">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-13.jpg" alt="The Miracle of the Ice">
   <figcaption>The Miracle of the Ice, 1340-41, tempera and gold on poplar panel, 42 × 32 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 

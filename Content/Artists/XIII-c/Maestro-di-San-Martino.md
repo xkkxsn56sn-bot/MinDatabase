@@ -216,7 +216,7 @@ The date and cause of the Maestro di San Martino's death are not recorded in any
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Maestro di San Martino/image 1.jpg" alt="Madonna with child">
+  <img src="/Images/Maestro-di-San-Martino/maestro-di-san-martino-01.jpg" alt="Madonna with child">
   <figcaption>Madonna and Child, c. 1270, tempera on panel, 162 x 125 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ These narrative scenes include the Annunciation to Joachim, the Dream of Joachim
 ### Saint Anne Enthroned with the Infant Mary and Two Angels
 
 <figure>
-  <img src="/Images/Maestro di San Martino/image 2.jpg" alt="Saint Anne Enthroned with the Infant Mary and Two Angels">
+  <img src="/Images/Maestro-di-San-Martino/maestro-di-san-martino-02.jpg" alt="Saint Anne Enthroned with the Infant Mary and Two Angels">
   <figcaption>Saint Anne Enthroned with the Infant Mary and Two Angels, c. 1270, tempera on panel, 125 x 75 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ The iconographic type of the enthroned Saint Anne with the infant Virgin has its
 ### Crucifix
 
 <figure>
-  <img src="/Images/Ugolino di Tedice/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Ugolino-di-Tedice/ugolino-di-tedice-01.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1250-60, tempera on poplar panel, 90 x 62 cm, Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ The figure of the crucified Christ is rendered in the *Christus patiens* mode, t
 ### Cristo Benedicente
 
 <figure>
-  <img src="/Images/Maestro di San Martino/image 3.jpg" alt="Cristo Benedicente">
+  <img src="/Images/Maestro-di-San-Martino/maestro-di-san-martino-03.jpg" alt="Cristo Benedicente">
   <figcaption>Cristo Benedicente, tempera on panel, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ Despite the conventionality of the iconographic schema, the face of Christ is an
 ### Monk before Saint Francis
 
 <figure>
-  <img src="/Images/Maestro di San Martino/image 4.jpg" alt="Monk before Saint Francis">
+  <img src="/Images/Maestro-di-San-Martino/maestro-di-san-martino-04.jpg" alt="Monk before Saint Francis">
   <figcaption>Monk before Saint Francis, c. 1285, tempera and silver on panel with horizontal grain, Philadelphia Museum of Art, Johnson Collection, Philadelphia.</figcaption>
 </figure>
 

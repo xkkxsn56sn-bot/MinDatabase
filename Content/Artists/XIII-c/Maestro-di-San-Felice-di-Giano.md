@@ -145,7 +145,7 @@ The painting that gives the Maestro di San Felice di Giano his scholarly name is
 ### Dossale di San Felice
 
 <figure>
-  <img src="/Images/MaestroSanFelicediGiano/image 1.jpg" alt="Dossale di San Felice">
+  <img src="/Images/MaestroSanFelicediGiano/maestrosanfelicedigiano-01.jpg" alt="Dossale di San Felice">
   <figcaption>Dossale di San Felice, c. 1250, tempera on poplar wood, 105 x 176 cm, Galleria nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ The lower half of the panel accommodates two distinct but related programs. Four
 ### Madonna con il Bambino, e storie della Passione di Gesù e della vita di San Martino
 
 <figure>
-  <img src="/Images/MaestroSanFelicediGiano/image 2.jpg" alt="Madonna con il Bambino, e storie della Passione di Gesù e della vita di San Martino">
+  <img src="/Images/MaestroSanFelicediGiano/maestrosanfelicedigiano-02.jpg" alt="Madonna con il Bambino, e storie della Passione di Gesù e della vita di San Martino">
   <figcaption>Madonna con il Bambino, e storie della Passione di Gesù e della vita di San Martino, 1260s, tempera on poplar wood, Museo Diocesano, Spoleto.</figcaption>
 </figure>
 

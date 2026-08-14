@@ -194,7 +194,7 @@ The precise date and cause of Grifo di Tancredi's death are entirely unknown, as
 ### The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings)
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 1.jpg" alt="The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings)">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-01.jpg" alt="The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings)">
   <figcaption>The Death of St Ephraim and Scenes from the Lives of the Hermits (central panel); Scenes from the Passion of Christ (in the wings), 1280-90, tempera and gold on panel, Overall (with wings open): 118.5 x 124.5 x 7.6 cm; Central panel: 112 x 62; Wings (left): 87.4 x 30.9 cm; Wings (right): 87.8 x 31 cm; Overall (with wings closed): 118.8 x 65.7 x 7.6 cm; Shadow box: 134 x 138 x 13 cm, National Gallery of Scotland, Edinburgh.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ This triptych is the anchor of Grifo's entire reconstructed catalogue, since its
 ### Virgin and Child Enthroned and Four Saints
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 2.jpg" alt="Virgin and Child Enthroned and Four Saints">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-02.jpg" alt="Virgin and Child Enthroned and Four Saints">
   <figcaption>Virgin and Child Enthroned and Four Saints, c. 1290, tempera on panel, 188 x 101,5 cm, Galleria dell'Accademia, Florence.</figcaption>
 </figure>
 
@@ -218,28 +218,28 @@ The throne is rendered with a Trecento spatial ambition, decorated with Cosmates
 ### Christ Blessing
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 5.jpg" alt="Christ Blessing">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-05.jpg" alt="Christ Blessing">
   <figcaption>Christ Blessing, c. 1310, tempera on panel, 78.2 × 55.5 × 1.5 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
 ### Saint Peter
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 3.jpg" alt="Saint Peter">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-03.jpg" alt="Saint Peter">
   <figcaption>Saint Peter, c. 1310, tempera on panel, 66.2 × 36.6 × 1 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
 ### Saint James Major
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 4.jpg" alt="Saint James Major">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-04.jpg" alt="Saint James Major">
   <figcaption>Saint James Major, c. 1310, tempera on panel, 66.7 × 36.7 × 1.2 cm, National Gallery of Art, Washington.</figcaption>
 </figure>
 
 ### Saint John the Baptist
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 6.jpg" alt="Saint John the Baptist">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-06.jpg" alt="Saint John the Baptist">
   <figcaption>Saint John the Baptist, c. 1310, tempera on panel, 58,9 x 35,1 cm, Musée des beaux-arts de Chambéry.</figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ The Cimabuesque quality of these panels is so thoroughly assimilated that their 
 ### Tabernacle
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 7.jpg" alt="Tabernacle">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-07.jpg" alt="Tabernacle">
   <figcaption>Tabernacle, 1300-05, tempera and gold on panel, 39 x 59 cm, Gemäldegalerie, Berlin.</figcaption>
 </figure>
 
@@ -259,7 +259,7 @@ The portable tabernacle now in the Gemäldegalerie in Berlin, dateable to around
 ### Dossale with Passion Scenes
 
 <figure>
-  <img src="/Images/Grifo di Tancredi/image 8.jpg" alt="Dossale with Passion Scenes">
+  <img src="/Images/Grifo-di-Tancredi/grifo-di-tancredi-08.jpg" alt="Dossale with Passion Scenes">
   <figcaption>Dossale with Passion Scenes, c. 1310, tempera and gold on panel, 67,3 x 179,3 cm, Timken Art Gallery, San Diego.</figcaption>
 </figure>
 

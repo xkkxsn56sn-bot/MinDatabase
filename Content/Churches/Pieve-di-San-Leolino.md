@@ -151,7 +151,7 @@ The panel paintings preserved in the interior were executed on wooden supports, 
 Gold leaf, applied to the prepared ground over a base of *bolo armeno* (red clay), was employed for the backgrounds of thirteenth and fourteenth-century panels and for the haloes of sacred figures, creating the luminous, dematerialized golden fields that signified the transcendent light of the divine in the visual theology of medieval Christian art. The glazed terracotta works attributed to the workshop of Giovanni della Robbia, dating from around 1520, were produced using the *maiolica* technique in which the modelled terracotta surface, once fired, was coated with a lead and tin glaze and painted with metallic oxide pigments before a second firing at lower temperature, producing the characteristic brilliant white surfaces, cobalt blues, and viridian greens of the Robbian aesthetic.
 
 <figure>
-  <img src="/Images/Bicci di Lorenzo/image 1 san leolino.jpg" alt="Madonna Lactans">
+  <img src="/Images/Bicci-di-Lorenzo/image-1-san-leolino.jpg" alt="Madonna Lactans">
   <figcaption>Bicci di Lorenzo (1373–1452), Madonna Lactans, 1400s, detached fresco, Pieve di San Leolino, Panzano in Chianti.</figcaption>
 </figure>
 

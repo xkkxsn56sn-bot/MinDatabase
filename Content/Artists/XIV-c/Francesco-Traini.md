@@ -170,7 +170,7 @@ Francesco Traini died in 1348, likely between March 3, when he was last document
 ### Saint Dominic Altarpiece
 
 <figure>
-  <img src="/Images/Francesco-Traini/image 1.jpg" alt="Saint Dominic Altarpiece">
+  <img src="/Images/Francesco-Traini/francesco-traini-01.jpg" alt="Saint Dominic Altarpiece">
   <figcaption>Saint Dominic Altarpiece, 1344-45, tempera and gold on panel, Central panel: 175 × 74 cm; each wing: 163 × 93 cm (ensemble: 175 × 260 cm), Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ The long-standing question is the stylistic fracture between the two halves of t
 ### Madonna and Child with Saint Anne (attr.)
 
 <figure>
-  <img src="/Images/Francesco-Traini/image 2.jpg" alt="Madonna and Child with Saint Anne">
+  <img src="/Images/Francesco-Traini/francesco-traini-02.jpg" alt="Madonna and Child with Saint Anne">
   <figcaption>Madonna and Child with Saint Anne, 1340-45, tempera on panel, 84.9 × 56 cm (frame 101.3 × 76.5 × 14.6 cm), Princeton University Art Museum, Princeton.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ For the punch-work, the reference is [Erling Skaug](/scholars.html#skaug-erling)
 ### The Virgin and Child (attr.)
 
 <figure>
-  <img src="/Images/Francesco-Traini/image 3.jpg" alt="The Virgin and Child">
+  <img src="/Images/Francesco-Traini/francesco-traini-03.jpg" alt="The Virgin and Child">
   <figcaption>The Virgin and Child, c. 1345, tempera and gold on panel, 48 x 42 cm, Museo Nacional del Prado, Madrid.</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ This is Matthew 11:28 — "Come to me, all you who labour and are burdened, and 
 ### The Virgin and Child (attr.?)
 
 <figure>
-  <img src="/Images/Francesco-Traini/image 4.jpg" alt="The Virgin and Child">
+  <img src="/Images/Francesco-Traini/francesco-traini-04.jpg" alt="The Virgin and Child">
   <figcaption>The Virgin and Child, c. 1325, tempera and gold on panel, 63.5 x 51.5 x 3 cm (with microclimate frame: 66.8 x 60.5 cm), Louvre Abu Dhabi.</figcaption>
 </figure>
 

@@ -197,7 +197,7 @@ Florence's position as the dominant artistic center of late thirteenth and early
 ### Crucifix with the Sorrowful (1288)
 
 <figure>
-  <img src="/Images/Deodato Orlandi/image 1.jpg" alt="Crucifix with the Sorrowful">
+  <img src="/Images/Deodato-Orlandi/deodato-orlandi-01.jpg" alt="Crucifix with the Sorrowful">
   <figcaption>Crucifix with the Sorrowful, 1288, tempera and gold on panel, Museo nazionale di Villa Guinigi, Lucca.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Deodato Orlandi emerges as a Lucca painter sensitive to Central Italian trends, 
 ### Madonna col bambino tra i ss. Pietro, Paolo, Jacopo e Domenico
 
 <figure>
-  <img src="/Images/Deodato Orlandi/image 2.jpg" alt="Madonna col bambino tra i ss. Pietro, Paolo, Jacopo e Domenico">
+  <img src="/Images/Deodato-Orlandi/deodato-orlandi-02.jpg" alt="Madonna col bambino tra i ss. Pietro, Paolo, Jacopo e Domenico">
   <figcaption>Madonna col bambino tra i ss. Pietro, Paolo, Jacopo e Domenico, 1301, tempera and gold on poplar panel, 71,5 x 206 cm, Museo nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ The work likely comes from the Convent of San Matteo in Soarta in Pisa.
 ### Madonna col bambino
 
 <figure>
-  <img src="/Images/Deodato Orlandi/image 3.jpg" alt="Madonna col bambino">
+  <img src="/Images/Deodato-Orlandi/deodato-orlandi-03.jpg" alt="Madonna col bambino">
   <figcaption>Madonna col bambino, 1300s, tempera and gold on poplar panel, 88,2 x 41,2 cm, Louvre Museum, Paris.</figcaption>
 </figure>
 
@@ -244,7 +244,7 @@ This Madonna exemplifies the role of sacred painting as a devotional tool, invit
 ### Crucifix with the Sorrowful (1301)
 
 <figure>
-  <img src="/Images/Deodato Orlandi/image 4.jpg" alt="Crucifix with the Sorrowful">
+  <img src="/Images/Deodato-Orlandi/deodato-orlandi-04.jpg" alt="Crucifix with the Sorrowful">
   <figcaption>Crucifix with the Sorrowful, 1301, tempera and gold on poplar panel, 295 x 192 cm, Museo del Conservatorio di Santa Chiara, San Miniato.</figcaption>
 </figure>
 

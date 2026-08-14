@@ -182,7 +182,7 @@ The most substantive and enduring scholarly proposal for the identification of t
 The document in question, dated January 1328 (in Florentine style, 1327), records a payment to "Gaddo dipintore" for the execution of *braccioli* (armrests) for the altar of San Pietro in the church of San Pier Maggiore in Florence. This is the same Florentine church from which comes the *Saint Peter Enthroned* dated 1307, a panel that a significant portion of the critical tradition assigns to the Maestro di Santa Cecilia, thus creating a plausible link between the documented painter and the anonymous stylistic personality through a shared institutional connection.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro di Santa Cecilia/image 4.jpg" alt="Saint Peter Enthroned">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-04.jpg" alt="Saint Peter Enthroned">
   <figcaption>Saint Peter Enthroned, 1307, tempera and gold on panel, church of Santi Simone e Giuda, Florence.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ One methodological limitation of all such identification proposals is the comple
 Beyond the documentary dimension, the identification hypothesis gains considerable support from the stylistic affinities that can be traced between the works attributed to the Maestro di Santa Cecilia and the group of paintings tentatively assigned to Gaddo Gaddi by [Miklós Boskovits](/scholars.html#boskovits-miklos) in his foundational studies of 1974 and 1976. Boskovits proposed to assign to Gaddo a group of works characterized by a deep Cimabuesque cultural formation enriched by Gothic refinements and expressive accents, including the *Madonna and Child with Two Angels* in San Remigio in Florence, and three painted crucifixes in the Galleria dell'Accademia in Florence, in San Stefano at Paterno, and in the Fogg Art Museum at Cambridge, Massachusetts.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Gaddo Gaddi/image 3.jpg" alt="Madonna and Child with Two Angels">
+  <img src="/Images/Gaddo-Gaddi/gaddo-gaddi-03.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1290, tempera and gold on panel, church of San Remigio, Florence.</figcaption>
 </figure>
 

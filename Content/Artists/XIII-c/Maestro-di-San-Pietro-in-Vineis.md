@@ -203,7 +203,7 @@ The church, which belongs to the Clarissan community and is today incorporated i
 ### Deposition in the Tomb
 
 <figure>
-  <img src="/Images/Maestro di San Pietro in Vineis/image 1.jpg" alt="Deposition in the Tomb">
+  <img src="/Images/Maestro-di-San-Pietro-in-Vineis/maestro-di-san-pietro-in-vineis-01.jpg" alt="Deposition in the Tomb">
   <figcaption>Deposition in the Tomb, c. 1255, fresco, church of San Pietro in Vineis, Anagni.</figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ The work must also be viewed within its broader context. Anagni, civitas pontifi
 ### Kiss of Judas
 
 <figure>
-  <img src="/Images/Maestro di San Pietro in Vineis/image 2.jpg" alt="Kiss of Judas">
+  <img src="/Images/Maestro-di-San-Pietro-in-Vineis/maestro-di-san-pietro-in-vineis-02.jpg" alt="Kiss of Judas">
   <figcaption>Kiss of Judas, c. 1255, fresco, church of San Pietro in Vineis, Anagni.</figcaption>
 </figure>
 

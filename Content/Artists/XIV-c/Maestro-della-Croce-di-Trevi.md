@@ -181,7 +181,7 @@ This capacity to “speak directly to the spectator,” to organise the sacred i
 ### Painted Cross with St. Francis (Croce di Trevi)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 7.jpg" alt="Painted Cross with St. Francis">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-07.jpg" alt="Painted Cross with St. Francis">
   <figcaption>Painted Cross with St. Francis, 1320-25, tempera an gold on panel, 353 x 229,5 cm, Complesso Museale di S. Francesco, Trevi.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ Taken as a whole, the cross exemplifies the diffusion of the Giottesque naturali
 ### The Entombment
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 1.jpg" alt="The Entombment">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-01.jpg" alt="The Entombment">
   <figcaption>The Entombment, 1320-30, tempera an gold on panel, 39,5 x 39,8 cm, Alana Collection, Newark.</figcaption>
 </figure>
 
@@ -243,7 +243,7 @@ Tempera on a gesso ground with a water-gilded field. The haloes are incised with
 ### 1. Crucifixion with the Virgin, St John the Evangelist and St Nicholas of Tolentino
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 2.jpg" alt="Crucifixion with the Virgin, St John the Evangelist and St Nicholas of Tolentino">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-02.jpg" alt="Crucifixion with the Virgin, St John the Evangelist and St Nicholas of Tolentino">
   <figcaption>Crucifixion with the Virgin, St John the Evangelist and St Nicholas of Tolentino, 1320-30, tempera an gold on panel, 39,1 x 35 cm, Musei Vaticani, Vatican City.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ Moreover:
 ### 2. Kiss of Judas
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 3.jpg" alt="Kiss of Judas">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-03.jpg" alt="Kiss of Judas">
   <figcaption>Kiss of Judas, 1320-30, tempera an gold on panel, 33,8 x 34,3 cm, Musei Vaticani, Vatican City.</figcaption>
 </figure>
 
@@ -318,7 +318,7 @@ About condition: a coarse craquelure across the whole surface. The gold is worn 
 ### 3. Flagellation
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 4.jpg" alt="Flagellation">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-04.jpg" alt="Flagellation">
   <figcaption>Flagellation, 1320-30, tempera an gold on panel, 35,5 x 34 cm, Musei Vaticani, Vatican City.</figcaption>
 </figure>
 
@@ -347,7 +347,7 @@ The surface is heavy, with wide-meshed craquelure, worst in the flesh of Christ 
 ### 4. The Entombment
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 5.jpg" alt="The Entombment">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-05.jpg" alt="The Entombment">
   <figcaption>The Entombment, 1320-30, tempera an gold on panel, 36,6 x 34,9 cm, Musei Vaticani, Vatican City.</figcaption>
 </figure>
 
@@ -372,7 +372,7 @@ Condition: craquelure throughout, heavy abrasion, the gold reduced to bole, the 
 ### 5. The Resurrection
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 6.jpg" alt="The Resurrection">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-06.jpg" alt="The Resurrection">
   <figcaption>The Resurrection, 1320-30, tempera an gold on panel, 34,1 x 33,4 cm, Musei Vaticani, Vatican City.</figcaption>
 </figure>
 
@@ -405,7 +405,7 @@ Iconographically, the image belongs to the Western Resurrection type, with Chris
 ### The overall reconstruction
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 12.jpg" alt="The Poldi Pezzoli diptych">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-12.jpg" alt="The Poldi Pezzoli diptych">
   <figcaption>The Poldi Pezzoli diptych, c. 1320, tempera an gold on panel, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -422,7 +422,7 @@ Now, let's examine the diptych panel by panel.
 ### The Annunciation and Madonna Enthroned with Child and Saints (left side, below)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 10.jpg" alt="The Annunciation and Madonna Enthroned with Child and Saints">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-10.jpg" alt="The Annunciation and Madonna Enthroned with Child and Saints">
   <figcaption>The Annunciation and Madonna Enthroned with Child and Saints, c. 1320, tempera an gold on panel, 23 x 18 cm, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -441,7 +441,7 @@ Taken together, the likeliest reconstruction is Catherine of Alexandria crowned 
 ### The Stigmatization of St. Francis
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 11.jpg" alt="The Stigmatization of St. Francis">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-11.jpg" alt="The Stigmatization of St. Francis">
   <figcaption>The Stigmatization of St. Francis, c. 1320, tempera an gold on panel, 7.8 x 8.2 cm, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -458,7 +458,7 @@ With this panel the programme of the little tabernacle comes into focus as a coh
 ### The Crucifixion (right side, below)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 8.jpg" alt="The Crucifixion">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-08.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, c. 1320, tempera an gold on panel, 23.3 x 17.8 cm, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -477,7 +477,7 @@ Considered as a whole, the little panel exemplifies the transmission of the monu
 ### The Flagellation (right side, above)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 9.jpg" alt="The Flagellation">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-09.jpg" alt="The Flagellation">
   <figcaption>The Flagellation, c. 1320, tempera an gold on panel, 8 x 8.8 cm, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -492,7 +492,7 @@ Considered within the larger programme to which it belongs, this small Flagellat
 ### Devotional diptych with Christ mocked, Flagellation and Crucifixion
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 13.jpg" alt="Devotional diptych with Christ mocked, Flagellation and Crucifixion">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-13.jpg" alt="Devotional diptych with Christ mocked, Flagellation and Crucifixion">
   <figcaption>Devotional diptych with Christ mocked, Flagellation and Crucifixion, 1325-30, tempera and gold on panel, 45.5 x 58 cm, Palazzo Cini, Venice.</figcaption>
 </figure>
 
@@ -511,7 +511,7 @@ Taken as a whole, the diptych exemplifies the compressed narrative economy and e
 ### The Flagellation (recto)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 14.jpg" alt="The Flagellation">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-14.jpg" alt="The Flagellation">
   <figcaption>The Flagellation (recto), 1335-40, tempera and gold on canvas, 31.5 x 23.5 cm, Palazzo Citterio, Milan.</figcaption>
 </figure>
 
@@ -524,7 +524,7 @@ At the heart of the panel stands Christ, isolated and frontal, his slender body 
 ### The Flagellation (verso)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Trevi/image 15.jpg" alt="The Flagellation">
+  <img src="/Images/Maestro-Croce-Trevi/maestro-croce-trevi-15.jpg" alt="The Flagellation">
   <figcaption>The Flagellation (verso), 1335-40, tempera and gold on canvas, 31.5 x 23.5 cm, Palazzo Citterio, Milan.</figcaption>
 </figure>
 

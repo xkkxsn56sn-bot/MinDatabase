@@ -239,7 +239,7 @@ The ongoing debate over his identification with Gilio di Pietro exemplifies the 
 ### Madonna and Child with Two Angels, inv. 1575
 
 <figure>
-  <img src="/Images/Maestro Cosma Damiano/image 1.jpg" alt="Madonna and Child with Two Angels">
+  <img src="/Images/Maestro-Cosma-Damiano/maestro-cosma-damiano-01.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1260, tempera and gold leaf on panel, 85,4 x 56 cm, Museo nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ This Madonna exemplifies the Pisan Giunta style: rigid yet expressive, with an e
 ### Madonna and Child with Two Angels, inv. 1574
 
 <figure>
- <img src="/Images/Maestro Cosma Damiano/image 2.jpg" alt="Madonna and Child with Two Angels">
+ <img src="/Images/Maestro-Cosma-Damiano/maestro-cosma-damiano-02.jpg" alt="Madonna and Child with Two Angels">
   <figcaption>Madonna and Child with Two Angels, c. 1260, tempera and gold leaf on panel, 87,6 x 50,2 cm, Museo nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ These differences reveal the master’s productive flexibility, adapted to diffe
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Maestro Cosma Damiano/image 3.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro-Cosma-Damiano/maestro-cosma-damiano-03.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1260-70, tempera and gold leaf on panel, 64 x 44 cm, Fogg Art Museum, Cambridge, MA.</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ These variations illustrate the workshop’s versatility, ranging from intimate 
 ### Our Lady of the Mantellini
 
 <figure>
-  <img src="/Images/Maestro Cosma Damiano/image 4.jpg" alt="Our Lady of the Mantellini">
+  <img src="/Images/Maestro-Cosma-Damiano/maestro-cosma-damiano-04.jpg" alt="Our Lady of the Mantellini">
   <figcaption>Our Lady of the Mantellini, 1260-70, tempera and gold leaf on panel, 78 x 49 cm, church of San Niccolò del Carmine, Siena.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ These variations demonstrate an evolution from rigid Byzantine to expressive Sie
 ### Madonna and Child (Our Lady of the Patronage)
 
 <figure>
-  <img src="/Images/Maestro Cosma Damiano/image 5.jpg" alt="Madonna and Child (Our Lady of the Patronage)">
+  <img src="/Images/Maestro-Cosma-Damiano/maestro-cosma-damiano-05.jpg" alt="Madonna and Child (Our Lady of the Patronage)">
   <figcaption>Madonna and Child (Our Lady of the Patronage), 1260-70, tempera and gold leaf on panel, 75 x 49 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

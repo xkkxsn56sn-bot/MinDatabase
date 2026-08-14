@@ -191,7 +191,7 @@ The cause and date of death remain permanently inaccessible to historical invest
 ### Crucifix of Trevi
 
 <figure>
- <img src="/Images/Maestro Alo/image 1.jpg" alt="Crucifix of Trevi">
+ <img src="/Images/Maestro-Alo/maestro-alo-01.jpg" alt="Crucifix of Trevi">
   <figcaption>Crucifix of Trevi, 1290-95, tempera and silver on panel, 190 x 129 cm, Complesso museale di San Francesco, Pinacoteca comunale, Trevi.</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ From a spiritual perspective, the crucifix depicts not only Christ’s death but
 ### The Reliquary Crucifix (recto)
 
 <figure>
- <img src="/Images/Maestro Alo/image 2.jpg" alt="The Reliquary Crucifix (recto)">
+ <img src="/Images/Maestro-Alo/maestro-alo-02.jpg" alt="The Reliquary Crucifix (recto)">
   <figcaption>The Reliquary Crucifix (recto), 1290-1310, egg tempera on wood and cabochon glass, 45 x 28,3 x 3 cm, Museo Nazionale del Duca di Spoleto, Palazzo dei Priori, Spoleto.</figcaption>
 </figure>
 
@@ -249,7 +249,7 @@ The entire recto constructs a unity of image and relic: Christ patiens, flanked 
 ### The Reliquary Crucifix (verso)
 
 <figure>
- <img src="/Images/Maestro Alo/image 3.jpg" alt="The Reliquary Crucifix (verso)">
+ <img src="/Images/Maestro-Alo/maestro-alo-03.jpg" alt="The Reliquary Crucifix (verso)">
   <figcaption>The Reliquary Crucifix (verso), 1290-1310, egg tempera on wood and cabochon glass, 45 x 28,3 x 3 cm, Museo Nazionale del Duca di Spoleto, Palazzo dei Priori, Spoleto.</figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ In addition to the iconographic function of the Crucifixion, the object was conc
 ### Saints - Table-top Reliquary (recto)
 
 <figure>
- <img src="/Images/Maestro Alo/image 4.jpg" alt="Table-top reliquary Reliquary (recto)">
+ <img src="/Images/Maestro-Alo/maestro-alo-04.jpg" alt="Table-top reliquary Reliquary (recto)">
   <figcaption>Saints - Table-top Reliquary (recto), 1290-1310, egg tempera on wood and cabochon glass, 24 x 30 cm, Museo Nazionale del Duca di Spoleto, Palazzo dei Priori, Spoleto.</figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ At the top of the table, a Latin inscription written in Gothic script reads as f
 ### Saints - Table-top Reliquary (verso)
 
 <figure>
- <img src="/Images/Maestro Alo/image 5.jpg" alt="Table-top reliquary Reliquary (verso)">
+ <img src="/Images/Maestro-Alo/maestro-alo-05.jpg" alt="Table-top reliquary Reliquary (verso)">
   <figcaption>Saints - Table-top Reliquary (verso), 1290-1310, egg tempera on wood and cabochon glass, 24 x 29,5 cm, Museo Nazionale del Duca di Spoleto, Palazzo dei Priori, Spoleto.</figcaption>
 </figure>
 
@@ -297,7 +297,7 @@ At the top of the table, a Latin inscription written in Gothic script reads as f
 ### The Virgin and Child with Saints Blasius and Nicholas; Saints Bartholomew, Mary Magdalen, Urban, Agatha and Anthony
 
 <figure>
- <img src="/Images/Maestro Alo/image 6.jpg" alt="The Virgin and Child with Saints Blasius and Nicholas; Saints Bartholomew, Mary Magdalen, Urban, Agatha and Anthony">
+ <img src="/Images/Maestro-Alo/maestro-alo-06.jpg" alt="The Virgin and Child with Saints Blasius and Nicholas; Saints Bartholomew, Mary Magdalen, Urban, Agatha and Anthony">
   <figcaption>The Virgin and Child with Saints Blasius and Nicholas; Saints Bartholomew, Mary Magdalen, Urban, Agatha and Anthony, 1300-20, egg tempera on wood, 26,8 x 16,5 x 4,5 cm, Victoria & Albert Museum, London.</figcaption>
 </figure>
 
@@ -318,7 +318,7 @@ As a whole, the image unites function, theology, and style with great coherence.
 ### The Crucifixion with a donor in monastic habit, with the Virgin, Saints John the Evangelist, Scholastica and Agnes
 
 <figure>
- <img src="/Images/Maestro Alo/image 6.jpg" alt="The Crucifixion with a donor in monastic habit, with the Virgin, Saints John the Evangelist, Scholastica and Agnes">
+ <img src="/Images/Maestro-Alo/maestro-alo-06.jpg" alt="The Crucifixion with a donor in monastic habit, with the Virgin, Saints John the Evangelist, Scholastica and Agnes">
   <figcaption>The Crucifixion with a donor in monastic habit, with the Virgin, Saints John the Evangelist, Scholastica and Agnes, 1300-20, egg tempera on wood, 26,8 x 16,5 x 4,5 cm, Victoria & Albert Museum, London.</figcaption>
 </figure>
 

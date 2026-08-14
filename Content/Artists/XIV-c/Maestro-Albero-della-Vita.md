@@ -130,7 +130,7 @@ No document presently known records any travel undertaken by the master, and the
 ## Principal works
 
 <figure>
- <img src="/Images/Maestro Albero della Vita/image 1.jpg" alt="Tree of Life - Basilica of Santa Maria Maggiore, Bergamo">
+ <img src="/Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-01.jpg" alt="Tree of Life - Basilica of Santa Maria Maggiore, Bergamo">
  <figcaption>Tree of Life (lower register), 1347, fresco, 690 x 360 cm, Basilica of Santa Maria Maggiore, Bergamo.</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ On a lower level, near the roots of the tree and in a devout posture, the patron
 The lower register functions as a theological threshold: the roots of the tree are not left empty, but are occupied by figures embodying Franciscan meditation, Marian devotion, and emotional participation in the Passion. The joint presence of Clare, Francis, Bonaventure, John, Louis, and Anthony shows that the base of the tree is conceived as a place of contemplation and imitation of Christ, not merely as an ornamental backdrop. For this reason, the lower band is essential: it gives the grand scheme of the tree a human and devotional foundation, transforming the Cross into a center of remembrance, prayer, and intercession.
 
 <figure>
- <img src="/Images/Maestro Albero della Vita/image 2.jpg" alt="Tree of Life - Basilica of Santa Maria Maggiore, Bergamo">
+ <img src="/Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-02.jpg" alt="Tree of Life - Basilica of Santa Maria Maggiore, Bergamo">
  <figcaption>Tree of Life (upper register), 1347, fresco, 690 x 360 cm, Basilica of Santa Maria Maggiore, Bergamo.</figcaption>
 </figure>
 

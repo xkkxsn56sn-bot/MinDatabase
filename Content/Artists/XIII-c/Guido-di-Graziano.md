@@ -184,7 +184,7 @@ The participation of Guido di Graziano — alongside Guido da Siena, Dietisalvi 
 ### Dossale di San Pietro
 
 <figure>
-  <img src="/Images/Guido di Graziano/image 1.jpg" alt="Dossale di San Pietro">
+  <img src="/Images/Guido-di-Graziano/guido-di-graziano-01.jpg" alt="Dossale di San Pietro">
   <figcaption>Dossale di San Pietro, 1280-90, tempera and gold on panel, 100,5 x 141 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ The panel reveals a dual influence: on the one hand, the Sienese school of Guido
 ### Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo)
 
 <figure>
-  <img src="/Images/Guido di Graziano/image 2.jpg" alt="Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo)">
+  <img src="/Images/Guido-di-Graziano/guido-di-graziano-02.jpg" alt="Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo)">
   <figcaption>Tavoletta di Biccherna (Don Guido, monaco di San Galgano, camarlengo), 1280, tempera on panel, Archivio di Stato, Siena.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ This small work, commissioned by the financial magistracy of Siena, was intended
 ### San Francesco e storie della sua vita
 
 <figure>
-  <img src="/Images/Guido di Graziano/image 3.jpg" alt="San Francesco e storie della sua vita">
+  <img src="/Images/Guido-di-Graziano/guido-di-graziano-03.jpg" alt="San Francesco e storie della sua vita">
   <figcaption>San Francesco e storie della sua vita, post 1270, 237 x 113 cm, tempera and gold on panel, Pinacoteca Nazionale di Siena.</figcaption>
 </figure>
 

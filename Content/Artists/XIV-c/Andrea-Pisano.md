@@ -169,7 +169,7 @@ In November 1329 the Calimala dispatched one of its goldsmiths, Piero di Jacopo,
 ### South Door of Florence Baptistery
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 5.jpg" alt="South Door of Florence Baptistery">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-05.jpg" alt="South Door of Florence Baptistery">
   <figcaption>South Door of Florence Baptistery, 1330-36, gilded bronze, 494 x 295 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -298,7 +298,7 @@ The most celebrated and most contested of these late works is the marble Madonna
 ### Tomb of Archbishop Simone Saltarelli (with Nino and workshop)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 8.jpg" alt="Tomb of Archbishop Simone Saltarelli">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-08.jpg" alt="Tomb of Archbishop Simone Saltarelli">
   <figcaption>Tomb of Archbishop Simone Saltarelli, 1342-43, white marble, church of Santa Caterina d'Alessandria, Pisa.</figcaption>
 </figure>
 
@@ -372,7 +372,7 @@ The securely attributed works form the firm ground from which the connoisseurial
 ### Christ Blessing
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 1.jpg" alt="Christ Blessing">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-01.jpg" alt="Christ Blessing">
   <figcaption>Christ Blessing, 1330-43, marble, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -390,7 +390,7 @@ Two material facts, drawn from the Opera del Duomo's own catalogue file, deserve
 ### Saint Reparata
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 2.jpg" alt="Saint Reparata">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-02.jpg" alt="Saint Reparata">
   <figcaption>Saint Reparata, 1330-43, marble, 71 x 24 x 21 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
 </figure>
 
@@ -427,7 +427,7 @@ Around this core cluster the more debated attributions, which range from the hig
 ### Madonna del Latte (with his son Nino)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 3.jpg" alt="Madonna del latte">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-03.jpg" alt="Madonna del latte">
   <figcaption>Madonna del Latte (with his son Nino), 1343-48, marble with traces of original polychromy and gilding, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -448,7 +448,7 @@ Not everyone concurs. There remains a scholarly minority that defends Nino's aut
 ### Madonna della Rosa (with his son Nino)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 4.jpg" alt="Madonna della Rosa">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-04.jpg" alt="Madonna della Rosa">
   <figcaption>Madonna della Rosa (with his son Nino), 1345-48, marble with surviving traces of polychromy and gilding, church of Santa Maria della Spina (presbytery), Pisa.</figcaption>
 </figure>
 
@@ -471,7 +471,7 @@ The name is not innocent, either. A *rose* in the hand of the Virgin, in a churc
 ### Madonna with Child (with Nino?)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 6.jpg" alt="Madonna with Child">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-06.jpg" alt="Madonna with Child">
   <figcaption>Madonna with Child (with Nino?), 1345-49, marble, Museo dell'Opera del Duomo, Pisa.</figcaption>
 </figure>
 
@@ -490,7 +490,7 @@ The surface tells its own history. Six and a half centuries of exposure have gra
 ### Madonna with Child (attr.)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 7.jpg" alt="Madonna with Child">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-07.jpg" alt="Madonna with Child">
   <figcaption>Madonna with Child, c. 1335, marble, 48,5 x 19 x 16,5 cm (without octagonal plinth), Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -509,7 +509,7 @@ Early dating places the piece in Andrea's Florentine decade, contemporaneous wit
 ### Madonna with Child - Cleveland (attr.)
 
 <figure>
-  <img src="/Images/Andrea-Pisano/image 9.jpg" alt="Madonna with Child">
+  <img src="/Images/Andrea-Pisano/andrea-pisano-09.jpg" alt="Madonna with Child">
   <figcaption>Madonna with Child, 1330-40, marble with traces of gilding, Base: 5 x 15.9 x 15.1 cm; without base: 32.7 x 15 x 9.6 cm, The Cleveland Museum of Art, Cleveland.</figcaption>
 </figure>
 

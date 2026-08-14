@@ -135,7 +135,7 @@ Given the complete lack of explicit references to a death place or burial site, 
 ### Christus patiens between the Virgin and St. John the Evangelist 
 
 <figure>
-  <img src="/Images/Ranieri di Ugolino/image 1.jpg" alt="Christus patiens between the Virgin and St. John the Evangelist">
+  <img src="/Images/Ranieri-di-Ugolino/ranieri-di-ugolino-01.jpg" alt="Christus patiens between the Virgin and St. John the Evangelist">
   <figcaption>Christus patiens between the Virgin and St. John the Evangelist, 1270-90, tempera and gold on panel, 90 x 82 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ The composition is typical of the late 13th-century Pisan shaped cross: the cima
 ### Crucifix Painted on Both Sides (front)
 
 <figure>
-  <img src="/Images/Ranieri di Ugolino/image 2.jpg" alt="The Crucifixion">
+  <img src="/Images/Ranieri-di-Ugolino/ranieri-di-ugolino-02.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1290-1310, tempera and gold on panel, 56.5 x 43.7 x 2 cm, Musée national d'archéologie, d'histoire et d'art, Luxembourg.</figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ In the lower section is depicted a young saint in a half-length portrait, wearin
 ### Crucifix Painted on Both Sides (back)
 
 <figure>
-  <img src="/Images/Ranieri di Ugolino/image 2.jpg" alt="The Living Christ and Saints">
+  <img src="/Images/Ranieri-di-Ugolino/ranieri-di-ugolino-02.jpg" alt="The Living Christ and Saints">
   <figcaption>The Living Christ and Saints, 1290-1310, tempera and gold on panel, 56.5 x 43.7 x 2 cm, Musée national d'archéologie, d'histoire et d'art, Luxembourg.</figcaption>
 </figure>
 

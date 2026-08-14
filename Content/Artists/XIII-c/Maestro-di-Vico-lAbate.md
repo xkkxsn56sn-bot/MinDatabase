@@ -187,7 +187,7 @@ The broader cultural geography of the Maestro di Vico l'Abate's professional wor
 ### St Michael Archangel and stories from his legend
 
 <figure>
-  <img src="/Images/Coppo/image 6.jpg" alt="St Michael Archangel and stories from his legend">
+  <img src="/Images/Coppo/coppo-06.jpg" alt="St Michael Archangel and stories from his legend">
   <figcaption>St Michael Archangel and stories from his legend, 1250-60, tempera on panel, 96 x 122 cm, Museo di Arte Sacra, San Casciano Val di Pesa.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ Surrounding the central image is a series of narrative compartments depicting ep
 ### Madonna con Bambino (Madonna dei Miracoli)
 
 <figure>
-  <img src="/Images/Maestro di Vico/image 1.jpg" alt="Madonna con Bambino (Madonna dei Miracoli)">
+  <img src="/Images/Maestro-di-Vico/maestro-di-vico-01.jpg" alt="Madonna con Bambino (Madonna dei Miracoli)">
   <figcaption>Madonna con Bambino (Madonna dei Miracoli), 124-60, tempera on panel, 80 x 67 cm, Monastero di Santa Maria, Rosano.</figcaption>
 </figure>
 

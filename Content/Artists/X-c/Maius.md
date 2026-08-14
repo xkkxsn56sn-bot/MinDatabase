@@ -167,7 +167,7 @@ The Mozarabic Christian communities of tenth-century Iberia maintained distinct 
 This identification gains credibility from Escalada's known Mozarabic connections, as the monastery had been founded by monks who emigrated from Córdoba under Abbot Alfonso. The cultural and possibly personal connections between Maius and the Mozarabic monastic network would have facilitated such a commission. Abbot Victor's decision to commission a complete Beatus manuscript represents a significant investment of resources, as such projects required extensive quantities of vellum, pigments, and above all, the time of a skilled scribe-illuminator. The Morgan Beatus contains 300 folios with 110 miniatures, representing months or even years of intensive labor. Victor's patronage thus reflects both the wealth and the cultural ambitions of his monastic community. Such commissions served multiple purposes: they enhanced the liturgical and educational resources of the monastery, demonstrated the institution's cultural sophistication, and created objects of lasting prestige.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maius/image 1.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
+  <img src="/Images/Maius/maius-01.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
   <figcaption>Commentary on the Apocalypse (Morgan Beatus), c. 945, folio 1v: Reference to Mattheus' Gospel. The inscription reads: "HEC MATHEUS GENUS HOMINEM GENERALITER IMPLET. This Matthew, the human race, fills in a general way", vegetal and mineral pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ The relationship between Maius and his patron Abbot Victor would have been struc
 The manuscript includes elements that appear to be Maius's own contributions, including the prefatory portraits of the Evangelists, elaborate genealogical tables, and distinctive approaches to framing and background colors. These innovations suggest that Victor trusted Maius's artistic judgment and may have encouraged experimentation. The fact that Maius worked not at Escalada but at the scriptorium of San Salvador de Tábara, where he died in 968, indicates a complex arrangement whereby Maius remained affiliated with his home institution while executing commissions for external patrons. Such arrangements were not uncommon in medieval monastic culture, where talented artisans might work for multiple institutions within a regional network. The patronage relationship thus involved not only Victor and Maius as individuals but also the institutional relationship between the monasteries of Escalada and Tábara.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maius/image 2.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
+  <img src="/Images/Maius/maius-02.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
   <figcaption>Commentary on the Apocalypse (Morgan Beatus), c. 945, folio 115v: Apocalypse: Winds restrained and Sealing of Tribes, vegetal and mineral pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ These binding agents were applied over backgrounds that were often burnished wit
 The spatial organization of Maius's illuminations represents another significant innovation in Beatus manuscript design. He modified the compositional strategies employed in earlier manuscripts, introducing miniatures that occupy double-page spreads, a feature rare in previous illustrated versions of the text. This expansion of the pictorial field allowed for more elaborate compositions and more dramatic visual impact when the manuscript was opened. Maius organized his pictorial space in horizontal bands of irregular thickness, creating a distinctive visual rhythm across the page. His figures lack conventional perspective and three-dimensional modeling, rendered instead in an essentially flat, two-dimensional manner. This artistic choice was not the result of technical limitation but rather reflected a deliberate aesthetic approach suited to the manuscript's spiritual purpose.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maius/image 3.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
+  <img src="/Images/Maius/maius-03.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
   <figcaption>Commentary on the Apocalypse (Morgan Beatus), c. 945, folio 117v: Apocalypse: Lamb, Adoration by Multitude, vegetal and mineral pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ The beasts and monsters that populate the apocalypse receive particularly invent
 Color symbolism plays an important role in Maius's artistic program, though the specific symbolic meanings of his color choices must be inferred from both textual traditions and comparative analysis. The prominent use of red in his work may carry associations with blood, sacrifice, and martyrdom, themes central to apocalyptic theology. Blue and purple, colors traditionally associated with royalty and divinity, appear frequently in depicting Christ, angels, and heavenly realms. Gold and silver, though used sparingly in the Morgan Beatus and primarily in the early folios, carry obvious associations with preciousness and divine light. The contrast between light and dark passages in his compositions may reflect the theological dualism of the apocalyptic narrative, with its clear demarcation between good and evil, salvation and damnation.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maius/image 4.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
+  <img src="/Images/Maius/maius-04.jpg" alt="Commentary on the Apocalypse (Morgan Beatus), c. 945">
   <figcaption>Commentary on the Apocalypse (Morgan Beatus), c. 945, folio 151r: Witnesses slain: Seven men armed with swords, spears and staves, destroying city gate of Jerusalem with seven men within, vegetal and mineral pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.</figcaption>
 </figure>
 

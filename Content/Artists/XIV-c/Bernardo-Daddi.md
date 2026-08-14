@@ -216,7 +216,7 @@ The modern scholarly recovery of Daddi's importance began in earnest with the gr
 ### Triptych with Virgin and Child between Saint Matthew the Evangelist and Saint Nicholas of Bari
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 1.jpg" alt="Triptych with Virgin and Child between Saint Matthew the Evangelist and Saint Nicholas of Bari">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-01.jpg" alt="Triptych with Virgin and Child between Saint Matthew the Evangelist and Saint Nicholas of Bari">
   <figcaption>Triptych with Virgin and Child between Saint Matthew the Evangelist and Saint Nicholas of Bari, 1328, tempera and gold leaf on panel, 144 x 194 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -249,7 +249,7 @@ Bernardo Daddi's work thus configures a perfect balance between the solid plasti
 ### Bigallo Triptych
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 2.jpg" alt="Bigallo Triptych">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-02.jpg" alt="Bigallo Triptych">
   <figcaption>Bigallo Triptych, 1333, tempera and gold leaf on panel, 89 x 97 cm, Museo del Bigallo, Florence.</figcaption>
 </figure>
 
@@ -338,7 +338,7 @@ The date of 1333 places it five years after the Uffizi triptych discussed previo
 ### The Coronation of the Virgin (National Gallery)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 3.jpg" alt="The Coronation of the Virgin">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-03.jpg" alt="The Coronation of the Virgin">
   <figcaption>The Coronation of the Virgin, 1340-5, tempera and gold leaf on wood, 111,7 × 75,5 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -381,7 +381,7 @@ It stands as one of the supreme achievements of Florentine panel painting in the
 ### The Assumption of the Virgin
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 4.jpg" alt="The Assumption of the Virgin">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-04.jpg" alt="The Assumption of the Virgin">
   <figcaption>The Assumption of the Virgin, 1337-39, tempera and gold leaf on wood, 108 × 136,8 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -437,7 +437,7 @@ Together with the National Gallery Coronation, this panel reveals how systematic
 ### Christ Enthroned with Saints
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 5.jpg" alt="Christ Enthroned with Saints">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-05.jpg" alt="Christ Enthroned with Saints">
   <figcaption>Christ Enthroned with Saints, 1325, tempera and gold leaf on wood, 19,1 x 22,9 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -508,7 +508,7 @@ The work also reveals how thoroughly Byzantine devotional traditions — the ico
 ### The Polyptych of Santa Reparata (San Pancrazio)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 6.jpg" alt="The Polyptych of Santa Reparata (San Pancrazio)">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-06.jpg" alt="The Polyptych of Santa Reparata (San Pancrazio)">
   <figcaption>The Polyptych of Santa Reparata (San Pancrazio) (Madonna and Child Enthroned with Angels, Saint Pancras, Saint Nereus, Saint John the Evangelist, Saint John the Baptist, Saint Achilleus, Saint Reparata, Saint Joachim Expelled from the Temple, Saint Joachim Comforted by the Angel, Meeting of Saint Anne and Saint Joachim at the Golden Gate, Birth of the Virgin Mary, Presentation of the Virgin Mary at the Temple, Annunciation, Nativity of Christ), 1330-38, tempera and gold leaf on wood, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -541,7 +541,7 @@ It remains to state plainly the status of the reconstruction offered here. The d
 ### Saint Reparata before the Emperor Decius
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 7.jpg" alt="Saint Reparata before the Emperor Decius">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-07.jpg" alt="Saint Reparata before the Emperor Decius">
   <figcaption>Saint Reparata before the Emperor Decius, 1338-40, tempera and gold leaf on wood, 32.4 x 40.6 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -600,7 +600,7 @@ Its subject — the patron saint of Florence facing the ultimate test of her fai
 ### Saint Reparata Being Prepared for Execution
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 8.jpg" alt="Saint Reparata Being Prepared for Execution">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-08.jpg" alt="Saint Reparata Being Prepared for Execution">
   <figcaption>Saint Reparata Being Prepared for Execution, 1338-40, tempera and gold leaf on wood, 24.4 x 34.6 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -651,7 +651,7 @@ To see Reparata's head forced downward in preparation for the sword was not to w
 ### Saint Reparata Tortured with Red-Hot Irons
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 9.jpg" alt="Saint Reparata Tortured with Red-Hot Irons">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-09.jpg" alt="Saint Reparata Tortured with Red-Hot Irons">
   <figcaption>Saint Reparata Tortured with Red-Hot Irons, 1338-40, tempera and gold leaf on wood, 33 x 41.9 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -704,7 +704,7 @@ The torturer's iron, however hot, cannot reach it.
 ### Saint Reparata in Prison
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 10.jpg" alt="Saint Reparata in Prison">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-10.jpg" alt="Saint Reparata in Prison">
   <figcaption>Saint Reparata in Prison, 1338-40, tempera and gold leaf on wood, Private collection.</figcaption>
 </figure>
 
@@ -753,7 +753,7 @@ That stillness is the stillness of prayer — the body at rest, the soul in moti
 ### The Crucifixion (MET)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 11.jpg" alt="The Crucifixion">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-11.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1325-30, tempera and gold leaf on wood, 46.4 x 28.9 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -808,7 +808,7 @@ Yet the emotional specificity of the Virgin's gesture — that hand pressed agai
 ### The Crucifixion (NGA)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 12.jpg" alt="The Crucifixion">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-12.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1320-25, tempera and gold leaf on wood, 35.5 × 23.6 × 2.7 cm, National Gallery of Art, Washington, D.C.</figcaption>
 </figure>
 
@@ -861,7 +861,7 @@ What the Washington Crucifixion reveals above all is that Daddi's pictorial inte
 ### Madonna and Child with Saints and Angels
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 13.jpg" alt="Madonna and Child with Saints and Angels">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-13.jpg" alt="Madonna and Child with Saints and Angels">
   <figcaption>Madonna and Child with Saints and Angels, c. 1345, tempera and gold leaf on wood, 57.1 × 30.5 × 2.6 cm, National Gallery of Art, Washington, D.C.</figcaption>
 </figure>
 
@@ -910,7 +910,7 @@ It is among the last images Daddi would paint before the Black Death ended his l
 ### Saint Paul and a Group of Worshippers
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 14.jpg" alt="Saint Paul and a Group of Worshippers">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-14.jpg" alt="Saint Paul and a Group of Worshippers">
   <figcaption>Saint Paul and a Group of Worshippers, 1333, tempera and gold leaf on wood, 233.53 × 88.8 × 5.3 cm, National Gallery of Art, Washington, D.C.</figcaption>
 </figure>
 
@@ -969,7 +969,7 @@ The figure's psychological immediacy — that direct, intense gaze, that compose
 ### Madonna and Child with Saint Francis and a Saint-Bishop; Saints Peter and Paul; the Crucifixtion; the Annunciation
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 15.jpg" alt="Madonna and Child with Saint Francis and a Saint-Bishop; Saints Peter and Paul; the Crucifixtion; the Annunciation">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-15.jpg" alt="Madonna and Child with Saint Francis and a Saint-Bishop; Saints Peter and Paul; the Crucifixtion; the Annunciation">
   <figcaption>Madonna and Child with Saint Francis and a Saint-Bishop; Saints Peter and Paul; the Crucifixtion; the Annunciation, c. 1330, tempera and gold leaf on wood, 57.2 x 52.1 cm, Frick Museum, Pittsburgh.</figcaption>
 </figure>
 
@@ -1026,7 +1026,7 @@ The twisted barley-sugar columns that divide these zones are not merely decorati
 ### The Coronation of the Virgin (Galleria Sabauda)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 16.jpg" alt="The Coronation of the Virgin">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-16.jpg" alt="The Coronation of the Virgin">
   <figcaption>The Coronation of the Virgin, 1330s, tempera and gold leaf on wood, Galleria Sabauda, Turin.</figcaption>
 </figure>
 
@@ -1071,7 +1071,7 @@ The Christ Pantocrator at the apex — absent from the London version — adds a
 ### Triptych (Nativity; Coronation of the Virgin; Crucifixion)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 17.jpg" alt="Triptych (Nativity; Coronation of the Virgin; Crucifixion)">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-17.jpg" alt="Triptych (Nativity; Coronation of the Virgin; Crucifixion)">
   <figcaption>Triptych (Nativity; Coronation of the Virgin; Crucifixion), 1338-40, tempera and gold leaf on poplar wood, center panel 42.2 x 21.5 cm, each wing 37.5 x 15 cm, Staatliche Museen zu Berlin.</figcaption>
 </figure
 
@@ -1124,7 +1124,7 @@ The Christ Pantocrator at the apex of the central gable presides over this entir
 ### The Temptation of Saint Thomas Aquinas
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 18.jpg" alt="The Temptation of Saint Thomas Aquinas">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-18.jpg" alt="The Temptation of Saint Thomas Aquinas">
   <figcaption>The Temptation of Saint Thomas Aquinas, 1338, tempera and gold leaf on poplar wood, 38,2 x 33,3 cm, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -1173,7 +1173,7 @@ The red floor grounds the sacred encounter in a specific, dignified space; the g
 ### Madonna and Child (Vatican Museums)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 19.jpg" alt="Madonna and Child">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-19.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1335-40, tempera on gold ground on wood panel, 96 x 61 cm, Vatican Museums, Vatican City.</figcaption>
 </figure>
 
@@ -1206,7 +1206,7 @@ This panel exemplifies Daddi's mature synthesis of the two dominant currents of 
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 20.jpg" alt="Madonna and Child">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-20.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1340-45, tempera on gold ground on wood panel, 84 x 54,8 cm, Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 
@@ -1249,7 +1249,7 @@ Both panels testify to Daddi's central position in Florentine Trecento devotiona
 ### The Crucifixion (Museo Nacional Thyssen-Bornemisza)
 
 <figure>
-  <img src="/Images/Bernardo-Daddi/image 21.jpg" alt="The Crucifixion">
+  <img src="/Images/Bernardo-Daddi/bernardo-daddi-21.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1330-35, tempera on gold ground on wood panel, 37,4 x 22,2 cm, Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 

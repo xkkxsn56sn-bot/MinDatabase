@@ -184,7 +184,7 @@ Travel within the region of Tuscany itself, and potentially into Umbria and Lazi
 ### Tavoletta di Biccherna (Frate Ugo, monaco di San Galgano, camerlengo)
 
 <figure>
-  <img src="/Images/Gilio di Pietro/image 1.jpg" alt="Tavoletta di Biccherna (Frate Ugo, monaco di San Galgano, camerlengo)">
+  <img src="/Images/Gilio-di-Pietro/gilio-di-pietro-01.jpg" alt="Tavoletta di Biccherna (Frate Ugo, monaco di San Galgano, camerlengo)">
   <figcaption>Tavoletta di Biccherna (Frate Ugo, monaco di San Galgano, camerlengo), 1258, tempera on panel, 35 x 24 cm, Archivio di Stato, Siena.</figcaption>
 </figure>
 

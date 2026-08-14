@@ -96,7 +96,7 @@ The core of the Maestro della Cattura’s oeuvre lies in the Christological cycl
 ### The Arrest of Christ
 
 <figure>
- <img src="/Images/Maestro Cattura/image 1.jpg" alt="The Arrest of Christ">
+ <img src="/Images/Maestro-Cattura/maestro-cattura-01.jpg" alt="The Arrest of Christ">
   <figcaption>The Arrest of Christ, 1288-92, fresco, Upper Basilica of San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ From a historical-artistic perspective, the Capture of Christ belongs to a cruci
 ### The Nativity of Christ
 
 <figure>
- <img src="/Images/Maestro Cattura/image 2.jpg" alt="The Nativity of Christ">
+ <img src="/Images/Maestro-Cattura/maestro-cattura-02.jpg" alt="The Nativity of Christ">
   <figcaption>The Nativity of Christ, 1288-92, fresco, Upper Basilica of San Francesco d'Assisi, Assisi.</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ The style, with its economy of means, slightly elongated proportions, compactnes
 ### The debated Crucifix of Trevi
 
 <figure>
- <img src="/Images/Maestro Alo/image 1.jpg" alt="Crucifix of Trevi">
+ <img src="/Images/Maestro-Alo/maestro-alo-01.jpg" alt="Crucifix of Trevi">
   <figcaption>Crucifix of Trevi, 1290-95, tempera and silver on panel, 190 x 129 cm, Complesso museale di San Francesco, Pinacoteca comunale, Trevi.</figcaption>
 </figure>
 

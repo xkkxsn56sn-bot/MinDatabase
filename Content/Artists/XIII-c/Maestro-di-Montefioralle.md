@@ -125,7 +125,7 @@ If Meliore was born between 1230 and 1240, his death around 1285 would have occu
 ### Madonna Enthroned with the Infant Jesus and Two Angels
 
 <figure>
-  <img src="/Images/Maestro Montefioralle/image 1.jpg" alt="Madonna Enthroned with the Infant Jesus and Two Angels">
+  <img src="/Images/Maestro-Montefioralle/maestro-montefioralle-01.jpg" alt="Madonna Enthroned with the Infant Jesus and Two Angels">
   <figcaption>Madonna Enthroned with the Infant Jesus and Two Angels, 1270-80, tempera and gold on panel, 151 x 76 cm, church of Santo Stefano at Montefioralle, Greve in Chianti.</figcaption>
 </figure>
 

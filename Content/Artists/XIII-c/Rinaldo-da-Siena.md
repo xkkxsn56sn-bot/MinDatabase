@@ -203,7 +203,7 @@ The manuscript now in Paris, the illuminations of the *Livre du Gouvernement des
 ### Trittico della Madonna col Bambino, Crocifissione e Deposizione
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 1.jpg" alt="Trittico della Madonna col Bambino, Crocifissione e Deposizione">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-01.jpg" alt="Trittico della Madonna col Bambino, Crocifissione e Deposizione">
   <figcaption>Trittico della Madonna col Bambino, Crocifissione e Deposizione, c. 1265, tempera and gold on panel, National Museum, Krakow.</figcaption>
 </figure>
 
@@ -224,7 +224,7 @@ The right panel depicts the Deposition from the Cross (Depositio or Lamentation 
 ### Christ and Mary on the throne
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 2.jpg" alt="Christ and Mary on the throne">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-02.jpg" alt="Christ and Mary on the throne">
   <figcaption>Christ and Mary on the throne, c. 1270, tempera and gold on panel, 97 x 59 cm, Museo Diocesano, Siena.</figcaption>
 </figure>
 
@@ -247,7 +247,7 @@ At the same time, the work anticipates the emotional sensitivity and linear refi
 ### Miniatures of the *Mulomedicina* of Vegetius
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 3.jpg" alt="Miniatures of the *Mulomedicina* of Vegetius">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-03.jpg" alt="Miniatures of the *Mulomedicina* of Vegetius">
   <figcaption>Miniatures of the Mulomedicina of Vegetius, 1275-78, Bibliotheca Medicea Laurenziana, MS. Plut. 45.16, Florence.</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ Stylistically, the miniatures display the same formal vocabulary as Rinaldo’s 
 ### The Virgin and Child, 1265-68
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 4.jpg" alt="The Virgin and Child">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-04.jpg" alt="The Virgin and Child">
   <figcaption>The Virgin and Child, 1265-68, tempera on wood (poosibly walnut), 31.4 × 19.5 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -282,7 +282,7 @@ The work is one of the oldest in the National Gallery, and its presence in Londo
 ### Madonna and Child with Four Saints
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 5.jpg" alt="Madonna and Child with Four Saints">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-05.jpg" alt="Madonna and Child with Four Saints">
   <figcaption>Madonna and Child with Four Saints, 1265-70, tempera and gold on wood, 100,3 × 191,1 cm, Brooks Museum of Art, Memphis, TN.</figcaption>
 </figure>
 
@@ -299,7 +299,7 @@ The color fields remain flat, the outlines linear and sharp, the faces stylized 
 ### Tavoletta di Biccherna di Don Bartolomeo Alessi, Monaco di San Galgano, camarlingo
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 6.jpg" alt="Tavoletta di Biccherna di Don Bartolomeo Alessi, Monaco di San Galgano, camarlingo">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-06.jpg" alt="Tavoletta di Biccherna di Don Bartolomeo Alessi, Monaco di San Galgano, camarlingo">
   <figcaption>Tavoletta di Biccherna di Don Bartolomeo Alessi, Monaco di San Galgano, camarlingo, 1265-70, tempera on wood, 365 x 225 mm, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -318,7 +318,7 @@ It is worth noting that there is also a companion tablet depicting the same Don 
 ### The Virgin and Child
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 7.jpg" alt="The Virgin and Child">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-07.jpg" alt="The Virgin and Child">
   <figcaption>The Virgin and Child, tempera on wood, Fondazione CR Firenze.</figcaption>
 </figure>
 
@@ -333,7 +333,7 @@ Rinaldo da Siena belongs to a phase of Tuscan painting that is still fully Byzan
 ### The Crucified Christ with the Sorrowing Virgin Mary and Saint John the Evangelist, and the Prophets
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 8.jpg" alt="The Crucified Christ with the Sorrowing Virgin Mary and Saint John the Evangelist, and the Prophets">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-08.jpg" alt="The Crucified Christ with the Sorrowing Virgin Mary and Saint John the Evangelist, and the Prophets">
   <figcaption>The Crucified Christ with the Sorrowing Virgin Mary and Saint John the Evangelist, and the Prophets, after 1250, tempera and gold on panel, 307 x 247 x 12 cm, Museo Civico, San Gimignano.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ The work reflects Rinaldo da Siena’s training within the tradition of pre-Duca
 ### The Descent from the Cross
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 9.jpg" alt="The Descent from the Cross">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-09.jpg" alt="The Descent from the Cross">
   <figcaption>The Descent from the Cross, c. 1280, fresco, Crypt of the Cathedral, Siena.</figcaption>
 </figure>
 
@@ -370,7 +370,7 @@ The Deposition was the focal scene of the space: it was the first image one saw 
 ### Initial G: The Stigmatization of St. Francis
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 10.jpg" alt="Initial G: The Stigmatization of St. Francis">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-10.jpg" alt="Initial G: The Stigmatization of St. Francis">
   <figcaption>Initial G: The Stigmatization of St. Francis, c. 1275, tempera and gold on parchment, (Initial): 18.1 × 12.9 cm, Leaf: 52.9 × 37.2 cm, J. Paul Getty Museum, Los Angeles (MS 71, verso).</figcaption>
 </figure>
 
@@ -383,7 +383,7 @@ The work fully reflects the language of Sienese painting from the third quarter 
 ### Miniatures of the *Livre du Gouvernement des princes*
 
 <figure>
-  <img src="/Images/Rinaldo da Siena/image 10.jpg" alt="Miniatures of the Livre du Gouvernement des princes">
+  <img src="/Images/Rinaldo-da-Siena/rinaldo-da-siena-10.jpg" alt="Miniatures of the Livre du Gouvernement des princes">
   <figcaption>Miniatures of the Livre du Gouvernement des princes, before 1285, tempera and gold leaf on parchment, Biblioteque Nationale de France, Paris, ms. Italien 233 (BnF, It. 233).</figcaption>
 </figure>
 

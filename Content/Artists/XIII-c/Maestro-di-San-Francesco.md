@@ -292,7 +292,7 @@ The cause of death, like the date and place of birth, must remain entirely specu
 ### Portrait of Saint Francis with two angels
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 1.jpg" alt="San Francesco e due angeli - Museo della Porziuncola at Santa Maria degli Angeli in Assisi">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-01.jpg" alt="San Francesco e due angeli - Museo della Porziuncola at Santa Maria degli Angeli in Assisi">
   <figcaption>Portrait of Saint Francis with two angels, c. 1255, tempera and gold leaf on panel, 107 x 57 cm, Museo della Porziuncola at Santa Maria degli Angeli in Assisi.</figcaption>
 </figure>
 
@@ -309,7 +309,7 @@ The Lamentation, in which the body of Christ is mourned by the Virgin (who swoon
 ### Crucifix of London
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 4.jpg" alt="Crucifix of London - National Gallery, London">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-04.jpg" alt="Crucifix of London - National Gallery, London">
   <figcaption>Crucifix of London, 1265-70, tempera and gold leaf on panel, 91.8x 70.6 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -328,14 +328,14 @@ The dating of the London Crucifix to approximately 1265–70, proposed by the Na
 ### The Lamentation over the Dead Christ
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 2.jpg" alt="The Lamentation over the Dead Christ - Galleria Nazionale dell'Umbria, Perugia">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-02.jpg" alt="The Lamentation over the Dead Christ - Galleria Nazionale dell'Umbria, Perugia">
   <figcaption>The Lamentation over the Dead Christ (part of a double sided polyptych), c. 1272, tempera and gold leaf on panel, 54 x 48,5 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
 ### The Deposition of the Dead Christ
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 3.jpg" alt="The Deposition of the Dead Christ - Galleria Nazionale dell'Umbria, Perugia">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-03.jpg" alt="The Deposition of the Dead Christ - Galleria Nazionale dell'Umbria, Perugia">
   <figcaption>The Deposition of the Dead Christ (part of a double sided polyptych), c. 1272, tempera and gold leaf on panel, 54 x 48,5 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -350,7 +350,7 @@ Donal Cooper's 2001 study in the Journal of the Warburg and Courtauld Institutes
 ### Saints Bartholomew and Simon
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 5.jpg" alt="Saints Bartholomew and Simon">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-05.jpg" alt="Saints Bartholomew and Simon">
   <figcaption>Saints Bartholomew and Simon, c. 1272, tempera and gold leaf on panel, 47.6 x 22.9 cm, Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -376,7 +376,7 @@ A final work of particular significance is the Processional Crucifix (ca. 1272),
 ### Painted Cross
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 6.jpg" alt="Painted Cross">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-06.jpg" alt="Painted Cross">
   <figcaption>Painted Cross (The crucified Christ and St. Francis kneeling; cimbrium: Christ giving the sign of blessing, the Virgin Mary in prayer between two angels; pediments: the Virgin Mary and St. John the Evangelist in mourning), c. 1272, tempera on panel, 489 x 352 x 13 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -398,14 +398,14 @@ The work represents the culmination of the career of the Master of Saint Francis
 ### Bifrontal Processional Cross (recto)
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 8.jpg" alt="Bifrontal Processional Cross - recto">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-08.jpg" alt="Bifrontal Processional Cross - recto">
   <figcaption>Bifrontal Processional Cross - The Crucified Christ and St. Francis kneeling; cornice: the Virgin Mary with two angels; side panels: the Virgin Mary and St. John the Evangelist in mourning (recto), c. 1272, tempera on panel, 129 x 77 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
 ### Bifrontal Processional Cross (verso)
 
 <figure>
-  <img src="/Images/Maestro di San Francesco/image 7.jpg" alt="Bifrontal Processional Cross - verso">
+  <img src="/Images/Maestro-di-San-Francesco/maestro-di-san-francesco-07.jpg" alt="Bifrontal Processional Cross - verso">
   <figcaption>Bifrontal Processional Cross - The Crucified Christ; panels: the Sorrowful Virgin Mary and Saint John the Evangelist (verso), c. 1272, tempera on panel, 129 x 77 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 

@@ -185,7 +185,7 @@ The date of death of the Maestro di Faenza is unknown, and no source records the
 ### Crucifixion and Ascension of St. John the Evangelist
 
 <figure>
-  <img src="/Images/Maestro di Faenza/image 1.jpg" alt="Crucifixion and Ascension of St. John the Evangelist">
+  <img src="/Images/Maestro-di-Faenza/maestro-di-faenza-01.jpg" alt="Crucifixion and Ascension of St. John the Evangelist">
   <figcaption>Crucifixion and Ascension of St. John the Evangelist, c. 1280, tempera on panel, 35 x 28 cm, Pinacoteca Comunale di Faenza.</figcaption>
 </figure>
 
@@ -212,7 +212,7 @@ The style of the Faenza panel, however, appears more mature than that of the Bol
 ### Nativity of Christ
 
 <figure>
-  <img src="/Images/Maestro di Faenza/image 3.jpg" alt="Nativity of Christ">
+  <img src="/Images/Maestro-di-Faenza/maestro-di-faenza-03.jpg" alt="Nativity of Christ">
   <figcaption>Nativity of Christ, 1275-85, tempera and gold on panel, 22 x 27,5 cm, Pinacoteca Nazionale di Bologna.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ From a technical and stylistic standpoint, the panel reveals a training deeply r
 ### Deposition from the Cross
 
 <figure>
-  <img src="/Images/Maestro di Faenza/image 4.jpg" alt="Deposition from the Cross">
+  <img src="/Images/Maestro-di-Faenza/maestro-di-faenza-04.jpg" alt="Deposition from the Cross">
   <figcaption>Deposition from the Cross, 1275-85, tempera and gold on panel, 21 x 25 cm, Pinacoteca Nazionale di Bologna.</figcaption>
 </figure>
 
@@ -269,7 +269,7 @@ From a stylistic point of view, the Deposition shares with the other panels of t
 ### Lamentation over the dead Christ
 
 <figure>
-  <img src="/Images/Maestro di Faenza/image 2.jpg" alt="Lamentation over the dead Christ">
+  <img src="/Images/Maestro-di-Faenza/maestro-di-faenza-02.jpg" alt="Lamentation over the dead Christ">
   <figcaption>Lamentation over the dead Christ, 1275-85, tempera on panel, 20,7 x 25 cm, Pinacoteca Nazionale di Bologna.</figcaption>
 </figure>
 

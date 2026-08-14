@@ -187,7 +187,7 @@ Beyond Umbria, the evidence becomes far more uncertain. The scholarly literature
 ## Works 
 
 <figure>
-  <img src="/Images/Meo da Siena/image 1.jpg" alt="Polittico di Montelabate">
+  <img src="/Images/Meo-da-Siena/meo-da-siena-01.jpg" alt="Polittico di Montelabate">
   <figcaption>Polittico di Montelabate, c. 1320, tempera and gold leaf on panel, 246 x 236 cm, Galleria Nazionale dell'Umbria, Palazzo dei Priori, Perugia.</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ The overall dimensions of the reassembled polyptych measure approximately 246 x 
 Inspired by the polyptychs of Simone Martini (St. Catherine, Pisa) and Pietro Lorenzetti (Pieve d’Arezzo, ca. 1320), it displays uniformity in facial types but vivid characterizations, with Byzantine influences in the Virgin and independent Sienese reinterpretations. The only signed work by Meo, documented in Siena from 1319 and in Perugia until 1334, it is fundamental for dating his stylistic development in the second decade of the 14th century.
 
 <figure>
-  <img src="/Images/Meo da Siena/image 2.jpg" alt="Madonna col Bambino">
+  <img src="/Images/Meo-da-Siena/meo-da-siena-02.jpg" alt="Madonna col Bambino">
   <figcaption>Madonna col Bambino, 1325-30, tempera and gold leaf on panel, 130,5 x 81 x 9,5 cm, Galleria Nazionale dell'Umbria, Palazzo dei Priori, Perugia.</figcaption>
 </figure>
 
@@ -213,12 +213,12 @@ The Madonna, depicted as the Virgin of Tenderness (Eleousa), tenderly embraces t
 This work exemplifies the spread of the Sienese school in Umbria during the early 14th century, serving as a bridge between Byzantine-influenced Romanesque and mature Gothic styles, and influencing local painters such as the Master of San Pietro. Originally placed in an abbey setting, it invited the faithful to meditate on the Theotokos as a compassionate mother and intercessor, reflecting the Augustinian theology prevalent in the monasteries. Today, at the National Gallery of Umbria in the Palazzo dei Priori, it continues to bear witness to the cultural syncretism between Tuscany and Umbria, and is invaluable for studying the evolution of Marian iconography during the Gothic period.
 
 <figure>
-  <img src="/Images/Meo da Siena/image 3.jpg" alt="Altarpiece on both sides depicting Christ on the throne, the Twelve Apostles, and the Virgin and Child on the throne with saints">
+  <img src="/Images/Meo-da-Siena/meo-da-siena-03.jpg" alt="Altarpiece on both sides depicting Christ on the throne, the Twelve Apostles, and the Virgin and Child on the throne with saints">
   <figcaption>Altarpiece on both sides depicting Christ on the throne, the Twelve Apostles, 1330-33, mixed technique on poplar panel, 59,9 x 305,5 x 1,6 cm, Städel Museum, Frankfurt am Main.</figcaption>
 </figure>
 
 <figure>
-  <img src="/Images/Meo da Siena/image 4.jpg" alt="Altarpiece on both sides depicting Christ on the throne, the Twelve Apostles, and the Virgin and Child on the throne with saints">
+  <img src="/Images/Meo-da-Siena/meo-da-siena-04.jpg" alt="Altarpiece on both sides depicting Christ on the throne, the Twelve Apostles, and the Virgin and Child on the throne with saints">
   <figcaption>Altarpiece on both sides depicting the Virgin and Child on the throne with saints, 1330-33, mixed technique on poplar panel, 60,5 x 305,3 x 1,5 cm, Städel Museum, Frankfurt am Main.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ On this side, Christ the Judge is enthroned in the center in majesty, wearing a 
 The other side depicts the Virgin Mary enthroned with the Infant Jesus on her lap; she blesses with her right hand while holding a book or a fruit, surrounded by angel musicians, twelve saints (or prophets in some panels), and the donor, Abbot Ugolino, kneeling in a white Benedictine habit at the foot of the throne. The saints, relics owned by the monastery of San Pietro, wear precious garments with curved folds and oriental-style details, such as Persian motifs on the edges, highlighted in modern analyses as evidence of Middle Eastern influences. The symmetrical composition, with the Virgin in Byzantine hieraticism yet Sienese sweetness, symbolizes Marian intercession, with the Child in a blessing gesture that foreshadows the Passion.
 
 <figure>
-  <img src="/Images/Meo da Siena/image 5.jpg" alt="Madonna col Bambino (scomparto di polittico)">
+  <img src="/Images/Meo-da-Siena/meo-da-siena-05.jpg" alt="Madonna col Bambino (scomparto di polittico)">
   <figcaption>Madonna col Bambino (scomparto di polittico), 1308-10, tempera on poplar panel, 89,5 x 69,5 x 8 cm
 Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>

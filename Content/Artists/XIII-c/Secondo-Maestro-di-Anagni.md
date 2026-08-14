@@ -232,7 +232,7 @@ The question of whether the Secondo Maestro traveled beyond the Lazio region in 
 The most important works attributed to the Secondo Maestro di Anagni are concentrated in the Crypt of San Magno beneath the Cathedral of Anagni, a subterranean space of exceptional architectural richness divided into three transverse naves by twelve columns supporting twenty-one vaults, the entire ensemble constituting what is often described as the "Sistine Chapel of the Middle Ages" for the quantity, quality, and state of preservation of its frescoed surfaces, which cover approximately 540 square meters.
 
 <figure>
-  <img src="/Images/Secondo Maestro di Anagni/image 1.jpg" alt="Christ Pantocrator and Four Saints">
+  <img src="/Images/Secondo-Maestro-di-Anagni/secondo-maestro-di-anagni-01.jpg" alt="Christ Pantocrator and Four Saints">
   <figcaption>Christ Pantocrator and Four Saints, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ The Christ Pantocrator, depicted in the hieratic Byzantine convention of the Onn
 The commission for this section of the crypt was arranged under the broad supervision of Bishop Alberto of Anagni, acting within the context of the larger project of crypt construction and decoration that was brought to completion with the consecration of the space in 1255, and the patron's investment in the Venetian-Byzantine decorative grandeur of the Secondo Maestro's work reflects the aspiration to create a space of overwhelming sacred magnificence worthy of the relics of San Magno housed therein.
 
 <figure>
-  <img src="/Images/Secondo Maestro di Anagni/image 2.jpg" alt="Tetramorph">
+  <img src="/Images/Secondo-Maestro-di-Anagni/secondo-maestro-di-anagni-02.jpg" alt="Tetramorph">
   <figcaption>Tetramorph, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 

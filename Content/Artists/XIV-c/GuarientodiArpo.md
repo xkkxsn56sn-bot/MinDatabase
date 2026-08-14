@@ -194,7 +194,7 @@ Beyond these securely documented locations, the geography of Guariento's activit
 ### The Bassano Crucifix: The First Masterpiece
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 1.jpg" alt="The Bassano Crucifix">
+  <img src="/Images/GuarientoArpo/guarientoarpo-01.jpg" alt="The Bassano Crucifix">
   <figcaption>Painted Cross, c. 1332, tempera and gold on panel, 360 x 280 cm, Museo Civico di Bassano del Grappa.</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ The Bassano Crucifix takes the Crucifix of the Scrovegni Chapel as its direct mo
 ### The Coronation of the Virgin Altarpiece
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 2.jpg" alt="The Coronation of the Virgin Altarpiece">
+  <img src="/Images/GuarientoArpo/guarientoarpo-02.jpg" alt="The Coronation of the Virgin Altarpiece">
   <figcaption>The Coronation of the Virgin Altarpiece, 1344, tempera and gold on panel, 218.4 x 265.1 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ What is most striking, overall, is Guariento’s ability to manage such a comple
 ### The Madonna of Humility
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 3.jpg" alt="The Madonna of Humility">
+  <img src="/Images/GuarientoArpo/guarientoarpo-03.jpg" alt="The Madonna of Humility">
   <figcaption>The Madonna of Humility, 1345-50, tempera and gold on panel, 50.2 × 25.4 × 3.5 cm, J.P. Getty Museum, Los Angeles.</figcaption>
 </figure>
 
@@ -260,7 +260,7 @@ Housed at the Getty Center in Los Angeles, the panel is in generally good condit
 ### Christ on the Cross
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 4.jpg" alt="Christ on the Cross">
+  <img src="/Images/GuarientoArpo/guarientoarpo-04.jpg" alt="Christ on the Cross">
   <figcaption>Christ on the Cross, c. 1360, tempera and gold on panel, 195 x 146 cm, Fogg Museum, Harvard Art Museums, Cambridge, MA.</figcaption>
 </figure>
 
@@ -282,7 +282,7 @@ From a historical-artistic perspective, this work bears witness to the moment wh
 ### Virgin and Child Enthroned
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 5.jpg" alt="Virgin and Child Enthroned">
+  <img src="/Images/GuarientoArpo/guarientoarpo-05.jpg" alt="Virgin and Child Enthroned">
   <figcaption>Virgin and Child Enthroned, 1350-60, tempera and gold on panel, 81.4 x 59.8 cm, The Courtauld Gallery, London.</figcaption>
 </figure>
 
@@ -311,7 +311,7 @@ Overall, the Courtauld’s Virgin and Child Enthroned precisely exemplifies Guar
 ### Christ on the Cross between the Virgin Mary, John, and Mary Magdalene
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 6.jpg" alt="Christ on the Cross between the Virgin Mary, John, and Mary Magdalene">
+  <img src="/Images/GuarientoArpo/guarientoarpo-06.jpg" alt="Christ on the Cross between the Virgin Mary, John, and Mary Magdalene">
   <figcaption>Christ on the Cross between the Virgin Mary, John, and Mary Magdalene, c. 1370, tempera and gold on panel, Palazzo dei Diamanti, Ferrara.</figcaption>
 </figure>
 
@@ -342,7 +342,7 @@ Guariento di Arpo, born around 1310 and died by 1370, is known above all for his
 ### The Virgin of Humility with Saints Anthony of Padua, John the Baptist, Francis, and Giles
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 7.jpg" alt="The Virgin of Humility with Saints Anthony of Padua, John the Baptist, Francis, and Giles">
+  <img src="/Images/GuarientoArpo/guarientoarpo-07.jpg" alt="The Virgin of Humility with Saints Anthony of Padua, John the Baptist, Francis, and Giles">
   <figcaption>The Virgin of Humility with Saints Anthony of Padua, John the Baptist, Francis, and Giles, c. 1360, tempera and gold on poplar panel, 41.6 x 23.2 cm, North Carolina Museum of Art, Raleigh.</figcaption>
 </figure>
 
@@ -378,7 +378,7 @@ The Raleigh-Ferrara diptych, in terms of style and the proposed dating around 13
 ### Archangel Michael weighing souls
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 8.jpg" alt="Archangel Michael weighing souls">
+  <img src="/Images/GuarientoArpo/guarientoarpo-08.jpg" alt="Archangel Michael weighing souls">
   <figcaption>Archangel Michael weighing souls, 1350, tempera on poplar panel, 80 x 57 cm, Musei civici, Padua.</figcaption>
 </figure>
 
@@ -415,7 +415,7 @@ From a stylistic point of view, the panel confirms Guariento’s highest qualiti
 ### Archangel Michael weighing souls (2)
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 9.jpg" alt="Archangel Michael weighing souls">
+  <img src="/Images/GuarientoArpo/guarientoarpo-09.jpg" alt="Archangel Michael weighing souls">
   <figcaption>Archangel Michael weighing souls, 1350, tempera on poplar panel, 80 x 57 cm, Musei civici, Padua.</figcaption>
 </figure>
 
@@ -456,7 +456,7 @@ This work condenses into a single pictorial field all the qualities that define 
 ### Throne (from the Angelic Hierarchies)
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 10.jpg" alt="Throne (from the Angelic Hierarchies)">
+  <img src="/Images/GuarientoArpo/guarientoarpo-10.jpg" alt="Throne (from the Angelic Hierarchies)">
   <figcaption>Throne (from the Angelic Hierarchies), 1350-54, tempera on poplar panel, 80 x 57 cm, Musei civici, Padua.</figcaption>
 </figure>
 
@@ -492,7 +492,7 @@ The panel depicting the Throne fits into this visual cosmology as a representati
 ### Armed Angel (Principatus)
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 11.jpg" alt="Armed Angel (Principatus)">
+  <img src="/Images/GuarientoArpo/guarientoarpo-11.jpg" alt="Armed Angel (Principatus)">
   <figcaption>Armed Angel (Principatus), 1354-60, tempera on panel, 96 x 64.6 x 5.6 cm, Fogg Museum, Harvard Art Museums, Cambridge, MA.</figcaption>
 </figure>
 
@@ -521,7 +521,7 @@ This panel belongs to the famous series of Angels that Guariento likely executed
 ### The Reggia Carrarese: Angelic Hierarchies
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 12.jpg" alt="The Reggia Carrarese: Frescoes and Angelic Hierarchies">
+  <img src="/Images/GuarientoArpo/guarientoarpo-12.jpg" alt="The Reggia Carrarese: Frescoes and Angelic Hierarchies">
   <figcaption>Angelic Hierarchies, 1360-65, fresco, Reggia Carrarese, Padua.</figcaption>
 </figure>
 
@@ -554,7 +554,7 @@ Looking at the two registers as a whole, what strikes one most immediately is th
 ### The Eremitani Choir Frescoes: Vestments and Baptism of Augustine, Scene from Stories of St Philip and St Augustine
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 13.jpg" alt="The Eremitani Choir Frescoes: Vestments and Baptism of Augustine, Scene from Stories of St Philip and St Augustine">
+  <img src="/Images/GuarientoArpo/guarientoarpo-13.jpg" alt="The Eremitani Choir Frescoes: Vestments and Baptism of Augustine, Scene from Stories of St Philip and St Augustine">
   <figcaption>The Eremitani Choir Frescoes: Vestments and Baptism of Augustine, Scene from Stories of St Philip and St Augustine, 1360s, fresco, church of the Eremitani, Padua.</figcaption>
 </figure>
 
@@ -591,7 +591,7 @@ The color treatment is restrained but not sparse: the deep blue-grays of the mon
 Finally, the physiognomic rendering of the figures—the bishops’ faces, Monica’s composure, the monks’ pensive expressions—testifies to that drive toward the individualization of portraiture which, while not achieving the results of the next generation, already marks a clear departure from the abstract typification of the Byzantine tradition: Guariento’s characters possess a recognizable visual identity, inhabit their bodies with a convincing physicality, and relate to one another through glances and gestures that belong to the observed experience of the real world even before they belong to pictorial convention.
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 14.jpg" alt="Coronation of the Virgin before the Celestial Hierarchies">
+  <img src="/Images/GuarientoArpo/guarientoarpo-14.jpg" alt="Coronation of the Virgin before the Celestial Hierarchies">
   <figcaption>Paradiso: Coronation of the Virgin before the Celestial Hierarchies, 1365-68, fresco, Sala del Maggior Consiglio, Palazzo Ducale, Venice.</figcaption>
 </figure>
 
@@ -614,7 +614,7 @@ The influence of miniature painting and Gothic goldsmithing on this approach is 
 Around the central core of the Coronation, Guariento arranges the angelic hierarchies and choirs of saints in a concentric and hierarchical layout that directly reflects the theological structure of the medieval Paradise, based on Pseudo-Dionysius and Dante’s Divine Comedy—completed just half a century earlier, in 1321, and already widely disseminated as a visual model of the Christian cosmos. Traces of these figures can be glimpsed at the edges of the composition, both in the side panels and in the lower section of the fresco: golden halos emerging from the worn surface, fragments of colorful robes, profiles of faces partially emerging from the gaps like ghostly presences.
 
 <figure>
-  <img src="/Images/GuarientoArpo/image 15.jpg" alt="Coronation of the Virgin before the Celestial Hierarchies">
+  <img src="/Images/GuarientoArpo/guarientoarpo-15.jpg" alt="Coronation of the Virgin before the Celestial Hierarchies">
   <figcaption>Paradiso: Coronation of the Virgin before the Celestial Hierarchies, 1365-68, fresco, Sala del Maggior Consiglio, Palazzo Ducale, Venice.</figcaption>
 </figure>
 

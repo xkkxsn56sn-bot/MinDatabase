@@ -148,7 +148,7 @@ The date and cause of Michele di Baldovino's death are entirely unknown, as no d
 ## Most Important Works
 
 <figure>
-  <img src="/Images/Michele di Baldovino/image 4.jpg" alt="Painted Cross">
+  <img src="/Images/Michele-di-Baldovino/michele-di-baldovino-04.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, 1250-74, tempera on panel, church of San Pietro in Vinculis, Pisa.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ The upper and lower terminals of the vertical beam contain additional narrative 
 The cross was commissioned for the church's liturgical use, almost certainly by the chapter of San Pietro in Vinculis or by a wealthy individual donor seeking the spiritual benefits associated with the endowment of a major devotional image in one of Pisa's urban parishes. Conservation work carried out in the twentieth century has revealed the excellent state of preservation of the paint surface beneath later additions and varnish layers, confirming the high quality of the original execution and the durability of the technical methods employed by the painter. The cross remains in situ in the church of San Pietro in Vinculis, today commonly known as San Pierino, in the historic center of Pisa, one of the relatively rare instances in which a major Duecento panel painting has survived in its original ecclesiastical setting.
 
 <figure>
-  <img src="/Images/Michele di Baldovino/image 2.jpg" alt="Painted Cross">
+  <img src="/Images/Michele-di-Baldovino/michele-di-baldovino-02.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, 1250-74, tempera on panel, church of Sant'Andrea in Chinseca, Pisa.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ The color disposition of the cross follows Michele's standard palette, with Chri
 The *tabelloni* of this cross may originally have carried narrative scenes as well, though the current state of the work does not permit a complete reconstruction of its original iconographic program. The commission of this cross for Sant'Andrea in Chinseca demonstrates the degree to which Michele's workshop was embedded in the system of parish patronage that sustained the production of devotional images in Duecento Pisa. The cross has remained in the church of Sant'Andrea in Chinseca in Pisa, preserved as an example of Pisan Romanesque panel painting of the second half of the thirteenth century.
 
 <figure>
-  <img src="/Images/Michele di Baldovino/image 1.jpg" alt="Crucifix with Scenes of the Passion (Christ Triumphant)">
+  <img src="/Images/Michele-di-Baldovino/michele-di-baldovino-01.jpg" alt="Crucifix with Scenes of the Passion (Christ Triumphant)">
   <figcaption>Crucifix with Scenes of the Passion (Christ Triumphant), 1230-40, tempera with gold ground on panel, 185 x 160 x 10.2 cm, Cleveland Museum of Art, Cleveland.</figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ The *tabelloni* and terminals of the Cleveland cross are populated with scenes o
 The technical analysis of the Cleveland cross, facilitated by its presence in a major American research institution with advanced conservation facilities, has contributed significantly to the scholarly understanding of Pisan Duecento painting technique, providing data on ground preparation, pigment application, and gold leaf technique that can be correlated with the in situ Pisan works. The cross's departure from Pisa represents a loss to the coherence of the city's medieval artistic heritage, though its presence in Cleveland has ensured its excellent conservation and its accessibility to an international scholarly community. This work remains the cornerstone of the attribution of the entire corpus of works to Michele di Baldovino, and its continued study through technical and art historical analysis provides the basis for any further expansion of the catalogue.
 
 <figure>
-  <img src="/Images/Michele di Baldovino/image 3.jpg" alt="St. Nicholas and stories from his life">
+  <img src="/Images/Michele-di-Baldovino/michele-di-baldovino-03.jpg" alt="St. Nicholas and stories from his life">
   <figcaption>St. Nicholas and stories from his life, c. 1250-74, tempera on panel, Prepositura di San Verano, Peccioli.</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ The cult of Saint Nicholas was particularly strong in Pisa and its dependent ter
 The attribution of this work to Michele or his immediate circle has been a matter of scholarly discussion, with some researchers proposing a close workshop associate rather than the master himself as the principal executant, though the formal language is sufficiently consistent with the documented works to sustain the attribution within the broader context of Michele's oeuvre. The current location of this work places it within the heritage of the Valdera area in the province of Pisa, preserved as an example of the Duecento panel painting tradition that flourished in the Pisan contado under the patronage of local ecclesiastical institutions.
 
 <figure>
-  <img src="/Images/Michele di Baldovino/image 5.jpg" alt="Painted Cross">
+  <img src="/Images/Michele-di-Baldovino/michele-di-baldovino-05.jpg" alt="Painted Cross">
   <figcaption>Painted Cross, c. 1250-74, tempera on panel, church of dSanti Ippolito e Cassiano, Riglione, Pisa.</figcaption>
 </figure>
 

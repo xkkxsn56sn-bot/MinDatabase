@@ -109,7 +109,7 @@ scholars:
 *Roger of Helmarshausen* stands as one of the most remarkable figures in the artistic culture of the twelfth-century Holy Roman Empire, combining in his single person the roles of Benedictine monk, master metalworker, and systematic theorist of the applied arts. Born around 1070, most likely in the cultural orbit of the Meuse valley, he carried forward the rich technical legacy of Mosan goldsmithing and transformed it through contact with Rhenish and Saxon monastic networks. His career, centred primarily on the abbey of Helmarshausen in Saxony, produced portable altars of extraordinary refinement that remain benchmarks of Romanesque ecclesiastical metalwork. Equally significant is his probable authorship of the *De diversis artibus*, a systematic treatise on the crafts of painting, glasswork, and metalwork that represents the most comprehensive technical manual to survive from the medieval period. Through both his objects and his writings, Roger articulated a vision of the craftsman as theologian and of manual skill as a form of spiritual service, shaping the intellectual self-understanding of medieval artisans for centuries.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Roger di Helm/image 4.jpg" alt="">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-04.jpg" alt="">
   <figcaption>Thr original site where the Helmarshausen Abbey was located.</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ Roger's entry into monastic life most likely occurred during childhood or early 
 The monastery in which this formation took place remains a matter of scholarly debate; the most persuasive hypothesis, advanced by [Dodwell](/scholars.html#dodwell-charles-reginald) and others, connects Roger's early career to Stavelot Abbey in the Ardennes, one of the great imperial abbeys of the Meuse-Rhineland zone. At Stavelot, Roger would have been integrated into a community whose spiritual and intellectual life was inseparably bound to the production of liturgical objects of the highest quality, reinforcing the theological framework that underpins his later treatise. The *De diversis artibus* preface invokes the biblical figure of Bezalel, the craftsman divinely appointed to furnish the Tabernacle, and this typological self-positioning reflects the profound integration of artistic vocation and religious identity that monastic formation had instilled. Within this institutional family, friendships and mentorships formed the affective bonds that sustained creative development; Roger almost certainly worked as junior collaborator under a master goldsmith before assuming independent direction of workshop projects.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Roger di Helm/image 5.jpg" alt="">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-05.jpg" alt="">
   <figcaption>Historical Museum of the Principality of Stavelot-Malmedy with the ruins of the original Stavelot Abbey.</figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ Roger of Helmarshausen is recorded in the obituary of Helmarshausen Abbey as hav
 ### Crucifix of Minden
 
 <figure>
-  <img src="/Images/Roger di Helm/image 1.jpg" alt="Crucifix of Minden">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-01.jpg" alt="Crucifix of Minden">
   <figcaption>Crucifix of Minden, c. 1070, bronze (originally gilded in gold), 105 cm, Cathedral of Minden, Westphalia, Germany.</figcaption>
 </figure>
 
@@ -326,7 +326,7 @@ The stylistic lineage runs from *Bernward of Hildesheim's* bronze doors and colu
 ### Portable altar of Saints Kilian and Liborius
 
 <figure>
-  <img src="/Images/Roger di Helm/image 2.jpg" alt="portable altar of Saints Kilian and Liborius - Paderborn Cathedral">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-02.jpg" alt="portable altar of Saints Kilian and Liborius - Paderborn Cathedral">
   <figcaption>Portable altar of Saints Kilian and Liborius, c. 1120, Oak box, clad in partly gilded silver, feet of gilded bronze, 165 x 345 x 212 mm, Cathedral of Paderborn, Germany.</figcaption>
 </figure>
 
@@ -361,7 +361,7 @@ The choice of Saints Kilian and Liborius as co-patrons is itself revealing: Kili
 ### Modoaldus Cross
 
 <figure>
-  <img src="/Images/Roger di Helm/image 3.jpg" alt="Modoaldus Cross">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-03.jpg" alt="Modoaldus Cross">
   <figcaption>Modoaldus Cross (reverse side of a processional cross), after 1107, copperplate with remnants of gilding, 42 x 33,5 x 0,3 cm, Museum Schnütgen, Cologne, Germany.</figcaption>
 </figure>
 
@@ -437,7 +437,7 @@ The work stands as a critical comparandum for the full corpus of Roger's product
 ### Female Martyr with a Palm
 
 <figure>
-  <img src="/Images/Roger di Helm/image 6.jpg" alt="Female Martyr with a Palm">
+  <img src="/Images/Roger-di-Helm/roger-di-helm-06.jpg" alt="Female Martyr with a Palm">
   <figcaption>Female Martyr with a Palm (Decorative plaque from a reliquary in Iburg Monastery near Osnabrück), c. 1150, Copper sheet, gilded, 4,6 x 4,9 x 0,2 cm, Museum Schnütgen, Cologne, Germany.</figcaption>
 </figure>
 

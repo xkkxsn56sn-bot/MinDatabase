@@ -115,7 +115,7 @@ No source — documentary or epigraphic — records the date or place of *Theodo
 Nothing whatsoever is documented about the family of Theodoros Apseudes, and this silence is itself historically informative. In contrast to his patron St. Neophytos, whose parents Athanasios and Eudoxia, peasant background, and seven siblings are recorded in the saint's own writings, Apseudes left no autobiographical trace beyond his professional signature. The surname "Apseudes" (Ἀψευδής), meaning "the truthful" or "one who does not lie," is itself the only personal datum we possess, and scholars have not been able to attach it securely to any known Byzantine family. It is unclear whether the name was a genuine patronymic, a nickname, or even a quasi-professional sobriquet expressing the painter's claim to fidelity in representing sacred prototypes. The signature at Lagoudera, if the very lacunose inscription beneath the Baptism scene indeed belongs to him, may have identified the painter as a monk or hieromonk, but the name is entirely lost in that text. The Enkleistra<a href="/endnotes.html#fn-enkleistra" class="footnote"><sup>1</sup></a> signature, by contrast, gives the name clearly but offers no indication of monastic status, family, or origin. This ambiguity has left open the question of whether Apseudes was a layman heading a secular workshop or a monastic painter. The matter bears on his family circumstances, since a monastic vocation would imply a renunciation of family ties that Byzantine sources often noted. Given the high social standing implied by his Constantinopolitan training and aristocratic patronage, some scholars have speculated that he came from an educated or artisanal urban milieu rather than a peasant background. Such speculation, however, rests entirely on the sophistication of his art rather than on any record of kin or household.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/TheodoreApseudes/image 1.jpg" alt="The exterior of the Enkleistra">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-01.jpg" alt="The exterior of the Enkleistra">
   <figcaption>The exterior of the Enkleistra, Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ The decorative program is celebrated above all for its "daring" and intensely pe
 ### The Hospitality of Abraham
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 2.jpg" alt="The Hospitality of Abraham">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-02.jpg" alt="The Hospitality of Abraham">
   <figcaption>The Hospitality of Abraham, 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ The surface shows extensive diagonal cracking and losses of plaster running thro
 ### Christ Pantokrator
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 3.jpg" alt="Christ Pantokrator">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-03.jpg" alt="Christ Pantokrator">
   <figcaption>Christ Pantokrator, 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -236,7 +236,7 @@ The surface is heavily affected by plaster loss and a network of cracks, most pr
 ### The Crucifixion
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 4.jpg" alt="The Crucifixion">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-04.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ As with the Pantokrator and the Philoxenia, the painting belongs to Apseudes's 1
 ### Jesus before Pilate
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 5.jpg" alt="Jesus before Pilate">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-05.jpg" alt="Jesus before Pilate">
   <figcaption>Jesus before Pilate, 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -282,7 +282,7 @@ The fresco shares the elegant, "rococo" Komnenian manner of the Pantokrator, Phi
 ### The Agony in the Garden (Christ's Prayer at Gethsemane)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 6.jpg" alt="The Agony in the Garden (Christ's Prayer at Gethsemane)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-06.jpg" alt="The Agony in the Garden (Christ's Prayer at Gethsemane)">
   <figcaption>The Agony in the Garden (Christ's Prayer at Gethsemane), 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -303,7 +303,7 @@ The fresco displays the elongated, expressive figure types and finely modulated 
 ### The Washing of the Feet (Niptēr)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 7.jpg" alt="The Washing of the Feet (Niptēr)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-07.jpg" alt="The Washing of the Feet (Niptēr)">
   <figcaption>The Washing of the Feet (Niptēr), 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -330,7 +330,7 @@ The fresco shares the elongated figure types, richly varied drapery, and lively,
 ### The Anastasis (The Resurrection)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 8.jpg" alt="The Anastasis (The Resurrection)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-08.jpg" alt="The Anastasis (The Resurrection)">
   <figcaption>The Anastasis (The Resurrection), 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ The figure of Christ here is markedly more animated than in the Pantokrator — 
 ### The Betrayal of Christ (The Kiss of Judas)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 9.jpg" alt="The Betrayal of Christ (The Kiss of Judas)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-09.jpg" alt="The Betrayal of Christ (The Kiss of Judas)">
   <figcaption>The Betrayal of Christ (The Kiss of Judas), 1183, fresco, Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -374,7 +374,7 @@ The *Bema* of the Enkleistra contains the most theologically audacious elements 
 ### St. Neophytos Between the Archangels Michael and Gabriel (Bema)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 10.jpg" alt="St. Neophytos Between the Archangels Michael and Gabriel (Bema)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-10.jpg" alt="St. Neophytos Between the Archangels Michael and Gabriel (Bema)">
   <figcaption>St. Neophytos Between the Archangels Michael and Gabriel (Bema), 1183, fresco, Bema of the Enkleistra of the Monastery of St. Neophytos, near Tala, Paphos, Cyprus.</figcaption>
 </figure>
 
@@ -395,7 +395,7 @@ The frescoes of the church of the **Panagia tou Arakou**, situated in the Pitsil
 The iconographic cycle includes the Nativity, the Presentation/Meeting in the Temple, the Baptism, the Ascension in the vault, the Pentecost, and the Dormition of the Virgin, together with the seven Cypriot saints depicted in the semi-cylindrical apse. The eponymous image, the Panagia Arakiotissa on the south wall beneath the Dormition, is one of the earliest known examples of the iconographic type of the Virgin of the Passion, in which the Christ Child shrinks from the instruments of his coming Passion borne by angels. This innovative image, executed in Apseudes's calligraphic and emotionally restrained manner, exerted a profound influence on later Eastern Christian and post-Byzantine art. The two portable despotic icons of Christ and the Virgin Arakiotissa from the church, now in the Byzantine Museum of the Archbishop Makarios III Foundation in Nicosia, are attributed to the same painter.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/TheodoreApseudes/image 19.jpg" alt="The exterior of the church Panagia tou Arakou">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-19.jpg" alt="The exterior of the church Panagia tou Arakou">
   <figcaption>The exterior of the church Panagia tou Arakou, Lagoudera village, Cyprus.</figcaption>
 </figure>
 
@@ -412,7 +412,7 @@ The current scholarly consensus is cautious:
 ### The Interior of the Church of Panagia tou Arakou — Overview of the Iconographic Programme
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 20.jpg" alt="The Interior of the Church of Panagia tou Arakou — Overview of the Iconographic Programme">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-20.jpg" alt="The Interior of the Church of Panagia tou Arakou — Overview of the Iconographic Programme">
   <figcaption>The Interior of the Church of Panagia tou Arakou — Overview of the Iconographic Programme, 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -467,7 +467,7 @@ The decorative scheme of Lagoudera achieves a synthesis that the Winfield study 
 ### The Arakiotissa (Virgin of the Passion)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 11.jpg" alt="The Arakiotissa (Virgin of the Passion)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-11.jpg" alt="The Arakiotissa (Virgin of the Passion)">
   <figcaption>The Arakiotissa (Virgin of the Passion), 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -490,7 +490,7 @@ The fluid, almost calligraphic drapery, the emotionally charged faces, and above
 ### St. Hypatius (of Gangra)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 12.jpg" alt="St. Hypatius (of Gangra)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-12.jpg" alt="St. Hypatius (of Gangra)">
   <figcaption>St. Hypatius (of Gangra), 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -509,7 +509,7 @@ The handling of Hypatius's face — with its deeply lined brow, heavy-lidded eye
 ### A Saint of the Great Schema (identified as St. Simeon Thaumaturgos)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 13.jpg" alt="A Saint of the Great Schema (identified as St. Simeon Thaumaturgos)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-13.jpg" alt="A Saint of the Great Schema (identified as St. Simeon Thaumaturgos)">
   <figcaption>A Saint of the Great Schema (identified as St. Simeon Thaumaturgos), 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -528,7 +528,7 @@ The intensity of the facial modelling — the deep furrows of the brow, the asym
 ### St. Cyprian (of Carthage)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 14.jpg" alt="St. Cyprian (of Carthage)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-14.jpg" alt="St. Cyprian (of Carthage)">
   <figcaption>St. Cyprian (of Carthage), 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -553,7 +553,7 @@ The drapery is handled with the same fluid, deeply creased folds and the rich, v
 ### St. Symeon the God-Receiver (Theodochos) and St. John the Baptist (Prodromos)
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 15.jpg" alt="St. Symeon the God-Receiver (Theodochos) and St. John the Baptist (Prodromos)">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-15.jpg" alt="St. Symeon the God-Receiver (Theodochos) and St. John the Baptist (Prodromos)">
   <figcaption>St. Symeon the God-Receiver (Theodochos) and St. John the Baptist (Prodromos), 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -572,7 +572,7 @@ The contrast between Symeon's smooth, golden, almost serene rendering and John's
 ### St. Simeon the Elder, Archimandrite
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 16.jpg" alt="St. Simeon the Elder, Archimandrite">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-16.jpg" alt="St. Simeon the Elder, Archimandrite">
   <figcaption>St. Simeon the Elder, Archimandrite, 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -593,7 +593,7 @@ The grey-green background is consistent with the other individual saint panels i
 ### The Prophet-King David
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 17.jpg" alt="The Prophet-King David">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-17.jpg" alt="The Prophet-King David">
   <figcaption>The Prophet-King David, 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 
@@ -624,7 +624,7 @@ The elaborate patterning of David's vestments — with their dense checkerboard 
 ### The Prophet Elisha
 
 <figure>
-  <img src="/Images/TheodoreApseudes/image 18.jpg" alt="The Prophet Elisha">
+  <img src="/Images/TheodoreApseudes/theodoreapseudes-18.jpg" alt="The Prophet Elisha">
   <figcaption>The Prophet Elisha, 1192, fresco, church of Panagia tou Arakou, Lagoudera, Cyprus.</figcaption>
 </figure>
 

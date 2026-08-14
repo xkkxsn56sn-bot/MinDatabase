@@ -242,7 +242,7 @@ What follows organises every work ever attributed to Puccio Capanna, with the st
 ### St Stanislaus Raises a Dead Man (attr.)
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 1.jpg" alt="St Stanislaus Raises a Dead Man">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-01.jpg" alt="St Stanislaus Raises a Dead Man">
   <figcaption>St Stanislaus Raises a Dead Man, 1330-40, fresco, Lower Basilica of San Francesco, Assisi.</figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ The attribution to Puccio Capanna derives from Fra Ludovico da Pietralunga (16th
 ### Martyrdom of St Stanislas (attr.)
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 3.jpg" alt="Martyrdom of St Stanislas">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-03.jpg" alt="Martyrdom of St Stanislas">
   <figcaption>Martyrdom of St Stanislas, 1337-47, fresco, Lower Basilica of San Francesco, Assisi.</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ The state of preservation is uneven. Extensive lacunae disfigure the right half,
 ### Crucifixion (attr.)
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 4.jpg" alt="Crucifixion">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-04.jpg" alt="Crucifixion">
   <figcaption>Crucifixion, c. 1340, fresco, Sala Capitolare (former Chapter Room, now Cappella delle Reliquie), Sacro Convento, Assisi.</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ Condition is poor. A large lacuna interrupts the lower centre, further losses af
 ### The Crucifixion (attr.)
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 2.jpg" alt="The Crucifixion">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-02.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, c. 1330, tempera and gold leaf on panel, 17.8 x 14.0 cm, North Carolina Museum of Art, Raleigh.</figcaption>
 </figure>
 
@@ -340,7 +340,7 @@ The panel's condition shows a fine overall craquelure, localised abrasion in the
 ### Madonna and Child enthroned among angels with Annunciation and Saints Catherine of Alexandria, Agnes, Lucia, Mary Magdalene, Elizabeth of Hungary, Clare, Agate
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 5.jpg" alt="Madonna and Child enthroned among angels with Annunciation and Saints Catherine of Alexandria, Agnes, Lucia, Mary Magdalene, Elizabeth of Hungary, Clare, Agate">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-05.jpg" alt="Madonna and Child enthroned among angels with Annunciation and Saints Catherine of Alexandria, Agnes, Lucia, Mary Magdalene, Elizabeth of Hungary, Clare, Agate">
   <figcaption>Madonna and Child with the Crucifixion, Angels and Saints (votive tablet - attr.), 1335–45, tempera on parchment, 33.5 × 48.5 x 2 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -379,7 +379,7 @@ The state of preservation is poor. The surface is heavily abraded and darkened b
 ### Madonna and Child Enthroned with Angels, the Annunciation and Saints
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 6.jpg" alt="Madonna and Child Enthroned with Angels, the Annunciation and Saints">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-06.jpg" alt="Madonna and Child Enthroned with Angels, the Annunciation and Saints">
   <figcaption>Madonna and Child Enthroned with Angels, the Annunciation and Saints, c. 1330, tempera and gold on board, golden frame, 36.5 x 24 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -412,7 +412,7 @@ The technical repertory is the standard one of the Assisan and central Italian w
 ### Annunciation
 
 <figure>
-  <img src="/Images/Puccio-Capanna/image 7.jpg" alt="Annunciation">
+  <img src="/Images/Puccio-Capanna/puccio-capanna-07.jpg" alt="Annunciation">
   <figcaption>Annunciation, 1330-40, fresco, Monastero di San Giuseppe (ex chiesa di Sant'Apollinare), Assisi.</figcaption>
 </figure>
 

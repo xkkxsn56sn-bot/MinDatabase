@@ -170,7 +170,7 @@ Modern art historical scholarship, beginning with Roberto Longhi's fundamental r
 ### Saint John the Evangelist
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 1.jpg" alt="Saint John the Evangelist">
+  <img src="/Images/MaestroTorpe/maestrotorpe-01.jpg" alt="Saint John the Evangelist">
   <figcaption>Saint John the Evangelist, 1310-20, tempera on gold ground on wood panel, 53,3 x 38,4 cm, Lindenau Museum, Altenberg.</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ The Lindenau-Museum in Altenburg, Thuringia, holds one of the most significant c
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 2.jpg" alt="Madonna and Child">
+  <img src="/Images/MaestroTorpe/maestrotorpe-02.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1320, tempera on wood, gold background, 60 x 38.3 cm, Uffizi Gallery, Florence.</figcaption>
 </figure>
 
@@ -212,7 +212,7 @@ In its overall character, the Uffizi Madonna and Child reveals the Master of San
 ### Virgin and Child
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 3.jpg" alt="Virgin and Child">
+  <img src="/Images/MaestroTorpe/maestrotorpe-03.jpg" alt="Virgin and Child">
   <figcaption>Virgin and Child, c. 1325, tempera and gold on wood, 53.7 x 35.9 cm, Seattle Art Museum, Seattle.</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ In the context of the Master's development, the Seattle panel occupies an intere
 ### The Blessing Christ
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 4.jpg" alt="The Blessing Christ">
+  <img src="/Images/MaestroTorpe/maestrotorpe-04.jpg" alt="The Blessing Christ">
   <figcaption>The Blessing Christ (cropped panel), c. 1310, tempera on wood panel, Musée du Petit Palais, Avignon.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ The Musée du Petit Palais in Avignon, whose collections were formed largely thr
 ### Madonna and Child Enthroned with Saint John the Baptist and Saint Bartholomew the Apostle
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 5.jpg" alt="Madonna and Child Enthroned with Saint John the Baptist and Saint Bartholomew the Apostle">
+  <img src="/Images/MaestroTorpe/maestrotorpe-05.jpg" alt="Madonna and Child Enthroned with Saint John the Baptist and Saint Bartholomew the Apostle">
   <figcaption>Madonna and Child Enthroned with Saint John the Baptist and Saint Bartholomew the Apostle, 1310-20, tempera and gold foil on wood panel transferred on canvas, 50 × 39,4 cm, North Carolina Museum of Art, Raleigh, NC.</figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ Considered as a whole, the Raleigh panel represents a significant expansion of t
 ### The Witness of John the Baptist
 
 <figure>
-  <img src="/Images/MaestroTorpe/image 6.jpg" alt="The Witness of John the Baptist">
+  <img src="/Images/MaestroTorpe/maestrotorpe-06.jpg" alt="The Witness of John the Baptist">
   <figcaption>The Witness of John the Baptist, 1310-20, tempera on gold ground on panel, 61 x 66.4 cm, Saint Louis Art Museum, Saint Louis, MI.</figcaption>
 </figure>
 

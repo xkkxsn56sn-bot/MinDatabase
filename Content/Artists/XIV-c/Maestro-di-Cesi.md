@@ -134,7 +134,7 @@ To this stylistic profile the recent scholarship has added a socio-technical dim
 ### The Cesi Dossal
 
 <figure>
-  <img src="/Images/Maestro-di-Cesi/image 2.jpg" alt="Dossal">
+  <img src="/Images/Maestro-di-Cesi/maestro-di-cesi-02.jpg" alt="Dossal">
   <figcaption>Dossal, 1308, tempera an gold on panel, church of Santa Maria Assunta, Cesi.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ Stylistically, the Cesi dossal presents a fascinating tension that later critics
 The dossal was probably not originally made for Santa Maria Assunta, the church that now houses it (the present building was begun only in the early sixteenth century). The reconstruction offered in the *Key to Umbria* proposes that it was painted for the church of San Michele Arcangelo at Cesi — a hypothesis consistent with the prominence of the Archangel Michael among the flanking saints. Within Cesi the panel has led a wandering life, which the local historical literature reconstructs as follows: it stood first in the church of Santa Maria de Fori (one of the oldest religious foundations of the town, outside the walls), was then transferred to the church of Sant'Angelo, was carried around 1860 to the town hall (*palazzo comunale*), and was finally deposited in the sacristy of Santa Maria Assunta. Its present, definitive home is a chapel to the right of the high altar, dedicated to the Blessed Sacrament.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro-di-Cesi/image 5.jpg" alt="church of San Michele Arcangelo at Cesi">
+  <img src="/Images/Maestro-di-Cesi/maestro-di-cesi-05.jpg" alt="church of San Michele Arcangelo at Cesi">
   <figcaption>church of San Michele Arcangelo, Cesi.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ One further, earlier moment in the panel's public history deserves emphasis, bec
 ### The Santa Maria della Stella triptych
 
 <figure>
-  <img src="/Images/Maestro-di-Cesi/image 3.jpg" alt="Santa Maria della Stella triptych">
+  <img src="/Images/Maestro-di-Cesi/maestro-di-cesi-03.jpg" alt="Santa Maria della Stella triptych">
   <figcaption>Santa Maria della Stella triptych, c. 1300, tempera an gold on panel, central panel: 186 × 92 cm; each wing: 177 × 24 cm Musée Marmottan, Paris.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ A caveat of the kind this painter's dossier constantly demands: the provenance i
 ### The Christus triumphans Crucifix
 
 <figure>
-  <img src="/Images/Maestro-di-Cesi/image 1.jpg" alt="Christus triumphans Crucifix">
+  <img src="/Images/Maestro-di-Cesi/maestro-di-cesi-01.jpg" alt="Christus triumphans Crucifix">
   <figcaption>Christus triumphans Crucifix, 1300-24, tempera an gold on panel, 164 x 109 cm, Museo Nazionale del Ducato di Spoleto, Spoleto.</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ Below this, the lower shaft carries a dark blue field with red teardrop forms �
 ### Madonna and Child enthroned with Saint Augustine and saints (attr. debated)
 
 <figure>
-  <img src="/Images/Maestro-di-Cesi/image 4.jpg" alt="Madonna and Child enthroned with Saint Augustine and saints">
+  <img src="/Images/Maestro-di-Cesi/maestro-di-cesi-04.jpg" alt="Madonna and Child enthroned with Saint Augustine and saints">
   <figcaption>Madonna and Child enthroned with Saint Augustine and saints (attr. debated), c. 1300, tempera an gold on panel, 95 x 93 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 

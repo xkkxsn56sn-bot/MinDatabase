@@ -149,7 +149,7 @@ Andrea de' Bartoli's artistic legacy begins with his collaboration on the "Canzo
 ### Allegory of Justice
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 1.jpg" alt="Allegory of Justice">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-01.jpg" alt="Allegory of Justice">
   <figcaption>Allegory of Justice, 1358-68 (From "Canzone delle Sette Virtù e delle Scienze"), watercolour on paper, ms. 599, Musée Condé, Chantilly.</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ The allegorical subject matter of the "Canzone" required Andrea to visualize abs
 ### The Author Kneeling in Front of the Young Visconti Prince to Offer his Book
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 2.jpg" alt="The Author Kneeling in Front of the Young Visconti Prince to Offer his Book">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-02.jpg" alt="The Author Kneeling in Front of the Young Visconti Prince to Offer his Book">
   <figcaption>The Author Kneeling in Front of the Young Visconti Prince to Offer his Book, 1358-68 (From "Canzone delle Sette Virtù e delle Scienze"), watercolour on paper, ms. 599, Musée Condé, Chantilly.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ The manuscript's preservation in the prestigious Chantilly collection testifies 
 ### Crucifix
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 3.jpg" alt="Crucifix">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-03.jpg" alt="Crucifix">
   <figcaption>Crucifix, c. 1370, tempera and gold on panel, 206 x 152 cm, Museo della Città “Luigi Tonini”, Rimini.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ The work is tempera and gold leaf on a wooden panel, with the gold ground tooled
 ### Our lady of Humility
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 4.jpg" alt="Our lady of Humility">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-04.jpg" alt="Our lady of Humility">
   <figcaption>Our Lady of Humility, 1372, tempera and gold on panel, 175 × 92 cm, Pinacoteca Parrocchiale, Corridonia.</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ By 1372 Andrea, Bolognese-trained in the orbit of Vitale da Bologna, had been wo
 ### Virgin and Child with Angels (attr.)
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 5.jpg" alt="Virgin and Child with Angels">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-05.jpg" alt="Virgin and Child with Angels">
   <figcaption>Virgin and Child with Angels, c. 1360, tempera and gold on panel, Pinacoteca Nazionale di Bologna.</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ The two lateral panels are filled, top to bottom, with tiered ranks of angels �
 At the foot of each wing, the angels become musicians — the *concerto angelico* (angelic concert). On the left wing, the foreground angel in blue-grey plays a portative organ (*organetto*), its rank of pipes and small bellows clearly shown. On the right wing, the foreground angels play strings: one in a blue mantle over rose robe holds a bowed fiddle (a medieval *vielle* / *lira da braccio*), with a companion in green beside. The music-making angels at the base and the silent, adoring ranks above together turn the whole triptych into an image of the Virgin surrounded by the praise of heaven.
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 7.jpg" alt="The Archangel Michael">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-07.jpg" alt="The Archangel Michael">
   <figcaption>The Archangel Michael, 1355-59, tempera and gold on panel, Private collection.</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ The fragmentary frescoes that survive in the castle chapel include religious sub
 ### Christ Blessing
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 6.jpg" alt="Christ Blessing">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-06.jpg" alt="Christ Blessing">
   <figcaption>Christ Blessing, c. 1365, fresco, Castello Visconteo, Pavia.</figcaption>
 </figure>
 
@@ -282,7 +282,7 @@ Andrea's fresco cycle depicts scenes from the life of Saint Catherine of Alexand
 ### The Martyrdom of Saint Catherine of Alexandria
 
 <figure>
-  <img src="/Images/Andrea-de-Bartoli/image 8.jpg" alt="The Martyrdom of Saint Catherine of Alexandria">
+  <img src="/Images/Andrea-de-Bartoli/andrea-de-bartoli-08.jpg" alt="The Martyrdom of Saint Catherine of Alexandria">
   <figcaption>The Martyrdom of Saint Catherine of Alexandria, 1368, fresco, Chapel of Saint Catherine, Lower Church of San Francesco, Assisi.</figcaption>
 </figure>
 

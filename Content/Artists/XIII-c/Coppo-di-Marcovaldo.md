@@ -317,7 +317,7 @@ The economic structure of artistic commissions, with protracted payment schedule
 ### The Madonna del Bordone
 
 <figure>
-  <img src="/Images/Coppo/image 1.jpg" alt="The Madonna del Bordone">
+  <img src="/Images/Coppo/coppo-01.jpg" alt="The Madonna del Bordone">
   <figcaption>The Madonna del Bordone, 1261, tempera and gold on panel, 225 x 125 cm, church of Santa Maria dei Servi, Siena.</figcaption>
 </figure>
 
@@ -346,7 +346,7 @@ While the classical Sienese tradition tends to portray the Child as more “halo
 ### San Zeno Crucifix with scenes from the Passion
 
 <figure>
-  <img src="/Images/Coppo/image 2.jpg" alt="The Pistoia Cathedral Crucifix">
+  <img src="/Images/Coppo/coppo-02.jpg" alt="The Pistoia Cathedral Crucifix">
   <figcaption>San Zeno Crucifix with scenes from the Passion, 1274-75, tempera and gold on panel, 280 x 245 cm, San Zeno cathedral, Pistoia.</figcaption>
 </figure>
 
@@ -361,7 +361,7 @@ Commissioned in 1274 for the choir of Pistoia Cathedral, along with other lost w
 ### The San Gimignano Crucifix
 
 <figure>
-  <img src="/Images/Coppo/image 3.jpg" alt="The San Gimignano Crucifix">
+  <img src="/Images/Coppo/coppo-03.jpg" alt="The San Gimignano Crucifix">
   <figcaption>The San Gimignano Crucifix, 1255-60, tempera and gold on panel, 296 x 247 cm, Museo civico di San Gimignano, San Gimignano.</figcaption>
 </figure>
 
@@ -376,7 +376,7 @@ This crucifix is considered one of the most certain and celebrated works attribu
 ### The Orvieto Maestà
 
 <figure>
-  <img src="/Images/Coppo/image 4.jpg" alt="The Orvieto Maestà">
+  <img src="/Images/Coppo/coppo-04.jpg" alt="The Orvieto Maestà">
   <figcaption>The Orvieto Maestà, 1265-70, tempera and gold on panel, 238 x 135 cm, Museo dell'Opera del Duomo, Orvieto.</figcaption>
 </figure>
 
@@ -391,7 +391,7 @@ Painted around 1265–1270, the work is generally attributed to Coppo di Marcova
 ### Madonna-reliquiario di Santa Maria Maggiore
 
 <figure>
-  <img src="/Images/Coppo/image 5.jpg" alt="Madonna-reliquiario di Santa Maria Maggiore">
+  <img src="/Images/Coppo/coppo-05.jpg" alt="Madonna-reliquiario di Santa Maria Maggiore">
   <figcaption>Madonna-reliquiario di Santa Maria Maggiore, 1250-60, tempera and gold on panel, 250 x 123 cm, church of Santa Maria Maggiore, Florence.</figcaption>
 </figure>
 
@@ -412,7 +412,7 @@ This Madonna represents a turning point in pre-Giottesque Italian painting: Byza
 ### St Michael Archangel and stories from his legend
 
 <figure>
-  <img src="/Images/Coppo/image 6.jpg" alt="St Michael Archangel and stories from his legend">
+  <img src="/Images/Coppo/coppo-06.jpg" alt="St Michael Archangel and stories from his legend">
   <figcaption>St Michael Archangel and stories from his legend, 1250-60, tempera on panel, 96 x 122 cm, Museo di Arte Sacra, San Casciano Val di Pesa.</figcaption>
 </figure>
 
@@ -438,7 +438,7 @@ This altarpiece, originally from the church of Sant’Angelo a Vico l’Abate, i
 ### The Last Judgement (Hell)
 
 <figure>
-  <img src="/Images/Coppo/image 7.jpg" alt="The Last Judgement (Hell)">
+  <img src="/Images/Coppo/coppo-07.jpg" alt="The Last Judgement (Hell)">
   <figcaption>The Last Judgement (Hell), 1260-70, Battistero di San Giovanni, Florence.</figcaption>
 </figure>
 
@@ -455,7 +455,7 @@ Coppo was among the few medieval artists named in documents, celebrated for pane
 ### The Saint Francis Altarpiece with twenty scenes from his life
 
 <figure>
-  <img src="/Images/Coppo/image 8.jpg" alt="The Saint Francis Altarpiece">
+  <img src="/Images/Coppo/coppo-08.jpg" alt="The Saint Francis Altarpiece">
   <figcaption>The Saint Francis Altarpiece with twenty scenes from his life, 1245-50, tempera and gold on panel, 230 x 123 cm, Basilica di Santa Croce, Cappella Bardi, Florence.</figcaption>
 </figure>
 

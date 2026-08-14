@@ -173,7 +173,7 @@ The date and cause of death of the Maestro di Santa Chiara are entirely unknown,
 ### Santa Chiara e otto storie della sua vita
 
 <figure>
-  <img src="/Images/Maestro di Santa Chiara/image 1.jpg" alt="Santa Chiara e otto storie della sua vita">
+  <img src="/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-01.jpg" alt="Santa Chiara e otto storie della sua vita">
   <figcaption>Santa Chiara e otto storie della sua vita, c. 1283, tempera on panel, 276 × 163 cm, Basilica di Santa Chiara, Assisi.</figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ The date of approximately 1283, inferred from stylistic analysis and from the in
 ### Christus patiens
 
 <figure>
-  <img src="/Images/Maestro di Santa Chiara/image 2.jpg" alt="Christus patiens">
+  <img src="/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-02.jpg" alt="Christus patiens">
   <figcaption>Christus patiens, c. 1260, tempera on panel, Basilica di Santa Chiara, Assisi.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ The *Christus patiens* of the Basilica di Santa Chiara thus occupies a position 
 ### Maestà
 
 <figure>
-  <img src="/Images/Maestro di Santa Chiara/image 3.jpg" alt="Maestà">
+  <img src="/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-03.jpg" alt="Maestà">
   <figcaption>Maestà, c. 1265, tempera on panel, Basilica di Santa Chiara, Assisi.</figcaption>
 </figure>
 

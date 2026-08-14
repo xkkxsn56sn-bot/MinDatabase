@@ -171,7 +171,7 @@ Within Umbria itself, the master’s horizon would have encompassed not only Per
 ## Principal works and themes
 
 <figure>
-  <img src="/Images/Maestro della Madonna di Perugia/image 1.jpg" alt="Madonna di Perugia. Madonna con Bambino che gioca">
+  <img src="/Images/Maestro-della-Madonna-di-Perugia/maestro-della-madonna-di-perugia-01.jpg" alt="Madonna di Perugia. Madonna con Bambino che gioca">
   <figcaption>Madonna di Perugia. Madonna con Bambino che gioca (Virgin and Child who is playing), 1320, tempera and gold on panel, 32,3 x 23,5 x 3 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 

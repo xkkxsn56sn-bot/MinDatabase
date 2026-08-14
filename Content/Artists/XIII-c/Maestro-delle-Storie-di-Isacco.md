@@ -182,7 +182,7 @@ The physical survival of the Isaac frescoes through more than seven centuries te
 ### Isaac Blessing Jacob
 
 <figure>
-  <img src="/Images/Maestro Isacco/image-1.jpg" alt="Isaac Blessing Jacob">
+  <img src="/Images/Maestro-Isacco/image-1.jpg" alt="Isaac Blessing Jacob">
   <figcaption>Isaac Blessing Jacob, 1291-95, fresco, 300 x 300 cm, Basilica Superiore di San Francesco, Assisi.</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ The technical execution reveals a master at the height of his powers: the *giorn
 ### Esau Before Isaac
 
 <figure>
-  <img src="/Images/Maestro Isacco/image-2.jpg" alt="Esau Before Isaac">
+  <img src="/Images/Maestro-Isacco/image-2.jpg" alt="Esau Before Isaac">
   <figcaption>Esau Before Isaac, 1291-95, fresco, 300 x 300 cm, Basilica Superiore di San Francesco, Assisi.</figcaption>
 </figure>
 

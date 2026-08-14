@@ -291,7 +291,7 @@ The four evangelist symbols — the Man (Matthew), the Lion (Mark), the Calf/Ox 
 ### Matthew the Evangelist
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 1.jpg" alt="Portraits of Matthew">
+  <img src="/Images/Book-of-Kells/book-of-kells-01.jpg" alt="Portraits of Matthew">
   <figcaption>Matthew the Evangelist, Dublin, Trinity College Library, MS 58, fol. 28v.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Typologically, the image descends from the late antique author portrait transmit
 ### John the Evangelist
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 2.jpg" alt="Portraits of John">
+  <img src="/Images/Book-of-Kells/book-of-kells-02.jpg" alt="Portraits of John">
   <figcaption>John the Evangelist, Dublin, Trinity College Library, MS 58, fol. 291v.</figcaption>
 </figure>
 
@@ -329,7 +329,7 @@ Technically the page depends on the same restricted palette as the rest of the c
 ### The Virgin and Child
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 3.jpg" alt="The Virgin and Child">
+  <img src="/Images/Book-of-Kells/book-of-kells-03.jpg" alt="The Virgin and Child">
   <figcaption>The Virgin and Child, Dublin, Trinity College Library, MS 58, fol. 7v.</figcaption>
 </figure>
 
@@ -350,7 +350,7 @@ Stylistically the page has long been associated with the hand conventionally des
 ### Christ Enthroned
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 5.jpg" alt="Christ Enthroned">
+  <img src="/Images/Book-of-Kells/book-of-kells-05.jpg" alt="Christ Enthroned">
   <figcaption>Christ Enthroned, Dublin, Trinity College Library, MS 58, fol. 32v.</figcaption>
 </figure>
 
@@ -371,7 +371,7 @@ That incompleteness is itself of interest. Together with the unfinished passages
 ### The Arrest of Christ
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 6.jpg" alt="The Arrest of Christ">
+  <img src="/Images/Book-of-Kells/book-of-kells-06.jpg" alt="The Arrest of Christ">
   <figcaption>The Arrest of Christ, Dublin, Trinity College Library, MS 58, fol. 114r.</figcaption>
 </figure>
 
@@ -390,7 +390,7 @@ One further feature deserves note: the faint English annotation across the upper
 ### The Temptation of Christ
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 7.jpg" alt="The Temptation of Christ">
+  <img src="/Images/Book-of-Kells/book-of-kells-07.jpg" alt="The Temptation of Christ">
   <figcaption>The Temptation of Christ, Dublin, Trinity College Library, MS 58, fol. 202v.</figcaption>
 </figure>
 
@@ -413,7 +413,7 @@ The condition is generally good, though the pigments show localised abrasion, pa
 ### The Chi Rho Monogram
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 4.jpg" alt="The Chi Rho Monogram">
+  <img src="/Images/Book-of-Kells/book-of-kells-04.jpg" alt="The Chi Rho Monogram">
   <figcaption>The Chi Rho Monogram, Dublin, Trinity College Library, MS 58, fol. 34r.</figcaption>
 </figure>
 
@@ -432,7 +432,7 @@ Beyond its technical accomplishment, the page performs a specific theological op
 ### The Carpet Page
 
 <figure>
-  <img src="/Images/Book-of-Kells/image 8.jpg" alt="The Carpet Page">
+  <img src="/Images/Book-of-Kells/book-of-kells-08.jpg" alt="The Carpet Page">
   <figcaption>The Carpet Page, Dublin, Trinity College Library, MS 58, fol. 33r.</figcaption>
 </figure>
 

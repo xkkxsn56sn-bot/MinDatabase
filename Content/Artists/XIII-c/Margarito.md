@@ -345,7 +345,7 @@ It makes clear that even relatively rooted regional masters could be deeply impl
 Margarito’s biography, narrowed to 1250–1290, thus remains geographically modest yet culturally expansive.
 
 <figure>
-  <img src="/Images/Margarito/image 5.jpg" alt="Madonna di Montelungo">
+  <img src="/Images/Margarito/margarito-05.jpg" alt="Madonna di Montelungo">
   <figcaption>Madonna di Montelungo, c. 1250, tempera on panel, 127 x 57 cm, Museo Statale d'Arte Medievale e Moderna, Arezzo.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ The *Madonna di Montelungo*, originally painted for the rural church of Santa Ma
 As noted earlier, the Child’s sceptre and blessing gesture mark him as a divine ruler rather than a naturalistic infant, while the Madonna’s slight touch of his foot introduces a rare moment of tenderness within the otherwise hieratic composition. The throne is indicated by simple yet authoritative forms, and the entire ensemble stands before a gold ground that emphasizes the transcendence of the figures. Signed by the artist, the panel bears witness to his self‑conscious assertion of authorship at a moment when such signatures were still relatively uncommon. Its patronage context—linked to a castle of the Guidi counts and a local Marian cult—suggests a commission rooted in seigneurial and parochial structures rather than in mendicant or communal institutions. The panel’s current location in the Aretine museum reflects modern curatorial choices, but its iconography and style remain deeply tied to its original thirteenth‑century rural setting. Within Margarito’s oeuvre, the Madonna of Montelungo represents a kind of foundational statement of his Marian type, combining Byzantine frontality with modest gestures of intimacy. It thus provides a crucial baseline for measuring developments in his later, more complex works. From the standpoint of 1250–1290, it can reasonably be treated as an early yet mature articulation of the visual language that would dominate his career.
 
 <figure>
-  <img src="/Images/Margarito/image 2.jpg" alt="Virgin and Child Enthroned, with Scenes of the Nativity and the Lives of the Saints">
+  <img src="/Images/Margarito/margarito-02.jpg" alt="Virgin and Child Enthroned, with Scenes of the Nativity and the Lives of the Saints">
   <figcaption>Virgin and Child Enthroned, with Scenes of the Nativity and the Lives of the Saints, 1263-64, tempera on panel, 92,1 x 183,1 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -365,21 +365,21 @@ In the modern period, the altarpiece gained notoriety when the National Gallery�
 Another significant work contributes to the picture of his activity within the 1250–1290 period, even if it ranks slightly lower in terms of art‑historical prominence.
 
 <figure>
-  <img src="/Images/Margarito/image 3.jpg" alt="Virgin and Child Enthroned with four Saints">
+  <img src="/Images/Margarito/margarito-03.jpg" alt="Virgin and Child Enthroned with four Saints">
   <figcaption>Virgin and Child Enthroned with four Saints, 1240-45, tempera on panel, 97,3 × 49,9 × 1,3 cm, National Gallery of Art, Washington DC.</figcaption>
 </figure>
 
 The Washington *Madonna and Child Enthroned with Four Saints*, part of the Samuel H. Kress Collection at the National Gallery of Art, closely relates to the Montelungo type but introduces flanking saints that expand the intercessory context of the central Madonna. Treccani notes that this panel is similar to the Madonna of Montelungo yet somewhat less plastic and expressive, suggesting either a later date or stronger workshop participation.
 
 <figure>
-  <img src="/Images/Margarito/image 4.jpg" alt="Saint Francis">
+  <img src="/Images/Margarito/margarito-04.jpg" alt="Saint Francis">
   <figcaption>Saint Francis, 1260-75, tempera on panel, Museo Nazionale d’Arte Medievale e Moderna, Arezzo.</figcaption>
 </figure>
 
 *Saint Francis* panels from Sargiano and other contexts, now in the Aretine museum and elsewhere, document Margarito’s role in disseminating one of the earliest independent image types of the Poverello, a type that enjoyed wide replication.
 
 <figure>
-  <img src="/Images/Margarito/image 1.jpg" alt="Christus Triumphans">
+  <img src="/Images/Margarito/margarito-01.jpg" alt="Christus Triumphans">
   <figcaption>Christus Triumphans, 1250-60, tempera on panel, Pieve di Santa Maria, Arezzo.</figcaption>
 </figure>
 

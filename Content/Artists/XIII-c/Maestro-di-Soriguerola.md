@@ -122,7 +122,7 @@ The patronage network that sustained the Master of Soriguerola was composed prim
 This monastic connection is significant, as it suggests that at least some of the master's commissions were mediated or funded not by isolated village communities but by the wider institutional network of Benedictine monasticism, which in thirteenth-century Catalonia maintained both the financial resources and the cultural ambitions necessary to commission substantial works of devotional painting. The parish of Sant Cristòfol de Toses, in the Ripollès, similarly formed part of an ecclesiastical landscape shaped by monastic and episcopal oversight, and its altar frontal—today in the Museu Nacional d'Art de Catalunya—testifies to the willingness of rural communities to invest in high-quality painted furnishings for their churches.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro di Soriguerola/image 8.jpg" alt="Church of Sant Miquel de Soriguerola">
+  <img src="/Images/Maestro-di-Soriguerola/maestro-di-soriguerola-08.jpg" alt="Church of Sant Miquel de Soriguerola">
   <figcaption>Church of Sant Miquel de Soriguerola (back view).</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ Whether the master himself had received his training in a more distant centre—
 ### The Altar Panel of Sant Miquel de Soriguerola
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-1.jpg" alt="The Altar Panel of Sant Miquel de Soriguerola">
+  <img src="/Images/Maestro-di-Soriguerola/image-1.jpg" alt="The Altar Panel of Sant Miquel de Soriguerola">
   <figcaption>The Altar Panel of Sant Miquel de Soriguerola, 1295-1305, tempera and painted metal sheet on fir wood, 96.3 x 234.5 x 7.5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ The panel was likely part of a Romanesque canopy placed over the altar, as sugge
 ### The Altar Frontal of Sant Cristòfol de Toses
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-2.jpg" alt="The Altar Frontal of Sant Cristòfol de Toses">
+  <img src="/Images/Maestro-di-Soriguerola/image-2.jpg" alt="The Altar Frontal of Sant Cristòfol de Toses">
   <figcaption>The Altar Frontal of Sant Cristòfol de Toses, 1305-10, engraving (frame and colored metal leaf on wood), 102.2 x 158.3 x 7 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ The frame, according to technical analyses by the MNAC and studies on the Master
 ### Supplicant Soul between Saint Peter Saint Paul
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-3.jpg" alt="Supplicant Soul between Saint Peter Saint Paul">
+  <img src="/Images/Maestro-di-Soriguerola/image-3.jpg" alt="Supplicant Soul between Saint Peter Saint Paul">
   <figcaption>Supplicant Soul between Saint Peter Saint Paul, 1305-10, tempera on Scots pine wood, 103 x 100.5 x 7.3 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ His style is recognizable by the combination of elements still rooted in the Rom
 ### Saint Michael Weighing Souls, Barcelona
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-4.jpg" alt="Saint Michael Weighing Souls">
+  <img src="/Images/Maestro-di-Soriguerola/image-4.jpg" alt="Saint Michael Weighing Souls">
   <figcaption>Saint Michael Weighing Souls, 1305-10, tempera on Scots pine wood, 103 x 100 x 7.5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ In this sense, the panel of Saint Michael is not merely a doctrinal representati
 ### Saint Peter and Paul
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-5.jpg" alt="Saint Peter and Paul">
+  <img src="/Images/Maestro-di-Soriguerola/image-5.jpg" alt="Saint Peter and Paul">
   <figcaption>Saint Peter and Paul, 1305-10, tempera on Scots pine wood, 103 x 100.5 x 7.3 cm, Museu Episcopal d'Art Medieval, Vic.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ This panel is also important because it demonstrates the maturity of the style o
 ### Saint Michael Weighing Souls, Vic
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-6.jpg" alt="Saint Michael Weighing Souls">
+  <img src="/Images/Maestro-di-Soriguerola/image-6.jpg" alt="Saint Michael Weighing Souls">
   <figcaption>Saint Michael Weighing Souls, 1305-10, tempera on Scots pine wood, 103 x 100 x 7.5 cm, Museu Episcopal d'Art Medieval, Vic.</figcaption>
 </figure>
 
@@ -329,7 +329,7 @@ The technique is tempera on wood with a gesso ground, as was customary in the pa
 The image served a catechetical and liturgical function: it visually illustrated the doctrine of judgment and angelic-apostolic mediation for the assembled congregation, admonishing them to moral vigilance and offering consolation in the presence of heavenly intercession. In the context of a parish or monastic devotion, the panel thus served both as a teaching tool and as an image of meditation for the faithful.
 
 <figure>
-  <img src="/Images/Maestro di Soriguerola/image-7.jpg" alt="The Altar Frontal of Santa Eugènia de Saga">
+  <img src="/Images/Maestro-di-Soriguerola/image-7.jpg" alt="The Altar Frontal of Santa Eugènia de Saga">
   <figcaption>The Altar Frontal of Santa Eugènia de Saga, 1330-35, tempera on wood, 103 x 100 x 7.5 cm, Musée des Arts Décoratifs, Paris.</figcaption>
 </figure>
 

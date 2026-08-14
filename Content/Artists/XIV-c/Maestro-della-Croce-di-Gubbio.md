@@ -188,7 +188,7 @@ The catalogue of the Maestro della Croce di Gubbio comprises a small core of sec
 ### Christ Crucified and Saints
 
 <figure>
-  <img src="/Images/Maestro-Croce-Gubbio/image 1.jpg" alt="Christ Crucified and Saints">
+  <img src="/Images/Maestro-Croce-Gubbio/maestro-croce-gubbio-01.jpg" alt="Christ Crucified and Saints">
   <figcaption>Christ Crucified and Saints, 1290-91, tempera on shaped panel, 55.8 x 38 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ The top terminal (cimasa) here reads as a bare gold field in its present state; 
 ### Christ Flagellated and Angels; Holy Bishop
 
 <figure>
-  <img src="/Images/Maestro-Croce-Gubbio/image 2.jpg" alt="Christ Flagellated and Angels; Holy Bishop">
+  <img src="/Images/Maestro-Croce-Gubbio/maestro-croce-gubbio-02.jpg" alt="Christ Flagellated and Angels; Holy Bishop">
   <figcaption>Christ Flagellated and Angels; Holy Bishop, 1290-91, tempera on shaped panel, 55.8 x 38 cm, Galleria Nazionale dell'Umbria, Perugia.</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ The state of conservation on this face is instructive — the extensive craquelu
 ### Crucifix (Croce dipinta)
 
 <figure>
-  <img src="/Images/Maestro-Croce-Gubbio/image 3.jpg" alt="Crucifix">
+  <img src="/Images/Maestro-Croce-Gubbio/maestro-croce-gubbio-03.jpg" alt="Crucifix">
   <figcaption>Crucifix (Croce dipinta), c. 1295, tempera on panel, 243 x 168 cm, Museo Civico di Gubbio.</figcaption>
 </figure>
 

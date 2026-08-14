@@ -198,7 +198,7 @@ Pietro Lorenzetti is generally believed to have died in Siena in the course of t
 ### Crucifixion with the Madonna, Saint John, and Mary Magdalene
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 1.jpg" alt="Crucifixion with the Madonna, Saint John, and Mary Magdalene">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-01.jpg" alt="Crucifixion with the Madonna, Saint John, and Mary Magdalene">
   <figcaption>Crucifixion with the Madonna, Saint John, and Mary Magdalene, 1315-25, tempera and gold on panel, 82 x 42.5 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ The attribution to Pietro Lorenzetti is long established in the literature, supp
 ### Carmine Altarpiece (Central part with Madonna and Child, Saint Nicholas of Bari, Prophet Elijah and angels)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 2.jpg" alt="Carmine Altarpiece (Central part with Madonna and Child, Saint Nicholas of Bari, Prophet Elijah and angels)">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-02.jpg" alt="Carmine Altarpiece (Central part with Madonna and Child, Saint Nicholas of Bari, Prophet Elijah and angels)">
   <figcaption>Carmine Altarpiece (Central part with Madonna and Child, Saint Nicholas of Bari, Prophet Elijah and angels), 1329, tempera and gold on panel, 169 x 148 cm, Pinacoteca Nazionale, Siena.</figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ The altarpiece marks a point of synthesis in Pietro Lorenzetti's career — betw
 ### Madonna and Child with Saints Agnes and Catherine
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 3.jpg" alt="Madonna and Child with Saints Agnes and Catherine">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-03.jpg" alt="Madonna and Child with Saints Agnes and Catherine">
   <figcaption>Madonna and Child with Saints Agnes and Catherine, 1310-15, tempera on panel, 122 x 70 cm, Museo Nazionale d'Arte Medievale e Moderna, Arezzo.</figcaption>
 </figure>
 
@@ -351,7 +351,7 @@ The work thus occupies a critical position in tracing Pietro Lorenzetti's stylis
 ### Madonna with Child Enthroned with Saints and Angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 4.jpg" alt="Madonna with Child Enthroned with Saints and Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-04.jpg" alt="Madonna with Child Enthroned with Saints and Angels">
   <figcaption>Madonna with Child Enthroned with Saints and Angels, 1335-40, tempera on poplar panel, 53 x 44 cm, State Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -389,7 +389,7 @@ The panel's defining characteristic — the sheer density of figures compressed 
 ### Male Martyr Saint
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 5.jpg" alt="Male Martyr Saint">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-05.jpg" alt="Male Martyr Saint">
   <figcaption>Male Martyr Saint, c. 1330, tempera on panel, 45 x 37 cm, National Gallery in Prague.</figcaption>
 </figure>
 
@@ -416,7 +416,7 @@ The panel shows the wear typical of seven centuries of handling and, likely, dis
 ### Saint Anthony Abbot
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 6.jpg" alt="Saint Anthony Abbot">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-06.jpg" alt="Saint Anthony Abbot">
   <figcaption>Saint Anthony Abbot, c. 1330, tempera on panel, 45 x 37 cm, National Gallery in Prague.</figcaption>
 </figure>
 
@@ -444,7 +444,7 @@ Given Anthony Abbot's standing as one of the most widely venerated hermit-saints
 ### Saint Anthony Abbot (Private collection)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 7.jpg" alt="Saint Anthony Abbot">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-07.jpg" alt="Saint Anthony Abbot">
   <figcaption>Saint Anthony Abbot, c. 1330, tempera on gold ground panel, the inset quatrefoil with a band of decoration above and the inscribed band below, 47.5 x 38.9 cm, Private collection.</figcaption>
 </figure>
 
@@ -480,7 +480,7 @@ The handling of the beard and facial modeling here shows close kinship with the 
 ### Madonna with Child Enthroned with Saints and Angels (Circle of Lorenzetti)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 8.jpg" alt="Madonna with Child Enthroned with Saints and Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-08.jpg" alt="Madonna with Child Enthroned with Saints and Angels">
   <figcaption>Madonna with Child Enthroned with Saints and Angels, tempera and gold on poplar panel, 52 x 36,5 cm, State Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -514,7 +514,7 @@ Right Side:
 ### Crucifixion with the Virgin Mary and Saint John
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 9.jpg" alt="Crucifixion with the Virgin Mary and Saint John">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-09.jpg" alt="Crucifixion with the Virgin Mary and Saint John">
   <figcaption>Crucifixion with the Virgin Mary and Saint John, tempera and gold on poplar panel, 62 x 31 cm, State Hermitage Museum, Saint Petersburg.</figcaption>
 </figure>
 
@@ -535,7 +535,7 @@ Beneath the figures' feet, a pale, summarily rendered rocky ground (consistent w
 ### Christ Between Saints Peter and Paul
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 10.jpg" alt="Christ Between Saints Peter and Paul">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-10.jpg" alt="Christ Between Saints Peter and Paul">
   <figcaption>Christ Between Saints Peter and Paul, c. 1320, 32.2 × 70.4 cm, tempera and gold on panel, Ferens Art Gallery, Kingston upon Hull.</figcaption>
 </figure>
 
@@ -558,7 +558,7 @@ The proposed date of c. 1320 places this panel in close proximity to the Arezzo 
 ### Christ on the Cross with the Virgin and Saints Clare, John the Evangelist, and Francis
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 11.jpg" alt="Christ on the Cross with the Virgin and Saints Clare, John the Evangelist, and Francis">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-11.jpg" alt="Christ on the Cross with the Virgin and Saints Clare, John the Evangelist, and Francis">
   <figcaption>Christ on the Cross with the Virgin and Saints Clare, John the Evangelist, and Francis, c. 1320, tempera and gold on panel, 45.4 × 36.3 cm, Fogg Art Museum, Harvard University.</figcaption>
 </figure>
 
@@ -583,7 +583,7 @@ As Harvard's own programming describes it, the panel combines three temporal hor
 ### St. Humility heals a sick Nun
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 12.jpg" alt="St. Humility heals a sick Nun">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-12.jpg" alt="St. Humility heals a sick Nun">
   <figcaption>St. Humility heals a sick Nun, 1341, tempera and gold on poplar panel, 45 × 55 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -610,7 +610,7 @@ As one of Lorenzetti's final securely attributed works, painted in the same deca
 ### The Miracle of the Ice
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 13.jpg" alt="The Miracle of the Ice">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-13.jpg" alt="The Miracle of the Ice">
   <figcaption>The Miracle of the Ice, 1340-41, tempera and gold on poplar panel, 42 × 32 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -641,7 +641,7 @@ As a securely dated late work — contemporary with the *Heals a Sick Nun* panel
 ### Mary enthroned with the child, adoring angels and Saints Paul, John the Evangelist, John the Baptist and Peter
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 14.jpg" alt="Mary enthroned with the child, adoring angels and Saints Paul, John the Evangelist, John the Baptist and Peter">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-14.jpg" alt="Mary enthroned with the child, adoring angels and Saints Paul, John the Evangelist, John the Baptist and Peter">
   <figcaption>Mary enthroned with the child, adoring angels and Saints Paul, John the Evangelist, John the Baptist and Peter, c. 1345, tempera and gold on poplar panel, 34,8 x 30,8 cm, Gemäldegalerie, Staatliche Museen zu Berlin.</figcaption>
 </figure>
 
@@ -662,7 +662,7 @@ The proposed date of c. 1345 represents one of Lorenzetti's final works, contemp
 ### Saint Leonard, Saint Catherine of Alexandria, Saint Margaret of Antioch
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 15.jpg" alt="Saint Leonard, Saint Catherine of Alexandria, Saint Margaret of Antioch">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-15.jpg" alt="Saint Leonard, Saint Catherine of Alexandria, Saint Margaret of Antioch">
   <figcaption>Saint Leonard, Saint Catherine of Alexandria, Saint Margaret of Antioch, before 1320, tempera and gold on panel, 97 x 58 cm, Museo Horne, Florence.</figcaption>
 </figure>
 
@@ -691,7 +691,7 @@ Scholarly consensus on both points is notably firm: the attribution to Pietro Lo
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 16.jpg" alt="Madonna and Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-16.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child (left wing of a diptych with the Man of Sorrows), 1340-45, tempera and gold on panel, 35,1 x 25,9 cm, Lindenau Museum, Altenburg.</figcaption>
 </figure>
 
@@ -712,7 +712,7 @@ The proposed dating of c. 1340–1345 positions the Lindenau diptych in the same
 ### Man of Sorrows
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 17.jpg" alt="Man of Sorrows">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-17.jpg" alt="Man of Sorrows">
   <figcaption>Man of Sorrows (right wing of a diptych with the Madonna and Child), 1340-45, tempera on panel, 35 x 25,9 cm, Lindenau Museum, Altenburg.</figcaption>
 </figure>
 
@@ -735,7 +735,7 @@ This closing pair of Lindenau panels brings us to the very end of Lorenzetti's w
 ### The Adoration of the Magi
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 18.jpg" alt="The Adoration of the Magi">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-18.jpg" alt="The Adoration of the Magi">
   <figcaption>The Adoration of the Magi, 1335-40, tempera and gold on poplar panel, 33 x 24 cm, Musée du Louvre, Paris.</figcaption>
 </figure>
 
@@ -760,7 +760,7 @@ The Adoration of the Magi (Matthew 2:1–12) held particular theological signifi
 ### The Crucifixion
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 19.jpg" alt="The Crucifixion">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-19.jpg" alt="The Crucifixion">
   <figcaption>The Crucifixion, 1340s, tempera and gold on panel, overall: 41.9 x 31.8 cm; painted surface: 35.9 x 25.7 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -793,7 +793,7 @@ The proposed dating of the 1340s places this panel among Lorenzetti's final work
 ### Saint Catherine of Alexandria
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 20.jpg" alt="Saint Catherine of Alexandria">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-20.jpg" alt="Saint Catherine of Alexandria">
   <figcaption>Saint Catherine of Alexandria, c. 1342, tempera and gold on panel, overall: 66 x 41.3 cm; painted surface: 62.2 x 41.3 cm, The Metropolitan Museum of Art, New York.</figcaption>
 </figure>
 
@@ -831,7 +831,7 @@ This triptych represents Lorenzetti at the height of his Giottesque phase, as th
 ### The Man of Sorrow (Vir Dolorum)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 21.jpg" alt="The Man of Sorrow">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-21.jpg" alt="The Man of Sorrow">
   <figcaption>The Man of Sorrow (Vir Dolorum), 1320-25, tempera on panel, 49 × 60 cm, Museo Civico Amedeo Lia, La Spezia.</figcaption>
 </figure>
 
@@ -852,7 +852,7 @@ This Man of Sorrows panel adds a further data point to the pattern we've traced 
 ### Saint John the Evangelist
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 22.jpg" alt="Saint John the Evangelist">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-22.jpg" alt="Saint John the Evangelist">
   <figcaption>Saint John the Evangelist, 1330-48, tempera and gold on panel, 68 × 45.5 cm, Museo Civico Amedeo Lia, La Spezia.</figcaption>
 </figure>
 
@@ -875,7 +875,7 @@ The proposed range of 1330–1348 places this panel broadly within Lorenzetti's 
 ### Madonna and Child (Madonna di Monticchiello)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 23.jpg" alt="Madonna and Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-23.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, c. 1315, tempera and gold on panel, 68 × 46 cm, Museo diocesano d'arte sacra, Pienza.</figcaption>
 </figure>
 
@@ -902,7 +902,7 @@ This means the currently reconstructed Monticchiello Polyptych spans five known 
 ### Madonna and Child (from Castelnuovo Tancredi)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 24.jpg" alt="Madonna and Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-24.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child (from Castelnuovo Tancredi), c. 1340, tempera and gold on panel, Museo di arte sacra della Val d'Arbia, Buonconvento.</figcaption>
 </figure>
 
@@ -923,7 +923,7 @@ The proposed dating of c. 1340 situates this panel within the same climactic fin
 ### Madonna and Child (from Campriano)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 25.jpg" alt="Madonna and Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-25.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child (from Campriano), tempera and gold on panel, Museo di arte sacra della Val d'Arbia, Buonconvento.</figcaption>
 </figure>
 
@@ -938,7 +938,7 @@ Notably, this panel's gold ground includes carved architectural tracery elements
 ### Nativity of the Virgin
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 26.jpg" alt="Nativity of the Virgin">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-26.jpg" alt="Nativity of the Virgin">
   <figcaption>Nativity of the Virgin, c. 1342, tempera on panel, 187 x 182 cm, Museo dell'Opera del Duomo, Siena.</figcaption>
 </figure>
 
@@ -967,7 +967,7 @@ An intriguing documentary detail connected to this very commission: one probable
 ### Risen Christ
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 27.jpg" alt="Risen Christ">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-27.jpg" alt="Risen Christ">
   <figcaption>Risen Christ, 1336-37, detached fresco mounted on a resin support, 179 × 106 cm, Museo Diocesano d'Arte Sacra (Oratorio di San Bernardino), Siena.</figcaption>
 </figure>
 
@@ -990,7 +990,7 @@ The fresco's iconographic innovation had a documented afterlife in Sienese paint
 ### Madonna with Child (Assisi)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 28.jpg" alt="Madonna with Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-28.jpg" alt="Madonna with Child">
   <figcaption>Madonna with Child, 1335-40, tempera on panel, 70.7 × 44.8 cm, Museo del Tesoro della Basilica di S. Francesco e Collezione F.M. Perkins, Assisi.</figcaption>
 </figure>
 
@@ -1005,7 +1005,7 @@ The dating of c. 1335–1340 places the panel within Lorenzetti's mature-to-late
 ### Saint Margaret of Antioch
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 29.jpg" alt="Saint Margaret of Antioch">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-29.jpg" alt="Saint Margaret of Antioch">
   <figcaption>Saint Margaret of Antioch, 1335-40, tempera on panel, 67 x 45,6 cm, Museo del Tesoro della Basilica di S. Francesco e Collezione F.M. Perkins, Assisi.</figcaption>
 </figure>
 
@@ -1030,7 +1030,7 @@ The proposed dating of 1335–1340 is consistent with the broader Loeser polypty
 ### Maestà di Cortona
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 30.jpg" alt="Madonna with Child Enthroned with Four Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-30.jpg" alt="Madonna with Child Enthroned with Four Angels">
   <figcaption>Maestà di Cortona (Madonna with Child Enthroned with Four Angels), 1315-20, tempera and gold on panel, 126 × 83 cm, Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1060,7 +1060,7 @@ This Maestà represents an important early data point in Lorenzetti's documented
 ### Shaped and Painted Cross
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 31.jpg" alt="Shaped and Painted Cross">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-31.jpg" alt="Shaped and Painted Cross">
   <figcaption>Shaped and Painted Cross, 1315-19, tempera and gold on shaped panel, 380 x 274 cm, Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1079,7 +1079,7 @@ This configuration — God the Father, the Virgin, and John occupying the three 
 ### Small Painted Crucifix
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 32.jpg" alt="Small Painted Crucifix">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-32.jpg" alt="Small Painted Crucifix">
   <figcaption>Small Painted Crucifix, 1315-20, tempera and gold on shaped panel, height: 125 cm, Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1102,7 +1102,7 @@ If this is indeed the museum's "first work" by Lorenzetti for Cortona, as the Wi
 ### Way to Calvary (and collaborators)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 33.jpg" alt="Way to Calvary">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-33.jpg" alt="Way to Calvary">
   <figcaption>Way to Calvary, 1340-50, detached fresco, two fragments (166 × 45 cm and 76 × 84 cm), Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1123,7 +1123,7 @@ The fresco surface has suffered extensive and highly visible damage consistent w
 ### Head of a Saint (and collaborators)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 34.jpg" alt="Way to Calvary">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-34.jpg" alt="Way to Calvary">
   <figcaption>Head of a Saint, 1340-50, detached fresco, 34 x 30 cm, Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1140,7 +1140,7 @@ The powerful plastic modeling of the face, the naturalistic rendering of age, an
 ### Men with ladders, lovers on horseback (and collaborators)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 35.jpg" alt="Men with ladders, lovers on horseback">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-35.jpg" alt="Men with ladders, lovers on horseback">
   <figcaption>Men with ladders, lovers on horseback, 1340-50, detached fresco, 150 × 165 cm, Museo Diocesano, Cortona.</figcaption>
 </figure>
 
@@ -1155,7 +1155,7 @@ The conventional label — *uomini con scala, amanti a cavallo* — is descripti
 ### Madonna and Child with Saints Agnes, Catherine of Alexandria and Angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 36.jpg" alt="Madonna and Child with Saints Agnes, Catherine of Alexandria and Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-36.jpg" alt="Madonna and Child with Saints Agnes, Catherine of Alexandria and Angels">
   <figcaption>Madonna and Child with Saints Agnes, Catherine of Alexandria and Angels, c. 1342, tempera and gold on panel, 55 × 26 cm, Museo Poldi Pezzoli, Milan.</figcaption>
 </figure>
 
@@ -1188,7 +1188,7 @@ Both saints are of royal or noble bearing, crowned, and turned inward toward the
 ### Saint Agatha
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 37.jpg" alt="Saint Agatha">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-37.jpg" alt="Saint Agatha">
   <figcaption>Saint Agatha, c. 1315, tempera and gold on panel, 64,9 × 33,3 cm, Musée de Tessé, Le Mans.</figcaption>
 </figure>
 
@@ -1205,7 +1205,7 @@ The dating of c. 1315 would place this among Pietro Lorenzetti's early works, cl
 ### Portable Triptych: Virgin and Child with Saints, Annunciation and Crucifixion (workshop of)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 38.jpg" alt="Portable Triptych: Virgin and Child with Saints, Annunciation and Crucifixion">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-38.jpg" alt="Portable Triptych: Virgin and Child with Saints, Annunciation and Crucifixion">
   <figcaption>Portable Triptych: Virgin and Child with Saints, Annunciation and Crucifixion, c. 1340, tempera and gold on panel, 44 x 25 cm, Musée des Beaux Arts de Dijon.</figcaption>
 </figure>
 
@@ -1237,7 +1237,7 @@ Overall, the triptych condenses Incarnation, prophetic witness, and Passion into
 ### The Calvary (school of/follower of)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 39.jpg" alt="The Calvary">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-39.jpg" alt="The Calvary">
   <figcaption>The Calvary, 1330-50, tempera and gold on panel, 52 x 22 cm, Musée du Petit Palais, Avignon.</figcaption>
 </figure>
 
@@ -1257,7 +1257,7 @@ This reduced Crucifixion — Christ, mourning angels, and the two grieving witne
 ### Madonna and Child with the Blessing Christ, and Saints Mary Magdalene and Catherine of Alexandria with Angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 40.jpg" alt="Madonna and Child with the Blessing Christ, and Saints Mary Magdalene and Catherine of Alexandria with Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-40.jpg" alt="Madonna and Child with the Blessing Christ, and Saints Mary Magdalene and Catherine of Alexandria with Angels">
   <figcaption>Madonna and Child with the Blessing Christ, and Saints Mary Magdalene and Catherine of Alexandria with Angels, probably 1340, tempera on panel transferred to canvas, National Gallery of Art, Washington.</figcaption>
 </figure>
 
@@ -1288,7 +1288,7 @@ The tooled haloes here are, again, exactly the kind of punch-decoration evidence
 ### Saint Sabinus before the Roman Governor of Tuscany (and collaborators)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 41.jpg" alt="Saint Sabinus before the Roman Governor of Tuscany">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-41.jpg" alt="Saint Sabinus before the Roman Governor of Tuscany">
   <figcaption>Saint Sabinus before the Roman Governor of Tuscany, 1335-42, tempera on panel (probably poplar), 37.7 × 33.2 cm, National Gallery, London.</figcaption>
 </figure>
 
@@ -1311,7 +1311,7 @@ At the left is a cluster of lay figures and attendants: a youth in gold-yellow h
 ### Saint John the Baptist
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 42.jpg" alt="Saint John the Baptist">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-42.jpg" alt="Saint John the Baptist">
   <figcaption>Saint John the Baptist, c. 1329, tempera and gold leaf on panel, 126.4 x 46.7 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 
@@ -1324,7 +1324,7 @@ In the two upper spandrels above the arch, flanking the apex, are two small half
 ### The Prophet Elisha
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 43.jpg" alt="The Prophet Elisha">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-43.jpg" alt="The Prophet Elisha">
   <figcaption>The Prophet Elisha, c. 1329, tempera and gold leaf on panel, 125.7 x 47 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 
@@ -1351,7 +1351,7 @@ In the two upper spandrels flanking the arch's apex are two small half-length an
 ### Madonna with Child (circle of/workshop of)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 44.jpg" alt="Madonna with Child">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-44.jpg" alt="Madonna with Child">
   <figcaption>Madonna with Child, 1330-40, tempera and gold leaf on panel, Palazzo Vecchio, Florence.</figcaption>
 </figure>
 
@@ -1366,7 +1366,7 @@ There are no additional figures, saints, or narrative scenes: the panel is a sel
 ### Virgin and Child Enthroned and a Servite Friar, with Angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 45.jpg" alt="Virgin and Child Enthroned and a Servite Friar, with Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-45.jpg" alt="Virgin and Child Enthroned and a Servite Friar, with Angels">
   <figcaption>Virgin and Child Enthroned and a Servite Friar, with Angels, c. 1319, tempera and tooled gold on panel with vertical grain, Center panel: 123.2 × 70.2 cm; Left side spandrel: 24.8 × 25.1 cm; Right side spandrel: 24.1 × 26 cm, Philadelphia Museum of Art, Philadelphia.</figcaption>
 </figure>
 
@@ -1385,7 +1385,7 @@ The early dating places it among Pietro Lorenzetti's early works, close to the d
 ### Compartment of tabernacle with doors: St. Peter
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 46.jpg" alt="Compartment of tabernacle with doors: St. Peter">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-46.jpg" alt="Compartment of tabernacle with doors: St. Peter">
   <figcaption>Compartment of tabernacle with doors: St. Peter, c. 1329, tempera and gold on cherry wood panel, 78 x 42 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -1398,7 +1398,7 @@ In the two upper corners, against the tooled gold and framed by the red-edged ar
 ### Central compartment of polyptych: Crucifixion
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 47.jpg" alt="Central compartment of polyptych: Crucifixion">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-47.jpg" alt="Central compartment of polyptych: Crucifixion">
   <figcaption>Central compartment of polyptych: Crucifixion, c. 1335, tempera and gold on cherry wood panel, original frame completely regilded, 50,8 x 23,9 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -1425,7 +1425,7 @@ At the very foot of the cross, partly obscured by drapery, is a dark rounded for
 ### Compartment of tabernacle with doors: Saint John the Baptist
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 48.jpg" alt="Compartment of tabernacle with doors: Saint John the Baptist">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-48.jpg" alt="Compartment of tabernacle with doors: Saint John the Baptist">
   <figcaption>Compartment of tabernacle with doors: Saint John the Baptist, c. 1329, tempera and gold on cherry wood panel, 80,2 x 42 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -1436,7 +1436,7 @@ John the Baptist is shown half-length, his head turned slightly, gazing outward 
 ### Jesus before Pilate
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 49.jpg" alt="Jesus before Pilate">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-49.jpg" alt="Jesus before Pilate">
   <figcaption>Jesus before Pilate, c. 1335, tempera and gold on wood panel, 37,8 x 27,4 x 2 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
@@ -1459,7 +1459,7 @@ The scene depicts the Gospel episode of Christ brought before Pilate for judgmen
 ### Virgin and Child Between Saints Paul and Peter
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 50.jpg" alt="Virgin and Child Between Saints Paul and Peter">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-50.jpg" alt="Virgin and Child Between Saints Paul and Peter">
   <figcaption>Virgin and Child Between Saints Paul and Peter, 1310-20, tempera and gold on panel, central panel 69.9 × 38.1 cm; each lateral panel 59.7 × 31.8 cm; overall ensemble 124.1 × 128 cm, Seattle Art Museum, Seattle.</figcaption>
 </figure>
 
@@ -1484,7 +1484,7 @@ The three gables above contain half-length figures against gold:
 ### Saint Humility and Scenes from Her Life (Pala della beata Umiltà)
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 51.jpg" alt="Saint Humility and Scenes from Her Life (Pala della beata Umiltà)">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-51.jpg" alt="Saint Humility and Scenes from Her Life (Pala della beata Umiltà)">
   <figcaption>Saint Humility and Scenes from Her Life (Pala della beata Umiltà), 1335-40, tempera and gold on panel, central panel 128 × 57 cm; each lateral narrative compartment 45 × 32 cm; each surviving pinnacle 51 × 21 cm; and each predella tondo 18 cm in diameter; 257 x 168 cm (assembled), Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -1509,7 +1509,7 @@ Stylistically, the reduction of the gold ground in favour of architectural setti
 ### Virgin and Child enthroned, with angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 52.jpg" alt="Virgin and Child enthroned, with angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-52.jpg" alt="Virgin and Child enthroned, with angels">
   <figcaption>Virgin and Child enthroned, with angels, c. 1340, tempera and gold on panel, 145 x 122 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -1526,7 +1526,7 @@ On the step or pedestal of the throne runs the signature in Gothic brush-letteri
 ### Virgin and Child with Saints Augustine, Nicholas (?), Catherine (?), Lucy, and Angels
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 53.jpg" alt="Virgin and Child with Saints Augustine, Nicholas (?), Catherine (?), Lucy, and Angels">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-53.jpg" alt="Virgin and Child with Saints Augustine, Nicholas (?), Catherine (?), Lucy, and Angels">
   <figcaption>Virgin and Child with Saints Augustine, Nicholas (?), Catherine (?), Lucy, and Angels, 1340-45, tempera and gold on panel, Panel (excluding the added triangular wood at the apex) 38.3 × 25 × 1 cm; painted surface 36.5 × 21.5 cm, The Walters Art Museum, Baltimore.</figcaption>
 </figure>
 
@@ -1550,7 +1550,7 @@ The attribution to Pietro Lorenzetti is the Walters' own, though the panel's ear
 ### Saints Andrew and James (the Greater / the Lesser), with a Prophet
 
 <figure>
-  <img src="/Images/Pietro-Lorenzetti/image 54.jpg" alt="Saints Andrew and James (the Greater / the Lesser), with a Prophet">
+  <img src="/Images/Pietro-Lorenzetti/pietro-lorenzetti-54.jpg" alt="Saints Andrew and James (the Greater / the Lesser), with a Prophet">
   <figcaption>Saints Andrew and James (the Greater / the Lesser), with a Prophet, 1327-29, tempera and gold on panel, Saint Andrew: overall, including modern restorations: 37.4 × 22 cm; picture surface (Saint Andrew): 34.3 × 21.1 cm; Saint James the Greater: overall, including modern restorations: 37.8 × 22.2 cm; picture surface (Saint James the Greater): 34.4 × 21.5 cm; Prophet: overall, including modern restorations: 39.4 × 45.5 cm, Yale University Art Gallery, New Haven.</figcaption>
 </figure>
 

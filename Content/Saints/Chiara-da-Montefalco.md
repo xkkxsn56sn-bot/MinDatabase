@@ -120,7 +120,7 @@ The decisive social phenomenon for *Chiara*'s story is the movement of female pe
 The Church's tendency after the constitution *Periculoso* (1298) was to normalize such groups by imposing enclosure and an approved rule — usually either affiliation to a recognized order or, more flexibly, the Rule of St Augustine, which because of its brevity and generality accommodated a long "experimental" phase of female religious life. This is precisely the trajectory of Chiara's community.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Chiara-da-Montefalco/image 1.jpg" alt="Christ implanting his Cross in the heart of Clare of Montefalco">
+  <img src="/Images/Chiara-da-Montefalco/chiara-da-montefalco-01.jpg" alt="Christ implanting his Cross in the heart of Clare of Montefalco">
   <figcaption>Christ implanting his Cross in the heart of Clare of Montefalco, XIV secolo, fresco, chiesa di Santa Chiara da Montefalco, Montefalco.</figcaption>
 </figure>
 

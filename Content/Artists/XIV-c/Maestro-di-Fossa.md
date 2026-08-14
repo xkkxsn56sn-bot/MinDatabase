@@ -90,7 +90,7 @@ scholars:
 To write the biography of the *Master of Fossa* is, in the strict sense, to write the biography of a body of works rather than of a man. No document names him. No inscription records his hand. Not a single archival trace — no matrícula, no contract, no receipt for pigment or gold — survives to give him a baptismal name, a family, a workshop address, or a date of death. He belongs to that large and haunting category of medieval Italian personalities whom modern connoisseurship has reconstructed entirely from style: an artistic identity assembled by the eye, held together by the recurrence of a manner across panels, frescoes, and painted sculpture, and christened, according to the standard convention of art history, after the place where the work that first defined him happened to be preserved. That place is Fossa, a small village in the Aterno valley a few kilometres south-east of L'Aquila, in the Abruzzo; the work is a carved and painted wooden tabernacle of the Virgin and Child that stood, until 1979, in the isolated Cistercian church of Santa Maria ad Cryptas.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro-di-Fossa/image 4.jpg" alt="church of Santa Maria ad Cryptas">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-04.jpg" alt="church of Santa Maria ad Cryptas">
   <figcaption>church of Santa Maria ad Cryptas, Fossa.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ The object from which the master takes his name is a *tabernacolo mariano* — a
 ### Madonna di Fossa
 
 <figure>
-  <img src="/Images/Maestro-di-Fossa/image 1.jpg" alt="Madonna di Fossa">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-01.jpg" alt="Madonna di Fossa">
   <figcaption>Madonna di Fossa, 1330-40, carved and painted wood, 153 × 60 × 30 cm, Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ The figural group is set within a tabernacle of triangular, rhomboidal plan whos
 It is essential to recognise, however, that this case was originally furnished with two painted wings, folding shutters bearing six scenes from the life of Christ likewise assigned to the Maestro di Fossa (from the left we see the Annunciation, the Adoration of the Magi, and the Presentation in the Temple. On the right we have the Crucifixion, the Flagellation, and the Kiss of Judas); these panels were stolen in January 1979, and of them only the *Presentation in the Temple* has since been recovered and now belongs to the museum. A telling material consequence of the original tabernacle setting is that the back of the Virgin has been cut away flush, a truncation so severe that it distorts the disposition of the arm and the hand resting upon the Child's shoulder, a peculiarity that continues to document the work's function as an enshrined cult image displayed to the faithful on feast days when the shutters were opened.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Maestro-di-Fossa/image 6.jpg" alt="Madonna di Fossa (before theft)">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-06.jpg" alt="Madonna di Fossa (before theft)">
   <figcaption>Madonna di Fossa (before theft), 1330-40, carved and painted wood, from the Catalogo Generale dei Beni Culturali.</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ It is worth registering here a persistent confusion in the popular and touristic
 ### Christ blessing
 
 <figure>
-  <img src="/Images/Maestro-di-Fossa/image 2.jpg" alt="Christ blessing">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-02.jpg" alt="Christ blessing">
   <figcaption>Christ blessing, 1330-40, carved and painted wood, Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ The Maestro di Fossa manner registers a decisive stylistic renewal: the faces of
 ### Presentation at the Temple
 
 <figure>
-  <img src="/Images/Maestro-di-Fossa/image 3.jpg" alt="Presentation at the Temple">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-03.jpg" alt="Presentation at the Temple">
   <figcaption>Presentation at the Temple, 1385–90, carved and painted wood, Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ The artist's manner here shows a slender canon, with refined and expressive head
 ### Madonna di San Silvestro
 
 <figure>
-  <img src="/Images/Maestro-di-Fossa/image 5.jpg" alt="Madonna di San Silvestro">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-05.jpg" alt="Madonna di San Silvestro">
   <figcaption>Madonna and Child Enthroned (Madonna di San Silvestro), c. 1345, carved and painted wood with gilding and applied metal leaf, 155 × 49 × 25 cm, from the church of San Silvestro, L'Aquila, Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ The traditional label "Maestro di Fossa" rests on Costanza Gradara's 1921 readin
 ### St Michael the Archangel with Two Donors
 
 <figure>
-  <img src="/Images/Maestro-di-Fossa/image 7.jpg" alt="St Michael the Archangel with Two Donors">
+  <img src="/Images/Maestro-di-Fossa/maestro-di-fossa-07.jpg" alt="St Michael the Archangel with Two Donors">
   <figcaption>St Michael the Archangel with Two Donors, 1335-45, fresco with gold dust and powdered lapis lazuli, crypt of the church of San Ponziano, Spoleto.</figcaption>
 </figure>
 

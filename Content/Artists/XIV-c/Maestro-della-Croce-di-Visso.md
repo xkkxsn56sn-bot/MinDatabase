@@ -152,7 +152,7 @@ The two scholars who most extended Previtali's edifice were Corrado Fratini and 
 ### Crucifix
 
 <figure>
-  <img src="/Images/Maestro-Croce-di-Visso/image 1.jpg" alt="Crucifix">
+  <img src="/Images/Maestro-Croce-di-Visso/maestro-croce-di-visso-01.jpg" alt="Crucifix">
   <figcaption>Crucifix, 1324–32, carved and polychromed wood, from the collegiate church of Santa Maria, Visso; Museo civico diocesano, Visso.</figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ The sculptural language is distinctive and has been described with some precisio
 Decisive for the character of the work is the fact that carving and painting are not successive and independent operations but complementary phases of a single creative process. As in the polychrome Madonnas of the same milieu, the gesso preparation smooths and softens the carved form, while the pictorial surface — flesh tones, blood, the chromatic and possibly metallic treatment of the perizoma — completes the modelling rather than merely covering it. The image therefore stands at the intersection of two disciplines that modern connoisseurship has habitually separated, and it is precisely this integration that has driven the attributional debate around it.
 
 <figure>
-  <img src="/Images/Maestro-Croce-di-Visso/image 2.jpg" alt="Crucifix">
+  <img src="/Images/Maestro-Croce-di-Visso/maestro-croce-di-visso-02.jpg" alt="Crucifix">
   <figcaption>Crucifix (cropped).</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ The catalogue of the Master of the Cross of Visso is small, entirely unsigned, a
 ### The Crucifix of San Salvatore a Campi
 
 <figure>
-  <img src="/Images/Maestro-Croce-di-Visso/image 3.jpg" alt=The Crucifix of San Salvatore a Campi">
+  <img src="/Images/Maestro-Croce-di-Visso/maestro-croce-di-visso-03.jpg" alt=The Crucifix of San Salvatore a Campi">
   <figcaption>The Crucifix of San Salvatore a Campi, 1330-40, carved and polychromed wood (corpus); tempera on panel (painted terminal tablets), from the church of San Salvatore, Campi di Norcia; Museo Diocesano, Spoleto.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ The work's later history is bound up with the fragility of its region. Removed f
 ### The Crucifix of San Domenico, Spoleto
 
 <figure>
-  <img src="/Images/Maestro-Croce-di-Visso/image 4.jpg" alt="The Crucifix of San Salvatore a Campi">
+  <img src="/Images/Maestro-Croce-di-Visso/maestro-croce-di-visso-04.jpg" alt="The Crucifix of San Salvatore a Campi">
   <figcaption>The Crucifix of San Domenico, 1330-40, carved and polychromed wood (corpus), church of San Domenico, Spoleto.</figcaption>
 </figure>
 

@@ -146,7 +146,7 @@ The cause of death is entirely unknown and cannot be reconstructed from extant r
 ### Madonna of Montevergine
 
 <figure>
-  <img src="/Images/Montano Arezzo/image 1.jpg" alt="Madonna of Montevergine">
+  <img src="/Images/Montano-Arezzo/montano-arezzo-01.jpg" alt="Madonna of Montevergine">
   <figcaption>Madonna of Montevergine, 1296-1310, tempera and gold leaf on panel, 231 x 99 cm, Santuario di Montevergine, Mercogliano.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ Montano d’Arezzo worked during a crucial transitional period between the rigid
 ### Nativity of Jesus
 
 <figure>
-  <img src="/Images/Montano Arezzo/image 2.jpg" alt="Nativity of Jesus">
+  <img src="/Images/Montano-Arezzo/montano-arezzo-02.jpg" alt="Nativity of Jesus">
   <figcaption>Nativity of Jesus, c. 1306, fresco, basilica di San Lorenzo Maggiore, Naples.</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ The frescoes are today in a state of partial preservation: large gaps, fallen pl
 ### Dormitio Virginis
 
 <figure>
-  <img src="/Images/Montano Arezzo/image 3.jpg" alt="Dormitio Virginis">
+  <img src="/Images/Montano-Arezzo/montano-arezzo-03.jpg" alt="Dormitio Virginis">
   <figcaption>Dormitio Virginis, c. 1306, fresco, basilica di San Lorenzo Maggiore, Naples.</figcaption>
 </figure>
 

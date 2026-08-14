@@ -234,7 +234,7 @@ The approximate duration of Sozio's career and potential age at death can be est
 ### Christus Triumphans
 
 <figure>
-  <img src="/Images/Alberto Sozio/image 1.jpg" alt="Croce di Spoleto">
+  <img src="/Images/Alberto-Sozio/alberto-sozio-01.jpg" alt="Croce di Spoleto">
   <figcaption>Christus Triumphans, 1187, tempera on parchment applied to poplar and walnut panel, 278 x 200 cm, Spoleto Cathedral.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ The technique employed for these frescoes follows the buon fresco method, in whi
 ### Martyrdom of Saint Thomas Becket
 
 <figure>
-  <img src="/Images/Alberto Sozio/image 2.jpg" alt="Martyrdom of Saint Thomas Becket">
+  <img src="/Images/Alberto-Sozio/alberto-sozio-02.jpg" alt="Martyrdom of Saint Thomas Becket">
   <figcaption>Martyrdom of Saint Thomas Becket, 1173-74, fresco, Church of saints John and Paul, Spoleto.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ The dating of these frescoes relative to the signed crucifix remains debated, th
 ### Mary Queen of Heaven
 
 <figure>
-  <img src="/Images/Alberto Sozio/image 3.jpg" alt="Virgin Mary (fragment)">
+  <img src="/Images/Alberto-Sozio/alberto-sozio-03.jpg" alt="Virgin Mary (fragment)">
   <figcaption>Mary Queen of Heaven, c. 1187, tempera on parchment applied to walnut panel, 32.5 x 35.5 cm, Pinacoteca di Brera, Milan.</figcaption>
 </figure>
 

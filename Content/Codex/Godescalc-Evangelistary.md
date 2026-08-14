@@ -137,7 +137,7 @@ Koehler's full treatment of the manuscript appeared only at the very end of his 
 The Godescalc Evangelistary stands as a monumental artifact of the early Carolingian period, representing a pivotal moment in the history of European book arts and religious culture. It is an illuminated manuscript classified as an evangelistary, a type of liturgical book that contains the designated Gospel readings for each Sunday and feast day throughout the liturgical year. Its creation marks one of the first major commissions undertaken by the young Carolingian Empire under the rule of Charlemagne<a href="/endnotes.html#fn-charlemagne" class="footnote"><sup>1</sup></a>, signaling a deliberate and ambitious cultural program aimed at consolidating imperial authority through the medium of the sacred text. The manuscript is identified by its modern catalog number, Paris, Bibliothèque Nationale de France, Nouvelles acquisitions latines 1203 (NAL 1203), a designation that anchors it within the vast corpus of surviving medieval manuscripts. The work’s date of execution is firmly established by scholarly consensus as falling between the years 781 and 783 CE. This timeframe is of profound historical significance, as it immediately follows Charlemagne's coronation as Emperor of the Romans by Pope Leo III<a href="/endnotes.html#fn-leo-iii" class="footnote"><sup>2</sup></a> in Rome on Christmas Day, 781. The manuscript was therefore conceived and produced during a period of intense political and religious realignment, a time when Charlemagne was actively constructing a new image of empire that sought to blend Frankish kingship with the legacy of the Christian Roman Empire. The choice of this specific moment for such a lavish commission underscores its symbolic weight as a tool of propaganda and legitimation.
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 7.jpg" alt="The Christmas Pericopes of the Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-07.jpg" alt="The Christmas Pericopes of the Godescalc Evangelistary">
   <figcaption>The Christmas Pericopes of the Godescalc Evangelistary - folio 3r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ Two textual points are worthy of attention:
 ### Christ in Majesty
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 1.jpg" alt="Christ in Majesty in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-01.jpg" alt="Christ in Majesty in Godescalc Evangelistary">
   <figcaption>Christ in Majesty - folio 3r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ Codicologically, the Godescalc Evangelistary is a masterpiece of luxury book pro
 ### Fountain of Life
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 2.jpg" alt="Fountain of Life in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-02.jpg" alt="Fountain of Life in Godescalc Evangelistary">
   <figcaption>Fountain of Life - folio 3v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ The manuscript opens with a dedicatory poem composed by its scribe, Godescalc, w
 ### The Evangelist Matthew
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 3.jpg" alt="Matthew in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-03.jpg" alt="Matthew in Godescalc Evangelistary">
   <figcaption>The Evangelist Matthew - folio 1r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ The artistic program of the Godescalc Evangelistary is a remarkable synthesis of
 ### The Evangelist Mark
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 4.jpg" alt="Mark in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-04.jpg" alt="Mark in Godescalc Evangelistary">
   <figcaption>The Evangelist Mark - folio 1v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ The manuscript's creation coincided with a period of significant liturgical chan
 ### The Evangelist Luke
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 5.jpg" alt="Luke in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-05.jpg" alt="Luke in Godescalc Evangelistary">
   <figcaption>The Evangelist Luke - folio 2r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ Queen Hildegard's role as a co-patron is equally crucial to the manuscript's mea
 ### The Evangelist John
 
 <figure>
-  <img src="/Images/Godescalc Evangelistary/image 6.jpg" alt="John in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-06.jpg" alt="John in Godescalc Evangelistary">
   <figcaption>The Evangelist John - folio 2v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 

@@ -182,7 +182,7 @@ The Valdera, with Peccioli as a key point, provides the third major zone in the 
 ### San Verano between Two Angels and Six Stories from His Life
 
 <figure>
-  <img src="/Images/Maestro della Croce di Castelfiorentino/image 1.jpg" alt="San Verano between Two Angels and Six Stories from His Life">
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-01.jpg" alt="San Verano between Two Angels and Six Stories from His Life">
   <figcaption>San Verano between Two Angels and Six Stories from His Life, c. 1275, tempera on panel, 152 x 97 cm, Pinacoteca di Brera, Milano.</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ The work is a valuable document of pre-Giottesque Tuscan painting, from that tra
 ### Madonna and Child between Saints Martin and John the Evangelist
 
 <figure>
-  <img src="/Images/Maestro della Croce di Castelfiorentino/image 2.jpg" alt="Madonna and Child between Saints Martin and John the Evangelist">
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-02.jpg" alt="Madonna and Child between Saints Martin and John the Evangelist">
   <figcaption>Madonna and Child between Saints Martin and John the Evangelist (Madonna del Latte), 1250-74, tempera and gold leaf on panel, 92 x 128 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ The tempera on panel with a gold ground is executed in the tradition of 13th-cen
 ### Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels
 
 <figure>
-  <img src="/Images/Maestro della Croce di Castelfiorentino/image 3.jpg" alt="Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels">
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-03.jpg" alt="Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels">
   <figcaption>Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels, 1250-74, tempera and gold leaf on panel, 152 x 140,5 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
 </figure>
 

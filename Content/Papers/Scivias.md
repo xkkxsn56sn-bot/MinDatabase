@@ -113,7 +113,7 @@ The composition process extended over more than a decade, beginning when Hildega
 Each vision follows a consistent pattern in which Hildegard first describes what she observed in her mystical experience, followed by detailed explanations that she attributed to the voice of heaven, creating a dialogue between human perception and divine revelation. The manuscript tradition includes thirty-five remarkable illuminated miniatures that visually represent the complex theological concepts and cosmic imagery described in the text, though scholarly debate continues regarding Hildegard's direct involvement in their creation. The work's completion coincided with Hildegard's establishment of her independent convent at Rupertsberg in 1150, marking both the culmination of her literary achievement and the beginning of her emergence as a major ecclesiastical authority. Scivias demonstrates remarkable theological sophistication in its integration of biblical exegesis, patristic theology, and contemporary mystical traditions, while presenting a uniquely feminine perspective on divine revelation that challenged conventional clerical authority. The work's enduring significance lies not only in its innovative approach to visionary literature but also in its contribution to the development of medieval cosmology, ecclesiology, and spiritual theology during a crucial period of Church reform and intellectual transformation
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Scivias/image 1.jpg" alt="Ruins of Rupertsberg Monastery" loading="lazy" decoding="async" />
+  <img src="/Images/Scivias/scivias-01.jpg" alt="Ruins of Rupertsberg Monastery" loading="lazy" decoding="async" />
   <figcaption>Ruins of Rupertsberg Monastery.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ The artistic program demonstrates remarkable innovation in its representation of
 The frontispiece illustration depicting Hildegard sketching on a wax tablet while dictating to Volmar suggests the collaborative nature of the work's production while emphasizing the authenticity of the visionary experience as the source of both textual and visual content. The tragic loss of the original manuscript during World War II, when it disappeared from Dresden in 1945, represents one of the most significant losses in medieval manuscript heritage; though, fortunately, a hand-painted facsimile from the 1900s preserves the visual legacy of this extraordinary work. The survival and influence of these images in modern times, particularly their impact on Carl Jung's psychological theories and their continued reproduction in contemporary spiritual and artistic contexts, demonstrate the enduring power of Hildegard's visual imagination. The integration of text and image in Scivias establishes a new paradigm for illustrated theological manuscripts that would influence the development of illuminated religious texts throughout the later Middle Ages. The work's multimedia approach to theological communication anticipates modern understanding of the importance of visual culture in religious education and spiritual formation.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Scivias/image 2.jpg" alt="Plate 1 - The Visionary">
+  <img src="/Images/Scivias/scivias-02.jpg" alt="Plate 1 - The Visionary">
   <figcaption>Plate 1 - The Visionary, from the Rupertsberg Codex of Liber Scivias ("Know the Ways").</figcaption>
 </figure>
 

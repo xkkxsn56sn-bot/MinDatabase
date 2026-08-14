@@ -141,7 +141,7 @@ The question of whether the Primo Maestro undertook any travel beyond the centra
 The surviving body of work attributable to the Primo Maestro di Anagni is concentrated almost entirely in the Crypt of San Magno beneath the Cathedral of Santa Maria Assunta at Anagni (Frosinone, Lazio), a three-naved subterranean space covering approximately 540 square metres that is justifiably celebrated as one of the greatest ensembles of medieval painting in Italy and sometimes, with pardonable hyperbole, as the "Sistine Chapel of the Middle Ages". The frescoes of the crypt were executed under the patronage of the episcopal see of Anagni, most probably Bishop Pietro da Salerno (c. 1072–1104) for the Primo Maestro's contribution according to Boskovits, or Bishop Alberto (active 1231–1255) according to the older conventional dating, and have remained in their original architectural context, constituting one of the rare instances in which a complete medieval pictorial programme survives essentially intact, catalogued by the Italian Ministero della Cultura and accessible to the public under the care of the cathedral chapter.
 
 <figure>
-  <img src="/Images/Primo Maestro di Anagni/image 1.jpg" alt="The Translation of Saint Magnus">
+  <img src="/Images/Primo-Maestro-di-Anagni/primo-maestro-di-anagni-01.jpg" alt="The Translation of Saint Magnus">
   <figcaption>The Translation of Saint Magnus, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ The group of women on the right is one of the most extraordinary and controversi
 According to Romanesque art critics, this group represents one of the very first examples in medieval Italian painting in which women are depicted as a group, as a cohesive social entity, present at a public and civil-religious event: “in the history of Italian painting, this is perhaps the first case in which the fair sex, understood as a group, as an entity, as a social reality, is represented in the square, at a public event.” From an iconographic point of view, the women in the crypt of Anagni are also linked to the cult of local saints: Secondina (baptized by St. Magnus himself), and her companions Aurelia and Noemisia, whose relics were kept in the left apse of the same crypt. It cannot be ruled out that the painter intended them to represent the entire female community of Anagni welcoming its patron saint.
 
 <figure>
-  <img src="/Images/Primo Maestro di Anagni/image 2.jpg" alt="Galen and Hippokrates">
+  <img src="/Images/Primo-Maestro-di-Anagni/primo-maestro-di-anagni-02.jpg" alt="Galen and Hippokrates">
   <figcaption>Galen and Hippokrates, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ The inscription that runs along the frame of the upper arch is:
 This inscription directly expresses the theory of the four humors (blood, yellow bile, black bile, phlegm), the foundation of Hippocratic-Galenic medicine, applied to the cycle of human life.
 
 <figure>
-  <img src="/Images/Primo Maestro di Anagni/image 3.jpg" alt="Vision of Christ in the Apocalypse">
+  <img src="/Images/Primo-Maestro-di-Anagni/primo-maestro-di-anagni-03.jpg" alt="Vision of Christ in the Apocalypse">
   <figcaption>Vision of Christ in the Apocalypse, c. 1231-55, fresco, Crypt of San Magno, Anagni Cathedral.</figcaption>
 </figure>
 

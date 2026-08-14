@@ -235,7 +235,7 @@ The Primerana Master died around 1270. No document records the circumstances or 
 ### Eponymous Madonna con Bambino e due angeli
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 1.jpg" alt="Eponymous Madonna con Bambino e due angeli">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-01.jpg" alt="Eponymous Madonna con Bambino e due angeli">
   <figcaption>Eponymous Madonna con Bambino e due angeli, 1260-70, tempera, silver and gold on panel, 109 × 61.5 cm, church of Santa Maria Primerana, Fiesole.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ The work is executed in tempera on panel, enriched by the skillful use of gold a
 ### The Princeton Triptych
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 2.jpg" alt="The Princeton Triptych">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-02.jpg" alt="The Princeton Triptych">
   <figcaption>The Princeton Triptych (Madonna and Child, Annunciation, Flagellation, Crucifixion), 1240-70, tempera on panel, 42.2 × 52.2 × 5.5 cm, Princeton University Art Museum, Princeton.</figcaption>
 </figure>
 
@@ -278,14 +278,14 @@ Given its portable format, modest dimensions, and the nature of the subject, it 
 ### The Cini Crucifix (Christus patiens)
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 3.jpg" alt="The Cini Crucifix (Christus patiens)">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-03.jpg" alt="The Cini Crucifix (Christus patiens)">
   <figcaption>The Cini Crucifix (Christus patiens), 1250-60, tempera and silver on panel, 58,5 x 41,4 cm, Fondazione Giorgio Cini, Venice.</figcaption>
 </figure>
 
 ### The Cini Crucifix (Christus triumphans)
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 4.jpg" alt="The Cini Crucifix (Christus triumphans)">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-04.jpg" alt="The Cini Crucifix (Christus triumphans)">
   <figcaption>The Cini Crucifix (Christus triumphans), 1250-60, tempera and silver on panel, 58,5 x 41,4 cm, Fondazione Giorgio Cini, Venice.</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ The painted surface is distinguished by its lightness, devoid of the rich layeri
 ### The Bandini Crucifix
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 5.jpg" alt="The Bandini Crucifix">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-05.jpg" alt="The Bandini Crucifix">
   <figcaption>Christ on the Cross, Madonna, Saint John the Evangelist, Prophets, Madonna among Angels (Bandini Crucifix), after 1250, tempera and gold on panel, 146 x 110 cm, Museo Bandini, Fiesole.</figcaption>
 </figure>
 
@@ -323,7 +323,7 @@ This highly structured iconographic program—Christ triumphant, the Sorrowing V
 ### Pistoia Saint Francis Retable
 
 <figure>
-  <img src="/Images/Maestro di Santa Primerana/image 6.jpg" alt="Pistoia Saint Francis Retable">
+  <img src="/Images/Maestro-di-Santa-Primerana/maestro-di-santa-primerana-06.jpg" alt="Pistoia Saint Francis Retable">
   <figcaption>Saint Francis and Eight Stories from His Life (Pistoia Saint Francis Retable), 1250-60, tempera and gold on panel, 160 x 132 cm, Museo Civico, Pistoia.</figcaption>
 </figure>
 

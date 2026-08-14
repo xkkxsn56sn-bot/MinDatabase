@@ -214,7 +214,7 @@ The Treccani *Enciclopedia dell'Arte Medievale* characterizes the Cecilia Master
 ### Saint Cecilia and stories from her life
 
 <figure>
-  <img src="/Images/Maestro di Santa Cecilia/image 1.jpg" alt="Saint Cecilia and stories from her life">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-01.jpg" alt="Saint Cecilia and stories from her life">
   <figcaption>Saint Cecilia and stories from her life, 1305-10, tempera and gold on panel, 85 x 181 cm, Galleria degli Uffizi, Florence.</figcaption>
 </figure>
 
@@ -247,7 +247,7 @@ The Torture in the Stove (Steam Bath). Almachio, failing to make her renounce he
 ### Saint Margaret of Antioch and stories from her life
 
 <figure>
-  <img src="/Images/Maestro di Santa Cecilia/image 2.jpg" alt="Saint Margaret of Antioch and stories from her life">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-02.jpg" alt="Saint Margaret of Antioch and stories from her life">
   <figcaption>Saint Margaret of Antioch and stories from her life, 1300s, tempera and gold on panel, 130 x 163 cm, Santa Margherita a Montici, Arcetri.</figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ The panel is an exceptional document of the transitional period between the Byza
 ### Madonna and Child Enthroned with Saint Francis
 
 <figure>
-  <img src="/Images/Maestro di Santa Cecilia/image 3.jpg" alt="Madonna and Child Enthroned with Saint Francis">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-03.jpg" alt="Madonna and Child Enthroned with Saint Francis">
   <figcaption>Madonna and Child Enthroned with Saint Francis, c. 1315, tempera and gold on panel, 126,4 x 68,9 cm, Norton Simon Museum, Pasadena.</figcaption>
 </figure>
 
@@ -295,7 +295,7 @@ This panel is an excellent example of early 14th-century Florentine panel painti
 ### Saint Peter Enthroned
 
 <figure>
-  <img src="/Images/Maestro di Santa Cecilia/image 4.jpg" alt="Saint Peter Enthroned">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-04.jpg" alt="Saint Peter Enthroned">
   <figcaption>Saint Peter Enthroned, 1307, tempera and gold on panel, church of Santi Simone e Giuda, Florence.</figcaption>
 </figure>
 

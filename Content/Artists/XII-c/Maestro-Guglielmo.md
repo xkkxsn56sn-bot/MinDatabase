@@ -265,7 +265,7 @@ The twentieth-century separation of the Solimena canvas from the cross and the s
 ### The Sarzana Cross
 
 <figure>
- <img src="/Images/Maestro Guglielmo/image 1.jpg" alt="The Sarzana Cross">
+ <img src="/Images/Maestro-Guglielmo/maestro-guglielmo-01.jpg" alt="The Sarzana Cross">
  <figcaption>The Sarzana Cross, 1138, tempera on chestnut wood, 299 × 214 cm, Cathedral of Santa Maria Assunta, Sarzana.</figcaption>
 </figure>
 

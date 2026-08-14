@@ -113,7 +113,7 @@ Previtali's method here was pure Morellian-Longhian connoisseurship: he grouped 
 ### Saint Catherine of Alexandria
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 4.jpg" alt="Saint Catherine of Alexandria">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-04.jpg" alt="Saint Catherine of Alexandria">
   <figcaption>Saint Catherine of Alexandria, 1335–40, carved polychromed wood, 139 x 31 cm, Private Collection, Turin.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Its provenance runs through the collection of the industrialist and financier Ri
 ### Enthroned Madonna with Christ Child
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 1.jpg" alt="Enthroned Madonna with Christ Child">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-01.jpg" alt="Enthroned Madonna with Christ Child">
   <figcaption>Enthroned Madonna with Christ Child, first half of the 14th century, carved polychromed wood, Museo Nazionale d'Abruzzo (MuNDA), L'Aquila.</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ The state of conservation conditions any reading of the work. The gesso ground a
 ### Enthroned Madonna with Christ
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 2.jpg" alt="Enthroned Madonna with Christ">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-02.jpg" alt="Enthroned Madonna with Christ">
   <figcaption>Enthroned Madonna with Christ, first half of the 14th century, carved polychromed wood, Basilica Cattedrale di Santa Maria Assunta, Teramo.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ The question of the master's formation remains genuinely open, and the Teramo Ma
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 3.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-03.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1320-30, carved polychromed wood, 136 x 40 x 34 cm, Collezione Cerruti, Rivoli, Turin.</figcaption>
 </figure>
 
@@ -199,7 +199,7 @@ The reference to the Master of the Santa Caterina Gualino has not, so far as I c
 ### Madonna and Child (National Museums of Scotland)
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 5.jpg" alt="Madonna and Child">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-05.jpg" alt="Madonna and Child">
   <figcaption>Madonna and Child, 1315-45, carved poplar wood with gesso and bearing traces of pigment and gilding, 133 x 38 cm, National Museums of Scotland, Edinburgh.</figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ This is the crucial point for anyone writing on the group today. The name remain
 ### Saint Agnes
 
 <figure>
-  <img src="/Images/Maestro-Santa-Caterina-Gualino/image 6.jpg" alt="Saint Agnes">
+  <img src="/Images/Maestro-Santa-Caterina-Gualino/maestro-santa-caterina-gualino-06.jpg" alt="Saint Agnes">
   <figcaption>Saint Agnes, c. 1315, carved, polychromed and gilded poplar wood, 131.4 x 27.3 x 18.7 cm, Isabella Stewart Gardner Museum, Boston.</figcaption>
 </figure>
 
