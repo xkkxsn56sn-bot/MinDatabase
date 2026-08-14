@@ -213,48 +213,86 @@ def parse_frontmatter(text):
     return data, None
 
 
-# --- Check 8: ancore alle note ------------------------------------------
-# I due contenitori di note del sito. Ogni voce e' un <li id="fn-...">.
+# --- Check 8: ancore ai contenitori del sito ----------------------------
+# Il sito ha tre pagine-contenitore a cui le schede rimandano per ancora:
+#   endnotes.html, ancient-world.html  -> note, ogni voce e' <li id="fn-...">
+#   scholars.html                      -> studiosi, ogni voce e' un elemento
+#                                         di classe 'scholar-entry' con id
+#                                         '<cognome>-<nome>'
+# In scholars.html vanno ignorati i raggruppamenti alfabetici (.scholar-section)
+# e gli id di interfaccia come themeToggle: non sono voci.
 NOTE_FILES = ("endnotes.html", "ancient-world.html")
+SCHOLAR_FILE = "scholars.html"
+ANCHOR_FILES = NOTE_FILES + (SCHOLAR_FILE,)
 
 # Forma canonica di un rimando: /endnotes.html#fn-qualcosa
 # Il path relativo (../../endnotes.html) funziona ma dipende dalla profondita'
 # della cartella, quindi si rompe a ogni riorganizzazione: e' vietato.
-FN_LINK_RE = re.compile(r'([^\s"\'()<>]*)#(fn-[A-Za-z0-9_.-]+)')
+# Solo i rimandi che nominano uno dei contenitori sono di competenza di questo
+# check; le ancore interne a una pagina restano fuori.
+FN_LINK_RE = re.compile(
+    r'([^\s"\'()<>]*(?:endnotes|ancient-world|scholars)\.html)#([A-Za-z0-9_.\-]+)'
+)
 
 NOTE_ID_RE = re.compile(r'<li[^>]*\bid="(fn-[^"]+)"')
 NOTE_TITLE_RE = re.compile(r'endnotes-list__item-title')
 
+# Tag di apertura generico, poi si ispezionano gli attributi: cosi' l'ordine
+# fra class e id non conta.
+TAG_RE = re.compile(r'<(?:div|li|section|article)\b([^>]*)>')
+CLASS_ATTR_RE = re.compile(r'\bclass="([^"]*)"')
+ID_ATTR_RE = re.compile(r'\bid="([^"]*)"')
 
-def load_note_ids(anomalies):
-    """Legge i contenitori di note.
 
-    Restituisce {nome_file: set_di_id}. Segnala per strada due difetti
-    strutturali che nessun altro controllo intercetta:
-      - id duplicati: l'ancora risolve sempre alla prima occorrenza, quindi
-        la seconda voce e' irraggiungibile pur esistendo (caso fn-clement-v);
-      - voci con un numero di <h3> diverso da uno: titolo ripetuto per
-        copia-incolla, oppure voce priva di titolo (caso dei dogi).
+def extract_scholar_ids(text):
+    """Restituisce la lista degli id delle voci di scholars.html, in ordine."""
+    found = []
+    for attrs in TAG_RE.findall(text):
+        class_m = CLASS_ATTR_RE.search(attrs)
+        if not class_m or "scholar-entry" not in class_m.group(1).split():
+            continue
+        id_m = ID_ATTR_RE.search(attrs)
+        if id_m:
+            found.append(id_m.group(1))
+    return found
+
+
+def load_anchor_ids(anomalies):
+    """Legge i tre contenitori e restituisce {nome_file: set_di_id}.
+
+    Segnala per strada difetti strutturali che nessun altro controllo vede:
+      - id duplicati: l'ancora risolve sempre alla prima occorrenza, quindi la
+        seconda voce e' irraggiungibile pur esistendo (caso fn-clement-v);
+      - nelle sole note, voci con un numero di <h3> diverso da uno: titolo
+        ripetuto per copia-incolla, o voce priva di titolo (caso dei dogi).
+        Le voci di scholars.html hanno struttura diversa e sono escluse.
     """
     ids_by_file = {}
 
-    for fname in NOTE_FILES:
+    for fname in ANCHOR_FILES:
         path = REPO_ROOT / fname
         if not path.exists():
-            anomalies["File di note mancante"].append(fname)
+            anomalies["Contenitore di ancore mancante"].append(fname)
             ids_by_file[fname] = set()
             continue
 
         text = path.read_text(encoding="utf-8")
 
-        found = NOTE_ID_RE.findall(text)
+        if fname == SCHOLAR_FILE:
+            found = extract_scholar_ids(text)
+        else:
+            found = NOTE_ID_RE.findall(text)
+
         ids_by_file[fname] = set(found)
 
-        for note_id, count in Counter(found).items():
+        for anchor_id, count in Counter(found).items():
             if count > 1:
-                anomalies["id di nota duplicato"].append(
-                    f"{fname}: '{note_id}' definito {count} volte"
+                anomalies["id duplicato in un contenitore"].append(
+                    f"{fname}: '{anchor_id}' definito {count} volte"
                 )
+
+        if fname not in NOTE_FILES:
+            continue
 
         # Conteggio dei titoli entro ciascun <li id="fn-...">.
         current_id = None
@@ -284,20 +322,20 @@ def load_note_ids(anomalies):
     return ids_by_file
 
 
-def check_note_anchors(md_files, ids_by_file, anomalies):
-    """Verifica ogni rimando #fn-... presente nei .md.
+def check_anchor_links(md_files, ids_by_file, anomalies):
+    """Verifica ogni rimando a un contenitore presente nei .md.
 
     Due controlli distinti, perche' due bug diversi:
       - forma del path: deve essere '/<file>.html', non un relativo con '../'
-        (che dipende dalla profondita' della cartella) ne' un frammento nudo;
-      - esistenza dell'ancora NEL FILE INDICATO: i contenitori sono due, e un
-        link puo' puntare a quello sbagliato pur nominando un id esistente
-        altrove (caso fn-dietrich-ii-meissen).
+        (che dipende dalla profondita' della cartella);
+      - esistenza dell'ancora NEL FILE INDICATO: i contenitori sono tre, e un
+        link puo' nominare un id reale ma cercarlo nel file sbagliato
+        (caso fn-dietrich-ii-meissen).
 
     Il confronto sugli id e' esatto, mai per sottostringa: 'fn-clement-viii'
     contiene 'fn-clement-v' e un match parziale li confonderebbe.
     """
-    canonical = {f"/{name}" for name in NOTE_FILES}
+    canonical = {f"/{name}" for name in ANCHOR_FILES}
 
     for md_path in md_files:
         try:
@@ -314,7 +352,7 @@ def check_note_anchors(md_files, ids_by_file, anomalies):
             seen.add((link_path, anchor))
 
             if link_path not in canonical:
-                anomalies["Rimando a nota in forma non canonica"].append(
+                anomalies["Rimando a contenitore in forma non canonica"].append(
                     f"{rel_src}: '{link_path}#{anchor}' "
                     f"(attesa una fra {', '.join(sorted(canonical))})"
                 )
@@ -322,9 +360,9 @@ def check_note_anchors(md_files, ids_by_file, anomalies):
 
             fname = link_path.lstrip("/")
             if anchor not in ids_by_file.get(fname, set()):
-                other = [f for f in NOTE_FILES if anchor in ids_by_file.get(f, set())]
+                other = [f for f in ANCHOR_FILES if anchor in ids_by_file.get(f, set())]
                 hint = f" (definita invece in {other[0]})" if other else ""
-                anomalies["Ancora di nota inesistente"].append(
+                anomalies["Ancora inesistente"].append(
                     f"{rel_src}: '{anchor}' non trovata in {fname}{hint}"
                 )
 
@@ -487,8 +525,8 @@ def main():
 
     check_md_outgoing_links(all_md, anomalies)
 
-    ids_by_file = load_note_ids(anomalies)
-    check_note_anchors(all_md, ids_by_file, anomalies)
+    ids_by_file = load_anchor_ids(anomalies)
+    check_anchor_links(all_md, ids_by_file, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
