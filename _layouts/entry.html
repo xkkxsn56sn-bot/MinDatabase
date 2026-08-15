@@ -162,7 +162,10 @@
       endcomment -%} {%- assign has_saints_page = false -%} {%- for nav_page in
       site.pages -%} {%- if nav_page.url == '/saints.html' -%} {%- assign
       has_saints_page = true -%} {%- break -%} {%- endif -%} {%- endfor -%} {%-
-      if page.url contains '/Content/Churches/' -%} {%- assign back_url =
+      if page.url == '/glossary/' or page.url == '/dating-systems/' -%} {%-
+      assign back_url = '/index.html' -%} {%- assign back_label = 'Back to
+      Home' -%} {%- elsif page.url contains
+      '/Content/Churches/' -%} {%- assign back_url =
       '/churches.html' -%} {%- assign back_label = 'Back to Churches' -%} {%-
       elsif page.url contains '/Content/Codex/' -%} {%- assign back_url =
       '/codices.html' -%} {%- assign back_label = 'Back to Codices' -%} {%-
