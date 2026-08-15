@@ -54,16 +54,19 @@ def extract_nav_block(text, source):
 
 def normalize_href(href):
     """
-    Riduce un href al solo nome del file di destinazione.
+    Riduce un href al solo nome del file di destinazione, ignorando lo slash finale.
 
     Riconosce sia i letterali (index.html, /index.html) sia i filtri Liquid
-    ({{ '/index.html' | relative_url }}).
+    ({{ '/index.html' | relative_url }}). Un href puo' finire con '/'
+    (glossary/, /dating-systems/): senza il rstrip lo split restituirebbe
+    stringa vuota, e il confronto fra due voci diverse passerebbe perche'
+    entrambe collassano a ''.
     """
     href = href.strip()
     liquid = re.search(r"""['"]([^'"]+)['"]""", href)
     if liquid:
         href = liquid.group(1)
-    return href.lstrip("/").split("/")[-1]
+    return href.lstrip("/").rstrip("/").split("/")[-1]
 
 
 def extract_entries(text, source):
