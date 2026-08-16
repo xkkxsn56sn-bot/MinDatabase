@@ -21,6 +21,7 @@ exclude:
   - .gitignore
   - README.md
   - newsletter_subscribers.csv
+  - drafts/
 
 # Jekyll Plugins
 plugins:
