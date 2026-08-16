@@ -171,7 +171,7 @@ The four prophets occupy the diagonal quadrants, each set within a large circula
 
 The four Evangelist symbols, by contrast, are compressed into smaller roundels on the axes, each winged, nimbed, and shown half-length holding or supporting a book: the eagle of John at the summit, the lion of Mark at the left, the ox of Luke at the right, and the angel of Matthew at the base. Their placement — John crowning the composition, Matthew beneath the feet of Christ — is not the canonical Gospel order but a hierarchical one, elevating the evangelist of the Logos to the vertical axis above the enthroned Word.
 
-#### Iconographic reading
+- Iconographic reading
 
 The page constructs a fourfold-by-fourfold concordance. The tetramorph derives ultimately from the theophany of Ezekiel 1:4–14 and its Johannine recasting in Revelation 4:6–8, and its association with the four Evangelists is patristic commonplace by the Carolingian period. What distinguishes this composition is the deliberate pairing of that quartet with the four major prophets, so that the Old Covenant witnesses occupy the outer, diagonal positions and the New Covenant witnesses the cardinal ones. The arrangement stages an exegetical argument in purely spatial terms: prophecy encircles and prepares, the Gospel converges upon and confirms, and both radiate from the enthroned Christ who is the object of the one and the subject of the other. The prophets write turned inward, their gaze directed toward the mandorla; the symbols face outward. Revelation is thus shown moving from promise to fulfilment to proclamation along a single centrifugal axis.
 
@@ -192,7 +192,7 @@ Within this frame stand two large angels on a green ground broken by a low rocky
 
 They present a rectangular tabula, itself doubly framed: an outer purple band bearing a delicate white foliate scroll, and within it fourteen horizontal ruled compartments of purple, each carrying a line of gold rustic capitals. The gold has oxidised and abraded unevenly, and in reproduction much of the text is legible only in part.
 
-#### The inscription
+- The inscription
 
 The verses are dedicatory or explanatory, glossing the image on the facing page and the purpose of the book. What can be made out with reasonable confidence, with lacunae marked, runs *approximately*:
 
@@ -200,7 +200,7 @@ The verses are dedicatory or explanatory, glossing the image on the facing page 
 
 The sense, so far as it can be recovered, appears to be: at the front of the book the King is enthroned, placed first because no servant goes before his lord; God is King of all kings; whoever wishes to be joined and made a companion to that Lord should do what this book commands, free of sin, and so attain [the heavenly reward] and live through all ages. The final line, `SAECLA PER OMNIA VIVAT`, is clear.
 
-#### Iconographic reading
+- Iconographic reading
 
 The programme of the opening is unusually tightly argued. Christ enthroned on the verso is encircled by the prophets who foretold him and the Evangelists who proclaimed him; the recto answers with the moral consequence — the four cardinal virtues, the pagan-philosophical quartet absorbed into Christian ethics through Ambrose and Gregory, which frame the injunction that the reader should *do what this book commands*. Revelation on one side, conduct on the other. The angels are cast in their normal function as bearers and heralds of divine text, and the tabula they hold is deliberately made to look like an inscribed metal plaque, assimilating the dedicatory verses to the language of monumental epigraphy and of the treasure binding that encloses the codex.
 
@@ -604,7 +604,7 @@ The drapery is the finest passage on the page: a deep vermilion mantle articulat
 
 Read against fols. 20v and 54v, the page confirms that the evangelist frontispieces constitute a system of **controlled variation on a fixed armature**: each shares frame, aedicula, lunette, titulus and throne, and each is individualised by symbol, inscription, posture and status. Matthew turns towards his desk in three-quarter composition; Mark sits frontally, vested with the pallium as bishop; Luke is caught mid-stroke, pen in hand, in the purest form of the author-at-work type. The three together suggest a designer thinking in terms of a set rather than repeating a formula — which accords with the view that the compositions and underdrawings throughout were the master's, whatever the division of painting.
 
-#### 1. The oval enclosure
+#### The oval enclosure
 
 The cycle can now be delimited exactly. The Echternach picture programme places four parables, each occupying a full page, before the Gospel of Luke: the Workers in the Vineyard, the Wicked Husbandmen, the Great Banquet and the Rich Man and Lazarus. Only two of these involve a vineyard at all; the Banquet and Dives–Lazarus (fol. 78r, where the three registers show Lazarus dying at the rich man's door, his soul carried to Abraham's bosom, and the rich man's soul dragged to hell) have nothing to enclose.
 
@@ -614,7 +614,7 @@ The reason is almost certainly textual. Matthew 20:1–16 mentions no hedge. Mat
 
 It has to be taken into account that Luke 20:9, the version in the Gospel this cycle prefaces, gives only that a man planted a vineyard and let it to husbandmen — no hedge, no winepress, no tower. The painter therefore cannot be following Luke. This is a hard textual discriminator, not an impression: fol. 77r depends on Matthew 21:33 or Mark 12:1, on a page introducing Luke. It corroborates the harmonisation you have already observed on fols. 52v–54r, and here with unusual precision, since the evidence is the presence of three named objects rather than a general impression of gospel-mixing. The harmonising principle itself is established in the literature: the scenes cover the life and ministry of Jesus without concern for whether a particular scene is covered in the gospel it precedes.
 
-#### 2. Hedge, tower and winepress: named attributions
+#### Hedge, tower and winepress: named attributions
 
 These are commonplaces, but they are traceable to specific texts, and the *Catena aurea* preserves the attributions cleanly.
 
@@ -634,7 +634,7 @@ The citation I would actually use is Bede<a href="/ancient-world.html#fn-bede" c
 
 Why did I choose Bede rather than Jerome? The reason is that the abbey was founded from Northumbria by Willibrord, and its library and script traditions retain that Insular inheritance. Bede is therefore the more probable text physically present in the house. I would put this as a plausibility argument, clearly marked as such, not as a demonstrated source relation.
 
-## Folios (110v-)
+## Folios (110v-112v)
 
 ### Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial
 
@@ -789,23 +789,17 @@ Finally, the *tituli* here confirm what the Passion pages suggested: the verse p
   <figcaption>Est aquilae similis: The Eagle, the Closed Book and the Portrait of John, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 112v.</figcaption>
 </figure>
 
-# Description
-
-**Nuremberg, Germanisches Nationalmuseum, Hs. 156142 (Codex Aureus of Echternach), fol. 112v**
-
 The last of the four evangelist frontispieces, prefacing John, and with it the close of the codex's pictorial programme. The armature established for Matthew, Mark and Luke is retained in full — ornamental border, arched aedicula, symbol in the lunette, inscribed band, evangelist enthroned below — but the page differs from its three predecessors in one decisive respect, and the difference appears to be programmatic.
 
-## Frame and architecture
+- Frame and architecture
 
 A broad border of gilded acanthus in rose, green and blue on gold encloses the field. Within it rises an aedicula of two orders. The outer columns have shafts of speckled green stone rising to composite capitals of blue, green and gold acanthus, and carry a broad round arch banded in green, rose and gold and ornamented with a chevron of stylised palmettes. Beyond the arch, at either upper corner, appears a schematic city wall in rose and blue with battlements and arched openings — the vestigial Late Antique cityscape used, in varying form, across the series.
 
 The inner order consists of a gilded arcade with a scalloped profile, springing from slender colonnettes; behind it a curtain of deep green falls in vertical folds, drawn across the whole width, and behind that a ground of burnished gold.
 
-## The lunette
+- The lunette
 
 Against a blue ground the eagle of John crouches to the right, haloed, its beak open, its head and neck white and its body green, the wings rendered in overlapping bands of rose, blue and gold. Its talons rest upon an open book set on a lectern at the right edge. The band beneath, in gold capitals on red, is completely preserved and is the most quotable of the four inscriptions: it declares that John's discourse concerning the Word is like the eagle. The formulation differs instructively from those of Mark and Luke. There the symbol was construed as a predicate of Christ — *stronger than all*, *on account of the death of Christ*. Here it is a predicate of the **evangelist's speech**: it is the *sermo* that resembles the eagle, not the Lord. The shift is appropriate to the Johannine prologue and suggests that the four inscriptions were composed as a set, with the terms of comparison deliberately varied.
-
-## The evangelist
 
 John is seated in three-quarter view on a broad throne with a jewelled and gilded back, a red cushion at the left, his feet resting on a low green footstool. He is white-haired and white-bearded, and wears a deep crimson mantle over a pale blue tunic, without the pallium that distinguishes the Mark portrait; of the four evangelists, Mark alone is vested as bishop. John holds an open book against his body with the left arm while the right hand is raised, palm open, in the gesture of speech; his head turns slightly upward and to the right, towards a small eagle perched on the finial of the lectern beside him. This second eagle, set at the evangelist's own level and within his own space, repeats in miniature the symbol displayed monumentally in the lunette above, so that the attribute functions both as heraldic sign in the frame and as companion within the picture. The lectern at the right carries a further open book with splayed boards.
 
@@ -814,7 +808,6 @@ The drapery is the most restrained of the four: a deep crimson mantle over a pal
 Read as the last term of a series, the page completes an argument that only becomes visible once all four are set side by side. The evangelist portraits are not four repetitions of a type but a graded sequence: **Matthew composing, Mark enthroned in episcopal authority, Luke writing, John listening**. The last is the most hieratic and the least occupied with the mechanics of the scriptorium, and its distinguishing gesture — the raised open hand, the upward glance, the closed book — belongs to inspiration rather than to work.
 
 Together with the varied *tituli* — lion as strength, ox as sacrifice, eagle as the manner of Johannine speech — the four frontispieces demonstrate a designer working with a fixed armature and a considered set of variations within it, which is precisely what the narrative folios have shown at every point in this survey.
-...
 
 ## Art-historical significance
 
