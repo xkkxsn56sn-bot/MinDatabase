@@ -74,7 +74,7 @@ meta:
       - title: "Giotto di Bondone"
         url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Andrea di Cione (Orcagna)"
-        url: "/Content/Artists/XIII-XIV-c/Andrea%20di%20Cione%20Orcagna.md"
+        url: "/Content/Artists/XIV-c/Andrea-di-Cione-Orcagna.html"
       - title: "Camposanto Monumentale, Pisa"
         url: "/Content/Churches/Camposanto%20Monumentale%20Pisa.md"
 
