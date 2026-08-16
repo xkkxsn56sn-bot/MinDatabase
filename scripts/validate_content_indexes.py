@@ -423,6 +423,16 @@ def main():
         if p.relative_to(CONTENT_DIR).parts[0] not in EXCLUDED_TOP_DIRS
     ]
 
+    # --- Pagine .md nella radice (glossary, dating-systems...) ---
+    # Non sono schede: restano fuori dai check 1/3/4/5, che presuppongono una
+    # voce nel JSON di sezione. Entrano solo nei check 7 e 8, che verificano
+    # i link uscenti e le ancore, validi per qualsiasi pagina.
+    root_md = [
+        p
+        for p in sorted(REPO_ROOT.glob("*.md"))
+        if p.name != "MinDatabase - AI Agent Instructions.md"
+    ]
+
     # --- Regola 5: nessun basename con spazi ---
     for p in all_md:
         if " " in p.name:
@@ -524,10 +534,10 @@ def main():
         if not linked_from.get(path_key(p.resolve())):
             anomalies["Scheda in Saints/ non linkata da nessun'altra scheda"].append(rel)
 
-    check_md_outgoing_links(all_md, anomalies)
+    check_md_outgoing_links(all_md + root_md, anomalies)
 
     ids_by_file = load_anchor_ids(anomalies)
-    check_anchor_links(all_md, ids_by_file, anomalies)
+    check_anchor_links(all_md + root_md, ids_by_file, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
