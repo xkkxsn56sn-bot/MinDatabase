@@ -492,7 +492,7 @@ To either side stand the instruments of the scriptorium: at the left a lectern d
 
 The page confirms that the four evangelist frontispieces operate as a system of controlled variation rather than repetition: shared armature, individualised in symbol, inscription, posture and — here — ecclesiastical status. The episcopal vesting of Mark is the element most worth pursuing, since it locates the portrait within a specific hagiographic tradition rather than a generic one, and since its presence or absence in the Luke and John pages of the same codex would show whether the workshop was applying a considered programme or an occasional flourish.
 
-## Folios (76v-)
+## Folios (76v-78v)
 
 ### Mundi vinea: The Parable of the Labourers
 
@@ -634,6 +634,186 @@ The citation I would actually use is Bede<a href="/ancient-world.html#fn-bede" c
 
 Why did I choose Bede rather than Jerome? The reason is that the abbey was founded from Northumbria by Willibrord, and its library and script traditions retain that Insular inheritance. Bede is therefore the more probable text physically present in the house. I would put this as a plausibility argument, clearly marked as such, not as a demonstrated source relation.
 
+## Folios (110v-)
+
+### Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-20.jpg" alt="Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial">
+  <figcaption>Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 110v.</figcaption>
+</figure>
+
+The folio opens the fourth and final narrative sequence of the codex, the four picture pages preceding John, which carry the story from the Passion to the Ascension and Pentecost. The tripartite armature is unchanged, but two things immediately distinguish the page from those examined earlier. First, the surrounding margin is stained purple and **printed with a repeating green tendril motif** — a patterned rather than plain ground, one of the "textile" pages for which the codex is known. Second, the three *tituli* are preserved in a state of legibility unmatched anywhere in the manuscript: all six hexameters can be read at reproduction scale, and they constitute the single most usable text on any folio we have looked at.
+
+- Upper register
+
+The Entry into Jerusalem, against a landscape banded in rose, blue and green. Christ, cross-nimbed and seated sideways, rides a white ass towards the right, hand raised in blessing. Behind him a compact group of four disciples, captioned TVRBAE, gestures forward. Before him, a man in green stoops to spread a garment across the path, while three figures beyond raise long palm fronds; a fourth extends a frond towards the ass's mouth. Garments already lie on the ground beneath the animal's hooves. The *titulus* is complete and elegantly antithetical: it observes that the ruler of heaven becomes the humble rider of an ass, and that the people, spreading their garments, offer him devout songs. The rhetorical structure — majesty set against lowliness in the first hemistich, the crowd's response in the second — is characteristic of the whole page.
+
+- Middle register
+
+Two episodes divided by a building, and a marked change of ground: lapis at the left, vermilion at the right.
+
+At the left, the Betrayal and Arrest. Judas, in red, embraces Christ and presses his face to his; soldiers crowd in on both sides with drawn swords, staves and lances raised in a bristling diagonal cluster at the upper right. A small figure crouches at the lower left. At the right, before a red field beneath a tiled roof, Christ Led before Caiaphas: two men grip him by the arms and propel him towards the right, where the high priest sits enthroned in green, inscribed CAYPHAS, tearing at his beard — the gesture of rending garments and hair with which the Gospel marks his condemnation.
+
+The *titulus* is again complete, and its rhetorical mode is the most striking on the page: it addresses **Judas directly in the second person**, reproaching him for betraying Christ with the sign of peace, and stating that he wished the captive to be led to Caiaphas. This apostrophe is a further extension of the textual repertory already observed in this manuscript — deictic on the miracle folios, exegetical on the vineyard page, first-person quotation on the banquet page, and now direct address to a figure within the image.
+
+- Lower register
+
+Two episodes again, divided by a wall, against a green ground at the left and blue at the right.
+
+At the left, the Denial of Peter. Peter sits at the extreme left, hand raised to his breast in the gesture of protestation or dismay; before him stands the maidservant in red, her hair loose, arm extended in accusation. Above the wall behind them perches a **cock**, rendered in deep red and set on the roofline — the crowing that completes the episode, given as a fixed attribute rather than a narrated moment. Small inscriptions above the two figures presumably name them.
+
+At the right, the Flagellation. Christ, stripped to a loincloth and cross-nimbed, stands bound with his arms drawn back around a red column, while a single scourger in rose strides forward from the left, raising a bundle of rods. The isolation of the figure — one tormentor rather than the customary pair — concentrates the violence and leaves Christ almost frontal.
+
+The *titulus* pairs the two with the same directness: at the cock's crow Peter remembers his lapse, and Christ patiently endures the blows of the rods.
+
+The page is valuable out of proportion to its subject matter because of its **legibility**. Six complete hexameters in sequence permit, for the first time in this survey, a proper assessment of the verse programme: its metre, its rhetorical variety, and its relation to the images. Three observations follow.
+
+The verses are **not descriptive glosses** but compressed rhetorical exercises. Each hemistich carries one episode; each line pairs two; and the pairing is invariably pointed — humility against majesty in the first, peace against betrayal in the second, Peter's remembering against Christ's endurance in the third.
+
+The **apostrophe to Judas** is the boldest device and, taken with the exegetical verses of fol. 76v and the quoted excuses of fol. 77v, establishes that whoever composed the tituli commanded a range of voices and deployed them deliberately. This is a poet at work, not a captioner.
+
+Finally, the **patterned purple margin** distinguishes this page from the plain-margined narrative folios of the Matthew and Mark sequences, and its recurrence should be traced: if the John sequence is systematically given the ornamented ground, that is a structural signal about the codex's hierarchy of sections.
+
+### Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-21.jpg" alt="Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle">
+  <figcaption>Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 111r.</figcaption>
+</figure>
+
+The recto continues the Passion sequence begun on the facing verso and carries it to its close: Crowning with Thorns, Carrying of the Cross, Crucifixion, Deposition and Entombment. It is, in every respect, the culminating page of the manuscript's narrative programme. The three *tituli* are preserved in full and are the most theologically charged in the codex; the central register abandons the paired-episode structure used throughout the cycle in favour of a **single unified composition** occupying the whole field; and the older attribution literature assigns this page and those following to the workshop master himself, the Crowning with Thorns marking the point at which his hand takes over from the pupil.
+
+- Upper register
+
+Two episodes across a landscape banded in rose, blue and ochre. At the left, the Crowning with Thorns: Christ, in a deep blue-violet mantle, stands passive while a mocker in orange raises a green wreath of long spikes above his head; five further tormentors crowd behind and beside him, one gesturing derisively. At the right, separated by a wide expanse of empty ground, Simon of Cyrene — inscribed SYMON — bears the cross alone, shouldering the great gilded beam and stooping under its weight as he moves to the right. The isolation of this figure in the empty field is one of the most effective passages of composition in the codex.
+
+The *titulus* is complete: the first hemistich addresses Christ directly, saying that they place upon him a crown woven of thorns; the second states that Simon, greatly compelled, carried it unwillingly. The second-person apostrophe continues the rhetorical mode established on fol. 110v, but the addressee has changed from Judas to Christ.
+
+- Middle register
+
+The Crucifixion, and the most ambitious composition on the folio. Christ hangs at the centre on a great gold-and-vermilion cross, wearing a long sleeveless purple tunic (*colobium*) rather than a loincloth — the archaising, Early Christian formula, which in an eleventh-century context is a deliberate choice rather than a default. The *titulus* on the cross-plaque gives the inscription of Pilate. Above, in the sky, appear the personified **Sol and Luna** as busts in coloured discs, each veiling the face.
+
+Two soldiers flank the cross, one thrusting a lance towards Christ's side, the other extending a reed; beneath them two smaller figures stoop to draw a cloth taut between them — the division of the garments, compressed into a single motif at the foot of the cross. To right and left, the two thieves are bound to lower T-shaped crosses, their legs being broken by executioners with mallets; the left-hand thief is captioned as the penitent, and beside him stands a mourning figure in orange and green. At the right, a further standing figure gestures towards the cross with open hands, and a second is inscribed beyond.
+
+The *titulus* is the theological heart of the page: it declares that the Saviour of the world dies here as a malefactor, and asks why he who alone is just is crucified with criminals. The interrogative form is unique in the folios examined and marks the point at which the verse programme moves from narration to protest.
+
+- Lower register
+
+Two episodes joined by a stylised tree-line of slender stems with lobed pink crowns. At the left, the Deposition: Joseph of Arimathea supports the body while a second figure, inscribed NICHODEMVS, bends to draw the nails from the feet; the Virgin and a companion stand at the extreme left before a city gate, and the great gold cross rises empty at the centre. At the right, the Entombment: the two men, again captioned IOSEPH and NICHODEMVS, lower the shrouded body into an open sarcophagus of gold and vermilion.
+
+The *titulus* here abandons narration entirely for **typology**: it speaks of the grain laid down from the wood and put to death, buried by their offices in order that it may bear fruit. The image is Johannine (John 12:24, the grain of wheat that must die to bear fruit), and its placement over the Entombment converts the burial into a sowing. This is the only *titulus* in the folios examined that offers a figural reading of the scene beneath it rather than describing or apostrophising it.
+
+- Three points deserve emphasis.
+
+The **verse programme reaches its full range on this page**. Across three lines it moves from direct address to Christ, to rhetorical question, to typological figure — and read together with fol. 110v, the six lines of which were deictic, apostrophic and narrative, the Passion sequence displays a deliberately escalating rhetoric. Whoever composed these verses was constructing a poem, not labelling pictures, and the *granum depositum* line is the strongest single piece of evidence for that claim.
+
+The **colobium** and the personified Sol and Luna are archaising features of Early Christian and Carolingian derivation. Both belong to the repertory of the Trier tradition on which Echternach drew, and their presence here — on the page where the master's hand is thought to begin — suggests a conscious reaching for authoritative models at the cycle's climax.
+
+Finally, the **unified central register** breaks the compositional rule that has governed every narrative folio in this survey. Elsewhere each register carries two or three episodes divided by towers, trees or shifts of ground. Here the Crucifixion occupies the entire width as a single event, with the subsidiary incidents (the lance, the reed, the garments, the thieves) subordinated within it rather than juxtaposed alongside. The break is not accidental: it is the pictorial equivalent of the interrogative *titulus* above it.
+
+### In primo fragmine panis: Modes of Recognition in the Resurrection Cycle
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-22.jpg" alt="In primo fragmine panis: Modes of Recognition in the Resurrection Cycle">
+  <figcaption>In primo fragmine panis: Modes of Recognition in the Resurrection Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 111v.</figcaption>
+</figure>
+
+The verso turns from Passion to Resurrection, and the change of subject brings with it a marked change of pictorial temper. Where fol. 111r was dominated by mass, violence and the great architecture of the cross, this page is composed of encounters: five scenes of recognition, each turning on a gesture of the hand. The tripartite armature and the paired-episode structure return, and the three *tituli* are again preserved complete — with fols. 110v and 111r, this gives eighteen consecutive legible hexameters, a sufficient corpus for a proper study of the verse programme.
+
+- Upper register
+
+The Marys at the Sepulchre. At the left, three women advance in file across a ground banded in blue and ochre, each carrying a covered ointment jar; they are set among stylised trees with lobed pink crowns of the type already seen on fol. 111r. At the right, an angel in white and gold sits upon the open sarcophagus, one wing sweeping upward behind him, the other extended; he holds a red book and raises his hand towards the women. The tomb-chest stands open, its lid tilted aside, and within it lies the abandoned shroud, rendered as a pale crumpled mass.
+
+The *titulus* is complete and addresses the reader directly in the vocative: it tells the worshippers of Christ not to fear overmuch, since he whom death extinguished lives again by rising. The apostrophe is here turned outward — not to Judas, as on fol. 110v, nor to Christ, as on fol. 111r, but to the beholder.
+
+- Middle register
+
+The Journey to Emmaus and the Supper at Emmaus, both from Luke 24. At the left, Christ walks ahead in the guise of a traveller, holding a scroll and turning back towards two disciples who follow with raised hands; they are captioned, one appearing to be named Cleophas. At the right, within a remarkable **circular walled enclosure** of coursed masonry with towered gateways, Christ sits at table with the two disciples and breaks bread; a further inscription marks the scene, and Christ's hands are shown in the act of dividing. The enclosure is a striking compositional device: like the oval hedge of fol. 77r, it converts the register from a strip into a container, and it is worth noting as a second instance of the same formal instinct in the manuscript.
+
+The *titulus* pairs the two moments exactly: he was seen by the two disciples as a stranger, and was known to them in the first breaking of the bread.
+
+- Lower register
+
+Two further recognitions, against grounds of vermilion and lapis. At the left, the *Noli me tangere* preceded by the angelic annunciation at the tomb: two angels are seated at either end of the opened sarcophagus, the shroud visible within, while at the centre Mary Magdalene — inscribed MARIA — stoops low with hands extended, and Christ stands before her at the right, one hand raised, the other holding a scroll. At the right, beneath a tiled roof and between columns, the Incredulity of Thomas: Christ draws back his mantle to bare his side and extends his arm, while Thomas, labelled THOMAS, reaches forward with pointed finger, three further apostles pressing behind him.
+
+The *titulus* again pairs the episodes with an antithesis of the senses: whom Mary, weeping, sought and believed by seeing, Thomas then confessed as God by touching the wound.
+
+- Three observations
+
+The page is organised around a **theology of recognition**, and the *tituli* make this explicit rather than incidental. Emmaus turns on the breaking of bread, Magdalene on sight, Thomas on touch; the verses name each mode in turn. Read as a sequence, the three lines constitute a small treatise on the modes by which the risen Christ is known, and the ordering — hearing the angel, breaking bread, seeing, touching — is unlikely to be accidental.
+
+The **circular enclosure at Emmaus** is formally the closest analogue in the codex to the oval hedge of fol. 77r, and its presence here bears directly on the question raised earlier. If the workshop possessed a general habit of enclosing scenes in circular or oval boundaries, then the *sepes* of fol. 77r is less an invention prompted by the text than an application of an existing formal preference — though the fact that it is captioned SEPES there, and unlabelled here, still tells in favour of the text-driven reading. The two instances should be compared directly.
+
+Finally, the **vocative address to the beholder** in the first *titulus* completes the rhetorical range of the Passion–Resurrection verses: apostrophe to a figure within the narrative, apostrophe to Christ, interrogation, typology, and now direct address to the reader. This is a considered rhetorical programme, and the case for treating the verses as a poem in their own right — rather than as captions — now seems to me strong enough to state in print, provided the transcriptions are secure.
+
+### Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-23.jpg" alt="Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church">
+  <figcaption>Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 112r.</figcaption>
+</figure>
+
+This is the last narrative page of the codex, closing the fourth picture sequence and with it the whole programme: Ascension, Pentecost, and the community of the hundred and twenty. The tripartite armature persists, but the page departs decisively from the method that has governed every preceding narrative folio. There are no paired episodes, no dividing towers or trees, no continuous narration. Each register carries **one event only**, presented frontally and symmetrically, and the three are bound together by a single ascending-descending axis of light. The cycle ends by abandoning narrative for hieratic display.
+
+- Upper register
+
+The Ascension. Christ rises at the centre with both arms raised in orant gesture, his head set against a disc of concentric green, orange and red — a mandorla reduced to a solar aureole — and his feet resting on a mound of stylised cloud in rose and vermilion. Two angels flank him, wings outspread, gesturing outward and downward towards the disciples ranged at either edge, both groups captioned DISCIPVLI. The composition is broadly symmetrical but not exactly so: the left-hand group comprises apostles together with the Virgin, veiled and set at its inner edge, while the right-hand group is composed of apostles alone. Their heads tilt upward in a rhythmic sequence of gazes.
+
+The *titulus* is complete and opens with the angels' words of Acts 1:11, addressed in the vocative to the beholders: it asks why they stand looking up, and states that God took up this man whom he assumed from the Virgin. The word placed in the vocative position is unusual and should be read carefully at magnification — it appears to designate the onlookers as pilgrims or exiles, which would be a striking gloss on the *viri Galilaei* of the biblical text.
+
+- Middle register
+
+Pentecost. The apostles are seated in a continuous arcade of gold and green, their columns crowned with flaring orange acanthus, in a broad arc that curves forward at the centre and recedes at the edges — a spatial device that gathers them into a hemicycle rather than a row. They are ten in number, neither the eleven of the period before Matthias' election nor the canonical twelve; the same count recurs among the standing figures of the register below, which suggests that the painter treats a group of ten as a sign of an assembly rather than as an enumeration of it. From a disc of concentric colour at the top centre, rays of red and gold descend in a great fan, touching each head individually. The apostles raise their hands in a variety of responses; the group is captioned APOSTOLI, the word divided across the field. Beneath them sweeps a wide band of blue and rose, the seat of the assembly.53v
+
+The *titulus* is again complete and unusually precise in its diction: the sorrowing disciples, sitting together in the temple, suddenly receive tongues of every kind from the Spirit. Two features are worth remark. The verse specifies the **temple** rather than the upper room, a detail with exegetical rather than narrative warrant. And it uses the Greek-derived *pneuma* rather than *spiritus* — a hellenising choice that recurs in the third *titulus* and that says something about the learning, or the pretensions, of the verse programme's author.
+
+- Lower register
+
+The hundred and twenty. Eight men stand in a row against a ground of concentric bands in blue, green, ochre and rose — the same striated aureole that framed Christ's head in the Ascension, here expanded to fill the entire field, so that the community is set within the light rather than beneath it. The number bears no relation to the hundred and twenty named in the titulus above, nor to the ten apostles of the register between: the row functions as a sign of an assembly rather than an enumeration of one, and the exact figure is left to the verse. They wear short tunics and mantles and are barefoot or stockinged; their gestures are varied, several conversing, several raising open hands. A caption at the top centre appears to designate their common life. Below runs a band of stylised blue water sprouting red tendrils.
+
+The *titulus* states that a hundred and twenty were associated with them, and that they are filled by the gift of the kindly Spirit — the number from Acts 1:15, and again *pneuma* for the Spirit.
+
+- Three observations, the first two of which bear on the codex as a whole
+
+The **abandonment of narrative structure** on the final page is programmatic. Every earlier folio in this survey has divided its registers into episodes and marked the divisions architecturally; here the divisions vanish, the compositions become frontal and symmetrical, and the subject shifts from event to state. The cycle that began with the Annunciation ends not with an action but with a condition — the Church constituted, filled and gathered in light.
+
+The **striated aureole** is the formal device that carries this argument. It appears first as a small disc behind Christ's head, then as a fan of rays, then as the entire ground of the lowest register. The progression is legible as a diagram: the light that surrounds Christ descends upon the apostles and finally encloses the whole community. Whether this was consciously designed is not demonstrable from the image alone, but the sequence is too orderly to be accidental.
+
+Finally, the *tituli* here confirm what the Passion pages suggested: the verse programme is the work of someone with real command of Latin verse and some Greek vocabulary, deploying vocative address, exegetical substitution (temple for upper room) and hellenising diction. Across fols. 110v–112r we now have **twenty-four consecutive legible hexameters**, and I would treat them as a single poem in four parts. That is a claim worth making, but only once the transcriptions are secure.
+
+### Est aquilae similis: The Eagle, the Closed Book and the Portrait of John
+
+<figure>
+  <img src="/Images/Codex-Aureus-of-Echternach/echternach-24.jpg" alt="Est aquilae similis: The Eagle, the Closed Book and the Portrait of John">
+  <figcaption>Est aquilae similis: The Eagle, the Closed Book and the Portrait of John, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 112v.</figcaption>
+</figure>
+
+# Description
+
+**Nuremberg, Germanisches Nationalmuseum, Hs. 156142 (Codex Aureus of Echternach), fol. 112v**
+
+The last of the four evangelist frontispieces, prefacing John, and with it the close of the codex's pictorial programme. The armature established for Matthew, Mark and Luke is retained in full — ornamental border, arched aedicula, symbol in the lunette, inscribed band, evangelist enthroned below — but the page differs from its three predecessors in one decisive respect, and the difference appears to be programmatic.
+
+## Frame and architecture
+
+A broad border of gilded acanthus in rose, green and blue on gold encloses the field. Within it rises an aedicula of two orders. The outer columns have shafts of speckled green stone rising to composite capitals of blue, green and gold acanthus, and carry a broad round arch banded in green, rose and gold and ornamented with a chevron of stylised palmettes. Beyond the arch, at either upper corner, appears a schematic city wall in rose and blue with battlements and arched openings — the vestigial Late Antique cityscape used, in varying form, across the series.
+
+The inner order consists of a gilded arcade with a scalloped profile, springing from slender colonnettes; behind it a curtain of deep green falls in vertical folds, drawn across the whole width, and behind that a ground of burnished gold.
+
+## The lunette
+
+Against a blue ground the eagle of John crouches to the right, haloed, its beak open, its head and neck white and its body green, the wings rendered in overlapping bands of rose, blue and gold. Its talons rest upon an open book set on a lectern at the right edge. The band beneath, in gold capitals on red, is completely preserved and is the most quotable of the four inscriptions: it declares that John's discourse concerning the Word is like the eagle. The formulation differs instructively from those of Mark and Luke. There the symbol was construed as a predicate of Christ — *stronger than all*, *on account of the death of Christ*. Here it is a predicate of the **evangelist's speech**: it is the *sermo* that resembles the eagle, not the Lord. The shift is appropriate to the Johannine prologue and suggests that the four inscriptions were composed as a set, with the terms of comparison deliberately varied.
+
+## The evangelist
+
+John is seated in three-quarter view on a broad throne with a jewelled and gilded back, a red cushion at the left, his feet resting on a low green footstool. He is white-haired and white-bearded, and wears a deep crimson mantle over a pale blue tunic, without the pallium that distinguishes the Mark portrait; of the four evangelists, Mark alone is vested as bishop. John holds an open book against his body with the left arm while the right hand is raised, palm open, in the gesture of speech; his head turns slightly upward and to the right, towards a small eagle perched on the finial of the lectern beside him. This second eagle, set at the evangelist's own level and within his own space, repeats in miniature the symbol displayed monumentally in the lunette above, so that the attribute functions both as heraldic sign in the frame and as companion within the picture. The lectern at the right carries a further open book with splayed boards.
+
+The drapery is the most restrained of the four: a deep crimson mantle over a pale blue tunic, the folds broad and quiet, articulated by gold bands at the shoulder and hem rather than by the white striations used elsewhere.
+
+Read as the last term of a series, the page completes an argument that only becomes visible once all four are set side by side. The evangelist portraits are not four repetitions of a type but a graded sequence: **Matthew composing, Mark enthroned in episcopal authority, Luke writing, John listening**. The last is the most hieratic and the least occupied with the mechanics of the scriptorium, and its distinguishing gesture — the raised open hand, the upward glance, the closed book — belongs to inspiration rather than to work.
+
+Together with the varied *tituli* — lion as strength, ox as sacrifice, eagle as the manner of Johannine speech — the four frontispieces demonstrate a designer working with a fixed armature and a considered set of variations within it, which is precisely what the narrative folios have shown at every point in this survey.
 ...
 
 ## Art-historical significance
