@@ -20,6 +20,7 @@ exclude:
   - scripts/
   - .gitignore
   - README.md
+  - newsletter_subscribers.csv
 
 # Jekyll Plugins
 plugins:
