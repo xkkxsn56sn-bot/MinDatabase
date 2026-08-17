@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Brun Candidus of Fulda"
+title: "Candidus (Bruun) of Fulda"
 subtitle: "Monk, Artist, and Hagiographer"
 dates: "Active IX century; d. ca. 845"
 

@@ -99,7 +99,7 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Brun Candidus of Fulda"
-        url: "/Content/Artists/IX-c/Brun-Candidus-of-Fulda.html"
+        url: "/Content/Artists/IX-c/Candidus-of-Fulda.html"
       - title: "Rhabanus Maurus"
         url: "/Content/Artists/VIII-c/Rhabanus-Maurus.html"
       - title: "Fulda Abbey"

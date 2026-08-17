@@ -108,7 +108,7 @@ meta:
       - title: "Rhabanus Maurus"
         url: "/Content/Artists/VIII-c/Rhabanus-Maurus.html"
       - title: "Brun Candidus of Fulda"
-        url: "/Content/Artists/IX-c/Brun-Candidus-of-Fulda.html"
+        url: "/Content/Artists/IX-c/Candidus-of-Fulda.html"
       - title: "Godescalc Evangelistary"
         url: "/Content/Codex/Godescalc-Evangelistary.html"
 
