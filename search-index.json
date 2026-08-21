@@ -1,0 +1,51 @@
+---
+layout: null
+permalink: /search-index.json
+---
+{%- comment -%}
+Indice di ricerca, rigenerato a ogni build.
+
+Itera le pagine sotto Content/ e ne estrae i campi utili alla ricerca.
+Le schede non sono una collection Jekyll: vivono come pagine normali,
+processate grazie a `include: [Content]` in _config.yml. Si filtra quindi
+site.pages sul percorso, escludendo prompts/ e i file non .md.
+
+Campi emessi:
+  title     titolo della scheda
+  subtitle  sottotitolo, spesso il dato piu' descrittivo
+  section   Artists, Churches, Codex, Papers, Saints
+  century   solo per gli artisti, ricavato dalla cartella (IX-c -> IX)
+  keywords  thematic_keywords appiattiti in una stringa
+  url       percorso della pagina generata
+{%- endcomment -%}
+[
+{%- assign entries = "" | split: "" -%}
+{%- for p in site.pages -%}
+  {%- assign parts = p.path | split: "/" -%}
+  {%- if parts[0] != "Content" -%}{%- continue -%}{%- endif -%}
+  {%- if parts[1] == "prompts" -%}{%- continue -%}{%- endif -%}
+  {%- unless p.path contains ".md" -%}{%- continue -%}{%- endunless -%}
+  {%- unless p.title -%}{%- continue -%}{%- endunless -%}
+  {%- assign entries = entries | push: p -%}
+{%- endfor -%}
+{%- for p in entries -%}
+  {%- assign parts = p.path | split: "/" -%}
+  {%- assign section = parts[1] -%}
+  {%- assign century = "" -%}
+  {%- if section == "Artists" and parts.size > 3 -%}
+    {%- assign century = parts[2] | remove: "-c" -%}
+  {%- endif -%}
+  {%- assign kw = "" -%}
+  {%- if p.thematic_keywords -%}
+    {%- assign kw = p.thematic_keywords | join: " " -%}
+  {%- endif -%}
+  {
+    "title": {{ p.title | jsonify }},
+    "subtitle": {{ p.subtitle | default: "" | jsonify }},
+    "section": {{ section | jsonify }},
+    "century": {{ century | jsonify }},
+    "keywords": {{ kw | jsonify }},
+    "url": {{ p.url | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]

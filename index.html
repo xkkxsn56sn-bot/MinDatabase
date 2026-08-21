@@ -331,6 +331,97 @@
         color: #ffd9cf;
       }
 
+      /* ── SITE SEARCH ── */
+      .site-search {
+        background: white;
+        padding: 1.75rem 2rem;
+        margin-bottom: 3rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        border-left: 4px solid var(--gold);
+      }
+
+      .site-search__label {
+        display: block;
+        font-size: 0.85rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--burgundy);
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+      }
+
+      .site-search__input {
+        width: 100%;
+        min-height: 44px;
+        padding: 0.72rem 0.85rem;
+        font: inherit;
+        color: var(--text);
+        background: #fffdf8;
+        border: 1px solid #c8bda7;
+        border-radius: 6px;
+      }
+
+      .site-search__input:focus {
+        outline: 2px solid rgba(114, 47, 55, 0.3);
+        border-color: var(--burgundy);
+        outline-offset: 1px;
+      }
+
+      .site-search__status {
+        margin: 0.6rem 0 0;
+        font-size: 0.86rem;
+        font-style: italic;
+        color: var(--text-light);
+        min-height: 1.2em;
+      }
+
+      .site-search__results {
+        list-style: none;
+        margin: 0.5rem 0 0;
+        padding: 0;
+      }
+
+      .site-search__results li {
+        border-bottom: 1px solid var(--dark-parchment);
+      }
+
+      .site-search__results li:last-child {
+        border-bottom: none;
+      }
+
+      .site-search__results a {
+        display: block;
+        padding: 0.65rem 0.4rem;
+        text-decoration: none;
+        color: var(--text);
+        border-radius: 4px;
+      }
+
+      .site-search__results a:hover,
+      .site-search__results a:focus {
+        background: var(--parchment);
+      }
+
+      .site-search__title {
+        font-weight: bold;
+        color: var(--burgundy);
+      }
+
+      .site-search__meta {
+        font-size: 0.82rem;
+        color: var(--text-light);
+        margin-left: 0.5rem;
+      }
+
+      .site-search__sub {
+        display: block;
+        font-size: 0.88rem;
+        font-style: italic;
+        color: var(--text-light);
+        margin-top: 0.15rem;
+      }
+
       main {
         flex: 1;
         max-width: 1320px;
@@ -671,6 +762,10 @@
           padding: 1.5rem 1.2rem;
         }
 
+        .site-search {
+          padding: 1.4rem 1.2rem;
+        }
+
         .newsletter-signup {
           padding: 1.4rem 1.2rem;
         }
@@ -742,6 +837,31 @@
           to celebrated innovators, this site preserves and presents the visual
           and spiritual heritage of medieval Italy.
         </p>
+      </section>
+
+      <section class="site-search" aria-labelledby="site-search-label">
+        <label
+          class="site-search__label"
+          id="site-search-label"
+          for="site-search-input"
+        >
+          Search the site
+        </label>
+        <input
+          type="search"
+          id="site-search-input"
+          class="site-search__input"
+          placeholder="Artist, church, codex, keyword…"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <p
+          class="site-search__status"
+          id="site-search-status"
+          role="status"
+          aria-live="polite"
+        ></p>
+        <ul class="site-search__results" id="site-search-results"></ul>
       </section>
 
       <section class="content-grid">
@@ -1198,6 +1318,153 @@
       renderPushNoticesCard();
       renderApsisFlag();
     </script>
+
+    <script>
+      // Ricerca sul sito. L'indice (/search-index.json) e' rigenerato da Jekyll
+      // a ogni build e viene scaricato una sola volta, al primo uso.
+      (function () {
+        var input = document.getElementById("site-search-input");
+        var results = document.getElementById("site-search-results");
+        var status = document.getElementById("site-search-status");
+        if (!input || !results || !status) return;
+
+        var index = null;
+        var loading = false;
+        var MAX_RESULTS = 12;
+
+        // Minuscole e diacritici rimossi, cosi' "niccolo" trova "Niccolò".
+        function norm(s) {
+          return (s || "")
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "");
+        }
+
+        function loadIndex() {
+          if (index || loading) return Promise.resolve();
+          loading = true;
+          status.textContent = "Loading index…";
+          return fetch("/search-index.json")
+            .then(function (r) {
+              if (!r.ok) throw new Error(r.status);
+              return r.json();
+            })
+            .then(function (data) {
+              index = data.map(function (e) {
+                e._haystack = norm(
+                  e.title +
+                    " " +
+                    e.subtitle +
+                    " " +
+                    e.section +
+                    " " +
+                    e.keywords
+                );
+                return e;
+              });
+              status.textContent = "";
+            })
+            .catch(function () {
+              status.textContent = "Search index unavailable.";
+              index = [];
+            })
+            .then(function () {
+              loading = false;
+            });
+        }
+
+        function render(matches, query) {
+          results.innerHTML = "";
+
+          if (!query) {
+            status.textContent = "";
+            return;
+          }
+
+          if (matches.length === 0) {
+            status.textContent = "No entries match “" + query + "”.";
+            return;
+          }
+
+          var shown = matches.slice(0, MAX_RESULTS);
+          status.textContent =
+            matches.length > MAX_RESULTS
+              ? "Showing " +
+                shown.length +
+                " of " +
+                matches.length +
+                " matches."
+              : matches.length +
+                (matches.length === 1 ? " match." : " matches.");
+
+          shown.forEach(function (e) {
+            var li = document.createElement("li");
+            var a = document.createElement("a");
+            a.href = e.url;
+
+            var t = document.createElement("span");
+            t.className = "site-search__title";
+            t.textContent = e.title;
+            a.appendChild(t);
+
+            var m = document.createElement("span");
+            m.className = "site-search__meta";
+            m.textContent = e.century
+              ? e.section + " · " + e.century
+              : e.section;
+            a.appendChild(m);
+
+            if (e.subtitle) {
+              var s = document.createElement("span");
+              s.className = "site-search__sub";
+              s.textContent = e.subtitle;
+              a.appendChild(s);
+            }
+
+            li.appendChild(a);
+            results.appendChild(li);
+          });
+        }
+
+        function search() {
+          var raw = input.value.trim();
+          if (raw.length < 2) {
+            render([], "");
+            return;
+          }
+
+          var terms = norm(raw).split(/\s+/);
+          var matches = (index || []).filter(function (e) {
+            return terms.every(function (t) {
+              return e._haystack.indexOf(t) !== -1;
+            });
+          });
+
+          // I titoli che cominciano col termine vengono per primi.
+          var first = terms[0];
+          matches.sort(function (a, b) {
+            var an = norm(a.title).indexOf(first) === 0 ? 0 : 1;
+            var bn = norm(b.title).indexOf(first) === 0 ? 0 : 1;
+            if (an !== bn) return an - bn;
+            return a.title.localeCompare(b.title);
+          });
+
+          render(matches, raw);
+        }
+
+        var timer;
+        input.addEventListener("input", function () {
+          clearTimeout(timer);
+          timer = setTimeout(function () {
+            loadIndex().then(search);
+          }, 120);
+        });
+
+        // Precarica al primo focus, cosi' i risultati sono immediati.
+        input.addEventListener("focus", loadIndex, { once: true });
+      })();
+    </script>
+
     <script src="/assets/js/visitor-counter.js" defer></script>
   </body>
 </html>
