@@ -162,10 +162,6 @@ scholars:
     url: "/scholars.html#cavalcaselle-giovanni-battista"
   - title: "Crowe, Joseph Archer"
     url: "/scholars.html#crowe-joseph-archer"
-  - title: "Ingres, Jean-Auguste-Dominique"
-    url: "/scholars.html#ingres-jean-auguste-dominique"
-  - title: "Delaroche, Paul"
-    url: "/scholars.html#delaroche-paul"
   - title: "Ruskin, John"
     url: "/scholars.html#ruskin-john"
 
@@ -1239,7 +1235,7 @@ The decisive early-modern source is Giorgio Vasari, whose Life of Giovanni in th
 
 An important and often-overlooked figure in the recovery of the Pisani is the eighteenth-century Franciscan friar and art writer [Guglielmo Della Valle](/scholars.html#della-valle-guglielmo), whose *Lettere sanesi sopra le belle arti* (1782–1786) advanced the controversial thesis that the Sienese school was older and more autonomous than the Florentine, and several of whose insights proved remarkably prescient. Della Valle recognised the influence of Giunta Pisano on Cimabue and, crucially for the present subject, the influence of Nicola and Giovanni Pisano on Giotto, emphasising too the Roman component in Giotto's formation. This recognition — that the sculptural revolution of the Pisani stood behind the pictorial revolution of Giotto — anticipated a central theme of modern scholarship, and it deserves explicit acknowledgement in any reception history.
 
-The most consequential rediscovery, however, came from outside Italy and from artists rather than scholars. Through the seventeenth and eighteenth centuries the Pisa Cathedral pulpit lay dismembered, its fragments collected in the Camposanto by its conservator Carlo Lasinio in the early nineteenth century and awaiting a decision on their fate. It was foreign travellers, amateurs, and artists who first grasped their modernity. Jean-Auguste-Dominique Ingres drew elements of the pulpit; Paul Delaroche included the sculptor — Giovanni, not his father — in the hemicycle mural of the École des Beaux-Arts in Paris (1836–1841); and the English critic [John Ruskin](/scholars.html#ruskin-john) recognised in Giovanni's sculpture an expressive force ahead of its time.
+The most consequential rediscovery, however, came from outside Italy and from artists rather than scholars. Through the seventeenth and eighteenth centuries the Pisa Cathedral pulpit lay dismembered, its fragments collected in the Camposanto by its conservator Carlo Lasinio in the early nineteenth century and awaiting a decision on their fate. It was foreign travellers, amateurs, and artists who first grasped their modernity. Jean-Auguste-Dominique Ingres<a href="/endnotes.html#fn-ingres-jean-auguste-dominique" class="footnote"><sup>8</sup></a> drew elements of the pulpit; Paul Delaroche<a href="/endnotes.html#fn-delaroche-paul" class="footnote"><sup>9</sup></a> included the sculptor — Giovanni, not his father — in the hemicycle mural of the École des Beaux-Arts in Paris (1836–1841); and the English critic [John Ruskin](/scholars.html#ruskin-john) recognised in Giovanni's sculpture an expressive force ahead of its time.
 
 Ruskin's estimate was extraordinary: he called Giovanni the "Canova of the thirteenth century," the sculptor to whom we owe "the grace of Ghiberti, the tenderness of Raphael, the majesty of Michelangelo." It is a striking fact, symptomatic of how the rediscovery ran ahead of scholarship, that three fragments of the pulpit acquired in this milieu — a tetramorph lectern-support and two little pillars with playing angels, now in the Metropolitan Museum of Art in New York — were purchased before they had even been recognised as Giovanni's work or as belonging to the Pisa pulpit. In 1875 a monument to Giovanni by Salvino Salvini was erected in the Camposanto.
 
