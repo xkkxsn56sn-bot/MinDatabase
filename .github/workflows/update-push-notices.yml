@@ -21,6 +21,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
+      - name: Diagnostica payload
+        run: |
+          echo "EVENT_PATH=$GITHUB_EVENT_PATH"
+          python3 -c "
+          import json, os
+          p = os.environ['GITHUB_EVENT_PATH']
+          d = json.load(open(p))
+          print('commits:', len(d.get('commits') or []))
+          for c in d.get('commits') or []:
+              print(' ', c.get('id','')[:8], 'modified:', c.get('modified'))
+          "
+
       - name: Set up Python
         uses: actions/setup-python@v7
         with:
