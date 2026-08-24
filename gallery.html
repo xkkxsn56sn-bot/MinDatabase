@@ -1,0 +1,901 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gallery - Medieval Visions</title>
+    <meta
+      name="description"
+      content="All images published on Medieval Visions, grouped by artist and by work, with their captions and links to the entries they illustrate."
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      :root {
+        --parchment: #f4f1e8;
+        --dark-parchment: #e8e3d3;
+        --gold: #c9a961;
+        --dark-gold: #a68948;
+        --burgundy: #722f37;
+        --dark-burgundy: #4a1f26;
+        --text: #2c2416;
+        --text-light: #5a4d3a;
+      }
+
+      body {
+        font-family: "Georgia", "Times New Roman", serif;
+        background: linear-gradient(
+          135deg,
+          var(--parchment) 0%,
+          var(--dark-parchment) 100%
+        );
+        color: var(--text);
+        line-height: 1.6;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      header {
+        background: linear-gradient(
+          135deg,
+          var(--burgundy) 0%,
+          var(--dark-burgundy) 100%
+        );
+        color: var(--parchment);
+        padding: 2.5rem 2rem 2rem;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        border-bottom: 3px solid var(--gold);
+      }
+
+      header h1 {
+        font-size: 2.4rem;
+        margin-bottom: 0.4rem;
+        letter-spacing: 2px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      }
+
+      header .tagline {
+        font-size: 0.95rem;
+        opacity: 0.9;
+      }
+
+      nav {
+        background: var(--dark-burgundy);
+        text-align: center;
+        padding: 0.75rem 1rem;
+        border-bottom: 2px solid var(--gold);
+      }
+
+      nav a {
+        color: var(--parchment);
+        text-decoration: none;
+        margin: 0 0.85rem;
+        font-size: 1.02rem;
+        white-space: nowrap;
+      }
+
+      nav a:hover {
+        color: var(--gold);
+        text-decoration: underline;
+      }
+
+      main {
+        flex: 1;
+        max-width: 1440px;
+        margin: 2.5rem auto;
+        padding: 0 2rem;
+        width: 100%;
+      }
+
+      .gallery-intro {
+        background: white;
+        padding: 1.75rem 2rem;
+        margin-bottom: 2rem;
+        border-radius: 8px;
+        border-left: 4px solid var(--gold);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .gallery-intro h2 {
+        color: var(--burgundy);
+        font-size: 1.6rem;
+        margin-bottom: 0.6rem;
+      }
+
+      .gallery-intro p {
+        color: var(--text-light);
+      }
+
+      /* ── FILTRI ── */
+      .gallery-filters {
+        background: white;
+        padding: 1.25rem 1.5rem;
+        margin-bottom: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        align-items: flex-end;
+      }
+
+      .gallery-filters__group {
+        flex: 1 1 200px;
+        min-width: 0;
+      }
+
+      .gallery-filters__label {
+        display: block;
+        font-size: 0.78rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--burgundy);
+        font-weight: bold;
+        margin-bottom: 0.35rem;
+      }
+
+      .gallery-filters select,
+      .gallery-filters input {
+        width: 100%;
+        min-height: 42px;
+        padding: 0.55rem 0.7rem;
+        font: inherit;
+        color: var(--text);
+        background: #fffdf8;
+        border: 1px solid #c8bda7;
+        border-radius: 6px;
+      }
+
+      .gallery-filters select:focus,
+      .gallery-filters input:focus {
+        outline: 2px solid rgba(114, 47, 55, 0.3);
+        border-color: var(--burgundy);
+        outline-offset: 1px;
+      }
+
+      .gallery-count {
+        flex: 0 0 auto;
+        font-size: 0.9rem;
+        font-style: italic;
+        color: var(--text-light);
+        padding-bottom: 0.6rem;
+      }
+
+      /* ── INDICE ALFABETICO ── */
+      .gallery-alpha {
+        background: white;
+        padding: 0.9rem 1.2rem;
+        margin-bottom: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+
+      .gallery-alpha a {
+        display: inline-block;
+        min-width: 2rem;
+        padding: 0.15rem 0.3rem;
+        color: var(--burgundy);
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      .gallery-alpha a:hover {
+        color: var(--dark-gold);
+        text-decoration: underline;
+      }
+
+      .gallery-alpha a.is-empty {
+        color: #c0b8a4;
+        pointer-events: none;
+        font-weight: normal;
+      }
+
+      /* ── SEZIONI E GRUPPI ── */
+      .gallery-part {
+        margin-bottom: 1.5rem;
+      }
+
+      .gallery-part__title {
+        color: var(--burgundy);
+        font-size: 1.9rem;
+        border-bottom: 2px solid var(--gold);
+        padding-bottom: 0.4rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .gallery-part__note {
+        color: var(--text-light);
+        font-style: italic;
+        font-size: 0.92rem;
+      }
+
+      .gallery-group {
+        margin-bottom: 2.5rem;
+        scroll-margin-top: 1rem;
+      }
+
+      .gallery-group__head {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 0.75rem;
+        border-bottom: 1px solid var(--dark-parchment);
+        padding-bottom: 0.4rem;
+        margin-bottom: 1.1rem;
+      }
+
+      .gallery-group__title {
+        font-size: 1.35rem;
+        margin: 0;
+      }
+
+      .gallery-group__title a {
+        color: var(--burgundy);
+        text-decoration: none;
+      }
+
+      .gallery-group__title a:hover {
+        text-decoration: underline;
+      }
+
+      .gallery-group__meta {
+        font-size: 0.78rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: var(--text-light);
+      }
+
+      .gallery-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .gallery-item {
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        border-top: 3px solid var(--gold);
+        display: flex;
+        flex-direction: column;
+        transition:
+          transform 0.25s ease,
+          box-shadow 0.25s ease;
+      }
+
+      .gallery-item:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+      }
+
+      .gallery-item__frame {
+        background: var(--dark-parchment);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        aspect-ratio: 4 / 3;
+        overflow: hidden;
+      }
+
+      .gallery-item__frame img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .gallery-item__body {
+        padding: 0.9rem 1rem 1.1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.4rem;
+        flex: 1;
+      }
+
+      .gallery-item__caption {
+        font-size: 0.86rem;
+        color: var(--text-light);
+        font-style: italic;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .gallery-item__caption.is-expanded {
+        -webkit-line-clamp: unset;
+        line-clamp: unset;
+        overflow: visible;
+      }
+
+      .gallery-item__more {
+        align-self: flex-start;
+        background: none;
+        border: none;
+        padding: 0;
+        font: inherit;
+        font-size: 0.8rem;
+        color: var(--burgundy);
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      /* ── STATO E PAGINAZIONE ── */
+      .gallery-status {
+        text-align: center;
+        font-style: italic;
+        color: var(--text-light);
+        padding: 2rem 0;
+      }
+
+      .gallery-more-wrap {
+        text-align: center;
+        margin-bottom: 3rem;
+      }
+
+      .btn {
+        display: inline-block;
+        background: linear-gradient(
+          135deg,
+          var(--gold) 0%,
+          var(--dark-gold) 100%
+        );
+        color: var(--dark-burgundy);
+        padding: 0.8rem 1.8rem;
+        border-radius: 4px;
+        text-decoration: none;
+        font: inherit;
+        font-weight: bold;
+        border: 2px solid var(--dark-gold);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .btn:hover {
+        background: linear-gradient(
+          135deg,
+          var(--dark-gold) 0%,
+          var(--gold) 100%
+        );
+        transform: scale(1.04);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+
+      footer {
+        background: var(--burgundy);
+        color: var(--parchment);
+        text-align: center;
+        padding: 2rem;
+        margin-top: 2rem;
+        border-top: 3px solid var(--gold);
+      }
+
+      footer p {
+        margin-bottom: 0.5rem;
+      }
+
+      footer a {
+        color: var(--gold);
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        color: white;
+        text-decoration: underline;
+      }
+
+      @media (max-width: 600px) {
+        header {
+          padding: 1.5rem 1rem;
+        }
+
+        header h1 {
+          font-size: 1.8rem;
+        }
+
+        nav a {
+          display: inline-block;
+          margin: 0.25rem 0.5rem;
+        }
+
+        main {
+          margin: 1.5rem auto;
+          padding: 0 1rem;
+        }
+
+        .gallery-intro,
+        .gallery-filters,
+        .gallery-alpha {
+          padding: 1.2rem;
+        }
+
+        .gallery-part__title {
+          font-size: 1.5rem;
+        }
+
+        .gallery-grid {
+          grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+          gap: 1rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>Gallery</h1>
+      <p class="tagline">
+        Every image published on this site, with its caption and the entry it
+        illustrates
+      </p>
+    </header>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="artists.html">Artists</a>
+      <a href="churches.html">Churches</a>
+      <a href="codices.html">Codices</a>
+      <a href="papers.html">Papers</a>
+      <a href="glossary/">Glossary</a>
+      <a href="gallery.html">Gallery</a>
+    </nav>
+
+    <main>
+      <section class="gallery-intro">
+        <h2>About this gallery</h2>
+        <p>
+          The images gathered here are drawn from the entries themselves, and
+          the page is rebuilt whenever new material is published. Artists come
+          first, in alphabetical order; churches, codices, papers and saints
+          follow in their own sections. Each caption is the one that accompanies
+          the image in its own entry; follow the heading to read the full
+          discussion.
+        </p>
+      </section>
+
+      <section class="gallery-filters" aria-label="Filter the gallery">
+        <div class="gallery-filters__group">
+          <label class="gallery-filters__label" for="gallery-section">
+            Section
+          </label>
+          <select id="gallery-section">
+            <option value="">All sections</option>
+          </select>
+        </div>
+
+        <div class="gallery-filters__group">
+          <label class="gallery-filters__label" for="gallery-century">
+            Century
+          </label>
+          <select id="gallery-century">
+            <option value="">All centuries</option>
+          </select>
+        </div>
+
+        <div class="gallery-filters__group">
+          <label class="gallery-filters__label" for="gallery-search">
+            Search captions
+          </label>
+          <input
+            type="search"
+            id="gallery-search"
+            placeholder="Pulpit, mosaic, Crucifixion…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+
+        <p class="gallery-count" id="gallery-count"></p>
+      </section>
+
+      <nav
+        class="gallery-alpha"
+        id="gallery-alpha"
+        aria-label="Jump to letter"
+      ></nav>
+
+      <div id="gallery-body"></div>
+
+      <p class="gallery-status" id="gallery-status">Loading images…</p>
+
+      <div class="gallery-more-wrap">
+        <button class="btn" id="gallery-more" hidden>Show more</button>
+      </div>
+    </main>
+
+    <footer>
+      <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
+      <p>
+        A collaborative scholarly project documenting medieval art and artists
+      </p>
+    </footer>
+
+    <script>
+      // Galleria. L'indice (assets/data/gallery-index.json) e' prodotto da
+      // scripts/build_gallery_index.py, che estrae le <figure> dalle schede.
+      //
+      // Struttura: gli artisti costituiscono la prima parte, ordinata
+      // alfabeticamente per titolo della scheda; le altre sezioni seguono in
+      // parti proprie. Dentro ogni gruppo le figure restano nell'ordine in cui
+      // compaiono nel testo, che e' quello in cui l'autore le ha disposte.
+      (function () {
+        var body = document.getElementById("gallery-body");
+        var alphaNav = document.getElementById("gallery-alpha");
+        var status = document.getElementById("gallery-status");
+        var countEl = document.getElementById("gallery-count");
+        var moreBtn = document.getElementById("gallery-more");
+        var sectionSel = document.getElementById("gallery-section");
+        var centurySel = document.getElementById("gallery-century");
+        var searchInput = document.getElementById("gallery-search");
+        if (!body) return;
+
+        // Si rendono gruppi, non singole immagini: una scheda non va spezzata
+        // a meta' fra due caricamenti.
+        var BATCH_GROUPS = 8;
+
+        var all = [];
+        var flatGroups = [];
+        var rendered = 0;
+
+        var ROMAN = ["VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV"];
+        var SECTION_ORDER = [
+          "Artists",
+          "Churches",
+          "Codex",
+          "Papers",
+          "Saints",
+        ];
+        var SECTION_LABEL = {
+          Artists: "Artists",
+          Churches: "Churches and Sacred Spaces",
+          Codex: "Illuminated Codices",
+          Papers: "Research Papers",
+          Saints: "Saints",
+        };
+
+        function norm(s) {
+          return (s || "")
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "");
+        }
+
+        function groupId(g) {
+          return "g-" + (g.url || g.entry).replace(/[^\w-]+/g, "-");
+        }
+
+        // Prima lettera utile del titolo, per l'indice alfabetico.
+        function initial(title) {
+          var n = norm(title).replace(/^[^a-z]+/, "");
+          var c = n.charAt(0).toUpperCase();
+          return /[A-Z]/.test(c) ? c : "#";
+        }
+
+        function populateFilters() {
+          var sections = [];
+          all.forEach(function (f) {
+            if (f.section && sections.indexOf(f.section) === -1) {
+              sections.push(f.section);
+            }
+          });
+          sections.sort(function (a, b) {
+            var ia = SECTION_ORDER.indexOf(a);
+            var ib = SECTION_ORDER.indexOf(b);
+            return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+          });
+          sections.forEach(function (s) {
+            var o = document.createElement("option");
+            o.value = s;
+            o.textContent = SECTION_LABEL[s] || s;
+            sectionSel.appendChild(o);
+          });
+
+          var centuries = [];
+          all.forEach(function (f) {
+            if (f.century && centuries.indexOf(f.century) === -1) {
+              centuries.push(f.century);
+            }
+          });
+          centuries.sort(function (a, b) {
+            return ROMAN.indexOf(a) - ROMAN.indexOf(b);
+          });
+          centuries.forEach(function (c) {
+            var o = document.createElement("option");
+            o.value = c;
+            o.textContent = c + " century";
+            centurySel.appendChild(o);
+          });
+        }
+
+        // Raggruppa per sezione e, dentro ciascuna, per scheda; le schede
+        // vanno in ordine alfabetico, le sezioni nell'ordine stabilito.
+        function buildGroups(figures) {
+          var bySection = {};
+
+          figures.forEach(function (f) {
+            var sec = f.section || "Other";
+            if (!bySection[sec]) bySection[sec] = {};
+            var key = f.url || f.entry;
+            if (!bySection[sec][key]) {
+              bySection[sec][key] = {
+                entry: f.entry,
+                url: f.url,
+                century: f.century,
+                section: sec,
+                items: [],
+              };
+            }
+            bySection[sec][key].items.push(f);
+          });
+
+          var out = [];
+          Object.keys(bySection)
+            .sort(function (a, b) {
+              var ia = SECTION_ORDER.indexOf(a);
+              var ib = SECTION_ORDER.indexOf(b);
+              return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+            })
+            .forEach(function (sec) {
+              var groups = Object.keys(bySection[sec]).map(function (k) {
+                return bySection[sec][k];
+              });
+              groups.sort(function (a, b) {
+                return norm(a.entry).localeCompare(norm(b.entry));
+              });
+              groups.forEach(function (g) {
+                out.push(g);
+              });
+            });
+
+          return out;
+        }
+
+        function makeItem(f) {
+          var article = document.createElement("article");
+          article.className = "gallery-item";
+
+          var frame = document.createElement("div");
+          frame.className = "gallery-item__frame";
+
+          var link = document.createElement("a");
+          link.href = f.url;
+
+          var img = document.createElement("img");
+          img.src = f.src;
+          img.alt = f.alt || f.caption || f.entry;
+          img.loading = "lazy";
+          img.decoding = "async";
+          link.appendChild(img);
+          frame.appendChild(link);
+          article.appendChild(frame);
+
+          var itemBody = document.createElement("div");
+          itemBody.className = "gallery-item__body";
+
+          if (f.caption) {
+            var cap = document.createElement("p");
+            cap.className = "gallery-item__caption";
+            cap.textContent = f.caption;
+            itemBody.appendChild(cap);
+
+            var btn = document.createElement("button");
+            btn.className = "gallery-item__more";
+            btn.type = "button";
+            btn.textContent = "Read the full caption";
+            btn.addEventListener("click", function () {
+              var open = cap.classList.toggle("is-expanded");
+              btn.textContent = open ? "Show less" : "Read the full caption";
+            });
+            itemBody.appendChild(btn);
+
+            // Il pulsante serve solo se il testo e' davvero troncato.
+            requestAnimationFrame(function () {
+              if (cap.scrollHeight <= cap.clientHeight + 2) btn.remove();
+            });
+          }
+
+          article.appendChild(itemBody);
+          return article;
+        }
+
+        function makeGroup(g) {
+          var section = document.createElement("section");
+          section.className = "gallery-group";
+          section.id = groupId(g);
+
+          var head = document.createElement("div");
+          head.className = "gallery-group__head";
+
+          var h3 = document.createElement("h3");
+          h3.className = "gallery-group__title";
+          var a = document.createElement("a");
+          a.href = g.url;
+          a.textContent = g.entry;
+          h3.appendChild(a);
+          head.appendChild(h3);
+
+          var meta = document.createElement("span");
+          meta.className = "gallery-group__meta";
+          meta.textContent =
+            (g.century ? g.century + " century · " : "") +
+            g.items.length +
+            (g.items.length === 1 ? " image" : " images");
+          head.appendChild(meta);
+
+          section.appendChild(head);
+
+          var grid = document.createElement("div");
+          grid.className = "gallery-grid";
+          g.items.forEach(function (f) {
+            grid.appendChild(makeItem(f));
+          });
+          section.appendChild(grid);
+
+          return section;
+        }
+
+        function renderBatch() {
+          var frag = document.createDocumentFragment();
+          var end = Math.min(rendered + BATCH_GROUPS, flatGroups.length);
+
+          for (var i = rendered; i < end; i++) {
+            var g = flatGroups[i];
+
+            // Intestazione di parte, quando cambia sezione.
+            if (i === 0 || flatGroups[i - 1].section !== g.section) {
+              var part = document.createElement("div");
+              part.className = "gallery-part";
+
+              var h2 = document.createElement("h2");
+              h2.className = "gallery-part__title";
+              h2.id = "part-" + g.section;
+              h2.textContent = SECTION_LABEL[g.section] || g.section;
+              part.appendChild(h2);
+
+              var note = document.createElement("p");
+              note.className = "gallery-part__note";
+              note.textContent =
+                g.section === "Artists"
+                  ? "Entries in alphabetical order."
+                  : "Works in alphabetical order.";
+              part.appendChild(note);
+
+              frag.appendChild(part);
+            }
+
+            frag.appendChild(makeGroup(g));
+          }
+
+          body.appendChild(frag);
+          rendered = end;
+          moreBtn.hidden = rendered >= flatGroups.length;
+        }
+
+        function buildAlphaNav() {
+          alphaNav.innerHTML = "";
+          var present = {};
+          flatGroups.forEach(function (g) {
+            if (g.section !== "Artists") return;
+            var l = initial(g.entry);
+            if (!present[l]) present[l] = true;
+          });
+
+          "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach(function (letter) {
+            var a = document.createElement("a");
+            a.textContent = letter;
+            if (present[letter]) {
+              a.href = "#";
+              a.addEventListener("click", function (ev) {
+                ev.preventDefault();
+                jumpToLetter(letter);
+              });
+            } else {
+              a.className = "is-empty";
+              a.setAttribute("aria-disabled", "true");
+            }
+            alphaNav.appendChild(a);
+          });
+        }
+
+        // Rende i gruppi necessari finche' la lettera cercata non e' in pagina.
+        function jumpToLetter(letter) {
+          var target = -1;
+          for (var i = 0; i < flatGroups.length; i++) {
+            if (
+              flatGroups[i].section === "Artists" &&
+              initial(flatGroups[i].entry) === letter
+            ) {
+              target = i;
+              break;
+            }
+          }
+          if (target === -1) return;
+
+          while (rendered <= target) renderBatch();
+
+          var el = document.getElementById(groupId(flatGroups[target]));
+          if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+
+        function applyFilters() {
+          var sec = sectionSel.value;
+          var cen = centurySel.value;
+          var q = norm(searchInput.value.trim());
+
+          var filtered = all.filter(function (f) {
+            if (sec && f.section !== sec) return false;
+            if (cen && f.century !== cen) return false;
+            if (q) {
+              var hay = norm(f.caption + " " + f.alt + " " + f.entry);
+              if (hay.indexOf(q) === -1) return false;
+            }
+            return true;
+          });
+
+          flatGroups = buildGroups(filtered);
+
+          body.innerHTML = "";
+          rendered = 0;
+          status.textContent = "";
+
+          countEl.textContent =
+            filtered.length === 0
+              ? "No images match these filters."
+              : filtered.length +
+                " images across " +
+                flatGroups.length +
+                (flatGroups.length === 1 ? " entry." : " entries.");
+
+          buildAlphaNav();
+
+          if (flatGroups.length) {
+            renderBatch();
+          } else {
+            moreBtn.hidden = true;
+          }
+        }
+
+        var timer;
+        function debouncedFilter() {
+          clearTimeout(timer);
+          timer = setTimeout(applyFilters, 150);
+        }
+
+        sectionSel.addEventListener("change", applyFilters);
+        centurySel.addEventListener("change", applyFilters);
+        searchInput.addEventListener("input", debouncedFilter);
+        moreBtn.addEventListener("click", renderBatch);
+
+        fetch("/assets/data/gallery-index.json")
+          .then(function (r) {
+            if (!r.ok) throw new Error(r.status);
+            return r.json();
+          })
+          .then(function (data) {
+            all = data;
+            populateFilters();
+            applyFilters();
+          })
+          .catch(function () {
+            status.textContent = "The gallery index could not be loaded.";
+            countEl.textContent = "";
+          });
+      })();
+    </script>
+  </body>
+</html>
