@@ -264,10 +264,16 @@ def main() -> int:
     previous = _load_json(NOTICES_PATH)
     previous_entries = previous.get("notices") or []
 
+    updated_at, new_entries = (None, [])
     if EVENT_PATH.exists() and EVENT_PATH.is_file():
         updated_at, new_entries = _parse_event_payload(EVENT_PATH)
-    else:
-        print("GITHUB_EVENT_PATH not found. Falling back to recent git history.")
+
+    # Il payload di GitHub non popola sempre 'added'/'modified' nei commit
+    # (la chiave puo' mancare del tutto): in quel caso si ricostruisce dalla
+    # storia git, che e' comunque la fonte piu' affidabile.
+
+    if not new_entries:
+        print("Payload without usable file lists. Falling back to git history.")
         updated_at, new_entries = _parse_git_history_fallback()
 
     if not new_entries:

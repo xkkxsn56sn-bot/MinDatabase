@@ -20,18 +20,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
-
-      - name: Diagnostica payload
-        run: |
-          echo "EVENT_PATH=$GITHUB_EVENT_PATH"
-          python3 -c "
-          import json, os
-          p = os.environ['GITHUB_EVENT_PATH']
-          d = json.load(open(p))
-          print('commits:', len(d.get('commits') or []))
-          for c in d.get('commits') or []:
-              print(' ', c.get('id','')[:8], 'modified:', c.get('modified'))
-          "
+        with:
+          # Il payload dell'evento non popola sempre 'added'/'modified' nei
+          # commit; in quel caso lo script ricostruisce le notizie da git log,
+          # che ha bisogno di storia. Un solo commit (il default) non basta.
+          fetch-depth: 30
 
       - name: Set up Python
         uses: actions/setup-python@v7
