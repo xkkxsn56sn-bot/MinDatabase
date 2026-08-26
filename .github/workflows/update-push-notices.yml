@@ -49,3 +49,55 @@ jobs:
           target_branch="${GITHUB_REF_NAME:-main}"
           git pull --rebase origin "$target_branch"
           git push origin HEAD:"$target_branch"
+
+      # L'invio sta in questo workflow e non in uno proprio perche' i commit
+      # fatti con GITHUB_TOKEN non generano nuovi eventi: un workflow separato,
+      # in ascolto sul commit del bot, non partirebbe mai.
+      - name: Write subscribers file
+        env:
+          SUBSCRIBERS: ${{ secrets.NEWSLETTER_SUBSCRIBERS }}
+        run: |
+          if [ -z "$SUBSCRIBERS" ]; then
+            echo "NEWSLETTER_SUBSCRIBERS is not set. Skipping newsletter."
+            exit 0
+          fi
+          printf '%s\n' "$SUBSCRIBERS" > newsletter_subscribers.csv
+          echo "Subscribers file written ($(wc -l < newsletter_subscribers.csv) lines)."
+
+      - name: Send newsletter
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SITE_BASE_URL: https://www.medievalvisions.com
+          NEWSLETTER_RECIPIENT_OVERRIDE: albe_b@icloud.com
+        run: |
+          if [ ! -f newsletter_subscribers.csv ]; then
+            echo "No subscribers file. Skipping."
+            exit 0
+          fi
+          python scripts/send_newsletter_updates.py
+
+      # Il file degli iscritti non deve sopravvivere al job ne' finire in un
+      # commit: e' in .gitignore, ma si rimuove comunque per prudenza.
+      - name: Remove subscribers file
+        if: always()
+        run: rm -f newsletter_subscribers.csv
+
+      - name: Commit newsletter state
+        run: |
+          if git diff --quiet -- assets/data/newsletter_last_notified.json; then
+            echo "Newsletter state unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/newsletter_last_notified.json
+          git commit -m "chore: record newsletter send"
+
+          target_branch="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$target_branch"
+          git push origin HEAD:"$target_branch"
