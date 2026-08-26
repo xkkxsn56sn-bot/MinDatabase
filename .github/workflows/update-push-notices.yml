@@ -72,7 +72,6 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_FROM: ${{ secrets.SMTP_FROM }}
           SITE_BASE_URL: https://www.medievalvisions.com
-          NEWSLETTER_RECIPIENT_OVERRIDE: albe_b@icloud.com
         run: |
           if [ ! -f newsletter_subscribers.csv ]; then
             echo "No subscribers file. Skipping."
