@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-25T17:00:00+02:00",
+  "updated_at": "2026-08-26T09:10:20+00:00",
   "notices": [
     {
-      "title": "Andrea di Cione (Orcagna)",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Andrea-di-Cione-Orcagna.md",
-      "page_url": "/Content/Artists/XIV-c/Andrea-di-Cione-Orcagna.html",
-      "change_type": "modified",
-      "pushed_at": "2026-08-25T17:00:00+02:00"
+      "title": "Codex Usserianus Primus (MS 55)",
+      "section": "Codices",
+      "path": "Content/Codex/Codex-Usserianus-Primus.md",
+      "page_url": "/Content/Codex/Codex-Usserianus-Primus.html",
+      "change_type": "created",
+      "pushed_at": "2026-08-26T11:09:52+02:00"
     }
   ]
 }
