@@ -332,7 +332,7 @@ The Book of Armagh, then, spent most of its existence functioning as something b
 ### The Fourfold Gospel in Outline: The Evangelist Symbols Page
 
 <figure>
-  <img src="/Images/Book-of-Armagh/Armagh-04.jpg" alt="The Fourfold Gospel in Outline: The Evangelist Symbols Page of the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/armagh-04.jpg" alt="The Fourfold Gospel in Outline: The Evangelist Symbols Page of the Book of Armagh">
   <figcaption>The Fourfold Gospel in Outline: The Evangelist Symbols Page, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 32v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ The leaf is in sound condition, with cockling along the upper edge, brown staini
 ### Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names
 
 <figure>
-  <img src="/Images/Book-of-Armagh/Armagh-03.jpg" alt="Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/armagh-03.jpg" alt="Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names in the Book of Armagh">
   <figcaption>Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53r. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -378,7 +378,7 @@ Two later interventions complete the picture. A modern pencil foliation, *53*, s
 ### A Lion in Brown Ink: The Symbol of Saint Mark
 
 <figure>
-  <img src="/Images/Book-of-Armagh/Armagh-01.jpg" alt="A Lion in Brown Ink: The Symbol of Saint Mark in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/armagh-01.jpg" alt="A Lion in Brown Ink: The Symbol of Saint Mark in the Book of Armagh">
   <figcaption>A Lion in Brown Ink: The Symbol of Saint Mark, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 54v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -395,7 +395,7 @@ The leaf survives in good condition: the vellum has darkened unevenly and shows 
 ### The Close of Matthew: Explicit, Collect, and a Vanished Signature
 
 <figure>
-  <img src="/Images/Book-of-Armagh/Armagh-02.jpg" alt="The Close of Matthew: Explicit, Collect, and a Vanished Signature in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/armagh-02.jpg" alt="The Close of Matthew: Explicit, Collect, and a Vanished Signature in the Book of Armagh">
   <figcaption>The Close of Matthew: Explicit, Collect, and a Vanished Signature, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -424,7 +424,7 @@ Discolouration of exactly this kind was produced in the nineteenth century by th
 ### Paul's Signature and a Decorated P: The Opening of Second Corinthians
 
 <figure>
-  <img src="/Images/Book-of-Armagh/Armagh-05.jpg" alt="Paul's Signature and a Decorated P: The Opening of Second Corinthians in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/armagh-05.jpg" alt="Paul's Signature and a Decorated P: The Opening of Second Corinthians in the Book of Armagh">
   <figcaption>Paul's Signature and a Decorated P: The Opening of Second Corinthians, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 123r. Armagh, c. 807–808. Ink and pigment on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
