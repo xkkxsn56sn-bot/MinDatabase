@@ -38,12 +38,17 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     contenitore nessun id e' duplicato, e nelle due pagine di note ogni voce
     ha esattamente un <h3>.
 
+9. Ogni immagine citata in una scheda esiste, con le maiuscole esatte. Il
+    confronto e' sensibile alle maiuscole anche su filesystem che non lo
+    sono: 'Armagh-01.jpg' trova 'armagh-01.jpg' su macOS e fallisce su
+    GitHub Pages. Le immagini non passano da nessun altro controllo.
+
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
 
 Uscita: codice 1 se vengono trovate anomalie, 0 altrimenti.
 """
-
+import os
 import json
 import re
 import sys
@@ -367,6 +372,80 @@ def check_anchor_links(md_files, ids_by_file, anomalies):
                     f"{rel_src}: '{anchor}' non trovata in {fname}{hint}"
                 )
 
+# --- Check 9: riferimenti alle immagini ---------------------------------
+# Le immagini non passano da nessun altro controllo: non sono link a pagine
+# (check 7) ne' ancore (check 8), e il loro percorso non compare nei JSON di
+# sezione. Un riferimento sbagliato produce quindi una figura vuota che nessuno
+# segnala.
+#
+# Il confronto e' deliberatamente sensibile alle maiuscole. Il filesystem di
+# macOS non lo e', quindi 'Armagh-01.jpg' trova 'armagh-01.jpg' sul Mac e
+# fallisce su GitHub Pages, che gira su Linux. Path.exists() riprodurrebbe il
+# comportamento della macchina su cui gira; qui si confronta invece il nome
+# esatto contro il contenuto reale della cartella.
+IMG_REF_RE = re.compile(r'(?:src|href)="(/?Images/[^"]+)"')
+
+
+def resolve_case_sensitive(rel_path):
+    """True se rel_path esiste con esattamente queste maiuscole.
+
+    Si scende componente per componente confrontando con il contenuto della
+    directory, invece di affidarsi a exists(): su un filesystem
+    case-insensitive quest'ultimo direbbe di si' anche a una maiuscola
+    sbagliata, ed e' proprio l'errore che questo check deve cogliere.
+    """
+    parts = Path(rel_path).parts
+    current = REPO_ROOT
+    for part in parts:
+        try:
+            entries = os.listdir(current)
+        except (NotADirectoryError, FileNotFoundError, PermissionError):
+            return False
+        if part not in entries:
+            return False
+        current = current / part
+    return True
+
+
+def check_image_references(md_files, anomalies):
+    """Verifica che ogni immagine citata nelle schede esista, maiuscole incluse."""
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+
+        rel_src = str(md_path.relative_to(REPO_ROOT))
+        seen = set()
+
+        for ref in IMG_REF_RE.findall(text):
+            if ref in seen:
+                continue
+            seen.add(ref)
+
+            rel_path = urllib.parse.unquote(ref).lstrip("/")
+
+            if resolve_case_sensitive(rel_path):
+                continue
+
+            # Se il file esiste ignorando le maiuscole, il messaggio lo dice:
+            # e' l'errore che sul Mac non si vede e in produzione rompe.
+            actual = None
+            parent = REPO_ROOT / Path(rel_path).parent
+            name = Path(rel_path).name
+            if parent.is_dir():
+                for entry in os.listdir(parent):
+                    if entry.lower() == name.lower():
+                        actual = entry
+                        break
+
+            if actual:
+                anomalies["Immagine con maiuscole errate"].append(
+                    f"{rel_src}: '{ref}' -> il file su disco e' '{actual}'"
+                )
+            else:
+                anomalies["Immagine inesistente"].append(f"{rel_src}: '{ref}'")
+
 def main():
     anomalies = defaultdict(list)
 
@@ -538,6 +617,7 @@ def main():
 
     ids_by_file = load_anchor_ids(anomalies)
     check_anchor_links(all_md + root_md, ids_by_file, anomalies)
+    check_image_references(all_md + root_md, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
