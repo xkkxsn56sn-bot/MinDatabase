@@ -681,6 +681,25 @@
         display: none;
       }
 
+      /* I messaggi di Formspree restano invisibili finche' sono vuoti. */
+      .newsletter-note[data-fs-error]:empty,
+      .newsletter-note[data-fs-success] {
+        display: none;
+      }
+
+      .newsletter-note[data-fs-error]:not(:empty) {
+        color: var(--burgundy);
+        font-weight: bold;
+      }
+
+      /* Formspree rimuove l'attributo hidden dal blocco di successo quando
+         la sottomissione riesce. */
+      .newsletter-note[data-fs-success]:not([hidden]) {
+        display: block;
+        color: var(--burgundy);
+        font-weight: bold;
+      }
+
       footer {
         background: var(--burgundy);
         color: var(--parchment);
@@ -958,8 +977,54 @@
         hidden
         aria-labelledby="newsletter-signup-heading"
       >
-        <h2 id="newsletter-signup-heading">Future Newsletter</h2>
-        <p>Registration is temporarily unavailable.</p>
+        <h2 id="newsletter-signup-heading">Newsletter</h2>
+        <p>
+          New entries are published irregularly, as research allows. Leave an
+          address here and you will be told when something new appears — a few
+          messages a year, no more.
+        </p>
+
+        <form id="newsletter-form" class="newsletter-form">
+          <label for="newsletter-email">Email address</label>
+          <input
+            type="email"
+            id="newsletter-email"
+            name="email"
+            placeholder="your@email.com"
+            autocomplete="email"
+            required
+            data-fs-field
+          />
+
+          <button type="submit" data-fs-submit-btn>Subscribe</button>
+
+          <!-- Campo esca: invisibile all'utente, compilato solo dai bot.
+           Formspree scarta le sottomissioni che lo contengono. -->
+          <div class="newsletter-honeypot" aria-hidden="true">
+            <label for="newsletter-gotcha">Leave this field empty</label>
+            <input
+              type="text"
+              id="newsletter-gotcha"
+              name="_gotcha"
+              tabindex="-1"
+              autocomplete="off"
+            />
+          </div>
+        </form>
+
+        <p class="newsletter-note" data-fs-error="email"></p>
+        <p class="newsletter-note" data-fs-error></p>
+        <p class="newsletter-note" data-fs-success>
+          Thank you — your address has been recorded.
+        </p>
+
+        <p class="newsletter-note">
+          The address is used for these notices only, is never shared, and can
+          be removed at any time by writing to
+          <a href="mailto:contact@medievalvisions.com"
+            >contact@medievalvisions.com</a
+          >.
+        </p>
       </section>
     </main>
 
@@ -1466,5 +1531,19 @@
     </script>
 
     <script src="/assets/js/visitor-counter.js" defer></script>
+    <script>
+      // Iscrizione alla newsletter via Formspree (AJAX): l'utente resta sulla
+      // pagina e il messaggio di conferma compare sotto il modulo.
+      window.formspree =
+        window.formspree ||
+        function () {
+          (formspree.q = formspree.q || []).push(arguments);
+        };
+      formspree("initForm", {
+        formElement: "#newsletter-form",
+        formId: "xvkpkgdr",
+      });
+    </script>
+    <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
   </body>
 </html>
