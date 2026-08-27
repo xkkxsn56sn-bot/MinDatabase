@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-27T09:32:33+00:00",
+  "updated_at": "2026-08-27T09:34:55+00:00",
   "notices": [
     {
-      "title": "Codex Usserianus Primus (MS 55)",
+      "title": "Book of Armagh (Liber Ardmachanus, MS 52)",
       "section": "Codices",
-      "path": "Content/Codex/Codex-Usserianus-Primus.md",
-      "page_url": "/Content/Codex/Codex-Usserianus-Primus.html",
-      "change_type": "modified",
-      "pushed_at": "2026-08-27T11:32:10+02:00"
+      "path": "Content/Codex/Book-of-Armagh.md",
+      "page_url": "/Content/Codex/Book-of-Armagh.html",
+      "change_type": "created",
+      "pushed_at": "2026-08-27T11:34:35+02:00"
     }
   ]
 }
