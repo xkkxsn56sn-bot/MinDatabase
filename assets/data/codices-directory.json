@@ -1,6 +1,10 @@
 {
   "Manuscripts & Visionary Works": [
     {
+      "name": "Book of Armagh",
+      "href": "/Content/Codex/Book-of-Armagh.html"
+    },
+    {
       "name": "Book of Durrow",
       "href": "/Content/Codex/Book-of-Durrow.html"
     },
