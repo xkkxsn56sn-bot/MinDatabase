@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-27T09:43:19+00:00",
+  "updated_at": "2026-08-28T14:49:53+00:00",
   "notices": [
     {
-      "title": "Book of Armagh (Liber Ardmachanus, MS 52)",
+      "title": "Codex Amiatinus (Amiatino 1)",
       "section": "Codices",
-      "path": "Content/Codex/Book-of-Armagh.md",
-      "page_url": "/Content/Codex/Book-of-Armagh.html",
-      "change_type": "modified",
-      "pushed_at": "2026-08-27T11:43:00+02:00"
+      "path": "Content/Codex/Codex-Amiatinus.md",
+      "page_url": "/Content/Codex/Codex-Amiatinus.html",
+      "change_type": "created",
+      "pushed_at": "2026-08-28T16:49:29+02:00"
     }
   ]
 }
