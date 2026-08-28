@@ -693,25 +693,6 @@
         display: block;
       }
 
-      /* I messaggi di Formspree restano invisibili finche' sono vuoti. */
-      .newsletter-note[data-fs-error]:empty,
-      .newsletter-note[data-fs-success] {
-        display: none;
-      }
-
-      .newsletter-note[data-fs-error]:not(:empty) {
-        color: var(--burgundy);
-        font-weight: bold;
-      }
-
-      /* Formspree rimuove l'attributo hidden dal blocco di successo quando
-         la sottomissione riesce. */
-      .newsletter-note[data-fs-success]:not([hidden]) {
-        display: block;
-        color: var(--burgundy);
-        font-weight: bold;
-      }
-
       footer {
         background: var(--burgundy);
         color: var(--parchment);
