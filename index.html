@@ -681,6 +681,18 @@
         display: none;
       }
 
+      /* Riserva: se la libreria Formspree non carica, i messaggi restano
+         nascosti invece di comparire come conferme mai avvenute. */
+      [data-fs-success],
+      [data-fs-error] {
+        display: none;
+      }
+
+      [data-fs-success][data-fs-active],
+      [data-fs-error][data-fs-active] {
+        display: block;
+      }
+
       /* I messaggi di Formspree restano invisibili finche' sono vuoti. */
       .newsletter-note[data-fs-error]:empty,
       .newsletter-note[data-fs-success] {
