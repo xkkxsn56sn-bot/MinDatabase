@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update-gallery:
@@ -48,3 +49,13 @@ jobs:
           target_branch="${GITHUB_REF_NAME:-main}"
           git pull --rebase origin "$target_branch"
           git push origin HEAD:"$target_branch"
+
+      # I commit fatti con GITHUB_TOKEN non generano eventi, quindi il deploy
+      # non riparte da solo dopo che i workflow hanno aggiornato gli indici e
+      # il sito resta indietro di un giro. Una chiamata esplicita a
+      # workflow_dispatch, invece, funziona anche con quel token.
+      - name: Trigger site deploy
+        if: always()
+        run: gh workflow run deploy-pages.yml --ref "${GITHUB_REF_NAME:-main}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
