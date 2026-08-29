@@ -17,6 +17,10 @@ permissions:
   contents: write
   actions: write
 
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
 jobs:
   update-gallery:
     if: github.actor != 'github-actions[bot]'
