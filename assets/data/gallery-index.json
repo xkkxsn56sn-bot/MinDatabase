@@ -6840,6 +6840,51 @@
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
+  "src": "/Images/Santa-Maria-Novella/santa-maria-novella-01.jpg",
+  "alt": "The Façade",
+  "caption": "The Façade by Leon Battista Alberti, 1458-78, polychrome marble, Basilica di Santa Maria Novella, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Giotto/giotto-01.jpg",
+  "alt": "Crucifix",
+  "caption": "Crucifix, 1290-95, tempera and gold on panel, 578 x 406 cm, Basilica di Santa Maria Novella, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Varie/masaccio-01.jpg",
+  "alt": "Holy Trinity",
+  "caption": "Holy Trinity. 1425-27, fresco, 667 x 317 cm, Florence, Basilica di Santa Maria Novella.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Duccio-di-Buoninsegna/duccio-di-buoninsegna-04.jpg",
+  "alt": "Madonna Rucellai",
+  "caption": "Virgin and Child enthroned, surrounded by angels (known as the Rucellai Madonna), c. 1285, tempera and gold on panel, 450 x 290 cm, Galleria degli Uffizi, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Varie/brunelleschi-01.jpg",
+  "alt": "Crucifix",
+  "caption": "Crucifix, 1410-15, wood and tempera, 170 x 170 cm, Florence, Basilica di Santa Maria Novella, Cappella Gondi.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
   "src": "/Images/Cappella-Bardi/cappella-bardi-01.jpg",
   "alt": "Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone",
   "caption": "St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
