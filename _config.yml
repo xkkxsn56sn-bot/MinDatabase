@@ -22,6 +22,9 @@ exclude:
   - README.md
   - newsletter_subscribers.csv
   - drafts/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
 
 # Jekyll Plugins
 plugins:
