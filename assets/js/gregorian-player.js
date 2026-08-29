@@ -6,11 +6,11 @@
     },
     {
       title: "Antiphona et Magnificat",
-      src: "/assets/audio/gregoriano/Antiphona-et-Magnificat.ogg",
+      src: "/assets/audio/gregoriano/Antiphona-et-Magnificat.mp3",
     },
     {
       title: "De Profundis",
-      src: "/assets/audio/gregoriano/De-profundis.ogg",
+      src: "/assets/audio/gregoriano/De-profundis.mp3",
     },
     {
       title: "Dies Irae",
@@ -22,19 +22,19 @@
     },
     {
       title: "Lamentation",
-      src: "/assets/audio/gregoriano/Lamentation.ogg",
+      src: "/assets/audio/gregoriano/Lamentation.mp3",
     },
     {
       title: "Loquetur Dominus",
-      src: "/assets/audio/gregoriano/Loquetur-Dominus.ogg",
+      src: "/assets/audio/gregoriano/Loquetur-Dominus.mp3",
     },
     {
       title: "Pater Noster",
-      src: "/assets/audio/gregoriano/Pater-Noster.ogg",
+      src: "/assets/audio/gregoriano/Pater-Noster.mp3",
     },
     {
       title: "Salve Regina",
-      src: "/assets/audio/gregoriano/Salve-Regina.ogg",
+      src: "/assets/audio/gregoriano/Salve-Regina.mp3",
     },
     {
       title: "Sanctus (polyphony)",
@@ -46,7 +46,7 @@
     },
     {
       title: "Veni Sancte Spiritus",
-      src: "/assets/audio/gregoriano/Veni-Sancte-Spiritus.ogg",
+      src: "/assets/audio/gregoriano/Veni-Sancte-Spiritus.mp3",
     },
   ];
 
@@ -95,11 +95,10 @@
   }
 
   function getTrackIndex() {
-    var saved = toNumber(store.getItem(KEYS.index), -1);
-    if (saved >= 0 && saved < TRACKS.length) {
-      return saved;
-    }
-
+    // Un brano diverso a ogni visita, ma stabile durante la lettura: si
+    // sorteggia una volta per pagina e si azzera la posizione. Salvare
+    // l'indice fra sessioni, come si faceva prima, condannava ogni lettore
+    // a sentire per sempre l'unica traccia capitatagli la prima volta.
     var randomIndex = pickRandomTrackIndex();
     store.setItem(KEYS.index, String(randomIndex));
     store.setItem(KEYS.time, "0");
