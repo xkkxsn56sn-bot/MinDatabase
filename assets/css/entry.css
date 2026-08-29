@@ -355,6 +355,24 @@ html[data-theme="dark"] .meta-block__list a:hover {
   color: var(--text-muted);
 }
 
+.entry__reading {
+  display: inline-block;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+html[data-theme="dark"] .entry__reading {
+  background: var(--bg-panel-dark);
+  border-color: var(--border-subtle-dark);
+  color: var(--text-muted-dark);
+}
+
 html[data-theme="dark"] .entry__dates {
   color: var(--text-muted-dark);
 }
