@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-28T14:49:53+00:00",
+  "updated_at": "2026-08-29T08:19:12+00:00",
   "notices": [
     {
-      "title": "Codex Amiatinus (Amiatino 1)",
-      "section": "Codices",
-      "path": "Content/Codex/Codex-Amiatinus.md",
-      "page_url": "/Content/Codex/Codex-Amiatinus.html",
+      "title": "Basilica di Santa Maria Novella, Florence",
+      "section": "Churches",
+      "path": "Content/Churches/Basilica-Santa-Maria-Novella.md",
+      "page_url": "/Content/Churches/Basilica-Santa-Maria-Novella.html",
       "change_type": "created",
-      "pushed_at": "2026-08-28T16:49:29+02:00"
+      "pushed_at": "2026-08-29T10:08:18+02:00"
     }
   ]
 }
