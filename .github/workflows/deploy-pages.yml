@@ -12,7 +12,10 @@ on:
       - "Images/**"
       - "Thumbnails/**"
       - "_layouts/**"
+      - "_includes/**"
       - "_config.yml"
+      - "Gemfile"
+      - "Gemfile.lock"
       - "CNAME"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
@@ -28,25 +31,37 @@ concurrency:
 
 jobs:
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
 
-      - name: Configure GitHub Pages
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      # Build esplicito invece di actions/jekyll-build-pages: quest'ultima usa
+      # le versioni che GitHub decide, ignorando il Gemfile del repo. Con
+      # bundler la build in produzione usa esattamente le versioni fissate in
+      # Gemfile.lock, cioe' le stesse con cui si costruisce in locale.
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: .
-          destination: ./_site
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --destination ./_site
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./_site
 
       - name: Deploy to GitHub Pages
         id: deployment
