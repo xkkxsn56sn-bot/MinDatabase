@@ -21,7 +21,33 @@
       <h1>{{ page.title }}</h1>
       {% if page.subtitle %}
       <p>{{ page.subtitle }}</p>
-      {% endif %}
+      {% endif %} {%- assign words = content | strip_html | number_of_words -%}
+      {%- assign minutes = words | divided_by: 200 -%} {%- if minutes < 1 -%}{%-
+      assign minutes = 1 -%}{%- endif -%}
+      <p class="entry__meta-line">
+        <span class="entry__reading"
+          >{{ words }} words · about {{ minutes }} min</span
+        >
+      </p>
+      <p class="entry__audio-toggle-wrap">
+        (
+        <button
+          id="gregorian-inline-toggle"
+          type="button"
+          class="entry__audio-toggle-btn"
+          aria-label="Attiva o metti in pausa i canti gregoriani"
+        >
+          Attiva audio
+        </button>
+        <span id="gregorian-inline-volume" class="entry__audio-toggle-vol"
+          >25%</span
+        >
+        )
+      </p>
+
+      <button id="theme-toggle" type="button" class="entry__theme-toggle">
+        Day / Night mode
+      </button>
     </header>
 
     {% include nav.html %}
@@ -107,11 +133,48 @@
       </p>
     </footer>
 
+    <!-- theme script goes here, inside body and AFTER the button -->
+    <script>
+      (function () {
+        const STORAGE_KEY = "site-theme";
+        const html = document.documentElement;
+        const toggleBtn = document.getElementById("theme-toggle");
+
+        function getPreferredTheme() {
+          const stored = localStorage.getItem(STORAGE_KEY);
+          if (stored === "light" || stored === "dark") {
+            return stored;
+          }
+          // you can re-enable system preference later if you want
+          return "light";
+        }
+
+        function applyTheme(theme) {
+          html.setAttribute("data-theme", theme);
+          localStorage.setItem(STORAGE_KEY, theme);
+        }
+
+        const initialTheme = getPreferredTheme();
+        applyTheme(initialTheme);
+
+        if (toggleBtn) {
+          toggleBtn.addEventListener("click", function () {
+            const current = html.getAttribute("data-theme") || "light";
+            const next = current === "light" ? "dark" : "light";
+            applyTheme(next);
+          });
+        }
+      })();
+    </script>
+
     <script
       src="{{ '/assets/js/gregorian-player.js' | relative_url }}"
       defer
     ></script>
-    <script data-goatcounter="https://medievalvisions.goatcounter.com/count"
-            async src="//gc.zgo.at/count.js"></script>
+    <script
+      data-goatcounter="https://medievalvisions.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>

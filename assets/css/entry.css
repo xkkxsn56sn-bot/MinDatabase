@@ -56,7 +56,7 @@ body.papers-entry-page main {
 }
 
 body.papers-entry-page .entry__grid {
-  grid-template-columns: clamp(140px, 12vw, 220px) minmax(0, 1fr);
+  grid-template-columns: clamp(200px, 18vw, 320px) minmax(0, 1fr);
   gap: 1.5rem;
 }
 
@@ -858,4 +858,30 @@ html[data-theme="dark"] .entry__nav-btn {
 html[data-theme="dark"] .entry__nav-btn:hover {
   background: var(--link-hover-dark);
   color: #111111;
+}
+
+/* Pulsanti di intestazione: erano regole in linea nel solo layout entry,
+   spostate qui perche' anche papers-entry le usa. */
+.entry__audio-toggle-wrap {
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+.entry__audio-toggle-btn {
+  appearance: none;
+  border: 1px solid rgba(180, 145, 70, 0.5);
+  background: rgba(201, 169, 97, 0.16);
+  color: inherit;
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.entry__audio-toggle-vol {
+  margin-left: 0.28rem;
+  font-size: 0.74rem;
+  opacity: 0.82;
+  letter-spacing: 0.01em;
 }
