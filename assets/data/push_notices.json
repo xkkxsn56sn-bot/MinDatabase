@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-30T07:12:31+00:00",
+  "updated_at": "2026-08-30T08:45:06+00:00",
   "notices": [
     {
-      "title": "Basilica di Santa Chiara, Assisi",
-      "section": "Churches",
-      "path": "Content/Churches/Basilica-Santa-Chiara-Assisi.md",
-      "page_url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html",
+      "title": "Codex Usserianus Secundus (MS 56)",
+      "section": "Codices",
+      "path": "Content/Codex/Codex-Usserianus-Secundus.md",
+      "page_url": "/Content/Codex/Codex-Usserianus-Secundus.html",
       "change_type": "created",
-      "pushed_at": "2026-08-30T09:12:05+02:00"
+      "pushed_at": "2026-08-30T10:44:42+02:00"
     }
   ]
 }
