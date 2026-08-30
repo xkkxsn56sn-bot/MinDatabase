@@ -6840,6 +6840,51 @@
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
+  "src": "/Images/Santa-Chiara-Assisi/santa-chiara-assisi-01.jpg",
+  "alt": "Basilica di Santa Chiara ad Assisi",
+  "caption": "Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Varie/crocifisso-san-damiano-ignoto-01.jpg",
+  "alt": "Crocifisso di San Damiano",
+  "caption": "Crocifisso di San Damiano, dated debated, tempera on walnut wood with glued cloth, 190 x 120 x 12 cm, Assisi, Basilica di Santa Chiara.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-01.jpg",
+  "alt": "Santa Chiara e otto storie della sua vita",
+  "caption": "Santa Chiara and Eight Stories of Her Life, c. 1283, tempera on panel, 276 × 163 cm, Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-02.jpg",
+  "alt": "Christus patiens",
+  "caption": "Christus patiens, c. 1260, tempera on panel, Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Varie/maestro-espressionista-santa-chiara-01.jpg",
+  "alt": "La volta con le Sante in gloria",
+  "caption": "La volta con le Sante in gloria, c. 1337, fresco, Assisi, Basilica di Santa Chiara.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
   "src": "/Images/Santa-Maria-Novella/santa-maria-novella-01.jpg",
   "alt": "The Façade",
   "caption": "The Façade by Leon Battista Alberti, 1458-78, polychrome marble, Basilica di Santa Maria Novella, Florence.",
