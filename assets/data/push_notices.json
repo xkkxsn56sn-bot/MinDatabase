@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-02T10:45:43+00:00",
+  "updated_at": "2026-09-02T13:12:20+00:00",
   "notices": [
     {
-      "title": "Book of Dimma (Trinity College Dublin MS 59)",
-      "section": "Codices",
-      "path": "Content/Codex/Book-of-Dimma.md",
-      "page_url": "/Content/Codex/Book-of-Dimma.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-02T12:44:42+02:00"
+      "title": "Andrea Tafi",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Andrea-Tafi.md",
+      "page_url": "/Content/Artists/XIII-c/Andrea-Tafi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-02T15:11:50+02:00"
     }
   ]
 }
