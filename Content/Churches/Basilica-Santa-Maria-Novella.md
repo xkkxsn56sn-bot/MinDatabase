@@ -108,6 +108,13 @@ meta:
       - title: "Cosimo I de' Medici"
         url: "/endnotes.html#fn-cosimo-medici"
 
+  - title: "Reference Links"
+    links:
+      - title: "Lorenzo Ghiberti"
+        url: "/endnotes.html#fn-ghiberti-lorenzo"
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
   - title: "Keywords"
     list:
       - "Santa Maria Novella"
@@ -134,16 +141,12 @@ scholars:
     url: "/scholars.html#cavalcaselle-giovanni-battista"
   - title: "Crowe, Joseph Archer"
     url: "/scholars.html#crowe-joseph-archer"
-  - title: "Ghiberti, Lorenzo"
-    url: "/scholars.html#ghiberti-lorenzo"
   - title: "Meiss, Millard"
     url: "/scholars.html#meiss-millard"
   - title: "Milanesi, Gaetano"
     url: "/scholars.html#milanesi-gaetano"
   - title: "Offner, Richard"
     url: "/scholars.html#offner-richard"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
 ---
 
 ## Introduction and Historiographical Framing
@@ -152,7 +155,7 @@ Few buildings compress the history of Italian art as densely as the basilica of 
 
 To write the history of Santa Maria Novella is, in effect, to write in miniature the history of Florentine culture from the age of the mendicant orders to the present: its walls carry Giotto's monumental Crucifix and Masaccio's perspectival Trinity, its confraternity once owned Duccio's Rucellai Madonna, its chapter house preserves one of the most ambitious doctrinal fresco programmes of the Trecento, and its transept chapels were painted by Nardo di Cione, Domenico Ghirlandaio and Filippino Lippi. Alberti gave it the first authentically all'antica church front in the city, and Vasari, in the following century, rebuilt its interior according to a wholly different ideal of what a church should be. The building is thus a stratigraphy of Florentine taste, each successive campaign legible against the layer beneath it.
 
-The scholarly literature is correspondingly vast and uneven in reliability, and any responsible account must begin by acknowledging the sedimented layers of tradition through which the building has been transmitted. A great deal of what circulates in guidebooks derives ultimately from [Giorgio Vasari](/scholars.html#vasari-giorgio)'s *Lives of the Most Excellent Painters, Sculptors and Architects* (1550; second, enlarged edition of 1568), a source that is indispensable and yet demonstrably fallible; other received "facts" descend from the conventual chronicles, above all the eighteenth-century compilation of the Dominican friar Vincenzo Borghigiani.
+The scholarly literature is correspondingly vast and uneven in reliability, and any responsible account must begin by acknowledging the sedimented layers of tradition through which the building has been transmitted. A great deal of what circulates in guidebooks derives ultimately from [Giorgio Vasari](/endnotes.html#fn-vasari-giorgio)'s *Lives of the Most Excellent Painters, Sculptors and Architects* (1550; second, enlarged edition of 1568), a source that is indispensable and yet demonstrably fallible; other received "facts" descend from the conventual chronicles, above all the eighteenth-century compilation of the Dominican friar Vincenzo Borghigiani.
 
 Modern scholarship has progressively separated the documented from the legendary, and the present essay attempts to make that separation explicit throughout. Four epistemic registers are distinguished: (a) facts firmly documented by archival or material evidence; (b) matters of settled scholarly consensus; (c) genuinely contested or debated questions; and (d) traditional attributions and anecdotes, above all Vasarian ones, that lack documentary support. Making this layering visible is not pedantry: the reputation of Santa Maria Novella has been shaped as much by its legends as by its documents, and to disentangle the two is itself an act of historical understanding.
 
@@ -237,7 +240,7 @@ The **Cappella di Filippo Strozzi**, at the head of the right transept, was purc
 
 In the event the work was interrupted by the painter's long Roman sojourn to fresco the Carafa Chapel in Santa Maria sopra Minerva, and the Strozzi Chapel was completed only in 1502, well after the patron's death in 1491; a pilaster inscription records the painter's name and that date, and the delay generated a documented dispute between the artist and the Strozzi heirs over payment and pigments. The walls depict Stories of St Philip the Apostle and of St John the Evangelist within frameworks of fantastic, all'antica architecture inspired by the recently rediscovered Roman "grotesques" of the Domus Aurea, among the most inventive and unsettling decorative fantasies of the entire Quattrocento. Beneath the arch stands the porphyry tomb of Filippo Strozzi, carved by Benedetto da Maiano.
 
-The **Cappella Strozzi di Mantova**, at the head of the left transept, is raised above the transept floor — an irregularity explained by the presence of the campanile behind the end wall — and is dedicated to St Thomas Aquinas. Built in the second quarter of the fourteenth century, it was frescoed by Nardo di Cione, brother of Andrea di Cione (Orcagna), in the years around 1350/51 to 1357: a Last Judgment on the end wall, with Paradise and Hell on the flanks, the latter conceived in explicit dialogue with the topography of Dante's *Commedia* — so much so that [Lorenzo Ghiberti](/scholars.html#ghiberti-lorenzo), in his *Commentarii*, could call it "la cappella dello 'nferno," the chapel of Hell.
+The **Cappella Strozzi di Mantova**, at the head of the left transept, is raised above the transept floor — an irregularity explained by the presence of the campanile behind the end wall — and is dedicated to St Thomas Aquinas. Built in the second quarter of the fourteenth century, it was frescoed by Nardo di Cione, brother of Andrea di Cione (Orcagna), in the years around 1350/51 to 1357: a Last Judgment on the end wall, with Paradise and Hell on the flanks, the latter conceived in explicit dialogue with the topography of Dante's *Commedia* — so much so that [Lorenzo Ghiberti](/endnotes.html#fn-ghiberti-lorenzo), in his *Commentarii*, could call it "la cappella dello 'nferno," the chapel of Hell.
 
 On the altar stands the signed and dated polyptych of Orcagna, inscribed with the year 1357 and showing the enthroned Redeemer conferring the keys upon St Peter and a book upon St Thomas Aquinas; the altarpiece had been commissioned from Orcagna in 1354 by Tommaso di Rossello Strozzi, and in it the painter notably abandoned the additive logic of the traditional polyptych, unifying the picture field across its compartments. Documentary information on the frescoes themselves is sparse — neither the patron of the murals nor their precise date is securely recorded — and it is the recognised iconographic unity binding the frescoes to the dated altarpiece that leads scholars to treat them as a single campaign, with the programme tentatively associated with the Dominican friar Pietro di Martino Strozzi. This is a chapter, then, in which a firmly dated and signed altarpiece anchors a fresco cycle that is itself almost undocumented — a useful reminder of how uneven the evidentiary record can be even within a single chapel.
 

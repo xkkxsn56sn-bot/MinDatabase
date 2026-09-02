@@ -93,9 +93,12 @@ meta:
       - title: "Giotto di Bondone"
         url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
 scholars:
-  - title: "Giorgio Vasari"
-    url: "/scholars.html#vasari-giorgio"
   - title: "Joseph Archer Crowe"
     url: "/scholars.html#crowe-joseph-archer"
   - title: "Giovanni Battista Cavalcaselle"
@@ -114,7 +117,7 @@ scholars:
 
 The patronymic “di Zenobi” preserves the memory of his father, although almost nothing concrete is known about the elder Zenobi beyond the fact that he transmitted to his son a status sufficient to allow entry into the Florentine artistic guild system. Gaddo’s own marriage is undocumented, yet the existence of several sons, of whom only *Taddeo* became a painter, indicates that he presided over a sizeable household and workshop, a typical configuration for late medieval masters.
 
-Through Taddeo and, later, *Agnolo*, the Gaddi family would control one of the most successful painting dynasties in fourteenth‑century Florence, making Gaddo retrospectively the “founder” of a lineage as much as an individual artist. Biographical dates remain approximate: [Vasari](/scholars.html#vasari-giorgio) gives 1239 and 1312 as birth and death, but modern scholarship prefers a birth around 1260 and a death between 1312 and roughly 1333, both in Florence. The cause of his death is nowhere recorded, and in the absence of documentary evidence it is reasonable to assume that he died of natural causes associated with advanced age rather than plague or violence, since no chronicler marks his passing as sudden or catastrophic. His burial in Santa Croce, as reported by Vasari, aligns him with other prominent Florentine families who chose that Franciscan church as a dynastic pantheon, and it underlines the social ascent achieved within his lifetime. Thus the sparse data that survive already situate Gaddo within a dense web of kinship, civic affiliation, and memory that condition any reconstruction of his life and oeuvre.
+Through Taddeo and, later, *Agnolo*, the Gaddi family would control one of the most successful painting dynasties in fourteenth‑century Florence, making Gaddo retrospectively the “founder” of a lineage as much as an individual artist. Biographical dates remain approximate: [Vasari](/endnotes.html#fn-vasari-giorgio) gives 1239 and 1312 as birth and death, but modern scholarship prefers a birth around 1260 and a death between 1312 and roughly 1333, both in Florence. The cause of his death is nowhere recorded, and in the absence of documentary evidence it is reasonable to assume that he died of natural causes associated with advanced age rather than plague or violence, since no chronicler marks his passing as sudden or catastrophic. His burial in Santa Croce, as reported by Vasari, aligns him with other prominent Florentine families who chose that Franciscan church as a dynastic pantheon, and it underlines the social ascent achieved within his lifetime. Thus the sparse data that survive already situate Gaddo within a dense web of kinship, civic affiliation, and memory that condition any reconstruction of his life and oeuvre.
 
 The internal dynamics of the Gaddi household can be glimpsed only obliquely through later narrative sources, which emphasize both the number of children and the differentiation of their careers. Vasari, who freely mixes anecdote and documentation, stresses that although Gaddo had several sons, only Taddeo *applied himself to painting,* learning first from his father and then from Giotto, while other male heirs presumably pursued mercantile or administrative activities that helped consolidate the family fortune.
 

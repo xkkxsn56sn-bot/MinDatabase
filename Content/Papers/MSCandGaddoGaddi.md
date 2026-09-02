@@ -102,6 +102,11 @@ meta:
       - title: "Monica Bietti Favi"
         url: "/scholars.html#bietti-monica"
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
 scholars:
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"
@@ -133,8 +138,6 @@ scholars:
     url: "/scholars.html#siren-osvald"
   - title: "Toesca, Pietro"
     url: "/scholars.html#toesca-pietro"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
   - title: "Venturi, Adolfo"
     url: "/scholars.html#venturi-adolfo"
 ---
@@ -155,7 +158,7 @@ The debate was significantly advanced by [Monica Bietti Favi](/scholars.html#bie
 
 The Maestro di Santa Cecilia takes his conventional name from the dossale depicting *Saint Cecilia Enthroned with Eight Scenes from Her Life*, now in the Uffizi Galleries in Florence (inv. 449), which was originally in the church of Santa Cecilia in Florence and later transferred to the church of Santo Stefano, whose prior sold it to the Florentine Galleries in 1844. The panel, now dated around 1300–1304 on the basis of recent diagnostic investigations, constitutes the stylistic cornerstone against which all other attributions within the master's corpus are measured.
 
-[Vasari](/scholars.html#vasari-giorgio), in his 1550 edition of the *Vite*, attributed the panel to Cimabue, a classification that dominated the literature for several decades before being comprehensively dismantled by late nineteenth-century connoisseurs who recognized its distinctly Giottesque character. The artist's style is distinguished by a fluent command of architectural space, a miniaturistic refinement in decorative ornament, and a simplified but effective orchestration of narrative within the separate compartments of the altarpiece. His figures are characterized by a somewhat elongated silhouette and a calligraphic elegance that, while deeply rooted in Giotto's spatial revolution, retains elements of the older Duecento tradition in the treatment of drapery and physiognomy.
+[Vasari](/endnotes.html#fn-vasari-giorgio), in his 1550 edition of the *Vite*, attributed the panel to Cimabue, a classification that dominated the literature for several decades before being comprehensively dismantled by late nineteenth-century connoisseurs who recognized its distinctly Giottesque character. The artist's style is distinguished by a fluent command of architectural space, a miniaturistic refinement in decorative ornament, and a simplified but effective orchestration of narrative within the separate compartments of the altarpiece. His figures are characterized by a somewhat elongated silhouette and a calligraphic elegance that, while deeply rooted in Giotto's spatial revolution, retains elements of the older Duecento tradition in the treatment of drapery and physiognomy.
 
 A fundamental element in the reconstruction of the master's career is his participation in the fresco campaign at the Upper Basilica of San Francesco in Assisi, where a majority of scholars, including [Offner](/scholars.html#offner-richard) e [Toesca](/scholars.html#toesca-pietro), credit him with the completion of the Franciscan narrative cycle on the left wall, likely under the supervision of Giotto himself.
 

@@ -85,6 +85,11 @@ meta:
   - title: Documentation Note
     note: Biographical reconstruction relies heavily on Vasari and later historiography; direct archival documentation is limited.
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
 author: Andrea Tafi
 period: XIII century
 birth_place: Florence
@@ -98,8 +103,6 @@ key_works:
 artistic_style: Byzantine-rooted monumental mosaic language with gold-ground luminosity, hierarchical figuration, and transitional openings toward proto-naturalist Tuscan developments.
 
 scholars:
-  - title: Vasari, Giorgio
-    url: "/scholars.html#vasari-giorgio"
   - title: Douglas, Robert Langton
     url: "/scholars.html#douglas-robert-langton"
   - title: Longhi, Roberto
@@ -108,7 +111,7 @@ scholars:
     url: "/scholars.html#salmi-mario"
 ---
 
-*Andrea Tafi*, also known as *Andrea di Ricco or Tassi*, was a Florentine mosaicist active in the thirteenth century. According to [Vasari](/scholars.html#vasari-giorgio) and later biographical compilations, he was born in Florence in 1213 and died there in 1294, reaching an advanced age of around eighty‑one years. Almost everything that can be said about his life depends on Vasari’s *Lives* and a small group of later notices, so the historical image of the artist is strongly conditioned by literary mediation. These texts, however, converge in presenting him as a key transmitter of Byzantine mosaic technique into the artistic milieu of Florence.
+*Andrea Tafi*, also known as *Andrea di Ricco or Tassi*, was a Florentine mosaicist active in the thirteenth century. According to [Vasari](/endnotes.html#fn-vasari-giorgio) and later biographical compilations, he was born in Florence in 1213 and died there in 1294, reaching an advanced age of around eighty‑one years. Almost everything that can be said about his life depends on Vasari’s *Lives* and a small group of later notices, so the historical image of the artist is strongly conditioned by literary mediation. These texts, however, converge in presenting him as a key transmitter of Byzantine mosaic technique into the artistic milieu of Florence.
 
 They emphasise that he was particularly renowned for his contribution to the mosaic decoration of the *Baptistery of San Giovanni*, where tradition credits him above all with the angelic hierarchies and the monumental Christ in Majesty. Modern scholarship treats many of these attributions with caution, yet still acknowledges that a Florentine master called Andrea, connected with Venetian and Greek craftsmen, stood behind an important phase of the enterprise. His name is closely linked with that of his pupil *Buonamico Buffalmacco*, whose youthful tricks at his master’s expense became part of Florentine anecdotal culture through Vasari and Boccaccio. Documentary tradition also preserves the name of a probable son, Antonio d’Andrea Tafi, suggesting that the workshop had a familial continuity that extended beyond Andrea’s own lifetime.
 

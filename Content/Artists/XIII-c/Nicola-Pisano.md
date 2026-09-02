@@ -78,6 +78,11 @@ meta:
       - title: "Arnolfo di Cambio"
         url: "/Content/Artists/XIII-c/Arnolfo-di-Cambio.html"
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
 author: "Nicola Pisano"
 role: "Sculptor, founder of the classicising current in Italian Gothic sculpture"
 birth_place: "Apulia, kingdom of Frederick II (precise locality unknown)"
@@ -104,8 +109,6 @@ thematic_keywords:
 scholars:
   - title: "Ascani, Valerio"
     url: "/scholars.html#ascani-valerio"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
   - title: "Schmarsow, August"
     url: "/scholars.html#schmarsow-august"
   - title: "Gnudi, Cesare"
@@ -688,7 +691,7 @@ Saint Dominic died in the convent of the church of San Nicolò delle Vigne on 6 
 
 The workshop question here is more acute than at Siena, because the two commissions overlap. Nicola designed the new tomb and carved several figures for the principal face of the sarcophagus before being called to Siena in 1265 to construct the cathedral pulpit; the arca was completed by his workshop assistants, led by Lapo di Ricevuto. The Sienese contract of 29 September 1265 required Nicola's residence in Siena from 1 March 1266, and the Bologna work was necessarily delegated from that point.
 
-The collaborators named are Arnolfo di Cambio above all, with Lapo and Donato — the last on [Vasari](/scholars.html#vasari-giorgio)'s authority — and the Dominican lay brother Guglielmo da Pisa, who accompanied the sarcophagus panels to Bologna to set them in place. One catalogue record gives the year of that installation as 1367; this is a century adrift and plainly a typographical error for 1267, but it circulates and should not be reproduced.
+The collaborators named are Arnolfo di Cambio above all, with Lapo and Donato — the last on [Vasari](/endnotes.html#fn-vasari-giorgio)'s authority — and the Dominican lay brother Guglielmo da Pisa, who accompanied the sarcophagus panels to Bologna to set them in place. One catalogue record gives the year of that installation as 1367; this is a century adrift and plainly a typographical error for 1267, but it circulates and should not be reproduced.
 
 The consequence for attribution is direct: the Arca is the least autograph of Nicola's major works, and the balance of hands within it is correspondingly the most contested.
 

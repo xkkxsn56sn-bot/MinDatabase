@@ -82,6 +82,11 @@ meta:
       - title: "Pope Clement IV"
         url: "/endnotes.html#fn-clement-iv"
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
   - title: "Keywords"
     list:
       - "Santa Chiara"
@@ -106,8 +111,6 @@ scholars:
     url: "/scholars.html#meier-hans-rudolf"
   - title: "Tomei, Alessandro"
     url: "/scholars.html#tomei-alessandro"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
   - title: "Venturi, Adolfo"
     url: "/scholars.html#venturi-adolfo"
 ---
@@ -171,7 +174,7 @@ On the right side of the nave, near the transept, open two chapels — the Cappe
 
 The decoration of these chapels dates largely from the fourteenth century. The frescoes are associated in the literature with Puccio Capanna and Pace di Bartolo, among others. Behind the altar of the Sacrament chapel is a *Maestà*, a Madonna and Child enthroned with Saints Clare, John the Baptist, Michael and Francis, attributed to Puccio Capanna and usually dated around 1340; the figure of Clare is singled out for its quality. Other scenes — an Annunciation, a Nativity, an Adoration of the Magi, and a Resurrection and Passion sequence — are given to Pace di Bartolo and to an anonymous Umbrian master of the Trecento working under the influence of Giotto and Pietro Lorenzetti.
 
-These attributions rest on stylistic judgement rather than on documents. Puccio Capanna is himself a shadowy figure: described by [Vasari](/scholars.html#vasari-giorgio) as one of Giotto's most important pupils and treated by the Assisans as a fellow citizen, he has few securely documented works, and much of what is ascribed to him in Assisi is attribution rather than record. The chapel attributions should therefore be received as the working consensus of connoisseurship, not as fixed fact.
+These attributions rest on stylistic judgement rather than on documents. Puccio Capanna is himself a shadowy figure: described by [Vasari](/endnotes.html#fn-vasari-giorgio) as one of Giotto's most important pupils and treated by the Assisans as a fellow citizen, he has few securely documented works, and much of what is ascribed to him in Assisi is attribution rather than record. The chapel attributions should therefore be received as the working consensus of connoisseurship, not as fixed fact.
 
 ## The crypt and the rediscovery of Clare's body
 

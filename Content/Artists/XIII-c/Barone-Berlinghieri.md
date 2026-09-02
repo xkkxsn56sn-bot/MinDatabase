@@ -81,6 +81,13 @@ meta:
       - title: "Marco Berlinghieri"
         url: "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
 
+  - title: "Reference Links"
+    links:
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+      - title: "Lorenzo Ghiberti"
+        url: "/endnotes.html#fn-ghiberti-lorenzo"
+
 scholars:
   - title: "Mario Salmi"
     url: "/scholars.html#salmi-mario"
@@ -96,10 +103,6 @@ scholars:
     url: "/scholars.html#meiss-millard"
   - title: "Roberto Longhi"
     url: "/scholars.html#longhi-roberto"
-  - title: "Giorgio Vasari"
-    url: "/scholars.html#vasari-giorgio"
-  - title: "Lorenzo Ghiberti"
-    url: "/scholars.html#ghiberti-lorenzo"
 ---
 
 ## The Founding Patriarch
@@ -208,7 +211,7 @@ The theological and liturgical culture of the court would have shaped the iconog
 
 ## Painting Style
 
-Barone Berlinghieri's artistic formation was grounded entirely in the Italo-Byzantine mode of sacred painting that his father Berlinghiero had established as the defining style of the family workshop, a tradition that the *Enciclopedia dell'Arte Medievale* characterizes as the "fiorente scuola berlinghieriana" (the flourishing Berlinghieri school), the most extensive and internally consistent body of Duecento Tuscan painting. The Italo-Byzantine style, known in the primary sources under the term *maniera greca* employed by both [Ghiberti](/scholars.html#ghiberti-lorenzo) and [Vasari](/scholars.html#vasari-giorgio) in their retrospective accounts of the period, was not a monolithic or static idiom but a complex synthesis of Byzantine formal conventions with local Italian practical and devotional requirements, animated by a constant tension between the authoritative models provided by imported Eastern prototypes and the increasingly insistent claims of Western narrative and affective sensibilities.
+Barone Berlinghieri's artistic formation was grounded entirely in the Italo-Byzantine mode of sacred painting that his father Berlinghiero had established as the defining style of the family workshop, a tradition that the *Enciclopedia dell'Arte Medievale* characterizes as the "fiorente scuola berlinghieriana" (the flourishing Berlinghieri school), the most extensive and internally consistent body of Duecento Tuscan painting. The Italo-Byzantine style, known in the primary sources under the term *maniera greca* employed by both [Ghiberti](/endnotes.html#fn-ghiberti-lorenzo) and [Vasari](/endnotes.html#fn-vasari-giorgio) in their retrospective accounts of the period, was not a monolithic or static idiom but a complex synthesis of Byzantine formal conventions with local Italian practical and devotional requirements, animated by a constant tension between the authoritative models provided by imported Eastern prototypes and the increasingly insistent claims of Western narrative and affective sensibilities.
 
 The visual language of this tradition was constructed upon a foundation of Greek and Byzantine icon painting: gold grounds signifying the uncreated light of the divine realm, frontal and axially symmetrical figure compositions conveying the hieratic dignity of sacred presence, physiognomic types derived from Byzantine prototypes and rendered through a system of linear modeling known as *chrysography*, and a repertoire of gestures and attributes codified over centuries of Eastern Christian iconographic tradition. In the family's documented works, principally the two signed crucifixes attributed to Berlinghiero the father, the technical execution achieves a refinement that amply justifies the family's pre-eminence in the Lucchese painting market: the gold backgrounds laid with exceptional evenness and luminosity, the flesh tones constructed through the careful layering of an olive-green underpaint (the so-called "verdaccio") with successive applications of flesh-colored tempered pigment, and the drapery rendered in sweeping, calligraphic curves that reveal the Byzantine origins of the form while adapting them to the Italian workshop tradition. Although no work securely attributed to Barone survives, it is reasonable to assume, on the basis of his training in the family bottega and the coherent stylistic identity maintained by the workshop across generations, that his mature style shared the fundamental formal characteristics of his father's production while incorporating inflections introduced by his own temperament, his Franciscan formation, and his engagement with the evolving stylistic landscape of mid-thirteenth-century Italian painting.
 

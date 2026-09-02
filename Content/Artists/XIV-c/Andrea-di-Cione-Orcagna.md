@@ -80,6 +80,13 @@ meta:
       - title: "Andrea di Bonaiuto"
         url: "/Content/Artists/XIV-c/Andrea-di-Bonaiuto.html"
 
+  - title: "Reference Links"
+    links:
+      - title: "Lorenzo Ghiberti"
+        url: "/endnotes.html#fn-ghiberti-lorenzo"
+      - title: "Giorgio Vasari"
+        url: "/endnotes.html#fn-vasari-giorgio"
+
 author: "Andrea di Cione (Orcagna)"
 role: "Painter, sculptor and architect, the most institutionally central artist in Florence at mid-century"
 birth_place: "Florence; son of a Florentine named Cione, brother of the painters Nardo and Jacopo and the sculptor Matteo"
@@ -128,8 +135,6 @@ scholars:
     url: "/scholars.html#fabbri-nancy-rash"
   - title: "Gelli, Giovan Battista"
     url: "/scholars.html#gelli-giovan-battista"
-  - title: "Ghiberti, Lorenzo"
-    url: "/scholars.html#ghiberti-lorenzo"
   - title: "Kreytenberg, Gert"
     url: "/scholars.html#kreytenberg-gert"
   - title: "Lanzi, Luigi"
@@ -158,8 +163,6 @@ scholars:
     url: "/scholars.html#siren-osvald"
   - title: "Toesca, Pietro"
     url: "/scholars.html#toesca-pietro"
-  - title: "Vasari, Giorgio"
-    url: "/scholars.html#vasari-giorgio"
   - title: "Vervat, Muriel"
     url: "/scholars.html#vervat-muriel"
   - title: "Villani, Matteo"
@@ -180,7 +183,7 @@ And yet the picture that emerges from the modern literature is curiously unstabl
 
 The result is that Orcagna is habitually described in terms of what he supposedly represents rather than what he demonstrably made. The purpose of this essay is to reverse that emphasis: to set out, as precisely as the evidence allows, what is documented about Andrea di Cione's life and career; what survives of his work and in what condition; what the early sources actually say, and where they can be shown to be wrong; and how the modern historiography has arrived at its present, considerably more cautious position. Where the evidence is contested — and it very often is — the disagreement is reported rather than resolved.
 
-A methodological note is necessary at the outset. This essay observes a deliberate economy in its citation of modern scholarship, naming only three specialists: [Richard Offner](/scholars.html#offner-richard), whose connoisseurial work provided the foundation for every subsequent discussion of the Cione workshop; Millard Meiss, whose 1951 book framed the interpretative debate; and [Gert Kreytenberg](/scholars.html#kreytenberg-gert), the author of the standard modern monograph on the artist and of the principal encyclopaedia treatments. Other scholarly contributions are described by date, venue and argument rather than by author's name. The early sources — [Franco Sacchetti](/endnotes.html#fn-sacchetti-franco), [Lorenzo Ghiberti](/scholars.html#ghiberti-lorenzo), the Libro di Antonio Billi, the Anonimo Magliabechiano, [Giorgio Vasari](/scholars.html#vasari-giorgio) — are named throughout, since they are the objects of analysis rather than instruments of it. Claims that rest on a single source, or that are disputed, are flagged as such.
+A methodological note is necessary at the outset. This essay observes a deliberate economy in its citation of modern scholarship, naming only three specialists: [Richard Offner](/scholars.html#offner-richard), whose connoisseurial work provided the foundation for every subsequent discussion of the Cione workshop; Millard Meiss, whose 1951 book framed the interpretative debate; and [Gert Kreytenberg](/scholars.html#kreytenberg-gert), the author of the standard modern monograph on the artist and of the principal encyclopaedia treatments. Other scholarly contributions are described by date, venue and argument rather than by author's name. The early sources — [Franco Sacchetti](/endnotes.html#fn-sacchetti-franco), [Lorenzo Ghiberti](/endnotes.html#fn-ghiberti-lorenzo), the Libro di Antonio Billi, the Anonimo Magliabechiano, [Giorgio Vasari](/endnotes.html#fn-vasari-giorgio) — are named throughout, since they are the objects of analysis rather than instruments of it. Claims that rest on a single source, or that are disputed, are flagged as such.
 
 ## Name, Family and Origins
 

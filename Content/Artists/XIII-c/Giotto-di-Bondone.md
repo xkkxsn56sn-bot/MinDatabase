@@ -98,9 +98,12 @@ meta:
       - title: "Simone Martini"
         url: "/Content/Artists/XIII-c/Simone-Martini.html"
 
+  - title: "Reference Links"
+    links:
+      - title: "Lorenzo Ghiberti"
+        url: "/endnotes.html#fn-ghiberti-lorenzo"
+
 scholars:
-  - title: "Lorenzo Ghiberti"
-    url: "/scholars.html#ghiberti-lorenzo"
   - title: "Luciano Bellosi"
     url: "/scholars.html#bellosi-luciano"
   - title: "Giovanni Battista Cavalcaselle"
@@ -266,7 +269,7 @@ The structure of the polyptych is highly “architecturalized”: the five proje
 
 Formally, the polyptych is an early yet mature example of the Giottesque revolution: the figures possess a sense of bodily volume rendered through a clear modulation of light and shadow, with folds in the garments that envelop the body and emphasize its mass, as in the gilded pastoral robe of Saint Nicholas or in the folds swirling around Saint Peter’s stole. Giotto moves away from the hieratic Byzantine scheme, replacing it with intense gazes, individualized faces, and a presence in space that seems almost to “emerge” from the panel, anticipating solutions typical of 14th-century Florentine painting. The gold ground remains traditional, but the use of half-figures in an arc, with slight relief and a slight twist of the torso, marks a decisive step toward a more modern conception of space and devotional performance.
 
-Originally, the polyptych decorated thehigh altar of the Badia Fiorentina, as also noted by [Lorenzo Ghiberti](/scholars.html#ghiberti-lorenzo) in his Commentari, which attests to Giotto’s presence in the church with the “panel” of the main altar. It remained in situ until 1568, when it was replaced by a work by Vasari, moved to various locations (San Marco, Museo dell’Opera di Santa Croce), and finally placed in the Uffizi in 1957, following complex restorations that brought to light its original material and chromatic richness. Today, the Badia Polyptych is considered one of the cornerstones of transitional Italian painting, in which the childlike and human sensibility of the Child, the mystical austerity of the saints, and the architectural structure of the polyptych merge into an image that Dante might have seen shortly before his exile, almost like an icon of the new Florentine humanism.
+Originally, the polyptych decorated thehigh altar of the Badia Fiorentina, as also noted by [Lorenzo Ghiberti](/endnotes.html#fn-ghiberti-lorenzo) in his Commentari, which attests to Giotto’s presence in the church with the “panel” of the main altar. It remained in situ until 1568, when it was replaced by a work by Vasari, moved to various locations (San Marco, Museo dell’Opera di Santa Croce), and finally placed in the Uffizi in 1957, following complex restorations that brought to light its original material and chromatic richness. Today, the Badia Polyptych is considered one of the cornerstones of transitional Italian painting, in which the childlike and human sensibility of the Child, the mystical austerity of the saints, and the architectural structure of the polyptych merge into an image that Dante might have seen shortly before his exile, almost like an icon of the new Florentine humanism.
 
 ### Ognissanti Maestà
 
