@@ -107,11 +107,11 @@ meta:
   - title: "RELATED ENTRIES"
     links:
       - title: "Cyril of Scythopolis"
-        url: "/ancient-world.html#fn-cyril-of-scythopolis"
+        url: "/endnotes.html#fn-cyril-of-scythopolis"
       - title: "John of Damascus"
-        url: "/ancient-world.html#fn-john-of-damascus"
+        url: "/endnotes.html#fn-john-of-damascus"
       - title: "Iconodulism"
-        url: "/ancient-world.html#fn-iconodulism"
+        url: "/endnotes.html#fn-iconodulism"
       - title: "Andronikos II Palaiologos"
         url: "/endnotes.html#fn-andronikos-ii-palaiologos"
       - title: "Michael Glabas Tarchaneiotes"
@@ -618,7 +618,7 @@ The frescoes are celebrated for the psychological intensity of their faces, the 
 
 The Chapel of Saint Euthymios (*Parekklesion tou Hagiou Euthymiou*) in Thessaloniki, attached to the southern flank of the great basilica of Saint Demetrios, was decorated with frescoes dated to approximately 1303, and is attributed by the scholarly tradition either directly to Manuel Panselinos or to his immediate workshop and closest associates working within the fully developed idiom of the Macedonian School. The programme of this chapel — smaller and more intimate in scale than the Protaton cycle, and dedicated to a specific monastic saint rather than to the general devotional needs of a large monastic community — would naturally have included narrative scenes drawn from the life of Saint Euthymios the Great alongside more conventional sacred imagery, and it is within this hagiographic cycle that the scene here depicted most plausibly belongs.
 
-Taking into account the dedicatory context of the chapel, the dynamic physical engagement of the central figure, and the architectural setting visible on the left, the scene may most plausibly be identified as an episode from the hagiographic cycle of **Saint Euthymios the Great** — possibly the celebrated healing of **Terebon**, the paralysed son of the Arab chieftain Aspebetos, which constitutes one of the most dramatically rendered episodes in the *Vita Euthymii* composed by Cyril of Scythopolis<a href="/ancient-world.html#fn-cyril-of-scythopolis" class="footnote"><sup>6</sup></a>. In this narrative, the saint's miraculous intervention transforms a moment of physical crisis into a definitive act of conversion, Aspebetos and his entire tribe accepting baptism as a direct consequence of the healing — a narrative arc of conversion through miraculous witness that would have made it particularly appropriate for pictorial treatment in a chapel dedicated to the saint's memory. Alternatively, the scene may represent another episode from the rich hagiographic tradition surrounding Euthymios, such as an encounter with ecclesiastical authorities or a moment of monastic confrontation, though the physical dynamism of the central composition seems more consistent with a healing or miraculous narrative than with a purely administrative or theological encounter.
+Taking into account the dedicatory context of the chapel, the dynamic physical engagement of the central figure, and the architectural setting visible on the left, the scene may most plausibly be identified as an episode from the hagiographic cycle of **Saint Euthymios the Great** — possibly the celebrated healing of **Terebon**, the paralysed son of the Arab chieftain Aspebetos, which constitutes one of the most dramatically rendered episodes in the *Vita Euthymii* composed by Cyril of Scythopolis<a href="/endnotes.html#fn-cyril-of-scythopolis" class="footnote"><sup>6</sup></a>. In this narrative, the saint's miraculous intervention transforms a moment of physical crisis into a definitive act of conversion, Aspebetos and his entire tribe accepting baptism as a direct consequence of the healing — a narrative arc of conversion through miraculous witness that would have made it particularly appropriate for pictorial treatment in a chapel dedicated to the saint's memory. Alternatively, the scene may represent another episode from the rich hagiographic tradition surrounding Euthymios, such as an encounter with ecclesiastical authorities or a moment of monastic confrontation, though the physical dynamism of the central composition seems more consistent with a healing or miraculous narrative than with a purely administrative or theological encounter.
 
 Approached as a work of pictorial art within the broader context of the Macedonian School at the opening of the fourteenth century, this fresco offers evidence of both the strengths and the characteristic approaches of the tradition associated with Panselinos, even in a state of preservation that makes definitive stylistic judgements more difficult than is the case with the better-preserved works of the Protaton cycle.
 

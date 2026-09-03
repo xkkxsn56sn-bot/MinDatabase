@@ -239,10 +239,13 @@ workflow, e committarlo da entrambe le parti produce conflitti.
 `scripts/validate_content_indexes.py` contiene tutti i controlli sul
 contenuto; il docstring in cima li elenca. Tre meritano una nota:
 
-- **7** verifica i link fra pagine, **8** le ancore ai tre contenitori
-  (`endnotes.html`, `ancient-world.html`, `scholars.html`), **9** le immagini.
-- Il check 8 esiste perche' i contenitori sono tre: un link puo' nominare
-  un'ancora reale ma cercarla nel file sbagliato.
+- **7** verifica i link fra pagine, **8** le ancore ai due contenitori
+  (`endnotes.html`, `scholars.html`), **9** le immagini.
+- Il check 8 esiste perche' i contenitori sono due: un link puo' nominare
+  un'ancora reale ma cercarla nel file sbagliato. Le note del mondo antico
+  stavano in un terzo contenitore, `ancient-world.html`, fuso in
+  `endnotes.html`: quel path ora e' solo uno stub di redirect che conserva
+  l'hash, e non va piu' usato nei rimandi.
 - Il check 9 confronta le maiuscole in modo esplicito, senza affidarsi a
   `exists()`: il filesystem di macOS non distingue maiuscole e minuscole,
   GitHub Pages si'. Un `Armagh-01.jpg` che punta ad `armagh-01.jpg` funziona

@@ -31,9 +31,9 @@ related_entries:
   - title: "Book of Durrow"
     url: "/Content/Codex/Book-of-Durrow.html"
   - title: "Finnian of Clonard"
-    url: "/ancient-world.html#fn-finnian-clonard"
+    url: "/endnotes.html#fn-finnian-clonard"
   - title: "Finnian of Movilla"
-    url: "/ancient-world.html#fn-finnian-movilla"
+    url: "/endnotes.html#fn-finnian-movilla"
 
 meta:
   - title: "SUBJECT"
@@ -99,9 +99,9 @@ meta:
       - title: "Book of Durrow"
         url: "/Content/Codex/Book-of-Durrow.html"
       - title: "Finnian of Clonard"
-        url: "/ancient-world.html#fn-finnian-clonard"
+        url: "/endnotes.html#fn-finnian-clonard"
       - title: "Finnian of Movilla"
-        url: "/ancient-world.html#fn-finnian-movilla"
+        url: "/endnotes.html#fn-finnian-movilla"
       - title: "Bertram Colgrave"
         url: "/scholars.html#colgrave-bertram"
 
@@ -116,7 +116,7 @@ scholars:
 
 ## I · Introduction
 
-The figure of *Columba*, known in Irish as Colum Cille, meaning "Dove of the Church", stands as one of the most consequential ecclesiastical personalities of early medieval Christianity, a man whose spiritual vision gave rise to a network of monastic institutions that shaped the intellectual and artistic life of northwestern Europe for centuries. Born around 521 CE into the Cenél Conaill, a prominent branch of the Uí Néill dynasty then exercising dominance over much of Ireland, Columba was from the very outset a figure whose lineage placed him at the intersection of political power and religious vocation. His early education brought him into contact with the most influential ecclesiastical minds of sixth-century Ireland; he studied under Finnian of Clonard<a href="/ancient-world.html#fn-finnian-clonard" class="footnote"><sup>1</sup></a> and Finnian of Moville<a href="/ancient-world.html#fn-finnian-movilla" class="footnote"><sup>2</sup></a>, absorbing a form of monasticism that combined severe ascetic discipline with intense devotion to scriptural learning. This dual inheritance, aristocratic authority and scholarly piety, would define the character of every institution he subsequently founded and influenced. The circumstances of his departure from Ireland have been the subject of considerable scholarly debate: the traditional account holds that a dispute over the unauthorized copying of a psalter belonging to Finnian of Moville led to the Battle of Cúl Dreimhne in 561, an outcome that left Columba racked with remorse over the deaths he had indirectly caused. Whether motivated by penitential exile, missionary ambition, or political pressure, or some combination of all three, Columba crossed to western Scotland around 563 CE with twelve companions, in a gesture that deliberately echoed Christ's gathering of his twelve apostles.
+The figure of *Columba*, known in Irish as Colum Cille, meaning "Dove of the Church", stands as one of the most consequential ecclesiastical personalities of early medieval Christianity, a man whose spiritual vision gave rise to a network of monastic institutions that shaped the intellectual and artistic life of northwestern Europe for centuries. Born around 521 CE into the Cenél Conaill, a prominent branch of the Uí Néill dynasty then exercising dominance over much of Ireland, Columba was from the very outset a figure whose lineage placed him at the intersection of political power and religious vocation. His early education brought him into contact with the most influential ecclesiastical minds of sixth-century Ireland; he studied under Finnian of Clonard<a href="/endnotes.html#fn-finnian-clonard" class="footnote"><sup>1</sup></a> and Finnian of Moville<a href="/endnotes.html#fn-finnian-movilla" class="footnote"><sup>2</sup></a>, absorbing a form of monasticism that combined severe ascetic discipline with intense devotion to scriptural learning. This dual inheritance, aristocratic authority and scholarly piety, would define the character of every institution he subsequently founded and influenced. The circumstances of his departure from Ireland have been the subject of considerable scholarly debate: the traditional account holds that a dispute over the unauthorized copying of a psalter belonging to Finnian of Moville led to the Battle of Cúl Dreimhne in 561, an outcome that left Columba racked with remorse over the deaths he had indirectly caused. Whether motivated by penitential exile, missionary ambition, or political pressure, or some combination of all three, Columba crossed to western Scotland around 563 CE with twelve companions, in a gesture that deliberately echoed Christ's gathering of his twelve apostles.
 
 He was granted the small island of Iona, off the western coast of Mull in what is now Argyll, as the site for his principal foundation, and it was from this windswept Atlantic outpost that his most enduring legacy would be constructed. The choice of Iona was not arbitrary; the island lay within the kingdom of Dál Riata, where Gaelic-speaking Scots of Irish origin maintained close dynastic ties to their homeland, providing Columba with a geopolitically strategic base from which to address both Irish and Pictish audiences. From Iona, Columba engaged in evangelizing the Northern Picts, converting their king Bridei mac Maelchon in a mission that substantially extended the reach of Celtic Christianity into what would become Scotland. He remained active in Irish ecclesiastical and political affairs throughout his life, attending the Convention of Druim Cett in 575 CE and maintaining oversight of the monasteries he had already founded on Irish soil at Derry, Durrow, and elsewhere. He died on Iona on 9 June 597, traditionally on the same day that Augustine of Canterbury landed in England, a coincidence that early medieval hagiographers regarded as providentially significant, and his passing marked the end of a personal ministry but hardly the cessation of the movement he had launched. The Columban monastic federation, encompassing both Irish and Scottish houses united under the primacy of Iona, would develop during the seventh and eighth centuries into one of the premier centres of scholarship, art, and pastoral care in the entire Latin West, a tradition ultimately expressed in the creation of manuscripts that belong among the supreme artistic achievements of medieval Europe.
 

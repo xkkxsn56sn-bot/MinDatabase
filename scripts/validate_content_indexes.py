@@ -30,13 +30,15 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
    i link contestuali nelle schede — blocchi "related artists", rimandi in
    prosa, campi url: nel frontmatter — che sono la maggioranza dei link del
    sito.
-8. Ogni rimando a un contenitore di ancore (endnotes.html, ancient-world.html,
-    scholars.html) punta a un'ancora esistente nel file indicato, in forma
-    canonica '/<file>.html'. I contenitori sono tre, quindi un link puo'
-    nominare un id reale ma cercarlo nel file sbagliato; il path relativo e'
-    vietato perche' dipende dalla profondita' della cartella. In ciascun
-    contenitore nessun id e' duplicato, e nelle due pagine di note ogni voce
-    ha esattamente un <h3>.
+8. Ogni rimando a un contenitore di ancore (endnotes.html, scholars.html)
+    punta a un'ancora esistente nel file indicato, in forma canonica
+    '/<file>.html'. I contenitori sono due, quindi un link puo' nominare un
+    id reale ma cercarlo nel file sbagliato; il path relativo e' vietato
+    perche' dipende dalla profondita' della cartella. In ciascun contenitore
+    nessun id e' duplicato, e nella pagina di note ogni voce ha esattamente
+    un <h3>. Anche 'ancient-world.html' resta riconosciuto dal pattern: e'
+    un path dismesso, e un rimando che lo nomina va segnalato come non
+    canonico invece di passare inosservato.
 
 9. Ogni immagine citata in una scheda esiste, con le maiuscole esatte. Il
     confronto e' sensibile alle maiuscole anche su filesystem che non lo
@@ -220,14 +222,15 @@ def parse_frontmatter(text):
 
 
 # --- Check 8: ancore ai contenitori del sito ----------------------------
-# Il sito ha tre pagine-contenitore a cui le schede rimandano per ancora:
-#   endnotes.html, ancient-world.html  -> note, ogni voce e' <li id="fn-...">
-#   scholars.html                      -> studiosi, ogni voce e' un elemento
-#                                         di classe 'scholar-entry' con id
-#                                         '<cognome>-<nome>'
+# Il sito ha due pagine-contenitore a cui le schede rimandano per ancora:
+#   endnotes.html  -> note, ogni voce e' <li id="fn-...">
+#   scholars.html  -> studiosi, ogni voce e' un elemento di classe
+#                     'scholar-entry' con id '<cognome>-<nome>'
+# Le note del mondo antico stavano in un terzo contenitore, ancient-world.html,
+# fuso in endnotes.html: quel path ora e' solo uno stub di redirect.
 # In scholars.html vanno ignorati i raggruppamenti alfabetici (.scholar-section)
 # e gli id di interfaccia come themeToggle: non sono voci.
-NOTE_FILES = ("endnotes.html", "ancient-world.html")
+NOTE_FILES = ("endnotes.html",)
 SCHOLAR_FILE = "scholars.html"
 ANCHOR_FILES = NOTE_FILES + (SCHOLAR_FILE,)
 
@@ -236,6 +239,9 @@ ANCHOR_FILES = NOTE_FILES + (SCHOLAR_FILE,)
 # della cartella, quindi si rompe a ogni riorganizzazione: e' vietato.
 # Solo i rimandi che nominano uno dei contenitori sono di competenza di questo
 # check; le ancore interne a una pagina restano fuori.
+# 'ancient-world' resta nella regex ma non in NOTE_FILES: il path e' dismesso
+# (fuso in endnotes.html), cosi' un link futuro al path morto viene flaggato
+# come non-canonico invece di sfuggire silenziosamente al check.
 FN_LINK_RE = re.compile(
     r'([^\s"\'()<>]*(?:endnotes|ancient-world|scholars)\.html)#([A-Za-z0-9_.\-]+)'
 )

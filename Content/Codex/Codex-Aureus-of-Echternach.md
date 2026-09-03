@@ -630,7 +630,7 @@ Jerome again: an altar; or those winepresses after which three Psalms are entitl
 
 Jerome: the Temple, on the authority of Micah's cloudy tower of the daughter of Sion. Hilary: the eminence of the Law, from which as from a watchtower the coming of Christ might be spied.
 
-The citation I would actually use is Bede<a href="/ancient-world.html#fn-bede" class="footnote"><sup>4</sup></a>, because he gives the set compactly in one place — the hedge is the wall of the city, the winefat is the altar, or those winefats by which three psalms receive their name — and because the Irish *Pseudo-Jerome* commentary transmitted alongside him supplies the complementary triad: the hedge is the guardianship of angels, the winefat the law, the tower the temple, and the husbandmen the priests.
+The citation I would actually use is Bede<a href="/endnotes.html#fn-bede" class="footnote"><sup>4</sup></a>, because he gives the set compactly in one place — the hedge is the wall of the city, the winefat is the altar, or those winefats by which three psalms receive their name — and because the Irish *Pseudo-Jerome* commentary transmitted alongside him supplies the complementary triad: the hedge is the guardianship of angels, the winefat the law, the tower the temple, and the husbandmen the priests.
 
 Why did I choose Bede rather than Jerome? The reason is that the abbey was founded from Northumbria by Willibrord, and its library and script traditions retain that Insular inheritance. Bede is therefore the more probable text physically present in the house. I would put this as a plausibility argument, clearly marked as such, not as a demonstrated source relation.
 
