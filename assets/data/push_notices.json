@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T08:05:12+00:00",
+  "updated_at": "2026-09-03T16:16:16+00:00",
   "notices": [
     {
-      "title": "Jacopo di Mino del Pellicciaio",
+      "title": "Eadfrith of Lindisfarne",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Jacopo-di-Mino-del-Pellicciaio.md",
-      "page_url": "/Content/Artists/XIV-c/Jacopo-di-Mino-del-Pellicciaio.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-03T10:04:15+02:00"
+      "path": "Content/Artists/VII-c/Eadfrith-Lindisfarne.md",
+      "page_url": "/Content/Artists/VII-c/Eadfrith-Lindisfarne.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-03T18:11:12+02:00"
     }
   ]
 }
