@@ -3,6 +3,7 @@ layout: entry
 title: "Book of Armagh (Liber Ardmachanus, MS 52)"
 subtitle: "The one Insular manuscript that records its own date, and the foundation of the Patrick dossier"
 dates: "807–808 (colophon dated 21 September 807); abbacy of Torbach, 807–808"
+century: "IX"
 
 meta:
   - title: "Core Data"

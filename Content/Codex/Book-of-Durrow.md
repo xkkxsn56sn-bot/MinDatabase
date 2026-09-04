@@ -3,6 +3,7 @@ layout: entry
 title: "Book of Durrow"
 subtitle: "Dublin, Trinity College Library, MS 57 — the earliest surviving fully illuminated Insular Gospel book"
 dates: "c. 650–700 (Columban milieu; precise date and place of origin unresolved)"
+century: "VII"
 role: "Insular illuminated Gospel book and Columban relic; the foundational monument of Insular manuscript illumination, on which the decorative programmes of Lindisfarne and Kells were built"
 
 place_of_origin:

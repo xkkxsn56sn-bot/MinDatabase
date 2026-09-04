@@ -5,6 +5,7 @@ subtitle: "Giunta Pisano, Christus patiens, and Dominican visual theology in mid
 description: "A detailed study of Giunta Pisano's crucifix for San Domenico in Bologna, addressing iconography, liturgical function, materials, restoration history, mendicant patronage, and historiographic debates."
 author: "Medieval Visions research essay"
 period: "Mid-thirteenth century"
+century: "XIII"
 category: "papers"
 work_type: "Art-historical and theological study"
 focus:

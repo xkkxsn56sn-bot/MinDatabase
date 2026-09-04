@@ -3,6 +3,7 @@ layout: entry
 title: "Lichfield Gospels"
 subtitle: "Also known as the St Chad Gospels · Book of Chad · Llandeilo Gospels · St Teilo Gospels"
 dates: "c. 720s–730s (second quarter of the 8th century; probable range c. 698–800)"
+century: "VIII"
 role: "Insular luxury Gospel book, probably produced at Lichfield/Mercia in honour of St Chad, synthesising Northumbrian, Irish and Mercian artistic and textual traditions into one of the masterpieces of early medieval book art"
 
 place_of_origin:

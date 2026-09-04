@@ -5,6 +5,7 @@ subtitle: "Hildegard of Bingen between visionary theology, neurology, and enviro
 description: "A detailed interdisciplinary study of Hildegard of Bingen's Scivias, examining manuscript context, patronage, twelfth-century intellectual history, and modern debates on migraine, epilepsy, temporal-lobe activity, and ergot exposure."
 author: "Medieval Visions research essay"
 period: "Twelfth century (with modern historiography and medical reception)"
+century: "XII"
 category: "papers"
 work_type: "Interdisciplinary historical-theological and medico-historiographical study"
 focus:

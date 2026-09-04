@@ -3,6 +3,7 @@ layout: entry
 title: Saint Humility (Umiltà da Faenza)
 subtitle: Vallombrosan anchoress, abbess, foundress, and attributed author of Latin sermons
 dates: "c. 1226 - 22 May 1310"
+century: "XIII"
 meta:
   - title: IDENTITY
     pairs:

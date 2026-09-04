@@ -3,6 +3,7 @@ layout: entry
 title: "Book of Kells"
 subtitle: "Dublin, Trinity College Library, MS 58 — the most lavishly decorated Gospel book to survive from the Insular world"
 dates: "c. 800 (late 8th – early 9th century)"
+century: "IX"
 role: "Ceremonial altar Gospel book and relic of the Columban monastic community, and the culminating achievement of Insular manuscript illumination"
 
 place_of_origin:

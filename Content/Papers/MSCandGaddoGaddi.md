@@ -5,6 +5,7 @@ subtitle: "Documentary, stylistic, and historiographical arguments on one of Tre
 description: "A detailed historiographical study of the identification between the Maestro di Santa Cecilia and Gaddo Gaddi, integrating documentary evidence, connoisseurship, technical data, and competing attribution hypotheses from the late nineteenth century to current Uffizi scholarship."
 author: "Medieval Visions research essay"
 period: "c. 1300-1328 (with modern historiographical reception)"
+century: "XIV"
 category: "papers"
 work_type: "Art-historical historiography and attribution study"
 focus:

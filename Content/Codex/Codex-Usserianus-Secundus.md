@@ -3,6 +3,7 @@ layout: entry
 title: "Codex Usserianus Secundus (MS 56)"
 subtitle: "The Garland of Howth and its Old Latin text of Matthew"
 dates: "c. 800 (8th–9th century); older and popular literature: 8th–10th century"
+century: "IX"
 
 meta:
   - title: "Core Data"

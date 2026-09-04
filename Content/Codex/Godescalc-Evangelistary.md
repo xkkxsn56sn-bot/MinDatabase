@@ -5,6 +5,7 @@ subtitle: "The earliest securely datable manuscript of Charlemagne's Court Schoo
 author: "Godescalc, capellanus (chaplain) and servus of Charlemagne"
 role: "Evangelistary (Gospel lectionary) commissioned as a joint devotional and dynastic monument for Charlemagne and Queen Hildegard, and the founding manuscript of the Carolingian Court School"
 dates: "781–783 CE (between Charlemagne's Roman journey/imperial coronation of 781 and the death of Queen Hildegard in 783)"
+century: "VIII"
 
 place_of_origin: "Royal court scriptorium, traditionally localised to Aachen, though Worms has also been proposed; the court itself was itinerant"
 

@@ -3,6 +3,7 @@ layout: entry
 title: "Book of Dimma (Trinity College Dublin MS 59)"
 subtitle: "A forged colophon, a scribe's true name recovered from an erasure, and a gospel book sealed shut by the shrine built to honour it"
 dates: "Script and decoration, late 8th century; colophons altered and the name Dimma substituted, late 10th – early 11th century; enshrined 12th century; shrine restored c. 1380–1407"
+century: "VIII"
 
 meta:
   - title: "Core Data"

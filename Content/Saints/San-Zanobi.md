@@ -3,6 +3,7 @@ layout: entry
 title: San Zanobi
 subtitle: First bishop of Florence, patron saint, and apostle of the city
 dates: "c. 337 – 417 AD (traditional; 424 AD per some sources)"
+century: "IV"
 meta:
   - title: IDENTITY
     pairs:

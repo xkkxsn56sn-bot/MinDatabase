@@ -3,6 +3,7 @@ layout: entry
 title: "Codex Usserianus Primus (MS 55)"
 subtitle: "The earliest surviving Irish Gospel book and its Old Latin text"
 dates: "c. 600–625 (early 7th century); minority view: 5th century"
+century: "VII"
 
 meta:
   - title: "Core Data"

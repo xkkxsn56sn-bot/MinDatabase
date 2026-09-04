@@ -3,6 +3,7 @@ layout: entry
 title: "Morgan Beatus (MS M.644)"
 subtitle: "Beatus manuscript of the Kingdom of León — Mozarabic / repoblación tradition"
 dates: "c. 940–945 (colophon cryptogram read by some as 926; proposals range 922–958)"
+century: "X"
 
 meta:
   - title: "Core Data"

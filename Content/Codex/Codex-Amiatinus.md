@@ -3,6 +3,7 @@ layout: entry
 title: "Codex Amiatinus (Amiatino 1)"
 subtitle: "The earliest complete Latin Vulgate, made at Wearmouth-Jarrow and long mistaken for an Italian book"
 dates: "c. 688–716 (before June 716); commonly dated around 700"
+century: "VIII"
 
 meta:
   - title: "Core Data"

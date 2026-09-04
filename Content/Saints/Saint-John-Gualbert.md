@@ -3,6 +3,7 @@ layout: entry
 title: Saint John Gualbert
 subtitle: Benedictine abbot, monastic reformer, and founder of the Vallombrosan Order
 dates: "c. 985/993 – 12 July 1073"
+century: "X"
 meta:
   - title: IDENTITY
     pairs:

@@ -3,6 +3,7 @@ layout: entry
 title: Angela of Foligno
 subtitle: Franciscan Third Order mystic and penitent; author, via dictation to "Brother A.," of the Liber (Memoriale and Instructiones)
 dates: "c. 1248 - 4 January 1309"
+century: "XIII"
 meta:
   - title: IDENTITY
     pairs:

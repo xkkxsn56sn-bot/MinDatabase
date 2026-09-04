@@ -4,6 +4,7 @@ title: "Lindisfarne Gospels"
 author: "Eadfrith of Lindisfarne († 721, traditional attribution)"
 role: "Insular luxury Gospel book created at Lindisfarne in honour of St Cuthbert, combining Northumbrian, Celtic, Germanic and Mediterranean traditions into one of the masterpieces of early medieval book art"
 dates: "c. 715–720 (production at Lindisfarne); Old English gloss added c. 950–970 at Chester-le-Street"
+century: "VIII"
 place_of_origin:
   text_composition: "Monastery of Lindisfarne (Holy Island), kingdom of Northumbria"
   illustrated_codex: "Lindisfarne scriptorium, during the episcopate of Eadfrith (698–721)"

@@ -3,6 +3,7 @@ layout: entry
 title: Saint Cuthbert
 subtitle: Bishop of Lindisfarne, hermit of Inner Farne, and major saint of Northumbria
 dates: "c. 634 - 20 March 687"
+century: "VII"
 meta:
   - title: IDENTITY
     pairs:

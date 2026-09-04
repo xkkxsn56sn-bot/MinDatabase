@@ -3,6 +3,7 @@ layout: entry
 title: "Codex Aureus of Echternach"
 subtitle: "The great chrysograph Gospel book of the Echternach scriptorium, bound in an Ottonian treasure cover made a generation earlier in Trier"
 dates: "Manuscript c. 1030-1045/50; treasure binding c. 983-991 (Trier)"
+century: "XI"
 
 meta:
   - title: "Core data"

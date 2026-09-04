@@ -5,6 +5,7 @@ subtitle: "Komnenian patronage, affective pathos, and the transmission of Byzant
 description: "A comprehensive study of the Church of Saint Panteleimon at Nerezi (1164), with focus on historical context, iconographic program, workshop practice, materials and techniques, manuscript comparanda, cross-cultural influence, and conservation challenges."
 author: "Medieval Visions research essay"
 period: "Twelfth century (with post-Byzantine repainting and modern conservation history)"
+century: "XII"
 category: "papers"
 work_type: "Interdisciplinary art-historical, iconographic, and conservation study"
 focus:

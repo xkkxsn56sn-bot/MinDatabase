@@ -5,6 +5,7 @@ subtitle: "Iconography, restoration, and attribution of the Bandini Crucifix"
 description: "A detailed study of the Bandini Crucifix and the Master of the Cross 434, with attention to attribution history, iconography, restoration evidence, and thirteenth-century Tuscan workshop culture."
 author: "Medieval Visions research essay"
 period: "Mid-thirteenth century (with modern restoration and historiography)"
+century: "XIII"
 category: "papers"
 work_type: "Art-historical and conservation-historiographical study"
 focus:

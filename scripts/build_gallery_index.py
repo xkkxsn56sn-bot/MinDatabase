@@ -49,6 +49,14 @@ CAPTION_RE = re.compile(r"<figcaption\b[^>]*>(.*?)</figcaption>", re.S | re.I)
 # non serve un parser YAML per una sola chiave di primo livello.
 TITLE_RE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.M)
 
+# Il secolo si ricava dal path solo per gli Artists, che sono organizzati in
+# cartelle XIII-c, XIV-c e simili. Codex, Saints e Papers non hanno quella
+# struttura, quindi possono dichiararlo nel frontmatter con una chiave
+# century: (numero romano, stesso formato del path: "X", "XIV"). Quando c'e',
+# vince sul fallback dal path.
+FRONT_MATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
+CENTURY_RE = re.compile(r'^century:\s*"?(.*?)"?\s*$', re.M)
+
 # Markup residuo nelle didascalie: *corsivo*, <em>, entita'.
 MD_EMPHASIS_RE = re.compile(r"\*{1,2}([^*]+)\*{1,2}")
 TAG_RE = re.compile(r"<[^>]+>")
@@ -69,6 +77,21 @@ def clean_text(s):
 def entry_title(text, fallback):
     m = TITLE_RE.search(text)
     return m.group(1).strip() if m else fallback
+
+
+def front_matter(text):
+    m = FRONT_MATTER_RE.match(text)
+    return m.group(1) if m else ""
+
+
+def declared_century(text):
+    """Secolo dichiarato nel frontmatter, stringa vuota se assente.
+
+    Si cerca solo dentro il frontmatter: una riga che comincia per 'century:'
+    nel corpo della scheda non deve essere scambiata per un campo.
+    """
+    m = CENTURY_RE.search(front_matter(text))
+    return m.group(1).strip() if m else ""
 
 
 def page_url(md_path):
@@ -102,8 +125,8 @@ def main():
 
         parts = md.relative_to(CONTENT).parts
         section = parts[0]
-        century = ""
-        if section == "Artists" and len(parts) > 2:
+        century = declared_century(text)
+        if not century and section == "Artists" and len(parts) > 2:
             century = parts[1].replace("-c", "")
 
         title = entry_title(text, md.stem.replace("-", " "))
@@ -133,8 +156,10 @@ def main():
     # Ordine: sezione, poi secolo, poi titolo della scheda. Le figure di una
     # stessa scheda restano nell'ordine in cui compaiono nel testo.
     section_order = {"Artists": 0, "Churches": 1, "Codex": 2, "Papers": 3, "Saints": 4}
-    roman = {"VII": 7, "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12,
-             "XIII": 13, "XIV": 14}
+    # Arco plausibile per il sito: dai Padri tardoantichi al Quattrocento.
+    # Tenerlo largo evita di dover ritoccare la mappa a ogni nuova scheda.
+    roman = {"IV": 4, "V": 5, "VI": 6, "VII": 7, "VIII": 8, "IX": 9, "X": 10,
+             "XI": 11, "XII": 12, "XIII": 13, "XIV": 14, "XV": 15}
 
     figures.sort(
         key=lambda f: (

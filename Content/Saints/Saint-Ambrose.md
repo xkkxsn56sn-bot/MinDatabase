@@ -3,6 +3,7 @@ layout: entry
 title: Saint Ambrose of Milan
 subtitle: Bishop of Milan, Doctor of the Church, theologian, hymnographer, and architect of late Roman episcopal authority
 dates: "c. 339/340 - 4 April 397"
+century: "IV"
 meta:
   - title: IDENTITY
     pairs:

@@ -3,6 +3,7 @@ layout: entry
 title: "Chiara da Montefalco"
 subtitle: "Augustinian recluse and abbess of Santa Croce, Montefalco, venerated for the Passion-signs found in her heart after death"
 dates: "c. 1268 - 17 August 1308"
+century: "XIII"
 
 meta:
   - title: "IDENTITY"
