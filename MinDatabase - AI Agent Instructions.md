@@ -184,6 +184,16 @@ Un push che tocca `Content/**/*.md` avvia, in parallelo:
 
 Entrambi committano e, in coda, invocano esplicitamente **Deploy Site**.
 
+Un commit di manutenzione che tocca le schede senza aggiornarne il contenuto
+— rinomine di campi, riformattazioni, aggiunte di frontmatter — va marcato con
+`[skip notices]` nel messaggio: `update_push_notices.py` esce senza scrivere
+nulla, e di conseguenza non parte neppure la newsletter.
+
+I commit con `[skip notices]` si pushano da soli, o insieme ad altra sola
+manutenzione — mai nello stesso push di aggiornamenti di contenuto: il tag
+basta che compaia in un commit qualsiasi del push e sopprime le notizie
+dell'intero push, comprese quelle delle schede aggiornate davvero.
+
 I tre validatori — contenuti, indici, frontmatter degli studiosi — girano in
 parallelo e non scrivono nulla.
 

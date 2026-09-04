@@ -3,6 +3,20 @@
 
 The script reads files added or modified in the latest push, extracts a
 human-friendly title, and stores only the latest entry for homepage display.
+
+TAG [skip notices]
+    Un commit di manutenzione — rinomina di campi, riformattazioni, aggiunte
+    di frontmatter — tocca `Content/**/*.md` senza che la scheda sia stata
+    davvero aggiornata, e senza questo tag finirebbe in homepage e in
+    newsletter come se lo fosse. Se il messaggio di uno qualsiasi dei commit
+    del push contiene `[skip notices]` (o `[skip-notices]`, maiuscole
+    indifferenti), lo script esce subito senza generare notizie e senza
+    toccare i JSON.
+
+    Non scrivendo `push_notices.json`, la firma delle notizie resta quella
+    dell'invio precedente: `send_newsletter_updates.py` la confronta con
+    `newsletter_last_notified.json`, la trova identica e non spedisce nulla.
+    Il tag silenzia quindi anche la newsletter, che e' il vero scopo.
 """
 
 from __future__ import annotations
@@ -27,6 +41,8 @@ SECTION_PRIORITY = {
     "Other": 4,
 }
 
+
+SKIP_TAG_RE = re.compile(r"\[skip[ _-]?notices\]", re.IGNORECASE)
 
 FRONT_MATTER_TITLE_RE = re.compile(r"^title\s*:\s*[\"']?(.*?)[\"']?\s*$", re.IGNORECASE)
 HTML_TITLE_RE = re.compile(r"<title>(.*?)</title>", re.IGNORECASE | re.DOTALL)
@@ -260,7 +276,57 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
     return values
 
 
+def _commit_messages() -> list[str]:
+    """Messaggi dei commit del push, dal payload o, in mancanza, da git.
+
+    Nel payload si guardano sia `head_commit` sia l'elenco `commits`: un push
+    di manutenzione puo' portare piu' di un commit e il tag basta che compaia
+    in uno.
+    """
+    messages: list[str] = []
+
+    if EVENT_PATH.exists() and EVENT_PATH.is_file():
+        try:
+            payload = json.loads(EVENT_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            payload = {}
+
+        head = payload.get("head_commit") or {}
+        if isinstance(head, dict) and head.get("message"):
+            messages.append(str(head["message"]))
+
+        for commit in payload.get("commits") or []:
+            if isinstance(commit, dict) and commit.get("message"):
+                messages.append(str(commit["message"]))
+
+    if messages:
+        return messages
+
+    # Fuori da Actions (esecuzione locale) il payload non c'e': vale il
+    # messaggio di HEAD.
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--pretty=%B"],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return []
+
+    return [result.stdout]
+
+
+def _skip_requested() -> bool:
+    return any(SKIP_TAG_RE.search(message) for message in _commit_messages())
+
+
 def main() -> int:
+    if _skip_requested():
+        print("Commit tagged [skip notices]: leaving notices and newsletter state untouched.")
+        return 0
+
     previous = _load_json(NOTICES_PATH)
     previous_entries = previous.get("notices") or []
 
