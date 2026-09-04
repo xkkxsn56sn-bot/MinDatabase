@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T16:16:16+00:00",
+  "updated_at": "2026-09-04T16:34:53+00:00",
   "notices": [
     {
-      "title": "Eadfrith of Lindisfarne",
-      "section": "Artists",
-      "path": "Content/Artists/VII-c/Eadfrith-Lindisfarne.md",
-      "page_url": "/Content/Artists/VII-c/Eadfrith-Lindisfarne.html",
+      "title": "Morgan Beatus (MS M.644)",
+      "section": "Codices",
+      "path": "Content/Codex/Morgan-Beatus.md",
+      "page_url": "/Content/Codex/Morgan-Beatus.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-03T18:11:12+02:00"
+      "pushed_at": "2026-09-04T18:33:45+02:00"
     }
   ]
 }
