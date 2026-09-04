@@ -8262,9 +8262,153 @@
   "url": "/Content/Codex/Lindisfarne-Gospels.html"
  },
  {
-  "src": "/Images/Morgan-Beatus/Morgan-Beatus-1.jpg",
-  "alt": "Commentary on the Apocalypse, folio 2r",
-  "caption": "Commentary on the Apocalypse - folio 2r, Inscription: \"VOX CLAMANTIS IN DESERTO\". Half figure of Evangelist Symbol of Mark, Morgan Beatus, c. 945, mineral and vegetal pigments on parchment, 385 x 280 mm, Morgan Library & Museum, New York, MS M.644.",
+  "src": "/Images/Morgan-Beatus/morgan-beatus-01.jpg",
+  "alt": "The Matthew Page of the Morgan Beatus",
+  "caption": "Author and Witness beneath the Horseshoe Arch: The Matthew Page of the Morgan Beatus (MS M.644, fol. 1v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-02.jpg",
+  "alt": "The Gospel Displayed: The Angel Page of Mark",
+  "caption": "The Gospel Displayed: The Angel Page of Mark of the Morgan Beatus (MS M.644, fol. 2r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-03.jpg",
+  "alt": "The Priestly Evangelist: The Luke Page",
+  "caption": "The Priestly Evangelist: The Luke Page of the Morgan Beatus (MS M.644, fol. 2v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-04.jpg",
+  "alt": "Zacharias at the Threshold: The Angel Page of Luke",
+  "caption": "Zacharias at the Threshold: The Angel Page of Luke of the Morgan Beatus (MS M.644, fol. 3r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-05.jpg",
+  "alt": "The Eagle's Flight: The John Page",
+  "caption": "The Eagle's Flight: The John Page of the Morgan Beatus (MS M.644, fol. 3v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-06.jpg",
+  "alt": "In Principio Erat Verbum: The Angel Page of John",
+  "caption": "In Principio Erat Verbum: The Angel Page of John of the Morgan Beatus (MS M.644, fol. 4r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-07.jpg",
+  "alt": "The Earth Encircled by Fish: The Mappa Mundi",
+  "caption": "The Earth Encircled by Fish: The Mappa Mundi of the Morgan Beatus (MS M.644, fols. 33v–34r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-08.jpg",
+  "alt": "The Wheel of Heaven: The Adoration of the Lamb",
+  "caption": "The Wheel of Heaven: The Adoration of the Lamb in the Morgan Beatus (MS M.644, fol. 87r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-09.jpg",
+  "alt": "MULIER AMICTA SOLE: The Woman, the Dragon",
+  "caption": "MULIER AMICTA SOLE: The Woman, the Dragon, and the War in Heaven (MS M.644, fol. 152v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-10.jpg",
+  "alt": "Cast Down to Earth: The Fall of the Dragon and His Angels",
+  "caption": "Cast Down to Earth: The Fall of the Dragon and His Angels (MS M.644, fol. 153r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-11.jpg",
+  "alt": "The Four Winds Restrained: The Angel with the Seal of the Living God",
+  "caption": "The Four Winds Restrained: The Angel with the Seal of the Living God (MS M.644, fol. 115v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-12.jpg",
+  "alt": "A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb",
+  "caption": "A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb (MS M.644, fols. 117v–118r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-13.jpg",
+  "alt": "Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer",
+  "caption": "Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer (MS M.644, fol. 133v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-14.jpg",
+  "alt": "The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition",
+  "caption": "The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition (MS M.644, fol. 142v).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-15.jpg",
+  "alt": "The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary",
+  "caption": "The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary (MS M.644, fol. 146r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-16.jpg",
+  "alt": "The Thrones and the Lake of Fire: The Last Judgment",
+  "caption": "The Thrones and the Lake of Fire: The Last Judgment (MS M.644, fols. 219v–220r).",
+  "entry": "Morgan Beatus (MS M.644)",
+  "section": "Codex",
+  "century": "",
+  "url": "/Content/Codex/Morgan-Beatus.html"
+ },
+ {
+  "src": "/Images/Morgan-Beatus/morgan-beatus-17.jpg",
+  "alt": "The City and the River: The Heavenly Jerusalem and the Water of Life",
+  "caption": "The City and the River: The Heavenly Jerusalem and the Water of Life (MS M.644, fols. 222v–223r).",
   "entry": "Morgan Beatus (MS M.644)",
   "section": "Codex",
   "century": "",
