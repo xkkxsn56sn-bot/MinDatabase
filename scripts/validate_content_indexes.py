@@ -45,6 +45,12 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     sono: 'Armagh-01.jpg' trova 'armagh-01.jpg' su macOS e fallisce su
     GitHub Pages. Le immagini non passano da nessun altro controllo.
 
+10. Dentro ogni sezione-lettera di endnotes.html le voci sono ordinate per
+    slug. La lettera di sezione segue invece il titolo visualizzato, che
+    puo' cominciare con un onorifico: 'Pope Gregory IX' sta in P con slug
+    fn-gregory-ix. Le divergenze fra le due chiavi sono volute e non sono
+    un'anomalia; il check guarda solo l'ordine interno.
+
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
 
@@ -452,6 +458,103 @@ def check_image_references(md_files, anomalies):
             else:
                 anomalies["Immagine inesistente"].append(f"{rel_src}: '{ref}'")
 
+# --- Check 10: ordine delle voci dentro le sezioni di endnotes.html ------
+# La pagina di note raggruppa le voci in sezioni-lettera, e dentro ogni
+# sezione le ordina per slug. Le due cose seguono chiavi diverse di
+# proposito: la lettera di sezione segue il titolo visualizzato (la voce
+# "Pope Gregory IX" sta in P), lo slug invece lascia cadere gli onorifici
+# (fn-gregory-ix). Le divergenze fra le due sono quindi volute e non vanno
+# segnalate: questo check guarda solo l'ordine interno, mai la lettera.
+#
+# Serve perche' nessun altro controllo copre questa sequenza: il check 4
+# ordina gli indici JSON, il check 8 verifica che le ancore esistano e siano
+# uniche, ma una voce inserita fuori posto non fa rumore da nessuna parte.
+NOTE_SECTION_RE = re.compile(r'<section class="endnotes-section" id="endnotes-([A-Z])">')
+
+
+def notes_by_section(text):
+    """Voci di endnotes.html raggruppate per sezione, in ordine di documento.
+
+    Restituisce {lettera: [slug, ...]}. Si scorrono insieme gli attacchi di
+    sezione e le voci, ordinati per offset, cosi' ogni voce eredita la
+    sezione che la precede.
+    """
+    events = [(m.start(), "sec", m.group(1)) for m in NOTE_SECTION_RE.finditer(text)]
+    events += [(m.start(), "note", m.group(1)) for m in NOTE_ID_RE.finditer(text)]
+    events.sort()
+
+    by_section = {}
+    current = None
+    for _, kind, value in events:
+        if kind == "sec":
+            current = value
+            by_section.setdefault(current, [])
+        elif current is not None:
+            by_section[current].append(value)
+    return by_section
+
+
+def out_of_place(slugs):
+    """Indici delle voci da spostare perche' la sequenza torni ordinata.
+
+    Si cerca la piu' lunga sottosequenza gia' in ordine e si segnalano le
+    voci che ne restano fuori: e' l'insieme minimo da muovere. Segnalare
+    invece ogni coppia invertita accuserebbe anche la voce corretta che
+    precede quella fuori posto, che e' il modo piu' rapido per far spostare
+    la voce sbagliata. Le sezioni hanno poche decine di voci, quindi il
+    quadratico e' piu' che sufficiente e si legge meglio.
+    """
+    n = len(slugs)
+    if n < 2:
+        return []
+
+    best = [1] * n
+    prev = [-1] * n
+    for i in range(1, n):
+        for j in range(i):
+            if slugs[j] <= slugs[i] and best[j] + 1 > best[i]:
+                best[i] = best[j] + 1
+                prev[i] = j
+
+    end = max(range(n), key=lambda i: best[i])
+    keep = set()
+    while end != -1:
+        keep.add(end)
+        end = prev[end]
+    return [i for i in range(n) if i not in keep]
+
+
+def check_note_ordering(anomalies):
+    """Verifica che dentro ogni sezione di endnotes.html gli slug siano ordinati."""
+    path = REPO_ROOT / NOTE_FILES[0]
+    if not path.exists():
+        return
+
+    for letter, slugs in sorted(notes_by_section(path.read_text(encoding="utf-8")).items()):
+        misplaced = out_of_place(slugs)
+        if not misplaced:
+            continue
+
+        ordered = sorted(slugs)
+        for index in misplaced:
+            slug = slugs[index]
+            target = ordered.index(slug)
+            before = ordered[target - 1] if target > 0 else None
+            after = ordered[target + 1] if target + 1 < len(ordered) else None
+
+            if before and after:
+                where = f"fra '{before}' e '{after}'"
+            elif after:
+                where = f"prima di '{after}' (in testa alla sezione)"
+            else:
+                where = f"dopo '{before}' (in coda alla sezione)"
+
+            anomalies["Voce di nota fuori ordine nella sua sezione"].append(
+                f"{NOTE_FILES[0]}: sezione {letter}, '{slug}' e' alla posizione "
+                f"{index + 1} di {len(slugs)} ma va {where}"
+            )
+
+
 def main():
     anomalies = defaultdict(list)
 
@@ -624,6 +727,7 @@ def main():
     ids_by_file = load_anchor_ids(anomalies)
     check_anchor_links(all_md + root_md, ids_by_file, anomalies)
     check_image_references(all_md + root_md, anomalies)
+    check_note_ordering(anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
