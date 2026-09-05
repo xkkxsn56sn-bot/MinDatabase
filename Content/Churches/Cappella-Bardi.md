@@ -2,7 +2,8 @@
 layout: entry
 title: "Cappella Bardi"
 subtitle: "Giotto's life-of-Francis cycle; landmark of early Trecento mural painting and Franciscan dynastic patronage"
-dates: "Chapel built 1295–1310; Giotto fresco cycle c. 1317–1321; Gaetano Bianchi restoration 1850s; Tintori–Procacci campaign 1958–1961; Opificio delle Pietre Dure restoration 2022–ongoing"
+dates: "Chapel built 1295–1310; Giotto fresco cycle c. 1325; Gaetano Bianchi restoration 1850s; Tintori–Procacci campaign 1958–1961; Opificio delle Pietre Dure restoration 2022–ongoing"
+century: "XIV"
 
 meta:
   - title: "Location"

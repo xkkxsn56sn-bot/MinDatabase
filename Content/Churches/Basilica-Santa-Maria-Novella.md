@@ -3,6 +3,7 @@ layout: entry
 title: "Basilica di Santa Maria Novella, Florence"
 subtitle: "The first Gothic church of Florence, Dominican studium, and a stratigraphy of Florentine taste"
 dates: "Founded 1279 (construction already under way); consecrated 1420; façade completed 1470"
+century: "XIII"
 
 meta:
   - title: "Core data"

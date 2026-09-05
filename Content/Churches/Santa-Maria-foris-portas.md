@@ -3,6 +3,7 @@ layout: entry
 title: "Santa Maria foris portas"
 subtitle: "Early medieval church and fresco cycle at Castelseprio"
 dates: "Church: early medieval foundation, probably VIII–IX century; fresco cycle debated VIII–X century; paintings concealed beneath later plaster; accidental rediscovery 1944; ICR conservation campaigns 1950s–1970s; major excavation campaign 1970–1971; UNESCO World Heritage Site (Longobards in Italy, 2011)"
+century: "VIII"
 
 meta:
   - title: "Location"

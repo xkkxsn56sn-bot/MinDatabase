@@ -3,6 +3,7 @@ layout: entry
 title: "Cathedral of Saint-Lazare, Autun"
 subtitle: "Supreme monument of Romanesque pilgrimage architecture and monumental sculpture in Burgundy"
 dates: "Commissioned c. 1120; consecrated 1132; relics translated 1146; narthex completed late 12th century; Gothic additions 15th century"
+century: "XII"
 
 meta:
   - title: "Core data"

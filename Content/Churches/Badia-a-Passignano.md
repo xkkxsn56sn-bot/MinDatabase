@@ -3,6 +3,7 @@ layout: entry
 title: Badia a Passignano
 subtitle: Abbey of San Michele Arcangelo — Vallombrosan monastery, artistic centre, and pilgrimage site in the Chianti Classico
 dates: "Documented from 891 AD; Vallombrosan from 1049"
+century: "IX"
 meta:
   - title: IDENTITY
     pairs:

@@ -3,6 +3,7 @@ layout: entry
 title: "Porta dei Pellegrini"
 subtitle: "The lost southern portal of Ferrara Cathedral and its sculpted cycle of the Months"
 dates: "First campaign c. 1135 (Nicholaus); second campaign c. 1225–1230 (Master of the Months); walled up 1717; demolished 1736; fragments in Museo della Cattedrale di San Giorgio, Ferrara"
+century: "XII"
 location: "Cathedral of San Giorgio (Duomo di Ferrara), Ferrara, Emilia-Romagna, Italy"
 
 scholars:

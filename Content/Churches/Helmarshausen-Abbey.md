@@ -3,6 +3,7 @@ layout: entry
 title: "Helmarshausen Abbey"
 subtitle: "Benedictine imperial abbey and preeminent centre of Romanesque goldsmithing and manuscript illumination"
 dates: "Founded 997; free imperial abbey confirmed 8 October 997; first church consecrated 1011; dissolved 1540"
+century: "X"
 
 meta:
   - title: "Core data"

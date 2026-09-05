@@ -3,6 +3,7 @@ layout: entry
 title: "Pieve di San Leolino"
 subtitle: "Romanesque baptismal church in the Chianti hills, Tuscany"
 dates: "First documented 982; Romanesque fabric 12th century; 16th-century modifications; restored 1942"
+century: "X"
 
 meta:
   - title: "CORE DATA"

@@ -3,6 +3,7 @@ layout: entry
 title: "Basilica di Santa Chiara, Assisi"
 subtitle: "Memorial church of Clare of Assisi, built in the shadow of San Francesco"
 dates: "Building begun c. 1257; relics translated 1260; consecrated 1265 (day disputed)"
+century: "XIII"
 
 meta:
   - title: "Core data"

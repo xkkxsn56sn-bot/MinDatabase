@@ -3,6 +3,7 @@ layout: entry
 title: "Cappella Palatina (Palatine Chapel, Palermo)"
 subtitle: "Norman royal chapel uniting Byzantine mosaic, Fatimid-Islamic carpentry, and Romanesque spatial language"
 dates: "Commissioned 1132; consecrated 28 April 1140; principal mosaic campaigns c. 1140s-1170s; UNESCO inscription 2015"
+century: "XII"
 
 meta:
   - title: "Core data"

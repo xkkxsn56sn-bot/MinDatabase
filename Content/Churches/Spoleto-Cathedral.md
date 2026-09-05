@@ -3,6 +3,7 @@ layout: entry
 title: "Spoleto Cathedral"
 subtitle: "Cattedrale di Santa Maria Assunta — Diocesan Mother Church of Spoleto"
 dates: "Construction begun ca. 1175; consecrated 1198 (Innocent III); dedicated 1207–1227 (Honorius III)"
+century: "XII"
 
 meta:
   - title: "IDENTITY"

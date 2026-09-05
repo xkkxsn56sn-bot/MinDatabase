@@ -3,6 +3,7 @@ layout: entry
 title: "Cappella Peruzzi"
 subtitle: "Giotto's dual cycle of the two Saints John; paradigm of early Trecento Florentine mural painting and dynastic Franciscan patronage"
 dates: "Chapel built c. 1295–1310; Giotto fresco cycle c. 1318–1322; 18th-century overpainting; 20th-century conservation campaigns; ongoing monitoring"
+century: "XIV"
 location: "Basilica di Santa Croce, right transept, Florence, Tuscany, Italy"
 category: "churches"
 

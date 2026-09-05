@@ -7146,12 +7146,21 @@
   "url": "/Content/Artists/XIV-c/Spinello-Aretino.html"
  },
  {
+  "src": "/Images/Chiesa-Castelseprio/chiesa-castelseprio-01.jpg",
+  "alt": "church of Santa Maria foris portas - Castelseprio",
+  "caption": "Church of Santa Maria foris portas, Castelseprio, Varese.",
+  "entry": "Santa Maria foris portas",
+  "section": "Churches",
+  "century": "VIII",
+  "url": "/Content/Churches/Santa-Maria-foris-portas.html"
+ },
+ {
   "src": "/Images/Badia-a-Passignano/badia-a-passignano-01.jpg",
   "alt": "The Last Supper",
   "caption": "Domenico Ghirlandaio (1449-1494), The Last Supper, 1476, fresco, Badia di San Michele Arcangelo, Passignano.",
   "entry": "Badia a Passignano",
   "section": "Churches",
-  "century": "",
+  "century": "IX",
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
@@ -7160,7 +7169,7 @@
   "caption": "Bernardo di Stefano Rosselli (c. 1450–1526), Expulsion from Paradise and Cain and Abel, 1474, fresco, Badia di San Michele Arcangelo, Passignano.",
   "entry": "Badia a Passignano",
   "section": "Churches",
-  "century": "",
+  "century": "IX",
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
@@ -7169,7 +7178,7 @@
   "caption": "Alessandro Allori (1535–1607), Episodes from the life of Giovanni Gualberto, 1581, fresco, Badia di San Michele Arcangelo, Passignano.",
   "entry": "Badia a Passignano",
   "section": "Churches",
-  "century": "",
+  "century": "IX",
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
@@ -7178,7 +7187,7 @@
   "caption": "Domenico Cresti (1559–1638), Eternal Father with playing angels, 1601, fresco, Cappella Maggiore, Badia di San Michele Arcangelo, Passignano.",
   "entry": "Badia a Passignano",
   "section": "Churches",
-  "century": "",
+  "century": "IX",
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
@@ -7187,161 +7196,17 @@
   "caption": "Giovanni Battista Caccini (1556-1613), Funerary monument and effigy of Saint John Gualbert, 1580, marble, Saint John Gualbert chapel, Badia di San Michele Arcangelo, Passignano.",
   "entry": "Badia a Passignano",
   "section": "Churches",
-  "century": "",
+  "century": "IX",
   "url": "/Content/Churches/Badia-a-Passignano.html"
  },
  {
-  "src": "/Images/Santa-Chiara-Assisi/santa-chiara-assisi-01.jpg",
-  "alt": "Basilica di Santa Chiara ad Assisi",
-  "caption": "Basilica di Santa Chiara, Assisi.",
-  "entry": "Basilica di Santa Chiara, Assisi",
+  "src": "/Images/Bicci-di-Lorenzo/image-1-san-leolino.jpg",
+  "alt": "Madonna Lactans",
+  "caption": "Bicci di Lorenzo (1373–1452), Madonna Lactans, 1400s, detached fresco, Pieve di San Leolino, Panzano in Chianti.",
+  "entry": "Pieve di San Leolino",
   "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
- },
- {
-  "src": "/Images/Varie/crocifisso-san-damiano-ignoto-01.jpg",
-  "alt": "Crocifisso di San Damiano",
-  "caption": "Crocifisso di San Damiano, dated debated, tempera on walnut wood with glued cloth, 190 x 120 x 12 cm, Assisi, Basilica di Santa Chiara.",
-  "entry": "Basilica di Santa Chiara, Assisi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
- },
- {
-  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-01.jpg",
-  "alt": "Santa Chiara e otto storie della sua vita",
-  "caption": "Santa Chiara and Eight Stories of Her Life, c. 1283, tempera on panel, 276 × 163 cm, Basilica di Santa Chiara, Assisi.",
-  "entry": "Basilica di Santa Chiara, Assisi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
- },
- {
-  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-02.jpg",
-  "alt": "Christus patiens",
-  "caption": "Christus patiens, c. 1260, tempera on panel, Basilica di Santa Chiara, Assisi.",
-  "entry": "Basilica di Santa Chiara, Assisi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
- },
- {
-  "src": "/Images/Varie/maestro-espressionista-santa-chiara-01.jpg",
-  "alt": "La volta con le Sante in gloria",
-  "caption": "La volta con le Sante in gloria, c. 1337, fresco, Assisi, Basilica di Santa Chiara.",
-  "entry": "Basilica di Santa Chiara, Assisi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
- },
- {
-  "src": "/Images/Santa-Maria-Novella/santa-maria-novella-01.jpg",
-  "alt": "The Façade",
-  "caption": "The Façade by Leon Battista Alberti, 1458-78, polychrome marble, Basilica di Santa Maria Novella, Florence.",
-  "entry": "Basilica di Santa Maria Novella, Florence",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
- },
- {
-  "src": "/Images/Giotto/giotto-01.jpg",
-  "alt": "Crucifix",
-  "caption": "Crucifix, 1290-95, tempera and gold on panel, 578 x 406 cm, Basilica di Santa Maria Novella, Florence.",
-  "entry": "Basilica di Santa Maria Novella, Florence",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
- },
- {
-  "src": "/Images/Varie/masaccio-01.jpg",
-  "alt": "Holy Trinity",
-  "caption": "Holy Trinity. 1425-27, fresco, 667 x 317 cm, Florence, Basilica di Santa Maria Novella.",
-  "entry": "Basilica di Santa Maria Novella, Florence",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
- },
- {
-  "src": "/Images/Duccio-di-Buoninsegna/duccio-di-buoninsegna-04.jpg",
-  "alt": "Madonna Rucellai",
-  "caption": "Virgin and Child enthroned, surrounded by angels (known as the Rucellai Madonna), c. 1285, tempera and gold on panel, 450 x 290 cm, Galleria degli Uffizi, Florence.",
-  "entry": "Basilica di Santa Maria Novella, Florence",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
- },
- {
-  "src": "/Images/Varie/brunelleschi-01.jpg",
-  "alt": "Crucifix",
-  "caption": "Crucifix, 1410-15, wood and tempera, 170 x 170 cm, Florence, Basilica di Santa Maria Novella, Cappella Gondi.",
-  "entry": "Basilica di Santa Maria Novella, Florence",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-01.jpg",
-  "alt": "Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone",
-  "caption": "St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-04.jpg",
-  "alt": "Bardi Chapel - Apparition of Francis to Saint Anthony in the Chapter of Arles",
-  "caption": "Apparition of Francis to Saint Anthony in the Chapter of Arles, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-05.jpg",
-  "alt": "Bardi Chapel - The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata",
-  "caption": "The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-02.jpg",
-  "alt": "Bardi Chapel - The Confirmation of the Rule",
-  "caption": "The Confirmation of the Rule, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-03.jpg",
-  "alt": "Bardi Chapel - Trial by Fire",
-  "caption": "Trial by Fire, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-06.jpg",
-  "alt": "Bardi Chapel - The visions of Brother Augustine and Bishop Guido of Assisi",
-  "caption": "The visions of Brother Augustine and Bishop Guido of Assisi, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
- },
- {
-  "src": "/Images/Cappella-Bardi/cappella-bardi-07.jpg",
-  "alt": "Bardi Chapel - Saint Francis receives the stigmata",
-  "caption": "Saint Francis receives the stigmata, 1325, fresco, 390 x 370 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Bardi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Bardi.html"
+  "century": "X",
+  "url": "/Content/Churches/Pieve-di-San-Leolino.html"
  },
  {
   "src": "/Images/Cappella-Palatina/cappella-palatina-01.jpg",
@@ -7349,7 +7214,7 @@
   "caption": "Mantle of Roger II, 1133/34 (Norman Sicily, Italy), textiles, patterned samite (kermes dye), gold and silk embroidery, pearls, gold with cellular enamel, rubies, spinels, sapphires, garnets, glass, tablet weave, 146 x 345 cm, Kunsthistorisches Museum, Vienna.",
   "entry": "Cappella Palatina (Palatine Chapel, Palermo)",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Cappella-Palatina.html"
  },
  {
@@ -7358,7 +7223,7 @@
   "caption": "Mosaics of Christ Pantocrator (Dome), 1143, mosaic, Cappella Palatina, Palermo.",
   "entry": "Cappella Palatina (Palatine Chapel, Palermo)",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Cappella-Palatina.html"
  },
  {
@@ -7367,7 +7232,7 @@
   "caption": "Mosaics of Christ Pantocrator (Apse), 1143, mosaic, Cappella Palatina, Palermo.",
   "entry": "Cappella Palatina (Palatine Chapel, Palermo)",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Cappella-Palatina.html"
  },
  {
@@ -7376,80 +7241,8 @@
   "caption": "Mosaics of Christ Pantocrator with Saints Peter and Paul, after 1143, mosaic, Cappella Palatina, Palermo.",
   "entry": "Cappella Palatina (Palatine Chapel, Palermo)",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Cappella-Palatina.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-01.jpg",
-  "alt": "Peruzzi Chapel - Zacharias Receives the Angel's Announcement",
-  "caption": "Zacharias Receives the Angel's Announcement, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-02.jpg",
-  "alt": "Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony",
-  "caption": "The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-03.jpg",
-  "alt": "Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias",
-  "caption": "Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-04.jpg",
-  "alt": "Peruzzi Chapel - A Vision on the Island of Patmos",
-  "caption": "A Vision on the Island of Patmos, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-05.jpg",
-  "alt": "Peruzzi Chapel - The Resurrection of Drusiana",
-  "caption": "The Resurrection of Drusiana, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-06.jpg",
-  "alt": "Peruzzi Chapel - The Ascension of St. John",
-  "caption": "The Ascension of St. John, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-07.jpg",
-  "alt": "Peruzzi Chapel - The Peruzzi Polyptych",
-  "caption": "The Peruzzi Polyptych, 1318-22, tempera and gold on panel, 105,7 x 250,2 cm, North Carolina Museum of Art, Raleigh.",
-  "entry": "Cappella Peruzzi",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Cappella-Peruzzi.html"
- },
- {
-  "src": "/Images/Bicci-di-Lorenzo/image-1-san-leolino.jpg",
-  "alt": "Madonna Lactans",
-  "caption": "Bicci di Lorenzo (1373–1452), Madonna Lactans, 1400s, detached fresco, Pieve di San Leolino, Panzano in Chianti.",
-  "entry": "Pieve di San Leolino",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Pieve-di-San-Leolino.html"
  },
  {
   "src": "/Images/Maestro-dei-Mesi/maestro-dei-mesi-01.jpg",
@@ -7457,7 +7250,7 @@
   "caption": "Janus, the two-faced god (Allegory of January), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7466,7 +7259,7 @@
   "caption": "Pruning (Allegory of February), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7475,7 +7268,7 @@
   "caption": "Reawakening of Nature and the King of the Months (Allegory of March and April), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7484,7 +7277,7 @@
   "caption": "Knight with shield (Allegory of May), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7493,7 +7286,7 @@
   "caption": "Boy picking tree fruit (Allegory of June), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7502,7 +7295,7 @@
   "caption": "Wheat threshing (Allegory of July), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7511,7 +7304,7 @@
   "caption": "Preparing the barrel (Allegory of August), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7520,7 +7313,7 @@
   "caption": "The Grape Harvest (Allegory of September), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7529,7 +7322,7 @@
   "caption": "Harvesting turnips (Allegory of November), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
  },
  {
@@ -7538,17 +7331,8 @@
   "caption": "Goat who suckles a child (Allegory of December), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara.",
   "entry": "Porta dei Pellegrini",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Porta-dei-Pellegrini.html"
- },
- {
-  "src": "/Images/Chiesa-Castelseprio/chiesa-castelseprio-01.jpg",
-  "alt": "church of Santa Maria foris portas - Castelseprio",
-  "caption": "Church of Santa Maria foris portas, Castelseprio, Varese.",
-  "entry": "Santa Maria foris portas",
-  "section": "Churches",
-  "century": "",
-  "url": "/Content/Churches/Santa-Maria-foris-portas.html"
  },
  {
   "src": "/Images/Spoleto-Cathedral/spoleto-cathedral-01.jpg",
@@ -7556,8 +7340,224 @@
   "caption": "Holy Icon, 11-12th century, wooden panel, Chapel of the Holy Icon, Spoleto Cathedral.",
   "entry": "Spoleto Cathedral",
   "section": "Churches",
-  "century": "",
+  "century": "XII",
   "url": "/Content/Churches/Spoleto-Cathedral.html"
+ },
+ {
+  "src": "/Images/Santa-Chiara-Assisi/santa-chiara-assisi-01.jpg",
+  "alt": "Basilica di Santa Chiara ad Assisi",
+  "caption": "Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Varie/crocifisso-san-damiano-ignoto-01.jpg",
+  "alt": "Crocifisso di San Damiano",
+  "caption": "Crocifisso di San Damiano, dated debated, tempera on walnut wood with glued cloth, 190 x 120 x 12 cm, Assisi, Basilica di Santa Chiara.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-01.jpg",
+  "alt": "Santa Chiara e otto storie della sua vita",
+  "caption": "Santa Chiara and Eight Stories of Her Life, c. 1283, tempera on panel, 276 × 163 cm, Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Maestro-di-Santa-Chiara/maestro-di-santa-chiara-02.jpg",
+  "alt": "Christus patiens",
+  "caption": "Christus patiens, c. 1260, tempera on panel, Basilica di Santa Chiara, Assisi.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Varie/maestro-espressionista-santa-chiara-01.jpg",
+  "alt": "La volta con le Sante in gloria",
+  "caption": "La volta con le Sante in gloria, c. 1337, fresco, Assisi, Basilica di Santa Chiara.",
+  "entry": "Basilica di Santa Chiara, Assisi",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
+ },
+ {
+  "src": "/Images/Santa-Maria-Novella/santa-maria-novella-01.jpg",
+  "alt": "The Façade",
+  "caption": "The Façade by Leon Battista Alberti, 1458-78, polychrome marble, Basilica di Santa Maria Novella, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Giotto/giotto-01.jpg",
+  "alt": "Crucifix",
+  "caption": "Crucifix, 1290-95, tempera and gold on panel, 578 x 406 cm, Basilica di Santa Maria Novella, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Varie/masaccio-01.jpg",
+  "alt": "Holy Trinity",
+  "caption": "Holy Trinity. 1425-27, fresco, 667 x 317 cm, Florence, Basilica di Santa Maria Novella.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Duccio-di-Buoninsegna/duccio-di-buoninsegna-04.jpg",
+  "alt": "Madonna Rucellai",
+  "caption": "Virgin and Child enthroned, surrounded by angels (known as the Rucellai Madonna), c. 1285, tempera and gold on panel, 450 x 290 cm, Galleria degli Uffizi, Florence.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Varie/brunelleschi-01.jpg",
+  "alt": "Crucifix",
+  "caption": "Crucifix, 1410-15, wood and tempera, 170 x 170 cm, Florence, Basilica di Santa Maria Novella, Cappella Gondi.",
+  "entry": "Basilica di Santa Maria Novella, Florence",
+  "section": "Churches",
+  "century": "XIII",
+  "url": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-01.jpg",
+  "alt": "Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone",
+  "caption": "St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-04.jpg",
+  "alt": "Bardi Chapel - Apparition of Francis to Saint Anthony in the Chapter of Arles",
+  "caption": "Apparition of Francis to Saint Anthony in the Chapter of Arles, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-05.jpg",
+  "alt": "Bardi Chapel - The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata",
+  "caption": "The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-02.jpg",
+  "alt": "Bardi Chapel - The Confirmation of the Rule",
+  "caption": "The Confirmation of the Rule, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-03.jpg",
+  "alt": "Bardi Chapel - Trial by Fire",
+  "caption": "Trial by Fire, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-06.jpg",
+  "alt": "Bardi Chapel - The visions of Brother Augustine and Bishop Guido of Assisi",
+  "caption": "The visions of Brother Augustine and Bishop Guido of Assisi, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Bardi/cappella-bardi-07.jpg",
+  "alt": "Bardi Chapel - Saint Francis receives the stigmata",
+  "caption": "Saint Francis receives the stigmata, 1325, fresco, 390 x 370 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Bardi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Bardi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-01.jpg",
+  "alt": "Peruzzi Chapel - Zacharias Receives the Angel's Announcement",
+  "caption": "Zacharias Receives the Angel's Announcement, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-02.jpg",
+  "alt": "Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony",
+  "caption": "The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-03.jpg",
+  "alt": "Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias",
+  "caption": "Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-04.jpg",
+  "alt": "Peruzzi Chapel - A Vision on the Island of Patmos",
+  "caption": "A Vision on the Island of Patmos, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-05.jpg",
+  "alt": "Peruzzi Chapel - The Resurrection of Drusiana",
+  "caption": "The Resurrection of Drusiana, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-06.jpg",
+  "alt": "Peruzzi Chapel - The Ascension of St. John",
+  "caption": "The Ascension of St. John, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
+ },
+ {
+  "src": "/Images/Cappella-Peruzzi/cappella-peruzzi-07.jpg",
+  "alt": "Peruzzi Chapel - The Peruzzi Polyptych",
+  "caption": "The Peruzzi Polyptych, 1318-22, tempera and gold on panel, 105,7 x 250,2 cm, North Carolina Museum of Art, Raleigh.",
+  "entry": "Cappella Peruzzi",
+  "section": "Churches",
+  "century": "XIV",
+  "url": "/Content/Churches/Cappella-Peruzzi.html"
  },
  {
   "src": "/Images/Book-of-Durrow/book-of-durrow-03.jpg",
