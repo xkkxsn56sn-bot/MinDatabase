@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-04T17:07:16+00:00",
+  "updated_at": "2026-09-05T10:35:51+00:00",
   "notices": [
     {
-      "title": "Book of Armagh (Liber Ardmachanus, MS 52)",
-      "section": "Codices",
-      "path": "Content/Codex/Book-of-Armagh.md",
-      "page_url": "/Content/Codex/Book-of-Armagh.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-04T19:03:54+02:00"
+      "title": "Gislebertus",
+      "section": "Artists",
+      "path": "Content/Artists/XII-c/Gislebertus.md",
+      "page_url": "/Content/Artists/XII-c/Gislebertus.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-05T12:34:09+02:00"
     }
   ]
 }
