@@ -3,6 +3,7 @@ layout: entry
 title: "Modena Cathedral"
 subtitle: "Romanesque cathedral of Santa Maria Assunta and San Geminiano; supreme example of the Lanfranco–Wiligelmo collaboration"
 dates: "Begun 1099; altar of Saint Geminianus consecrated 1106; papal consecration by Lucius III, 1184; Campionese additions from c. 1190; furnishing campaigns through 15th century"
+century: "XI"
 location: "Piazza Grande, Modena, Emilia-Romagna, Italy"
 tradition: "Secular cathedral chapter (diocese of Modena); relic cult of Saint Geminianus; civic and episcopal co-patronage; UNESCO World Heritage Site (1997)"
 architectural_style: "Romanesque basilica; three-nave plan without projecting transept; three apses; modular planning based on crossing-tower square (Lanfranco); semi-submerged crypt; raised chancel of Cluny type; false matroneums; alternating cruciform pillars and marble columns; systematic spolia reuse; rose window and Porta Regia added by Maestri Campionesi"

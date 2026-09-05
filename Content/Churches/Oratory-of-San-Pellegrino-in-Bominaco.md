@@ -3,6 +3,7 @@ layout: entry
 title: "Oratorio di San Pellegrino, Bominaco"
 subtitle: "High medieval Benedictine oratory and shrine"
 dates: "Monastic foundation 10th–11th century; oratory and fresco cycle dated 1263"
+century: "XIII"
 
 meta:
   - title: "Core data"

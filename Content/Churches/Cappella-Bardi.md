@@ -26,7 +26,7 @@ meta:
       - label: "Institutional context"
         value: "Basilica di Santa Croce; Franciscan Order; close Bardi alignment with Franciscan ideals of humility and poverty"
       - label: "Commission date"
-        value: "c. 1317–1321"
+        value: "c. 1325"
       - label: "Original altar panel"
         value: "Stories of Saint Francis (attr. Coppo di Marcovaldo; no longer in situ)"
 
@@ -46,7 +46,7 @@ meta:
       - label: "Artist"
         value: "Giotto di Bondone (c. 1267–1337)"
       - label: "Active period in chapel"
-        value: "c. 1317–1321 (shortly after return from Naples)"
+        value: "c. 1325"
       - label: "Earlier major works"
         value: "Arena Chapel, Padua; fresco cycles in Rome and Assisi; Peruzzi Chapel, Santa Croce"
       - label: "Workshop"
@@ -69,13 +69,13 @@ meta:
 
   - title: "The Fresco Cycle — Seven Scenes"
     list:
-      - "Left wall, scene 1: St. Francis Renounces His Clothes in the Presence of Bishop Guido and His Father Bernardone, c. 1317–1321, fresco, 280 × 450 cm"
-      - "Left wall, scene 2: Apparition of Francis to Saint Anthony in the Chapter of Arles, c. 1317–1321, fresco, 280 × 450 cm"
-      - "Left wall, scene 3: The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, c. 1317–1321, fresco, 280 × 450 cm"
-      - "Right wall, scene 1: The Confirmation of the Rule (Approval of the Franciscan Rule by Innocent III), c. 1317–1321, fresco, 280 × 450 cm"
-      - "Right wall, scene 2: Trial by Fire before the Sultan, c. 1317–1321, fresco, 280 × 450 cm"
-      - "Right wall, scene 3: The Visions of Brother Augustine and Bishop Guido of Assisi, c. 1317–1321, fresco, 280 × 450 cm"
-      - "Entrance arch lunette: Saint Francis Receives the Stigmata, c. 1317–1321, fresco, 390 × 370 cm — largest scene; visible from the nave; theological seal of the entire cycle"
+      - "Left wall, scene 1: St. Francis Renounces His Clothes in the Presence of Bishop Guido and His Father Bernardone, c. 1325, fresco, 280 × 450 cm"
+      - "Left wall, scene 2: Apparition of Francis to Saint Anthony in the Chapter of Arles, c. 1325, fresco, 280 × 450 cm"
+      - "Left wall, scene 3: The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, c. 1325, fresco, 280 × 450 cm"
+      - "Right wall, scene 1: The Confirmation of the Rule (Approval of the Franciscan Rule by Innocent III), c. 1325, fresco, 280 × 450 cm"
+      - "Right wall, scene 2: Trial by Fire before the Sultan, c. 1325, fresco, 280 × 450 cm"
+      - "Right wall, scene 3: The Visions of Brother Augustine and Bishop Guido of Assisi, c. 1325, fresco, 280 × 450 cm"
+      - "Entrance arch lunette: Saint Francis Receives the Stigmata, c. 1325, fresco, 390 × 370 cm — largest scene; visible from the nave; theological seal of the entire cycle"
 
   - title: "Conservation History"
     list:
@@ -135,7 +135,7 @@ These pigments were often bound with organic media such as egg tempera or animal
 
 The façade‑like buildings depicted in the background of several scenes are themselves conceived as illusions of materiality, with simulated masonry, windows, and colonnades that mimic the very walls on which they are painted, thereby blurring the boundary between construction and illusion. Diagnostic tools such as ground‑penetrating radar and thermographic imaging have recently been used to map the thickness and stratigraphy of the plaster layers, revealing subtle variations in mix and consistency that correspond to different phases of execution and later repair. All these technical choices, from the preparation of the *intonaco* to the selection of pigments and binders, demonstrate a highly conscious integration of material practice with iconographic intent, making the Bardi Chapel a key laboratory for understanding the material culture of early Renaissance mural painting.
 
-The creative labour behind the Cappella Bardi is traditionally attributed to Giotto di Bondone himself, working with a small but highly specialized workshop around the years 1317–1321, shortly after his return from Naples. Giotto, a native of Colle di Vespignano near Florence, had already achieved a reputation as the leading figure in the reform of Italo‑Byzantine painting, having completed the *Arena Chapel* in Padua and various fresco cycles in Rome and Assisi.
+The creative labour behind the Cappella Bardi is traditionally attributed to Giotto di Bondone himself, working with a small but highly specialized workshop around 1325, shortly after his return from Naples. Giotto, a native of Colle di Vespignano near Florence, had already achieved a reputation as the leading figure in the reform of Italo‑Byzantine painting, having completed the *Arena Chapel* in Padua and various fresco cycles in Rome and Assisi.
 
 His experience in Padua, where he solved complex problems of illusionistic architecture and deeply psychological figuration, directly informed the compositional articulation of the Bardi Chapel’s multiple scenes. The Bardi were almost certainly instrumental in securing his services, since their extensive banking operations linked Florence to papal and Angevin courts, giving them access to the most prestigious artistic talents of the period.
 
