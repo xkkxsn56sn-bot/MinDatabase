@@ -81,7 +81,7 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 author: "Nicola Pisano"
 role: "Sculptor, founder of the classicising current in Italian Gothic sculpture"
@@ -691,7 +691,7 @@ Saint Dominic died in the convent of the church of San Nicolò delle Vigne on 6 
 
 The workshop question here is more acute than at Siena, because the two commissions overlap. Nicola designed the new tomb and carved several figures for the principal face of the sarcophagus before being called to Siena in 1265 to construct the cathedral pulpit; the arca was completed by his workshop assistants, led by Lapo di Ricevuto. The Sienese contract of 29 September 1265 required Nicola's residence in Siena from 1 March 1266, and the Bologna work was necessarily delegated from that point.
 
-The collaborators named are Arnolfo di Cambio above all, with Lapo and Donato — the last on [Vasari](/endnotes.html#fn-vasari-giorgio)'s authority — and the Dominican lay brother Guglielmo da Pisa, who accompanied the sarcophagus panels to Bologna to set them in place. One catalogue record gives the year of that installation as 1367; this is a century adrift and plainly a typographical error for 1267, but it circulates and should not be reproduced.
+The collaborators named are Arnolfo di Cambio above all, with Lapo and Donato — the last on [Vasari](/endnotes.html#fn-giorgio-vasari)'s authority — and the Dominican lay brother Guglielmo da Pisa, who accompanied the sarcophagus panels to Bologna to set them in place. One catalogue record gives the year of that installation as 1367; this is a century adrift and plainly a typographical error for 1267, but it circulates and should not be reproduced.
 
 The consequence for attribution is direct: the Arca is the least autograph of Nicola's major works, and the balance of hands within it is correspondingly the most contested.
 

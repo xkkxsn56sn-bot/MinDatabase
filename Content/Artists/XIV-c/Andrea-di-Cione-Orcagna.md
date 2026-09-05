@@ -83,9 +83,9 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Lorenzo Ghiberti"
-        url: "/endnotes.html#fn-ghiberti-lorenzo"
+        url: "/endnotes.html#fn-lorenzo-ghiberti"
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 author: "Andrea di Cione (Orcagna)"
 role: "Painter, sculptor and architect, the most institutionally central artist in Florence at mid-century"
@@ -183,7 +183,7 @@ And yet the picture that emerges from the modern literature is curiously unstabl
 
 The result is that Orcagna is habitually described in terms of what he supposedly represents rather than what he demonstrably made. The purpose of this essay is to reverse that emphasis: to set out, as precisely as the evidence allows, what is documented about Andrea di Cione's life and career; what survives of his work and in what condition; what the early sources actually say, and where they can be shown to be wrong; and how the modern historiography has arrived at its present, considerably more cautious position. Where the evidence is contested — and it very often is — the disagreement is reported rather than resolved.
 
-A methodological note is necessary at the outset. This essay observes a deliberate economy in its citation of modern scholarship, naming only three specialists: [Richard Offner](/scholars.html#offner-richard), whose connoisseurial work provided the foundation for every subsequent discussion of the Cione workshop; Millard Meiss, whose 1951 book framed the interpretative debate; and [Gert Kreytenberg](/scholars.html#kreytenberg-gert), the author of the standard modern monograph on the artist and of the principal encyclopaedia treatments. Other scholarly contributions are described by date, venue and argument rather than by author's name. The early sources — [Franco Sacchetti](/endnotes.html#fn-sacchetti-franco), [Lorenzo Ghiberti](/endnotes.html#fn-ghiberti-lorenzo), the Libro di Antonio Billi, the Anonimo Magliabechiano, [Giorgio Vasari](/endnotes.html#fn-vasari-giorgio) — are named throughout, since they are the objects of analysis rather than instruments of it. Claims that rest on a single source, or that are disputed, are flagged as such.
+A methodological note is necessary at the outset. This essay observes a deliberate economy in its citation of modern scholarship, naming only three specialists: [Richard Offner](/scholars.html#offner-richard), whose connoisseurial work provided the foundation for every subsequent discussion of the Cione workshop; Millard Meiss, whose 1951 book framed the interpretative debate; and [Gert Kreytenberg](/scholars.html#kreytenberg-gert), the author of the standard modern monograph on the artist and of the principal encyclopaedia treatments. Other scholarly contributions are described by date, venue and argument rather than by author's name. The early sources — [Franco Sacchetti](/endnotes.html#fn-sacchetti-franco), [Lorenzo Ghiberti](/endnotes.html#fn-lorenzo-ghiberti), the Libro di Antonio Billi, the Anonimo Magliabechiano, [Giorgio Vasari](/endnotes.html#fn-giorgio-vasari) — are named throughout, since they are the objects of analysis rather than instruments of it. Claims that rest on a single source, or that are disputed, are flagged as such.
 
 ## Name, Family and Origins
 

@@ -105,9 +105,9 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Lorenzo Ghiberti"
-        url: "/endnotes.html#fn-ghiberti-lorenzo"
+        url: "/endnotes.html#fn-lorenzo-ghiberti"
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 scholars:
   - title: "Gelli, Giovan Battista"
@@ -174,7 +174,7 @@ Few figures in the history of Italian Trecento painting illustrate as sharply as
 
 This biography treats Puccio Capanna according to the strict evidentiary hierarchy the subject demands: what is *documented*, what is *attributed* (and by whom, and when), and what is *speculation*. It is a story in which the sources actively mislead, in which the most authoritative early witness (Vasari) is also the principal source of error, and in which the recovery of the artist is itself a case study in twentieth-century connoisseurship and archival research. It is also a cautionary tale about the durability of a printed source: Vasari's *Lives*, endlessly reprinted, held the field against the "stentata prosa" of a provincial friar's manuscript, and against the archive itself, well into the twentieth century.
 
-The written sources for Puccio Capanna fall into three groups: the medieval and early-modern Florentine artistic literature ([Ghiberti](/endnotes.html#fn-ghiberti-lorenzo), the *Libro di Antonio Billi*, the Anonimo Gaddiano, [Gelli](/scholars.html#gelli-giovan-battista), and [Vasari](/endnotes.html#fn-vasari-giorgio)); the local Assisan tradition, above all the manuscript *Descrizione* of Fra Ludovico da Pietralunga<a href="/endnotes.html#fn-ludovico-da-pietralunga" class="footnote"><sup>1</sup></a> (c. 1570) and the lost *Libro* of the painter Dono Doni; and the archival record proper, which is astonishingly thin.
+The written sources for Puccio Capanna fall into three groups: the medieval and early-modern Florentine artistic literature ([Ghiberti](/endnotes.html#fn-lorenzo-ghiberti), the *Libro di Antonio Billi*, the Anonimo Gaddiano, [Gelli](/scholars.html#gelli-giovan-battista), and [Vasari](/endnotes.html#fn-giorgio-vasari)); the local Assisan tradition, above all the manuscript *Descrizione* of Fra Ludovico da Pietralunga<a href="/endnotes.html#fn-ludovico-da-pietralunga" class="footnote"><sup>1</sup></a> (c. 1570) and the lost *Libro* of the painter Dono Doni; and the archival record proper, which is astonishingly thin.
 
 It is essential to state at the outset a correction that recurs in popular accounts. Lorenzo Ghiberti's *Commentari* do not mention Puccio Capanna at all. In the Second Book, when Ghiberti lists Giotto's pupils, he writes "E discepoli furono questi. Stefano fu egregissimo dottore," and describes a "gloria" begun by Stefano "nella chiesa d'Ascesi." It is Stefano Fiorentino, not Puccio, who is Ghiberti's Assisan Giottesque. Any biography claiming Ghiberti as a witness to Puccio's fame is repeating an error. This matters, because the reconstruction of Puccio's corpus in the twentieth century ran precisely *through* the figure of Stefano: the works were first assembled under Stefano's name and only later transferred to Puccio.
 

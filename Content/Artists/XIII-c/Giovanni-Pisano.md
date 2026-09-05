@@ -84,9 +84,9 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
       - title: "Lorenzo Ghiberti"
-        url: "/endnotes.html#fn-ghiberti-lorenzo"
+        url: "/endnotes.html#fn-lorenzo-ghiberti"
 
 author: "Giovanni Pisano"
 role: "Sculptor and architect, supreme exponent of the Gothic in Italian sculpture"
@@ -189,7 +189,7 @@ Siena, by contrast, was a Guelph<a href="/endnotes.html#fn-guelphs" class="footn
 
 ## The Documentary Skeleton of a Life
 
-The bones of Giovanni's biography can be assembled from a scatter of documents, inscriptions, and the testimony of [Vasari](/endnotes.html#fn-vasari-giorgio) and, more sparingly, [Ghiberti](/endnotes.html#fn-ghiberti-lorenzo). He declared in the signature-inscriptions of both the Pistoia and Pisa pulpits that he was born in Pisa, which requires that Nicola's family — perhaps of Apulian origin — had settled in the city before the mid-century; Ascani places Giovanni's birth around 1248. No documents survive from his formative years. According to the customs of medieval sculptural workshops, a boy might begin to work regularly alongside his father from about the age of fourteen, though it is more than likely that Giovanni had watched and studied Nicola from early childhood.
+The bones of Giovanni's biography can be assembled from a scatter of documents, inscriptions, and the testimony of [Vasari](/endnotes.html#fn-giorgio-vasari) and, more sparingly, [Ghiberti](/endnotes.html#fn-lorenzo-ghiberti). He declared in the signature-inscriptions of both the Pistoia and Pisa pulpits that he was born in Pisa, which requires that Nicola's family — perhaps of Apulian origin — had settled in the city before the mid-century; Ascani places Giovanni's birth around 1248. No documents survive from his formative years. According to the customs of medieval sculptural workshops, a boy might begin to work regularly alongside his father from about the age of fourteen, though it is more than likely that Giovanni had watched and studied Nicola from early childhood.
 
 The first firm mention of Giovanni comes in the documents surrounding the pulpit of Siena Cathedral: the contract of allocation of 29 September 1265, which bound Nicola, his collaborators, and his son Giovanni to begin work, and the final quittance of the completed work, with Nicola's last payment recorded on 6 November 1268. Thereafter he appears at Perugia (the Fontana Maggiore, inscribed 1278), obtains Sienese citizenship in 1284, and is named in a Sienese document of 3 April 1287 in connection with the cathedral works. He left Siena abruptly in 1297; undertook the Pistoia pulpit (1298–1301) and the Pisa Cathedral pulpit (1302–1310/11); carved the Scrovegni Madonna in Padua (c. 1305–1306); and produced the tomb of Margaret of Brabant in Genoa (1312–1313). The last secure documentary reference places him in Siena in 1314; he died there within the range c. 1315–1319, with the strongest scholarly reconstruction pointing to late 1318, his name being struck from the city's tax registers in 1319. This bare chronology conceals as much as it reveals: between the fixed points lie undocumented years, contested attributions, and works of uncertain date, so that the biography must be built as much from the monuments and their inscriptions as from the archive.
 

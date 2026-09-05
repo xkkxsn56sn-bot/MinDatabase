@@ -87,7 +87,7 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 scholars:
   - title: "Roberto Longhi"
@@ -166,7 +166,7 @@ Three modern scholars are treated here in some depth, because the modern underst
 
 ## The Documentary Record: Life, Guild, and Civic Office
 
-The documentary portrait of Jacopo di Mino rests overwhelmingly on a single monumental nineteenth-century publication: Gaetano Milanesi's *Documenti per la storia dell'arte senese*, whose first volume appeared in Siena in 1854. Milanesi, later famous for his monumental annotated edition of Vasari<a href="/endnotes.html#fn-vasari-giorgio" class="footnote"><sup>1</sup></a>'s *Vite*, was an archivist of extraordinary diligence, and his transcriptions from the Sienese archives remain the point of departure for all subsequent research on the artist. It is a sobering measure of how much scholarship still depends on him that the standard modern biographical entry cites Milanesi 1854, volume I, at pages 27, 40, 50, 263–264, 269–272, 275, 354, and 365 for the great bulk of its documentary claims.
+The documentary portrait of Jacopo di Mino rests overwhelmingly on a single monumental nineteenth-century publication: Gaetano Milanesi's *Documenti per la storia dell'arte senese*, whose first volume appeared in Siena in 1854. Milanesi, later famous for his monumental annotated edition of Vasari<a href="/endnotes.html#fn-giorgio-vasari" class="footnote"><sup>1</sup></a>'s *Vite*, was an archivist of extraordinary diligence, and his transcriptions from the Sienese archives remain the point of departure for all subsequent research on the artist. It is a sobering measure of how much scholarship still depends on him that the standard modern biographical entry cites Milanesi 1854, volume I, at pages 27, 40, 50, 263–264, 269–272, 275, 354, and 365 for the great bulk of its documentary claims.
 
 What do these documents establish? First, the outlines of a life. Jacopo was born in Siena around 1315–1319, the son of a certain Mino, of the *popolo* (parish district) of Sant'Antonio. In 1344 he married Caterina di Cecco di Tura, a baker's daughter (*fornaio*); in 1366, in a second marriage, he wed Margherita d'Angelo di Tuccio. He had four children, whose names are recorded, Giovanna, Filippo, Agnolina, and Giacomo. Neither the place nor the date of his death is recorded, but a document establishes that he was already dead by 1396. This is a fuller familial record than survives for most of his contemporaries, and it is worth stressing that it is documentary fact, not inference.
 

@@ -76,7 +76,7 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 author: "Luca di Tommè"
 role: "Sienese panel painter, active from before 1356 to at least 1389, heir to Pietro Lorenzetti and Simone Martini"
@@ -828,7 +828,7 @@ Luca's art stands within the great Sienese tradition and draws above all on **Pi
 
 But an inheritance received posthumously is a different thing from an inheritance received in a workshop. Luca almost certainly never studied under Pietro Lorenzetti; he learned from Pietro's paintings. What is transmitted in such a case is the visible surface of a style — its compositional formulae, its physiognomic types, its iconographic solutions — and not the reasoning that produced them. This is a general condition of the post-plague generation, and it goes some way toward explaining the character that older critics registered as a decline: not a loss of skill, but a shift in the relation between a painter and the tradition he works in.
 
-Alongside Pietro, the sources record the presence of **Simone Martini** and of the **Memmi** — Lippo and Tederigo — in Luca's formation. The Memmi connection is of particular interest because it involves one of the more instructive corrections in Trecento studies. The New Testament frescoes in the Collegiata at San Gimignano, long attributed to a "Barna" of Siena, are now given to the Memmi family and dated to the 1330s; the "Barna" personality itself is generally rejected as a mis-transcription. The relevance to Luca is direct, since [Vasari](/endnotes.html#fn-vasari-giorgio) makes him a *discepolo di Berna senese* — a pupil of an artist who, on the current understanding, did not exist.
+Alongside Pietro, the sources record the presence of **Simone Martini** and of the **Memmi** — Lippo and Tederigo — in Luca's formation. The Memmi connection is of particular interest because it involves one of the more instructive corrections in Trecento studies. The New Testament frescoes in the Collegiata at San Gimignano, long attributed to a "Barna" of Siena, are now given to the Memmi family and dated to the 1330s; the "Barna" personality itself is generally rejected as a mis-transcription. The relevance to Luca is direct, since [Vasari](/endnotes.html#fn-giorgio-vasari) makes him a *discepolo di Berna senese* — a pupil of an artist who, on the current understanding, did not exist.
 
 The *Dizionario Biografico degli Italiani* entry further observes that the Rieti polyptych of 1370 shows a substantial rapprochement to the art of the Memmi. Luca's stylistic biography is therefore not a single line of descent from Pietro Lorenzetti but a set of negotiations with several available idioms.
 

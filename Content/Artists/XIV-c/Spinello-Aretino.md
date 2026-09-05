@@ -127,7 +127,7 @@ meta:
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
-        url: "/endnotes.html#fn-vasari-giorgio"
+        url: "/endnotes.html#fn-giorgio-vasari"
 
 scholars:
   - title: "Boskovits, Miklós"
@@ -144,7 +144,7 @@ scholars:
 
 ## Origins, Identity, and Name
 
-Spinello di Luca Spinelli, universally known as *Spinello Aretino* — the epithet *Aretino* simply designating his origins in the commune of Arezzo — was born around 1346 to 1352 in Capolona, a small settlement in the territory of Arezzo in Tuscany. The precise year of his birth remains a matter of scholarly debate, with documentary analysis by [Pasqui](/scholars.html#pasqui-ubaldo) (1917) and [Procacci](/scholars.html#procacci-ugo) (1927–1928) pointing to the years between 1346 and 1352 as the most plausible range. Arezzo was at the time a city of considerable cultural vitality, positioned within the orbit of the Florentine artistic world but retaining strong regional characteristics that would shape Spinello's early formation. He died on 14 March 1410 in Arezzo, the city that defined both his origins and the final chapter of his career, and was buried in the now-destroyed church of San Marco in that city. His death was consistent with advanced old age for the period, as he had maintained an active professional life for well over four decades. [Giorgio Vasari](/endnotes.html#fn-vasari-giorgio), the sixteenth-century biographer, dedicated an entire *Life* to Spinello, recognizing him as the most distinguished painter of his native Arezzo and praising the prodigious naturalness of his early vocation. Throughout his biography, Spinello's identity remained anchored in his Aretine roots, even as he established himself as one of the most sought-after fresco painters across the whole of Tuscany.
+Spinello di Luca Spinelli, universally known as *Spinello Aretino* — the epithet *Aretino* simply designating his origins in the commune of Arezzo — was born around 1346 to 1352 in Capolona, a small settlement in the territory of Arezzo in Tuscany. The precise year of his birth remains a matter of scholarly debate, with documentary analysis by [Pasqui](/scholars.html#pasqui-ubaldo) (1917) and [Procacci](/scholars.html#procacci-ugo) (1927–1928) pointing to the years between 1346 and 1352 as the most plausible range. Arezzo was at the time a city of considerable cultural vitality, positioned within the orbit of the Florentine artistic world but retaining strong regional characteristics that would shape Spinello's early formation. He died on 14 March 1410 in Arezzo, the city that defined both his origins and the final chapter of his career, and was buried in the now-destroyed church of San Marco in that city. His death was consistent with advanced old age for the period, as he had maintained an active professional life for well over four decades. [Giorgio Vasari](/endnotes.html#fn-giorgio-vasari), the sixteenth-century biographer, dedicated an entire *Life* to Spinello, recognizing him as the most distinguished painter of his native Arezzo and praising the prodigious naturalness of his early vocation. Throughout his biography, Spinello's identity remained anchored in his Aretine roots, even as he established himself as one of the most sought-after fresco painters across the whole of Tuscany.
 
 ## Family and Lineage
 
