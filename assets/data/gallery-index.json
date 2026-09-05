@@ -243,42 +243,6 @@
   "url": "/Content/Artists/X-c/Maius.html"
  },
  {
-  "src": "/Images/Giselbertus/giselbertus-01.jpg",
-  "alt": "Last Judgment Tympanum - Cathedral of St. Lazare, Autun",
-  "caption": "The Last Judgment Tympanum, c. 1130, high relief in Autun limestone, 350 x 640 cm, Central Portal of the West facade of the Cathedral of St. Lazare, Autun.",
-  "entry": "Giselbertus",
-  "section": "Artists",
-  "century": "XI",
-  "url": "/Content/Artists/XI-c/Giselbertus.html"
- },
- {
-  "src": "/Images/Giselbertus/giselbertus-02.jpg",
-  "alt": "The Temptation of Eve - Musée Rolin, Autun",
-  "caption": "The Temptation of Eve, c. 1130, high relief in Autun limestone, 72 x 13 x 18 cm, Musée Rolin, Autun.",
-  "entry": "Giselbertus",
-  "section": "Artists",
-  "century": "XI",
-  "url": "/Content/Artists/XI-c/Giselbertus.html"
- },
- {
-  "src": "/Images/Giselbertus/giselbertus-03.jpg",
-  "alt": "Flight into Egypt - Musée Rolin, Autun",
-  "caption": "The Flight into Egypt, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.",
-  "entry": "Giselbertus",
-  "section": "Artists",
-  "century": "XI",
-  "url": "/Content/Artists/XI-c/Giselbertus.html"
- },
- {
-  "src": "/Images/Giselbertus/giselbertus-04.jpg",
-  "alt": "Suicide of Judas - Musée Rolin, Autun",
-  "caption": "The Suicide of Judas, c. 1130, high relief in Autun limestone, around 30 x 40 cm, Musée Rolin, Autun.",
-  "entry": "Giselbertus",
-  "section": "Artists",
-  "century": "XI",
-  "url": "/Content/Artists/XI-c/Giselbertus.html"
- },
- {
   "src": "/Images/Maestro-Pedret/maestro-pedret-01.jpg",
   "alt": "The Wise and Foolish Virgins",
   "caption": "The Wise and Foolish Virgins, 1090-1110, fresco transferred on canvas, 325 x 315 x 320 cm, Museu Nacional d'Art de Catalunya, Barcelona.",
@@ -691,6 +655,87 @@
   "section": "Artists",
   "century": "XII",
   "url": "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-01.jpg",
+  "alt": "Last Judgment Tympanum",
+  "caption": "The Last Judgment Tympanum, second quarter of the twelfth century, Autun limestone, 462 x 653 cm, Cathedral of Saint-Lazare, Autun, central portal of the West facade of the Cathedral of St. Lazare, Autun.",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-02.jpg",
+  "alt": "The Temptation of Eve",
+  "caption": "The Temptation of Eve, c. 1130, north doorway lintel in Autun limestone, 72 x 130 x 18 cm, Autun, Musée Rolin.",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-08.jpg",
+  "alt": "God's Reproach of Adam",
+  "caption": "God's Reproach of Adam, historiated capital in Autun limestone, 1125–1130, Musée Rolin, Autun.",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-09.jpg",
+  "alt": "The Death of Cain",
+  "caption": "The Death of Cain: Lamech Slaying Cain, historiated capital in Autun limestone, 1125–1130, Cathedral of Saint-Lazare, Autun.",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-07.jpg",
+  "alt": "The Dream of the Magi",
+  "caption": "The Dream of the Magi, historiated capital in Autun limestone, 1125–1130, Cathedral of Saint-Lazare, Autun (salle capitulaire).",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-06.jpg",
+  "alt": "Adoration of the Magi",
+  "caption": "Adoration of the Magi, historiated capital in Autun limestone, 1125–1130, Cathedral of Saint-Lazare, Autun (salle capitulaire).",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-03.jpg",
+  "alt": "Flight into Egypt",
+  "caption": "The Flight into Egypt, historiated capital in Autun limestone, 1125–1130, Cathedral of Saint-Lazare, Autun (salle capitulaire).",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-04.jpg",
+  "alt": "Suicide of Judas",
+  "caption": "The Suicide of Judas, historiated capital in Autun limestone, 1125–1130, Cathedral of Saint-Lazare, Autun (salle capitulaire).",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
+ },
+ {
+  "src": "/Images/Gislebertus/gislebertus-05.jpg",
+  "alt": "The Triumph of the Virtues over the Vices",
+  "caption": "The Triumph of the Virtues over the Vices (Charity over Avarice, Patience over Wrath), historiated capital in Autun limestone, 1125–1130. Cathedral of Saint-Lazare, Autun (salle capitulaire).",
+  "entry": "Gislebertus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Gislebertus.html"
  },
  {
   "src": "/Images/Maestro-Croce-432/maestro-croce-432-01.jpg",
@@ -7243,6 +7288,24 @@
   "section": "Churches",
   "century": "XII",
   "url": "/Content/Churches/Cappella-Palatina.html"
+ },
+ {
+  "src": "/Images/Autun/autun-01.jpg",
+  "alt": "Cathedral of Saint-Lazare at Autun",
+  "caption": "Cathedral of Saint-Lazare, Autun.",
+  "entry": "Cathedral of Saint-Lazare, Autun",
+  "section": "Churches",
+  "century": "XII",
+  "url": "/Content/Churches/Autun-Cathedral.html"
+ },
+ {
+  "src": "/Images/Autun/autun-02.jpg",
+  "alt": "Madonna of Chancellor Rolin, Jan van Eyck",
+  "caption": "Jan van Eyck (c. 1390–1441), Madonna of Chancellor Rolin, c. 1435, oil on panel, 66 x 62 cm, Paris, Musée du Louvre.",
+  "entry": "Cathedral of Saint-Lazare, Autun",
+  "section": "Churches",
+  "century": "XII",
+  "url": "/Content/Churches/Autun-Cathedral.html"
  },
  {
   "src": "/Images/Maestro-dei-Mesi/maestro-dei-mesi-01.jpg",

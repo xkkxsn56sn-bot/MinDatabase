@@ -45,10 +45,6 @@
   ],
   "XI Century": [
     {
-      "name": "Giselbertus",
-      "href": "Content/Artists/XI-c/Giselbertus.html"
-    },
-    {
       "name": "Maestro di Pedret",
       "href": "Content/Artists/XI-c/Maestro-di-Pedret.html"
     },
@@ -81,6 +77,10 @@
     {
       "name": "Berlinghiero Berlinghieri",
       "href": "Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
+    },
+    {
+      "name": "Gislebertus",
+      "href": "Content/Artists/XII-c/Gislebertus.html"
     },
     {
       "name": "Hildegard von Bingen",
