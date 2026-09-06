@@ -241,8 +241,11 @@ interfaccia; vanno copiati a mano nel Secret `NEWSLETTER_SUBSCRIBERS` e in
 Il sistema regge fino a una trentina di iscritti: oltre, il limite non e'
 GitHub ma iCloud Mail, che non e' un servizio di invio in massa.
 
-**L'indice della galleria in locale.** Non committarlo dal Mac: lo rigenera il
-workflow, e committarlo da entrambe le parti produce conflitti.
+**L'indice della galleria.** Si rigenera in locale con
+`python3 scripts/build_gallery_index.py` e si committa insieme alla scheda che
+lo cambia, cosi' indice e contenuto restano allineati nello stesso commit. Il
+workflow **Update Gallery Index** in CI resta attivo e fa da controprova:
+trovando l'indice gia' aggiornato esce con «unchanged, nothing to commit».
 
 ### I nove controlli
 
