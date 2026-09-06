@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.1 | **Last Updated**: 6 September 2026
+**Version**: 4.2 | **Last Updated**: 6 September 2026
 
 ## Project Scope
 
@@ -160,7 +160,7 @@ This repository already contains embedded images in content files.
 
 ## Tooling Note: validate_content_indexes.py
 
-`scripts/validate_content_indexes.py` runs the ten content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, and slug ordering inside the sections of `endnotes.html`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
+`scripts/validate_content_indexes.py` runs the eleven content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, slug ordering inside the sections of `endnotes.html`, and display-name ordering inside the sections of `scholars.html`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
 
 `Content/Saints/` is, by editorial choice, an unindexed section: saint entries are reachable only via links from other entries, not from a listing page. The script excludes `Saints/` from the "has a JSON entry" check, but flags any Saints entry that isn't linked from any other entry, since such an entry would otherwise be unreachable.
 
@@ -257,14 +257,27 @@ lo cambia, cosi' indice e contenuto restano allineati nello stesso commit. Il
 workflow **Update Gallery Index** in CI resta attivo e fa da controprova:
 trovando l'indice gia' aggiornato esce con «unchanged, nothing to commit».
 
-### I dieci controlli
+### Gli undici controlli
 
 `scripts/validate_content_indexes.py` contiene tutti i controlli sul
-contenuto; il docstring in cima li elenca. Quattro meritano una nota:
+contenuto; il docstring in cima li elenca. Cinque meritano una nota:
 
 - **7** verifica i link fra pagine, **8** le ancore ai due contenitori
   (`endnotes.html`, `scholars.html`), **9** le immagini, **10** l'ordine per
-  slug dentro le sezioni-lettera di `endnotes.html`.
+  slug dentro le sezioni-lettera di `endnotes.html`, **11** l'ordine dentro
+  le sezioni di `scholars.html`.
+- Il 10 e l'11 sono gemelli con la chiave opposta, e la differenza e' voluta.
+  Le note si ordinano per slug; gli studiosi per titolo visualizzato, perche'
+  li' lo slug e' spesso una forma storica che non segue il titolo:
+  `max-seidel` per «Seidel, Max», `hendrik-willem-van-os` per «van Os,
+  Hendrik Willem». Ordinare per slug segnalerebbe quelle voci come fuori
+  posto; ordinare per titolo le assolve da solo, e nessuna lista di
+  eccezioni e' necessaria. La collazione riproduce l'uso del file, non le
+  regole bibliotecarie: cognome poi nome, diacritici e punteggiatura
+  ignorati, confronto parola per parola — «De Marchi» < «De Rossi» <
+  «Del Migliore» < «Delisle» < «Della Valle» — e una particella di una sola
+  lettera che fa corpo con la parola seguente, cosi' «Ó Floinn» si archivia
+  come OFloinn e sta dopo Offner, come O'Curry e O'Loughlin.
 - Il check 8 esiste perche' i contenitori sono due: un link puo' nominare
   un'ancora reale ma cercarla nel file sbagliato. Le note del mondo antico
   stavano in un terzo contenitore, `ancient-world.html`, fuso in
@@ -276,9 +289,9 @@ contenuto; il docstring in cima li elenca. Quattro meritano una nota:
   sul Mac e produce un'immagine vuota in produzione.
 
 I controlli da 1 a 9 coprono `Content/**/*.md` piu' i `.md` nella radice
-(glossary, dating-systems), esclusa la cartella `drafts/`. Il 10 fa eccezione:
-non guarda i `.md`, legge `endnotes.html`. L'ordinamento delle voci di
-`scholars.html` non e' invece coperto da alcun controllo automatico.
+(glossary, dating-systems), esclusa la cartella `drafts/`. Il 10 e l'11 fanno
+eccezione: non guardano i `.md`, leggono i due contenitori HTML,
+`endnotes.html` e `scholars.html`.
 
 ### Convenzioni
 

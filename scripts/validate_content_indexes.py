@@ -51,6 +51,18 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     fn-gregory-ix. Le divergenze fra le due chiavi sono volute e non sono
     un'anomalia; il check guarda solo l'ordine interno.
 
+11. Dentro ogni sezione-lettera di scholars.html le voci sono ordinate per
+    titolo visualizzato (<h3>, forma 'Cognome, Nome'), non per slug. E' il
+    gemello del 10 con la chiave opposta, e la differenza e' voluta: in
+    scholars.html lo slug puo' divergere dal titolo (max-seidel per
+    'Seidel, Max', hendrik-willem-van-os per 'van Os, Hendrik Willem') senza
+    che la voce sia fuori posto. Ordinare per slug segnalerebbe quei casi
+    come anomalie; ordinare per titolo li assolve da solo, e nessuna lista
+    di eccezioni e' necessaria.
+
+I controlli da 1 a 9 lavorano sui .md; il 10 e l'11 leggono i due
+contenitori HTML, endnotes.html e scholars.html.
+
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
 
@@ -555,6 +567,115 @@ def check_note_ordering(anomalies):
             )
 
 
+# --- Check 11: ordine delle voci dentro le sezioni di scholars.html -----
+# Il gemello del check 10, con la chiave opposta. Le note si ordinano per
+# slug; gli studiosi per titolo visualizzato, perche' qui lo slug e' spesso
+# una forma storica che non segue il titolo — 'Seidel, Max' ha id max-seidel,
+# 'van Os, Hendrik Willem' ha id hendrik-willem-van-os. Quelle voci sono al
+# posto giusto: e' l'id a essere anomalo, e non e' compito di questo check.
+# Leggendo solo l'<h3> il problema non si pone, e non serve alcuna whitelist.
+#
+# La collazione riproduce l'ordinamento reale del file, non una regola
+# bibliotecaria astratta:
+#   - cognome prima, nome poi: il titolo e' gia' nella forma 'Cognome, Nome';
+#   - diacritici via (NFD + strip dei combining): Verzar accanto a Vervat;
+#   - punteggiatura via: O'Curry si archivia come OCurry;
+#   - confronto parola per parola, non sulla stringa concatenata. E' quello
+#     che tiene 'De Marchi' < 'De Rossi' < 'Del Migliore' < 'Delisle' <
+#     'Della Valle' e 'Donati, Pier Paolo' < 'Donati, Piero': concatenando
+#     senza spazi entrambe le sequenze si romperebbero;
+#   - una particella di una sola lettera fa corpo con la parola seguente:
+#     'O Floinn' si archivia come OFloinn e sta dopo Offner, coerentemente
+#     con O'Curry e O'Loughlin. Nelle 411 voci la regola scatta una volta
+#     sola, proprio li'.
+# Le particelle van/von/de si archiviano dove sono scritte: 'van Os' sta
+# sotto V-a-n, non sotto O. Anche questo e' l'uso del file, non una scelta.
+SCHOLAR_SECTION_RE = re.compile(r'<section class="scholar-section" id="([a-z])">')
+SCHOLAR_H3_RE = re.compile(r"<h3[^>]*>(.*?)</h3>", re.DOTALL)
+TAGS_RE = re.compile(r"<[^>]+>")
+
+
+def scholar_collation_key(title):
+    """Chiave d'ordinamento di una voce di scholars.html, dal titolo mostrato."""
+    surname, _, forename = title.partition(",")
+
+    def words(part):
+        part = unicodedata.normalize("NFD", part)
+        part = "".join(c for c in part if not unicodedata.combining(c))
+        part = re.sub(r"[^a-z0-9 ]+", "", part.casefold())
+        out = []
+        for token in part.split():
+            if out and len(out[-1]) == 1:
+                out[-1] += token
+            else:
+                out.append(token)
+        return tuple(out)
+
+    return (words(surname), words(forename))
+
+
+def scholars_by_section(text):
+    """Voci di scholars.html raggruppate per sezione, in ordine di documento.
+
+    Restituisce {lettera: [titolo, ...]}. Come per le note si scorrono
+    insieme attacchi di sezione e voci ordinati per offset, cosi' ogni voce
+    eredita la sezione che la precede. Il titolo e' il primo <h3> dopo il
+    tag di apertura della voce.
+    """
+    events = [(m.start(), "sec", m.group(1)) for m in SCHOLAR_SECTION_RE.finditer(text)]
+
+    for m in TAG_RE.finditer(text):
+        class_m = CLASS_ATTR_RE.search(m.group(1))
+        if not class_m or "scholar-entry" not in class_m.group(1).split():
+            continue
+        h3 = SCHOLAR_H3_RE.search(text, m.end())
+        title = re.sub(r"\s+", " ", TAGS_RE.sub("", h3.group(1))).strip() if h3 else ""
+        events.append((m.start(), "entry", title))
+
+    events.sort()
+
+    by_section = {}
+    current = None
+    for _, kind, value in events:
+        if kind == "sec":
+            current = value
+            by_section.setdefault(current, [])
+        elif current is not None:
+            by_section[current].append(value)
+    return by_section
+
+
+def check_scholars_ordering(anomalies):
+    """Verifica che dentro ogni sezione di scholars.html i titoli siano ordinati."""
+    path = REPO_ROOT / SCHOLAR_FILE
+    if not path.exists():
+        return
+
+    for letter, titles in sorted(scholars_by_section(path.read_text(encoding="utf-8")).items()):
+        keys = [scholar_collation_key(t) for t in titles]
+        misplaced = out_of_place(keys)
+        if not misplaced:
+            continue
+
+        ordered = sorted(zip(keys, titles))
+        for index in misplaced:
+            target = ordered.index((keys[index], titles[index]))
+            before = ordered[target - 1][1] if target > 0 else None
+            after = ordered[target + 1][1] if target + 1 < len(ordered) else None
+
+            if before and after:
+                where = f"fra '{before}' e '{after}'"
+            elif after:
+                where = f"prima di '{after}' (in testa alla sezione)"
+            else:
+                where = f"dopo '{before}' (in coda alla sezione)"
+
+            anomalies["Voce di studioso fuori ordine nella sua sezione"].append(
+                f"{SCHOLAR_FILE}: sezione {letter.upper()}, '{titles[index]}' e' alla "
+                f"posizione {index + 1} di {len(titles)} ma va {where}"
+            )
+
+
 def main():
     anomalies = defaultdict(list)
 
@@ -728,6 +849,7 @@ def main():
     check_anchor_links(all_md + root_md, ids_by_file, anomalies)
     check_image_references(all_md + root_md, anomalies)
     check_note_ordering(anomalies)
+    check_scholars_ordering(anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())
