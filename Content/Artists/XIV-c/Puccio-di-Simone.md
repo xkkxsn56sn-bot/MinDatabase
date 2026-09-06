@@ -73,30 +73,11 @@ meta:
       - "Strozzi family of Florence"
       - "Sant’Antonio Abate fuori Porta Pisana, Fabriano"
 
-author: "Puccio di Simone"
-role: "Florentine Gothic painter trained in the circle of Bernardo Daddi, active between Florence and Fabriano and key interpreter of Giottesque traditions in the mid-Trecento"
-birth_place: "Florence (probable)"
-death_place: "Florence or environs (probable), shortly after 1362"
-period: "XIV century"
-
-key_works:
-  - "Frescoes in the Strozzi Chapel, Santa Maria Novella, Florence (dated 1340, fragmentary)"
-  - "Polyptych with the Mystic Marriage of Saint Catherine (panels dispersed: Berlin, London and other collections)"
-  - "Saint Anthony Abbot Altarpiece, 1353, Pinacoteca Civica, Fabriano (Sant’Antonio Abate fuori Porta Pisana)"
-  - "Triptych with Madonna and Saints, 1354, National Gallery of Art, Washington (Samuel H. Kress Collection)"
-  - "Coronation of the Virgin, c. 1350, Museum of Fine Arts, Ghent"
-  - "Madonna and Child with Angels, c. 1350, Norton Simon Museum, Pasadena"
-
-tradition: "Mid-Trecento Florentine painting in the Giottesque tradition, in dialogue with Marchigian Gothic culture"
-artistic_style: "Giottesque volumetry and clear spatial construction enriched by elaborate gold-ground decoration and tender devotional expression"
-
 thematic_keywords:
   - "Giottesque mid-Trecento painting"
   - "Mystic Marriage of Saint Catherine"
   - "Saint Anthony Abbot and confraternal devotion"
   - "Madonna and Child with music-making angels"
-
-category: "artists"
 ---
 
 

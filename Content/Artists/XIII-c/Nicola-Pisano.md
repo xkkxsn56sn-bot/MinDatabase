@@ -83,22 +83,6 @@ meta:
       - title: "Giorgio Vasari"
         url: "/endnotes.html#fn-giorgio-vasari"
 
-author: "Nicola Pisano"
-role: "Sculptor, founder of the classicising current in Italian Gothic sculpture"
-birth_place: "Apulia, kingdom of Frederick II (precise locality unknown)"
-death_place: "Probably Pisa or possibly Siena; documented as already deceased by March 1284"
-period: "XIII century"
-
-key_works:
-  - "Pulpit of the Pisa Baptistery (begun c. 1255–1257, completed 1259)"
-  - "Deposition from the Cross, Cathedral of San Martino, Lucca (c. 1257–1260)"
-  - "Arca di San Domenico, Bologna (1264–1267)"
-  - "Pulpit of Siena Cathedral (1265–1268)"
-  - "Fontana Maggiore, Perugia (with Giovanni Pisano, 1275–1278)"
-
-tradition: "Tuscan Duecento sculpture, formed on the classicising culture of Frederick II's Apulian court and on the direct study of Roman sarcophagi in the Camposanto of Pisa"
-artistic_style: "Massive, gravity-obedient figures modelled on Roman prototypes, fused with Gothic narrative density, graduated relief depth, and a progressive saturation of the picture field"
-
 thematic_keywords:
   - "Classicising Gothic sculpture"
   - "Reuse and quotation of Roman sarcophagi"
@@ -117,8 +101,6 @@ scholars:
     url: "/scholars.html#nicco-fasola-giusta"
   - title: "Bottari, Stefano"
     url: "/scholars.html#bottari-stefano"
-
-category: "artists"
 ---
 
 ## Introduction

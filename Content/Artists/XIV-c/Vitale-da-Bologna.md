@@ -66,28 +66,11 @@ meta:
       - "Andrea de Bartoli"
       - "Nicolò di Giacomo"
 
-author: "Vitale da Bologna"
-role: "Bolognese painter active in the mid-fourteenth century, principal innovator of the local Gothic tradition and key Giottesque interpreter"
-birth_place: "Bologna (probable)"
-death_place: "Bologna or its surroundings (probable), shortly after 1360"
-period: "XIV century"
-
-key_works:
-  - "Frescoes from Santa Maria di Mezzaratta, Bologna (Old and New Testament cycles, now Pinacoteca Nazionale di Bologna; partly by Vitale and his circle)"
-  - "Polyptych of San Salvatore, Bologna (fragments and related panels in various collections)"
-  - "St George and the Dragon, Pinacoteca Nazionale di Bologna"
-  - "Crucifixes and Madonna and Child panels for churches in Bologna and Romagna (attributed corpus, including Pomposa and Udine)"
-
-tradition: "Bolognese Gothic painting in dialogue with Giottesque developments and northern Italian tastes"
-artistic_style: "Nervous, vibrant line, intense colour, animated figures and dramatic narrative sense that infuse Giottesque structure with Gothic expressiveness"
-
 thematic_keywords:
   - "Giottesque narrative cycles in Emilia"
   - "Expressive Gothic figuration"
   - "Crucifixes and Marian images in Bologna"
   - "Regional circulation of Bolognese style"
-
-category: "artists"
 ---
 
 

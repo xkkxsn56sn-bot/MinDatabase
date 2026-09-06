@@ -87,22 +87,6 @@ meta:
       - title: "Giorgio Vasari"
         url: "/endnotes.html#fn-giorgio-vasari"
 
-author: "Andrea di Cione (Orcagna)"
-role: "Painter, sculptor and architect, the most institutionally central artist in Florence at mid-century"
-birth_place: "Florence; son of a Florentine named Cione, brother of the painters Nardo and Jacopo and the sculptor Matteo"
-death_place: "Florence, late 1368; no death record survives"
-period: "XIV century"
-
-key_works:
-  - "Strozzi altarpiece, Santa Maria Novella, Florence (signed and dated 1357)"
-  - "Tabernacle of Orsanmichele, Florence (signed and dated 1359)"
-  - "Triumph of Death, Last Judgement and Hell, Santa Croce, Florence (fragmentary)"
-  - "Expulsion of the Duke of Athens, from the Stinche (attributed)"
-  - "Pentecost triptych from Santi Apostoli, Galleria dell'Accademia (with Jacopo di Cione)"
-
-tradition: "Post-Giottesque Florence, formed on the solid and undecorative current of Maso di Banco and Taddeo Gaddi, turned towards Dominican doctrinal imagery"
-artistic_style: "Statuesque, closed forms in saturated colour, calibrating flatness against depth register by register; relief conceived in painterly terms"
-
 thematic_keywords:
   - "Florentine painting after the Black Death"
   - "Tabernacles and guild patronage"
@@ -171,8 +155,6 @@ scholars:
     url: "/scholars.html#wilkins-david-g"
   - title: "Zeri, Federico"
     url: "/scholars.html#zeri-federico"
-
-category: "artists"
 ---
 
 ## Introduction: The Problem of Orcagna

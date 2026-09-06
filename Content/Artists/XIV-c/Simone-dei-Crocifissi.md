@@ -73,29 +73,11 @@ meta:
       - "San Giacomo Maggiore, Bologna"
       - "Santa Maria di Mezzaratta, Bologna"
 
-author: "Simone dei Crocifissi"
-role: "Bolognese Gothic painter, leading interpreter of the Giottesque tradition and principal producer of religious imagery in late fourteenth‑century Bologna"
-birth_place: "Bologna, parish of San Domenico"
-death_place: "Bologna (probable), shortly after 1399"
-period: "XIV century"
-
-key_works:
-  - "Crucifix, 1370, San Giacomo Maggiore, Bologna"
-  - "Frescoes from Santa Maria di Mezzaratta (now Pinacoteca Nazionale di Bologna), including Old and New Testament cycles"
-  - "Pietà for Giovanni da Elthinl, 1368 (lost, known from documents)"
-  - "Polyptych for San Petronio, Bologna (Cospi commission, dispersed)"
-  - "Painted casket for a member of the Baisi family, Victoria and Albert Museum, London"
-
-tradition: "Bolognese Gothic painting in the Giottesque tradition, serving mendicant orders, confraternities, and civic patrons"
-artistic_style: "Expressive Giottesque volumetry combined with Bolognese linear vitality, rich colour, and dense narrative and devotional programs"
-
 thematic_keywords:
   - "Crucifixes and Passion iconography"
   - "Old and New Testament narrative cycles"
   - "Bolognese mendicant patronage"
   - "Family workshops and Giottesque legacy"
-
-category: "artists"
 ---
 
 

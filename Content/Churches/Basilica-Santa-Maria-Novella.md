@@ -127,8 +127,6 @@ meta:
       - "Florentine patronage"
       - "Vasarian tradition and documentary correction"
 
-category: "churches"
-
 scholars:
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"

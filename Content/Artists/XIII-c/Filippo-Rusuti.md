@@ -110,21 +110,6 @@ meta:
       - title: "Serena Romano"
         url: "/scholars.html#romano-serena"
 
-author: "Filippo Rusuti"
-role: "Roman mosaicist and painter, principal author of the façade mosaic of Santa Maria Maggiore, Rome"
-birth_place: "Rome"
-death_place: "Unknown — possibly France (not documented)"
-period: "XIII–early XIV century"
-
-key_works:
-  - "Façade mosaic (upper register), Santa Maria Maggiore, Rome, c. 1294–1308"
-  - "Madonna di San Luca (signed), Santa Maria del Popolo, Rome, c. 1297"
-  - "Frescoes, Santa Maria Donnaregina Vecchia, Naples, c. 1319–1320"
-  - "Frescoes, Brancacci Chapel, San Domenico Maggiore, Naples, c. 1320"
-
-tradition: "Roman late medieval mosaics and painting between Byzantine heritage, Franciscan narrative, and the emergence of Trecento naturalism"
-artistic_style: "Hieratic gold-ground mosaic with naturalistic drapery and individual characterisation; narrative fresco cycles integrating Byzantine dignity with emerging Cavallinian pathos"
-
 thematic_keywords:
   - "Maiestas Domini / Pantocrator iconography"
   - "Gold-ground mosaic"
@@ -136,8 +121,6 @@ thematic_keywords:
 scholars:
   - title: "Romano, Serena"
     url: "/scholars.html#romano-serena"
-
-category: "artists"
 ---
 
 ## Family background

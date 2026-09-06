@@ -92,22 +92,6 @@ meta:
       - title: "Pietro Cavallini"
         url: "/Content/Artists/XIII-c/Pietro-Cavallini.html"
 
-author: "Arnolfo di Cambio"
-role: "Sculptor, architect, and urban planner"
-birth_place: "Colle di Val d'Elsa, Tuscany"
-death_place: "Florence, probably c. 1300–1302"
-period: "XIII century"
-
-key_works:
-  - "Tomb of Cardinal Guillaume de Braye, San Domenico, Orvieto (1282)"
-  - "Ciborium of Saint Paul Outside the Walls, Rome (1285)"
-  - "Ciborium of Santa Cecilia in Trastevere, Rome (c. 1293)"
-  - "Portrait statue of Charles I of Anjou, Rome (c. 1276–1277)"
-  - "Original façade statuary of Santa Maria del Fiore, Florence (from c. 1294–1295)"
-
-tradition: "Late Duecento sculpture and architecture at the convergence of classical revival, French Gothic innovation, and central Italian communal patronage"
-artistic_style: "Monumental sculptural language combining classical gravitas and Gothic linearity, with a pervasive pictorial sensibility operative across funerary monuments, ciboria, and cathedral façades"
-
 thematic_keywords:
   - "Canopied wall-tomb typology"
   - "Classical revival in late medieval sculpture"
@@ -115,8 +99,6 @@ thematic_keywords:
   - "Civic architecture and communal identity in Florence"
   - "First sculptural presepe"
   - "Cross-media practice"
-
-category: "artists"
 ---
 
 ## Family background

@@ -90,8 +90,6 @@ meta:
       - "Insular minuscule"
       - "Roger Powell"
 
-category: "codex"
-
 scholars:
   - title: "Alexander, Jonathan James Graham"
     url: "/scholars.html#alexander-jonathan-james-graham"

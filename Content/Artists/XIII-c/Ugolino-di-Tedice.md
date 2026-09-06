@@ -128,23 +128,6 @@ meta:
       - title: "Cimabue"
         url: "/Content/Artists/XIII-c/Cimabue.html"
 
-author: "Ugolino di Tedice"
-role: "Pisan panel painter, leading figure of the mid‑Duecento Pisan school"
-dates_detail: "Documented in Pisa in 1273 and 1277; certainly dead before 1286"
-birth_place: "Pisa (presumed)"
-death_place: "Pisa (presumed), before 1286"
-period: "XIII century"
-
-key_works:
-  - "Crucifix, signed 'Ugolinus', c. 1250–1260, State Hermitage Museum, Saint Petersburg"
-  - "Madonna of San Martino (attributed as Master of San Martino), c. 1270, Museo Nazionale di San Matteo, Pisa"
-  - "Madonna and Child, church of San Biagio in Cisanello, Pisa (attributed)"
-  - "Saint Anne Enthroned with the Virgin as a Child and Two Angels, Museo Nazionale di San Matteo, Pisa (attributed)"
-  - "Small Christ Blessing, Museo Nazionale di San Matteo, Pisa (attributed)"
-
-tradition: "Pisan school of panel painting; Giuntesque Christus patiens tradition; neo‑Hellenic Byzantine current in Tuscan Duecento art"
-artistic_style: "Vigorous elaboration of Giunta Pisano's pathos‑charged crucifix idiom; luminous striations (strigilature luminose) in drapery and flesh; angular, intense facial types with characteristic cheek notching; tempera on panel with gold grounds"
-
 thematic_keywords:
   - "Christus patiens"
   - "Pisan Duecento painting"
@@ -154,8 +137,6 @@ thematic_keywords:
   - "Master of San Martino attribution"
   - "Workshop dynasty"
   - "Precursor of Cimabue"
-
-category: "artists"
 ---
 
 ## Origin 

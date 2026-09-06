@@ -68,27 +68,11 @@ meta:
       - "Jacobello di Bonomo"
       - "San Marco, Venice"
 
-author: "Paolo Veneziano"
-role: "Leading Venetian painter of the Trecento and founder of the Venetian school between Byzantine tradition and Gothic innovation"
-birth_place: "Venice"
-death_place: "Venice (probable), after 1358"
-period: "XIV century"
-
-key_works:
-  - "Pala feriale for the high altar of San Marco, Venice (with his sons; partly preserved in the Galleria dell’Accademia)"
-  - "Polyptychs and Madonna and Child panels for Venetian churches (San Pantalon, San Lorenzo and others)"
-  - "Works for the Dalmatian and Adriatic area (polyptychs and panels now in Zadar and other centres; attributed corpus)"
-
-tradition: "Venetian Trecento painting rooted in Byzantine icon tradition and open to Gothic and Giottesque influences"
-artistic_style: "Gold-ground maniera with hieratic figures, refined colour, rich ornament and gradual introduction of softer modelling and narrative complexity"
-
 thematic_keywords:
   - "Venetian–Byzantine icon tradition"
   - "Polyptychs and pala d’altare"
   - "Adriatic artistic networks"
   - "Transition from Byzantine to Gothic in Venice"
-
-category: "artists"
 ---
 
 

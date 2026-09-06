@@ -73,26 +73,11 @@ meta:
       - "Santa Croce, Florence"
       - "Santa Maria Novella, Florence"
 
-author: "Ugolino di Nerio"
-role: "Sienese painter active in Florence, key follower of Duccio in early Trecento panel painting"
-birth_place: "Siena"
-death_place: "Probably Siena (not securely documented)"
-period: "XIII–XIV century"
-
-key_works:
-  - "High altarpiece for Santa Croce, Florence (now dispersed between the Uffizi, the National Gallery, London, and other collections)"
-  - "Panels with saints and narrative predella scenes from Santa Croce (fragments in various museums)"
-  - "Madonna and Child panels and dossals for Florentine and Sienese churches (attributed corpus)"
-
-tradition: "Sienese Trecento painting transplanted to Florence, continuing Duccio’s legacy in a Franciscan context"
-artistic_style: "Soft linear elegance, refined colour and lyrical devotional tone derived from Duccio, adapted to larger Florentine altarpieces"
 thematic_keywords:
   - "Franciscan altarpieces in Santa Croce"
   - "Duccio’s legacy in Florence"
   - "Early Trecento panel painting"
   - "Dispersed polyptychs and predella narratives"
-
-category: "artists"
 ---
 
 

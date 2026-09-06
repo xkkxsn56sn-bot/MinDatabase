@@ -101,20 +101,6 @@ meta:
       - title: "Master of the Life of Saint Francis (Assisi)"
         url: "/Content/Artists/XIII-c/Maestro-di-San-Francesco.html"
 
-author: "Maestro Consolo (Magister Conxolus)"
-role: "Fresco painter; author of the hagiographic cycle of Saint Benedict in the lower church of the Sacro Speco, Subiaco"
-birth_place: "Subiaco, Lazio (probable)"
-death_place: "Subiaco, Lazio (probable)"
-period: "XIII–early XIV century"
-
-key_works:
-  - "Fresco cycle of the Life of Saint Benedict, lower church of the Sacro Speco, Subiaco"
-  - "Lunette with the Virgin and Child Between Two Angels (signed: Magister Conxolus pinxit hoc opus)"
-  - "Miracle of the Goblet and Miracle of Saint Mauro Walking on Water, Sacro Speco"
-
-tradition: "Romano-Campanian popular-monumental fresco tradition; Benedictine hagiographic cycles of Laziale monasticism"
-artistic_style: "Italo-Byzantine figural convention enlivened by direct narrative energy; schematic landscape conventions drawn from Central Italian wall-painting practice; warm earthy palette; sophisticated decorative-architectural framing"
-
 thematic_keywords:
   - "Life of Saint Benedict"
   - "Benedictine monastic patronage"
@@ -140,8 +126,6 @@ scholars:
     url: "/scholars.html#van-marle-raimond"
   - title: "Venturi, Adolfo"
     url: "/scholars.html#venturi-adolfo"
-
-category: "artists"
 ---
 
 *Magister Conxolus*, known in the historiographic tradition variously as Maestro Consolo, Magister Consolus, or simply Consolo, stands as one of the most arresting, if elusive, figures in the panorama of late-thirteenth-century Italian painting. His name survives almost exclusively through a single, definitive inscription, *Magister Conxolus pinxit hoc opus*, painted upon a lunette in the lower church of the Sacro Speco at Subiaco, yet that spare autograph opens a window onto a world of vigorous narrative invention, regional artistic ambition, and the complex interweaving of Roman, proto-Giottesque, and popular pictorial traditions that defined the final decades of the Duecento.

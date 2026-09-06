@@ -2,38 +2,7 @@
 layout: papers-entry
 title: "The Master of the Cross 434 and the Bandini Crucifix"
 subtitle: "Iconography, restoration, and attribution of the Bandini Crucifix"
-description: "A detailed study of the Bandini Crucifix and the Master of the Cross 434, with attention to attribution history, iconography, restoration evidence, and thirteenth-century Tuscan workshop culture."
-author: "Medieval Visions research essay"
-period: "Mid-thirteenth century (with modern restoration and historiography)"
 century: "XIII"
-category: "papers"
-work_type: "Art-historical and conservation-historiographical study"
-focus:
-  - "The historical profile of the Master of the Cross 434"
-  - "Attribution of the Bandini Crucifix within Duecento Tuscan painting"
-  - "Iconographic transition from Christus triumphans to affective Passion imagery"
-  - "The 1952 restoration campaign and technical findings"
-  - "Twentieth-century historiography and scholarly debate"
-keywords:
-  - "Master of the Cross 434"
-  - "Bandini Crucifix"
-  - "Duecento"
-  - "Tuscan painting"
-  - "Christus triumphans"
-  - "Conservation history"
-  - "Ugo Procacci"
-  - "Leonetto Tintori"
-  - "Miklos Boskovits"
-  - "Angelo Tartuferi"
-related_entries:
-  - title: "Maestro della Croce 434"
-    url: "/Content/Artists/XIII-c/Maestro-della-Croce-434.html"
-  - title: "San Domenico Crucifix"
-    url: "/Content/Papers/San-Domenico-Crucifix.html"
-  - title: "Giunta Pisano"
-    url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
-  - title: "Cimabue"
-    url: "/Content/Artists/XIII-c/Cimabue.html"
 dates: "c. 1230-1260; restored 1952; attribution consolidated 1977-1990"
 
 meta:
@@ -104,6 +73,12 @@ meta:
         url: "/scholars.html#boskovits-miklos"
       - title: "Angelo Tartuferi"
         url: "/scholars.html#tartuferi-angelo"
+      - title: "San Domenico Crucifix"
+        url: "/Content/Papers/San-Domenico-Crucifix.html"
+      - title: "Giunta Pisano"
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
+      - title: "Cimabue"
+        url: "/Content/Artists/XIII-c/Cimabue.html"
 
 scholars:
   - title: "Bellosi, Luciano"

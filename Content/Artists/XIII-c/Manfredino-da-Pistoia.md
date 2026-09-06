@@ -76,27 +76,11 @@ meta:
       - title: "Maestro delle Storie di Isacco"
         url: "/Content/Artists/XIII-c/Maestro-delle-Storie-di-Isacco.html"
 
-author: "Manfredino da Pistoia"
-role: "Pittore pistoiese di formazione cimabuesca attivo tra Pistoia e Genova"
-birth_place: "Pistoia (probabile)"
-death_place: "Ignota"
-period: "XIII century"
-
-key_works:
-  - "Ascensione di Cristo con Apostoli, Santa Maria a Ripalta"
-  - "Pantocratore di San Bartolomeo in Pantano"
-  - "Cena in casa di Simone, San Michele a Fassolo"
-
-tradition: "Pittura murale toscana e ligure di fine Duecento in dialogo con Cimabue e Assisi"
-artistic_style: "Lingua tardo-bizantina rinnovata da istanze narrative e spaziali di matrice cimabuesca"
-
 thematic_keywords:
   - "Cimabuesco"
   - "Pittura murale duecentesca"
   - "Pistoia e Genova"
   - "Transizione duecento-trecento"
-
-category: "artists"
 ---
 
 

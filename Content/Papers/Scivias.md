@@ -2,40 +2,7 @@
 layout: papers-entry
 title: "Scivias - Interdisciplinary Examination"
 subtitle: "Hildegard of Bingen between visionary theology, neurology, and environmental-medical hypotheses"
-description: "A detailed interdisciplinary study of Hildegard of Bingen's Scivias, examining manuscript context, patronage, twelfth-century intellectual history, and modern debates on migraine, epilepsy, temporal-lobe activity, and ergot exposure."
-author: "Medieval Visions research essay"
-period: "Twelfth century (with modern historiography and medical reception)"
 century: "XII"
-category: "papers"
-work_type: "Interdisciplinary historical-theological and medico-historiographical study"
-focus:
-  - "Scivias as a theological summa in visionary form"
-  - "Authorship, dictation, and collaborative manuscript production"
-  - "Patronage networks: papal, monastic, episcopal, and imperial"
-  - "Neurological hypotheses: migraine aura and temporal-lobe epilepsy"
-  - "Environmental-medical hypothesis: ergot contamination and food systems"
-  - "Limits and strengths of retrospective diagnosis"
-keywords:
-  - "Hildegard of Bingen"
-  - "Scivias"
-  - "Visionary literature"
-  - "Twelfth-century renaissance"
-  - "Mysticism and medicine"
-  - "Migraine aura"
-  - "Temporal lobe epilepsy"
-  - "Ergotism"
-  - "Manuscript culture"
-  - "Interdisciplinary medieval studies"
-related_entries:
-  - title: "Hildegard von Bingen"
-    url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
-  - title: "Scivias of Hildegard of Bingen"
-    url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
-  - title: "Liber Divinorum Operum"
-    url: "/Content/Codex/Liber-Divinorum-Operum.html"
-  - title: "Byzantine Frescoes at Saint Panteleimon, Nerezi"
-    url: "/Content/Papers/Nerezi.html"
-
 meta:
   - title: "SUBJECT"
     list:

@@ -70,26 +70,11 @@ meta:
       - "San Nicolò di Capodimonte, Camogli"
       - "Simone Martini"
 
-author: "Bartolomeo da Camogli"
-role: "Genoese painter active between Liguria and Fortore, working in a late Gothic, Giottesque-influenced style"
-birth_place: "Camogli or Genoa (probable)"
-death_place: "Liguria (probable; not documented)"
-period: "XIV century"
-
-key_works:
-  - "Frescoes in the church of San Nicolò di Capodimonte, near Camogli (fragments and attributions)"
-  - "Panel paintings and dossals for Ligurian churches (various attributions)"
-  - "Crucifixes and Marian images in the Genoese area (attributed corpus)"
-
-tradition: "Ligurian Gothic painting in dialogue with Tuscan Giottesque models and local devotional practices"
-artistic_style: "Synthesis of Giottesque volumetry and narrative clarity with Ligurian linearity and strong colour contrasts"
 thematic_keywords:
   - "Ligurian Gothic painting"
   - "Giottesque influence on the Tyrrhenian coast"
   - "Crucifixes and Marian devotion in Liguria"
   - "Parish and confraternal commissions"
-
-category: "artists"
 ---
 
 

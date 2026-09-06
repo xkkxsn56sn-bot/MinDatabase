@@ -74,27 +74,11 @@ meta:
       - "Santa Caterina, Pisa"
       - "Republic of Pisa"
 
-author: "Giovanni di Nicola da Pisa"
-role: "Pisan painter trained in the Sienese orbit, active in the mid-fourteenth century and key mediator between Lippo Memmi’s Sienese language and local Pisan traditions"
-birth_place: "Pisa"
-death_place: "Pisa (probable), after 1363"
-period: "XIV century"
-
-key_works:
-  - "Madonna col Bambino, formerly San Vito, Pisa (documented until 1373)"
-  - "Signed polyptych for the parish church of San Marta, Pisa"
-  - "Works associated with the Dominicans of Santa Caterina, Pisa (with Francesco Traini)"
-  - "Documented commission of a Saint Ansano for the Commune of Siena (1326, now lost)"
-
-tradition: "Pisan painting of the mid-Trecento in dialogue with the Sienese school of Lippo Memmi and Simone Martini"
-artistic_style: "Sienese-derived linear elegance and ‘perlacea’ colour, combined with Pisan compositional solidity and richly punched gold grounds"
 thematic_keywords:
   - "Madonna and Child iconography"
   - "Pisan–Sienese artistic relations"
   - "Dominican patronage in Pisa"
   - "Mid-Trecento gold-ground painting"
-
-category: "artists"
 ---
 
 

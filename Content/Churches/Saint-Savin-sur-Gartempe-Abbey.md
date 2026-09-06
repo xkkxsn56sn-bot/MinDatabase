@@ -1,52 +1,8 @@
 ---
 layout: entry
 title: "Abbey Church of Saint-Savin-sur-Gartempe"
-author: "Abbey Church of Saint-Savin-sur-Gartempe"
-role: "Romanesque Benedictine abbey church with the most extensive preserved cycle of Romanesque mural paintings in Western Europe"
 dates: "Monastic foundation c. 800; present church built 1023–c. 1115; fresco cycles c. 1095–1115"
 century: "IX"
-location: "Saint-Savin-sur-Gartempe, Vienne, Nouvelle-Aquitaine, France"
-tradition: "Benedictine monasticism, reformed under Benedict of Aniane; later Maurist congregation"
-architectural_style: "Romanesque, Latin-cross basilica with continuous barrel-vaulted nave"
-order: "Benedictine"
-
-founders_and_patrons:
-  - "Louis the Pious and the Carolingian court (early ninth-century foundation)"
-  - "Saint Benedict of Aniane and his monastic reforms"
-  - "Regional aristocratic patrons and later Maurist Benedictines"
-
-key_phases:
-  - "Carolingian foundation and protection under Louis the Pious (c. 800)"
-  - "Romanesque rebuilding: choir and transept (1060–1085)"
-  - "Construction of nave, bell tower and completion of vault (1095–c. 1115)"
-  - "Execution of the Romanesque mural cycles (c. 1095–1115)"
-  - "Later modifications and losses in the fourteenth century"
-  - "Destruction and secularisation during Wars of Religion and French Revolution"
-  - "Nineteenth‑century rediscovery and conservation under Prosper Mérimée"
-
-fresco_program:
-  cycles:
-    - "Genesis and Exodus cycle on the nave barrel vault"
-    - "Apocalyptic cycle in the narthex (Book of Revelation)"
-    - "Passion of Christ and saints in the tribune"
-    - "Lives and martyrdoms of Saints Savin and Cyprian in the crypt"
-    - "Saints on transept piers and choir walls"
-  masters:
-    - "Anonymous Romanesque master painters active c. 1100"
-    - "Workshop associated with the Angevin linear style"
-
-architecture:
-  type: "Basilican abbey church with Latin-cross plan"
-  plan: "Nave (c. 42 × 17 m) with side aisles, transept, elevated choir and crypt"
-  vaulting: "Continuous barrel vault over nave; crypt and ancillary spaces with lower vaults"
-  liturgical_furnishings:
-    - "High altar in the eastern choir above the crypt containing relics of Saints Savin and Cyprian"
-    - "Side altars in the transept and chapels for private masses"
-    - "Monastic choir with stalls for the Divine Office (no longer preserved)"
-  exterior_features:
-    - "Romanesque façade and bell tower completed in the late eleventh century"
-    - "Relatively sober exterior contrasting with richly painted interior"
-
 thematic_keywords:
   - "Benedictine liturgy and Divine Office"
   - "Romanesque monumental painting"
@@ -54,16 +10,6 @@ thematic_keywords:
   - "Biblical cycles (Genesis, Exodus, Apocalypse, Passion)"
   - "Hagiography of local martyrs"
   - "Didactic visual theology for largely illiterate audiences"
-
-related_entries:
-  - "Oratorio di San Pellegrino, Bominaco"
-  - "Anagni Cathedral crypt"
-  - "Sant’Angelo in Formis"
-  - "Monreale Cathedral"
-  - "Cluny Abbey and Benedictine reform"
-  - "Romanesque illuminated manuscripts"
-
-category: "churches"
 
 meta:
   - title: "Core data"

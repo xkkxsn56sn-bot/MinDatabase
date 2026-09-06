@@ -134,14 +134,6 @@ scholars:
     url: "/scholars.html#boskovits-miklos"
   - title: "Luciano Cuppini"
     url: "/scholars.html#cuppini-luciano"
-
-author: "Maestro di San Pietro in Vineis"
-role: "Anonymous central Italian fresco painter active in papal-era Anagni"
-dates_detail: "Attributed activity in the first half of the XIII century; often placed around c. 1225-1255"
-birth_place: "Unknown (likely central Italy, possibly Lazio)"
-death_place: "Unknown"
-period: "XIII century"
-category: "artists"
 ---
 
 ## Identity and Historical Anonymity

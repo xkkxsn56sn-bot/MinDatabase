@@ -87,22 +87,6 @@ meta:
       - "Angelic hierarchies"
       - "Monumental fresco and gold-ground panel painting"
 
-author: "Guariento di Arpo"
-role: "Paduan court painter and foundational master of Trecento Veneto"
-birth_place: "Padua (probable)"
-death_place: "Padua or Venice (undocumented; dead before 22 September 1370)"
-period: "XIV century"
-
-key_works:
-  - "Painted Crucifix, Bassano del Grappa (before 1332, signed)"
-  - "Coronation polyptych, 1344 (Norton Simon Museum, Pasadena)"
-  - "Angelic Hierarchies, Reggia Carrarese chapel, Padua"
-  - "Eremitani choir frescoes, Padua"
-  - "Paradiso, Palazzo Ducale, Venice (1365-1368, largely lost)"
-
-tradition: "Trecento painting in the Veneto, between Giottesque naturalism and Byzantine-Venetian gold-ground tradition"
-artistic_style: "Monumental sacred figuration, courtly Gothic linearity, refined chromatic-gilded surfaces, and learned theological iconography"
-
 thematic_keywords:
   - "Trecento Veneto"
   - "Carraresi"
@@ -119,8 +103,6 @@ scholars:
     url: "/scholars.html#cecchetti-bartolomeo"
   - title: "Murat, Zuleika"
     url: "/scholars.html#murat-zuleika"
-
-category: "artists"
 ---
 
 ## Introduction

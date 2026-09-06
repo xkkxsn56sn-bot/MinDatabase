@@ -115,12 +115,6 @@ meta:
       - "Santa Croce, Florence"
       - "Galleria dell'Accademia, Florence"
       - "Compagnia di Sant'Agnese"
-
-author: "Pacino di Bonaguida"
-role: "Florentine painter and manuscript illuminator, leading exponent of the tendenza miniaturistica in early Trecento Florence"
-birth_place: "Florence"
-death_place: "Unknown (probably Florence, after 1347)"
-period: "XIV century"
 ---
 
 ## Origins and the Question of Birth

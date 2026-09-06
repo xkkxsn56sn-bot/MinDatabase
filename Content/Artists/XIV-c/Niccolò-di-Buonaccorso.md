@@ -74,26 +74,11 @@ meta:
       - "Siena Cathedral"
       - "Sienese confraternities"
 
-author: "Niccolò di Buonaccorso"
-role: "Sienese painter active in the later Trecento, refined exponent of the International Gothic style"
-birth_place: "Siena"
-death_place: "Siena (probable), after 1388"
-period: "XIV century"
-
-key_works:
-  - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
-  - "Madonna and Child, Galleria Nazionale d’Arte Antica, Palazzo Barberini, Rome"
-  - "Panels from an altarpiece for Siena (various museums; attributed corpus)"
-
-tradition: "Late Sienese Trecento painting in the wake of Simone Martini and Lippo Memmi, oriented toward International Gothic elegance"
-artistic_style: "Minute, calligraphic line, brilliant colour, highly finished surfaces and courtly, aristocratic devotional tone"
 thematic_keywords:
   - "Madonna and Child iconography"
   - "International Gothic refinement"
   - "Late Sienese Trecento altarpieces"
   - "Devotional panels for private and ecclesiastical use"
-
-category: "artists"
 ---
 
 

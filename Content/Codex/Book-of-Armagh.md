@@ -99,8 +99,6 @@ meta:
       - "Canóin Phátraic"
       - "Trinity College Dublin"
 
-category: "codex"
-
 scholars:
   - title: "Bieler, Ludwig"
     url: "/scholars.html#bieler-ludwig"

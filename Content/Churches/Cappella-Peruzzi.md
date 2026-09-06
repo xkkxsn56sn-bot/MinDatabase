@@ -4,26 +4,6 @@ title: "Cappella Peruzzi"
 subtitle: "Giotto's dual cycle of the two Saints John; paradigm of early Trecento Florentine mural painting and dynastic Franciscan patronage"
 dates: "Chapel built c. 1295–1310; Giotto fresco cycle c. 1318–1322; 18th-century overpainting; 20th-century conservation campaigns; ongoing monitoring"
 century: "XIV"
-location: "Basilica di Santa Croce, right transept, Florence, Tuscany, Italy"
-category: "churches"
-
-founders_and_patrons:
-  - "Donato di Arnoldo Peruzzi — funded the chapel; will of 1299"
-  - "Giovanni di Rinieri Peruzzi — grandson of Donato; likely commissioned Giotto's fresco cycle"
-  - "Peruzzi banking family — one of the leading financial houses of early 14th-century Europe"
-
-key_artists:
-  - "Giotto di Bondone (c. 1267–1337) — principal painter of the fresco cycle, c. 1318–1322; one of his first major works in Santa Croce, bridging the Arena Chapel and later Florentine commissions"
-
-key_works:
-  - "Giotto di Bondone, Life of Saint John the Baptist (south wall, three scenes), c. 1318–1322, secco on plaster"
-  - "Giotto di Bondone, Life of Saint John the Evangelist (north wall, three scenes), c. 1318–1322, secco on plaster"
-  - "Giotto di Bondone and workshop, Symbols of the Four Evangelists and eight prophetic busts (vault), c. 1318–1322, secco on plaster"
-  - "Giotto di Bondone and workshop, Mystic Lamb (fragment, east wall above altar), c. 1318–1322, secco on plaster"
-  - "Peruzzi Altarpiece (five-panel polyptych: Christ Blessing, Virgin Mary, John the Baptist, John the Evangelist, Francis of Assisi), associated with Giotto or workshop, early 14th century (North Carolina Museum of Art)"
-  - "Stained-glass window above altar (replacement from Giugni Chapel; attributed to Pacino di Bonaguida)"
-  - "Tomb of Vincenzo Peruzzi, 19th century, carved by Odoardo Fantachiotti (in situ)"
-
 thematic_keywords:
   - "Giotto di Bondone and early Trecento mural painting"
   - "Hagiographic cycles of Saint John the Baptist and Saint John the Evangelist"
@@ -36,14 +16,6 @@ thematic_keywords:
   - "Relationship between monumental painting and manuscript illumination"
   - "Conservation history and scientific restoration of early Renaissance frescoes"
   - "Private devotion and public display in a Franciscan basilica"
-
-related_entries:
-  - title: "Giotto di Bondone"
-    url: "/Content/Artists/XIII-c/Giotto di Bondone"
-  - title: "Cappella Bardi"
-    url: "/Content/Churches/Cappella Bardi"
-  - title: "Pacino di Bonaguida"
-    url: "/Content/Artists/XIV-c/Pacino di Bonaguida"
 
 meta:
   - title: "Location"

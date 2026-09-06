@@ -102,8 +102,6 @@ scholars:
     url: "/scholars.html#tambini-strocchi-anna"
   - title: "Valagussa, Giovanni Francesco Maria"
     url: "/scholars.html#valagussa-giovanni-francesco-maria"
-
-category: "artist"
 ---
 
 The **Maestro di Faenza** is an anonymous thirteenth-century painter active in Emilia-Romagna, probably around Faenza and Bologna, and modern scholarship places his working career roughly in the last quarter of the 1200s. No secure birth date, birthplace, or family record survives, and the artist is known only through a small corpus of paintings and scholarly attributions rather than documentary biography.

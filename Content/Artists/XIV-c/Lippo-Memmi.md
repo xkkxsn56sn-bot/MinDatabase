@@ -74,28 +74,11 @@ meta:
       - "Duccio di Buoninsegna"
       - "Avignon Papal court"
 
-author: "Lippo Memmi"
-role: "Sienese painter and leading follower of Simone Martini, central figure of the early International Gothic style"
-birth_place: "Siena"
-death_place: "Siena, 1356"
-period: "XIV century"
-
-key_works:
-  - "Maestà, Palazzo Pubblico, San Gimignano (1317)"
-  - "Annunciation with Saint Ansanus and Saint Margaret, with Simone Martini, Uffizi, Florence (1333)"
-  - "New Testament fresco cycle (traditionally attributed to Barna), Collegiata, San Gimignano (attributed, with Tederigo Memmi)"
-  - "Altarpieces for Santa Maria della Scala, Siena (lost or dispersed)"
-  - "Altarpiece for Roberto de Busto, Avignon (1347, lost; known from documents)"
-
-tradition: "Sienese Trecento painting and early International Gothic, in close dialogue with Simone Martini and the Ducciesque school"
-artistic_style: "Refined linear Gothic elegance, luminous colour and rich punched decoration, combining Simone Martini’s aristocratic grace with personal devotional intensity"
 thematic_keywords:
   - "Maestà iconography and civic imagery"
   - "Annunciation and Marian devotion"
   - "International Gothic formation"
   - "Family workshops and Sienese artistic dynasties"
-
-category: "artists"
 ---
 
 

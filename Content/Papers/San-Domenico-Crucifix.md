@@ -2,37 +2,7 @@
 layout: papers-entry
 title: "San Domenico Crucifix"
 subtitle: "Giunta Pisano, Christus patiens, and Dominican visual theology in mid-thirteenth-century Bologna"
-description: "A detailed study of Giunta Pisano's crucifix for San Domenico in Bologna, addressing iconography, liturgical function, materials, restoration history, mendicant patronage, and historiographic debates."
-author: "Medieval Visions research essay"
-period: "Mid-thirteenth century"
 century: "XIII"
-category: "papers"
-work_type: "Art-historical and theological study"
-focus:
-  - "Giunta Pisano's career and workshop context"
-  - "Christus patiens iconography and mendicant spirituality"
-  - "Liturgical placement above the rood screen and post-Tridentine relocation"
-  - "Technical construction, gilding, and tempera procedures"
-  - "Restoration history and twentieth-century scholarship"
-keywords:
-  - "Giunta Pisano"
-  - "San Domenico Crucifix"
-  - "Christus patiens"
-  - "Dominican Order"
-  - "Mendicant art"
-  - "Duecento"
-  - "Tempera and gold on panel"
-  - "Rood screen"
-  - "Cesare Brandi"
-  - "Bologna"
-related_entries:
-  - title: "Giunta Pisano"
-    url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
-  - title: "Cimabue"
-    url: "/Content/Artists/XIII-c/Cimabue.html"
-  - title: "The Bandini Crucifix"
-    url: "/Content/Papers/The-Bandini-Crucifix.html"
-
 meta:
   - title: "SUBJECT"
     list:

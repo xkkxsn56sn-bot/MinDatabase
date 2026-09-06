@@ -3,8 +3,6 @@ layout: entry
 title: "Roger of Helmarshausen"
 subtitle: "Benedictine Goldsmith, Workshop Master, and Probable Theophilus Presbyter"
 dates: "ca. 1070 - after 1125 (traditionally placed between 1125 and 1135)"
-category: "artists"
-
 meta:
   - title: "CORE DATA"
     pairs:

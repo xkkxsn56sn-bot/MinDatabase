@@ -78,30 +78,11 @@ meta:
       - title: "Camposanto Monumentale, Pisa"
         url: "/Content/Churches/Camposanto%20Monumentale%20Pisa.md"
 
-author: "Andrea di Bonaiuto"
-role: "Fresco painter and designer of complex Dominican theological programs"
-birth_place: "Florence, parish of Santa Maria Novella"
-death_place: "Pisa, while working at the Camposanto Monumentale"
-period: "XIII–XIV century"
-
-key_works:
-  - "Fresco cycle in the Spanish Chapel (Cappella degli Spagnoli), Santa Maria Novella, Florence"
-  - "Crucifixion, Church Militant and Triumphant, and Triumph of St Thomas Aquinas, Spanish Chapel, Santa Maria Novella"
-  - "Portable triptych of the Virgin and Child with Saints and Angels (panels now in Copenhagen and Houston)"
-  - "Saint Luke panel for the hospital of Santa Maria Nuova, Florence (lost)"
-  - "Cartoon/design for the Coronation of the Virgin stained-glass window, façade of Santa Maria Novella, Florence"
-  - "Legend of Saint Ranieri frescoes, Camposanto Monumentale, Pisa (partly preserved)"
-
-tradition: "Florentine Trecento painting in dialogue with Dominican theology and Giottesque traditions"
-artistic_style: "Conservative Giottesque language with strong linearity, clear theological narration and rich decorative surface"
-
 thematic_keywords:
   - "Dominican theology and Thomistic allegory"
   - "Spanish Chapel iconographic program"
   - "Florentine Trecento fresco painting"
   - "Relationship between text and image in mendicant orders"
-
-category: "artists"
 ---
 
 

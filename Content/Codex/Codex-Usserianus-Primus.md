@@ -91,8 +91,6 @@ meta:
       - "Old Irish glossing"
       - "Trinity College Dublin"
 
-category: "codex"
-
 scholars:
   - title: "Lowe, Elias Avery"
     url: "/scholars.html#lowe-elias-avery"

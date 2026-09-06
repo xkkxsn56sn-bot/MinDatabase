@@ -1,38 +1,7 @@
 ---
 layout: entry
 title: "Codex Aureus of Saint Emmeram"
-author: "Codex Aureus of Saint Emmeram"
-role: "Imperial Carolingian luxury Gospel book written in gold, preserved with its original treasure binding"
 dates: "870 CE (9th century)"
-
-place_of_origin: "Carolingian Palace School of Charles the Bald, probably at Saint-Denis or Saint-Médard, Soissons (France)"
-current_location: "Bayerische Staatsbibliothek, Munich (Clm 14000)"
-type: "Illuminated Gospel book (Latin Gospels with prefatory material)"
-
-contents:
-  - "Four Gospels in Latin with prefatory texts and canon tables"
-  - "Seven full-page miniatures (four Evangelists, Charles the Bald enthroned, Adoration of the Lamb, Christ in Majesty)"
-  - "Twelve canon tables, ten decorated incipit pages and ornamental frames"
-
-script: "Text in golden uncial letters, with each page framed"
-
-materials_and_techniques:
-  - "Purple-dyed vellum and fine parchment (large-format folios c. 420 × 330 mm)"
-  - "Gold ink for the entire Gospel text"
-  - "Rich polychrome pigments for miniatures and decorative pages"
-  - "Treasure binding in gold with repoussé relief, cabochon sapphires, emeralds and pearls"
-
-historical_context:
-  - "Commissioned by Emperor Charles II (the Bald) in 870 at his Palace School"
-  - "Masterpiece of the second court school of Charles the Bald"
-  - "Later given to King Arnulf of Carinthia and donated to Saint Emmeram’s Abbey at Regensburg"
-
-patronage_and_authorship:
-  patron: "Charles II (the Bald), King of West Francia and Holy Roman Emperor"
-  scribes:
-    - "Liuthard"
-    - "Beringer"
-  school: "Carolingian Palace School of Charles the Bald"
 
 thematic_keywords:
   - "Carolingian court art"
@@ -40,16 +9,6 @@ thematic_keywords:
   - "Gold-script Gospel books"
   - "Treasure bindings"
   - "Monastic treasuries and liturgy"
-
-related_entries:
-  - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
-  - title: "Codex Aureus of Echternach"
-    url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
-  - title: "Lindau Gospels"
-  - title: "Saint Emmeram’s Abbey, Regensburg"
-
-category: "codex"
 
 meta:
   - title: "Core data"

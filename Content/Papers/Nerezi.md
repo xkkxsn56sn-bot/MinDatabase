@@ -2,40 +2,7 @@
 layout: papers-entry
 title: "Byzantine Frescoes at Saint Panteleimon, Nerezi"
 subtitle: "Komnenian patronage, affective pathos, and the transmission of Byzantine visual language"
-description: "A comprehensive study of the Church of Saint Panteleimon at Nerezi (1164), with focus on historical context, iconographic program, workshop practice, materials and techniques, manuscript comparanda, cross-cultural influence, and conservation challenges."
-author: "Medieval Visions research essay"
-period: "Twelfth century (with post-Byzantine repainting and modern conservation history)"
 century: "XII"
-category: "papers"
-work_type: "Interdisciplinary art-historical, iconographic, and conservation study"
-focus:
-  - "Komnenian patronage and aristocratic foundation context"
-  - "Passion iconography and affective innovation in the Threnos and Deposition"
-  - "Workshop identity and Constantinopolitan stylistic formation"
-  - "Comparative analysis with twelfth-century manuscript illumination"
-  - "Byzantine to Italian transmission and proto-Renaissance debates"
-  - "Seismic risk, microclimate pressure, and conservation strategy"
-keywords:
-  - "Nerezi"
-  - "Saint Panteleimon"
-  - "Byzantine fresco"
-  - "Komnenian art"
-  - "Threnos"
-  - "Deposition"
-  - "Alexios Angelos Komnenos"
-  - "Kurbinovo"
-  - "Kokkinobaphos"
-  - "Byzantine influence on Italy"
-related_entries:
-  - title: "Scivias - Interdisciplinary Examination"
-    url: "/Content/Papers/Scivias.html"
-  - title: "Oratorio di San Pellegrino, Bominaco"
-    url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
-  - title: "Cappella Palatina"
-    url: "/Content/Churches/Cappella-Palatina.html"
-  - title: "Hildegard von Bingen"
-    url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
-
 meta:
   - title: "SUBJECT"
     list:
@@ -100,6 +67,8 @@ meta:
         url: "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
       - title: "Cappella Palatina"
         url: "/Content/Churches/Cappella-Palatina.html"
+      - title: "Hildegard von Bingen"
+        url: "/Content/Artists/XII-c/Hildegard-von-Bingen.html"
 
 scholars:
   - title: "Sinkevic, Ida"

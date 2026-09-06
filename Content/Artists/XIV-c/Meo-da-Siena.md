@@ -104,10 +104,6 @@ meta:
       - "Simone Martini"
       - "Abbey of Montelabate (Santa Maria di Valdiponte)"
       - "Galleria Nazionale dell'Umbria, Perugia"
-
-author: "Meo da Siena"
-period: "XIV century"
-category: artists
 ---
 
 *Meo da Siena*, more properly *Meo di Guido da Siena*, was born in Siena on an unknown date, and the only secure familial fact is that he was identified as the son of a man named Guido. He is securely documented in Perugia on 10 January 1319, while his date of death, place of death, and cause of death are not recorded; the Galleria Nazionale dell’Umbria summarizes him as dead before 1334, whereas some sources underline that the date and place of death remain unknown.

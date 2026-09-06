@@ -84,8 +84,6 @@ meta:
       - "Ireland's Eye"
       - "Trinity College Dublin"
 
-category: "codex"
-
 scholars:
   - title: "Abbott, Thomas Kingsmill"
     url: "/scholars.html#abbott-thomas-kingsmill"

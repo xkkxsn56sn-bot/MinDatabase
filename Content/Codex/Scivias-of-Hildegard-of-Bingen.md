@@ -1,46 +1,7 @@
 ---
 layout: entry
 title: "Scivias of Hildegard of Bingen"
-author: "Hildegard of Bingen (1098–1179)"
-role: "First great visionary-theological work of Hildegard of Bingen, presenting a summa of salvation history in symbolic visions"
 dates: "c. 1142–1151/52 (composition and redaction)"
-
-place_of_origin:
-  composition: "Disibodenberg and, in the final phase, Rupertsberg near Bingen, Rhineland (Holy Roman Empire)"
-
-current_location:
-  principal_lost_manuscript: "Rupertsberg illuminated codex (lost after 1945; known through Eibingen facsimile and photographs)"
-  key_witnesses:
-    - "Vatican Library, Latin codex (12th‑century copy)"
-    - "Heidelberg manuscript (later 12th–early 13th century)"
-    - "Oxford manuscript (later 12th–early 13th century)"
-    - "Trier manuscript, 1487 (late medieval redaction)"
-
-type: "Visionary theological treatise with an integrated cycle of miniatures"
-
-contents:
-  - "Prologue and twenty‑six visions organized in three books"
-  - "Book I: Creation, fall, and cosmic order"
-  - "Book II: Christ, the Church, and the sacraments"
-  - "Book III: Eschatology, virtues, and final consummation"
-  - "Each vision followed by divine exposition and moral instruction"
-
-script: "Latin prose dictated by Hildegard, transmitted in 12th‑century bookhands; Rupertsberg codex with rich captions and rubrics"
-
-materials_and_techniques:
-  support:
-    - "Parchment codices produced in monastic scriptoria"
-  writing_and_pigments:
-    - "Dark inks with rubrication and display capitals"
-    - "Extensive use of color, metallic silver and some gold in the lost Rupertsberg miniatures"
-  decoration:
-    - "Cycle of c. 35 miniatures visualizing the visions (reconstructed from Eibingen facsimile)"
-    - "Complex geometric and architectural schemata for cosmological and ecclesiological scenes"
-
-historical_context:
-  - "Composed within the milieu of the twelfth‑century renaissance and ecclesiastical reform"
-  - "Portions presented at the Synod of Trier (1147–48), where Pope Eugenius III approved and encouraged the work"
-  - "First panel of a visionary trilogy, followed by Liber vitae meritorum and Liber divinorum operum"
 
 thematic_keywords:
   - "Visionary theology and prophetic authority"
@@ -48,16 +9,6 @@ thematic_keywords:
   - "Cosmology and salvation history"
   - "Female authorship and monastic culture"
   - "Text–image integration in theological discourse"
-
-related_entries:
-  - title: "Liber Vitae Meritorum"
-  - title: "Liber Divinorum Operum"
-    url: "/Content/Codex/Liber-Divinorum-Operum.html"
-  - title: "Hildegard of Bingen"
-  - title: "Rupertsberg monastery and Eibingen facsimile"
-  - title: "Twelfth‑century visionary literature"
-
-category: "codex"
 
 meta:
   - title: "Core data"

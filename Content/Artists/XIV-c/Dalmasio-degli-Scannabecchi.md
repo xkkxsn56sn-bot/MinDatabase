@@ -72,27 +72,11 @@ meta:
       - "Bardi family of Florence"
       - "San Francesco, Pistoia"
 
-author: "Dalmasio degli Scannabecchi"
-role: "Bolognese painter from a Ghibelline noble family, active between Bologna and Tuscany and key mediator of Giottesque innovations within the Bolognese school"
-birth_place: "Bologna"
-death_place: "Bologna (probable), around 1374"
-period: "XIV century"
-
-key_works:
-  - "Madonna and Child with Angels, formerly Askew Collection (attributed)"
-  - "Madonna and Child, Philadelphia Museum of Art (attributed)"
-  - "Fresco cycle of Saint Gregory the Great, Bardi Chapel, Santa Maria Novella, Florence (attributed)"
-  - "Fresco cycle of Saint Francis, San Francesco, Pistoia (attributed)"
-
-tradition: "Bolognese Gothic painting in dialogue with Giottesque and Tuscan traditions"
-artistic_style: "Synthesis of Giottesque volumetry and narrative with Bolognese linear elegance and Gothic decorative refinement"
 thematic_keywords:
   - "Giottesque narrative cycles"
   - "Bolognese Gothic style"
   - "Franciscan and mendicant patronage"
   - "Family workshops and artistic dynasties"
-
-category: "artists"
 ---
 
 

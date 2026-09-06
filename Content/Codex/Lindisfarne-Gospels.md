@@ -1,57 +1,14 @@
 ---
 layout: entry
 title: "Lindisfarne Gospels"
-author: "Eadfrith of Lindisfarne († 721, traditional attribution)"
-role: "Insular luxury Gospel book created at Lindisfarne in honour of St Cuthbert, combining Northumbrian, Celtic, Germanic and Mediterranean traditions into one of the masterpieces of early medieval book art"
 dates: "c. 715–720 (production at Lindisfarne); Old English gloss added c. 950–970 at Chester-le-Street"
 century: "VIII"
-place_of_origin:
-  text_composition: "Monastery of Lindisfarne (Holy Island), kingdom of Northumbria"
-  illustrated_codex: "Lindisfarne scriptorium, during the episcopate of Eadfrith (698–721)"
-
-current_location: "London, British Library, Cotton MS Nero D.IV"
-type: "Illuminated Gospel book with full Insular decorative program (carpet pages, evangelist portraits, monumental incipits)"
-
-contents:
-  - "Complete text of the four Gospels in the Latin Vulgate"
-  - "Eusebian canon tables and prefatory material"
-  - "Interlinear Old English gloss by Aldred, priest and provost at Chester-le-Street (10th century)"
-
-script: "Insular half-uncial of exceptional quality, with later interlinear Old English gloss in a later Insular minuscule"
-
-materials_and_techniques:
-  support:
-    - "Fine vellum (calf parchment), carefully prepared for a large-format ceremonial Gospel book"
-  writing_and_pigments:
-    - "Dark brown and coloured inks with elaborate display scripts"
-    - "Rich polychromy in purple, green, blue, red and yellow; use of metal-based pigments where available"
-    - "Extremely intricate penwork and ruling underpinning geometric and interlace designs"
-
-decoration:
-  - "Full-page cross-carpet pages preceding each Gospel and major textual divisions"
-  - "Evangelist portraits with their symbols in a classicising yet Insular idiom"
-  - "Elaborate incipit pages with monumental initials and densely woven interlace and zoomorphic ornament"
-  - "Canon tables framed by arcades with architectural and ornamental detailing"
-
-historical_context:
-  - "Product of the Northumbrian ‘golden age’ following the Synod of Whitby (664) and the consolidation of Roman usages"
-  - "Created within the cultic and intellectual milieu surrounding the shrine of St Cuthbert at Lindisfarne"
-  - "Later history marked by the community’s flight from Viking incursions and translation of Cuthbert’s relics to Chester-le-Street and Durham"
-  - "Old English gloss added in the 10th century, making it the earliest surviving translation of the Gospels into the English language"
-
 thematic_keywords:
   - "Insular manuscript illumination and ornament"
   - "Cult of St Cuthbert and Northumbrian Christianity"
   - "Book as liturgical, devotional and identity-bearing object"
   - "Interaction of Latin Scripture and vernacular gloss"
   - "Cross-cultural artistic synthesis in the early Middle Ages"
-
-related_entries:
-  - title: "St Cuthbert and his cult"
-    url: "/Content/Saints/Saint-Cuthbert.html"
-  - title: "Lindisfarne (Holy Island) monastery"
-  - title: "Insular Gospel books and the Book of Kells"
-  - title: "Anglo-Saxon England and Northumbria"
 
 scholars:
   - title: "Backhouse, Janet"
@@ -61,8 +18,6 @@ scholars:
   - title: "O’Dwyer, B. W."
   - title: "Thacker, Alan"
   - title: "Di Consiglio, Flavia"
-
-category: "codex"
 
 meta:
   - title: "Core data"

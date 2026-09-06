@@ -117,13 +117,6 @@ scholars:
     url: "/scholars.html#van-marle-raimond"
   - title: "Zeri, Federico"
     url: "/scholars.html#zeri-federico"
-
-author: "Master of the Horne Triptych (Maestro del Trittico Horne)"
-role: "Anonymous Florentine Trecento painter of devotional panel images"
-birth_place: "Unknown"
-death_place: "Unknown"
-period: "XIV century"
-category: "artists"
 ---
 
 ## Introduction

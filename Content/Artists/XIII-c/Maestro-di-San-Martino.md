@@ -125,14 +125,6 @@ scholars:
     url: "/scholars.html#salmi-mario"
   - title: "Adolfo Venturi"
     url: "/scholars.html#venturi-adolfo"
-
-author: "Maestro di San Martino"
-role: "Anonymous Pisan panel painter (possible identification with Ugolino di Tedice)"
-dates_detail: "Attribution-based activity c. 1250-1290; if Ugolino identification is accepted, documented through 1277 and dead before 1286"
-birth_place: "Pisa (probable, under the Ugolino di Tedice hypothesis)"
-death_place: "Pisa (probable, under the Ugolino di Tedice hypothesis)"
-period: "XIII century"
-category: "artists"
 ---
 
 ## Identity and Origins

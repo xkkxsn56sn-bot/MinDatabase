@@ -49,8 +49,6 @@ meta:
       - "Treasure bindings and Ottonian goldsmith's work"
       - "Golden Gospels group (Echternach, Speyer, Goslar)"
 
-category: "codex"
-
 scholars:
   - title: "Beckwith, John"
     url: "/scholars.html#beckwith-john"

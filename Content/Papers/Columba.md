@@ -2,39 +2,6 @@
 layout: papers-entry
 title: "Columba and Columban Monasteries"
 subtitle: "Monastic networks, manuscript production, and artistic transmission from Iona to Kells and beyond"
-description: "A detailed interdisciplinary study of Columba and the Columban monastic federation, examining institutional history, scriptorial techniques, materials, artistic production, cross-cultural exchange, and preservation trajectories from the sixth century onward."
-author: "Medieval Visions research essay"
-period: "Sixth to twelfth century foundations and development (with modern historiography and conservation)"
-category: "papers"
-work_type: "Interdisciplinary art-historical, codicological, and monastic-historical study"
-focus:
-  - "Columba's foundations and the formation of the familia Columbae"
-  - "Iona, Kells, Lindisfarne, and Bobbio as connected intellectual centers"
-  - "Materials, pigments, and workshop procedures in Insular manuscript art"
-  - "Book of Durrow and Book of Kells within Columban visual culture"
-  - "Monastic patronage, liturgical objects, and high-cross programs"
-  - "Viking disruption, dispersal, and long-term preservation history"
-keywords:
-  - "Columba"
-  - "Columban monasteries"
-  - "Iona"
-  - "Kells"
-  - "Book of Kells"
-  - "Book of Durrow"
-  - "Insular art"
-  - "Scriptorium"
-  - "Early medieval Ireland"
-  - "Monastic networks"
-related_entries:
-  - title: "Book of Kells"
-    url: "/Content/Codex/Book-of-Kells.html"
-  - title: "Book of Durrow"
-    url: "/Content/Codex/Book-of-Durrow.html"
-  - title: "Finnian of Clonard"
-    url: "/endnotes.html#fn-finnian-clonard"
-  - title: "Finnian of Movilla"
-    url: "/endnotes.html#fn-finnian-movilla"
-
 meta:
   - title: "SUBJECT"
     list:

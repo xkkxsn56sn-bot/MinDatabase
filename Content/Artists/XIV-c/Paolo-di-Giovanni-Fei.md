@@ -74,27 +74,11 @@ meta:
       - "Niccolò di Buonaccorso"
       - "Sassetta"
 
-author: "Paolo di Giovanni Fei"
-role: "Sienese painter of the later Trecento, refined interpreter of Ducciesque tradition and International Gothic taste"
-birth_place: "Probably Siena or its contado (of foreign origin according to some documents)"
-death_place: "Siena (probable), after 1411"
-period: "XIV century"
-
-key_works:
-  - "Virgin and Child with Saints (polyptych), Pinacoteca Nazionale, Siena"
-  - "Madonna and Child with Angels, Galleria Nazionale dell’Umbria, Perugia"
-  - "Nativity of the Virgin and Presentation in the Temple panels, various collections (from dismantled altarpieces)"
-  - "Small devotional Madonne and saints in Italian and foreign museums (attributed corpus)"
-
-tradition: "Late Sienese Trecento painting, continuing Duccio and Simone Martini through a more robust and decorative Gothic idiom"
-artistic_style: "Rich colour, strong yet elegant line, refined ornament and clear narrative compositions, blending lyricism with a more compact volumetry"
 thematic_keywords:
   - "Marian altarpieces and Nativity cycles"
   - "Late Sienese Gothic style"
   - "Devotional panels for confraternities and hospitals"
   - "Transition toward early Quattrocento sensibilities"
-
-category: "artists"
 ---
 
 

@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.0 | **Last Updated**: 16 April 2026
+**Version**: 4.1 | **Last Updated**: 6 September 2026
 
 ## Project Scope
 
@@ -8,7 +8,9 @@ MinDatabase is a scholarly, content-only repository of long-form art historical 
 
 - Primary focus: medieval Italian art and related institutional contexts
 - Output type: narrative academic prose in Markdown
-- No software build/test/deploy workflow is required for normal content work
+- Publishing a scheda does touch the toolchain: regenerate the gallery index
+  locally (`python3 scripts/build_gallery_index.py`) and commit it with the
+  scheda; six GitHub Actions workflows then run on the push (see Automazioni)
 
 ## Canonical Repository Structure
 
@@ -18,15 +20,15 @@ Use this structure as authoritative:
 MinDatabase/
 ├── Content/
 │   ├── Artists/
-│   │   ├── VII century/
-│   │   ├── VIII century/
-│   │   ├── IX century/
-│   │   ├── X century/
-│   │   ├── XI century/
-│   │   ├── XII century/
-│   │   ├── XIII century/
-│   │   │   └── [Artist Name].md
-│   │   └── XIV century/
+│   │   ├── VII-c/
+│   │   ├── VIII-c/
+│   │   ├── IX-c/
+│   │   ├── X-c/
+│   │   ├── XI-c/
+│   │   ├── XII-c/
+│   │   ├── XIII-c/
+│   │   │   └── [Artist-Name].md
+│   │   └── XIV-c/
 │   ├── Churches/
 │   ├── Codex/
 │   ├── Papers/
@@ -40,7 +42,9 @@ MinDatabase/
 
 - Use `Papers` as the canonical folder name (never `Papirer`).
 - Place artist files in the century folder matching the artist's primary documented activity period.
-- Supported artist folders: `VII, VIII, IX, X, XI, XII, XIII, XIV`.
+- Supported artist folders: `VII-c, VIII-c, IX-c, X-c, XI-c, XII-c, XIII-c, XIV-c`
+  (the `-c` suffix is the folder name on disk; `rename_century_dirs.py` renamed
+  the old `<N> century/` form).
 - Do not use `XIII-XIV` as a folder convention.
 
 ### File Naming
@@ -73,9 +77,11 @@ Use and adapt as needed by discipline:
 
 The repository currently includes YAML front matter in many content types, including Artist files.
 
-- Preserve existing front matter when present.
+- Preserve existing front matter that is read by layouts, scripts, or the search
+  index (`layout`, `title`, `subtitle`, `dates`, `century`, `scholars`, `meta`,
+  `thematic_keywords`). Legacy top-level keys duplicating the `meta` block were
+  removed in this commit: do not reintroduce them.
 - For new files, follow front matter patterns already used in the target folder.
-- Do not remove valid existing front matter to force uniformity.
 
 ## Footnote Conventions (Mandatory Site-Wide)
 
@@ -150,11 +156,11 @@ This repository already contains embedded images in content files.
 
 ## Tooling Note: add_sections.py
 
-**Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII century/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
+**Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII-c/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
 
 ## Tooling Note: validate_content_indexes.py
 
-`scripts/validate_content_indexes.py` checks the consistency between the `.md` files in `Content/` and the JSON directory indexes in `assets/data/` (matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules). It runs read-only and is executed automatically by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself.
+`scripts/validate_content_indexes.py` runs the ten content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, and slug ordering inside the sections of `endnotes.html`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
 
 `Content/Saints/` is, by editorial choice, an unindexed section: saint entries are reachable only via links from other entries, not from a listing page. The script excludes `Saints/` from the "has a JSON entry" check, but flags any Saints entry that isn't linked from any other entry, since such an entry would otherwise be unreachable.
 
@@ -169,7 +175,7 @@ This repository already contains embedded images in content files.
 
 ## Automazioni
 
-Il repository si mantiene da solo attraverso cinque workflow GitHub Actions.
+Il repository si mantiene da solo attraverso sei workflow GitHub Actions.
 Conoscerne l'ordine evita di inseguire problemi che hanno una causa nota.
 
 ### La catena di pubblicazione
@@ -194,8 +200,12 @@ manutenzione — mai nello stesso push di aggiornamenti di contenuto: il tag
 basta che compaia in un commit qualsiasi del push e sopprime le notizie
 dell'intero push, comprese quelle delle schede aggiornate davvero.
 
-I tre validatori — contenuti, indici, frontmatter degli studiosi — girano in
-parallelo e non scrivono nulla.
+I quattro validatori — indici e contenuti, frontmatter degli studiosi,
+raggiungibilita' delle pagine non indicizzate, coerenza fra la nav condivisa e
+le tre nav inline — girano in parallelo e non scrivono nulla. `validate.yml` li
+lancia tutti e quattro; `validate-content-indexes.yml` e
+`validate-scholars-frontmatter.yml` ne rilanciano due, con i propri filtri di
+path.
 
 ### Tre vincoli da ricordare
 
@@ -247,13 +257,14 @@ lo cambia, cosi' indice e contenuto restano allineati nello stesso commit. Il
 workflow **Update Gallery Index** in CI resta attivo e fa da controprova:
 trovando l'indice gia' aggiornato esce con «unchanged, nothing to commit».
 
-### I nove controlli
+### I dieci controlli
 
 `scripts/validate_content_indexes.py` contiene tutti i controlli sul
-contenuto; il docstring in cima li elenca. Tre meritano una nota:
+contenuto; il docstring in cima li elenca. Quattro meritano una nota:
 
 - **7** verifica i link fra pagine, **8** le ancore ai due contenitori
-  (`endnotes.html`, `scholars.html`), **9** le immagini.
+  (`endnotes.html`, `scholars.html`), **9** le immagini, **10** l'ordine per
+  slug dentro le sezioni-lettera di `endnotes.html`.
 - Il check 8 esiste perche' i contenitori sono due: un link puo' nominare
   un'ancora reale ma cercarla nel file sbagliato. Le note del mondo antico
   stavano in un terzo contenitore, `ancient-world.html`, fuso in
@@ -264,8 +275,10 @@ contenuto; il docstring in cima li elenca. Tre meritano una nota:
   GitHub Pages si'. Un `Armagh-01.jpg` che punta ad `armagh-01.jpg` funziona
   sul Mac e produce un'immagine vuota in produzione.
 
-Tutti coprono `Content/**/*.md` piu' i `.md` nella radice (glossary,
-dating-systems), esclusa la cartella `drafts/`.
+I controlli da 1 a 9 coprono `Content/**/*.md` piu' i `.md` nella radice
+(glossary, dating-systems), esclusa la cartella `drafts/`. Il 10 fa eccezione:
+non guarda i `.md`, legge `endnotes.html`. L'ordinamento delle voci di
+`scholars.html` non e' invece coperto da alcun controllo automatico.
 
 ### Convenzioni
 

@@ -4,8 +4,6 @@ title: "Porta dei Pellegrini"
 subtitle: "The lost southern portal of Ferrara Cathedral and its sculpted cycle of the Months"
 dates: "First campaign c. 1135 (Nicholaus); second campaign c. 1225–1230 (Master of the Months); walled up 1717; demolished 1736; fragments in Museo della Cattedrale di San Giorgio, Ferrara"
 century: "XII"
-location: "Cathedral of San Giorgio (Duomo di Ferrara), Ferrara, Emilia-Romagna, Italy"
-
 scholars:
   - title: "De Francovich, Géza"
     url: "/scholars.html#de-francovich-geza"
@@ -13,30 +11,6 @@ scholars:
     url: "/scholars.html#salvini-roberto"
   - title: "Toesca, Pietro"
     url: "/scholars.html#toesca-pietro"
-
-category: "churches"
-
-founders_and_patrons:
-  - "Cathedral chapter of Ferrara (institutional patron for both building campaigns)"
-  - "Bishop of Ferrara (ecclesiastical authority; co-sponsor of the Romanesque campaign under Nicholaus)"
-  - "Commune of Ferrara (civic co-patron; the portal served as a landmark of communal identity on Via San Romano)"
-
-key_artists:
-  - "Nicholaus (architect-sculptor; active in northern Italy c. 1130s–1140s; responsible for the first campaign: animal supports, Eve spinner, and overall portal design)"
-  - "Master of the Months of Ferrara (anonymous sculptor; c. 1225–1230; executed the cycle of twelve months and related astrological panels; also associated with works in Forlì and Venice)"
-  - "Master of the Baptist Capital (associated anonymous sculptor; c. 1200; named after a capital with scenes from the life of John the Baptist tentatively linked to the same decorative campaign)"
-
-key_works:
-  - "Stylophoric lions and griffins (Nicholaus, c. 1135, stone, Cathedral parvise, Ferrara)"
-  - "Eve spinner (Nicholaus, c. 1135, stone, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Janus / January — two-faced god (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Pruning / February (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Reawakening of Nature and King of the Months / March–April (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Knight with shield / May (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Boy picking tree fruit / June — Gemini and Cancer (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Wheat threshing / July (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Preparing the barrel / August (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
-  - "Grape harvest / September (Master of the Months, c. 1225–1230, red Verona marble, 94 × 48 × 37 cm, Museo della Cattedrale di San Giorgio, Ferrara)"
 
 thematic_keywords:
   - "Romanesque portal sculpture in northern Italy"
@@ -49,18 +23,6 @@ thematic_keywords:
   - "Loss, demolition, and musealisation of medieval sculpture"
   - "Conservation and digital reconstruction"
   - "Stone carving: relief technique and material biography"
-
-related_entries:
-  - title: "Girolamo Baruffaldi"
-    url: "/endnotes.html#fn-baruffaldi"
-  - title: "Ludovico Ariosto"
-    url: "/endnotes.html#fn-ariosto-ludovico"
-  - title: "Géza de Francovich"
-    url: "/scholars.html#de-francovich-geza"
-  - title: "Roberto Salvini"
-    url: "/scholars.html#salvini-roberto"
-  - title: "Pietro Toesca"
-    url: "/scholars.html#toesca-pietro"
 
 meta:
   - title: "Core data"

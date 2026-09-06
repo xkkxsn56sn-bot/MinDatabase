@@ -117,8 +117,6 @@ meta:
       - "Romanitas"
       - "Biblioteca Medicea Laurenziana"
 
-category: "codex"
-
 scholars:
   - title: "Alidori Battistini, Laura"
     url: "/scholars.html#alidori-monti-laura"

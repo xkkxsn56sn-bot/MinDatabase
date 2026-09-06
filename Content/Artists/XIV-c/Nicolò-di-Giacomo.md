@@ -74,26 +74,11 @@ meta:
       - "Dalmasio degli Scannabecchi"
       - "Jacopo di Paolo"
 
-author: "Nicolò di Giacomo"
-role: "Bolognese illuminator and painter, leading master of Gothic miniature and notarial decoration in fourteenth-century Bologna"
-birth_place: "Bologna"
-death_place: "Bologna (probable), shortly after 1403"
-period: "XIV century"
-
-key_works:
-  - "Illuminated notarial and juridical manuscripts for the Bolognese Studium and city magistracies"
-  - "Miniatures in choir books and liturgical codices for San Domenico and other convents in Bologna"
-  - "Law books with historiated initials and narrative scenes (various European libraries; attributed corpus)"
-
-tradition: "Bolognese Gothic illumination linked to the university, civic chancery and mendicant orders"
-artistic_style: "Brilliant colour, intricate ornamental initials and lively, expressive figures within densely patterned Gothic frames"
 thematic_keywords:
   - "Gothic manuscript illumination"
   - "Notarial and juridical iconography"
   - "Bolognese university culture"
   - "Liturgical books and choir manuscripts"
-
-category: "artists"
 ---
 
 

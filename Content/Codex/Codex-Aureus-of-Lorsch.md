@@ -5,8 +5,6 @@ subtitle: "Imperial luxury Gospel book of the Carolingian Renaissance, its Gospe
 dates: "c. 810 (before 814; a minority view extends book or covers into the 820s)"
 century: "IX"
 
-type: "Illuminated Gospel book in Latin (Vulgate text with liturgical apparatus)"
-
 scholars:
   - title: "Bischoff, Bernhard"
     url: "/scholars.html#bischoff-bernhard"
@@ -36,8 +34,6 @@ scholars:
     url: "/scholars.html#williamson-paul"
   - title: "Zanichelli, Giuseppa Z."
     url: "/scholars.html#zanichelli-giuseppa"
-
-category: "codex"
 
 meta:
   - title: "Core data"

@@ -90,8 +90,6 @@ scholars:
     url: "/scholars.html#offner-richard"
   - title: "Ragghianti, Carlo Ludovico"
     url: "/scholars.html#ragghianti-carlo-ludovico"
-
-category: artists
 ---
 
 ## Origins and the Problem of Identity

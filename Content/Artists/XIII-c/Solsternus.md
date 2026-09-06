@@ -65,25 +65,11 @@ meta:
       - title: "Alberto Sotio"
         url: "/Content/Artists/XII-c/Alberto-Sozio.html"
 
-author: "Solsternus"
-role: "Master mosaicist documented by the signed Deesis on the façade of Spoleto Cathedral (1207)"
-birth_place: "Unknown"
-death_place: "Unknown"
-period: "XIII century"
-
-key_works:
-  - "Deesis mosaic on the façade of Spoleto Cathedral (1207, signed)"
-
-tradition: "Byzantine mosaic practice in central Italy, adapted to Romanesque cathedral architecture"
-artistic_style: "Hieratic Byzantine figuration, luminous gold ground, and refined tessera modulation in monumental ecclesiastical decoration"
-
 thematic_keywords:
   - "Deesis"
   - "Spoleto Cathedral façade mosaic"
   - "Byzantine influence in Duecento Italy"
   - "Signed medieval artworks"
-
-category: "artists"
 ---
 
 

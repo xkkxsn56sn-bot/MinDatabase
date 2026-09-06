@@ -74,26 +74,11 @@ meta:
       - "Simone Martini"
       - "Siena Cathedral and Opera del Duomo"
 
-author: "Bartolomeo Bulgarini"
-role: "Sienese painter active in the mid-fourteenth century, heir to Duccio and precursor of later Sienese refinement"
-birth_place: "Siena"
-death_place: "Siena (probable)"
-period: "XIV century"
-
-key_works:
-  - "Altarpiece for the high altar of Siena Cathedral (now dispersed; central panel and fragments in various collections)"
-  - "Madonna and Child with Saints panels for Sienese churches (various museums)"
-  - "Narrative predella scenes with the life of the Virgin and of Christ (dispersed)"
-
-tradition: "Sienese Trecento painting following Duccio, Simone Martini and the Lorenzetti, with a conservative yet highly refined devotional language"
-artistic_style: "Elegant linearity, subtle chromatic harmonies and quiet, contemplative devotional tone, maintaining Ducciesque softness while absorbing mid-Trecento developments"
 thematic_keywords:
   - "Sienese Trecento altarpieces"
   - "Marian devotion in Siena"
   - "Predella narrative cycles"
   - "Ducciesque heritage in mid-fourteenth century"
-
-category: "artists"
 ---
 
 

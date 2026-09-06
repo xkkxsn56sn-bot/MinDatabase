@@ -1,28 +1,8 @@
 ---
 layout: entry
 title: "Fulda Abbey"
-author: "Fulda Abbey"
-role: "Benedictine imperial abbey and major Carolingian center of learning"
 dates: "Founded 744; major Carolingian building phase c. 800–822; secularized 1803"
 century: "VIII"
-location: "Fulda, Hesse, Germany"
-tradition: "Latin Christianity; Benedictine monasticism within the Carolingian and Ottonian worlds"
-architectural_style: "Carolingian monastic architecture with substantial later rebuilding and restoration"
-order: "Benedictine"
-
-founders_and_patrons:
-  - "Sturmi (Sturmius), disciple of Saint Boniface"
-  - "Saint Boniface"
-  - "Early Carolingian rulers, especially the court of Charlemagne and Louis the Pious"
-
-key_phases:
-  - "Foundation of the monastery (744) as a missionary and political center"
-  - "Rise as a leading Carolingian school and scriptorium (8th–9th centuries)"
-  - "Abbacy of Hrabanus Maurus and expansion of intellectual prestige (9th century)"
-  - "Monastic reforms and continued regional influence (10th–12th centuries)"
-  - "Transformation through early modern upheavals and eventual secularization (1803)"
-  - "Nineteenth-century restoration and redefinition as cathedral complex"
-
 thematic_keywords:
   - "Carolingian Renaissance"
   - "Benedictine monastic networks"
@@ -30,15 +10,6 @@ thematic_keywords:
   - "Imperial-papal relations"
   - "Monastic liturgy and church furnishings"
   - "Secularization and restoration history"
-
-related_entries:
-  - "Abbazia di Saint Savin sur Gartempe"
-  - "Book of Kells"
-  - "Lindisfarne Gospels"
-  - "Godescalc Evangelistary"
-  - "Codex Aureus of Saint Emmeram"
-
-category: "churches"
 
 meta:
   - title: "Core data"

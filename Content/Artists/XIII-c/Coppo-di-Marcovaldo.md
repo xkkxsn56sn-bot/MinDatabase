@@ -72,19 +72,6 @@ meta:
       - title: Bonaventura Berlinghieri
         url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
 
-author: "Coppo di Marcovaldo"
-period: "XIII century"
-birth_place: "Florence (parish of San Lorenzo)"
-death_place: "Pistoia"
-role: "Pioneer of Florentine Duecento painting; key figure in the transition from Byzantine **maniera greca** to proto-naturalist expressiveness"
-
-key_works:
-  - "Madonna del Bordone, Santa Maria dei Servi, Siena, 1261"
-  - "Crucifix (with Salerno di Coppo), Pistoia Cathedral, 1274–1276"
-  - "Madonna and Child in Majesty (attr.), Museo dell'Opera del Duomo, Orvieto"
-
-artistic_style: "Byzantine **maniera greca** as foundation, transformed by powerful chiaroscuro modeling, psychologically intense expression, and a proto-naturalist weight that anticipates Cimabue and the Florentine tradition leading to Giotto"
-
 scholars:
   - title: "Douglas, Robert Langton"
     url: "/scholars.html#douglas-robert-langton"

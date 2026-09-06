@@ -1,39 +1,7 @@
 ---
 layout: entry
 title: "Liber Divinorum Operum"
-author: "Hildegard of Bingen (1098–1179)"
-role: "Final and most comprehensive visionary-theological synthesis of Hildegard of Bingen, uniting cosmology, anthropology and salvation history"
 dates: "c. 1163–1173/74 (visions and composition); illuminated Lucca codex c. 1220–1230"
-
-place_of_origin:
-  text_composition: "Rupertsberg convent near Bingen, Rhineland (Holy Roman Empire)"
-  illustrated_codex: "Rhenish scriptorium in the first half of the 13th century"
-
-current_location: "Biblioteca Statale di Lucca, MS 1942 (unique illustrated manuscript witness)"
-type: "Visionary theological treatise with extensive cosmological and anthropological imagery"
-
-contents:
-  - "Prologue and ten complex visions structured in three parts"
-  - "First-person description of each vision followed by divine commentary"
-  - "Integrated cosmological, anthropological, ecclesiological and eschatological exposition"
-
-script: "High-grade Gothic bookhand in the Lucca manuscript, copied from Hildegard’s 12th‑century Rupertsberg exemplar"
-
-materials_and_techniques:
-  support:
-    - "Fine parchment, carefully prepared for a luxury codex"
-  writing_and_pigments:
-    - "Dark inks for text with rubrication and display scripts"
-    - "Gold leaf and rich polychromy in the miniatures"
-  decoration:
-    - "Full-page miniatures preceding each vision"
-    - "Geometric, mandala-like cosmological diagrams"
-    - "Extensive use of gold grounds and saturated color"
-
-historical_context:
-  - "Composed during the conflict between Emperor Frederick I Barbarossa and Pope Alexander III"
-  - "Culmination of Hildegard’s visionary trilogy after Scivias and Liber Vitae Meritorum"
-  - "Thirteenth-century Lucca codex produced in the context of efforts to promote Hildegard’s canonization"
 
 thematic_keywords:
   - "Visionary theology and prophetic authority"
@@ -41,17 +9,6 @@ thematic_keywords:
   - "Cosmology and natural philosophy in the twelfth century"
   - "Viriditas and divine life in creation"
   - "Monastic reform and ecclesial criticism"
-
-related_entries:
-  - title: "Scivias"
-    url: "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
-  - title: "Liber Vitae Meritorum"
-  - title: "Hildegard of Bingen"
-  - title: "Rupertsberg and Eibingen convents"
-  - title: "Lucca MS 1942 and Hildegard’s manuscript tradition"
-  
-
-category: "codex"
 
 meta:
   - title: "Core data"

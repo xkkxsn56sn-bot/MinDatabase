@@ -108,8 +108,6 @@ scholars:
     url: "/scholars.html#delpriori-alessandro"
   - title: "De Marchi, Andrea"
     url: "/scholars.html#de-marchi-andrea"
-
-category: "artists"
 ---
 
 ## The Problem of the Anonymous Master: Naming, Method, and Historical Context

@@ -88,23 +88,6 @@ meta:
       - title: "Lorenzo Ghiberti"
         url: "/endnotes.html#fn-lorenzo-ghiberti"
 
-author: "Giovanni Pisano"
-role: "Sculptor and architect, supreme exponent of the Gothic in Italian sculpture"
-birth_place: "Pisa (asserted by his own signature-inscriptions, 'Quem genuit Pisa')"
-death_place: "Siena; alive in 1314 and dead by 1318, buried in the city"
-period: "XIII century"
-
-key_works:
-  - "Fontana Maggiore, Perugia (with Nicola Pisano, 1278)"
-  - "Upper storeys and gabled crown of the Pisa Baptistery, with monumental figures (c. 1270s–1284)"
-  - "Façade statuary of Siena Cathedral (c. 1285–1297)"
-  - "Pulpit of Sant'Andrea, Pistoia (signed, completed 1301)"
-  - "Pulpit of Pisa Cathedral (signed, 1302–1310/11)"
-  - "Tomb of Margaret of Brabant, Genoa (1312–1313, fragmentary)"
-
-tradition: "Italian Gothic sculpture, formed on the paternal workshop and on an intimate knowledge of the mature Gothic of northern France"
-artistic_style: "Torsion, pathos and linear energy applied to bodies of solid Italian volume; figures freed from the wall and set in dramatic relation to the viewer"
-
 thematic_keywords:
   - "Italian Gothic sculpture"
   - "Pulpits and liturgical furnishings"
@@ -167,8 +150,6 @@ scholars:
     url: "/scholars.html#crowe-joseph-archer"
   - title: "Ruskin, John"
     url: "/scholars.html#ruskin-john"
-
-category: "artists"
 ---
 
 ## Introduction and Historiographical Framing

@@ -4,62 +4,6 @@ title: "Lichfield Gospels"
 subtitle: "Also known as the St Chad Gospels · Book of Chad · Llandeilo Gospels · St Teilo Gospels"
 dates: "c. 720s–730s (second quarter of the 8th century; probable range c. 698–800)"
 century: "VIII"
-role: "Insular luxury Gospel book, probably produced at Lichfield/Mercia in honour of St Chad, synthesising Northumbrian, Irish and Mercian artistic and textual traditions into one of the masterpieces of early medieval book art"
-
-place_of_origin:
-  most_probable: "Lichfield Cathedral scriptorium, kingdom of Mercia"
-  also_proposed: "Northumbria; Ireland; Wales"
-
-current_location: "Chapter House, Lichfield Cathedral, Staffordshire, England — MS Lich 1"
-
-type: "Insular illuminated Gospel book with full decorative programme (carpet page, evangelist portraits, monumental incipits, Chi Rho)"
-
-contents:
-  - "Complete Gospels of Matthew and Mark"
-  - "Gospel of Luke (partial; early sections only)"
-  - "Gospels of John and remainder of Luke presumed lost (probable second volume)"
-  - "Eight full-page illuminations and four framed text pages"
-  - "Marginal inscriptions in Latin and Old Welsh (9th century)"
-
-script: "Insular majuscule (semi-uncial; combining uncial and Insular half-uncial features); possibly one master scribe, with up to four hands proposed"
-
-materials_and_techniques:
-  support:
-    - "Vellum (calf-skin parchment); folios trimmed in 1707 and cut to single leaves in 1862"
-    - "308 × 235 mm per folio; 236 folios extant"
-  pigments_and_inks:
-    - "Natural plant and mineral pigments: verdigris (green), red lead (minium), orpiment (yellow), indigo/woad (blue), lamp black"
-    - "Pigments applied in layers over vellum ground; palette closely parallels that of the Lichfield Angel"
-    - "Dry-point (stylus-incised) drawings and notations throughout"
-  scribal_features:
-    - "Nomina Sacra contractions"
-    - "Insular symbols"
-    - "Tironian notae (Roman shorthand system)"
-
-decoration:
-  - "Cross-carpet page of extraordinary intricacy (page 216); interlaced bird ornament compared to Aberlady cross shaft"
-  - "Evangelist portrait: Saint Mark"
-  - "Evangelist portrait: Saint Luke (folio 21v)"
-  - "Four Evangelist Symbols page (Man, Lion, Ox, Eagle)"
-  - "Chi Rho monogram page"
-  - "Incipit page: Matthew (*Lib*, abbreviation of *Liber generationis*; severely deteriorated)"
-  - "Incipit page: Mark"
-  - "Incipit page: Luke"
-  - "Three framed Genealogy of Christ pages (Matthew)"
-  - "One framed closing page (Matthew)"
-
-historical_context:
-  - "Produced in early 8th-century Mercia, probably during the reign of Æthelbald (r. 716–757), the most powerful Anglo-Saxon king of the period"
-  - "Likely created as a shrine-book for the cult of St Chad (†672), founding bishop of the Mercian diocese, paralleling the role of the Lindisfarne Gospels in the Cuthbert cult"
-  - "First folio signed by Bishop Wynsige of Lichfield (r. c. 963–972/5), confirming return to Lichfield by the mid-10th century"
-  - "Marginal inscriptions record 9th-century Welsh custodianship at the church of St Teilo, Llandeilo Fawr, Carmarthenshire"
-  - "The second marginal inscription is the earliest surviving example of continuous Old Welsh prose"
-  - "Concealed by Precentor William Higgins during the Parliamentary sack of 1646; later entrusted to Frances, Duchess of Somerset"
-  - "Returned to Lichfield Cathedral c. 1672–73; used by bishops to swear allegiance to the Crown to the present day"
-  - "Digitised 2010 (thirteen bands of light; University of Kentucky, dir. Bill Endres); RTI imaging 2014 (University of Oklahoma)"
-  - "RTI imaging revealed dry-point female Anglo-Saxon names (Berhtfled, Elfled, Wulfild) on page 226, suggesting female scribal participation"
-  - "Discovery of the Lichfield Angel (2003) and its pigment correspondence with the Gospels constitutes the strongest material evidence for Lichfield production"
-
 thematic_keywords:
   - "Insular manuscript illumination and ornament"
   - "Cult of St Chad and Mercian Christianity"
@@ -68,16 +12,6 @@ thematic_keywords:
   - "Cross-cultural synthesis: Irish, Northumbrian, Mercian and Welsh traditions"
   - "Women's participation in early medieval scribal culture"
   - "Provenance and manuscript migration"
-
-related_entries:
-  - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne-Gospels.html"
-  - title: "Book of Kells"
-    url: "/Content/Codex/Book-of-Kells.html"
-  - title: "Eadfrith of Lindisfarne"
-    url: "/Content/Artists/VII-c/Eadfrith-Lindisfarne.html"
-
-category: "codex"
 
 meta:
   - title: "Core data"
@@ -198,6 +132,15 @@ meta:
       - "Active legal oath-text since the 9th century; bishops of Lichfield still swear allegiance to the Crown upon it"
       - "Evidence of female scribal participation in an Insular scriptorium (dry-point names)"
       - "Material witness to Mercian cultural ambition and transcultural artistic synthesis"
+
+  - title: "Related entries"
+    links:
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
+      - title: "Book of Kells"
+        url: "/Content/Codex/Book-of-Kells.html"
+      - title: "Eadfrith of Lindisfarne"
+        url: "/Content/Artists/VII-c/Eadfrith-Lindisfarne.html"
 ---
 
 The Lichfield Gospels, also known in scholarly discourse alternatively as the *St Chad Gospels*, the *Book of Chad*, the *Llandeilo Gospels*, and the *St Teilo Gospels*, stands as one of the most intellectually provocative illuminated manuscripts surviving from the early medieval period. Housed today in the Chapter House of Lichfield Cathedral, Staffordshire, England (catalogued as MS Lich 1), the manuscript is an *Insular Gospel Book* of extraordinary visual and textual complexity. It currently preserves 236 folios, of which eight carry full-page illuminations and four additional pages contain framed text, while the remainder present the sacred Gospels in a measured and elegant script. Each folio measures 30.8 centimetres by 23.5 centimetres, representing a codex of considerable physical presence, clearly conceived as a luxury object intended for ceremonial use and theological reflection. The extant manuscript contains the complete Gospels of Matthew and Mark, together with the early sections of the Gospel of Luke, indicating that a second volume, most likely containing the remaining portions of Luke and the entire Gospel of John, once existed alongside the surviving tome. A fourteenth-century sacrist's roll at Lichfield Cathedral explicitly references "two ancient books which are called the books of St Chad," corroborating the hypothesis that the original manuscript was a complete four-Gospel codex bound in two parts. The art historian Peter Lord places the date of the manuscript's production at approximately 730 CE, situating it chronologically after the Lindisfarne Gospels but before the Book of Kells, both of which share undeniable stylistic and textual affinities with it. More broadly, scholarly consensus places the date of execution somewhere within the second quarter of the eighth century, with the range typically cited as spanning from circa 698 to 800, a window determined primarily through comparative stylistic and palaeographic analysis. The question of the precise place of execution remains one of the most debated issues in the scholarship of early medieval manuscripts, with credible arguments having been advanced for Ireland, Northumbria, Wales, and Mercia,  specifically the city of Lichfield itself. Despite more than a century of dedicated inquiry, no definitive consensus has been reached, and the manuscript continues to resist resolution, sustaining its position as one of the great scholarly mysteries of Insular book production.

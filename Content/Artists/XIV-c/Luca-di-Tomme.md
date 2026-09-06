@@ -78,27 +78,11 @@ meta:
       - title: "Giorgio Vasari"
         url: "/endnotes.html#fn-giorgio-vasari"
 
-author: "Luca di Tommè"
-role: "Sienese panel painter, active from before 1356 to at least 1389, heir to Pietro Lorenzetti and Simone Martini"
-birth_place: "Siena (c. 1330, inferred)"
-death_place: "Unknown"
-period: "XIV century"
-
-key_works:
-  - "Polyptych with Niccolò di Ser Sozzo, 1362 (Pinacoteca Nazionale di Siena; predella dispersed to Edinburgh and the Vatican)"
-  - "Signed Crucifixion, 1366 (Museo Nazionale di San Matteo, Pisa)"
-  - "Signed Sant'Anna Metterza polyptych, 1367 (Pinacoteca Nazionale di Siena)"
-  - "Signed polyptych for San Domenico, Rieti, 1370 (Museo Civico, Rieti)"
-
-tradition: "Sienese Trecento painting following Pietro Lorenzetti and Simone Martini, consolidated after the Black Death into a grave, iconic devotional idiom"
-artistic_style: "Gold-ground tempera altarpieces with solid, self-contained figural volumes, ample unbroken drapery, and a severe frontal register in the later works"
 thematic_keywords:
   - "Sienese Trecento altarpieces after the Black Death"
   - "Dismembered and reconstructed polyptychs"
   - "Workshop collaboration and the compagnia hypothesis"
   - "Diffusion of Sienese painting into Umbria and the Marche"
-
-category: "artists"
 
 scholars:
   - title: "Berenson, Bernard"

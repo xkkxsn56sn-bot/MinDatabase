@@ -99,8 +99,6 @@ meta:
       - "Poor Clares"
       - "Assisi"
 
-category: "churches"
-
 scholars:
   - title: "Bigaroni, Marino"
     url: "/scholars.html#bigaroni-marino"

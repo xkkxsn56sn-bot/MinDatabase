@@ -2,40 +2,6 @@
 layout: papers-entry
 title: "Acheiropoieta Images"
 subtitle: "Origins, style, materials, and major devotional exemplars in Byzantine and Latin traditions"
-description: "A comprehensive study of acheiropoieta (images not made by human hands), with theological context, stylistic analysis, material history, and key works from Edessa, Rome, Constantinople, and Lucca."
-author: "Medioeval Vision research essay"
-period: "VI-XV century"
-category: "papers"
-work_type: "Interdisciplinary art-historical and theological essay"
-focus:
-  - "Origins and doctrinal formation of acheiropoieta"
-  - "Iconoclasm-era image theology and legitimacy"
-  - "Stylistic grammar of sacred frontality and hieratic presence"
-  - "Material and technical history of icons, veils, panels, and revetments"
-  - "Cult, pilgrimage, and political functions of miracle images"
-keywords:
-  - "Acheiropoieta"
-  - "Acheropita"
-  - "Mandylion of Edessa"
-  - "Veil of Veronica"
-  - "Lateran Acheropita"
-  - "Volto Santo of Lucca"
-  - "Byzantine icon"
-  - "Medieval relic cult"
-  - "Image theology"
-  - "Holy Face"
-related_entries:
-  - title: "Godescalc Evangelistary"
-    url: "/Content/Codex/Godescalc-Evangelistary.html"
-  - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne-Gospels.html"
-  - title: "Book of Durrow"
-    url: "/Content/Codex/Book-of-Durrow.html"
-  - title: "Cappella Palatina"
-    url: "/Content/Churches/Cappella-Palatina.html"
-  - title: "Santa Maria foris portas"
-    url: "/Content/Churches/Santa-Maria-foris-portas.html"
-
 meta:
   - title: "TYPE"
     list:
@@ -107,6 +73,19 @@ meta:
       - "Veil of Veronica, Saint Peter's Basilica"
       - "Volto Santo of Lucca, San Martino"
       - "Camuliana icon type"
+
+  - title: "RELATED ENTRIES"
+    links:
+      - title: "Godescalc Evangelistary"
+        url: "/Content/Codex/Godescalc-Evangelistary.html"
+      - title: "Lindisfarne Gospels"
+        url: "/Content/Codex/Lindisfarne-Gospels.html"
+      - title: "Book of Durrow"
+        url: "/Content/Codex/Book-of-Durrow.html"
+      - title: "Cappella Palatina"
+        url: "/Content/Churches/Cappella-Palatina.html"
+      - title: "Santa Maria foris portas"
+        url: "/Content/Churches/Santa-Maria-foris-portas.html"
 
 scholars:
   - title: "Belting, Hans"

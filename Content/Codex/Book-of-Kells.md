@@ -4,56 +4,6 @@ title: "Book of Kells"
 subtitle: "Dublin, Trinity College Library, MS 58 — the most lavishly decorated Gospel book to survive from the Insular world"
 dates: "c. 800 (late 8th – early 9th century)"
 century: "IX"
-role: "Ceremonial altar Gospel book and relic of the Columban monastic community, and the culminating achievement of Insular manuscript illumination"
-
-place_of_origin:
-  most_probable: "Iona, Inner Hebrides, Scotland — scriptorium of the Columban familia (current majority view)"
-  also_proposed: "Begun at Iona and completed at Kells; made entirely at Kells, County Meath; Northumbria; Pictish eastern Scotland (Dunkeld; more recently Portmahomack)"
-
-current_location: "Trinity College Library, Dublin — MS 58 (historically also catalogued as MS A. I. 58; Latin Codex Cenannensis; Irish Leabhar Cheanannais)"
-
-type: "Insular illuminated Gospel book (Latin Vulgate with Old Latin admixture), with full prefatory apparatus"
-
-contents:
-  - "Four Gospels in Latin, based on Jerome's Vulgate (completed 384) with substantial Old Latin (Vetus Latina) admixture"
-  - "Eusebian canon tables"
-  - "Breves causae (gospel summaries) and argumenta (evangelist prefaces)"
-  - "Fragmentary lists of Hebrew names"
-  - "Kells charters — 11th–12th-century Irish land-grant records copied into the blank margins (fols. 5v–7r, 27r)"
-
-script: "Insular majuscule (Insular half-uncial); number of scribal hands disputed — three hands (Henry), a single 'great scribe' (T. J. Brown), four hands A–D (the generally accepted Trinity College Dublin scheme), or two collaborating craftsmen (most recent scholarship)"
-
-dimensions: "c. 330 × 250–255 mm (reduced from a larger original by 19th-century trimming); 340 vellum folios (680 pages) survive of an estimated original of c. 370 leaves"
-
-materials_and_techniques:
-  support:
-    - "Vellum (prepared calfskin); an estimated ~185 calfskins required, implying a herd of roughly 1,200 animals"
-    - "Quires of eight to ten folios (four to five bifolia), the Insular norm"
-    - "Text in iron-gall and coloured inks"
-  pigments_and_inks:
-    - "Blue: indigo/woad — not lapis lazuli, as corrected by 2004–2009 micro-Raman spectroscopy (of 106 blue sites tested, all but four were indigo)"
-    - "'Gold': orpiment (arsenic sulphide) standing in for gold leaf — no gold leaf is used anywhere in the manuscript"
-    - "Red–orange: red lead (minium); green: vergaut/copper-based (has locally perforated the vellum); black: carbon and iron-gall ink; white: gypsum; purple: orcein"
-    - "Pigments built up in layers, as many as three deep over a base layer"
-
-decoration:
-  - "Ten full-page illuminations survive, including two evangelist portraits (Matthew, fol. 28v; John, fol. 291v — Mark and Luke lost)"
-  - "The Virgin and Child (fol. 7v) — the earliest surviving Virgin and Child in a Western manuscript"
-  - "Christ Enthroned (fol. 32v)"
-  - "The Arrest of Christ (fol. 114r) and the Temptation of Christ (fol. 202v) — the manuscript's only narrative miniatures"
-  - "The Chi Rho monogram page (fol. 34r) — described by Trinity College Dublin as 'the single most famous page in medieval art'"
-  - "A single carpet page (fol. 33r), paired with the Chi Rho as a designed opening"
-  - "Thirteen further full pages of decorated text, and countless smaller decorated initials, interlinear figures and marginal creatures"
-
-historical_context:
-  - "Product of the Columban monastic familia founded by Columba on Iona, c. 563"
-  - "Viking raids on Iona (795, 802, 806) precipitated the founding of a new monastery at Kells, County Meath, from 807"
-  - "First securely datable notice: the theft of the book from Kells for its gold cumdach (shrine), recorded in the Annals of Ulster under 1006, generally referred to 1007"
-  - "Kells charters (c. 1033–1161) copied into its margins — among the earliest surviving specimens of written Irish"
-  - "Sent to Dublin for safekeeping c. 1653–54 following the 1641 rebellion; passed to Trinity College Dublin via Henry Jones in 1661"
-  - "Rebound by John Exshaw in 1742; heavily trimmed in an 1821 rebinding; sent to London for rebinding later in the 19th century; rebound into four volumes (one per Gospel) by Roger Powell in 1953"
-  - "On public display in the Old Library at Trinity College since the mid-19th century; attracts over 500,000 visitors a year"
-
 thematic_keywords:
   - "Insular manuscript illumination and the Columban paruchia"
   - "The origin debate: Iona, Kells, Northumbria and the Pictish/Portmahomack hypothesis"
@@ -61,16 +11,6 @@ thematic_keywords:
   - "The scribes-and-artists problem: three, four or two hands"
   - "Function as ceremonial altar book and relic rather than a working service book"
   - "Reception as national symbol, cultural icon and tourist attraction"
-
-related_entries:
-  - title: "Book of Durrow"
-    url: "/Content/Codex/Book-of-Durrow.html"
-  - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne-Gospels.html"
-  - title: "Lichfield Gospels"
-    url: "/Content/Codex/Lichfield-Gospels.html"
-  - title: "Columba"
-    url: "/Content/Papers/Columba.html"
 
 scholars:
   - title: "Brown, Thomas Julian"
@@ -83,8 +23,6 @@ scholars:
     url: "/scholars.html#lowe-elias-avery"
   - title: "Brown, Michelle P."
     url: "/scholars.html#brown-michelle-p"
-
-category: "codex"
 
 meta:
   - title: "Core data"

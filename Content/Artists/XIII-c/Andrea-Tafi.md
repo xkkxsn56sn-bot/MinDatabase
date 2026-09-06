@@ -90,18 +90,6 @@ meta:
       - title: "Giorgio Vasari"
         url: "/endnotes.html#fn-giorgio-vasari"
 
-author: Andrea Tafi
-period: XIII century
-birth_place: Florence
-death_place: Florence
-role: Mosaicist associated with the Florentine Baptistery and the reception of Byzantine-technical practice in Tuscany
-
-key_works:
-  - Baptistery dome angelic hierarchies (traditional attribution)
-  - Christ in Majesty, Baptistery of San Giovanni (traditional attribution)
-
-artistic_style: Byzantine-rooted monumental mosaic language with gold-ground luminosity, hierarchical figuration, and transitional openings toward proto-naturalist Tuscan developments.
-
 scholars:
   - title: Douglas, Robert Langton
     url: "/scholars.html#douglas-robert-langton"

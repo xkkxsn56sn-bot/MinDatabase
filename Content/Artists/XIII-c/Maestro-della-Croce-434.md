@@ -73,19 +73,6 @@ meta:
       - title: Cimabue
         url: "/Content/Artists/XIII-c/Cimabue.html"
 
-author: "Maestro della Croce 434"
-period: "XIII century"
-birth_place: "Probably Lucca or environs (undocumented)"
-death_place: "Unknown"
-role: "Anonymous Tuscan painter; key figure in the transition from Lucchese Byzantine workshop tradition to proto-naturalist Florentine panel painting in the mid-Duecento"
-
-key_works:
-  - "Painted Cross No. 434, Galleria degli Uffizi, Florence, c. 1240–1250"
-  - "Stigmatization of Saint Francis, Galleria degli Uffizi, Florence, c. 1240s"
-  - "Saint Francis and Eight Stories from His Life (with Master of Santa Maria Primerana), Museo Civico, Pistoia, c. 1250–1260"
-
-artistic_style: "Rooted in the Lucchese-Byzantine tradition inherited from Berlinghiero Berlinghieri, the Master employs gold grounds, frontal hieratic compositions, and strong linear contours while introducing unusually dramatic chiaroscuro, psychologically intense facial expression, and complex narrative cycles that anticipate the proto-naturalist achievements of Coppo di Marcovaldo and Cimabue"
-
 scholars:
   - title: "Bellosi, Luciano"
     url: "/scholars.html#bellosi-luciano"

@@ -74,26 +74,11 @@ meta:
       - "Giovanni da Modena"
       - "Marian cults in Bologna"
 
-author: "Lippo di Dalmasio degli Scannabecchi"
-role: "Bolognese painter specialising in Marian imagery, son of Dalmasio degli Scannabecchi and key figure of late Gothic devotion in Emilia and Tuscany"
-birth_place: "Bologna"
-death_place: "Bologna (probable, early fifteenth century)"
-period: "XIV century"
-
-key_works:
-  - "Madonna di San Luca-related Madonna and Child images in Bologna (various churches and collections)"
-  - "Madonna and Child with Angels panels for Bolognese churches (attributed corpus)"
-  - "Devotional Madonne for Tuscan centres such as Pistoia and Prato (various attributions)"
-
-tradition: "Bolognese late Gothic painting, continuing the Giottesque legacy of his father Dalmasio with strong Marian focus"
-artistic_style: "Soft, tender Marian iconography with rounded, childlike figures, delicate colour and intimate devotional tone"
 thematic_keywords:
   - "Marian devotion and Madonna and Child imagery"
   - "Bolognese Gothic painting"
   - "Family workshops and dynastic continuity"
   - "Late Trecento–early Quattrocento devotional panels"
-
-category: "artists"
 ---
 
 

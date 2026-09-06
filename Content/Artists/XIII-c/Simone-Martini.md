@@ -76,28 +76,11 @@ meta:
       - "Palazzo Pubblico, Siena"
       - "Avignon papal court"
 
-author: "Simone Martini"
-role: "Leading Sienese painter and key figure of the International Gothic style"
-birth_place: "Siena"
-death_place: "Avignon"
-period: "XIII–XIV century"
-
-key_works:
-  - "Maestà, Sala del Mappamondo (Sala del Consiglio), Palazzo Pubblico, Siena"
-  - "Guidoriccio da Fogliano, Palazzo Pubblico, Siena (attribution debated)"
-  - "Annunciation with Saint Ansanus, Galleria degli Uffizi, Florence"
-  - "Saint Louis of Toulouse Crowning his Brother Robert of Anjou, Museo di Capodimonte, Naples"
-  - "Frescoes in the Chapel of Saint Martin, Lower Church of San Francesco, Assisi"
-
-tradition: "Sienese Trecento painting and International Gothic at the Angevin and papal courts"
-artistic_style: "Elegant linearity, refined colour, and courtly lyricism, integrating Sienese softness with French Gothic refinement"
 thematic_keywords:
   - "Maestà and Marian iconography"
   - "International Gothic style"
   - "Courtly imagery and chivalric themes"
   - "Sienese school of the Trecento"
-
-category: "artists"
 ---
 
 

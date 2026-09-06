@@ -1,37 +1,7 @@
 ---
 layout: entry
 title: "Vergilius Romanus (Roman Vergil)"
-author: "Vergilius Romanus"
-role: "Late Antique illustrated manuscript of Virgil, key witness to the transition from scroll to codex"
 dates: "Late 5th century (c. 475–500)"
-
-place_of_origin: "Probably Rome (other hypotheses: Eastern Mediterranean or Syria)"
-current_location: "Biblioteca Apostolica Vaticana, Vatican City (Vat. lat. 3867)"
-type: "Late Antique illustrated manuscript of classical poetry"
-
-contents:
-  - "Virgil’s Aeneid"
-  - "Virgil’s Georgics"
-  - "Portions of the Eclogues"
-  - "19 surviving miniatures, most of them full-page"
-
-script: "Rustic capitals, 18 lines per page, without word spacing"
-
-physical_characteristics:
-  - "Originally c. 410 folios; 309 vellum folios preserved"
-  - "Large near-square format (c. 332 × 323 mm)"
-  - "Single-column layout with generous margins"
-
-materials_and_techniques:
-  - "Fine vellum"
-  - "Brown ink in rustic capitals"
-  - "Late Antique painted miniatures with flat, linear style"
-  - "Pigments characteristic of Mediterranean Late Antique book painting"
-
-historical_context:
-  - "Produced in Late Antiquity as a luxury codex of Virgil’s works"
-  - "One of the oldest and most important surviving Vergilian manuscripts"
-  - "Testifies to the transition from roll to codex and to the survival of classical literature"
 
 thematic_keywords:
   - "Late Antique book culture"
@@ -39,15 +9,6 @@ thematic_keywords:
   - "Rustic capitals"
   - "Transition from scroll to codex"
   - "Text–image relationship in pagan classics"
-
-related_entries:
-  - title: "Vergilius Vaticanus"
-  - title: "Book of Kells"
-    url: "/Content/Codex/Book-of-Kells.html"
-  - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
-
-category: "codex"
 
 meta:
   - title: "Core data"

@@ -4,57 +4,6 @@ title: "Book of Durrow"
 subtitle: "Dublin, Trinity College Library, MS 57 — the earliest surviving fully illuminated Insular Gospel book"
 dates: "c. 650–700 (Columban milieu; precise date and place of origin unresolved)"
 century: "VII"
-role: "Insular illuminated Gospel book and Columban relic; the foundational monument of Insular manuscript illumination, on which the decorative programmes of Lindisfarne and Kells were built"
-
-place_of_origin:
-  most_probable: "A Columban scriptorium — Durrow, Iona, or a Northumbrian house within the Columban network (no consensus)"
-  also_proposed: "Ireland/Durrow (traditional view); Iona (c. 682–686, on iconographic grounds); Northumbria/Lindisfarne (on textual and palaeographical grounds); Pictish Scotland (stylistic comparanda only, not a full origin hypothesis)"
-
-current_location: "Trinity College Library, Dublin — IE TCD MS 57, 'Book of Durrow' (historic pressmark A.4.5)"
-
-type: "Insular illuminated Gospel book in the Latin Vulgate of Jerome, with full prefatory apparatus"
-
-contents:
-  - "Four Gospels in the Latin Vulgate, comparatively free of Old Latin admixture"
-  - "The Letter of Jerome to Damasus (Novum opus), prefaces, breves causae and argumenta"
-  - "Eusebian canon tables, with a reversal of the standard evangelist order in Canon VIII"
-  - "An interpretation of Hebrew names"
-  - "A colophon (f. 247v) invoking 'Columba the writer', later reworked to claim authorship by Colum Cille himself"
-  - "A memorandum (f. 248v, c. 1100) recording a land transfer from Killeshin to Durrow"
-  - "A twelfth-century Pentecost reading (Acts 2:1–4) added on f. 192r"
-  - "Seventeenth-century signatures and devotional notes, including that of the antiquary Conall Mac Eochagáin (1633)"
-
-script: "Insular majuscule (insular half-uncial / 'insular semi-uncial'); widely held to be the work of a single scribe"
-
-dimensions: "248 vellum folios; c. 245 × 145 mm per the TCD/Edinburgh catalogue (CODECS rounds to 25 × 15 cm; the facsimile description gives 24.5 × 14.5 cm), reduced by successive trimmings and rebindings"
-
-materials_and_techniques:
-  support:
-    - "Vellum (calfskin); many leaves now survive as singletons rather than folded bifolia"
-    - "Flesh-side generally chosen for full-page ornament; page size reduced by repeated trimming and rebinding"
-    - "Current binding: half-tawed pigskin over wooden boards, completed at the 1954 conservation campaign"
-  pigments_and_inks:
-    - "A markedly restricted palette established by micro-Raman spectroscopy and X-ray fluorescence: red lead (minium), orpiment (yellow), a copper-based green, and iron-gall ink"
-    - "No indigo, no gypsum white and no gold are used anywhere in the manuscript; apparent 'gold' is orpiment"
-    - "'White' effects are reserved (uncoloured) vellum; 'pink' effects are red-lead dots over blank vellum"
-    - "The palette is markedly narrower than that of the Book of Kells, which the same laboratory analysis shows using indigo, gypsum white and additional organic glazes"
-
-decoration:
-  - "Six carpet pages (fols. 1v, 3v, 85v, 125v, 192v, 248r); Matthew is the exception, lacking a dedicated carpet page of its own"
-  - "Five full-page evangelist-symbol pages: the four-symbols page (fol. 2r), the Man of Matthew (fol. 21v), the Eagle of Mark (fol. 84v), the Calf of Luke (fol. 124v), and the Lion of John (fol. 191v)"
-  - "Symbols assigned in the pre-Hieronymian (Irenaean) order: eagle to Mark, lion to John, against the Hieronymian scheme that later became canonical"
-  - "Six major decorated incipit/initial pages, including the diminuendo opening of Jerome's letter to Damasus (fol. 4r)"
-  - "Ornamental idioms spanning ring-and-ribbon interlace, La Tène-derived trumpet-spiral and triskele ornament, chequered millefiori-style panels, rectilinear key-pattern and fret, and, on the closing carpet page (fol. 248r), a single continuous stepped-fret pattern"
-
-historical_context:
-  - "Produced in a Columban milieu, most probably in the later seventh century, c. 650–700"
-  - "At Durrow (Dair Mag, Co. Offaly) by 916, when the high-king Flann Sinna commissioned the earliest documented Irish cumdach (book-shrine) for it"
-  - "By the 1620s–1630s a section of the book was reportedly dipped in water administered to sick cattle — the well-attested 'cattle-cure' tradition"
-  - "The cumdach was lost during the military occupation of Trinity College in 1688–89; by 1699 the book had only 'a plain brown rough leathern cover'"
-  - "Donated, with the Book of Kells, to Trinity College Library by Henry Jones, Bishop of Meath, between 1661 and 1682"
-  - "Rebound in 1954, following the Book of Kells's rebinding in 1953, in the conservation campaign that revealed the manuscript's singleton leaf structure"
-  - "Probably served as a partial exemplar for the Book of Kells, whose opening pages reproduce the Durrow text 'including minor errors'"
-
 thematic_keywords:
   - "Priority within Insular manuscript illumination — the earliest fully decorated Insular Gospel book"
   - "The Ireland / Iona / Northumbria origin controversy and its underdetermined evidence"
@@ -63,14 +12,6 @@ thematic_keywords:
   - "Relationship to the Book of Kells as textual and decorative exemplar"
   - "Historiography: nineteenth-century antiquarianism, mid-twentieth-century nationalist polarisation, and the more recent turn to network models and scientific analysis"
 
-related_entries:
-  - title: "Book of Kells"
-    url: "/Content/Codex/Book-of-Kells.html"
-  - title: "Lichfield Gospels"
-    url: "/Content/Codex/Lichfield-Gospels.html"
-  - title: "Columba"
-    url: "/Content/Papers/Columba.html"
-
 scholars:
   - title: "Meehan, Bernard"
     url: "/scholars.html#meehan-bernard"
@@ -78,8 +19,6 @@ scholars:
     url: "/scholars.html#henry-francoise"
   - title: "Henderson, George David Smith"
     url: "/scholars.html#henderson-george-david-smith"
-
-category: "codex"
 
 meta:
   - title: "Core data"

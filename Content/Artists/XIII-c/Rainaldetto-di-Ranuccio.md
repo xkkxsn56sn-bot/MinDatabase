@@ -22,7 +22,6 @@ scholars:
   - title: "Venturi, Lionello"
     url: "/scholars.html#venturi-lionello"
 
-category: artist
 meta:
   - title: Identity
     pairs:

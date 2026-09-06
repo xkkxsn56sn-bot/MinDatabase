@@ -74,29 +74,11 @@ meta:
       - "Jacobello di Bonomo"
       - "Paolo Veneziano"
 
-author: "Caterino di Marco da Venezia"
-role: "Venetian painter active in the second half of the fourteenth century, collaborator of Donato and mediator between Byzantine tradition and emerging Gothic currents"
-birth_place: "Venice"
-death_place: "Venice (probable), after 1390"
-period: "XIV century"
-
-key_works:
-  - "Coronation of the Virgin, signed with Donato, 1372, Galleria Querini-Stampalia, Venice"
-  - "Coronation of the Virgin, signed and dated 1375, Gallerie dell'Accademia, Venice"
-  - "Coronation of the Virgin with Saints Lucy and Nicholas of Tolentino, triptych, Gallerie dell'Accademia, Venice"
-  - "Polyptych with Madonna and Child, Walters Art Museum, Baltimore"
-  - "Madonna dell'Umiltà, Worcester Art Museum, Worcester"
-  - "Madonna and Child, Museo d'Arte Sacra, San Leo (formerly Museo Diocesano Antonio Bergamaschi, Pennabilli)"
-
-tradition: "Venetian Trecento painting between the late Byzantine tradition of Paolo Veneziano and the Gothic innovations of Lorenzo Veneziano and Giovanni da Bologna"
-artistic_style: "Conservative gold-ground maniera with gradual adoption of Gothic volumetry, decorative refinement, and accessible devotional imagery"
 thematic_keywords:
   - "Coronation of the Virgin"
   - "Madonna dell’Umiltà"
   - "Venetian Trecento Byzantine–Gothic transition"
   - "Workshop collaboration and signed polyptychs"
-
-category: "artists"
 ---
 
 

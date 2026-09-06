@@ -2,50 +2,8 @@
 layout: entry
 title: "Godescalc Evangelistary"
 subtitle: "The earliest securely datable manuscript of Charlemagne's Court School, a purple-and-gold evangelistary made for Charlemagne and Queen Hildegard"
-author: "Godescalc, capellanus (chaplain) and servus of Charlemagne"
-role: "Evangelistary (Gospel lectionary) commissioned as a joint devotional and dynastic monument for Charlemagne and Queen Hildegard, and the founding manuscript of the Carolingian Court School"
 dates: "781–783 CE (between Charlemagne's Roman journey/imperial coronation of 781 and the death of Queen Hildegard in 783)"
 century: "VIII"
-
-place_of_origin: "Royal court scriptorium, traditionally localised to Aachen, though Worms has also been proposed; the court itself was itinerant"
-
-current_location: "Paris, Bibliothèque Nationale de France, Nouvelles acquisitions latines 1203 (NAL 1203)"
-
-type: "Evangelistary (Gospel lectionary), containing the designated Gospel readings for Sundays and feast days of the liturgical year"
-
-contents:
-  - "Six complete books of the Gospels"
-  - "The *comes evangeliorum* (gospel lectionary), assigning a Gospel reading to every day of the liturgical year"
-  - "Affiliation with the 'Gelasian fragments' and the Roman Sacramentarium Gelasianum tradition"
-  - "A dedicatory poem by the scribe Godescalc, naming Charlemagne and Queen Hildegard as patrons"
-
-script: "Carolingian uncial — an archaising, self-consciously Roman book hand, written in alternating gold and silver ink (chrysography), with litterae notabiliores marking sentence openings"
-
-materials_and_techniques:
-  support:
-    - "Purple-dyed vellum parchment, coloured with plant-based dyes (folium or orchil) rather than costly Tyrian purple, confined as a painted ground to the ruled text field"
-  writing_and_pigments:
-    - "Text in gold suspended in glair (chrysography); rubric-like display lines in silver, now largely oxidised and effaced"
-    - "Mineral and vegetal pigments mixed with egg white for the illuminations"
-    - "XRF analysis confirmed exceptionally pure gold used specifically for the illumination on folio 3"
-    - "Egyptian Blue pigment identified in the peacocks of the 'Fountain of Life' illumination (folio 3v), evidence of extensive trade networks"
-
-decoration:
-  - "Full-page miniature of Christ in Majesty (folio 3r)"
-  - "'Fountain of Life' (folio 3v) — the first appearance of this Eastern Christian iconographic theme in a Western manuscript, with Christ giving the keys to Peter above a fountain and the Lamb of God"
-  - "Full-page evangelist portraits: Matthew (folio 1r), Mark (folio 1v), Luke (folio 2r), John (folio 2v)"
-  - "Decorated incipit pages, including the elaborate ligature for 'In' opening Matthew's Gospel (folio 4r)"
-  - "Frame registers combining Insular-derived ribbon interlace, Late Antique Mediterranean foliate/acanthus scrolls, and Italo-Byzantine chains of palmette-rosettes and cross-in-circle medallions"
-
-historical_context:
-  - "Produced immediately after Charlemagne's coronation as Emperor of the Romans by Pope Leo III in Rome on Christmas Day 781, functioning as political and dynastic legitimation"
-  - "Jointly commissioned by Charlemagne and Queen Hildegard, who died in 783, the year the manuscript is thought to have been completed"
-  - "The earliest securely datable member of the group Wilhelm Koehler named the *Hofschule Karls des Großen* (Court School), a corpus of luxury liturgical books he argued were produced in the immediate orbit of the ruler rather than in a monastic scriptorium"
-  - "Belongs to the 'Ada group' of early Carolingian manuscripts characterised by expansive throne landscapes and late antique models"
-  - "Product of the Carolingian liturgical reform of *correctio*, adapting Roman liturgical models (via the comes evangeliorum) to a Frankish context"
-  - "Comparable in function to the Dagulf Psalter, another Court School manuscript sent as a diplomatic gift to Pope Adrian I"
-  - "Set a precedent for later Court School luxury manuscripts, including the Vienna Coronation Gospels"
-  - "Produced within the intellectual milieu of Charlemagne's Court School, associated with Alcuin of York's contemporary programme of textual and educational reform"
 
 thematic_keywords:
   - "Carolingian Court School (Hofschule Karls des Großen) and Wilhelm Koehler's corpus"
@@ -55,19 +13,9 @@ thematic_keywords:
   - "Liturgical *correctio* and the Roman comes evangeliorum tradition"
   - "Scribal self-attribution: Godescalc as a named capellanus of the royal chancery"
 
-related_entries:
-  - title: "Book of Kells"
-    url: "/Content/Codex/Book-of-Kells.html"
-  - title: "Lindisfarne Gospels"
-    url: "/Content/Codex/Lindisfarne-Gospels.html"
-  - title: "Codex Aureus of Lorsch"
-    url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
-
 scholars:
   - title: "Koehler, Wilhelm"
     url: "/scholars.html#koehler-wilhelm"
-
-category: "codex"
 
 meta:
   - title: "Core data"

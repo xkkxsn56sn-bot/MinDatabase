@@ -2,39 +2,7 @@
 layout: papers-entry
 title: "The Master of Saint Cecilia and Gaddo Gaddi"
 subtitle: "Documentary, stylistic, and historiographical arguments on one of Trecento scholarship's central attribution debates"
-description: "A detailed historiographical study of the identification between the Maestro di Santa Cecilia and Gaddo Gaddi, integrating documentary evidence, connoisseurship, technical data, and competing attribution hypotheses from the late nineteenth century to current Uffizi scholarship."
-author: "Medieval Visions research essay"
-period: "c. 1300-1328 (with modern historiographical reception)"
 century: "XIV"
-category: "papers"
-work_type: "Art-historical historiography and attribution study"
-focus:
-  - "Identity problem between a notname and a documented artist"
-  - "Bietti Favi's 1983 archival argument and the San Pier Maggiore document"
-  - "Stylistic evidence from Assisi, Florentine panel painting, and mosaic culture"
-  - "Methodological tension between Quellenkritik and Stilkritik"
-  - "Current reassessment after Uffizi technical analyses and Chiodo's 2024 synthesis"
-keywords:
-  - "Maestro di Santa Cecilia"
-  - "Gaddo Gaddi"
-  - "Trecento painting"
-  - "Giotto circle"
-  - "Attribution studies"
-  - "Quellenkritik"
-  - "Stilkritik"
-  - "Uffizi"
-  - "San Pier Maggiore"
-  - "Florentine mosaic tradition"
-related_entries:
-  - title: "Gaddo Gaddi"
-    url: "/Content/Artists/XIII-c/Gaddo-Gaddi.html"
-  - title: "Giotto di Bondone"
-    url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
-  - title: "Cimabue"
-    url: "/Content/Artists/XIII-c/Cimabue.html"
-  - title: "Sonia Chiodo"
-    url: "/scholars.html#chiodo-sonia"
-
 meta:
   - title: "SUBJECT"
     list:

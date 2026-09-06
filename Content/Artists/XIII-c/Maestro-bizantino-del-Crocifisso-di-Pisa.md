@@ -125,18 +125,6 @@ meta:
       - title: "Coppo di Marcovaldo"
         url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
 
-author: "Maestro bizantino del Crocifisso di Pisa"
-role: "Panel painter; pioneer of the Christus patiens iconography on Italian painted crosses"
-birth_place: "Unknown; probably Pisa, Tuscany"
-death_place: "Unknown; probably Pisa, Tuscany"
-period: "XIII century (early Duecento)"
-
-key_works:
-  - "Crucifix No. 20, c. 1200–1230, tempera and gold leaf on shaped wooden panel (sagomata), 297 × 234 cm, Museo Nazionale di San Matteo, Pisa"
-
-tradition: "Italo-Byzantine Pisan panel-painting tradition; Byzantine formal vocabulary integrated with emerging Western affective-devotional priorities shaped by mendicant spirituality"
-artistic_style: "Byzantine frontal composition and gold-ground iconography fused with pioneering anatomical expressivity in the Christus patiens mode; stylised loincloth with gold striations; compressed Passion narrative in the cross extremities; luminous gilt surface from red-bole burnished gold leaf"
-
 thematic_keywords:
   - "Christus patiens"
   - "Croce dipinta"
@@ -146,8 +134,6 @@ thematic_keywords:
   - "Duecento panel painting"
   - "Anonymous master"
   - "Mendicant devotional art"
-
-category: "artists"
 ---
 
 The painter conventionally designated as the *Byzantine Master of the Crucifix of Pisa* remains one of the most elusive figures in the history of European art, his anonymity rendering him a ghostly presence in the annals of medieval Tuscan painting. Active in Pisa during the first half of the thirteenth century, most scholars placing his productive career between 1200 and 1230, this artist has bequeathed to posterity only scattered documentary shadows and the single monumental work that bears his historical identification. The fundamental absence of patronymic designation, familial genealogy, or biographical notation in surviving archival records suggests an artisan operating within a workshop culture still largely defined by the anonymous commissions characteristic of earlier medieval practice, a period when individual artistic identity was subordinated to the communal enterprise of religious image-making. 
