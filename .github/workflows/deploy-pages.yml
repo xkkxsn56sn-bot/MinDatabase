@@ -8,6 +8,15 @@ on:
     paths:
       - "**/*.html"
       - "Content/**"
+      # I .md nella radice sono pagine del sito come le altre: glossary.md
+      # (/glossary/, in nav), dating-systems.md (/dating-systems/) e le
+      # istruzioni per gli agenti. Senza questa riga un commit che tocca solo
+      # uno di loro non fa ripartire il deploy, e la pagina resta indietro
+      # senza che nulla lo segnali.
+      # Il glob e' volutamente la sola radice: '*' non attraversa '/', quindi
+      # non pesca drafts/*.md, che e' escluso dalla build e produrrebbe
+      # deploy a vuoto. Le schede sono gia' coperte da 'Content/**'.
+      - "*.md"
       - "assets/**"
       - "Images/**"
       - "Thumbnails/**"
