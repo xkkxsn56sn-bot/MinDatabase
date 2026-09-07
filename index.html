@@ -299,6 +299,12 @@
         border-color: rgba(225, 175, 160, 0.5);
       }
 
+      .push-notice-card__badge--saints {
+        background: rgba(196, 176, 226, 0.2);
+        color: #f1e9ff;
+        border-color: rgba(196, 176, 226, 0.52);
+      }
+
       .push-notice-card__badge--other {
         background: rgba(218, 208, 182, 0.2);
         color: #fff7df;
@@ -1159,6 +1165,7 @@
           return "push-notice-card__badge--churches";
         if (normalized === "codices") return "push-notice-card__badge--codices";
         if (normalized === "papers") return "push-notice-card__badge--papers";
+        if (normalized === "saints") return "push-notice-card__badge--saints";
         return "push-notice-card__badge--other";
       }
 

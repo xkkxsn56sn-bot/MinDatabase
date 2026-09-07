@@ -27,6 +27,12 @@ g. L'oggetto della newsletter si costruisce sulle notizie: una sola porta
    titolo ed etichetta, due o piu' portano la prima e il conteggio delle
    altre, e un titolo lungo viene troncato qui invece che dal client di
    posta. La firma anti-reinvio non lo guarda.
+h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
+   di radice, `Content/prompts/` — non produce notizia, e un push che tocca
+   solo quelli non ne produce nessuna. Le schede di `Content/Saints/`, che il
+   classificatore prima non riconosceva e lasciava cadere fra i non-contenuti,
+   ora escono con la loro sezione: e' la garanzia contro la regressione che il
+   filtro a tappeto avrebbe introdotto.
 """
 
 from __future__ import annotations
@@ -383,6 +389,68 @@ check(
     "g. ma la firma anti-reinvio resta identica: non guarda l'oggetto",
     snu._signature_for_notices(short_three) == snu._signature_for_notices(retitled),
     f"{snu._signature_for_notices(short_three)!r} != {snu._signature_for_notices(retitled)!r}",
+)
+
+# --------------------------------------------------------------------------
+# h. solo le schede producono notizie
+# --------------------------------------------------------------------------
+INSTRUCTIONS = "MinDatabase - AI Agent Instructions.md"
+ROOT_MD = [INSTRUCTIONS, "glossary.md", "dating-systems.md", "README.md"]
+SAINT = "Content/Saints/Saint-Ambrose.md"
+
+mixed = upn._dedupe_and_sort(payload_entries(PISA_TS, added=[PISA], modified=[INSTRUCTIONS]))
+check(
+    "h. scheda + .md di radice -> una notizia sola, la scheda",
+    paths(mixed) == [PISA],
+    str(paths(mixed)),
+)
+
+root_only_payload = payload_entries(PISA_TS, added=[], modified=ROOT_MD)
+root_only_fallback = fallback_entries(PISA_TS, [("M", p) for p in ROOT_MD])
+check(
+    "h. push di soli .md di radice -> zero notizie, ramo payload",
+    root_only_payload == [],
+    str(root_only_payload),
+)
+check(
+    "h. idem dal fallback: niente da scrivere, quindi niente email",
+    root_only_fallback == [],
+    str(root_only_fallback),
+)
+check(
+    "h. Content/prompts/ non e' contenuto",
+    upn._section_from_path("Content/prompts/endnotes-pattern.md") == upn.NON_CONTENT_SECTION,
+    upn._section_from_path("Content/prompts/endnotes-pattern.md"),
+)
+
+saints = upn._dedupe_and_sort(payload_entries(PISA_TS, added=[], modified=[SAINT]))
+check(
+    "h. una scheda Saints produce notizia, con sezione 'Saints'",
+    len(saints) == 1 and saints[0]["section"] == "Saints" and saints[0]["path"] == SAINT,
+    str([(n["section"], n["path"]) for n in saints]),
+)
+check(
+    "h. e non finisce fra i non-contenuti",
+    upn._section_from_path(SAINT) != upn.NON_CONTENT_SECTION,
+    upn._section_from_path(SAINT),
+)
+
+# Il latente chiuso insieme al resto: i prefissi minuscoli di ripiego
+# classificavano come schede i file di radice che cominciavano per il nome di
+# una sezione. Ora conta solo 'Content/<cartella>/'.
+check(
+    "h. un .md di radice che comincia per 'papers' non e' una scheda",
+    upn._section_from_path("papers-directory-notes.md") == upn.NON_CONTENT_SECTION,
+    upn._section_from_path("papers-directory-notes.md"),
+)
+check(
+    "h. tutte le cartelle di Content/ con schede sono classificate",
+    {
+        upn._section_from_path(f"Content/{folder}/x.md")
+        for folder in ("Artists", "Churches", "Codex", "Papers", "Saints")
+    }
+    == {"Artists", "Churches", "Codices", "Papers", "Saints"},
+    str({f: upn._section_from_path(f"Content/{f}/x.md") for f in ("Artists", "Churches", "Codex", "Papers", "Saints")}),
 )
 
 print()

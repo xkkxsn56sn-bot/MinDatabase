@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.4 | **Last Updated**: 7 September 2026
+**Version**: 4.5 | **Last Updated**: 7 September 2026
 
 ## Project Scope
 
@@ -189,6 +189,31 @@ Un push che tocca `Content/**/*.md` avvia, in parallelo:
    estraendo le `<figure>` da tutte le schede.
 
 Entrambi committano e, in coda, invocano esplicitamente **Deploy Site**.
+
+#### Che cosa produce notizia
+
+Solo le schede: i markdown sotto `Content/Artists/`, `Content/Churches/`,
+`Content/Codex/`, `Content/Papers/` e `Content/Saints/`. La sezione compare
+nel badge in homepage e nell'oggetto della newsletter.
+
+`Content/Saints/` e' entrata in quell'elenco tardi. Il classificatore ne
+ignorava l'esistenza e le otto schede dei santi cadevano fra i non-contenuti:
+il difetto non si era mai visto perche' nessun santo era stato pubblicato da
+quando esistono le notizie, ma la prima pubblicazione sarebbe uscita
+etichettata «Other». Non indicizzata non vuol dire non contenuto.
+
+Tutto il resto non produce notizia, e viene saltato con una riga di log
+`skipping non-content file: <path>` perche' il salto resti osservabile: i
+`.md` di radice — glossario, sistemi di datazione, README e questo stesso
+file — e `Content/prompts/`. Senza il filtro finivano annunciati come schede;
+il file delle istruzioni e' comparso davvero fra le notizie candidate durante
+una prova.
+
+La regola e' a tappeto e non una lista di eccezioni: una cartella nuova sotto
+`Content/` non produce notizie finche' non la si dichiara in
+`CONTENT_SECTIONS`. E' il verso giusto in cui sbagliare — una scheda non
+annunciata si rimedia, un'email no — ma va ricordato quando si aggiunge una
+sezione.
 
 #### Quante notizie, e in che ordine
 

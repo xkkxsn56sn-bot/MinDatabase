@@ -25,6 +25,16 @@ TAG [skip notices]
     `newsletter_last_notified.json`, la trova identica e non spedisce nulla.
     Il tag silenzia quindi anche la newsletter, che e' il vero scopo.
 
+CHE COSA PRODUCE NOTIZIA
+    Solo le schede, cioe' i markdown sotto una delle cartelle dichiarate in
+    CONTENT_SECTIONS. Tutto il resto — i `.md` di radice come il glossario, i
+    sistemi di datazione, il README e questo stesso file di istruzioni, piu'
+    `Content/prompts/` — cade in NON_CONTENT_SECTION e viene saltato con una
+    riga di log, cosi' il comportamento resta osservabile invece che
+    silenzioso. La regola e' a tappeto e non una lista di eccezioni: una
+    cartella nuova sotto Content/ non produce notizie finche' non la si
+    dichiara, il che e' il verso giusto in cui sbagliare.
+
 ORDINE DELLE NOTIZIE
     Le voci si ordinano per `pushed_at` decrescente, poi — a parita' di
     timestamp, che e' la norma quando un push tocca piu' schede — per tipo di
@@ -52,6 +62,25 @@ MAX_NOTICES = 3
 
 # Secondo livello di ordinamento: una scheda nuova conta piu' di una ritoccata.
 CHANGE_RANK = {"created": 0, "modified": 1}
+
+# Le cartelle di Content/ che contengono schede, e il nome con cui la sezione
+# compare in homepage e in newsletter. Saints e' non indicizzata per scelta
+# editoriale — le sue schede si raggiungono solo per link — ma resta contenuto
+# a tutti gli effetti e va annunciata come le altre.
+CONTENT_SECTIONS = {
+    "Artists": "Artists",
+    "Churches": "Churches",
+    "Codex": "Codices",
+    "Papers": "Papers",
+    "Saints": "Saints",
+}
+
+# Tutto il resto: `.md` di radice (glossario, sistemi di datazione, README, le
+# istruzioni per gli agenti), `Content/prompts/`, e qualunque cartella futura
+# non ancora dichiarata sopra. Non sono schede e non producono notizie.
+NON_CONTENT_SECTION = "Other"
+
+_SKIPPED_PATHS_LOGGED: set[str] = set()
 
 SKIP_TAG_RE = re.compile(r"\[skip[ _-]?notices\]", re.IGNORECASE)
 
@@ -117,16 +146,38 @@ def _is_markdown_path(relative_path: str) -> bool:
 
 
 def _section_from_path(relative_path: str) -> str:
-    normalized = relative_path.replace("\\", "/")
-    if normalized.startswith("Content/Artists/"):
-        return "Artists"
-    if normalized.startswith("Content/Churches/") or normalized.startswith("churches"):
-        return "Churches"
-    if normalized.startswith("Content/Codex/") or normalized.startswith("codices"):
-        return "Codices"
-    if normalized.startswith("Content/Papers/") or normalized.startswith("papers"):
-        return "Papers"
-    return "Other"
+    """Sezione di una scheda, dedotta dalla sua cartella sotto Content/.
+
+    La corrispondenza e' esatta e ancorata a `Content/<cartella>/`: qualunque
+    altro percorso — i `.md` di radice, `Content/prompts/`, una cartella nuova
+    non ancora prevista — finisce in NON_CONTENT_SECTION e non produce
+    notizia. Prima c'erano anche tre prefissi minuscoli di ripiego
+    (`churches`, `codices`, `papers`) pensati per le pagine elenco di radice,
+    che pero' sono `.html` e qui non arrivano mai: un `papers-*.md` di radice
+    sarebbe stato classificato come scheda. Sono stati tolti, e la regola resta
+    innocua per costruzione.
+    """
+    parts = relative_path.replace("\\", "/").split("/")
+    if len(parts) >= 3 and parts[0] == "Content":
+        return CONTENT_SECTIONS.get(parts[1], NON_CONTENT_SECTION)
+    return NON_CONTENT_SECTION
+
+
+def _skip_non_content(relative_path: str, section: str) -> bool:
+    """Vero se il file non e' una scheda, e lo annota una volta sola.
+
+    Le notizie annunciano schede. Un push che tocca il glossario, il README o
+    il file delle istruzioni non ha nulla da annunciare, e senza questo filtro
+    quei file entravano in homepage e in newsletter come se fossero contenuto.
+    Il ramo di fallback rilegge trenta commit, quindi lo stesso path puo'
+    ripresentarsi molte volte: si stampa una riga per path, non per incontro.
+    """
+    if section != NON_CONTENT_SECTION:
+        return False
+    if relative_path not in _SKIPPED_PATHS_LOGGED:
+        _SKIPPED_PATHS_LOGGED.add(relative_path)
+        print(f"skipping non-content file: {relative_path}")
+    return True
 
 
 def _page_url_from_path(relative_path: str) -> str:
@@ -193,12 +244,15 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
                 continue
             if not _is_markdown_path(rel_path):
                 continue
+            section = _section_from_path(rel_path)
+            if _skip_non_content(rel_path, section):
+                continue
             absolute = REPO_ROOT / rel_path
             title = _title_from_file(absolute)
             entries.append(
                 {
                     "title": title,
-                    "section": _section_from_path(rel_path),
+                    "section": section,
                     "path": rel_path,
                     "page_url": _page_url_from_path(rel_path),
                     "change_type": change_type,
@@ -253,6 +307,10 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
         if rel_path == "assets/data/push_notices.json":
             continue
 
+        section = _section_from_path(rel_path)
+        if _skip_non_content(rel_path, section):
+            continue
+
         absolute = REPO_ROOT / rel_path
         if not absolute.exists() or not absolute.is_file():
             continue
@@ -260,7 +318,7 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
         entries.append(
             {
                 "title": title,
-                "section": _section_from_path(rel_path),
+                "section": section,
                 "path": rel_path,
                 "page_url": _page_url_from_path(rel_path),
                 "change_type": "created" if status == "A" else "modified",
