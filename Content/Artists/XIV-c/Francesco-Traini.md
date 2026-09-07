@@ -261,7 +261,7 @@ The scroll unfurled between them is written in Gothic textura with a red initial
 
 The Prado transcribes it as:
 
-<p style="text-align: center;">Venite Ad me om[n]es q[ui] lab[o]/r[a]tis et onerati estis et ego re[fi]/ciam vos</p>
+> Venite Ad me om[n]es q[ui] lab[o]/r[a]tis et onerati estis et ego re[fi]/ciam vos
 
 This is Matthew 11:28 — "Come to me, all you who labour and are burdened, and I will give you rest." The Prado's commentary notes that inscriptions of this kind are a typical feature of Tuscan art of this date, allowing the literate viewer to read the message of the image as well as see it, offering a double experience.
 
