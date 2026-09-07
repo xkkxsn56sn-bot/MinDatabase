@@ -27,3 +27,10 @@ jobs:
 
       - name: Validate nav consistency
         run: python3 scripts/validate_nav_consistency.py
+
+      # Non e' un validatore di contenuto: sorveglia la toolchain delle
+      # notizie. Sta qui perche' validate.yml e' l'unico workflow senza
+      # filtri di path, quindi la batteria gira sullo stesso push che porta
+      # una modifica a update_push_notices.py o a send_newsletter_updates.py.
+      - name: Push-notices regression battery
+        run: python3 scripts/test_update_push_notices.py

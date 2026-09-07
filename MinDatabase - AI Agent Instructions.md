@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.3 | **Last Updated**: 7 September 2026
+**Version**: 4.4 | **Last Updated**: 7 September 2026
 
 ## Project Scope
 
@@ -206,10 +206,20 @@ vero prima: il payload elenca gli `added` prima dei `modified`, `git log
 --name-status` elenca in ordine di path, e con una sola notizia la differenza
 decideva da sola che cosa finiva in newsletter.
 
-`scripts/test_update_push_notices.py` fissa entrambe le regole su sei casi
-presi dalla storia del repository. Si esegue senza dipendenze:
-`python3 scripts/test_update_push_notices.py`. Va rilanciato a ogni modifica
-di `update_push_notices.py`.
+L'oggetto della newsletter si costruisce sulle notizie del giro, non e' piu'
+fisso. Una notizia sola porta titolo ed etichetta — `Medieval Visions — [New]
+<titolo>` —; due o piu' portano la prima, che l'ordinamento garantisce essere
+la piu' rilevante, e il conteggio delle altre: `Medieval Visions — <titolo> and
+2 more updates`. I titoli oltre i 60 caratteri sono troncati con un'ellissi,
+perche' il troncamento del client di posta cadrebbe dove capita e mangerebbe
+il conteggio. `NEWSLETTER_SUBJECT`, se valorizzata, continua a forzare un
+oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
+solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
+puo' provocare un reinvio.
+
+`scripts/test_update_push_notices.py` fissa queste regole su sette casi presi
+dalla storia del repository. Si esegue senza dipendenze:
+`python3 scripts/test_update_push_notices.py`.
 
 #### Il tag di soppressione
 
@@ -236,6 +246,16 @@ le tre nav inline — girano in parallelo e non scrivono nulla. `validate.yml` l
 lancia tutti e quattro; `validate-content-indexes.yml` e
 `validate-scholars-frontmatter.yml` ne rilanciano due, con i propri filtri di
 path.
+
+`validate.yml` chiude con un quinto passo, **Push-notices regression battery**,
+che non valida contenuto ma la toolchain delle notizie. Sta li' perche'
+`validate.yml` e' l'unico workflow senza filtri di path: la batteria gira
+quindi sullo stesso push che porta una modifica a `update_push_notices.py` o a
+`send_newsletter_updates.py`, che nessun altro workflow intercetta. Per la
+stessa ragione `update-push-notices.yml` **non** elenca `scripts/**` fra i
+suoi path, e non deve farlo: un push di sola toolchain non ha schede nel
+payload, farebbe scattare il ripiego su `git log` e riannuncerebbe contenuto
+gia' annunciato — con una seconda email agli iscritti.
 
 ### Tre vincoli da ricordare
 

@@ -23,6 +23,10 @@ d. Un messaggio che nomina il tag nel corpo ma non nell'oggetto non sopprime
 e. Il tag nell'oggetto sopprime, come sempre.
 f. I due rami — payload e fallback — sugli stessi input danno lo stesso
    output. E' la proprieta' che il caso c aveva smentito.
+g. L'oggetto della newsletter si costruisce sulle notizie: una sola porta
+   titolo ed etichetta, due o piu' portano la prima e il conteggio delle
+   altre, e un titolo lungo viene troncato qui invece che dal client di
+   posta. La firma anti-reinvio non lo guarda.
 """
 
 from __future__ import annotations
@@ -42,6 +46,12 @@ _spec = importlib.util.spec_from_file_location(
 )
 upn = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(upn)
+
+_spec_snu = importlib.util.spec_from_file_location(
+    "send_newsletter_updates", REPO_ROOT / "scripts" / "send_newsletter_updates.py"
+)
+snu = importlib.util.module_from_spec(_spec_snu)
+_spec_snu.loader.exec_module(snu)
 
 
 FAILURES: list[str] = []
@@ -280,6 +290,99 @@ check(
     f"f. payload e fallback coincidono su {len(CASES)} input identici",
     not divergent,
     str(divergent),
+)
+
+# --------------------------------------------------------------------------
+# g. oggetto della newsletter costruito sulle notizie
+# --------------------------------------------------------------------------
+PISA_TITLE = "The Baptistery of San Giovanni and the Camposanto Monumentale, Pisa"
+
+
+def notice(title: str, change_type: str, path: str) -> dict:
+    return {
+        "title": title,
+        "section": "Papers",
+        "path": path,
+        "page_url": "/x.html",
+        "change_type": change_type,
+        "pushed_at": PISA_TS,
+    }
+
+
+one_created = [notice("Francesco Traini", "modified", "b.md")]
+check(
+    "g. una notizia sola -> titolo ed etichetta nell'oggetto",
+    snu._build_subject(one_created) == "Medieval Visions \u2014 [Updated] Francesco Traini",
+    snu._build_subject(one_created),
+)
+check(
+    "g. l'etichetta segue il change_type",
+    snu._build_subject([notice("Nerezi", "created", "n.md")])
+    == "Medieval Visions \u2014 [New] Nerezi",
+    snu._build_subject([notice("Nerezi", "created", "n.md")]),
+)
+
+three = [
+    notice(PISA_TITLE, "created", "a.md"),
+    notice("Francesco Traini", "modified", "b.md"),
+    notice("Book of Armagh", "modified", "c.md"),
+]
+subject_three = snu._build_subject(three)
+check(
+    "g. tre notizie -> prima notizia piu' conteggio, al plurale",
+    subject_three.endswith(" and 2 more updates"),
+    subject_three,
+)
+check(
+    "g. due notizie -> singolare 'more update'",
+    snu._build_subject(three[:2]).endswith(" and 1 more update"),
+    snu._build_subject(three[:2]),
+)
+
+# Il titolo di Pisa e' il caso reale: 67 caratteri, sfora il limite di 60.
+check(
+    "g. il titolo di Pisa supera davvero il limite (il test non passa per difetto)",
+    len(PISA_TITLE) > snu.SUBJECT_TITLE_MAX,
+    f"{len(PISA_TITLE)} caratteri",
+)
+truncated = snu._truncate_title(PISA_TITLE)
+check(
+    "g. titolo lungo troncato con ellissi entro il limite",
+    truncated.endswith("\u2026")
+    and len(truncated) <= snu.SUBJECT_TITLE_MAX + 1
+    and PISA_TITLE.startswith(truncated[:-1]),
+    f"{truncated!r} ({len(truncated)} caratteri)",
+)
+check(
+    "g. un titolo corto non viene toccato",
+    snu._truncate_title("Francesco Traini") == "Francesco Traini",
+    snu._truncate_title("Francesco Traini"),
+)
+check(
+    "g. nessuna notizia -> oggetto di riserva",
+    snu._build_subject([]) == "Medieval Visions update",
+    snu._build_subject([]),
+)
+
+# La firma guarda path, pushed_at e change_type: cambiare i titoli cambia
+# l'oggetto ma non la firma, quindi il subject dinamico non puo' provocare
+# un reinvio. I titoli qui sono corti di proposito: su un titolo gia' troncato
+# la differenza cadrebbe oltre l'ellissi e il confronto non proverebbe nulla.
+short_three = [
+    notice("Nerezi", "created", "a.md"),
+    notice("Francesco Traini", "modified", "b.md"),
+    notice("Book of Armagh", "modified", "c.md"),
+]
+retitled = [dict(item, title=item["title"] + " (ritoccato)") for item in short_three]
+check(
+    "g. titoli diversi -> oggetto diverso",
+    snu._build_subject(short_three) != snu._build_subject(retitled),
+    f"{snu._build_subject(short_three)!r} == {snu._build_subject(retitled)!r}",
+)
+check(
+    "g. ma la firma anti-reinvio resta identica: non guarda l'oggetto",
+    snu._signature_for_notices(short_three) == snu._signature_for_notices(retitled),
+    f"{snu._signature_for_notices(short_three)!r} != {snu._signature_for_notices(retitled)!r}",
 )
 
 print()

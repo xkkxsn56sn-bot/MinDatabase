@@ -116,6 +116,45 @@ def _change_label(change_type: str) -> str:
     return "New" if str(change_type).strip().lower() == "created" else "Updated"
 
 
+SUBJECT_TITLE_MAX = 60
+
+
+def _truncate_title(title: str, limit: int = SUBJECT_TITLE_MAX) -> str:
+    """Accorcia un titolo lungo per l'oggetto dell'email.
+
+    I client di posta troncano da soli intorno ai 70-80 caratteri, e il
+    troncamento loro cade dove capita; meglio farlo qui, dove restano visibili
+    il prefisso del sito e il conteggio delle altre novita'.
+    """
+    cleaned = " ".join(str(title or "").split())
+    if len(cleaned) <= limit:
+        return cleaned
+    return cleaned[:limit].rstrip(" ,;:-") + "\u2026"
+
+
+def _build_subject(notices: list[dict]) -> str:
+    """Oggetto costruito sulle notizie, non fisso.
+
+    Una notizia sola porta il suo titolo e la sua etichetta; da due in su
+    porta la prima — che l'ordinamento di update_push_notices.py garantisce
+    essere la piu' rilevante, con le schede nuove prima di quelle ritoccate —
+    e il conteggio delle altre.
+    """
+    if not notices:
+        return "Medieval Visions update"
+
+    first = notices[0]
+    title = _truncate_title(first.get("title") or "Untitled")
+
+    if len(notices) == 1:
+        label = _change_label(str(first.get("change_type") or "modified"))
+        return f"Medieval Visions \u2014 [{label}] {title}"
+
+    others = len(notices) - 1
+    plural = "update" if others == 1 else "updates"
+    return f"Medieval Visions \u2014 {title} and {others} more {plural}"
+
+
 def _build_message(subject: str, sender: str, recipient: str, notices: list[dict], site_base_url: str) -> EmailMessage:
     lines_text: list[str] = [
         "Medieval Visions content update",
@@ -269,7 +308,9 @@ def main() -> int:
     username = (os.getenv("SMTP_USERNAME") or "").strip() or imap_username
     password = (os.getenv("SMTP_PASSWORD") or "").strip() or imap_password
     sender = (os.getenv("SMTP_FROM") or "contact@medievalvisions.com").strip()
-    subject = (os.getenv("NEWSLETTER_SUBJECT") or "Medieval Visions update").strip()
+    # NEWSLETTER_SUBJECT resta la scorciatoia per forzare un oggetto fisso;
+    # senza di essa l'oggetto si costruisce sulle notizie del giro.
+    subject = (os.getenv("NEWSLETTER_SUBJECT") or "").strip() or _build_subject(notices)
     site_base_url = (os.getenv("SITE_BASE_URL") or "https://medievalvisions.com").strip()
     secure_mode = (os.getenv("SMTP_SECURE") or "starttls").strip().lower()
 
