@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.2 | **Last Updated**: 6 September 2026
+**Version**: 4.3 | **Last Updated**: 7 September 2026
 
 ## Project Scope
 
@@ -182,23 +182,53 @@ Conoscerne l'ordine evita di inseguire problemi che hanno una causa nota.
 
 Un push che tocca `Content/**/*.md` avvia, in parallelo:
 
-1. **Update Push Notices** — genera `assets/data/push_notices.json` con la
-   notizia della scheda pubblicata, poi invia la newsletter agli iscritti e
+1. **Update Push Notices** — genera `assets/data/push_notices.json` con le
+   notizie delle schede pubblicate, poi invia la newsletter agli iscritti e
    registra l'invio in `newsletter_last_notified.json`.
 2. **Update Gallery Index** — rigenera `assets/data/gallery-index.json`
    estraendo le `<figure>` da tutte le schede.
 
 Entrambi committano e, in coda, invocano esplicitamente **Deploy Site**.
 
+#### Quante notizie, e in che ordine
+
+`MAX_NOTICES = 3`: un push che tocca piu' schede le annuncia tutte e tre, in
+homepage e in newsletter. Prima ne usciva una sola, e in un push misto la
+scheda pubblicata poteva restare fuori a favore di un ritocco marginale.
+
+L'ordine e' a tre livelli: `pushed_at` decrescente, poi `created` prima di
+`modified`, poi il path in ordine alfabetico. Il secondo livello e' quello che
+conta, perche' i file di uno stesso push condividono il timestamp: una scheda
+nuova precede sempre una ritoccata. Il terzo chiude l'ordine e lo rende
+totale, cosi' i due rami da cui lo script ricava i file — il payload
+dell'evento e il ripiego su `git log` — producono lo stesso risultato. Non era
+vero prima: il payload elenca gli `added` prima dei `modified`, `git log
+--name-status` elenca in ordine di path, e con una sola notizia la differenza
+decideva da sola che cosa finiva in newsletter.
+
+`scripts/test_update_push_notices.py` fissa entrambe le regole su sei casi
+presi dalla storia del repository. Si esegue senza dipendenze:
+`python3 scripts/test_update_push_notices.py`. Va rilanciato a ogni modifica
+di `update_push_notices.py`.
+
+#### Il tag di soppressione
+
 Un commit di manutenzione che tocca le schede senza aggiornarne il contenuto
 — rinomine di campi, riformattazioni, aggiunte di frontmatter — va marcato con
-`[skip notices]` nel messaggio: `update_push_notices.py` esce senza scrivere
-nulla, e di conseguenza non parte neppure la newsletter.
+`[skip notices]` **nell'oggetto**, cioe' nella prima riga del messaggio:
+`update_push_notices.py` esce senza scrivere nulla, e di conseguenza non parte
+neppure la newsletter.
 
-I commit con `[skip notices]` si pushano da soli, o insieme ad altra sola
-manutenzione — mai nello stesso push di aggiornamenti di contenuto: il tag
-basta che compaia in un commit qualsiasi del push e sopprime le notizie
-dell'intero push, comprese quelle delle schede aggiornate davvero.
+Solo la prima riga. Il corpo del messaggio e' prosa e puo' nominare il tag per
+esteso — spiegarlo, citarlo, motivare perche' non lo si usa — senza attivarlo.
+La regola nasce da un caso reale: un commit che nel corpo scriveva «nessun
+[skip notices]» per dire di non averlo usato ha soppresso notizia e newsletter
+della scheda che stava pubblicando.
+
+I commit con il tag si pushano da soli, o insieme ad altra sola manutenzione
+— mai nello stesso push di aggiornamenti di contenuto: basta che compaia
+nell'oggetto di un commit qualsiasi del push e sopprime le notizie dell'intero
+push, comprese quelle delle schede aggiornate davvero.
 
 I quattro validatori — indici e contenuti, frontmatter degli studiosi,
 raggiungibilita' delle pagine non indicizzate, coerenza fra la nav condivisa e

@@ -2,21 +2,38 @@
 """Update homepage push notices from the GitHub push event payload.
 
 The script reads files added or modified in the latest push, extracts a
-human-friendly title, and stores only the latest entry for homepage display.
+human-friendly title, and stores the most recent MAX_NOTICES entries for
+homepage and newsletter display.
 
 TAG [skip notices]
     Un commit di manutenzione — rinomina di campi, riformattazioni, aggiunte
     di frontmatter — tocca `Content/**/*.md` senza che la scheda sia stata
     davvero aggiornata, e senza questo tag finirebbe in homepage e in
-    newsletter come se lo fosse. Se il messaggio di uno qualsiasi dei commit
-    del push contiene `[skip notices]` (o `[skip-notices]`, maiuscole
-    indifferenti), lo script esce subito senza generare notizie e senza
-    toccare i JSON.
+    newsletter come se lo fosse. Se la PRIMA RIGA — l'oggetto — di uno
+    qualsiasi dei commit del push contiene `[skip notices]` (o
+    `[skip-notices]`, maiuscole indifferenti), lo script esce subito senza
+    generare notizie e senza toccare i JSON.
+
+    Solo la prima riga. Il corpo del messaggio e' prosa e deve poter nominare
+    il tag per esteso — spiegarlo, citarlo, motivare perche' non lo si usa —
+    senza per questo attivarlo. Un commit che nel corpo scriveva «nessun
+    [skip notices]» ha soppresso notizia e newsletter della scheda che stava
+    pubblicando: la regola sull'oggetto nasce da li'.
 
     Non scrivendo `push_notices.json`, la firma delle notizie resta quella
     dell'invio precedente: `send_newsletter_updates.py` la confronta con
     `newsletter_last_notified.json`, la trova identica e non spedisce nulla.
     Il tag silenzia quindi anche la newsletter, che e' il vero scopo.
+
+ORDINE DELLE NOTIZIE
+    Le voci si ordinano per `pushed_at` decrescente, poi — a parita' di
+    timestamp, che e' la norma quando un push tocca piu' schede — per tipo di
+    modifica, con `created` prima di `modified`, e infine per path in ordine
+    alfabetico. I tre livelli danno un ordine totale, quindi il ramo payload e
+    il ramo di fallback su git producono lo stesso risultato sugli stessi
+    input: senza il secondo livello i due rami divergevano, perche' il payload
+    elenca gli `added` prima dei `modified` mentre `git log --name-status`
+    elenca in ordine di path.
 """
 
 from __future__ import annotations
@@ -31,16 +48,10 @@ from urllib.parse import quote
 REPO_ROOT = Path(__file__).resolve().parents[1]
 EVENT_PATH = Path(__import__("os").environ.get("GITHUB_EVENT_PATH", ""))
 NOTICES_PATH = REPO_ROOT / "assets" / "data" / "push_notices.json"
-MAX_NOTICES = 1
+MAX_NOTICES = 3
 
-SECTION_PRIORITY = {
-    "Artists": 0,
-    "Churches": 1,
-    "Codices": 2,
-    "Papers": 3,
-    "Other": 4,
-}
-
+# Secondo livello di ordinamento: una scheda nuova conta piu' di una ritoccata.
+CHANGE_RANK = {"created": 0, "modified": 1}
 
 SKIP_TAG_RE = re.compile(r"\[skip[ _-]?notices\]", re.IGNORECASE)
 
@@ -260,6 +271,10 @@ def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict
     return _safe_iso(None), entries
 
 
+def _change_rank(notice: dict) -> int:
+    return CHANGE_RANK.get(str(notice.get("change_type") or "modified"), 1)
+
+
 def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for item in entries:
@@ -268,10 +283,21 @@ def _dedupe_and_sort(entries: list[dict]) -> list[dict]:
         if not key:
             continue
         existing = merged.get(key)
-        if not existing or enriched.get("pushed_at", "") > existing.get("pushed_at", ""):
+        if existing is None:
+            merged[key] = enriched
+            continue
+        # Stesso file due volte nello stesso push: vince il timestamp piu'
+        # recente e, a parita', 'created' su 'modified'.
+        newer = enriched.get("pushed_at", "") > existing.get("pushed_at", "")
+        same_time = enriched.get("pushed_at", "") == existing.get("pushed_at", "")
+        if newer or (same_time and _change_rank(enriched) < _change_rank(existing)):
             merged[key] = enriched
 
     values = list(merged.values())
+    # Due passate stabili: l'ultima e' la chiave primaria. A parita' di
+    # 'pushed_at' sopravvive l'ordine della prima passata — created prima di
+    # modified, poi path alfabetico — e l'ordine e' totale.
+    values.sort(key=lambda x: (_change_rank(x), x.get("path", "")))
     values.sort(key=lambda x: x.get("pushed_at", ""), reverse=True)
     return values
 
@@ -281,7 +307,8 @@ def _commit_messages() -> list[str]:
 
     Nel payload si guardano sia `head_commit` sia l'elenco `commits`: un push
     di manutenzione puo' portare piu' di un commit e il tag basta che compaia
-    in uno.
+    nell'oggetto di uno. I messaggi tornano interi: e' `_skip_requested` a
+    ridurli alla prima riga, con la stessa regola per entrambi i rami.
     """
     messages: list[str] = []
 
@@ -318,8 +345,19 @@ def _commit_messages() -> list[str]:
     return [result.stdout]
 
 
+def _subject_line(message: str) -> str:
+    """La prima riga del messaggio, cioe' l'oggetto del commit."""
+    return (message or "").lstrip("\n").split("\n", 1)[0]
+
+
 def _skip_requested() -> bool:
-    return any(SKIP_TAG_RE.search(message) for message in _commit_messages())
+    """Vero se il tag compare nell'oggetto di almeno un commit del push.
+
+    La regola e' una sola e vale per entrambi i rami di `_commit_messages`,
+    quello del payload e quello di ripiego su git: si guarda la prima riga e
+    nient'altro, cosi' il corpo resta prosa libera.
+    """
+    return any(SKIP_TAG_RE.search(_subject_line(message)) for message in _commit_messages())
 
 
 def main() -> int:

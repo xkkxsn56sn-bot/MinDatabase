@@ -1330,9 +1330,7 @@
               })
             : [];
 
-          const latestNotice = notices[0] || null;
-
-          if (!latestNotice) {
+          if (!notices.length) {
             listElement.innerHTML =
               '<li class="push-notice-card__empty">No new files in recent pushes.</li>';
             statusElement.textContent = "";
@@ -1340,19 +1338,22 @@
             return;
           }
 
-          const safeTitle = escapeHtml(latestNotice.title || "Untitled file");
-          const sectionName = escapeHtml(latestNotice.section || "Other");
-          const badgeClass = sectionBadgeClass(latestNotice.section);
-          const linkHref = escapeHtml(normalizeNoticeLink(latestNotice));
-          const dateLabel = escapeHtml(noticeDateLabel(latestNotice));
-          const pushedDate = escapeHtml(
-            formatPushedDate(latestNotice.pushed_at)
-          );
-          const changeBadge = noticeChangeBadge(latestNotice);
-          const changeBadgeText = escapeHtml(changeBadge.text);
-          const changeBadgeClass = escapeHtml(changeBadge.className);
+          // update_push_notices.py ne pubblica al massimo MAX_NOTICES: la
+          // card le mostra tutte, gia' ordinate dal produttore e riordinate
+          // qui per sicurezza.
+          listElement.innerHTML = notices
+            .map(function (notice) {
+              const safeTitle = escapeHtml(notice.title || "Untitled file");
+              const sectionName = escapeHtml(notice.section || "Other");
+              const badgeClass = sectionBadgeClass(notice.section);
+              const linkHref = escapeHtml(normalizeNoticeLink(notice));
+              const dateLabel = escapeHtml(noticeDateLabel(notice));
+              const pushedDate = escapeHtml(formatPushedDate(notice.pushed_at));
+              const changeBadge = noticeChangeBadge(notice);
+              const changeBadgeText = escapeHtml(changeBadge.text);
+              const changeBadgeClass = escapeHtml(changeBadge.className);
 
-          listElement.innerHTML = `
+              return `
                     <li class="push-notice-card__item">
                         <div class="push-notice-card__item-head">
                             <p class="push-notice-card__item-title"><span class="push-notice-card__title-row"><a class="push-notice-card__item-link" href="${linkHref}">${safeTitle}</a><span class="push-notice-card__change-badge ${changeBadgeClass}">${changeBadgeText}</span></span></p>
@@ -1361,6 +1362,8 @@
                         <p class="push-notice-card__item-date">${dateLabel}: ${pushedDate}</p>
                     </li>
                 `;
+            })
+            .join("");
 
           statusElement.textContent = "";
           statusElement.dataset.state = "ready";
