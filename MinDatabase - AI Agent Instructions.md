@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.6 | **Last Updated**: 13 September 2026
+**Version**: 4.6.1 | **Last Updated**: 13 September 2026
 
 ## Project Scope
 
@@ -317,8 +317,12 @@ di incatenarli con `&&`: con `&&` un rosso nel primo file impedirebbe al
 secondo di partire, e in CI si vedrebbe meta' del quadro. Cosi' girano sempre
 entrambi e il fallimento si propaga lo stesso.
 
-Costo: circa 30 secondi sul workflow, in gran parte `npm ci` — che la cache di
-setup-node riduce dal secondo push in poi. `validate.yml` girava in ~25s.
+Costo misurato sul primo run: **+11s** sul workflow, da 24s a 35s. Di questi,
+4.6s sono i due passi veri — 1.8s `npm ci` e 2.8s `npm test` — e il resto e'
+`setup-node`. Node 22 sta gia' nella tool cache del runner
+(`/opt/hostedtoolcache/node/22.23.2`), quindi non si scarica; la cache npm
+invece era vuota al primo giro (`npm cache is not found`) ed e' stata salvata
+in coda, percio' dal secondo push in poi l'install costa meno.
 
 **La convenzione zero-dipendenze resta vera dove e' nata.** Riguarda i
 validatori Python e `test_update_push_notices.py`, che si lanciano con
