@@ -1,0 +1,11 @@
+{
+  "name": "mindatabase",
+  "private": true,
+  "description": "Solo le dipendenze di sviluppo. Il sito e' Jekyll, la toolchain delle notizie e' Python: Node serve unicamente ai test della galleria, che caricano gallery.html in un DOM vero.",
+  "scripts": {
+    "test": "node scripts/test_gallery_lightbox.mjs && node scripts/test_gallery_hint.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

@@ -340,6 +340,7 @@
          intera si vede qui, dentro un riquadro che non taglia mai e non
          ingrandisce oltre la dimensione naturale del file. */
       .gallery-item__zoom {
+        position: relative;
         display: block;
         width: 100%;
         height: 100%;
@@ -353,6 +354,51 @@
       .gallery-item__zoom:focus-visible {
         outline: 3px solid var(--gold);
         outline-offset: -3px;
+      }
+
+      /* L'invito al click. Lo stesso nero caldo del lightbox, cosi' la
+         fascia annuncia il colore di cio' che sta per aprirsi. Alta ~41px
+         su una cornice che nel caso piu' stretto ne misura 195: sotto il
+         quarto dell'immagine a ogni larghezza di colonna. */
+      .gallery-item__hint {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        padding: 1.1rem 0.5rem 0.45rem;
+        background: linear-gradient(
+          to top,
+          rgba(20, 16, 10, 0.88) 0%,
+          rgba(20, 16, 10, 0.66) 55%,
+          rgba(20, 16, 10, 0) 100%
+        );
+        color: var(--parchment);
+        font-size: 0.76rem;
+        line-height: 1.3;
+        letter-spacing: 0.03em;
+        text-align: center;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.15s ease;
+      }
+
+      /* Solo dove l'hover esiste davvero: su touch la fascia non compare
+         mai, e non c'e' un primo tap che la riveli rubando il click. */
+      @media (hover: hover) {
+        .gallery-item__zoom:hover .gallery-item__hint {
+          opacity: 1;
+        }
+      }
+
+      /* Chi naviga da tastiera riceve lo stesso invito, ovunque. */
+      .gallery-item__zoom:focus-visible .gallery-item__hint {
+        opacity: 1;
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .gallery-item__hint {
+          transition: none;
+        }
       }
 
       .gallery-lightbox {
@@ -952,7 +998,6 @@
           zoom.className = "gallery-item__zoom";
           zoom.type = "button";
           zoom.setAttribute("data-gallery-index", index);
-          zoom.setAttribute("aria-label", "See the whole image");
           zoom.addEventListener("click", function () {
             openLightbox(index, zoom);
           });
@@ -963,6 +1008,20 @@
           img.loading = "lazy";
           img.decoding = "async";
           zoom.appendChild(img);
+
+          // Il nome accessibile del bottone dice anche di che immagine si
+          // tratta: da lettore di schermo "View full image" e basta, ripetuto
+          // per ogni card della griglia, non distinguerebbe nulla. Vince
+          // sull'alt della <img> che contiene, quindi non si sdoppia.
+          zoom.setAttribute("aria-label", "View full image: " + img.alt);
+
+          // L'etichetta e' decorazione: il testo per i lettori di schermo e'
+          // gia' nel nome del bottone, e ripeterlo sarebbe rumore.
+          var hint = document.createElement("span");
+          hint.className = "gallery-item__hint";
+          hint.setAttribute("aria-hidden", "true");
+          hint.textContent = "Click to view full image";
+          zoom.appendChild(hint);
           frame.appendChild(zoom);
           article.appendChild(frame);
 
