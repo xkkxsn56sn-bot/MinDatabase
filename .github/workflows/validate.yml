@@ -34,3 +34,29 @@ jobs:
       # una modifica a update_push_notices.py o a send_newsletter_updates.py.
       - name: Push-notices regression battery
         run: python3 scripts/test_update_push_notices.py
+
+      # Il sesto passo non e' Python. Il sito ha JS non banale - la galleria
+      # costruisce la griglia, filtra e apre il lightbox da sola - e un repo
+      # conviene che testi nel linguaggio di cio' che testa: queste asserzioni
+      # caricano gallery.html in un DOM vero, che nessuno script Python puo'
+      # fare. Sta in validate.yml per la stessa ragione della batteria sopra:
+      # e' l'unico workflow senza filtri di path, quindi il guardiano vede
+      # ogni push che tocca la galleria.
+      #
+      # La versione e' fissata di proposito: senza node-version setup-node
+      # prende quella preinstallata sul runner, che cambia senza preavviso.
+      # Il 22 e' LTS fino ad aprile 2027; il 20 e' fuori manutenzione da
+      # aprile 2026. jsdom 29 accetta ^20.19 || ^22.13 || >=24.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      # npm ci, non npm install: installa esattamente il package-lock.json e
+      # fallisce se i due file divergono, cosi' il guardiano non cambia
+      # silenziosamente versione di jsdom sotto i piedi.
+      - name: Install JS test dependencies
+        run: npm ci
+
+      - name: Gallery JS test battery
+        run: npm test

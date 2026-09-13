@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.5 | **Last Updated**: 7 September 2026
+**Version**: 4.6 | **Last Updated**: 13 September 2026
 
 ## Project Scope
 
@@ -272,15 +272,63 @@ lancia tutti e quattro; `validate-content-indexes.yml` e
 `validate-scholars-frontmatter.yml` ne rilanciano due, con i propri filtri di
 path.
 
-`validate.yml` chiude con un quinto passo, **Push-notices regression battery**,
-che non valida contenuto ma la toolchain delle notizie. Sta li' perche'
-`validate.yml` e' l'unico workflow senza filtri di path: la batteria gira
+Al quarto validatore `validate.yml` fa seguire un quinto passo,
+**Push-notices regression battery**, che non valida contenuto ma la toolchain
+delle notizie. Sta li' perche' `validate.yml` e' l'unico workflow senza
+filtri di path: la batteria gira
 quindi sullo stesso push che porta una modifica a `update_push_notices.py` o a
 `send_newsletter_updates.py`, che nessun altro workflow intercetta. Per la
 stessa ragione `update-push-notices.yml` **non** elenca `scripts/**` fra i
 suoi path, e non deve farlo: un push di sola toolchain non ha schede nel
 payload, farebbe scattare il ripiego su `git log` e riannuncerebbe contenuto
 gia' annunciato — con una seconda email agli iscritti.
+
+#### Il sesto passo non e' Python
+
+`validate.yml` chiude con **Gallery JS test battery**: 69 asserzioni che
+caricano `gallery.html` in un DOM vero con jsdom — 44 sul lightbox, 25
+sull'invito al click che compare all'hover.
+
+La ragione e' che il sito ha JS non banale. `gallery.html` costruisce da sola
+la griglia dall'indice, la raggruppa, la filtra, la pagina e apre il lightbox:
+un validatore Python puo' leggerne il testo, non eseguirlo. Un repo conviene
+che testi nel linguaggio di cio' che testa, e per la galleria quel linguaggio
+e' JavaScript. Sta in `validate.yml` per la stessa ragione della batteria
+sopra: e' l'unico workflow senza filtri di path, quindi il guardiano vede ogni
+push che tocca la galleria.
+
+Tre passi in coda ai cinque Python: `actions/setup-node@v4` con
+`node-version: '22'` e `cache: 'npm'`, poi `npm ci`, poi `npm test`. Nessun
+`continue-on-error`: un'asserzione rossa ferma il workflow come la ferma un
+validatore Python.
+
+La versione di Node e' fissata di proposito. Senza `node-version` setup-node
+prende quella preinstallata sul runner, che cambia senza preavviso; il 22 e'
+LTS fino ad aprile 2027, mentre il 20 e' fuori manutenzione da aprile 2026.
+`jsdom` 29 accetta `^20.19 || ^22.13 || >=24`.
+
+`npm ci` e non `npm install`: installa esattamente `package-lock.json` e
+fallisce se i due file divergono, cosi' il guardiano non cambia versione di
+jsdom sotto i piedi. Il lockfile va committato — e' il prerequisito di
+`npm ci`. `node_modules/` resta ignorato.
+
+Lo script `test` lancia i due file **e poi** somma i codici di uscita, invece
+di incatenarli con `&&`: con `&&` un rosso nel primo file impedirebbe al
+secondo di partire, e in CI si vedrebbe meta' del quadro. Cosi' girano sempre
+entrambi e il fallimento si propaga lo stesso.
+
+Costo: circa 30 secondi sul workflow, in gran parte `npm ci` — che la cache di
+setup-node riduce dal secondo push in poi. `validate.yml` girava in ~25s.
+
+**La convenzione zero-dipendenze resta vera dove e' nata.** Riguarda i
+validatori Python e `test_update_push_notices.py`, che si lanciano con
+`python3 scripts/...` e nient'altro: vale ancora, e va mantenuta. La batteria
+JS e' l'eccezione motivata — un DOM vero non si simula a mano — ed e' l'unica
+cosa nel repo che abbia bisogno di `npm install`.
+
+In locale:
+
+npm install && npm test
 
 ### Tre vincoli da ricordare
 
