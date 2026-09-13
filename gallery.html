@@ -335,6 +335,233 @@
         text-decoration: underline;
       }
 
+      /* ── LIGHTBOX ── */
+      /* Il ritaglio 4/3 della card resta: serve alla griglia. L'immagine
+         intera si vede qui, dentro un riquadro che non taglia mai e non
+         ingrandisce oltre la dimensione naturale del file. */
+      .gallery-item__zoom {
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        border: 0;
+        background: none;
+        cursor: zoom-in;
+        touch-action: manipulation;
+      }
+
+      .gallery-item__zoom:focus-visible {
+        outline: 3px solid var(--gold);
+        outline-offset: -3px;
+      }
+
+      .gallery-lightbox {
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 3.5rem 1rem 1rem;
+        background: rgba(20, 16, 10, 0.93);
+        animation: gallery-lightbox-in 0.18s ease;
+      }
+
+      .gallery-lightbox[hidden] {
+        display: none;
+      }
+
+      @keyframes gallery-lightbox-in {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .gallery-lightbox {
+          animation: none;
+        }
+      }
+
+      .gallery-lightbox__figure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.9rem;
+        margin: 0;
+        max-width: calc(100vw - 7rem);
+      }
+
+      /* width/height auto piu' i due max: il browser conserva il rapporto,
+         non taglia nulla e non stira un file piu' piccolo del riquadro. */
+      .gallery-lightbox__img {
+        width: auto;
+        height: auto;
+        max-width: calc(100vw - 7rem);
+        max-height: calc(100vh - 13.5rem);
+        max-height: calc(100dvh - 13.5rem);
+        object-fit: contain;
+        border-radius: 2px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+      }
+
+      .gallery-lightbox__caption {
+        max-width: min(60ch, calc(100vw - 7rem));
+        max-height: 8.5rem;
+        overflow-y: auto;
+        text-align: center;
+        color: var(--parchment);
+      }
+
+      .gallery-lightbox__text {
+        font-size: 0.92rem;
+        font-style: italic;
+        line-height: 1.5;
+      }
+
+      .gallery-lightbox__entry {
+        display: inline-block;
+        margin-top: 0.45rem;
+        color: var(--gold);
+        font-size: 0.88rem;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(201, 169, 97, 0.5);
+      }
+
+      .gallery-lightbox__entry:hover,
+      .gallery-lightbox__entry:focus-visible {
+        border-bottom-color: var(--gold);
+      }
+
+      .gallery-lightbox__count {
+        margin-top: 0.5rem;
+        font-size: 0.75rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: rgba(244, 241, 232, 0.6);
+      }
+
+      .gallery-lightbox__close,
+      .gallery-lightbox__nav {
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        border: 1px solid rgba(244, 241, 232, 0.3);
+        border-radius: 50%;
+        background: rgba(244, 241, 232, 0.14);
+        color: var(--parchment);
+        font-family: inherit;
+        line-height: 1;
+        cursor: pointer;
+        touch-action: manipulation;
+      }
+
+      .gallery-lightbox__close:hover,
+      .gallery-lightbox__nav:hover {
+        background: rgba(244, 241, 232, 0.26);
+      }
+
+      .gallery-lightbox__close:focus-visible,
+      .gallery-lightbox__nav:focus-visible {
+        outline: 2px solid var(--gold);
+        outline-offset: 2px;
+      }
+
+      .gallery-lightbox__close {
+        top: 0.75rem;
+        right: 0.75rem;
+        font-size: 1.5rem;
+      }
+
+      .gallery-lightbox__nav[hidden] {
+        display: none;
+      }
+
+      .gallery-lightbox__nav {
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1.7rem;
+      }
+
+      .gallery-lightbox__nav--prev {
+        left: 0.6rem;
+      }
+
+      .gallery-lightbox__nav--next {
+        right: 0.6rem;
+      }
+
+      /* Da telefono le frecce lasciano i fianchi e scendono negli angoli:
+         restano visibili (non c'e' hover), il pollice le raggiunge, e la
+         larghezza torna tutta all'immagine — che e' quello che serve alle
+         panoramiche, dove su 375px ogni pixel di base conta. Stando sotto
+         il padding inferiore non coprono mai ne' immagine ne' didascalia. */
+      @media (max-width: 600px) {
+        .gallery-lightbox {
+          padding: 3.5rem 0.75rem 4rem;
+        }
+
+        .gallery-lightbox__figure,
+        .gallery-lightbox__img,
+        .gallery-lightbox__caption {
+          max-width: calc(100vw - 1.5rem);
+        }
+
+        .gallery-lightbox__img {
+          max-height: calc(100vh - 15rem);
+          max-height: calc(100dvh - 15rem);
+        }
+
+        .gallery-lightbox__caption {
+          max-height: 6.5rem;
+        }
+
+        .gallery-lightbox__nav {
+          top: auto;
+          bottom: 0.75rem;
+          transform: none;
+        }
+
+        .gallery-lightbox__nav--prev {
+          left: 0.9rem;
+        }
+
+        .gallery-lightbox__nav--next {
+          right: 0.9rem;
+        }
+      }
+
+      /* Schermi bassi — soprattutto il telefono ruotato, che per larghezza
+         passerebbe per un desktop: la riserva verticale si stringe, o
+         all'immagine non resta quasi nulla. */
+      @media (max-height: 520px) {
+        .gallery-lightbox {
+          padding: 3.5rem 1rem 0.75rem;
+        }
+
+        .gallery-lightbox__img {
+          max-height: calc(100vh - 8rem);
+          max-height: calc(100dvh - 8rem);
+        }
+
+        .gallery-lightbox__caption {
+          max-height: 3.5rem;
+        }
+
+        .gallery-lightbox__nav {
+          top: 50%;
+          bottom: auto;
+          transform: translateY(-50%);
+        }
+      }
+
       /* ── STATO E PAGINAZIONE ── */
       .gallery-status {
         text-align: center;
@@ -518,6 +745,48 @@
       </div>
     </main>
 
+    <div
+      class="gallery-lightbox"
+      id="gallery-lightbox"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Full-size image"
+      hidden
+    >
+      <button
+        class="gallery-lightbox__close"
+        id="gallery-lightbox-close"
+        type="button"
+        aria-label="Close the image"
+      >
+        &times;
+      </button>
+      <button
+        class="gallery-lightbox__nav gallery-lightbox__nav--prev"
+        id="gallery-lightbox-prev"
+        type="button"
+        aria-label="Previous image"
+      >
+        &lsaquo;
+      </button>
+      <button
+        class="gallery-lightbox__nav gallery-lightbox__nav--next"
+        id="gallery-lightbox-next"
+        type="button"
+        aria-label="Next image"
+      >
+        &rsaquo;
+      </button>
+      <figure class="gallery-lightbox__figure" id="gallery-lightbox-figure">
+        <img class="gallery-lightbox__img" id="gallery-lightbox-img" alt="" />
+        <figcaption class="gallery-lightbox__caption">
+          <p class="gallery-lightbox__text" id="gallery-lightbox-text"></p>
+          <a class="gallery-lightbox__entry" id="gallery-lightbox-entry"></a>
+          <p class="gallery-lightbox__count" id="gallery-lightbox-count"></p>
+        </figcaption>
+      </figure>
+    </div>
+
     <footer>
       <p><strong>Medieval Visions</strong> - Medieval Artistic Dataset</p>
       <p>
@@ -550,6 +819,7 @@
 
         var all = [];
         var flatGroups = [];
+        var flatItems = [];
         var rendered = 0;
 
         // Stesso arco della mappa gemella in scripts/build_gallery_index.py:
@@ -668,23 +938,32 @@
           return out;
         }
 
-        function makeItem(f) {
+        function makeItem(f, index) {
           var article = document.createElement("article");
           article.className = "gallery-item";
 
           var frame = document.createElement("div");
           frame.className = "gallery-item__frame";
 
-          var link = document.createElement("a");
-          link.href = f.url;
+          // Era un <a> alla scheda; la scheda resta raggiungibile dal titolo
+          // del gruppo e dal link dentro il lightbox. Un <button> perche' qui
+          // si apre un riquadro nella pagina, non si naviga.
+          var zoom = document.createElement("button");
+          zoom.className = "gallery-item__zoom";
+          zoom.type = "button";
+          zoom.setAttribute("data-gallery-index", index);
+          zoom.setAttribute("aria-label", "See the whole image");
+          zoom.addEventListener("click", function () {
+            openLightbox(index, zoom);
+          });
 
           var img = document.createElement("img");
           img.src = f.src;
           img.alt = f.alt || f.caption || f.entry;
           img.loading = "lazy";
           img.decoding = "async";
-          link.appendChild(img);
-          frame.appendChild(link);
+          zoom.appendChild(img);
+          frame.appendChild(zoom);
           article.appendChild(frame);
 
           var itemBody = document.createElement("div");
@@ -744,8 +1023,8 @@
 
           var grid = document.createElement("div");
           grid.className = "gallery-grid";
-          g.items.forEach(function (f) {
-            grid.appendChild(makeItem(f));
+          g.items.forEach(function (f, i) {
+            grid.appendChild(makeItem(f, g.offset + i));
           });
           section.appendChild(grid);
 
@@ -852,6 +1131,17 @@
 
           flatGroups = buildGroups(filtered);
 
+          // Ordine di scorrimento delle frecce: lo stesso della pagina
+          // (sezione, scheda, ordine del testo), sull'intero set filtrato.
+          flatItems = [];
+          flatGroups.forEach(function (g) {
+            g.offset = flatItems.length;
+            g.items.forEach(function (f) {
+              flatItems.push(f);
+            });
+          });
+          closeLightbox();
+
           body.innerHTML = "";
           rendered = 0;
           status.textContent = "";
@@ -878,6 +1168,136 @@
           clearTimeout(timer);
           timer = setTimeout(applyFilters, 150);
         }
+
+        // ── LIGHTBOX ──────────────────────────────────────────────────
+        // L'immagine intera, non ritagliata. Scorre l'intero set filtrato
+        // corrente, anche i gruppi non ancora renderizzati: le frecce non
+        // si fermano al batch in pagina.
+        var lb = document.getElementById("gallery-lightbox");
+        var lbFigure = document.getElementById("gallery-lightbox-figure");
+        var lbImg = document.getElementById("gallery-lightbox-img");
+        var lbText = document.getElementById("gallery-lightbox-text");
+        var lbEntry = document.getElementById("gallery-lightbox-entry");
+        var lbCount = document.getElementById("gallery-lightbox-count");
+        var lbClose = document.getElementById("gallery-lightbox-close");
+        var lbPrev = document.getElementById("gallery-lightbox-prev");
+        var lbNext = document.getElementById("gallery-lightbox-next");
+
+        var lbIndex = -1;
+        var lbOpener = null;
+
+        function isLightboxOpen() {
+          return !lb.hidden;
+        }
+
+        function showInLightbox(i) {
+          var f = flatItems[i];
+          if (!f) return;
+          lbIndex = i;
+
+          lbImg.src = f.src;
+          lbImg.alt = f.alt || f.caption || f.entry;
+          lbText.textContent = f.caption || "";
+          lbText.hidden = !f.caption;
+
+          lbEntry.href = f.url;
+          lbEntry.textContent = f.entry + " \u2192";
+
+          lbCount.textContent = i + 1 + " / " + flatItems.length;
+
+          var many = flatItems.length > 1;
+          lbPrev.hidden = !many;
+          lbNext.hidden = !many;
+
+          // I file pesano mezzo mega: il vicino conviene averlo pronto.
+          [i - 1, i + 1].forEach(function (j) {
+            var n = flatItems[(j + flatItems.length) % flatItems.length];
+            if (n && n !== f) new Image().src = n.src;
+          });
+        }
+
+        function stepLightbox(delta) {
+          if (!flatItems.length) return;
+          var i = (lbIndex + delta + flatItems.length) % flatItems.length;
+          showInLightbox(i);
+        }
+
+        function openLightbox(i, opener) {
+          if (!flatItems[i]) return;
+          lbOpener = opener || null;
+          showInLightbox(i);
+          lb.hidden = false;
+          document.documentElement.style.overflow = "hidden";
+          document.body.style.overflow = "hidden";
+          lbClose.focus();
+        }
+
+        function closeLightbox() {
+          if (!isLightboxOpen()) return;
+          lb.hidden = true;
+          document.documentElement.style.overflow = "";
+          document.body.style.overflow = "";
+
+          // Il focus torna alla card dell'immagine che si stava guardando,
+          // se e' in pagina; altrimenti a quella da cui si era partiti.
+          var back = document.querySelector(
+            '[data-gallery-index="' + lbIndex + '"]'
+          );
+          if (!back && lbOpener && lbOpener.isConnected) back = lbOpener;
+          if (back) back.focus();
+
+          lbIndex = -1;
+          lbOpener = null;
+        }
+
+        // Focus trap minimo: il giro si chiude sui comandi del riquadro.
+        function trapFocus(ev) {
+          var stops = [lbClose, lbPrev, lbNext, lbEntry].filter(function (el) {
+            return !el.hidden;
+          });
+          if (!stops.length) return;
+
+          var first = stops[0];
+          var last = stops[stops.length - 1];
+          var here = document.activeElement;
+
+          if (ev.shiftKey && (here === first || !lb.contains(here))) {
+            ev.preventDefault();
+            last.focus();
+          } else if (!ev.shiftKey && here === last) {
+            ev.preventDefault();
+            first.focus();
+          }
+        }
+
+        lbClose.addEventListener("click", closeLightbox);
+        lbPrev.addEventListener("click", function () {
+          stepLightbox(-1);
+        });
+        lbNext.addEventListener("click", function () {
+          stepLightbox(1);
+        });
+
+        // Click o tap fuori dall'immagine: il fondo e il margine del riquadro.
+        lb.addEventListener("click", function (ev) {
+          if (ev.target === lb || ev.target === lbFigure) closeLightbox();
+        });
+
+        document.addEventListener("keydown", function (ev) {
+          if (!isLightboxOpen()) return;
+          if (ev.key === "Escape") {
+            ev.preventDefault();
+            closeLightbox();
+          } else if (ev.key === "ArrowLeft") {
+            ev.preventDefault();
+            stepLightbox(-1);
+          } else if (ev.key === "ArrowRight") {
+            ev.preventDefault();
+            stepLightbox(1);
+          } else if (ev.key === "Tab") {
+            trapFocus(ev);
+          }
+        });
 
         sectionSel.addEventListener("change", applyFilters);
         centurySel.addEventListener("change", applyFilters);
