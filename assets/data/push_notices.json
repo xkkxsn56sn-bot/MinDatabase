@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-07T14:58:25+00:00",
+  "updated_at": "2026-09-16T07:38:18+00:00",
   "notices": [
+    {
+      "title": "The Fontana Maggiore, Perugia",
+      "section": "Papers",
+      "path": "Content/Papers/Fontana-Maggiore-Perugia.md",
+      "page_url": "/Content/Papers/Fontana-Maggiore-Perugia.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-16T09:34:41+02:00"
+    },
+    {
+      "title": "The Baptistery of San Giovanni and the Camposanto Monumentale, Pisa",
+      "section": "Papers",
+      "path": "Content/Papers/Battistero-San-Giovanni-Camposanto-Monumentale-Pisa.md",
+      "page_url": "/Content/Papers/Battistero-San-Giovanni-Camposanto-Monumentale-Pisa.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-07T16:57:32+02:00"
+    },
     {
       "title": "Francesco Traini",
       "section": "Artists",
