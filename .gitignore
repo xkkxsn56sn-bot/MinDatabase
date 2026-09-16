@@ -22,3 +22,9 @@ coverage/
 newsletter_subscribers.csv
 .obsidian/workspace.json
 .obsidian/
+
+# Schede in lavorazione: spazio locale, mai in repo. Sono gia' escluse dai
+# controlli e dalla build, ma restavano visibili a git come non tracciate, e
+# un `git add -A` le avrebbe messe in stage in blocco (cfr. incidente
+# Bonaiuto). Si spostano in Content/ alla pubblicazione, non si committano.
+drafts/

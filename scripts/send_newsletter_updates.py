@@ -97,6 +97,29 @@ def _load_recipients(path: Path) -> list[str]:
     return recipients
 
 
+# La chiave di `push_notices.json` che porta le sole notizie di questo push.
+# L'altra, `notices`, e' la lista rotolante della homepage e qui non si guarda.
+LATEST_PUSH_KEY = "latest_push"
+
+
+def _push_notices(payload: dict) -> list[dict] | None:
+    """Le notizie del push corrente: quelle, e solo quelle, che vanno per email.
+
+    `None` quando la chiave manca del tutto, che significa un
+    `push_notices.json` scritto da una versione precedente alla separazione
+    delle due liste. In quel caso non si spedisce: meglio un annuncio mancato,
+    che si rimedia con un push, di un'email costruita su una lista che non si
+    sa che cosa rappresenti.
+
+    Lista vuota e' invece un esito legittimo — un push che non ha prodotto
+    notizie nuove — e anch'esso non spedisce nulla.
+    """
+    value = payload.get(LATEST_PUSH_KEY)
+    if value is None:
+        return None
+    return list(value)
+
+
 def _signature_for_notices(notices: Iterable[dict]) -> str:
     """Firma anti-reinvio dell'elenco delle notizie, nel suo ordine.
 
@@ -106,19 +129,27 @@ def _signature_for_notices(notices: Iterable[dict]) -> str:
     dell'email si costruisce sui titoli, e legarli alla firma farebbe partire
     un reinvio a ogni ritocco di un titolo.
 
-    Perche' l'intera lista e non la testa. La newsletter spedisce l'elenco
-    intero, quindi e' l'elenco intero a definire l'email: una firma sulla sola
-    testa lascerebbe passare due errori simmetrici — una testa nuova con
-    compagne gia' spedite (email che ripete contenuto vecchio senza che nulla
-    lo segnali) e una testa gia' vista con compagne nuove (email soppressa
-    benche' porti roba mai spedita).
+    Su quale elenco. Si calcola su `latest_push`, cioe' sulle sole notizie del
+    push corrente, che e' esattamente cio' che la newsletter spedisce: la
+    firma deve rispondere alla domanda «c'e' qualcosa di nuovo da mandare?»,
+    e a quella domanda risponde il push, non la lista rotolante della
+    homepage. Calcolarla sulla lista fusa la faceva cambiare anche quando il
+    push non portava nulla di proprio e a muoversi era solo il riporto.
+
+    Perche' tutte le voci e non la sola testa. La newsletter spedisce
+    l'elenco intero, quindi e' l'elenco intero a definire l'email: una firma
+    sulla sola testa lascerebbe passare due errori simmetrici — una testa
+    nuova con compagne gia' spedite (email che ripete contenuto vecchio senza
+    che nulla lo segnali) e una testa gia' vista con compagne nuove (email
+    soppressa benche' porti roba mai spedita).
 
     La sfumatura da accettare: se la testa e' gia' stata notificata ma le
-    compagne cambiano, la newsletter riparte. E' il verso giusto. Da quando il
-    ripiego su git e' limitato a `before..after` del push, una lista diversa
-    non puo' piu' nascere dal trascinamento di storia vecchia: se l'elenco
-    cambia e' perche' il push ha toccato schede diverse, cioe' perche' c'e'
-    contenuto genuinamente nuovo da annunciare.
+    compagne cambiano, la newsletter riparte. E' il verso giusto, e due fix
+    l'hanno reso stretto. Il ripiego su git e' limitato a `before..after`,
+    quindi una lista diversa non puo' nascere dal trascinamento di storia
+    vecchia; e ora che la firma guarda `latest_push`, non puo' nascere
+    nemmeno dal riporto delle notizie precedenti. Se l'elenco cambia e'
+    perche' questo push ha toccato schede diverse.
 
     I casi degeneri reggono:
 
@@ -129,7 +160,9 @@ def _signature_for_notices(notices: Iterable[dict]) -> str:
       l'ordine decide quale notizia da' il titolo all'oggetto;
     - una voce spinta fuori da MAX_NOTICES da una piu' recente: la firma
       cambia, ma cambia perche' e' entrata una voce nuova, che va spedita;
-    - elenco vuoto: `main` esce prima di arrivare qui.
+    - `latest_push` vuota (push senza notizie proprie) o assente (file scritto
+      prima della separazione delle liste): `main` esce prima di arrivare qui,
+      e lo stato dell'invio resta intatto.
     """
     parts: list[str] = []
     for notice in notices:
@@ -282,9 +315,18 @@ def _send_messages(
 
 def main() -> int:
     notices_json = _load_json(NOTICES_PATH, {"notices": []})
-    notices = notices_json.get("notices") or []
+
+    # L'email annuncia il push corrente, non la lista rotolante della
+    # homepage: si legge `latest_push` e nient'altro.
+    notices = _push_notices(notices_json)
+    if notices is None:
+        print(
+            f"No '{LATEST_PUSH_KEY}' key in push notices: file written before the "
+            "rolling/current split. Skipping newsletter notification."
+        )
+        return 0
     if not notices:
-        print("No notices found. Skipping newsletter notification.")
+        print("No notices from the current push. Skipping newsletter notification.")
         return 0
 
     state = _load_json(STATE_PATH, {})

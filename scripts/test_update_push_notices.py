@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Batteria di test per update_push_notices.py.
 
-Dieci gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
+Undici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
 si esegue con `python3 scripts/test_update_push_notices.py` e stampa una riga
 per caso, uscendo con codice 1 al primo fallimento.
 
@@ -43,6 +43,18 @@ i. Il ripiego su git guarda i commit del push — `before..after` dell'evento �
 j. La firma anti-reinvio e' funzione dell'elenco intero, nel suo ordine, e non
    della sola testa: due errori simmetrici — testa nuova con compagne gia'
    spedite, testa gia' vista con compagne nuove — si chiudono insieme.
+
+k. Le liste sono due e vanno in due posti diversi. `notices` rotola e riempie
+   la card in homepage; `latest_push` porta le sole notizie del push e la
+   spedisce la newsletter. Prima l'email usciva sulla lista fusa: dopo un push
+   multiplo, il push successivo di una scheda sola annunciava tre voci — due
+   gia' spedite — con l'oggetto «... and 2 more updates» invece di
+   «[New] <titolo>». La firma anti-reinvio si e' spostata di conseguenza sulla
+   lista solo-push, che e' quella che decide se c'e' qualcosa da mandare.
+
+   NOTA DI CONTRATTO: i casi di g provano `_build_subject` e la firma su liste
+   costruite a mano, non su quel che legge `main`, e restano validi come
+   sono. Cio' che cambia e' da dove `main` prende la lista, e lo copre k.
 
 h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
    di radice, `Content/prompts/` — non produce notizia, e un push che tocca
@@ -596,6 +608,76 @@ check(
     snu._signature_for_notices(companions_a)
     == snu._signature_for_notices([dict(n) for n in companions_a]),
     f"{snu._signature_for_notices(companions_a)!r}",
+)
+
+# --------------------------------------------------------------------------
+# k. due liste: la homepage rotola, l'email annuncia il solo push
+# --------------------------------------------------------------------------
+# Il caso simulato nel report del 16 settembre 2026: dopo un push che aveva
+# lasciato tre notizie in lista, il push successivo porta una scheda sola.
+# Spedendo la lista fusa, l'email sarebbe uscita con tre voci e l'oggetto
+# «... and 2 more updates» — due delle quali gia' spedite il giro prima.
+ROLLING_BEFORE = [
+    notice("The Fontana Maggiore, Perugia", "created", FONTANA),
+    notice("The Baptistery of San Giovanni", "created", PISA),
+    notice("Francesco Traini", "modified", TRAINI),
+]
+NUOVA = "Content/Papers/Nuova.md"
+fresh = [dict(notice("Scheda Nuova", "created", NUOVA), pushed_at="2026-09-20T10:00:00+02:00")]
+
+k_current = upn._dedupe_and_sort(fresh)[: upn.MAX_NOTICES]
+k_rolling = upn._dedupe_and_sort(fresh + ROLLING_BEFORE)[: upn.MAX_NOTICES]
+
+check(
+    "k. l'email porta la sola scheda del push",
+    paths(k_current) == [NUOVA],
+    str(paths(k_current)),
+)
+check(
+    "k. la homepage resta piena: tre voci, la nuova in testa",
+    len(k_rolling) == 3 and paths(k_rolling)[0] == NUOVA,
+    str(paths(k_rolling)),
+)
+check(
+    "k. oggetto [New] <titolo>, senza il conteggio delle altre",
+    snu._build_subject(k_current) == "Medieval Visions \u2014 [New] Scheda Nuova",
+    snu._build_subject(k_current),
+)
+check(
+    "k. e sulla lista fusa l'oggetto sarebbe stato quello sbagliato",
+    "more update" in snu._build_subject(k_rolling),
+    snu._build_subject(k_rolling),
+)
+
+# La firma si calcola sulla lista solo-push: un re-run dello stesso push
+# ritrova la stessa firma e non spedisce una seconda volta.
+check(
+    "k. firma sulla lista solo-push: re-run identico -> stessa firma, invio saltato",
+    snu._signature_for_notices(k_current)
+    == snu._signature_for_notices([dict(n) for n in k_current]),
+    snu._signature_for_notices(k_current),
+)
+check(
+    "k. e la firma non guarda la lista rotolante: fusa e solo-push differiscono",
+    snu._signature_for_notices(k_current) != snu._signature_for_notices(k_rolling),
+    snu._signature_for_notices(k_current),
+)
+
+# Lista solo-push vuota, o chiave assente: nessun invio, stato intatto.
+check(
+    "k. latest_push vuota -> niente da spedire",
+    snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": []}) == [],
+    str(snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": []})),
+)
+check(
+    "k. chiave assente (file di una versione precedente) -> None, e non si spedisce",
+    snu._push_notices({"notices": ROLLING_BEFORE}) is None,
+    str(snu._push_notices({"notices": ROLLING_BEFORE})),
+)
+check(
+    "k. la lista solo-push si legge da latest_push, mai da notices",
+    snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": k_current}) == k_current,
+    str(snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": k_current})),
 )
 
 print()

@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.7.0 | **Last Updated**: 16 September 2026
+**Version**: 4.8.0 | **Last Updated**: 16 September 2026
 
 ## Project Scope
 
@@ -215,11 +215,40 @@ La regola e' a tappeto e non una lista di eccezioni: una cartella nuova sotto
 annunciata si rimedia, un'email no — ma va ricordato quando si aggiunge una
 sezione.
 
+#### Cosa va in homepage, cosa va per email
+
+Sono due liste diverse, scritte nello stesso `push_notices.json`.
+
+`notices` **rotola**: le notizie del push si fondono con quelle gia'
+pubblicate, e le prime `MAX_NOTICES` riempiono la card «ultime novita'» in
+homepage. Deve restare piena anche dopo un push che porta una scheda sola,
+quindi il riporto e' voluto.
+
+`latest_push` porta **le sole notizie di questo push**, ed e' quella che
+spedisce la newsletter. Un'email annuncia quel che e' appena successo: se
+uscisse sulla lista fusa ripeterebbe fino a `MAX_NOTICES - 1` voci gia'
+spedite il giro prima, e l'oggetto di un push di una scheda sola diventerebbe
+`... and 2 more updates` invece di `[New] <titolo>`. E' successo: e' la
+ragione per cui le liste sono due.
+
+Stanno nello stesso file e non in due perche' nascono dallo stesso input nello
+stesso run. Separarle in due artefatti significherebbe tenerli allineati, due
+controlli `git diff --quiet` nel workflow, e la possibilita' che uno dei due
+commit riesca e l'altro no. La chiave e' affiancata, cosi' la homepage
+continua a leggere `notices` senza sapere che l'altra esiste.
+
+La firma anti-reinvio si calcola su `latest_push`, non sulla lista fusa:
+deve rispondere a «c'e' qualcosa di nuovo da mandare?», e a quella domanda
+risponde il push. Un `latest_push` vuoto — push senza notizie proprie — non
+spedisce nulla e lascia lo stato intatto; una chiave assente, cioe' un file
+scritto da una versione precedente alla separazione, nemmeno.
+
 #### Quante notizie, e in che ordine
 
-`MAX_NOTICES = 3`: un push che tocca piu' schede le annuncia tutte e tre, in
-homepage e in newsletter. Prima ne usciva una sola, e in un push misto la
-scheda pubblicata poteva restare fuori a favore di un ritocco marginale.
+`MAX_NOTICES = 3` vale per entrambe le liste: un push che tocca piu' schede
+le annuncia tutte e tre, in homepage e in newsletter. Prima ne usciva una
+sola, e in un push misto la scheda pubblicata poteva restare fuori a favore
+di un ritocco marginale.
 
 L'ordine e' a tre livelli: `pushed_at` decrescente, poi `created` prima di
 `modified`, poi il path in ordine alfabetico. Il secondo livello e' quello che
@@ -231,8 +260,8 @@ vero prima: il payload elenca gli `added` prima dei `modified`, `git log
 --name-status` elenca in ordine di path, e con una sola notizia la differenza
 decideva da sola che cosa finiva in newsletter.
 
-L'oggetto della newsletter si costruisce sulle notizie del giro, non e' piu'
-fisso. Una notizia sola porta titolo ed etichetta — `Medieval Visions — [New]
+L'oggetto della newsletter si costruisce sulle notizie del push — quelle di
+`latest_push` — e non e' piu' fisso. Una notizia sola porta titolo ed etichetta — `Medieval Visions — [New]
 <titolo>` —; due o piu' portano la prima, che l'ordinamento garantisce essere
 la piu' rilevante, e il conteggio delle altre: `Medieval Visions — <titolo> and
 2 more updates`. I titoli oltre i 60 caratteri sono troncati con un'ellissi,
@@ -242,10 +271,11 @@ oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
 solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
 puo' provocare un reinvio.
 
-`scripts/test_update_push_notices.py` fissa queste regole su dieci gruppi di
-casi presi dalla storia del repository — 41 asserzioni, comprese quelle sul
-range del ripiego e sulla firma dell'elenco intero. Si esegue senza
-dipendenze: `python3 scripts/test_update_push_notices.py`.
+`scripts/test_update_push_notices.py` fissa queste regole su undici gruppi di
+casi presi dalla storia del repository — 50 asserzioni, comprese quelle sul
+range del ripiego, sulla firma dell'elenco intero e sulla separazione fra
+lista rotolante e lista solo-push. Si esegue senza dipendenze:
+`python3 scripts/test_update_push_notices.py`.
 
 #### Il tag di soppressione
 
@@ -397,13 +427,12 @@ ripiego e' limitato al range: una lista diversa non puo' piu' nascere dal
 trascinamento di storia vecchia, quindi se l'elenco cambia e' perche' il push
 ha toccato schede diverse.
 
-**Quel che resta, ed e' voluto:** `update_push_notices.py` fonde le notizie
-del push con quelle gia' pubblicate, perche' la card in homepage e' un
-«ultime novita'» e deve restare piena anche dopo un push di una scheda sola.
-La newsletter pero' spedisce l'elenco intero, quindi fino a `MAX_NOTICES - 1`
-voci del giro precedente escono una seconda volta per email. Il range chiude
-il trascinamento dalla storia, non questo. Separare le due liste — una per la
-homepage, una per l'email — e' la decisione ancora aperta.
+**Il terzo trascinamento, chiuso.** `update_push_notices.py` continua a
+fondere le notizie del push con quelle gia' pubblicate — la card in homepage
+deve restare piena — ma la newsletter non legge piu' quella lista. Legge
+`latest_push`, che porta le sole notizie del push, e su quella calcola anche
+la firma anti-reinvio. Le voci del giro precedente restano in homepage e non
+escono piu' per email. Vedi «Cosa va in homepage, cosa va per email».
 
 ### Il deploy
 
@@ -480,6 +509,14 @@ I link interni sono sempre root-relative (`/Content/...`, `/endnotes.html`):
 i percorsi relativi dipendono dalla profondita' della cartella e si rompono a
 ogni riorganizzazione.
 
-Le schede in lavorazione stanno in `drafts/`, esclusa dai controlli e dalla
-build. Si spostano in `Content/` solo alla pubblicazione: da quel momento ogni
-commit fa partire una notifica agli iscritti, e una email non si ritira.
+Le schede in lavorazione stanno in `drafts/`, esclusa dai controlli, dalla
+build e — da questo giro — anche da git: la cartella e' in `.gitignore`. E'
+spazio di lavorazione locale e non entra mai nel repository. Prima era solo
+non tracciata, quindi compariva in `git status` e un `git add -A` l'avrebbe
+messa in stage in blocco.
+
+Le schede si spostano in `Content/` solo alla pubblicazione: da quel momento
+ogni commit fa partire una notifica agli iscritti, e una email non si ritira.
+Lo spostamento e' un `git mv` mancato per costruzione — il file sorgente e'
+ignorato — quindi la scheda entra come nuova, che e' il verso giusto: il suo
+`change_type` dev'essere `created`.

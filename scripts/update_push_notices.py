@@ -35,6 +35,18 @@ CHE COSA PRODUCE NOTIZIA
     cartella nuova sotto Content/ non produce notizie finche' non la si
     dichiara, il che e' il verso giusto in cui sbagliare.
 
+DUE LISTE, DUE DESTINAZIONI
+    `push_notices.json` porta due elenchi. `notices` e' quello rotolante — le
+    notizie del push fuse con quelle gia' pubblicate — e lo legge la card
+    «ultime novita'» in homepage, che deve restare piena anche dopo un push di
+    una scheda sola. `latest_push` sono le sole notizie di questo push, e lo
+    legge la newsletter.
+
+    La separazione nasce da un difetto visto dal vivo: spedendo la lista fusa,
+    un'email annunciava fino a MAX_NOTICES - 1 voci gia' spedite nel giro
+    precedente, e l'oggetto di un push di una scheda sola diventava
+    «... and 2 more updates» invece di «[New] <titolo>».
+
 RIPIEGO SU GIT, E IL SUO RANGE
     Quando il payload non porta liste di file utilizzabili — su questo
     repository e' sempre stato cosi': `commits` arriva vuoto — le notizie si
@@ -562,23 +574,39 @@ def main() -> int:
         print("No newly added or modified files found in this push.")
         return 0
 
-    # Le notizie del push si fondono con quelle gia' pubblicate: la card in
-    # homepage e' un «ultime novita'» e vuole restare piena anche quando un
-    # push porta una scheda sola. Conseguenza da tenere presente: la
-    # newsletter spedisce l'elenco intero, quindi fino a MAX_NOTICES - 1 voci
-    # riportate dal giro precedente escono una seconda volta per email. Il
-    # range del push chiude il trascinamento dalla *storia*, non questo, che e'
-    # voluto e vive qui. Separare le due liste — una per la homepage, una per
-    # l'email — e' la decisione aperta.
+    # Due liste, due destinazioni diverse, scritte nello stesso file.
+    #
+    # `notices` e' la lista rotolante: le notizie di questo push fuse con
+    # quelle gia' pubblicate. La card in homepage e' un «ultime novita'» e
+    # deve restare piena anche quando un push porta una scheda sola.
+    #
+    # `latest_push` sono le sole notizie di questo push. Ci va la newsletter,
+    # perche' un'email deve annunciare quel che e' appena successo e non
+    # ripetere il giro precedente: con la sola lista fusa uscivano fino a
+    # MAX_NOTICES - 1 voci gia' spedite, e l'oggetto diventava
+    # «... and 2 more updates» per un push di una scheda sola.
+    #
+    # Stanno nello stesso JSON, e non in due file, perche' nascono dallo
+    # stesso input nello stesso run: separarli significherebbe due artefatti
+    # da tenere allineati, due controlli `git diff --quiet` nel workflow e la
+    # possibilita' che uno dei due commit riesca e l'altro no. La chiave e'
+    # nuova e affiancata, quindi la homepage continua a leggere `notices`
+    # senza sapere che l'altra esiste.
+    current = _dedupe_and_sort(new_entries)[:MAX_NOTICES]
     combined = _dedupe_and_sort(new_entries + previous_entries)
     output = {
         "updated_at": updated_at,
         "notices": combined[:MAX_NOTICES],
+        "latest_push": current,
     }
 
     NOTICES_PATH.parent.mkdir(parents=True, exist_ok=True)
     NOTICES_PATH.write_text(json.dumps(output, ensure_ascii=True, indent=2) + "\n", encoding="utf-8")
-    print(f"Updated {NOTICES_PATH.relative_to(REPO_ROOT)} with {len(output['notices'])} notice(s).")
+    print(
+        f"Updated {NOTICES_PATH.relative_to(REPO_ROOT)} with "
+        f"{len(output['notices'])} rolling notice(s), "
+        f"{len(output['latest_push'])} from this push."
+    )
     return 0
 
 
