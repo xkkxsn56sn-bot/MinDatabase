@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.6.1 | **Last Updated**: 13 September 2026
+**Version**: 4.7.0 | **Last Updated**: 16 September 2026
 
 ## Project Scope
 
@@ -242,9 +242,10 @@ oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
 solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
 puo' provocare un reinvio.
 
-`scripts/test_update_push_notices.py` fissa queste regole su sette casi presi
-dalla storia del repository. Si esegue senza dipendenze:
-`python3 scripts/test_update_push_notices.py`.
+`scripts/test_update_push_notices.py` fissa queste regole su dieci gruppi di
+casi presi dalla storia del repository — 41 asserzioni, comprese quelle sul
+range del ripiego e sulla firma dell'elenco intero. Si esegue senza
+dipendenze: `python3 scripts/test_update_push_notices.py`.
 
 #### Il tag di soppressione
 
@@ -334,7 +335,7 @@ In locale:
 
 npm install && npm test
 
-### Tre vincoli da ricordare
+### I vincoli da ricordare
 
 **I commit fatti con `GITHUB_TOKEN` non generano eventi.** È la protezione di
 GitHub contro i cicli infiniti. Conseguenza pratica: quando un workflow
@@ -351,10 +352,58 @@ parallelo si contendevano il ramo, e uno dei due falliva con
 `cannot lock ref 'refs/heads/main'`. Il gruppo `repo-writes` con
 `cancel-in-progress: false` li mette in fila.
 
-**Il payload dell'evento non elenca sempre i file modificati.** La chiave
-`modified` puo' mancare del tutto. `update_push_notices.py` ricade allora
-sulla storia git, e il checkout usa `fetch-depth: 30` perche' quel fallback
-abbia storia su cui lavorare.
+**Il payload dell'evento non elenca i file modificati, e il ripiego guarda il
+range del push.** Le chiavi `added`/`modified` possono mancare del tutto: su
+questo repository mancano sempre. Su 132 PushEvent osservati, `commits` e'
+arrivato vuoto 132 volte, e nei tredici push di contenuto non soppressi dal
+tag il ramo payload non ha mai prodotto una voce. Il ripiego su git non e'
+quindi un'emergenza rara: e' il percorso normale, e va letto come tale.
+
+Quel ripiego leggeva **gli ultimi trenta commit**, e cosi' rimetteva in lista
+schede gia' annunciate. Il 16 settembre 2026 il push della Fontana Maggiore —
+un commit solo — ripesco' il push di Pisa del 7 settembre, dieci commit piu'
+indietro: tre notizie invece di una, e un oggetto
+`... and 2 more updates` al posto di `[New] <titolo>`.
+
+Ora il ripiego guarda **i soli commit del push**, cioe' `before..after`
+dell'evento. I due campi sono di primo livello e non dipendono da `commits`:
+restano popolati esattamente nel caso in cui il ripiego serve — verificato su
+tutti e 132 gli eventi. Sullo stesso range, il push della Fontana produce una
+notizia sola.
+
+I casi limite scelgono tutti il verso conservativo, perche' una scheda non
+annunciata si rimedia con un push e un'email no:
+
+- `before` a zeri (primo push di un ramo): si annuncia il solo commit di punta;
+- `before` fuori dal checkout (push piu' lungo di `fetch-depth`): un solo
+  `git fetch --deepen=50`, e se ancora non basta si ripiega sul commit di punta;
+- fuori da Actions, dove evento non c'e': vale il solo `HEAD`, cioe' l'analogo
+  locale del push di un commit. Prima l'esecuzione locale leggeva trenta
+  commit e dava un elenco che non corrispondeva a nessun push reale.
+
+`fetch-depth: 30` resta, ma per una ragione diversa: non piu' «dare storia al
+fallback», bensi' garantire che `before` sia nel checkout.
+
+**La firma anti-reinvio guarda tutto l'elenco.** `send_newsletter_updates.py`
+confronta con l'invio precedente una firma costruita su path, `pushed_at` e
+`change_type` di **tutte** le notizie, nel loro ordine — non della sola testa.
+Titoli e URL ne restano fuori di proposito: l'oggetto dell'email si costruisce
+sui titoli, e legarli alla firma farebbe partire un reinvio a ogni ritocco di
+un titolo.
+
+La sfumatura: se la testa e' gia' stata notificata ma le compagne cambiano, la
+newsletter riparte. E' il verso giusto, e lo e' diventato di piu' da quando il
+ripiego e' limitato al range: una lista diversa non puo' piu' nascere dal
+trascinamento di storia vecchia, quindi se l'elenco cambia e' perche' il push
+ha toccato schede diverse.
+
+**Quel che resta, ed e' voluto:** `update_push_notices.py` fonde le notizie
+del push con quelle gia' pubblicate, perche' la card in homepage e' un
+«ultime novita'» e deve restare piena anche dopo un push di una scheda sola.
+La newsletter pero' spedisce l'elenco intero, quindi fino a `MAX_NOTICES - 1`
+voci del giro precedente escono una seconda volta per email. Il range chiude
+il trascinamento dalla storia, non questo. Separare le due liste — una per la
+homepage, una per l'email — e' la decisione ancora aperta.
 
 ### Il deploy
 

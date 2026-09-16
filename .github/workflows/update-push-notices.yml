@@ -26,9 +26,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
         with:
-          # Il payload dell'evento non popola sempre 'added'/'modified' nei
-          # commit; in quel caso lo script ricostruisce le notizie da git log,
-          # che ha bisogno di storia. Un solo commit (il default) non basta.
+          # Il payload dell'evento non popola 'added'/'modified' nei commit —
+          # su questo repository non l'ha mai fatto — e lo script ricostruisce
+          # allora le notizie da git log, sui soli commit del push
+          # (before..after). Serve percio' che `before` sia nel checkout: un
+          # solo commit, il default, non basta. Trenta coprono con margine i
+          # push di questo repository; se un push ne portasse di piu', lo
+          # script tenta un `git fetch --deepen` e, se ancora non basta,
+          # ripiega sul solo commit di punta invece di annunciare troppo.
           fetch-depth: 30
 
       - name: Set up Python

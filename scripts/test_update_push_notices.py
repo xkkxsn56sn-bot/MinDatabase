@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Batteria di test per update_push_notices.py.
 
-Sei casi, tutti presi dalla storia reale del repository. Non serve pytest:
+Dieci gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
 si esegue con `python3 scripts/test_update_push_notices.py` e stampa una riga
 per caso, uscendo con codice 1 al primo fallimento.
 
@@ -27,6 +27,23 @@ g. L'oggetto della newsletter si costruisce sulle notizie: una sola porta
    titolo ed etichetta, due o piu' portano la prima e il conteggio delle
    altre, e un titolo lungo viene troncato qui invece che dal client di
    posta. La firma anti-reinvio non lo guarda.
+i. Il ripiego su git guarda i commit del push — `before..after` dell'evento —
+   e non piu' gli ultimi trenta. Leggendo trenta commit, il push della Fontana
+   Maggiore del 16 settembre 2026 ripesco' quello di Pisa di dieci commit
+   prima: tre notizie invece di una, e una newsletter che riannunciava roba
+   gia' annunciata. I casi limite — ramo appena creato, `before` fuori dal
+   checkout, esecuzione locale senza evento — ripiegano sul solo commit di
+   punta, mai sulla storia intera.
+
+   NOTA DI CONTRATTO: `fallback_entries` non passa piu' un range, e i casi
+   storici da a a h restano validi perche' provano ordinamento e
+   classificazione, non la scelta dei commit. Il default senza range vale
+   «solo HEAD», che e' anche il contratto dell'esecuzione locale.
+
+j. La firma anti-reinvio e' funzione dell'elenco intero, nel suo ordine, e non
+   della sola testa: due errori simmetrici — testa nuova con compagne gia'
+   spedite, testa gia' vista con compagne nuove — si chiudono insieme.
+
 h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
    di radice, `Content/prompts/` — non produce notizia, e un push che tocca
    solo quelli non ne produce nessuna. Le schede di `Content/Saints/`, che il
@@ -93,25 +110,45 @@ def payload_entries(timestamp: str, added: list[str], modified: list[str], messa
     return entries
 
 
-def fallback_entries(timestamp: str, name_status: list[tuple[str, str]]) -> list[dict]:
-    """Esegue il ramo di fallback su un output di `git log` simulato.
+def _run_fallback(lines: list[str], before=None, after=None) -> tuple[list[dict], list[list[str]]]:
+    """Esegue il ripiego su un output di `git log` simulato, e ne cattura gli argv.
 
     Si sostituisce `subprocess.run` invece di riscrivere la storia del
     repository: cosi' il test esercita la funzione vera, comprese le regole
-    su file spariti e path non markdown.
+    su file spariti e path non markdown. Lo stub non solleva, quindi
+    `_rev_is_present` risponde di si' e il range viene usato cosi' com'e' —
+    che e' il caso da provare.
     """
-    lines = [f"__COMMIT__{timestamp}"] + [f"{status}\t{path}" for status, path in name_status]
     original = upn.subprocess.run
+    seen: list[list[str]] = []
 
-    def fake_run(*_args, **_kwargs):
+    def fake_run(args, *_a, **_kw):
+        seen.append(list(args))
         return SimpleNamespace(stdout="\n".join(lines), stderr="", returncode=0)
 
     upn.subprocess.run = fake_run
     try:
-        _, entries = upn._parse_git_history_fallback()
+        _, entries = upn._parse_git_history_fallback(before, after)
     finally:
         upn.subprocess.run = original
+    return entries, seen
+
+
+def fallback_entries(timestamp: str, name_status: list[tuple[str, str]]) -> list[dict]:
+    """Il ripiego su un singolo commit simulato.
+
+    Nessun range: fuori da Actions il contratto e' «il solo HEAD», e ai casi
+    storici qui sotto — che provano ordinamento e classificazione, non la
+    scelta dei commit — quel dettaglio non cambia nulla.
+    """
+    lines = [f"__COMMIT__{timestamp}"] + [f"{status}\t{path}" for status, path in name_status]
+    entries, _ = _run_fallback(lines)
     return entries
+
+
+def git_log_argv(seen: list[list[str]]) -> list[str]:
+    """Gli argomenti dell'unica invocazione di `git log` fra quelle catturate."""
+    return next(argv for argv in seen if argv[:2] == ["git", "log"])
 
 
 def titles(notices: list[dict]) -> list[str]:
@@ -451,6 +488,114 @@ check(
     }
     == {"Artists", "Churches", "Codices", "Papers", "Saints"},
     str({f: upn._section_from_path(f"Content/{f}/x.md") for f in ("Artists", "Churches", "Codex", "Papers", "Saints")}),
+)
+
+# --------------------------------------------------------------------------
+# i. il ripiego guarda i commit del push, non la storia recente
+# --------------------------------------------------------------------------
+# Il 16 settembre 2026 il push della Fontana Maggiore porto' un commit solo.
+# Il payload arrivo' senza liste di file — com'e' sempre successo su questo
+# repository — e il ripiego, leggendo trenta commit, ripesco' il push di Pisa
+# di dieci commit prima: tre notizie invece di una, e una newsletter che
+# annunciava di nuovo roba gia' annunciata. Il range chiude la falla.
+BEFORE = "b26206cf1111111111111111111111111111111a"
+AFTER = "c70cf56497490a2bbd08ec149b21295d0ffd9221"
+OLDER = "adf63351b8b13d428e1515701a0c3bf0e22599df"
+FONTANA = "Content/Papers/Fontana-Maggiore-Perugia.md"
+FONTANA_TS = "2026-09-16T09:34:41+02:00"
+
+one_commit, seen_one = _run_fallback(
+    [f"__COMMIT__{FONTANA_TS}", f"A\t{FONTANA}"], before=BEFORE, after=AFTER
+)
+check(
+    "i. payload vuoto + range di un commit -> una notizia sola (il caso Fontana)",
+    paths(upn._dedupe_and_sort(one_commit)) == [FONTANA],
+    str(paths(upn._dedupe_and_sort(one_commit))),
+)
+check(
+    "i. e il range finisce davvero negli argomenti di git log",
+    f"{BEFORE}..{AFTER}" in git_log_argv(seen_one),
+    str(git_log_argv(seen_one)),
+)
+check(
+    "i. niente piu' -n30: la storia recente non entra nel comando",
+    not any(a.startswith("-n3") for a in git_log_argv(seen_one)),
+    str(git_log_argv(seen_one)),
+)
+
+# Un range che copre due push ne riporta entrambi i commit, e nient'altro:
+# e' il range a decidere, non un conteggio fisso.
+two_pushes, seen_two = _run_fallback(
+    [
+        f"__COMMIT__{FONTANA_TS}",
+        f"A\t{FONTANA}",
+        f"__COMMIT__{PISA_TS}",
+        f"A\t{PISA}",
+        f"M\t{TRAINI}",
+    ],
+    before=OLDER,
+    after=AFTER,
+)
+check(
+    "i. range su due push -> i soli commit del range, in ordine di notizia",
+    paths(upn._dedupe_and_sort(two_pushes)) == [FONTANA, PISA, TRAINI],
+    str(paths(upn._dedupe_and_sort(two_pushes))),
+)
+check(
+    "i. anche qui il comando porta il range, non un limite di commit",
+    git_log_argv(seen_two)[-1] == f"{OLDER}..{AFTER}",
+    str(git_log_argv(seen_two)),
+)
+
+# I casi limite ripiegano sul solo commit di punta, mai sulla storia intera.
+check(
+    "i. ramo appena creato (before a zeri) -> solo il commit di punta",
+    upn._fallback_revisions("0" * 40, AFTER) == ["-n1", AFTER],
+    str(upn._fallback_revisions("0" * 40, AFTER)),
+)
+check(
+    "i. fuori da Actions (nessun evento, nessun before) -> solo HEAD",
+    upn._fallback_revisions(None, None) == ["-n1", "HEAD"],
+    str(upn._fallback_revisions(None, None)),
+)
+
+# before irraggiungibile anche dopo --deepen: si degrada, non si esplode.
+_orig_present = upn._rev_is_present
+upn._rev_is_present = lambda _rev: False
+try:
+    _orig_run = upn.subprocess.run
+    upn.subprocess.run = lambda *a, **k: SimpleNamespace(stdout="", stderr="", returncode=0)
+    try:
+        degraded = upn._fallback_revisions(OLDER, AFTER)
+    finally:
+        upn.subprocess.run = _orig_run
+finally:
+    upn._rev_is_present = _orig_present
+check(
+    "i. before fuori dal checkout anche dopo --deepen -> solo il commit di punta",
+    degraded == ["-n1", AFTER],
+    str(degraded),
+)
+
+# --------------------------------------------------------------------------
+# j. la firma anti-reinvio guarda tutta la lista, non la sola testa
+# --------------------------------------------------------------------------
+# Una firma sulla sola testa lascerebbe passare due errori simmetrici: una
+# testa nuova con compagne gia' spedite, e una testa gia' vista con compagne
+# nuove. La firma sull'elenco intero li chiude entrambi.
+head = notice("Fontana Maggiore", "created", FONTANA)
+companions_a = [head, notice("Pisa", "created", PISA)]
+companions_b = [head, notice("Francesco Traini", "modified", TRAINI)]
+check(
+    "j. stessa testa, compagne diverse -> firma diversa",
+    snu._signature_for_notices(companions_a) != snu._signature_for_notices(companions_b),
+    f"{snu._signature_for_notices(companions_a)!r}",
+)
+check(
+    "j. lista identica -> firma identica, e l'invio si salta",
+    snu._signature_for_notices(companions_a)
+    == snu._signature_for_notices([dict(n) for n in companions_a]),
+    f"{snu._signature_for_notices(companions_a)!r}",
 )
 
 print()

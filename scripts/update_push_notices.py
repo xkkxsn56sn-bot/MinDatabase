@@ -35,6 +35,24 @@ CHE COSA PRODUCE NOTIZIA
     cartella nuova sotto Content/ non produce notizie finche' non la si
     dichiara, il che e' il verso giusto in cui sbagliare.
 
+RIPIEGO SU GIT, E IL SUO RANGE
+    Quando il payload non porta liste di file utilizzabili — su questo
+    repository e' sempre stato cosi': `commits` arriva vuoto — le notizie si
+    ricostruiscono da `git log`. Il ripiego guarda **i soli commit del push**,
+    cioe' `before..after` presi dall'evento, non la storia recente.
+
+    Leggeva gli ultimi trenta commit, e cosi' rimetteva in lista schede gia'
+    annunciate: il push della Fontana Maggiore del 16 settembre 2026 ripesco'
+    quello di Pisa del 7 settembre, dieci commit piu' indietro, e la
+    newsletter usci' con tre notizie invece di una. Il range chiude la falla
+    alla fonte.
+
+    I casi limite scelgono tutti il verso conservativo — meglio una scheda non
+    annunciata, che si rimedia, di un'email in piu', che non si ritira:
+    `before` a zeri (ramo appena creato) e `before` fuori dal checkout anche
+    dopo un `--deepen` ripiegano sul solo commit di punta. Fuori da Actions,
+    dove evento non ce n'e', vale il solo HEAD.
+
 ORDINE DELLE NOTIZIE
     Le voci si ordinano per `pushed_at` decrescente, poi — a parita' di
     timestamp, che e' la norma quando un push tocca piu' schede — per tipo di
@@ -62,6 +80,13 @@ MAX_NOTICES = 3
 
 # Secondo livello di ordinamento: una scheda nuova conta piu' di una ritoccata.
 CHANGE_RANK = {"created": 0, "modified": 1}
+
+# `before` vale tutto zeri quando il push crea il ramo: non c'e' un commit
+# precedente da cui far partire il range.
+ZERO_SHA_RE = re.compile(r"^0{40}$")
+
+# Di quanto approfondire il checkout se `before` non e' nella storia scaricata.
+DEEPEN_STEP = 50
 
 # Le cartelle di Content/ che contengono schede, e il nome con cui la sezione
 # compare in homepage e in newsletter. Saints e' non indicizzata per scelta
@@ -169,8 +194,9 @@ def _skip_non_content(relative_path: str, section: str) -> bool:
     Le notizie annunciano schede. Un push che tocca il glossario, il README o
     il file delle istruzioni non ha nulla da annunciare, e senza questo filtro
     quei file entravano in homepage e in newsletter come se fossero contenuto.
-    Il ramo di fallback rilegge trenta commit, quindi lo stesso path puo'
-    ripresentarsi molte volte: si stampa una riga per path, non per incontro.
+    Il ramo di fallback puo' rileggere piu' commit dello stesso push, quindi
+    lo stesso path puo' ripresentarsi: si stampa una riga per path, non per
+    incontro.
     """
     if section != NON_CONTENT_SECTION:
         return False
@@ -264,15 +290,106 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
     return updated_at, entries
 
 
-def _parse_git_history_fallback(limit_commits: int = 30) -> tuple[str, list[dict]]:
-    """Build notices from recent git history when no webhook payload is available."""
+def _git(*args: str) -> subprocess.CompletedProcess:
+    return subprocess.run(
+        ["git", *args], cwd=REPO_ROOT, capture_output=True, text=True, check=True
+    )
+
+
+def _rev_is_present(rev: str) -> bool:
+    """Vero se `rev` e' un commit gia' presente nel checkout."""
+    try:
+        _git("cat-file", "-e", f"{rev}^{{commit}}")
+        return True
+    except (OSError, subprocess.CalledProcessError):
+        return False
+
+
+def _push_range() -> tuple[str | None, str | None]:
+    """`before` e `after` del push, letti dal payload dell'evento.
+
+    Sono campi di primo livello dell'evento `push` e non dipendono dall'elenco
+    `commits`: nei 132 PushEvent osservati su questo repository sono arrivati
+    popolati 132 volte su 132, mentre `commits` era vuoto in tutti e 132 —
+    cioe' proprio il caso in cui serve il ripiego. Il range e' quindi
+    disponibile esattamente quando serve.
+    """
+    if not (EVENT_PATH.exists() and EVENT_PATH.is_file()):
+        return None, None
+    try:
+        payload = json.loads(EVENT_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None, None
+    before = str(payload.get("before") or "").strip() or None
+    after = str(payload.get("after") or "").strip() or None
+    return before, after
+
+
+def _fallback_revisions(before: str | None, after: str | None) -> list[str]:
+    """Gli argomenti di revisione per `git log`, ricavati dal range del push.
+
+    Il ripiego deve raccontare *questo* push e nient'altro. Prima leggeva gli
+    ultimi trenta commit a prescindere, e con essi rientravano in lista schede
+    gia' annunciate: il push della Fontana Maggiore del 16 settembre 2026
+    riprese il push di Pisa del 7 settembre, dieci commit piu' indietro, e la
+    newsletter usci' con tre notizie invece di una.
+
+    Quattro casi, e tutti scelgono il verso conservativo: meglio annunciare
+    meno del dovuto, che si rimedia con un push, che spedire un'email di
+    troppo, che non si ritira.
+    """
+    tip = after if (after and not ZERO_SHA_RE.match(after)) else "HEAD"
+
+    # Fuori da Actions non c'e' evento. Vale il solo commit di HEAD, cioe'
+    # l'analogo locale del push di un commit: prima si leggevano trenta
+    # commit, e l'esecuzione locale produceva un elenco che non corrispondeva
+    # a nessun push reale — inutile come prova e fuorviante come diagnosi.
+    if not before:
+        return ["-n1", tip]
+
+    # Primo push di un ramo: non esiste un commit precedente. Si annuncia il
+    # solo commit di punta invece dell'intera storia che il ramo porta con se'.
+    if ZERO_SHA_RE.match(before):
+        print("Push range: ramo creato (before e' lo sha nullo). Uso il solo commit di punta.")
+        return ["-n1", tip]
+
+    # Checkout piu' corto del push: `fetch-depth` non basta a contenere
+    # `before`. Si approfondisce una volta sola e si ricontrolla.
+    if not _rev_is_present(before):
+        try:
+            _git("fetch", f"--deepen={DEEPEN_STEP}")
+        except (OSError, subprocess.CalledProcessError):
+            pass
+
+    if not _rev_is_present(before):
+        print(
+            f"Push range: {before[:8]} non e' nel checkout nemmeno dopo --deepen={DEEPEN_STEP}. "
+            "Uso il solo commit di punta."
+        )
+        return ["-n1", tip]
+
+    print(f"Push range: {before[:8]}..{tip[:8]}")
+    return [f"{before}..{tip}"]
+
+
+def _parse_git_history_fallback(
+    before: str | None = None, after: str | None = None
+) -> tuple[str, list[dict]]:
+    """Costruisce le notizie da git quando il payload non porta liste di file.
+
+    Non e' un ramo di emergenza. Nei run osservati su questo repository e'
+    l'unico che sia mai stato percorso — 13 push su 13, gli altri erano
+    soppressi dal tag — perche' il payload arriva con `commits` vuoto. Va
+    quindi trattato come il percorso normale, e deve guardare esattamente i
+    commit del push: quali siano lo decide `_fallback_revisions`.
+    """
     command = [
         "git",
         "log",
         "--date=iso-strict",
-        f"--pretty=format:__COMMIT__%cI",
+        "--pretty=format:__COMMIT__%cI",
         "--name-status",
-        f"-n{limit_commits}",
+        *_fallback_revisions(before, after),
     ]
 
     try:
@@ -430,18 +547,29 @@ def main() -> int:
     if EVENT_PATH.exists() and EVENT_PATH.is_file():
         updated_at, new_entries = _parse_event_payload(EVENT_PATH)
 
-    # Il payload di GitHub non popola sempre 'added'/'modified' nei commit
-    # (la chiave puo' mancare del tutto): in quel caso si ricostruisce dalla
-    # storia git, che e' comunque la fonte piu' affidabile.
+    # Il payload di GitHub non popola sempre 'added'/'modified' nei commit (la
+    # chiave puo' mancare del tutto, ed e' il caso di questo repository, dove
+    # il ramo qui sotto e' l'unico mai percorso): allora si ricostruisce da
+    # git, ma limitandosi ai commit del push. Il range arriva da `before` e
+    # `after` dell'evento, che restano popolati anche quando `commits` e'
+    # vuoto.
 
     if not new_entries:
         print("Payload without usable file lists. Falling back to git history.")
-        updated_at, new_entries = _parse_git_history_fallback()
+        updated_at, new_entries = _parse_git_history_fallback(*_push_range())
 
     if not new_entries:
         print("No newly added or modified files found in this push.")
         return 0
 
+    # Le notizie del push si fondono con quelle gia' pubblicate: la card in
+    # homepage e' un «ultime novita'» e vuole restare piena anche quando un
+    # push porta una scheda sola. Conseguenza da tenere presente: la
+    # newsletter spedisce l'elenco intero, quindi fino a MAX_NOTICES - 1 voci
+    # riportate dal giro precedente escono una seconda volta per email. Il
+    # range del push chiude il trascinamento dalla *storia*, non questo, che e'
+    # voluto e vive qui. Separare le due liste — una per la homepage, una per
+    # l'email — e' la decisione aperta.
     combined = _dedupe_and_sort(new_entries + previous_entries)
     output = {
         "updated_at": updated_at,

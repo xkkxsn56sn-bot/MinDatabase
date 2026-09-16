@@ -98,6 +98,39 @@ def _load_recipients(path: Path) -> list[str]:
 
 
 def _signature_for_notices(notices: Iterable[dict]) -> str:
+    """Firma anti-reinvio dell'elenco delle notizie, nel suo ordine.
+
+    Guarda TUTTE le voci, non la sola testa, e di ciascuna solo i tre campi
+    che dicono *che cosa e' successo a quale file*: path, `pushed_at`,
+    `change_type`. Titolo e URL restano fuori di proposito — l'oggetto
+    dell'email si costruisce sui titoli, e legarli alla firma farebbe partire
+    un reinvio a ogni ritocco di un titolo.
+
+    Perche' l'intera lista e non la testa. La newsletter spedisce l'elenco
+    intero, quindi e' l'elenco intero a definire l'email: una firma sulla sola
+    testa lascerebbe passare due errori simmetrici — una testa nuova con
+    compagne gia' spedite (email che ripete contenuto vecchio senza che nulla
+    lo segnali) e una testa gia' vista con compagne nuove (email soppressa
+    benche' porti roba mai spedita).
+
+    La sfumatura da accettare: se la testa e' gia' stata notificata ma le
+    compagne cambiano, la newsletter riparte. E' il verso giusto. Da quando il
+    ripiego su git e' limitato a `before..after` del push, una lista diversa
+    non puo' piu' nascere dal trascinamento di storia vecchia: se l'elenco
+    cambia e' perche' il push ha toccato schede diverse, cioe' perche' c'e'
+    contenuto genuinamente nuovo da annunciare.
+
+    I casi degeneri reggono:
+
+    - elenco identico, rigenerato da un re-run del workflow sullo stesso push:
+      `pushed_at` viene dal timestamp del commit, non dall'ora corrente,
+      quindi la firma coincide e non parte una seconda email;
+    - stesso insieme di voci in ordine diverso: la firma cambia, e deve, perche'
+      l'ordine decide quale notizia da' il titolo all'oggetto;
+    - una voce spinta fuori da MAX_NOTICES da una piu' recente: la firma
+      cambia, ma cambia perche' e' entrata una voce nuova, che va spedita;
+    - elenco vuoto: `main` esce prima di arrivare qui.
+    """
     parts: list[str] = []
     for notice in notices:
         parts.append(
