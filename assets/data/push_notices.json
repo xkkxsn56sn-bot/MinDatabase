@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-16T07:38:18+00:00",
+  "updated_at": "2026-09-18T16:11:59+00:00",
   "notices": [
+    {
+      "title": "Andrea di Bonaiuto (Andrea da Firenze)",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Andrea-di-Bonaiuto.md",
+      "page_url": "/Content/Artists/XIV-c/Andrea-di-Bonaiuto.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-18T18:09:05+02:00"
+    },
     {
       "title": "The Fontana Maggiore, Perugia",
       "section": "Papers",
@@ -16,14 +24,16 @@
       "page_url": "/Content/Papers/Battistero-San-Giovanni-Camposanto-Monumentale-Pisa.html",
       "change_type": "created",
       "pushed_at": "2026-09-07T16:57:32+02:00"
-    },
+    }
+  ],
+  "latest_push": [
     {
-      "title": "Francesco Traini",
+      "title": "Andrea di Bonaiuto (Andrea da Firenze)",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Francesco-Traini.md",
-      "page_url": "/Content/Artists/XIV-c/Francesco-Traini.html",
+      "path": "Content/Artists/XIV-c/Andrea-di-Bonaiuto.md",
+      "page_url": "/Content/Artists/XIV-c/Andrea-di-Bonaiuto.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-07T16:57:32+02:00"
+      "pushed_at": "2026-09-18T18:09:05+02:00"
     }
   ]
 }
