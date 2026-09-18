@@ -119,11 +119,11 @@ meta:
   - title: Related entries
     links:
       - title: Ugolino di Tedice
-        url: /Content/Artists/XIII-c/Ugolino di Tedice
+        url: "/Content/Artists/XIII-c/Ugolino-di-Tedice.html"
       - title: Ranieri di Ugolino
-        url: /Content/Artists/XIII-c/Ranieri di Ugolino
+        url: "/Content/Artists/XIII-c/Ranieri-di-Ugolino.html"
       - title: Giunta Pisano
-        url: /Content/Artists/XIII-c/Giunta Pisano
+        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
 
 scholars:
   - title: "Ascani, Valerio"

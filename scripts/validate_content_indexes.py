@@ -25,11 +25,20 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
    solo per link da altre schede, quindi una scheda non linkata da nessuno
    è di fatto irraggiungibile.
 
-7. Ogni link a /Content/...html scritto dentro un .md punta a una pagina
-   esistente. Il check 2 copre solo gli href degli indici JSON; questo copre
-   i link contestuali nelle schede — blocchi "related artists", rimandi in
-   prosa, campi url: nel frontmatter — che sono la maggioranza dei link del
-   sito.
+7. Ogni link che punta sotto /Content/ scritto dentro un .md risolve a una
+   scheda esistente, e nella forma che il sito serve davvero. Il check 2
+   copre solo gli href degli indici JSON; questo copre i link contestuali
+   nelle schede — blocchi "related entries", rimandi in prosa, campi url:
+   nel frontmatter — che sono la maggioranza dei link del sito.
+   L'estensione dev'essere .html: un link .md funziona su GitHub, che mostra
+   i sorgenti, e non sul sito, che pubblica pagine, quindi e' un errore anche
+   quando il file .md esiste; un link senza estensione non e' servito da
+   nessuna parte. Il confronto avviene dopo l'URL-decode (%20 -> spazio) e
+   con le maiuscole esatte, come nel check 9. L'ancora si scarta prima del
+   confronto: il bersaglio e' il file, e le ancore hanno il check 8.
+   Fino al 18 settembre 2026 il check guardava i soli link che finivano in
+   .html, e ogni altra forma gli passava accanto: si veda la batteria in
+   scripts/test_validate_content_indexes.py.
 8. Ogni rimando a un contenitore di ancore (endnotes.html, scholars.html)
     punta a un'ancora esistente nel file indicato, in forma canonica
     '/<file>.html'. I contenitori sono due, quindi un link puo' nominare un
@@ -101,10 +110,43 @@ SECTION_JSON = {
 # raggiungibile tramite almeno un link da un'altra scheda.
 NO_INDEX_DIRS = {"Saints"}
 
-# Riconosce riferimenti ad altre schede sotto Content/ sia nei link markdown
-# (es. "[testo](/Content/Saints/Saint-Ambrose.html)") sia nei campi
-# frontmatter tipo `url: "/Content/Saints/Saint-Cuthbert.html"`.
-LINK_RE = re.compile(r"/?Content/[^\s\"'()<>]+\.html")
+# --- Check 7: i link interni alle altre schede --------------------------
+# Per mesi questo check ha guardato i soli link che finivano in '.html': la
+# regex pretendeva l'estensione, e ogni altra forma gli passava accanto senza
+# lasciare traccia. Due rimandi della scheda di Andrea di Bonaiuto —
+# '/Content/Churches/Santa%20Maria%20Novella.md' e
+# '/Content/Churches/Camposanto%20Monumentale%20Pisa.md' — sono rimasti morti
+# e in produzione per tutta la vita della scheda: fuori dal filtro, quindi
+# invisibili. La scansione che ha esteso il check ne ha trovati altri sette
+# della stessa famiglia, su tre schede, nella vecchia forma con gli spazi e
+# senza estensione, residuo della rinomina da 'Nome Con Spazi' a
+# 'Nome-Con-Trattini'.
+#
+# Il contratto ora e' uno solo: qualunque link che punti sotto Content/ deve
+# risolvere a una scheda esistente, e deve farlo nella forma che il sito
+# serve davvero.
+#
+#   - L'estensione dev'essere '.html'. Un link '.md' funziona su GitHub, che
+#     mostra i sorgenti, e non sul sito, che pubblica pagine: e' un errore
+#     anche quando il .md esiste, perche' in quel caso il bersaglio giusto
+#     esiste per definizione con l'altra estensione. Un link senza estensione
+#     non e' servito da nessuna parte.
+#   - Il confronto avviene dopo l'URL-decode ('%20' -> spazio) e con le
+#     maiuscole esatte, con la stessa logica del check 9: exists() direbbe di
+#     si' su macOS a un nome che GitHub Pages non trova.
+#   - L'ancora si scarta prima del confronto. Il bersaglio del check e' il
+#     file; le ancore dei due contenitori hanno gia' il check 8.
+#
+# I link si leggono dalle tre sedi in cui il repository li scrive davvero — i
+# campi 'url:' del frontmatter, i link markdown e gli href inline — e non dal
+# testo grezzo. Due ragioni, entrambe emerse dalla scansione: i valori del
+# frontmatter possono contenere spazi, ed e' esattamente la forma dei sette
+# morti, che una regex delimitata dallo spazio troncherebbe a meta'; e la
+# prosa del repository nomina percorsi come `Content/**` o `Content/Saints/`
+# che non sono link e non vanno verificati.
+FM_URL_RE = re.compile(r"^\s*-?\s*url:\s*(.+?)\s*$", re.M)
+MD_LINK_TARGET_RE = re.compile(r"\]\(\s*([^)]+?)\s*\)")
+HREF_TARGET_RE = re.compile(r'href="([^"]+)"')
 
 CENTURY_FOLDER_RE = re.compile(r"^([IVXLCDM]+)-c$", re.IGNORECASE)
 
@@ -153,13 +195,115 @@ def path_key(p):
     return unicodedata.normalize("NFC", str(p))
 
 
+def iter_link_targets(text):
+    """I valori di link scritti in un .md, dalle tre sedi in cui compaiono.
+
+    Restituisce le stringhe cosi' come sono scritte, senza filtrarle: la
+    selezione di quelle che puntano sotto Content/ spetta al chiamante.
+    """
+    for m in FM_URL_RE.finditer(text):
+        value = m.group(1).strip()
+        # YAML: il valore puo' essere quotato, e le virgolette non fanno parte
+        # del path. Il frontmatter di questo repo usa entrambe le forme.
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
+            value = value[1:-1]
+        yield value
+    for m in MD_LINK_TARGET_RE.finditer(text):
+        yield m.group(1).strip()
+    for m in HREF_TARGET_RE.finditer(text):
+        yield m.group(1).strip()
+
+
+def content_link_target(raw):
+    """Il .md bersaglio di un link a Content/, se il link e' valido e canonico.
+
+    None per tutto il resto: un link rotto, o scritto in una forma che il sito
+    non serve, non rende raggiungibile nulla. Il check 6 costruisce il grafo
+    di raggiungibilita' su questa funzione, cosi' la sua nozione di «linkata»
+    coincide con quella del check 7 invece di divergerne in silenzio.
+    """
+    target = raw.split("#", 1)[0]
+    if not target:
+        return None
+    decoded = urllib.parse.unquote(target).lstrip("/")
+    if Path(decoded).suffix.lower() != ".html":
+        return None
+    md_equiv = decoded[:-5] + ".md"
+    if not resolve_case_sensitive(md_equiv):
+        return None
+    return REPO_ROOT / md_equiv
+
+
+def classify_content_link(raw):
+    """Classifica un link a Content/. None se e' in regola.
+
+    Ritorna (categoria, dettaglio) dove categoria e' la chiave sotto cui
+    l'anomalia viene raccolta.
+    """
+    # L'ancora non fa parte del bersaglio: la verifica il check 8.
+    target = raw.split("#", 1)[0]
+    if not target:
+        return None
+
+    decoded = urllib.parse.unquote(target).lstrip("/")
+    suffix = Path(decoded).suffix.lower()
+
+    if suffix == ".html":
+        md_equiv = decoded[:-5] + ".md"
+        if resolve_case_sensitive(md_equiv):
+            return None
+        # Se il file c'e' ma con altre maiuscole, il messaggio lo dice: e'
+        # l'errore che non si vede sul Mac e rompe in produzione.
+        parent = REPO_ROOT / Path(md_equiv).parent
+        name = Path(md_equiv).name
+        actual = None
+        if parent.is_dir():
+            for entry in os.listdir(parent):
+                if entry.lower() == name.lower():
+                    actual = entry
+                    break
+        if actual:
+            return (
+                "Link interno con maiuscole errate",
+                f"'{raw}' -> il file su disco e' '{actual}'",
+            )
+        return ("Link interno a pagina inesistente", f"'{raw}' -> {md_equiv} non trovato")
+
+    canonical = _canonical_html_for(decoded)
+    if suffix == ".md":
+        hint = f", atteso '{canonical}'" if canonical else ""
+        return (
+            "Link interno con estensione .md",
+            f"'{raw}': il sito serve .html, non .md{hint}",
+        )
+
+    hint = f", atteso '{canonical}'" if canonical else ""
+    return (
+        "Link interno senza estensione .html",
+        f"'{raw}': forma non servita dal sito{hint}",
+    )
+
+
+def _canonical_html_for(decoded):
+    """Il link .html corretto per un bersaglio scritto male, se deducibile.
+
+    Serve solo a rendere azionabile il messaggio d'errore: si prova il path
+    cosi' com'e' e la sua forma con i trattini al posto degli spazi, che e'
+    la rinomina da cui vengono i casi storici.
+    """
+    stem = decoded[:-3] if decoded.lower().endswith(".md") else decoded.rstrip("/")
+    for candidate in (stem, stem.replace(" ", "-")):
+        if resolve_case_sensitive(candidate + ".md"):
+            return "/" + candidate + ".html"
+    return None
+
+
 def check_md_outgoing_links(md_files, anomalies):
-    """Verifica che i link a /Content/...html dentro i .md abbiano un bersaglio reale.
+    """Verifica ogni link a Content/ scritto dentro i .md.
 
     Il check sugli href dei JSON copre gli indici; questo copre i link
-    contestuali scritti nelle schede (blocchi 'related artists', rimandi in
-    prosa, frontmatter). Sono la maggioranza dei link del sito e finora
-    nessuno li verificava.
+    contestuali scritti nelle schede (blocchi 'related entries', rimandi in
+    prosa, campi url: nel frontmatter). Sono la maggioranza dei link del sito.
     """
     for md_path in md_files:
         try:
@@ -170,16 +314,17 @@ def check_md_outgoing_links(md_files, anomalies):
         rel_src = md_path.relative_to(REPO_ROOT)
         seen = set()
 
-        for href in LINK_RE.findall(text):
-            if href in seen:
+        for raw in iter_link_targets(text):
+            if "Content/" not in raw:
                 continue
-            seen.add(href)
+            if raw in seen:
+                continue
+            seen.add(raw)
 
-            rel_target = href_to_rel_path(href)
-            if resolve_existing_path(rel_target) is None:
-                anomalies["Link interno a pagina inesistente"].append(
-                    f"{rel_src}: '{href}' -> {rel_target} non trovato"
-                )
+            verdict = classify_content_link(raw)
+            if verdict is not None:
+                category, detail = verdict
+                anomalies[category].append(f"{rel_src}: {detail}")
 
 
 def it_sort_key(s):
@@ -825,12 +970,13 @@ def main():
     for p in all_md:
         text = p.read_text(encoding="utf-8")
         source_key = path_key(p.resolve())
-        for match in LINK_RE.findall(text):
-            rel_path = href_to_rel_path(match)
-            target = resolve_existing_path(rel_path)
+        for raw in iter_link_targets(text):
+            if "Content/" not in raw:
+                continue
+            target = content_link_target(raw)
             if target is None:
                 continue
-            target_key = path_key(target)
+            target_key = path_key(target.resolve())
             if target_key == source_key:
                 continue
             linked_from[target_key].add(source_key)

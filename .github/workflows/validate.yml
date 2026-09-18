@@ -35,6 +35,15 @@ jobs:
       - name: Push-notices regression battery
         run: python3 scripts/test_update_push_notices.py
 
+      # Sorveglia il check 7, non il contenuto: fissa il contratto dei link
+      # interni sul caso che lo ha allargato — i due rimandi morti della
+      # scheda di Andrea di Bonaiuto, invisibili per mesi perche' non
+      # finivano in .html. Sta qui accanto all'altra batteria e per la stessa
+      # ragione: validate.yml e' l'unico workflow senza filtri di path, quindi
+      # vede ogni push che tocca validate_content_indexes.py.
+      - name: Check-7 regression battery
+        run: python3 scripts/test_validate_content_indexes.py
+
       # Il sesto passo non e' Python. Il sito ha JS non banale - la galleria
       # costruisce la griglia, filtra e apre il lightbox da sola - e un repo
       # conviene che testi nel linguaggio di cio' che testa: queste asserzioni

@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.8.0 | **Last Updated**: 16 September 2026
+**Version**: 4.9.0 | **Last Updated**: 18 September 2026
 
 ## Project Scope
 
@@ -314,7 +314,19 @@ suoi path, e non deve farlo: un push di sola toolchain non ha schede nel
 payload, farebbe scattare il ripiego su `git log` e riannuncerebbe contenuto
 gia' annunciato — con una seconda email agli iscritti.
 
-#### Il sesto passo non e' Python
+Accanto a quella, e per la stessa ragione, gira un sesto passo:
+**Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
+28 asserzioni in dieci gruppi che fissano il contratto dei link interni sul
+caso che lo ha allargato. I primi casi sono letteralmente i due rimandi morti
+di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
+rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
+che **esiste** rosso lo stesso. Gli altri gruppi coprono l'URL-decode, le
+maiuscole esatte, l'ancora scartata, le tre sedi da cui si leggono i link — il
+caso `- url:` in linea e' una regressione vera, `Maestro-di-Vico-lAbate.md`
+scrive cosi' — e il verso opposto, cioe' che la prosa che nomina `Content/**`
+non venga scambiata per un link.
+
+#### Il settimo passo non e' Python
 
 `validate.yml` chiude con **Gallery JS test battery**: 69 asserzioni che
 caricano `gallery.html` in un DOM vero con jsdom — 44 sul lightbox, 25
@@ -328,7 +340,7 @@ e' JavaScript. Sta in `validate.yml` per la stessa ragione della batteria
 sopra: e' l'unico workflow senza filtri di path, quindi il guardiano vede ogni
 push che tocca la galleria.
 
-Tre passi in coda ai cinque Python: `actions/setup-node@v4` con
+Tre passi in coda ai sei Python: `actions/setup-node@v4` con
 `node-version: '22'` e `cache: 'npm'`, poi `npm ci`, poi `npm test`. Nessun
 `continue-on-error`: un'asserzione rossa ferma il workflow come la ferma un
 validatore Python.
@@ -356,7 +368,8 @@ invece era vuota al primo giro (`npm cache is not found`) ed e' stata salvata
 in coda, percio' dal secondo push in poi l'install costa meno.
 
 **La convenzione zero-dipendenze resta vera dove e' nata.** Riguarda i
-validatori Python e `test_update_push_notices.py`, che si lanciano con
+validatori Python e le due batterie, `test_update_push_notices.py` e
+`test_validate_content_indexes.py`, che si lanciano con
 `python3 scripts/...` e nient'altro: vale ancora, e va mantenuta. La batteria
 JS e' l'eccezione motivata — un DOM vero non si simula a mano — ed e' l'unica
 cosa nel repo che abbia bisogno di `npm install`.
@@ -471,6 +484,37 @@ contenuto; il docstring in cima li elenca. Cinque meritano una nota:
   (`endnotes.html`, `scholars.html`), **9** le immagini, **10** l'ordine per
   slug dentro le sezioni-lettera di `endnotes.html`, **11** l'ordine dentro
   le sezioni di `scholars.html`.
+- Il check 7 copre **qualunque** link che punti sotto `Content/`, non i soli
+  `.html`. Per mesi guardava solo quelli: la regex pretendeva l'estensione, e
+  ogni altra forma gli passava accanto senza lasciare traccia. La scheda di
+  Andrea di Bonaiuto ha portato online due rimandi morti —
+  `/Content/Churches/Santa%20Maria%20Novella.md` e
+  `/Content/Churches/Camposanto%20Monumentale%20Pisa.md` — rimasti 404 per
+  tutta la vita della scheda senza che nulla li segnalasse; la scansione che
+  ha esteso il check ne ha trovati altri sette della stessa famiglia, su tre
+  schede, nella vecchia forma con gli spazi e senza estensione, residuo della
+  rinomina a trattini. Il contratto ora e' uno solo, e ha tre conseguenze
+  che conviene ricordare quando si scrive un rimando:
+  - l'estensione dev'essere `.html`, **anche quando il `.md` esiste**. Un
+    link `.md` funziona su GitHub, che mostra i sorgenti, e non sul sito, che
+    pubblica pagine; un link senza estensione non e' servito da nessuna
+    parte. Quando il bersaglio e' deducibile il messaggio d'errore lo
+    propone gia' scritto;
+  - il confronto avviene dopo l'URL-decode (`%20` torna uno spazio) e con le
+    maiuscole esatte, con la stessa logica del check 9 e per la stessa
+    ragione: GitHub Pages distingue le maiuscole, il Mac no;
+  - l'ancora si scarta prima del confronto, perche' il bersaglio del check e'
+    il file: delle ancore risponde gia' il check 8.
+
+  I link si leggono dalle tre sedi in cui il repository li scrive davvero —
+  i campi `url:` del frontmatter, i link markdown e gli `href` inline — e non
+  dal testo grezzo. Serve in entrambi i versi: un `url:` di frontmatter puo'
+  contenere spazi, ed e' esattamente la forma dei sette morti, che una regex
+  delimitata dallo spazio troncherebbe a meta'; e la prosa di questo file
+  nomina percorsi come `Content/**` che non sono link e non vanno verificati.
+  Il grafo di raggiungibilita' del check 6 si costruisce sugli stessi link
+  validi, cosi' la sua nozione di «linkata» non diverge in silenzio da
+  quella del 7.
 - Il 10 e l'11 sono gemelli con la chiave opposta, e la differenza e' voluta.
   Le note si ordinano per slug; gli studiosi per titolo visualizzato, perche'
   li' lo slug e' spesso una forma storica che non segue il titolo:
