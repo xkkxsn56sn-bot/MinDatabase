@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-18T16:11:59+00:00",
+  "updated_at": "2026-09-19T16:30:14+00:00",
   "notices": [
+    {
+      "title": "Giunta Pisano",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Giunta-Pisano.md",
+      "page_url": "/Content/Artists/XIII-c/Giunta-Pisano.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-19T18:29:41+02:00"
+    },
     {
       "title": "Andrea di Bonaiuto (Andrea da Firenze)",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Papers/Fontana-Maggiore-Perugia.html",
       "change_type": "created",
       "pushed_at": "2026-09-16T09:34:41+02:00"
-    },
-    {
-      "title": "The Baptistery of San Giovanni and the Camposanto Monumentale, Pisa",
-      "section": "Papers",
-      "path": "Content/Papers/Battistero-San-Giovanni-Camposanto-Monumentale-Pisa.md",
-      "page_url": "/Content/Papers/Battistero-San-Giovanni-Camposanto-Monumentale-Pisa.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-07T16:57:32+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Andrea di Bonaiuto (Andrea da Firenze)",
+      "title": "Giunta Pisano",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Andrea-di-Bonaiuto.md",
-      "page_url": "/Content/Artists/XIV-c/Andrea-di-Bonaiuto.html",
+      "path": "Content/Artists/XIII-c/Giunta-Pisano.md",
+      "page_url": "/Content/Artists/XIII-c/Giunta-Pisano.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-18T18:09:05+02:00"
+      "pushed_at": "2026-09-19T18:29:41+02:00"
     }
   ]
 }
