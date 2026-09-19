@@ -1953,18 +1953,9 @@
   "url": "/Content/Artists/XIII-c/Giuliano-da-Rimini.html"
  },
  {
-  "src": "/Images/Giunta-Pisano/giunta-pisano-01.jpg",
-  "alt": "Friar Elia on his knees with the Pisano Cross, formerly in the Church of Santa Maria della Concezione in Rome",
-  "caption": "Friar Elia on his knees with the Pisano Cross, formerly in the Church of Santa Maria della Concezione in Rome.",
-  "entry": "Giunta Pisano",
-  "section": "Artists",
-  "century": "XIII",
-  "url": "/Content/Artists/XIII-c/Giunta-Pisano.html"
- },
- {
   "src": "/Images/Giunta-Pisano/giunta-pisano-02.jpg",
-  "alt": "Crucifix of Santa Maria degli Angeli",
-  "caption": "Crucifix of Santa Maria degli Angeli, 1230s, tempera and gold on wood, 174 x 131 cm, Museum of the Basilica of Santa Maria degli Angeli, Assisi.",
+  "alt": "Painted crucifix by Giunta Pisano, 1230s, showing the dead Christ with closed eyes and gently curved body on a dark cross with gold borders; half-length mourning figures of the Virgin and Saint John in the lateral terminals, a red titulus panel above, and a blessing Christ in a roundel at the summit. Museo della Basilica di Santa Maria degli Angeli, Assisi.",
+  "caption": "Crucifix of Santa Maria degli Angeli, 1230s, tempera and gold on panel, 174 x 131 cm, Assisi, Museo della Basilica of Santa Maria degli Angeli.",
   "entry": "Giunta Pisano",
   "section": "Artists",
   "century": "XIII",
@@ -1972,8 +1963,8 @@
  },
  {
   "src": "/Images/Giunta-Pisano/giunta-pisano-03.jpg",
-  "alt": "Crucifix of San Ranierino",
-  "caption": "Crucifix of San Ranierino, 1240s, tempera and gold on panel, 185 x 135 cm, Museo Nazionale di San Matteo, Pisa.",
+  "alt": "Painted crucifix by Giunta Pisano, c. 1250-55, showing the dead Christ with closed eyes, his body arched to the left against a dark cross with gold borders; half-length mourning Virgin and Saint John in the lateral terminals, a red INRI tablet above, and a blessing Christ in a roundel at the summit. Museo Nazionale di San Matteo, Pisa.",
+  "caption": "Crucifix of San Ranierino, c. 1250-55, tempera and gold on panel, 185 x 135 cm, Pisa, Museo Nazionale di San Matteo.",
   "entry": "Giunta Pisano",
   "section": "Artists",
   "century": "XIII",
@@ -1981,8 +1972,8 @@
  },
  {
   "src": "/Images/Giunta-Pisano/giunta-pisano-04.jpg",
-  "alt": "Crucifix of San Domenico",
-  "caption": "Crucifix of San Domenico, 1250-55, tempera and gold on panel, 336 x 285 cm, Basilica di San Domenico, Bologna.",
+  "alt": "Monumental painted crucifix by Giunta Pisano, mid-thirteenth century, showing the dead Christ with closed eyes, his body dramatically arched to the left against a dark cross with red and gold patterned borders; a richly ornamented loincloth at his hips, framed half-length figures of the mourning Virgin and Saint John in the lateral terminals. Basilica di San Domenico, Bologna.",
+  "caption": "Crucifix of San Domenico, 1250-55, tempera and gold on panel, 336 x 285 cm, Bologna, Basilica di San Domenico.",
   "entry": "Giunta Pisano",
   "section": "Artists",
   "century": "XIII",
@@ -1990,8 +1981,17 @@
  },
  {
   "src": "/Images/Giunta-Pisano/giunta-pisano-05.jpg",
-  "alt": "St. Francis and the Four Post-Mortem Miracles",
-  "caption": "St. Francis and the Four Post-Mortem Miracles, c. 1260, tempera and gold on poplar panel, 67 x 86,5 cm, Musei Vaticani, Città del Vaticano.",
+  "alt": "Rectangular gold-ground dossal, mid-thirteenth century, attributed to the Master of the Treasury of Saint Francis or to Giunta Pisano, showing Saint Francis standing frontally at the centre in a dark habit, holding a red cross and an open book, flanked by four scenes of his posthumous miracles at his tomb and altar. Museo del Tesoro della Basilica di San Francesco, Assisi.",
+  "caption": "Master of the Treasury of Saint Francis (a close follower of Giunta Pisano), Saint Francis and Four Posthumous Miracles, 1250-60, tempera and gold on panel, 111.5 × 154.5 cm, Assisi, Museo del Tesoro.",
+  "entry": "Giunta Pisano",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Giunta-Pisano.html"
+ },
+ {
+  "src": "/Images/Giunta-Pisano/giunta-pisano-01.jpg",
+  "alt": "Rectangular gold-ground dossal, thirteenth century, by a follower of Giunta Pisano, showing Saint Francis standing frontally in a dark habit with a red cross and an open book, flanked by four scenes of his posthumous miracles set at his tomb and altar, framed by dark ornamental bands with red lozenges. Pinacoteca Vaticana, Vatican Museums.",
+  "caption": "Saint Francis of Assisi and four post-mortem miracles. On the left: Healing of the child with the twisted neck; Healing of the cripple Bartolomeo di Narni; on the right: Liberation of the demon; Healing of the crippled Niccolò da Foligno, 1260-70, tempera and gold on poplar panel, 67 x 86,5 cm, Città del Vaticano, Musei Vaticani, inv. MV.40023.0.0.",
   "entry": "Giunta Pisano",
   "section": "Artists",
   "century": "XIII",
@@ -1999,8 +1999,8 @@
  },
  {
   "src": "/Images/Giunta-Pisano/giunta-pisano-06.jpg",
-  "alt": "St. Francis and Six Stories from his Life",
-  "caption": "St. Francis and Six Stories from his Life, c. 1250-60, tempera and gold on panel, 155 x 132,5 cm, Museo Nazionale di San Matteo, Pisa.",
+  "alt": "Gabled (cuspidate) gold-ground dossal, mid-thirteenth century, attributed to Giunta Pisano, showing Saint Francis standing frontally in a dark habit with a white knotted cord, raising his right hand to display the stigma and holding a red-bound book, two angels beside his head in the gable, flanked by six scenes of miracles at his tomb and altar. Museo Nazionale di San Matteo, Pisa.",
+  "caption": "St. Francis and Six Stories from his Life, 1250-60, tempera and gold on panel, 155 x 132,5 cm, Pisa, Museo Nazionale di San Matteo.",
   "entry": "Giunta Pisano",
   "section": "Artists",
   "century": "XIII",
