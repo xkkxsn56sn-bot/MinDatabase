@@ -74,7 +74,7 @@ meta:
   - title: "COLLABORATORS"
     pairs:
       - label: "Vertighe Dossal"
-        value: "Restoro d'Arezzo (ca. 1269–83)"
+        value: "Restoro d'Arezzo (named in the Vertighe inscription; identification with the author of the Composizione del mondo unconfirmed)"
 
   - title: "RELATED ENTRIES"
     links:
@@ -96,6 +96,8 @@ meta:
         url: "/Content/Artists/XIII-c/Maestro-del-Bigallo.html"
       - title: "Maestro di Tressa"
         url: "/Content/Artists/XIII-c/Maestro-di-Tressa.html"
+      - title: "Restoro d'Arezzo"
+        url: "/Content/Artists/XIII-c/Restoro-di-Arezzo.html"
       - title: "Spinello Aretino"
         url: "/Content/Artists/XIV-c/Spinello-Aretino.html"
 
@@ -132,7 +134,7 @@ This essay attempts to hold those poles in balance. It moves from the historical
 
 ## Arezzo in the Thirteenth Century: Commune, Bishopric, and the Franciscan Ascendancy
 
-Margarito's Arezzo was not the provincial backwater that later Florentine historiography, Vasari included, was inclined to imagine. In the thirteenth century the city was a lively centre of learning and of political ambition, home to a *Studium* whose statutes of 1255 make it one of the oldest universities of medieval Italy, and to a vigorous vernacular culture that produced the poet Guittone d'Arezzo (c. 1235–1294) and the scientific writer Restoro d'Arezzo, author of the encyclopaedic *La composizione del mondo colle sue cascioni*, composed in Aretine vernacular around 1282. It was, in short, a place where the conditions existed for an ambitious painter to build a career and to advertise his authorship.
+Margarito's Arezzo was not the provincial backwater that later Florentine historiography, Vasari included, was inclined to imagine. In the thirteenth century the city was a lively centre of learning and of political ambition, home to a *Studium* whose statutes of 1255 make it one of the oldest universities of medieval Italy, and to a vigorous vernacular culture that produced the poet Guittone d'Arezzo (c. 1235–1294) and the scientific writer [Restoro d'Arezzo](/Content/Artists/XIII-c/Restoro-di-Arezzo.html), author of the encyclopaedic *La composizione del mondo colle sue cascioni*, composed in Aretine vernacular around 1282. It was, in short, a place where the conditions existed for an ambitious painter to build a career and to advertise his authorship.
 
 Politically the city was Ghibelline<a href="/endnotes.html#fn-ghibellines" class="footnote"><sup>3</sup></a>, and its ecclesiastical and civic life was dominated for four decades by one towering and contradictory figure, Guglielmo—more familiarly Guglielmino—degli Ubertini, bishop of Arezzo from 1248 until his death in 1289. Born to a noble Ghibelline family with strongholds in the Casentino and the Valdarno, Guglielmino combined the spiritual authority of a bishop with the temporal power of a feudal lord: he was master of numerous castles, a *princeps imperii* by a diploma of Rudolf of Habsburg in 1282, and a persistent adversary of the commune that contested his primacy within the city walls. His episcopate was punctuated by war, and it ended in war: on 11 June 1289, at the Battle of Campaldino, the bishop himself fell at the head of an Aretine Ghibelline army routed by the Guelph<a href="/endnotes.html#fn-guelphs" class="footnote"><sup>4</sup></a> forces of Florence and its allies—a battle in whose victorious ranks Dante Alighieri is traditionally said to have served.
 
