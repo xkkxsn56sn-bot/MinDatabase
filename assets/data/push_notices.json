@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T11:13:32+00:00",
+  "updated_at": "2026-09-20T11:18:22+00:00",
   "notices": [
+    {
+      "title": "Coppo di Marcovaldo",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Coppo-di-Marcovaldo.md",
+      "page_url": "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-20T13:17:54+02:00"
+    },
+    {
+      "title": "Simeone e Machilone",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Simeone-and-Machilone.md",
+      "page_url": "/Content/Artists/XIII-c/Simeone-and-Machilone.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-20T13:17:54+02:00"
+    },
     {
       "title": "Margarito d'Arezzo",
       "section": "Artists",
@@ -8,32 +24,24 @@
       "page_url": "/Content/Artists/XIII-c/Margarito.html",
       "change_type": "modified",
       "pushed_at": "2026-09-20T12:34:12+02:00"
-    },
-    {
-      "title": "Giunta Pisano",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Giunta-Pisano.md",
-      "page_url": "/Content/Artists/XIII-c/Giunta-Pisano.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-19T18:29:41+02:00"
-    },
-    {
-      "title": "Andrea di Bonaiuto (Andrea da Firenze)",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Andrea-di-Bonaiuto.md",
-      "page_url": "/Content/Artists/XIV-c/Andrea-di-Bonaiuto.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-18T18:09:05+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Margarito d'Arezzo",
+      "title": "Coppo di Marcovaldo",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Margarito.md",
-      "page_url": "/Content/Artists/XIII-c/Margarito.html",
+      "path": "Content/Artists/XIII-c/Coppo-di-Marcovaldo.md",
+      "page_url": "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-20T12:34:12+02:00"
+      "pushed_at": "2026-09-20T13:17:54+02:00"
+    },
+    {
+      "title": "Simeone e Machilone",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Simeone-and-Machilone.md",
+      "page_url": "/Content/Artists/XIII-c/Simeone-and-Machilone.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-20T13:17:54+02:00"
     }
   ]
 }
