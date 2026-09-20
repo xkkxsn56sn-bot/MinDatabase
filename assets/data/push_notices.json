@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-09-20T15:59:47+00:00",
+  "updated_at": "2026-09-20T16:04:17+00:00",
   "notices": [
     {
-      "title": "Restoro d'Arezzo",
+      "title": "Margarito d'Arezzo",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Restoro-di-Arezzo.md",
-      "page_url": "/Content/Artists/XIII-c/Restoro-di-Arezzo.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-20T17:56:45+02:00"
-    },
-    {
-      "title": "Coppo di Marcovaldo",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Coppo-di-Marcovaldo.md",
-      "page_url": "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html",
+      "path": "Content/Artists/XIII-c/Margarito.md",
+      "page_url": "/Content/Artists/XIII-c/Margarito.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-20T13:17:54+02:00"
+      "pushed_at": "2026-09-20T18:03:22+02:00"
     },
     {
       "title": "Simeone e Machilone",
@@ -23,10 +15,8 @@
       "path": "Content/Artists/XIII-c/Simeone-and-Machilone.md",
       "page_url": "/Content/Artists/XIII-c/Simeone-and-Machilone.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-20T13:17:54+02:00"
-    }
-  ],
-  "latest_push": [
+      "pushed_at": "2026-09-20T18:03:22+02:00"
+    },
     {
       "title": "Restoro d'Arezzo",
       "section": "Artists",
@@ -34,6 +24,24 @@
       "page_url": "/Content/Artists/XIII-c/Restoro-di-Arezzo.html",
       "change_type": "created",
       "pushed_at": "2026-09-20T17:56:45+02:00"
+    }
+  ],
+  "latest_push": [
+    {
+      "title": "Margarito d'Arezzo",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Margarito.md",
+      "page_url": "/Content/Artists/XIII-c/Margarito.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-20T18:03:22+02:00"
+    },
+    {
+      "title": "Simeone e Machilone",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Simeone-and-Machilone.md",
+      "page_url": "/Content/Artists/XIII-c/Simeone-and-Machilone.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-20T18:03:22+02:00"
     }
   ]
 }
