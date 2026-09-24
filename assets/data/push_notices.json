@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-21T15:00:30+00:00",
+  "updated_at": "2026-09-24T16:13:29+00:00",
   "notices": [
+    {
+      "title": "Allegretto Nuzi",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Allegretto-Nuzi.md",
+      "page_url": "/Content/Artists/XIV-c/Allegretto-Nuzi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-24T18:12:31+02:00"
+    },
     {
       "title": "Simeone e Machilone",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIII-c/Margarito.html",
       "change_type": "modified",
       "pushed_at": "2026-09-20T18:12:56+02:00"
-    },
-    {
-      "title": "Restoro d'Arezzo",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Restoro-di-Arezzo.md",
-      "page_url": "/Content/Artists/XIII-c/Restoro-di-Arezzo.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-20T17:56:45+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Simeone e Machilone",
+      "title": "Allegretto Nuzi",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Simeone-and-Machilone.md",
-      "page_url": "/Content/Artists/XIII-c/Simeone-and-Machilone.html",
+      "path": "Content/Artists/XIV-c/Allegretto-Nuzi.md",
+      "page_url": "/Content/Artists/XIV-c/Allegretto-Nuzi.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-21T16:59:09+02:00"
+      "pushed_at": "2026-09-24T18:12:31+02:00"
     }
   ]
 }
