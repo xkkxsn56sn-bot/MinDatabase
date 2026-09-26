@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-25T16:39:22+00:00",
+  "updated_at": "2026-09-26T09:40:22+00:00",
   "notices": [
+    {
+      "title": "Maestro di Sant'Emiliano",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-26T11:31:18+02:00"
+    },
     {
       "title": "Allegretto Nuzi",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
       "change_type": "created",
       "pushed_at": "2026-09-25T18:34:17+02:00"
-    },
-    {
-      "title": "Francescuccio Ghissi",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Francescuccio-Ghissi.md",
-      "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-24T18:17:27+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Allegretto Nuzi",
+      "title": "Maestro di Sant'Emiliano",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Allegretto-Nuzi.md",
-      "page_url": "/Content/Artists/XIV-c/Allegretto-Nuzi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-25T18:38:53+02:00"
+      "path": "Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-26T11:31:18+02:00"
     }
   ]
 }
