@@ -1,55 +1,47 @@
 {
-  "updated_at": "2026-09-27T15:42:36+00:00",
+  "updated_at": "2026-09-27T15:52:18+00:00",
   "notices": [
+    {
+      "title": "Giovanni da Rimini",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Giovanni-da-Rimini.md",
+      "page_url": "/Content/Artists/XIV-c/Giovanni-da-Rimini.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-27T17:51:56+02:00"
+    },
     {
       "title": "Giuliano da Rimini",
       "section": "Artists",
       "path": "Content/Artists/XIV-c/Giuliano-da-Rimini.md",
       "page_url": "/Content/Artists/XIV-c/Giuliano-da-Rimini.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-27T17:41:48+02:00"
+      "pushed_at": "2026-09-27T17:51:56+02:00"
     },
     {
       "title": "Maestro della Madonna di Perugia",
       "section": "Artists",
       "path": "Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.md",
       "page_url": "/Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-27T17:41:48+02:00"
-    },
-    {
-      "title": "Maestro di Sant'Emiliano",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.html",
       "change_type": "modified",
       "pushed_at": "2026-09-27T17:41:48+02:00"
     }
   ],
   "latest_push": [
     {
+      "title": "Giovanni da Rimini",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Giovanni-da-Rimini.md",
+      "page_url": "/Content/Artists/XIV-c/Giovanni-da-Rimini.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-27T17:51:56+02:00"
+    },
+    {
       "title": "Giuliano da Rimini",
       "section": "Artists",
       "path": "Content/Artists/XIV-c/Giuliano-da-Rimini.md",
       "page_url": "/Content/Artists/XIV-c/Giuliano-da-Rimini.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-27T17:41:48+02:00"
-    },
-    {
-      "title": "Maestro della Madonna di Perugia",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-27T17:41:48+02:00"
-    },
-    {
-      "title": "Maestro di Sant'Emiliano",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-27T17:41:48+02:00"
+      "pushed_at": "2026-09-27T17:51:56+02:00"
     }
   ]
 }
