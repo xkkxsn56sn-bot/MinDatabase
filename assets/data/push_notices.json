@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-26T09:47:00+00:00",
+  "updated_at": "2026-09-27T07:10:18+00:00",
   "notices": [
+    {
+      "title": "Giuliano da Rimini",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Giuliano-da-Rimini.md",
+      "page_url": "/Content/Artists/XIII-c/Giuliano-da-Rimini.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-27T09:09:40+02:00"
+    },
     {
       "title": "Allegretto Nuzi",
       "section": "Artists",
@@ -16,32 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
       "change_type": "modified",
       "pushed_at": "2026-09-26T11:45:03+02:00"
-    },
-    {
-      "title": "Maestro di Sant'Emiliano",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Sant-Emiliano.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-26T11:31:18+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Allegretto Nuzi",
+      "title": "Giuliano da Rimini",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Allegretto-Nuzi.md",
-      "page_url": "/Content/Artists/XIV-c/Allegretto-Nuzi.html",
+      "path": "Content/Artists/XIII-c/Giuliano-da-Rimini.md",
+      "page_url": "/Content/Artists/XIII-c/Giuliano-da-Rimini.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-26T11:45:03+02:00"
-    },
-    {
-      "title": "Maestro di Campodonico",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Campodonico.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-26T11:45:03+02:00"
+      "pushed_at": "2026-09-27T09:09:40+02:00"
     }
   ]
 }
