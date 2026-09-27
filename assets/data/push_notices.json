@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-27T07:10:18+00:00",
+  "updated_at": "2026-09-27T07:13:43+00:00",
   "notices": [
+    {
+      "title": "Guariento di Arpo",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/GuarientodiArpo.md",
+      "page_url": "/Content/Artists/XIV-c/GuarientodiArpo.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-27T09:12:57+02:00"
+    },
     {
       "title": "Giuliano da Rimini",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Allegretto-Nuzi.html",
       "change_type": "modified",
       "pushed_at": "2026-09-26T11:45:03+02:00"
-    },
-    {
-      "title": "Maestro di Campodonico",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Campodonico.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-26T11:45:03+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Giuliano da Rimini",
+      "title": "Guariento di Arpo",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Giuliano-da-Rimini.md",
-      "page_url": "/Content/Artists/XIII-c/Giuliano-da-Rimini.html",
+      "path": "Content/Artists/XIV-c/GuarientodiArpo.md",
+      "page_url": "/Content/Artists/XIV-c/GuarientodiArpo.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-27T09:09:40+02:00"
+      "pushed_at": "2026-09-27T09:12:57+02:00"
     }
   ]
 }
