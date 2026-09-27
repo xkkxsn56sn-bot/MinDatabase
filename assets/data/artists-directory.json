@@ -197,10 +197,6 @@
       "href": "Content/Artists/XIII-c/Giovanni-Pisano.html"
     },
     {
-      "name": "Giuliano da Rimini",
-      "href": "Content/Artists/XIII-c/Giuliano-da-Rimini.html"
-    },
-    {
       "name": "Giunta Pisano",
       "href": "Content/Artists/XIII-c/Giunta-Pisano.html"
     },
@@ -501,6 +497,10 @@
     {
       "name": "Giovanni di Ugo da Campione",
       "href": "Content/Artists/XIV-c/Giovanni-di-Ugo-da-Campione.html"
+    },
+    {
+      "name": "Giuliano da Rimini",
+      "href": "Content/Artists/XIV-c/Giuliano-da-Rimini.html"
     },
     {
       "name": "Guariento di Arpo",

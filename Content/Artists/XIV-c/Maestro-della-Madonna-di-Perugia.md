@@ -87,7 +87,7 @@ meta:
       - title: "Duccio di Buoninsegna"
         url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
       - title: "Giuliano da Rimini"
-        url: "/Content/Artists/XIII-c/Giuliano-da-Rimini.html"
+        url: "/Content/Artists/XIV-c/Giuliano-da-Rimini.html"
 ---
 
 ## Introduction
