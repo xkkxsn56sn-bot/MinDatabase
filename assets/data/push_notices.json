@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-28T11:35:22+00:00",
+  "updated_at": "2026-09-28T11:50:49+00:00",
   "notices": [
+    {
+      "title": "Maestro della Madonna di Perugia",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.html",
+      "change_type": "modified",
+      "pushed_at": "2026-09-28T13:48:11+02:00"
+    },
     {
       "title": "Maestro dei Beati Becchetti",
       "section": "Artists",
@@ -16,40 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
       "change_type": "modified",
       "pushed_at": "2026-09-28T13:31:33+02:00"
-    },
-    {
-      "title": "Giovanni da Rimini",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Giovanni-da-Rimini.md",
-      "page_url": "/Content/Artists/XIV-c/Giovanni-da-Rimini.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-27T17:55:19+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro dei Beati Becchetti",
+      "title": "Maestro della Madonna di Perugia",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-dei-Beati-Becchetti.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-dei-Beati-Becchetti.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-28T13:31:33+02:00"
-    },
-    {
-      "title": "Maestro di Campodonico",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Campodonico.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Campodonico.html",
+      "path": "Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-della-Madonna-di-Perugia.html",
       "change_type": "modified",
-      "pushed_at": "2026-09-28T13:31:33+02:00"
-    },
-    {
-      "title": "Giovanni da Rimini",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Giovanni-da-Rimini.md",
-      "page_url": "/Content/Artists/XIV-c/Giovanni-da-Rimini.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-27T17:55:19+02:00"
+      "pushed_at": "2026-09-28T13:48:11+02:00"
     }
   ]
 }
