@@ -27,6 +27,7 @@ meta:
       - "The identification with Bartoluccio da Fabriano, proposed by Fabio Marcelli in 1996, is a reasoned hypothesis and not an established fact"
       - "No published document connects a named individual with any of the attributed works"
       - "Not to be confused with the Maestro di Sant'Emiliano, the other anonymous Fabrianese master of the same phase"
+      - "Not to be confused with the Maestro della Madonna di Campodonico, an anonymous carver of the Fabrianese Trecento treated in the exhibition I legni devoti of 1993-94: the same place-name, a different artist and a different medium"
       - "Berenson assigned the Campodonico frescoes in 1932 to the fifteenth-century Abruzzese painter Andrea Delitio, an attribution long abandoned"
 
   - title: "CHRONOLOGY"
