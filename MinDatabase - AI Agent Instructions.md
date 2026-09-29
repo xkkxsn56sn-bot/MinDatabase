@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.9.0 | **Last Updated**: 18 September 2026
+**Version**: 4.10.0 | **Last Updated**: 29 September 2026
 
 ## Project Scope
 
@@ -104,6 +104,12 @@ Inline note<a id="fnref:1" href="#fn:1" class="footnote"><sup>1</sup></a>
 </ol>
 ```
 
+### References to `endnotes.html`
+
+- References to shared entries in `endnotes.html` use the numeric form `Name<a href="/endnotes.html#fn-slug" class="footnote"><sup>N</sup></a>`, numbered progressively in document order (1, 2, 3…), with the name left as plain text before the anchor; the named form `[Name](/endnotes.html#fn-slug)` is not used. Scholar links (`/scholars.html#slug`) stay named.
+- `python3 scripts/endnote_forms.py` lists, read-only, the schede that still carry named references (pure and mixed, with counts); it writes nothing and is not a validator.
+- Strategy: a scheda is converted the first time it is touched for other reasons, in the same commit; the residual tail is closed with one dedicated round when it is small.
+
 ## Endnote Conventions (Page-End Notes)
 
 Use endnotes for supplemental notes that should appear after the main text and after any footnotes, but remain visually distinct from the footnote list.
@@ -172,6 +178,7 @@ This repository already contains embedded images in content files.
 4. Footnotes use the required `<ol class="footnotes">` format.
 5. Images/figures (if present) are formatted consistently and captioned clearly.
 6. Related entries affected by major factual edits are updated or reviewed.
+7. References to `endnotes.html` use the numeric form, numbered in document order; if the scheda is listed by `scripts/endnote_forms.py`, convert it in the same commit.
 
 ## Automazioni
 
