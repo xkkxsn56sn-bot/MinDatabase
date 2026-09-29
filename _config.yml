@@ -10,6 +10,9 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 
+# Parole al minuto per la stima di lettura (_includes/reading-stat.html)
+reading_wpm: 250
+
 # Include all markdown files from Content directory
 include:
   - Content

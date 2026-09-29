@@ -25,14 +25,7 @@
         <p class="entry__meta-line">
           <span class="entry__dates">{{ page.dates }}</span>
         </p>
-        {% endif %} {%- assign words = content | strip_html | number_of_words
-        -%} {%- assign minutes = words | divided_by: 200 -%} {%- if minutes < 1
-        -%}{%- assign minutes = 1 -%}{%- endif -%}
-        <p class="entry__meta-line">
-          <span class="entry__reading"
-            >{{ words }} words · about {{ minutes }} min</span
-          >
-        </p>
+        {% endif %} {% include reading-stat.html %}
 
         <p class="entry__audio-toggle-wrap">
           (

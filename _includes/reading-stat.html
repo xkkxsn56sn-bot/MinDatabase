@@ -1,0 +1,38 @@
+{%- comment -%}
+  Stima di lettura di una scheda. Una sola definizione, usata da entry.html e
+  papers-entry.html.
+
+  Costante: site.reading_wpm (parole al minuto) in _config.yml.
+  Arrotondamento al valore piu' vicino (mezzo minuto in piu' prima di
+  dividere), minimo 1 minuto.
+  Forma per fascia:
+    sotto i 60 minuti     "N words · about N min"
+    da 60 a 120 minuti     "N words · about H h M min" (M omesso se zero)
+    oltre 120 minuti      nessuna stima: "N words · N figures", perche' di un
+                          catalogo interessa l'ampiezza e non il tempo di lettura
+  Le figure sono i blocchi <figure> del corpo.
+{%- endcomment -%}
+{%- assign words = content | strip_html | number_of_words -%}
+{%- assign wpm = site.reading_wpm | default: 250 -%}
+{%- assign half = wpm | divided_by: 2 -%}
+{%- assign minutes = words | plus: half | divided_by: wpm -%}
+{%- if minutes < 1 -%}{%- assign minutes = 1 -%}{%- endif -%}
+{%- if minutes > 120 -%}
+  {%- assign figures = content | split: "<figure" | size | minus: 1 -%}
+  {%- capture reading_text -%}
+    {{ words }} words{% if figures > 0 %} · {{ figures }} {% if figures == 1 %}figure{% else %}figures{% endif %}{% endif %}
+  {%- endcapture -%}
+{%- elsif minutes >= 60 -%}
+  {%- assign hours = minutes | divided_by: 60 -%}
+  {%- assign rest = minutes | modulo: 60 -%}
+  {%- capture reading_text -%}
+    {{ words }} words · about {{ hours }} h{% if rest > 0 %} {{ rest }} min{% endif %}
+  {%- endcapture -%}
+{%- else -%}
+  {%- capture reading_text -%}
+    {{ words }} words · about {{ minutes }} min
+  {%- endcapture -%}
+{%- endif -%}
+<p class="entry__meta-line">
+  <span class="entry__reading">{{ reading_text | strip }}</span>
+</p>
