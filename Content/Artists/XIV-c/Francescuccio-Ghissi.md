@@ -44,7 +44,7 @@ meta:
   - title: "KEY WORKS"
     list:
       - "Madonna of Humility, 1359, signed and dated, tempera and gold on panel, 173 x 122 cm, with the Woman of the Apocalypse (crescent, rays) - Pinacoteca Civica Bruno Molajoli, Fabriano"
-      - "Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius, with Christ, angels, Catherine and Anthony Abbot in the cusps, 1370, 173 x 122 cm - Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - "Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius, with Christ, angels, Catherine and Anthony Abbot in the cusps, 1370, 122 x 173 cm - Pinacoteca Civica Bruno Molajoli, Fabriano"
       - "Madonna of Humility, c. 1365, 34.6 x 19.9 cm, in a Gothic frame - Pinacoteca Vaticana"
       - "Dead Christ and angels; Adoration of the Child, c. 1360, 39.3 x 28.5 cm - Pinacoteca Vaticana"
       - "Madonna of Humility, 95 x 77 cm, gold ground with stars - Pinacoteca Civica, Fermo"
@@ -248,7 +248,7 @@ Because it is signed and dated 1359, this Fabriano *Madonna dell'Umiltà* is the
 
 <figure>
   <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-04.jpg" alt="Five-part gabled polyptych: the Virgin and Child at the centre, a bishop saint and St John the Evangelist on the left, St John the Baptist and a young martyr on the right, small figures in the gables; the gold is heavily abraded.">
-  <figcaption>Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot, 1370, tempera on panel, 173 × 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
+  <figcaption>Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot, 1370, tempera on panel, 122 × 173 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
 This is a horizontal polyptych in tempera and gold on wood, composed of five vertical compartments crowned by steep gabled cusps and set on a continuous plinth. Each main compartment is enclosed within a painted cusped ogival arch, and above each rises a triangular gable (cuspide) carrying a small half-length figure. The whole is unified by the burnished gold ground, now considerably abraded, with extensive losses to the gold and gesso especially in the central gable and along the upper edges — the wear typical of a large fourteenth-century altarpiece that has lost its original engaged framework. The hierarchy is the standard one: the enthroned Virgin at the sacred center, flanked symmetrically by standing saints, with a celestial register of Christ and adoring angels and further saints in the gables above.
