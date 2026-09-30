@@ -1,103 +1,95 @@
 ---
 layout: entry
 title: "Francescuccio Ghissi"
-subtitle: "Fabrianese Trecento painter in the orbit of Allegretto Nuzi and a key voice of Marchigian Gothic devotion"
-dates: "active c. 1345 - 1395"
+subtitle: "Fabrianese Trecento painter of Madonnas of Humility and small devotional panels, pupil and collaborator of Allegretto Nuzi, fixed by the signed and dated Madonna of Humility of 1359"
+dates: "Documented 1359-1395 (a payment of 1345 to a Francescuccio di Cicco is read as the first trace; the 1395 date is itself questioned)"
 
 meta:
   - title: "CORE DATA"
     pairs:
       - label: "Name"
-        value: "Francescuccio Ghissi (also Francesco di Cecco Ghissi; Franciscutius Cicchi)"
+        value: "Francescuccio Ghissi (also Francescuccio di Cecco Ghissi, Francesco di Cecco Ghissi; Franciscutius Cicchi)"
       - label: "Primary role"
-        value: "Painter of panel altarpieces, Marian devotional images, and collaborative polyptych cycles"
-      - label: "Period"
-        value: "Trecento central Italy, XIV century"
-      - label: "Primary center"
-        value: "Fabriano (Marche), with activity extending across regional ecclesiastical networks"
-      - label: "Documentary profile"
-        value: "Biographical documentation is fragmentary; chronology depends on payments, signatures, and stylistic analysis"
+        value: "Painter of tempera and gold panels: Madonnas of Humility, small devotional images, polyptychs and narrative panels"
+      - label: "Main cultural orbit"
+        value: "Fabriano and the Marche, in the workshop orbit of Allegretto Nuzi"
+      - label: "Securely dated work"
+        value: "Madonna of Humility, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - label: "Documentary status"
+        value: "Fragmentary: birth and death undocumented; chronology rests on a payment, one signed and dated panel and stylistic comparison"
 
-  - title: "IDENTITY AND FAMILY"
+  - title: "IDENTITY AND LIMITS"
     list:
-      - "Patronymic forms suggest a father named Cecco/Cicco"
-      - "Possible multi-generational Ghissi workshop continuity in Fabriano"
-      - "Family and domestic records are sparse, typical of non-elite artisan households"
-      - "Attribution debates include possible late overlap with a younger family painter"
+      - "Patronymic forms (di Cecco, di Cicco) suggest a father named Cecco; no source on parents, siblings or children"
+      - "The payment of 1345 by the Confraternita di Santa Maria del Mercato names a Francescuccio di Cicco: read as the painter, without a surname or a work to confirm it"
+      - "A Madonna of Humility dated 1395 and given to a Franciscus may be his or a family member's, possibly a Franceschino di Francesco"
+      - "Not to be reduced to a follower of Nuzi: the two hands are weighed against each other in the literature"
+      - "Death undocumented; an older suggestion of death at Florence in 1386 has no support"
 
   - title: "CHRONOLOGY"
     pairs:
-      - label: "Earliest documentary anchor"
-        value: "1345 payment from the Confraternita di Santa Maria del Mercato in Fabriano"
-      - label: "First signed dated benchmark"
-        value: "Madonna dell'Umilta, 1359, Pinacoteca civica Bruno Molajoli, Fabriano"
-      - label: "Documented active span"
-        value: "c. 1359-1395 (with references extending into late career)"
-      - label: "Late geographic anchor"
-        value: "Presence in Perugia documented in 1389"
+      - label: "First trace"
+        value: "1345, payment to Francescuccio di Cicco from the Confraternita di Santa Maria del Mercato, Fabriano"
+      - label: "Fixed point"
+        value: "1359, Madonna of Humility signed and dated, Fabriano"
+      - label: "Working with Nuzi"
+        value: "The 1360s and 1370s, as collaborator or assistant in Nuzi's workshop"
+      - label: "Latest documented presence"
+        value: "Perugia, 1389"
+      - label: "Contested end"
+        value: "1395, date of a Madonna of Humility that some give to another Franciscus: the terminus is doubtful"
       - label: "Death"
-        value: "Undocumented; likely after 1395"
+        value: "Undocumented"
 
-  - title: "WORKSHOP ORGANIZATION"
+  - title: "KEY WORKS"
     list:
-      - "Sustained atelier production over multiple decades"
-      - "Structured delegation of preparatory and secondary passages to assistants"
-      - "Standardized technical procedures in panel preparation and pigment handling"
-      - "Capacity for both independent works and multi-master collaborative enterprises"
+      - "Madonna of Humility, 1359, signed and dated, tempera and gold on panel, 173 x 122 cm, with the Woman of the Apocalypse (crescent, rays) - Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - "Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius, with Christ, angels, Catherine and Anthony Abbot in the cusps, 1370, 173 x 122 cm - Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - "Madonna of Humility, c. 1365, 34.6 x 19.9 cm, in a Gothic frame - Pinacoteca Vaticana"
+      - "Dead Christ and angels; Adoration of the Child, c. 1360, 39.3 x 28.5 cm - Pinacoteca Vaticana"
+      - "Madonna of Humility, 95 x 77 cm, gold ground with stars - Pinacoteca Civica, Fermo"
+      - "Enthroned Madonna with Six Angels, 138 x 99 cm - Musée du Petit Palais, Avignon"
+      - "Portable triptych with the Madonna of Humility, Nativity, Crucifixion and Annunciation - National Trust, Polesden Lacey"
+      - "Resurrection of Drusiana, c. 1370, 34.3 x 36.8 cm, from a cycle of Scenes from the Life of St John the Evangelist - Portland Art Museum (Kress Collection)"
 
-  - title: "PATRONAGE"
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - "Lay confraternities, especially in Fabriano"
-      - "Local churches and cathedral-linked commissions"
-      - "Mendicant contexts (Franciscan and Dominican) and Augustinian environments"
-      - "Monastic patrons including abbatial commissions"
-      - "Regional demand across Marche and adjacent Umbrian centers"
+      - "Resurrection of Drusiana and the Saint John cycle: the Kress nameplate gives Nuzi; the text states a modern consensus for Ghissi, without naming the scholarship"
+      - "Polyptych with the Coronation of the Virgin, formerly given wholly to Nuzi: Ghissi's share in the lateral saints, reported without a source"
+      - "Panels of angels and saints at Houston: Ghissi's contribution to an altarpiece, reported without a source"
+      - "Triptych of Saints Nicholas of Tolentino, Augustine and Stephen, Fabriano: hand identified by stylistic analysis, source not named"
+      - "Frescoes in Fabriano churches given to his workshop: no work or church named"
+      - "Madonna of Humility dated 1395: Francescuccio or a family painter"
+      - "Death at Florence in 1386: rejected as unsupported"
 
-  - title: "STYLE"
+  - title: "STYLE AND FORMATION"
     list:
-      - "Marchigian Gothic idiom marked by linear precision and ornamental density"
-      - "Frequent use of burnished gold grounds, punched halos, and textile-like pattern systems"
-      - "Elongated figure types balanced by tender devotional affect"
-      - "Hieratic spatial logic prioritized over naturalistic depth"
-      - "Consistent integration of liturgical clarity and decorative splendor"
+      - "Formation in Nuzi's workshop, whose sweetness he turns into a more linear, decoratively dense manner; Zeri's Nuzi-Ghissi judgments as the base of the corpus"
+      - "Linear precision, burnished gold grounds, punched halos, dense textile patterns (birds and vines, lozenges and fleurons)"
+      - "Zeri's 'less fluid and often mechanical' and 'growing rigidity' as marks of his hand within Nuzi's later production"
+      - "Madonna of Humility fused with the Madonna del Latte and the Woman of the Apocalypse (1359 Fabriano, Fermo, Polesden Lacey)"
+      - "Punchwork as a diagnostic for grouping, in the catalogue of Mojmir Frinta"
 
-  - title: "ICONOGRAPHIC FOCUS"
+  - title: "PATRONAGE AND SETTING"
     list:
-      - "Madonna dell'Umilta and Madonna del Latte as core Marian specializations"
-      - "Compact salvation programs pairing Incarnation and Passion"
-      - "Polyptych structures combining local saints with Christological summit imagery"
-      - "Apocalyptic Marian symbolism (stars, moon, radiant fields) in selected panels"
+      - "Lay confraternities of Fabriano, from the Santa Maria del Mercato payment of 1345"
+      - "Santa Lucia (San Domenico), Fabriano, for the Madonna of 1359"
+      - "Franciscan, Dominican and Augustinian circles reported for other works, without a work in the text to prove them"
+      - "Works spread over Montegiorgio, Ascoli Piceno and Fermo: only the Fermo panel is described in the text"
+      - "Perugia in 1389: the only documented step outside the Marche"
 
-  - title: "COLLABORATIONS AND ATTRIBUTION"
+  - title: "RECEPTION AND LEGACY"
     list:
-      - "Close working relationship with Allegretto Nuzi during formative and mature phases"
-      - "Participation in collaborative polyptychs where hands are differentiated by style"
-      - "Corpus reconstruction depends on signed anchors plus comparative technical evidence"
-      - "Attribution scholarship remains active due to workshop overlap and regional serial models"
-
-  - title: "GEOGRAPHY AND NETWORKS"
-    pairs:
-      - label: "Home base"
-        value: "Fabriano"
-      - label: "Regional spread"
-        value: "Montegiorgio, Ascoli Piceno, Fermo, and other Marchigian centers"
-      - label: "Documented extra-regional contact"
-        value: "Perugia"
-      - label: "Professional pattern"
-        value: "Regionally mobile master operating through ecclesiastical and confraternal patronage circuits"
-
-  - title: "DEATH AND LEGACY"
-    list:
-      - "Likely active beyond 1389 and still producing in the mid-1390s"
-      - "Key transmitter of Fabrianese Gothic language after Allegretto Nuzi"
-      - "Central for understanding Trecento workshop collaboration in the Marche"
-      - "Important for the historiography of attribution methods in late medieval Italian painting"
+      - "Recovered as an individual personality through Zeri's separation of his hand from Nuzi's"
+      - "Kress and museum labels preserve the older Nuzi attributions, so works migrate between the two names"
+      - "Frinta's punchwork catalogue as an instrument for his corpus"
+      - "Read as the carrier of the Fabrianese Gothic manner after Nuzi"
 
 scholars:
-  - title: "Zeri, Federico"
-    url: "/scholars.html#zeri-federico"
   - title: "Frinta, Mojmir Svatopluk"
     url: "/scholars.html#frinta-mojmir-svatopluk"
+  - title: "Zeri, Federico"
+    url: "/scholars.html#zeri-federico"
 ---
 
 *Francescuccio Ghissi* stands as one of the most enigmatic and accomplished painters of the 14th-century Italian Gothic tradition, representing a crucial bridge between the established workshop practices of his era and the emerging stylistic developments that would define later medieval art. Born in Fabriano in the Marche region of central-eastern Italy, Ghissi emerged from the fertile artistic environment of this renowned paper-making city during the mid-14th century, though his exact birth date remains undocumented in surviving records. The earliest documentary evidence of his professional activity appears in 1345, when the Confraternita di Santa Maria del Mercato in Fabriano recorded a payment to "Francescuccio di Cicco," establishing the first chronological anchor for understanding his artistic trajectory.
@@ -177,8 +169,8 @@ Francescuccio Ghissi's death remains undocumented in surviving historical source
 ### Our Lady of Humility (Vatican)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-01.jpg" alt="Our Lady of Humility">
-  <figcaption>Our Lady of Humility, c. 1365, tempera and gold on panel, 34,6 x 19,9 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-01.jpg" alt="Small gilded tabernacle panel with a pointed Gothic frame and twisted colonnettes: the Virgin, seated low in a dark blue gold-patterned mantle and red gown, nurses the Christ Child against a gold ground.">
+  <figcaption>Our Lady of Humility, c. 1365, tempera and gold on panel, 34.6 × 19.9 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
 The work is a small vertical devotional panel — a portable tabernacle picture — executed in tempera and gold on a poplar panel of modest dimensions (34.6 × 19.9 cm), consistent with private domestic devotion rather than an altarpiece. It survives with (or within a reconstruction of) its engaged Gothic frame, which is integral to the reading of the object: the sacred image is presented as though glimpsed through a miniature architectural aperture, a *maestà* enshrined.
@@ -191,15 +183,15 @@ She is shown roughly half- to three-quarter length, her body inclined and her he
 
 The infant is held across her lap and turned inward toward the breast, his upper body bare and his lower body wrapped in a coral-pink (salmon) cloth. He too bears a gold nimbus. His pose — the nursing gesture, the small grasping hands — humanizes the divine child while the gold ground and haloes preserve the sacred register.
 
-There are no additional figures, donors, saints, or narrative scenes in this panel: the composition is confined to the two protagonists. Behind and beneath the Virgin one can read a reddish drape or cushion spread on the ground (a cloth of honor consistent with the humility iconography), with a bluish-grey passage at the lower right; the field is otherwise pure gold. The halos and the border where the gold meets the arch show the elaborate punchwork (tooled rosettes and radiating rays) typical of this Marchigian milieu — the very category of decoration catalogued by Mojmír Frinta, and a useful diagnostic for grouping and attribution.
+There are no additional figures, donors, saints, or narrative scenes in this panel: the composition is confined to the two protagonists. Behind and beneath the Virgin one can read a reddish drape or cushion spread on the ground (a cloth of honor consistent with the humility iconography), with a bluish-grey passage at the lower right; the field is otherwise pure gold. The halos and the border where the gold meets the arch show the elaborate punchwork (tooled rosettes and radiating rays) typical of this Marchigian milieu — the very category of decoration catalogued by [Mojmír Frinta](/scholars.html#frinta-mojmir-svatopluk), and a useful diagnostic for grouping and attribution.
 
-The attribution to Francescuccio Ghissi (Francescuccio di Cecco di Ghisso, active in Fabriano c. 1359–1395) places the panel squarely in the orbit of Allegretto Nuzi, Ghissi's principal model and likely master — directly relevant to your current cataloguing work. Ghissi's manner refines Nuzi's sweetness into a more linear, decoratively insistent idiom, well exemplified here by the crisp textile patterning and the tender, downcast facial type.
+The attribution to Francescuccio Ghissi (Francescuccio di Cecco di Ghisso, active in Fabriano c. 1359–1395) places the panel squarely in the orbit of Allegretto Nuzi, Ghissi's principal model and likely master. Ghissi's manner refines Nuzi's sweetness into a more linear, decoratively insistent idiom, well exemplified here by the crisp textile patterning and the tender, downcast facial type.
 
 ### Dead Christ and angels; Adoration of Baby Jesus
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-02.jpg" alt="Dead Christ and angels; Adoration of Baby Jesus">
-  <figcaption>Dead Christ and angels; Adoration of Baby Jesus, c. 1360, tempera and gold on panel, 39,3 x 28,5 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-02.jpg" alt="Two-register panel on gold: above, the Man of Sorrows in his tomb between two mourning angels; below, the Christ Child lying on the ground, adored by two angels, the Virgin and St Joseph.">
+  <figcaption>Dead Christ and angels; Adoration of Baby Jesus, c. 1360, tempera and gold on panel, 39.3 × 28.5 cm, Pinacoteca Vaticana, Vatican City.</figcaption>
 </figure>
 
 This is a small vertical panel in tempera and gold on wood (39.3 × 28.5 cm), preserved with its plain gilded molded frame. Unusually, the picture surface is divided horizontally into two superimposed registers, each carrying a distinct but theologically linked subject. A gilded, punch-decorated dividing band — tooled with a frieze of small arcading and dotted borders — separates the two scenes and unifies them visually. The whole is set against a continuous burnished gold ground, and the surface shows a fine, dense craquelure (age cracks) typical of a fourteenth-century panel of this age.
@@ -220,13 +212,13 @@ The ground at the base is rendered as a low, undulating strip of brownish earth,
 
 The two registers are deliberately paired to bracket Christ's life between its beginning and its sacrificial end: below, the Incarnation — the newborn Christ adored by his parents and the angels; above, the Passion and death — the same Christ displayed as the Man of Sorrows, mourned by angels. Read together they form a compact meditation on Redemption, the kind of layered devotional imagery well suited to private prayer.
 
-The attribution to Francescuccio Ghissi (active in Fabriano, c. 1359–1395) places the panel within the Marchigian Trecento and in the close orbit of Allegretto Nuzi, his likely master — again directly relevant to your Nuzi cataloguing. The dense punchwork in the haloes and dividing band, the sweet downcast facial types, and the crisp linear handling of hair and drapery hems are all characteristic of Ghissi's decoratively refined idiom.
+The attribution to Francescuccio Ghissi (active in Fabriano, c. 1359–1395) places the panel within the Marchigian Trecento and in the close orbit of Allegretto Nuzi, his likely master. The dense punchwork in the haloes and dividing band, the sweet downcast facial types, and the crisp linear handling of hair and drapery hems are all characteristic of Ghissi's decoratively refined idiom.
 
 ### Our Lady of Humility (Fabriano)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-03.jpg" alt="Our Lady of Humility">
-  <figcaption>Our Lady of Humility, 1359, tempera on panel, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-03.jpg" alt="The Virgin of Humility seated on the ground nursing the Child, in a dark blue mantle with gold lozenges and a red gown with gold birds, before a white cloth of honour tied with red ribbons; a crescent moon lies at her feet.">
+  <figcaption>Our Lady of Humility, 1359, tempera on panel, 173 × 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
 This is a large-scale devotional panel in tempera and gold on wood, and it holds a special place in the artist's oeuvre because it is signed and dated 1359 — the fixed point around which the whole reconstruction of Francescuccio Ghissi's career is built. Along the base runs a painted inscription (now abraded but partly legible) carrying the artist's signature and the date, the very document that anchors the Fabriano master's chronology. The image combines the Madonna of Humility (the Virgin seated low upon the ground) with the Maria Lactans / Madonna del Latte (the Nursing Virgin), and enriches that type with apocalyptic and cosmological symbolism, as described below.
@@ -246,17 +238,17 @@ Several features lift this beyond a simple Madonna del Latte into a richer Maria
 - At the lower left, beneath the Virgin's mantle, appears a crescent moon, and radiating golden rays issue from beneath and around her figure. These are attributes of the Woman of the Apocalypse (Revelation 12:1 — "clothed with the sun, and the moon under her feet"), an image increasingly assimilated to the Virgin and, in time, to Immaculate iconography. The Madonna of Humility here becomes a cosmic queen paradoxically seated upon the earth.
 - Behind the Virgin, a white cloth of honor (a curtain or canopy) is drawn up and tied back with red ribbons/laces at either side, its peaked form crowning her like a tent or baldachin and setting her figure off against the sky.
 
-The upper zone opens onto a landscape/sky: a bluish horizon reads behind the white cloth, with earth-toned ground below, giving an unusually spatial backdrop for the type. The composition is enclosed within a painted multi-lobed (scalloped) ogival arch — a cusped foliate border in gold and rose-red against a dark green spandrel — from which the red ribbons appear to hang. The reddish painted margins at the outer edges represent the panel's framing structure.
+Behind the white cloth a bluish sky and a horizon appear, with a raised floor and a stylobate below. According to the museum, floor, stylobate and sky come from a repainting by the Master of Collamato in the second half of the fifteenth century: they are another hand's, a century later, and say nothing about Ghissi's handling of space. The composition is enclosed within a painted multi-lobed (scalloped) ogival arch — a cusped foliate border in gold and rose-red against a dark green spandrel — from which the red ribbons appear to hang. The reddish painted margins at the outer edges represent the panel's framing structure.
 
 As is visible, the panel shows its age: extensive craquelure, some losses and abrasion (notably in the gold of the halo and the lower inscription), and the wear one expects of a large fourteenth-century devotional picture. None of this obscures the refined linear handling of the textile patterning and the tender facial types that make the attribution secure.
 
-Because it is signed and dated 1359, this Fabriano *Madonna dell'Umiltà* is the cornerstone of Ghissi's corpus and the yardstick against which the unsigned panels (such as the two Vatican works you catalogued) are measured. It confirms his formation in the immediate circle of Allegretto Nuzi, whose sweetness Ghissi translates into a more insistently linear, decoratively dense manner — directly pertinent to your ongoing Nuzi cataloguing, since the two artists' hands are repeatedly weighed against one another in the Marchigian Trecento literature.
+Because it is signed and dated 1359, this Fabriano *Madonna dell'Umiltà* is the cornerstone of Ghissi's corpus and the yardstick against which the unsigned panels (such as the two Vatican panels above) are measured. It confirms his formation in the immediate circle of Allegretto Nuzi, whose sweetness Ghissi translates into a more insistently linear, decoratively dense manner; the two artists' hands are repeatedly weighed against one another in the Marchigian Trecento literature.
 
 ### Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-04.jpg" alt="Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot">
-  <figcaption>Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot, 1370, tempera on panel, 173 x 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-04.jpg" alt="Five-part gabled polyptych: the Virgin and Child at the centre, a bishop saint and St John the Evangelist on the left, St John the Baptist and a young martyr on the right, small figures in the gables; the gold is heavily abraded.">
+  <figcaption>Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot, 1370, tempera on panel, 173 × 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
 This is a horizontal polyptych in tempera and gold on wood, composed of five vertical compartments crowned by steep gabled cusps and set on a continuous plinth. Each main compartment is enclosed within a painted cusped ogival arch, and above each rises a triangular gable (cuspide) carrying a small half-length figure. The whole is unified by the burnished gold ground, now considerably abraded, with extensive losses to the gold and gesso especially in the central gable and along the upper edges — the wear typical of a large fourteenth-century altarpiece that has lost its original engaged framework. The hierarchy is the standard one: the enthroned Virgin at the sacred center, flanked symmetrically by standing saints, with a celestial register of Christ and adoring angels and further saints in the gables above.
@@ -275,7 +267,7 @@ Small half-length figures occupy the five triangular gables:
 
 - Far-left gable — Saint Catherine of Alexandria, a crowned female saint.
 - Second gable — an adoring angel, inclined in prayer toward the center.
-- Central gable — Christ, shown half-length and blessing, the apex of the whole structure, adored by the two flanking angels.
+- Central gable — Christ, half-length and blessing, as the title of the work records; the gable is largely lost and no figure can be read in the photograph.
 - Fourth gable — a second adoring angel, mirroring the first.
 - Far-right gable — Saint Anthony the Abbot, the elderly desert father.
 
@@ -283,13 +275,13 @@ Together the upper register crowns the earthly assembly of saints with a heavenl
 
 The programme is a classic *sacra conversazione* distributed across separate compartments: the Virgin and Child enthroned at the center, attended by a bishop, the two Saints John (Evangelist and Baptist), and the local patron Venantius — a combination that points to a Marchigian, very possibly Camerinese or Fabrianese, destination. The celestial tier of Christ, angels, and the martyr-saint Catherine with the hermit Anthony completes the devotional hierarchy from earth to heaven.
 
-The attribution to Francescuccio Ghissi places this among his more ambitious surviving works and confirms his dependence on Allegretto Nuzi — again directly relevant to your Nuzi cataloguing, since Ghissi's polyptychs are precisely the material against which Nuzi's own multi-panel altarpieces are compared in the attribution literature. The sweet facial types, the linear crispness of the drapery, and the decorative textile grounds are all consistent with his hand.
+The attribution to Francescuccio Ghissi places this among his more ambitious surviving works and confirms his dependence on Allegretto Nuzi Ghissi's polyptychs are the material against which Nuzi's own multi-panel altarpieces are compared in the attribution literature. The sweet facial types, the linear crispness of the drapery, and the decorative textile grounds are all consistent with his hand.
 
 ### Our Lady of Humility (Fermo)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-05.jpg" alt="Our Lady of Humility">
-  <figcaption>Our Lady of Humility, tempera and gold on panel, 95 x 77 cm, Pinacoteca civica, Fermo.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-05.jpg" alt="The Virgin of Humility nursing the Child against a gold ground tooled with vine scrolls and scattered dark stars, in a dark mantle with vine leaves and a red gown patterned with birds.">
+  <figcaption>Our Lady of Humility, tempera and gold on panel, 95 × 77 cm, Pinacoteca civica, Fermo.</figcaption>
 </figure>
 
 This is a devotional panel in tempera and gold on wood (95 × 77 cm), showing the Madonna of Humility fused with the Maria Lactans / Madonna del Latte (the Nursing Virgin). The composition is confined to the two protagonists set against a spectacular worked gold ground, and the panel is remarkable for the richness of its tooling and star ornament, which gives the image an overtly cosmic, apocalyptic character. Its state shows the wear of age — scattered losses, abrasion, and paint flaking (notably across the gold and in the halo) — but the refined surface work remains legible.
@@ -310,11 +302,11 @@ The image compresses several Marian ideas into one intimate icon: the humility o
 ### Enthroned Madonna with Six Angels
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-06.jpg" alt="Enthroned Madonna with Six Angels">
-  <figcaption>Enthroned Madonna with Six Angels, tempera and gold on panel, 138 x 99 cm, Musée du Petit Palais, Avignon.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-06.jpg" alt="The Virgin and Child enthroned cheek to cheek, in a dark blue mantle with gold lozenges before a red and gold cloth of honour, with three angels on each side, hands joined or crossed.">
+  <figcaption>Enthroned Madonna with Six Angels, tempera and gold on panel, 138 × 99 cm, Musée du Petit Palais, Avignon.</figcaption>
 </figure>
 
-This is a large vertical panel in tempera and gold on wood (138 × 99 cm) representing the Maestà — the Virgin and Child enthroned in majesty, attended by a court of angels. Unlike the several *Madonne dell'Umiltà* you've assembled, where the Virgin sits humbly on the ground, here she is elevated on a throne and presented as Queen of Heaven, the most solemn and hieratic of the Marian formulas. The composition is symmetrical and courtly, the two protagonists framed by six angels and set against a burnished gold ground. The surface shows the expected age-wear — craquelure, abrasion, and scattered losses, particularly across the gold and the darker passages of the mantle.
+This is a large vertical panel in tempera and gold on wood (138 × 99 cm) representing the Maestà — the Virgin and Child enthroned in majesty, attended by a court of angels. Unlike the *Madonne dell'Umiltà* above, where the Virgin sits humbly on the ground, here she is elevated on a throne and presented as Queen of Heaven, the most solemn and hieratic of the Marian formulas. The composition is symmetrical and courtly, the two protagonists framed by six angels and set against a burnished gold ground. The surface shows the expected age-wear — craquelure, abrasion, and scattered losses, particularly across the gold and the darker passages of the mantle.
 
 At the center the Virgin is enthroned, shown nearly to full length, her head tenderly inclined toward the Child in the affectionate glykophilousa manner (the "sweet-loving" type, cheek drawn close to cheek). Her face is of the softly modelled, slightly melancholic Nuzi–Ghissi type, with lowered gaze; a punched and incised gold halo frames her head, and a white veil edges her face beneath the mantle.
 
@@ -325,12 +317,12 @@ She wears:
 
 The Christ Child is held high against her breast, cheek to cheek with his mother, his body largely nude and softly wrapped below in a blue-grey cloth. He too bears a gold halo. His plump limbs and the intimate cheek-to-cheek embrace humanize the otherwise majestic image.
 
-Behind the pair rises a cloth of honor — a richly patterned textile in red and gold worked with a dense floral/foliate design, hung behind the throne to signal royal dignity. The throne's architectural elements are partly visible at either side, where spiral colonnettes (barley-sugar columns) rise beside the flanking angels.
+Behind the pair rises a cloth of honor — a richly patterned textile in red and gold worked with a dense floral/foliate design, hung behind the throne to signal royal dignity. The throne's architectural elements are partly visible at either side, where architectural elements rise beside the flanking angels.
 
 Three angels are ranged on each side, disposed in two tiers, all with gold haloes and turned inward toward the Virgin in attitudes of prayer and adoration:
 
 - The upper pair, at the very top corners, incline toward the throne with hands joined in prayer, their large wings spread behind them.
-- The middle and lower angels on each side stand in ranked profile, several holding their hands crossed on the breast or pressed together, gazing up toward the Virgin and Child. They wear robes of rose-pink, pale yellow, and blue-grey, some crossed by dark, gold-bordered diagonal bands (a deacon-like sash or stole), and several are crowned with jewelled diadems over their haloes.
+- The middle and lower angels on each side stand in ranked profile, several holding their hands crossed on the breast or pressed together, gazing up toward the Virgin and Child. They wear robes of rose-pink, pale yellow, and blue-grey, some crossed by dark, gold-bordered diagonal bands (a deacon-like sash or stole), each with a gold halo.
 
 The angelic court, symmetrically arrayed, transforms the panel into a heavenly throne-room and reinforces the queenly majesty of the central group.
 
@@ -339,31 +331,31 @@ This is the regal counterpart to the humility images: where the *Madonna dell'Um
 ### Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right)
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-07.jpg" alt="Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right)">
-  <figcaption>Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right), tempera on panel, 450 x 209 mm (central); 457 x 114 mm (wings), National Trust, Polesden Lacey, Surrey.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-07.jpg" alt="Small hinged triptych in a glazed case on green velvet: the nursing Virgin of Humility in the centre, the Nativity in the left wing and the Crucifixion in the right, the Annunciation in the two gables.">
+  <figcaption>Our Lady of Humility; The Nativity; The Crucifixion; The Annunciation (top left and right), tempera on panel, 450 × 209 mm (central panel), National Trust, Polesden Lacey, Surrey.</figcaption>
 </figure>
 
-This is a small portable triptych in tempera and gold on wood — a hinged, folding altarpiece designed for private devotion and travel, with a large central panel (450 × 209 mm) flanked by two narrower wings (457 × 114 mm each) that would fold inward to protect the painted surfaces. It is here displayed within a later glazed wooden case against green velvet, with a museum accession number ("18") and a nameplate reading "Fra[ncescuccio] Ghissi" at the base. The central panel is crowned by a steep gabled peak and set on a stepped, molded base; each wing terminates in a triangular gable carrying a subsidiary scene. The gold ground is worked with fine tooling and, in the central compartment, scattered incised stars. The surface shows the wear of age — craquelure, abrasion, and scattered losses.
+This is a small portable triptych in tempera and gold on wood — a hinged, folding altarpiece designed for private devotion and travel, with a large central panel (450 × 209 mm) flanked by two narrower wings that would fold inward to protect the painted surfaces. It is here displayed within a later glazed wooden case against green velvet, with a museum accession number ("18") and a nameplate reading "Fra[ncescuccio] Ghissi" at the base. The central panel is crowned by a steep gabled peak and set on a stepped, molded base; each wing terminates in a triangular gable carrying a subsidiary scene. The gold ground is worked with fine tooling and, in the central compartment, scattered incised stars. The surface shows the wear of age — craquelure, abrasion, and scattered losses.
 
-The main compartment shows the Madonna of Humility fused with the Maria Lactans / Madonna del Latte (the Nursing Virgin). The Virgin is seated low upon the ground in token of her *humilitas*, shown three-quarter length, her head tenderly inclined toward the Child. She wears a deep blue mantle densely worked with a gold lattice of foliate/scroll ornament, over a red-crimson gown patterned in gold; a punched gold halo frames her head, and the gold ground above is scattered with incised stars — an apocalyptic/cosmic note (the Woman of the Apocalypse) recurring throughout Ghissi's Madonne. The Christ Child, largely nude and turned inward to the breast in the nursing gesture, bears a gold halo. Both faces are of the sweet, softly modelled Nuzi–Ghissi type.
+The main compartment shows the Madonna of Humility fused with the Maria Lactans / Madonna del Latte (the Nursing Virgin). The Virgin is seated low upon the ground in token of her *humilitas*, shown three-quarter length, her head tenderly inclined toward the Child. She wears a deep blue mantle densely worked with a gold lattice of foliate/scroll ornament, over a dark red gown, the Child wrapped in a red-orange cloth patterned in gold; a punched gold halo frames her head, and the gold ground above is scattered with incised stars — an apocalyptic/cosmic note (the Woman of the Apocalypse) recurring throughout Ghissi's Madonne. The Christ Child, largely nude and turned inward to the breast in the nursing gesture, bears a gold halo. Both faces are of the sweet, softly modelled Nuzi–Ghissi type.
 
 The left wing is divided into two zones:
 
 - Main (lower) scene — the Nativity / Adoration. At the lower left, the Virgin in red reclines or kneels beside the manger; the newborn Christ Child lies swaddled, attended by the ox and ass behind. The aged, bearded Saint Joseph sits in the foreground in his traditional pose of contemplative withdrawal. Haloes are punched in gold. The scene depicts the Incarnation — the earthly beginning of Christ's life.
-- Gable (upper) — an Annunciation figure. In the triangular cusp above sits a small enthroned or seated figure (the Virgin Annunciate, or an angel of the Annunciation), set against tooled gold. Together with the corresponding figure on the right gable, this completes the Annunciation split across the two wing-peaks.
+- Gable (upper) — an Annunciation figure. In the triangular cusp above stands a small pale-robed figure, apparently the Angel Gabriel, set against tooled gold. Together with the Virgin Annunciate in the right gable, this completes the Annunciation split across the two wing-peaks.
 
 The right wing likewise carries two zones:
 
 - Main (lower) scene — the Crucifixion. The crucified Christ hangs on the cross at center, his body rendered with the pathos of the Passion. To the left stands the mourning Virgin Mary in dark blue, and to the right the youthful, beardless Saint John the Evangelist in his customary red-and-green drapery, both haloed, in attitudes of grief. This is the sacrificial end of Christ's life — deliberately paired with the Nativity opposite.
-- Gable (upper) — the second Annunciation figure. In the cusp sits the complementary figure of the Annunciation (the Angel Gabriel or the Virgin, whichever balances the left gable), against tooled gold.
+- Gable (upper) — the second Annunciation figure. In the cusp sits the Virgin Annunciate, in a dark blue mantle over red, against tooled gold.
 
 The programme is a compact meditation on Incarnation and Redemption, of the kind ideally suited to a portable devotional object. The Annunciation is announced across the two gables at the summit (the conception of Christ); the Nativity (left) and Crucifixion (right) bracket his earthly life from birth to sacrificial death; and the Madonna of Humility/Madonna del Latte at the center holds these together in the tender image of the Mother nursing the Son whose birth and death surround her. The whole moves, top to bottom and wing to wing, through the central mysteries of salvation.
 
 ### The Resurrection of Drusiana
 
 <figure>
-  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-08.jpg" alt="The Resurrection of Drusiana">
-  <figcaption>The Resurrection of Drusiana, c. 1370 tempera on panel, 34.3 x 36.8 cm, Portland Art Museum, Portland.</figcaption>
+  <img src="/Images/Francescuccio-Ghissi/francescuccio-ghissi-08.jpg" alt="St John, at left, raises his hand toward a bier draped in red and carried by two bearers, while a kneeling man entreats him and a woman raises her arms before a white building with a tower; a red seraph hovers at upper left; the frame nameplate reads Allegretto Nuzi.">
+  <figcaption>The Resurrection of Drusiana, c. 1370, tempera on panel, 34.3 × 36.8 cm, Portland Art Museum, Portland.</figcaption>
 </figure>
 
 The panel depicts The Resurrection of Drusiana, an episode drawn not from the canonical Gospels but from the apocryphal Acts of John (the legend of Saint John the Evangelist). In the story, Drusiana, a devout Christian woman of Ephesus who had been moved by John's preaching, died; as the Apostle re-entered the city he encountered her funeral cortège being carried out to burial, and by his command she was miraculously raised from the dead. The scene is therefore a miracle narrative centered on the saving word of the Apostle.
@@ -374,7 +366,7 @@ A nameplate on the frame reads "THE RESURRECTION OF DRUSIANA / ALLEGRETTO NUZI /
 
 The figures, left to right:
 
-- Saint John the Evangelist stands at the far left, the protagonist of the miracle. He is youthful and beardless with fair hair, haloed, and barefoot, draped in a rose-pink mantle over a dark blue-black robe. He extends his right hand in a commanding, pointing gesture toward the bier — the very gesture by which he calls Drusiana back to life. His calm, upright authority anchors the composition.
+- Saint John the Evangelist stands at the far left, the protagonist of the miracle. He is youthful and beardless with fair hair, haloed, draped in a rose-pink mantle over a dark blue-black robe. He extends his right hand in a commanding, pointing gesture toward the bier — the very gesture by which he calls Drusiana back to life. His calm, upright authority anchors the composition.
 
 - A kneeling supplicant, a smaller figure in brownish-ochre dress, kneels at John's feet with hands raised toward him in entreaty — a witness or petitioner begging the Apostle's intervention, a device that draws the viewer into the drama.
 
@@ -384,11 +376,9 @@ The figures, left to right:
 
 Behind the figures rises a passage of Trecento architecture — a white building with a tiled pitched roof, arched windows, a balcony, and a slender tower or campanile at the left — evoking the city of Ephesus and giving the miracle a concrete urban stage. At the upper left, a small red seraph/angel hovers within the arch, a celestial presence marking the sacred and miraculous character of the event. The gold ground behind is lightly tooled with foliate ornament.
 
-This panel is especially important for your Nuzi–Ghissi research because it comes from the celebrated Scenes from the Life of Saint John the Evangelist cycle, a series of narrative panels that once formed the wings or predella-related elements of an altarpiece and are now dispersed across several collections. The cycle is one of the principal touchstones for defining Ghissi's narrative manner as distinct from his master's — the lively, slightly angular figures, the anecdotal gestures, and the crisp architectural stage-sets are characteristic.
+This panel is especially important for the Nuzi–Ghissi question because it comes from the celebrated Scenes from the Life of Saint John the Evangelist cycle, a series of narrative panels that once formed the wings or predella-related elements of an altarpiece and are now dispersed across several collections. The cycle is one of the principal touchstones for defining Ghissi's narrative manner as distinct from his master's — the lively, slightly angular figures, the anecdotal gestures, and the crisp architectural stage-sets are characteristic.
 
-- On the attribution
-
-The frame nameplate assigns the panel to Allegretto Nuzi, which reflects an older attribution (Kress Collection labels frequently preserve the connoisseurship of the mid-twentieth century). The modern consensus reassigns the Saint John cycle — and this *Drusiana* panel — to Francescuccio Ghissi, exactly the kind of Nuzi-versus-Ghissi reattribution that runs through the whole literature. This makes the panel a useful documented case-study of how works have migrated between the two names.
+**On the attribution.** The frame nameplate assigns the panel to Allegretto Nuzi, which reflects an older attribution (Kress Collection labels frequently preserve the connoisseurship of the mid-twentieth century). The modern consensus reassigns the Saint John cycle — and this *Drusiana* panel — to Francescuccio Ghissi, exactly the kind of Nuzi-versus-Ghissi reattribution that runs through the whole literature. This makes the panel a useful documented case-study of how works have migrated between the two names.
 
 ## Collaborative Works and Attribution Challenges
 
