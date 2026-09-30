@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-29T15:52:20+00:00",
+  "updated_at": "2026-09-30T15:14:57+00:00",
   "notices": [
+    {
+      "title": "Maestro dei Magi di Fabriano",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-30T17:10:58+02:00"
+    },
     {
       "title": "Maestro della Maest\u00e0 delle Volte",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Giovanni-da-Rimini.html",
       "change_type": "modified",
       "pushed_at": "2026-09-29T17:43:52+02:00"
-    },
-    {
-      "title": "Maestro delle Tempere Francescane",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-delle-Tempere-Francescane.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-delle-Tempere-Francescane.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-29T17:43:52+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro della Maest\u00e0 delle Volte",
+      "title": "Maestro dei Magi di Fabriano",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-della-Maesta-delle-Volte.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-della-Maesta-delle-Volte.html",
-      "change_type": "modified",
-      "pushed_at": "2026-09-29T17:51:26+02:00"
+      "path": "Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.html",
+      "change_type": "created",
+      "pushed_at": "2026-09-30T17:10:58+02:00"
     }
   ]
 }
