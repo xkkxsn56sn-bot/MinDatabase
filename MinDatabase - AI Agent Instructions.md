@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.10.0 | **Last Updated**: 29 September 2026
+**Version**: 4.11.0 | **Last Updated**: 30 September 2026
 
 ## Project Scope
 
@@ -82,6 +82,7 @@ The repository currently includes YAML front matter in many content types, inclu
   `thematic_keywords`). Legacy top-level keys duplicating the `meta` block were
   removed in this commit: do not reintroduce them.
 - For new files, follow front matter patterns already used in the target folder.
+- `python3 scripts/frontmatter_census.py` (`--all` for the per-section list) counts, read-only, how far the schede are from the canonical front matter (eight `meta` blocks in fixed order, `scholars:` as title/url pairs, no `thematic_keywords`, RELATED ENTRIES or Reference Links), with the markers T, K, S0, Sx, P, Rl, Rn, Rs, Rf; it writes nothing and is not a validator.
 
 ## Footnote Conventions (Mandatory Site-Wide)
 
