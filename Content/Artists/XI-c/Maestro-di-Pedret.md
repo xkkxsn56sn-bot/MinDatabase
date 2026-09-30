@@ -60,7 +60,7 @@ meta:
       - "Frescoes of Sant Quirze de Pedret — c. 1090–1110; Pantocrator with Riders of the Apocalypse (central apse, Museu Diocesà i Comarcal de Solsona); Wise and Foolish Virgins, Church personification, Saint Peter in cathedra (lateral absidioles, Museu Nacional d'Art de Catalunya, Barcelona)"
       - "Apse of Santa Maria de Cap d'Aran — c. 1100; Virgin and Child in Majesty with Adoration of the Magi and Archangels; detached, now at The Cloisters, Metropolitan Museum of Art, New York"
       - "Apse of Santa Maria d'Àneu — c. 1080–1100; Epiphany hemicycle with Ezekielian ophanim and Seraphim; detached, Museu Nacional d'Art de Catalunya, Barcelona"
-      - "Apostles Thaddeus and James from Sant Pere d'Àger — c. 1065–1080; Museu Nacional d'Art de Catalunya, Barcelona"
+      - "Apostles Thaddeus and James from Sant Pere d'Àger — late 11th to first quarter of the 12th century (MNAC dating); Museu Nacional d'Art de Catalunya, Barcelona"
       - "Apsidal cycle of Sant Pere de Burgal — c. 1084–1090; Pantocrator with donor figure identified as Countess Lucía; Museu Nacional d'Art de Catalunya, Barcelona"
       - "Fragmentary frescoes of the Cathedral of Saint-Lizier — Ariège, France; earliest attributed phase"
 
@@ -255,7 +255,7 @@ This programme, which has no precise iconographic parallel in surviving Romanesq
 
 <figure>
   <img src="/Images/Maestro-Pedret/maestro-pedret-09.jpg" alt="Apostles from Àger: Thaddeus and James">
-  <figcaption>Apostles from Àger: Thaddeus and James, 1065-80, fresco transferred on canvas, 280 x 144,5 x 4,5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
+  <figcaption>Apostles from Àger: Thaddeus and James, late 11th – first quarter of the 12th century, fresco transferred on canvas, 280 × 144.5 × 4.5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
 The fragmentary but extremely fine painted remains preserved from the collegiate church of Sant Pere d'Àger, the foundation of the Catalan nobleman Arnau Mir de Tost, are today housed at the Museu Nacional d'Art de Catalunya in Barcelona and represent the most historically documented of all the sites associated with the master's activity. Of the original apsidal decoration, which must have been among the grandest of all the programmes executed by the workshop given the architectural ambition of the collegiate building, only a representation of the *Apostles Thaddeus and James* has survived in a condition adequate for stylistic analysis. The two apostles are presented in a standing, frontal posture of hieratic authority, rendered with a formal grandeur and a quality of facial characterization that belong unmistakably to the master's own hand rather than to a workshop assistant, suggesting that this commission received the personal attention of the leading artist.
@@ -266,7 +266,7 @@ The faces of the two figures are among the most compelling in the entire Pedret 
 
 <figure>
   <img src="/Images/Maestro-Pedret/maestro-pedret-10.jpg" alt="Christy in majesty">
-  <figcaption>Christy in Majesty (Pantocrator), after 1095, fresco transferred on canvas, 280 x 144,5 x 4,5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
+  <figcaption>Christy in Majesty (Pantocrator), after 1095, fresco transferred on canvas, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
 The paintings at Sant Pere de Burgal are generally dated after 1095, a time when the Master of Pedret had already reached full artistic maturity and was working in close connection with other cycles in the Àneu region and the Berguedà-Pallars area. This context reflects the widespread circulation of iconographic models and Lombard and Provençal influences within the Catalan Pyrenean valleys, with a particular focus on Gregorian liturgy and visual theology.

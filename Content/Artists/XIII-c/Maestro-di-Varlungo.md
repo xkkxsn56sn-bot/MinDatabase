@@ -206,7 +206,7 @@ This Madonna and Child from Varlungo is described by the CEI as a “fundamental
 
 <figure>
   <img src="/Images/Maestro-di-Varlungo/maestro-di-varlungo-03.jpg" alt="Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction">
-  <figcaption>Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction, 1285-99, 1285-90, tempera and gold on panel, 115 x 50 cm, Museo Stefano Bardini, Florence.</figcaption>
+  <figcaption>Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction, 1285-90, tempera and gold on panel, 245 × 186 cm, Museo Stefano Bardini, Florence.</figcaption>
 </figure>
 
 At the center of the panel dominates the figure of the Crucified Christ in the Christus patiens pose—that is, the Suffering Christ—a depiction already established in Italian painting of the late 13th century as an alternative to the more triumphant Christus triumphans. The body is slightly curved to the right, with the arms outstretched along the horizontal beams of the cross and the head tilted toward the right shoulder, the eyes closed in death.

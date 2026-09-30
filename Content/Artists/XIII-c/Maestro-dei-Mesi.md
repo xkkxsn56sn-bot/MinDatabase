@@ -282,7 +282,7 @@ The lack of a recorded cause of death prevents any romantic speculation about ma
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-01.jpg" alt="Janus, the two-faced god (January)">
-  <figcaption>Janus, the two-faced god (Allegory of January), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Janus, the two-faced god (Allegory of January), 1225-30, red Verona marble, 94 × 48 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The work is a panel of red Verona marble attributed to the so-called Master of the Months, created between 1225 and 1230 and now housed in the Museum of the Cathedral of San Giorgio in Ferrara. It is one of the twelve months of a cycle originally placed on the lintel of the “Porta dei Mesi” (or Porta dei Pellegrini) of the Cathedral, conceived as a large, unified iconographic program.
@@ -297,7 +297,7 @@ Within the cycle of the months, January serves as a symbolic boundary: it marks 
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-02.jpg" alt="Pruning (Allegory of February)">
-  <figcaption>Pruning (Allegory of February), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Pruning (Allegory of February), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 *Pruning* fits into this didactic-symbolic system, where agricultural time is not merely chronological but also pedagogical, linked to an idea of cosmic and moral order, suited to a largely illiterate audience.
@@ -312,7 +312,7 @@ The cycle of the months embodies an idea of the “economy” of sacred and prof
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-03.jpg" alt="Reawakening of Nature and the King of the Months (Allegory of March and April)">
-  <figcaption>Reawakening of Nature and the King of the Months (Allegory of March and April), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Reawakening of Nature and the King of the Months (Allegory of March and April), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 In the Ferrara cycle, March is the first month of the year (according to the “Ferrara-style” calendar, which begins on March 25 with the Annunciation), and April is the month of Easter, associated with the holiday and spiritual rebirth. For this reason, both often appear in the form of allegorical figures or nobles, rather than as farmers engaged in agricultural work: March is traditionally associated with the reawakening of nature, while April is sometimes depicted as a “king” of the months, with a crown and scepter, symbolizing the full bloom of spring.
@@ -323,7 +323,7 @@ Unlike panels such as July (wheat threshing) or September (grape harvest), where
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-04.jpg" alt="Knight with shield (Allegory of May)">
-  <figcaption>Knight with shield (Allegory of May), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Knight with shield (Allegory of May), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The statue depicts a knight in full armor, of slender build, wearing a helmet, breastplate, and a large shield, in a solemn, frontal pose typical of the monthly panels by the Master of the Months. The figure is carved from Verona red marble, with a style that combines strict Romanesque symmetry with an emerging Gothic naturalism in the folds of the garments and the posture of the body. This sculpture was originally placed in the surrounding frame of the southern portal of the Duomo (the so-called “Porta dei mesi”), where the twelve representations, arranged in two bands, cyclically marked the rhythm of the liturgical and agricultural year.
@@ -336,7 +336,7 @@ In this sense, the Knight of May is not merely an image of the warrior, but a sy
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-05.jpg" alt="Boy picking tree fruit (Allegory of June)">
-  <figcaption>Boy picking tree fruit (Allegory of June), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Boy picking tree fruit (Allegory of June), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The image shows a panel by the Master of the Months of Ferrara (c. 1225–1230, red Verona stone, Museum of the Cathedral of San Giorgio, Ferrara) depicting one of the Twins (Gemini) climbing a pear tree to pick its fruit, with Cancer carved at the base of the tree. This is one of the zodiacal panels from the original cycle of the Porta dei Mesi, alongside those of the months: here it is not the allegory of the month of June itself (which is a farmer at work), but the personification of the zodiacal sign Cancer, associated with June.This panel forms a pair with another headless panel depicting the other Gemini picking cherries, together forming the constellation of Gemini.
@@ -347,7 +347,7 @@ The crab/cancer at the bottom symbolizes the zodiac sign of June (from around Ju
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-06.jpg" alt="Wheat threshing (Allegory of July)">
-  <figcaption>Wheat threshing (Allegory of July), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Wheat threshing (Allegory of July), 1225-30, red Verona marble, 90 × 48.5 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The panel depicts the threshing of wheat, a task typical of the month of July in medieval agriculture. The central figure is a young farmer threshing wheat on a stone path, his dynamic gestures and well-defined musculature strained by the effort of seasonal labor. The scene is rendered with particular attention to the weight of the sheaves of wheat, the tension in the limbs, and the materiality of the vegetation, reflecting a direct observation of nature and peasant labor.
@@ -358,7 +358,7 @@ The style is Romanesque-Gothic, with figures strongly modeled and deeply carved 
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-07.jpg" alt="Preparing the barrel (Allegory of August)">
-  <figcaption>Preparing the barrel (Allegory of August), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Preparing the barrel (Allegory of August), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The scene depicts a cooper (or a winegrower) who, in the shade of a fig tree laden with leaves and fruit, is busy building or preparing a barrel—that is, a wooden container for storing wine. The fig tree is depicted as a quintessentially summery element, linked to agrarian-rural traditions and the circulation of fruit during the hot months, while the barrel visually connects August to the impending grape harvest and the management of the harvest. The figure is set within a compact, taut, and almost “architectural” space, with volumes sculpted to reveal the natural virtuosity of the Master of the Months in rendering the interplay of masses and subtle recesses in the stone.
@@ -371,7 +371,7 @@ Within the context of the Cycle of the Months on the Pilgrims’ Door, the “Al
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-08.jpg" alt="The Grape Harvest (Allegory of September)">
-  <figcaption>The Grape Harvest (Allegory of September), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>The Grape Harvest (Allegory of September), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 In the panel, a farmer is depicted picking grapes from a densely intertwined vine, with the branches arranged in a dense and regular pattern that highlights the plant’s structure and the texture of the leaves and clusters. The figure wears a cap or head covering to protect his hair, while his robe is gathered and tied around his thigh, ready for the next pressing, in a careful depiction of the body and the toil of labor.
@@ -384,7 +384,7 @@ Allegorically speaking, the month of September is not merely an image of agricul
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-09.jpg" alt="Harvesting turnips (Allegory of November)">
-  <figcaption>Harvesting turnips (Allegory of November), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Harvesting turnips (Allegory of November), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The scene depicts the harvest of turnips, one of the typical agricultural tasks of November, when the earth yields its winter roots. The relief shows figures of farmers busy digging up turnips, with gestures that evoke the strenuous work in the fields: hands grasping the leaves, hunched shoulders, and postures that suggest physical exertion. The iconography belongs to the tradition of allegories of the months that link the liturgical and agricultural calendars, celebrating the cycle of the seasons and work as a form of participation in divine providence.
@@ -399,7 +399,7 @@ This damage stems primarily from its original location on the Porta dei Mesi of 
 
 <figure>
   <img src="/Images/Maestro-dei-Mesi/maestro-dei-mesi-10.jpg" alt="Goat who suckles a child  (Allegory of December)">
-  <figcaption>Goat who suckles a child  (Allegory of December), 1225-30, red Verona marble, 94 x 48 x 37 cm, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
+  <figcaption>Goat who suckles a child  (Allegory of December), 1225-30, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara. </figcaption>
 </figure>
 
 The panel depicts an allegory of December, identified with the zodiac sign of Capricorn, in which a goat (male or female) nurses or suckles a child. The theme combines astrological tradition with medieval symbolism of the season: Capricorn is a water sign associated with the winter month, while the image of the goat nursing a child refers both to classical myths (such as the myth of Jupiter hidden and nursed by goats) and to an idea of abundance and “nourishment” during a time of scarcity. In some interpretive commentaries, the scene is read as a transition between the old and the new year, in which Capricorn, the goat-child, embodies the seasonal cycle and annual rebirth.

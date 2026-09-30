@@ -220,7 +220,7 @@ The frame, according to technical analyses by the MNAC and studies on the Master
 
 <figure>
   <img src="/Images/Maestro-di-Soriguerola/image-3.jpg" alt="Supplicant Soul between Saint Peter Saint Paul">
-  <figcaption>Supplicant Soul between Saint Peter Saint Paul, 1305-10, tempera on Scots pine wood, 103 x 100.5 x 7.3 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
+  <figcaption>Supplicant Soul between Saint Peter Saint Paul, 1305-10, tempera on Scots pine wood, 103 × 100.5 × 7.3 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
 The work presents a scene in which every element is perfectly balanced: it is a side altarpiece from the parish church of Sant Cristòfol de Toses (Ripollès), now in the Museu Nacional d’Art de Catalunya, dating from the early decades of the 14th century and attributed to the so-called Master of Soriguerola.
@@ -252,7 +252,7 @@ His style is recognizable by the combination of elements still rooted in the Rom
 
 <figure>
   <img src="/Images/Maestro-di-Soriguerola/image-4.jpg" alt="Saint Michael Weighing Souls">
-  <figcaption>Saint Michael Weighing Souls, 1305-10, tempera on Scots pine wood, 103 x 100 x 7.5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
+  <figcaption>Saint Michael Weighing Souls, 1305-10, tempera on Scots pine wood, 103 × 100 × 7.5 cm, Museu Nacional d'Art de Catalunya, Barcelona.</figcaption>
 </figure>
 
 The work depicts the Psychostasia, the moment when the Archangel Michael weighs the souls, and is one of the side panels of an altarpiece from the Ribes area, now in the Museu Nacional d’Art de Catalunya. It dates to the early 14th century and is attributed to the Master of Soriguerola.
@@ -290,10 +290,10 @@ In this sense, the panel of Saint Michael is not merely a doctrinal representati
 
 <figure>
   <img src="/Images/Maestro-di-Soriguerola/image-5.jpg" alt="Saint Peter and Paul">
-  <figcaption>Saint Peter and Paul, 1305-10, tempera on Scots pine wood, 103 x 100.5 x 7.3 cm, Museu Episcopal d'Art Medieval, Vic.</figcaption>
+  <figcaption>Saint Peter and Paul, late 13th century, tempera on wood, 101 × 84.5 × 6 cm, Museu Episcopal de Vic (MEV 9695); from the Vall de Ribes.</figcaption>
 </figure>
 
-The work, attributed to the Master of Soriguerola and housed at the Museu Episcopal d’Art Medieval in Vic, is a devotional panel painting of great narrative simplicity, executed in tempera on wood. The subject depicts Saint Peter and Saint Paul, not as isolated, monumental figures, but as presences imbued with salvific significance, set within a composition that alludes to the destiny of the soul and apostolic mediation.
+The work, attributed to the Master of Soriguerola and housed at the Museu Episcopal de Vic, is a devotional panel painting of great narrative simplicity, executed in tempera on wood. The subject depicts Saint Peter and Saint Paul, not as isolated, monumental figures, but as presences imbued with salvific significance, set within a composition that alludes to the destiny of the soul and apostolic mediation.
 
 The structure is strictly frontal and symmetrical, following a logic typical of Catalan painting during the transition from the Romanesque to the Gothic period. The figures are arranged to guide the viewer’s gaze toward the center of the image, where the theological core of the message is concentrated: the encounter between divine justice and the hope of salvation. This compositional clarity is one of the most evident qualities of the Master of Soriguerola, who knows how to condense complex content into an immediately legible scene.
 
@@ -311,10 +311,10 @@ This panel is also important because it demonstrates the maturity of the style o
 
 <figure>
   <img src="/Images/Maestro-di-Soriguerola/image-6.jpg" alt="Saint Michael Weighing Souls">
-  <figcaption>Saint Michael Weighing Souls, 1305-10, tempera on Scots pine wood, 103 x 100 x 7.5 cm, Museu Episcopal d'Art Medieval, Vic.</figcaption>
+  <figcaption>Saint Michael Weighing Souls, late 13th century, tempera on wood, 100 × 85 × 5.5 cm, Museu Episcopal de Vic (MEV 9694); from the Vall de Ribes.</figcaption>
 </figure>
 
-The panel by the Master of Soriguerola depicts the Weighing of Souls (Psychostasis), painted in tempera on wood around 1305–1310 and housed at the Episcopal Museum of Medieval Art in Vic.
+The panel by the Master of Soriguerola depicts the Weighing of Souls (Psychostasis), painted in tempera on wood in the late thirteenth century and housed at the Museu Episcopal de Vic.
 The image shows the archangel holding the scale pan intended for the blessed soul, while the devil, with a menacing expression, opposes other demons who are trying to tip the scales toward evil.
 The scene is organized horizontally, with the archangel on the right and the devil on the left supporting the large central scale; the bilateral arrangement creates an immediate visual and symbolic counterpoint between salvation and damnation. The uniform background, dotted with small white stars, isolates the figures and focuses attention on the ritual act of weighing, in accordance with a device typical of late 13th-century Catalan devotional painting.
 
@@ -330,7 +330,7 @@ The image served a catechetical and liturgical function: it visually illustrated
 
 <figure>
   <img src="/Images/Maestro-di-Soriguerola/image-7.jpg" alt="The Altar Frontal of Santa Eugènia de Saga">
-  <figcaption>The Altar Frontal of Santa Eugènia de Saga, 1330-35, tempera on wood, 103 x 100 x 7.5 cm, Musée des Arts Décoratifs, Paris.</figcaption>
+  <figcaption>The Altar Frontal of Santa Eugènia de Saga, 1330-35, tempera on wood, Musée des Arts Décoratifs, Paris.</figcaption>
 </figure>
 
 The altar frontal of Santa Eugènia de Saga, attributed to the Master of Soriguerola, is a paneled altar frontal that narrates, in a continuous narrative and using a late-Romanesque style already leaning toward linear Gothic, the main episodes of the legend of Saint Eugenia, depicted as a noble maiden and Christian martyr.

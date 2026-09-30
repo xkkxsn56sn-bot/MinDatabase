@@ -183,7 +183,7 @@ The physical survival of the Isaac frescoes through more than seven centuries te
 
 <figure>
   <img src="/Images/Maestro-Isacco/image-1.jpg" alt="Isaac Blessing Jacob">
-  <figcaption>Isaac Blessing Jacob, 1291-95, fresco, 300 x 300 cm, Basilica Superiore di San Francesco, Assisi.</figcaption>
+  <figcaption>Isaac Blessing Jacob, 1291-95, fresco, Basilica Superiore di San Francesco, Assisi.</figcaption>
 </figure>
 
 *Isaac Blessing Jacob* represents the Master's most complete realization of his spatial and narrative innovations, a work that fundamentally reimagines the relationship between figures, architecture, and pictorial space. The fresco depicts the climactic moment of the Genesis narrative (Genesis 27) when Jacob, disguised as his elder brother Esau through his mother Rebekah's stratagem, receives his blind father's blessing. The Master constructs this scene within an interior chamber that demonstrates unprecedented spatial sophistication: the room possesses clear dimensions, with side walls that recede convincingly toward the back of the space, a coffered ceiling that employs intuitive perspective to create depth, and architectural details that establish scale and enhance the sense of enclosure. The right wall includes a doorway through which Rebekah peers into the chamber, her presence both witnessing the deception and reminding viewers of her agency in orchestrating the scene. This doorway functions compositionally to open the enclosed space while maintaining its architectural integrity, a subtle balance between closure and openness that serves the narrative's themes of secrecy and revelation.
@@ -202,7 +202,7 @@ The technical execution reveals a master at the height of his powers: the *giorn
 
 <figure>
   <img src="/Images/Maestro-Isacco/image-2.jpg" alt="Esau Before Isaac">
-  <figcaption>Esau Before Isaac, 1291-95, fresco, 300 x 300 cm, Basilica Superiore di San Francesco, Assisi.</figcaption>
+  <figcaption>Esau Before Isaac, 1291-95, fresco, Basilica Superiore di San Francesco, Assisi.</figcaption>
 </figure>
 
 The companion fresco, *Esau Before Isaac*, depicts the narrative's resolution: Esau's return from hunting to discover that Jacob has stolen his blessing through deception. The Master again constructs an interior chamber, though one that differs subtly from the setting of the first fresco, suggesting either a different room within Isaac's dwelling or the passage of time between the two moments. The architectural space possesses similar depth and coherence, with receding walls and a coffered ceiling that creates believable three-dimensional environment. Isaac remains in his bed, but his posture has shifted—he leans forward now, animated by distress at the discovery of the deception. Esau stands before his father in the center of the composition, his body language conveying the emotional devastation of recognizing that he has lost his inheritance. The architectural setting again includes a doorway, though its position and treatment differ from the first fresco, suggesting the Master's concern with compositional variety while maintaining spatial consistency.

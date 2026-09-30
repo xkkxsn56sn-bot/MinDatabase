@@ -138,7 +138,7 @@ Corso di Buono is presumed to have died shortly after his last documented appear
 
 <figure>
   <img src="/Images/Corso-di-Buono/corso-di-buono-01.jpg" alt="Saint John the Evangelist">
-  <figcaption>Saint John the Evangelist, 1284, fresco, 210 x 170 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
+  <figcaption>Saint John the Evangelist, 1284, fresco, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
 ### Corso di Buono's signature
@@ -159,7 +159,7 @@ Corso di Buono is presumed to have died shortly after his last documented appear
 
 <figure>
   <img src="/Images/Corso-di-Buono/corso-di-buono-04.jpg" alt="The Miracle of St. John the Evangelist">
-  <figcaption>The Miracle of Saint John the Evangelist (Saint John the Evangelist raises two children from the dead using the seamless robe of Jesus Christ), 1284, fresco, 210 x 170 cm, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
+  <figcaption>The Miracle of Saint John the Evangelist (Saint John the Evangelist raises two children from the dead using the seamless robe of Jesus Christ), 1284, fresco, church of San Lorenzo, Montelupo Fiorentino.</figcaption>
 </figure>
 
 The Church of San Lorenzo, also known as the Priory of San Lorenzo, is one of the oldest buildings in Montelupo Fiorentino, with construction dating back to the 13th century. Corso di Buono’s frescoes were created during a period of economic crisis in the Florentine countryside, which was dominated by the Ghibellines, yet they bear witness to the parish community’s commitment to promoting sacred art. A painter active in the province of Florence, **Corso di Buono is documented solely through this confirmed work**, which links him to the Cimabuean tradition, characterized by monumental figures and vivid colors on an implicit gold background.

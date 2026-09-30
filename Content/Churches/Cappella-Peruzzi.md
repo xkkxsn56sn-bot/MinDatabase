@@ -218,7 +218,7 @@ The viewer entering from the transept first sees the altar and apsidal wall behi
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-01.jpg" alt="Peruzzi Chapel - Zacharias Receives the Angel's Announcement">
-  <figcaption>Zacharias Receives the Angel's Announcement, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Zacharias Receives the Angel's Announcement, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Theologically speaking, Giotto depicts the episode from Luke 1:5–25, in which the archangel Gabriel announces to Zechariah, an elderly and childless priest, the birth of John the Baptist, “prophet of the Most High God” and forerunner of the Messiah. The image of Zechariah depicted in the temple, while serving at the altar, points to the continuity between the Old and New Testaments: the sacrificial worship of the Temple finds its eschatological culmination in John the Baptist, for the Baptist is the one “who prepares the way of the Lord” and points directly to Christ.
@@ -239,7 +239,7 @@ In summary, Giotto’s Annunciation to Zechariah in the Peruzzi Chapel is not me
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-02.jpg" alt="Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony">
-  <figcaption>The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The lower right panel depicts the birth of John the Baptist, while on the left, Giotto combines the scene of the naming of the child—with the mute Zechariah writing the name “John” on a tablet—in accordance with the angel’s announcement as recounted in the apocryphal Gospels and hagiographic tradition (especially Jacopo da Varagine’s Legenda Aurea). This blending of birth and the bestowal of the name underscores that, for medieval theology, the name is not merely a sign but indicates a vocation: John is “the one spoken of by God,” that is, the forerunner of Christ, the herald of the Kingdom who prepares for the Baptism of the Lord.
@@ -266,7 +266,7 @@ For the Peruzzi family, active in a city increasingly marked by tensions between
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-03.jpg" alt="Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias">
-  <figcaption>Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Scenes such as the Feast of Herod and the presentation of John the Baptist’s head draw inspiration from the Synoptic Gospels (Matthew 14:6–12 and Mark 6:21–29) and were often interpreted in the Middle Ages as examples of a malevolent ludus: earthly power, intoxicated by pleasure and vanity, becomes an instrument of evil. Giotto emphasizes this idea not so much through the raw violence of the beheading (which is depicted in another panel) as through the contrast between the sumptuous feast and the horrific gesture of the gift-reception: the head of John the Baptist is presented to Herod as a platter, reduced to an object of consumption.
@@ -293,7 +293,7 @@ This innovative choice underscores the family’s awareness of being part of sac
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-04.jpg" alt="Peruzzi Chapel - A Vision on the Island of Patmos">
-  <figcaption>A Vision on the Island of Patmos, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>A Vision on the Island of Patmos, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The painting is the first scene in the cycle depicting *Saint John the Evangelist*, flanked by the cycle of *Saint John the Baptist* dedicated to the Peruzzi family itself, and should be interpreted both as an “apocalyptic vision” and as a statement of dynastic memory and identity.
@@ -310,7 +310,7 @@ In summary, Giotto’s Vision on the Island of Patmos is a powerful theological 
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-05.jpg" alt="Peruzzi Chapel - The Resurrection of Drusiana">
-  <figcaption>The Resurrection of Drusiana, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Resurrection of Drusiana, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Giotto’s fresco *The Resurrection of Drusiana*, located in the Peruzzi Chapel of Santa Croce in Florence (c. 1318–1322), depicts an episode from the *Stories of Saint John the Evangelist* and portrays a “miraculous” resurrection scene that holds a dual theological and symbolic significance: on the one hand, it reaffirms Christ’s power over death; on the other, it serves as a promise of resurrection for the commissioning family. In the context of a funerary chapel, this scene becomes a true spiritual program of salvation and otherworldly glory for the Peruzzi family.
@@ -337,7 +337,7 @@ The choice of John the Evangelist, linked to a message of love and communion, al
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-06.jpg" alt="Peruzzi Chapel - The Ascension of St. John">
-  <figcaption>The Ascension of St. John, 1318-22, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Ascension of St. John, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The scene depicts the saint’s assumption into heaven, in which John the Baptist is welcomed by Christ and a procession of angels, while below him a crowd of onlookers gathers, likely including members of the commissioning family. Below is an analysis from a theological perspective and regarding its symbolic significance for the Peruzzi family.

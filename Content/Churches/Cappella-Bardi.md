@@ -69,13 +69,13 @@ meta:
 
   - title: "The Fresco Cycle — Seven Scenes"
     list:
-      - "Left wall, scene 1: St. Francis Renounces His Clothes in the Presence of Bishop Guido and His Father Bernardone, c. 1325, fresco, 280 × 450 cm"
-      - "Left wall, scene 2: Apparition of Francis to Saint Anthony in the Chapter of Arles, c. 1325, fresco, 280 × 450 cm"
-      - "Left wall, scene 3: The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, c. 1325, fresco, 280 × 450 cm"
-      - "Right wall, scene 1: The Confirmation of the Rule (Approval of the Franciscan Rule by Innocent III), c. 1325, fresco, 280 × 450 cm"
-      - "Right wall, scene 2: Trial by Fire before the Sultan, c. 1325, fresco, 280 × 450 cm"
-      - "Right wall, scene 3: The Visions of Brother Augustine and Bishop Guido of Assisi, c. 1325, fresco, 280 × 450 cm"
-      - "Entrance arch lunette: Saint Francis Receives the Stigmata, c. 1325, fresco, 390 × 370 cm — largest scene; visible from the nave; theological seal of the entire cycle"
+      - "Left wall, scene 1: St. Francis Renounces His Clothes in the Presence of Bishop Guido and His Father Bernardone, c. 1325, fresco"
+      - "Left wall, scene 2: Apparition of Francis to Saint Anthony in the Chapter of Arles, c. 1325, fresco"
+      - "Left wall, scene 3: The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, c. 1325, fresco"
+      - "Right wall, scene 1: The Confirmation of the Rule (Approval of the Franciscan Rule by Innocent III), c. 1325, fresco"
+      - "Right wall, scene 2: Trial by Fire before the Sultan, c. 1325, fresco"
+      - "Right wall, scene 3: The Visions of Brother Augustine and Bishop Guido of Assisi, c. 1325, fresco"
+      - "Entrance arch lunette: Saint Francis Receives the Stigmata, c. 1325, fresco — visible from the nave; theological seal of the entire cycle"
 
   - title: "Conservation History"
     list:
@@ -203,7 +203,7 @@ The entire sequence functions as a symbolic narrative: on the one hand, it spiri
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-01.jpg" alt="Bardi Chapel - St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone">
-  <figcaption>St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The first scene, *St. Francis renounces his clothes in the presence of Bishop Guido and his father Bernardone*, shows Francis in Assisi, standing between his father Pietro Bernardone and the bishop, covered by the bishop’s cloak and half-naked, while the town crowd divides into two opposing groups: the enraged family, the young saint in a religious embrace, and the children throwing stones, immediately restrained by their mothers. Giotto emphasizes the father’s emotional outburst, with a face contorted by rage, and the threat of stones as a sign of a society initially hostile to God’s folly.
@@ -214,7 +214,7 @@ Socially, this image speaks powerfully to the Bardi family: Francis’s renuncia
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-04.jpg" alt="Bardi Chapel - Apparition of Francis to Saint Anthony in the Chapter of Arles">
-  <figcaption>Apparition of Francis to Saint Anthony in the Chapter of Arles, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Apparition of Francis to Saint Anthony in the Chapter of Arles, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The scene of the *Apparition of Francis to Saint Anthony in the Chapter of Arles* depicts the saint standing in the center of a loggia, with his arms raised and hands open, without stigmata, while Saint Anthony occupies a peripheral position; the friars, seated, are partly distracted, and only a few notice him. The image reflects a new iconography: Francis is clean-shaven, not bearded, to emphasize his conformity to the rules, since in the Trentino tradition, clean-shaven men are figures of social norm, not of deviance.
@@ -227,10 +227,10 @@ For the Bardi, the message is twofold: Francis’s protection extends even to pl
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-05.jpg" alt="Bardi Chapel - The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata">
-  <figcaption>The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Funeral of Saint Francis, with the Physician Jerome Searching for the Stigmata, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
-Giotto’s fresco titled *The Funeral of Saint Francis, with the Physician Jerome Examining the Stigmata* (or The Death of Saint Francis, with the Lamentation, the Examination of the Stigmata, and the Ascension of the Soul) is one of the most theologically profound moments in the Bardi Chapel cycle. Divided into a single panel measuring 280 × 450 cm, the fresco merges three episodes: the death and mourning around the bier, the physical verification of the stigmata, and the ascent of the soul toward heaven, with friars, laypeople, angels, and visions interwoven into a single simultaneous narrative. Furthermore, the scene is an epiphany of the body and the flesh as a place of testimony, where Francis’s holiness is not merely a spiritual experience but a visible, analyzable, and ultimately glorified incarnation, in a perspective reminiscent of the Eucharistic theology of the “visibility” of grace in the body of Christ and in the body of the saint. For the Bardi family, this complex of death, verification, and vision functions as an icon of hope and mediation, linking earthly wealth to grace, urban life to eternal life, and dynastic memory to the memory of Francis, patron of their chapel.
+Giotto’s fresco titled *The Funeral of Saint Francis, with the Physician Jerome Examining the Stigmata* (or The Death of Saint Francis, with the Lamentation, the Examination of the Stigmata, and the Ascension of the Soul) is one of the most theologically profound moments in the Bardi Chapel cycle. Conceived as a single scene, the fresco merges three episodes: the death and mourning around the bier, the physical verification of the stigmata, and the ascent of the soul toward heaven, with friars, laypeople, angels, and visions interwoven into a single simultaneous narrative. Furthermore, the scene is an epiphany of the body and the flesh as a place of testimony, where Francis’s holiness is not merely a spiritual experience but a visible, analyzable, and ultimately glorified incarnation, in a perspective reminiscent of the Eucharistic theology of the “visibility” of grace in the body of Christ and in the body of the saint. For the Bardi family, this complex of death, verification, and vision functions as an icon of hope and mediation, linking earthly wealth to grace, urban life to eternal life, and dynastic memory to the memory of Francis, patron of their chapel.
 
 Theologically, the scene of mourning around Francis’s body dramatizes the tension between grief and hope, between earthly loss and heavenly glory. The friars, arranged around the bier, are depicted in poses of desperate weeping, tenderness, contemplation, and wonder, so that the visual field blurs the line between emotional and spiritual gestures. One friar, prostrating himself with arms raised, expresses an almost sculptural grief, while others, kissing the stigmatized hands and feet, imbue their devotion with the character of a cult of relics, where the wound of the body becomes a sign of identification with Christ. In this sense, the scene anticipates the idea of the *body of sanctity*: the saint is not merely a spiritual transformation, but a body literally imprinted by the cross, in which the stigmata replace the mark of sin with the mark of grace. The presence of laypeople participating in the funeral, along the sides of the composition, extends the religious community beyond the convent walls, suggesting that Francis’s holiness is a public good, involving the city, the patrons, and their own families, such as the Bardi, whose patrons are present, albeit invisibly, in the chapel’s program.
 
@@ -248,10 +248,10 @@ Furthermore, the presence of laypeople on either side, participating in the fune
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-02.jpg" alt="Bardi Chapel - The Confirmation of the Rule">
-  <figcaption>The Confirmation of the Rule, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Confirmation of the Rule, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
-Giotto’s fresco known as *The Confirmation of the Rule* (or The Approval of the Franciscan Rule), in the Bardi Chapel (c. 1325, 280 × 450 cm), depicts the moment when Innocent III, seated on a marble throne in the Lateran, grants his formal approval of the first Rule of the Friars Minor, presented by Francis, who is kneeling with his right hand on his heart. The scene is set in an almost theatrical architectural space, with pillars, marble, and drapery evoking the papal court, where the pope, in a sumptuous robe with ermine and pallium, is flanked by two mitered bishops, while the friars, in gray and brown habits, occupy the other side of the image, with simple robes and neatly shaved heads, which clearly distinguishes them from the wealth of the hierarchy.
+Giotto’s fresco known as *The Confirmation of the Rule* (or The Approval of the Franciscan Rule), in the Bardi Chapel (c. 1325), depicts the moment when Innocent III, seated on a marble throne in the Lateran, grants his formal approval of the first Rule of the Friars Minor, presented by Francis, who is kneeling with his right hand on his heart. The scene is set in an almost theatrical architectural space, with pillars, marble, and drapery evoking the papal court, where the pope, in a sumptuous robe with ermine and pallium, is flanked by two mitered bishops, while the friars, in gray and brown habits, occupy the other side of the image, with simple robes and neatly shaved heads, which clearly distinguishes them from the wealth of the hierarchy.
 
 This contrast of colors and garments is not merely decorative but visually constructs the theological theme of the twofold Church: the institutional Church, visible in papal pomp, and the spiritual Church, embodied by the poor man of God and his companions, both recognized as legitimate and necessary. The diagonal line connecting the saint to the pope’s hand and to the document of the Rule symbolizes the passage of grace and authority, in which Franciscan poverty is welcomed within the ordered structure of the Church, without being nullified or militarized.
 
@@ -269,10 +269,10 @@ The Rule, therefore, is an image of control and stability: Francis’s spiritual
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-03.jpg" alt="Bardi Chapel - Trial by Fire">
-  <figcaption>Trial by Fire, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Trial by Fire, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
-Giotto’s *Trial by Fire*, dated to around 1325 and listed in many catalogs as 1325–1328, is one of the central theological moments in the cycle of St. Francis in the Bardi Chapel at Santa Croce, Florence. Its dimensions of 280 × 450 cm place it in the middle section of the right wall, corresponding to the narrative transition from the message of poverty and the establishment of the Rule to the eschatological and glorifying dimension of the final scenes. Theologically, the scene functions as an intercultural opening and an epiphany of Christian power: Francis, standing near a companion, raises his hands in the sign of the cross before a bonfire, while the sultan sits in the center on a throne, in a square room open to the sky, with walls decorated by drapery and palm trees above, suggesting an Eastern court architecture filtered through Mediterranean iconography. On the left, the Muslim scholars, in rich robes and turbans, refuse to accept the trial and retreat in fear, in response to the sultan’s gesture pointing to the fire and their reluctance.
+Giotto’s *Trial by Fire*, dated to around 1325 and listed in many catalogs as 1325–1328, is one of the central theological moments in the cycle of St. Francis in the Bardi Chapel at Santa Croce, Florence. It occupies the middle section of the right wall, corresponding to the narrative transition from the message of poverty and the establishment of the Rule to the eschatological and glorifying dimension of the final scenes. Theologically, the scene functions as an intercultural opening and an epiphany of Christian power: Francis, standing near a companion, raises his hands in the sign of the cross before a bonfire, while the sultan sits in the center on a throne, in a square room open to the sky, with walls decorated by drapery and palm trees above, suggesting an Eastern court architecture filtered through Mediterranean iconography. On the left, the Muslim scholars, in rich robes and turbans, refuse to accept the trial and retreat in fear, in response to the sultan’s gesture pointing to the fire and their reluctance.
 
 From a theological perspective, the *Trial by Fire* transforms Francis’s mission into an epistemological confrontation between religions. The scene, developed from Bonaventure’s text, introduces the trial as a verification of revealed truth: the Christian faith is not imposed by military force, but through a willingness to undergo a supernatural test, in which God is invoked as the guarantor of His own truth. Theologically, the fire takes on the significance of a *judgment of God*: those who accept it in the name of their faith place themselves in God’s hands, confident that their truth will be protected, while those who refuse visually reveal their surrender to the fear of losing their earthly life. Francis, in a solemn and reassuring pose, faces the fire not with anguish but with serene trust, thus embodying an image of the miles Christi who faces the most extreme trial by trusting in the power of the Cross, not in his own physical courage. In this way, the scene reflects a theology of the divine presence in moments of extreme tension, in which truth is not merely affirmed conceptually, but proven through the body and courage.
 
@@ -286,7 +286,7 @@ In the context of the Bardi Chapel, the *Trial by Fire* is situated between the 
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-06.jpg" alt="Bardi Chapel - The visions of Brother Augustine and Bishop Guido of Assisi">
-  <figcaption>The visions of Brother Augustine and Bishop Guido of Assisi, 1325, fresco, 280 x 450 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The visions of Brother Augustine and Bishop Guido of Assisi, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Giotto’s fresco with the visions of *Brother Augustine and Bishop Guido* concludes the Bardi cycle by transforming the death of Francis into a theologically dense scene of simultaneous presence and absence. The composition fuses more than one episode into a single pictorial field: at the centre and sides runs the obsequies and verification of the stigmata; to the left, Augustine’s vision of the saint’s soul ascending; to the right, the nocturnal dream in which Bishop Guido hears Francis announce his departure from the world. This visual simultaneity is already a theological statement: the transitus of the saint is experienced by different witnesses and on different planes of reality—corporeal, visionary, and oneiric—yet all converge on the same truth of his glorification.
@@ -303,10 +303,10 @@ For the Bardi family, the theological content of the fresco intersects closely w
 
 <figure>
   <img src="/Images/Cappella-Bardi/cappella-bardi-07.jpg" alt="Bardi Chapel - Saint Francis receives the stigmata">
-  <figcaption>Saint Francis receives the stigmata, 1325, fresco, 390 x 370 cm, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Saint Francis receives the stigmata, 1325, fresco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
-The *Stigmatization of Saint Francis* in the Bardi Chapel occupies the lunette above the chapel’s entrance arch, in an exceptional and deliberately chosen position: anyone standing in the nave of the Basilica of Santa Croce and looking toward the right transept encounters this scene as the first and last image of the cycle, in direct visual dialogue with the altar cross and with the basilica’s very dedication to the Sancta Crux. Its dimensions, 390 × 370 cm, make it the largest scene in the cycle, in an almost square format that emphasizes the vertical focus of the composition: the sky, the seraphim-Christ, the golden rays, the body of Francis, the rock of La Verna, and the small cell with Brother Leo are arranged along an axis that runs from the divine to the earthly without any intermediate interruptions.
+The *Stigmatization of Saint Francis* in the Bardi Chapel occupies the lunette above the chapel’s entrance arch, in an exceptional and deliberately chosen position: anyone standing in the nave of the Basilica of Santa Croce and looking toward the right transept encounters this scene as the first and last image of the cycle, in direct visual dialogue with the altar cross and with the basilica’s very dedication to the Sancta Crux. Its almost square format emphasizes the vertical focus of the composition: the sky, the seraphim-Christ, the golden rays, the body of Francis, the rock of La Verna, and the small cell with Brother Leo are arranged along an axis that runs from the divine to the earthly without any intermediate interruptions.
 
 The scene is neither narrative nor dialogic in the dramatic sense of the others in the cycle: there are no crowds, no secular architecture, no human conflicts; there is only the solitary encounter between the saint and the divine, in a rugged landscape that Giotto constructs with layered rocks, likely inspired by the actual geology of Mount Alverno, against which a small hermit’s chapel rests. This scene, as the only one placed above the arch and oriented toward the nave, is not strictly part of the narrative cycle of the six side scenes, but constitutes its theological seal, the point of arrival toward which all the others tend.
 
