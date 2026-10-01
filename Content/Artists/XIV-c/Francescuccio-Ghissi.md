@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "Francescuccio Ghissi"
-subtitle: "Fabrianese Trecento painter of Madonnas of Humility and small devotional panels, pupil and collaborator of Allegretto Nuzi, fixed by the signed and dated Madonna of Humility of 1359"
+subtitle: "Fabrianese Trecento painter of Madonnas of Humility and small devotional panels, pupil and collaborator of Allegretto Nuzi, fixed by the signed and dated Madonnas of Humility of 1359 and 1374"
 dates: "Documented 1359-1395 (a payment of 1345 to a Francescuccio di Cicco is read as the first trace; the 1395 date is itself questioned)"
 
 meta:
@@ -14,9 +14,9 @@ meta:
       - label: "Main cultural orbit"
         value: "Fabriano and the Marche, in the workshop orbit of Allegretto Nuzi"
       - label: "Securely dated work"
-        value: "Madonna of Humility, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano"
+        value: "Madonna of Humility, signed and dated 1359, Pinacoteca Civica Bruno Molajoli, Fabriano; Madonna, signed and dated 1374, Sant'Andrea, Montegiorgio"
       - label: "Documentary status"
-        value: "Fragmentary: birth and death undocumented; chronology rests on a payment, one signed and dated panel and stylistic comparison"
+        value: "Fragmentary: birth and death undocumented; chronology rests on a payment, two signed and dated panels (1359 and 1374) and stylistic comparison"
 
   - title: "IDENTITY AND LIMITS"
     list:
@@ -30,8 +30,8 @@ meta:
     pairs:
       - label: "First trace"
         value: "1345, payment to Francescuccio di Cicco from the Confraternita di Santa Maria del Mercato, Fabriano"
-      - label: "Fixed point"
-        value: "1359, Madonna of Humility signed and dated, Fabriano"
+      - label: "Fixed points"
+        value: "1359, Madonna of Humility signed and dated, Fabriano; 1374, Madonna signed and dated, Sant'Andrea, Montegiorgio"
       - label: "Working with Nuzi"
         value: "The 1360s and 1370s, as collaborator or assistant in Nuzi's workshop"
       - label: "Latest documented presence"
@@ -44,6 +44,8 @@ meta:
   - title: "KEY WORKS"
     list:
       - "Madonna of Humility, 1359, signed and dated, tempera and gold on panel, 173 x 122 cm, with the Woman of the Apocalypse (crescent, rays) - Pinacoteca Civica Bruno Molajoli, Fabriano"
+      - "Madonna, 1374, signed and dated - Sant'Andrea, Montegiorgio"
+      - "Madonna of Humility, signed, undated - Sant'Agostino, Ascoli Piceno"
       - "Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius, with Christ, angels, Catherine and Anthony Abbot in the cusps, 1370, 122 x 173 cm - Pinacoteca Civica Bruno Molajoli, Fabriano"
       - "Madonna of Humility, c. 1365, 34.6 x 19.9 cm, in a Gothic frame - Pinacoteca Vaticana"
       - "Dead Christ and angels; Adoration of the Child, c. 1360, 39.3 x 28.5 cm - Pinacoteca Vaticana"
@@ -75,7 +77,7 @@ meta:
       - "Lay confraternities of Fabriano, from the Santa Maria del Mercato payment of 1345"
       - "Santa Lucia (San Domenico), Fabriano, for the Madonna of 1359"
       - "Franciscan, Dominican and Augustinian circles reported for other works, without a work in the text to prove them"
-      - "Works spread over Montegiorgio, Ascoli Piceno and Fermo: only the Fermo panel is described in the text"
+      - "Works spread over Montegiorgio, Ascoli Piceno and Fermo: the Fermo panel is described in the text, the Montegiorgio Madonna of 1374 and the signed, undated Madonna of Humility at Sant'Agostino in Ascoli Piceno are named"
       - "Perugia in 1389: the only documented step outside the Marche"
 
   - title: "RECEPTION AND LEGACY"
@@ -116,7 +118,7 @@ The patronage network supporting Francescuccio Ghissi's artistic career demonstr
 
 Documentary evidence indicates that multiple churches in Fabriano commissioned works from Ghissi's workshop, including Santa Lucia (also known as San Domenico), suggesting his recognition as a preferred artist for local ecclesiastical projects. The patronage of mendicant orders, particularly the Franciscans and Dominicans, appears to have been especially significant in Ghissi's career development, as these communities actively promoted specific devotional iconographies that aligned with his artistic specializations.
 
-His signed Madonna dell'Umiltà of 1359, originally created for the church of Santa Lucia in Fabriano, exemplifies the type of devotional commission that formed the backbone of his professional practice. The distribution of his works across multiple ecclesiastical sites in the Marche region, including churches in Montegiorgio, Ascoli Piceno, and Fermo, indicates a patronage network that extended well beyond his home city. The commissioning of altarpieces for specific chapel dedications, such as the Saint John Altarpiece, demonstrates the artist's ability to create complex narrative cycles that satisfied sophisticated theological and liturgical requirements. Evidence suggests that Ghissi's workshop developed particular expertise in creating works for Augustinian<a href="/endnotes.html#fn-augustinian-order" class="footnote"><sup>2</sup></a> communities, as multiple attributions connect his hand to churches associated with this religious order. The consistent iconographic program evident in his Madonna dell'Umiltà series suggests coordinated patronage efforts, possibly reflecting broader theological campaigns promoting specific aspects of Marian doctrine among lay populations.
+His signed Madonna dell'Umiltà of 1359, originally created for the church of Santa Lucia in Fabriano, exemplifies the type of devotional commission that formed the backbone of his professional practice. The distribution of his works across multiple ecclesiastical sites in the Marche region, including churches in Montegiorgio (the Madonna signed and dated 1374 at Sant'Andrea), Ascoli Piceno (the signed Madonna of Humility at Sant'Agostino), and Fermo, indicates a patronage network that extended well beyond his home city. The commissioning of altarpieces for specific chapel dedications, such as the Saint John Altarpiece, demonstrates the artist's ability to create complex narrative cycles that satisfied sophisticated theological and liturgical requirements. Evidence suggests that Ghissi's workshop developed particular expertise in creating works for Augustinian<a href="/endnotes.html#fn-augustinian-order" class="footnote"><sup>2</sup></a> communities, as multiple attributions connect his hand to churches associated with this religious order. The consistent iconographic program evident in his Madonna dell'Umiltà series suggests coordinated patronage efforts, possibly reflecting broader theological campaigns promoting specific aspects of Marian doctrine among lay populations.
 
 Regional ecclesiastical networks played a crucial role in extending Ghissi's artistic influence beyond his immediate geographic location, as documentary sources record his presence in Perugia by 1389, indicating professional relationships with Umbrian religious institutions. The commissioning of works for cathedral churches, including documented projects for the Cathedral of Fabriano, demonstrates his recognition by the highest levels of local ecclesiastical hierarchy. Civic patronage appears to have complemented ecclesiastical commissions, though specific examples of municipal or governmental projects remain less well-documented in surviving sources.
 
@@ -162,7 +164,7 @@ Evidence suggests that his collaboration with other established masters created 
 
 ## Death
 
-Francescuccio Ghissi's death remains undocumented in surviving historical sources, though his latest signed work dated 1395 provides a terminus ante quem for understanding the conclusion of his artistic career. Earlier scholarly suggestions that he died in Florence in 1386 lack documentary support and appear to conflict with evidence of his continued activity into the 1390s. His most significant artistic legacy consists of his innovative development of the Madonna dell'Umiltà iconography and his masterful Saint John Altarpiece, works that demonstrate his sophisticated understanding of both theological requirements and artistic possibilities. The Madonna dell'Umiltà of 1359 in the Fabriano Pinacoteca, his earliest signed work, represents a crucial example of 14th-century devotional painting that combines theological sophistication with accessible spiritual expression.
+Francescuccio Ghissi's death remains undocumented in surviving historical sources, though a Madonna dell'Umiltà dated 1395 and given to a Franciscus, possibly himself, offers a doubtful terminus ante quem for the conclusion of his artistic career. Earlier scholarly suggestions that he died in Florence in 1386 lack documentary support and appear to conflict with evidence of his continued activity into the 1390s. His most significant artistic legacy consists of his innovative development of the Madonna dell'Umiltà iconography and his masterful Saint John Altarpiece, works that demonstrate his sophisticated understanding of both theological requirements and artistic possibilities. The Madonna dell'Umiltà of 1359 in the Fabriano Pinacoteca, his earliest signed work, represents a crucial example of 14th-century devotional painting that combines theological sophistication with accessible spiritual expression.
 
 ## Works
 
@@ -221,7 +223,7 @@ The attribution to Francescuccio Ghissi (active in Fabriano, c. 1359–1395) pla
   <figcaption>Our Lady of Humility, 1359, tempera on panel, 173 × 122 cm, Pinacoteca civica Bruno Molajoli, Fabriano.</figcaption>
 </figure>
 
-This is a large-scale devotional panel in tempera and gold on wood, and it holds a special place in the artist's oeuvre because it is signed and dated 1359 — the fixed point around which the whole reconstruction of Francescuccio Ghissi's career is built. Along the base runs a painted inscription (now abraded but partly legible) carrying the artist's signature and the date, the very document that anchors the Fabriano master's chronology. The image combines the Madonna of Humility (the Virgin seated low upon the ground) with the Maria Lactans / Madonna del Latte (the Nursing Virgin), and enriches that type with apocalyptic and cosmological symbolism, as described below.
+This is a large-scale devotional panel in tempera and gold on wood, and it holds a special place in the artist's oeuvre because it is signed and dated 1359 — the earlier of the two signed and dated panels around which the reconstruction of Francescuccio Ghissi's career is built, the other being the Madonna of 1374 at Sant'Andrea in Montegiorgio. Along the base runs a painted inscription (now abraded but partly legible) carrying the artist's signature and the date, one of the documents that anchor the Fabriano master's chronology. The image combines the Madonna of Humility (the Virgin seated low upon the ground) with the Maria Lactans / Madonna del Latte (the Nursing Virgin), and enriches that type with apocalyptic and cosmological symbolism, as described below.
 
 The Virgin is seated on the ground in token of her *humilitas*, shown nearly to full length, her body turned three-quarters and her head gently inclined toward the Child. Her face is of the sweet, softly modelled type characteristic of the Nuzi–Ghissi milieu, with lowered gaze and delicate features; a double gold nimbus — an inner rayed disc within an outer circle — frames her head.
 
@@ -242,7 +244,7 @@ Behind the white cloth a bluish sky and a horizon appear, with a raised floor an
 
 As is visible, the panel shows its age: extensive craquelure, some losses and abrasion (notably in the gold of the halo and the lower inscription), and the wear one expects of a large fourteenth-century devotional picture. None of this obscures the refined linear handling of the textile patterning and the tender facial types that make the attribution secure.
 
-Because it is signed and dated 1359, this Fabriano *Madonna dell'Umiltà* is the cornerstone of Ghissi's corpus and the yardstick against which the unsigned panels (such as the two Vatican panels above) are measured. It confirms his formation in the immediate circle of Allegretto Nuzi, whose sweetness Ghissi translates into a more insistently linear, decoratively dense manner; the two artists' hands are repeatedly weighed against one another in the Marchigian Trecento literature.
+Because it is signed and dated 1359 (as is the Madonna of 1374 at Montegiorgio), this Fabriano *Madonna dell'Umiltà* is, with that panel, the cornerstone of Ghissi's corpus and the yardstick against which the unsigned panels (such as the two Vatican panels above) are measured. It confirms his formation in the immediate circle of Allegretto Nuzi, whose sweetness Ghissi translates into a more insistently linear, decoratively dense manner; the two artists' hands are repeatedly weighed against one another in the Marchigian Trecento literature.
 
 ### Madonna and Child between a Saint Bishop and Saints John the Evangelist, John the Baptist and Venantius; in the cusps: Christ adored by two angels between Saint Catherine of Alexandria and Saint Anthony the Abbot
 
