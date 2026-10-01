@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-01T11:03:42+00:00",
+  "updated_at": "2026-10-01T11:26:50+00:00",
   "notices": [
+    {
+      "title": "Francescuccio Ghissi",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Francescuccio-Ghissi.md",
+      "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-01T13:25:47+02:00"
+    },
     {
       "title": "Maestro di Pedret",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIII-c/Maestro-di-Sant-Agostino.html",
       "change_type": "created",
       "pushed_at": "2026-10-01T11:48:37+02:00"
-    },
-    {
-      "title": "Maestro dei Magi di Fabriano",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-dei-Magi-di-Fabriano.html",
-      "change_type": "created",
-      "pushed_at": "2026-09-30T17:10:58+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro di Pedret",
+      "title": "Francescuccio Ghissi",
       "section": "Artists",
-      "path": "Content/Artists/XI-c/Maestro-di-Pedret.md",
-      "page_url": "/Content/Artists/XI-c/Maestro-di-Pedret.html",
+      "path": "Content/Artists/XIV-c/Francescuccio-Ghissi.md",
+      "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-01T13:02:45+02:00"
+      "pushed_at": "2026-10-01T13:25:47+02:00"
     }
   ]
 }
