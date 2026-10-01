@@ -11,6 +11,7 @@ and stores the last-sent signature in assets/data/newsletter_last_notified.json.
 
 from __future__ import annotations
 
+import argparse
 import csv
 import datetime as dt
 import json
@@ -313,7 +314,30 @@ def _send_messages(
     return sent
 
 
-def main() -> int:
+def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    # Prima ogni argomento era ignorato: `--help` lanciava l'invio vero. Il
+    # parser e' minimo di proposito: un flag ignoto esce con errore (codice 2)
+    # prima che main() legga una sola riga di stato.
+    parser = argparse.ArgumentParser(
+        description=(
+            "Send the newsletter for the current push. Configuration is read "
+            "from the environment (SMTP_*, NEWSLETTER_*, FORCE_NOTIFY)."
+        ),
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help=(
+            "compute and print status, subject and recipients, then exit: "
+            "nothing is sent and the state file is not written; works even "
+            "when the signature was already notified"
+        ),
+    )
+    return parser.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> int:
+    dry_run = _parse_args(argv).dry_run
     notices_json = _load_json(NOTICES_PATH, {"notices": []})
 
     # L'email annuncia il push corrente, non la lista rotolante della
@@ -337,9 +361,13 @@ def main() -> int:
     if not force_notify and signature_already_notified:
         print("Newsletter status: skipped: already notified")
         print("Latest notices were already notified. Skipping.")
-        return 0
+        if not dry_run:
+            return 0
+        print("[dry-run] Continuing only to show what would have been sent.")
 
-    if force_notify and signature_already_notified:
+    if dry_run and (force_notify or not signature_already_notified):
+        print("Newsletter status: dry-run: would send")
+    elif force_notify and signature_already_notified:
         print("Newsletter status: sent: forced resend")
         print("FORCE_NOTIFY is enabled and the latest notice signature matches the previous send. Continuing with forced resend.")
     elif not signature_already_notified:
@@ -364,7 +392,7 @@ def main() -> int:
 
     threshold_mode = _normalize_threshold_mode(os.getenv("NEWSLETTER_MIN_RECIPIENTS_MODE"))
 
-    if len(recipients) < min_recipients:
+    if len(recipients) < min_recipients and not dry_run:
         message = (
             f"Recipient safety check: resolved {len(recipients)} recipient(s), "
             f"minimum required is {min_recipients}."
@@ -388,6 +416,18 @@ def main() -> int:
     subject = (os.getenv("NEWSLETTER_SUBJECT") or "").strip() or _build_subject(notices)
     site_base_url = (os.getenv("SITE_BASE_URL") or "https://medievalvisions.com").strip()
     secure_mode = (os.getenv("SMTP_SECURE") or "starttls").strip().lower()
+
+    if dry_run:
+        print("[dry-run] Nothing sent, state file untouched.")
+        print(f"[dry-run] Subject: {subject}")
+        print(f"[dry-run] Notices: {len(notices)}")
+        print(f"[dry-run] Recipients ({len(recipients)}): {', '.join(recipients)}")
+        if len(recipients) < min_recipients:
+            print(
+                f"[dry-run] A real run would abort: {len(recipients)} recipient(s), "
+                f"minimum required is {min_recipients}."
+            )
+        return 0
 
     if not host:
         print("SMTP_HOST not configured. Skipping newsletter notification.")
