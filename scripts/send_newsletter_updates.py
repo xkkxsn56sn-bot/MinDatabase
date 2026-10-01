@@ -16,6 +16,7 @@ import csv
 import datetime as dt
 import json
 import os
+import re
 import smtplib
 import ssl
 from email.message import EmailMessage
@@ -314,6 +315,17 @@ def _send_messages(
     return sent
 
 
+# I log di CI sono pubblici e gli iscritti no: nessun percorso dello script
+# stampa un indirizzo, nemmeno mascherato (con due iscritti la maschera non
+# nasconderebbe nulla). Si stampano solo numeri; le eccezioni di smtplib, che
+# possono citare i destinatari rifiutati, passano da qui.
+_EMAIL_RE = re.compile(r"[^\s<>\"',;:()\[\]]+@[^\s<>\"',;:()\[\]]+")
+
+
+def _redact_addresses(text: str) -> str:
+    return _EMAIL_RE.sub("<address>", text)
+
+
 def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     # Prima ogni argomento era ignorato: `--help` lanciava l'invio vero. Il
     # parser e' minimo di proposito: un flag ignoto esce con errore (codice 2)
@@ -328,9 +340,10 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         "--dry-run",
         action="store_true",
         help=(
-            "compute and print status, subject and recipients, then exit: "
-            "nothing is sent and the state file is not written; works even "
-            "when the signature was already notified"
+            "compute and print status, subject and the number of recipients "
+            "(never their addresses), then exit: nothing is sent and the "
+            "state file is not written; works even when the signature was "
+            "already notified"
         ),
     )
     return parser.parse_args(argv)
@@ -421,7 +434,7 @@ def main(argv: list[str] | None = None) -> int:
         print("[dry-run] Nothing sent, state file untouched.")
         print(f"[dry-run] Subject: {subject}")
         print(f"[dry-run] Notices: {len(notices)}")
-        print(f"[dry-run] Recipients ({len(recipients)}): {', '.join(recipients)}")
+        print(f"[dry-run] Recipients: {len(recipients)}")
         if len(recipients) < min_recipients:
             print(
                 f"[dry-run] A real run would abort: {len(recipients)} recipient(s), "
@@ -453,7 +466,7 @@ def main(argv: list[str] | None = None) -> int:
             use_starttls=use_starttls,
         )
     except Exception as exc:
-        print(f"Failed to send newsletter notifications: {exc}")
+        print(f"Failed to send newsletter notifications: {_redact_addresses(str(exc))}")
         return 1
 
     now_iso = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()

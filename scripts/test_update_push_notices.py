@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Batteria di test per update_push_notices.py.
 
-Undici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
+Dodici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
 si esegue con `python3 scripts/test_update_push_notices.py` e stampa una riga
 per caso, uscendo con codice 1 al primo fallimento.
 
@@ -55,6 +55,15 @@ k. Le liste sono due e vanno in due posti diversi. `notices` rotola e riempie
    NOTA DI CONTRATTO: i casi di g provano `_build_subject` e la firma su liste
    costruite a mano, non su quel che legge `main`, e restano validi come
    sono. Cio' che cambia e' da dove `main` prende la lista, e lo copre k.
+
+l. Il parser degli argomenti di `send_newsletter_updates.py`. Prima ogni
+   argomento era ignorato e `--help` lanciava l'invio vero. Due casi lo
+   inchiodano: `--help` esce 0 senza leggere lo stato ne' toccare SMTP, e un
+   flag ignoto esce 2 senza inviare. Si prova sostituendo `_load_json` e
+   `_send_messages` con trappole che falliscono se vengono chiamate. Un terzo
+   caso guarda l'output di `--dry-run` su file temporanei con indirizzi
+   veri: i log di CI sono pubblici, e deve contare i destinatari senza
+   stamparne nessuno (zero `@`).
 
 h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
    di radice, `Content/prompts/` — non produce notizia, e un push che tocca
@@ -678,6 +687,101 @@ check(
     "k. la lista solo-push si legge da latest_push, mai da notices",
     snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": k_current}) == k_current,
     str(snu._push_notices({"notices": ROLLING_BEFORE, "latest_push": k_current})),
+)
+
+# l. parser degli argomenti di send_newsletter_updates.py
+import contextlib
+import io
+
+
+def _run_main_with_traps(argv: list[str]) -> tuple[object, list[str]]:
+    """Esegue main(argv) con lo stato e l'SMTP sostituiti da trappole.
+
+    Ritorna (codice di uscita, nomi delle trappole scattate).
+    """
+    fired: list[str] = []
+
+    def trap(name):
+        def _trap(*args, **kwargs):
+            fired.append(name)
+            raise AssertionError(f"{name} chiamata")
+        return _trap
+
+    saved = (snu._load_json, snu._send_messages)
+    snu._load_json = trap("_load_json")
+    snu._send_messages = trap("_send_messages")
+    out, err = io.StringIO(), io.StringIO()
+    try:
+        with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+            try:
+                code = snu.main(argv)
+            except SystemExit as exc:
+                code = exc.code
+    finally:
+        snu._load_json, snu._send_messages = saved
+    return code, fired
+
+
+l_help_code, l_help_fired = _run_main_with_traps(["--help"])
+check(
+    "l. --help esce 0 senza leggere lo stato ne' inviare",
+    l_help_code == 0 and not l_help_fired,
+    f"code={l_help_code!r}, trappole={l_help_fired}",
+)
+l_bad_code, l_bad_fired = _run_main_with_traps(["--no-such-flag"])
+check(
+    "l. un flag ignoto esce 2 senza leggere lo stato ne' inviare",
+    l_bad_code == 2 and not l_bad_fired,
+    f"code={l_bad_code!r}, trappole={l_bad_fired}",
+)
+
+# l. --dry-run: l'output contiene il conteggio e nessun indirizzo.
+# File temporanei, perche' newsletter_subscribers.csv non esiste in CI e
+# l'ambiente non deve influire; il conteggio nell'asserzione garantisce che
+# l'output sia davvero quello del ramo dry-run e non un'uscita anticipata
+# (che sarebbe priva di '@' per il motivo sbagliato).
+import os
+
+with tempfile.TemporaryDirectory() as _tmp:
+    _tmp_path = Path(_tmp)
+    (_tmp_path / "notices.json").write_text(
+        json.dumps({"notices": [], "latest_push": [{
+            "title": "Scheda di Prova", "section": "Artists",
+            "path": "Content/Artists/XIV-c/Scheda-di-Prova.md",
+            "page_url": "/Content/Artists/XIV-c/Scheda-di-Prova.html",
+            "change_type": "created", "pushed_at": "2026-10-01T12:00:00+02:00",
+        }]}),
+        encoding="utf-8",
+    )
+    (_tmp_path / "subscribers.csv").write_text(
+        "email\nprima.persona@example.org\nseconda@example.net\n", encoding="utf-8"
+    )
+    _saved_paths = (snu.NOTICES_PATH, snu.SUBSCRIBERS_PATH, snu.STATE_PATH)
+    _saved_env = {k: os.environ.pop(k, None) for k in (
+        "FORCE_NOTIFY", "NEWSLETTER_RECIPIENT_OVERRIDE", "NEWSLETTER_SUBJECT",
+        "NEWSLETTER_MIN_RECIPIENTS", "NEWSLETTER_MIN_RECIPIENTS_MODE")}
+    snu.NOTICES_PATH = _tmp_path / "notices.json"
+    snu.SUBSCRIBERS_PATH = _tmp_path / "subscribers.csv"
+    snu.STATE_PATH = _tmp_path / "state.json"
+    _out = io.StringIO()
+    try:
+        with contextlib.redirect_stdout(_out), contextlib.redirect_stderr(_out):
+            l_dry_code = snu.main(["--dry-run"])
+    finally:
+        snu.NOTICES_PATH, snu.SUBSCRIBERS_PATH, snu.STATE_PATH = _saved_paths
+        for _k, _v in _saved_env.items():
+            if _v is not None:
+                os.environ[_k] = _v
+    l_dry_out = _out.getvalue()
+    l_state_written = (_tmp_path / "state.json").exists()
+
+check(
+    "l. --dry-run conta i destinatari e non stampa nessun indirizzo (zero '@'), senza scrivere lo stato",
+    l_dry_code == 0
+    and "Recipients: 2" in l_dry_out
+    and "@" not in l_dry_out
+    and not l_state_written,
+    f"code={l_dry_code!r}, stato scritto={l_state_written}, output={l_dry_out!r}",
 )
 
 print()

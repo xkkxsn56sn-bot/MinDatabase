@@ -279,11 +279,18 @@ oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
 solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
 puo' provocare un reinvio.
 
-`scripts/test_update_push_notices.py` fissa queste regole su undici gruppi di
-casi presi dalla storia del repository — 50 asserzioni, comprese quelle sul
+`scripts/test_update_push_notices.py` fissa queste regole su dodici gruppi di
+casi presi dalla storia del repository — 53 asserzioni, comprese quelle sul
 range del ripiego, sulla firma dell'elenco intero e sulla separazione fra
 lista rotolante e lista solo-push. Si esegue senza dipendenze:
 `python3 scripts/test_update_push_notices.py`.
+
+`send_newsletter_updates.py` ha un parser minimo: `--help` stampa l'uso, un
+flag ignoto esce con codice 2 senza inviare (prima ogni argomento era ignorato
+e `--help` lanciava l'invio vero) e `--dry-run` stampa stato, oggetto e
+**numero** dei destinatari senza aprire SMTP ne' scrivere lo stato. Nessun
+percorso dello script stampa indirizzi — i log di CI sono pubblici — e gli
+errori di smtplib passano da `_redact_addresses`.
 
 #### Il tag di soppressione
 
