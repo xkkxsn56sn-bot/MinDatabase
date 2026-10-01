@@ -210,7 +210,7 @@ Andrea makes each of these three attributes literal and visible:
 
 - The crown of twelve stars is the great radiate, star-studded halo-crown behind her head — a sunburst of gold rays interspersed with stars, rising into the gold ground.
 
-This contamination of the Humility type with the apocalyptic Woman is rare but datable to precisely this decade in the Marche: the same fusion recurs in Francescuccio Ghissi's 1374 panel at Sant'Andrea di Montegiorgio, and the type was discussed magisterially by [Millard Meiss](/scholars.html#meiss-millard) in his classic 1936 study of the Madonna of Humility.
+This contamination of the Humility type with the apocalyptic Woman recurs in [Francescuccio Ghissi](/Content/Artists/XIV-c/Francescuccio-Ghissi.html)'s panel of 1374 at Sant'Andrea di Montegiorgio, and the type was discussed by [Millard Meiss](/scholars.html#meiss-millard) in his 1936 study of the Madonna of Humility.
 
 The Virgin dominates the panel, seated on the pink marble base, her body wrapped in the deep blue-black mantle that falls in a broad pyramidal mass, breaking into looping folds at the hem where one shoe emerges. Beneath it she wears the crimson gown with the golden sun; the neckline and the cuff are picked out in tooled gold embroidery. Her head inclines tenderly toward the Child, the face pale and long, brows fine, the whole expression grave and inward — the mild, un-dramatic affect characteristic of Andrea. A ring is visible on the hand that supports the Child, a detail sometimes read in this context as an allusion to the Virgin as *sponsa*.
 
@@ -222,7 +222,7 @@ Along the pink marble base runs the Latin band that spells out the apocalyptic p
 
 At the very bottom is the signature and date. Andrea signs, as at Fermo, with the formula *De Bononia natus Andreas* ("Andreas, born of Bologna"), followed by the year *Anno Domini MCCCLXXII* — 1372. This is what makes the panel a documentary keystone rather than merely an attribution.
 
-By 1372 Andrea, Bolognese-trained in the orbit of Vitale da Bologna, had been working on the Adriatic–Marchigian coast for roughly a decade, and the panel shows him shedding the more emphatic Bolognese manner in favour of the softer, courtlier inflections of the local Marchigian painters — Allegretto Nuzi and Francescuccio Ghissi are the usual comparisons, both for handling and for this very iconography.
+By 1372 Andrea, Bolognese-trained in the orbit of Vitale da Bologna, had been working on the Adriatic–Marchigian coast for roughly a decade, and the panel shows him shedding the more emphatic Bolognese manner in favour of the softer, courtlier inflections of the local Marchigian painters — [Allegretto Nuzi](/Content/Artists/XIV-c/Allegretto-Nuzi.html) and [Francescuccio Ghissi](/Content/Artists/XIV-c/Francescuccio-Ghissi.html) are the usual comparisons, both for handling and for this very iconography.
 
 ### Virgin and Child with Angels (attr.)
 

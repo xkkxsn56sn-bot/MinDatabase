@@ -56,8 +56,8 @@ meta:
 
   - title: KEY WORKS
     list:
-      - "Madonna and Child — San Pietro a Varlungo, Florence (naming work), c. 1285–1300, tempera and gold on panel (fragmentary)"
-      - "Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction — Museo Stefano Bardini, Florence, c. 1285–90, tempera and gold on panel, 115 × 50 cm"
+      - "Madonna and Child — San Pietro a Varlungo, Florence (naming work), 1285–99, tempera and gold on panel (fragmentary), 115 × 50 cm"
+      - "Crucifix with the Virgin, Saint John the Evangelist, Isaiah, Jeremiah, and Christ in Benediction — Museo Stefano Bardini, Florence, c. 1285–90, tempera and gold on panel, 245 × 186 cm"
       - "Madonna and Child Enthroned with Angels — Metropolitan Museum of Art, New York, c. 1285–90, tempera and silver on panel, 130.2 × 82.9 cm (painted surface 127.6 × 71.1 cm)"
       - "Madonna and Child Enthroned with Angels — Propositura del Santissimo Nome di Gesù, Pratovecchio, c. 1300–10, tempera and gold on panel, 154 × 74 cm"
       - "Madonna in Trono col Bambino e due Angeli — Pieve di Santa Maria Assunta, Stia"

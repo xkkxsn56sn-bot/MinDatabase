@@ -43,7 +43,7 @@ meta:
 
   - title: "KEY WORKS"
     list:
-      - "Cycle of the Months (12 panels), c. 1225–1230, red Verona marble, 94 × 48 × 37 cm each, Museo della Cattedrale di San Giorgio, Ferrara (originally on the Porta dei Pellegrini/Porta dei Mesi of Ferrara Cathedral)"
+      - "Cycle of the Months (12 panels), c. 1225–1230, red Verona marble, Museo della Cattedrale di San Giorgio, Ferrara (originally on the Porta dei Pellegrini/Porta dei Mesi of Ferrara Cathedral); measures given only for January, 94 × 48 cm, and July, 90 × 48.5 cm"
       - "Janus / Allegory of January — Janus bifrons, classical quotation reintegrated into Christian time theology"
       - "Pruning / Allegory of February — vine-pruning, moral allegory of purification"
       - "Reawakening of Nature and King of the Months / Allegory of March–April — courtly personifications of spring"
