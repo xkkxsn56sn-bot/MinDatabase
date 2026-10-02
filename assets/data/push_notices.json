@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-02T08:32:29+00:00",
+  "updated_at": "2026-10-02T10:50:47+00:00",
   "notices": [
+    {
+      "title": "Maestro di San Pietro in Villore",
+      "section": "Artists",
+      "path": "Content/Artists/XII-c/Maestro-di-San-Pietro-in-Villore.md",
+      "page_url": "/Content/Artists/XII-c/Maestro-di-San-Pietro-in-Villore.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-02T12:49:20+02:00"
+    },
     {
       "title": "Catarino di Marco da Venezia",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
       "change_type": "modified",
       "pushed_at": "2026-10-01T13:25:47+02:00"
-    },
-    {
-      "title": "Maestro di Pedret",
-      "section": "Artists",
-      "path": "Content/Artists/XI-c/Maestro-di-Pedret.md",
-      "page_url": "/Content/Artists/XI-c/Maestro-di-Pedret.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-01T13:02:45+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Catarino di Marco da Venezia",
+      "title": "Maestro di San Pietro in Villore",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.md",
-      "page_url": "/Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.html",
+      "path": "Content/Artists/XII-c/Maestro-di-San-Pietro-in-Villore.md",
+      "page_url": "/Content/Artists/XII-c/Maestro-di-San-Pietro-in-Villore.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-02T10:29:46+02:00"
+      "pushed_at": "2026-10-02T12:49:20+02:00"
     }
   ]
 }
