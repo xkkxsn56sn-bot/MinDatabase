@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-01T11:26:50+00:00",
+  "updated_at": "2026-10-02T08:32:29+00:00",
   "notices": [
+    {
+      "title": "Catarino di Marco da Venezia",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.md",
+      "page_url": "/Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-02T10:29:46+02:00"
+    },
     {
       "title": "Francescuccio Ghissi",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XI-c/Maestro-di-Pedret.html",
       "change_type": "modified",
       "pushed_at": "2026-10-01T13:02:45+02:00"
-    },
-    {
-      "title": "Maestro di Sant'Agostino",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Maestro-di-Sant-Agostino.md",
-      "page_url": "/Content/Artists/XIII-c/Maestro-di-Sant-Agostino.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-01T11:48:37+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Francescuccio Ghissi",
+      "title": "Catarino di Marco da Venezia",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Francescuccio-Ghissi.md",
-      "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
+      "path": "Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.md",
+      "page_url": "/Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-01T13:25:47+02:00"
+      "pushed_at": "2026-10-02T10:29:46+02:00"
     }
   ]
 }
