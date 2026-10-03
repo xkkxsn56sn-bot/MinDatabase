@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-02T11:14:01+00:00",
+  "updated_at": "2026-10-03T09:37:16+00:00",
   "notices": [
+    {
+      "title": "Maestro del Dittico Sterbini",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-del-Dittico-Sterbini.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-del-Dittico-Sterbini.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-03T11:36:24+02:00"
+    },
     {
       "title": "Maestro della Maddalena",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XII-c/Maestro-di-San-Pietro-in-Villore.html",
       "change_type": "modified",
       "pushed_at": "2026-10-02T12:49:20+02:00"
-    },
-    {
-      "title": "Catarino di Marco da Venezia",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.md",
-      "page_url": "/Content/Artists/XIV-c/Caterino-di-Marco-da-Venezia.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-02T10:29:46+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro della Maddalena",
+      "title": "Maestro del Dittico Sterbini",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Maestro-della-Maddalena.md",
-      "page_url": "/Content/Artists/XIII-c/Maestro-della-Maddalena.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-02T13:13:36+02:00"
+      "path": "Content/Artists/XIV-c/Maestro-del-Dittico-Sterbini.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-del-Dittico-Sterbini.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-03T11:36:24+02:00"
     }
   ]
 }
