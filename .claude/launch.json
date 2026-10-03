@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "jekyll-site",
-      "runtimeExecutable": "jekyll",
-      "runtimeArgs": ["serve"],
+      "runtimeExecutable": "bundle",
+      "runtimeArgs": ["exec", "jekyll", "serve"],
       "port": 4000
     },
     {
