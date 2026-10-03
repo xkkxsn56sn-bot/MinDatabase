@@ -67,13 +67,19 @@ RIPIEGO SU GIT, E IL SUO RANGE
 
 ORDINE DELLE NOTIZIE
     Le voci si ordinano per `pushed_at` decrescente, poi — a parita' di
-    timestamp, che e' la norma quando un push tocca piu' schede — per tipo di
-    modifica, con `created` prima di `modified`, e infine per path in ordine
+    timestamp — per tipo di modifica, con `created` prima di `modified`, e infine per path in ordine
     alfabetico. I tre livelli danno un ordine totale, quindi il ramo payload e
     il ramo di fallback su git producono lo stesso risultato sugli stessi
     input: senza il secondo livello i due rami divergevano, perche' il payload
     elenca gli `added` prima dei `modified` mentre `git log --name-status`
     elenca in ordine di path.
+
+    `pushed_at` e' uno solo per push: il timestamp del commit piu' recente
+    del push (`_unify_push_timestamp`), in entrambi i rami. Con il timestamp
+    di ciascun commit la parita' si spezzava in un push di piu' commit, e un
+    `created` nel commit piu' vecchio finiva dietro un `modified` del piu'
+    recente. Non e' l'ora corrente: la firma anti-reinvio include `pushed_at`
+    e deve poter essere ricalcolata identica a ogni esecuzione.
 """
 
 from __future__ import annotations
@@ -241,14 +247,42 @@ def _notice_with_metadata(notice: dict) -> dict:
     }
 
 
+def _unify_push_timestamp(entries: list[dict], timestamps: list[str]) -> None:
+    """Porta tutte le notizie di un push allo stesso `pushed_at`.
+
+    `pushed_at` dice *quando e' avvenuto il push*, non quando e' stato scritto
+    ciascun commit. Con il timestamp di ogni commit, un push di piu' commit
+    spezzava la parita' su cui poggia l'ordine: `pushed_at` decrescente, poi
+    `created` prima di `modified`, poi il path. Un `created` nel commit piu'
+    vecchio finiva dietro un `modified` del piu' recente, e la newsletter
+    annunciava la scheda nuova come un ritocco. Il valore e' il timestamp del
+    commit piu' recente del push, non l'ora corrente: deve poter essere
+    ricalcolato identico a ogni esecuzione, perche' la firma anti-reinvio lo
+    include. Un push di un solo commit non cambia: il suo timestamp resta il suo.
+    """
+    parsed = []
+    for value in timestamps:
+        try:
+            parsed.append((dt.datetime.fromisoformat(value.replace("Z", "+00:00")), value))
+        except ValueError:
+            continue
+    if not parsed:
+        return
+    newest = max(parsed, key=lambda pair: pair[0])[1]
+    for entry in entries:
+        entry["pushed_at"] = newest
+
+
 def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
     payload = json.loads(path.read_text(encoding="utf-8"))
 
     commits = payload.get("commits") or []
     entries: list[dict] = []
+    commit_timestamps: list[str] = []
 
     for commit in commits:
         timestamp = _safe_iso(commit.get("timestamp"))
+        commit_timestamps.append(timestamp)
         typed_paths: dict[str, str] = {}
 
         for added_path in commit.get("added") or []:
@@ -298,6 +332,7 @@ def _parse_event_payload(path: Path) -> tuple[str, list[dict]]:
                 }
             )
 
+    _unify_push_timestamp(entries, commit_timestamps)
     updated_at = _safe_iso(payload.get("head_commit", {}).get("timestamp"))
     return updated_at, entries
 
@@ -417,6 +452,7 @@ def _parse_git_history_fallback(
 
     entries: list[dict] = []
     current_timestamp: str | None = None
+    commit_timestamps: list[str] = []
 
     for raw_line in result.stdout.splitlines():
         line = raw_line.strip()
@@ -425,6 +461,7 @@ def _parse_git_history_fallback(
 
         if line.startswith("__COMMIT__"):
             current_timestamp = _safe_iso(line.replace("__COMMIT__", "", 1).strip())
+            commit_timestamps.append(current_timestamp)
             continue
 
         parts = line.split(maxsplit=1)
@@ -455,6 +492,7 @@ def _parse_git_history_fallback(
             }
         )
 
+    _unify_push_timestamp(entries, commit_timestamps)
     return _safe_iso(None), entries
 
 

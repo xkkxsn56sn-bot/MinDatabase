@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Batteria di test per update_push_notices.py.
 
-Dodici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
+Tredici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
 si esegue con `python3 scripts/test_update_push_notices.py` e stampa una riga
 per caso, uscendo con codice 1 al primo fallimento.
 
@@ -64,6 +64,15 @@ l. Il parser degli argomenti di `send_newsletter_updates.py`. Prima ogni
    caso guarda l'output di `--dry-run` su file temporanei con indirizzi
    veri: i log di CI sono pubblici, e deve contare i destinatari senza
    stamparne nessuno (zero `@`).
+
+m. Un push, un timestamp. `pushed_at` e' quello del commit piu' recente del
+   push, in entrambi i rami, cosi' che a parita' di push valga `created`
+   prima di `modified` anche fra commit diversi. Il caso e' il push del 3
+   ottobre 2026 (San Frediano created, Santo Sepolcro e Croce n. 20 modified):
+   le tre schede entrarono con tre commit, e solo date riscritte a mano
+   tennero la scheda nuova in testa. Un push di un solo commit non cambia, e
+   la firma resta stabile fra due esecuzioni. Nel gruppo i, un range che copre
+   due push e' ora letto come uno solo: un timestamp, `created` e poi path.
 
 h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
    di radice, `Content/prompts/` — non produce notizia, e un push che tocca
@@ -558,8 +567,8 @@ two_pushes, seen_two = _run_fallback(
     after=AFTER,
 )
 check(
-    "i. range su due push -> i soli commit del range, in ordine di notizia",
-    paths(upn._dedupe_and_sort(two_pushes)) == [FONTANA, PISA, TRAINI],
+    "i. range su due push -> i soli commit del range; un solo timestamp, quindi `created` e poi path",
+    paths(upn._dedupe_and_sort(two_pushes)) == [PISA, FONTANA, TRAINI],
     str(paths(upn._dedupe_and_sort(two_pushes))),
 )
 check(
@@ -782,6 +791,57 @@ check(
     and "@" not in l_dry_out
     and not l_state_written,
     f"code={l_dry_code!r}, stato scritto={l_state_written}, output={l_dry_out!r}",
+)
+
+# --------------------------------------------------------------------------
+# m. Un push, un timestamp: `created` precede `modified` anche fra commit diversi
+# --------------------------------------------------------------------------
+M_NEW_PATH = "Content/Artists/XII-c/Maestro-della-Croce-di-San-Frediano.md"
+M_OLD_PATH = "Content/Artists/XII-c/Maestro-della-Croce-del-Santo-Sepolcro.md"
+M_OLDER_TS = "2026-10-03T18:22:55+02:00"
+M_NEWER_TS = "2026-10-03T18:23:19+02:00"
+
+# Push di due commit, come lo mostra `git log` (il piu' recente per primo):
+# il commit piu' VECCHIO crea una scheda, il piu' RECENTE ne ritocca un'altra.
+m_entries, _ = _run_fallback([
+    f"__COMMIT__{M_NEWER_TS}", f"M\t{M_OLD_PATH}",
+    f"__COMMIT__{M_OLDER_TS}", f"A\t{M_NEW_PATH}",
+])
+m_sorted = upn._dedupe_and_sort(m_entries)
+check(
+    "m. push di due commit: tutte le notizie portano lo stesso pushed_at (quello del commit piu' recente)",
+    {n["pushed_at"] for n in m_sorted} == {M_NEWER_TS},
+    f"pushed_at ottenuti: {[n['pushed_at'] for n in m_sorted]}",
+)
+check(
+    "m. push di due commit, `created` il piu' vecchio e `modified` il piu' recente: il `created` e' in testa",
+    paths(m_sorted) == [M_NEW_PATH, M_OLD_PATH]
+    and [n["change_type"] for n in m_sorted] == ["created", "modified"],
+    f"ordine ottenuto: {[(n['change_type'], n['path']) for n in m_sorted]}",
+)
+check(
+    "m. la firma anti-reinvio di quel push e' stabile fra due esecuzioni sugli stessi input",
+    snu._signature_for_notices(m_sorted)
+    == snu._signature_for_notices(upn._dedupe_and_sort(_run_fallback([
+        f"__COMMIT__{M_NEWER_TS}", f"M\t{M_OLD_PATH}",
+        f"__COMMIT__{M_OLDER_TS}", f"A\t{M_NEW_PATH}",
+    ])[0])),
+)
+# Un push di un solo commit resta com'era: il suo timestamp, intatto.
+m_single = fallback_entries(M_OLDER_TS, [("A", M_NEW_PATH), ("M", M_OLD_PATH)])
+check(
+    "m. push di un solo commit: pushed_at e' esattamente il timestamp del commit, e l'ordine non cambia",
+    {n["pushed_at"] for n in m_single} == {M_OLDER_TS}
+    and paths(upn._dedupe_and_sort(m_single)) == [M_NEW_PATH, M_OLD_PATH],
+    f"ottenuto: {[(n['pushed_at'], n['path']) for n in upn._dedupe_and_sort(m_single)]}",
+)
+# Stesso ramo payload: due commit con timestamp diversi, stesso risultato.
+m_payload = upn._dedupe_and_sort(
+    payload_entries(M_NEWER_TS, [M_NEW_PATH], [M_OLD_PATH])
+)
+check(
+    "m. il ramo payload sugli stessi input da' lo stesso ordine del ripiego",
+    paths(m_payload) == paths(m_sorted),
 )
 
 print()

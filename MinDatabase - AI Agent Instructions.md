@@ -261,7 +261,13 @@ di un ritocco marginale.
 L'ordine e' a tre livelli: `pushed_at` decrescente, poi `created` prima di
 `modified`, poi il path in ordine alfabetico. Il secondo livello e' quello che
 conta, perche' i file di uno stesso push condividono il timestamp: una scheda
-nuova precede sempre una ritoccata. Il terzo chiude l'ordine e lo rende
+nuova precede sempre una ritoccata. Il timestamp e' uno solo per push — quello
+del commit piu' recente, non l'ora corrente, perche' la firma anti-reinvio lo
+include e deve poter essere ricalcolata identica — anche quando il push porta
+piu' commit. Prima ogni notizia prendeva la data del proprio commit: in un
+push di tre commit, `created` nel piu' vecchio e `modified` nel piu' recente,
+la scheda nuova finiva dietro il ritocco e l'oggetto della newsletter la
+annunciava come un aggiornamento. Il terzo chiude l'ordine e lo rende
 totale, cosi' i due rami da cui lo script ricava i file — il payload
 dell'evento e il ripiego su `git log` — producono lo stesso risultato. Non era
 vero prima: il payload elenca gli `added` prima dei `modified`, `git log
@@ -279,8 +285,8 @@ oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
 solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
 puo' provocare un reinvio.
 
-`scripts/test_update_push_notices.py` fissa queste regole su dodici gruppi di
-casi presi dalla storia del repository — 53 asserzioni, comprese quelle sul
+`scripts/test_update_push_notices.py` fissa queste regole su tredici gruppi di
+casi presi dalla storia del repository — 58 asserzioni, comprese quelle sul
 range del ripiego, sulla firma dell'elenco intero e sulla separazione fra
 lista rotolante e lista solo-push. Si esegue senza dipendenze:
 `python3 scripts/test_update_push_notices.py`.
