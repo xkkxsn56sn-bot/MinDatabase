@@ -217,10 +217,6 @@
       "href": "Content/Artists/XIII-c/Jacopo-Torriti.html"
     },
     {
-      "name": "Maestro bizantino del Crocifisso di Pisa",
-      "href": "Content/Artists/XIII-c/Maestro-bizantino-del-Crocifisso-di-Pisa.html"
-    },
-    {
       "name": "Maestro Consolo",
       "href": "Content/Artists/XIII-c/Maestro-Consolo.html"
     },
@@ -263,6 +259,10 @@
     {
       "name": "Maestro della Croce di Castelfiorentino",
       "href": "Content/Artists/XIII-c/Maestro-della-Croce-di-Castelfiorentino.html"
+    },
+    {
+      "name": "Maestro della Croce n. 20",
+      "href": "Content/Artists/XIII-c/Maestro-bizantino-del-Crocifisso-di-Pisa.html"
     },
     {
       "name": "Maestro della Maddalena",
