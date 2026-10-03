@@ -136,7 +136,7 @@ A further complication has entered the discussion recently. Some commentators ha
 ### The San Matteo Cross (Croce n. 20): Christus Patiens with Scenes of the Deposition, Lamentation, Entombment and the Post-Resurrection Appearances
 
 <figure>
- <img src="/Images/Maestro-bizantino-del-Crocifisso-di-Pisa/maestro-bizantino-del-crocifisso-di-pisa-01.jpg" alt="Large medieval painted cross on a gold ground. At the centre, the dead Christ hangs with his eyes closed and his head resting on his right shoulder. He wears a long dark loincloth, and blood flows from his hands, feet and side. Two mourners stand at each end of the crossbar. Small narrative scenes fill the panels beside his body. Christ enthroned among angels crowns the top, and the Descent into Limbo fills the base.">
+ <img src="/Images/Maestro-della-Croce-n-20/maestro-della-croce-n-20-01.jpg" alt="Large medieval painted cross on a gold ground. At the centre, the dead Christ hangs with his eyes closed and his head resting on his right shoulder. He wears a long dark loincloth, and blood flows from his hands, feet and side. Two mourners stand at each end of the crossbar. Small narrative scenes fill the panels beside his body. Christ enthroned among angels crowns the top, and the Descent into Limbo fills the base.">
  <figcaption>Painted Cross with the Dead Christ (Christus patiens), the Mourners, and Scenes from the Deposition to the Incredulity of Thomas, c. 1200–1210. Tempera and gold on skin laid over a shaped wooden panel, 298 × 233 cm. Pisa, Museo Nazionale di San Matteo, inv. 5724 (formerly no. 20); from the convent of San Matteo, Pisa.</figcaption>
 </figure>
 
