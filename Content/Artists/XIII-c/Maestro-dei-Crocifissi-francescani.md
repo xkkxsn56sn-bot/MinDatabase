@@ -170,8 +170,8 @@ meta:
     links:
       - title: "Giunta Pisano"
         url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
-      - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
+      - title: "Berlinghiero di Melanese"
+        url: "/Content/Artists/XIII-c/Berlinghiero-di-Melanese.html"
       - title: "Maestro della Croce 432"
         url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
 

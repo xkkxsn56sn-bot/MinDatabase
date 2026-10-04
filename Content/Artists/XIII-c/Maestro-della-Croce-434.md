@@ -63,7 +63,7 @@ meta:
   - title: Related Artists
     links:
       - title: Berlinghiero Berlinghieri
-        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
+        url: "/Content/Artists/XIII-c/Berlinghiero-di-Melanese.html"
       - title: Bonaventura Berlinghieri
         url: "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html"
       - title: Coppo di Marcovaldo

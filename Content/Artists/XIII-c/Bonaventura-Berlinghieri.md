@@ -78,8 +78,8 @@ meta:
 
   - title: "RELATED ENTRIES"
     links:
-      - title: "Berlinghiero Berlinghieri"
-        url: "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
+      - title: "Berlinghiero di Melanese"
+        url: "/Content/Artists/XIII-c/Berlinghiero-di-Melanese.html"
       - title: "Barone Berlinghieri"
         url: "/Content/Artists/XIII-c/Barone-Berlinghieri.html"
       - title: "Marco Berlinghieri"

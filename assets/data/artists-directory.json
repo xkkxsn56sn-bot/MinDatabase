@@ -75,10 +75,6 @@
       "href": "Content/Artists/XII-c/Benedetto-Antelami.html"
     },
     {
-      "name": "Berlinghiero di Melanese",
-      "href": "Content/Artists/XII-c/Berlinghiero-Berlinghieri.html"
-    },
-    {
       "name": "Gislebertus",
       "href": "Content/Artists/XII-c/Gislebertus.html"
     },
@@ -135,6 +131,10 @@
     {
       "name": "Barone Berlinghieri",
       "href": "Content/Artists/XIII-c/Barone-Berlinghieri.html"
+    },
+    {
+      "name": "Berlinghiero di Melanese",
+      "href": "Content/Artists/XIII-c/Berlinghiero-di-Melanese.html"
     },
     {
       "name": "Bonaventura Berlinghieri",
