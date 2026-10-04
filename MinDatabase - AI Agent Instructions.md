@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.11.0 | **Last Updated**: 30 September 2026
+**Version**: 4.12.0 | **Last Updated**: 4 October 2026
 
 ## Project Scope
 
@@ -81,8 +81,26 @@ The repository currently includes YAML front matter in many content types, inclu
   index (`layout`, `title`, `subtitle`, `dates`, `century`, `scholars`, `meta`,
   `thematic_keywords`). Legacy top-level keys duplicating the `meta` block were
   removed in this commit: do not reintroduce them.
-- For new files, follow front matter patterns already used in the target folder.
+- For new files, and for schede that are rewritten, follow the canonical form below; the other schede keep their current form until they are converted.
 - `python3 scripts/frontmatter_census.py` (`--all` for the per-section list) counts, read-only, how far the schede are from the canonical front matter (eight `meta` blocks in fixed order, `scholars:` as title/url pairs, no `thematic_keywords`, RELATED ENTRIES or Reference Links), with the markers T, K, S0, Sx, P, Rl, Rn, Rs, Rf; it writes nothing and is not a validator.
+
+### Canonical Front Matter
+
+The form followed by the schede that `frontmatter_census.py` classes as new:
+
+- Top-level keys: `layout`, `title`, `subtitle`, `dates`, `meta`, `scholars` (plus `century` on the non-Artists schede where the gallery script reads it).
+- Eight `meta` blocks, in this order: CORE DATA · IDENTITY AND LIMITS · CHRONOLOGY · KEY WORKS · DISPUTED AND REJECTED ATTRIBUTIONS · STYLE AND FORMATION · PATRONAGE AND SETTING · RECEPTION AND LEGACY.
+- `scholars:` as `title`/`url` pairs, in alphabetical order of the displayed title, listing only scholars actually cited in the body.
+- No `thematic_keywords`, no RELATED ENTRIES, no Reference Links.
+- `title` in plain form, without parentheses, because it ends up in the newsletter subject.
+
+Three content rules apply with the form:
+
+- The front matter asserts nothing the body does not support, and dates and attributions agree between front matter, body and conclusion.
+- DISPUTED AND REJECTED ATTRIBUTIONS records contested attributions and proposed identifications with their author, never as facts.
+- A scholar is credited only with what the sources consulted attribute to them.
+
+Strategy: schede not yet aligned are converted the first time they are touched for other reasons, in the same commit; `scripts/frontmatter_census.py` measures the distance.
 
 ## Footnote Conventions (Mandatory Site-Wide)
 
