@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-04T15:54:44+00:00",
+  "updated_at": "2026-10-05T16:07:36+00:00",
   "notices": [
+    {
+      "title": "Primo Maestro della Beata Chiara da Montefalco",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.md",
+      "page_url": "/Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-05T18:03:10+02:00"
+    },
     {
       "title": "Bonaventura Berlinghieri",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html",
       "change_type": "modified",
       "pushed_at": "2026-10-04T16:35:42+02:00"
-    },
-    {
-      "title": "Maestro di Rosano",
-      "section": "Artists",
-      "path": "Content/Artists/XII-c/Maestro-di-Rosano.md",
-      "page_url": "/Content/Artists/XII-c/Maestro-di-Rosano.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-04T16:35:42+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Bonaventura Berlinghieri",
+      "title": "Primo Maestro della Beata Chiara da Montefalco",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Bonaventura-Berlinghieri.md",
-      "page_url": "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-04T17:54:16+02:00"
+      "path": "Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.md",
+      "page_url": "/Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-05T18:03:10+02:00"
     }
   ]
 }
