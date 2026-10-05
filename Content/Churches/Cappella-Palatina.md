@@ -65,12 +65,6 @@ meta:
       - "Recent diagnostics include multispectral imaging, photogrammetry, and material analysis"
       - "Current stewardship integrates visitor management with long-term preservation strategies"
 
-  - title: "Related entries"
-    list:
-      - "Monreale Cathedral"
-      - "Santa Maria dell'Ammiraglio (La Martorana)"
-      - "Cefalù Cathedral"
-
   - title: "Reference links"
     links:
       - title: "Roger II of Sicily"

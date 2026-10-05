@@ -25,11 +25,6 @@ meta:
       - "Abbot Teodino of Bominaco"
       - "Legendary Carolingian attribution to Charlemagne"
 
-  - title: "Related entries"
-    links:
-      - title: "Santa Maria Assunta, Bominaco"
-      - title: "Farfa Abbey"
-
 scholars:
   - title: "Enzo Carli"
     url: "/scholars.html#carli-enzo"

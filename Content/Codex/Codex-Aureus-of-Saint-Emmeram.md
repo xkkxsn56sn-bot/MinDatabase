@@ -57,15 +57,6 @@ meta:
       - "Gold-script Gospel books"
       - "Imperial and monastic treasuries"
       - "Treasure bindings as political-theological statements"
-
-  - title: "Related entries"
-    links:
-      - title: "Codex Aureus of Lorsch"
-        url: "/Content/Codex/Codex-Aureus-of-Lorsch.html"
-      - title: "Codex Aureus of Echternach"
-        url: "/Content/Codex/Codex-Aureus-of-Echternach.html"
-      - title: "Lindau Gospels"
-      - title: "Saint Emmeram’s Abbey, Regensburg"
 ---
 
 

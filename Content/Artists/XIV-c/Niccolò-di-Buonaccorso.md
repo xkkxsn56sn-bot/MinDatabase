@@ -66,14 +66,6 @@ meta:
       - "Portable altarpieces and private devotion"
       - "Gold-ground ornament"
 
-  - title: "RELATED ENTRIES"
-    list:
-      - "Simone Martini"
-      - "Lippo Memmi"
-      - "Bartolomeo Bulgarini"
-      - "Siena Cathedral"
-      - "Sienese confraternities"
-
 thematic_keywords:
   - "Madonna and Child iconography"
   - "International Gothic refinement"
@@ -94,7 +86,7 @@ Patronage formed the backbone of Niccolò’s career, reflecting the reciprocal 
 
 ## Artistic Style and Technique
 
-Niccolò’s painting style is distinguished by its exquisite miniaturist technique, characterized by meticulous detail, elegant line work, and a harmonious palette. His use of fine underdrawing, evident in infrared reflectography, reveals a careful planning of composition that aligns figures within gracefully curved architectural frames. Gold backgrounds feature punched and incised patterns, reflecting his mastery of gilding techniques and the influence of Simone Martini’s opulent surface treatments. Figures exhibit slender proportions with elongated limbs, echoing the sinuous rhythms found in Lorenzetti frescoes yet tempered by Niccolò’s own restraint. Drapery is rendered with parallel incised lines and subtle tonal gradations, demonstrating a command of both chiaroscuro and tempera layering. Spatial depth is suggested through graduated architectural receding lines and painted carpet patterns, illustrating an awareness of perspective principles disseminated by Quattrocento innovators. In scenes such as the Marriage of the Virgin, gestures are poised and emotive, communicating narrative drama within a compact format. Decorative elements—such as gilded arches with phytomorphic motifs—underscore his training in manuscript illumination and early panel work. Consistency of scale across panels indicates workshop standardization, yet variations in figure types suggest Niccolò personally executed principal figures. Through these stylistic hallmarks, Niccolò contributed to the refinement of Sienese Gothic painting and enriched its ornamental vocabulary.
+Niccolò’s painting style is distinguished by its exquisite miniaturist technique, characterized by meticulous detail, elegant line work, and a harmonious palette. His use of fine underdrawing, evident in infrared reflectography, reveals a careful planning of composition that aligns figures within gracefully curved architectural frames. Gold backgrounds feature punched and incised patterns, reflecting his mastery of gilding techniques and the influence of [Simone Martini](/Content/Artists/XIII-c/Simone-Martini.html)’s opulent surface treatments. Figures exhibit slender proportions with elongated limbs, echoing the sinuous rhythms found in Lorenzetti frescoes yet tempered by Niccolò’s own restraint. Drapery is rendered with parallel incised lines and subtle tonal gradations, demonstrating a command of both chiaroscuro and tempera layering. Spatial depth is suggested through graduated architectural receding lines and painted carpet patterns, illustrating an awareness of perspective principles disseminated by Quattrocento innovators. In scenes such as the Marriage of the Virgin, gestures are poised and emotive, communicating narrative drama within a compact format. Decorative elements—such as gilded arches with phytomorphic motifs—underscore his training in manuscript illumination and early panel work. Consistency of scale across panels indicates workshop standardization, yet variations in figure types suggest Niccolò personally executed principal figures. Through these stylistic hallmarks, Niccolò contributed to the refinement of Sienese Gothic painting and enriched its ornamental vocabulary.
 
 ## Influences and Artistic Context
 

@@ -95,15 +95,6 @@ meta:
       - "Benedictine patronage"
       - "Madonna Hodegetria"
       - "Bartolomeo Guarnieri hypothesis"
-
-  - title: "RELATED ENTRIES"
-    list:
-      - "Duccio di Buoninsegna"
-      - "Segna di Bonaventura"
-      - "Pietro Lorenzetti"
-      - "Simone Martini"
-      - "Abbey of Montelabate (Santa Maria di Valdiponte)"
-      - "Galleria Nazionale dell'Umbria, Perugia"
 ---
 
 *Meo da Siena*, more properly *Meo di Guido da Siena*, was born in Siena on an unknown date, and the only secure familial fact is that he was identified as the son of a man named Guido. He is securely documented in Perugia on 10 January 1319, while his date of death, place of death, and cause of death are not recorded; the Galleria Nazionale dell’Umbria summarizes him as dead before 1334, whereas some sources underline that the date and place of death remain unknown.
@@ -146,7 +137,7 @@ Finally, patronage in Meo’s career was not limited to abbots and convents, bec
 
 The scholarly literature states that Meo was unanimously regarded from the time of Cavalcaselle onward as a painter of **Ducciesque** formation. That judgment places him firmly within the Sienese tradition of refined line, controlled sacred decorum, and gold-ground panel painting. His art is therefore not provincial in origin, even if it later became deeply rooted in Perugia. Instead, it represents the transfer of a Sienese pictorial language into an Umbrian devotional market.
 
-The Montelabate polyptych is the clearest monument of his mature stylistic ambition. The Galleria Nazionale dell’Umbria describes it as a great altarpiece machine with thirty-five figures arranged in two registers. It further notes that the structure looks to the polyptych by Pietro Lorenzetti for the Pieve of Arezzo and above all to Simone Martini’s polyptych for Santa Caterina at Pisa, both completed around 1320. Meo’s style is thus inseparable from his command of increasingly complex polyptychal architectures.
+The Montelabate polyptych is the clearest monument of his mature stylistic ambition. The Galleria Nazionale dell’Umbria describes it as a great altarpiece machine with thirty-five figures arranged in two registers. It further notes that the structure looks to the polyptych by [Pietro Lorenzetti](/Content/Artists/XIV-c/Pietro-Lorenzetti.html) for the Pieve of Arezzo and above all to [Simone Martini](/Content/Artists/XIII-c/Simone-Martini.html)’s polyptych for Santa Caterina at Pisa, both completed around 1320. Meo’s style is thus inseparable from his command of increasingly complex polyptychal architectures.
 
 At the level of figural invention, the Galleria remarks on a tension between repetition and individuation. It observes that the uniformity of facial types and the repetitiveness of many poses are redeemed by especially characterized physiognomies, such as the thick-haired Saint John the Evangelist and the almost orientalizing features of Saint Emilian. This judgment is important because it captures both the limits and the strengths of Meo’s painting. He could rely on standardized devotional formulas while still introducing selective accents of vivid personality.
 
@@ -160,7 +151,7 @@ The traditional critical view, again summarized in the scholarly literature, con
 
 ## Artistic influences
 
-*Duccio di Buoninsegna* stands at the beginning of any serious account of Meo’s artistic inheritance. The scholarly literature explicitly calls Meo a painter of Ducciesque matrix, and that formulation is more than a generic label. It means that the fundamental grammar of his art was shaped by the Sienese cult of elegant surface, lucid sacred hierarchy, and measured emotional tone. Even after his move to Perugia, Meo never ceased to work within that Sienese horizon.
+*[Duccio di Buoninsegna](/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html)* stands at the beginning of any serious account of Meo’s artistic inheritance. The scholarly literature explicitly calls Meo a painter of Ducciesque matrix, and that formulation is more than a generic label. It means that the fundamental grammar of his art was shaped by the Sienese cult of elegant surface, lucid sacred hierarchy, and measured emotional tone. Even after his move to Perugia, Meo never ceased to work within that Sienese horizon.
 
 The scholarly literature also records the critical recognition of a relationship with Segna di Bonaventura. This connection is important because Segna represents a particular branch of post-Duccio painting in which inherited formulas are reworked for smaller devotional and ecclesiastical contexts. In Meo, the comparison helps explain the balance between sweetness of type and relative compositional conservatism. The influence is best understood not as imitation of a single picture, but as participation in a broader Sienese visual climate.
 

@@ -64,15 +64,6 @@ meta:
       - "Biblical cycles (Genesis, Exodus, Apocalypse, Passion)"
       - "Hagiography of local martyrs"
       - "Didactic visual theology for largely illiterate audiences"
-
-  - title: "Related entries"
-    list:
-      - "Oratorio di San Pellegrino, Bominaco"
-      - "Anagni Cathedral crypt"
-      - "Sant’Angelo in Formis"
-      - "Monreale Cathedral"
-      - "Cluny Abbey and Benedictine reform"
-      - "Romanesque illuminated manuscripts"
 ---
 
 

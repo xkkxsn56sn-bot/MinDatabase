@@ -65,14 +65,6 @@ meta:
       - "Workshop collaboration and the compagnia hypothesis"
       - "Diffusion of Sienese painting into Umbria and the Marche"
 
-  - title: "RELATED ENTRIES"
-    list:
-      - "Bartolomeo Bulgarini"
-      - "Pietro Lorenzetti"
-      - "Simone Martini"
-      - "Bartolo di Fredi"
-      - "Siena Cathedral and Opera del Duomo"
-
   - title: "Reference Links"
     links:
       - title: "Giorgio Vasari"
@@ -133,7 +125,7 @@ This essay is organised thematically rather than chronologically, though chronol
 
 ## Siena after 1348: The Setting
 
-Any account of Luca di Tommè must begin with a city that had recently lost a very large proportion of its population and, with it, the generation of painters who had defined its artistic identity. The plague of 1348 removed from Siena both Pietro and Ambrogio Lorenzetti; Simone Martini had died in Avignon four years earlier; Duccio belonged already to the previous century. The painters who inherited the Sienese tradition — Luca among them — did so without direct access to the masters who had made it.
+Any account of Luca di Tommè must begin with a city that had recently lost a very large proportion of its population and, with it, the generation of painters who had defined its artistic identity. The plague of 1348 removed from Siena both [Pietro](/Content/Artists/XIV-c/Pietro-Lorenzetti.html) and Ambrogio Lorenzetti; [Simone Martini](/Content/Artists/XIII-c/Simone-Martini.html) had died in Avignon four years earlier; Duccio belonged already to the previous century. The painters who inherited the Sienese tradition — Luca among them — did so without direct access to the masters who had made it.
 
 What followed has been the subject of one of the most influential and most contested theses in twentieth-century art history. In 1951 a study of Florentine and Sienese painting after the Black Death argued that the catastrophe produced a measurable stylistic change: a retreat from the spatial naturalism and human warmth of the 1330s toward a more hieratic, frontal, abstract, and penitential mode of religious image-making. The argument was seductive because it connected form to feeling and both to history. It also, as this essay will discuss at greater length in a later section, drew criticism almost immediately — from 1952 onward — and has been substantially reframed by more recent scholarship, which argues that Sienese painting after 1348 was not reactionary but deliberately *pluralistic*, offering patrons a range of stylistic registers rather than a single collective retreat.
 
@@ -151,7 +143,7 @@ The position of Luca's name within the roll is itself informative: he appears **
 
 In 1357–58 Luca is recorded gilding the hat of an apostle in a work that has not been identified, and, together with Cristofano di Stefano, repairing (*racconciò*) a mural formerly on the exterior façade of Siena Cathedral. These are modest tasks — maintenance and finishing rather than invention — and they place the young Luca within the ordinary economy of the cathedral workshop.
 
-In 1362 Luca, together with Bartolomeo Bulgarini and Jacopo di Mino del Pellicciaio, received a joint payment of **4 lire and 10 soldi** for assistance in moving Duccio's *Maestà* — the document uses the phrase *arghomentare a levare*. The record is in Milanesi (p. 50) and is discussed in a volume edited by Freuler in 1991.
+In 1362 Luca, together with [Bartolomeo Bulgarini](/Content/Artists/XIV-c/Bartolomeo-Bulgarini.html) and Jacopo di Mino del Pellicciaio, received a joint payment of **4 lire and 10 soldi** for assistance in moving Duccio's *Maestà* — the document uses the phrase *arghomentare a levare*. The record is in Milanesi (p. 50) and is discussed in a volume edited by Freuler in 1991.
 
 This small payment carries disproportionate interpretative weight, and it is worth pausing on why. Three painters of standing were paid *together*, as a group, for a physical task connected with the most venerated painting in the city. The document does not establish a formal partnership, and it should not be made to bear more than it can. But it is precisely the kind of evidence on which the *compagnia* hypothesis rests: a pattern of joint action among a recurring set of names.
 

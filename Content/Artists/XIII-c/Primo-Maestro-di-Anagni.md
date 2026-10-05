@@ -51,14 +51,6 @@ meta:
       - "Secondo Maestro di Anagni (Maestro Ornatista) — independent workshop; more decorative manner"
       - "Terzo Maestro di Anagni — independent workshop; more plastically advanced; tentatively identified with Frater Romanus"
 
-  - title: "RELATED ENTRIES"
-    links:
-      - title: "Secondo Maestro di Anagni"
-        url: "/Content/Artists/XIII-c/Secondo-Maestro-di-Anagni.html"
-      - title: "Terzo Maestro di Anagni"
-      - title: "Maestro di San Pietro in Vineis"
-        url: "/Content/Artists/XIII-c/Maestro-di-San-Pietro-in-Vineis.html"
-
 scholars:
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
@@ -80,7 +72,7 @@ A third and more cautious scholarly position, endorsed by Miklós Boskovits and 
 
 The crypt at Anagni provides clear internal evidence for precisely this kind of collaborative production, since even among the passages attributed specifically to the Primo Maestro, scholars have identified variations of quality and handling that suggest the participation of assistants working under his compositional direction rather than by his own hand alone. The workshop of the Primo Maestro appears, from the evidence of the Anagni cycle, to have been a well-organized and technically proficient enterprise capable of managing a complex, multi-bay decorative programme simultaneously, dividing the pictorial surfaces into discrete campaigns that could be prosecuted by different hands while maintaining overall iconographic and stylistic coherence. His presumed family must have transmitted to him not only the technical knowledge of fresco preparation, pigment grinding, and the application of colour in the buon fresco and secco techniques, but also a visual vocabulary derived from earlier monumental painting in Lazio and Rome, a visual inheritance that is consistently perceptible in the formal solutions he adopted for figurative passages and ornamental borders alike. 
 
-The circumstance that his collaborators on the Anagni crypt, the *Secondo Maestro, or Maestro Ornatista*, and the *Terzo Maestro*, employed distinctly different stylistic approaches strongly suggests that the three workshops were independent units, each with its own formation and origins, brought together under a single ecclesiastical commission rather than constituting a single familial enterprise. It is entirely possible, as has been suggested in the scholarship, that the Primo Maestro was himself a trained member of an older generation active in the decorative campaigns of Roman and Lazian churches during the late eleventh and early twelfth century, transmitting to younger collaborators a Romanesque idiom that was already beginning to appear archaic relative to the more progressive stylistic solutions explored by the Terzo Maestro. Of his death, as of his birth, no date or cause can be stated with confidence; the Primo Maestro simply vanishes from the historical record once the Anagni commission was completed, as was the common fate of most artisans working in the pre-modern centuries, leaving behind no testament, no epitaph, and no named successor.
+The circumstance that his collaborators on the Anagni crypt, the *[Secondo Maestro](/Content/Artists/XIII-c/Secondo-Maestro-di-Anagni.html), or Maestro Ornatista*, and the *[Terzo Maestro](/Content/Artists/XIII-c/Terzo-Maestro-di-Anagni.html)*, employed distinctly different stylistic approaches strongly suggests that the three workshops were independent units, each with its own formation and origins, brought together under a single ecclesiastical commission rather than constituting a single familial enterprise. It is entirely possible, as has been suggested in the scholarship, that the Primo Maestro was himself a trained member of an older generation active in the decorative campaigns of Roman and Lazian churches during the late eleventh and early twelfth century, transmitting to younger collaborators a Romanesque idiom that was already beginning to appear archaic relative to the more progressive stylistic solutions explored by the Terzo Maestro. Of his death, as of his birth, no date or cause can be stated with confidence; the Primo Maestro simply vanishes from the historical record once the Anagni commission was completed, as was the common fate of most artisans working in the pre-modern centuries, leaving behind no testament, no epitaph, and no named successor.
 
 ## Ecclesiastical Patrons and the Political Context of Commission
 

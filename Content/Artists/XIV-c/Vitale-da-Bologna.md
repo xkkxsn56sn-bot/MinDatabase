@@ -59,13 +59,6 @@ meta:
       - "Crucifixes and Marian images in Bologna"
       - "Regional circulation of Bolognese style"
 
-  - title: "RELATED ENTRIES"
-    list:
-      - "Simone dei Crocifissi"
-      - "Dalmasio degli Scannabecchi"
-      - "Andrea de Bartoli"
-      - "Nicolò di Giacomo"
-
 thematic_keywords:
   - "Giottesque narrative cycles in Emilia"
   - "Expressive Gothic figuration"

@@ -61,13 +61,6 @@ meta:
       - "Adriatic artistic networks"
       - "Transition from Byzantine to Gothic in Venice"
 
-  - title: "RELATED ENTRIES"
-    list:
-      - "Lorenzo Veneziano"
-      - "Caterino di Marco da Venezia"
-      - "Jacobello di Bonomo"
-      - "San Marco, Venice"
-
 thematic_keywords:
   - "Venetian–Byzantine icon tradition"
   - "Polyptychs and pala d’altare"

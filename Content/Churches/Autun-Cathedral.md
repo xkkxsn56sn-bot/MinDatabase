@@ -73,16 +73,6 @@ meta:
       - "Santiago de Compostela pilgrimage network"
       - "Conservation history: inadvertent preservation and modern restoration"
 
-  - title: "Related entries"
-    links:
-      - title: "Gislebertus"
-        url: "/Content/Artists/XII-c/Gislebertus.html"
-      - title: "Godefroid de Claire"
-      - title: "Helmarshausen Abbey"
-        url: "/Content/Churches/Helmarshausen-Abbey.html"
-      - title: "Saint Savin sur Gartempe Abbey"
-        url: "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
-
 scholars:
   - title: "Barral i Altet, Xavier"
     url: "/scholars.html#barral-i-altet-xavier"

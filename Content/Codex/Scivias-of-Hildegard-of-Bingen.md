@@ -62,19 +62,10 @@ meta:
       - "Cosmology and salvation history"
       - "Female monastic authorship"
       - "Integration of text and image"
-
-  - title: "Related entries"
-    links:
-      - title: "Liber Vitae Meritorum"
-      - title: "Liber Divinorum Operum"
-        url: "/Content/Codex/Liber-Divinorum-Operum.html"
-      - title: "Hildegard of Bingen"
-      - title: "Rupertsberg monastery and Eibingen facsimile"
-      - title: "Twelfth‑century visionary literature"
 ---
 
 
-Scivias, commonly rendered in English as “Know the Ways,” is the first of Hildegard of Bingen’s three great visionary-theological works, and it occupies a foundational place not only in her personal oeuvre but also in the wider history of twelfth‑century Latin spirituality, visionary literature, and speculative theology.
+Scivias, commonly rendered in English as “Know the Ways,” is the first of [Hildegard of Bingen](/Content/Artists/XII-c/Hildegard-von-Bingen.html)’s three great visionary-theological works, and it occupies a foundational place not only in her personal oeuvre but also in the wider history of twelfth‑century Latin spirituality, visionary literature, and speculative theology.
 Conceived as a structured exposition of twenty‑six visions received, as Hildegard affirms, from early childhood and brought to literary form under divine compulsion beginning in the early 1140s, the work combines visionary description, allegorical exegesis, and doctrinal instruction in a way that unsettles simple generic labels such as “treatise,” “visionary chronicle,” or “poem,” yet exhibits a highly wrought rhetorical and imagistic artistry that modern scholarship often characterizes as poetic in both substance and form.
 In a carefully crafted prologue Hildegard situates her visionary authority by recounting how, at the age of forty‑two, she experienced a renewed and overwhelming light commanding her to write, a command that she initially resisted but eventually obeyed, thereby inaugurating the process that would lead to the composition and later papal approval of Scivias. The work is organized into three books, each unfolding a coherent theological arc: the first deals with creation, fall, and the structure of the cosmos; the second concentrates on Christ, the Church, and the sacraments; and the third turns toward eschatology, sanctification, and the final consummation of salvation history, so that the entire composition can be read as a vast summa presented through visionary images.
 Within this tripartite structure Hildegard adopts a consistent formal pattern in which each vision is first narrated with vivid sensory detail, colors, movements, architectural and cosmological forms, and then interpreted by a divine voice that explains the theological meaning and moral implications of what has been seen, thereby fusing contemplation, exegesis, and exhortation.
