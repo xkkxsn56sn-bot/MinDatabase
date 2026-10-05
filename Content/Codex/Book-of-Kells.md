@@ -112,14 +112,6 @@ meta:
       - "Sumptuous decoration paired with a carelessly transcribed text"
       - "Venerated at Kells as 'the great Gospel of Colum Cille'"
 
-  - title: "Key scholars"
-    list:
-      - "T. J. (Thomas Julian) Brown — 1972 paper setting out Northumbria, eastern Scotland and Iona as candidate origins; proposed a single-scribe hypothesis"
-      - "Victoria Whitworth — proposes the Pictish monastery of Portmahomack as place of production, in The Book of Kells: Unlocking the Enigma (2025)"
-      - "Martin Carver — led the Portmahomack excavations (1994–2007) cited in support of the Pictish hypothesis"
-      - "Elias Avery Lowe — Codices Latini Antiquiores; early identification of several distinct scribal hands"
-      - "Michelle P. Brown — contributor to the iconographic and exegetical scholarship on the manuscript's decoration"
-
   - title: "Thematic keywords"
     list:
       - "Insular manuscript illumination and the Columban paruchia"

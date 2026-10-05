@@ -11,13 +11,8 @@ thematic_keywords:
   - "Cross-cultural artistic synthesis in the early Middle Ages"
 
 scholars:
-  - title: "Backhouse, Janet"
   - title: "Brown, Michelle P."
     url: "/scholars.html#brown-michelle-p"
-  - title: "Hull, Derek"
-  - title: "O’Dwyer, B. W."
-  - title: "Thacker, Alan"
-  - title: "Di Consiglio, Flavia"
 
 meta:
   - title: "Core data"

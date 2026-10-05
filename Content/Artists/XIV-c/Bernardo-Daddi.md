@@ -120,7 +120,6 @@ scholars:
     url: "/scholars.html#schmarsow-august"
   - title: "Gordon, Dillian Rosalind"
     url: "/scholars.html#gordon-dillian-rosalind"
-  - title: "Vitzthum"
 ---
 
 ## Introduction

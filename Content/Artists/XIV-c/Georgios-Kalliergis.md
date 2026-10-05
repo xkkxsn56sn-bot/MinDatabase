@@ -117,8 +117,6 @@ scholars:
     url: "/scholars.html#iakovleva-maria"
   - title: "Spyridon Lampros"
     url: "/scholars.html#lampros-spyridon-pavlos"
-  - title: "Konstantinos M. Vafeiadis"
-  - title: "Gabriel Millet"
 ---
 
 ## Introduction

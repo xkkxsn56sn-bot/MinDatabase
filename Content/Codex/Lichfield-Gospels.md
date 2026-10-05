@@ -107,16 +107,6 @@ meta:
       - "Carpet page attributed by some scholars to Eadfrith of Lindisfarne, or to a direct pupil"
       - "Decorative parallels with cross shaft, Aberlady, Lothian (mid-8th century)"
 
-  - title: "Key scholars"
-    list:
-      - "Peter Lord — date attribution c. 730"
-      - "Wendy Stein (1980) — provenance analysis; Lichfield and Northumbria as viable candidates"
-      - "Pamela James (1996) — most rigorous argument for Lichfield origin; pigment and script analysis"
-      - "Rodwell, Hawkes, Howe & Cramp (2003) — Lichfield Angel pigment correspondence"
-      - "Bill Endres (2010, 2014) — digitisation and RTI imaging"
-      - "Robert Sharp (2016) — Staffordshire Hoard decorative parallels"
-      - "G. Charles-Edwards & H. McKee — dry-point letter forms; late-9th-century Welsh scribal layer"
-
   - title: "Related manuscripts"
     list:
       - "Lindisfarne Gospels (Northumbria, c. 715–720) — closest stylistic parallel; possible model"

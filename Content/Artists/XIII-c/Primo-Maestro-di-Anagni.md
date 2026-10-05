@@ -51,14 +51,6 @@ meta:
       - "Secondo Maestro di Anagni (Maestro Ornatista) — independent workshop; more decorative manner"
       - "Terzo Maestro di Anagni — independent workshop; more plastically advanced; tentatively identified with Frater Romanus"
 
-  - title: "KEY SCHOLARS"
-    list:
-      - "Miklós Boskovits — Gli affreschi del Duomo di Anagni: un capitolo di pittura romana (1979); proposed earlier, pre-Gothic dating"
-      - "Pietro Toesca — foundational identification of the three workshop personalities of the Anagni crypt"
-      - "Maria Teresa Valeri — affirmed fluid, Roman-Lazian workshop culture without fixed geographical origin"
-      - "N.H.J. Hungenholtz (1979) — analysis of apocalyptic imagery in relation to the papal-imperial conflict"
-      - "Giulio Giuliani — classified the Primo Maestro firmly within the Romanesque period, prior to Gothic naturalism"
-
   - title: "RELATED ENTRIES"
     links:
       - title: "Secondo Maestro di Anagni"
@@ -66,6 +58,10 @@ meta:
       - title: "Terzo Maestro di Anagni"
       - title: "Maestro di San Pietro in Vineis"
         url: "/Content/Artists/XIII-c/Maestro-di-San-Pietro-in-Vineis.html"
+
+scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
 ---
 
 ## A Note on Anonymity and Historical Identity

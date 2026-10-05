@@ -93,7 +93,6 @@ scholars:
     url: "/scholars.html#kakoulli-ioanna"
   - title: "Fischer, Christian"
     url: "/scholars.html#fischer-christian"
-  - title: "Panagiotidi, Maria"
   - title: "Galatariotou, Catia"
     url: "/scholars.html#galatariotou-catia"
   - title: "Winfield, David"

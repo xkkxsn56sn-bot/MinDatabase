@@ -75,14 +75,6 @@ meta:
       - "More restrained and decorous than the Maestro Espressionista di Santa Chiara; positioned within a conservative current of Umbrian Trecento art"
       - "Probable use of gold ground and saturated pigments (largely lost; sinopia now dominant)"
 
-  - title: "KEY SCHOLARS"
-    list:
-      - "Pietro Scarpellini — related the Maestà delle Volte to Marian images in the Perugian contado; saw a stylistic affinity with Marino di Elemosina (Valdiponte Madonna), not an identification"
-      - "Filippo Todini — co-attribution of contado Marian panels to the master's circle; identified the Maestro della Maestà delle Volte with Marino di Elemosina, to whom he attributes choir books for San Domenico before 1321"
-      - "Elvio Lunghi — analysis of Marino di Elemosina and the Duccesque prototypes underpinning related Umbrian Madonnas"
-      - "Miklós Boskovits — distinguished the Maestro della Maestà delle Volte from the Maestro della Madonna di Perugia"
-      - "Treccani contributors — designation as 'autore locale'; overview of early Trecento Umbrian painters"
-
   - title: "RELATED ENTRIES"
     links:
       - title: "Maestro della Madonna di Perugia"
@@ -95,6 +87,16 @@ meta:
         url: "/Content/Artists/XIV-c/Puccio-di-Simone.html"
       - title: "Spoleto Cathedral"
         url: "/Content/Churches/Spoleto-Cathedral.html"
+
+scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
+  - title: "Lunghi, Elvio"
+    url: "/scholars.html#lunghi-elvio"
+  - title: "Scarpellini, Pietro"
+    url: "/scholars.html#scarpellini-pietro"
+  - title: "Todini, Filippo"
+    url: "/scholars.html#todini-filippo"
 ---
 
 ## Introduction

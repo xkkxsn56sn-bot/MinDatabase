@@ -103,12 +103,6 @@ meta:
       - "Northumbria / Lindisfarne — argued from textual and palaeographical evidence, tending to c. 680"
       - "The evidence genuinely underdetermines the answer; the most defensible position is a Columban origin somewhere in a Durrow–Iona–Northumbria network, c. 660–690"
 
-  - title: "Key scholars"
-    list:
-      - "Bernard Meehan — synthesised the codicological collation and proposed a fourth-scribe scheme for the closely related Book of Kells"
-      - "Françoise Henry — championed the Irish/Durrow origin and characterised the text as 'a relatively straightforward Vulgate'"
-      - "George Henderson — in From Durrow to Kells (1987), treated Durrow as an intellectual project in its own right rather than a stylistic way-station toward Kells"
-
   - title: "Thematic keywords"
     list:
       - "Priority as the earliest fully decorated Insular Gospel book"
