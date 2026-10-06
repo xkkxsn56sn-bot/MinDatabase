@@ -137,7 +137,7 @@ The style, with its economy of means, slightly elongated proportions, compactnes
 ### The debated Crucifix of Trevi
 
 <figure>
- <img src="/Images/Maestro-Alo/maestro-alo-01.jpg" alt="Crucifix of Trevi">
+ <img src="/Images/Maestro-di-Sant-Alo/maestro-di-sant-alo-01.jpg" alt="Crucifix of Trevi">
   <figcaption>Crucifix of Trevi, 1290-95, tempera and silver on panel, 190 x 129 cm, Complesso museale di San Francesco, Pinacoteca comunale, Trevi.</figcaption>
 </figure>
 
