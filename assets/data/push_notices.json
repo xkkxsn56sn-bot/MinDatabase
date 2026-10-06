@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-05T16:07:36+00:00",
+  "updated_at": "2026-10-06T12:34:44+00:00",
   "notices": [
+    {
+      "title": "Maestro di Cesi",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-di-Cesi.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-di-Cesi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-06T14:34:17+02:00"
+    },
     {
       "title": "Primo Maestro della Beata Chiara da Montefalco",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html",
       "change_type": "modified",
       "pushed_at": "2026-10-04T17:54:16+02:00"
-    },
-    {
-      "title": "Berlinghiero di Melanese",
-      "section": "Artists",
-      "path": "Content/Artists/XII-c/Berlinghiero-Berlinghieri.md",
-      "page_url": "/Content/Artists/XII-c/Berlinghiero-Berlinghieri.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-04T16:35:42+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Primo Maestro della Beata Chiara da Montefalco",
+      "title": "Maestro di Cesi",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.md",
-      "page_url": "/Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-05T18:03:10+02:00"
+      "path": "Content/Artists/XIV-c/Maestro-di-Cesi.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-di-Cesi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-06T14:34:17+02:00"
     }
   ]
 }
