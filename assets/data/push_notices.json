@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-06T12:34:44+00:00",
+  "updated_at": "2026-10-06T16:39:43+00:00",
   "notices": [
+    {
+      "title": "Maestro di Sant'Al\u00f2",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Maestro-di-Sant-Alo.md",
+      "page_url": "/Content/Artists/XIII-c/Maestro-di-Sant-Alo.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-06T18:39:14+02:00"
+    },
     {
       "title": "Maestro di Cesi",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Primo-Maestro-della-Beata-Chiara-da-Montefalco.html",
       "change_type": "created",
       "pushed_at": "2026-10-05T18:03:10+02:00"
-    },
-    {
-      "title": "Bonaventura Berlinghieri",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Bonaventura-Berlinghieri.md",
-      "page_url": "/Content/Artists/XIII-c/Bonaventura-Berlinghieri.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-04T17:54:16+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro di Cesi",
+      "title": "Maestro di Sant'Al\u00f2",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Cesi.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Cesi.html",
+      "path": "Content/Artists/XIII-c/Maestro-di-Sant-Alo.md",
+      "page_url": "/Content/Artists/XIII-c/Maestro-di-Sant-Alo.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-06T14:34:17+02:00"
+      "pushed_at": "2026-10-06T18:39:14+02:00"
     }
   ]
 }
