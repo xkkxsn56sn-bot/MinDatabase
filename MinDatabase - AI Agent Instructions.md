@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.12.0 | **Last Updated**: 4 October 2026
+**Version**: 4.13.0 | **Last Updated**: 7 October 2026
 
 ## Project Scope
 
@@ -164,6 +164,30 @@ This repository already contains embedded images in content files.
 - Use consistent image paths (typically `/Images/...` in content markup, matching site conventions).
 - Add clear alt text and concise scholarly captions.
 - Prefer legally reusable/public-domain or properly credited sources.
+
+### Codex Image Names
+
+Images of the schede in `Content/Codex/` are named after what they show, not by a running number. The name is derived from the figcaption, which stays the source of truth: if the caption changes, the file is renamed.
+
+Form: `Images/<Scheda-Name>/<slug>-<locator>[-d01|-alt].<ext>`, all lowercase, no spaces.
+
+- **Folder and slug.** The folder carries the exact name of the scheda file (`Images/Book-of-Armagh/`); the slug is that name in lowercase (`book-of-armagh`). No short prefixes.
+- **Leaves.** `f`, the number padded with zeros, `r` or `v`: `f032v`, `f123r`. The width is fixed per codex, as wide as its highest folio needs: three digits everywhere, four for the Codex Amiatinus (`f0796v`). The zeros keep the alphabetical order equal to the order of the book; they are never omitted, and one codex never mixes widths.
+- **Pages.** For books numbered by page, `p` and the number: `p026`.
+- **Openings.** Two facing leaves in one image: `f033v-034r`. A range without sides, such as a video: `f099-103`.
+- **Roman numerals.** Flyleaves numbered in Roman: `f-i-v`, with hyphens, because `fiv` would read as a single numeral.
+- **Several images of one leaf.** The whole leaf takes no suffix; details are `-d01`, `-d02`; a second reproduction of the same leaf from another source is `-alt`. Two captions that claim the same leaf without being a detail or a second source are a conflict to be settled in the scheda, not a naming problem.
+- **One foliation per codex.** The one of the holding library, named in the scheda. The numbers of older binders or earlier catalogues are not used in names (the Mulling portrait of John is `f081v`, not 53).
+- **No number.** A closed list of labels: `cover-front`, `cover-back`, `spine`, `binding`, `shrine`, `satchel`, and `context-<subject>` for objects that are not part of the codex (`codex-amiatinus-context-jarrow-dedication.jpg`). Anything else is added to this list here before it is used.
+- **Last resort.** `<slug>-NN.jpg`, two digits, only for an image that shows no leaf and no listed object.
+- **Videos.** Same grammar, in `Video/`.
+
+The rule applies to `Content/Codex/` only; the other sections keep `<subject>-NN.jpg` (see Convenzioni). When a scheda is touched for any reason, its images are brought into the form in the same commit; a whole-section round is run with a script in dry-run first.
+
+| Codex | Zero width |
+| --- | --- |
+| Codex Amiatinus | 4 |
+| every other codex | 3 |
 
 ## Cross-Reference Consistency
 
@@ -586,7 +610,8 @@ eccezione: non guardano i `.md`, leggono i due contenitori HTML,
 Nessuno spazio nei nomi di file e cartelle: gli spazi diventano `%20` negli
 URL e hanno gia' rotto centinaia di link. Le immagini seguono la forma
 `<soggetto>-NN.jpg`, tutta minuscola, con lo zero iniziale per mantenere
-l'ordinamento oltre la decima.
+l'ordinamento oltre la decima; per `Content/Codex/` vale la regola di
+«Codex Image Names», che nomina le immagini per foglio.
 
 I link interni sono sempre root-relative (`/Content/...`, `/endnotes.html`):
 i percorsi relativi dipendono dalla profondita' della cartella e si rompono a
