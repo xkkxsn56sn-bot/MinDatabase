@@ -606,9 +606,7 @@ contenuto; il docstring in cima li elenca. Sei meritano una nota:
   dichiarati. La grammatica sta in `scripts/codex_image_names.py`, che lo
   script `scripts/rename_codex_images.py` (dry-run per default) usa per
   ricavare i nomi. Un doppione di foglio non risolto sta in
-  `OPEN_CONFLICTS` finche' la scheda non decide: oggi il solo caso e'
-  `godescalc-evangelistary-07.jpg`, la cui didascalia dice f. 3r come quella
-  di Christ in Majesty.
+  `OPEN_CONFLICTS` finche' la scheda non decide; oggi e' vuoto.
 
 I controlli da 1 a 9 coprono `Content/**/*.md` piu' i `.md` nella radice
 (glossary, dating-systems), esclusa la cartella `drafts/`. Il 10 e l'11 fanno

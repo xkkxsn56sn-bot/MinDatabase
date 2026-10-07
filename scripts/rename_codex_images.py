@@ -59,6 +59,10 @@ def plan():
             if (base, fname) in cin.OPEN_CONFLICTS:
                 continue
             label = OVERRIDES.get((base, fname))
+            if label is None:
+                mm = cin.name_re(base).match(fname)
+                if mm and mm["label"]:
+                    label = mm["label"]  # gia' nella forma: l'esecuzione e' idempotente
             loc = label or cin.locator_from_caption(cap, width)
             if loc is None:
                 problems.append(f"{base}: {fname}: nessun foglio nella didascalia e nessun override")

@@ -17,7 +17,7 @@ WIDTH = {"Codex-Amiatinus": 4}
 # Conflitti di foglio aperti nelle schede: due didascalie rivendicano lo stesso
 # foglio senza essere dettaglio o seconda fonte. Il file resta col nome che ha,
 # il controllo lo salta, finche' la scheda non decide (vedi pending-checks).
-OPEN_CONFLICTS = {("Godescalc-Evangelistary", "godescalc-evangelistary-07.jpg")}
+OPEN_CONFLICTS = set()
 
 LABELS = ("cover-front", "cover-back", "spine", "binding", "shrine", "satchel")
 CONTEXT_RE = r"context-[a-z0-9]+(?:-[a-z0-9]+)*"

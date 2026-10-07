@@ -45,7 +45,7 @@ k. Check 12, i nomi delle immagini dei codici: il nome deriva dalla
    didascalia. Il caso di regressione e' l'Armagh con `armagh-f32v.jpg`, la
    forma senza zeri e col prefisso corto che ha dato il nome alla regola;
    poi aperture, numeri romani, pagine, la larghezza a quattro cifre
-   dell'Amiatinus, le etichette senza foglio e il conflitto aperto.
+   dell'Amiatinus, le etichette senza foglio e il Godescalc 07 (f. 4v).
 """
 import sys
 from pathlib import Path
@@ -260,7 +260,9 @@ check("k. etichetta fuori lista: rosso", nm(M, M, "book-of-mulling-cumdach.jpg",
 check("k. contesto: verde", nm(AM, AM, "codex-amiatinus-context-jarrow-dedication.jpg", "Inscription") is None)
 check("k. foglio nel nome, nessuno in didascalia: rosso", nm(M, M, "book-of-mulling-f001r.jpg", "Shrine") is not None)
 G = "Godescalc-Evangelistary"
-check("k. conflitto aperto: saltato", nm(G, G, "godescalc-evangelistary-07.jpg", "folio 3r") is None)
+check("k. Godescalc 07 corretto al f. 4v: verde", nm(G, G, "godescalc-evangelistary-f004v.jpg", "folio 4v") is None)
+check("k. Godescalc 07 col vecchio nome: rosso", nm(G, G, "godescalc-evangelistary-07.jpg", "folio 4v") is not None)
+check("k. nessun conflitto aperto", cin.OPEN_CONFLICTS == set())
 
 print()
 if FAILURES:
