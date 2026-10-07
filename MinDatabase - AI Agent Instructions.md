@@ -209,7 +209,7 @@ The rule applies to `Content/Codex/` only; the other sections keep `<subject>-NN
 
 ## Tooling Note: validate_content_indexes.py
 
-`scripts/validate_content_indexes.py` runs the eleven content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, slug ordering inside the sections of `endnotes.html`, and display-name ordering inside the sections of `scholars.html`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
+`scripts/validate_content_indexes.py` runs the twelve content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, slug ordering inside the sections of `endnotes.html`, display-name ordering inside the sections of `scholars.html`, and the leaf-based names of the images in `Content/Codex/`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
 
 `Content/Saints/` is, by editorial choice, an unindexed section: saint entries are reachable only via links from other entries, not from a listing page. The script excludes `Saints/` from the "has a JSON entry" check, but flags any Saints entry that isn't linked from any other entry, since such an entry would otherwise be unreachable.
 
@@ -379,8 +379,9 @@ gia' annunciato — con una seconda email agli iscritti.
 
 Accanto a quella, e per la stessa ragione, gira un sesto passo:
 **Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
-28 asserzioni in dieci gruppi che fissano il contratto dei link interni sul
-caso che lo ha allargato. I primi casi sono letteralmente i due rimandi morti
+47 asserzioni in undici gruppi: 28 fissano il contratto dei link interni sul
+caso che lo ha allargato, 19 il contratto dei nomi delle immagini dei codici
+(check 12). I primi casi sono letteralmente i due rimandi morti
 di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
 rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
 che **esiste** rosso lo stesso. Gli altri gruppi coprono l'URL-decode, le
@@ -538,13 +539,13 @@ lo cambia, cosi' indice e contenuto restano allineati nello stesso commit. Il
 workflow **Update Gallery Index** in CI resta attivo e fa da controprova:
 trovando l'indice gia' aggiornato esce con «unchanged, nothing to commit».
 
-### Gli undici controlli
+### I dodici controlli
 
 `scripts/validate_content_indexes.py` contiene tutti i controlli sul
-contenuto; il docstring in cima li elenca. Cinque meritano una nota:
+contenuto; il docstring in cima li elenca. Sei meritano una nota:
 
 - **7** verifica i link fra pagine, **8** le ancore ai due contenitori
-  (`endnotes.html`, `scholars.html`), **9** le immagini, **10** l'ordine per
+  (`endnotes.html`, `scholars.html`), **9** le immagini, **12** i nomi delle immagini dei codici, **10** l'ordine per
   slug dentro le sezioni-lettera di `endnotes.html`, **11** l'ordine dentro
   le sezioni di `scholars.html`.
 - Il check 7 copre **qualunque** link che punti sotto `Content/`, non i soli
@@ -599,6 +600,15 @@ contenuto; il docstring in cima li elenca. Cinque meritano una nota:
   `exists()`: il filesystem di macOS non distingue maiuscole e minuscole,
   GitHub Pages si'. Un `Armagh-01.jpg` che punta ad `armagh-01.jpg` funziona
   sul Mac e produce un'immagine vuota in produzione.
+- Il check 12 vale solo per `Content/Codex/` e confronta il nome di ogni
+  immagine con la didascalia della sua figura: cartella uguale al nome della
+  scheda, forma `<slug>-<foglio|etichetta>`, foglio e zeri uguali a quelli
+  dichiarati. La grammatica sta in `scripts/codex_image_names.py`, che lo
+  script `scripts/rename_codex_images.py` (dry-run per default) usa per
+  ricavare i nomi. Un doppione di foglio non risolto sta in
+  `OPEN_CONFLICTS` finche' la scheda non decide: oggi il solo caso e'
+  `godescalc-evangelistary-07.jpg`, la cui didascalia dice f. 3r come quella
+  di Christ in Majesty.
 
 I controlli da 1 a 9 coprono `Content/**/*.md` piu' i `.md` nella radice
 (glossary, dating-systems), esclusa la cartella `drafts/`. Il 10 e l'11 fanno

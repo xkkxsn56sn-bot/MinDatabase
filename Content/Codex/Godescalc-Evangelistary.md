@@ -136,7 +136,7 @@ Two textual points are worthy of attention:
 ### Christ in Majesty
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-01.jpg" alt="Christ in Majesty in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f003r.jpg" alt="Christ in Majesty in Godescalc Evangelistary">
   <figcaption>Christ in Majesty - folio 3r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ Codicologically, the Godescalc Evangelistary is a masterpiece of luxury book pro
 ### Fountain of Life
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-02.jpg" alt="Fountain of Life in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f003v.jpg" alt="Fountain of Life in Godescalc Evangelistary">
   <figcaption>Fountain of Life - folio 3v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ The manuscript opens with a dedicatory poem composed by its scribe, Godescalc, w
 ### The Evangelist Matthew
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-03.jpg" alt="Matthew in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f001r.jpg" alt="Matthew in Godescalc Evangelistary">
   <figcaption>The Evangelist Matthew - folio 1r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ The artistic program of the Godescalc Evangelistary is a remarkable synthesis of
 ### The Evangelist Mark
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-04.jpg" alt="Mark in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f001v.jpg" alt="Mark in Godescalc Evangelistary">
   <figcaption>The Evangelist Mark - folio 1v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ The manuscript's creation coincided with a period of significant liturgical chan
 ### The Evangelist Luke
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-05.jpg" alt="Luke in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f002r.jpg" alt="Luke in Godescalc Evangelistary">
   <figcaption>The Evangelist Luke - folio 2r, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Queen Hildegard's role as a co-patron is equally crucial to the manuscript's mea
 ### The Evangelist John
 
 <figure>
-  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-06.jpg" alt="John in Godescalc Evangelistary">
+  <img src="/Images/Godescalc-Evangelistary/godescalc-evangelistary-f002v.jpg" alt="John in Godescalc Evangelistary">
   <figcaption>The Evangelist John - folio 2v, Godescalc Evangelistary, 781-83, mineral and vegetal pigments mixed with egg white on purple-dyed vellum parchment, 310 x 210 mm, Bibliothèque Nationale de France, NAL 1203.</figcaption>
 </figure>
 

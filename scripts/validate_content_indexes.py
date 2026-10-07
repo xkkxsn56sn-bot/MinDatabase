@@ -69,8 +69,15 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     come anomalie; ordinare per titolo li assolve da solo, e nessuna lista
     di eccezioni e' necessaria.
 
+12. Ogni immagine (e video) delle figure sotto Content/Codex/ rispetta la
+    regola «Codex Image Names» del file delle istruzioni: cartella uguale al
+    nome della scheda, nome nella forma <slug>-<foglio|etichetta>, e foglio
+    del nome uguale al foglio della didascalia, con gli zeri alla larghezza
+    del codice. La didascalia e' la fonte; il nome ne deriva. La grammatica
+    sta in scripts/codex_image_names.py, condiviso con lo script di rinomina.
+
 I controlli da 1 a 9 lavorano sui .md; il 10 e l'11 leggono i due
-contenitori HTML, endnotes.html e scholars.html.
+contenitori HTML, endnotes.html e scholars.html; il 12 i soli .md di Codex.
 
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
@@ -85,6 +92,9 @@ import unicodedata
 import urllib.parse
 from collections import defaultdict, Counter
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import codex_image_names  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO_ROOT / "Content"
@@ -615,6 +625,43 @@ def check_image_references(md_files, anomalies):
             else:
                 anomalies["Immagine inesistente"].append(f"{rel_src}: '{ref}'")
 
+# --- Check 12: i nomi delle immagini dei codici ---------------------------
+# Le immagini di Content/Codex/ si nominano per foglio, ricavando il nome dalla
+# didascalia. Il contratto sta in codex_image_names.py; qui si legge ogni
+# <figure> e si confronta il nome del file con il foglio che la didascalia dice.
+CODEX_FIGURE_RE = re.compile(r"<figure>(.*?)</figure>", re.S)
+CODEX_SRC_RE = re.compile(r'<(?:img|video)\b[^>]*\bsrc="([^"]+)"')
+CODEX_CAP_RE = re.compile(r"<figcaption>(.*?)</figcaption>", re.S)
+
+
+def check_codex_image_names(md_files, anomalies):
+    codex_dir = CONTENT_DIR / "Codex"
+    for md_path in md_files:
+        if md_path.parent != codex_dir:
+            continue
+        basename = md_path.stem
+        rel_src = str(md_path.relative_to(REPO_ROOT))
+        text = md_path.read_text(encoding="utf-8")
+        for fig in CODEX_FIGURE_RE.findall(text):
+            m = CODEX_SRC_RE.search(fig)
+            if not m:
+                continue
+            parts = urllib.parse.unquote(m.group(1)).lstrip("/").split("/")
+            cap = CODEX_CAP_RE.search(fig)
+            if parts[0] == "Video":
+                folder = basename
+                filename = parts[-1]
+            elif len(parts) == 3 and parts[0] == "Images":
+                folder, filename = parts[1], parts[2]
+            else:
+                anomalies["Nome immagine Codex"].append(f"{rel_src}: percorso inatteso '{m.group(1)}'")
+                continue
+            err = codex_image_names.check_name(
+                basename, folder, filename, cap.group(1) if cap else "")
+            if err:
+                anomalies["Nome immagine Codex"].append(f"{rel_src}: {err}")
+
+
 # --- Check 10: ordine delle voci dentro le sezioni di endnotes.html ------
 # La pagina di note raggruppa le voci in sezioni-lettera, e dentro ogni
 # sezione le ordina per slug. Le due cose seguono chiavi diverse di
@@ -994,6 +1041,7 @@ def main():
     ids_by_file = load_anchor_ids(anomalies)
     check_anchor_links(all_md + root_md, ids_by_file, anomalies)
     check_image_references(all_md + root_md, anomalies)
+    check_codex_image_names(all_md, anomalies)
     check_note_ordering(anomalies)
     check_scholars_ordering(anomalies)
 

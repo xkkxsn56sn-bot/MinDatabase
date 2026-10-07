@@ -71,6 +71,8 @@ meta:
         url: "/Content/Codex/Book-of-Armagh.html"
       - title: "Book of Kells"
         url: "/Content/Codex/Book-of-Kells.html"
+      - title: "Book of Mulling"
+        url: "/Content/Codex/Book-of-Mulling.html"
 
   - title: "Reference Links"
     links:
@@ -169,7 +171,7 @@ To understand what the Book of Dimma is, one must understand the category to whi
 
 The features McGurk identified included: small size; texts confined to the four gospels, generally without the fuller apparatus of prefaces, canon tables and chapter lists found in grander gospel books; gospels belonging to an "Irish mixed-text" family; each gospel occupying its own quires; a compact minuscule script; a certain "scribal indiscipline"; and a modest decorative scheme, often limited to evangelist images and enlarged initials. McGurk suggested that these were personal books, used for private study or preaching, carried by travelling monks in satchels, and perhaps serving the same purpose as the small Bibles or portable breviaries of later friars.
 
-The corpus is small. In his foundational article McGurk discussed eight examples, all from Ireland, dating from the seventh through the ninth centuries; roughly eight manuscripts are still conventionally counted as pocket gospel books, though the exact membership varies with the criteria applied. Alongside the Book of Dimma, the group typically includes the Book of Mulling (Trinity College Dublin MS 60), the Cadmug Gospels (Fulda, Landesbibliothek, Codex Bonifatianus 3), the gospels within the New Testament portion of the Book of Armagh (Trinity College Dublin MS 52), the MacDurnan Gospels (Lambeth Palace Library MS 1370), the Book of Deer (Cambridge University Library MS Ii.6.32), the Stowe St John (in the Stowe Missal manuscript, Royal Irish Academy MS D II 3), the British Library manuscript Additional 40618, and Bern, Burgerbibliothek, Cod. 671. Within this company the Book of Dimma is the largest at 175 by 142 mm; the smallest, the Cadmug Gospels, measures only 125 by 112 mm across some 65 folios.
+The corpus is small. In his foundational article McGurk discussed eight examples, all from Ireland, dating from the seventh through the ninth centuries; roughly eight manuscripts are still conventionally counted as pocket gospel books, though the exact membership varies with the criteria applied. Alongside the Book of Dimma, the group typically includes the [Book of Mulling](/Content/Codex/Book-of-Mulling.html) (Trinity College Dublin MS 60), the Cadmug Gospels (Fulda, Landesbibliothek, Codex Bonifatianus 3), the gospels within the New Testament portion of the Book of Armagh (Trinity College Dublin MS 52), the MacDurnan Gospels (Lambeth Palace Library MS 1370), the Book of Deer (Cambridge University Library MS Ii.6.32), the Stowe St John (in the Stowe Missal manuscript, Royal Irish Academy MS D II 3), the British Library manuscript Additional 40618, and Bern, Burgerbibliothek, Cod. 671. Within this company the Book of Dimma is the largest at 175 by 142 mm; the smallest, the Cadmug Gospels, measures only 125 by 112 mm across some 65 folios.
 
 It is worth registering that the tidy category McGurk created has been questioned by more recent scholarship. A doctoral thesis by [Eleanor Jackson](/scholars.html#jackson-eleanor), completed at the University of York in 2017 and provocatively titled *To Hold Infinity in the Palm of Your Hand: The Insular Pocket Gospel Books Re-evaluated*, points out that the name is something of a misnomer — the books have no demonstrable connection with actual "pockets" in the modern sense, and the term was retrofitted from much later bibliographic usage. Jackson notes that many of the features McGurk listed are in fact shared by other Insular manuscripts, while some are exhibited only inconsistently within the group itself, so that "the pocket-gospel group remains hazily defined." This is a healthy corrective. It reminds us that "pocket gospel book" is a modern scholarly convenience, not a category the makers of the Book of Dimma would have recognised, and that the assumed uses of these books — as personal copies conveyed on the body — have often been "assumed rather than rigorously argued." The Book of Dimma is nonetheless a genuine and central example of the small-format Irish gospel book, however we choose to label the class.
 
@@ -210,7 +212,7 @@ The decorative programme of the Book of Dimma is, by the standards of Insular go
 ### Man of Ink and Pattern: The Evangelist Portrait at the Opening of Matthew
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-01.jpg" alt="The Evangelist Matthew Enclosed: Portrait and Frame at the Opening of the First Gospel">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p002.jpg" alt="The Evangelist Matthew Enclosed: Portrait and Frame at the Opening of the First Gospel">
   <figcaption>The Evangelist Matthew Enclosed: Portrait and Frame at the Opening of the First Gospel, Dublin, Trinity College MS 59, p. 2.</figcaption>
 </figure>
 
@@ -229,7 +231,7 @@ It is worth noting that the figure bears no inscription identifying him on this 
 ### Liber and Chi-Rho: The Opening of Matthew and the Genealogy of Christ
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-02.jpg" alt="Two Beginnings on One Page: The Incipit of Matthew and the Monogram of Christ">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p003.jpg" alt="Two Beginnings on One Page: The Incipit of Matthew and the Monogram of Christ">
   <figcaption>Two Beginnings on One Page: The Incipit of Matthew and the Monogram of Christ, Dublin, Trinity College MS 59, p. 3.</figcaption>
 </figure>
 
@@ -260,7 +262,7 @@ Two observations by way of caution. The ornament here is drawn and washed rather
 ### Marcus Enthroned: The Evangelist Portrait at the Opening of the Second Gospel
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-03.jpg" alt="The Beast-Headed Throne: Mark and His Chair">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p030.jpg" alt="The Beast-Headed Throne: Mark and His Chair">
   <figcaption>The Beast-Headed Throne: Mark and His Chair, Dublin, Trinity College MS 59, p. 30.</figcaption>
 </figure>
 
@@ -285,7 +287,7 @@ Interestingly, the seated, frontal, book-holding evangelist framed by a throne i
 ### A Figure Dissolving into Drapery: The Evangelist Portrait Preceding Luke
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-04.jpg" alt="Rubbed and Radiant: The Third Evangelist Portrait">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p054.jpg" alt="Rubbed and Radiant: The Third Evangelist Portrait">
   <figcaption>Rubbed and Radiant: The Third Evangelist Portrait, Dublin, Trinity College MS 59, p. 54.</figcaption>
 </figure>
 
@@ -308,7 +310,7 @@ Again, the attribution of the portrait to Luke rests on its position at the head
 ### Quoniam quidem multi: The Incipit Page of Luke
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-05.jpg" alt="The Great Q and the Prologue to Theophilus">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p055.jpg" alt="The Great Q and the Prologue to Theophilus">
   <figcaption>The Great Q and the Prologue to Theophilus, Dublin, Trinity College MS 59, p. 55.</figcaption>
 </figure>
 
@@ -335,7 +337,7 @@ The frame here is executed with a precision that bears comparison with far grand
 ### The Eagle and the Book: The Symbol of John
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-06.jpg" alt="Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p104.jpg" alt="Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel">
   <figcaption>Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel, Dublin, Trinity College MS 59, p. 104.</figcaption>
 </figure>
 
@@ -365,7 +367,7 @@ The prominence of this page is sometimes taken as evidence that the eagle page w
 ### In principio erat verbum: The Incipit of John
 
 <figure>
-  <img src="/Images/Book-of-Dimma/dimma-07.jpg" alt="The Labyrinth Initial: Opening of the Fourth Gospel">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p105.jpg" alt="The Labyrinth Initial: Opening of the Fourth Gospel">
   <figcaption>The Labyrinth Initial: Opening of the Fourth Gospel, Dublin, Trinity College MS 59, p. 105.</figcaption>
 </figure>
 
@@ -436,7 +438,7 @@ The narrative is a classic hagiographic topos: the miraculous suspension of the 
 Between the gospels of Luke and John, on pages 99 to 103, the Book of Dimma contains a text that has nothing to do with the gospels: an order for the Unction and Communion of the Sick, the rite for the visitation of the sick and dying, sometimes referred to as the *missa de infirmis*. This is not part of the original book. On palaeographic grounds it is generally regarded as a later addition, most often dated to the ninth century, and it is written in a strikingly different format from the gospels — in a single column spanning the full width of the page, rather than the two columns of the gospel text, and in a larger, less dense script.
 
 <figure>
-  <video src="/Video/dimma-01.mp4" controls></video>
+  <video src="/Video/book-of-dimma-f099-103.mp4" controls></video>
   <figcaption>The Book of Dimma, Dublin, Trinity College MS 59, fol 99-103.</figcaption>
 </figure>
 

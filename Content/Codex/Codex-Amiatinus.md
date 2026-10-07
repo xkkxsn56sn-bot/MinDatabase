@@ -235,7 +235,7 @@ The Amiatinus is unintelligible apart from the institution that produced it. Ben
 ### Stone, Parchment, and the Authority of a Date
 
 <figure>
-  <img src="/Images/Codex-Amiatinus/amiatinus-01.jpg" alt="The Jarrow Dedication Inscription and the Epigraphy of Northumbrian Romanitas">
+  <img src="/Images/Codex-Amiatinus/codex-amiatinus-context-jarrow-dedication.jpg" alt="The Jarrow Dedication Inscription and the Epigraphy of Northumbrian Romanitas">
   <figcaption>The Jarrow Dedication Inscription and the Epigraphy of Northumbrian Romanitas.</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ On Bede's involvement, the position of the field has shifted decisively over the
 ### A Palimpsest of Intentions
 
 <figure>
-  <img src="/Images/Codex-Amiatinus/amiatinus-02.jpg" alt="The Dedication Page of the Codex Amiatinus (fol. 1v) and the Rewriting of a Gift">
+  <img src="/Images/Codex-Amiatinus/codex-amiatinus-f0001v.jpg" alt="The Dedication Page of the Codex Amiatinus (fol. 1v) and the Rewriting of a Gift">
   <figcaption>The Dedication Page of the Codex Amiatinus (fol. 1v) and the Rewriting of a Gift.</figcaption>
 </figure>
 
@@ -393,7 +393,7 @@ Its contents are as follows. The dedicatory verses stand under an arch (fol. I/1
 ### The Restorer of Scripture
 
 <figure>
-  <img src="/Images/Codex-Amiatinus/amiatinus-03.jpg" alt="The Ezra Miniature of the Codex Amiatinus and the Earliest Image of a Library">
+  <img src="/Images/Codex-Amiatinus/codex-amiatinus-f0005r.jpg" alt="The Ezra Miniature of the Codex Amiatinus and the Earliest Image of a Library">
   <figcaption>The Ezra Miniature of the Codex Amiatinus and the Earliest Image of a Library, fol. 5r.</figcaption>
 </figure>
 
@@ -423,7 +423,7 @@ The honest summary is that we do not know who the figure was originally meant to
 ### The Camp of Israel
 
 <figure>
-  <img src="/Images/Codex-Amiatinus/amiatinus-04.jpg" alt="The Tabernacle Diagram of the Codex Amiatinus and the Diagram as Exegesis">
+  <img src="/Images/Codex-Amiatinus/codex-amiatinus-f0002v-0003r.jpg" alt="The Tabernacle Diagram of the Codex Amiatinus and the Diagram as Exegesis">
   <figcaption>The Tabernacle Diagram of the Codex Amiatinus and the Diagram as Exegesis, fol. 2v-3r.</figcaption>
 </figure>
 
@@ -500,7 +500,7 @@ The parchment is cockled and stained, particularly along the outer margins and a
 ### The Hinge of the Pandect
 
 <figure>
-  <img src="/Images/Codex-Amiatinus/amiatinus-05.jpg" alt="The Maiestas Domini of the Codex Amiatinus">
+  <img src="/Images/Codex-Amiatinus/codex-amiatinus-f0796v.jpg" alt="The Maiestas Domini of the Codex Amiatinus">
   <figcaption>The Maiestas Domini of the Codex Amiatinus, fol. 796v.</figcaption>
 </figure>
 

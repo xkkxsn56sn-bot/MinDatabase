@@ -165,7 +165,7 @@ The illumination programme comprises eleven full-page miniatures — six carpet 
 ### The double-armed cross carpet page
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-03.jpg" alt="The double-armed cross carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f001v.jpg" alt="The double-armed cross carpet page">
   <figcaption>The double-armed cross carpet page, Dublin, Trinity College Library, MS 57, fol. 1v.</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ The folio's condition is conspicuous. Extensive losses of the paint film appear 
 ### The four-symbols page
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-02.jpg" alt="The four-symbols page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f002r.jpg" alt="The four-symbols page">
   <figcaption>The four-symbols page, Dublin, Trinity College Library, MS 57, fol. 2r.</figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ The folio's condition is itself part of its history. The losses visible across t
 ### Carpet Page (2)
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-05.jpg" alt="Carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f003v.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, MS 57, fol. 3v.</figcaption>
 </figure>
 
@@ -222,7 +222,7 @@ Condition is comparatively good here relative to fol. 1v — the paint film has 
 ### The opening of Jerome's letter to Damasus
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-04.jpg" alt="The opening of Jerome's letter to Damasus">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f004r.jpg" alt="The opening of Jerome's letter to Damasus">
   <figcaption>The opening of Jerome's letter to Damasus, Dublin, Trinity College Library, MS 57, fol. 4r.</figcaption>
 </figure>
 
@@ -243,7 +243,7 @@ The condition of the leaf is poor by comparison with the decorated folios. The v
 ### The Symbol of Saint Matthew
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-01.jpg" alt="The Symbol of Saint Matthew">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f021v.jpg" alt="The Symbol of Saint Matthew">
   <figcaption>The Symbol of Saint Matthew, Dublin, Trinity College Library, Dublin, MS 57, fol. 21v.</figcaption>
 </figure>
 
@@ -264,7 +264,7 @@ The condition of the leaf is variable. The vellum is discoloured and cockled, pa
 ### The Symbol of Saint Mark
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-06.jpg" alt="The Symbol of Saint Mark">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f084v.jpg" alt="The Symbol of Saint Mark">
   <figcaption>The Symbol of Saint Mark, Dublin, Trinity College Library, Dublin, MS 57, fol. 84v.</figcaption>
 </figure>
 
@@ -287,7 +287,7 @@ Condition here is good. The vellum is clean and only lightly discoloured, the pa
 ### Carpet Page (3)
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-07.jpg" alt="Carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f085v.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 85v.</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ The condition of this leaf is excellent by the standards of the manuscript. The 
 ### The Calf of Saint Luke
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-08.jpg" alt="The Calf of Saint Luke">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f124v.jpg" alt="The Calf of Saint Luke">
   <figcaption>The Calf of Saint Luke, Dublin, Trinity College Library, Dublin, MS 57, fol. 124v.</figcaption>
 </figure>
 
@@ -325,7 +325,7 @@ Two further material observations bear noting. The show-through of script from t
 ### Carpet Page (4)
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-09.jpg" alt="Carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f125v.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 125v.</figcaption>
 </figure>
 
@@ -344,7 +344,7 @@ The palette remains the restricted one characteristic of the earliest Insular bo
 ### The Lion of Saint John
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-10.jpg" alt="The Lion of Saint John">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f191v.jpg" alt="The Lion of Saint John">
   <figcaption>The Lion of Saint John, Dublin, Trinity College Library, Dublin, MS 57, fol. 191v.</figcaption>
 </figure>
 
@@ -363,7 +363,7 @@ The reserved field shows pronounced show-through from the adjacent leaves, inclu
 ### Carpet Page (5)
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-11.jpg" alt="Carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f192v.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 192v.</figcaption>
 </figure>
 
@@ -382,7 +382,7 @@ The animal ornament here has long been recognised as bearing a close relationshi
 ### Carpet Page (6)
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-12.jpg" alt="Carpet page">
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f248r.jpg" alt="Carpet page">
   <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 248r.</figcaption>
 </figure>
 

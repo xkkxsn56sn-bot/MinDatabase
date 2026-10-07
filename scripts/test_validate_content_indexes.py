@@ -41,12 +41,18 @@ i. Estrazione, verso opposto: la prosa che nomina percorsi come `Content/**`
    diventa rosso da solo.
 j. Il grafo di raggiungibilita' del check 6 si costruisce sui soli link
    validi: un link rotto o non canonico non rende raggiungibile nulla.
+k. Check 12, i nomi delle immagini dei codici: il nome deriva dalla
+   didascalia. Il caso di regressione e' l'Armagh con `armagh-f32v.jpg`, la
+   forma senza zeri e col prefisso corto che ha dato il nome alla regola;
+   poi aperture, numeri romani, pagine, la larghezza a quattro cifre
+   dell'Amiatinus, le etichette senza foglio e il conflitto aperto.
 """
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import validate_content_indexes as v  # noqa: E402
+import codex_image_names as cin  # noqa: E402
 
 FAILURES = []
 
@@ -215,6 +221,46 @@ for broken in BONAIUTO_DEAD + (NO_EXT, WRONG_CASE, "/Content/Churches/Non-Esiste
         f"j. un link non valido non e' un arco: {broken}",
         v.content_link_target(broken) is None,
     )
+
+# --- k. i nomi delle immagini dei codici --------------------------------
+def nm(base, folder, fn, cap):
+    return cin.check_name(base, folder, fn, cap)
+
+
+A = "Book-of-Armagh"
+check("k. foglio con zeri e slug intero: verde",
+      nm(A, A, "book-of-armagh-f032v.jpg", "..., fol. 32v. Armagh") is None)
+check("k. l'Armagh vecchio (prefisso corto, senza zeri): rosso",
+      nm(A, A, "armagh-f32v.jpg", "fol. 32v") is not None)
+check("k. senza zeri con lo slug giusto: rosso",
+      nm(A, A, "book-of-armagh-f32v.jpg", "fol. 32v") is not None)
+check("k. foglio diverso dalla didascalia: rosso",
+      "f053r" in (nm(A, A, "book-of-armagh-f054v.jpg", "fol. 53r") or ""))
+check("k. cartella diversa dal nome della scheda: rosso",
+      nm("Lindisfarne-Gospels", "Lindisfarne", "lindisfarne-gospels-f025v.jpg", "folio 25v") is not None)
+check("k. maiuscola nel nome: rosso",
+      nm("Codex-Usserianus-Primus", "Codex-Usserianus-Primus", "Usserianus-01.jpg", "fol. 149v") is not None)
+AM = "Codex-Amiatinus"
+check("k. Amiatinus a quattro cifre: verde",
+      nm(AM, AM, "codex-amiatinus-f0796v.jpg", "fol. 796v") is None)
+check("k. Amiatinus a tre cifre: rosso",
+      nm(AM, AM, "codex-amiatinus-f796v.jpg", "fol. 796v") is not None)
+check("k. apertura: verde",
+      nm(AM, AM, "codex-amiatinus-f0002v-0003r.jpg", "fol. 2v-3r") is None)
+LO = "Codex-Aureus-of-Lorsch"
+check("k. pagina: verde", nm(LO, LO, "codex-aureus-of-lorsch-p026.jpg", "Pal. lat. 50, p. 26") is None)
+check("k. numero romano: verde", nm(LO, LO, "codex-aureus-of-lorsch-f-i-v.jpg", "fol. Iv.") is None)
+check("k. dettaglio: verde", nm(A, A, "book-of-armagh-f032v-d01.jpg", "fol. 32v") is None)
+check("k. seconda fonte: verde", nm(A, A, "book-of-armagh-f032v-alt.jpg", "fol. 32v") is None)
+M = "Book-of-Mulling"
+check("k. etichetta senza foglio: verde", nm(M, M, "book-of-mulling-shrine.jpg", "Shrine (cumdach)") is None)
+check("k. etichetta con un foglio in didascalia: rosso",
+      nm(M, M, "book-of-mulling-shrine.jpg", "folio 94v") is not None)
+check("k. etichetta fuori lista: rosso", nm(M, M, "book-of-mulling-cumdach.jpg", "Shrine") is not None)
+check("k. contesto: verde", nm(AM, AM, "codex-amiatinus-context-jarrow-dedication.jpg", "Inscription") is None)
+check("k. foglio nel nome, nessuno in didascalia: rosso", nm(M, M, "book-of-mulling-f001r.jpg", "Shrine") is not None)
+G = "Godescalc-Evangelistary"
+check("k. conflitto aperto: saltato", nm(G, G, "godescalc-evangelistary-07.jpg", "folio 3r") is None)
 
 print()
 if FAILURES:

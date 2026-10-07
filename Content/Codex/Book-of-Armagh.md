@@ -80,6 +80,8 @@ meta:
         url: "/Content/Codex/Book-of-Kells.html"
       - title: "Lindisfarne Gospels"
         url: "/Content/Codex/Lindisfarne-Gospels.html"
+      - title: "Book of Mulling"
+        url: "/Content/Codex/Book-of-Mulling.html"
 
   - title: "Reference Links"
     links:
@@ -106,6 +108,8 @@ scholars:
     url: "/scholars.html#bury-john-bagnell"
   - title: "Gwynn, John"
     url: "/scholars.html#gwynn-john"
+  - title: "Lawlor, Hugh Jackson"
+    url: "/scholars.html#lawlor-hugh-jackson"
   - title: "Lowe, Elias Avery"
     url: "/scholars.html#lowe-elias-avery"
   - title: "Sharpe, Richard"
@@ -238,7 +242,7 @@ The order of books is Gospels, Pauline epistles, Catholic epistles, Revelation, 
 
 Several individual features deserve notice. The manuscript includes the apocryphal Epistle to the Laodiceans, which is prefaced by a warning that Jerome rejects it — a small but telling instance of a scribal culture that copied what it received while flagging its status, preserving rather than suppressing the doubtful. The conclusion of the Gospel of John is arranged in the shape of a lozenge, a cruciform or Christological figure, with marginal extracts from Gregory the Great's *Moralia in Iob*; here the disposition of text on the page becomes itself a form of exegesis, and the presence of Gregory indicates the reading available at Armagh. And in Revelation there stands a rectangular diagram of the twelve-gated Jerusalem — a schematic image rather than a picture, and one that belongs to the tradition of diagrammatic exegesis rather than to narrative illustration.
 
-The textual character of this New Testament is where its importance for biblical scholarship lies. The text is fundamentally Vulgate, but it is heavily affected by Old Latin — *Vetus Latina* — readings, particularly in Acts and in the Pauline epistles. The result is a conflated, mixed text-type, and it is precisely this mixture that defines what textual critics call the Irish or "Celtic" family. In the great Oxford edition of the Vulgate New Testament undertaken by John Wordsworth and Henry White, the Book of Armagh is cited under the siglum *ar* as the leading representative of a Vulgate of Celtic type. Gwynn's 1913 edition located the text within its family by collating it against the Book of Durrow, the Book of Kells, the Codex Usserianus Primus, and the Book of Dimma, and drew on H. J. Lawlor's work on the Book of Mulling for the Old Latin component; Robert M. Gwynn, Fellow of Trinity College, contributed a critical study of the Pauline text to the same edition.
+The textual character of this New Testament is where its importance for biblical scholarship lies. The text is fundamentally Vulgate, but it is heavily affected by Old Latin — *Vetus Latina* — readings, particularly in Acts and in the Pauline epistles. The result is a conflated, mixed text-type, and it is precisely this mixture that defines what textual critics call the Irish or "Celtic" family. In the great Oxford edition of the Vulgate New Testament undertaken by John Wordsworth and Henry White, the Book of Armagh is cited under the siglum *ar* as the leading representative of a Vulgate of Celtic type. Gwynn's 1913 edition located the text within its family by collating it against the Book of Durrow, the Book of Kells, the Codex Usserianus Primus, and the Book of Dimma, and drew on [H. J. Lawlor](/scholars.html#lawlor-hugh-jackson)'s work on the [Book of Mulling](/Content/Codex/Book-of-Mulling.html) for the Old Latin component; Robert M. Gwynn, Fellow of Trinity College, contributed a critical study of the Pauline text to the same edition.
 
 In terms of individual variants, the manuscript is not sensational: it includes the *Pericope Adulterae* and the longer ending of Mark, and it lacks both the Comma Johanneum and the doxology appended to the Lord's Prayer at Matthew 6:13. Its value lies not in unique readings but in what it demonstrates about the shape of the biblical text in a particular region at a particular date. The Book of Armagh was also drawn upon for other purposes: H. J. Vogels used the manuscript for the *Ad Romanos* portion of his edition of Ambrosiaster in the Vienna corpus in 1966.
 
@@ -331,7 +335,7 @@ The Book of Armagh, then, spent most of its existence functioning as something b
 ### The Fourfold Gospel in Outline: The Evangelist Symbols Page
 
 <figure>
-  <img src="/Images/Book-of-Armagh/armagh-04.jpg" alt="The Fourfold Gospel in Outline: The Evangelist Symbols Page of the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f032v.jpg" alt="The Fourfold Gospel in Outline: The Evangelist Symbols Page of the Book of Armagh">
   <figcaption>The Fourfold Gospel in Outline: The Evangelist Symbols Page, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 32v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -352,7 +356,7 @@ The leaf is in sound condition, with cockling along the upper edge, brown staini
 ### Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names
 
 <figure>
-  <img src="/Images/Book-of-Armagh/armagh-03.jpg" alt="Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f053r.jpg" alt="Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names in the Book of Armagh">
   <figcaption>Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53r. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -377,7 +381,7 @@ Two later interventions complete the picture. A modern pencil foliation, *53*, s
 ### A Lion in Brown Ink: The Symbol of Saint Mark
 
 <figure>
-  <img src="/Images/Book-of-Armagh/armagh-01.jpg" alt="A Lion in Brown Ink: The Symbol of Saint Mark in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f054v.jpg" alt="A Lion in Brown Ink: The Symbol of Saint Mark in the Book of Armagh">
   <figcaption>A Lion in Brown Ink: The Symbol of Saint Mark, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 54v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -394,7 +398,7 @@ The leaf survives in good condition: the vellum has darkened unevenly and shows 
 ### The Close of Matthew: Explicit, Collect, and a Vanished Signature
 
 <figure>
-  <img src="/Images/Book-of-Armagh/armagh-02.jpg" alt="The Close of Matthew: Explicit, Collect, and a Vanished Signature in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f053v.jpg" alt="The Close of Matthew: Explicit, Collect, and a Vanished Signature in the Book of Armagh">
   <figcaption>The Close of Matthew: Explicit, Collect, and a Vanished Signature, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 
@@ -423,7 +427,7 @@ Discolouration of exactly this kind was produced in the nineteenth century by th
 ### Paul's Signature and a Decorated P: The Opening of Second Corinthians
 
 <figure>
-  <img src="/Images/Book-of-Armagh/armagh-05.jpg" alt="Paul's Signature and a Decorated P: The Opening of Second Corinthians in the Book of Armagh">
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f123r.jpg" alt="Paul's Signature and a Decorated P: The Opening of Second Corinthians in the Book of Armagh">
   <figcaption>Paul's Signature and a Decorated P: The Opening of Second Corinthians, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 123r. Armagh, c. 807–808. Ink and pigment on vellum, page approx. 195 × 145 mm.</figcaption>
 </figure>
 

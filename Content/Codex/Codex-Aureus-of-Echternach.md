@@ -93,7 +93,7 @@ As to state of preservation and material history, the manuscript block is in goo
 ## The treasure binding (Buchdeckel)
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-01.jpg" alt="The treasure binding (Buchdeckel)">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-binding.jpg" alt="The treasure binding (Buchdeckel)">
   <figcaption>The treasure binding (Buchdeckel), Nurenberg, Germanisches National Museum, Hs. 156142.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ The **canon tables** (ten decorated pages) present the Eusebian apparatus — th
 ### Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-02.jpg" alt="Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f002v.jpg" alt="Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets">
   <figcaption>Maiestas Domini: Christ in Majesty with the symbols of the four Evangelists and the four major prophets, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 2v.</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ The page constructs a fourfold-by-fourfold concordance. The tetramorph derives u
 ### Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-03.jpg" alt="Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f003r.jpg" alt="Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues">
   <figcaption>Angels Displaying the Dedicatory Tabula, Framed by the Four Cardinal Virtues, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 3r.</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ The choice of the *cardinal* rather than the theological virtues is worth noting
 ### Incipit Page to the Preface of St Jerome
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-04.jpg" alt="Incipit Page to the Preface of St Jerome">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f003v.jpg" alt="Incipit Page to the Preface of St Jerome">
   <figcaption>Incipit Page to the Preface of St Jerome, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 3v.</figcaption>
 </figure>
 
@@ -233,7 +233,7 @@ The design also demonstrates the Echternach workshop's characteristic strategy o
 ### Decorated Initial B opening Jerome's Letter to Pope Damasus
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-05.jpg" alt="Decorated Initial B opening Jerome's Letter to Pope Damasus">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f004r.jpg" alt="Decorated Initial B opening Jerome's Letter to Pope Damasus">
   <figcaption>Decorated Initial B opening Jerome's Letter to Pope Damasus, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 4r.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ More broadly, the four folios examined so far form a graduated approach to the G
 ### From Annunciation to Herod's Court: The Infancy Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-06.jpg" alt="From Annunciation to Herod's Court: The Infancy Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f018v.jpg" alt="From Annunciation to Herod's Court: The Infancy Cycle">
   <figcaption>From Annunciation to Herod's Court: The Infancy Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 18v.</figcaption>
 </figure>
 
@@ -279,7 +279,7 @@ Stylistically the page exemplifies the mature Echternach manner: elongated figur
 ### Gifts, Dreams and Departures: The Magi Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-07.jpg" alt="Gifts, Dreams and Departures: The Magi Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f019r.jpg" alt="Gifts, Dreams and Departures: The Magi Cycle">
   <figcaption>Gifts, Dreams and Departures: The Magi Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 19r.</figcaption>
 </figure>
 
@@ -302,7 +302,7 @@ The page displays the same idiom as the verso: elongated, small-headed figures w
 ### From the Angel's Command to the Jordan: Narrative Acceleration
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-08.jpg" alt="From the Angel's Command to the Jordan: Narrative Acceleration">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f019v.jpg" alt="From the Angel's Command to the Jordan: Narrative Acceleration">
   <figcaption>From the Angel's Command to the Jordan: Narrative Acceleration, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 19v.</figcaption>
 </figure>
 
@@ -325,7 +325,7 @@ The page is the most rhetorically varied of the opening. The painter modulates g
 ### Hic … hic: Temptation, Calling and Table
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-09.jpg" alt="Hic … hic: Temptation, Calling and Table">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f020r.jpg" alt="Hic … hic: Temptation, Calling and Table">
   <figcaption>Hic … hic: Temptation, Calling and Table, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 20r.</figcaption>
 </figure>
 
@@ -350,7 +350,7 @@ The painter exploits ground colour as a structural device with growing confidenc
 ### Carne Domini voce: The Evangelist Portrait of Matthew
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-10.jpg" alt="Carne Domini voce: The Evangelist Portrait of Matthew">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f020v.jpg" alt="Carne Domini voce: The Evangelist Portrait of Matthew">
   <figcaption>Carne Domini voce: The Evangelist Portrait of Matthew, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 20v.</figcaption>
 </figure>
 
@@ -369,7 +369,7 @@ The page belongs to the most conservative stratum of the manuscript's imagery, d
 ### MARCUS: The Monogram Incipit Page
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-11.jpg" alt="MARCUS: The Monogram Incipit Page">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f049v.jpg" alt="MARCUS: The Monogram Incipit Page">
   <figcaption>MARCUS: The Monogram Incipit Page, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 49v.</figcaption>
 </figure>
 
@@ -386,7 +386,7 @@ The page exemplifies the Ottonian conception of the incipit as ceremonial thresh
 ### Water into Wine, Leper into Whole: The Miracle Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-12.jpg" alt="Water into Wine, Leper into Whole: The Miracle Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f052v.jpg" alt="Water into Wine, Leper into Whole: The Miracle Cycle">
   <figcaption>Water into Wine, Leper into Whole: The Miracle Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 52v.</figcaption>
 </figure>
 
@@ -429,7 +429,7 @@ The page displays the mature Echternach manner in its most fluent narrative appl
 ### Hic sanatus abiit: Six Miracles and Three Distichs
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-13.jpg" alt="Hic sanatus abiit: Six Miracles and Three Distichs">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f053v.jpg" alt="Hic sanatus abiit: Six Miracles and Three Distichs">
   <figcaption>Hic sanatus abiit: Six Miracles and Three Distichs, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 53v.</figcaption>
 </figure>
 
@@ -452,7 +452,7 @@ The page confirms two things that the preceding folios could only suggest. First
 ### Decem mundabat: Miracle, Caption and Continuous Narration
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-14.jpg" alt="Decem mundabat: Miracle, Caption and Continuous Narration">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f054r.jpg" alt="Decem mundabat: Miracle, Caption and Continuous Narration">
   <figcaption>Decem mundabat: Miracle, Caption and Continuous Narration, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 54r.</figcaption>
 </figure>
 
@@ -475,7 +475,7 @@ Three features deserve emphasis. First, the **captioning system** here operates 
 ### Fortior est omni: The Lion, the Pallium and the Authority of Mark
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-15.jpg" alt="Fortior est omni: The Lion, the Pallium and the Authority of Mark">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f054v.jpg" alt="Fortior est omni: The Lion, the Pallium and the Authority of Mark">
   <figcaption>Fortior est omni: The Lion, the Pallium and the Authority of Mark, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 54v.</figcaption>
 </figure>
 
@@ -496,7 +496,7 @@ The page confirms that the four evangelist frontispieces operate as a system of 
 ### Mundi vinea: The Parable of the Labourers
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-16.jpg" alt="Mundi vinea: The Parable of the Labourers">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f076v.jpg" alt="Mundi vinea: The Parable of the Labourers">
   <figcaption>Mundi vinea: The Parable of the Labourers, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 76v.</figcaption>
 </figure>
 
@@ -519,7 +519,7 @@ Two observations seem worth pursuing. First, the presence of an extended parable
 ### Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-17.jpg" alt="Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f077r.jpg" alt="Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard">
   <figcaption>Sepes, Turris, Torcular: The Wicked Husbandmen and the Annotated Vineyard, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 77r.</figcaption>
 </figure>
 
@@ -544,7 +544,7 @@ Taken with fol. 76v, this recto confirms that the parable section of the manuscr
 ### Adhuc locus: The Great Banquet, its Excuses and its Hell
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-18.jpg" alt="Adhuc locus: The Great Banquet, its Excuses and its Hell">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f077v.jpg" alt="Adhuc locus: The Great Banquet, its Excuses and its Hell">
   <figcaption>Adhuc locus: The Great Banquet, its Excuses and its Hell, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 77v.</figcaption>
 </figure>
 
@@ -581,7 +581,7 @@ Third, this folio makes explicit what the Dives and Lazarus page on fol. 78r wil
 ### Ob mortem Christi: The Ox, the Passion and the Portrait of Luke
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-19.jpg" alt="Ob mortem Christi: The Ox, the Passion and the Portrait of Luke">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f078v.jpg" alt="Ob mortem Christi: The Ox, the Passion and the Portrait of Luke">
   <figcaption>Ob mortem Christi: The Ox, the Passion and the Portrait of Luke, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 78v.</figcaption>
 </figure>
 
@@ -638,7 +638,7 @@ Why did I choose Bede rather than Jerome? The reason is that the abbey was found
 ### Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-20.jpg" alt="Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f110v.jpg" alt="Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial">
   <figcaption>Regnator caeli fit uilis sessor aselli: Entry, Betrayal and Denial, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 110v.</figcaption>
 </figure>
 
@@ -677,7 +677,7 @@ Finally, the **patterned purple margin** distinguishes this page from the plain-
 ### Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-21.jpg" alt="Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f111r.jpg" alt="Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle">
   <figcaption>Granum depositum: Rhetoric, Typology and the Climax of the Passion Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 111r.</figcaption>
 </figure>
 
@@ -714,7 +714,7 @@ Finally, the **unified central register** breaks the compositional rule that has
 ### In primo fragmine panis: Modes of Recognition in the Resurrection Cycle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-22.jpg" alt="In primo fragmine panis: Modes of Recognition in the Resurrection Cycle">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f111v.jpg" alt="In primo fragmine panis: Modes of Recognition in the Resurrection Cycle">
   <figcaption>In primo fragmine panis: Modes of Recognition in the Resurrection Cycle, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 111v.</figcaption>
 </figure>
 
@@ -749,7 +749,7 @@ Finally, the **vocative address to the beholder** in the first *titulus* complet
 ### Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-23.jpg" alt="Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f112r.jpg" alt="Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church">
   <figcaption>Quid statis suspicientes: Ascension, Pentecost and the Constitution of the Church, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 112r.</figcaption>
 </figure>
 
@@ -784,7 +784,7 @@ Finally, the *tituli* here confirm what the Passion pages suggested: the verse p
 ### Est aquilae similis: The Eagle, the Closed Book and the Portrait of John
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Echternach/echternach-24.jpg" alt="Est aquilae similis: The Eagle, the Closed Book and the Portrait of John">
+  <img src="/Images/Codex-Aureus-of-Echternach/codex-aureus-of-echternach-f112v.jpg" alt="Est aquilae similis: The Eagle, the Closed Book and the Portrait of John">
   <figcaption>Est aquilae similis: The Eagle, the Closed Book and the Portrait of John, Nurenberg, Germanisches National Museum, Hs. 156142, fol. 112v.</figcaption>
 </figure>
 

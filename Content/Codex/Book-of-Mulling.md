@@ -145,7 +145,7 @@ It is a robust method, but it yields an approximate and consensual chronology, n
 ### The Colophon Page: Book of Mulling, folio 94r
 
 <figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f94r.jpg" alt="Heavily stained and darkened vellum page from the Book of Mulling, with a single narrow column of small Irish minuscule script on the left containing the end of John's Gospel and the opening of the colophon; further colophon lines naming the scribe Mulling survive at the upper right, and long diagonal tears across the blank right half of the leaf are closed with stitched vellum repairs.">
+  <img src="/Images/Book-of-Mulling/book-of-mulling-f094r.jpg" alt="Heavily stained and darkened vellum page from the Book of Mulling, with a single narrow column of small Irish minuscule script on the left containing the end of John's Gospel and the opening of the colophon; further colophon lines naming the scribe Mulling survive at the upper right, and long diagonal tears across the blank right half of the leaf are closed with stitched vellum repairs.">
   <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 94r. The recto of the manuscript's last leaf carries the closing portion of the Gospel of John — a later annotation at the foot of the column reads "Joh. 21."</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ What is speculative, plausible but strictly unprovable, is the final step: that 
 ### The Circular Device: Book of Mulling, folio 94v
 
 <figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f94v.jpg" alt="Severely stained brown vellum leaf, the last of the Book of Mulling. Faint lines of small Irish minuscule containing a liturgical office survive in the upper left; the circular diagram — two barely visible concentric circles with faded Irish captions — occupies the lower centre of the page. A long branching tear runs diagonally across the middle of the leaf, closed with visible zigzag thread stitching, and a large irregular lighter repair patch fills the damaged upper right corner.">
+  <img src="/Images/Book-of-Mulling/book-of-mulling-f094v.jpg" alt="Severely stained brown vellum leaf, the last of the Book of Mulling. Faint lines of small Irish minuscule containing a liturgical office survive in the upper left; the circular diagram — two barely visible concentric circles with faded Irish captions — occupies the lower centre of the page. A long branching tear runs diagonally across the middle of the leaf, closed with visible zigzag thread stitching, and a large irregular lighter repair patch fills the damaged upper right corner.">
   <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 94v. The verso of the last leaf carries, side by side, a compressed devotional office and the manuscript's most debated image: two concentric circles, only a few centimetres across, ringed and filled with captioned crosses, with the four cardinal points written in Irish. On Lawlor's reading the outer line of writing names the crosses of Mark at the south, Matthew at the west, John at the north and Luke at the east, and the inner line names the prophets Jeremiah, Daniel and Ezekiel, with a fourth, Isaiah, restored; four further crosses inside the circles bear partly effaced captions naming the Holy Spirit, gifts, angels from above, and Christ with his apostles.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ The portrait of John, the only one illustrated here, shows what the programme wa
 ### The Portrait of John: Book of Mulling, folio 81v
 
 <figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f81v.jpg" alt="Full-page miniature from the Book of Mulling showing a haloed, frontal standing evangelist with orange hair, wearing a mauve cloak over a blue tunic, its folds drawn as interlaced gold-edged bands; he holds a book against his chest with one hand laid flat over it. The figure stands in a rectangular frame with knotwork squares at the corners and tall side panels of interlaced elongated animal ornament on blue grounds; his halo overlaps the top of the frame. The vellum leaf is browned and worn at the edges">
+  <img src="/Images/Book-of-Mulling/book-of-mulling-f081v.jpg" alt="Full-page miniature from the Book of Mulling showing a haloed, frontal standing evangelist with orange hair, wearing a mauve cloak over a blue tunic, its folds drawn as interlaced gold-edged bands; he holds a book against his chest with one hand laid flat over it. The figure stands in a rectangular frame with knotwork squares at the corners and tall side panels of interlaced elongated animal ornament on blue grounds; his halo overlaps the top of the frame. The vellum leaf is browned and worn at the edges">
   <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 81v. The portrait of John, the only evangelist portrait illustrated here; the identification rests on position alone, for the figure carries no inscription and no evangelist symbol. The number 53 at the upper right is the older numbering of the British Museum binders.</figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ In both, cult and community were ready to read a signature as the mark of the sa
 ## The Cumdach: The Shrine of the Book of Mulling
 
 <figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-04.jpg" alt="Front face of the medieval book-shrine of the Book of Mulling: a rectangular metal box with worn silver surface, dominated by a large polished oval rock crystal held by dark claw mounts at the centre; rows of gilt Gothic lettering on silver foil are visible magnified through the crystal. Around it are several smaller settings — dark red and brown oval polished stones in decorated mounts, a small cross-shaped fitting and plain bosses — framed by twisted rope-like mouldings, with dents and losses at the corners. The shrine stands on a pale surface in a museum display">
+  <img src="/Images/Book-of-Mulling/book-of-mulling-shrine.jpg" alt="Front face of the medieval book-shrine of the Book of Mulling: a rectangular metal box with worn silver surface, dominated by a large polished oval rock crystal held by dark claw mounts at the centre; rows of gilt Gothic lettering on silver foil are visible magnified through the crystal. Around it are several smaller settings — dark red and brown oval polished stones in decorated mounts, a small cross-shaped fitting and plain bosses — framed by twisted rope-like mouldings, with dents and losses at the corners. The shrine stands on a pale surface in a museum display">
   <figcaption>Shrine (cumdach) of the Book of Mulling, from St Mullins, Co. Carlow; principal phase c. 1402, with settings added at various later dates. The box is built of copper-alloy sheets partly covered with silver and, unlike the shrine of the Book of Dimma, is ornamented on its front face only, which carries a deliberately heterogeneous display of eight settings accumulated over the object's history — polished oval cabochons in collared mounts, a small cross-shaped setting, and plain bosses, framed by rope-twist mouldings.</figcaption>
 </figure>
 

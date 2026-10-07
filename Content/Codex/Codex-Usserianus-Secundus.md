@@ -146,7 +146,7 @@ The Garland of Howth is, by the standards of the great Insular Gospel books, spa
 ### The Chi‑Rho Page of the Garland of Howth
 
 <figure>
-  <img src="/Images/Codex-Usserianus-Secundus/usserianus-secundus-01.jpg" alt="The Chi‑Rho Page of the Garland of Howth">
+  <img src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-f001r.jpg" alt="The Chi‑Rho Page of the Garland of Howth">
   <figcaption>Christi autem generatio: the Matthew incipit page of the Garland of Howth (TCD MS 56, fol. 1r), Ireland, c. 800.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ For an object that survived not as a working book but as a venerated relic — h
 ### The Initium Page of the Garland of Howth
 
 <figure>
-  <img src="/Images/Codex-Usserianus-Secundus/usserianus-secundus-02.jpg" alt="The Initium Page of the Garland of Howth">
+  <img src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-f022r.jpg" alt="The Initium Page of the Garland of Howth">
   <figcaption>Initium euangelii: the decorated incipit to the Gospel of Mark, Garland of Howth (TCD MS 56, fol. 22r), Ireland, c. 800.</figcaption>
 </figure>
 

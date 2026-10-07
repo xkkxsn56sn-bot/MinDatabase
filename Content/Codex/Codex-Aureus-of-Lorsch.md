@@ -159,7 +159,7 @@ In the related Harley and Soissons Gospels the tympana of the canon arcades are 
 ### Saint Luke the Evangelist with His Symbol, the Winged Ox
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-02.jpg" alt="Full-page miniature from the Codex Aureus of Lorsch: Saint Luke seated on a cushioned throne holding an open book, a lectern beside him, while his symbol, a gold-haloed winged ox clasping a codex, hovers in the blue lunette of an ornamented arch">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f-i-v.jpg" alt="Full-page miniature from the Codex Aureus of Lorsch: Saint Luke seated on a cushioned throne holding an open book, a lectern beside him, while his symbol, a gold-haloed winged ox clasping a codex, hovers in the blue lunette of an ornamented arch">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. Iv. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ The painterly modelling of the drapery, the atmospheric rose and ochre washes of
 ### Incipit of the Argumentum to the Gospel of Luke
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-04.jpg" alt="Folio from the Codex Aureus of Lorsch: the preface to the Gospel of Luke written in gold uncial letters in two columns, opening with a red rubric, the whole enclosed in a decorative frame of red, blue, green and gold palmette bands resembling precious textile">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f001r.jpg" alt="Folio from the Codex Aureus of Lorsch: the preface to the Gospel of Luke written in gold uncial letters in two columns, opening with a red rubric, the whole enclosed in a decorative frame of red, blue, green and gold palmette bands resembling precious textile">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. 1r. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ Pages such as this reveal the deliberate rhythm of the codex, in which framed pr
 ### Saint John the Evangelist with His Symbol, the Eagle
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-03.jpg" alt="Full-page miniature from the Codex Aureus of Lorsch: Saint John seated frontally on a cushioned throne in a gold patterned mantle, dipping his pen into an inkstand beside an open book, while his symbol, a red eagle with a gold halo, descends with spread wings against a blue sky streaming with white rays, framed by an ornamented arch with drawn curtains">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f067v.jpg" alt="Full-page miniature from the Codex Aureus of Lorsch: Saint John seated frontally on a cushioned throne in a gold patterned mantle, dipping his pen into an inkstand beside an open book, while his symbol, a red eagle with a gold halo, descends with spread wings against a blue sky streaming with white rays, framed by an ornamented arch with drawn curtains">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. 67v. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ Even more than the Luke portrait, this page displays the Court School's assimila
 ### Incipit of the Argumentum to the Gospel of John
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-05.jpg" alt="Folio from the Codex Aureus of Lorsch: the preface to the Gospel of John written in gold uncial letters in two columns, framed and divided by vermilion and purple bands decorated with rows of dark stylised trees, with an enlarged initial H opening the text">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f068r.jpg" alt="Folio from the Codex Aureus of Lorsch: the preface to the Gospel of John written in gold uncial letters in two columns, framed and divided by vermilion and purple bands decorated with rows of dark stylised trees, with an enlarged initial H opening the text">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. 68r. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ Read together with the eagle page opposite, the opening enacts a progression fro
 ### The Golden Incipit of the Gospel of John
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-06.jpg" alt="Incipit page from the Codex Aureus of Lorsch: the words Incipit Evangelium Secundum Iohannem in red capitals on a burnished gold field, framed by borders of gold lozenges, interlace and corner acanthus rosettes">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f070v.jpg" alt="Incipit page from the Codex Aureus of Lorsch: the words Incipit Evangelium Secundum Iohannem in red capitals on a burnished gold field, framed by borders of gold lozenges, interlace and corner acanthus rosettes">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. 70v. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ disposed in four widely spaced lines of red-orange capitals across the gold grou
 Openings such as this stand behind the entire tradition of the medieval incipit page, and in the Lorsch Gospels they articulate the book's deepest ambition: to make the Gospel text itself the treasure that its ivory covers and golden script proclaim it to be.
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-07.jpg" alt="Opening page of the Gospel of John from the Codex Aureus of Lorsch: In Principio Erat Verbum in red capitals on burnished gold, within a red inner frame and jewelled ornamental border">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-f071r.jpg" alt="Opening page of the Gospel of John from the Codex Aureus of Lorsch: In Principio Erat Verbum in red capitals on burnished gold, within a red inner frame and jewelled ornamental border">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Biblioteca Apostolica Vaticana, Pal. lat. 50, fol. 71r. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -263,7 +263,7 @@ Seven lines of red capitals, contracted with the *nomina sacra*, descend the gol
 ### Saint Matthew the Evangelist with His Symbol, the Winged Man
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-08.jpg" alt="Evangelist portrait from the Codex Aureus of Lorsch: the bearded Saint Matthew seated on a cushioned throne in blue tunic and red mantle, holding an open book and raising a pen, while in the arched lunette above his symbol, a red-winged angel, bends over an open codex on a lectern, pen in hand, framed by columns and flowering stems">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-p026.jpg" alt="Evangelist portrait from the Codex Aureus of Lorsch: the bearded Saint Matthew seated on a cushioned throne in blue tunic and red mantle, holding an open book and raising a pen, while in the arched lunette above his symbol, a red-winged angel, bends over an open codex on a lectern, pen in hand, framed by columns and flowering stems">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Alba Iulia, Biblioteca Documentară Batthyáneum (branch of the National Library of Romania, Bucharest), Ms R II 1, p. 26. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -278,7 +278,7 @@ The page thus establishes at the outset the codex's governing theme: the Gospel 
 ### Saint Mark the Evangelist with His Symbol, the Winged Lion
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-09.jpg" alt="Evangelist portrait from the Codex Aureus of Lorsch: Saint Mark in a purple mantle seated on a cushioned throne, turning with pen raised beside his ear toward an open book on a tall lectern, while above him under a feathered arch his symbol, a gold-haloed winged lion, plunges through a violet sky clasping an open book">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-p148.jpg" alt="Evangelist portrait from the Codex Aureus of Lorsch: Saint Mark in a purple mantle seated on a cushioned throne, turning with pen raised beside his ear toward an open book on a tall lectern, while above him under a feathered arch his symbol, a gold-haloed winged lion, plunges through a violet sky clasping an open book">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Alba Iulia, Biblioteca Documentară Batthyáneum (branch of the National Library of Romania, Bucharest), Ms R II 1, p. 148. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 
@@ -293,7 +293,7 @@ Where Matthew waits and Luke displays, Mark hearkens: the page translates into C
 ### Maiestas Domini: Christ Enthroned amid the Four Living Creatures
 
 <figure>
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-10.jpg" alt="Maiestas Domini page from the Codex Aureus of Lorsch: Christ seated frontally on a cushioned throne within a blue medallion, right hand raised in blessing, a gold-bound book on his knee, encircled by a ring with eight half-length angels and four blue roundels holding the eagle, lion, ox and winged man, all set on a purple field inscribed with gold capitals and framed by jewelled ornamental borders">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-p036.jpg" alt="Maiestas Domini page from the Codex Aureus of Lorsch: Christ seated frontally on a cushioned throne within a blue medallion, right hand raised in blessing, a gold-bound book on his knee, encircled by a ring with eight half-length angels and four blue roundels holding the eagle, lion, ox and winged man, all set on a purple field inscribed with gold capitals and framed by jewelled ornamental borders">
   <figcaption>Codex Aureus of Lorsch (Lorsch Gospels), Alba Iulia, Biblioteca Documentară Batthyáneum (branch of the National Library of Romania, Bucharest), Ms R II 1, p. 36. Court School of Charlemagne ("Ada group"), c. 810.</figcaption>
 </figure>
 

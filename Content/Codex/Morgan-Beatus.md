@@ -251,7 +251,7 @@ The pictorial cycle of the Morgan Beatus unfolds across the whole codex, from pr
 ### The Matthew Page of the Morgan Beatus
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-01.jpg" alt="The Matthew Page of the Morgan Beatus">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f001v.jpg" alt="The Matthew Page of the Morgan Beatus">
   <figcaption>Author and Witness beneath the Horseshoe Arch: The Matthew Page of the Morgan Beatus (MS M.644, fol. 1v).</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ The page announces the visual grammar of the entire codex: saturated orange grou
 ### The Gospel Displayed: The Angel Page of Mark
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-02.jpg" alt="The Gospel Displayed: The Angel Page of Mark">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f002r.jpg" alt="The Gospel Displayed: The Angel Page of Mark">
   <figcaption>The Gospel Displayed: The Angel Page of Mark of the Morgan Beatus (MS M.644, fol. 2r).</figcaption>
 </figure>
 
@@ -287,7 +287,7 @@ The leaf is also the pivot of the cycle's codicological puzzle. As the manuscrip
 ### The Priestly Evangelist: The Luke Page
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-03.jpg" alt="The Priestly Evangelist: The Luke Page">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f002v.jpg" alt="The Priestly Evangelist: The Luke Page">
   <figcaption>The Priestly Evangelist: The Luke Page of the Morgan Beatus (MS M.644, fol. 2v).</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ Unlike the Matthew opening, the Luke unit survives intact: portrait on the verso
 ### Zacharias at the Threshold: The Angel Page of Luke
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-04.jpg" alt="Zacharias at the Threshold: The Angel Page of Luke">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f003r.jpg" alt="Zacharias at the Threshold: The Angel Page of Luke">
   <figcaption>Zacharias at the Threshold: The Angel Page of Luke of the Morgan Beatus (MS M.644, fol. 3r).</figcaption>
 </figure>
 
@@ -319,7 +319,7 @@ As on the other angel pages, the displayed book speaks its own incipit — but h
 ### The Eagle's Flight: The John Page
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-05.jpg" alt="The Eagle's Flight: The John Page">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f003v.jpg" alt="The Eagle's Flight: The John Page">
   <figcaption>The Eagle's Flight: The John Page of the Morgan Beatus (MS M.644, fol. 3v).</figcaption>
 </figure>
 
@@ -336,7 +336,7 @@ Within the economy of the prefatory cycle the verse carries particular weight, f
 ### In Principio Erat Verbum: The Angel Page of John
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-06.jpg" alt="In Principio Erat Verbum: The Angel Page of John">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f004r.jpg" alt="In Principio Erat Verbum: The Angel Page of John">
   <figcaption>In Principio Erat Verbum: The Angel Page of John of the Morgan Beatus (MS M.644, fol. 4r).</figcaption>
 </figure>
 
@@ -351,7 +351,7 @@ Where Mark's page cried out from the desert and Luke's began in the Temple, John
 ### The Earth Encircled by Fish: The Mappa Mundi
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-07.jpg" alt="The Earth Encircled by Fish: The Mappa Mundi">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f033v-034r.jpg" alt="The Earth Encircled by Fish: The Mappa Mundi">
   <figcaption>The Earth Encircled by Fish: The Mappa Mundi of the Morgan Beatus (MS M.644, fols. 33v–34r).</figcaption>
 </figure>
 
@@ -370,7 +370,7 @@ The Morgan map is one of the earliest surviving Beatus world maps and a document
 ### The Wheel of Heaven: The Adoration of the Lamb
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-08.jpg" alt="The Wheel of Heaven: The Adoration of the Lamb">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f087r.jpg" alt="The Wheel of Heaven: The Adoration of the Lamb">
   <figcaption>The Wheel of Heaven: The Adoration of the Lamb in the Morgan Beatus (MS M.644, fol. 87r).</figcaption>
 </figure>
 
@@ -407,7 +407,7 @@ Chromatically the page is among the most refined in the codex. Maius abandons th
 ### MULIER AMICTA SOLE: The Woman, the Dragon
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-09.jpg" alt="MULIER AMICTA SOLE: The Woman, the Dragon">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f152v.jpg" alt="MULIER AMICTA SOLE: The Woman, the Dragon">
   <figcaption>MULIER AMICTA SOLE: The Woman, the Dragon, and the War in Heaven (MS M.644, fol. 152v).</figcaption>
 </figure>
 
@@ -440,7 +440,7 @@ The condition of the leaf is more worn than that of the Adoration page: the pigm
 ### Cast Down to Earth: The Fall of the Dragon and His Angels
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-10.jpg" alt="Cast Down to Earth: The Fall of the Dragon and His Angels">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f153r.jpg" alt="Cast Down to Earth: The Fall of the Dragon and His Angels">
   <figcaption>Cast Down to Earth: The Fall of the Dragon and His Angels (MS M.644, fol. 153r).</figcaption>
 </figure>
 
@@ -455,7 +455,7 @@ Read as Maius designed it, the opening of fols. 152v–153r is among the great n
 ### The Four Winds Restrained: The Angel with the Seal of the Living God
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-11.jpg" alt="The Four Winds Restrained: The Angel with the Seal of the Living God">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f115v.jpg" alt="The Four Winds Restrained: The Angel with the Seal of the Living God">
   <figcaption>The Four Winds Restrained: The Angel with the Seal of the Living God (MS M.644, fol. 115v).</figcaption>
 </figure>
 
@@ -478,7 +478,7 @@ The leaf has suffered more than its neighbours — a long diagonal crease with a
 ### A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-12.jpg" alt="A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f117v-118r.jpg" alt="A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb">
   <figcaption>A Multitude No Man Could Number: The Sealed of Israel and the Palm-Bearers before the Lamb (MS M.644, fols. 117v–118r).</figcaption>
 </figure>
 
@@ -505,7 +505,7 @@ The spread has not passed through its millennium unscathed — long creases cros
 ### Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-13.jpg" alt="Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f133v.jpg" alt="Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer">
   <figcaption>Fire upon the Earth: The Seven Trumpet Angels and the Angel with the Censer (MS M.644, fol. 133v).</figcaption>
 </figure>
 
@@ -538,7 +538,7 @@ The lowest zone receives the cast fire, and it is one of Maius's most startling 
 ### The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-14.jpg" alt="The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f142v.jpg" alt="The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition">
   <figcaption>The Locusts of the Abyss: The Fifth Trumpet and the Angel of Perdition (MS M.644, fol. 142v).</figcaption>
 </figure>
 
@@ -565,7 +565,7 @@ The leaf is in fine condition, its saturated bands and scale-patterns largely in
 ### The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-15.jpg" alt="The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f146r.jpg" alt="The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary">
   <figcaption>The Book, the Reed, and the Measured Temple: John between the Mighty Angel and the Sanctuary (MS M.644, fol. 146r).</figcaption>
 </figure>
 
@@ -602,7 +602,7 @@ The page's deeper wit lies in its economy of instruments. Book and reed are the 
 ### The Thrones and the Lake of Fire: The Last Judgment
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-16.jpg" alt="The Thrones and the Lake of Fire: The Last Judgment">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f219v-220r.jpg" alt="The Thrones and the Lake of Fire: The Last Judgment">
   <figcaption>The Thrones and the Lake of Fire: The Last Judgment (MS M.644, fols. 219v–220r).</figcaption>
 </figure>
 
@@ -627,7 +627,7 @@ The opening has paid for its importance: this is among the most worn of the grea
 ### The City and the River: The Heavenly Jerusalem and the Water of Life
 
 <figure>
-  <img src="/Images/Morgan-Beatus/morgan-beatus-17.jpg" alt="The City and the River: The Heavenly Jerusalem and the Water of Life">
+  <img src="/Images/Morgan-Beatus/morgan-beatus-f222v-223r.jpg" alt="The City and the River: The Heavenly Jerusalem and the Water of Life">
   <figcaption>The City and the River: The Heavenly Jerusalem and the Water of Life (MS M.644, fols. 222v–223r).</figcaption>
 </figure>
 

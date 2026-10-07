@@ -231,7 +231,7 @@ The cumulative significance is straightforward to state and difficult to oversta
 ### The Colophon Page
 
 <figure>
-  <img src="/Images/Codex-Usserianus-Primus/Usserianus-01.jpg" alt="Folio 149v">
+  <img src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-f149v.jpg" alt="Folio 149v">
   <figcaption>The Colophon Page of the Codex Usserianus Primus (Dublin, Trinity College Library, MS 55, fol. 149v).</figcaption>
 </figure>
 
