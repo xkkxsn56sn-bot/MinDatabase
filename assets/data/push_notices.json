@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-07T15:06:06+00:00",
+  "updated_at": "2026-10-08T09:28:54+00:00",
   "notices": [
+    {
+      "title": "Buonamico Buffalmacco",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Buonamico-Buffalmacco.md",
+      "page_url": "/Content/Artists/XIV-c/Buonamico-Buffalmacco.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-08T11:28:26+02:00"
+    },
     {
       "title": "Book of Mulling",
       "section": "Codices",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIII-c/Maestro-di-Sant-Alo.html",
       "change_type": "modified",
       "pushed_at": "2026-10-06T18:39:14+02:00"
-    },
-    {
-      "title": "Maestro di Cesi",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Maestro-di-Cesi.md",
-      "page_url": "/Content/Artists/XIV-c/Maestro-di-Cesi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-06T14:34:17+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Book of Mulling",
-      "section": "Codices",
-      "path": "Content/Codex/Book-of-Mulling.md",
-      "page_url": "/Content/Codex/Book-of-Mulling.html",
+      "title": "Buonamico Buffalmacco",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Buonamico-Buffalmacco.md",
+      "page_url": "/Content/Artists/XIV-c/Buonamico-Buffalmacco.html",
       "change_type": "created",
-      "pushed_at": "2026-10-07T17:05:36+02:00"
+      "pushed_at": "2026-10-08T11:28:26+02:00"
     }
   ]
 }
