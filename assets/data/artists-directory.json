@@ -35,16 +35,16 @@
   ],
   "X Century": [
     {
+      "name": "Maestro del Registrum Gregorii",
+      "href": "Content/Artists/X-c/Maestro-del-Registrum-Gregorii.html"
+    },
+    {
       "name": "Maestro di Galliano",
       "href": "Content/Artists/X-c/Maestro-di-Galliano.html"
     },
     {
       "name": "Maius",
       "href": "Content/Artists/X-c/Maius.html"
-    },
-    {
-      "name": "Master of the Registrum Gregorii",
-      "href": "Content/Artists/X-c/Maestro-del-Registrum-Gregorii.html"
     }
   ],
   "XI Century": [

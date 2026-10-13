@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "Master of the Registrum Gregorii"
+title: "Maestro del Registrum Gregorii"
 subtitle: "Conventional name for the anonymous illuminator of the Registrum Gregorii leaves at Trier and Chantilly, around whom the Sainte-Chapelle Gospels, the Strahov portraits and a group of Trier manuscripts have been gathered, and whom the most recent scholarship resolves into a workshop"
 dates: "Active at Trier on the traditional reconstruction from c. 975–980 (Lorsch Sacramentary) to 996–1002 (Manchester Gospels); the Registrum Gregorii made between 983 and 993"
 
@@ -8,7 +8,7 @@ meta:
   - title: "CORE DATA"
     pairs:
       - label: "Name"
-        value: "Master of the Registrum Gregorii (Gregory Master; Gregormeister; Maître du Registrum Gregorii; Maestro del Registrum Gregorii)"
+        value: "Maestro del Registrum Gregorii (Master of the Registrum Gregorii; Gregory Master; Gregormeister; Maître du Registrum Gregorii)"
       - label: "Primary role"
         value: "Illuminator, and probably scribe of display capitals, in the circle of Archbishop Egbert of Trier (977–993)"
       - label: "Documentary status"
