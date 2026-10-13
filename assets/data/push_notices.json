@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-11T16:40:32+00:00",
+  "updated_at": "2026-10-13T10:56:05+00:00",
   "notices": [
+    {
+      "title": "Master of the Registrum Gregorii",
+      "section": "Artists",
+      "path": "Content/Artists/X-c/Master-of-the-Registrum-Gregorii.md",
+      "page_url": "/Content/Artists/X-c/Master-of-the-Registrum-Gregorii.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-13T12:55:36+02:00"
+    },
     {
       "title": "Codex Egberti",
       "section": "Codices",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Francesco-Traini.html",
       "change_type": "modified",
       "pushed_at": "2026-10-08T11:50:49+02:00"
-    },
-    {
-      "title": "Buonamico Buffalmacco",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Buonamico-Buffalmacco.md",
-      "page_url": "/Content/Artists/XIV-c/Buonamico-Buffalmacco.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-08T11:28:26+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Codex Egberti",
-      "section": "Codices",
-      "path": "Content/Codex/Codex-Egberti.md",
-      "page_url": "/Content/Codex/Codex-Egberti.html",
+      "title": "Master of the Registrum Gregorii",
+      "section": "Artists",
+      "path": "Content/Artists/X-c/Master-of-the-Registrum-Gregorii.md",
+      "page_url": "/Content/Artists/X-c/Master-of-the-Registrum-Gregorii.html",
       "change_type": "created",
-      "pushed_at": "2026-10-11T18:40:05+02:00"
+      "pushed_at": "2026-10-13T12:55:36+02:00"
     }
   ]
 }
