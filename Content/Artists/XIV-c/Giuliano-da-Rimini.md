@@ -56,7 +56,7 @@ meta:
 
   - title: Artistic Influences
     list:
-      - "Giotto di Bondone — the St Francis cycle of the Upper Church and the chapel of St Nicholas at Assisi; the Rimini crucifix in the Tempio Malatestiano"
+      - "Giotto di Bondone — the St Francis cycle of the Upper Church, attributed to Giotto, and the chapel of St Nicholas at Assisi; the Rimini crucifix in the Tempio Malatestiano"
       - "Giovanni da Rimini — his brother's Presentation at Sant'Agostino, whose figures recur in the 1307 dossal"
       - "Adriatic-Byzantine tradition — gold-ground dossal format and chrysography"
       - "Pietro Cavallini — the older Roman reading of the Riminese idiom, which has not stood up; the classicism is now traced to Giotto and his Assisi workshop"
@@ -105,7 +105,7 @@ scholars:
   - title: "Volpe, Carlo"
     url: "/scholars.html#volpe-carlo"
 ---
-*Giuliano da Rimini* is known for certain through one signed and dated work, the great dossal of 1307 now in the Isabella Stewart Gardner Museum in Boston. That panel is the earliest firmly dated painting of the Riminese school and one of the earliest dated works anywhere in Italy to cite [Giotto](/Content/Artists/XIII-c/Giotto-di-Bondone.html)'s Assisi frescoes. Everything else attributed to him is a matter of stylistic judgement, and some of it is still disputed. His biography comes almost entirely from notarial documents. Read together, they suggest that he was one of several painter sons of a certain Martino, that he worked in a family workshop in the contrada of San Giovanni Evangelista with his brother [Giovanni](/Content/Artists/XIV-c/Giovanni-da-Rimini.html), generally held to be the elder, and his brother Zangolo, and that he had died before March 1346.
+*Giuliano da Rimini* is known for certain through one signed and dated work, the great dossal of 1307 now in the Isabella Stewart Gardner Museum in Boston. That panel is the earliest firmly dated painting of the Riminese school and one of the earliest dated works anywhere in Italy to cite the Assisi frescoes attributed to [Giotto](/Content/Artists/XIII-c/Giotto-di-Bondone.html). Everything else attributed to him is a matter of stylistic judgement, and some of it is still disputed. His biography comes almost entirely from notarial documents. Read together, they suggest that he was one of several painter sons of a certain Martino, that he worked in a family workshop in the contrada of San Giovanni Evangelista with his brother [Giovanni](/Content/Artists/XIV-c/Giovanni-da-Rimini.html), generally held to be the elder, and his brother Zangolo, and that he had died before March 1346.
 
 ## Rimini around 1300: a city between the Adriatic, the Papacy and the Malatesta
 
