@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-13T10:56:05+00:00",
+  "updated_at": "2026-10-18T11:16:11+00:00",
   "notices": [
+    {
+      "title": "Giotto di Bondone",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Giotto-di-Bondone.md",
+      "page_url": "/Content/Artists/XIII-c/Giotto-di-Bondone.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-18T13:15:43+02:00"
+    },
     {
       "title": "Master of the Registrum Gregorii",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Codex/Codex-Egberti.html",
       "change_type": "created",
       "pushed_at": "2026-10-11T18:40:05+02:00"
-    },
-    {
-      "title": "Francesco Traini",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Francesco-Traini.md",
-      "page_url": "/Content/Artists/XIV-c/Francesco-Traini.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-08T11:50:49+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Master of the Registrum Gregorii",
+      "title": "Giotto di Bondone",
       "section": "Artists",
-      "path": "Content/Artists/X-c/Master-of-the-Registrum-Gregorii.md",
-      "page_url": "/Content/Artists/X-c/Master-of-the-Registrum-Gregorii.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-13T12:55:36+02:00"
+      "path": "Content/Artists/XIII-c/Giotto-di-Bondone.md",
+      "page_url": "/Content/Artists/XIII-c/Giotto-di-Bondone.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-18T13:15:43+02:00"
     }
   ]
 }
