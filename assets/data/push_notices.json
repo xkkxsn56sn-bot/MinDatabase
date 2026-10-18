@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-18T11:16:11+00:00",
+  "updated_at": "2026-10-18T15:40:07+00:00",
   "notices": [
+    {
+      "title": "Maestro di Santa Cecilia",
+      "section": "Artists",
+      "path": "Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.md",
+      "page_url": "/Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-18T17:39:08+02:00"
+    },
     {
       "title": "Giotto di Bondone",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/X-c/Master-of-the-Registrum-Gregorii.html",
       "change_type": "created",
       "pushed_at": "2026-10-13T12:55:36+02:00"
-    },
-    {
-      "title": "Codex Egberti",
-      "section": "Codices",
-      "path": "Content/Codex/Codex-Egberti.md",
-      "page_url": "/Content/Codex/Codex-Egberti.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-11T18:40:05+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Giotto di Bondone",
+      "title": "Maestro di Santa Cecilia",
       "section": "Artists",
-      "path": "Content/Artists/XIII-c/Giotto-di-Bondone.md",
-      "page_url": "/Content/Artists/XIII-c/Giotto-di-Bondone.html",
+      "path": "Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.md",
+      "page_url": "/Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-18T13:15:43+02:00"
+      "pushed_at": "2026-10-18T17:39:08+02:00"
     }
   ]
 }
