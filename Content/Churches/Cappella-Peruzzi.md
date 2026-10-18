@@ -34,7 +34,7 @@ meta:
       - label: "Patron family"
         value: "Peruzzi — one of the leading banking dynasties of early 14th-century Europe; multiple chapels within Santa Croce"
       - label: "Chapel foundation"
-        value: "Donato di Arnoldo Peruzzi (will of 1299)"
+        value: "Donato di Arnaldo Peruzzi (will of 1292; recorded alive until 1299)"
       - label: "Fresco commission"
         value: "Giovanni di Rinieri Peruzzi (grandson of Donato), c. 1318–1322"
       - label: "Institutional context"
@@ -69,9 +69,9 @@ meta:
   - title: "Technique"
     pairs:
       - label: "Method"
-        value: "A secco fresco — painted almost entirely on dry plaster, allowing greater flexibility in modelling and detail but drastically reducing long-term durability"
+        value: "Mixed technique, fresco and secco — painted largely on dry plaster over a thin fresco ground, allowing greater flexibility in modelling and detail but drastically reducing long-term durability"
       - label: "Plaster"
-        value: "Thin lime plaster ground applied over masonry walls; main pictorial layers painted onto dry plaster (secco)"
+        value: "Thin lime plaster ground applied over masonry walls; fresco ground, with most pictorial layers painted onto dry plaster (secco)"
       - label: "Underdrawing"
         value: "Scientific analysis has revealed underdrawing and earlier compositional layers, indicating adjustments to figure placement and architectural details during execution"
       - label: "Pigments"
@@ -83,10 +83,10 @@ meta:
 
   - title: "The Fresco Cycle"
     list:
-      - "South wall — Life of Saint John the Baptist: Annunciation to Zacharias; Birth and Naming of the Baptist; Feast of Herod (Beheading / presentation of the head to Salome), c. 1318–1322, secco on plaster"
-      - "North wall — Life of Saint John the Evangelist: Raising of Drusiana; Ascension of Saint John; Vision or Miracle at Ephesus, c. 1318–1322, secco on plaster"
-      - "Vault: Symbols of the Four Evangelists and eight prophetic busts — celestial register mediating between earthly narratives and the divine realm, c. 1318–1322, secco on plaster"
-      - "East wall (fragment): Mystic Lamb above the altar — sole surviving element of the back-wall programme, c. 1318–1322, secco on plaster"
+      - "South wall — Life of Saint John the Baptist: Annunciation to Zacharias; Birth and Naming of the Baptist; Feast of Herod (Beheading / presentation of the head to Herodias), c. 1318–1322, fresco and secco on plaster"
+      - "North wall — Life of Saint John the Evangelist: Vision on the Island of Patmos; Raising of Drusiana; Ascension of Saint John, c. 1318–1322, fresco and secco on plaster"
+      - "Vault: Symbols of the Four Evangelists and eight prophetic busts — celestial register mediating between earthly narratives and the divine realm, c. 1318–1322, fresco and secco on plaster"
+      - "East wall (fragment): Mystic Lamb above the altar — sole surviving element of the back-wall programme, c. 1318–1322, fresco and secco on plaster"
       - "Compositional logic: unified 'view from the arch'; Baptist's Martyrdom and Ascension of the Evangelist aligned on the chapel's central axis; lower registers denser and dynamically composed; upper registers more compressed and schematic"
 
   - title: "Furnishings"
@@ -130,7 +130,7 @@ meta:
         url: "/Content/Artists/XIV-c/Pacino-di-Bonaguida.html"
 ---
 
-The *Peruzzi Chapel* in the Basilica of Santa Croce in Florence is one of the earliest and most significant products of Giotto di Bondone’s late phase in the city, embodying the complex interplay of Franciscan spirituality, civic prestige, and private devotion that characterized early fourteenth‑century Florentine art. Commissioned by the Peruzzi family, a powerful banking dynasty, it was conceived as a family memorial chapel dedicated to the two saints, John the Baptist and the Evangelist, whose dual patronage reflects both the name of the primary patron and the overarching devotional and civic identity of Florence. The chapel’s construction was made possible by the wealthy banker *Donato di Arnoldo Peruzzi*, who provided funds in his will of 1299 to establish a family memorial chapel within the basilica. The pictorial decoration by Giotto, probably executed around 1318–1322, appears to have been commissioned by a later generation of the family, with scholars often attributing the fresco commission to *Giovanni di Rinieri Peruzzi*, grandson of Donato.
+The *Peruzzi Chapel* in the Basilica of Santa Croce in Florence is one of the earliest and most significant products of Giotto di Bondone’s late phase in the city, embodying the complex interplay of Franciscan spirituality, civic prestige, and private devotion that characterized early fourteenth‑century Florentine art. Commissioned by the Peruzzi family, a powerful banking dynasty, it was conceived as a family memorial chapel dedicated to the two saints, John the Baptist and the Evangelist, whose dual patronage reflects both the name of the primary patron and the overarching devotional and civic identity of Florence. The chapel’s construction was made possible by the wealthy banker *Donato di Arnaldo Peruzzi*, who provided funds in his will of 1292 to establish a family memorial chapel within the basilica; he is recorded alive until 1299. The pictorial decoration by Giotto, probably executed around 1318–1322 (a dating around 1310–1315 has also been proposed), appears to have been commissioned by a later generation of the family, with scholars often attributing the fresco commission to *Giovanni di Rinieri Peruzzi*, grandson of Donato.
 
 The chapel’s iconographic program, structured in paired narrative cycles on the north and south walls, negotiates the theological themes of *baptismal regeneration, prophetic revelation, and communal resurrection* within a tightly axially organized space. Giotto’s intervention here constitutes one of his first major works in Santa Croce, predating or overlapping chronologically with the better‑preserved Bardi Chapel and forming a crucial link between the Paduan *Arena Chapel* and the later Franciscan projects in Florence. The architectural setting of the chapel, an intimate rib‑vaulted space attached to the right arm of the transept, provides a stage for a carefully calibrated system of frontal and lateral views that shape the viewer’s experience of narrative and symbol. 
 
@@ -142,7 +142,7 @@ The vault, articulated by ribs and a central keystone, is adorned with the symbo
 
 The spatial relationship between the chapel and the nave, governed by the transeptal axis of Santa Croce, ensures that the Peruzzi Chapel remains partially visible from the main body of the church, reinforcing its role as a semi‑public monument despite its private patronage. The chapel’s modest scale and relatively simple structure contrast with the ornate polychromy and elaborate plasticity of the frescoes, producing a visual tension between understated architecture and dense figural decoration. Structural additions and modifications over the centuries, including later altars and liturgical fittings, have altered the chapel’s proportions and sightlines, sometimes constraining the original viewing experience prescribed by Giotto’s composition. Nevertheless, the surviving documentation and reconstructions allow scholars to reconstruct the chapel’s early spatial and liturgical configuration with considerable confidence, even where the material fabric has been repaired or renewed.
 
-Within the Peruzzi Chapel, Giotto’s materials were largely conventional for early fourteenth‑century Italian fresco, but the execution is distinguished by *the decision to work almost entirely in secco rather than in fresco buono*. The plaster ground, applied over the masonry walls, was prepared to receive a thin layer of damp lime plaster, yet the main pictorial layers were often painted onto dry plaster, a technique that allowed for greater flexibility in modeling and detail but drastically reduced the durability of the surface. Pigments such as earth tones, azurite, and red lead were employed to achieve the characteristic modeling of flesh, drapery, and architectural elements, with the blue of the vault providing a luminous celestial backdrop that contrasts with the more restrained chromatic range of the narrative scenes. 
+Within the Peruzzi Chapel, Giotto’s materials were largely conventional for early fourteenth‑century Italian fresco, but the execution is distinguished by *the decision to work largely in secco over a fresco ground rather than in fresco buono alone*. The plaster ground, applied over the masonry walls, was prepared to receive a thin layer of damp lime plaster, yet the main pictorial layers were often painted onto dry plaster, a technique that allowed for greater flexibility in modeling and detail but drastically reduced the durability of the surface. Pigments such as earth tones, azurite, and red lead were employed to achieve the characteristic modeling of flesh, drapery, and architectural elements, with the blue of the vault providing a luminous celestial backdrop that contrasts with the more restrained chromatic range of the narrative scenes. 
 
 The artist’s use of the dry technique also facilitated the insertion of fine brushwork and delicate highlights, particularly in the rendering of hair, textiles, and architectural tracery, which appear more incisive and linear than in strictly buon fresco. Gold leaf was almost certainly used in limited areas, especially on halos and decorative elements of the vault, although much of this has been lost or obscured by later interventions. The secco method, however, proved highly vulnerable to environmental factors, including humidity, soot deposition, and physical abrasion, which have contributed to the extreme deterioration of the painted surfaces over the centuries. 
 
@@ -218,7 +218,7 @@ The viewer entering from the transept first sees the altar and apsidal wall behi
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-01.jpg" alt="Peruzzi Chapel - Zacharias Receives the Angel's Announcement">
-  <figcaption>Zacharias Receives the Angel's Announcement, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Zacharias Receives the Angel's Announcement, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Theologically speaking, Giotto depicts the episode from Luke 1:5–25, in which the archangel Gabriel announces to Zechariah, an elderly and childless priest, the birth of John the Baptist, “prophet of the Most High God” and forerunner of the Messiah. The image of Zechariah depicted in the temple, while serving at the altar, points to the continuity between the Old and New Testaments: the sacrificial worship of the Temple finds its eschatological culmination in John the Baptist, for the Baptist is the one “who prepares the way of the Lord” and points directly to Christ.
@@ -239,7 +239,7 @@ In summary, Giotto’s Annunciation to Zechariah in the Peruzzi Chapel is not me
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-02.jpg" alt="Peruzzi Chapel - The Birth of John the Baptist and the Naming Ceremony">
-  <figcaption>The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Birth of John the Baptist and the Naming Ceremony, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The lower right panel depicts the birth of John the Baptist, while on the left, Giotto combines the scene of the naming of the child—with the mute Zechariah writing the name “John” on a tablet—in accordance with the angel’s announcement as recounted in the apocryphal Gospels and hagiographic tradition (especially Jacopo da Varagine’s Legenda Aurea). This blending of birth and the bestowal of the name underscores that, for medieval theology, the name is not merely a sign but indicates a vocation: John is “the one spoken of by God,” that is, the forerunner of Christ, the herald of the Kingdom who prepares for the Baptism of the Lord.
@@ -266,7 +266,7 @@ For the Peruzzi family, active in a city increasingly marked by tensions between
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-03.jpg" alt="Peruzzi Chapel - Herod's banquet, with Salome presenting the head of John the Baptist to Herodias">
-  <figcaption>Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>Herod's banquet, with Salome presenting the head of John the Baptist to Herodias, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Scenes such as the Feast of Herod and the presentation of John the Baptist’s head draw inspiration from the Synoptic Gospels (Matthew 14:6–12 and Mark 6:21–29) and were often interpreted in the Middle Ages as examples of a malevolent ludus: earthly power, intoxicated by pleasure and vanity, becomes an instrument of evil. Giotto emphasizes this idea not so much through the raw violence of the beheading (which is depicted in another panel) as through the contrast between the sumptuous feast and the horrific gesture of the gift-reception: the head of John the Baptist is presented to Herod as a platter, reduced to an object of consumption.
@@ -279,7 +279,7 @@ This gestural apparatus, typical of the mature Gothic style and the Giotto tradi
 In the Peruzzi Chapel cycle, the Feast of Herod is an integral part of a narrative that, along the north wall, spans from Zechariah’s annunciation to the birth and martyrdom of John the Baptist, up to his spiritual “assumption” or his glory in the afterlife. This scheme, which links the birth, public life, and death of the Baptist, allows us to interpret Herod’s banquet not as an isolated episode, but as the culminating moment of his prophetic mission: the truth extends even unto death, because the world rejects it.
 
 In this sense, the banquet, together with other scenes, forms an iconography that can be read as a theological prelude to the figure of Christ: if the Baptist is destroyed by earthly power, the Crucified One—who will be at the center of Franciscan theology in the very same Basilica of Santa Croce—is its fulfillment. The figure of John, “the greatest born of woman,” thus becomes a model of fidelity to the word of God, which the Christian is called to follow, even at the cost of his own life.
-The Peruzzi Chapel was founded by Donato di Arnoldo Peruzzi, one of the most powerful Florentine bankers, and housed Giotto’s first commission at Santa Croce. His nephew Giovanni di Rinieri Peruzzi commissioned the cycles of St. John the Baptist and St. John the Evangelist, thus creating a program that intertwines the city’s patron saint, the family’s patron saint, and Franciscan theology.
+The Peruzzi Chapel was founded by Donato di Arnaldo Peruzzi, one of the most powerful Florentine bankers, and housed Giotto’s first commission at Santa Croce. His nephew Giovanni di Rinieri Peruzzi commissioned the cycles of St. John the Baptist and St. John the Evangelist, thus creating a program that intertwines the city’s patron saint, the family’s patron saint, and Franciscan theology.
 
 St. John the Baptist was the patron saint of Florence; St. John the Evangelist was the namesake of many important figures in the Peruzzi family, and his cycle is precisely located on the other wall of the chapel. This dual presence, combined with the choice of a Franciscan basilica, allows the chapel to be interpreted as a hub of relationships: the family links itself to the memory of Francis, to the city of Florence, and to the house of God, projecting its own memory into spiritual eternity.
 Theologically, Herod’s banquet serves as a critical mirror for secular power: the scene shows what a worldly banquet becomes when governed by desire, pride, and vengeance, rather than by charity and justice. For a family like the Peruzzis, tied to banks, markets, and city politics, the message is implicitly twofold: a life of luxury and public banquets can turn into a “banquet of Herod” if they are not guided by virtue and conversion.
@@ -293,12 +293,12 @@ This innovative choice underscores the family’s awareness of being part of sac
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-04.jpg" alt="Peruzzi Chapel - A Vision on the Island of Patmos">
-  <figcaption>A Vision on the Island of Patmos, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>A Vision on the Island of Patmos, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The painting is the first scene in the cycle depicting *Saint John the Evangelist*, flanked by the cycle of *Saint John the Baptist* dedicated to the Peruzzi family itself, and should be interpreted both as an “apocalyptic vision” and as a statement of dynastic memory and identity.
 
-The Peruzzi Chapel was a family enterprise: built thanks to a bequest in the will of Donato di Arnoldo Peruzzi in 1299 and later decorated by Giovanni di Rinieri Peruzzi, who commissioned Giotto to paint the cycle of St. John the Baptist and St. John the Evangelist. St. John the Evangelist was the patron saint of Giovanni Peruzzi, the principal patron, and thus his figure becomes a personal and dynastic symbol.
+The Peruzzi Chapel was a family enterprise: built thanks to a bequest in the will of Donato di Arnaldo Peruzzi in 1292 (he is recorded alive until 1299) and later decorated by Giovanni di Rinieri Peruzzi, who commissioned Giotto to paint the cycle of St. John the Baptist and St. John the Evangelist. St. John the Evangelist was the patron saint of Giovanni Peruzzi, the principal patron, and thus his figure becomes a personal and dynastic symbol.
 
 The presence of two Johns—the Baptist and the Evangelist—is no coincidence: the Baptist is the patron saint of Florence and of St. Francis, while the Evangelist is the patron saint of the donor. This pairing creates a sort of theological and civil “double protection”: on one hand, the city and the Franciscan Church; on the other, the individual patron and his descendants. The Vision of Patmos, therefore, is not merely an image of John as the author of the Apocalypse, but also a scene legitimizing the patron: the family’s spiritual capital is thus “imagined” as participating in the divine mystery.
 
@@ -310,7 +310,7 @@ In summary, Giotto’s Vision on the Island of Patmos is a powerful theological 
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-05.jpg" alt="Peruzzi Chapel - The Resurrection of Drusiana">
-  <figcaption>The Resurrection of Drusiana, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Resurrection of Drusiana, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 Giotto’s fresco *The Resurrection of Drusiana*, located in the Peruzzi Chapel of Santa Croce in Florence (c. 1318–1322), depicts an episode from the *Stories of Saint John the Evangelist* and portrays a “miraculous” resurrection scene that holds a dual theological and symbolic significance: on the one hand, it reaffirms Christ’s power over death; on the other, it serves as a promise of resurrection for the commissioning family. In the context of a funerary chapel, this scene becomes a true spiritual program of salvation and otherworldly glory for the Peruzzi family.
@@ -337,7 +337,7 @@ The choice of John the Evangelist, linked to a message of love and communion, al
 
 <figure>
   <img src="/Images/Cappella-Peruzzi/cappella-peruzzi-06.jpg" alt="Peruzzi Chapel - The Ascension of St. John">
-  <figcaption>The Ascension of St. John, 1318-22, fresco, Basilica di Santa Croce, Florence.</figcaption>
+  <figcaption>The Ascension of St. John, 1318-22, fresco and a secco, Basilica di Santa Croce, Florence.</figcaption>
 </figure>
 
 The scene depicts the saint’s assumption into heaven, in which John the Baptist is welcomed by Christ and a procession of angels, while below him a crowd of onlookers gathers, likely including members of the commissioning family. Below is an analysis from a theological perspective and regarding its symbolic significance for the Peruzzi family.
