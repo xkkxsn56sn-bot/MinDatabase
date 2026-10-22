@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.13.0 | **Last Updated**: 7 October 2026
+**Version**: 4.13.1 | **Last Updated**: 22 October 2026
 
 ## Project Scope
 
@@ -532,6 +532,27 @@ interfaccia; vanno copiati a mano nel Secret `NEWSLETTER_SUBSCRIBERS` e in
 `newsletter_subscribers.csv` (fuori dal repo, escluso anche dalla build).
 Il sistema regge fino a una trentina di iscritti: oltre, il limite non e'
 GitHub ma iCloud Mail, che non e' un servizio di invio in massa.
+
+*Procedura per un nuovo iscritto.*
+
+1. Formspree: controllare che l'email sia davvero una richiesta di iscrizione.
+2. CSV locale: aggiungere una riga a `newsletter_subscribers.csv` con le
+   colonne `email,consent,source,created_at,notes`. Il file non e' tracciato
+   da git.
+3. Secret GitHub: ricreare `NEWSLETTER_SUBSCRIBERS` con lo stesso contenuto
+   del CSV, intestazione compresa. Il campo Update sostituisce l'intero
+   valore, quindi non basta incollare la riga nuova. Da terminale:
+   `gh secret set NEWSLETTER_SUBSCRIBERS < newsletter_subscribers.csv`;
+   oppure dalle impostazioni del repository (Settings, Secrets and variables,
+   Actions), incollando il contenuto del file (`pbcopy < newsletter_subscribers.csv`
+   lo copia negli appunti). Cancellare il secret invece di aggiornarlo fa
+   saltare la newsletter finche' non viene ricreato con lo stesso nome.
+4. Dry-run: `python3 scripts/send_newsletter_updates.py --dry-run` e
+   controllare che `Recipients` sia salito di uno. Gli indirizzi non vengono
+   mai stampati.
+5. Al primo push con notizie: lo step «Write subscribers file» deve riportare
+   il numero di righe atteso, cioe' iscritti + 1.
+6. Regola: nessun indirizzo in file tracciati, commit, log o report.
 
 **L'indice della galleria.** Si rigenera in locale con
 `python3 scripts/build_gallery_index.py` e si committa insieme alla scheda che
