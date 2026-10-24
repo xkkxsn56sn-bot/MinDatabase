@@ -842,7 +842,7 @@ In the years of the Pisa Cathedral pulpit campaign, Giovanni supplied for the Sc
 
 Enrico Scrovegni<a href="/endnotes.html#fn-scrovegni-enrico" class="footnote"><sup>4</sup></a>, the wealthy Paduan banker who had commissioned Giotto to fresco the chapel between about 1303 and 1305, summoned Giovanni to furnish the sculpture for the presbytery — the liturgical heart of the space, which also held Scrovegni's tomb and Giotto's painted Crucifix (now in the Musei Civici agli Eremitani). The group stands today crowning the high altar.
 
-The convergence is exceptional. In the Scrovegni Chapel the painting of Giotto is in dialogue with a sculptural work of equal extraordinariness. Two of the supreme artists of the age worked, if not side by side, then in the same small space and under the same patron.
+The convergence is exceptional. In the [Scrovegni Chapel](/Content/Churches/Cappella-degli-Scrovegni.html) the painting of Giotto is in dialogue with a sculptural work of equal extraordinariness. Two of the supreme artists of the age worked, if not side by side, then in the same small space and under the same patron.
 
 The Virgin stands frontally, crowned over a veil whose edges retain their gilded borders, the Child carried on her left arm. The mantle is fastened at the breast by a circular clasp and falls in long unbroken vertical folds to the ground, gathered at the waist by a cord that descends in a knotted tassel to the knee — a passage of virtuoso undercutting, the cord standing entirely free of the drapery behind it. The hem is bordered with a wide gilded band, and the mantle's lining preserves extensive traces of the original **blue**, clearly visible down the right side of the figure and along the fall of the drapery.
 

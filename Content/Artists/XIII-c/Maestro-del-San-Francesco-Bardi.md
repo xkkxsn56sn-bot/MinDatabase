@@ -125,7 +125,7 @@ scholars:
     url: "/scholars.html#venturi-adolfo"
 ---
 
-The *Maestro del San Francesco Bardi* (Master of the Bardi Saint Francis) is an anonymous Italian painter, conventionally active between approximately 1240 and 1270, whose name derives from the monumental altarpiece formerly attributed to him on the altar of the Cappella Bardi in the Basilica di Santa Croce in Florence. He represents one of the most significant, if enigmatic, artistic personalities of the Duecento, standing at the crossroads of Byzantine tradition and emerging Florentine pictorial innovation.
+The *Maestro del San Francesco Bardi* (Master of the Bardi Saint Francis) is an anonymous Italian painter, conventionally active between approximately 1240 and 1270, whose name derives from the monumental altarpiece formerly attributed to him on the altar of the [Cappella Bardi](/Content/Churches/Cappella-Bardi.html) in the Basilica di Santa Croce in Florence. He represents one of the most significant, if enigmatic, artistic personalities of the Duecento, standing at the crossroads of Byzantine tradition and emerging Florentine pictorial innovation.
 
 ## Identity and Origin
 

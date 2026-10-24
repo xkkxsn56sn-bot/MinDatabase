@@ -282,7 +282,7 @@ The left wing is divided into two registers, each containing a narrative scene f
 
 The upper scene presents a domestic interior depicting the birth of the Virgin Mary. A table set with food and dishes occupies a prominent position in the composition — a characteristic iconographic detail in Italian Trecento depictions of this subject, showing servants bringing refreshments to the new mother as she recovers from childbirth. This domestic vignette, common to the pictorial tradition (compare Pietro Lorenzetti's celebrated 1342 treatment of the same subject in Siena), serves to ground the miraculous event in the recognizable reality of everyday life. For a confraternity dedicated to the care of the vulnerable, this emphasis on nurture and domestic hospitality carried a particular resonance.
 
-The architectural setting — a simplified interior with a coffered ceiling — demonstrates Daddi's interest in spatial recession, however rudimentary, inherited from Giotto's innovations at the Scrovegni Chapel.
+The architectural setting — a simplified interior with a coffered ceiling — demonstrates Daddi's interest in spatial recession, however rudimentary, inherited from Giotto's innovations at the [Scrovegni Chapel](/Content/Churches/Cappella-degli-Scrovegni.html).
 
 #### Lower Register — *The Nativity of Christ*
 

@@ -311,7 +311,7 @@ Before it stand two apostles, both haloed, both barefoot:
 
 2. The farther, in a pink-red mantle over a dark tunic, looks down and away, arms lowered.
 
-Neither can be securely named. The fleeing apostles are a fixed motif of the scene from Giotto's Arena Chapel onward.
+Neither can be securely named. The fleeing apostles are a fixed motif of the scene from Giotto's [Arena Chapel](/Content/Churches/Cappella-degli-Scrovegni.html) onward.
 
 About condition: a coarse craquelure across the whole surface. The gold is worn through to the red bole in broad areas of the ground. The dark passages — Judas's mantle above all — show heavy losses and blanching, which flattens the single most important figure into a silhouette. A horizontal join or crack runs across the right side at roughly two-thirds height, and vertical splits are visible. Panel edges exposed. Trimmed at the top, as above.
 
