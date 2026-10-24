@@ -1,39 +1,55 @@
 {
-  "updated_at": "2026-10-18T15:40:07+00:00",
+  "updated_at": "2026-10-24T09:15:33+00:00",
   "notices": [
     {
-      "title": "Maestro di Santa Cecilia",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.md",
-      "page_url": "/Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-18T17:39:08+02:00"
-    },
-    {
-      "title": "Giotto di Bondone",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Giotto-di-Bondone.md",
-      "page_url": "/Content/Artists/XIII-c/Giotto-di-Bondone.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-18T13:15:43+02:00"
-    },
-    {
-      "title": "Master of the Registrum Gregorii",
-      "section": "Artists",
-      "path": "Content/Artists/X-c/Master-of-the-Registrum-Gregorii.md",
-      "page_url": "/Content/Artists/X-c/Master-of-the-Registrum-Gregorii.html",
+      "title": "Cappella degli Scrovegni",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-degli-Scrovegni.md",
+      "page_url": "/Content/Churches/Cappella-degli-Scrovegni.html",
       "change_type": "created",
-      "pushed_at": "2026-10-13T12:55:36+02:00"
+      "pushed_at": "2026-10-24T11:14:01+02:00"
+    },
+    {
+      "title": "Cappella Bardi",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-Bardi.md",
+      "page_url": "/Content/Churches/Cappella-Bardi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-24T11:14:01+02:00"
+    },
+    {
+      "title": "Cappella Peruzzi",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-Peruzzi.md",
+      "page_url": "/Content/Churches/Cappella-Peruzzi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-24T11:14:01+02:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Maestro di Santa Cecilia",
-      "section": "Artists",
-      "path": "Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.md",
-      "page_url": "/Content/Artists/XIII-c/Maestro-di-Santa-Cecilia.html",
+      "title": "Cappella degli Scrovegni",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-degli-Scrovegni.md",
+      "page_url": "/Content/Churches/Cappella-degli-Scrovegni.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-24T11:14:01+02:00"
+    },
+    {
+      "title": "Cappella Bardi",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-Bardi.md",
+      "page_url": "/Content/Churches/Cappella-Bardi.html",
       "change_type": "modified",
-      "pushed_at": "2026-10-18T17:39:08+02:00"
+      "pushed_at": "2026-10-24T11:14:01+02:00"
+    },
+    {
+      "title": "Cappella Peruzzi",
+      "section": "Churches",
+      "path": "Content/Churches/Cappella-Peruzzi.md",
+      "page_url": "/Content/Churches/Cappella-Peruzzi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-10-24T11:14:01+02:00"
     }
   ]
 }
