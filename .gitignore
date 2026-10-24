@@ -28,3 +28,6 @@ newsletter_subscribers.csv
 # un `git add -A` le avrebbe messe in stage in blocco (cfr. incidente
 # Bonaiuto). Si spostano in Content/ alla pubblicazione, non si committano.
 drafts/
+
+# Percorso locale di Google Drive per lo script di sync dei Markdown.
+.sync_drive_path

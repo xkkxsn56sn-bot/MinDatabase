@@ -207,6 +207,11 @@ The rule applies to `Content/Codex/` only; the other sections keep `<subject>-NN
 
 **Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII-c/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
 
+## Tooling Note: sync_markdown_to_drive.sh
+
+`scripts/sync_markdown_to_drive.sh` rispecchia i `.md` tracciati sotto `Content/` (esclusa `prompts/`) nella sottocartella `MinDatabase-Markdown/` di Google Drive, con la stessa struttura; i file rinominati o eliminati spariscono anche da Drive, ma solo dentro quella sottocartella. Il percorso della radice di Drive sta in `.sync_drive_path` (non tracciato); se la cartella non e' raggiungibile lo script esce senza toccare nulla. Opzioni: `--dry-run`, `--quiet`.
+Parte da sola dagli hook locali `post-commit` e `post-merge` (in `.git/hooks`, non tracciati); a mano con `scripts/sync_markdown_to_drive.sh` o dal task VS Code «Sync Markdown → Google Drive».
+
 ## Tooling Note: validate_content_indexes.py
 
 `scripts/validate_content_indexes.py` runs the twelve content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, slug ordering inside the sections of `endnotes.html`, display-name ordering inside the sections of `scholars.html`, and the leaf-based names of the images in `Content/Codex/`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
@@ -551,7 +556,7 @@ GitHub ma iCloud Mail, che non e' un servizio di invio in massa.
    controllare che `Recipients` sia salito di uno. Gli indirizzi non vengono
    mai stampati.
 5. Al primo push con notizie: lo step «Write subscribers file» deve riportare
-   il numero di righe atteso, cioe' iscritti + 1.
+   il numero di righe atteso: righe non vuote = iscritti + 1 (l'intestazione).
 6. Regola: nessun indirizzo in file tracciati, commit, log o report.
 
 **L'indice della galleria.** Si rigenera in locale con
