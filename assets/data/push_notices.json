@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-24T09:15:33+00:00",
+  "updated_at": "2026-10-27T11:55:15+00:00",
   "notices": [
     {
-      "title": "Cappella degli Scrovegni",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-degli-Scrovegni.md",
-      "page_url": "/Content/Churches/Cappella-degli-Scrovegni.html",
+      "title": "Camaino di Crescentino",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Camaino-di-Crescentino.md",
+      "page_url": "/Content/Artists/XIV-c/Camaino-di-Crescentino.html",
       "change_type": "created",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     },
     {
-      "title": "Cappella Bardi",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-Bardi.md",
-      "page_url": "/Content/Churches/Cappella-Bardi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "title": "Gano di Fazio",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Gano-di-Fazio.md",
+      "page_url": "/Content/Artists/XIV-c/Gano-di-Fazio.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     },
     {
-      "title": "Cappella Peruzzi",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-Peruzzi.md",
-      "page_url": "/Content/Churches/Cappella-Peruzzi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "title": "Maestro del Vescovado",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-del-Vescovado.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-del-Vescovado.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Cappella degli Scrovegni",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-degli-Scrovegni.md",
-      "page_url": "/Content/Churches/Cappella-degli-Scrovegni.html",
+      "title": "Camaino di Crescentino",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Camaino-di-Crescentino.md",
+      "page_url": "/Content/Artists/XIV-c/Camaino-di-Crescentino.html",
       "change_type": "created",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     },
     {
-      "title": "Cappella Bardi",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-Bardi.md",
-      "page_url": "/Content/Churches/Cappella-Bardi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "title": "Gano di Fazio",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Gano-di-Fazio.md",
+      "page_url": "/Content/Artists/XIV-c/Gano-di-Fazio.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     },
     {
-      "title": "Cappella Peruzzi",
-      "section": "Churches",
-      "path": "Content/Churches/Cappella-Peruzzi.md",
-      "page_url": "/Content/Churches/Cappella-Peruzzi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-24T11:14:01+02:00"
+      "title": "Maestro del Vescovado",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Maestro-del-Vescovado.md",
+      "page_url": "/Content/Artists/XIV-c/Maestro-del-Vescovado.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-27T12:54:32+01:00"
     }
   ]
 }
