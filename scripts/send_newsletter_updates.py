@@ -223,7 +223,32 @@ def _build_subject(notices: list[dict]) -> str:
     return f"Medieval Visions \u2014 {title} and {others} more {plural}"
 
 
-def _build_message(subject: str, sender: str, recipient: str, notices: list[dict], site_base_url: str) -> EmailMessage:
+def _campaign_date() -> str:
+    """Data dell'invio (UTC), calcolata una volta sola per tutto il giro."""
+    return dt.datetime.now(dt.timezone.utc).date().isoformat()
+
+
+def _with_campaign(href: str, campaign_date: str) -> str:
+    """Aggiunge i parametri UTM di GoatCounter, prima dell'eventuale `#`.
+
+    I parametri sono identici per tutti i destinatari: nessun identificativo
+    per singolo iscritto, solo la campagna.
+    """
+    base, hash_sep, fragment = href.partition("#")
+    query_sep = "&" if "?" in base else "?"
+    base = f"{base}{query_sep}utm_source=newsletter&utm_campaign=newsletter-{campaign_date}"
+    return f"{base}{hash_sep}{fragment}"
+
+
+def _build_message(
+    subject: str,
+    sender: str,
+    recipient: str,
+    notices: list[dict],
+    site_base_url: str,
+    campaign_date: str | None = None,
+) -> EmailMessage:
+    campaign_date = campaign_date or _campaign_date()
     lines_text: list[str] = [
         "Medieval Visions content update",
         "",
@@ -245,9 +270,11 @@ def _build_message(subject: str, sender: str, recipient: str, notices: list[dict
             href = page_url
         else:
             href = f"{site_base_url.rstrip('/')}/{page_url.lstrip('/')}"
+        href = _with_campaign(href, campaign_date)
+        href_html = href.replace("&", "&amp;")
 
         lines_text.append(f"- [{change_type}] {title} ({section}) -> {href}")
-        lines_html.append(f"<li><strong>{change_type}</strong> {title} ({section}) - <a href=\"{href}\">Open entry</a></li>")
+        lines_html.append(f"<li><strong>{change_type}</strong> {title} ({section}) - <a href=\"{href_html}\">Open entry</a></li>")
 
     lines_text.extend(
         [
@@ -288,7 +315,9 @@ def _send_messages(
     site_base_url: str,
     use_ssl: bool,
     use_starttls: bool,
+    campaign_date: str | None = None,
 ) -> int:
+    campaign_date = campaign_date or _campaign_date()
     if use_ssl:
         server: smtplib.SMTP | smtplib.SMTP_SSL
         server = smtplib.SMTP_SSL(host, port, timeout=30, context=ssl.create_default_context())
@@ -306,7 +335,7 @@ def _send_messages(
             server.login(username, password)
 
         for recipient in recipients:
-            msg = _build_message(subject, sender, recipient, notices, site_base_url)
+            msg = _build_message(subject, sender, recipient, notices, site_base_url, campaign_date)
             server.send_message(msg)
             sent += 1
     finally:
@@ -346,11 +375,22 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
             "already notified"
         ),
     )
+    parser.add_argument(
+        "--print-body",
+        action="store_true",
+        help=(
+            "implies --dry-run and also prints the text and HTML bodies of "
+            "the email, built for a placeholder recipient (headers and real "
+            "addresses are never printed)"
+        ),
+    )
     return parser.parse_args(argv)
 
 
 def main(argv: list[str] | None = None) -> int:
-    dry_run = _parse_args(argv).dry_run
+    args = _parse_args(argv)
+    print_body = args.print_body
+    dry_run = args.dry_run or print_body
     notices_json = _load_json(NOTICES_PATH, {"notices": []})
 
     # L'email annuncia il push corrente, non la lista rotolante della
@@ -430,6 +470,8 @@ def main(argv: list[str] | None = None) -> int:
     site_base_url = (os.getenv("SITE_BASE_URL") or "https://medievalvisions.com").strip()
     secure_mode = (os.getenv("SMTP_SECURE") or "starttls").strip().lower()
 
+    campaign_date = _campaign_date()
+
     if dry_run:
         print("[dry-run] Nothing sent, state file untouched.")
         print(f"[dry-run] Subject: {subject}")
@@ -440,6 +482,14 @@ def main(argv: list[str] | None = None) -> int:
                 f"[dry-run] A real run would abort: {len(recipients)} recipient(s), "
                 f"minimum required is {min_recipients}."
             )
+        if print_body:
+            msg = _build_message(subject, sender, "recipient@example.invalid", notices, site_base_url, campaign_date)
+            text_part = msg.get_body(preferencelist=("plain",))
+            html_part = msg.get_body(preferencelist=("html",))
+            print("[dry-run] ----- text body -----")
+            print(text_part.get_content() if text_part else "")
+            print("[dry-run] ----- html body -----")
+            print(html_part.get_content() if html_part else "")
         return 0
 
     if not host:
@@ -464,6 +514,7 @@ def main(argv: list[str] | None = None) -> int:
             site_base_url=site_base_url,
             use_ssl=use_ssl,
             use_starttls=use_starttls,
+            campaign_date=campaign_date,
         )
     except Exception as exc:
         print(f"Failed to send newsletter notifications: {_redact_addresses(str(exc))}")

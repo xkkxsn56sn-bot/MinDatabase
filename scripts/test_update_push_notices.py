@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Batteria di test per update_push_notices.py.
 
-Tredici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
+Quattordici gruppi di casi, tutti presi dalla storia reale del repository. Non serve pytest:
 si esegue con `python3 scripts/test_update_push_notices.py` e stampa una riga
 per caso, uscendo con codice 1 al primo fallimento.
 
@@ -73,6 +73,12 @@ m. Un push, un timestamp. `pushed_at` e' quello del commit piu' recente del
    tennero la scheda nuova in testa. Un push di un solo commit non cambia, e
    la firma resta stabile fra due esecuzioni. Nel gruppo i, un range che copre
    due push e' ora letto come uno solo: un timestamp, `created` e poi path.
+
+n. I link delle schede nella newsletter portano `utm_source=newsletter` e
+   `utm_campaign=newsletter-AAAA-MM-GG`, letti da GoatCounter in Campaigns.
+   Identici per tutti i destinatari, nessun identificativo per iscritto. I
+   parametri vanno prima dell'eventuale `#`, con `&` se c'e' gia' una query
+   (e `&amp;` nell'HTML); il `mailto:` e gli altri testi non cambiano.
 
 h. Le notizie annunciano schede e nient'altro. Un file non-scheda — un `.md`
    di radice, `Content/prompts/` — non produce notizia, e un push che tocca
@@ -842,6 +848,93 @@ m_payload = upn._dedupe_and_sort(
 check(
     "m. il ramo payload sugli stessi input da' lo stesso ordine del ripiego",
     paths(m_payload) == paths(m_sorted),
+)
+
+# --------------------------------------------------------------------------
+# n. parametri di campagna sui link della newsletter
+# --------------------------------------------------------------------------
+import re
+
+N_DATE = "2026-10-27"
+N_BASE = "https://medievalvisions.com"
+N_UTM = f"utm_source=newsletter&utm_campaign=newsletter-{N_DATE}"
+N_UTM_HTML = N_UTM.replace("&", "&amp;")
+
+
+def _n_message(page_url: str):
+    msg = snu._build_message(
+        "s", "from@example.org", "to@example.org",
+        [{"title": "T", "section": "Artists", "change_type": "created", "page_url": page_url}],
+        N_BASE, N_DATE,
+    )
+    text = msg.get_body(preferencelist=("plain",)).get_content()
+    html = msg.get_body(preferencelist=("html",)).get_content()
+    return text, html
+
+
+n_text, n_html = _n_message("/Content/A/B.html")
+check(
+    "n. URL semplice: ? e parametri, nel testo",
+    f"-> {N_BASE}/Content/A/B.html?{N_UTM}\n" in n_text,
+    n_text,
+)
+check(
+    "n. URL semplice: nell'HTML la & e' scritta &amp;",
+    f'href="{N_BASE}/Content/A/B.html?{N_UTM_HTML}"' in n_html and "&utm" not in n_html,
+    n_html,
+)
+q_text, q_html = _n_message("/Content/A/B.html?x=1")
+check(
+    "n. URL con query string esistente: i parametri si accodano con &",
+    f"{N_BASE}/Content/A/B.html?x=1&{N_UTM}" in q_text
+    and f'href="{N_BASE}/Content/A/B.html?x=1&amp;{N_UTM_HTML}"' in q_html
+    and q_text.count("?") == 1,
+    q_text + q_html,
+)
+h_text, h_html = _n_message("/Content/A/B.html#sec-2")
+check(
+    "n. URL con #: i parametri vanno prima dell'ancora",
+    f"{N_BASE}/Content/A/B.html?{N_UTM}#sec-2" in h_text
+    and f'href="{N_BASE}/Content/A/B.html?{N_UTM_HTML}#sec-2"' in h_html,
+    h_text + h_html,
+)
+hq_text, _ = _n_message("/Content/A/B.html?x=1#sec-2")
+check(
+    "n. URL con query e #: query, parametri, poi ancora",
+    f"{N_BASE}/Content/A/B.html?x=1&{N_UTM}#sec-2" in hq_text,
+    hq_text,
+)
+a_text, _ = _n_message("https://example.org/p.html")
+check(
+    "n. URL assoluto: parametri aggiunti anche li'",
+    f"https://example.org/p.html?{N_UTM}" in a_text,
+    a_text,
+)
+check(
+    "n. il mailto resta invariato, senza parametri",
+    '<a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>' in n_html
+    and "utm_" not in "".join(re.findall(r"mailto:[^\"]*", n_html)),
+    n_html,
+)
+check(
+    "n. un solo link per scheda porta i parametri: nessun altro utm_ nel messaggio",
+    n_text.count("utm_source") == 1 and n_html.count("utm_source") == 1,
+)
+n_two = snu._build_message(
+    "s", "f@example.org", "a@example.org",
+    [notice("A", "created", "a.md"), notice("B", "modified", "b.md")], N_BASE, N_DATE,
+).get_body(preferencelist=("plain",)).get_content()
+check(
+    "n. la stessa data compare in tutti i link dello stesso invio",
+    set(re.findall(r"newsletter-(\d{4}-\d{2}-\d{2})", n_two)) == {N_DATE}
+    and n_two.count("utm_campaign") == 2,
+    n_two,
+)
+check(
+    "n. senza data esplicita si usa quella di oggi (UTC), nel formato AAAA-MM-GG",
+    re.search(r"utm_campaign=newsletter-\d{4}-\d{2}-\d{2}\n",
+              snu._build_message("s", "f@e.org", "t@e.org", [notice("A", "created", "a.md")], N_BASE
+                                 ).get_body(preferencelist=("plain",)).get_content()) is not None,
 )
 
 print()
