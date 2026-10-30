@@ -26,6 +26,7 @@ on:
       - "Gemfile"
       - "Gemfile.lock"
       - "CNAME"
+      - "robots.txt"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
