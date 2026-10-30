@@ -894,9 +894,10 @@ html[data-theme="dark"] .entry__nav-btn:hover {
 }
 
 .ai-invite {
+  container: ai-invite / inline-size;
   position: relative;
   margin: 1.6rem 0;
-  padding: 1rem 3rem 1rem 1.1rem;
+  padding: 1rem 1.1rem;
   background-color: var(--bg-panel);
   border: 1px solid var(--border-subtle);
   border-left: 3px solid var(--link);
@@ -912,9 +913,11 @@ html[data-theme="dark"] .entry__nav-btn:hover {
   margin: 0;
   text-align: left;
   hyphens: none;
+  overflow-wrap: anywhere;
 }
 
 .ai-invite .ai-invite__title {
+  padding-right: 2rem;
   font-weight: 700;
   font-size: 1.12em;
 }
@@ -955,7 +958,7 @@ html[data-theme="dark"] .entry__nav-btn:hover {
   width: 100%;
   min-height: 44px;
   box-sizing: border-box;
-  padding: 0.6rem 0.8rem;
+  padding: 0.6rem 0.6rem;
   font: inherit;
   font-size: 16px;
   color: var(--text-main);
@@ -1042,11 +1045,9 @@ html[data-theme="dark"] .entry__content .ai-invite .ai-invite__note {
   color: var(--text-muted-dark);
 }
 
-@media (max-width: 480px) {
-  .ai-invite {
-    padding-right: 2.8rem;
-  }
-
+/* Si adatta alla larghezza del riquadro, non a quella dello schermo: nelle
+   schede Papers la colonna del testo e' stretta anche su schermi larghi. */
+@container ai-invite (max-width: 24rem) {
   .ai-invite .ai-invite__form {
     grid-template-columns: 1fr;
   }
