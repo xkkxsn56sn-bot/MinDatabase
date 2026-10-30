@@ -207,10 +207,10 @@ The rule applies to `Content/Codex/` only; the other sections keep `<subject>-NN
 
 **Removed — this tool is no longer available in the repository.** It was previously documented at `Content/Artists/XIII-c/add_sections.py` (purpose: insert `##` headings into prose lacking explicit section markers via exact string replacements), but the file is no longer present. Do not reference or attempt to run it. Insert missing section headings via direct manual edits instead.
 
-## Tooling Note: sync_markdown_to_drive.sh
+## Tooling Note: backup_to_volume.sh
 
-`scripts/sync_markdown_to_drive.sh` rispecchia i `.md` tracciati sotto `Content/` (esclusa `prompts/`) nella sottocartella `MinDatabase-Markdown/` di Google Drive, con la stessa struttura; i file rinominati o eliminati spariscono anche da Drive, ma solo dentro quella sottocartella. Il percorso della radice di Drive sta in `.sync_drive_path` (non tracciato); se la cartella non e' raggiungibile lo script esce senza toccare nulla. Opzioni: `--dry-run`, `--quiet`.
-Parte da sola dagli hook locali `post-commit` e `post-merge` (in `.git/hooks`, non tracciati); a mano con `scripts/sync_markdown_to_drive.sh` o dal task VS Code «Sync Markdown → Google Drive».
+`scripts/backup_to_volume.sh` fa il backup completo della cartella del progetto (`.git`, `drafts/`, `newsletter_subscribers.csv` e gli altri file non tracciati inclusi) su `/Volumes/Prog/Sites/MinDatabase` con `rsync -a --delete`; restano fuori solo `_site/`, `.jekyll-cache/`, `.sass-cache/`, `node_modules/` e `.DS_Store`. La destinazione sta in `.backup_path` (non tracciato). Se il volume non e' montato lo script esce senza errori e senza creare nulla; rifiuta destinazioni vuote, `/`, la home, il repository o una sua sottocartella; usa un lock e un dry-run preliminare. Opzioni: `--dry-run`, `--quiet`. Log in `.git/backup_to_volume.log` (ultime 200 righe).
+Parte da sola, in background e in silenzio, dagli hook locali `post-commit`, `post-merge`, `post-rewrite` e `pre-push` (in `.git/hooks`, non tracciati); a mano con `scripts/backup_to_volume.sh` o dal task VS Code «Backup → Prog» (⇧⌘B). La vecchia sync dei Markdown su Google Drive e' stata dismessa.
 
 ## Tooling Note: validate_content_indexes.py
 

@@ -29,5 +29,5 @@ newsletter_subscribers.csv
 # Bonaiuto). Si spostano in Content/ alla pubblicazione, non si committano.
 drafts/
 
-# Percorso locale di Google Drive per lo script di sync dei Markdown.
-.sync_drive_path
+# Destinazione locale del backup completo (scripts/backup_to_volume.sh).
+.backup_path
