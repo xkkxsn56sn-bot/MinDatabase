@@ -885,3 +885,173 @@ html[data-theme="dark"] .entry__nav-btn:hover {
   opacity: 0.82;
   letter-spacing: 0.01em;
 }
+
+/* Invito all'iscrizione per chi arriva da un assistente IA
+   (_includes/ai-subscribe.html): in linea dopo il primo paragrafo, non
+   copre mai testo o immagini. */
+.ai-invite[hidden] {
+  display: none;
+}
+
+.ai-invite {
+  position: relative;
+  margin: 1.6rem 0;
+  padding: 1rem 3rem 1rem 1.1rem;
+  background-color: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--link);
+  border-radius: 6px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.entry__content .ai-invite .ai-invite__title,
+.entry__content .ai-invite .ai-invite__text,
+.entry__content .ai-invite .ai-invite__status,
+.entry__content .ai-invite .ai-invite__note {
+  margin: 0;
+  text-align: left;
+  hyphens: none;
+}
+
+.ai-invite .ai-invite__title {
+  font-weight: 700;
+  font-size: 1.12em;
+}
+
+.ai-invite .ai-invite__text {
+  margin-top: 0.2rem;
+}
+
+.ai-invite .ai-invite__form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.6rem;
+  align-items: center;
+  margin-top: 0.7rem;
+}
+
+.ai-invite .ai-invite__form[hidden] {
+  display: none;
+}
+
+.ai-invite .ai-invite__sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.ai-invite .ai-invite__honeypot {
+  display: none;
+}
+
+/* 16px nei campi: Safari su iPhone altrimenti ingrandisce la pagina. */
+.ai-invite input[type="email"] {
+  width: 100%;
+  min-height: 44px;
+  box-sizing: border-box;
+  padding: 0.6rem 0.8rem;
+  font: inherit;
+  font-size: 16px;
+  color: var(--text-main);
+  background-color: var(--bg-page);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+}
+
+.ai-invite .ai-invite__form button {
+  min-height: 44px;
+  padding: 0.6rem 1.1rem;
+  font: inherit;
+  font-weight: 700;
+  color: #fff;
+  background-color: var(--link);
+  border: 1px solid var(--link);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.ai-invite .ai-invite__form button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.ai-invite input[type="email"]:focus-visible,
+.ai-invite button:focus-visible,
+.ai-invite a:focus-visible {
+  outline: 2px solid var(--link-hover);
+  outline-offset: 2px;
+}
+
+.ai-invite .ai-invite__close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  font: inherit;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--text-muted);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.entry__content .ai-invite .ai-invite__status {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.entry__content .ai-invite .ai-invite__status:empty {
+  display: none;
+}
+
+.entry__content .ai-invite .ai-invite__note {
+  margin-top: 0.6rem;
+  font-size: 0.86em;
+  color: var(--text-muted);
+}
+
+html[data-theme="dark"] .ai-invite {
+  background-color: var(--bg-panel-dark);
+  border-color: var(--border-subtle-dark);
+  border-left-color: var(--link-dark);
+}
+
+html[data-theme="dark"] .ai-invite input[type="email"] {
+  color: var(--text-main-dark);
+  background-color: var(--bg-page-dark);
+  border-color: var(--border-subtle-dark);
+}
+
+html[data-theme="dark"] .ai-invite .ai-invite__form button {
+  color: #111;
+  background-color: var(--link-dark);
+  border-color: var(--link-dark);
+}
+
+html[data-theme="dark"] .ai-invite .ai-invite__close,
+html[data-theme="dark"] .entry__content .ai-invite .ai-invite__note {
+  color: var(--text-muted-dark);
+}
+
+@media (max-width: 480px) {
+  .ai-invite {
+    padding-right: 2.8rem;
+  }
+
+  .ai-invite .ai-invite__form {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-invite .ai-invite__form button {
+    width: 100%;
+  }
+}

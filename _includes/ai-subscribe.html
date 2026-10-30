@@ -1,0 +1,189 @@
+{%- comment -%}
+  Invito all'iscrizione per chi arriva da un assistente IA. Incluso solo dai
+  layout delle schede (entry, papers-entry); i due elenchi qui sotto sono
+  l'unico punto da aggiornare. Il riquadro nasce nascosto e compare solo se il
+  riconoscimento lato browser lo decide. Il modulo e' lo stesso della home
+  (Formspree xvkpkgdr, campo esca _gotcha, stessa informativa), inviato con
+  fetch alla stessa destinazione; senza JavaScript il riquadro resta nascosto.
+{%- endcomment -%}
+<aside
+  class="ai-invite"
+  id="ai-invite"
+  aria-labelledby="ai-invite-title"
+  hidden
+>
+  <button
+    type="button"
+    class="ai-invite__close"
+    id="ai-invite-close"
+    aria-label="Close this invitation"
+  >
+    &times;
+  </button>
+  <p class="ai-invite__title" id="ai-invite-title">
+    Found this entry through an AI assistant?
+  </p>
+  <p class="ai-invite__text">
+    The full entry, with its sources and images, is here. Receive new entries
+    by email:
+  </p>
+  <form
+    class="ai-invite__form"
+    id="ai-invite-form"
+    action="https://formspree.io/f/xvkpkgdr"
+    method="POST"
+  >
+    <label class="ai-invite__sr" for="ai-invite-email">Email address</label>
+    <input
+      type="email"
+      id="ai-invite-email"
+      name="email"
+      placeholder="your@email.com"
+      autocomplete="email"
+      required
+    />
+    <button type="submit">Subscribe</button>
+    <div class="ai-invite__honeypot" aria-hidden="true">
+      <label for="ai-invite-gotcha">Leave this field empty</label>
+      <input
+        type="text"
+        id="ai-invite-gotcha"
+        name="_gotcha"
+        tabindex="-1"
+        autocomplete="off"
+      />
+    </div>
+  </form>
+  <p class="ai-invite__status" id="ai-invite-status" role="status"></p>
+  <p class="ai-invite__note">
+    The address is used for these notices only, is never shared, and can be
+    removed at any time by writing to
+    <a href="mailto:contact@medievalvisions.com">contact@medievalvisions.com</a>.
+  </p>
+</aside>
+<script>
+  (function () {
+    // Provenienza da riconoscere: aggiornare solo queste due liste.
+    var AI_REFERRER_HOSTS = [
+      "chatgpt.com",
+      "chat.openai.com",
+      "perplexity.ai",
+      "claude.ai",
+      "gemini.google.com",
+      "copilot.microsoft.com",
+      "you.com",
+      "phind.com",
+    ];
+    var AI_UTM_SOURCES = ["chatgpt.com", "perplexity", "claude", "gemini", "copilot"];
+    var STORAGE_KEY = "mv-ai-invite";
+    var FORM_ENDPOINT = "https://formspree.io/f/xvkpkgdr";
+
+    var box = document.getElementById("ai-invite");
+    if (!box) return;
+
+    function fromAssistant() {
+      var params;
+      try {
+        params = new URLSearchParams(window.location.search);
+      } catch (e) {
+        params = null;
+      }
+      var utm = params ? (params.get("utm_source") || "").toLowerCase() : "";
+      if (utm === "newsletter") return false;
+      if (utm && AI_UTM_SOURCES.indexOf(utm) !== -1) return true;
+      try {
+        if (!document.referrer) return false;
+        var host = new URL(document.referrer).hostname.toLowerCase();
+        for (var i = 0; i < AI_REFERRER_HOSTS.length; i++) {
+          var h = AI_REFERRER_HOSTS[i];
+          if (host === h || host === "www." + h) return true;
+        }
+      } catch (e) {}
+      return false;
+    }
+
+    function alreadyHandled() {
+      try {
+        return window.localStorage.getItem(STORAGE_KEY) !== null;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    function remember(state) {
+      try {
+        window.localStorage.setItem(STORAGE_KEY, state);
+      } catch (e) {}
+    }
+
+    // Misura anonima: solo il nome dell'evento, nessun dato personale.
+    function count(name) {
+      var tries = 0;
+      (function send() {
+        if (window.goatcounter && typeof window.goatcounter.count === "function") {
+          window.goatcounter.count({ path: name, title: name, event: true });
+        } else if (++tries < 25) {
+          setTimeout(send, 200);
+        }
+      })();
+    }
+
+    if (!fromAssistant() || alreadyHandled()) return;
+
+    var content = document.querySelector(".entry__content");
+    if (!content) return;
+    var firstParagraph = content.querySelector(":scope > p");
+    if (firstParagraph) {
+      firstParagraph.parentNode.insertBefore(box, firstParagraph.nextSibling);
+    } else {
+      content.insertBefore(box, content.firstChild);
+    }
+    box.hidden = false;
+    count("ai-invite-shown");
+
+    function close() {
+      box.hidden = true;
+      remember("closed");
+      count("ai-invite-closed");
+      if (firstParagraph) {
+        firstParagraph.setAttribute("tabindex", "-1");
+        firstParagraph.focus({ preventScroll: true });
+      }
+    }
+
+    document.getElementById("ai-invite-close").addEventListener("click", close);
+    box.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") close();
+    });
+
+    var form = document.getElementById("ai-invite-form");
+    var status = document.getElementById("ai-invite-status");
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      if (!window.fetch || !window.FormData) {
+        form.submit();
+        return;
+      }
+      status.textContent = "";
+      var button = form.querySelector('button[type="submit"]');
+      button.disabled = true;
+      fetch(FORM_ENDPOINT, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" },
+      })
+        .then(function (response) {
+          if (!response.ok) throw new Error("rejected");
+          remember("subscribed");
+          count("ai-invite-subscribed");
+          form.hidden = true;
+          status.textContent = "Thank you — your address has been recorded.";
+        })
+        .catch(function () {
+          button.disabled = false;
+          status.textContent =
+            "The address could not be sent. Please check it and try again.";
+        });
+    });
+  })();
+</script>
