@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-30T17:19:24+00:00",
+  "updated_at": "2026-10-31T10:21:43+00:00",
   "notices": [
+    {
+      "title": "Andrea di Nerio",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Andrea-di-Nerio.md",
+      "page_url": "/Content/Artists/XIV-c/Andrea-di-Nerio.html",
+      "change_type": "created",
+      "pushed_at": "2026-10-31T11:18:06+01:00"
+    },
     {
       "title": "Tino di Camaino",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
       "change_type": "modified",
       "pushed_at": "2026-10-29T10:52:13+01:00"
-    },
-    {
-      "title": "Camaino di Crescentino",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Camaino-di-Crescentino.md",
-      "page_url": "/Content/Artists/XIV-c/Camaino-di-Crescentino.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-27T12:54:32+01:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Tino di Camaino",
+      "title": "Andrea di Nerio",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Tino-di-Camaino.md",
-      "page_url": "/Content/Artists/XIV-c/Tino-di-Camaino.html",
+      "path": "Content/Artists/XIV-c/Andrea-di-Nerio.md",
+      "page_url": "/Content/Artists/XIV-c/Andrea-di-Nerio.html",
       "change_type": "created",
-      "pushed_at": "2026-10-30T18:15:53+01:00"
+      "pushed_at": "2026-10-31T11:18:06+01:00"
     }
   ]
 }
