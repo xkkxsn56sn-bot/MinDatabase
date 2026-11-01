@@ -607,7 +607,7 @@ Two features distinguish this panel within the cycle:
 
 2. The composition is additive rather than dramatic: unlike the *Massacre*, which refuses a focal point in order to represent chaos, this panel refuses one in order to represent multitude. There is no protagonist and no incident; the interest is distributed evenly across the surface. The risk of monotony is real, and it is averted solely by the variety of the heads. Whether the panel succeeds is a legitimate critical question, and the entry may pose it.
 
-The Siena pulpit was executed by Nicola with the collaboration of his young son Giovanni, the young Arnolfo di Cambio, Goro, and the brothers Lapo and Donato di Ricevuto. The pulpit was for a long period attributed to Giovanni himself; recent documentary discoveries have established Nicola's authorship.
+The Siena pulpit was executed by Nicola with the collaboration of his young son Giovanni, the young Arnolfo di Cambio, [Goro](/Content/Artists/XIV-c/Goro-di-Gregorio.html), and the brothers Lapo and Donato di Ricevuto. The pulpit was for a long period attributed to Giovanni himself; recent documentary discoveries have established Nicola's authorship.
 
 Some scholarship detects Giovanni's style explicitly in the *Last Judgement*. Given that the Judgement occupies two panels, the entry should establish which of them is meant before repeating the claim. The general caution applies throughout: pupils executed particular figures to Nicola's overall design, probably fixed beforehand in drawings and cartoons, and their work was reabsorbed into the whole by the master's finishing interventions, so that drapery and faces on the same figure may belong to different hands.
 

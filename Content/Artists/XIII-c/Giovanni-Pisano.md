@@ -218,7 +218,7 @@ The document is unusually specific about labour. Nicola had until November of th
 
 That last circumstance deserves emphasis. The Siena commission was signed in the presence of its own prototype, with the explicit intention of surpassing it. The competitive relation between the two pulpits is not a modern art-historical construction; it was written into the transaction.
 
-The pulpit is an octagonal structure with seven narrative panels and nine columns, carved in Carrara marble, executed between the autumn of 1265 and the autumn of 1268. The documentation permits attribution to Nicola and his young assistants — his son Giovanni, Arnolfo di Cambio, Goro, Lapo, and Donato.
+The pulpit is an octagonal structure with seven narrative panels and nine columns, carved in Carrara marble, executed between the autumn of 1265 and the autumn of 1268. The documentation permits attribution to Nicola and his young assistants — his son Giovanni, Arnolfo di Cambio, [Goro](/Content/Artists/XIV-c/Goro-di-Gregorio.html), Lapo, and Donato.
 
 Nicola's great pulpit for the Pisa Baptistery, completed in 1259–60 and carved almost entirely by his own hand, was finished when Giovanni was a boy, and it is unlikely to have offered him more than the menial workshop tasks of polishing.
 
