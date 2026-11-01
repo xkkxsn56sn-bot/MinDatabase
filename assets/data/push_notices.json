@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-31T10:21:43+00:00",
+  "updated_at": "2026-11-01T17:59:40+00:00",
   "notices": [
+    {
+      "title": "Goro di Gregorio",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Goro-di-Gregorio.md",
+      "page_url": "/Content/Artists/XIV-c/Goro-di-Gregorio.html",
+      "change_type": "created",
+      "pushed_at": "2026-11-01T18:57:17+01:00"
+    },
     {
       "title": "Andrea di Nerio",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Tino-di-Camaino.html",
       "change_type": "created",
       "pushed_at": "2026-10-30T18:15:53+01:00"
-    },
-    {
-      "title": "Francescuccio Ghissi",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Francescuccio-Ghissi.md",
-      "page_url": "/Content/Artists/XIV-c/Francescuccio-Ghissi.html",
-      "change_type": "modified",
-      "pushed_at": "2026-10-29T10:52:13+01:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Andrea di Nerio",
+      "title": "Goro di Gregorio",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Andrea-di-Nerio.md",
-      "page_url": "/Content/Artists/XIV-c/Andrea-di-Nerio.html",
+      "path": "Content/Artists/XIV-c/Goro-di-Gregorio.md",
+      "page_url": "/Content/Artists/XIV-c/Goro-di-Gregorio.html",
       "change_type": "created",
-      "pushed_at": "2026-10-31T11:18:06+01:00"
+      "pushed_at": "2026-11-01T18:57:17+01:00"
     }
   ]
 }
