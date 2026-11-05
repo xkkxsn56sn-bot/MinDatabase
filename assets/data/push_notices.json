@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-03T17:03:41+00:00",
+  "updated_at": "2026-11-05T09:56:11+00:00",
   "notices": [
+    {
+      "title": "Dalmasio degli Scannabecchi",
+      "section": "Artists",
+      "path": "Content/Artists/XIV-c/Dalmasio-degli-Scannabecchi.md",
+      "page_url": "/Content/Artists/XIV-c/Dalmasio-degli-Scannabecchi.html",
+      "change_type": "modified",
+      "pushed_at": "2026-11-05T10:54:51+01:00"
+    },
     {
       "title": "Vitale da Bologna",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIV-c/Goro-di-Gregorio.html",
       "change_type": "created",
       "pushed_at": "2026-11-01T18:57:17+01:00"
-    },
-    {
-      "title": "Andrea di Nerio",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Andrea-di-Nerio.md",
-      "page_url": "/Content/Artists/XIV-c/Andrea-di-Nerio.html",
-      "change_type": "created",
-      "pushed_at": "2026-10-31T11:18:06+01:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Vitale da Bologna",
+      "title": "Dalmasio degli Scannabecchi",
       "section": "Artists",
-      "path": "Content/Artists/XIV-c/Vitale-da-Bologna.md",
-      "page_url": "/Content/Artists/XIV-c/Vitale-da-Bologna.html",
+      "path": "Content/Artists/XIV-c/Dalmasio-degli-Scannabecchi.md",
+      "page_url": "/Content/Artists/XIV-c/Dalmasio-degli-Scannabecchi.html",
       "change_type": "modified",
-      "pushed_at": "2026-11-03T17:54:00+01:00"
+      "pushed_at": "2026-11-05T10:54:51+01:00"
     }
   ]
 }
