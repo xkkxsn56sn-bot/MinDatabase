@@ -1,0 +1,239 @@
+{%- comment -%}
+  image-zoom.html — click an image in a scheda to open it full screen and
+  zoom up to twice the natural size of the file (200%), with pan.
+  Mouse wheel / trackpad pinch (Safari gesture events too), drag to pan,
+  double-click or double-tap to toggle fit / maximum, two-finger pinch on touch
+  screens, keys + - 0, arrows to pan, Esc to close.
+  Optional: data-zoom-src="/Images/.../file-large.jpg" on an <img> makes the
+  viewer load a larger file than the one shown in the page.
+  Self-contained: no external libraries, no cookies, no network calls.
+{%- endcomment -%}
+<style>
+  .entry__content figure img,
+  .entry__content p > img { cursor: zoom-in; }
+  .iz-overlay {
+    position: fixed; inset: 0; z-index: 10000;
+    display: none; flex-direction: column;
+    background: rgba(12, 11, 10, 0.97); color: #e6e0d4;
+    font-family: inherit;
+  }
+  .iz-overlay.iz-open { display: flex; }
+  .iz-stage {
+    position: relative; flex: 1 1 auto; overflow: hidden;
+    touch-action: none; cursor: grab; user-select: none; -webkit-user-select: none;
+  }
+  .iz-stage.iz-dragging { cursor: grabbing; }
+  .iz-stage img {
+    position: absolute; top: 0; left: 0; max-width: none; max-height: none;
+    transform-origin: 0 0; will-change: transform;
+    -webkit-user-drag: none; user-select: none; pointer-events: none;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  }
+  .iz-stage img.iz-anim { transition: transform 0.18s ease-out; }
+  @media (prefers-reduced-motion: reduce) { .iz-stage img.iz-anim { transition: none; } }
+  .iz-bar {
+    flex: 0 0 auto; display: flex; align-items: center; gap: 0.5rem;
+    padding: 0.5rem 0.75rem; padding-bottom: calc(0.5rem + env(safe-area-inset-bottom));
+    background: rgba(0, 0, 0, 0.55); font-size: 0.85rem;
+  }
+  .iz-caption {
+    flex: 1 1 auto; min-width: 0; font-style: italic; line-height: 1.35;
+    max-height: 3.9em; overflow-y: auto; overflow-wrap: anywhere;
+  }
+  .iz-btn {
+    flex: 0 0 auto; min-width: 2.75rem; height: 2.75rem; padding: 0 0.6rem;
+    border: 1px solid #5a554c; border-radius: 6px; background: #1d1b18;
+    color: #e6e0d4; font: inherit; font-size: 1.05rem; cursor: pointer;
+  }
+  .iz-btn:hover, .iz-btn:focus-visible { border-color: #c9a961; color: #e8c87a; outline: none; }
+  .iz-level { flex: 0 0 auto; min-width: 3.2rem; text-align: center; font-variant-numeric: tabular-nums; }
+  @media (max-width: 600px) {
+    .iz-bar { flex-wrap: wrap; }
+    .iz-caption { flex-basis: 100%; order: 2; max-height: 2.7em; }
+  }
+</style>
+
+<div class="iz-overlay" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
+  <div class="iz-stage"><img alt="" /></div>
+  <div class="iz-bar">
+    <div class="iz-caption"></div>
+    <button type="button" class="iz-btn" data-iz="out" aria-label="Zoom out">−</button>
+    <span class="iz-level" aria-live="polite">100%</span>
+    <button type="button" class="iz-btn" data-iz="in" aria-label="Zoom in">+</button>
+    <button type="button" class="iz-btn" data-iz="reset" aria-label="Fit to screen">⤢</button>
+    <button type="button" class="iz-btn" data-iz="close" aria-label="Close">✕</button>
+  </div>
+</div>
+
+<script>
+(function () {
+  // Zoom is limited by the real pixels of the file: at most MAXN times its
+  // natural size. The image opens at the size that fits the screen, but
+  // never larger than its natural size.
+  var MAXN = 2, STEP = 1.5, MAX = 2, k = 1;
+  var overlay = document.querySelector(".iz-overlay");
+  var content = document.querySelector(".entry__content");
+  if (!overlay || !content) return;
+  var stage = overlay.querySelector(".iz-stage");
+  var img = stage.querySelector("img");
+  var cap = overlay.querySelector(".iz-caption");
+  var level = overlay.querySelector(".iz-level");
+
+  var fw = 0, fh = 0, W = 0, H = 0, s = 1, x = 0, y = 0, opener = null;
+
+  function layout() {
+    W = stage.clientWidth; H = stage.clientHeight;
+    var nw = img.naturalWidth || 1, nh = img.naturalHeight || 1;
+    k = Math.min(1, (W - 24) / nw, (H - 24) / nh);
+    fw = nw * k; fh = nh * k;
+    MAX = Math.max(1, MAXN / k);
+    img.style.width = fw + "px"; img.style.height = fh + "px";
+  }
+  function clamp() {
+    var dw = fw * s, dh = fh * s;
+    x = dw <= W ? (W - dw) / 2 : Math.min(0, Math.max(W - dw, x));
+    y = dh <= H ? (H - dh) / 2 : Math.min(0, Math.max(H - dh, y));
+  }
+  function render(anim) {
+    clamp();
+    img.classList.toggle("iz-anim", !!anim);
+    img.style.transform = "translate(" + x + "px," + y + "px) scale(" + s + ")";
+    level.textContent = Math.round(s * k * 100) + "%";
+  }
+  function zoomAt(ns, px, py, anim) {
+    ns = Math.max(1, Math.min(MAX, ns));
+    x = px - (px - x) * (ns / s);
+    y = py - (py - y) * (ns / s);
+    s = ns; render(anim);
+  }
+  function center() { return [W / 2, H / 2]; }
+  function fit(anim) { s = 1; x = 0; y = 0; render(anim); }
+
+  function open(src, alt, caption, from) {
+    opener = from;
+    overlay.hidden = false; overlay.classList.add("iz-open");
+    document.documentElement.style.overflow = "hidden";
+    img.alt = alt || ""; cap.textContent = caption || "";
+    var ready = function () { layout(); fit(false); };
+    img.onload = ready; img.src = src;
+    if (img.complete && img.naturalWidth) ready();
+    overlay.querySelector('[data-iz="close"]').focus();
+  }
+  function close() {
+    overlay.classList.remove("iz-open"); overlay.hidden = true;
+    document.documentElement.style.overflow = "";
+    img.removeAttribute("src");
+    if (opener) opener.focus();
+  }
+
+  // Open: images in figures and stand-alone images in paragraphs, not inside links
+  content.addEventListener("click", function (e) {
+    var t = e.target;
+    if (t.tagName !== "IMG" || t.closest("a")) return;
+    if (!t.closest("figure") && !(t.parentElement && t.parentElement.tagName === "P")) return;
+    var fig = t.closest("figure");
+    var fc = fig && fig.querySelector("figcaption");
+    // data-zoom-src: optional larger file to show in the viewer
+    open(t.getAttribute("data-zoom-src") || t.currentSrc || t.src, t.alt, fc ? fc.textContent.trim() : "", t);
+  });
+  // Keyboard access to the images in the page
+  content.querySelectorAll("figure img, p > img").forEach(function (im) {
+    if (im.closest("a")) return;
+    im.tabIndex = 0; im.setAttribute("role", "button");
+    im.setAttribute("aria-label", "Enlarge image" + (im.alt ? ": " + im.alt.slice(0, 80) : ""));
+    im.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); im.click(); }
+    });
+  });
+
+  overlay.addEventListener("click", function (e) {
+    var b = e.target.closest("[data-iz]"); if (!b) return;
+    var c = center(), a = b.getAttribute("data-iz");
+    if (a === "in") zoomAt(s * STEP, c[0], c[1], true);
+    else if (a === "out") zoomAt(s / STEP, c[0], c[1], true);
+    else if (a === "reset") fit(true);
+    else if (a === "close") close();
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (overlay.hidden) return;
+    var c = center(), d = 60;
+    switch (e.key) {
+      case "Escape": close(); break;
+      case "+": case "=": zoomAt(s * STEP, c[0], c[1], true); break;
+      case "-": case "_": zoomAt(s / STEP, c[0], c[1], true); break;
+      case "0": fit(true); break;
+      case "ArrowLeft": x += d; render(true); break;
+      case "ArrowRight": x -= d; render(true); break;
+      case "ArrowUp": y += d; render(true); break;
+      case "ArrowDown": y -= d; render(true); break;
+      case "Tab":
+        var f = overlay.querySelectorAll(".iz-btn"), first = f[0], last = f[f.length - 1];
+        if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+        return;
+      default: return;
+    }
+    e.preventDefault();
+  });
+
+  function local(e) { var r = stage.getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; }
+
+  // Wheel and trackpad pinch (Chrome/Firefox send ctrl+wheel for pinch)
+  stage.addEventListener("wheel", function (e) {
+    e.preventDefault();
+    var p = local(e);
+    if (e.ctrlKey || Math.abs(e.deltaY) >= Math.abs(e.deltaX)) {
+      var f = Math.exp(-e.deltaY * (e.ctrlKey ? 0.01 : 0.002));
+      zoomAt(s * f, p[0], p[1], false);
+    } else { x -= e.deltaX; render(false); }
+  }, { passive: false });
+
+  // Safari desktop trackpad pinch
+  var gStart = 1, gp = null;
+  stage.addEventListener("gesturestart", function (e) { e.preventDefault(); gStart = s; gp = local(e); });
+  stage.addEventListener("gesturechange", function (e) { e.preventDefault(); if (gp) zoomAt(gStart * e.scale, gp[0], gp[1], false); });
+  stage.addEventListener("gestureend", function (e) { e.preventDefault(); gp = null; });
+
+  // Pointer: drag to pan, two-finger pinch, double-tap
+  var pts = new Map(), pinch = null, lastTap = 0;
+  stage.addEventListener("pointerdown", function (e) {
+    stage.setPointerCapture(e.pointerId);
+    pts.set(e.pointerId, local(e));
+    if (pts.size === 2) {
+      var v = Array.from(pts.values());
+      pinch = { d: Math.hypot(v[0][0] - v[1][0], v[0][1] - v[1][1]), s: s };
+    } else if (pts.size === 1) {
+      stage.classList.add("iz-dragging");
+      var now = Date.now(), p = local(e);
+      if (now - lastTap < 300) { zoomAt(s > 1.01 ? 1 : MAX, p[0], p[1], true); lastTap = 0; }
+      else lastTap = now;
+    }
+  });
+  stage.addEventListener("pointermove", function (e) {
+    if (!pts.has(e.pointerId)) return;
+    var prev = pts.get(e.pointerId), p = local(e);
+    pts.set(e.pointerId, p);
+    if (pts.size === 2 && pinch) {
+      var v = Array.from(pts.values());
+      var d = Math.hypot(v[0][0] - v[1][0], v[0][1] - v[1][1]);
+      var mx = (v[0][0] + v[1][0]) / 2, my = (v[0][1] + v[1][1]) / 2;
+      zoomAt(pinch.s * d / pinch.d, mx, my, false);
+    } else if (pts.size === 1) {
+      x += p[0] - prev[0]; y += p[1] - prev[1]; render(false);
+    }
+  });
+  function up(e) {
+    pts.delete(e.pointerId);
+    if (pts.size < 2) pinch = null;
+    if (pts.size === 0) stage.classList.remove("iz-dragging");
+  }
+  stage.addEventListener("pointerup", up);
+  stage.addEventListener("pointercancel", up);
+
+  window.addEventListener("resize", function () {
+    if (overlay.hidden) return;
+    var rs = s; layout(); s = rs; render(false);
+  });
+})();
+</script>
