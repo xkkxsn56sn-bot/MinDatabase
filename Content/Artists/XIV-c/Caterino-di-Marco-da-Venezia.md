@@ -475,7 +475,7 @@ Condition limits what can be concluded. The red ground is abraded throughout, th
 ### Madonna of Humility, Cleveland
 
 <figure>
-  <img src="/Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-07.jpg" alt="Gold-ground panel under a round gilded arch with carved foliage in the corners. The Virgin, in a blue mantle with large gold motifs and a green lining over a pink dress, sits low on a broad red ground and nurses the Child, who wears a red tunic patterned in gold. A small gold sun with rays shines on her breast and a gold star on her shoulder, faint gold rays spread around her, and a Latin inscription naming the Madonna of Humility runs along the bottom">
+  <img src="/Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-07.jpg" data-zoom-src="/Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-07-zoom.jpg" alt="Gold-ground panel under a round gilded arch with carved foliage in the corners. The Virgin, in a blue mantle with large gold motifs and a green lining over a pink dress, sits low on a broad red ground and nurses the Child, who wears a red tunic patterned in gold. A small gold sun with rays shines on her breast and a gold star on her shoulder, faint gold rays spread around her, and a Latin inscription naming the Madonna of Humility runs along the bottom">
   <figcaption>Catarino di Marco (attr.), Madonna of Humility, late 1370s, tempera and gold on panel, 79.6 × 54.6 cm (91.5 × 70 × 4 cm framed), Cleveland, The Cleveland Museum of Art, inv. 1963.500, gift of Dr. Rudolf J. Heinemann.</figcaption>
 </figure>
 

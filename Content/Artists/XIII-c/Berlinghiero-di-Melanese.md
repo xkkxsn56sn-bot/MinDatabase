@@ -259,7 +259,7 @@ The Madonna di sotto gli organi shows, almost uniquely, how a medieval panel cou
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04.jpg" alt="Gold-ground panel with the half-length Virgin in a deep blue mantle edged in orange and marked with gold stars. Her long, narrow face with almond eyes looks out sideways with a melancholy expression. She points with long fingers of her right hand towards the Christ Child, who sits on her left arm in an orange robe hatched with gold, holding a red scroll and raising his right hand in blessing. Red Greek monograms flank the Virgin's head">
+  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04.jpg" data-zoom-src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04-zoom.jpg" alt="Gold-ground panel with the half-length Virgin in a deep blue mantle edged in orange and marked with gold stars. Her long, narrow face with almond eyes looks out sideways with a melancholy expression. She points with long fingers of her right hand towards the Christ Child, who sits on her left arm in an orange robe hatched with gold, holding a red scroll and raising his right hand in blessing. Red Greek monograms flank the Virgin's head">
   <figcaption>Madonna and Child, possibly 1230s. Tempera on wood, gold ground; overall 80.3 × 53.7 cm, painted surface 76.2 × 49.5 cm. New York, The Metropolitan Museum of Art, Gift of Irma N. Straus, 1960 (60.173).</figcaption>
 </figure>
 
@@ -298,7 +298,7 @@ The workshop did not produce only monumental crosses and large icons. The most i
 ### Virgin and Child with Saints (triptych)
 
 <figure>
-  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-05.jpg" alt="Small open triptych on gold ground. In the centre the Virgin, in a dark blue mantle, holds the Christ Child, who embraces her with his cheek pressed to hers, while two angels fly in the upper corners. The left wing shows the Crucifixion of Saint Andrew above Saints Francis and Paul; the right wing shows Christ in a mandorla with the instruments of the Passion above the deacon saints Stephen and Lawrence">
+  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-05.jpg" data-zoom-src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-05-zoom.jpg" alt="Small open triptych on gold ground. In the centre the Virgin, in a dark blue mantle, holds the Christ Child, who embraces her with his cheek pressed to hers, while two angels fly in the upper corners. The left wing shows the Crucifixion of Saint Andrew above Saints Francis and Paul; the right wing shows Christ in a mandorla with the instruments of the Passion above the deacon saints Stephen and Lawrence">
   <figcaption>Virgin and Child with Saints, triptych (tabernacle), c. 1230s. Tempera and gold on poplar panel; overall 42.6 × 51.5 cm (centre 42.8 × 27 cm; left wing 42.5 × 12.5 cm; right wing 42.4 × 12 cm). Cleveland, The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1966.237.</figcaption>
 </figure>
 

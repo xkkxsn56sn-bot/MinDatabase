@@ -1157,7 +1157,7 @@ In the reconstruction of the early career, the Ognissanti Madonna closes the arc
 ### Madonna and Child (National Gallery of Art, Washington)
 
 <figure>
-  <img src="/Images/Giotto/giotto-02.jpg" alt="Panel painting by Giotto on gold ground showing the Virgin in half length within an arched frame, wearing a deep blue mantle edged in gold over a green-lined veil, her head inclined; the Christ Child sits on her left arm in a white cloth, reaching with one hand for the white rose she holds up, while his other hand rests on the white cloth about his hips. Both haloes are tooled in the gold">
+  <img src="/Images/Giotto/giotto-02.jpg" data-zoom-src="/Images/Giotto/giotto-02-zoom.jpg" alt="Panel painting by Giotto on gold ground showing the Virgin in half length within an arched frame, wearing a deep blue mantle edged in gold over a green-lined veil, her head inclined; the Christ Child sits on her left arm in a white cloth, reaching with one hand for the white rose she holds up, while his other hand rests on the white cloth about his hips. Both haloes are tooled in the gold">
   <figcaption>Madonna and Child, c. 1320. Tempera and gold on panel, 85.5 × 62 cm. Washington, National Gallery of Art, Samuel H. Kress Collection. Centre panel of a dispersed polyptych.</figcaption>
 </figure>
 

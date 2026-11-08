@@ -461,7 +461,7 @@ On its resolution hangs more than a single panel, for the Saint Peter is the hin
 ### Madonna and Child
 
 <figure>
-  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10.jpg" alt="Gabled panel: half-length Virgin in a dark blue-green mantle with a gold star at the brow, holding the Christ Child in a pale translucent tunic who twists upward reaching for her mantle, two small inscribed plaques in the gold ground beside her head">
+  <img src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10.jpg" data-zoom-src="/Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10-zoom.jpg" alt="Gabled panel: half-length Virgin in a dark blue-green mantle with a gold star at the brow, holding the Christ Child in a pale translucent tunic who twists upward reaching for her mantle, two small inscribed plaques in the gold ground beside her head">
   <figcaption>Madonna and Child, c. 1290–1295 (Getty Museum dating; recent criticism proposes c. 1300 or later), tempera and gold leaf on panel, 85 × 66 cm, Los Angeles, J. Paul Getty Museum, acc. no. 2000.35, formerly Contini Bonacossi collection.</figcaption>
 </figure>
 

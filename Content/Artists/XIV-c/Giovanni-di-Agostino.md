@@ -803,7 +803,7 @@ The second is a "Madonna del Latte" attributed to Giovanni. No documented or bro
 ## The Cleveland Relief and the Problem of Father and Son
 
 <figure>
-  <img src="/Images/Giovanni-di-Agostino/giovanni-di-agostino-01.jpg" alt="Openwork marble relief attributed to Giovanni di Agostino: the Madonna and Child enthroned beneath pierced Gothic canopies, between Saint Catherine holding a book and Saint John the Baptist with his scroll, c. 1340–50, Cleveland Museum of Art">
+  <img src="/Images/Giovanni-di-Agostino/giovanni-di-agostino-01.jpg" data-zoom-src="/Images/Giovanni-di-Agostino/giovanni-di-agostino-01-zoom.jpg" alt="Openwork marble relief attributed to Giovanni di Agostino: the Madonna and Child enthroned beneath pierced Gothic canopies, between Saint Catherine holding a book and Saint John the Baptist with his scroll, c. 1340–50, Cleveland Museum of Art">
   <figcaption>Giovanni di Agostino (attr.) (per Kreytenberg, Agostino di Giovanni), Madonna and Child enthroned between Saints Catherine and John the Baptist, 1340–50, marble with traces of polychromy and gilding, 70.5 × 52.5 × 5.9 cm, Cleveland, The Cleveland Museum of Art, inv. 1942.1162 (in memory of Henry G. Dalton by his nephews, George S. Kendrick and Harry D. Kendrick).</figcaption>
 </figure>
 
