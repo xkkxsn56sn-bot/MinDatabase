@@ -562,7 +562,9 @@ def check_anchor_links(md_files, ids_by_file, anomalies):
 # fallisce su GitHub Pages, che gira su Linux. Path.exists() riprodurrebbe il
 # comportamento della macchina su cui gira; qui si confronta invece il nome
 # esatto contro il contenuto reale della cartella.
-IMG_REF_RE = re.compile(r'(?:src|href)="(/?Images/[^"]+)"')
+# Il lookbehind esclude 'data-zoom-src': i file di zoom hanno il loro controllo
+# (check 9b) e non devono comparire due volte nel rapporto.
+IMG_REF_RE = re.compile(r'(?<![\w-])(?:src|href)="(/?Images/[^"]+)"')
 
 
 def resolve_case_sensitive(rel_path):
@@ -624,6 +626,73 @@ def check_image_references(md_files, anomalies):
                 )
             else:
                 anomalies["Immagine inesistente"].append(f"{rel_src}: '{ref}'")
+
+
+# --- Check 9b: i file di zoom ad alta risoluzione -----------------------
+# Un <img> puo' portare data-zoom-src="/Images/<cartella>/<slug>-NN-zoom.jpg":
+# e' il file piu' grande che il visualizzatore carica al posto di quello
+# mostrato nella pagina. Il contratto: (1) il file esiste, maiuscole incluse;
+# (2) il nome e' <slug>-NN-zoom.jpg; (3) la base <slug>-NN.jpg esiste nella
+# stessa cartella ed e' usata come src dalla stessa scheda; (4) ogni *-zoom.jpg
+# in Images/ e' referenziato da almeno un data-zoom-src (altrimenti e' un
+# orfano: peso morto nel repository).
+ZOOM_REF_RE = re.compile(r'\bdata-zoom-src="([^"]+)"')
+ZOOM_NAME_RE = re.compile(r"^(?P<base>.+-\d{2,})-zoom\.jpg$")
+
+
+def zoom_ref_problems(text, exists):
+    """Anomalie dei data-zoom-src di una scheda: [(categoria, dettaglio)].
+
+    `exists(rel_path)` dice se il file c'e' con le maiuscole esatte; si passa
+    dall'esterno perche' la batteria di test lo sostituisce con un insieme.
+    """
+    out = []
+    src_refs = {urllib.parse.unquote(r).lstrip("/") for r in IMG_REF_RE.findall(text)}
+    for ref in sorted(set(ZOOM_REF_RE.findall(text))):
+        rel = urllib.parse.unquote(ref).lstrip("/")
+        if not exists(rel):
+            out.append(("data-zoom-src inesistente", f"'{ref}'"))
+        path = Path(rel)
+        m = ZOOM_NAME_RE.match(path.name)
+        if not m:
+            out.append(("File zoom fuori convenzione",
+                        f"'{ref}' -> atteso <slug>-NN-zoom.jpg"))
+            continue
+        base = str(path.parent / (m.group("base") + ".jpg"))
+        if not exists(base):
+            out.append(("Base del file zoom mancante", f"'{ref}' -> manca '{base}'"))
+        elif base not in src_refs:
+            out.append(("Base del file zoom non usata dalla scheda",
+                        f"'{ref}' -> la scheda non usa '{base}' come src"))
+    return out
+
+
+def zoom_orphans(referenced, on_disk):
+    """File *-zoom.jpg su disco non referenziati da nessun data-zoom-src."""
+    return sorted(set(on_disk) - set(referenced))
+
+
+def check_zoom_files(md_files, anomalies):
+    referenced = set()
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+        rel_src = str(md_path.relative_to(REPO_ROOT))
+        for category, detail in zoom_ref_problems(text, resolve_case_sensitive):
+            anomalies[category].append(f"{rel_src}: {detail}")
+        referenced.update(
+            urllib.parse.unquote(r).lstrip("/") for r in ZOOM_REF_RE.findall(text))
+
+    on_disk = []
+    for dirpath, _, names in os.walk(REPO_ROOT / "Images"):
+        for name in names:
+            if name.endswith("-zoom.jpg"):
+                on_disk.append(str((Path(dirpath) / name).relative_to(REPO_ROOT)))
+    for orphan in zoom_orphans(referenced, on_disk):
+        anomalies["File zoom orfano"].append(orphan)
+
 
 # --- Check 12: i nomi delle immagini dei codici ---------------------------
 # Le immagini di Content/Codex/ si nominano per foglio, ricavando il nome dalla
@@ -1041,6 +1110,7 @@ def main():
     ids_by_file = load_anchor_ids(anomalies)
     check_anchor_links(all_md + root_md, ids_by_file, anomalies)
     check_image_references(all_md + root_md, anomalies)
+    check_zoom_files(all_md + root_md, anomalies)
     check_codex_image_names(all_md, anomalies)
     check_note_ordering(anomalies)
     check_scholars_ordering(anomalies)

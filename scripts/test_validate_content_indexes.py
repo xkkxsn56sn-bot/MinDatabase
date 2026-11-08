@@ -46,6 +46,9 @@ k. Check 12, i nomi delle immagini dei codici: il nome deriva dalla
    forma senza zeri e col prefisso corto che ha dato il nome alla regola;
    poi aperture, numeri romani, pagine, la larghezza a quattro cifre
    dell'Amiatinus, le etichette senza foglio e il Godescalc 07 (f. 4v).
+l. Check 9b, i file di zoom: il caso reale (Lippo fig. 06, NG752) e i
+   negativi — refuso nel percorso, maiuscole, nome fuori convenzione, base
+   mancante o non usata dalla scheda, file orfano.
 """
 import sys
 from pathlib import Path
@@ -263,6 +266,45 @@ G = "Godescalc-Evangelistary"
 check("k. Godescalc 07 corretto al f. 4v: verde", nm(G, G, "godescalc-evangelistary-f004v.jpg", "folio 4v") is None)
 check("k. Godescalc 07 col vecchio nome: rosso", nm(G, G, "godescalc-evangelistary-07.jpg", "folio 4v") is not None)
 check("k. nessun conflitto aperto", cin.OPEN_CONFLICTS == set())
+
+# --- l. i file di zoom (check 9b) ---------------------------------------
+D = "Images/Lippo-di-Dalmasio-degli-Scannabecchi/lippo-di-dalmasio-degli-scannabecchi"
+FILES = {f"{D}-06.jpg", f"{D}-06-zoom.jpg"}
+ex = FILES.__contains__
+
+
+def zc(text, files=None):
+    f = FILES if files is None else files
+    return [c for c, _ in v.zoom_ref_problems(text, f.__contains__)]
+
+
+FIG = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-zoom.jpg" alt="">'
+check("l. il caso reale (Lippo fig. 06, NG752): verde", zc(FIG) == [], str(zc(FIG)))
+check("l. scheda senza data-zoom-src: verde", zc(f'<img src="/{D}-06.jpg">') == [])
+TYPO = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-zom.jpg">'
+check("l. refuso nel percorso: rosso (inesistente)",
+      "data-zoom-src inesistente" in zc(TYPO), str(zc(TYPO)))
+CASE = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-ZOOM.jpg">'
+check("l. maiuscole sbagliate: rosso", "data-zoom-src inesistente" in zc(CASE))
+BADNAME = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-large.jpg">'
+check("l. nome fuori convenzione: rosso",
+      "File zoom fuori convenzione" in zc(BADNAME, FILES | {f"{D}-06-large.jpg"}))
+NONUM = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-zoom.jpg">'
+check("l. senza numero NN: rosso",
+      "File zoom fuori convenzione" in zc(NONUM, FILES | {f"{D}-zoom.jpg"}))
+NOBASE = f'<img src="/{D}-07.jpg" data-zoom-src="/{D}-07-zoom.jpg">'
+check("l. base mancante su disco: rosso",
+      "Base del file zoom mancante" in zc(NOBASE, FILES | {f"{D}-07-zoom.jpg"}))
+UNUSED = f'<img src="/{D}-05.jpg" data-zoom-src="/{D}-06-zoom.jpg">'
+check("l. base esistente ma non usata dalla scheda: rosso",
+      "Base del file zoom non usata dalla scheda" in zc(UNUSED))
+check("l. data-zoom-src non e' piu' letto dal check 9 (niente doppione)",
+      v.IMG_REF_RE.findall(FIG) == [f"/{D}-06.jpg"], str(v.IMG_REF_RE.findall(FIG)))
+check("l. orfano: rosso",
+      v.zoom_orphans({f"{D}-06-zoom.jpg"}, [f"{D}-06-zoom.jpg", f"{D}-09-zoom.jpg"])
+      == [f"{D}-09-zoom.jpg"])
+check("l. nessun orfano: verde",
+      v.zoom_orphans({f"{D}-06-zoom.jpg"}, [f"{D}-06-zoom.jpg"]) == [])
 
 print()
 if FAILURES:
