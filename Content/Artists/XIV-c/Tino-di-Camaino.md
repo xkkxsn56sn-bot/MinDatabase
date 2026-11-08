@@ -763,7 +763,7 @@ The smaller sculptures broaden our understanding of Tino’s emotional range. Hi
 ### A Queen before the Virgin: Sancia of Majorca in Tino di Camaino’s Washington Relief
 
 <figure>
-  <img src="/Images/Tino-di-Camaino/tino-di-camaino-23.jpg" alt="A small white marble relief with a pointed, house-shaped frame. At the centre the crowned Virgin sits on a throne, her veil falling over her shoulders. The curly-haired Christ Child stands on her left knee, holding the edge of her garment. Behind her, two angels with spread wings hold up a cloth of honour, and two more angels stand at the sides with their hands crossed on their chests. On the left, a kneeling woman in a veil raises her joined hands. The Virgin reaches down and touches her head, while a standing female saint behind her lays a hand on her shoulder. On the right stands Saint Francis in his habit, bearded and tonsured, holding a small cross and a book. The base of the throne is decorated with a row of small arches.">
+  <img src="/Images/Tino-di-Camaino/tino-di-camaino-23.jpg" data-zoom-src="/Images/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg" alt="A small white marble relief with a pointed, house-shaped frame. At the centre the crowned Virgin sits on a throne, her veil falling over her shoulders. The curly-haired Christ Child stands on her left knee, holding the edge of her garment. Behind her, two angels with spread wings hold up a cloth of honour, and two more angels stand at the sides with their hands crossed on their chests. On the left, a kneeling woman in a veil raises her joined hands. The Virgin reaches down and touches her head, while a standing female saint behind her lays a hand on her shoulder. On the right stands Saint Francis in his habit, bearded and tonsured, holding a small cross and a book. The base of the throne is decorated with a row of small arches.">
   <figcaption>Madonna and Child with Queen Sancia, Saints, and Angels, c. 1335. Marble, 51.4 × 37.8 × 5.7 cm. Washington, National Gallery of Art, Samuel H. Kress Collection, 1960.5.1.</figcaption>
 </figure>
 
@@ -856,7 +856,7 @@ The marble has a warm, honey-coloured tone, probably the result of patination or
 ### A Late Standing Madonna: Tino di Camaino’s Virgin and Child in Detroit
 
 <figure>
-  <img src="/Images/Tino-di-Camaino/tino-di-camaino-28.jpg" alt="A white marble statuette of the standing Virgin holding the Christ Child, set on a turned wooden base. The Virgin wears a pointed crown over a veil and a mantle fastened at the neck with a brooch. With her right hand she lifts the hem of her mantle, which falls in deep folds edged with a carved border. The curly-haired Child sits on her left arm, nude to the waist, and holds a bird with spread wings against his chest. He turns his head to look up at her. The marble shows warm brownish stains on the surface.">
+  <img src="/Images/Tino-di-Camaino/tino-di-camaino-28.jpg" data-zoom-src="/Images/Tino-di-Camaino/tino-di-camaino-28-zoom.jpg" alt="A white marble statuette of the standing Virgin holding the Christ Child, set on a turned wooden base. The Virgin wears a pointed crown over a veil and a mantle fastened at the neck with a brooch. With her right hand she lifts the hem of her mantle, which falls in deep folds edged with a carved border. The curly-haired Child sits on her left arm, nude to the waist, and holds a bird with spread wings against his chest. He turns his head to look up at her. The marble shows warm brownish stains on the surface.">
   <figcaption>Madonna and Child, c. 1330–1337. Marble, 48.9 × 25.1 × 14.6 cm. Detroit Institute of Arts, City of Detroit Purchase, 25.147.</figcaption>
 </figure>
 
@@ -897,7 +897,7 @@ The workshop’s significance extended beyond the master’s lifetime. When Tino
 ### Justice: A Workshop Statue and Its Modern Restorations
 
 <figure>
-  <img src="/Images/Tino-di-Camaino/tino-di-camaino-29.jpg" alt="A white marble statue of a standing young woman on a plain pedestal, wearing an open crown over short, wavy hair. She holds a sword diagonally across her chest in her right hand and, in her left, a pair of scales with two round pans. Her long gown and mantle fall in straight, heavy folds to her feet.">
+  <img src="/Images/Tino-di-Camaino/tino-di-camaino-29.jpg" data-zoom-src="/Images/Tino-di-Camaino/tino-di-camaino-29-zoom.jpg" alt="A white marble statue of a standing young woman on a plain pedestal, wearing an open crown over short, wavy hair. She holds a sword diagonally across her chest in her right hand and, in her left, a pair of scales with two round pans. Her long gown and mantle fall in straight, heavy folds to her feet.">
   <figcaption>Workshop of Tino di Camaino, Justice, c. 1340–1370, with parts of the late 19th or early 20th century. Marble. Detroit Institute of Arts, Gift of Virginia Booth Vogel, 43.53.</figcaption>
 </figure>
 
@@ -910,7 +910,7 @@ The type is nonetheless consistent with the workshop’s production. Virtues wer
 ### A Mendicant Tomb Front: The Virgin and Child between Two Friar Saints
 
 <figure>
-  <img src="/Images/Tino-di-Camaino/tino-di-camaino-30.jpg" alt="A long rectangular marble relief divided into three round-arched compartments, with small rosettes in the spandrels between the arches. In the centre, the crowned and veiled Virgin holds the curly-haired Christ Child at half length. On the left, a tonsured saint in a hooded friar’s habit presents a small tonsured donor, who stretches out one open hand. On the right, another tonsured saint in a friar’s habit holds a lily and a book. Two small metal hooks at the top fix the slab to the wall.">
+  <img src="/Images/Tino-di-Camaino/tino-di-camaino-30.jpg" data-zoom-src="/Images/Tino-di-Camaino/tino-di-camaino-30-zoom.jpg" alt="A long rectangular marble relief divided into three round-arched compartments, with small rosettes in the spandrels between the arches. In the centre, the crowned and veiled Virgin holds the curly-haired Christ Child at half length. On the left, a tonsured saint in a hooded friar’s habit presents a small tonsured donor, who stretches out one open hand. On the right, another tonsured saint in a friar’s habit holds a lily and a book. Two small metal hooks at the top fix the slab to the wall.">
   <figcaption>Follower of Tino di Camaino, Madonna and Child with Saints, mid-14th century. Marble, 62.1 × 125.3 × 8.7 cm. Detroit Institute of Arts, City of Detroit Purchase, 23.20.</figcaption>
 </figure>
 

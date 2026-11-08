@@ -811,7 +811,7 @@ The four saints are of considerable iconographic interest, and one of them chang
 #### Saint John the Baptist (37.189.1)
 
 <figure>
-  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-30.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint John the Baptist, with long, unkempt grey-brown hair and a full beard, in a blue mantle; he raises his right hand with the forefinger pointing and holds a thin red staff topped by a small red cross. His eyes look sideways, toward the viewer's right.">
+  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-30.jpg" data-zoom-src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-30-zoom.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint John the Baptist, with long, unkempt grey-brown hair and a full beard, in a blue mantle; he raises his right hand with the forefinger pointing and holds a thin red staff topped by a small red cross. His eyes look sideways, toward the viewer's right.">
   <figcaption>Dalmasio degli Scannabecchi (attributed; the "Pseudo-Dalmasio" of part of the critical literature), Saint John the Baptist, c. 1335–1340 (museum dating 1370–1377), egg tempera on wood panel, in a quatrefoil; the four-panel strip 14.3 × 56 × 3 cm overall. Detroit Institute of Arts, Founders Society Purchase, General Membership Fund, 37.189.1. Catalogued by the Detroit Institute of Arts as "Dalmasio di Jacopo".</figcaption>
 </figure>
 
@@ -822,7 +822,7 @@ The head is among the most expressive in the whole series. The eyes slide sidewa
 #### Saint Thomas Aquinas (37.189.2)
 
 <figure>
-  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-31.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Thomas Aquinas in the black cappa and white habit of the Dominican order, with a tonsure and a round, heavy face, his head bowed and turned to the left; with his right hand he holds a red book before his chest. A faint incised halo surrounds his head.">
+  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-31.jpg" data-zoom-src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-31-zoom.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Thomas Aquinas in the black cappa and white habit of the Dominican order, with a tonsure and a round, heavy face, his head bowed and turned to the left; with his right hand he holds a red book before his chest. A faint incised halo surrounds his head.">
   <figcaption>Dalmasio degli Scannabecchi (attributed; the "Pseudo-Dalmasio" of part of the critical literature), Saint Thomas Aquinas, c. 1335–1340 (museum dating 1370–1377), egg tempera on wood panel, in a quatrefoil; the four-panel strip 14.3 × 56 × 3 cm overall. Detroit Institute of Arts, Founders Society Purchase, General Membership Fund, 37.189.2. Catalogued by the Detroit Institute of Arts as "Dalmasio di Jacopo".</figcaption>
 </figure>
 
@@ -833,7 +833,7 @@ The pose is the most introspective of the four. While the Baptist and Paul look 
 #### Saint Paul (37.189.3)
 
 <figure>
-  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-32.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Paul, balding with a fringe of brown hair and a long dark beard, in a rose-red mantle; he grips a sword by its hilt, pommel raised, the blade running diagonally across his chest with its point in his other hand. He looks sideways toward the right.">
+  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-32.jpg" data-zoom-src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-32-zoom.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Paul, balding with a fringe of brown hair and a long dark beard, in a rose-red mantle; he grips a sword by its hilt, pommel raised, the blade running diagonally across his chest with its point in his other hand. He looks sideways toward the right.">
   <figcaption>Dalmasio degli Scannabecchi (attributed; the "Pseudo-Dalmasio" of part of the critical literature), Saint Paul, c. 1335–1340 (museum dating 1370–1377), egg tempera on wood panel, in a quatrefoil; the four-panel strip 14.3 × 56 × 3 cm overall. Detroit Institute of Arts, Founders Society Purchase, General Membership Fund, 37.189.3. Catalogued by the Detroit Institute of Arts as "Dalmasio di Jacopo".</figcaption>
 </figure>
 
@@ -844,7 +844,7 @@ The face is drawn with the sharp, individualising attention that marks the maste
 #### Saint Peter (37.189.4)
 
 <figure>
-  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-33.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Peter, with a cap of tight grey curls and a short grey beard, in a red tunic and a yellow-green mantle; he holds a large silver key upright in his left hand; a dark mass of mantle gathers at his right. His head is bowed and his expression sorrowful.">
+  <img src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-33.jpg" data-zoom-src="/Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-33-zoom.jpg" alt="Gilded quatrefoil medallion on a dark blue-green ground. Against gold, the bust of Saint Peter, with a cap of tight grey curls and a short grey beard, in a red tunic and a yellow-green mantle; he holds a large silver key upright in his left hand; a dark mass of mantle gathers at his right. His head is bowed and his expression sorrowful.">
   <figcaption>Dalmasio degli Scannabecchi (attributed; the "Pseudo-Dalmasio" of part of the critical literature), Saint Peter, c. 1335–1340 (museum dating 1370–1377), egg tempera on wood panel, in a quatrefoil; the four-panel strip 14.3 × 56 × 3 cm overall. Detroit Institute of Arts, Founders Society Purchase, General Membership Fund, 37.189.4. Catalogued by the Detroit Institute of Arts as "Dalmasio di Jacopo".</figcaption>
 </figure>
 
