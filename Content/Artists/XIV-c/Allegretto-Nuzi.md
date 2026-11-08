@@ -1290,7 +1290,7 @@ The attribution to Allegretto Nuzi rests on stylistic comparison and should be t
 ### The Crucifixion with the Holy Women, Saint John the Evangelist, Mary Magdalene and Angels
 
 <figure>
-  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-04.jpg" alt="Small gabled panel by Allegretto Nuzi on a worn gold ground showing red underlayer: Christ on the Cross with four dark-winged angels around him holding bowls to catch his blood; Mary Magdalene in red kneels and embraces the foot of the Cross; on the left the Virgin supported by holy women; on the right Saint John in a pink mantle over a green tunic looking up; at the top a pelican feeding its young in a nest above a green tree growing from the Cross">
+  <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-04.jpg" data-zoom-src="/Images/Allegretto-Nuzi/allegretto-nuzi-04-zoom.jpg" alt="Small gabled panel by Allegretto Nuzi on a worn gold ground showing red underlayer: Christ on the Cross with four dark-winged angels around him holding bowls to catch his blood; Mary Magdalene in red kneels and embraces the foot of the Cross; on the left the Virgin supported by holy women; on the right Saint John in a pink mantle over a green tunic looking up; at the top a pelican feeding its young in a nest above a green tree growing from the Cross">
   <figcaption>The Crucifixion, 1355–60, tempera and gold leaf on panel, 43.5 × 20 cm, New York, The Metropolitan Museum of Art, Robert Lehman Collection, 1975, inv. 1975.1.106.</figcaption>
 </figure>
 
