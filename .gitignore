@@ -31,3 +31,6 @@ drafts/
 
 # Destinazione locale del backup completo (scripts/backup_to_volume.sh).
 .backup_path
+
+# Permessi e corrispondenza sui diritti delle immagini: mai nel repository (pubblico)
+*PERMESSO*
