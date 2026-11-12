@@ -92,6 +92,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -184,7 +185,7 @@ def fallback_entries(timestamp: str, name_status: list[tuple[str, str]]) -> list
 
 def git_log_argv(seen: list[list[str]]) -> list[str]:
     """Gli argomenti dell'unica invocazione di `git log` fra quelle catturate."""
-    return next(argv for argv in seen if argv[:2] == ["git", "log"])
+    return next(argv for argv in seen if argv[0] == "git" and "log" in argv[1:4])
 
 
 def titles(notices: list[dict]) -> list[str]:
@@ -935,6 +936,93 @@ check(
     re.search(r"utm_campaign=newsletter-\d{4}-\d{2}-\d{2}\n",
               snu._build_message("s", "f@e.org", "t@e.org", [notice("A", "created", "a.md")], N_BASE
                                  ).get_body(preferencelist=("plain",)).get_content()) is not None,
+)
+
+# --------------------------------------------------------------------------
+# o. path accentati: il ripiego li legge come sono, non tra virgolette
+# --------------------------------------------------------------------------
+# Con core.quotepath predefinito `git log --name-status` restituisce
+# "Content/Artists/XIV-c/Nicol\303\262-di-Giacomo.md", virgolette comprese:
+# il path non finisce piu' in `.md` e la scheda sparisce dalle notizie e
+# dalla newsletter senza lasciare traccia. Lo stub di `_run_fallback` non
+# riproduce il quoting di git, quindi qui serve anche un repository vero.
+ACCENTED = "Content/Artists/XIV-c/Nicolò-di-Giacomo.md"
+
+_, seen_accented = _run_fallback([f"__COMMIT__{SAME_TS}", f"M\t{ACCENTED}"])
+o_argv = git_log_argv(seen_accented)
+check(
+    "o. il ripiego chiama git con core.quotepath=false",
+    o_argv[1:3] == ["-c", "core.quotepath=false"],
+    str(o_argv),
+)
+
+O_GIT_ENV = dict(
+    os.environ,
+    GIT_AUTHOR_NAME="test", GIT_AUTHOR_EMAIL="test@example.org",
+    GIT_COMMITTER_NAME="test", GIT_COMMITTER_EMAIL="test@example.org",
+    GIT_CONFIG_GLOBAL=os.devnull, GIT_CONFIG_NOSYSTEM="1",
+)
+
+
+def _o_git(repo: Path, *args: str) -> str:
+    return subprocess.run(
+        ["git", *args], cwd=repo, env=O_GIT_ENV, check=True,
+        capture_output=True, text=True, encoding="utf-8",
+    ).stdout
+
+
+with tempfile.TemporaryDirectory() as o_tmp:
+    o_repo = Path(o_tmp)
+    _o_git(o_repo, "init", "-q")
+    o_file = o_repo / ACCENTED
+    o_file.parent.mkdir(parents=True)
+    o_file.write_text('---\ntitle: "Nicolò di Giacomo"\n---\n\nTesto.\n', encoding="utf-8")
+    _o_git(o_repo, "add", "-A")
+    _o_git(o_repo, "commit", "-q", "-m", "Nicolò")
+
+    o_raw = _o_git(o_repo, "log", "-n1", "--name-status", "--pretty=format:")
+    check(
+        "o. controprova: con le impostazioni predefinite git mette il path tra virgolette",
+        '"Content/Artists/XIV-c/Nicol\\303\\262-di-Giacomo.md"' in o_raw,
+        o_raw,
+    )
+
+    o_root = upn.REPO_ROOT
+    o_env_before = {k: os.environ.get(k) for k in ("GIT_CONFIG_GLOBAL", "GIT_CONFIG_NOSYSTEM")}
+    upn.REPO_ROOT = o_repo
+    os.environ.update(GIT_CONFIG_GLOBAL=os.devnull, GIT_CONFIG_NOSYSTEM="1")
+    try:
+        _, o_entries = upn._parse_git_history_fallback(None, None)
+    finally:
+        upn.REPO_ROOT = o_root
+        for k, v in o_env_before.items():
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+
+check(
+    "o. repository vero: la scheda accentata produce una notizia",
+    len(o_entries) == 1,
+    str(o_entries),
+)
+check(
+    "o. il path della notizia e' quello in chiaro, senza virgolette ne' escape",
+    bool(o_entries) and o_entries[0]["path"] == ACCENTED,
+    str(o_entries),
+)
+check(
+    "o. primo ingresso in Content: la notizia e' 'created', con il titolo del front matter",
+    bool(o_entries)
+    and o_entries[0]["change_type"] == "created"
+    and o_entries[0]["title"] == "Nicolò di Giacomo",
+    str(o_entries),
+)
+check(
+    "o. l'URL della pagina codifica la lettera accentata",
+    bool(o_entries)
+    and o_entries[0]["page_url"] == "/Content/Artists/XIV-c/Nicol%C3%B2-di-Giacomo.html",
+    str(o_entries),
 )
 
 print()

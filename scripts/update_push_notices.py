@@ -430,8 +430,13 @@ def _parse_git_history_fallback(
     quindi trattato come il percorso normale, e deve guardare esattamente i
     commit del push: quali siano lo decide `_fallback_revisions`.
     """
+    # Senza core.quotepath=false git restituisce i path non ASCII tra
+    # virgolette e con escape ottali ("Nicol\303\262-di-Giacomo.md"): il path
+    # non finisce piu' in `.md` e la scheda viene scartata in silenzio.
     command = [
         "git",
+        "-c",
+        "core.quotepath=false",
         "log",
         "--date=iso-strict",
         "--pretty=format:__COMMIT__%cI",
@@ -446,6 +451,7 @@ def _parse_git_history_fallback(
             check=True,
             capture_output=True,
             text=True,
+            encoding="utf-8",
         )
     except Exception:
         return _safe_iso(None), []

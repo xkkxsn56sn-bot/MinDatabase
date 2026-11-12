@@ -43,7 +43,7 @@ log() {
 
 cd "$REPO" || { log "ERROR cannot cd to $REPO"; exit 0; }
 
-FILES="$(git ls-files -- 'Images/**/*-zoom.jpg' 2>/dev/null)" || { log "ERROR git ls-files failed"; exit 0; }
+FILES="$(git -c core.quotepath=false ls-files -- 'Images/**/*-zoom.jpg' 2>/dev/null)" || { log "ERROR git ls-files failed"; exit 0; }
 if [ -z "$FILES" ]; then
   log "no tracked zoom files"
   say "No tracked zoom files."
