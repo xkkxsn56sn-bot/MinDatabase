@@ -1,0 +1,4 @@
+# Intestazioni degli asset su Cloudflare Workers Static Assets (wrangler.site.toml).
+# Stessa cache di GitHub Pages: dieci minuti su tutto.
+/*
+  Cache-Control: max-age=600

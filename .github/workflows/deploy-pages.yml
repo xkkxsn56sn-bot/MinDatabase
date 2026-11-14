@@ -27,6 +27,12 @@ on:
       - "Gemfile.lock"
       - "CNAME"
       - "robots.txt"
+      - "404.html"
+      # Cloudflare Workers Static Assets (job deploy-cloudflare, sotto).
+      - "_headers"
+      - ".assetsignore"
+      - "wrangler.site.toml"
+      - "cloudflare/**"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -76,3 +82,58 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Tappa 1 della migrazione a Cloudflare: lo stesso sito pubblicato anche su
+  # Cloudflare Workers Static Assets, al solo indirizzo *.workers.dev
+  # (wrangler.site.toml: nessuna route, nessun dominio personalizzato).
+  # Job separato perche' il deploy su GitHub Pages resti identico: costruisce
+  # di nuovo il sito con lo stesso Gemfile.lock, fa girare i quattro
+  # validatori e pubblica _site con wrangler. Non scrive commit e non tocca
+  # push_notices.json: nessuna notizia, nessuna newsletter.
+  deploy-cloudflare:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --destination ./_site
+        env:
+          JEKYLL_ENV: production
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate content indexes
+        run: python scripts/validate_content_indexes.py
+
+      - name: Validate scholars front matter
+        run: python scripts/validate_scholars_frontmatter.py
+
+      - name: Validate reachability
+        run: python scripts/validate_reachability.py
+
+      - name: Validate nav consistency
+        run: python scripts/validate_nav_consistency.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Deploy to Cloudflare (workers.dev)
+        run: npx --yes wrangler@4 deploy --config wrangler.site.toml
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

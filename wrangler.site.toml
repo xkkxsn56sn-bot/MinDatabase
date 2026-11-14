@@ -1,0 +1,22 @@
+# Sito pubblicato con Cloudflare Workers Static Assets.
+# Il wrangler.toml accanto e' del Worker subscriber-webhook: e' un'altra cosa
+# e questa configurazione non lo tocca. Si usa con
+#   npx wrangler@4 deploy --config wrangler.site.toml
+# dal job deploy-cloudflare di .github/workflows/deploy-pages.yml.
+#
+# Tappa 1: solo l'indirizzo *.workers.dev, nessuna route e nessun dominio
+# personalizzato. www.medievalvisions.com resta su GitHub Pages.
+
+name = "medievalvisions-site"
+main = "cloudflare/site-worker.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+[assets]
+directory = "./_site"
+binding = "ASSETS"
+# "none": /file.html risponde 200 senza rinvii, come su GitHub Pages; gli
+# URL senza estensione e le cartelle li risolve cloudflare/site-worker.js.
+html_handling = "none"
+# La 404 la decide il Worker, che serve /404.html con stato 404.
+not_found_handling = "none"

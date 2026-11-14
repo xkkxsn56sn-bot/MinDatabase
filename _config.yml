@@ -16,12 +16,17 @@ reading_wpm: 250
 # Include all markdown files from Content directory
 include:
   - Content
+  # Cloudflare Workers Static Assets: intestazioni e file da non pubblicare
+  # (vedi wrangler.site.toml). Jekyll scarta i file che iniziano con _ o .
+  - _headers
+  - .assetsignore
 
 # Default front matter deleted to force Jekyll to process all markdown files in the Content directory, ensuring they are included in the site build.
 
 # Exclude from processing
 exclude:
   - scripts/
+  - cloudflare/
   - .gitignore
   - README.md
   - newsletter_subscribers.csv

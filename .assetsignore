@@ -1,0 +1,6 @@
+# File di _site che non vanno pubblicati su Cloudflare Workers Static Assets.
+# CNAME serve solo a GitHub Pages; node_modules finisce nella build locale.
+CNAME
+node_modules
+wrangler.toml
+wrangler.site.toml
