@@ -6,9 +6,9 @@
   screens, keys + - 0, arrows to pan, Esc to close.
   Optional: data-zoom-src="/Images/.../file-large.jpg" on an <img> makes the
   viewer load a larger file than the one shown in the page. The zoom files
-  live on R2: site.zoom_base (empty locally, https://zoom.medievalvisions.com
-  in production, see _config.production.yml) is prefixed to data-zoom-src
-  here, so the schede keep their root-relative paths.
+  live on R2: site.zoom_base (https://zoom.medievalvisions.com, set in _config.yml
+  and repeated in _config.production.yml) is prefixed to data-zoom-src here,
+  so the schede keep their root-relative paths.
   Self-contained: no external libraries, no cookies, no third-party calls.
 {%- endcomment -%}
 <style>

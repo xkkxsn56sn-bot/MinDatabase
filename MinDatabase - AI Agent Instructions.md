@@ -1,6 +1,6 @@
 # MinDatabase - AI Agent Instructions
 
-**Version**: 4.13.1 | **Last Updated**: 22 October 2026
+**Version**: 4.14.0 | **Last Updated**: 14 November 2026
 
 ## Project Scope
 
@@ -214,7 +214,7 @@ Parte da sola, in background e in silenzio, dagli hook locali `post-commit`, `po
 
 ## Tooling Note: validate_content_indexes.py
 
-`scripts/validate_content_indexes.py` runs the twelve content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references, slug ordering inside the sections of `endnotes.html`, display-name ordering inside the sections of `scholars.html`, and the leaf-based names of the images in `Content/Codex/`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
+`scripts/validate_content_indexes.py` runs the twelve content checks listed in its own docstring: matching entries, resolvable hrefs, valid front matter, alphabetical ordering, basename rules, Saints reachability, inter-page links, anchors into the two containers, case-exact image references (check 9; check 9b covers the zoom files against `assets/data/zoom-manifest.json`, see «Gli zoom ad alta risoluzione»), slug ordering inside the sections of `endnotes.html`, display-name ordering inside the sections of `scholars.html`, and the leaf-based names of the images in `Content/Codex/`. It runs read-only and is executed both by the `validate-content-indexes.yml` workflow on every push touching `Content/**`, `assets/data/*.json`, or the script itself, and by `validate.yml` alongside the other three validators.
 
 `Content/Saints/` is, by editorial choice, an unindexed section: saint entries are reachable only via links from other entries, not from a listing page. The script excludes `Saints/` from the "has a JSON entry" check, but flags any Saints entry that isn't linked from any other entry, since such an entry would otherwise be unreachable.
 
@@ -382,11 +382,18 @@ suoi path, e non deve farlo: un push di sola toolchain non ha schede nel
 payload, farebbe scattare il ripiego su `git log` e riannuncerebbe contenuto
 gia' annunciato — con una seconda email agli iscritti.
 
+Fra i quattro validatori e le batterie gira **Zoom files on R2**,
+`scripts/check_zoom_r2.py`: verifica che ogni zoom di
+`assets/data/zoom-manifest.json` risponda da `https://zoom.medievalvisions.com`
+(200, `image/jpeg`, byte uguali al manifest). Sta in `validate.yml` per la
+stessa ragione: e' l'unico workflow che vede ogni push.
+
 Accanto a quella, e per la stessa ragione, gira un sesto passo:
 **Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
-47 asserzioni in undici gruppi: 28 fissano il contratto dei link interni sul
+76 asserzioni in tredici gruppi: 28 fissano il contratto dei link interni sul
 caso che lo ha allargato, 19 il contratto dei nomi delle immagini dei codici
-(check 12). I primi casi sono letteralmente i due rimandi morti
+(check 12), 13 il check 9b sugli zoom (gruppo l) e 16 il 9b contro il
+manifest e la verifica di R2 (gruppo m). I primi casi sono letteralmente i due rimandi morti
 di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
 rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
 che **esiste** rosso lo stesso. Gli altri gruppi coprono l'URL-decode, le
@@ -571,7 +578,7 @@ trovando l'indice gia' aggiornato esce con «unchanged, nothing to commit».
 contenuto; il docstring in cima li elenca. Sei meritano una nota:
 
 - **7** verifica i link fra pagine, **8** le ancore ai due contenitori
-  (`endnotes.html`, `scholars.html`), **9** le immagini, **12** i nomi delle immagini dei codici, **10** l'ordine per
+  (`endnotes.html`, `scholars.html`), **9** le immagini, **9b** gli zoom contro il manifest, **12** i nomi delle immagini dei codici, **10** l'ordine per
   slug dentro le sezioni-lettera di `endnotes.html`, **11** l'ordine dentro
   le sezioni di `scholars.html`.
 - Il check 7 copre **qualunque** link che punti sotto `Content/`, non i soli
@@ -656,6 +663,47 @@ build e — da questo giro — anche da git: la cartella e' in `.gitignore`. E'
 spazio di lavorazione locale e non entra mai nel repository. Prima era solo
 non tracciata, quindi compariva in `git status` e un `git add -A` l'avrebbe
 messa in stage in blocco.
+
+### Gli zoom ad alta risoluzione
+
+Un `<img>` puo' portare `data-zoom-src="/Images/<Cartella>/<slug>-NN-zoom.jpg"`:
+e' il file grande (fino a 3000 px) che il visualizzatore apre al posto
+dell'immagine mostrata nella pagina. Dal 14 novembre 2026 gli zoom **non
+stanno nel repository**:
+
+- **in locale** vivono in `Zoom/Images/<Cartella>/`, una cartella ignorata da
+  git ed esclusa dalla build Jekyll; il backup su Prog la copia come il resto
+  del progetto;
+- **online** stanno nel bucket R2 `mindatabase-zoom`, pubblicato soltanto su
+  `https://zoom.medievalvisions.com` (`r2.dev` e' spento), con
+  `Cache-Control: public, max-age=31536000, immutable`;
+- **nel repository** resta `assets/data/zoom-manifest.json`: per ogni zoom il
+  percorso, le dimensioni in pixel, i byte e lo sha256.
+
+Il visualizzatore (`_includes/image-zoom.html`) prefissa ai `data-zoom-src`
+la chiave `zoom_base` di `_config.yml` (ripetuta in `_config.production.yml`,
+che le build di produzione aggiungono con `--config`): le schede tengono i
+percorsi `/Images/...` e non vanno riscritte. Il check 9b verifica le schede
+contro il manifest — lo zoom e' nel manifest, nome `<slug>-NN-zoom.jpg`, base
+`<slug>-NN.jpg` su disco e usata dalla stessa scheda, nessuna voce del
+manifest orfana — e in CI `check_zoom_r2.py` verifica il manifest contro R2.
+
+**Procedura per un lotto di zoom.**
+
+1. Il file va in `Zoom/Images/<Cartella>/<slug>-NN-zoom.jpg` (stessa cartella
+   e stesso numero della base in `Images/`).
+2. `scripts/sync_zoom_r2.sh`, prima in prova (il default: dice cosa caricherebbe),
+   poi con `--apply`: carica su R2 solo i file nuovi o cambiati, aggiorna il
+   manifest e alla fine copia gli zoom in `~/Desktop/Zoom` (la copia non parte
+   piu' dagli hook di commit). Serve una sessione `npx wrangler login`. Nulla
+   viene cancellato da R2 senza `--apply --delete`.
+3. Nella scheda si aggiunge il `data-zoom-src` all'`<img>` della base.
+4. Nel commit vanno **solo la scheda e il manifest**: mai il file zoom, che
+   `.gitignore` comunque esclude.
+
+Uno zoom gia' caricato non si sovrascrive: la cache dura un anno, e un file
+cambiato con lo stesso nome resterebbe vecchio nei browser. Si rinomina, o si
+carica con un nome nuovo.
 
 Le schede si spostano in `Content/` solo alla pubblicazione: da quel momento
 ogni commit fa partire una notifica agli iscritti, e una email non si ritira.
