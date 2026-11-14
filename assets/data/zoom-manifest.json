@@ -1,0 +1,783 @@
+{
+  "zoom_base": "https://zoom.medievalvisions.com",
+  "bucket": "mindatabase-zoom",
+  "files": [
+    {
+      "path": "Images/Allegretto-Nuzi/allegretto-nuzi-04-zoom.jpg",
+      "width": 1616,
+      "height": 3000,
+      "bytes": 1413536,
+      "sha256": "db5390b8c4c2c91a902d10d66806594d76d513b797355d8e3413cbe90ed1c771"
+    },
+    {
+      "path": "Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04-zoom.jpg",
+      "width": 1799,
+      "height": 2713,
+      "bytes": 2045270,
+      "sha256": "f3e2df26bbaff45e3b83df64b57f80a7b109f6f1257e8dd81583e851c58f9993"
+    },
+    {
+      "path": "Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-05-zoom.jpg",
+      "width": 3000,
+      "height": 2514,
+      "bytes": 2907010,
+      "sha256": "f2530febb02db32b40f7beff96776085cbabe95bfe91f66f9f84222baac25983"
+    },
+    {
+      "path": "Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-04-zoom.jpg",
+      "width": 1799,
+      "height": 1680,
+      "bytes": 1265821,
+      "sha256": "8560373fe7425100a792f107ca70f721c213144751e8193eb58129aff87130a3"
+    },
+    {
+      "path": "Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-07-zoom.jpg",
+      "width": 2319,
+      "height": 3000,
+      "bytes": 2602340,
+      "sha256": "fdc8aad8a9c86e22e0816af5e0cb66cc6ad3c86c28fd85741ec1e01a50e9af2b"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-27-zoom.jpg",
+      "width": 2132,
+      "height": 2698,
+      "bytes": 3312507,
+      "sha256": "e810f5a11c3d1d5568814455946c51a2c73bd257e494a881519711a529db8820"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-30-zoom.jpg",
+      "width": 2358,
+      "height": 2400,
+      "bytes": 2946017,
+      "sha256": "6b14e16d2f7f69b9a01aafac5c499235629f0b721c0728c60c671718eec79ff5"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-31-zoom.jpg",
+      "width": 2345,
+      "height": 2400,
+      "bytes": 3037122,
+      "sha256": "a592f120c14119cc57f0accf2e09b6a923c66fb64eceec3b98f9d823848cc065"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-32-zoom.jpg",
+      "width": 2356,
+      "height": 2400,
+      "bytes": 2974845,
+      "sha256": "e7fd9bfbc4b5d56adcdb1cbc560133e1a8de502ca2a6cdc1ebf9724b683769e8"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-33-zoom.jpg",
+      "width": 2365,
+      "height": 2400,
+      "bytes": 3273716,
+      "sha256": "509db8fa990d3f950db63b2939addbb73f5f23b2bc0a682a99c516d1b064864b"
+    },
+    {
+      "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-35-zoom.jpg",
+      "width": 1758,
+      "height": 3000,
+      "bytes": 2720467,
+      "sha256": "ca11db5e93fa325dfdbf2547da16af56d1827e29bd847e02aa80c3ddadf934ee"
+    },
+    {
+      "path": "Images/Francescuccio-Ghissi/francescuccio-ghissi-11-zoom.jpg",
+      "width": 3000,
+      "height": 2630,
+      "bytes": 4058240,
+      "sha256": "952e06ce922d5e91c16feb9f928ae6b540beeff5f76a14b1cb48b9664155b8d6"
+    },
+    {
+      "path": "Images/Francescuccio-Ghissi/francescuccio-ghissi-12-zoom.jpg",
+      "width": 3000,
+      "height": 2676,
+      "bytes": 3564326,
+      "sha256": "0935d8ab0ca86b8f05f973b76a4a009bff8cdf3f5b9af5f98bfa1ccabeb52d33"
+    },
+    {
+      "path": "Images/Francescuccio-Ghissi/francescuccio-ghissi-13-zoom.jpg",
+      "width": 3000,
+      "height": 2800,
+      "bytes": 3464084,
+      "sha256": "61dcac113f96bba56763631bd02e3a63c2c8007e6a0069cef9f1392803b2867d"
+    },
+    {
+      "path": "Images/Giotto/giotto-02-zoom.jpg",
+      "width": 2141,
+      "height": 3000,
+      "bytes": 2829614,
+      "sha256": "40516a64e5d3f02232303eca92bccde5fec9b4c5330e42a7d7fcc279cf985f56"
+    },
+    {
+      "path": "Images/Giovanni-di-Agostino/giovanni-di-agostino-01-zoom.jpg",
+      "width": 2091,
+      "height": 2788,
+      "bytes": 1234218,
+      "sha256": "81a3c057e91f42a3f1f6ba81bd02edf9307e2c49ee182217374500320ea9433d"
+    },
+    {
+      "path": "Images/Goro-di-Gregorio/goro-di-gregorio-10-zoom.jpg",
+      "width": 1862,
+      "height": 3000,
+      "bytes": 1132438,
+      "sha256": "431f404d002daf34e5109904bb6944d1ad78c25286f155482c30e504082478b6"
+    },
+    {
+      "path": "Images/Lippo-di-Dalmasio-degli-Scannabecchi/lippo-di-dalmasio-degli-scannabecchi-06-zoom.jpg",
+      "width": 868,
+      "height": 1100,
+      "bytes": 264559,
+      "sha256": "61e23bc6457451c29251101a0c396110e571b436c6e03188cb705251af8c3382"
+    },
+    {
+      "path": "Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10-zoom.jpg",
+      "width": 2262,
+      "height": 3000,
+      "bytes": 2666132,
+      "sha256": "ccf74494d27036e600d968d4f0625e30e9e49462bdd0143e26b8372a4941f94a"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-01-zoom.jpg",
+      "width": 1764,
+      "height": 3000,
+      "bytes": 2079449,
+      "sha256": "795971d171b58679ae7818565425735900852fc821834e00bf21f35f10eb2b0f"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-02-zoom.jpg",
+      "width": 2614,
+      "height": 3000,
+      "bytes": 3028985,
+      "sha256": "4c7eacc79ca84a0be8e505429fc77c2c434eba78b22b191ee343ebfab2a18525"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-03-zoom.jpg",
+      "width": 1832,
+      "height": 3000,
+      "bytes": 2060771,
+      "sha256": "bcf011beb56ffc87beb0b729d7108277e2b22ff75ca6bd2eafb7253f42ee8e54"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-04-zoom.jpg",
+      "width": 2224,
+      "height": 3000,
+      "bytes": 3184772,
+      "sha256": "9f9082a30a4610bafa5977dded46b9d1cb1b242b3c81472f38a13ca5190260c9"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-05-zoom.jpg",
+      "width": 1800,
+      "height": 2576,
+      "bytes": 901226,
+      "sha256": "6da855ccecd55dbee656b471e5ae0415dc8eb589af3dd0959ec691861eca1b73"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-06-zoom.jpg",
+      "width": 2489,
+      "height": 2583,
+      "bytes": 1792033,
+      "sha256": "e721401ef17a33ec8711e73c0b3b7d11ff4b977fe820387c57e3729413d5e441"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-07-zoom.jpg",
+      "width": 2510,
+      "height": 2576,
+      "bytes": 1534166,
+      "sha256": "1efb8cec02dc62c147a64e7ad8ffc3e486153cb5284fd583710ee246126be8e7"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-08-zoom.jpg",
+      "width": 2551,
+      "height": 2576,
+      "bytes": 1429018,
+      "sha256": "ef33c4f59d8ff1cdabb8bc310042170915342e211034ca3d867691b35af7ebc5"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-09-zoom.jpg",
+      "width": 2341,
+      "height": 2576,
+      "bytes": 1232143,
+      "sha256": "115ebef053e896e387d194b3de76cb2447b890cd704c0d2805fe4c4e1b63cb6e"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-10-zoom.jpg",
+      "width": 1767,
+      "height": 2576,
+      "bytes": 1058794,
+      "sha256": "b4666218c06f1468345c39c258fe0237fbf00f7738ab48cbeb27d9bd3557db59"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-11-zoom.jpg",
+      "width": 2576,
+      "height": 2570,
+      "bytes": 1290883,
+      "sha256": "90f00c0e9f287600679a2ef2765abfa2c6095b756227d8b952668fc96171daf1"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-12-zoom.jpg",
+      "width": 2576,
+      "height": 2389,
+      "bytes": 1273357,
+      "sha256": "66eb4f67695d0b717da176b7d965a85d8b092a94c37cd81f6acca5cc616f0be7"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-13-zoom.jpg",
+      "width": 2203,
+      "height": 2576,
+      "bytes": 1234179,
+      "sha256": "83e2474a4fca9d56aabf3f3bb227c99ac1a2f85d479347647356b4e45b49c6f8"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-15-zoom.jpg",
+      "width": 2196,
+      "height": 3000,
+      "bytes": 1578594,
+      "sha256": "619b94afdf09b8025dbae745025855b5036cee7b6eb2f93168c580e8d040c9a2"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-16-zoom.jpg",
+      "width": 1739,
+      "height": 2576,
+      "bytes": 934066,
+      "sha256": "c043805b03785be4ccba7c22c65574e71de6c9b2b97055b9970ec86d7c08a794"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-17-zoom.jpg",
+      "width": 903,
+      "height": 1480,
+      "bytes": 253680,
+      "sha256": "25dde2acf67929daf9b364bd9cd71cf29451760944557650ea0415074517ccb7"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-18-zoom.jpg",
+      "width": 849,
+      "height": 1477,
+      "bytes": 226743,
+      "sha256": "20d21c7244fe428e1c2183c696fec40d684ff7ab7b64c5aeebe18e4d875b1ebc"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-19-zoom.jpg",
+      "width": 834,
+      "height": 1490,
+      "bytes": 227032,
+      "sha256": "ac99f20347ad9eaa4fb786818cc37af5acb81a41abf0bf58f2e66f4eb643f9c3"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-20-zoom.jpg",
+      "width": 1994,
+      "height": 3000,
+      "bytes": 1876669,
+      "sha256": "ae0952bdeaf2ab4239172eb08a82b9464a4bceafea151ed51480a8cc312e2e96"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-21-zoom.jpg",
+      "width": 1921,
+      "height": 3000,
+      "bytes": 1734488,
+      "sha256": "f06bf807f74038854465b48075ed777babc036670dc863cedd8b034792922edf"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-22-zoom.jpg",
+      "width": 1978,
+      "height": 3000,
+      "bytes": 1873370,
+      "sha256": "6a604283f17ba64d634526c88cf37082a1ac2a0458e4fdc89a1316474b8faccf"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-23-zoom.jpg",
+      "width": 1698,
+      "height": 2576,
+      "bytes": 852812,
+      "sha256": "2a8b34c3981eef5a72bfafe2ba26f7b66999b7abcc88d5c27627bbfcb0cb1bdb"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-24-zoom.jpg",
+      "width": 1649,
+      "height": 2576,
+      "bytes": 998261,
+      "sha256": "99839114a74a0a7d42025b66441d448401704f26533f73366091e87da48539d4"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-25-zoom.jpg",
+      "width": 819,
+      "height": 1340,
+      "bytes": 384202,
+      "sha256": "7f4def0acedeb80a1ebb6409185e0e492df00464438e231c83037aee6072f9a8"
+    },
+    {
+      "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-26-zoom.jpg",
+      "width": 1697,
+      "height": 1380,
+      "bytes": 636648,
+      "sha256": "2089e130d048960f1dc1e6bb5a6abc8538beff1bb5faa59f441ed35d50f8f224"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-01-zoom.jpg",
+      "width": 1511,
+      "height": 2000,
+      "bytes": 1460507,
+      "sha256": "55d17fb185cf210f835ed62f35c9f44db91d7b4eef2e0027669a369c07b37569"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-02-zoom.jpg",
+      "width": 1269,
+      "height": 2188,
+      "bytes": 1453464,
+      "sha256": "2ef9fd07089dd9162d5c60982df9ce762f093d2a6107e833f3ae1c09aee2ba57"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-03-zoom.jpg",
+      "width": 1951,
+      "height": 2114,
+      "bytes": 2364873,
+      "sha256": "126475d1ace5baca7fd1fcc336031da9904cc69c9c6acc70ed7a1a06071aa519"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-05-zoom.jpg",
+      "width": 3000,
+      "height": 2306,
+      "bytes": 3223072,
+      "sha256": "41edcaf8e13e71cbb894c88e167d8348d566eef7135596a36e8fa9bfde45dbd5"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-06-zoom.jpg",
+      "width": 3000,
+      "height": 1194,
+      "bytes": 1435280,
+      "sha256": "a5c0d4c1ad18bda4d2737e9cdcafc5ad2f5ecb155330539e148a264b2dae2689"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-07-zoom.jpg",
+      "width": 1500,
+      "height": 1096,
+      "bytes": 792316,
+      "sha256": "c095f5135c242aee489eddef1b0641df4fef08d12cf1696f0e5d4782c61f3be1"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-08-zoom.jpg",
+      "width": 2024,
+      "height": 1565,
+      "bytes": 694539,
+      "sha256": "3fe1027340916032aae5b2f36af0696a3795079724bb69ea6b459c12913b8fee"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-13-zoom.jpg",
+      "width": 3000,
+      "height": 2605,
+      "bytes": 2665824,
+      "sha256": "660c73ae0924909f7ffbdb544c1dca928cbf6e140e77a9d3263f3b263385b512"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-14-zoom.jpg",
+      "width": 1484,
+      "height": 2200,
+      "bytes": 1781427,
+      "sha256": "28893b5ddc7bd02198bdc35db85b14b966b644d2cd5f3920b0d9c9468cfabf20"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-15-zoom.jpg",
+      "width": 1600,
+      "height": 458,
+      "bytes": 376006,
+      "sha256": "0e2738ec1ae01048fe223912de02dc8fdef066f5dda380f7ff3e780aa2a2cff5"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-17-zoom.jpg",
+      "width": 2182,
+      "height": 3000,
+      "bytes": 1962806,
+      "sha256": "31699a74209a81780bfe698bad8a076f8ccde4f00e003db32e6a976cd5493dbd"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-18-zoom.jpg",
+      "width": 2182,
+      "height": 3000,
+      "bytes": 1866509,
+      "sha256": "456f8da00794137346fc7c5e0796fede7ac2b29f629e488516265fc273048dae"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-19-zoom.jpg",
+      "width": 2198,
+      "height": 3000,
+      "bytes": 1986107,
+      "sha256": "a1274cd44ca4259a9c1fd330392625208379a591b34c1bd49f6758e704cde457"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-20-zoom.jpg",
+      "width": 2221,
+      "height": 3000,
+      "bytes": 1944136,
+      "sha256": "0b6ff0e90d1b14a4027047517d0fe1cc4b4da19d01c41d98014f61322606d44f"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-31-zoom.jpg",
+      "width": 1561,
+      "height": 750,
+      "bytes": 468136,
+      "sha256": "3f0dc5df1edfab647818994a1140ff9156d9756fbc03b8675ea814d429429d34"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-35-zoom.jpg",
+      "width": 2296,
+      "height": 3000,
+      "bytes": 2164191,
+      "sha256": "f726e10b5b3ff6600745b82c69c7d1637d28c18f71cf0a38854c7c101dc64f7c"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-37-zoom.jpg",
+      "width": 3000,
+      "height": 1853,
+      "bytes": 1877225,
+      "sha256": "d208272eefe0a6ef263b5caf7b6b8cc44896f782c90075258fe244575a83329a"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-38-zoom.jpg",
+      "width": 1895,
+      "height": 3000,
+      "bytes": 1615537,
+      "sha256": "0a11f401a212379bc70cd79260345ec9bd5e0cca8b429faa230d1bbeab77d168"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-39-zoom.jpg",
+      "width": 1850,
+      "height": 3000,
+      "bytes": 1883518,
+      "sha256": "7c1dcae75d368e270a8a6569aac9be25c9a255f50f43eea23236c52801d53ab8"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-40-zoom.jpg",
+      "width": 1807,
+      "height": 3000,
+      "bytes": 1525583,
+      "sha256": "48fc0c53a85c6c041854a7c73144960eab526fcc2e1793e04d97f6045983ea4e"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-41-zoom.jpg",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 1999391,
+      "sha256": "e2c5f58c7d84e3456fb7f0516dae7e5365943112a2e315b72d0ad0420c5c35d5"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-42-zoom.jpg",
+      "width": 1894,
+      "height": 3000,
+      "bytes": 1936172,
+      "sha256": "6cc57a8e3a7c2d9e80a4b8587c76f7ec0edb1e67b9f5b8eb764883f99dfac1ee"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-43-zoom.jpg",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 1871742,
+      "sha256": "dc6abcbc328e86d284f55b932a1343b7dbe73f2e258b7a49bd9c98983d1298b8"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-44-zoom.jpg",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 1858466,
+      "sha256": "42306ca3517961511289e3e54e458375e48a35e4229efaab14c2eee2cb547aac"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-45-zoom.jpg",
+      "width": 3000,
+      "height": 1775,
+      "bytes": 1800855,
+      "sha256": "e3a97bde3eb9eaa1204b99874c4c33bbf96a6609319fee3e7ea18f8456433137"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-46-zoom.jpg",
+      "width": 3000,
+      "height": 2072,
+      "bytes": 2313901,
+      "sha256": "2693e256ddba1ce2dedeacfc79b0ab4a360e73ad424c36240ad0673f6fc42c3b"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-47-zoom.jpg",
+      "width": 3000,
+      "height": 2119,
+      "bytes": 2100497,
+      "sha256": "c3ddf22544705dba685e901aab1cd96e257a9d20237c6dbfaacaff88f9df968e"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-48-zoom.jpg",
+      "width": 3000,
+      "height": 2033,
+      "bytes": 2183180,
+      "sha256": "5a68456db91c054849d4a4e2187cb9231ed58c7a131a546f15ae721da5673254"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-49-zoom.jpg",
+      "width": 3000,
+      "height": 2000,
+      "bytes": 2133446,
+      "sha256": "9ac67a3b415ce3975fbd81c18f45de31e75aae08da7740f5e1632ff6c4571f2d"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-50-zoom.jpg",
+      "width": 3000,
+      "height": 2000,
+      "bytes": 2245124,
+      "sha256": "66d61fd1ba53eb843a09a3035388dee8d4bb5b4522834d0dfdf40efd5d41119e"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-51-zoom.jpg",
+      "width": 3000,
+      "height": 2071,
+      "bytes": 2305108,
+      "sha256": "abd6b0d9f5df157d90730839e2f8f90fd738b140b9cae532c821434053f91e47"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-52-zoom.jpg",
+      "width": 2000,
+      "height": 2621,
+      "bytes": 3298826,
+      "sha256": "26f20bc5a2992dec145c8163912f5e9839371cadb758b744ce89e1ea50806723"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-53-zoom.jpg",
+      "width": 3000,
+      "height": 1726,
+      "bytes": 1751039,
+      "sha256": "4ce7fef9eea1ed2baebd64a232d6240bd598b8dd4cc0d58b00c94463c3ab70d4"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-60-zoom.jpg",
+      "width": 1576,
+      "height": 2770,
+      "bytes": 1078758,
+      "sha256": "0beb8ef29ebe77f574e4855a0c69da92e4a4472765ad0bf9fc5ab1dcefe35fc3"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-61-zoom.jpg",
+      "width": 2198,
+      "height": 3000,
+      "bytes": 2860631,
+      "sha256": "93db36997c4af3f710ba8bfec87917b608e8b4665f03c5747f699a8329c73ff4"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-62-zoom.jpg",
+      "width": 2198,
+      "height": 3000,
+      "bytes": 2950117,
+      "sha256": "683728a2df02d0e5010351f9fdee3dcac1738f135364dafbdde2433c720ec725"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-63-zoom.jpg",
+      "width": 1845,
+      "height": 2750,
+      "bytes": 2772476,
+      "sha256": "42b50ddb36e32c3f4933a3368033eb31b57384b9773425a54f4062e158eac69c"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-64-zoom.jpg",
+      "width": 2139,
+      "height": 3000,
+      "bytes": 3171763,
+      "sha256": "221098458f0133e7fb3a3cf638e4f0bf69247795223d9cf35a4cad0bc45b6cee"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-65-zoom.jpg",
+      "width": 2136,
+      "height": 3000,
+      "bytes": 3066244,
+      "sha256": "b9d60ab7ace8917c681c56cd5f359929f011149e7af1a947d246e7dfdb401d18"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-73-zoom.jpg",
+      "width": 1985,
+      "height": 3000,
+      "bytes": 1778051,
+      "sha256": "31a61712212aed8bb840fe6e4a0a2caa00b26ad1c93da73e5dd62d7662703275"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-74-zoom.jpg",
+      "width": 2037,
+      "height": 3000,
+      "bytes": 5002210,
+      "sha256": "6e3c8777fedce41ceb6799c4a8db07fa87c938e8eade9f5162dfa469dd127af9"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-76-zoom.jpg",
+      "width": 2144,
+      "height": 3000,
+      "bytes": 3024496,
+      "sha256": "08dadeee569b6c7413c3af6171c7a40edf98bd5a78149126f4c4b6ac3d258476"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-77-zoom.jpg",
+      "width": 2152,
+      "height": 3000,
+      "bytes": 2877990,
+      "sha256": "4ad7d4698d4cbe2a8be18bf303416059df49463acd6e6eb7fe15877c270cdadc"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-78-zoom.jpg",
+      "width": 2181,
+      "height": 3000,
+      "bytes": 2967586,
+      "sha256": "16ede005fa93bf317fc8fa8931b01c4bdd1328bfc0f06b83799e35e78bed973c"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-79-zoom.jpg",
+      "width": 2166,
+      "height": 3000,
+      "bytes": 3066758,
+      "sha256": "e78c3e64691c155ad52c15013d8d2df77405bbff8de8f8e93e3813afab0d8266"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-80-zoom.jpg",
+      "width": 1956,
+      "height": 2767,
+      "bytes": 1624652,
+      "sha256": "5f65b76f04bf1c4cdb0723d8f073f1b72c40e15c203c05930704774f9dd4e98c"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-81-zoom.jpg",
+      "width": 1441,
+      "height": 2550,
+      "bytes": 1532818,
+      "sha256": "dc057d7f3879d01403d87ef10d346a279f6e79764a408e83388988f1c8ed3a54"
+    },
+    {
+      "path": "Images/Simone-Martini/simone-martini-82-zoom.jpg",
+      "width": 2400,
+      "height": 1800,
+      "bytes": 1201204,
+      "sha256": "dac7a98ca732aed79884e4a7e83d3fccfdd67271479460e9ce7b91168d3e1012"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-11-zoom.jpg",
+      "width": 1518,
+      "height": 2516,
+      "bytes": 533671,
+      "sha256": "ccf14f9a3007bb29e41976c337afd7b2dd86ddacd9f8daf908bd2f27cb6cb424"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-12-zoom.jpg",
+      "width": 1573,
+      "height": 2590,
+      "bytes": 484964,
+      "sha256": "fe569c595b97e6a326a9ae3940d001cf97e7473775aa85c795aa9f2e626a6cf0"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-28-zoom.jpg",
+      "width": 1266,
+      "height": 1700,
+      "bytes": 591136,
+      "sha256": "a2b2f14a680d2a782ac9f83f896b0c8ca43645bab2d1fb0a1d839684dc49f205"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-42-zoom.jpg",
+      "width": 3000,
+      "height": 2603,
+      "bytes": 2244372,
+      "sha256": "28e88dd75a305681988162f85813e093509d88631b83c97b93cdf1601f4d38e8"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-43-zoom.jpg",
+      "width": 1685,
+      "height": 1799,
+      "bytes": 1095510,
+      "sha256": "a4a378170d6de0e26bb859d15c62fd7f0cb3b9a141a7f207ecdcd6071a1dd91f"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-44-zoom.jpg",
+      "width": 1280,
+      "height": 1223,
+      "bytes": 368303,
+      "sha256": "29bf32b80899f63720f5568ca93753e86588937acc80723cc71e16f3b42b9b3a"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-46-zoom.jpg",
+      "width": 1280,
+      "height": 822,
+      "bytes": 206607,
+      "sha256": "46ec6fec704c22373eaf57b6b931959f787ad711ceb55334b4b6f210685744a1"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-47-zoom.jpg",
+      "width": 2103,
+      "height": 2576,
+      "bytes": 309743,
+      "sha256": "3f2e108d8be65b2a3091bae9d26446cc9ef2bd137be5d6bdcfd3fb5502eded9c"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-48-zoom.jpg",
+      "width": 1041,
+      "height": 1600,
+      "bytes": 266814,
+      "sha256": "91ec756db47362c1743718247ac6639e41b53d2a5d59837d9d46e2d05a248c49"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-49-zoom.jpg",
+      "width": 2611,
+      "height": 3000,
+      "bytes": 3455630,
+      "sha256": "01340abbd56f7b6e4ff6edfcf9d1af45e186f3c95dcdfba8eb417e7bac5d4152"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-50-zoom.jpg",
+      "width": 1609,
+      "height": 3000,
+      "bytes": 1750636,
+      "sha256": "1dc8515189cbe232b8a7047782c33b8e4c6473d61548b2e7f78ab093806a2df7"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-52-zoom.jpg",
+      "width": 2453,
+      "height": 3000,
+      "bytes": 2007377,
+      "sha256": "6728d10143cabaf2e88d72b50846851ae9c709605ade822377409bad19a93945"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-53-zoom.jpg",
+      "width": 1090,
+      "height": 1280,
+      "bytes": 399500,
+      "sha256": "b71f6c0f95bdf0d21acc9d275ceef6420b7da21aa59c2490556fe80f4dc10806"
+    },
+    {
+      "path": "Images/Simone-dei-Crocifissi/simone-dei-crocifissi-57-zoom.jpg",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 1875534,
+      "sha256": "218f34ae34b51ddd06049ed81e6649061b04002e405a5e2f7ea92437aa8ae0dd"
+    },
+    {
+      "path": "Images/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg",
+      "width": 2370,
+      "height": 3000,
+      "bytes": 1355956,
+      "sha256": "d238d16aaee02eda766c2e82e3e25d16a6be41bf1739356c1c0ed7cce2acabcd"
+    },
+    {
+      "path": "Images/Tino-di-Camaino/tino-di-camaino-28-zoom.jpg",
+      "width": 1940,
+      "height": 3000,
+      "bytes": 677365,
+      "sha256": "ddaf76ed17403da7309155b011db257f2ab3025cf5676cd4d9b8dec0f73cd217"
+    },
+    {
+      "path": "Images/Tino-di-Camaino/tino-di-camaino-29-zoom.jpg",
+      "width": 1315,
+      "height": 3000,
+      "bytes": 1006603,
+      "sha256": "91c3e103023081784e7e9b6dc5b13b334beee139ecff7a068d1ded5f7f1cea42"
+    },
+    {
+      "path": "Images/Tino-di-Camaino/tino-di-camaino-30-zoom.jpg",
+      "width": 2700,
+      "height": 1579,
+      "bytes": 549269,
+      "sha256": "cd5960f0c4ae47fc4560ecdd88e5d9e810795ac1357f9b2b80bfc72f4cc8def5"
+    },
+    {
+      "path": "Images/Vitale-da-Bologna/vitale-da-bologna-20-zoom.jpg",
+      "width": 1925,
+      "height": 3000,
+      "bytes": 2924964,
+      "sha256": "b33840e93ab43c0efb0e8492f05f7de6f4ca57b4c85778704697d6d3a8c266b7"
+    }
+  ]
+}

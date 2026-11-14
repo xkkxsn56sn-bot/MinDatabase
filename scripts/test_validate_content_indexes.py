@@ -49,6 +49,13 @@ k. Check 12, i nomi delle immagini dei codici: il nome deriva dalla
 l. Check 9b, i file di zoom: il caso reale (Lippo fig. 06, NG752) e i
    negativi — refuso nel percorso, maiuscole, nome fuori convenzione, base
    mancante o non usata dalla scheda, file orfano.
+m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
+   (assets/data/zoom-manifest.json), le basi su disco. Uno zoom che non e'
+   piu' su disco ma e' nel manifest e' verde; uno su disco ma non nel
+   manifest e' rosso; un manifest mancante o rotto e' un'anomalia; gli
+   orfani sono voci del manifest che nessuna scheda usa. Poi la verifica di
+   R2 (check_zoom_r2.py) su risposte finte: 200 giusto, 404, tipo sbagliato,
+   byte o sha256 diversi.
 """
 import sys
 from pathlib import Path
@@ -56,6 +63,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import validate_content_indexes as v  # noqa: E402
 import codex_image_names as cin  # noqa: E402
+import check_zoom_r2 as r2  # noqa: E402
 
 FAILURES = []
 
@@ -305,6 +313,62 @@ check("l. orfano: rosso",
       == [f"{D}-09-zoom.jpg"])
 check("l. nessun orfano: verde",
       v.zoom_orphans({f"{D}-06-zoom.jpg"}, [f"{D}-06-zoom.jpg"]) == [])
+
+# --- m. 9b contro il manifest, e la verifica di R2 ----------------------
+import hashlib  # noqa: E402
+import json  # noqa: E402
+import tempfile  # noqa: E402
+from collections import defaultdict  # noqa: E402
+
+BASES = {f"{D}-06.jpg"}
+MANIFEST = {f"{D}-06-zoom.jpg"}
+
+
+def zm(text, bases=BASES, manifest=MANIFEST):
+    return [c for c, _ in v.zoom_ref_problems(text, bases.__contains__, manifest.__contains__)]
+
+
+check("m. zoom nel manifest e non su disco (dopo R2): verde", zm(FIG) == [], str(zm(FIG)))
+check("m. zoom su disco ma non nel manifest: rosso",
+      "data-zoom-src inesistente" in zm(FIG, BASES | MANIFEST, set()))
+check("m. base mancante su disco, zoom nel manifest: rosso",
+      "Base del file zoom mancante" in zm(NOBASE, BASES, MANIFEST | {f"{D}-07-zoom.jpg"}))
+check("m. maiuscole sbagliate rispetto al manifest: rosso",
+      "data-zoom-src inesistente" in zm(CASE))
+check("m. orfano del manifest: rosso",
+      v.zoom_orphans(set(), MANIFEST) == sorted(MANIFEST))
+
+with tempfile.TemporaryDirectory() as tmp:
+    good = Path(tmp) / "zoom-manifest.json"
+    good.write_text(json.dumps({"zoom_base": "https://zoom.example", "bucket": "b",
+                                "files": [{"path": f"{D}-06-zoom.jpg"}]}), encoding="utf-8")
+    bad = Path(tmp) / "rotto.json"
+    bad.write_text("{non json", encoding="utf-8")
+    check("m. manifest letto: percorsi esatti",
+          v.load_zoom_manifest(good) == {f"{D}-06-zoom.jpg"})
+    check("m. manifest mancante: None", v.load_zoom_manifest(Path(tmp) / "manca.json") is None)
+    check("m. manifest rotto: None", v.load_zoom_manifest(bad) is None)
+    an = defaultdict(list)
+    v.check_zoom_files([], an, manifest_path=v.REPO_ROOT / "assets" / "data" / "manca-di-proposito.json")
+    check("m. manifest illeggibile: anomalia", "Manifest degli zoom illeggibile" in an)
+
+BODY = b"\xff\xd8zoom"
+ENTRY = {"path": f"{D}-06-zoom.jpg", "bytes": len(BODY), "sha256": hashlib.sha256(BODY).hexdigest()}
+OK = {"content-type": "image/jpeg", "content-length": str(len(BODY))}
+check("m. R2: URL dal manifest",
+      r2.zoom_url("https://zoom.medievalvisions.com/", "/Images/A/a-01-zoom.jpg")
+      == "https://zoom.medievalvisions.com/Images/A/a-01-zoom.jpg")
+check("m. R2: 200 con tipo e byte giusti: verde", r2.entry_problems(ENTRY, (200, OK, None), False) == [])
+check("m. R2: 404: rosso", r2.entry_problems(ENTRY, (404, {}, None), False) == ["status 404"])
+check("m. R2: tipo sbagliato: rosso",
+      r2.entry_problems(ENTRY, (200, {**OK, "content-type": "text/html"}, None), False)
+      == ["content-type text/html"])
+check("m. R2: byte diversi: rosso",
+      r2.entry_problems(ENTRY, (200, {**OK, "content-length": "3"}, None), False)
+      == [f"bytes 3 != {len(BODY)}"])
+check("m. R2: sha256 uguale con --sha: verde", r2.entry_problems(ENTRY, (200, OK, BODY), True) == [])
+check("m. R2: sha256 diverso con --sha: rosso",
+      "sha256 diverso" in r2.entry_problems(ENTRY, (200, OK, b"\xff\xd8ZOOM"), True))
 
 print()
 if FAILURES:

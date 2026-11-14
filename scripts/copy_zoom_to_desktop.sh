@@ -1,13 +1,13 @@
 #!/bin/bash
-# Copy every git-tracked Images/**/*-zoom.jpg into ~/Desktop/Zoom/<folder>/,
+# Copy every Zoom/Images/**/*-zoom.jpg into ~/Desktop/Zoom/<folder>/,
 # keeping the file name (e.g. ~/Desktop/Zoom/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg).
 #
 # rsync without --delete: a zoom file removed from the repository keeps its
 # copy on the Desktop. The destination is created if missing.
 #
-# Called in background by the post-commit and post-merge hooks when the
-# commit touches a *-zoom.jpg; it never blocks git: on any error it logs and
-# exits 0.
+# Called by scripts/sync_zoom_r2.sh after a successful --apply (the zoom
+# files are no longer in git, so the commit hooks no longer trigger it); it
+# can also be run by hand. On any error it logs and exits 0.
 #
 # Usage: scripts/copy_zoom_to_desktop.sh [--dry-run] [--quiet]
 #
@@ -43,10 +43,13 @@ log() {
 
 cd "$REPO" || { log "ERROR cannot cd to $REPO"; exit 0; }
 
-FILES="$(git -c core.quotepath=false ls-files -- 'Images/**/*-zoom.jpg' 2>/dev/null)" || { log "ERROR git ls-files failed"; exit 0; }
+# Gli zoom non stanno piu' in git: la sorgente e' la cartella locale Zoom/Images
+# (ignorata da git, sincronizzata con R2 da scripts/sync_zoom_r2.sh).
+SRC="$REPO/Zoom/Images"
+FILES="$(cd "$SRC" 2>/dev/null && find . -type f -name '*-zoom.jpg' | sed 's#^\./##' | LC_ALL=C sort)"
 if [ -z "$FILES" ]; then
-  log "no tracked zoom files"
-  say "No tracked zoom files."
+  log "no zoom files in $SRC"
+  say "No zoom files in $SRC."
   exit 0
 fi
 
@@ -54,13 +57,13 @@ if [ "$DRY" -eq 0 ]; then
   mkdir -p "$DEST" 2>/dev/null || { log "ERROR cannot create $DEST"; exit 0; }
 fi
 
-# Images/<folder>/<file> -> <folder>/<file>, relative to Images/, so rsync
-# recreates the per-scheda subfolders under $DEST.
-LIST="$(printf '%s\n' "$FILES" | sed 's#^Images/##')"
+# <folder>/<file>, relative to Zoom/Images/, so rsync recreates the
+# per-scheda subfolders under $DEST.
+LIST="$FILES"
 OPTS=(-a --itemize-changes)
 [ "$DRY" -eq 1 ] && OPTS+=(--dry-run)
 
-OUT="$(printf '%s\n' "$LIST" | rsync "${OPTS[@]}" --files-from=- "$REPO/Images/" "$DEST/" 2>&1)"
+OUT="$(printf '%s\n' "$LIST" | rsync "${OPTS[@]}" --files-from=- "$SRC/" "$DEST/" 2>&1)"
 RC=$?
 COPIED="$(printf '%s\n' "$OUT" | grep -c '^>f' || true)"
 TOTAL="$(printf '%s\n' "$LIST" | wc -l | tr -d ' ')"
@@ -72,7 +75,7 @@ if [ "$RC" -ne 0 ]; then
 fi
 
 TAG=""; [ "$DRY" -eq 1 ] && TAG="[dry-run] "
-log "${TAG}ok: $TOTAL tracked, $COPIED copied/updated -> $DEST"
+log "${TAG}ok: $TOTAL local, $COPIED copied/updated -> $DEST"
 printf '%s\n' "$OUT" | grep '^>f' | sed "s#^>f[^ ]* #${TAG}  + #" | while read -r line; do log "$line"; done
-say "${TAG}$TOTAL tracked zoom files, $COPIED copied/updated -> $DEST"
+say "${TAG}$TOTAL local zoom files, $COPIED copied/updated -> $DEST"
 exit 0

@@ -34,3 +34,8 @@ drafts/
 
 # Permessi e corrispondenza sui diritti delle immagini: mai nel repository (pubblico)
 *PERMESSO*
+
+# Zoom ad alta risoluzione: vivono qui in locale e su R2 (bucket mindatabase-zoom,
+# https://zoom.medievalvisions.com), non nel repository. Il backup su Prog li
+# copia; scripts/sync_zoom_r2.sh li carica e aggiorna assets/data/zoom-manifest.json.
+Zoom/

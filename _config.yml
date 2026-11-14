@@ -23,10 +23,17 @@ include:
 
 # Default front matter deleted to force Jekyll to process all markdown files in the Content directory, ensuring they are included in the site build.
 
+# Base degli zoom ad alta risoluzione, prefissata ai data-zoom-src da
+# _includes/image-zoom.html. Vuota in locale (i percorsi /Images/... restano
+# relativi alla radice); in produzione la imposta _config.production.yml, che
+# le due build di .github/workflows/deploy-pages.yml aggiungono con --config.
+zoom_base: ""
+
 # Exclude from processing
 exclude:
   - scripts/
   - cloudflare/
+  - Zoom/
   - .gitignore
   - README.md
   - newsletter_subscribers.csv

@@ -23,6 +23,7 @@ on:
       - "_layouts/**"
       - "_includes/**"
       - "_config.yml"
+      - "_config.production.yml"
       - "Gemfile"
       - "Gemfile.lock"
       - "CNAME"
@@ -70,7 +71,7 @@ jobs:
           bundler-cache: true
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --destination ./_site
+        run: bundle exec jekyll build --config _config.yml,_config.production.yml --destination ./_site
         env:
           JEKYLL_ENV: production
 
@@ -106,7 +107,7 @@ jobs:
           bundler-cache: true
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --destination ./_site
+        run: bundle exec jekyll build --config _config.yml,_config.production.yml --destination ./_site
         env:
           JEKYLL_ENV: production
 

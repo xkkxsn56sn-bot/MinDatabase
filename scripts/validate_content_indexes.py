@@ -54,6 +54,11 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     sono: 'Armagh-01.jpg' trova 'armagh-01.jpg' su macOS e fallisce su
     GitHub Pages. Le immagini non passano da nessun altro controllo.
 
+9b. Ogni data-zoom-src punta a uno zoom presente in
+    assets/data/zoom-manifest.json (gli zoom stanno su R2, non nel
+    repository), con nome <slug>-NN-zoom.jpg e base <slug>-NN.jpg su disco,
+    usata dalla stessa scheda; ogni voce del manifest e' usata da una scheda.
+
 10. Dentro ogni sezione-lettera di endnotes.html le voci sono ordinate per
     slug. La lettera di sezione segue invece il titolo visualizzato, che
     puo' cominciare con un onorifico: 'Pope Gregory IX' sta in P con slug
@@ -631,26 +636,43 @@ def check_image_references(md_files, anomalies):
 # --- Check 9b: i file di zoom ad alta risoluzione -----------------------
 # Un <img> puo' portare data-zoom-src="/Images/<cartella>/<slug>-NN-zoom.jpg":
 # e' il file piu' grande che il visualizzatore carica al posto di quello
-# mostrato nella pagina. Il contratto: (1) il file esiste, maiuscole incluse;
-# (2) il nome e' <slug>-NN-zoom.jpg; (3) la base <slug>-NN.jpg esiste nella
-# stessa cartella ed e' usata come src dalla stessa scheda; (4) ogni *-zoom.jpg
-# in Images/ e' referenziato da almeno un data-zoom-src (altrimenti e' un
-# orfano: peso morto nel repository).
+# mostrato nella pagina. Gli zoom non stanno nel repository ma su R2
+# (https://zoom.medievalvisions.com, prefisso site.zoom_base): il riferimento
+# e' assets/data/zoom-manifest.json, scritto da scripts/sync_zoom_r2.sh. Il
+# contratto: (1) lo zoom e' nel manifest, maiuscole incluse; (2) il nome e'
+# <slug>-NN-zoom.jpg; (3) la base <slug>-NN.jpg esiste su disco nella stessa
+# cartella ed e' usata come src dalla stessa scheda; (4) ogni voce del manifest
+# e' referenziata da almeno un data-zoom-src (altrimenti e' un orfano: un file
+# su R2 che nessuna scheda mostra). Che R2 risponda davvero lo verifica
+# scripts/check_zoom_r2.py, in CI.
 ZOOM_REF_RE = re.compile(r'\bdata-zoom-src="([^"]+)"')
 ZOOM_NAME_RE = re.compile(r"^(?P<base>.+-\d{2,})-zoom\.jpg$")
+ZOOM_MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 
 
-def zoom_ref_problems(text, exists):
+def load_zoom_manifest(path=ZOOM_MANIFEST):
+    """Percorsi degli zoom nel manifest, oppure None se manca o e' illeggibile."""
+    try:
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+        return {e["path"] for e in data["files"]}
+    except (OSError, ValueError, KeyError, TypeError):
+        return None
+
+
+def zoom_ref_problems(text, exists, zoom_exists=None):
     """Anomalie dei data-zoom-src di una scheda: [(categoria, dettaglio)].
 
-    `exists(rel_path)` dice se il file c'e' con le maiuscole esatte; si passa
-    dall'esterno perche' la batteria di test lo sostituisce con un insieme.
+    `exists(rel_path)` dice se una base c'e' su disco con le maiuscole esatte;
+    `zoom_exists(rel_path)` se uno zoom e' nel manifest (per default lo stesso
+    `exists`). Si passano dall'esterno perche' la batteria di test li
+    sostituisce con insiemi.
     """
+    zoom_exists = zoom_exists or exists
     out = []
     src_refs = {urllib.parse.unquote(r).lstrip("/") for r in IMG_REF_RE.findall(text)}
     for ref in sorted(set(ZOOM_REF_RE.findall(text))):
         rel = urllib.parse.unquote(ref).lstrip("/")
-        if not exists(rel):
+        if not zoom_exists(rel):
             out.append(("data-zoom-src inesistente", f"'{ref}'"))
         path = Path(rel)
         m = ZOOM_NAME_RE.match(path.name)
@@ -667,12 +689,17 @@ def zoom_ref_problems(text, exists):
     return out
 
 
-def zoom_orphans(referenced, on_disk):
-    """File *-zoom.jpg su disco non referenziati da nessun data-zoom-src."""
-    return sorted(set(on_disk) - set(referenced))
+def zoom_orphans(referenced, available):
+    """Zoom disponibili (voci del manifest) non referenziati da nessun data-zoom-src."""
+    return sorted(set(available) - set(referenced))
 
 
-def check_zoom_files(md_files, anomalies):
+def check_zoom_files(md_files, anomalies, manifest_path=ZOOM_MANIFEST):
+    manifest = load_zoom_manifest(manifest_path)
+    if manifest is None:
+        anomalies["Manifest degli zoom illeggibile"].append(
+            f"{Path(manifest_path).relative_to(REPO_ROOT)}")
+        manifest = set()
     referenced = set()
     for md_path in md_files:
         try:
@@ -680,17 +707,13 @@ def check_zoom_files(md_files, anomalies):
         except (UnicodeDecodeError, OSError):
             continue
         rel_src = str(md_path.relative_to(REPO_ROOT))
-        for category, detail in zoom_ref_problems(text, resolve_case_sensitive):
+        for category, detail in zoom_ref_problems(
+                text, resolve_case_sensitive, manifest.__contains__):
             anomalies[category].append(f"{rel_src}: {detail}")
         referenced.update(
             urllib.parse.unquote(r).lstrip("/") for r in ZOOM_REF_RE.findall(text))
 
-    on_disk = []
-    for dirpath, _, names in os.walk(REPO_ROOT / "Images"):
-        for name in names:
-            if name.endswith("-zoom.jpg"):
-                on_disk.append(str((Path(dirpath) / name).relative_to(REPO_ROOT)))
-    for orphan in zoom_orphans(referenced, on_disk):
+    for orphan in zoom_orphans(referenced, manifest):
         anomalies["File zoom orfano"].append(orphan)
 
 

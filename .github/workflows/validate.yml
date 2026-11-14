@@ -28,6 +28,14 @@ jobs:
       - name: Validate nav consistency
         run: python3 scripts/validate_nav_consistency.py
 
+      # Gli zoom stanno su R2, non nel repository: il check 9b verifica le
+      # schede contro assets/data/zoom-manifest.json, questo passo verifica
+      # che ogni voce del manifest risponda da https://zoom.medievalvisions.com
+      # (200, image/jpeg, byte giusti). Gira qui perche' validate.yml e'
+      # l'unico workflow senza filtri di percorso.
+      - name: Zoom files on R2
+        run: python3 scripts/check_zoom_r2.py
+
       # Non e' un validatore di contenuto: sorveglia la toolchain delle
       # notizie. Sta qui perche' validate.yml e' l'unico workflow senza
       # filtri di path, quindi la batteria gira sullo stesso push che porta

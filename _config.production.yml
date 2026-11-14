@@ -1,0 +1,7 @@
+# Sovrascritture di produzione, aggiunte a _config.yml dalle build di
+# .github/workflows/deploy-pages.yml (GitHub Pages e Cloudflare):
+#   bundle exec jekyll build --config _config.yml,_config.production.yml
+# In locale non si usa: gli zoom si aprono dai percorsi /Images/... del sito.
+
+# Gli zoom vivono su R2 (bucket mindatabase-zoom), pubblicati su questo dominio.
+zoom_base: "https://zoom.medievalvisions.com"

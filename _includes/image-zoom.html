@@ -5,8 +5,11 @@
   double-click or double-tap to toggle fit / maximum, two-finger pinch on touch
   screens, keys + - 0, arrows to pan, Esc to close.
   Optional: data-zoom-src="/Images/.../file-large.jpg" on an <img> makes the
-  viewer load a larger file than the one shown in the page.
-  Self-contained: no external libraries, no cookies, no network calls.
+  viewer load a larger file than the one shown in the page. The zoom files
+  live on R2: site.zoom_base (empty locally, https://zoom.medievalvisions.com
+  in production, see _config.production.yml) is prefixed to data-zoom-src
+  here, so the schede keep their root-relative paths.
+  Self-contained: no external libraries, no cookies, no third-party calls.
 {%- endcomment -%}
 <style>
   .entry__content figure img,
@@ -71,6 +74,7 @@
   // natural size. The image opens at the size that fits the screen, but
   // never larger than its natural size.
   var MAXN = 2, STEP = 1.5, MAX = 2, k = 1;
+  var ZOOM_BASE = {{ site.zoom_base | default: "" | jsonify }};
   var overlay = document.querySelector(".iz-overlay");
   var content = document.querySelector(".entry__content");
   if (!overlay || !content) return;
@@ -133,8 +137,11 @@
     if (!t.closest("figure") && !(t.parentElement && t.parentElement.tagName === "P")) return;
     var fig = t.closest("figure");
     var fc = fig && fig.querySelector("figcaption");
-    // data-zoom-src: optional larger file to show in the viewer
-    open(t.getAttribute("data-zoom-src") || t.currentSrc || t.src, t.alt, fc ? fc.textContent.trim() : "", t);
+    // data-zoom-src: optional larger file to show in the viewer, served from
+    // ZOOM_BASE (R2) when it is set; root-relative paths keep working locally
+    var zoom = t.getAttribute("data-zoom-src");
+    if (zoom && ZOOM_BASE && zoom.charAt(0) === "/") zoom = ZOOM_BASE.replace(/\/+$/, "") + zoom;
+    open(zoom || t.currentSrc || t.src, t.alt, fc ? fc.textContent.trim() : "", t);
   });
   // Keyboard access to the images in the page
   content.querySelectorAll("figure img, p > img").forEach(function (im) {
