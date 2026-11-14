@@ -118,7 +118,7 @@ meta:
       - title: "Giotto di Bondone"
         url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII-c/Simone-Martini.html"
+        url: "/Content/Artists/XIV-c/Simone-Martini.html"
       - title: "Andrea Pisano"
         url: "/Content/Artists/XIV-c/Andrea-Pisano.html"
       - title: "Giovanni di Balduccio"

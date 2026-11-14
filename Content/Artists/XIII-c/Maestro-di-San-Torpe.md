@@ -102,7 +102,7 @@ meta:
       - title: "Giotto di Bondone"
         url: "/Content/Artists/XIII-c/Giotto-di-Bondone.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII-c/Simone-Martini.html"
+        url: "/Content/Artists/XIV-c/Simone-Martini.html"
       - title: "Giunta Pisano"
         url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
 

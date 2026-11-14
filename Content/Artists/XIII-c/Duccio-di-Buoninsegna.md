@@ -89,7 +89,7 @@ meta:
       - title: "Coppo di Marcovaldo"
         url: "/Content/Artists/XIII-c/Coppo-di-Marcovaldo.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII-c/Simone-Martini.html"
+        url: "/Content/Artists/XIV-c/Simone-Martini.html"
       - title: "Ugolino di Nerio"
         url: "/Content/Artists/XIV-c/Ugolino-di-Nerio.html"
 

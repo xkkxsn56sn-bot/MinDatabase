@@ -87,7 +87,7 @@ meta:
       - title: "Duccio di Buoninsegna"
         url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
       - title: "Simone Martini"
-        url: "/Content/Artists/XIII-c/Simone-Martini.html"
+        url: "/Content/Artists/XIV-c/Simone-Martini.html"
 ---
 
 ## Identity and Scholarly Reconstruction
