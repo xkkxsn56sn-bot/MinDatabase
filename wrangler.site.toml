@@ -4,13 +4,18 @@
 #   npx wrangler@4 deploy --config wrangler.site.toml
 # dal job deploy-cloudflare di .github/workflows/deploy-pages.yml.
 #
-# Tappa 1: solo l'indirizzo *.workers.dev, nessuna route e nessun dominio
-# personalizzato. www.medievalvisions.com resta su GitHub Pages.
+# Tappa 2: www.medievalvisions.com e' un Custom Domain di questo Worker.
+# Va dichiarato qui: la configurazione di Wrangler prevale sul pannello, e un
+# deploy senza routes rischierebbe di staccare il dominio aggiunto a mano.
+# workers_dev resta true: con routes presenti Wrangler altrimenti spegnerebbe
+# l'indirizzo *.workers.dev. Il token CLOUDFLARE_API_TOKEN deve avere i
+# permessi di zona (Workers Routes) su medievalvisions.com.
 
 name = "medievalvisions-site"
 main = "cloudflare/site-worker.js"
 compatibility_date = "2025-09-01"
 workers_dev = true
+routes = [{ pattern = "www.medievalvisions.com", custom_domain = true }]
 
 [assets]
 directory = "./_site"
