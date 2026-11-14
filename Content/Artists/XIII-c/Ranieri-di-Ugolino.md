@@ -52,6 +52,8 @@ scholars:
     url: "/scholars.html#caleca-antonino"
   - title: "Carli, Enzo"
     url: "/scholars.html#carli-enzo"
+  - title: "Cuppini, Luciano"
+    url: "/scholars.html#cuppini-luciano"
   - title: "Garrison, Edward B."
     url: "/scholars.html#garrison-edward"
 ---
@@ -68,7 +70,7 @@ Ugolino di Tedice, documented as a painter in Pisa in 1273 and 1277, forms the i
 
 The Tedice family must also be situated within the broader social fabric of Pisa, a maritime republic whose economic power underwrote a vibrant demand for religious imagery. Enrico, Ugolino, and Ranieri supplied panel paintings—above all crucifixes—that served both the liturgical needs and the didactic ambitions of mendicant churches, parish communities, and charitable institutions. Although documents rarely name specific commissioners in connection with their crosses, the original locations of these works in city churches and hospitals imply close ties with Pisan ecclesiastical and civic elites. Ranieri’s position as the last known painter of the family probably reflects both generational change and the rapid transformation of local taste at the turn of the century, when external masters began to dominate the Pisan scene. The family’s trajectory thus mirrors the rise and partial eclipse of the native Pisan school itself.
 
-Modern scholarship has played a crucial role in reconstructing this genealogy and in assigning to Ranieri the few works now linked with his name. The Dizionario Biografico reminds us that he has sometimes, and without proof, been identified with the so‑called [Maestro di San Martino](/Content/Artists/XIII-c/Maestro-di-San-Martino.html), but emphasizes that this conflation remains hypothetical. Authors such as [Garrison](/scholars.html#garrison-edward), [Carli](/scholars.html#carli-enzo), [Caleca](/scholars.html#caleca-antonino), and [Cuppini](/scholars#cuppini-luciano) have traced stylistic correspondences among the crosses and discussed how Enrico’s expressive idiom and Ugolino’s realism converge in Ranieri’s more advanced treatment of the suffering Christ. The result is a biographical outline in which archival silence is partially compensated by the dense scholarly conversation around the Tedice atelier. Within that construction, Ranieri emerges as a transitional figure whose identity is defined as much by family and style as by individual documents.
+Modern scholarship has played a crucial role in reconstructing this genealogy and in assigning to Ranieri the few works now linked with his name. The Dizionario Biografico reminds us that he has sometimes, and without proof, been identified with the so‑called [Maestro di San Martino](/Content/Artists/XIII-c/Maestro-di-San-Martino.html), but emphasizes that this conflation remains hypothetical. Authors such as [Garrison](/scholars.html#garrison-edward), [Carli](/scholars.html#carli-enzo), [Caleca](/scholars.html#caleca-antonino), and [Cuppini](/scholars.html#cuppini-luciano) have traced stylistic correspondences among the crosses and discussed how Enrico’s expressive idiom and Ugolino’s realism converge in Ranieri’s more advanced treatment of the suffering Christ. The result is a biographical outline in which archival silence is partially compensated by the dense scholarly conversation around the Tedice atelier. Within that construction, Ranieri emerges as a transitional figure whose identity is defined as much by family and style as by individual documents.
 
 ## Patrons and Commissions
 

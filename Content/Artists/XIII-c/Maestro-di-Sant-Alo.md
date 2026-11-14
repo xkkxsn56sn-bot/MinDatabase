@@ -168,7 +168,7 @@ The cimasa carries the inscription that makes the cross a document as well as an
 
 The text is heavily abbreviated, with the Tironian sign 7 for *et* and frequent suspension marks. In this image the upper block can be read approximately as
 
-> IN ISTO LO[CO] S(UN)T R(ECONDITE) S(ANCTE) RELIQUIE AP(OSTOLO)RU(M) PE(TRI) 7 PAU(LI) 7 S(AN)C(T)I IO(HANN)IS B(APTISTE) 7 M(ARIE) MAGDALENE. DE SA(N)GUI(NE) B(EATI) F(RANCISCI) 7 TUNICE EI(US). 7 DE R(ELIQUIIS) S(AN)C(T)E CLA(RE) V(IRGINIS) 7 DE R(ELIQUIIS) MULTOR(UM) S(ANCTORUM). IN CRUCE ARGENTEA PARVULA E(ST) VE(RE) CRUCIS LIGNU(M). DE VESTIMENTIS D(OMI)NI. DE CUNA D(OMI)NI. DE PU[R](PURA)...
+> IN ISTO LO[CO] S(UN)T R(ECONDITE) S(ANCTE) RELIQUIE AP(OSTOLO)RU(M) PE(TRI) 7 PAU(LI) 7 S(AN)C(T)I IO(HANN)IS B(APTISTE) 7 M(ARIE) MAGDALENE. DE SA(N)GUI(NE) B(EATI) F(RANCISCI) 7 TUNICE EI(US). 7 DE R(ELIQUIIS) S(AN)C(T)E CLA(RE) V(IRGINIS) 7 DE R(ELIQUIIS) MULTOR(UM) S(ANCTORUM). IN CRUCE ARGENTEA PARVULA E(ST) VE(RE) CRUCIS LIGNU(M). DE VESTIMENTIS D(OMI)NI. DE CUNA D(OMI)NI. DE PU\[R\](PURA)...
 
 The expansion of the sigla is a provisional reading and should be checked against the object. The national catalogue gives the whole text in normalised form, with a lacuna it does not fill:
 
