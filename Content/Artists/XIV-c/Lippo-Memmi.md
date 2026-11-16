@@ -78,7 +78,7 @@ meta:
 
   - title: "STYLE AND FORMATION"
     list:
-      - "Trained in his father Memmo's civic workshop at San Gimignano"
+      - "Probably trained in his father Memmo's civic workshop at San Gimignano"
       - "By 1317 fully versed in Simone Martini's idiom; an apprenticeship on Simone's Maestà of 1315 is a stylistic hypothesis"
       - "A freer, simplified, more iconic restatement of Simone's models, with softer modelling and an intimate tone"
       - "Painted Gothic frames and fictive spaces around the figures in the small devotional panels"

@@ -633,6 +633,69 @@
       "sha256": "ccf74494d27036e600d968d4f0625e30e9e49462bdd0143e26b8372a4941f94a"
     },
     {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-01-zoom.jpg",
+      "width": 3000,
+      "height": 2188,
+      "bytes": 1785629,
+      "sha256": "2560086ca3cbb821b6420ab2728ae9f4efe670654dcfaaa2a3ca759b590db9cb"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-02-zoom.jpg",
+      "width": 2658,
+      "height": 3000,
+      "bytes": 2195779,
+      "sha256": "4503f90f69b052492928c5d03c94ccb98a4d7b982e06c36cdc7c2bc6f07b6807"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-03-zoom.jpg",
+      "width": 3000,
+      "height": 1582,
+      "bytes": 1087031,
+      "sha256": "93033a599c6728b984d7c1c60867e73afc211b363a843f3d476ced9faa90783e"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-04-zoom.jpg",
+      "width": 1800,
+      "height": 1070,
+      "bytes": 841789,
+      "sha256": "7dbf373501c6610602824a4efc1f17bb510bee6f3bd1a5233a480be5e7a8530f"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-05-zoom.jpg",
+      "width": 455,
+      "height": 1015,
+      "bytes": 226699,
+      "sha256": "c2379bc506d8f54b65c04b32e2079c79bdd37b1e43aec0aa28da38a7881af17c"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-06-zoom.jpg",
+      "width": 1158,
+      "height": 583,
+      "bytes": 267777,
+      "sha256": "7dcc5c428bb8715e383beefc994e48d786db6d9c34289de9c62b68d137e52678"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-07-zoom.jpg",
+      "width": 1998,
+      "height": 2576,
+      "bytes": 757466,
+      "sha256": "b0d44175f524c7e2a39769c3fde7e1e68694f711a2e32252d804c328e4819ef4"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-08-zoom.jpg",
+      "width": 1870,
+      "height": 2063,
+      "bytes": 719249,
+      "sha256": "dc0b5f43c097f42824561497992442b67d8c62ef6a5676b9f8361716e747290d"
+    },
+    {
+      "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-09-zoom.jpg",
+      "width": 1596,
+      "height": 535,
+      "bytes": 378375,
+      "sha256": "4227cd3ca7c26102426553cc319aea7ec19c006b4b2e7ec1486582fb1f9e1ab4"
+    },
+    {
       "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-01-zoom.jpg",
       "width": 1764,
       "height": 3000,

@@ -42,7 +42,7 @@ meta:
       - label: "30–31 December 1321"
         value: "Paid for the racconciatura of the Maestà and for a crucifix for the chapel of the Nine"
       - label: "1324"
-        value: "Buys a house from Memmo di Filippuccio and marries his daughter Giovanna (early or autumn 1324, according to the reference works)"
+        value: "Buys a house from Memmo di Filippuccio and marries his daughter Giovanna (early 1324, between January and February; 1323 in the Sienese style)"
       - label: "1326–1331"
         value: "Panel for the Palazzo del Capitano del Popolo (1326); banners for the duke of Calabria (1327); paid on 2 May 1330 for the castles of Montemassi and Sassoforte; Arcidosso and Castel del Piano (1331)"
       - label: "1333"
