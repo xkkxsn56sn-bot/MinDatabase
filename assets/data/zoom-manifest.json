@@ -122,6 +122,503 @@
       "sha256": "431f404d002daf34e5109904bb6944d1ad78c25286f155482c30e504082478b6"
     },
     {
+      "path": "Images/Lippo-Memmi/lippo-memmi-01-zoom.jpg",
+      "width": 1434,
+      "height": 673,
+      "bytes": 468661,
+      "sha256": "f09a5fda053120222b13b4c2a46d698e4cb23831753d1d65ba501d8b9be9d16e"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-03-zoom.jpg",
+      "width": 3000,
+      "height": 2605,
+      "bytes": 2665824,
+      "sha256": "660c73ae0924909f7ffbdb544c1dca928cbf6e140e77a9d3263f3b263385b512"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-04-zoom.jpg",
+      "width": 485,
+      "height": 1230,
+      "bytes": 189872,
+      "sha256": "648afb4335fed1cad782b8e82231761332b87e1bc69957d7dda46342b73b738d"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-05-zoom.jpg",
+      "width": 500,
+      "height": 1230,
+      "bytes": 188188,
+      "sha256": "f9898fd726a51a5bd33f216e6c9cfa2492890fa4ef90b510669f231c56d879a4"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-06-zoom.jpg",
+      "width": 1125,
+      "height": 2576,
+      "bytes": 575788,
+      "sha256": "d29b06aa90a0b7702de31580782df3b255ebb519d11c6521b6dd6e0053836dc4"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-07-zoom.jpg",
+      "width": 1488,
+      "height": 2292,
+      "bytes": 670801,
+      "sha256": "4d7b7a441343bd9f81c95ffd5bd5094f60de1d8d7f56b85c35e6e02deb2cd7d0"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-08-zoom.jpg",
+      "width": 1069,
+      "height": 1618,
+      "bytes": 684093,
+      "sha256": "5fe003c6c9f0b3b0ecc852a21ee58207dcf38553b9dd3a27aedc284ddc412c59"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-09-zoom.jpg",
+      "width": 725,
+      "height": 1500,
+      "bytes": 278884,
+      "sha256": "14575b86407ba26623e09e3a4d34960a2bdc5dcdfd7d7343f85f1dbd0cc96137"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-10-zoom.jpg",
+      "width": 750,
+      "height": 1614,
+      "bytes": 358071,
+      "sha256": "11241b709a829107e736afb912f2f606555958d81a11169a5d98304ece5b3900"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-11-zoom.jpg",
+      "width": 750,
+      "height": 1672,
+      "bytes": 337597,
+      "sha256": "555fa990d7f6e39a247395c741e43492b00188d80e8d4e2941e7b042e53c0634"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-12-zoom.jpg",
+      "width": 2131,
+      "height": 3000,
+      "bytes": 3199695,
+      "sha256": "4d559b914c124d33dd23924e597d363037e43eb4729701ce1e95a836ccd511a7"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-13-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1236300,
+      "sha256": "07d8a60da56c826b9adf6e831613e7d159a6dbbe1f8e9cedc1e04134ece3c9a6"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-14-zoom.jpg",
+      "width": 1300,
+      "height": 1491,
+      "bytes": 449176,
+      "sha256": "9b46791bde1c60397dda2b06d1d45b882a6ae10ba1c1471087b1bece1e0a548c"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-15-zoom.jpg",
+      "width": 2540,
+      "height": 2200,
+      "bytes": 2354693,
+      "sha256": "16f2622a95b0d93c32d3617933e4e1cffd71e19a5ed4250a64e0d4b06fdaf38e"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-16-zoom.jpg",
+      "width": 2576,
+      "height": 2096,
+      "bytes": 1796376,
+      "sha256": "acf6253ed7e009bd7d350e74e3cea088d7b4462a8a720cbcba21cd13cd3a243a"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-17-zoom.jpg",
+      "width": 2170,
+      "height": 2000,
+      "bytes": 1681637,
+      "sha256": "d32790f261fa9a0a37af8ba631a83f511bcad299d0bf0f7d5dc95d5e267d771a"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-18-zoom.jpg",
+      "width": 1222,
+      "height": 2576,
+      "bytes": 1004387,
+      "sha256": "ea80b291a6c5b8f740d33f07209d4cf487a97071efc648750725a07ca8f80c95"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-19-zoom.jpg",
+      "width": 1217,
+      "height": 2576,
+      "bytes": 1046872,
+      "sha256": "27fefbef3814586372a900ceba97e05badadad339d9cad2f2ffb15d7d580bb93"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-20-zoom.jpg",
+      "width": 1968,
+      "height": 2592,
+      "bytes": 1755752,
+      "sha256": "a6a8c1355bb6c750e34955e351dfca4a7f1afa1bd941a2a691b7bd3a13e20eba"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-21-zoom.jpg",
+      "width": 1701,
+      "height": 2576,
+      "bytes": 815439,
+      "sha256": "2bbd55b19e5ca3479982f842609f652294e59d3658a382c9e79d77222606b428"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-22-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 1056624,
+      "sha256": "9044d4ff009168939ee9c5d670465272ee0ddf60d1276cde2672c24c512d6a4d"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-23-zoom.jpg",
+      "width": 1326,
+      "height": 660,
+      "bytes": 230314,
+      "sha256": "b342cc03ba32ee5e204f415e75e2eb5feb4e91fc3507e9228ab1319a9c95ff9f"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-26-zoom.jpg",
+      "width": 769,
+      "height": 857,
+      "bytes": 153356,
+      "sha256": "be7a1d3b46e9b639a2f97db1ae8f5a542bfb5ae226d8574f446d6c92b8c98475"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-27-zoom.jpg",
+      "width": 776,
+      "height": 857,
+      "bytes": 150302,
+      "sha256": "32b43fd4fac7531fc1110f9f0971036d9d1d9dd6f61fb0a82394c1d9eabaf238"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-28-zoom.jpg",
+      "width": 805,
+      "height": 1203,
+      "bytes": 343028,
+      "sha256": "4005ca7c9405b359c81c17a124af56753072912086c73c52468b32c52e408457"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-29-zoom.jpg",
+      "width": 2000,
+      "height": 2621,
+      "bytes": 3298826,
+      "sha256": "26f20bc5a2992dec145c8163912f5e9839371cadb758b744ce89e1ea50806723"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-30-zoom.jpg",
+      "width": 2070,
+      "height": 2576,
+      "bytes": 1428461,
+      "sha256": "c43f4468647122e984fa52f3d870c04d9c1895898b9298a1d68d6a4c20705d7f"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-31-zoom.jpg",
+      "width": 1359,
+      "height": 2500,
+      "bytes": 1249038,
+      "sha256": "0b83dd2993cbff53fb5bb82841741c1da3addb79d2d781f13aa128a11ac0259d"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-32-zoom.jpg",
+      "width": 1500,
+      "height": 2250,
+      "bytes": 872368,
+      "sha256": "996ea4f356f31466bbcc305b8091807b1eefb7cecfe974bd820c5f4851a40113"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-34-zoom.jpg",
+      "width": 860,
+      "height": 1920,
+      "bytes": 477339,
+      "sha256": "679b549ed5204f66e045b5e56b346d795d30623725f62eee71077817d2da4990"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-35-zoom.jpg",
+      "width": 1307,
+      "height": 2576,
+      "bytes": 1129643,
+      "sha256": "4e75e9a5cf4668de6cbdda37de77a0811c78442d40e4a41f971fa1dd2d7be7bf"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-36-zoom.jpg",
+      "width": 1151,
+      "height": 2576,
+      "bytes": 891410,
+      "sha256": "8f9448d3e64ef2dbb066a9f2e859fcc9f31ae04929f7b62f5be627a5ad7ea717"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-37-zoom.jpg",
+      "width": 716,
+      "height": 1500,
+      "bytes": 276964,
+      "sha256": "c945f77b44ae43abc87a949623556289358c42421470e7018bfcba552c05f97c"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-38-zoom.jpg",
+      "width": 685,
+      "height": 1500,
+      "bytes": 255888,
+      "sha256": "0b8ca8d694dac23cced4987059557116a3894b2cdcc1967c06b710e77f86ed9b"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-39-zoom.jpg",
+      "width": 1391,
+      "height": 2220,
+      "bytes": 521641,
+      "sha256": "09fa1407b98c8820496bcec77af329ea84ca9f8935d29b484babd53c1c201476"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-40-zoom.jpg",
+      "width": 1174,
+      "height": 2576,
+      "bytes": 1315117,
+      "sha256": "0e1a1e96c902d804c2246c2f1b1fe0546a45b44d07dc7a235440cce2d1dbedc6"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-41-zoom.jpg",
+      "width": 789,
+      "height": 1818,
+      "bytes": 220423,
+      "sha256": "c0416af3f9913307cd7bdb27d4997fee7f98d15f887b7e4ea6995851950f7a73"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-42-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 743683,
+      "sha256": "52ba9d9c8d11243a6801e6b2b1d5537e3040b47f2e2e1665a0ea6d3b9875021e"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-43-zoom.jpg",
+      "width": 1718,
+      "height": 2576,
+      "bytes": 679885,
+      "sha256": "230c08c3fd3cc3f1ee2793c2daac82efbc33e21480e94d32ed7dc3ce3021e6d8"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-44-zoom.jpg",
+      "width": 1299,
+      "height": 2576,
+      "bytes": 800871,
+      "sha256": "4162b363503bac4fb69c64e04fe3a468bba53ce2cc5c19b92b8b4fdd3c73fdc2"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-45-zoom.jpg",
+      "width": 1348,
+      "height": 2936,
+      "bytes": 883666,
+      "sha256": "adf999bc74c4c9abb9f795e3a5f80b6eb5b0d0265a7682e322ec0ed0a5556392"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-46-zoom.jpg",
+      "width": 1684,
+      "height": 3000,
+      "bytes": 1044307,
+      "sha256": "9e2c1c3369585addefd3758cacb1e08c685048a39be85dc0d3467bd27ee159a3"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-47-zoom.jpg",
+      "width": 884,
+      "height": 2000,
+      "bytes": 662234,
+      "sha256": "ba2d7647a5938f95aa3a40e140185a04db5044f6dc9b04c647a44b258d5e33a7"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-48-zoom.jpg",
+      "width": 1956,
+      "height": 3000,
+      "bytes": 1325933,
+      "sha256": "231b67d896d5bfb3fa1df712a6143929f508dc21b7eb63fd4f35f2ccfad96f13"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-49-zoom.jpg",
+      "width": 2296,
+      "height": 3000,
+      "bytes": 2164191,
+      "sha256": "f726e10b5b3ff6600745b82c69c7d1637d28c18f71cf0a38854c7c101dc64f7c"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-51-zoom.jpg",
+      "width": 3000,
+      "height": 2306,
+      "bytes": 3223072,
+      "sha256": "41edcaf8e13e71cbb894c88e167d8348d566eef7135596a36e8fa9bfde45dbd5"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-52-zoom.jpg",
+      "width": 2576,
+      "height": 1616,
+      "bytes": 1184120,
+      "sha256": "b0e16f62ec40abc8d365733eed80045df525e48217176204d7e8ef596594b59a"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-53-zoom.jpg",
+      "width": 1410,
+      "height": 2576,
+      "bytes": 1042707,
+      "sha256": "af72139839204671e7320f3ffe6dde7916c35fb06adc5d1c57d62fd5592186ed"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-54-zoom.jpg",
+      "width": 1349,
+      "height": 2576,
+      "bytes": 962571,
+      "sha256": "0c748cdcdd4fca2f61cf36f82e256e2975e3effd6caff4180b8a814846229cae"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-55-zoom.jpg",
+      "width": 1498,
+      "height": 2576,
+      "bytes": 916715,
+      "sha256": "9c1187a3685d6165bb144f56b56e087cb6653b26cfe76496bcad69835a3bc96a"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-56-zoom.jpg",
+      "width": 1361,
+      "height": 2576,
+      "bytes": 1072415,
+      "sha256": "cc2dd557648153635204103a1f9fcc925bb5954dfba02690346cea8aa160f590"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-57-zoom.jpg",
+      "width": 1403,
+      "height": 2576,
+      "bytes": 1009467,
+      "sha256": "299749d7644aed575b7438b46c36356ffc4185c2614809e316462b6559f9a7b4"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-58-zoom.jpg",
+      "width": 2183,
+      "height": 2490,
+      "bytes": 1201522,
+      "sha256": "edc7e2a9a9171cd63e9a94dd940a71b7bfb16375c815e2a093e62c380620bbf1"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-59-zoom.jpg",
+      "width": 2058,
+      "height": 2470,
+      "bytes": 1291627,
+      "sha256": "e86e7a2845fa0e52d99c4e070dd576d7b23d5f0ab89191d9a0bc05afb983dbbc"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-60-zoom.jpg",
+      "width": 2518,
+      "height": 2568,
+      "bytes": 1546778,
+      "sha256": "56bce58535f9fa2c752a98a02cbd0e1fb91734c775323afd499ba49e40efeec1"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-61-zoom.jpg",
+      "width": 2171,
+      "height": 2568,
+      "bytes": 1256171,
+      "sha256": "cb8734ab0bacbd6f90c212087eb80826a7f3f40647f28866ac9604b12c7da9eb"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-62-zoom.jpg",
+      "width": 2075,
+      "height": 2466,
+      "bytes": 1111509,
+      "sha256": "241edbdd7b014d39c95fcaf4a384d1150bbff143b643193b6fdbd797896b950b"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-63-zoom.jpg",
+      "width": 2576,
+      "height": 2074,
+      "bytes": 1172678,
+      "sha256": "7944964fe12687a3c9a548aa165b62db3ddf42fcaaf4437cb8214c91eaaa618a"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-64-zoom.jpg",
+      "width": 1361,
+      "height": 2576,
+      "bytes": 860128,
+      "sha256": "ee212b9cc19ea9c71e0258b66849f7709a2793d64f4d80b38c70128bc42ff4bb"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-65-zoom.jpg",
+      "width": 1526,
+      "height": 2338,
+      "bytes": 1755697,
+      "sha256": "1c685fe80526992c0049b1c27bb9db7619ddabfbd6b3fb68cee389b7556a267b"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-66-zoom.jpg",
+      "width": 1228,
+      "height": 614,
+      "bytes": 372163,
+      "sha256": "edbb5b0a23d10119bc693ab0669850897abb986b239dc1d2b47bb03069505c17"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-71-zoom.jpg",
+      "width": 2311,
+      "height": 2576,
+      "bytes": 1518534,
+      "sha256": "91ab81ad4180038ec3e4e871a5829c79404dccbd1d1d0ff1fb87ab38193157ea"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-72-zoom.jpg",
+      "width": 2576,
+      "height": 2009,
+      "bytes": 1495127,
+      "sha256": "cf5e572cc72522b9b78b8394648f4285156c057356517d4e2e94b87337d84fc6"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-73-zoom.jpg",
+      "width": 2699,
+      "height": 3000,
+      "bytes": 2608203,
+      "sha256": "4f7cd3153bd762b17d2833feec1c1e5e6e4679df40c0daf076a9d4180e3c1087"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-74-zoom.jpg",
+      "width": 1478,
+      "height": 2576,
+      "bytes": 1218170,
+      "sha256": "c056acee0da62ab32f0d7dbf1e2291e7fdf4c4a78d57049521089b26bd7ebd98"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-75-zoom.jpg",
+      "width": 2493,
+      "height": 3000,
+      "bytes": 2150455,
+      "sha256": "94001f4397f2bf0564cc01ecf9ac08c1c3ecdcb65926751a7594ce72b2257dde"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-76-zoom.jpg",
+      "width": 2488,
+      "height": 3000,
+      "bytes": 2072638,
+      "sha256": "8bbf1ac940f62e643f3468ea397b5b00029445e8b4850d605108d454b95e1fc0"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-77-zoom.jpg",
+      "width": 2736,
+      "height": 3000,
+      "bytes": 2416202,
+      "sha256": "ba745a413fd1622454bf0317f57546dae2c54e904fe1cc7e5b8a4d7a5b0f8667"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-78-zoom.jpg",
+      "width": 2576,
+      "height": 1669,
+      "bytes": 1006160,
+      "sha256": "d2c83399384c4cc37a63d70231ad3d04073ecfef3e3b0bb90e979053082c2aa6"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-79-zoom.jpg",
+      "width": 700,
+      "height": 1500,
+      "bytes": 311734,
+      "sha256": "09594f4e1dfc698dd5eb34e2eda41c73576abb932eb494c972a0244de9c69195"
+    },
+    {
+      "path": "Images/Lippo-Memmi/lippo-memmi-80-zoom.jpg",
+      "width": 1576,
+      "height": 2770,
+      "bytes": 1078758,
+      "sha256": "0beb8ef29ebe77f574e4855a0c69da92e4a4472765ad0bf9fc5ab1dcefe35fc3"
+    },
+    {
       "path": "Images/Lippo-di-Dalmasio-degli-Scannabecchi/lippo-di-dalmasio-degli-scannabecchi-06-zoom.jpg",
       "width": 868,
       "height": 1100,
