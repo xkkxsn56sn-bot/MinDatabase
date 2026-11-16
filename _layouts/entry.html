@@ -130,6 +130,10 @@
         </aside>
       </div>
 
+      {% if page.url contains '/Content/' %}
+      <p class="entry__rights-note">Images of works in Italian State collections are reproduced for non-profit purposes of study and research (D.Lgs. 42/2004, art. 108, c. 3-bis).</p>
+      {% endif %}
+
       {%- assign back_url = '/artists.html' -%} {%- assign back_label = 'Back to
       Artists' -%} {%- comment -%} saints.html non esiste: Content/Saints/ è
       volutamente non indicizzata (cfr. AI Agent Instructions). Il ramo resta

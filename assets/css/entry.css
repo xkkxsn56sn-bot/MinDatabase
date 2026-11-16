@@ -821,6 +821,22 @@ html[data-theme="dark"] .entry__theme-toggle {
 
 /* -------------------------------- */
 
+/* Nota sui diritti delle immagini (D.Lgs. 42/2004), solo sulle schede */
+.entry__rights-note {
+  max-width: 46rem;
+  margin: 2.5rem auto 0;
+  padding: 0 2rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+html[data-theme="dark"] .entry__rights-note {
+  color: var(--text-muted-dark);
+}
+
 .entry__nav-footer {
   display: flex;
   justify-content: center;
