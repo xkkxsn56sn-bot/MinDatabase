@@ -1580,7 +1580,7 @@ The Fribourg polyptych, even in its incomplete state, demonstrates the quality o
 
 <figure>
   <img src="/Images/Allegretto-Nuzi/allegretto-nuzi-10.jpg" alt="Gothic triptych on gold ground by Allegretto Nuzi. In the centre the Virgin, crowned and wearing a gold-patterned mantle, is enthroned with the Christ Child, surrounded by tiers of haloed angels and four standing saints, with an inscription on the base of the throne. In the left panel Saint Anthony Abbot, bearded and in a brown hooded habit, holds a tau-shaped staff and raises his right hand. In the right panel the young Saint Julian, in a gold brocade tunic and dark cloak, holds a lance with a red banner. The gables show the Crucified Christ in a quatrefoil between two half-length figures, the Angel Gabriel on the left and the Virgin Annunciate on the right">
-  <figcaption>Madonna and Child Enthroned with Angels and Saints, between Saints Anthony Abbot and Julian, tempera and gold on panel, 1369, Macerata, Duomo di San Giuliano.</figcaption>
+  <figcaption>Madonna and Child Enthroned with Angels and Saints, between Saints Anthony Abbot and Julian, tempera and gold on panel, 1369, Macerata, Duomo di San Giuliano. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (background modified).</figcaption>
 </figure>
 
 #### Central Panel: The Virgin and Child Enthroned with Angels and Saints

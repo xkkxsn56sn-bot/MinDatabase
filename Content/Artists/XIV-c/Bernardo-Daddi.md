@@ -338,7 +338,7 @@ The date of 1333 places it five years after the Uffizi triptych discussed previo
 
 <figure>
   <img src="/Images/Bernardo-Daddi/bernardo-daddi-03.jpg" alt="The Coronation of the Virgin">
-  <figcaption>The Coronation of the Virgin, 1340-5, tempera and gold leaf on wood, 111,7 × 75,5 cm, National Gallery, London.</figcaption>
+  <figcaption>The Coronation of the Virgin, c. 1340–1345, tempera and gold leaf on wood, 111.7 × 75.5 cm, National Gallery, London. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (background modified).</figcaption>
 </figure>
 
 This panel is a single-field devotional picture of exceptional refinement, representing the culmination of Daddi's mature style in the last decade of his career. Unlike the triptych formats examined previously, the composition is concentrated into a single upright panel enclosed within a magnificent carved and gilded Gothic frame of pointed ogival profile. The frame is deeply moulded, its surfaces entirely covered in gold leaf, and rises to a sharply pointed apex surmounted by a fleur-de-lis finial — the emblematic flower of Florence, here consecrating the sacred space above. The frame's bold geometric mouldings — concentric arches stepping inward toward the painted surface — create a powerful sense of depth and recession even before the eye reaches the figures themselves, drawing the viewer ceremonially into the sacred event.
