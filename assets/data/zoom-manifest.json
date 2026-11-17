@@ -1550,6 +1550,48 @@
       "sha256": "218f34ae34b51ddd06049ed81e6649061b04002e405a5e2f7ea92437aa8ae0dd"
     },
     {
+      "path": "Images/Solsternus/solsternus-01-zoom.jpg",
+      "width": 1631,
+      "height": 2576,
+      "bytes": 616242,
+      "sha256": "bb522fd4a5df738d26241085a39e98e83c8b104016125b32dcd35f84e1e6c920"
+    },
+    {
+      "path": "Images/Solsternus/solsternus-02-zoom.jpg",
+      "width": 2033,
+      "height": 2576,
+      "bytes": 1939174,
+      "sha256": "6943a37f42b33a68aeaf8666fb0aa4091dda297b87a33e9754350d5d0727e369"
+    },
+    {
+      "path": "Images/Solsternus/solsternus-03-zoom.jpg",
+      "width": 1009,
+      "height": 2576,
+      "bytes": 994697,
+      "sha256": "f4f2ee7de78d6bbe4dfbc20d4e9d53ebbf3e4ed64d2806efd74c2fd528ab5551"
+    },
+    {
+      "path": "Images/Solsternus/solsternus-04-zoom.jpg",
+      "width": 852,
+      "height": 2576,
+      "bytes": 771399,
+      "sha256": "f4a03848979865bb39d05c37bb3c6bf2398153481c62219cef50deb33e6f9d88"
+    },
+    {
+      "path": "Images/Solsternus/solsternus-05-zoom.jpg",
+      "width": 910,
+      "height": 2576,
+      "bytes": 784467,
+      "sha256": "73e46dfc0b1ddb7a321e1b6ada932461f07ed0d6c7d03e40441faa2cefb84eff"
+    },
+    {
+      "path": "Images/Solsternus/solsternus-06-zoom.jpg",
+      "width": 2576,
+      "height": 357,
+      "bytes": 273236,
+      "sha256": "8c6bbe7fde86cbe2a3b70a87617ae7d1f510fa87d3855544579595f1307b9395"
+    },
+    {
       "path": "Images/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg",
       "width": 2370,
       "height": 3000,
