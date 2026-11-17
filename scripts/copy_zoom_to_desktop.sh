@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copy every Zoom/Images/**/*-zoom.jpg into ~/Desktop/Zoom/<folder>/,
+# Copy every Zoom/Images/**/*-zoom.jpg (and *-zoom-vN.jpg) into ~/Desktop/Zoom/<folder>/,
 # keeping the file name (e.g. ~/Desktop/Zoom/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg).
 #
 # rsync without --delete: a zoom file removed from the repository keeps its
@@ -46,7 +46,7 @@ cd "$REPO" || { log "ERROR cannot cd to $REPO"; exit 0; }
 # Gli zoom non stanno piu' in git: la sorgente e' la cartella locale Zoom/Images
 # (ignorata da git, sincronizzata con R2 da scripts/sync_zoom_r2.sh).
 SRC="$REPO/Zoom/Images"
-FILES="$(cd "$SRC" 2>/dev/null && find . -type f -name '*-zoom.jpg' | sed 's#^\./##' | LC_ALL=C sort)"
+FILES="$(cd "$SRC" 2>/dev/null && find . -type f \( -name '*-zoom.jpg' -o -name '*-zoom-v[0-9]*.jpg' \) | sed 's#^\./##' | LC_ALL=C sort)"
 if [ -z "$FILES" ]; then
   log "no zoom files in $SRC"
   say "No zoom files in $SRC."

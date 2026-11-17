@@ -56,7 +56,8 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
 
 9b. Ogni data-zoom-src punta a uno zoom presente in
     assets/data/zoom-manifest.json (gli zoom stanno su R2, non nel
-    repository), con nome <slug>-NN-zoom.jpg e base <slug>-NN.jpg su disco,
+    repository), con nome <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2,
+    per uno zoom sostituito) e base <slug>-NN.jpg su disco,
     usata dalla stessa scheda; ogni voce del manifest e' usata da una scheda.
 
 10. Dentro ogni sezione-lettera di endnotes.html le voci sono ordinate per
@@ -640,13 +641,15 @@ def check_image_references(md_files, anomalies):
 # (https://zoom.medievalvisions.com, prefisso site.zoom_base): il riferimento
 # e' assets/data/zoom-manifest.json, scritto da scripts/sync_zoom_r2.sh. Il
 # contratto: (1) lo zoom e' nel manifest, maiuscole incluse; (2) il nome e'
-# <slug>-NN-zoom.jpg; (3) la base <slug>-NN.jpg esiste su disco nella stessa
+# <slug>-NN-zoom.jpg, oppure <slug>-NN-zoom-vN.jpg con N >= 2 quando uno zoom
+# gia' caricato viene sostituito (su R2 la cache dura un anno, quindi non si
+# sovrascrive: si rinomina); (3) la base <slug>-NN.jpg esiste su disco nella stessa
 # cartella ed e' usata come src dalla stessa scheda; (4) ogni voce del manifest
 # e' referenziata da almeno un data-zoom-src (altrimenti e' un orfano: un file
 # su R2 che nessuna scheda mostra). Che R2 risponda davvero lo verifica
 # scripts/check_zoom_r2.py, in CI.
 ZOOM_REF_RE = re.compile(r'\bdata-zoom-src="([^"]+)"')
-ZOOM_NAME_RE = re.compile(r"^(?P<base>.+-\d{2,})-zoom\.jpg$")
+ZOOM_NAME_RE = re.compile(r"^(?P<base>.+-\d{2,})-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
 ZOOM_MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 
 
@@ -678,7 +681,7 @@ def zoom_ref_problems(text, exists, zoom_exists=None):
         m = ZOOM_NAME_RE.match(path.name)
         if not m:
             out.append(("File zoom fuori convenzione",
-                        f"'{ref}' -> atteso <slug>-NN-zoom.jpg"))
+                        f"'{ref}' -> atteso <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2)"))
             continue
         base = str(path.parent / (m.group("base") + ".jpg"))
         if not exists(base):

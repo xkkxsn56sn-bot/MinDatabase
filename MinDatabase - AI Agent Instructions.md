@@ -702,8 +702,13 @@ manifest orfana — e in CI `check_zoom_r2.py` verifica il manifest contro R2.
    `.gitignore` comunque esclude.
 
 Uno zoom gia' caricato non si sovrascrive: la cache dura un anno, e un file
-cambiato con lo stesso nome resterebbe vecchio nei browser. Si rinomina, o si
-carica con un nome nuovo.
+cambiato con lo stesso nome resterebbe vecchio nei browser. Il sostituto si
+chiama `<slug>-NN-zoom-vN.jpg` (N >= 2: `-zoom-v2`, `-zoom-v3`…), forma che il
+check 9b accetta; la vecchia versione si sposta in
+`Zoom/Retired/Images/<Cartella>/`, se ne toglie la voce dal manifest e su R2
+resta, senza cancellazioni. Con `--only Images/<Cartella>/<file>` lo script
+carica soltanto quel file, lasciando fuori i lotti di altre schede ancora in
+lavorazione.
 
 Le schede si spostano in `Content/` solo alla pubblicazione: da quel momento
 ogni commit fa partire una notifica agli iscritti, e una email non si ritira.

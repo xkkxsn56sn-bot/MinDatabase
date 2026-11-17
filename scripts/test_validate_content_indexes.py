@@ -53,7 +53,8 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    (assets/data/zoom-manifest.json), le basi su disco. Uno zoom che non e'
    piu' su disco ma e' nel manifest e' verde; uno su disco ma non nel
    manifest e' rosso; un manifest mancante o rotto e' un'anomalia; gli
-   orfani sono voci del manifest che nessuna scheda usa. Poi la verifica di
+   orfani sono voci del manifest che nessuna scheda usa. Uno zoom sostituito
+   si chiama <slug>-NN-zoom-vN.jpg con N >= 2: -v2 verde, -v1 rosso. Poi la verifica di
    R2 (check_zoom_r2.py) su risposte finte: 200 giusto, 404, tipo sbagliato,
    byte o sha256 diversi.
 """
@@ -335,6 +336,12 @@ check("m. base mancante su disco, zoom nel manifest: rosso",
       "Base del file zoom mancante" in zm(NOBASE, BASES, MANIFEST | {f"{D}-07-zoom.jpg"}))
 check("m. maiuscole sbagliate rispetto al manifest: rosso",
       "data-zoom-src inesistente" in zm(CASE))
+V2 = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-zoom-v2.jpg">'
+check("m. zoom sostituito, nome -zoom-v2: verde",
+      zm(V2, BASES, MANIFEST | {f"{D}-06-zoom-v2.jpg"}) == [], str(zm(V2, BASES, MANIFEST | {f"{D}-06-zoom-v2.jpg"})))
+V1 = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-zoom-v1.jpg">'
+check("m. versione -v1 (N < 2): rosso, fuori convenzione",
+      "File zoom fuori convenzione" in zm(V1, BASES, MANIFEST | {f"{D}-06-zoom-v1.jpg"}))
 check("m. orfano del manifest: rosso",
       v.zoom_orphans(set(), MANIFEST) == sorted(MANIFEST))
 

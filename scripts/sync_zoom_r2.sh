@@ -15,6 +15,17 @@
 #   scripts/sync_zoom_r2.sh --apply --delete
 #                                       cancella anche da R2 (e dal manifest) gli
 #                                       zoom che non esistono piu' in Zoom/Images
+#   scripts/sync_zoom_r2.sh --only Images/<Cartella>/<file> [--apply]
+#                                       limita tutto a quel file (ripetibile): gli
+#                                       altri zoom locali non vengono toccati, ne'
+#                                       caricati ne' segnalati. Serve quando in
+#                                       Zoom/Images ci sono lotti non ancora
+#                                       pubblicati.
+#
+# Nomi: <slug>-NN-zoom.jpg, oppure <slug>-NN-zoom-vN.jpg (N >= 2) per uno zoom
+# che ne sostituisce uno gia' caricato. La vecchia versione non si cancella: si
+# sposta in Zoom/Retired/Images/<Cartella>/ (fuori da Zoom/Images, quindi lo
+# script non la vede piu'), se ne toglie la voce dal manifest e su R2 resta.
 #
 # Senza --delete nulla viene mai cancellato: uno zoom presente nel manifest ma
 # mancante in locale e' solo segnalato. Il caricamento usa `npx wrangler@4 r2
@@ -31,23 +42,28 @@ set -uo pipefail
 
 APPLY=0
 DELETE=0
-for arg in "$@"; do
-  case "$arg" in
+ONLY=""
+while [ "$#" -gt 0 ]; do
+  case "$1" in
     --apply) APPLY=1 ;;
     --delete) DELETE=1 ;;
-    -h|--help) sed -n '2,28p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
-    *) echo "Unknown option: $arg" >&2; exit 2 ;;
+    --only)
+      [ "$#" -ge 2 ] || { echo "--only needs a path (Images/<Cartella>/<file>)" >&2; exit 2; }
+      ONLY="${ONLY}${2#Zoom/}"$'\n'; shift ;;
+    -h|--help) sed -n '2,40p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
+    *) echo "Unknown option: $1" >&2; exit 2 ;;
   esac
+  shift
 done
 if [ "$DELETE" -eq 1 ] && [ "$APPLY" -eq 0 ]; then
   echo "--delete has effect only together with --apply; running as a dry run." >&2
 fi
 
 REPO="$(cd "$(dirname "$0")/.." && pwd -P)"
-export REPO APPLY DELETE
+export REPO APPLY DELETE ONLY
 
 python3 -I - <<'PY'
-import hashlib, json, os, struct, subprocess, sys
+import hashlib, json, os, re, struct, subprocess, sys
 from pathlib import Path
 
 REPO = Path(os.environ["REPO"])
@@ -58,6 +74,9 @@ ZOOM_BASE = "https://zoom.medievalvisions.com"
 LOCAL_ROOT = REPO / "Zoom"
 MANIFEST = REPO / "assets" / "data" / "zoom-manifest.json"
 CACHE = "public, max-age=31536000, immutable"
+# Stessa convenzione del controllo 9b: <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2).
+ZOOM_FILE_RE = re.compile(r"-\d{2,}-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
+ONLY = {p.strip().lstrip("/") for p in os.environ.get("ONLY", "").splitlines() if p.strip()}
 
 
 def jpeg_size(data: bytes):
@@ -81,8 +100,12 @@ def jpeg_size(data: bytes):
 
 def local_inventory():
     out = {}
-    for f in sorted((LOCAL_ROOT / "Images").rglob("*-zoom.jpg")):
+    for f in sorted((LOCAL_ROOT / "Images").rglob("*.jpg")):
         rel = f.relative_to(LOCAL_ROOT).as_posix()
+        if not ZOOM_FILE_RE.search(f.name):
+            continue
+        if ONLY and rel not in ONLY:
+            continue
         data = f.read_bytes()
         width, height = jpeg_size(data)
         out[rel] = {"path": rel, "width": width, "height": height,
@@ -118,8 +141,13 @@ local = local_inventory()
 manifest = load_manifest()
 new = [p for p in local if p not in manifest]
 changed = [p for p in local if p in manifest and manifest[p]["sha256"] != local[p]["sha256"]]
-gone = [p for p in manifest if p not in local]
+gone = [p for p in manifest if p not in local and (not ONLY or p in ONLY)]
+missing_only = sorted(ONLY - set(local) - set(manifest))
 tag = "" if APPLY else "[dry-run] "
+if ONLY:
+    print(f"{tag}--only: limited to {len(ONLY)} path(s)")
+for p in missing_only:
+    print(f"{tag}  ? {p}  not found in Zoom/ nor in the manifest")
 
 print(f"{tag}local zoom files: {len(local)}; manifest: {len(manifest)}")
 print(f"{tag}new: {len(new)}, changed: {len(changed)}, missing locally: {len(gone)}")
