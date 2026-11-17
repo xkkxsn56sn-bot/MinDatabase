@@ -871,6 +871,139 @@
       "sha256": "2089e130d048960f1dc1e6bb5a6abc8538beff1bb5faa59f441ed35d50f8f224"
     },
     {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-01-zoom.jpg",
+      "width": 2576,
+      "height": 2477,
+      "bytes": 2132192,
+      "sha256": "072232f1215d0a03fcd2325cf86c37f81f4e6ab9c02e48ab7b103bc89f6ae7ae"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-02-zoom.jpg",
+      "width": 1134,
+      "height": 2576,
+      "bytes": 1090059,
+      "sha256": "997eb0f33b97b208b38af403ae721a399d537c90d2b117ce3c91ec270ace9c36"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-03-zoom.jpg",
+      "width": 768,
+      "height": 2166,
+      "bytes": 568161,
+      "sha256": "e242bf1c775d626668c24839ab249760f91cb7ce38f9eed7fe7c1f23a5fb3326"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-04-zoom.jpg",
+      "width": 736,
+      "height": 2166,
+      "bytes": 657625,
+      "sha256": "86bc4b6ff48a1399b8cd0b8080b0981ca337813540f481fc787937e05aae5127"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-05-zoom.jpg",
+      "width": 1200,
+      "height": 2017,
+      "bytes": 427194,
+      "sha256": "103f4585cf8790c36fbf7aa5553affaad7f6fd28ae19a4f7b5c18f9f352cd0ad"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-07-zoom.jpg",
+      "width": 1600,
+      "height": 1119,
+      "bytes": 603141,
+      "sha256": "87a43f63c1e929ff2f39c1bd503b6f018b86e4876ea5556ffcb9482c101b7223"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-08-zoom.jpg",
+      "width": 2048,
+      "height": 1117,
+      "bytes": 671808,
+      "sha256": "4d6d64e416be296423e6b33ade2d8e30587b71ef2b8d577b01adcbf41122267e"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-09-zoom.jpg",
+      "width": 2576,
+      "height": 1939,
+      "bytes": 1235739,
+      "sha256": "611463f6491a684f2fc567e5c2ef6ce98fc14d6e8a671907ab28e12094eac10e"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-11-zoom.jpg",
+      "width": 1165,
+      "height": 2576,
+      "bytes": 522968,
+      "sha256": "24003884146b4dc86dcbe1a8d827a3870509fbcc9ef72442f04073646f2e3e7b"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-12-zoom.jpg",
+      "width": 1888,
+      "height": 1916,
+      "bytes": 771216,
+      "sha256": "b57d486699f254c414383b05368d3674b286c3a5d5aa28d6ed94dd09dc982276"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-13-zoom.jpg",
+      "width": 3000,
+      "height": 1555,
+      "bytes": 2248588,
+      "sha256": "8ccbd9656157c92e07f41fb29d6bd44c2873b9df2ea8202ee2ce2d1045646036"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-14-zoom.jpg",
+      "width": 2576,
+      "height": 1387,
+      "bytes": 738842,
+      "sha256": "8692e93ddf8459095db1faef6d588ce44cafe8bae7ab7bf31ccd3174758da78e"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-15-zoom.jpg",
+      "width": 1000,
+      "height": 535,
+      "bytes": 237810,
+      "sha256": "9969df2e16ccdba7675955bf078e8fa1ca8031591e8ad5e3fb077be6c2a00db5"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-16-zoom.jpg",
+      "width": 1294,
+      "height": 2576,
+      "bytes": 449457,
+      "sha256": "70d74cae705b08fd95582d06b151f6a48cd40cc98d5fdb5d9e23afb104480a38"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-17-zoom.jpg",
+      "width": 1135,
+      "height": 1843,
+      "bytes": 884343,
+      "sha256": "0f7422d2aa54a5fd616239ac6c715e9a07fb5f7bac3730ced3b58bbd0f045b67"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-18-zoom.jpg",
+      "width": 729,
+      "height": 1280,
+      "bytes": 256214,
+      "sha256": "3edf66f7d5dbf3f962b57933c30ac54f9227a52885f734b6592ce1cf252de806"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-19-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 510275,
+      "sha256": "6f36e2a824386dc3b6dd9458c7a50d5d34d04681a9e60353dec49fe120884ccc"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-20-zoom.jpg",
+      "width": 1226,
+      "height": 2576,
+      "bytes": 628556,
+      "sha256": "78deef400d05db12fd056e6a8cc7c6831a5fabdfac6ca5e779e22b61d9dab9c4"
+    },
+    {
+      "path": "Images/Puccio-di-Simone/puccio-di-simone-23-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 728810,
+      "sha256": "d260d72a7bb4a6867801de7e77a0d3fb27d241dd9b9fe8de25d816eeedf89075"
+    },
+    {
       "path": "Images/Simone-Martini/simone-martini-01-zoom.jpg",
       "width": 1511,
       "height": 2000,
