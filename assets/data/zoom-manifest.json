@@ -696,6 +696,118 @@
       "sha256": "4227cd3ca7c26102426553cc319aea7ec19c006b4b2e7ec1486582fb1f9e1ab4"
     },
     {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-01-zoom.jpg",
+      "width": 1673,
+      "height": 2576,
+      "bytes": 1434819,
+      "sha256": "0de957ec4daa6d92fec2ecbfc1e82a1e40914e55f4a4ff177064eeeb8e45cb0f"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-02-zoom.jpg",
+      "width": 1704,
+      "height": 2500,
+      "bytes": 1027129,
+      "sha256": "c74d7fb7a58e222d1110268342e7676d36bf3e50d99c3b454aee425770f497d0"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-03-zoom.jpg",
+      "width": 1695,
+      "height": 2576,
+      "bytes": 1573654,
+      "sha256": "55564fefce6cea5b633656bf520abdf652f1bd4e3453ec345c6f0983c1ef9aee"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-04-zoom.jpg",
+      "width": 1064,
+      "height": 2576,
+      "bytes": 480185,
+      "sha256": "18163a1bc60f297d75353d4abac1f33b929a7e8cb0591b75f6d7c5e48c9fe806"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-05-zoom.jpg",
+      "width": 1906,
+      "height": 2576,
+      "bytes": 1435197,
+      "sha256": "96c8eb9039dd33f35f644719909f5adbb8e47eba14988337cc307759a927d146"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-07-zoom.jpg",
+      "width": 1086,
+      "height": 1600,
+      "bytes": 316426,
+      "sha256": "897e213dea2f08677eaa6d3148b59949b42ee1c7675c95ea5e50903d76028cdd"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-08-zoom.jpg",
+      "width": 1464,
+      "height": 2576,
+      "bytes": 530212,
+      "sha256": "1227420099c5016dcc1cc4d697cbd9fd7fdafc7185122b43c72fb89a3689bb84"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-09-zoom.jpg",
+      "width": 1845,
+      "height": 2576,
+      "bytes": 988247,
+      "sha256": "9942e8aa86aaa30d84ede9872c515af346c36d234396aaf380de00b8a5100278"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-10-zoom.jpg",
+      "width": 1024,
+      "height": 938,
+      "bytes": 369876,
+      "sha256": "2cf99276613f0d363700ef61a4eee19e162e0dbc6ebadb89f945847a5c1651f2"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-11-zoom.jpg",
+      "width": 1161,
+      "height": 2576,
+      "bytes": 645092,
+      "sha256": "e7768979379ae4193b522a906f149ef79391e5e7dfc6d4226bbcf2e5401fedc2"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-12-zoom.jpg",
+      "width": 2176,
+      "height": 1840,
+      "bytes": 905438,
+      "sha256": "f464cb194f4c8c7e72f39d48c67d369a3420af15e8c1a086217052e9836aa6bb"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-13-zoom.jpg",
+      "width": 1035,
+      "height": 1200,
+      "bytes": 304650,
+      "sha256": "123021eeb0b1fa6254fb7f7c7c22ef4d3869fb3f97c467319dfc8b45e917e301"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-14-zoom.jpg",
+      "width": 440,
+      "height": 1109,
+      "bytes": 194613,
+      "sha256": "ddfca11dcdeb345956454611df3fa6cb6db111da2262a0fd04ebcd1ccbbd819e"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-15-zoom.jpg",
+      "width": 695,
+      "height": 1080,
+      "bytes": 268762,
+      "sha256": "5714f771eaac6cb07c971217ddc655f26b693c42a129a0b725571985421c80d8"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-16-zoom.jpg",
+      "width": 1627,
+      "height": 2576,
+      "bytes": 1168675,
+      "sha256": "320cc2c80175f7042592381593c1061f9d1b82fc224811d325470a0a3f7dae6a"
+    },
+    {
+      "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-17-zoom.jpg",
+      "width": 1915,
+      "height": 2576,
+      "bytes": 1122314,
+      "sha256": "317e9eb2c1242d946645a0d847dd2604957f7a7365f720ab19a7671c0529943a"
+    },
+    {
       "path": "Images/Nicolo-di-Giacomo/nicolo-di-giacomo-01-zoom.jpg",
       "width": 1764,
       "height": 3000,
