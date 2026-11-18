@@ -68,14 +68,22 @@ meta:
       - "Byzantine icon of the Virgin Haghiosoritissa, 11th–12th century"
       - "Autograph letter of Saint Francis to Brother Leo, c. 1222–1226, in a reliquary given by Pius IX"
 
-  - title: "STYLE AND SETTING"
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
+    list:
+      - "Lintels of the central portal: carved for the cathedral in imitation of earlier styles, or reused from an earlier building"
+      - "Byzantine icon: the gift by Frederick Barbarossa in 1185 rests on tradition"
+      - "Crypt paintings: scenes from the life of Saint Benedict (older reading) or the deeds of a martyr (inscription found in 2026)"
+      - "Saint John in the façade mosaic: the Evangelist rather than the Baptist, with the head remade in 1927"
+      - "Remodelling of 1638–1644: design attributed to Luigi Arrigucci"
+
+  - title: "STYLE AND FORMATION"
     list:
       - "Umbrian Romanesque façade sculpture: rose windows, telamons, Evangelist symbols, classicising portal"
       - "Roman orientation around 1200: façade mosaic and inlaid pavement"
       - "Gothic crowning of the upper façade with pointed arches and crocketed gable"
       - "Later layers: Lippi's apse, Renaissance portico, Barberini and Valadier interiors"
 
-  - title: "PATRONAGE"
+  - title: "PATRONAGE AND SETTING"
     list:
       - "Bishop Transarico and the cathedral chapter (rebuilding from c. 1177)"
       - "Pope Innocent III (consecration, 1198)"
@@ -83,12 +91,13 @@ meta:
       - "Frederick Barbarossa (traditional donor of the icon, 1185)"
       - "Bishop Gallardus (Last Judgement, 1372–1378)"
 
-  - title: "RELATED ENTRIES"
-    links:
-      - title: "Solsternus"
-        url: "/Content/Artists/XIII-c/Solsternus.html"
-      - title: "Alberto Sozio"
-        url: "/Content/Artists/XII-c/Alberto-Sozio.html"
+  - title: "RECEPTION AND LEGACY"
+    list:
+      - "Documents of the cathedral studied by Giuseppe Sordini, who also identified the crypt of San Primiano"
+      - "Studies and works after the earthquake of 1997, gathered in La Cattedrale di Spoleto: Storia, Arte, Conservazione (2002)"
+      - "Conservation of the nave pavement from 2021 and of the crypt of San Primiano (presented in January 2026)"
+      - "Exhibition \"Spoleto sacra 1200\" for the 825th anniversary of the consecration (2023)"
+      - "Related entries on the site: Solsternus and Alberto Sozio"
 
 scholars:
   - title: "Andaloro, Maria"
