@@ -633,6 +633,55 @@
       "sha256": "ccf74494d27036e600d968d4f0625e30e9e49462bdd0143e26b8372a4941f94a"
     },
     {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-01-zoom.jpg",
+      "width": 1602,
+      "height": 2576,
+      "bytes": 929646,
+      "sha256": "72ede6465dbdee80c3ad9f7b8d937c1b4389628446f90499339702e05914477a"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-02-zoom.jpg",
+      "width": 2339,
+      "height": 2576,
+      "bytes": 1131726,
+      "sha256": "ec700eabfae75aac71192a34f82621e2b29322f7b47c6a78b25d30035dabd49f"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-03-zoom.jpg",
+      "width": 2576,
+      "height": 1760,
+      "bytes": 868555,
+      "sha256": "0c9d196842ec7acc5802398ffeacc7188979cd26825c541086e4fda077a57389"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-04-zoom.jpg",
+      "width": 1140,
+      "height": 2087,
+      "bytes": 553603,
+      "sha256": "49e06979e72b6849ba03a5dce8c9f6abf6e5aac890d529e05d7618c75644c7cf"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-05-zoom.jpg",
+      "width": 2000,
+      "height": 853,
+      "bytes": 508519,
+      "sha256": "0448fa3c13ada6375d1abbc53f46aabbd3aeda8a522b814d92c016d3513d2abd"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-06-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 619949,
+      "sha256": "c2e5705b6fd62b1822b8a504254985997f62e157251543014c2dadb5b473f39d"
+    },
+    {
+      "path": "Images/Manfredino-da-Pistoia/manfredino-da-pistoia-07-zoom.jpg",
+      "width": 408,
+      "height": 541,
+      "bytes": 89216,
+      "sha256": "0f1842f88debdb4be37198181df5bd930c71113782593681684e911fd67e5a24"
+    },
+    {
       "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-01-zoom.jpg",
       "width": 3000,
       "height": 2188,
