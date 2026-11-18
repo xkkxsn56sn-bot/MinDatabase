@@ -1592,6 +1592,104 @@
       "sha256": "8c6bbe7fde86cbe2a3b70a87617ae7d1f510fa87d3855544579595f1307b9395"
     },
     {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-01-zoom.jpg",
+      "width": 2008,
+      "height": 2576,
+      "bytes": 1313346,
+      "sha256": "30f6b879c98dfb0e6facf9fe8ea3ffc7478ae30f96827b225ada03506b89737c"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-02-zoom.jpg",
+      "width": 2576,
+      "height": 1937,
+      "bytes": 1057739,
+      "sha256": "645bc2ea935dd75033796bb29d2f11f177bb450750bfb6aa8d4ecf231d5d75bc"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-03-zoom.jpg",
+      "width": 2001,
+      "height": 2576,
+      "bytes": 378744,
+      "sha256": "10e2dd143be0badbbf8662f37b6ec1cdc4a646086b962454d7bb36cb2870d2fe"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-04-zoom.jpg",
+      "width": 1024,
+      "height": 768,
+      "bytes": 248969,
+      "sha256": "6c030d981d8ac607a0bee578535ccf0913285f68b9764fafd35975dd80cd5ad0"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-05-zoom.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 782525,
+      "sha256": "d7e6cfedb835b8900a381d792809c2f347444aa401444abaa377fd08a220b5df"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-06-zoom.jpg",
+      "width": 2576,
+      "height": 1823,
+      "bytes": 989767,
+      "sha256": "e4a64278a7d5e3f66187a0cb0f02db6f9da7871e3c55c490d36554bfb9087a0f"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-07-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 645247,
+      "sha256": "392541f4323b7cd816f2fb23bcea26a9febd5f51c451cb27040635f0b9636fed"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-08-zoom.jpg",
+      "width": 2576,
+      "height": 1713,
+      "bytes": 1115037,
+      "sha256": "7001b0235c4e16fa7ab9ff1ece20e6da3d0794e898ae926b14b22711b42a1bb8"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-09-zoom.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1055902,
+      "sha256": "4edbc09f4043035799fd697ef02224a6c885d3c1177568af00025d50bde7ca8f"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-10-zoom.jpg",
+      "width": 2048,
+      "height": 1588,
+      "bytes": 608715,
+      "sha256": "34aa151ca7462c1ac30e4f904b0e2feda8aa520fdd031c4e049632960eb9d55c"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-11-zoom.jpg",
+      "width": 1024,
+      "height": 578,
+      "bytes": 90997,
+      "sha256": "e21dacf4e4c2b7b4b43a6c37ed0ae12a77766cfbe7290a6b3687e39369d4bc45"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-12-zoom.jpg",
+      "width": 1631,
+      "height": 2576,
+      "bytes": 616242,
+      "sha256": "bb522fd4a5df738d26241085a39e98e83c8b104016125b32dcd35f84e1e6c920"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-13-zoom.jpg",
+      "width": 2033,
+      "height": 2576,
+      "bytes": 1939174,
+      "sha256": "6943a37f42b33a68aeaf8666fb0aa4091dda297b87a33e9754350d5d0727e369"
+    },
+    {
+      "path": "Images/Spoleto-Cathedral/spoleto-cathedral-14-zoom.jpg",
+      "width": 518,
+      "height": 983,
+      "bytes": 215915,
+      "sha256": "578f75db3b83e520938c055b0f00062441cc47a90bdd912e4aea562f7da0a99c"
+    },
+    {
       "path": "Images/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg",
       "width": 2370,
       "height": 3000,
