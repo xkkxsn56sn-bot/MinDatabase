@@ -10,6 +10,41 @@
       "sha256": "db5390b8c4c2c91a902d10d66806594d76d513b797355d8e3413cbe90ed1c771"
     },
     {
+      "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-01-zoom.jpg",
+      "width": 1585,
+      "height": 2190,
+      "bytes": 1184144,
+      "sha256": "49dd5b4734086bacf45954dd75e8b85c7ab4bea20a91439331759d97bab517b1"
+    },
+    {
+      "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-02-zoom.jpg",
+      "width": 1285,
+      "height": 270,
+      "bytes": 149657,
+      "sha256": "cd6880372b3ff98386894c7fdd6cff8f8fd046f3f381799243e92c297ad222f3"
+    },
+    {
+      "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-03-zoom.jpg",
+      "width": 1465,
+      "height": 405,
+      "bytes": 229164,
+      "sha256": "6f66ecab9c6e9a7468519211d02961be608c33eef06ef43c33a42d3b7acf45d6"
+    },
+    {
+      "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-04-zoom.jpg",
+      "width": 1300,
+      "height": 1796,
+      "bytes": 999937,
+      "sha256": "528cf6a8c3779e19a1febaee1f2c144c7c1ae7201a2b4703032becaf9b99ab9f"
+    },
+    {
+      "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-05-zoom.jpg",
+      "width": 2576,
+      "height": 1946,
+      "bytes": 803812,
+      "sha256": "cdd7e73f629ba4f8f5bef44b9438b68fb08003972e7200ccfb7e311c7051feb3"
+    },
+    {
       "path": "Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04-zoom.jpg",
       "width": 1799,
       "height": 2713,
