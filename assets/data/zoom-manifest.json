@@ -262,6 +262,167 @@
       "sha256": "81a3c057e91f42a3f1f6ba81bd02edf9307e2c49ee182217374500320ea9433d"
     },
     {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-01-zoom.jpg",
+      "width": 1225,
+      "height": 457,
+      "bytes": 184060,
+      "sha256": "56ea1bab0a4d20460d20b3686caff6ebecb3d40333a6d8b69ee99d2579461155"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-02-zoom.jpg",
+      "width": 2576,
+      "height": 1814,
+      "bytes": 882329,
+      "sha256": "b51b41cbf13aa70a40c6226f247dece57009484c6e4d8e680b14c831a84227a3"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-03-zoom.jpg",
+      "width": 2576,
+      "height": 1308,
+      "bytes": 828505,
+      "sha256": "881eee34a5c6920bb2e7e70fa009ed9bbc2eabdaf6ef7c31305d1c8e3e0a2db8"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-04-zoom.jpg",
+      "width": 1588,
+      "height": 2576,
+      "bytes": 985714,
+      "sha256": "6aa9d24211a00e02bca87b34da23c022f63e937bd2faaf51ab34c035502ba110"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-05-zoom.jpg",
+      "width": 976,
+      "height": 2022,
+      "bytes": 459895,
+      "sha256": "74ddf6350341e56ba2d5969bae0b45bc9b80b1e151a25d8204d0acd059672dfd"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-06-zoom.jpg",
+      "width": 1456,
+      "height": 2576,
+      "bytes": 901498,
+      "sha256": "c85b43a2e749b8de8f97b75b4473f75a2ff6948d815a0b39c296140abad866e2"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-07-zoom.jpg",
+      "width": 1446,
+      "height": 2576,
+      "bytes": 1032440,
+      "sha256": "659b2c6196f8cd54d8c4288f71a2833cd3de08bffbe7dff1b3d7e8f1451a200c"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-08-zoom.jpg",
+      "width": 1534,
+      "height": 2576,
+      "bytes": 1304759,
+      "sha256": "06342be49d3b7a847ef7a541eb811421a381600bcab2915fddeeb7fa442ed367"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-09-zoom.jpg",
+      "width": 941,
+      "height": 2576,
+      "bytes": 460302,
+      "sha256": "208864e587ba1bf9d58f4af81bfbaad4bb6b8ce6ca7467d288f43255d422d199"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-10-zoom.jpg",
+      "width": 1466,
+      "height": 2576,
+      "bytes": 1138298,
+      "sha256": "2f5e8a01c6cbaebef8570136f818666fddea8d08d051cac3e4feeb81540ed787"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-11-zoom.jpg",
+      "width": 956,
+      "height": 2576,
+      "bytes": 569297,
+      "sha256": "104b7b899b5d560890b0685942bc83e318064c8889ab83b3e4c9addb49b89ec8"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-12-zoom.jpg",
+      "width": 1013,
+      "height": 2576,
+      "bytes": 629198,
+      "sha256": "5e2a33406044322cc1cfdd6c3470ae19266ff35e5725b7d733de25a5cc86267c"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-13-zoom.jpg",
+      "width": 1010,
+      "height": 2576,
+      "bytes": 642572,
+      "sha256": "ea8551745e4384b840b23c0fe76cb8568d6d5f907b097b92721990051e44dd9e"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-14-zoom.jpg",
+      "width": 1015,
+      "height": 2576,
+      "bytes": 648562,
+      "sha256": "0f3b751fbdbfd86d0079d80104cada6573147ff7697f7b473a27c19420058dad"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-15-zoom.jpg",
+      "width": 1654,
+      "height": 2576,
+      "bytes": 1053574,
+      "sha256": "2db39944a15338f791e5b8a1261f2b80a9367d99f745eb054601731742ca4c77"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-16-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1061846,
+      "sha256": "487b3231b256ac49a69aaac68b6b6e1dddf7a7ee52338f4d7c67b4013944ab44"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-17-zoom.jpg",
+      "width": 1790,
+      "height": 2576,
+      "bytes": 1107332,
+      "sha256": "5d5960d36381a60114ae2cfb59cfec0a1d3e33aee3a64b6e52c58182c14ce388"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-18-zoom.jpg",
+      "width": 1727,
+      "height": 2168,
+      "bytes": 1025699,
+      "sha256": "e7412afd53fded8a862d3a8853ef64508db1c1c22f23bc4b20fc9e38ce9ca458"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-19-zoom.jpg",
+      "width": 1563,
+      "height": 2499,
+      "bytes": 1501014,
+      "sha256": "8552d8207ee4ce09a347d5e356f843f28596d7b64222d290aaf5b1fabe52dfab"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-21-zoom.jpg",
+      "width": 2576,
+      "height": 1954,
+      "bytes": 1220436,
+      "sha256": "4fda2dc294048cd6be637d2c31fc6a1cc78ce46ced277fcc7b2eafdbd58a1d0c"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-22-zoom.jpg",
+      "width": 2132,
+      "height": 2576,
+      "bytes": 1246234,
+      "sha256": "10459f2b1daa03b1b9f72fb9559ff6b25add7829533f2e08d0bdd9b1f2442784"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-23-zoom.jpg",
+      "width": 2132,
+      "height": 1667,
+      "bytes": 913352,
+      "sha256": "1ccca0f1af13b55fd27a5697ea2b76abcb695fefaecb22b259756f72a5ce3872"
+    },
+    {
+      "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-28-zoom.jpg",
+      "width": 1290,
+      "height": 2319,
+      "bytes": 966689,
+      "sha256": "566087f9af57b74665c5a463629f35d5c8793e8c4e548a7356199bc9fad0f164"
+    },
+    {
       "path": "Images/Goro-di-Gregorio/goro-di-gregorio-10-zoom.jpg",
       "width": 1862,
       "height": 3000,
