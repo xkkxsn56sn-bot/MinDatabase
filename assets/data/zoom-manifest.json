@@ -10,6 +10,118 @@
       "sha256": "db5390b8c4c2c91a902d10d66806594d76d513b797355d8e3413cbe90ed1c771"
     },
     {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-01-zoom.jpg",
+      "width": 1720,
+      "height": 2450,
+      "bytes": 800796,
+      "sha256": "30e730f36b3727fdd42091a49cb1eb60b9fd236d943f0fde61ebc07c19731d99"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-02-zoom.jpg",
+      "width": 1500,
+      "height": 853,
+      "bytes": 358793,
+      "sha256": "cfc88ae864361a1671733a727cc99db0261dd9e49f440468d4d3b38fd5f72a58"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-03-zoom.jpg",
+      "width": 2178,
+      "height": 2257,
+      "bytes": 1751870,
+      "sha256": "1cbe486ee89faac77da46233e270726ffaacdc947e09c948130c22bd42190443"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-04-zoom.jpg",
+      "width": 906,
+      "height": 2576,
+      "bytes": 515094,
+      "sha256": "88142f0c7078b99d6a689330e6ddef5e9952a015b832e100fb411b3d6cdedb45"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-05-zoom.jpg",
+      "width": 1009,
+      "height": 2576,
+      "bytes": 595519,
+      "sha256": "edd6af36de6c93b98b3d26410e2385b079db461c2275c3da1c0d4e6e1a5c1532"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-06-zoom.jpg",
+      "width": 1563,
+      "height": 2576,
+      "bytes": 799748,
+      "sha256": "21d17dfb216384a70200e1a09c52fcfb6e76734972187de7d9a5de8422167692"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-07-zoom.jpg",
+      "width": 659,
+      "height": 1230,
+      "bytes": 254080,
+      "sha256": "62269941d0938563085def2478b4453432209347e1506fe5f6c30557ac10f768"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-08-zoom.jpg",
+      "width": 1726,
+      "height": 2576,
+      "bytes": 1289538,
+      "sha256": "7acd142c48679380a35755d0625c46505cdaa5b87f47fdaaad19698ca32cf278"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-09-zoom.jpg",
+      "width": 1425,
+      "height": 2576,
+      "bytes": 551950,
+      "sha256": "b62509d5ab3cbc5ea57e6f969bf16291a5434f7bf021954a1bc5bc6c04f3686a"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-10-zoom.jpg",
+      "width": 1209,
+      "height": 2576,
+      "bytes": 673679,
+      "sha256": "df5b83fd4baf073188cef3aeb468540cafe243813122db6cd64ad5bce29d31b4"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-11-zoom.jpg",
+      "width": 2136,
+      "height": 2576,
+      "bytes": 1198210,
+      "sha256": "3d96b1eb5bcb5d7758bc8bfb4fb4930c046b71399b1ce88a640383105fc2adda"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-12-zoom.jpg",
+      "width": 1470,
+      "height": 2576,
+      "bytes": 1222737,
+      "sha256": "8f1215df9ebf5098f0b1a627d3090096f169555f17a9db197421e42978dbd937"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-13-zoom.jpg",
+      "width": 1143,
+      "height": 2576,
+      "bytes": 845265,
+      "sha256": "c370190858b3b390dfec2b07b186e0e2be2fde4962efea13c68eab2160e54576"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-14-zoom.jpg",
+      "width": 1697,
+      "height": 2576,
+      "bytes": 815240,
+      "sha256": "f724e7a20bf649d6c9b8a08afc3f0eb415c1dff198c74917b7cec6e4a673ca41"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-15-zoom.jpg",
+      "width": 1406,
+      "height": 2250,
+      "bytes": 707265,
+      "sha256": "cbe4b3f182a76259df7c615c4fee0280a1b894a420cd260039bb7d60bd8fa3fb"
+    },
+    {
+      "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-16-zoom.jpg",
+      "width": 994,
+      "height": 657,
+      "bytes": 245600,
+      "sha256": "756ec5fdfbbed94d6cbdbee11e3c67777e90369638e6bf92b0d840fc047e8bbe"
+    },
+    {
       "path": "Images/Bartolomeo-da-Camogli/bartolomeo-da-camogli-01-zoom.jpg",
       "width": 1585,
       "height": 2190,
