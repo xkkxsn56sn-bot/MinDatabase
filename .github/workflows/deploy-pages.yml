@@ -29,7 +29,7 @@ on:
       - "CNAME"
       - "robots.txt"
       - "404.html"
-      # Cloudflare Workers Static Assets (job deploy-cloudflare, sotto).
+      # Cloudflare Workers Static Assets (job deploy-cloudflare).
       - "_headers"
       - ".assetsignore"
       - "wrangler.site.toml"
@@ -39,58 +39,21 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: cloudflare-deploy
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      # Build esplicito invece di actions/jekyll-build-pages: quest'ultima usa
-      # le versioni che GitHub decide, ignorando il Gemfile del repo. Con
-      # bundler la build in produzione usa esattamente le versioni fissate in
-      # Gemfile.lock, cioe' le stesse con cui si costruisce in locale.
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.3"
-          bundler-cache: true
-
-      - name: Build with Jekyll
-        run: bundle exec jekyll build --config _config.yml,_config.production.yml --destination ./_site
-        env:
-          JEKYLL_ENV: production
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: ./_site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  # Tappa 1 della migrazione a Cloudflare: lo stesso sito pubblicato anche su
-  # Cloudflare Workers Static Assets, al solo indirizzo *.workers.dev
-  # (wrangler.site.toml: nessuna route, nessun dominio personalizzato).
-  # Job separato perche' il deploy su GitHub Pages resti identico: costruisce
-  # di nuovo il sito con lo stesso Gemfile.lock, fa girare i quattro
-  # validatori e pubblica _site con wrangler. Non scrive commit e non tocca
-  # push_notices.json: nessuna notizia, nessuna newsletter.
+  # Il sito e' servito da Cloudflare Workers Static Assets: il Worker
+  # medievalvisions-site (wrangler.site.toml) risponde su www.medievalvisions.com
+  # come dominio personalizzato e anche su *.workers.dev. GitHub Pages e' spento
+  # (tappa 4 della migrazione): questo e' l'unico deploy.
+  # Il job costruisce il sito con Gemfile.lock (bundler, non
+  # actions/jekyll-build-pages, cosi' le versioni sono le stesse della build
+  # locale), fa girare i quattro validatori e pubblica _site con wrangler.
+  # Non scrive commit e non tocca push_notices.json: nessuna notizia, nessuna
+  # newsletter.
   deploy-cloudflare:
     runs-on: ubuntu-latest
     permissions:
@@ -133,7 +96,7 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Deploy to Cloudflare (workers.dev)
+      - name: Deploy to Cloudflare Workers (www.medievalvisions.com)
         run: npx --yes wrangler@4 deploy --config wrangler.site.toml
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
