@@ -1592,6 +1592,34 @@
       "sha256": "525a791cdef6c37cfee25cd5d426e542fd5867cfc28f1f6ea97c48f418f8728a"
     },
     {
+      "path": "Images/Primo-Maestro-della-Beata-Chiara-da-Montefalco/primo-maestro-della-beata-chiara-da-montefalco-01-zoom.jpg",
+      "width": 1243,
+      "height": 1752,
+      "bytes": 470545,
+      "sha256": "32d08b356e7636ef89b747ec4da7bcd1048b2497f0789eab5affef5bb4dd8479"
+    },
+    {
+      "path": "Images/Primo-Maestro-della-Beata-Chiara-da-Montefalco/primo-maestro-della-beata-chiara-da-montefalco-02-zoom.jpg",
+      "width": 1244,
+      "height": 1757,
+      "bytes": 648280,
+      "sha256": "62b64a3911badae2326bc147516d621c6ffc22587850a19798ff096592301e49"
+    },
+    {
+      "path": "Images/Primo-Maestro-della-Beata-Chiara-da-Montefalco/primo-maestro-della-beata-chiara-da-montefalco-04-zoom.jpg",
+      "width": 1243,
+      "height": 1759,
+      "bytes": 505003,
+      "sha256": "fca427c276fad413d6c31053af6cf5d4531d237de72a4cabca2e17449806620e"
+    },
+    {
+      "path": "Images/Primo-Maestro-della-Beata-Chiara-da-Montefalco/primo-maestro-della-beata-chiara-da-montefalco-08-zoom.jpg",
+      "width": 1242,
+      "height": 1757,
+      "bytes": 501243,
+      "sha256": "2e4d352822bdfd4783a18aa2f197aa62f452b2bdf7908c595b26ec932c5fefb3"
+    },
+    {
       "path": "Images/Puccio-di-Simone/puccio-di-simone-01-zoom.jpg",
       "width": 2576,
       "height": 2477,
