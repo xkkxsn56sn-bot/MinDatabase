@@ -124,7 +124,7 @@ What emerges from this documentary mosaic is less the biography of an individual
 
 <figure>
   <img src="/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-02.jpg" alt="Gabled gold-ground panel showing a tall, frontal Saint Francis in a dark hooded habit, blessing and holding a book, with stigmata on his hands and feet and a half-length winged angel on each side of his head. Three small narrative scenes run down each side: at upper left the Stigmatization, at upper right Francis beneath a canopy with kneeling laymen; a dated inscription lies between his feet">
-  <figcaption>Saint Francis and Six Stories (three from his life, three posthumous miracles), 1235. Tempera and gold on panel, c. 160 × 123 cm (151 × 114 cm according to the diocese of Pescia). Pescia, Church of San Francesco.</figcaption>
+  <figcaption>Saint Francis and Six Stories (three from his life, three posthumous miracles), 1235. Tempera and gold on panel, c. 160 × 123 cm (151 × 114 cm according to the diocese of Pescia). Pescia, Church of San Francesco. Image: public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 #### The Stigmatization on La Verna (upper left)

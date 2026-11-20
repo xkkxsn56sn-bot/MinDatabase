@@ -157,6 +157,13 @@
       "sha256": "cdd7e73f629ba4f8f5bef44b9438b68fb08003972e7200ccfb7e311c7051feb3"
     },
     {
+      "path": "Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01-zoom.jpg",
+      "width": 2090,
+      "height": 2576,
+      "bytes": 459354,
+      "sha256": "795ccdad3ecdecf8cb761707bd3720a7f1da2967400ad81abc8714a198274e56"
+    },
+    {
       "path": "Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-04-zoom.jpg",
       "width": 1799,
       "height": 2713,
@@ -988,6 +995,27 @@
       "height": 541,
       "bytes": 89216,
       "sha256": "0f1842f88debdb4be37198181df5bd930c71113782593681684e911fd67e5a24"
+    },
+    {
+      "path": "Images/Marco-Berlinghieri/marco-berlinghieri-01-zoom.jpg",
+      "width": 2090,
+      "height": 2576,
+      "bytes": 459354,
+      "sha256": "795ccdad3ecdecf8cb761707bd3720a7f1da2967400ad81abc8714a198274e56"
+    },
+    {
+      "path": "Images/Marco-Berlinghieri/marco-berlinghieri-02-zoom.jpg",
+      "width": 2576,
+      "height": 2396,
+      "bytes": 1188735,
+      "sha256": "5da177e87aacf423e71f8cb3aaa66b7dc41a64804c445f059369d24a3841d446"
+    },
+    {
+      "path": "Images/Marco-Berlinghieri/marco-berlinghieri-07-zoom.jpg",
+      "width": 1530,
+      "height": 2546,
+      "bytes": 1430452,
+      "sha256": "3957dd02badddd7dad7e83a48a77683ac5ac4dfd28411c4fcbf735d2278582ae"
     },
     {
       "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-01-zoom.jpg",

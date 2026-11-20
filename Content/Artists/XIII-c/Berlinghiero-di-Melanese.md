@@ -146,8 +146,8 @@ Berlinghiero inherited this type and transformed it. In the words of the *Dizion
 ### Cross of Santa Maria degli Angeli
 
 <figure>
-  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01.jpg" alt="Painted cross with a living Christ on a deep blue ground, open-eyed beneath a raised gilded halo, his arms outstretched along the crossbar. Gold side panels show the Virgin in a dark blue mantle on the left and Saint John in a red mantle on the right. The terminals of the arms hold the four Evangelist symbols. The top shows the Virgin between two angels and the foot shows small scenes of the Denial of Peter">
-  <figcaption>Christus Triumphans (Cross of Santa Maria degli Angeli), c. 1210–1220. Tempera and gold on shaped panel, 174.7 × 140.5 cm. Lucca, Museo Nazionale di Villa Guinigi, inv. 226; from the monastery of Santa Maria degli Angeli, Lucca. Signed: BERLINGERIUS ME PINXIT.</figcaption>
+  <img src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01.jpg" data-zoom-src="/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01-zoom.jpg" alt="Painted cross with a living Christ on a deep blue ground, open-eyed beneath a raised gilded halo, his arms outstretched along the crossbar. Gold side panels show the Virgin in a dark blue mantle on the left and Saint John in a red mantle on the right. The terminals of the arms hold the four Evangelist symbols. The top shows the Virgin between two angels and the foot shows small scenes of the Denial of Peter">
+  <figcaption>Christus Triumphans (Cross of Santa Maria degli Angeli), c. 1210–1220. Tempera and gold on shaped panel, 174.7 × 140.5 cm. Lucca, Museo Nazionale di Villa Guinigi, inv. 226; from the monastery of Santa Maria degli Angeli, Lucca. Signed: BERLINGERIUS ME PINXIT. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 The cross from the Lucchese monastery of Santa Maria degli Angeli is the work on which the modern identity of Berlinghiero rests. It bears his signature,
@@ -168,7 +168,7 @@ On either side of Christ's body, against a gold ground, stand the Virgin and Sai
 
 The result is a concentration of the image. The older crosses asked the viewer to read the Passion as a sequence of episodes. Here the eye moves directly from the living Christ to the two figures who mourn him and back again. The cross becomes less a narrative and more an icon, a single devotional image in which the Crucifixion is presented as a timeless state rather than an event.
 
-The square terminals of the crossbar hold the symbols of the four Evangelists, arranged in pairs. On the left the angel of Matthew stands above the winged lion of Mark, and on the right the eagle of John stands above the winged ox of Luke. As the ministerial record notes, this arrangement has an analogue in the earlier Lucchese cross of Santa Giulia.
+The square terminals of the crossbar hold the symbols of the four Evangelists, arranged in pairs. On the left the angel of Matthew stands above the winged ox of Luke, and on the right the eagle of John stands above the winged lion of Mark. As the ministerial record notes, this arrangement has an analogue in the earlier Lucchese cross of Santa Giulia.
 
 The cimasa contains the most significant iconographic innovation. Above the titulus, a frontal figure in dark blue appears between two angels: the Assumption of the Virgin. In the earlier Lucchese crosses this position was held by the Ascension of Christ. The substitution has sometimes been connected with the dedication of the church for which the cross was made, but no document of the commission survives to confirm it. Below the cimasa a small rectangular red field carries the titulus with the inscription naming Jesus of Nazareth, King of the Jews.
 
