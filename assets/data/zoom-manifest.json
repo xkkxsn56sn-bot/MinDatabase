@@ -465,6 +465,132 @@
       "sha256": "431f404d002daf34e5109904bb6944d1ad78c25286f155482c30e504082478b6"
     },
     {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-01-zoom.jpg",
+      "width": 1011,
+      "height": 1200,
+      "bytes": 242270,
+      "sha256": "aa34bc6119abe6b6e18be45f2506874985b68bc1166ea72f0be13493da379628"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-02-zoom.jpg",
+      "width": 1682,
+      "height": 1200,
+      "bytes": 391149,
+      "sha256": "5c18b886a1b214edf4f864d0dca7e4eaee2eda0014c31e0c9e3b67134a8989f4"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-03-zoom.jpg",
+      "width": 1500,
+      "height": 1200,
+      "bytes": 559321,
+      "sha256": "39c86dda431cc9cde36b666f031f264dacf512ffce34e9166e7d3933e88066fc"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-04-zoom.jpg",
+      "width": 1458,
+      "height": 1162,
+      "bytes": 408260,
+      "sha256": "b1f0b6adb6f2f433460dd1ea0b023f3ca63b8ea76dad44f234668da430f09e3f"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-05-zoom.jpg",
+      "width": 1530,
+      "height": 1200,
+      "bytes": 338334,
+      "sha256": "4e7702ecfecfe58ac59dac47c907749d613740e394d8e9bfed76ba9b06d421c0"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-08-zoom.jpg",
+      "width": 1784,
+      "height": 2576,
+      "bytes": 1219898,
+      "sha256": "1959c3961534956c82b833515ef3c072c3911b70e61d58a69f78f81321ba77a9"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-09-zoom.jpg",
+      "width": 1763,
+      "height": 2576,
+      "bytes": 1340475,
+      "sha256": "f489a8d3c08113a52363345958f5d94acdc76660f15b3ff0ba6a025cde4b6da7"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-10-zoom.jpg",
+      "width": 1763,
+      "height": 2576,
+      "bytes": 1317079,
+      "sha256": "f48b8a9b33cfaf87b7668a2f73b2915a8c4bcfc84fb9d5f187049401446d4210"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-11-zoom.jpg",
+      "width": 1763,
+      "height": 2576,
+      "bytes": 1377200,
+      "sha256": "6a52064bf5fb66e09df8e8cd08c104b9963c78dfd23535ab78bcb397fae09ebc"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-12-zoom.jpg",
+      "width": 1062,
+      "height": 1800,
+      "bytes": 631453,
+      "sha256": "2c63be1e066dadfe1b36890ba554c4b8e6b49610a19c2f00db43ceeaaa646d65"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-13-zoom.jpg",
+      "width": 1014,
+      "height": 1800,
+      "bytes": 525333,
+      "sha256": "4d3b4336323cef39e098c0b990e893d4bf978b9365e57bf87634aeaa23bd2efa"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-14-zoom.jpg",
+      "width": 979,
+      "height": 1800,
+      "bytes": 531853,
+      "sha256": "574886c956b3ff33ceedd2856d6d4048332d2ac3ace7e3c18c4ae82eefe58b74"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-15-zoom.jpg",
+      "width": 988,
+      "height": 1800,
+      "bytes": 552512,
+      "sha256": "25d77c29dcbc333cbb861435ebf3cd8ed2283cb08313a1b415d0f350bb5510cc"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-16-zoom.jpg",
+      "width": 2576,
+      "height": 1759,
+      "bytes": 1328204,
+      "sha256": "46f55cdf8c2378ca57c0d22294b612884295f6006a2812c8b9603b47d92f0710"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-17-zoom.jpg",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 653521,
+      "sha256": "db36509c2f57c18d7c3017a56b0df0d5bbf1a6a68d6c2df313467117dce93658"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-18-zoom.jpg",
+      "width": 1528,
+      "height": 1138,
+      "bytes": 462547,
+      "sha256": "36d586d6e0d4ba5beb180ba3ab9c1cc9980d5e7454e2da6ab86e6b4976ea86f6"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-19-zoom.jpg",
+      "width": 973,
+      "height": 1200,
+      "bytes": 363695,
+      "sha256": "98e0ebc3fec76344723348e486065901795091d09cfb909f0e8e90e65fd85de5"
+    },
+    {
+      "path": "Images/Helmarshausen-Abbey/helmarshausen-abbey-20-zoom.jpg",
+      "width": 983,
+      "height": 1200,
+      "bytes": 372831,
+      "sha256": "684e4f0f49b2b8a93ca3182aba0da1a300e24ede24ec20b5939c7c6bc2d8d716"
+    },
+    {
       "path": "Images/Lippo-Memmi/lippo-memmi-01-zoom.jpg",
       "width": 1434,
       "height": 673,
