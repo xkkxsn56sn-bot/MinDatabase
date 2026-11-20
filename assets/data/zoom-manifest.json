@@ -192,6 +192,34 @@
       "sha256": "fdc8aad8a9c86e22e0816af5e0cb66cc6ad3c86c28fd85741ec1e01a50e9af2b"
     },
     {
+      "path": "Images/Chiara-da-Montefalco/chiara-da-montefalco-02-zoom.jpg",
+      "width": 1243,
+      "height": 1752,
+      "bytes": 470545,
+      "sha256": "32d08b356e7636ef89b747ec4da7bcd1048b2497f0789eab5affef5bb4dd8479"
+    },
+    {
+      "path": "Images/Chiara-da-Montefalco/chiara-da-montefalco-05-zoom.jpg",
+      "width": 1243,
+      "height": 1759,
+      "bytes": 505003,
+      "sha256": "fca427c276fad413d6c31053af6cf5d4531d237de72a4cabca2e17449806620e"
+    },
+    {
+      "path": "Images/Chiara-da-Montefalco/chiara-da-montefalco-07-zoom.jpg",
+      "width": 1242,
+      "height": 1757,
+      "bytes": 501243,
+      "sha256": "2e4d352822bdfd4783a18aa2f197aa62f452b2bdf7908c595b26ec932c5fefb3"
+    },
+    {
+      "path": "Images/Chiara-da-Montefalco/chiara-da-montefalco-09-zoom.jpg",
+      "width": 1037,
+      "height": 1468,
+      "bytes": 531303,
+      "sha256": "5fb2cd6170601d39be37c1aa023185dc2d3602782653edf7aaeb83def1380549"
+    },
+    {
       "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-27-zoom.jpg",
       "width": 2132,
       "height": 2698,
