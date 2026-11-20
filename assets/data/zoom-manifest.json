@@ -2271,6 +2271,223 @@
       "sha256": "cd5960f0c4ae47fc4560ecdd88e5d9e810795ac1357f9b2b80bfc72f4cc8def5"
     },
     {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-01-zoom.jpg",
+      "width": 2576,
+      "height": 1689,
+      "bytes": 1237601,
+      "sha256": "c882cadf74e70e2296da0738d87adffeddad80fbc45ee4e4526c3de6f75afa9f"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-02-zoom.jpg",
+      "width": 1611,
+      "height": 2465,
+      "bytes": 1102992,
+      "sha256": "3c8572eda90e8d7bf293161c67828cb318ae756325fbdab62892f56bcd94384a"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-03-zoom.jpg",
+      "width": 2192,
+      "height": 2576,
+      "bytes": 1562880,
+      "sha256": "a8145b509d16690eac0ac9cce52a177b4df0a2b2e23c2a7d490f194816772ccd"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-04-zoom.jpg",
+      "width": 1600,
+      "height": 1100,
+      "bytes": 574917,
+      "sha256": "706a7cd963d6fd778af89524e94b2903f0db5b8cb36d9931dc45210e9ce41aa9"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-05-zoom.jpg",
+      "width": 1600,
+      "height": 1111,
+      "bytes": 627709,
+      "sha256": "2d6911d002403009aaf4991ae0a448e7e4aec5252336e7db08fb2c1689d44309"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-06-zoom.jpg",
+      "width": 1600,
+      "height": 1111,
+      "bytes": 604003,
+      "sha256": "a9c9e53ced7e91e11c5c99443e5c3e89425f2957af6ba790b92e45a71b40f125"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-07-zoom.jpg",
+      "width": 1600,
+      "height": 1137,
+      "bytes": 548976,
+      "sha256": "cbe7b14b9513cce9281e35ee70782d79dfd9fe4f306f422e6c4257f15a1ca99a"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-08-zoom.jpg",
+      "width": 1432,
+      "height": 1600,
+      "bytes": 853949,
+      "sha256": "eb93bd110e16398c72a786164dfc4988798301c292e7ddbfc3430fb4ffca8b76"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-09-zoom.jpg",
+      "width": 1438,
+      "height": 1600,
+      "bytes": 851182,
+      "sha256": "69adb6b2c370c6ba08bc242851b8285afed69688bba0d560aede047910ad4243"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-10-zoom.jpg",
+      "width": 1141,
+      "height": 1600,
+      "bytes": 513591,
+      "sha256": "92c8850fdfb57333b4737362cb92ac703367ff87ad05f626dcf75d746c60b43f"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-11-zoom.jpg",
+      "width": 893,
+      "height": 1600,
+      "bytes": 438694,
+      "sha256": "34850dcdce17d62e75270040fddc6aea05a36c1e92ab37519e618414899c7a31"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-12-zoom.jpg",
+      "width": 893,
+      "height": 1600,
+      "bytes": 496788,
+      "sha256": "05755e95c39039d9701aba238fe89cce19a716be2f70d910d3875012d54e6d11"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-13-zoom.jpg",
+      "width": 1600,
+      "height": 738,
+      "bytes": 409640,
+      "sha256": "7a3e9d64b23b98399d15ff54fbb39e4eeba95bd9288cfc2ceed504f35b44a3ec"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-14-zoom.jpg",
+      "width": 1600,
+      "height": 716,
+      "bytes": 448617,
+      "sha256": "24b2ac961c5bf9ff6b03ada603b7a46c773c0ce8e47569a1dbedc2157778bae2"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-15-zoom.jpg",
+      "width": 1099,
+      "height": 1600,
+      "bytes": 659360,
+      "sha256": "4bf64023cb81ca642fb83d179b451d8462f3942b273f1f0833c135ba5eefdc9f"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-16-zoom.jpg",
+      "width": 2172,
+      "height": 1500,
+      "bytes": 1121031,
+      "sha256": "c08b964d8d709d72fd8673c0675ea1864c4a0cb305de1d9b203b02deea7fab0f"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-17-zoom.jpg",
+      "width": 2165,
+      "height": 1500,
+      "bytes": 1062288,
+      "sha256": "07c455b85c812a6e58a170dda6ed675eb8eea32c03fb3f03e19bbea1f66b1670"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-18-zoom.jpg",
+      "width": 2022,
+      "height": 1491,
+      "bytes": 804631,
+      "sha256": "cb35f159e96966a9fff63f13648775af46bafbcc8b2d7de69c2b924c8fbd1001"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-22-zoom.jpg",
+      "width": 1232,
+      "height": 2576,
+      "bytes": 799226,
+      "sha256": "660d95e5885ac0ebca350431a7f744379f8f7bdf3e0071f3396a7a10d3d315ee"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-24-zoom.jpg",
+      "width": 2576,
+      "height": 1698,
+      "bytes": 804690,
+      "sha256": "771fae3a6a419e7c2fa7ee77c99df86ae4e6a9de72ebfe8462cb16e107af7c3a"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-25-zoom.jpg",
+      "width": 1031,
+      "height": 1500,
+      "bytes": 431502,
+      "sha256": "ca95ba13615c144875ca7a59104964bd64051384d96ae5b266d6135ce51df96b"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-27-zoom.jpg",
+      "width": 2576,
+      "height": 1259,
+      "bytes": 714811,
+      "sha256": "c4e0389988d6a5b08bc3f2aa7be36eaf5e1a43a21daaa719a87beb9d8289ceaa"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-28-zoom.jpg",
+      "width": 3000,
+      "height": 1922,
+      "bytes": 1388663,
+      "sha256": "240f71be52d4b22eb7009c38235293a826aa223a535e1a8a2f567cd1f5b87cff"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-29-zoom.jpg",
+      "width": 1328,
+      "height": 2000,
+      "bytes": 919955,
+      "sha256": "5dbe9c5a51c08fb92482bc90ec8758bf2669d784dbb935c979cb20fc0a46ecfe"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-30-zoom.jpg",
+      "width": 1738,
+      "height": 2576,
+      "bytes": 875908,
+      "sha256": "658d035ad180100d6bc26a9bc4bef94a12a6f026beec4cdf91c0164180ced30e"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-31-zoom.jpg",
+      "width": 1459,
+      "height": 2250,
+      "bytes": 792369,
+      "sha256": "7d1a8e5e483c01426400431ce4605435c0f8bf9102dbcaf10c8bb9e35faee99b"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-32-zoom.jpg",
+      "width": 2250,
+      "height": 2134,
+      "bytes": 1318052,
+      "sha256": "11ab60e80edcfacef3dffa9af19e0e362b8e01447e15f4000c96bb1c6e5b8898"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-36-zoom.jpg",
+      "width": 1159,
+      "height": 1600,
+      "bytes": 420616,
+      "sha256": "41a5f6fea0fcd7f36461be80e429fa2c836a2ecc4d36c0dffa987ce55f336c9c"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-37-zoom.jpg",
+      "width": 1055,
+      "height": 1455,
+      "bytes": 380685,
+      "sha256": "207c8d8b9915c8552c3d804b85cb0f9f5d47f62e20058ce4d05cdda488ec5cfa"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-38-zoom.jpg",
+      "width": 1406,
+      "height": 2000,
+      "bytes": 735600,
+      "sha256": "9a0d03aae46a2126b9dc1aedb3ba138f8a8a9dbe1120b8c1dba7cc1dc67d7efd"
+    },
+    {
+      "path": "Images/Ugolino-di-Nerio/ugolino-di-nerio-39-zoom.jpg",
+      "width": 1757,
+      "height": 2576,
+      "bytes": 1275552,
+      "sha256": "d94710f24d7400edbb44ad38c0951fec0cd70f4687db69a52f8f8309ac99e201"
+    },
+    {
       "path": "Images/Vitale-da-Bologna/vitale-da-bologna-20-zoom.jpg",
       "width": 1925,
       "height": 3000,
