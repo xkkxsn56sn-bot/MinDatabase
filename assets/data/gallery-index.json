@@ -1251,9 +1251,9 @@
   "url": "/Content/Artists/XIII-c/Arnolfo-di-Cambio.html"
  },
  {
-  "src": "/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01.jpg",
+  "src": "/Images/Berlinghiero-di-Melanese/berlinghiero-di-melanese-01-zoom.jpg",
   "alt": "Painted cross with a living Christ on a deep blue ground, open-eyed beneath a raised gilded halo, his arms outstretched along the crossbar. Gold side panels show the Virgin in a dark blue mantle on the left and Saint John in a red mantle on the right. The terminals of the arms hold the four Evangelist symbols. The top shows the Virgin between two angels and the foot shows small scenes of the Denial of Peter",
-  "caption": "Christus Triumphans (Cross of Santa Maria degli Angeli), c. 1210–1220. Tempera and gold on shaped panel, 174.7 × 140.5 cm. Lucca, Museo Nazionale di Villa Guinigi, inv. 226; from the monastery of Santa Maria degli Angeli, Lucca. Signed: BERLINGERIUS ME PINXIT.",
+  "caption": "Christus Triumphans (Cross of Santa Maria degli Angeli), c. 1210–1220. Tempera and gold on shaped panel, 174.7 × 140.5 cm. Lucca, Museo Nazionale di Villa Guinigi, inv. 226; from the monastery of Santa Maria degli Angeli, Lucca. Signed: BERLINGERIUS ME PINXIT. Photo: Sailko, CC BY 3.0, via Wikimedia Commons.",
   "entry": "Berlinghiero di Melanese",
   "section": "Artists",
   "century": "XIII",
@@ -1316,7 +1316,7 @@
  {
   "src": "/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-02.jpg",
   "alt": "Gabled gold-ground panel showing a tall, frontal Saint Francis in a dark hooded habit, blessing and holding a book, with stigmata on his hands and feet and a half-length winged angel on each side of his head. Three small narrative scenes run down each side: at upper left the Stigmatization, at upper right Francis beneath a canopy with kneeling laymen; a dated inscription lies between his feet",
-  "caption": "Saint Francis and Six Stories (three from his life, three posthumous miracles), 1235. Tempera and gold on panel, c. 160 × 123 cm (151 × 114 cm according to the diocese of Pescia). Pescia, Church of San Francesco.",
+  "caption": "Saint Francis and Six Stories (three from his life, three posthumous miracles), 1235. Tempera and gold on panel, c. 160 × 123 cm (151 × 114 cm according to the diocese of Pescia). Pescia, Church of San Francesco. Image: public domain, via Wikimedia Commons.",
   "entry": "Bonaventura Berlinghieri",
   "section": "Artists",
   "century": "XIII",
@@ -4462,6 +4462,78 @@
   "section": "Artists",
   "century": "XIII",
   "url": "/Content/Artists/XIII-c/Manuel-Panselinos.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-01-zoom.jpg",
+  "alt": "Complete painted cross on a black background. A living Christ with open eyes and a raised gilded halo set with stones hangs against a deep blue cross; his loincloth is pale grey-green with red and dark stripes, knotted at the waist. Gold side fields show the Virgin in dark blue and Saint John in a pink mantle with his hand to his cheek. The terminals hold the Evangelist symbols, the top the Virgin between two angels above the titulus, the foot two small figures beside Christ's feet and a red band with the signature.",
+  "caption": "Berlinghiero di Melanese, Christus triumphans, the cross of Santa Maria degli Angeli, c. 1210–1220. Tempera and gold on shaped panel, 174.7 × 140.5 cm. Lucca, Museo Nazionale di Villa Guinigi, inv. 226. Signed: BERLINGERIUS ME PINXIT. Photo: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Bonaventura-Berlinghieri/bonaventura-berlinghieri-02.jpg",
+  "alt": "Gabled gold-ground panel showing a tall, frontal Saint Francis in a dark hooded habit, blessing and holding a book, with stigmata on his hands and feet and a half-length winged angel on each side of his head. Three small narrative scenes run down each side, set among towers and buildings in pink, red and green; a dated inscription lies between his feet.",
+  "caption": "Bonaventura Berlinghieri, Saint Francis and Six Stories, signed and dated 1235. Tempera and gold on panel, c. 160 × 123 cm. Pescia, Church of San Francesco. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-02-zoom.jpg",
+  "alt": "Painted cross hanging against the stone wall of a Romanesque apse. Christ, with open eyes and a gilded halo with raised rays, hangs with outstretched straight arms; his body curves slightly to one side, the ribs and abdomen marked by dark linear arcs. He wears a red loincloth tied with a grey-green knotted band that falls in a long end. The arms of the cross end abruptly, and narrow strips of patterned ornament flank the body.",
+  "caption": "Attributed to Marco di Berlinghiero, Painted Crucifix, second quarter of the thirteenth century. Tempera on panel, gold ground, cut down. Villa Basilica, Pieve di Santa Maria Assunta. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons, cropped.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-03.jpg",
+  "alt": "Manuscript page with a tall initial P running down the left margin. Its stem is divided into compartments of red and blue with stylised leaves and ends in a curling dragon-like tail; its bowl, in gold and blue, encloses a crowned king in a red mantle who points with his right hand. Red capital letters to the right read PARABOLE SALOMONIS, followed by the text in a Gothic book hand.",
+  "caption": "Marco di Berlinghiero, initial P with King Solomon, opening of the Book of Proverbs, from the Bible of the hospital of San Martino, completed by 1250. Tempera and gold on parchment. Lucca, Biblioteca Capitolare Feliniana, MS 1. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-04.jpg",
+  "alt": "Manuscript page with a large initial V on a deep red and blue ground. The left stroke is filled with geometric compartments, the right one with gold interlace knots. Between the strokes a crowned king with a halo stands behind the battlemented walls of a red city gate with two towers. Red capitals above read INCIPIT ECCLESIASTES, and the letters ERBA run down beside the initial.",
+  "caption": "Marco di Berlinghiero, initial V with King Solomon in Jerusalem, opening of Ecclesiastes, from the Bible of the hospital of San Martino, completed by 1250. Tempera and gold on parchment. Lucca, Biblioteca Capitolare Feliniana, MS 1. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-05.jpg",
+  "alt": "Manuscript page with a large initial D. Its upright stroke is filled with gold interlace knots, the curved stroke with compartments of stylised leaves. Inside, against a blue ground, a crowned king in a red and violet mantle sits on a cushion and points towards a young man in a green tunic who stands before him with open hands. Red capitals read INCIPIT LIBER SAPIENTIE and DILIGITE IUSTITIAM QUI IUDICATIS TERRAM.",
+  "caption": "Marco di Berlinghiero, initial D with King Solomon instructing a youth, opening of the Book of Wisdom, from the Bible of the hospital of San Martino, completed by 1250. Tempera and gold on parchment. Lucca, Biblioteca Capitolare Feliniana, MS 1. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-06.jpg",
+  "alt": "Manuscript page with a large initial E divided into two registers. Above, against a red ground, an arc of dark blue sky holds the faces of the sun and the moon among stars, and a hand emerges downwards from it. Below, against a starry blue ground, a bearded man with a halo, in a red mantle, reclines beside wavy bands of blue and green water and looks up. Red capitals read ET FACTUM EST IN TRICESIMO ANNO.",
+  "caption": "Marco di Berlinghiero, initial E with the vision of Ezekiel by the river Chebar, opening of the Book of Ezekiel, from the Bible of the hospital of San Martino, completed by 1250. Tempera and gold on parchment. Lucca, Biblioteca Capitolare Feliniana, MS 1. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
+ },
+ {
+  "src": "/Images/Marco-Berlinghieri/marco-berlinghieri-07-zoom.jpg",
+  "alt": "Tall detached fresco. Under a frieze of painted cubes in perspective, Herod, crowned and holding a sceptre, sits on a throne at left and points to a soldier in a short red tunic who raises a sword and grips a naked child by the arm, trampling the bodies of dead children. At right a group of mothers with long loose hair weeps, one kneeling in a green mantle. Buildings with a dome and a gable close the background. Below, between the letters of an inscription, a roundel holds the half-length figure of a veiled female saint with raised open hands.",
+  "caption": "Attributed to Marco di Berlinghiero, The Massacre of the Innocents, with Saint Juliana in a roundel, mid-thirteenth century. Detached fresco, 350 × 205 cm, from the dome of the church of the Santo Sepolcro. Bologna, Museo della Basilica di Santo Stefano. Image: public domain, via Wikimedia Commons.",
+  "entry": "Marco Berlinghieri",
+  "section": "Artists",
+  "century": "XIII",
+  "url": "/Content/Artists/XIII-c/Marco-Berlinghieri.html"
  },
  {
   "src": "/Images/Margarito/margarito-05.jpg",
