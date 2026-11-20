@@ -1127,7 +1127,7 @@ The pinnacles form a second triad: Christ blessing at the centre, the deacon Sai
 
 The Virgin holds the Child on her left arm. He wears a red cloth and pulls her veil towards him with both hands, the gesture of the Tadini Madonna, which hangs opposite this triptych in the same room and shares its design. The comparison between the two Madonnas, built on closely similar cartoons, is discussed in the essay.
 
-The Uffizi attributes the triptych to Ugolino with the probable collaboration of a younger painter, Bartolomeo Bulgarini, to whom are ascribed the scowling expressions of the figures and their more marked emotional charge. Paul's knitted brows and sideways glance, and Peter's hard, staring face, are far from the gentle types of the early Madonnas, and they explain why the panel has been placed at the far end of Ugolino's development or associated with a second hand.
+The Uffizi attributes the triptych to Ugolino with the probable collaboration of a younger painter, <a href="/Content/Artists/XIV-c/Bartolomeo-Bulgarini.html">Bartolomeo Bulgarini</a>, to whom are ascribed the scowling expressions of the figures and their more marked emotional charge. Paul's knitted brows and sideways glance, and Peter's hard, staring face, are far from the gentle types of the early Madonnas, and they explain why the panel has been placed at the far end of Ugolino's development or associated with a second hand.
 
 The museum dates the triptych 1325–1330, close to Santa Croce, while Kanter placed it later, in the 1330s, at the end of Ugolino's career. The proposed collaboration with Bulgarini, who was documented from 1337/1338, would favour the later date and would make the triptych a point of contact between Ugolino and the next generation of Sienese painters.
 

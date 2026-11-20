@@ -72,6 +72,7 @@ meta:
   - title: "STYLE AND FORMATION"
     list:
       - "Ducciesque foundation close to Ugolino di Nerio"
+      - "Possible collaboration with Ugolino in the San Giovanni d'Asso triptych (Uffizi, Contini Bonacossi Collection)"
       - "Pupil of Pietro Lorenzetti according to Vasari; Lorenzettian mass and space from the 1340s"
       - "Later decorative refinement close to Simone Martini's followers"
       - "Almost exclusively a panel painter; distinctive halo and textile punches"
@@ -96,10 +97,14 @@ meta:
 scholars:
   - title: "Berenson, Bernard"
     url: "/scholars.html#berenson-bernard"
+  - title: "Kanter, Laurence"
+    url: "/scholars.html#kanter-laurence"
   - title: "Meiss, Millard"
     url: "/scholars.html#meiss-millard"
   - title: "Steinhoff, Judith"
     url: "/scholars.html#steinhoff-judith"
+  - title: "Stubblebine, James H."
+    url: "/scholars.html#stubblebine-james-h"
   - title: "van Os, Henk"
     url: "/scholars.html#hendrik-willem-van-os"
 ---
@@ -159,6 +164,8 @@ The question of Bulgarini's training has three layers. The documented layer is t
 The hypothetical layer is wider. The Washington catalogue goes further than most, suggesting that Bulgarini's lasting nostalgia for Duccio's figurative tradition makes it "possible" that he began in Duccio's own workshop. Since Duccio died in 1318 or 1319, that would require a birth date near the earliest estimates, and it remains speculation. The Uffizi entry adds that Bulgarini's later ornamental refinement drew on techniques "perfected in Simone Martini's workshop". This is a statement about stylistic and technical affinity. There is no documented apprenticeship with Simone.
 
 What can be said with confidence is that the works assigned to Bulgarini's early phase restate Ducciesque formulas with what the Washington catalogue calls "a nervously accentuated linearism". These works are a Biccherna cover dated 1329 in the Berlin Gemäldegalerie, the polyptych formerly in the Santa Croce museum, and the triptych from Fogliano divided between the Pinacoteca Nazionale and the Museo dell'Opera del Duomo in Siena. Including the Berlin Biccherna of 1329 is an attribution, not a documented commission. If correct, it would place Bulgarini's independent activity almost a decade before his first recorded payment.
+
+The point at which the two catalogues meet is a single work: the triptych of the *Virgin and Child with Saints Paul and Peter* from the oratory of San Pietro in Villore at San Giovanni d'Asso, now in the Contini Bonacossi Collection of the Uffizi. <a href="/scholars.html#stubblebine-james-h">James H. Stubblebine</a> (1979) assigned it to "Ugolino Lorenzetti", that is, to Bulgarini. <a href="/scholars.html#kanter-laurence">Laurence Kanter</a> returned it to Ugolino, on the evidence of its technique and of its punches, none of which belongs to the small set found in every work of the "Ugolino Lorenzetti" group. The Uffizi catalogues it as Ugolino's with the probable collaboration of Bulgarini, to whom it gives the scowling expressions and sharper emotional charge of the figures. If that division of hands is correct, the triptych would show the young Bulgarini at work beside Ugolino, as the stylistic evidence for his formation suggests. The panel is discussed and illustrated in the <a href="/Content/Artists/XIV-c/Ugolino-di-Nerio.html#triptych-from-san-giovanni-dasso-virgin-and-child-with-saints-paul-and-peter-florence-gallerie-degli-uffizi-contini-bonacossi-collection">catalogue of Ugolino di Nerio</a>.
 
 ## The Saint Victor Altarpiece and the Nativity in Cambridge
 
