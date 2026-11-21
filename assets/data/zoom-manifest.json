@@ -409,6 +409,62 @@
       "sha256": "61dcac113f96bba56763631bd02e3a63c2c8007e6a0069cef9f1392803b2867d"
     },
     {
+      "path": "Images/Fulda-Abbey/fulda-abbey-01-zoom.jpg",
+      "width": 2576,
+      "height": 2576,
+      "bytes": 1030933,
+      "sha256": "0c5b11fc87b5aa2ca542be23805868571d1471f11478500a52ec4c24a7399e6a"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-02-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 849407,
+      "sha256": "69e2bc198d4347e836babbbd5b5e1b1d87bb4467b2f668b6a93ee46d4cbf556c"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-03-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 734943,
+      "sha256": "efb9dd012c0cd20bae81b76a58d010d31b06fdf4ad3d331d29de6ba5e9d7e7f6"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-04-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 835364,
+      "sha256": "e13fb80419edbf189378002cc4ef87225230b11b52d955f2933f1b6f47d8647c"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-05-zoom.jpg",
+      "width": 2576,
+      "height": 2020,
+      "bytes": 1259412,
+      "sha256": "1a486df2cacc4f252a6b95b6920985954c370f657ceff3be19c28bfd08fee2f8"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-06-zoom.jpg",
+      "width": 2576,
+      "height": 1718,
+      "bytes": 557882,
+      "sha256": "2f0a0d904fd6af5c51a6796b2b33bfc9a0e5ce41cf02952144df035406346f11"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-07-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 855091,
+      "sha256": "bba424ae9b00e669ac74b4131f8ea95086e8a48b0631ce1cf7aa090056432e3f"
+    },
+    {
+      "path": "Images/Fulda-Abbey/fulda-abbey-08-zoom.jpg",
+      "width": 2576,
+      "height": 1219,
+      "bytes": 545030,
+      "sha256": "a4949b8e91da602e841c55520258ff9e7dcc6463587b792f74e9be9f20d02800"
+    },
+    {
       "path": "Images/Giotto/giotto-02-zoom.jpg",
       "width": 2141,
       "height": 3000,
