@@ -650,8 +650,13 @@ def check_image_references(md_files, anomalies):
 # scripts/check_zoom_r2.py, in CI.
 ZOOM_REF_RE = re.compile(r'\bdata-zoom-src="([^"]+)"')
 # La base finisce per -NN, oppure, per i codici, per il luogo del foglio del
-# check 12 (f001v, f001v-002r, f-iv-r, f001-004, p012, con -dNN/-alt).
-ZOOM_BASE_TAIL = r"(?:\d{2,}|(?:f\d+[rv](?:-\d+[rv])?|f-[ivxlc]+-[rv]|f\d+-\d+|p\d+)(?:-d\d{2}|-alt)*)"
+# check 12 (f001v, f001v-002r, f-iv-r, f001-004, p012, con -dNN/-alt) o per
+# un'etichetta del check 12 (cover-front, binding, ..., context-...). Etichette
+# e forma context- si importano da codex_image_names, cosi' le due regole non
+# possono divergere.
+ZOOM_LABELS = "|".join(re.escape(label) for label in codex_image_names.LABELS)
+ZOOM_BASE_TAIL = (r"(?:\d{2,}|(?:f\d+[rv](?:-\d+[rv])?|f-[ivxlc]+-[rv]|f\d+-\d+|p\d+)(?:-d\d{2}|-alt)*"
+                  rf"|{ZOOM_LABELS}|{codex_image_names.CONTEXT_RE})")
 ZOOM_NAME_RE = re.compile(rf"^(?P<base>.+-{ZOOM_BASE_TAIL})-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
 ZOOM_MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 
@@ -684,7 +689,7 @@ def zoom_ref_problems(text, exists, zoom_exists=None):
         m = ZOOM_NAME_RE.match(path.name)
         if not m:
             out.append(("File zoom fuori convenzione",
-                        f"'{ref}' -> atteso <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2)"))
+                        f"'{ref}' -> atteso <slug>-<NN|foglio|etichetta>-zoom.jpg o ...-zoom-vN.jpg (N >= 2)"))
             continue
         base = str(path.parent / (m.group("base") + ".jpg"))
         if not exists(base):

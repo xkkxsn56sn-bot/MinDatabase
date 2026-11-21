@@ -2376,6 +2376,153 @@
       "sha256": "f35340a1cd180cbcd2b5d6c4c92cd86dce246101dbd37ca82e2c5662c0d22296"
     },
     {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-01-zoom.jpg",
+      "width": 1000,
+      "height": 1283,
+      "bytes": 195382,
+      "sha256": "1884223dfc68374d68c79cf68959d971d7297231e9d750a2edee4474640df4a7"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-03-zoom.jpg",
+      "width": 1664,
+      "height": 2140,
+      "bytes": 1844758,
+      "sha256": "1e1a1b40410bec092291927ffbc8e9a434898f1906223734eb0df0cdacbd5dec"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-cover-front-zoom.jpg",
+      "width": 1000,
+      "height": 1500,
+      "bytes": 432554,
+      "sha256": "5b4639df37415cdb36d30d46291baa7e149ac76191f06f77ba98294f416ef51a"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f001r-alt-zoom.jpg",
+      "width": 1000,
+      "height": 1500,
+      "bytes": 339507,
+      "sha256": "ad1b4aaca70cbfb3d076f3636af4f44c3a4a07cd2a902d7a557ab8ffff42984c"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f001r-zoom.jpg",
+      "width": 1354,
+      "height": 1980,
+      "bytes": 1551290,
+      "sha256": "a38f3c7ba53d594399097e0c44c122fe644d8a2473c11c0bbbcaa88bd857f067"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f002r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 665819,
+      "sha256": "e0b44f34ae4989227eaa040af002dbac133d9ea47030f9ce3fc06bb54d7c8abb"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f002v-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 600856,
+      "sha256": "2baf4c77c1f580fabd4e5fe463c4fef95716bdac23578dfd0229f491ee62821c"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f003r-zoom.jpg",
+      "width": 1504,
+      "height": 2256,
+      "bytes": 927751,
+      "sha256": "9513ee7767bf170e942320923dcd6fd909c5f31d912f9fa838113714864b17e7"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f003v-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 675560,
+      "sha256": "4e2bb6df786eab57a5b70996135db23087c9fd33dcfe0449d65134dfbfd9a366"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f004r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 647278,
+      "sha256": "7b75b70bf10307017a0218b1838ea5596ae82d1746fbf084280c15766f55093c"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f005v-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 686565,
+      "sha256": "3f9da076322ca06cc44e4d979eba6fc40db4a336bf775f041c66a67689f5e257"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f014r-zoom.jpg",
+      "width": 1000,
+      "height": 1287,
+      "bytes": 220370,
+      "sha256": "fd552622068d330a33daa2f6a99ddf0617aab8e3fb1292348fb35fc856d94ef4"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f038r-zoom.jpg",
+      "width": 2199,
+      "height": 2576,
+      "bytes": 2453802,
+      "sha256": "725968f719fda15dcad1eb4c1c101e4f1d4dc09626ac219f268502592966639e"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f073r-zoom.jpg",
+      "width": 1000,
+      "height": 1500,
+      "bytes": 351512,
+      "sha256": "4f38eef6ba754199ae886f8597797d1b5471e704e993d82227fb16be5dc516ad"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f106r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 503910,
+      "sha256": "8a8f80111b654ae43f25c02193b76454a711888dd4de9fc9b3f86566397547fc"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f111r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 549004,
+      "sha256": "2bf9830ad831321c3491fff6ba8f53cf3af6a2455bbe1b73071954ba7b637584"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f111v-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 571901,
+      "sha256": "d7cd75e4ac11b6c513848c748ce09a0f282b66047cf11306c3c382fbe33036f2"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f135v-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 673191,
+      "sha256": "42dfd0095c7cabf9be8d8a96150fff5d7f190f383ac829074d8a0dd5445d9754"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f156r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 684503,
+      "sha256": "3a0411be44773213f6bbbb9537535d60447b8c9944400f802ccc982f5fec0dc0"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f177r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 542854,
+      "sha256": "16623b23c2f94e053881e2d8957c898f9dbd01efbe349f5dd6a4a8406962aaa9"
+    },
+    {
+      "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-f196r-zoom.jpg",
+      "width": 1695,
+      "height": 2174,
+      "bytes": 677891,
+      "sha256": "c92f2cbb5759cee766160a02285d8217277e99a75e4692346b06c10d6ce96595"
+    },
+    {
       "path": "Images/Simone-Martini/simone-martini-01-zoom.jpg",
       "width": 1511,
       "height": 2000,

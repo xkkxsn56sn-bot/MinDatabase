@@ -74,9 +74,11 @@ ZOOM_BASE = "https://zoom.medievalvisions.com"
 LOCAL_ROOT = REPO / "Zoom"
 MANIFEST = REPO / "assets" / "data" / "zoom-manifest.json"
 CACHE = "public, max-age=31536000, immutable"
-# Stessa convenzione del controllo 9b: <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2);
-# per i codici al posto di NN c'e' il foglio del check 12 (f001v, p012...).
-ZOOM_FILE_RE = re.compile(r"-(?:\d{2,}|(?:f\d+[rv](?:-\d+[rv])?|f-[ivxlc]+-[rv]|f\d+-\d+|p\d+)(?:-d\d{2}|-alt)*)-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
+# La convenzione dei nomi e' quella del controllo 9b, importata dal validatore
+# (non ricopiata): <slug>-NN-zoom.jpg o ...-zoom-vN.jpg (N >= 2); per i codici al
+# posto di NN il foglio o l'etichetta del check 12 (f001v, p012, cover-front...).
+sys.path.insert(0, str(REPO / "scripts"))
+from validate_content_indexes import ZOOM_NAME_RE as ZOOM_FILE_RE  # noqa: E402
 ONLY = {p.strip().lstrip("/") for p in os.environ.get("ONLY", "").splitlines() if p.strip()}
 
 
@@ -103,7 +105,7 @@ def local_inventory():
     out = {}
     for f in sorted((LOCAL_ROOT / "Images").rglob("*.jpg")):
         rel = f.relative_to(LOCAL_ROOT).as_posix()
-        if not ZOOM_FILE_RE.search(f.name):
+        if not ZOOM_FILE_RE.match(f.name):
             continue
         if ONLY and rel not in ONLY:
             continue

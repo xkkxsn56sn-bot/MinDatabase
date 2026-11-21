@@ -352,6 +352,20 @@ check("m. zoom sostituito, nome -zoom-v2: verde",
 V1 = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-06-zoom-v1.jpg">'
 check("m. versione -v1 (N < 2): rosso, fuori convenzione",
       "File zoom fuori convenzione" in zm(V1, BASES, MANIFEST | {f"{D}-06-zoom-v1.jpg"}))
+# Etichette del check 12 (codex_image_names.LABELS e context-...): verdi;
+# etichette incomplete, attaccate o -v1: rosse.
+S = "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen"
+for tail, ok in (("cover-front-zoom.jpg", True), ("binding-zoom-v2.jpg", True),
+                 ("context-west-front-zoom.jpg", True), ("cover-zoom.jpg", False),
+                 ("coverfront-zoom.jpg", False), ("cover-front-zoom-v1.jpg", False)):
+    base = tail.split("-zoom")[0]
+    LT = f'<img src="/{S}-{base}.jpg" data-zoom-src="/{S}-{tail}">'
+    got = zm(LT, {f"{S}-{base}.jpg"}, {f"{S}-{tail}"})
+    if ok:
+        check(f"m. zoom con etichetta di codice {tail}: verde", got == [], str(got))
+    else:
+        check(f"m. zoom con etichetta di codice {tail}: rosso, fuori convenzione",
+              "File zoom fuori convenzione" in got, str(got))
 check("m. orfano del manifest: rosso",
       v.zoom_orphans(set(), MANIFEST) == sorted(MANIFEST))
 
