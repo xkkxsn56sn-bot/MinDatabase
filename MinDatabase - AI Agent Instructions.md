@@ -332,8 +332,8 @@ oggetto fisso. La firma anti-reinvio in `newsletter_last_notified.json` guarda
 solo path, timestamp e tipo di modifica: l'oggetto non la tocca, quindi non
 puo' provocare un reinvio.
 
-`scripts/test_update_push_notices.py` fissa queste regole su tredici gruppi di
-casi presi dalla storia del repository — 58 asserzioni, comprese quelle sul
+`scripts/test_update_push_notices.py` fissa queste regole su quindici gruppi di
+casi presi dalla storia del repository — 74 asserzioni, comprese quelle sul
 range del ripiego, sulla firma dell'elenco intero e sulla separazione fra
 lista rotolante e lista solo-push. Si esegue senza dipendenze:
 `python3 scripts/test_update_push_notices.py`.
@@ -537,6 +537,17 @@ Conseguenza: in locale i comandi Jekyll vanno sempre preceduti da
 troverebbe il template di esempio con data segnaposto, che fa fallire la
 build.
 
+**Dove va il sito.** Il sito e' servito soltanto da Cloudflare Workers, tramite
+il job `deploy-cloudflare` di `.github/workflows/deploy-pages.yml` (build con
+`--config _config.yml,_config.production.yml`, i quattro validatori, poi
+`npx wrangler@4 deploy --config wrangler.site.toml`). `www.medievalvisions.com`
+e' il Custom Domain del Worker; l'apex rimanda a www da Cloudflare. GitHub
+Pages e' spento dal 20 novembre 2026 (commit 926ba70) e il file `CNAME` e'
+stato ritirato dal repository il 21 novembre. Il `wrangler.toml` della radice
+e' un altro Worker (il webhook degli iscritti) e non riguarda il deploy. Gli
+zoom non passano dal Worker: li serve R2 su `zoom.medievalvisions.com`, vedi
+«Gli zoom ad alta risoluzione».
+
 ### Passi manuali rimasti
 
 **L'iscrizione alla newsletter.** Formspree raccoglie gli indirizzi nella sua
@@ -599,7 +610,8 @@ contenuto; il docstring in cima li elenca. Sei meritano una nota:
     propone gia' scritto;
   - il confronto avviene dopo l'URL-decode (`%20` torna uno spazio) e con le
     maiuscole esatte, con la stessa logica del check 9 e per la stessa
-    ragione: GitHub Pages distingue le maiuscole, il Mac no;
+    ragione: il server di produzione (Cloudflare) distingue le maiuscole, il
+    Mac no;
   - l'ancora si scarta prima del confronto, perche' il bersaglio del check e'
     il file: delle ancore risponde gia' il check 8.
 
@@ -631,7 +643,7 @@ contenuto; il docstring in cima li elenca. Sei meritano una nota:
   l'hash, e non va piu' usato nei rimandi.
 - Il check 9 confronta le maiuscole in modo esplicito, senza affidarsi a
   `exists()`: il filesystem di macOS non distingue maiuscole e minuscole,
-  GitHub Pages si'. Un `Armagh-01.jpg` che punta ad `armagh-01.jpg` funziona
+  il server di produzione (Cloudflare) si'. Un `Armagh-01.jpg` che punta ad `armagh-01.jpg` funziona
   sul Mac e produce un'immagine vuota in produzione.
 - Il check 12 vale solo per `Content/Codex/` e confronta il nome di ogni
   immagine con la didascalia della sua figura: cartella uguale al nome della
@@ -684,8 +696,9 @@ Il visualizzatore (`_includes/image-zoom.html`) prefissa ai `data-zoom-src`
 la chiave `zoom_base` di `_config.yml` (ripetuta in `_config.production.yml`,
 che le build di produzione aggiungono con `--config`): le schede tengono i
 percorsi `/Images/...` e non vanno riscritte. Il check 9b verifica le schede
-contro il manifest — lo zoom e' nel manifest, nome `<slug>-NN-zoom.jpg`, base
-`<slug>-NN.jpg` su disco e usata dalla stessa scheda, nessuna voce del
+contro il manifest — lo zoom e' nel manifest, nome `<slug>-NN-zoom.jpg` (per
+i codici `<slug>-<foglio>-zoom.jpg`, es. `liber-divinorum-operum-f001v-zoom.jpg`,
+con il foglio di «Codex Image Names»), base `<slug>-NN.jpg` su disco e usata dalla stessa scheda, nessuna voce del
 manifest orfana — e in CI `check_zoom_r2.py` verifica il manifest contro R2.
 
 **Procedura per un lotto di zoom.**
@@ -709,6 +722,11 @@ check 9b accetta; la vecchia versione si sposta in
 resta, senza cancellazioni. Con `--only Images/<Cartella>/<file>` lo script
 carica soltanto quel file, lasciando fuori i lotti di altre schede ancora in
 lavorazione.
+
+`--only` accetta **percorsi di file, non cartelle**: per un lotto si ripete
+una volta per file (`--only Images/X/x-01-zoom.jpg --only Images/X/x-02-zoom.jpg`
+…). E `--apply`, anche con `--only`, alla fine copia sul Desktop **tutto**
+`Zoom/Images`, non solo i file del lotto.
 
 Le schede si spostano in `Content/` solo alla pubblicazione: da quel momento
 ogni commit fa partire una notifica agli iscritti, e una email non si ritira.
