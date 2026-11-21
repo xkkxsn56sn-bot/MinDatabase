@@ -346,6 +346,69 @@
       "sha256": "f4aa291729a95735a171aa1281310bafc229c5bc742df44147b59edda5c93245"
     },
     {
+      "path": "Images/Columba/columba-03-zoom.jpg",
+      "width": 2576,
+      "height": 1501,
+      "bytes": 717773,
+      "sha256": "70ebf463789edaabd29b83f6304adf9f1de62ef3e1af076dbe8a395b8e016460"
+    },
+    {
+      "path": "Images/Columba/columba-04-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 1012442,
+      "sha256": "f5bc8c8d716c01517fbfe64aa60af3876a5a0abef9c331920ba2c2b7b4caaec5"
+    },
+    {
+      "path": "Images/Columba/columba-05-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1278778,
+      "sha256": "b2f278a981ea7cb61f556d70c389e6d21fabf003f8690dca0a16dfff531cd096"
+    },
+    {
+      "path": "Images/Columba/columba-06-zoom.jpg",
+      "width": 1912,
+      "height": 2576,
+      "bytes": 1214683,
+      "sha256": "bd2e6b156b2655efdef46818c3d4f23ef0f1dd6cb5411dfae198d5ecc5340d4e"
+    },
+    {
+      "path": "Images/Columba/columba-07-zoom.jpg",
+      "width": 1857,
+      "height": 2576,
+      "bytes": 1161000,
+      "sha256": "3f913fe54a308f290275b3f1e2bf58ffd44f50f50056325ae7dacdb78b6e5991"
+    },
+    {
+      "path": "Images/Columba/columba-08-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1058450,
+      "sha256": "079f58d8e2473aec05c28a2ae7d1590e0e4e211ccebd06d714753cf5eefe2d48"
+    },
+    {
+      "path": "Images/Columba/columba-09-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1694023,
+      "sha256": "31c4cc9c7c54fb573652f6f135856d259be06f62cb065ed7aa803c27040d9070"
+    },
+    {
+      "path": "Images/Columba/columba-10-zoom.jpg",
+      "width": 2576,
+      "height": 2061,
+      "bytes": 1254755,
+      "sha256": "80e437171d68a89cc14aae92756bd6a783edaca1fb059d1d892eb501cc015e64"
+    },
+    {
+      "path": "Images/Columba/columba-11-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1413737,
+      "sha256": "aa6f824f3283efe7d569fa0cb0bd6741887d88825b181cc445807b5dcd2ddf1c"
+    },
+    {
       "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-27-zoom.jpg",
       "width": 2132,
       "height": 2698,
