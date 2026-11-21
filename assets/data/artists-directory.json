@@ -3,10 +3,6 @@
     {
       "name": "Eadfrith of Lindisfarne",
       "href": "Content/Artists/VII-c/Eadfrith-Lindisfarne.html"
-    },
-    {
-      "name": "Maestro di Castelseprio",
-      "href": "Content/Artists/VII-c/Maestro-di-Castelseprio.html"
     }
   ],
   "VIII Century": [
@@ -31,6 +27,10 @@
     {
       "name": "Brun Candidus of Fulda",
       "href": "Content/Artists/IX-c/Candidus-of-Fulda.html"
+    },
+    {
+      "name": "Maestro di Castelseprio",
+      "href": "Content/Artists/IX-c/Maestro-di-Castelseprio.html"
     }
   ],
   "X Century": [
