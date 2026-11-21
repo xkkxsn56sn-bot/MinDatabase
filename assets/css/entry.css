@@ -504,6 +504,22 @@ html[data-theme="dark"] .entry__content blockquote {
   font-size: 0.85rem;
 }
 
+/* Inline audio (first use: Hildegard von Bingen, O frondens virga) */
+.entry__content figure.figure--audio {
+  display: block;
+  width: 100%;
+  margin: 1.5rem auto;
+  border: 0;
+  box-shadow: none;
+}
+
+.entry__content figure.figure--audio audio {
+  display: block;
+  width: 100%;
+  margin: 0;
+  border: 0;
+}
+
 .entry__content p > img {
   display: block;
   margin: 1.5rem auto;

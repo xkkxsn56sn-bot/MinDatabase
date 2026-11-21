@@ -284,6 +284,7 @@
         }
       }
 
+      pauseInlineAudios();
       var playPromise = audio.play();
       if (!playPromise || typeof playPromise.then !== "function") {
         return;
@@ -291,6 +292,7 @@
 
       playPromise
         .then(function () {
+          pauseInlineAudios();
           shouldPlay = true;
           store.setItem(KEYS.enabled, "true");
           refreshButtons();
@@ -399,6 +401,52 @@
         attemptPlay();
       }
     });
+
+    // Audio inline della scheda (es. Hildegard, O frondens virga): i due
+    // lettori si escludono a vicenda. Se parte un <audio> del contenuto il
+    // gregoriano va in pausa (senza toccare la preferenza "enabled", cosi'
+    // riprende alla pagina successiva); se l'utente riattiva il gregoriano,
+    // gli audio inline vanno in pausa. Nessun autoplay: si reagisce solo al
+    // "play" avviato dall'utente. L'evento non risale, quindi si ascolta in
+    // fase di cattura.
+    // Nella direzione gregoriano -> inline non ci si affida solo all'evento
+    // "play" dell'elemento del gregoriano (che non e' nel DOM): in Safari i
+    // due audio si sovrapponevano. attemptPlay() mette in pausa gli audio
+    // inline direttamente, prima di play() e di nuovo a promessa risolta;
+    // "play" e "playing" restano come rete di sicurezza.
+    function pauseInlineAudios() {
+      var list = document.querySelectorAll(".entry__content audio");
+      for (var i = 0; i < list.length; i++) {
+        if (list[i] !== audio && !list[i].paused) {
+          list[i].pause();
+        }
+      }
+    }
+
+    document.addEventListener(
+      "play",
+      function (event) {
+        var target = event.target;
+        if (
+          !target ||
+          target === audio ||
+          target.tagName !== "AUDIO" ||
+          !target.closest ||
+          !target.closest(".entry__content")
+        ) {
+          return;
+        }
+        if (!audio.paused) {
+          audio.pause();
+          saveCurrentTime(audio);
+          refreshButtons();
+        }
+      },
+      true
+    );
+
+    audio.addEventListener("play", pauseInlineAudios);
+    audio.addEventListener("playing", pauseInlineAudios);
 
     function persistBeforeLeave() {
       saveCurrentTime(audio);

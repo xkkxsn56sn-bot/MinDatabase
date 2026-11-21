@@ -591,6 +591,90 @@
       "sha256": "684e4f0f49b2b8a93ca3182aba0da1a300e24ede24ec20b5939c7c6bc2d8d716"
     },
     {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-01-zoom.jpg",
+      "width": 1354,
+      "height": 1980,
+      "bytes": 1551290,
+      "sha256": "a38f3c7ba53d594399097e0c44c122fe644d8a2473c11c0bbbcaa88bd857f067"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-03-zoom.jpg",
+      "width": 2199,
+      "height": 2576,
+      "bytes": 2453802,
+      "sha256": "725968f719fda15dcad1eb4c1c101e4f1d4dc09626ac219f268502592966639e"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-04-zoom.jpg",
+      "width": 1664,
+      "height": 2140,
+      "bytes": 1844758,
+      "sha256": "1e1a1b40410bec092291927ffbc8e9a434898f1906223734eb0df0cdacbd5dec"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-06-zoom.jpg",
+      "width": 1091,
+      "height": 1590,
+      "bytes": 443720,
+      "sha256": "a7c9119115de216ba1e1afde35099c6f44833039b61d9fae7a342688baa0ee73"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-07-zoom.jpg",
+      "width": 1034,
+      "height": 1549,
+      "bytes": 461777,
+      "sha256": "90e7ad8b91957e52d8eb9577d1a5d2160fa402049a73405a3cb3d7c6d818d8f4"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-08-zoom.jpg",
+      "width": 1081,
+      "height": 1574,
+      "bytes": 422983,
+      "sha256": "01f2d9dd34d40fa847c906a7559f9e59a477988b8fbff354d8063425c2a0e973"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-09-zoom.jpg",
+      "width": 1504,
+      "height": 2256,
+      "bytes": 927751,
+      "sha256": "9513ee7767bf170e942320923dcd6fd909c5f31d912f9fa838113714864b17e7"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-10-zoom.jpg",
+      "width": 1504,
+      "height": 2256,
+      "bytes": 766096,
+      "sha256": "78a8156715e4e5d4865a0f46ab562fcca790b7a96f545bf25d6597a7fb8c164d"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-11-zoom.jpg",
+      "width": 1504,
+      "height": 2256,
+      "bytes": 798428,
+      "sha256": "92858e802a10c64160e79e23bbb844841b6f7ae1223bb6b13c4c9eb97cb85904"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-12-zoom.jpg",
+      "width": 2400,
+      "height": 1103,
+      "bytes": 843636,
+      "sha256": "cc0501eb9e25b58e537ef677efd20c5d223aaf8f7609fc265482157396fd7253"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-13-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1545854,
+      "sha256": "c704b69cafe0889d62150de392677f82c258ca531f5b1d11da52b808d2e193d4"
+    },
+    {
+      "path": "Images/Hildegard-von-Bingen/hildegard-von-bingen-14-zoom.jpg",
+      "width": 2000,
+      "height": 1529,
+      "bytes": 1368639,
+      "sha256": "ff8894370446d50d6defef4a6d411acd4c27ff91475ec36206662c850e613017"
+    },
+    {
       "path": "Images/Lippo-Memmi/lippo-memmi-01-zoom.jpg",
       "width": 1434,
       "height": 673,
