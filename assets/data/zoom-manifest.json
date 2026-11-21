@@ -220,6 +220,132 @@
       "sha256": "5fb2cd6170601d39be37c1aa023185dc2d3602782653edf7aaeb83def1380549"
     },
     {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-01-zoom.jpg",
+      "width": 2576,
+      "height": 1835,
+      "bytes": 1244304,
+      "sha256": "cc9344734926c6f9869c98fc3ff125e65fbac64b70e8a59f85a1fac5a355f71f"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-02-zoom.jpg",
+      "width": 2576,
+      "height": 1935,
+      "bytes": 1290090,
+      "sha256": "a715930bdf13ebbcf74048d5d7fc467dd63917d29a5dc1c661d2927821c1cd9b"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-03-zoom.jpg",
+      "width": 1910,
+      "height": 2576,
+      "bytes": 1000796,
+      "sha256": "d4bc5763e512f25c8cec26c1b6a3945b385e060e5144fab9b65ea6885a28a972"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-04-zoom.jpg",
+      "width": 2576,
+      "height": 1700,
+      "bytes": 762995,
+      "sha256": "9a0cc2ce5a26c1e62346ba46c624a4aba4c5bcb7d1bc887cb1aa0d8859381dd0"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-05-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 808198,
+      "sha256": "987991d72737b49c95e74b67bc20b414eefb9f1f3accf628e1d10e62247bc0c1"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-06-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 765706,
+      "sha256": "d4b6271473d75f8928ef6793c6d68ac897fad793cb861abff5a61845a195037b"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-07-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 734955,
+      "sha256": "63b6dcae02973405acd3069fac98930336f1dc970083bbef35e5f90880b506f2"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-08-zoom.jpg",
+      "width": 2576,
+      "height": 2370,
+      "bytes": 1237388,
+      "sha256": "641ed220ce1297ce09d2070312c3759276d5e6fefe2274b4b891ed58ffea6f9c"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-09-zoom.jpg",
+      "width": 2576,
+      "height": 2137,
+      "bytes": 1343201,
+      "sha256": "79fc5c52f372e3dfd5f5c2545ca86d666fee8b90d6c099f21fe3e72a880901ac"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-10-zoom.jpg",
+      "width": 2576,
+      "height": 2522,
+      "bytes": 1202409,
+      "sha256": "a355bb49042aef3b01b095af48b8307920d0b03c0651a913c52a74bd684571df"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-11-zoom.jpg",
+      "width": 2576,
+      "height": 1898,
+      "bytes": 1042480,
+      "sha256": "7dfc6f79f2132477da9563f30103e7559f287241bfb4afd4ef459ab3c2320370"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-12-zoom.jpg",
+      "width": 2576,
+      "height": 2128,
+      "bytes": 1157113,
+      "sha256": "71120f2ff594cd12108fbf94b404ddf891b2f0b46a85a1c4fee5bbb5e30ad41a"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-13-zoom.jpg",
+      "width": 2576,
+      "height": 1833,
+      "bytes": 1001609,
+      "sha256": "ae1e7b5599d93d6a907c0b4c4d135071979c26ce82c7e6940c1c134c595a9add"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-14-zoom.jpg",
+      "width": 1920,
+      "height": 2560,
+      "bytes": 943481,
+      "sha256": "9543d3ccded27edbb5e237db9b7b3241800a463df2a12c51d7ddcb2f25f7df03"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-15-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 1075370,
+      "sha256": "58f72bc09dab50546cb1c77b5b94224465ca04a84e4189426c073286f1378a42"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-16-zoom.jpg",
+      "width": 2576,
+      "height": 1454,
+      "bytes": 729502,
+      "sha256": "2bc8a30da1f648f77bcfd598696bb89b14abd40850d130edc3877d88cae9b62f"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-17-zoom.jpg",
+      "width": 2576,
+      "height": 1782,
+      "bytes": 1043842,
+      "sha256": "f3ab0a62949d4e287d58a3b374a2d0caea76c26a070a796203155b5872b02907"
+    },
+    {
+      "path": "Images/Chiesa-Castelseprio/chiesa-castelseprio-18-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1140814,
+      "sha256": "f4aa291729a95735a171aa1281310bafc229c5bc742df44147b59edda5c93245"
+    },
+    {
       "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-27-zoom.jpg",
       "width": 2132,
       "height": 2698,
