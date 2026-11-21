@@ -74,8 +74,9 @@ ZOOM_BASE = "https://zoom.medievalvisions.com"
 LOCAL_ROOT = REPO / "Zoom"
 MANIFEST = REPO / "assets" / "data" / "zoom-manifest.json"
 CACHE = "public, max-age=31536000, immutable"
-# Stessa convenzione del controllo 9b: <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2).
-ZOOM_FILE_RE = re.compile(r"-\d{2,}-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
+# Stessa convenzione del controllo 9b: <slug>-NN-zoom.jpg o <slug>-NN-zoom-vN.jpg (N >= 2);
+# per i codici al posto di NN c'e' il foglio del check 12 (f001v, p012...).
+ZOOM_FILE_RE = re.compile(r"-(?:\d{2,}|(?:f\d+[rv](?:-\d+[rv])?|f-[ivxlc]+-[rv]|f\d+-\d+|p\d+)(?:-d\d{2}|-alt)*)-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
 ONLY = {p.strip().lstrip("/") for p in os.environ.get("ONLY", "").splitlines() if p.strip()}
 
 

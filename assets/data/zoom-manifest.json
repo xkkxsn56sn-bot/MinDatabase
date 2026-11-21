@@ -675,6 +675,76 @@
       "sha256": "ff8894370446d50d6defef4a6d411acd4c27ff91475ec36206662c850e613017"
     },
     {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f001v-zoom.jpg",
+      "width": 1091,
+      "height": 1590,
+      "bytes": 443720,
+      "sha256": "931faffa559c3b217e38c5778efdd4e927a1f7022f6e051f2602ebfce3805a20"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f009r-zoom.jpg",
+      "width": 1034,
+      "height": 1549,
+      "bytes": 461777,
+      "sha256": "3170f4ae5cb437ddd21be8abac85c7f9a20cacca2af031ae0cff657c245fa0db"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f028v-zoom.jpg",
+      "width": 1104,
+      "height": 1579,
+      "bytes": 435329,
+      "sha256": "6ec0ad73169ab86cd29fd487878a9987f0badb61ba00732a6307da7d6b609b0d"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f038r-zoom.jpg",
+      "width": 1081,
+      "height": 1574,
+      "bytes": 422983,
+      "sha256": "cc9ee4a34b401ff52e35c2305eaec10c4cabc3e39c395f7517b4c3f21d4d3da1"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f088v-zoom.jpg",
+      "width": 1170,
+      "height": 1568,
+      "bytes": 403337,
+      "sha256": "317f05820acbbb19343f8be30a5b5b684804beb5930343f955cc73eb1ecd209d"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f118r-zoom.jpg",
+      "width": 1138,
+      "height": 1580,
+      "bytes": 429572,
+      "sha256": "5b290a597f72d631992898e6695c3a2cac0415e4490d870f6fc1e114a442ae96"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f121v-zoom.jpg",
+      "width": 1186,
+      "height": 1559,
+      "bytes": 425728,
+      "sha256": "478fa190f32dc154ee89f41af54f0baf48baa8cfd0f0b4494436aef828c527f6"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f132r-zoom.jpg",
+      "width": 1123,
+      "height": 1576,
+      "bytes": 392409,
+      "sha256": "40a7eff03eed84c2a97e8d7df523b390f5d661263e940e2687a9da67f3b773bb"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f135r-zoom.jpg",
+      "width": 1137,
+      "height": 1600,
+      "bytes": 395631,
+      "sha256": "3ae4bba4d27d622f4f356f91cc5f4b433dabf32e619b78737a5287aa1dbcfffd"
+    },
+    {
+      "path": "Images/Liber-Divinorum-Operum/liber-divinorum-operum-f143r-zoom.jpg",
+      "width": 1150,
+      "height": 1609,
+      "bytes": 368989,
+      "sha256": "796cd27264ca210e75e87711bc9b7f70fefe15eb8734d9f76a528ae59aa21051"
+    },
+    {
       "path": "Images/Lippo-Memmi/lippo-memmi-01-zoom.jpg",
       "width": 1434,
       "height": 673,

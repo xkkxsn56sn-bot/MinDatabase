@@ -641,7 +641,7 @@ def check_image_references(md_files, anomalies):
 # (https://zoom.medievalvisions.com, prefisso site.zoom_base): il riferimento
 # e' assets/data/zoom-manifest.json, scritto da scripts/sync_zoom_r2.sh. Il
 # contratto: (1) lo zoom e' nel manifest, maiuscole incluse; (2) il nome e'
-# <slug>-NN-zoom.jpg, oppure <slug>-NN-zoom-vN.jpg con N >= 2 quando uno zoom
+# <slug>-NN-zoom.jpg (per i codici <slug>-<foglio>-zoom.jpg, check 12), oppure <slug>-NN-zoom-vN.jpg con N >= 2 quando uno zoom
 # gia' caricato viene sostituito (su R2 la cache dura un anno, quindi non si
 # sovrascrive: si rinomina); (3) la base <slug>-NN.jpg esiste su disco nella stessa
 # cartella ed e' usata come src dalla stessa scheda; (4) ogni voce del manifest
@@ -649,7 +649,10 @@ def check_image_references(md_files, anomalies):
 # su R2 che nessuna scheda mostra). Che R2 risponda davvero lo verifica
 # scripts/check_zoom_r2.py, in CI.
 ZOOM_REF_RE = re.compile(r'\bdata-zoom-src="([^"]+)"')
-ZOOM_NAME_RE = re.compile(r"^(?P<base>.+-\d{2,})-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
+# La base finisce per -NN, oppure, per i codici, per il luogo del foglio del
+# check 12 (f001v, f001v-002r, f-iv-r, f001-004, p012, con -dNN/-alt).
+ZOOM_BASE_TAIL = r"(?:\d{2,}|(?:f\d+[rv](?:-\d+[rv])?|f-[ivxlc]+-[rv]|f\d+-\d+|p\d+)(?:-d\d{2}|-alt)*)"
+ZOOM_NAME_RE = re.compile(rf"^(?P<base>.+-{ZOOM_BASE_TAIL})-zoom(?:-v(?:[2-9]|[1-9]\d+))?\.jpg$")
 ZOOM_MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 
 
@@ -725,7 +728,7 @@ def check_zoom_files(md_files, anomalies, manifest_path=ZOOM_MANIFEST):
 # didascalia. Il contratto sta in codex_image_names.py; qui si legge ogni
 # <figure> e si confronta il nome del file con il foglio che la didascalia dice.
 CODEX_FIGURE_RE = re.compile(r"<figure>(.*?)</figure>", re.S)
-CODEX_SRC_RE = re.compile(r'<(?:img|video)\b[^>]*\bsrc="([^"]+)"')
+CODEX_SRC_RE = re.compile(r'<(?:img|video)\b[^>]*?\ssrc="([^"]+)"')
 CODEX_CAP_RE = re.compile(r"<figcaption>(.*?)</figcaption>", re.S)
 
 

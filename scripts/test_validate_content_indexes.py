@@ -301,6 +301,16 @@ check("l. nome fuori convenzione: rosso",
 NONUM = f'<img src="/{D}-06.jpg" data-zoom-src="/{D}-zoom.jpg">'
 check("l. senza numero NN: rosso",
       "File zoom fuori convenzione" in zc(NONUM, FILES | {f"{D}-zoom.jpg"}))
+C = "Images/Liber-Divinorum-Operum/liber-divinorum-operum"
+CF = {f"{C}-f001v.jpg", f"{C}-f001v-zoom.jpg", f"{C}-f001v-002r.jpg", f"{C}-f001v-002r-zoom.jpg",
+      f"{C}-f001-zoom.jpg"}
+CODEXZ = f'<img src="/{C}-f001v.jpg" data-zoom-src="/{C}-f001v-zoom.jpg">'
+check("l. zoom di codice nominato per foglio (Liber f. 1v): verde", zc(CODEXZ, CF) == [], str(zc(CODEXZ, CF)))
+OPENZ = f'<img src="/{C}-f001v-002r.jpg" data-zoom-src="/{C}-f001v-002r-zoom.jpg">'
+check("l. zoom di codice su un'apertura: verde", zc(OPENZ, CF) == [], str(zc(OPENZ, CF)))
+NOSIDE = f'<img src="/{C}-f001v.jpg" data-zoom-src="/{C}-f001-zoom.jpg">'
+check("l. zoom di codice con foglio senza lato: rosso",
+      "File zoom fuori convenzione" in zc(NOSIDE, CF), str(zc(NOSIDE, CF)))
 NOBASE = f'<img src="/{D}-07.jpg" data-zoom-src="/{D}-07-zoom.jpg">'
 check("l. base mancante su disco: rosso",
       "Base del file zoom mancante" in zc(NOBASE, FILES | {f"{D}-07-zoom.jpg"}))

@@ -35,7 +35,7 @@ OVERRIDES = {
 }
 
 FIGURE_RE = re.compile(r"<figure>(.*?)</figure>", re.S)
-SRC_RE = re.compile(r'<(?:img|video)\b[^>]*\bsrc="([^"]+)"')
+SRC_RE = re.compile(r'<(?:img|video)\b[^>]*?\ssrc="([^"]+)"')
 CAP_RE = re.compile(r"<figcaption>(.*?)</figcaption>", re.S)
 
 
