@@ -1,72 +1,72 @@
 {
   "Sacred Architecture and Fresco Cycles": [
     {
-      "name": "Badia a Passignano, Tavarnelle Val di Pesa",
-      "href": "/Content/Churches/Badia-a-Passignano.html"
+      "name": "Abbaye de Saint-Savin-sur-Gartempe",
+      "href": "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
     },
     {
-      "name": "Bardi Chapel, Florence",
-      "href": "/Content/Churches/Cappella-Bardi.html"
+      "name": "Abtei Fulda, Fulda",
+      "href": "/Content/Churches/Fulda-Abbey.html"
+    },
+    {
+      "name": "Badia a Passignano, Tavarnelle Val di Pesa",
+      "href": "/Content/Churches/Badia-a-Passignano.html"
     },
     {
       "name": "Basilica di Santa Chiara, Assisi",
       "href": "/Content/Churches/Basilica-Santa-Chiara-Assisi.html"
     },
     {
-      "name": "Basilica di Santa Maria Novella",
+      "name": "Basilica di Santa Maria Novella, Firenze",
       "href": "/Content/Churches/Basilica-Santa-Maria-Novella.html"
     },
     {
-      "name": "Fulda Abbey, Fulda, Germany",
-      "href": "/Content/Churches/Fulda-Abbey.html"
+      "name": "Cappella Bardi, Firenze",
+      "href": "/Content/Churches/Cappella-Bardi.html"
     },
     {
-      "name": "Helmarshausen Abbey, Germany",
-      "href": "/Content/Churches/Helmarshausen-Abbey.html"
+      "name": "Cappella degli Scrovegni, Padova",
+      "href": "/Content/Churches/Cappella-degli-Scrovegni.html"
     },
     {
-      "name": "Modena Cathedral, Modena",
-      "href": "/Content/Churches/Modena-Cathedral.html"
-    },
-    {
-      "name": "Oratory of San Pellegrino, Bominaco",
-      "href": "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
-    },
-    {
-      "name": "Palatine Chapel, Palermo",
+      "name": "Cappella Palatina, Palermo",
       "href": "/Content/Churches/Cappella-Palatina.html"
     },
     {
-      "name": "Peruzzi Chapel, Florence",
+      "name": "Cappella Peruzzi, Firenze",
       "href": "/Content/Churches/Cappella-Peruzzi.html"
     },
     {
-      "name": "Pieve di San Leolino, Chianti hills, Tuscany",
+      "name": "Cathédrale Saint-Lazare, Autun",
+      "href": "/Content/Churches/Autun-Cathedral.html"
+    },
+    {
+      "name": "Chiesa di Santa Maria foris portas, Castelseprio",
+      "href": "/Content/Churches/Santa-Maria-foris-portas.html"
+    },
+    {
+      "name": "Duomo di Modena",
+      "href": "/Content/Churches/Modena-Cathedral.html"
+    },
+    {
+      "name": "Duomo di Spoleto",
+      "href": "/Content/Churches/Spoleto-Cathedral.html"
+    },
+    {
+      "name": "Kloster Helmarshausen, Bad Karlshafen",
+      "href": "/Content/Churches/Helmarshausen-Abbey.html"
+    },
+    {
+      "name": "Oratorio di San Pellegrino, Bominaco",
+      "href": "/Content/Churches/Oratory-of-San-Pellegrino-in-Bominaco.html"
+    },
+    {
+      "name": "Pieve di San Leolino, Panzano in Chianti",
       "href": "/Content/Churches/Pieve-di-San-Leolino.html"
     },
     {
       "name": "Porta dei Pellegrini, Ferrara",
       "href": "/Content/Churches/Porta-dei-Pellegrini.html"
-    },
-    {
-      "name": "Saint Lazarus of Autun Cathedral, Autun, France",
-      "href": "/Content/Churches/Autun-Cathedral.html"
-    },
-    {
-      "name": "Saint-Savin-sur-Gartempe Abbey, France",
-      "href": "/Content/Churches/Saint-Savin-sur-Gartempe-Abbey.html"
-    },
-    {
-      "name": "Santa Maria Assunta Cathedral, Spoleto",
-      "href": "/Content/Churches/Spoleto-Cathedral.html"
-    },
-    {
-      "name": "Santa Maria foris portas Church, Castelseprio",
-      "href": "/Content/Churches/Santa-Maria-foris-portas.html"
-    },
-    {
-      "name": "Scrovegni Chapel, Padua",
-      "href": "/Content/Churches/Cappella-degli-Scrovegni.html"
     }
   ]
 }
