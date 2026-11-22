@@ -436,6 +436,23 @@ html[data-theme="dark"] .entry__content blockquote {
   margin-bottom: 0;
 }
 
+/* Quotation in Latin followed by its English translation (kramdown IAL
+   {: .quote-latin} / {: .quote-translation}): the translation is in roman,
+   and the pair is joined into one bordered block. Other blockquotes unchanged. */
+.entry__content blockquote.quote-translation {
+  font-style: normal;
+}
+
+.entry__content blockquote.quote-latin:has(+ blockquote.quote-translation) {
+  margin-bottom: 0;
+  padding-bottom: 0.375rem;
+}
+
+.entry__content blockquote.quote-latin + blockquote.quote-translation {
+  margin-top: 0;
+  padding-top: 0.375rem;
+}
+
 .entry__content figure {
   display: table;
   margin: 1.5rem auto;

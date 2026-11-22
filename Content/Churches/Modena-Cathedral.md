@@ -133,17 +133,20 @@ The charter was issued at the royal residence of Gondreville, in Lorraine, at th
 
 The text forbids any public judge to enter the monasteries, hospices, baptismal churches and other possessions of the bishopric, to hear cases there, to exact fines, to demand lodging or provisions, to take sureties or to levy public dues. In practice it withdrew the lands and men of the church from the jurisdiction of the king's officials and placed them under the bishop. The church itself is described as "built in honour of the most precious confessor of Christ Geminianus, prelate of that same church": three centuries before Lanfranco, the cathedral was already the church of the saint.
 
-> *Carolus gratia dei rex Francorum et Langobardorum ac patricius Romanorum omnibus episcopis abbatibus ducibus comitibus gastaldiis atque [omnibus missis nostris] discurrentibus praesentibus et futuris. Maximum regni nostri in hoc augere credimus monimentum, si petitionibus sacerdotum ac servorum dei, in quo nostris auribus fuerint prolate, libenti animo obtemperamus atque ad effectum perducimus. Quapropter noverit solertia vestra, qualiter nos ad petitionem venerabilis viri Geminiani sanctae Modonensis ecclesiae episcopi, quae est constructa in honore praeciosissimi confessoris Christi Geminiani antestitis ipsius ecclesiae, talem circa ipsum sanctum locum beneficium concessisse, ut in monastheria et sinodochia seu ecclesias baptismales vel reliquas possessiones, quae ad ipsum episcopatum aspiciunt tam de datione regum quamque reginarum seu reliquorum deo timentium hominum, unde moderno tempore ipsa casa dei iustae vestita est, aut quod divina pietas ibi amplificare voluerit, nullus iudex publicus ad causas audiendum vel freda undique exigendum seu mansiones aut paratas faciendum nec fideiussores tollendum neque hominibus ipsius episcopati distringendum nec nullas redibutiones publicas requirendum iudiciaria potestas ibidem quoque tempore ingredere nec exactare penitus non praesumat. Propterea hanc emunitatem conscribere iussimus, per quam specialiter decernimus ordinandum, ut nullus quislibet de vobis neque de iunioribus vestris amodo et deinceps, ut diximus, in monastheria vel exsinodochia seu ecclesias baptismales vel reliquas possessiones, quae ad ipsum episcopatum, ut diximus, de datione regum aut reginarum seu reliquorum deo timentium hominum aspiciunt, nullus iudex publicus ad causas audiendum vel freda undique exigendum seu mansiones aut paratas faciendum nec fideiussores tollendum nec nullas redibutiones publicas requirendum vel exactandum iudiciaria potestas ibidem quoque tempore ingredere nec exactare penitus non praesumatur, sed sub emunitatis nomine cum omni freda concessa valeat omnique tempore rectores ipsius episcopati hominesque eorum quieti vivere et resedere. Et ut haec auctoritas firmior habeatur vel diuturnis temporibus conservetur, manu propria subter eam decrevimus roborare.*
-> *Signum (M.) Caroli gloriosissimi regis.*
-> *Uuigbaldus advicem Radoni recognovi et subscripsi.*
+> *Carolus gratia dei rex Francorum et Langobardorum ac patricius Romanorum omnibus episcopis abbatibus ducibus comitibus gastaldiis atque [omnibus missis nostris] discurrentibus praesentibus et futuris. Maximum regni nostri in hoc augere credimus monimentum, si petitionibus sacerdotum ac servorum dei, in quo nostris auribus fuerint prolate, libenti animo obtemperamus atque ad effectum perducimus. Quapropter noverit solertia vestra, qualiter nos ad petitionem venerabilis viri Geminiani sanctae Modonensis ecclesiae episcopi, quae est constructa in honore praeciosissimi confessoris Christi Geminiani antestitis ipsius ecclesiae, talem circa ipsum sanctum locum beneficium concessisse, ut in monastheria et sinodochia seu ecclesias baptismales vel reliquas possessiones, quae ad ipsum episcopatum aspiciunt tam de datione regum quamque reginarum seu reliquorum deo timentium hominum, unde moderno tempore ipsa casa dei iustae vestita est, aut quod divina pietas ibi amplificare voluerit, nullus iudex publicus ad causas audiendum vel freda undique exigendum seu mansiones aut paratas faciendum nec fideiussores tollendum neque hominibus ipsius episcopati distringendum nec nullas redibutiones publicas requirendum iudiciaria potestas ibidem quoque tempore ingredere nec exactare penitus non praesumat. Propterea hanc emunitatem conscribere iussimus, per quam specialiter decernimus ordinandum, ut nullus quislibet de vobis neque de iunioribus vestris amodo et deinceps, ut diximus, in monastheria vel exsinodochia seu ecclesias baptismales vel reliquas possessiones, quae ad ipsum episcopatum, ut diximus, de datione regum aut reginarum seu reliquorum deo timentium hominum aspiciunt, nullus iudex publicus ad causas audiendum vel freda undique exigendum seu mansiones aut paratas faciendum nec fideiussores tollendum nec nullas redibutiones publicas requirendum vel exactandum iudiciaria potestas ibidem quoque tempore ingredere nec exactare penitus non praesumatur, sed sub emunitatis nomine cum omni freda concessa valeat omnique tempore rectores ipsius episcopati hominesque eorum quieti vivere et resedere. Et ut haec auctoritas firmior habeatur vel diuturnis temporibus conservetur, manu propria subter eam decrevimus roborare.*<br>
+> *Signum (M.) Caroli gloriosissimi regis.*<br>
+> *Uuigbaldus advicem Radoni recognovi et subscripsi.*<br>
 > *Data sexto kalendas octobris anno quarto decimo et nono regni nostri; actum Gundulfa villa palatio publico.*
->
-> Charles, by the grace of God king of the Franks and of the Lombards and patrician of the Romans, to all bishops, abbots, dukes, counts, gastalds and all our envoys travelling about, present and future. We believe that we increase the greatest safeguard of our realm if we gladly comply with the petitions of priests and servants of God, when they have been brought to our ears, and carry them into effect. Therefore let your diligence know that, at the petition of the venerable man Geminianus, bishop of the holy church of Modena, which is built in honour of the most precious confessor of Christ Geminianus, prelate of that same church, we have granted to that holy place this favour: that into the monasteries and hospices, the baptismal churches and the other possessions which belong to that bishopric, whether by gift of kings and queens or of other God-fearing men, with which this house of God is rightfully endowed at the present time, or whatever divine goodness may wish to add there, no public judge or judicial power shall presume at any time to enter, to hear cases, to exact fines anywhere, to require lodging or provisions, to take sureties, to constrain the men of the bishopric or to demand any public dues. For this reason we have ordered this immunity to be written, by which we specially decree that none of you, nor of your subordinates, from now on and hereafter, shall presume to enter the monasteries, hospices, baptismal churches or other possessions of the bishopric for any of these purposes, but that under the name of immunity, with all fines granted to it, the rectors of the bishopric and their men may at all times live and dwell in peace. And so that this authority may be held more firmly and preserved for long ages, we have decided to confirm it below with our own hand.
-> Sign (monogram) of Charles, most glorious king.
-> I, Wigbald, have checked it in place of Rado, and signed.
+{: .quote-latin}
+
+> Charles, by the grace of God king of the Franks and of the Lombards and patrician of the Romans, to all bishops, abbots, dukes, counts, gastalds and all our envoys travelling about, present and future. We believe that we increase the greatest safeguard of our realm if we gladly comply with the petitions of priests and servants of God, when they have been brought to our ears, and carry them into effect. Therefore let your diligence know that, at the petition of the venerable man Geminianus, bishop of the holy church of Modena, which is built in honour of the most precious confessor of Christ Geminianus, prelate of that same church, we have granted to that holy place this favour: that into the monasteries and hospices, the baptismal churches and the other possessions which belong to that bishopric, whether by gift of kings and queens or of other God-fearing men, with which this house of God is rightfully endowed at the present time, or whatever divine goodness may wish to add there, no public judge or judicial power shall presume at any time to enter, to hear cases, to exact fines anywhere, to require lodging or provisions, to take sureties, to constrain the men of the bishopric or to demand any public dues. For this reason we have ordered this immunity to be written, by which we specially decree that none of you, nor of your subordinates, from now on and hereafter, shall presume to enter the monasteries, hospices, baptismal churches or other possessions of the bishopric for any of these purposes, but that under the name of immunity, with all fines granted to it, the rectors of the bishopric and their men may at all times live and dwell in peace. And so that this authority may be held more firmly and preserved for long ages, we have decided to confirm it below with our own hand.<br>
+> Sign (monogram) of Charles, most glorious king.<br>
+> I, Wigbald, have checked it in place of Rado, and signed.<br>
 > Given on the sixth day before the Kalends of October [26 September], in the fourteenth and ninth year of our reign [782]; done at the public palace of the villa of Gondreville.
->
-> Text: MGH, *Diplomata Karolinorum* I, no. 147, pp. 199–200.
+{: .quote-translation}
+
+
+Text: MGH, *Diplomata Karolinorum* I, no. 147, pp. 199–200.
 
 The charter matters for the history of the cathedral because it shows the source of the bishops' power over the city and its territory. By the end of the eleventh century that power had become a problem. In the struggle between the papacy and the empire, Modena was divided, its bishop was an imperial partisan, and when the old church of Saint Geminianus threatened to collapse it was not a bishop but the clergy and the citizens who decided to rebuild it. The new cathedral was thus born from a moment in which the city, in the absence of a recognised bishop, took the guardianship of its patron into its own hands.
 
@@ -455,50 +458,54 @@ The foundation of the cathedral is recorded by two inscriptions of 1099, one on 
 
 The inscription of the façade is carved on a tablet held by the prophets Enoch and Elijah, who were taken up to heaven without dying and were expected to return at the end of time; their names are carved on the base. It was made by Wiligelmo himself, as its last couplet shows, and set into the wall to the left of the main portal.
 
-> *Dum Gemini Cancer cursum consendit ovantes,
-> idibus in quintis Iunii sub tempore mensis,
-> mille Dei carnis monos centum minus annis,
-> ista domus clari fundatur Geminiani.
-> Inter scultores quanto sis dignus onore
+> *Dum Gemini Cancer cursum consendit ovantes,<br>
+> idibus in quintis Iunii sub tempore mensis,<br>
+> mille Dei carnis monos centum minus annis,<br>
+> ista domus clari fundatur Geminiani.<br>
+> Inter scultores quanto sis dignus onore<br>
 > claret scultura nunc, Wiligelme, tua.*
->
-> While Cancer was climbing the course of the rejoicing Twins,
-> on the fifth day before the Ides of the month of June,
-> in the year of God's flesh one thousand and one hundred less one,
-> this house of the illustrious Geminianus is founded.
-> How worthy you are of honour among sculptors,
+{: .quote-latin}
+
+> While Cancer was climbing the course of the rejoicing Twins,<br>
+> on the fifth day before the Ides of the month of June,<br>
+> in the year of God's flesh one thousand and one hundred less one,<br>
+> this house of the illustrious Geminianus is founded.<br>
+> How worthy you are of honour among sculptors,<br>
 > Wiligelmo, your sculpture now makes plain.
+{: .quote-translation}
 
 The date, 9 June 1099, is given with learned elaboration: the position of the sun between the signs of the Twins and Cancer, the Roman reckoning of the Ides and the year expressed as "a hundred less one" after a thousand, with the Greek *monos* for one. The final couplet turns the foundation record into a celebration of the sculptor, whose work is offered as proof of his honour.
 
 The inscription of the apse is carved on a marble plaque above a window of the main apse, the oldest part of the building. Composed by the canon Aimo, it praises the church of the saint and names Lanfranco as master of the work; two further lines, in different lettering, were added in the thirteenth century by Bozzalino, *massarius* of the fabric of Saint Geminianus.
 
-> *Marmoribus sculptis domus haec micat undique pulchris,
-> qua corpus sancti requiescit Geminiani,
-> quem plenum laudis terrarum celebrat orbis,
-> nosque magis, quos pascit, alit, vestitque ministros.
-> Qui petit hic veram membris animaeque medelam,
-> recta redit hinc, quoque salute recepta.
-> Ingenio clarus Lanfrancus, doctus et aptus,
-> est operis princeps huius rectorque magister.
-> Quo fieri coepit demonstrat littera praesens:
-> ante dies quintus Iunii tunc fulserat Idus,
-> anni post mille Domini nonaginta novemque.
-> Hos utiles facto versus composuit Aimo.
+> *Marmoribus sculptis domus haec micat undique pulchris,<br>
+> qua corpus sancti requiescit Geminiani,<br>
+> quem plenum laudis terrarum celebrat orbis,<br>
+> nosque magis, quos pascit, alit, vestitque ministros.<br>
+> Qui petit hic veram membris animaeque medelam,<br>
+> recta redit hinc, quoque salute recepta.<br>
+> Ingenio clarus Lanfrancus, doctus et aptus,<br>
+> est operis princeps huius rectorque magister.<br>
+> Quo fieri coepit demonstrat littera praesens:<br>
+> ante dies quintus Iunii tunc fulserat Idus,<br>
+> anni post mille Domini nonaginta novemque.<br>
+> Hos utiles facto versus composuit Aimo.<br>
 > Boçalinus massarius Sancti Geminiani hoc opus fieri fecit.*
->
-> This house shines on every side with beautiful carved marbles,
-> where the body of Saint Geminianus rests,
-> whom, full of praise, the whole world celebrates,
-> and we above all, his ministers, whom he feeds, sustains and clothes.
-> Whoever seeks here true healing for body and soul
-> goes home restored, his health received.
-> Lanfranco, famed for his genius, learned and skilled,
-> is the chief of this work, its director and master.
-> When it began to be built, this inscription shows:
-> the fifth day before the Ides of June had then dawned,
-> in the year of the Lord one thousand ninety and nine.
-> Aimo composed these verses, useful for the deed.
+{: .quote-latin}
+
+> This house shines on every side with beautiful carved marbles,<br>
+> where the body of Saint Geminianus rests,<br>
+> whom, full of praise, the whole world celebrates,<br>
+> and we above all, his ministers, whom he feeds, sustains and clothes.<br>
+> Whoever seeks here true healing for body and soul<br>
+> goes home restored, his health received.<br>
+> Lanfranco, famed for his genius, learned and skilled,<br>
+> is the chief of this work, its director and master.<br>
+> When it began to be built, this inscription shows:<br>
+> the fifth day before the Ides of June had then dawned,<br>
+> in the year of the Lord one thousand ninety and nine.<br>
+> Aimo composed these verses, useful for the deed.<br>
 > Bozzalino, massarius of Saint Geminianus, had this work made.
+{: .quote-translation}
 
 The two inscriptions present the architect and the sculptor as the authors of the cathedral, in verse and in public, at the two ends of the building. As <a href="/scholars.html#castelnuovo-enrico">Enrico Castelnuovo</a> has observed, such statements of artistic identity are rare before the twelfth century, and at Modena they belong to a community that wished to celebrate the men who had made its church.
