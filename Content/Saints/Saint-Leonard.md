@@ -141,15 +141,17 @@ Through Bohemond and Walram, the saint of a regional shrine became a saint of th
 
 In England Leonard became one of the most popular saints of the later Middle Ages, with numerous dedications and hospitals, among them the great hospital of St Leonard at York. In France his cult extended far beyond the Limousin. In the Empire it was particularly strong in Bavaria and Austria, where Leonard became the patron of farmers and livestock, and the chains of the prisoners were reinterpreted as the chains of the stable.
 
-The Bavarian shrines developed their own forms of devotion. At Inchenhofen, promoted by the Cistercians of Fürstenfeld, pilgrims offered iron figures of animals and votive chains, and the church of the saint was encircled by a chain. Processions on horseback in honour of Leonard on or around 6 November, still held in several Bavarian towns such as Bad Tölz, preserve the memory of this agricultural patronage.
+The Bavarian shrines developed their own forms of devotion. At Inchenhofen, promoted by the Cistercians of Fürstenfeld, pilgrims offered iron figures of animals and votive chains; at other Bavarian shrines of Leonard a chain was even hung around the outside of the church. Processions on horseback in honour of Leonard on or around 6 November, still held in several Bavarian towns such as Bad Tölz, preserve the memory of this agricultural patronage.
 
 In Italy the cult was early and widespread. Churches, hospitals and hermitages dedicated to *San Leonardo* are found from the Alps to Sicily and Sardinia, often on roads and at bridges, where hospitals for pilgrims and travellers were placed under his protection. In Tuscany two foundations are particularly important for the images discussed on this page: San Leonardo in Arcetri, outside the gates of Florence, and the hermitage of San Leonardo al Lago, near Siena.
 
 The geography of the cult thus follows the lines of medieval mobility. Leonard was a saint of roads, pilgrims, prisoners and travellers, and his dedications mark the routes along which people moved and the places where they needed protection.
 
-## Leonard in Italian Art
+## The Image of Leonard
 
 The representation of Leonard varied with the regions of his cult. North of the Alps he is usually shown as a monk or an abbot, with a crosier or a book, holding a chain or fetters. In Italy he is more often a young deacon, tonsured and dressed in the dalmatic, the vestment of the deacon, sometimes with a book, and in the fourteenth and fifteenth centuries with fetters or manacles in his hand. The Italian image reflects a tradition in which Leonard, like Stephen and Lawrence, was regarded as a deacon.
+
+In the Limousin itself, the saint's own region, the earliest images show him not as an attribute-bearing figure but in action. In the church of Saint-Étienne at Lubersac, in Corrèze, a wall painting of the thirteenth century on the southern arch of the transept crossing, the oldest painting in the church, represents Leonard freeing a chained prisoner. The saint, nimbed and dressed in a long robe, is named by an inscription, *S(anctus) Leonard(us)*, and bends to take the hands of a kneeling captive. The image condenses the miracle that defined his cult in the region of Noblac: the chains are not yet an emblem held by the saint, but the bonds from which he releases the prisoner.
 
 The earliest important Italian image of the saint discussed here is the dossal of the Maestro del Dossale di Yale, a Florentine painter of the second half of the thirteenth century, now at Yale. Leonard stands at the left of the enthroned Virgin, in a red dalmatic, holding a book and raising his hand; he has no chains and is identified by an inscription. The panel was probably painted for San Leonardo in Arcetri, and the presence of the saint beside the Virgin reflects the dedication of its church.
 
@@ -243,7 +245,7 @@ The narrative scenes at both sides belong to Peter, the other titular saint: amo
 
 The panel is damaged, with horizontal cracks and losses along the bottom, but its colours and gold remain bright. Its style, with large heads, linear drapery and strongly patterned surfaces, belongs to the Florentine painting of the generation before Cimabue, and it was long associated with the workshop of the Magdalen Master by <a href="/scholars.html#offner-richard">Offner</a> and <a href="/scholars.html#siren-osvald">Sirén</a>, before the Yale catalogue assigned it to a separate follower of Meliore.
 
-The dossal came to Yale with the collection of James Jackson Jarves, formed in Florence in the mid-nineteenth century. It documents the presence of Leonard's cult on the outskirts of Florence by the thirteenth century, and it shows how a saint of the Limousin, known in Tuscany through the roads of pilgrimage, was given a place of honour beside the Virgin in a local church.
+The dossal documents the presence of Leonard's cult on the outskirts of Florence by the thirteenth century, and it shows how a saint of the Limousin, known in Tuscany through the roads of pilgrimage, was given a place of honour beside the Virgin in a local church.
 
 ### Walram of Naumburg to Anselm of Canterbury (Paris, BnF, Latin 2478, fol. 120v)
 
