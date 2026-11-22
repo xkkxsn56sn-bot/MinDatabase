@@ -346,6 +346,125 @@
       "sha256": "f4aa291729a95735a171aa1281310bafc229c5bc742df44147b59edda5c93245"
     },
     {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f001r-alt-zoom.jpg",
+      "width": 2041,
+      "height": 2576,
+      "bytes": 1770137,
+      "sha256": "68e5639bffe4125a351bb50990186138174c87482ef91863629c5f20e9249e74"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f001r-zoom.jpg",
+      "width": 1496,
+      "height": 1578,
+      "bytes": 518702,
+      "sha256": "fc91464593e7873975e3096984912b41b45eea23a39a8fe7c48a88f5722d578a"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f003v-zoom.jpg",
+      "width": 1278,
+      "height": 1300,
+      "bytes": 388243,
+      "sha256": "a16ea06f3b44b183950c8ed131273470295dc5088b42e351f6ba0936148a1835"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f014r-zoom.jpg",
+      "width": 2300,
+      "height": 2056,
+      "bytes": 1037905,
+      "sha256": "a3bd127165d9a6224b355144ede51d525b2f74357a92472c5adbb1f2a1aa5dee"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f044v-zoom.jpg",
+      "width": 1208,
+      "height": 1177,
+      "bytes": 433275,
+      "sha256": "1d2ecc0feb162b06bb591320eee2e9e1429723c1b113b796665a3fb31ecaab1b"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f045r-zoom.jpg",
+      "width": 1207,
+      "height": 1179,
+      "bytes": 427407,
+      "sha256": "b872641f44769858dd653431955cd694b78d8a135cd3e7d5313597c104ef1c98"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f074v-zoom.jpg",
+      "width": 1243,
+      "height": 1200,
+      "bytes": 426081,
+      "sha256": "527de071677ad822eb08764e0500bb8f779dbd1d8a05c4e845edec877167e6a0"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f076v-zoom.jpg",
+      "width": 1251,
+      "height": 1200,
+      "bytes": 470964,
+      "sha256": "8067a21d7f65bad227b8e38444c6a7132c67d06d6a5da0b5620c988e3428b904"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f077r-zoom.jpg",
+      "width": 1223,
+      "height": 1200,
+      "bytes": 451656,
+      "sha256": "1e434c2b957194f9a92f4735be673af12cf4122dec6f388c9b54b49023ad03ad"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f078r-zoom.jpg",
+      "width": 1293,
+      "height": 1322,
+      "bytes": 477518,
+      "sha256": "cfbc8ccc91c6365a2110cd0545cbe94bd0593e70850e14ec080293dbc2e2d95b"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f100v-zoom.jpg",
+      "width": 1245,
+      "height": 1200,
+      "bytes": 491882,
+      "sha256": "2ea428d58ad5568263d0125c7dd2cc0430242c1a84c277ad8e4d81b3c0b83ffc"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f101r-zoom.jpg",
+      "width": 1257,
+      "height": 1200,
+      "bytes": 504148,
+      "sha256": "0240fee62435c5ba9a98598a65f09967ae9f54cdeff83aecfaaeed0c6c3b4e6f"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f106r-zoom.jpg",
+      "width": 1250,
+      "height": 1200,
+      "bytes": 534879,
+      "sha256": "7b239e7ae71ea209b5fa7919d4049c09f8490f4716ea379b35e7a828e1bbe70e"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f163r-zoom.jpg",
+      "width": 1226,
+      "height": 1200,
+      "bytes": 519704,
+      "sha256": "3049fcc294ecccaba3d8281932fa7825b1dbeef5eff3f33b825ba2e5b3fbb8ab"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f188v-zoom.jpg",
+      "width": 1218,
+      "height": 1200,
+      "bytes": 450738,
+      "sha256": "9d8eddc688a9cd35871e4f633710c45952cce137d54de72c033a4a3d8be20284"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f234v-zoom.jpg",
+      "width": 1245,
+      "height": 1200,
+      "bytes": 455784,
+      "sha256": "10a74a2541cd6afb2b7e406c681079f87cdde169b0c6d5c0bedbf2cc16fecefb"
+    },
+    {
+      "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f235r-zoom.jpg",
+      "width": 1217,
+      "height": 1200,
+      "bytes": 444460,
+      "sha256": "4db0a24c66829c6b4ce6881eca4853842800996b2608dfceab6c82f6ceb0a5f2"
+    },
+    {
       "path": "Images/Columba/columba-03-zoom.jpg",
       "width": 2576,
       "height": 1501,
