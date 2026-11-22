@@ -1753,6 +1753,223 @@
       "sha256": "4227cd3ca7c26102426553cc319aea7ec19c006b4b2e7ec1486582fb1f9e1ab4"
     },
     {
+      "path": "Images/Modena-Cathedral/modena-cathedral-01-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 990426,
+      "sha256": "27301d0313224c8e3738db2c30b23f20176f8a541df0169af0110a1df5c109ef"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-02-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1380337,
+      "sha256": "d3c2c4e5f84025d0025abd9522ac4eed494a03d7ecd6a966a766aac8b72334ff"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-03-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1228768,
+      "sha256": "ad890350ff11696db9ff29a68b08c83bba177677c9fe0b2baa77c8826cf02466"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-04-zoom.jpg",
+      "width": 2576,
+      "height": 1200,
+      "bytes": 546700,
+      "sha256": "949742008463c7b529ba15ebebe362092b6587a2b7110e8ebe56ea31c7c5c143"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-06-zoom.jpg",
+      "width": 1245,
+      "height": 1065,
+      "bytes": 308285,
+      "sha256": "91a402b8246ad7f5fd33711abda1a66dbe8bed3a24f25625ff4103734b22a807"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-07-zoom.jpg",
+      "width": 1204,
+      "height": 887,
+      "bytes": 238741,
+      "sha256": "294ecff0e0d63375e5bef5520a668ef59ee7793894b13f8d340fa3a9df7524cb"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-11-zoom.jpg",
+      "width": 2272,
+      "height": 1704,
+      "bytes": 873238,
+      "sha256": "fc8a6e163b602b3950310bb6d7fcc7a1afba5335621cb5a8d8ff058e8b7ed611"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-12-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 663657,
+      "sha256": "c8c33aa1fce041c0a00d9c4ef7a4b38876f7b2cda4f42f68f15f276b7f083ea5"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-13-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 777735,
+      "sha256": "7eb07d9e607265e13ddfd0796b133a2ae1125280a40bc83781d3f0bf87924de2"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-15-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 702829,
+      "sha256": "ad3362f909381b36ab75acc22182f4ea27cb4f5fd35df62f57da355179e67a6d"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-16-zoom.jpg",
+      "width": 855,
+      "height": 2576,
+      "bytes": 509877,
+      "sha256": "c4d3ac3108ea1742164ba46ce43d5c0b25e6efc9c577f2bcc0a610fa7adf584e"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-17-zoom.jpg",
+      "width": 1354,
+      "height": 2576,
+      "bytes": 699663,
+      "sha256": "f2f3c19d11c0a442e375b8b882e388ac5776699010f9c5347674c127c3f337fa"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-18-zoom.jpg",
+      "width": 2576,
+      "height": 1949,
+      "bytes": 1026040,
+      "sha256": "f5f5d862699449690cc75ae5963c46a4829d8541dee7c1cc419b09c5f27a8e82"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-19-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 601152,
+      "sha256": "2edf37835329bdabbec7580094ff7fe9c7db5983b634f88f311abe06ae722b2a"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-20-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 618601,
+      "sha256": "f7cf0f4fed9cc30a492a4c79f740a75b35c9d78154cc2909d08d6c83c7ec76c9"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-21-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 545816,
+      "sha256": "49d0e3b127d9d135bd2852f7e982b83fd8a2dc4cedf910f9a58cb664ca4e09e4"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-22-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 486069,
+      "sha256": "99a48a69fde46b6099ff6b2c51bd9c68c82fd29080347ee3a973e189953fa4f6"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-23-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 442699,
+      "sha256": "081668fbc7ee0678fd70cf9f3cd44751b61b5b4e0785453e97b1c54eeb85086c"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-24-zoom.jpg",
+      "width": 2576,
+      "height": 1656,
+      "bytes": 1217007,
+      "sha256": "cd058458cc93fcda8bfdafc433ee5262403479f966822b4d3034b5fbdf7540c6"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-25-zoom.jpg",
+      "width": 2576,
+      "height": 970,
+      "bytes": 412183,
+      "sha256": "916b48eaf614483e59a2af82f75e253858380abac6d231c54c583cadc9d5da94"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-26-zoom.jpg",
+      "width": 2272,
+      "height": 1704,
+      "bytes": 910330,
+      "sha256": "fcfd7f20df25ffd9941a03a8f2acc269f1bb33d070428c77cb2cdeb073b2ff20"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-28-zoom.jpg",
+      "width": 2156,
+      "height": 1291,
+      "bytes": 589872,
+      "sha256": "81a7bb50624aca205541a172eef08f6f38d231e5132c25721297bcfea4de4680"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-29-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 690986,
+      "sha256": "b3e3a9b1f63d30b3913d70bfa07119630f8a87777099dbc4ffd17f9f6e2a8ba8"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-30-zoom.jpg",
+      "width": 2576,
+      "height": 1931,
+      "bytes": 947930,
+      "sha256": "b7372f9b679a917053db57d0c87e50be0c784836ba28e442903f968651791b67"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-31-zoom.jpg",
+      "width": 2576,
+      "height": 1196,
+      "bytes": 581944,
+      "sha256": "bcb6a19592361259ed6d03083d92b044a865a25de679bb8f73fdea13da555f14"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-32-zoom.jpg",
+      "width": 2576,
+      "height": 1787,
+      "bytes": 853850,
+      "sha256": "e1e0f68f07b58df5521cc0f083b37362a75717da3e59bb2214c7381569b8ec7e"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-33-zoom.jpg",
+      "width": 2576,
+      "height": 1892,
+      "bytes": 849745,
+      "sha256": "d3e671f0fa6c093bf72a77fc02d7875785ef760b94542389789e83f7b6187638"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-34-zoom.jpg",
+      "width": 2576,
+      "height": 1710,
+      "bytes": 755010,
+      "sha256": "30397c96b8bd412a29005dfa605d3a1e78c5f1b7a1f8314371c8dffea33985e8"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-36-zoom.jpg",
+      "width": 2260,
+      "height": 2060,
+      "bytes": 1325302,
+      "sha256": "f07e25dcd9d5ae41b14e7ddd7a6a5050b091faad7076edaf856a5421870e3067"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-37-zoom.jpg",
+      "width": 2132,
+      "height": 1732,
+      "bytes": 999043,
+      "sha256": "10697ddedb028c730367539cb0a5248c7bbde2806d2fa89fa5c53da36d57955f"
+    },
+    {
+      "path": "Images/Modena-Cathedral/modena-cathedral-38-zoom.jpg",
+      "width": 2576,
+      "height": 1445,
+      "bytes": 811716,
+      "sha256": "8db9550a9ecdb84609f13f24bab5fcb420c2d690e9b140fb93d89f73b1981103"
+    },
+    {
       "path": "Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-01-zoom.jpg",
       "width": 1673,
       "height": 2576,
