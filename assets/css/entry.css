@@ -443,6 +443,17 @@ html[data-theme="dark"] .entry__content blockquote {
   font-style: normal;
 }
 
+/* Verse lines: no justification or hyphenation when a line wraps (phones).
+   The p selectors are needed: .entry__content p sets justify/hyphens itself. */
+.entry__content blockquote.quote-latin,
+.entry__content blockquote.quote-latin p,
+.entry__content blockquote.quote-translation,
+.entry__content blockquote.quote-translation p {
+  text-align: left;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
 .entry__content blockquote.quote-latin:has(+ blockquote.quote-translation) {
   margin-bottom: 0;
   padding-bottom: 0.375rem;
