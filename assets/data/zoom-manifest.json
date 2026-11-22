@@ -2397,6 +2397,41 @@
       "sha256": "d260d72a7bb4a6867801de7e77a0d3fb27d241dd9b9fe8de25d816eeedf89075"
     },
     {
+      "path": "Images/Saint-Leonard/saint-leonard-01-zoom.jpg",
+      "width": 1600,
+      "height": 1076,
+      "bytes": 365464,
+      "sha256": "f560444bd50279a550763980d2b4e95433eae72510836c85af673dbae5799706"
+    },
+    {
+      "path": "Images/Saint-Leonard/saint-leonard-02-zoom.jpg",
+      "width": 1280,
+      "height": 628,
+      "bytes": 239805,
+      "sha256": "eed7e1ca89fe81e1fc1ecffa96600f5ed5f7454b8f6f044a0a8ae975740c54fb"
+    },
+    {
+      "path": "Images/Saint-Leonard/saint-leonard-03-zoom.jpg",
+      "width": 1724,
+      "height": 2576,
+      "bytes": 824474,
+      "sha256": "e53e231e96eab83144886e89fee4fdb409859096467b13f766ae564eb94198c8"
+    },
+    {
+      "path": "Images/Saint-Leonard/saint-leonard-04-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 768634,
+      "sha256": "7920a5d71308f87a805b7ed8eaec4700a331fa602ba8f5abdb113956e65c77f5"
+    },
+    {
+      "path": "Images/Saint-Leonard/saint-leonard-05-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 858874,
+      "sha256": "5be6123512fa1051d6bcd181b6cfcaa2bd5d6a9254d76ecac5136135c4bfc753"
+    },
+    {
       "path": "Images/Saint-Savin/saint-savin-10-zoom.jpg",
       "width": 2576,
       "height": 1717,
