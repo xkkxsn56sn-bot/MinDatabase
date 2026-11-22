@@ -1,79 +1,79 @@
 {
   "Manuscripts & Visionary Works": [
     {
-      "name": "Book of Armagh",
-      "href": "/Content/Codex/Book-of-Armagh.html"
-    },
-    {
-      "name": "Book of Dimma",
-      "href": "/Content/Codex/Book-of-Dimma.html"
-    },
-    {
-      "name": "Book of Durrow",
-      "href": "/Content/Codex/Book-of-Durrow.html"
-    },
-    {
-      "name": "Book of Kells",
-      "href": "/Content/Codex/Book-of-Kells.html"
-    },
-    {
-      "name": "Book of Mulling",
-      "href": "/Content/Codex/Book-of-Mulling.html"
-    },
-    {
-      "name": "Codex Amiatinus",
-      "href": "/Content/Codex/Codex-Amiatinus.html"
-    },
-    {
-      "name": "Codex Aureus of Echternach",
-      "href": "/Content/Codex/Codex-Aureus-of-Echternach.html"
-    },
-    {
-      "name": "Codex Aureus of Lorsch",
-      "href": "/Content/Codex/Codex-Aureus-of-Lorsch.html"
-    },
-    {
-      "name": "Codex Aureus of Saint Emmeram",
-      "href": "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
-    },
-    {
-      "name": "Codex Egberti",
-      "href": "/Content/Codex/Codex-Egberti.html"
-    },
-    {
-      "name": "Codex Usserianus Primus",
-      "href": "/Content/Codex/Codex-Usserianus-Primus.html"
-    },
-    {
-      "name": "Codex Usserianus Secundus",
-      "href": "/Content/Codex/Codex-Usserianus-Secundus.html"
-    },
-    {
-      "name": "Codex Vergilius Romanus",
-      "href": "/Content/Codex/Codex-Vergilius-Romanus.html"
-    },
-    {
-      "name": "Godescalc Evangelistary",
-      "href": "/Content/Codex/Godescalc-Evangelistary.html"
-    },
-    {
-      "name": "Liber Divinorum Operum",
-      "href": "/Content/Codex/Liber-Divinorum-Operum.html"
-    },
-    {
-      "name": "Lichfield Gospels",
-      "href": "/Content/Codex/Lichfield-Gospels.html"
-    },
-    {
-      "name": "Lindisfarne Gospels",
-      "href": "/Content/Codex/Lindisfarne-Gospels.html"
-    },
-    {
-      "name": "Morgan Beatus",
+      "name": "Beato de San Miguel de Escalada, New York, Morgan Library, MS M.644",
       "href": "/Content/Codex/Morgan-Beatus.html"
     },
     {
-      "name": "Scivias of Hildegard of Bingen",
+      "name": "Book of Dimma, Dublin, Trinity College Library, MS 59",
+      "href": "/Content/Codex/Book-of-Dimma.html"
+    },
+    {
+      "name": "Book of Mulling, Dublin, Trinity College Library, MS 60",
+      "href": "/Content/Codex/Book-of-Mulling.html"
+    },
+    {
+      "name": "Codex Amiatinus, Firenze, Biblioteca Medicea Laurenziana, Amiatino 1",
+      "href": "/Content/Codex/Codex-Amiatinus.html"
+    },
+    {
+      "name": "Codex Aureus Epternacensis, Nürnberg, Germanisches Nationalmuseum, Hs. 156142",
+      "href": "/Content/Codex/Codex-Aureus-of-Echternach.html"
+    },
+    {
+      "name": "Codex Aureus Laureshamensis, Città del Vaticano, BAV, Pal. lat. 50; Alba Iulia, Batthyaneum, R II 1",
+      "href": "/Content/Codex/Codex-Aureus-of-Lorsch.html"
+    },
+    {
+      "name": "Codex Aureus Sancti Emmerami, München, Bayerische Staatsbibliothek, Clm 14000",
+      "href": "/Content/Codex/Codex-Aureus-of-Saint-Emmeram.html"
+    },
+    {
+      "name": "Codex Cenannensis, Dublin, Trinity College Library, MS 58",
+      "href": "/Content/Codex/Book-of-Kells.html"
+    },
+    {
+      "name": "Codex Durmachensis, Dublin, Trinity College Library, MS 57",
+      "href": "/Content/Codex/Book-of-Durrow.html"
+    },
+    {
+      "name": "Codex Egberti, Trier, Stadtbibliothek, Hs. 24",
+      "href": "/Content/Codex/Codex-Egberti.html"
+    },
+    {
+      "name": "Codex Lichfeldensis, Lichfield, Cathedral Library, MS 1",
+      "href": "/Content/Codex/Lichfield-Gospels.html"
+    },
+    {
+      "name": "Codex Lindisfarnensis, London, British Library, Cotton MS Nero D IV",
+      "href": "/Content/Codex/Lindisfarne-Gospels.html"
+    },
+    {
+      "name": "Codex Usserianus Primus, Dublin, Trinity College Library, MS 55",
+      "href": "/Content/Codex/Codex-Usserianus-Primus.html"
+    },
+    {
+      "name": "Codex Usserianus Secundus, Dublin, Trinity College Library, MS 56",
+      "href": "/Content/Codex/Codex-Usserianus-Secundus.html"
+    },
+    {
+      "name": "Codex Vergilius Romanus, Città del Vaticano, BAV, Vat. lat. 3867",
+      "href": "/Content/Codex/Codex-Vergilius-Romanus.html"
+    },
+    {
+      "name": "Evangelistarium Godescalci, Paris, Bibliothèque nationale de France, nouv. acq. lat. 1203",
+      "href": "/Content/Codex/Godescalc-Evangelistary.html"
+    },
+    {
+      "name": "Liber Ardmachanus, Dublin, Trinity College Library, MS 52",
+      "href": "/Content/Codex/Book-of-Armagh.html"
+    },
+    {
+      "name": "Liber Divinorum Operum, Lucca, Biblioteca Statale, MS 1942",
+      "href": "/Content/Codex/Liber-Divinorum-Operum.html"
+    },
+    {
+      "name": "Scivias, Wiesbaden, Hochschul- und Landesbibliothek, Hs. 1 (perduto); Heidelberg, Cod. Sal. X,16",
       "href": "/Content/Codex/Scivias-of-Hildegard-of-Bingen.html"
     }
   ]
