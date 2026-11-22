@@ -138,13 +138,11 @@ The text forbids any public judge to enter the monasteries, hospices, baptismal 
 > *Uuigbaldus advicem Radoni recognovi et subscripsi.*<br>
 > *Data sexto kalendas octobris anno quarto decimo et nono regni nostri; actum Gundulfa villa palatio publico.*
 {: .quote-latin}
-
 > Charles, by the grace of God king of the Franks and of the Lombards and patrician of the Romans, to all bishops, abbots, dukes, counts, gastalds and all our envoys travelling about, present and future. We believe that we increase the greatest safeguard of our realm if we gladly comply with the petitions of priests and servants of God, when they have been brought to our ears, and carry them into effect. Therefore let your diligence know that, at the petition of the venerable man Geminianus, bishop of the holy church of Modena, which is built in honour of the most precious confessor of Christ Geminianus, prelate of that same church, we have granted to that holy place this favour: that into the monasteries and hospices, the baptismal churches and the other possessions which belong to that bishopric, whether by gift of kings and queens or of other God-fearing men, with which this house of God is rightfully endowed at the present time, or whatever divine goodness may wish to add there, no public judge or judicial power shall presume at any time to enter, to hear cases, to exact fines anywhere, to require lodging or provisions, to take sureties, to constrain the men of the bishopric or to demand any public dues. For this reason we have ordered this immunity to be written, by which we specially decree that none of you, nor of your subordinates, from now on and hereafter, shall presume to enter the monasteries, hospices, baptismal churches or other possessions of the bishopric for any of these purposes, but that under the name of immunity, with all fines granted to it, the rectors of the bishopric and their men may at all times live and dwell in peace. And so that this authority may be held more firmly and preserved for long ages, we have decided to confirm it below with our own hand.<br>
 > Sign (monogram) of Charles, most glorious king.<br>
 > I, Wigbald, have checked it in place of Rado, and signed.<br>
 > Given on the sixth day before the Kalends of October [26 September], in the fourteenth and ninth year of our reign [782]; done at the public palace of the villa of Gondreville.
 {: .quote-translation}
-
 
 Text: MGH, *Diplomata Karolinorum* I, no. 147, pp. 199–200.
 
@@ -465,7 +463,7 @@ The inscription of the façade is carved on a tablet held by the prophets Enoch 
 > Inter scultores quanto sis dignus onore<br>
 > claret scultura nunc, Wiligelme, tua.*
 {: .quote-latin}
-
+>
 > While Cancer was climbing the course of the rejoicing Twins,<br>
 > on the fifth day before the Ides of the month of June,<br>
 > in the year of God's flesh one thousand and one hundred less one,<br>
@@ -492,7 +490,7 @@ The inscription of the apse is carved on a marble plaque above a window of the m
 > Hos utiles facto versus composuit Aimo.<br>
 > Boçalinus massarius Sancti Geminiani hoc opus fieri fecit.*
 {: .quote-latin}
-
+>
 > This house shines on every side with beautiful carved marbles,<br>
 > where the body of Saint Geminianus rests,<br>
 > whom, full of praise, the whole world celebrates,<br>
