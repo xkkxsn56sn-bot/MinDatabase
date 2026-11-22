@@ -41,8 +41,8 @@ EXCLUDED_TOP_DIRS = {"prompts"}
 # <figure> con eventuali classi, fino alla chiusura. re.S perche' il blocco
 # si estende su piu' righe.
 FIGURE_RE = re.compile(r"<figure\b[^>]*>(.*?)</figure>", re.S | re.I)
-IMG_SRC_RE = re.compile(r'<img\b[^>]*\bsrc="([^"]+)"', re.S | re.I)
-IMG_ALT_RE = re.compile(r'<img\b[^>]*\balt="([^"]*)"', re.S | re.I)
+IMG_SRC_RE = re.compile(r'<img\b[^>]*?(?<![\w-])src="([^"]+)"', re.S | re.I)
+IMG_ALT_RE = re.compile(r'<img\b[^>]*?(?<![\w-])alt="([^"]*)"', re.S | re.I)
 CAPTION_RE = re.compile(r"<figcaption\b[^>]*>(.*?)</figcaption>", re.S | re.I)
 
 # Il titolo sta nel frontmatter, che qui si legge in modo minimale:

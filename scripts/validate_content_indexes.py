@@ -82,8 +82,16 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     del codice. La didascalia e' la fonte; il nome ne deriva. La grammatica
     sta in scripts/codex_image_names.py, condiviso con lo script di rinomina.
 
+13. Ogni "src" di assets/data/gallery-index.json punta a un file esistente
+    sotto Images/, con le maiuscole esatte, e non e' uno zoom ("-zoom"): gli
+    zoom stanno su R2, non nel repository. Fino al 22 novembre 2026 la regex
+    di build_gallery_index.py prendeva data-zoom-src al posto di src, e 542
+    miniature della galleria puntavano a file inesistenti senza che nessun
+    controllo se ne accorgesse.
+
 I controlli da 1 a 9 lavorano sui .md; il 10 e l'11 leggono i due
-contenitori HTML, endnotes.html e scholars.html; il 12 i soli .md di Codex.
+contenitori HTML, endnotes.html e scholars.html; il 12 i soli .md di Codex;
+il 13 l'indice della galleria.
 
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
@@ -592,6 +600,31 @@ def resolve_case_sensitive(rel_path):
             return False
         current = current / part
     return True
+
+
+GALLERY_INDEX = DATA_DIR / "gallery-index.json"
+
+
+def check_gallery_index(anomalies, path=GALLERY_INDEX):
+    """Check 13: ogni src dell'indice della galleria esiste e non e' uno zoom."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            items = json.load(f)
+    except FileNotFoundError:
+        anomalies["JSON mancante"].append(str(path.relative_to(REPO_ROOT)))
+        return
+    except json.JSONDecodeError as e:
+        anomalies["JSON non valido"].append(f"{path.relative_to(REPO_ROOT)}: {e}")
+        return
+    for item in items:
+        src = item.get("src", "") if isinstance(item, dict) else ""
+        where = f"{item.get('entry', '?')}: '{src}'" if isinstance(item, dict) else repr(item)
+        if "-zoom" in src:
+            anomalies["Galleria: src punta a uno zoom"].append(where)
+            continue
+        rel = urllib.parse.unquote(src).lstrip("/")
+        if not rel.startswith("Images/") or not resolve_case_sensitive(rel):
+            anomalies["Galleria: src inesistente"].append(where)
 
 
 def check_image_references(md_files, anomalies):
@@ -1148,6 +1181,7 @@ def main():
     check_codex_image_names(all_md, anomalies)
     check_note_ordering(anomalies)
     check_scholars_ordering(anomalies)
+    check_gallery_index(anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())

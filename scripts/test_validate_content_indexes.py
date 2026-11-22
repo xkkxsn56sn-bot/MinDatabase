@@ -401,6 +401,39 @@ check("m. R2: sha256 uguale con --sha: verde", r2.entry_problems(ENTRY, (200, OK
 check("m. R2: sha256 diverso con --sha: rosso",
       "sha256 diverso" in r2.entry_problems(ENTRY, (200, OK, b"\xff\xd8ZOOM"), True))
 
+# --- n. Check 13: l'indice della galleria --------------------------------
+# Fino al 22 novembre 2026 build_gallery_index.py leggeva data-zoom-src al
+# posto di src, e 542 miniature puntavano a uno zoom che non sta in Images/.
+import build_gallery_index as gbi  # noqa: E402
+# L'ordine conta: la vecchia regex, greedy, prendeva l'ultima occorrenza,
+# quindi l'attributo-esca va dopo quello vero, come nelle schede.
+FIG = ('<figure><img src="/Images/A/a-01.jpg" alt="Vero" data-alt="falso"\n'
+       '  data-zoom-src="/Images/A/a-01-zoom.jpg"></figure>')
+check("n. build: src vero, non data-zoom-src",
+      gbi.IMG_SRC_RE.search(FIG).group(1) == "/Images/A/a-01.jpg")
+check("n. build: alt vero, non data-alt", gbi.IMG_ALT_RE.search(FIG).group(1) == "Vero")
+with tempfile.TemporaryDirectory(dir=v.REPO_ROOT) as tmp:
+    real = next(p for p in sorted((v.REPO_ROOT / "Images").rglob("*.jpg"))
+                if "-zoom" not in p.name)
+    real_src = "/" + real.relative_to(v.REPO_ROOT).as_posix()
+    def gi(srcs):
+        path = Path(tmp) / "gallery-index.json"
+        path.write_text(json.dumps([{"src": s, "entry": "X"} for s in srcs]), encoding="utf-8")
+        an = defaultdict(list)
+        v.check_gallery_index(an, path)
+        return an
+    check("n. galleria: src esistente: verde", not gi([real_src]))
+    check("n. galleria: src di zoom: rosso",
+          "Galleria: src punta a uno zoom" in gi(["/Images/A/a-01-zoom.jpg"]))
+    check("n. galleria: src inesistente: rosso",
+          "Galleria: src inesistente" in gi(["/Images/Nessuna/nessuna-01.jpg"]))
+    check("n. galleria: maiuscole sbagliate: rosso",
+          "Galleria: src inesistente" in gi([real_src.replace("/Images/", "/images/")]))
+an = defaultdict(list)
+v.check_gallery_index(an)
+check("n. galleria: indice del repository pulito",
+      not an, "; ".join(f"{k}: {len(x)}" for k, x in an.items()))
+
 print()
 if FAILURES:
     print(f"{len(FAILURES)} test falliti: " + "; ".join(FAILURES))
