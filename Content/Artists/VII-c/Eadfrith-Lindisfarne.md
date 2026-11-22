@@ -93,7 +93,7 @@ scholars:
 
 ## The Bishop and the Book
 
-*Eadfrith* was bishop of Lindisfarne from 698 until his death in 721. He belonged to the community founded on Holy Island in 635 by Aidan, a monk of Iona, and he governed it in the years in which the cult of Saint Cuthbert, its former bishop, became one of the great cults of Anglo-Saxon England. His fame, however, rests on a single book: the Lindisfarne Gospels, now in the British Library, which a note added about two and a half centuries later names as his work.
+*Eadfrith* was bishop of Lindisfarne from 698 until his death in 721. He belonged to the community founded on Holy Island in 635 by Aidan, a monk of Iona, and he governed it in the years in which the cult of <a href="/Content/Saints/Saint-Cuthbert.html">Saint Cuthbert</a>, its former bishop, became one of the great cults of Anglo-Saxon England. His fame, however, rests on a single book: the Lindisfarne Gospels, now in the British Library, which a note added about two and a half centuries later names as his work.
 
 Almost everything else about him comes from texts written for or about the community. He received the two earliest Lives of Saint Cuthbert, one anonymous and one by Bede, and Bede records that he restored the saint's oratory on Farne. Symeon of Durham, writing in the early twelfth century, gives the date of his death. Of his origins, family and training nothing is known.
 
