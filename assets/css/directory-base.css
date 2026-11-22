@@ -56,6 +56,16 @@ main li {
   hyphens: auto;
 }
 
+/* Index-page list entries (artists, churches, codices, papers): left-aligned,
+   no hyphenation. Prose lists in other pages keep the justified rule above. */
+main .entry-list li,
+main .churches-list li,
+main .century-section li {
+  text-align: left;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
 h1 {
   color: var(--parchment);
   font-size: clamp(2rem, 1.8vw + 1.2rem, 3rem);
