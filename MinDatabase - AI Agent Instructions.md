@@ -556,7 +556,9 @@ interfaccia; vanno copiati a mano nel Secret `NEWSLETTER_SUBSCRIBERS` e in
 Il sistema regge fino a una trentina di iscritti: oltre, il limite non e'
 GitHub ma iCloud Mail, che non e' un servizio di invio in massa.
 
-*Procedura per un nuovo iscritto.*
+*Procedura per un nuovo iscritto.* I passi 2-4 li fa
+`scripts/Aggiungi-iscritto.command` (doppio clic; vedi README, «Aggiungere
+un iscritto da Formspree»); la procedura manuale resta qui sotto.
 
 1. Formspree: controllare che l'email sia davvero una richiesta di iscrizione.
 2. CSV locale: aggiungere una riga a `newsletter_subscribers.csv` con le

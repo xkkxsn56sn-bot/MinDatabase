@@ -101,6 +101,22 @@ Il workflow `.github/workflows/update-push-notices.yml` gira a ogni push che toc
 
 che rigenera `assets/data/push_notices.json` con l'elenco delle modifiche recenti ai contenuti, usato dal sito per mostrare gli aggiornamenti più recenti. Il workflow committa automaticamente solo se il file cambia. Non invia notifiche e-mail: non richiede secret SMTP.
 
+## Aggiungere un iscritto da Formspree
+
+1. Arriva l'email di Formspree: controllare che sia davvero una richiesta di iscrizione.
+2. Doppio clic su `scripts/Aggiungi-iscritto.command` (o sul suo alias nel Dock/Desktop).
+3. Finestra «Nuovo iscritto — Email»: incollare l'indirizzo (viene messo in minuscolo, senza spazi).
+4. Finestra «Data di iscrizione (UTC)»: è precompilata con l'ora UTC attuale; sostituirla con quella dell'email di Formspree. Valgono `AAAA-MM-GGTHH:MM:SS+00:00`, `AAAA-MM-GG HH:MM`, `AAAA-MM-GGTHH:MM`, anche con `Z`; non sono ammesse date future.
+5. Conferma riassuntiva (email, data, nuovo totale) → «Aggiungi».
+6. Lo script fa il backup del CSV in `drafts/_backup/`, aggiunge la riga a `newsletter_subscribers.csv` (non tracciato), aggiorna il secret `NEWSLETTER_SUBSCRIBERS` con `gh secret set` e lancia il dry run.
+7. Controllare la notifica finale «Iscritto aggiunto — Recipients N»: N deve essere salito di uno.
+
+Se l'indirizzo è già presente lo script si ferma senza modifiche; se `gh` non è autenticato si ferma prima di toccare il CSV; se l'aggiornamento del secret fallisce ripristina il CSV dal backup. In ogni errore compare un avviso con il codice d'uscita. Nel terminale gli indirizzi compaiono solo mascherati (`a•••@dominio.it`).
+
+Per le prove: `python3 scripts/add_subscriber.py --csv copia.csv --no-secret --no-dry-run` (il backup va in `_backup/` accanto alla copia).
+
+**Alias nel Dock o sul Desktop.** Nel Finder, tasto Opzione+Comando mentre si trascina `Aggiungi-iscritto.command` sul Desktop crea un alias (oppure clic destro → «Crea alias» e spostarlo). Per il Dock, trascinare il file (o l'alias) nella parte destra del Dock, accanto al Cestino: i documenti stanno lì, non tra le app.
+
 ## Astronomical CSV datasets
 
 The repository root also contains downloadable astronomy CSV files used as reference material for chronological and calendrical comparisons.
