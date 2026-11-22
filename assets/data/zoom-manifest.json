@@ -570,6 +570,27 @@
       "sha256": "ca11db5e93fa325dfdbf2547da16af56d1827e29bd847e02aa80c3ddadf934ee"
     },
     {
+      "path": "Images/Eadfrith-Lindisfarne/eadfrith-lindisfarne-01-zoom.jpg",
+      "width": 1408,
+      "height": 1000,
+      "bytes": 445354,
+      "sha256": "a7a6a1c1ab509ca781e843d6574805ba4d2f3735bfbf9d211c3a5865e885231d"
+    },
+    {
+      "path": "Images/Eadfrith-Lindisfarne/eadfrith-lindisfarne-02-zoom.jpg",
+      "width": 2048,
+      "height": 1323,
+      "bytes": 468936,
+      "sha256": "9020effc7172cbc63b24345866190d83ce54a0f76a4b54592aa923003479fbc8"
+    },
+    {
+      "path": "Images/Eadfrith-Lindisfarne/eadfrith-lindisfarne-03-zoom.jpg",
+      "width": 1862,
+      "height": 2576,
+      "bytes": 1780457,
+      "sha256": "b8b2ba576bb92b8cc9ba49fee368ab53c67e03ea37c0e226f571cd8ec2e104b5"
+    },
+    {
       "path": "Images/Francescuccio-Ghissi/francescuccio-ghissi-11-zoom.jpg",
       "width": 3000,
       "height": 2630,
@@ -1107,6 +1128,48 @@
       "height": 1609,
       "bytes": 368989,
       "sha256": "796cd27264ca210e75e87711bc9b7f70fefe15eb8734d9f76a528ae59aa21051"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f010r-zoom.jpg",
+      "width": 1250,
+      "height": 1765,
+      "bytes": 511630,
+      "sha256": "8e7c3d8bd658dbb3709ff2e27eb81ba458bc7f0e2d6053ee209135f4691a4ad4"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f011r-zoom.jpg",
+      "width": 1245,
+      "height": 1770,
+      "bytes": 495072,
+      "sha256": "ba28eb1819e82bd1bbf1536418c6c4bcc2814e7fc8bc2d333d935b7afb7c89c9"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f026v-zoom.jpg",
+      "width": 1235,
+      "height": 1845,
+      "bytes": 829632,
+      "sha256": "78dc16f9b33c7483996c1d88cfe48f19793330c1d22b410c2550d88178d32e71"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f029r-zoom.jpg",
+      "width": 1845,
+      "height": 2576,
+      "bytes": 1241827,
+      "sha256": "60822bb8ee6162c1527575b06d15debdfd89cf07ebfd7595b6c813f8626b99da"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f139r-zoom.jpg",
+      "width": 1865,
+      "height": 2576,
+      "bytes": 1215276,
+      "sha256": "e5a813eabd505b5db69a13feab10ad24f345ddb907213183619f200dce4616f2"
+    },
+    {
+      "path": "Images/Lindisfarne-Gospels/lindisfarne-gospels-f259r-zoom.jpg",
+      "width": 1255,
+      "height": 1745,
+      "bytes": 522325,
+      "sha256": "7e13d35c8f1249e18b6bb613785ef16ca9bac9f2b9d88160139b5639839db322"
     },
     {
       "path": "Images/Lippo-Memmi/lippo-memmi-01-zoom.jpg",
