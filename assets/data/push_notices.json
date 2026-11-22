@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T10:19:26+00:00",
+  "updated_at": "2026-11-22T09:09:41+00:00",
   "notices": [
+    {
+      "title": "Vergilius Romanus",
+      "section": "Codices",
+      "path": "Content/Codex/Codex-Vergilius-Romanus.md",
+      "page_url": "/Content/Codex/Codex-Vergilius-Romanus.html",
+      "change_type": "modified",
+      "pushed_at": "2026-11-22T10:09:05+01:00"
+    },
     {
       "title": "Lippo Memmi",
       "section": "Artists",
@@ -16,24 +24,16 @@
       "page_url": "/Content/Artists/XIII-c/Simone-Martini.html",
       "change_type": "modified",
       "pushed_at": "2026-11-14T13:01:39+01:00"
-    },
-    {
-      "title": "Nicol\u00f2 di Giacomo",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Nicol\u00f2-di-Giacomo.md",
-      "page_url": "/Content/Artists/XIV-c/Nicol%C3%B2-di-Giacomo.html",
-      "change_type": "modified",
-      "pushed_at": "2026-11-12T10:55:33+01:00"
     }
   ],
   "latest_push": [
     {
-      "title": "Lippo Memmi",
-      "section": "Artists",
-      "path": "Content/Artists/XIV-c/Lippo-Memmi.md",
-      "page_url": "/Content/Artists/XIV-c/Lippo-Memmi.html",
+      "title": "Vergilius Romanus",
+      "section": "Codices",
+      "path": "Content/Codex/Codex-Vergilius-Romanus.md",
+      "page_url": "/Content/Codex/Codex-Vergilius-Romanus.html",
       "change_type": "modified",
-      "pushed_at": "2026-11-16T11:18:43+01:00"
+      "pushed_at": "2026-11-22T10:09:05+01:00"
     }
   ]
 }
