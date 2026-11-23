@@ -106,7 +106,7 @@ The account that follows describes the cross and its inscription, its history fr
 
 The cross is also a rare witness to the self-awareness of a painter in the first half of the twelfth century. Most painted crosses of the period are anonymous; a few carry the name of a painter, and still fewer a date. That Guglielmo gave both, in verse and in a prominent place, sets his work apart from the anonymous production of his time.
 
-The entry is based on the published literature on the cross, especially the studies connected with its restoration, and on the documents of its later history collected by Piero Donati. Where the literature is uncertain or divided, the entry says so; where it gives a hypothesis, the hypothesis is presented as such.
+The entry is based on the published literature on the cross, especially the studies connected with its restoration, and on the documents of its later history collected by [Piero Donati](/scholars.html#donati-piero). Where the literature is uncertain or divided, the entry says so; where it gives a hypothesis, the hypothesis is presented as such.
 
 ## The Cross and Its Programme
 
@@ -148,7 +148,7 @@ The Solimena canvas, though it concealed the cross, also protected it. For more 
 
 The restoration confirmed that the figure of Christ visible today is not Guglielmo's. It is a complete repainting, executed according to the most recent hypotheses about fifty years after 1138, by a later painter who followed the outlines of the original figure but gave it a new face and a new modelling. The restorers decided not to remove it, since it is itself a work of the twelfth century and the original beneath is damaged.
 
-Radiography has allowed a partial reconstruction of the original figure. Anna Rosa Calderoni Masetti described a head more strongly frontal, with large, wide open eyes and a broad nose, closer to the mourners and to the figures of the scenes than the gentler face of the repainting. Antonino Caleca has discussed the reasons for the repainting, which may have been an updating of the image to the taste of the later twelfth century.
+Radiography has allowed a partial reconstruction of the original figure. [Anna Rosa Calderoni Masetti](/scholars.html#masetti-anna-rosa-calderoni) described a head more strongly frontal, with large, wide open eyes and a broad nose, closer to the mourners and to the figures of the scenes than the gentler face of the repainting. [Antonino Caleca](/scholars.html#caleca-antonino) has discussed the reasons for the repainting, which may have been an updating of the image to the taste of the later twelfth century.
 
 The repainting means that Guglielmo's own style must be judged from the parts he painted that survive: the mourners, the scenes, the prophets, the symbols and the cimasa. These show strong outlines, flat areas of colour, large eyes and expressive gestures, and a lively narrative in the small scenes.
 
@@ -164,9 +164,9 @@ The date of the repainting, about fifty years after 1138, is an estimate based o
 
 ## Attributions and Formation
 
-Edward Garrison, in his survey of Italian Romanesque panel painting (1949) and in a study of 1953, related the cross to the illuminated Passionary P+ of the Biblioteca Capitolare of Lucca, and proposed that Guglielmo was trained in Lucca. Marco Ciatti has suggested that he worked in a monastic milieu, where the learning shown by his verses and the practice of illumination would have been at home. Both are hypotheses based on style and on the inscription.
+[Edward Garrison](/scholars.html#garrison-edward), in his survey of Italian Romanesque panel painting (1949) and in a study of 1953, related the cross to the illuminated Passionary P+ of the Biblioteca Capitolare of Lucca, and proposed that Guglielmo was trained in Lucca. [Marco Ciatti](/scholars.html#ciatti-marco) has suggested that he worked in a monastic milieu, where the learning shown by his verses and the practice of illumination would have been at home. Both are hypotheses based on style and on the inscription.
 
-The relation between Sarzana and Lucca is supported by the later Lucchese crosses, such as the one in San Michele in Foro, which share its type and some of its forms. The cross of Rosano, near Florence, has been considered by Miklós Boskovits earlier than Sarzana; if so, Sarzana would be the earliest dated, but not the earliest, painted cross. The cross of Rosano is discussed in its own entry on this site.
+The relation between Sarzana and Lucca is supported by the later Lucchese crosses, such as the one in San Michele in Foro, which share its type and some of its forms. The cross of Rosano, near Florence, has been considered by [Miklós Boskovits](/scholars.html#boskovits-miklos) earlier than Sarzana; if so, Sarzana would be the earliest dated, but not the earliest, painted cross. The cross of Rosano is discussed in its own entry on this site.
 
 The Passionary P+ is a large illuminated book of saints' lives preserved in the chapter library of Lucca. Its miniatures, with their expressive figures and their decorative initials, show the style of the Lucchese scriptoria of the first half of the twelfth century. The resemblance with the figures of the Sarzana cross, noted by Garrison, suggests a common culture rather than necessarily a single hand.
 
