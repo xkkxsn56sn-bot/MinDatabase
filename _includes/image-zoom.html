@@ -15,8 +15,8 @@
   If the share needs a fresh tap, the button turns into "Save"; if the fetch
   fails, the file opens in a new tab (or the button becomes an "Open image"
   link when that tab is blocked). The zoom host sends CORS headers only to the
-  site's origins (R2 bucket CORS rule), and the fetch skips the browser cache,
-  where the <img> left a copy without them. Next to the button: the credit and
+  site's origins (R2 bucket CORS rule); the fetch asks for ?download=1 and
+  skips the browser cache, where the <img> left a copy without them. Next to the button: the credit and
   licence taken from the figcaption ("Photo:", "Image:" or "Source:").
   Self-contained: no external libraries, no cookies, no third-party calls.
 {%- endcomment -%}
@@ -125,9 +125,12 @@
   var dlLabel = dlBtn.querySelector(".iz-dl-label");
   var dlOpen = overlay.querySelector(".iz-dl-open");
   var dlCredit = overlay.querySelector(".iz-dl-credit");
-  // Optional query string for the download request, kept apart from the
-  // viewer's URL in caches; empty while the edge does not cache the zoom files.
-  var DL_QUERY = "";
+  // The download asks for <file>?download=1: a URL of its own in Cloudflare's
+  // edge cache, which keeps copies of the viewer's URL without CORS headers
+  // (cached before the bucket's CORS rule) and serves them to CORS requests
+  // too. Checked 23 Nov 2026: plain URL HIT without Access-Control-Allow-Origin,
+  // ?download=1 MISS then HIT, both with it. The saved name has no parameter.
+  var DL_QUERY = "?download=1";
   var dlUrl = "", dlPending = null, dlBusy = false;
 
   var fw = 0, fh = 0, W = 0, H = 0, s = 1, x = 0, y = 0, opener = null;

@@ -726,8 +726,12 @@ zoom si aprono soltanto dalle schede:
   pulsante di leggere il file. Si vede con `npx wrangler@4 r2 bucket cors list
   mindatabase-zoom` e si toglie con `... cors delete mindatabase-zoom`;
 - il **pulsante Download** in alto a destra del visualizzatore scarica il
-  file con il suo nome (fetch → blob → `<a download>`, senza la cache del
-  browser, dove l'`<img>` ha lasciato una copia priva delle intestazioni CORS).
+  file con il suo nome (fetch → blob → `<a download>`). Il fetch chiede
+  `<file>?download=1` e salta la cache del browser: sia il browser sia la
+  cache edge di Cloudflare possono tenere, per l'URL del visualizzatore, una
+  copia priva delle intestazioni CORS (verificato il 23 novembre 2026: URL
+  semplice HIT senza `Access-Control-Allow-Origin`, `?download=1` MISS e poi
+  HIT, entrambe con l'intestazione). Il nome salvato resta senza parametro.
   Sui dispositivi touch (iPhone, iPad) apre invece il foglio di condivisione
   con il file («Salva immagine» lo mette in Foto); se Safari chiede un nuovo
   tocco il pulsante diventa «Save». Se il fetch fallisce il file si apre in
