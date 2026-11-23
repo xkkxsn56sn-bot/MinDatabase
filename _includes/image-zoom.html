@@ -9,6 +9,15 @@
   live on R2: site.zoom_base (https://zoom.medievalvisions.com, set in _config.yml
   and repeated in _config.production.yml) is prefixed to data-zoom-src here,
   so the schede keep their root-relative paths.
+  Download button (top right): fetch -> blob -> <a download> with the file's
+  own name on the Mac and other desktops; on touch devices (iPhone, iPad) the
+  share sheet (navigator.share with the file), so the image can go to Photos.
+  If the share needs a fresh tap, the button turns into "Save"; if the fetch
+  fails, the file opens in a new tab (or the button becomes an "Open image"
+  link when that tab is blocked). The zoom host sends CORS headers only to the
+  site's origins (R2 bucket CORS rule), and the fetch skips the browser cache,
+  where the <img> left a copy without them. Next to the button: the credit and
+  licence taken from the figcaption ("Photo:", "Image:" or "Source:").
   Self-contained: no external libraries, no cookies, no third-party calls.
 {%- endcomment -%}
 <style>
@@ -54,9 +63,39 @@
     .iz-bar { flex-wrap: wrap; }
     .iz-caption { flex-basis: 100%; order: 2; max-height: 2.7em; }
   }
+  /* Download, top right: button, fallback link, credit and licence */
+  .iz-dl {
+    position: absolute; z-index: 1;
+    top: calc(0.6rem + env(safe-area-inset-top));
+    right: calc(0.6rem + env(safe-area-inset-right));
+    display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem;
+    max-width: min(18rem, 72vw);
+  }
+  .iz-dl-btn {
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    background: rgba(29, 27, 24, 0.92); font-size: 0.9rem; text-decoration: none;
+  }
+  .iz-dl-btn[hidden] { display: none; }
+  .iz-dl-btn svg { width: 1.15em; height: 1.15em; flex: 0 0 auto; }
+  .iz-dl-btn[aria-busy="true"] { opacity: 0.7; cursor: progress; }
+  .iz-dl-credit {
+    font-size: 0.72rem; line-height: 1.3; text-align: right; color: #cfc8ba;
+    background: rgba(0, 0, 0, 0.6); padding: 0.25rem 0.45rem; border-radius: 4px;
+    overflow-wrap: anywhere;
+  }
+  .iz-dl-credit:empty { display: none; }
+  .iz-dl-credit a { color: #e8c87a; }
 </style>
 
 <div class="iz-overlay" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
+  <div class="iz-dl">
+    <button type="button" class="iz-btn iz-dl-btn" aria-describedby="iz-dl-credit">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+      <span class="iz-dl-label">Download</span>
+    </button>
+    <a class="iz-btn iz-dl-btn iz-dl-open" href="#" target="_blank" rel="noopener" hidden>Open image ↗</a>
+    <div class="iz-dl-credit" id="iz-dl-credit"></div>
+  </div>
   <div class="iz-stage"><img alt="" /></div>
   <div class="iz-bar">
     <div class="iz-caption"></div>
@@ -82,6 +121,14 @@
   var img = stage.querySelector("img");
   var cap = overlay.querySelector(".iz-caption");
   var level = overlay.querySelector(".iz-level");
+  var dlBtn = overlay.querySelector(".iz-dl-btn:not(.iz-dl-open)");
+  var dlLabel = dlBtn.querySelector(".iz-dl-label");
+  var dlOpen = overlay.querySelector(".iz-dl-open");
+  var dlCredit = overlay.querySelector(".iz-dl-credit");
+  // Optional query string for the download request, kept apart from the
+  // viewer's URL in caches; empty while the edge does not cache the zoom files.
+  var DL_QUERY = "";
+  var dlUrl = "", dlPending = null, dlBusy = false;
 
   var fw = 0, fh = 0, W = 0, H = 0, s = 1, x = 0, y = 0, opener = null;
 
@@ -113,11 +160,84 @@
   function center() { return [W / 2, H / 2]; }
   function fit(anim) { s = 1; x = 0; y = 0; render(anim); }
 
-  function open(src, alt, caption, from) {
+  // Credit and licence: the figcaption from its last "Photo:", "Image:" or
+  // "Source:" to the end, links included (e.g. the CC licence)
+  function credit(fc) {
+    dlCredit.textContent = "";
+    if (!fc) return;
+    var text = fc.textContent, re = /\b(?:Photo|Image|Source)\b[^:.]{0,30}:/g, m, at = -1;
+    while ((m = re.exec(text))) at = m.index;
+    if (at < 0) { dlCredit.textContent = "Credit and licence: see the caption."; return; }
+    var walk = document.createTreeWalker(fc, NodeFilter.SHOW_TEXT), n, seen = 0;
+    while ((n = walk.nextNode())) {
+      if (seen + n.length > at) break;
+      seen += n.length;
+    }
+    if (!n) return;
+    var r = document.createRange();
+    r.setStart(n, at - seen); r.setEnd(fc, fc.childNodes.length);
+    dlCredit.appendChild(r.cloneContents());
+    dlCredit.querySelectorAll("a").forEach(function (a) { a.target = "_blank"; a.rel = "noopener"; });
+  }
+  function dlReset(label) {
+    dlBusy = false; dlBtn.removeAttribute("aria-busy");
+    dlLabel.textContent = label || "Download";
+  }
+  function fileName(u) {
+    var p = new URL(u, location.href).pathname;
+    try { p = decodeURIComponent(p); } catch (e) {}
+    return p.slice(p.lastIndexOf("/") + 1) || "image.jpg";
+  }
+  function saveBlob(blob, name) {
+    var u = URL.createObjectURL(blob), a = document.createElement("a");
+    a.href = u; a.download = name; a.rel = "noopener"; a.style.display = "none";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(u); }, 60000);
+  }
+  function openInTab(u) {
+    var w = window.open(u, "_blank");
+    if (w) { try { w.opener = null; } catch (e) {} return; }
+    dlOpen.href = u; dlOpen.hidden = false; dlBtn.hidden = true; dlOpen.focus();
+  }
+  function touchDevice() {
+    return navigator.maxTouchPoints > 1 && window.matchMedia("(pointer: coarse)").matches;
+  }
+  function share(file) {
+    return navigator.share({ files: [file] }).then(function () { dlReset(); }, function (err) {
+      if (err && err.name === "AbortError") { dlReset(); return; }
+      if (err && err.name === "NotAllowedError") { dlPending = file; dlReset("Save"); return; }
+      throw err;
+    });
+  }
+  function download() {
+    if (dlBusy || !dlUrl) return;
+    if (dlPending) { var f = dlPending; dlPending = null; share(f).catch(function () { dlReset(); openInTab(dlUrl); }); return; }
+    var u = dlUrl, name = fileName(u);
+    var q = DL_QUERY && ZOOM_BASE && u.indexOf(ZOOM_BASE) === 0 ? DL_QUERY : "";
+    dlBusy = true; dlBtn.setAttribute("aria-busy", "true"); dlLabel.textContent = "Downloading…";
+    fetch(u + q, { mode: "cors", credentials: "omit", cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.blob(); })
+      .then(function (blob) {
+        if (u !== dlUrl) return;
+        if (touchDevice() && navigator.canShare && typeof File === "function") {
+          var file = new File([blob], name, { type: blob.type || "image/jpeg" });
+          if (navigator.canShare({ files: [file] })) return share(file);
+        }
+        saveBlob(blob, name); dlReset();
+      })
+      .catch(function () { dlReset(); openInTab(u); });
+  }
+  dlBtn.addEventListener("click", download);
+
+  function open(src, alt, caption, from, fc) {
     opener = from;
     overlay.hidden = false; overlay.classList.add("iz-open");
     document.documentElement.style.overflow = "hidden";
     img.alt = alt || ""; cap.textContent = caption || "";
+    dlUrl = src; dlPending = null; dlReset();
+    dlBtn.hidden = false; dlOpen.hidden = true; dlOpen.href = "#";
+    dlBtn.title = "Download " + fileName(src);
+    credit(fc);
     var ready = function () { layout(); fit(false); };
     img.onload = ready; img.src = src;
     if (img.complete && img.naturalWidth) ready();
@@ -127,6 +247,7 @@
     overlay.classList.remove("iz-open"); overlay.hidden = true;
     document.documentElement.style.overflow = "";
     img.removeAttribute("src");
+    dlUrl = ""; dlPending = null;
     if (opener) opener.focus();
   }
 
@@ -141,7 +262,7 @@
     // ZOOM_BASE (R2) when it is set; root-relative paths keep working locally
     var zoom = t.getAttribute("data-zoom-src");
     if (zoom && ZOOM_BASE && zoom.charAt(0) === "/") zoom = ZOOM_BASE.replace(/\/+$/, "") + zoom;
-    open(zoom || t.currentSrc || t.src, t.alt, fc ? fc.textContent.trim() : "", t);
+    open(zoom || t.currentSrc || t.src, t.alt, fc ? fc.textContent.trim() : "", t, fc);
   });
   // Keyboard access to the images in the page
   content.querySelectorAll("figure img, p > img").forEach(function (im) {
@@ -175,7 +296,7 @@
       case "ArrowUp": y += d; render(true); break;
       case "ArrowDown": y -= d; render(true); break;
       case "Tab":
-        var f = overlay.querySelectorAll(".iz-btn"), first = f[0], last = f[f.length - 1];
+        var f = overlay.querySelectorAll(".iz-btn:not([hidden])"), first = f[0], last = f[f.length - 1];
         if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
         else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
         return;

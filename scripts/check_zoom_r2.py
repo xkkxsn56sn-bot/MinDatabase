@@ -12,6 +12,10 @@ byte del manifest. Con --sha scarica ogni file e confronta anche lo sha256
 (lento: si usa a mano, dopo una sincronizzazione). Senza --sha fa solo HEAD,
 ed e' il passo che gira in CI su ogni push (validate.yml).
 
+Ogni richiesta porta il Referer del sito (SITE_REFERER): una regola WAF di
+Cloudflare su zoom.medievalvisions.com blocca le richieste il cui Referer non
+inizia con l'indirizzo del sito, comprese quelle senza Referer.
+
 Zero dipendenze. Esce con 1 se una voce non risponde come atteso.
 
 Uso:
@@ -32,16 +36,22 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 USER_AGENT = "MinDatabase-zoom-check/1.0"
+SITE_REFERER = "https://www.medievalvisions.com/"
 
 
 def zoom_url(base: str, path: str) -> str:
     return base.rstrip("/") + "/" + urllib.parse.quote(path.lstrip("/"))
 
 
+def build_request(url: str, full: bool) -> urllib.request.Request:
+    """GET se full, altrimenti HEAD; con User-Agent e Referer del sito."""
+    return urllib.request.Request(url, method="GET" if full else "HEAD",
+                                  headers={"User-Agent": USER_AGENT, "Referer": SITE_REFERER})
+
+
 def fetch(url: str, full: bool):
     """(status, headers, body|None) per l'URL; HEAD se full e' falso."""
-    req = urllib.request.Request(url, method="GET" if full else "HEAD",
-                                 headers={"User-Agent": USER_AGENT})
+    req = build_request(url, full)
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             headers = {k.lower(): v for k, v in resp.getheaders()}

@@ -385,15 +385,18 @@ gia' annunciato — con una seconda email agli iscritti.
 Fra i quattro validatori e le batterie gira **Zoom files on R2**,
 `scripts/check_zoom_r2.py`: verifica che ogni zoom di
 `assets/data/zoom-manifest.json` risponda da `https://zoom.medievalvisions.com`
-(200, `image/jpeg`, byte uguali al manifest). Sta in `validate.yml` per la
+(200, `image/jpeg`, byte uguali al manifest). Ogni richiesta porta il
+Referer del sito, senza il quale la regola WAF degli zoom la bloccherebbe
+(vedi «Gli zoom ad alta risoluzione»). Sta in `validate.yml` per la
 stessa ragione: e' l'unico workflow che vede ogni push.
 
 Accanto a quella, e per la stessa ragione, gira un sesto passo:
 **Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
-76 asserzioni in tredici gruppi: 28 fissano il contratto dei link interni sul
-caso che lo ha allargato, 19 il contratto dei nomi delle immagini dei codici
-(check 12), 13 il check 9b sugli zoom (gruppo l) e 16 il 9b contro il
-manifest e la verifica di R2 (gruppo m). I primi casi sono letteralmente i due rimandi morti
+96 asserzioni in quattordici gruppi: 28 fissano il contratto dei link interni sul
+caso che lo ha allargato, 21 il contratto dei nomi delle immagini dei codici
+(check 12), 14 il check 9b sugli zoom (gruppo l), 26 il 9b contro il
+manifest e la verifica di R2, Referer del sito compreso (gruppo m), e 7
+l'indice della galleria (check 13, gruppo n). I primi casi sono letteralmente i due rimandi morti
 di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
 rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
 che **esiste** rosso lo stesso. Gli altri gruppi coprono l'URL-decode, le
@@ -702,6 +705,42 @@ contro il manifest — lo zoom e' nel manifest, nome `<slug>-NN-zoom.jpg` (per
 i codici `<slug>-<foglio>-zoom.jpg`, es. `liber-divinorum-operum-f001v-zoom.jpg`,
 con il foglio di «Codex Image Names»), base `<slug>-NN.jpg` su disco e usata dalla stessa scheda, nessuna voce del
 manifest orfana — e in CI `check_zoom_r2.py` verifica il manifest contro R2.
+
+**Accesso solo dal sito e pulsante di download.** Dal 23 novembre 2026 gli
+zoom si aprono soltanto dalle schede:
+
+- una **regola WAF personalizzata** di Cloudflare («Zoom: solo dal sito»,
+  limitata all'host `zoom.medievalvisions.com`) blocca ogni richiesta il cui
+  Referer non inizia con `https://www.medievalvisions.com/`,
+  `https://medievalvisions.com/` o `http://localhost:4000/` (l'anteprima
+  locale), comprese quelle senza Referer: l'URL diretto incollato nella barra
+  e l'hotlink da altri siti ricevono 403. Il sito non imposta politiche del
+  Referer, e il predefinito dei browser (`strict-origin-when-cross-origin`)
+  manda l'origine con la barra finale: non aggiungere `<meta name="referrer">`,
+  `referrerpolicy` o `rel=noreferrer` che la tolgano. Il Referer si falsifica
+  facilmente: la regola ferma i link diretti, non e' un controllo d'accesso.
+  Si spegne dall'interruttore della regola in Security → Security rules;
+- una **regola CORS** del bucket `mindatabase-zoom` (origini
+  `https://www.medievalvisions.com`, `https://medievalvisions.com`,
+  `http://localhost:4000`, solo GET, nessuna credenziale) permette al
+  pulsante di leggere il file. Si vede con `npx wrangler@4 r2 bucket cors list
+  mindatabase-zoom` e si toglie con `... cors delete mindatabase-zoom`;
+- il **pulsante Download** in alto a destra del visualizzatore scarica il
+  file con il suo nome (fetch → blob → `<a download>`, senza la cache del
+  browser, dove l'`<img>` ha lasciato una copia priva delle intestazioni CORS).
+  Sui dispositivi touch (iPhone, iPad) apre invece il foglio di condivisione
+  con il file («Salva immagine» lo mette in Foto); se Safari chiede un nuovo
+  tocco il pulsante diventa «Save». Se il fetch fallisce il file si apre in
+  una nuova scheda, o il pulsante diventa il link «Open image ↗». Sotto il
+  pulsante compare il credito con la licenza, preso dalla figcaption
+  dall'ultimo «Photo:», «Image:» o «Source:»; senza, il rimando alla
+  didascalia. Per questo la figcaption di una figura con zoom deve chiudere
+  con il credito in quella forma.
+
+Gli script che leggono gli zoom fuori dal browser devono mandare il Referer
+del sito (`check_zoom_r2.py` lo fa) o non passare dal dominio pubblico:
+`sync_zoom_r2.sh` usa l'API R2 di wrangler, e un futuro generatore di PDF
+leggera' da `Zoom/Images/` o con `npx wrangler@4 r2 object get --remote`.
 
 **Procedura per un lotto di zoom.**
 

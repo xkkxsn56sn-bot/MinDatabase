@@ -389,6 +389,12 @@ OK = {"content-type": "image/jpeg", "content-length": str(len(BODY))}
 check("m. R2: URL dal manifest",
       r2.zoom_url("https://zoom.medievalvisions.com/", "/Images/A/a-01-zoom.jpg")
       == "https://zoom.medievalvisions.com/Images/A/a-01-zoom.jpg")
+REQ = r2.build_request("https://zoom.medievalvisions.com/Images/A/a-01-zoom.jpg", False)
+check("m. R2: richiesta col Referer del sito (regola WAF)",
+      REQ.get_header("Referer") == "https://www.medievalvisions.com/" and REQ.get_method() == "HEAD")
+check("m. R2: --sha usa GET col Referer del sito",
+      r2.build_request("https://zoom.medievalvisions.com/x", True).get_method() == "GET"
+      and r2.build_request("https://zoom.medievalvisions.com/x", True).get_header("Referer") == r2.SITE_REFERER)
 check("m. R2: 200 con tipo e byte giusti: verde", r2.entry_problems(ENTRY, (200, OK, None), False) == [])
 check("m. R2: 404: rosso", r2.entry_problems(ENTRY, (404, {}, None), False) == ["status 404"])
 check("m. R2: tipo sbagliato: rosso",
