@@ -346,6 +346,104 @@
       "sha256": "f4aa291729a95735a171aa1281310bafc229c5bc742df44147b59edda5c93245"
     },
     {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-binding-zoom.jpg",
+      "width": 2803,
+      "height": 1998,
+      "bytes": 1181182,
+      "sha256": "994d53eb69c12e80780ff8525a01d20fc53000d09499182831d4a3716e1983e1"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-cover-front-zoom.jpg",
+      "width": 1986,
+      "height": 2576,
+      "bytes": 1896671,
+      "sha256": "5cd28248cf42f9c444c3e9e0534ec869880f3ca460f242b07f95e8a382090cf1"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f001v-zoom.jpg",
+      "width": 1901,
+      "height": 2576,
+      "bytes": 1524731,
+      "sha256": "13e1d7ef851e36c4c39989c4cbce96c45bd3f9dbe1cd0d2cb160923a8873d030"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f002r-zoom.jpg",
+      "width": 1861,
+      "height": 2576,
+      "bytes": 1254610,
+      "sha256": "ef863159851af3a382a852bfeaadcc40144e00929f8d4079bc64a89f163122b7"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f005v-zoom.jpg",
+      "width": 1919,
+      "height": 2576,
+      "bytes": 1473033,
+      "sha256": "659ee6bbbb07d01e4470aca9a39c42bb94ea6fefbd4d1367873e89d392dfd826"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f006r-zoom.jpg",
+      "width": 1945,
+      "height": 2576,
+      "bytes": 1718790,
+      "sha256": "009b6cc5db7fe2607ff40553be6bfddf14933764afa7376d1563e9cc04076772"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f006v-zoom.jpg",
+      "width": 1978,
+      "height": 2576,
+      "bytes": 1825326,
+      "sha256": "a406b46908f6d6d1c8f8b07b80742b6496713697ed3906b647cdaa353ef65df2"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f007r-zoom.jpg",
+      "width": 1999,
+      "height": 2576,
+      "bytes": 1435586,
+      "sha256": "7e9568d81656fce00e91e34c8cc56c794d07971d63359a618e4d3003f1eb9290"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f016r-zoom.jpg",
+      "width": 1950,
+      "height": 2576,
+      "bytes": 1544161,
+      "sha256": "0be3e423baca1997d9e8894dc7ed0c11c641105ba0028ff05f8d911bc89390ac"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f016v-zoom.jpg",
+      "width": 1920,
+      "height": 2576,
+      "bytes": 1675870,
+      "sha256": "28bf774fbca362ae062b0d0ff9645c12a3059baa212de3c95b5f9adb7b8341d3"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f017r-zoom.jpg",
+      "width": 1974,
+      "height": 2576,
+      "bytes": 1827076,
+      "sha256": "7f8e85b358c59b58f7bdad60bcfa5ba3aaf9abf8ded0469ba22c672a9b3cbd08"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f046r-zoom.jpg",
+      "width": 1953,
+      "height": 2576,
+      "bytes": 1615973,
+      "sha256": "a9fb97d3f51b60411c243fc9c6383aaf7cf5549ce4f43d373704c32987b486a3"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f065r-zoom.jpg",
+      "width": 1927,
+      "height": 2576,
+      "bytes": 1458236,
+      "sha256": "f8871a68b029640d73a6bfe5f66273e399d84ac2252d7689740bf7bf4762ab58"
+    },
+    {
+      "path": "Images/Codex-Aureus-of-Saint-Emmeram/codex-aureus-of-saint-emmeram-f097r-zoom.jpg",
+      "width": 1899,
+      "height": 2576,
+      "bytes": 1542936,
+      "sha256": "03166518ae738f8d494b8ab4eb40fc48bee9c7c2f76f0a75b99ff8ed55ed84b2"
+    },
+    {
       "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f001r-alt-zoom.jpg",
       "width": 2041,
       "height": 2576,
