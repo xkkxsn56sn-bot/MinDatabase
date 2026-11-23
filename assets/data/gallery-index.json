@@ -1557,36 +1557,252 @@
   "url": "/Content/Artists/XII-c/Maestro-Guglielmo.html"
  },
  {
-  "src": "/Images/Nicholaus/nicholaus-01.jpg",
-  "alt": "Saint George on horseback kills the dragon",
-  "caption": "Saint George on horseback kills the dragon, c. 1135, white marble with pink marble accents, main portal of the Cathedral of Saint George, Ferrara.",
+  "src": "/Images/Nicholaus/nicholaus-05.jpg",
+  "alt": "The white and pink marble west front of a large cathedral under a blue sky, with three gables crowned by galleries of small arches, and its long south flank with a loggia of shops at ground level. At the centre a tall projecting porch rises in three storeys: at the bottom a round-arched doorway on columns resting on crouching lions, above it a loggia with a statue of the Virgin, and at the top a gable filled with figures.",
+  "caption": "Ferrara Cathedral, the west front and the south flank. The lower storey of the porch, with its lions, belongs to the campaign of Nicholaus (inscription of 1135); the loggia and the gable above were added in the thirteenth century. Photo: almusaiti (Flickr), CC BY-SA 2.0, via Wikimedia Commons.",
   "entry": "Nicholaus",
   "section": "Artists",
   "century": "XII",
   "url": "/Content/Artists/XII-c/Nicholaus.html"
  },
  {
-  "src": "/Images/Nicholaus/nicholaus-02.jpg",
-  "alt": "Lunette of the portal of San Zeno Basilica, Verona",
-  "caption": "Lunette of the portal, 1138, marble, Saint Zeno Basilica, Verona.",
+  "src": "/Images/Nicholaus/nicholaus-12.jpg",
+  "alt": "The upper storeys of a cathedral porch in white marble. Under a triangular gable with Christ enthroned in a mandorla among angels and the elect, a frieze shows rows of standing figures, angels weighing souls and naked figures led away to the right. Below, a loggia of three pointed arches with quatrefoils encloses a crowned statue of the Virgin and Child; at the sides, two relief lunettes show Abraham holding souls in his lap and devils tormenting the damned.",
+  "caption": "Ferrara Cathedral, the upper storeys of the porch with the Last Judgement, thirteenth century. They were added above the porch of Nicholaus and are not his work. Photo: Alain Rouiller, CC BY-SA 2.0, via Wikimedia Commons.",
   "entry": "Nicholaus",
   "section": "Artists",
   "century": "XII",
   "url": "/Content/Artists/XII-c/Nicholaus.html"
  },
  {
-  "src": "/Images/Nicholaus/nicholaus-03.jpg",
-  "alt": "Capital from the Parma Cathedral",
-  "caption": "Madonna Enthroned Between Two Angels (original polychrome), 1106-20, marble, Parma Cathedral, Parma.",
+  "src": "/Images/Nicholaus/nicholaus-06.jpg",
+  "alt": "A round-arched portal seen from below, framed by several mouldings in white and pink marble carved with cables and lattice. In the lunette a mounted knight in mail with a raised sword spears a dragon under his horse's hooves, within a border of foliage. Below, a lintel is divided into eight small arched panels with scenes: the Annunciation, the Visitation, the Nativity, the Annunciation to the Shepherds, the Adoration of the Magi, the Presentation, the Flight into Egypt and the Baptism.",
+  "caption": "Nicholaus, the lunette with Saint George and the dragon and the lintel with scenes of the Infancy of Christ, c. 1135. Ferrara Cathedral, main portal. Photo: Sailko, CC BY 2.5, via Wikimedia Commons.",
   "entry": "Nicholaus",
   "section": "Artists",
   "century": "XII",
   "url": "/Content/Artists/XII-c/Nicholaus.html"
  },
  {
-  "src": "/Images/Nicholaus/nicholaus-04.jpg",
-  "alt": "Capitals from the Zodiac portal",
-  "caption": "Capitals from the Zodiac portal, c. 1128-30, marble, Sacra di San Michele, Chiusa San Michele.",
+  "src": "/Images/Nicholaus/nicholaus-07.jpg",
+  "alt": "A close view of a stone relief: a young knight in a mail hauberk with a round face and a halo rides a galloping horse, his sword raised in his right hand, while his lance pierces a winged dragon lying under the horse. Letters of an inscription run along the curved border above him.",
+  "caption": "Nicholaus, Saint George, detail of the lunette, c. 1135, with part of the signature on its border. Ferrara Cathedral, main portal. Photo: Nicola Quirico, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-08.jpg",
+  "alt": "The left jamb of a portal: several marble shafts carved with lattice, zigzag and spiral patterns, between which two pier edges carry small standing figures of prophets holding long inscribed scrolls, set among panels with animals and flowers. At the top right, part of a carved lintel with two embracing women under an arch.",
+  "caption": "Nicholaus, the left jamb of the main portal with prophets holding scrolls, c. 1135. Ferrara Cathedral. Photo: Sailko, CC BY 2.5, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-09.jpg",
+  "alt": "The right jamb of a portal: marble shafts carved with spirals and zigzags, the edges of the piers carrying small figures of a winged angel and of bearded prophets with scrolls, set among panels with beasts. At the left a small crouching figure at the corner of a capital; at the right a column of the porch and an inscription on a plaque.",
+  "caption": "Nicholaus, the right jamb of the main portal with the angel of the Annunciation and prophets, c. 1135. Ferrara Cathedral. Photo: Sailko, CC BY 2.5, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-10.jpg",
+  "alt": "A crouching lion of pink veined marble at the foot of a portal column, holding a ram's head between its paws. On its back a squatting bearded man in a short tunic, his hand at his cheek, supports the base of a column on his shoulders. At the left, carved jambs with small figured panels.",
+  "caption": "Lion and telamon at the foot of the porch of Ferrara Cathedral. The lion is a modern replica of the medieval original; the telamon is generally attributed to the workshop of Nicholaus. Photo: Sailko, CC BY 2.5, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-11.jpg",
+  "alt": "A crouching lion of pink veined marble with open jaws, holding a ram under its paws, at the foot of a porch column, lit by low sunlight. On its back a squatting youth with curly hair and a heavy pleated garment raises both arms to support the base of the column.",
+  "caption": "Lion with a ram and a telamon at the foot of the porch of Ferrara Cathedral, workshop of Nicholaus (c. 1135) or later replacement; the state of the lions should be checked. Photo: Alain Rouiller, CC BY-SA 2.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-17.jpg",
+  "alt": "The pale stone west front of a Romanesque church under a blue sky, with a central gable and lower sloping side wings, a large wheel window, and a tall striped bell tower at the right. In the centre a small projecting porch on two columns frames a wooden door; on both sides of the door the wall is covered by panels of reliefs.",
+  "caption": "Verona, basilica of San Zeno Maggiore, the west front, with the porch and portal of Nicholaus (c. 1138) and the reliefs at the sides of the door. Photo: Andrea Bertozzi, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-18.jpg",
+  "alt": "A close view of a projecting porch on a stone church front. The gable shows a blessing hand in a roundel; the arch is lined with small square reliefs of animals and the Lamb; standing saints are carved at the sides. Squatting telamons sit on the capitals of the two columns. Under the arch a painted lunette shows a bishop between soldiers on foot and on horseback, above a frieze of small arched scenes; at the bottom left and right, panels of reliefs with biblical figures.",
+  "caption": "Nicholaus, the porch of San Zeno Maggiore, Verona, c. 1138: the gable with the hand of God, the arch with the Lamb, the two Saints John, telamons on the capitals and the lunette of Saint Zeno. Photo: NorbertNagel, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-13.jpg",
+  "alt": "A painted stone lunette under an arch. At the centre a bishop with a green mitre, a halo and a crozier stands frontally, blessing, with a dark devil under his feet. At the left a crowd of foot soldiers with red caps receives a banner with a cross; at the right mounted knights with lances and shields advance. Inscriptions run along the arch, and below a frieze of small arcades shows scenes with figures, a cauldron, oxen and a cart.",
+  "caption": "Nicholaus, Saint Zeno giving the banner to the people of Verona, with the signature on the arch and miracles of the saint below, c. 1138. Verona, San Zeno Maggiore, lunette of the main portal. Photo: Zairon, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-14.jpg",
+  "alt": "A stone relief under a small arch flanked by towers and columns: a man in a pointed cap and a long garment sits on a chair, warming his hands before a fire. The inscription below reads IANOARIUS.",
+  "caption": "Nicholaus and workshop, January warming himself at the fire, from the cycle of the Months, c. 1138. Verona, San Zeno Maggiore, main portal. Photo: Retogenes, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-15.jpg",
+  "alt": "A tall panel of marble reliefs in two columns, weathered and stained. Scenes include, from the top, the Creation of Eve from the side of the sleeping Adam, the Fall with Adam and Eve beside the tree, the Expulsion and the Labour, with standing saints at the sides; at the bottom a horseman with a hunting horn and a stag pursued by hounds.",
+  "caption": "Nicholaus and workshop, the reliefs at the right of the main door, with scenes from Genesis and the hunt of Theodoric, c. 1138. Verona, San Zeno Maggiore, west front. Photo: MM, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-16.jpg",
+  "alt": "A tall panel of marble reliefs in two columns: the Betrayal and the Crucifixion at the top, then the Flight into Egypt and the Baptism of Christ, the Presentation in the Temple, the Annunciation, Visitation and Nativity, and at the bottom two combats of mounted and armed men, with a standing figure between them.",
+  "caption": "Guglielmo, the reliefs at the left of the main door, with scenes of the life of Christ and combats, signed by him, c. 1138. Verona, San Zeno Maggiore, west front. Photo: MM, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-19.jpg",
+  "alt": "A two-storey porch projecting from a stone cathedral front. The lower storey is a deep round arch on columns resting on crouching griffins, framing a portal with many carved mouldings, a painted lunette and tall standing figures on the outer jambs; above, a second arch on columns rising from small lions shelters a large clock face. A bronze statue of an angel stands at the right.",
+  "caption": "Nicholaus, the porch of Verona Cathedral (Santa Maria Matricolare), c. 1139: the lower storey on griffins, the upper on lions, with the lunette, the prophets of the jambs and the two paladins. Photo: Andrea Bertozzi, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-20.jpg",
+  "alt": "A painted stone lunette with a blue ground. The Virgin sits frontally on a throne holding the Child; at the left an angel announces the birth to three shepherds with their sheep, goats and dog; at the right a kneeling king offers a gift and two crowned kings on horses approach. The inscription HIC DOMINUS MAGNUS LEO CRISTUS CERNITUR AGNUS runs around the arch. Below, a lintel with three crowned half-figures in roundels inscribed FIDES, CARITAS, SPES.",
+  "caption": "Nicholaus, the lunette with the Virgin and Child, the Annunciation to the Shepherds and the Magi, and the lintel with Faith, Charity and Hope, c. 1139. Verona Cathedral, main portal. Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-21.jpg",
+  "alt": "The left jamb of a portal seen at an angle. At the far left a tall standing warrior with a helmet holds a long shield; to the right, between shafts carved with spirals and zigzags, four small prophets stand on pier edges holding scrolls inscribed ECCE EGO MITTAM ANGELUM and VIRGO CONCIPIET ET PARIET FILIUM.",
+  "caption": "Nicholaus, the left jamb of the main portal with the paladin traditionally identified as Roland and four prophets, c. 1139. Verona Cathedral. Photo: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-22.jpg",
+  "alt": "The right jamb of a portal seen at an angle. Four small prophets stand on pier edges between spiral and zigzag shafts, holding scrolls inscribed VENIET DESIDERATUS CUNCTIS GENTIBUS and ECCE SEXTUS VENIT; at the far right a tall standing figure with long hair, bareheaded, holds a long shield.",
+  "caption": "Nicholaus, the right jamb of the main portal with four prophets and the figure traditionally called Oliver, c. 1139. Verona Cathedral. Photo: Sailko, CC BY 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-23.jpg",
+  "alt": "A deep round-arched doorway with several stepped mouldings set in a wall of grey stone. On each side, marble columns and carved white jambs stand behind protective glass panels; at the right a lintel-like cornice and foliate capitals project over the jambs. Through the arch, steps lead into darkness.",
+  "caption": "The Porta dello Zodiaco at the head of the Scalone dei Morti, Sacra di San Michele, with the carved jambs of Nicholaus (c. 1120s) under protective glass. Photo: Sailko, CC BY-SA 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-24.jpg",
+  "alt": "A close view of a white marble jamb carved with a vine scroll that encloses a bird, a lion's mask, fruits and a winged beast. Along its two edges run lines of capital letters, among them QUIS BONUS EXI and COMIXTOS.",
+  "caption": "Nicholaus, the inhabited vine scroll of the Porta dello Zodiaco, with the verses Hoc opus intendat quisquis bonus exit et intrat and Flores cum beluis comixtos cernitis on its edges. Sacra di San Michele. Photo: Sailko, CC BY-SA 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-26.jpg",
+  "alt": "A white marble jamb carved with a vine scroll forming roundels: at the top a winged beast, in the middle a large rosette, at the bottom a crouching lion. Along the edges, letters read ENDAT QUIS BO and BELUIS COM.",
+  "caption": "Nicholaus, the lower part of the same jamb, with the verses on its edges. Sacra di San Michele, Porta dello Zodiaco. Photo: Sailko, CC BY-SA 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-25.jpg",
+  "alt": "A white marble jamb carved with a vine scroll enclosing a bird, a naked youth, a rosette and fruits, set between a capital of acanthus leaves at the left and a carved cornice and figured capitals above and at the right.",
+  "caption": "Nicholaus, an inner face of a jamb of the Porta dello Zodiaco with an inhabited vine scroll, next to reused capitals and cornices. Sacra di San Michele. Photo: Sailko, CC BY-SA 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-27.jpg",
+  "alt": "A white marble jamb seen from below, carved with panels framed by braided bands: from the top an eagle, a winged horse, a knotted triangle and a youth holding a sword. Along the edges, inscriptions read ORION, DELTOTON, PEGASUS and SERPENS.",
+  "caption": "Nicholaus, the jamb of the constellations of the Porta dello Zodiaco, with the eagle, Pegasus, the Triangle and Orion, named on its edge. Sacra di San Michele. Photo: Sailko, CC BY-SA 3.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-29.jpg",
+  "alt": "A stone lintel with two arched panels under an inscription. At the left the Virgin and Joseph present the Child to the bearded Simeon over an altar; at the right the Virgin holding the Child rides a donkey led by Joseph. Small towers rise between the arches. The upper border reads OFFERTUR DEUS ATQUE FUGIT, the lower + HOC OPUS INTENDA.",
+  "caption": "Nicholaus, the lintel of the south portal of Piacenza Cathedral, left part: the Presentation in the Temple and the Flight into Egypt, c. 1122–1130. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-30.jpg",
+  "alt": "A stone lintel with arched panels under an inscription: at the left an angel and John the Baptist baptise Christ, who stands in rippling water with a dove above him; at the right a grinning devil sits beside Christ, who holds a book. The upper border reads SIC FONTE LAVATUR TEMPTATUR TRIPLICI, the lower NDAT QUIS QUIS BON.",
+  "caption": "Nicholaus, the lintel of the south portal of Piacenza Cathedral, central part: the Baptism and the first Temptation of Christ, c. 1122–1130. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-31.jpg",
+  "alt": "A stone lintel with arched panels: Christ stands on a mountain beside a tower, with a devil crouching at his side, and again stands on a rock beside a second devil. The upper border reads TRIPLICI DEUS ARTE DOLI SINI, the lower BONUS EXIT ET INTRA.",
+  "caption": "Nicholaus, the lintel of the south portal of Piacenza Cathedral, right part: the second and third Temptations, c. 1122–1130. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-32.jpg",
+  "alt": "A stone capital carved with two figures in short garments, a youth and a bearded man, walking away with anxious faces, each raising a hand to the side of his head.",
+  "caption": "Nicholaus and workshop, a capital of the south portal of Piacenza Cathedral with two clothed figures moving away in shame, identified as Adam and Eve, c. 1122–1130. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons.",
+  "entry": "Nicholaus",
+  "section": "Artists",
+  "century": "XII",
+  "url": "/Content/Artists/XII-c/Nicholaus.html"
+ },
+ {
+  "src": "/Images/Nicholaus/nicholaus-28.jpg",
+  "alt": "A stone lintel with two arched panels under small towers: at the left the crowned Virgin sits holding the Child, under a star; at the right three bearded kings in crowns bring gifts, the first kneeling.",
+  "caption": "Workshop of Wiligelmo, the lintel of the north portal of Piacenza Cathedral with the Adoration of the Magi, c. 1122–1130, for comparison with the south portal of Nicholaus. Photo: Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons.",
   "entry": "Nicholaus",
   "section": "Artists",
   "century": "XII",
