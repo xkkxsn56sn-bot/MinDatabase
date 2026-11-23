@@ -1774,6 +1774,34 @@
       "sha256": "61e23bc6457451c29251101a0c396110e571b436c6e03188cb705251af8c3382"
     },
     {
+      "path": "Images/Maestro-Guglielmo/maestro-guglielmo-02-zoom.jpg",
+      "width": 1666,
+      "height": 2576,
+      "bytes": 1147861,
+      "sha256": "db906172c4bf18964d856dde20d32f1e40ee0d5d44fc413c582b6704f432ca34"
+    },
+    {
+      "path": "Images/Maestro-Guglielmo/maestro-guglielmo-03-zoom.jpg",
+      "width": 2229,
+      "height": 2576,
+      "bytes": 1083802,
+      "sha256": "7b211a358e4241d1be18735d1eb595d74c379a2d10ddddc7f33d07c5c7681728"
+    },
+    {
+      "path": "Images/Maestro-Guglielmo/maestro-guglielmo-04-zoom.jpg",
+      "width": 1906,
+      "height": 2576,
+      "bytes": 863965,
+      "sha256": "c4c5185f76ac9b29df1f1b96e598737ac15ae3f32ea2d12108ae135816474ce5"
+    },
+    {
+      "path": "Images/Maestro-Guglielmo/maestro-guglielmo-08-zoom.jpg",
+      "width": 1946,
+      "height": 2576,
+      "bytes": 841699,
+      "sha256": "ce6eb4a0bfe8c580e2c98d97c28647ef24b4e73897604b3db85960ebbea09108"
+    },
+    {
       "path": "Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10-zoom.jpg",
       "width": 2262,
       "height": 3000,
