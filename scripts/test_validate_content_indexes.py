@@ -56,7 +56,9 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    orfani sono voci del manifest che nessuna scheda usa. Uno zoom sostituito
    si chiama <slug>-NN-zoom-vN.jpg con N >= 2: -v2 verde, -v1 rosso. Poi la verifica di
    R2 (check_zoom_r2.py) su risposte finte: 200 giusto, 404, tipo sbagliato,
-   byte o sha256 diversi.
+   byte o sha256 diversi; poi i nuovi tentativi: un "Connection reset by
+   peer" seguito da 200 e' verde dopo un'attesa di 1 s, un 404 o un 403 non
+   si ritentano, un 503 persistente si ritenta con attese 1, 3, 9.
 """
 import sys
 from pathlib import Path
@@ -406,6 +408,38 @@ check("m. R2: byte diversi: rosso",
 check("m. R2: sha256 uguale con --sha: verde", r2.entry_problems(ENTRY, (200, OK, BODY), True) == [])
 check("m. R2: sha256 diverso con --sha: rosso",
       "sha256 diverso" in r2.entry_problems(ENTRY, (200, OK, b"\xff\xd8ZOOM"), True))
+
+
+def fake_fetcher(responses):
+    """Fetcher finto che restituisce le risposte in ordine e conta le chiamate."""
+    queue = list(responses)
+    calls = []
+    def fetcher(url, full):
+        calls.append(url)
+        return queue.pop(0)
+    return fetcher, calls
+
+
+RESET = ("error: <urlopen error [Errno 104] Connection reset by peer>", {}, None)
+waits = []
+fetcher, calls = fake_fetcher([RESET, (200, OK, None)])
+resp, n = r2.fetch_with_retry("u", False, fetcher=fetcher, sleep=waits.append)
+check("m. R2: reset e poi 200: verde al secondo tentativo",
+      r2.entry_problems(ENTRY, resp, False) == [] and n == 2 and waits == [1] and len(calls) == 2,
+      f"{n} tentativi, attese {waits}")
+for code in (404, 403):
+    waits = []
+    fetcher, calls = fake_fetcher([(code, {}, None), (200, OK, None)])
+    resp, n = r2.fetch_with_retry("u", False, fetcher=fetcher, sleep=waits.append)
+    check(f"m. R2: {code} non si ritenta", resp[0] == code and n == 1 and waits == [])
+waits = []
+fetcher, calls = fake_fetcher([(503, {}, None)] * 4)
+resp, n = r2.fetch_with_retry("u", False, fetcher=fetcher, sleep=waits.append)
+check("m. R2: 503 persistente: quattro tentativi, attese 1-3-9, rosso",
+      resp[0] == 503 and n == 4 and waits == [1, 3, 9]
+      and r2.entry_problems(ENTRY, resp, False) == ["status 503"])
+check("m. R2: 429 e timeout sono transitori, 403 no",
+      r2.is_transient(429) and r2.is_transient("error: timed out") and not r2.is_transient(403))
 
 # --- n. Check 13: l'indice della galleria --------------------------------
 # Fino al 22 novembre 2026 build_gallery_index.py leggeva data-zoom-src al

@@ -388,14 +388,19 @@ Fra i quattro validatori e le batterie gira **Zoom files on R2**,
 (200, `image/jpeg`, byte uguali al manifest). Ogni richiesta porta il
 Referer del sito, senza il quale la regola WAF degli zoom la bloccherebbe
 (vedi «Gli zoom ad alta risoluzione»). Sta in `validate.yml` per la
-stessa ragione: e' l'unico workflow che vede ogni push.
+stessa ragione: e' l'unico workflow che vede ogni push. Le richieste partono
+al massimo quattro alla volta, e gli errori transitori (connessione chiusa,
+timeout, 5xx, 429) si ritentano fino a tre volte con attese di 1, 3 e 9
+secondi; 403 e 404 restano errori subito. Il riepilogo dice quanti file hanno
+avuto bisogno di un nuovo tentativo. Nasce dal 23 novembre 2026, quando in CI
+un file diverso a ogni giro riceveva «Connection reset by peer».
 
 Accanto a quella, e per la stessa ragione, gira un sesto passo:
 **Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
-96 asserzioni in quattordici gruppi: 28 fissano il contratto dei link interni sul
+101 asserzioni in quattordici gruppi: 28 fissano il contratto dei link interni sul
 caso che lo ha allargato, 21 il contratto dei nomi delle immagini dei codici
-(check 12), 14 il check 9b sugli zoom (gruppo l), 26 il 9b contro il
-manifest e la verifica di R2, Referer del sito compreso (gruppo m), e 7
+(check 12), 14 il check 9b sugli zoom (gruppo l), 31 il 9b contro il
+manifest e la verifica di R2, Referer del sito e nuovi tentativi compresi (gruppo m), e 7
 l'indice della galleria (check 13, gruppo n). I primi casi sono letteralmente i due rimandi morti
 di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
 rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
