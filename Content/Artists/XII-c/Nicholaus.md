@@ -288,29 +288,29 @@ The richness of the jambs, with their alternation of colours and patterns, gives
 
 <figure>
   <img src="/Images/Nicholaus/nicholaus-10.jpg" data-zoom-src="/Images/Nicholaus/nicholaus-10-zoom.jpg" alt="A crouching lion of pink veined marble at the foot of a portal column, holding a ram's head between its paws. On its back a squatting bearded man in a short tunic, his hand at his cheek, supports the base of a column on his shoulders. At the left, carved jambs with small figured panels.">
-  <figcaption>Lion and telamon at the foot of the porch of Ferrara Cathedral. The lion is a modern replica of the medieval original; the telamon is generally attributed to the workshop of Nicholaus. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/2.5/">CC BY 2.5</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Lion and telamon at the foot of the porch of Ferrara Cathedral, right side: a modern replica of the group of the workshop of Nicholaus (c. 1135). Photo: Sailko, <a href="https://creativecommons.org/licenses/by/2.5/">CC BY 2.5</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 The columns of the porch of Ferrara rest on crouching lions, on whose backs squat small telamons supporting the bases of the columns. The lion in the first photograph, of pink veined marble, holds a ram's head between its paws; the telamon above it, a bearded man in a short tunic, sits with his legs crossed and his hand at his cheek.
 
-According to the name of the file on Wikimedia Commons, this lion is a modern replica. Many of the lions of the Romanesque porches of the Po valley were replaced in the course of restorations, and the originals are sometimes preserved in museums. Whether the telamon above it is original should also be checked.
+According to the description of the photograph on Wikimedia Commons, the whole group, lion and telamon, is a modern replica of the right-hand group of the porch. Many of the lions of the Romanesque porches of the Po valley were replaced in the course of restorations; the sources consulted for this entry do not say where the originals of Ferrara are kept.
 
 <figure>
   <img src="/Images/Nicholaus/nicholaus-11.jpg" data-zoom-src="/Images/Nicholaus/nicholaus-11-zoom.jpg" alt="A crouching lion of pink veined marble with open jaws, holding a ram under its paws, at the foot of a porch column, lit by low sunlight. On its back a squatting youth with curly hair and a heavy pleated garment raises both arms to support the base of the column.">
-  <figcaption>Lion with a ram and a telamon at the foot of the porch of Ferrara Cathedral, workshop of Nicholaus (c. 1135) or later replacement; the state of the lions should be checked. Photo: Alain Rouiller, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Lion with a ram and a telamon at the foot of the porch of Ferrara Cathedral, left side: a modern copy of the group of the workshop of Nicholaus (c. 1135). Photo: Alain Rouiller, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The second photograph shows a lion of the same type in low sunlight: its open jaws, its mane in heavy curls, a ram held under its paws. On its back a youth with curly hair, in a heavy pleated garment, raises both arms to support the column. Its state, original or replaced, also needs to be checked.
+The second photograph shows the left-hand group in low sunlight: a lion with open jaws, its mane in heavy curls, a ram held under its paws, and on its back a youth with curly hair, in a heavy pleated garment, raising both arms to support the column. Wikimedia Commons classes this group too among the modern copies of medieval originals. Both groups therefore reproduce the composition of Nicholaus's porch, not its original carving.
 
 The lion holding an animal was a common motif of the porches of the Po valley, from Modena to Verona. It was read as an image of the guardian of the church, which crushes the forces of evil, or as an image of Christ, the lion of the tribe of Judah. The ram, a sacrificial animal, may allude to the sacrifice of Christ.
 
 The telamon, a figure bearing a load, comes from antique architecture and was revived in the Romanesque sculpture of the Po valley, at Modena and elsewhere. At Ferrara the telamons sit on the backs of the lions, so that the column rests on a double support, animal and human.
 
-The gesture of the bearded telamon, his hand at his cheek, is a traditional gesture of weariness or melancholy, perhaps expressing the weight he bears. The youth of the second photograph raises his arms in a gesture of effort. The variety of the figures reflects the inventiveness of the workshop.
+The gesture of the bearded telamon, his hand at his cheek, is a traditional gesture of weariness or melancholy, perhaps expressing the weight he bears. The youth of the second photograph raises his arms in a gesture of effort. The variety of the figures, faithfully reproduced by the copies, reflects the inventiveness of the original workshop.
 
 Of the second portal of Ferrara, the Porta dei Mesi, demolished in the eighteenth century, griffins and lions survive on the steps of the cathedral. They show that the same type of porch on animals was used on both portals of the church.
 
-The lions and telamons are among the most visible parts of the portal, at the height of the viewer. Their weathered surfaces and their replacements show the cost of that position: exposed to rain, frost and the touch of passers-by, they have suffered more than the lunette and the jambs.
+The lions and telamons are among the most visible parts of the portal, at the height of the viewer. Their replacement by copies shows the cost of that position: exposed to rain, frost and the touch of passers-by, the original groups suffered more than the lunette and the jambs, and had to be removed from the porch.
 
 ### San Zeno: the Façade and the Porch
 
