@@ -172,7 +172,7 @@ The fragment came from the collection of Don Marcello Massarenti in Rome, where 
 
 The Pinacoteca di Brera in Milan keeps the head of the Virgin from a Maestà, attributed to Alberto and catalogued as tempera on panel, 32.5 by 35.5 centimetres, inv. 7412. It entered the museum by donation. The fragment is round, cut from a larger panel around the halo, and shows the crowned head of the Virgin, frontal, with large eyes, set with three empty settings that once held stones or glass.
 
-The Brera fragment is not discussed in the article of Cochetti Pratesi, and the information on its provenance given in the earlier version of this entry, a "Vitali collection", a former attribution to the "Master of Camerino" and the Roman antique market, could not be verified and is omitted. The fragment shows the late phase of the Spoleto style, and the attribution is the museum's.
+The Brera fragment is not discussed in the article of Cochetti Pratesi. According to the description of its photograph on Wikimedia Commons, it comes from the collection of Lamberto Vitali, which agrees with the donation recorded by the museum. The other details given in the earlier version of this entry, a former attribution to the "Master of Camerino" and a passage through the Roman antique market, could not be verified and are omitted. The fragment shows the late phase of the Spoleto style, and the attribution is the museum's.
 
 Two crosses are connected with Alberto's circle rather than with his own hand. The cross of the Victoria and Albert Museum in London, painted in tempera on canvas laid on panel and measuring 219.5 by 170 centimetres, is catalogued by the museum as circle of Alberto Sotio. It shows Christ with the Virgin and Saint John, a bust of Christ between two angels in the cimasa, and on the terminals the Harrowing of Hell, the Holy Women at the tomb and the Denial of Peter.
 
@@ -355,10 +355,10 @@ The photograph is in black and white, and its tones do not reproduce the colours
 
 <figure>
   <img src="/Images/Alberto-Sozio/alberto-sozio-08.jpg" data-zoom-src="/Images/Alberto-Sozio/alberto-sozio-08-zoom.jpg" alt="A damaged fresco of the Crucifixion on a deep blue ground scattered with small losses. Christ hangs on a red wooden cross with closed eyes and bowed head. At the left the Virgin, in a dark blue mantle and red sleeves, raises one hand and extends the other; at the right Saint John in a red mantle holds his hand to his breast. At the lower left, small kneeling figures. The lower centre of the fresco is lost.">
-  <figcaption>Crucifixion with the Virgin and Saint John, fresco, fourteenth century, for comparison. Spoleto, Santi Giovanni e Paolo. Photo: Silvio Sorcini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Crucifixion with the Virgin and Saint John, fresco, later Gothic, date not established, for comparison. Spoleto, Santi Giovanni e Paolo. Photo: Silvio Sorcini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This Crucifixion, painted on the walls of Santi Giovanni e Paolo more than a century after Alberto's cross, shows how the image of the crucified Christ changed between the twelfth and the fourteenth century. It is included for comparison, not as a work of Alberto.
+This Crucifixion, painted on the walls of Santi Giovanni e Paolo long after Alberto's cross, in a Gothic manner that points to the fourteenth century, shows how the image of the crucified Christ changed between the twelfth and the fourteenth century. It is included for comparison, not as a work of Alberto.
 
 Christ hangs on a red wooden cross, the grain of the wood painted in wavy lines. His head is bowed, his eyes closed, his arms pulled upwards by the weight of the body. He is the *Christus patiens*, the dead Christ, the type that replaced the triumphant Christ of Alberto's cross in the course of the thirteenth century.
 
@@ -370,7 +370,7 @@ The fresco is much damaged. The lower centre, with the body of Christ below the 
 
 The comparison with Alberto's cross is instructive. In 1187 the Virgin and John stand beside the living Christ with restrained gestures; in the fourteenth century they stand beside the dead Christ and express their grief openly. The same subject, in the same church, shows the change of devotion and of style.
 
-The fresco belongs to the later decoration of the church, which also includes a Madonna della Cintola and the works of the Maestro di Eggi. Its date and author are not established, and the date given in the caption is approximate.
+The fresco belongs to the later decoration of the church, which also includes a Madonna della Cintola and the works of the Maestro di Eggi. Its date and author are not established, and the fourteenth-century date suggested by its style has not been confirmed by a published source.
 
 The presence of the fresco in the church of Alberto's cross reminds us that medieval churches were decorated over centuries, and that each generation added its own images to those of its predecessors.
 
@@ -416,7 +416,7 @@ The halo is marked by a ring of small white dots and by a band of fine ornament 
 
 The crowned Virgin, the *Maria Regina*, was a type of Roman origin, used in the twelfth century in Rome and in central Italy. The Brera head belongs to this tradition, and it connects Alberto's work with the Roman sources identified by Cochetti Pratesi.
 
-The earlier version of this entry described the fragment as painted on parchment and gave it a provenance from a "Vitali collection", a former attribution to the "Master of Camerino" and the Roman market. The museum records only that it entered by donation, and these details have been omitted.
+The earlier version of this entry described the fragment as painted on parchment and gave it a former attribution to the "Master of Camerino" and the Roman market. The museum records that it entered by donation, and the Commons description names the collection of Lamberto Vitali; the other details have been omitted.
 
 The fragment shows a different side of the painter from the cross and the Walters Virgin: the solemn, frontal icon rather than the mourning figure. Its large eyes, long nose and small mouth are those of his types, rendered with the hieratic frontality of the Maestà.
 
