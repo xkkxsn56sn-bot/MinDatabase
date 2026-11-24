@@ -9,8 +9,16 @@ manifest; questo script verifica il manifest contro R2.
 
 Per ogni voce: risposta 200, Content-Type image/jpeg, Content-Length uguale ai
 byte del manifest. Con --sha scarica ogni file e confronta anche lo sha256
-(lento: si usa a mano, dopo una sincronizzazione). Senza --sha fa solo HEAD,
-ed e' il passo che gira in CI su ogni push (validate.yml).
+(lento: la verifica completa si fa a mano ogni tanto, per esempio una volta al
+mese). Senza --sha fa solo HEAD, ed e' il passo che gira in CI su ogni push
+(validate.yml).
+
+Con --sha --only <percorso> (ripetibile, percorsi completi come in
+sync_zoom_r2.sh: Images/<Cartella>/<file>, anche con Zoom/ davanti) scarica e
+confronta lo sha256 solo dei file indicati, e fa HEAD (stato, Content-Type,
+Content-Length) su tutti gli altri: e' la verifica di routine dopo un lotto.
+Un percorso di --only che non e' nel manifest e' un errore. Senza --sha,
+--only non cambia nulla: e' gia' tutto HEAD.
 
 Ogni richiesta porta il Referer del sito (SITE_REFERER): una regola WAF di
 Cloudflare su zoom.medievalvisions.com blocca le richieste il cui Referer non
@@ -26,7 +34,7 @@ quanti file hanno avuto bisogno di un nuovo tentativo.
 Zero dipendenze. Esce con 1 se una voce non risponde come atteso.
 
 Uso:
-    python3 scripts/check_zoom_r2.py [--sha] [--manifest PATH]
+    python3 scripts/check_zoom_r2.py [--sha [--only PATH ...]] [--manifest PATH]
 """
 from __future__ import annotations
 
@@ -113,21 +121,50 @@ def entry_problems(entry: dict, response, full: bool) -> list[str]:
     return out
 
 
+def normalize_only(paths) -> set[str]:
+    """Percorsi di --only nella forma del manifest (Images/...), senza Zoom/ o /."""
+    out = set()
+    for raw in paths or ():
+        path = raw.strip().lstrip("/")
+        if path.startswith("Zoom/"):
+            path = path[len("Zoom/"):]
+        if path:
+            out.add(path)
+    return out
+
+
+def plan(entries: list[dict], sha: bool, only: set[str]) -> list[tuple[dict, bool]]:
+    """(voce, full) per ogni voce: full (GET + sha256) con --sha, solo sulle
+    voci di --only se --only c'e'; HEAD altrimenti."""
+    return [(e, sha and (not only or e["path"] in only)) for e in entries]
+
+
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--sha", action="store_true", help="scarica e confronta lo sha256")
+    parser.add_argument("--only", action="append", metavar="PATH",
+                        help="con --sha: GET + sha256 solo su questo file "
+                             "(Images/<Cartella>/<file>, ripetibile); HEAD sugli altri")
     parser.add_argument("--manifest", default=str(MANIFEST))
     args = parser.parse_args(argv)
 
     data = json.loads(Path(args.manifest).read_text(encoding="utf-8"))
     base, entries = data["zoom_base"], data["files"]
+    only = normalize_only(args.only)
+    unknown = sorted(only - {e["path"] for e in entries})
+    for path in unknown:
+        print(f"FAIL {path}: non e' nel manifest (--only)")
+    if only and not args.sha:
+        print("--only ha effetto solo con --sha: tutto in HEAD")
 
-    def run(entry):
-        response, attempts = fetch_with_retry(zoom_url(base, entry["path"]), args.sha)
-        return entry, entry_problems(entry, response, args.sha), attempts
+    def run(item):
+        entry, full = item
+        response, attempts = fetch_with_retry(zoom_url(base, entry["path"]), full)
+        return entry, entry_problems(entry, response, full), attempts
 
+    work = plan(entries, args.sha, only)
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        results = list(pool.map(run, entries))
+        results = list(pool.map(run, work))
 
     bad = [(e["path"], p, n) for e, p, n in results if p]
     retried = [(e["path"], n) for e, _, n in results if n > 1]
@@ -135,10 +172,16 @@ def main(argv=None) -> int:
         print(f"RETRY {path}: {n} tentativi")
     for path, problems, n in bad:
         print(f"FAIL {path}: {', '.join(problems)} (dopo {n} tentativi)")
-    mode = "GET + sha256" if args.sha else "HEAD"
+    n_full = sum(1 for _, full in work if full)
+    if n_full == len(work):
+        mode = "GET + sha256"
+    elif n_full:
+        mode = f"GET + sha256 su {n_full}, HEAD sugli altri {len(work) - n_full}"
+    else:
+        mode = "HEAD"
     print(f"{len(entries) - len(bad)}/{len(entries)} zoom ok da {base} ({mode}); "
           f"{len(retried)} con nuovi tentativi")
-    return 1 if bad else 0
+    return 1 if bad or unknown else 0
 
 
 if __name__ == "__main__":

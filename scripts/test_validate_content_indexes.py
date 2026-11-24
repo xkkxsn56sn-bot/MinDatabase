@@ -58,7 +58,10 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    R2 (check_zoom_r2.py) su risposte finte: 200 giusto, 404, tipo sbagliato,
    byte o sha256 diversi; poi i nuovi tentativi: un "Connection reset by
    peer" seguito da 200 e' verde dopo un'attesa di 1 s, un 404 o un 403 non
-   si ritentano, un 503 persistente si ritenta con attese 1, 3, 9.
+   si ritentano, un 503 persistente si ritenta con attese 1, 3, 9. Poi
+   --only: con --sha, GET + sha256 solo sui file indicati (anche con Zoom/
+   davanti) e HEAD sugli altri; senza --only si scarica tutto come prima;
+   un percorso fuori dal manifest e' rosso.
 o. Check 14, le immagini di museo senza licenza CC: una didascalia con «©»,
    «courtesy», «with permission» o «su concessione» e senza link a
    creativecommons.org vuole <figure data-no-download>; con il marcatore e'
@@ -450,6 +453,56 @@ check("m. R2: 503 persistente: quattro tentativi, attese 1-3-9, rosso",
       and r2.entry_problems(ENTRY, resp, False) == ["status 503"])
 check("m. R2: 429 e timeout sono transitori, 403 no",
       r2.is_transient(429) and r2.is_transient("error: timed out") and not r2.is_transient(403))
+
+# --only: con --sha, GET + sha256 solo sui file indicati, HEAD sugli altri.
+E3 = [{"path": f"Images/A/a-0{i}-zoom.jpg", "bytes": len(BODY),
+       "sha256": hashlib.sha256(BODY).hexdigest()} for i in (1, 2, 3)]
+check("m. R2: --only normalizza Zoom/ e la barra iniziale",
+      r2.normalize_only(["Zoom/Images/A/a-01-zoom.jpg", "/Images/A/a-02-zoom.jpg", " "])
+      == {"Images/A/a-01-zoom.jpg", "Images/A/a-02-zoom.jpg"})
+check("m. R2: --sha senza --only: GET su tutti",
+      [f for _, f in r2.plan(E3, True, set())] == [True, True, True])
+check("m. R2: --sha --only: GET solo sui file indicati",
+      [f for _, f in r2.plan(E3, True, {"Images/A/a-02-zoom.jpg"})] == [False, True, False])
+check("m. R2: --only senza --sha: tutto HEAD",
+      [f for _, f in r2.plan(E3, False, {"Images/A/a-02-zoom.jpg"})] == [False, False, False])
+
+
+def run_r2_main(argv, body=BODY):
+    """main() di check_zoom_r2 su un manifest finto con fetch finto: (exit, chiamate)."""
+    import contextlib, io, json, tempfile
+    calls = []
+    def fake_fetch(url, full):
+        calls.append((url.rsplit("/", 1)[1], full))
+        return 200, dict(OK), (body if full else None)
+    with tempfile.TemporaryDirectory() as tmp:
+        mf = Path(tmp) / "m.json"
+        mf.write_text(json.dumps({"zoom_base": "https://z.example", "files": E3}))
+        saved, r2.fetch = r2.fetch, fake_fetch
+        try:
+            with contextlib.redirect_stdout(io.StringIO()) as out:
+                rc = r2.main([*argv, "--manifest", str(mf)])
+        finally:
+            r2.fetch = saved
+    return rc, sorted(calls), out.getvalue()
+
+
+rc, calls, out = run_r2_main(["--sha", "--only", "Images/A/a-01-zoom.jpg", "--only", "Zoom/Images/A/a-03-zoom.jpg"])
+check("m. R2: main --sha --only: GET su 2, HEAD sul terzo, verde",
+      rc == 0 and calls == [("a-01-zoom.jpg", True), ("a-02-zoom.jpg", False), ("a-03-zoom.jpg", True)]
+      and "GET + sha256 su 2, HEAD sugli altri 1" in out, f"{rc} {calls} {out!r}")
+rc, calls, out = run_r2_main(["--sha"])
+check("m. R2: main --sha senza --only: come prima, GET su tutti",
+      rc == 0 and all(f for _, f in calls) and len(calls) == 3 and "(GET + sha256)" in out)
+rc, calls, out = run_r2_main([])
+check("m. R2: main senza opzioni: come prima, HEAD su tutti",
+      rc == 0 and not any(f for _, f in calls) and len(calls) == 3 and "(HEAD)" in out)
+rc, calls, out = run_r2_main(["--sha", "--only", "Images/A/a-09-zoom.jpg"])
+check("m. R2: --only con un percorso fuori dal manifest: rosso",
+      rc == 1 and "a-09-zoom.jpg: non e' nel manifest" in out)
+rc, calls, out = run_r2_main(["--sha", "--only", "Images/A/a-02-zoom.jpg"], body=b"\xff\xd8ZOOM")
+check("m. R2: --only con sha256 diverso sul file indicato: rosso",
+      rc == 1 and "FAIL Images/A/a-02-zoom.jpg" in out)
 
 # --- n. Check 13: l'indice della galleria --------------------------------
 # Fino al 22 novembre 2026 build_gallery_index.py leggeva data-zoom-src al

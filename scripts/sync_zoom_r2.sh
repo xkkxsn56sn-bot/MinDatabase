@@ -28,9 +28,14 @@
 # script non la vede piu'), se ne toglie la voce dal manifest e su R2 resta.
 #
 # Senza --delete nulla viene mai cancellato: uno zoom presente nel manifest ma
-# mancante in locale e' solo segnalato. Il caricamento usa `npx wrangler@4 r2
-# object put --remote` con la sessione di `wrangler login`: nessun token nel
-# repository. Ogni oggetto ha Content-Type image/jpeg e Cache-Control
+# mancante in locale e' solo segnalato. Il caricamento usa `wrangler r2 object
+# put --remote` con la sessione di `wrangler login`: nessun token nel
+# repository. Wrangler e' una devDependency a versione fissa (package.json e
+# package-lock.json, `npm install` o `npm ci`): lo script usa
+# node_modules/.bin/wrangler e, se manca, ripiega su `npx --yes wrangler@4`.
+# I file nuovi o cambiati si caricano in parallelo, al massimo quattro alla
+# volta (MAX_UPLOADS); ogni file ha la sua riga di esito, e il manifest prende
+# solo i caricamenti riusciti. Ogni oggetto ha Content-Type image/jpeg e Cache-Control
 # "public, max-age=31536000, immutable"; per questo uno zoom cambiato andrebbe
 # rinominato, perche' le cache lo terrebbero per un anno.
 #
@@ -50,7 +55,7 @@ while [ "$#" -gt 0 ]; do
     --only)
       [ "$#" -ge 2 ] || { echo "--only needs a path (Images/<Cartella>/<file>)" >&2; exit 2; }
       ONLY="${ONLY}${2#Zoom/}"$'\n'; shift ;;
-    -h|--help) sed -n '2,40p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
+    -h|--help) sed -n '2,46p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
     *) echo "Unknown option: $1" >&2; exit 2 ;;
   esac
   shift
@@ -63,7 +68,7 @@ REPO="$(cd "$(dirname "$0")/.." && pwd -P)"
 export REPO APPLY DELETE ONLY
 
 python3 -I - <<'PY'
-import hashlib, json, os, re, struct, subprocess, sys
+import concurrent.futures, hashlib, json, os, re, struct, subprocess, sys
 from pathlib import Path
 
 REPO = Path(os.environ["REPO"])
@@ -74,6 +79,8 @@ ZOOM_BASE = "https://zoom.medievalvisions.com"
 LOCAL_ROOT = REPO / "Zoom"
 MANIFEST = REPO / "assets" / "data" / "zoom-manifest.json"
 CACHE = "public, max-age=31536000, immutable"
+MAX_UPLOADS = 4  # caricamenti contemporanei
+LOCAL_WRANGLER = REPO / "node_modules" / ".bin" / "wrangler"
 # La convenzione dei nomi e' quella del controllo 9b, importata dal validatore
 # (non ricopiata): <slug>-NN-zoom.jpg o ...-zoom-vN.jpg (N >= 2); per i codici al
 # posto di NN il foglio o l'etichetta del check 12 (f001v, p012, cover-front...).
@@ -131,10 +138,22 @@ def write_manifest(entries):
     MANIFEST.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
+def wrangler_cmd():
+    """Wrangler fissato in node_modules; se manca, npx come prima."""
+    if os.access(LOCAL_WRANGLER, os.X_OK):
+        return [str(LOCAL_WRANGLER)]
+    return ["npx", "--yes", "wrangler@4"]
+
+
 def wrangler(*args):
-    cmd = ["npx", "--yes", "wrangler@4", "r2", "object", *args, "--remote"]
+    # cwd fuori dal repository: il wrangler.toml della radice e' di un altro Worker.
+    cmd = [*wrangler_cmd(), "r2", "object", *args, "--remote"]
     res = subprocess.run(cmd, cwd="/tmp", capture_output=True, text=True)
     return res.returncode, (res.stdout + res.stderr)[-400:]
+
+
+def last_line(out, rc):
+    return out.strip().splitlines()[-1] if out.strip() else rc
 
 
 if not (LOCAL_ROOT / "Images").is_dir():
@@ -165,16 +184,34 @@ if not APPLY:
     sys.exit(0)
 
 errors = 0
-for p in new + changed:
-    rc, out = wrangler("put", f"{BUCKET}/{p}", "--file", str(LOCAL_ROOT / p),
-                       "--content-type", "image/jpeg", "--cache-control", CACHE)
-    if rc == 0:
-        manifest[p] = local[p]
-        print(f"uploaded {p}")
-    else:
-        errors += 1
-        print(f"ERROR uploading {p}: {out.strip().splitlines()[-1] if out.strip() else rc}")
-    write_manifest(manifest)
+uploads = new + changed
+if uploads:
+    via = "node_modules/.bin/wrangler" if wrangler_cmd()[0] == str(LOCAL_WRANGLER) else "npx wrangler@4"
+    print(f"uploading {len(uploads)} file(s) with {via}, up to {MAX_UPLOADS} at a time")
+
+
+def put(p):
+    return wrangler("put", f"{BUCKET}/{p}", "--file", str(LOCAL_ROOT / p),
+                    "--content-type", "image/jpeg", "--cache-control", CACHE)
+
+
+# I caricamenti girano nei thread; manifest e stampa restano nel thread
+# principale, un file alla volta, man mano che i caricamenti finiscono.
+with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_UPLOADS) as pool:
+    futures = {pool.submit(put, p): p for p in uploads}
+    for fut in concurrent.futures.as_completed(futures):
+        p = futures[fut]
+        try:
+            rc, out = fut.result()
+        except Exception as exc:  # wrangler/npx mancante o altro errore locale
+            rc, out = 1, f"{type(exc).__name__}: {exc}"
+        if rc == 0:
+            manifest[p] = local[p]
+            print(f"uploaded {p}", flush=True)
+        else:
+            errors += 1
+            print(f"ERROR uploading {p}: {last_line(out, rc)}", flush=True)
+        write_manifest(manifest)
 
 if DELETE:
     for p in gone:
@@ -184,7 +221,7 @@ if DELETE:
             print(f"deleted {p}")
         else:
             errors += 1
-            print(f"ERROR deleting {p}: {out.strip().splitlines()[-1] if out.strip() else rc}")
+            print(f"ERROR deleting {p}: {last_line(out, rc)}")
         write_manifest(manifest)
 
 if not MANIFEST.exists():

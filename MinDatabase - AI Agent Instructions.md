@@ -397,10 +397,10 @@ un file diverso a ogni giro riceveva «Connection reset by peer».
 
 Accanto a quella, e per la stessa ragione, gira un sesto passo:
 **Check-7 regression battery**, `scripts/test_validate_content_indexes.py`,
-101 asserzioni in quattordici gruppi: 28 fissano il contratto dei link interni sul
+121 asserzioni in quattordici gruppi: 28 fissano il contratto dei link interni sul
 caso che lo ha allargato, 21 il contratto dei nomi delle immagini dei codici
-(check 12), 14 il check 9b sugli zoom (gruppo l), 31 il 9b contro il
-manifest e la verifica di R2, Referer del sito e nuovi tentativi compresi (gruppo m), e 7
+(check 12), 14 il check 9b sugli zoom (gruppo l), 40 il 9b contro il
+manifest e la verifica di R2, Referer del sito, nuovi tentativi e `--only` compresi (gruppo m), e 7
 l'indice della galleria (check 13, gruppo n). I primi casi sono letteralmente i due rimandi morti
 di Andrea di Bonaiuto: `.md` e `%20` verso un file inesistente devono uscire
 rossi, i due bersagli veri in forma `.html` verdi, e un `.md` verso un file
@@ -437,7 +437,10 @@ LTS fino ad aprile 2027, mentre il 20 e' fuori manutenzione da aprile 2026.
 `npm ci` e non `npm install`: installa esattamente `package-lock.json` e
 fallisce se i due file divergono, cosi' il guardiano non cambia versione di
 jsdom sotto i piedi. Il lockfile va committato — e' il prerequisito di
-`npm ci`. `node_modules/` resta ignorato.
+`npm ci`. `node_modules/` resta ignorato. Dal 24 novembre 2026 fra le
+devDependency c'e' anche `wrangler`, a versione fissa (senza `^`), per
+`sync_zoom_r2.sh`: in CI `npm ci` lo installa insieme a jsdom, e chiede Node
+>= 22.12, che il 22 del runner soddisfa.
 
 Lo script `test` lancia i due file **e poi** somma i codici di uscita, invece
 di incatenarli con `&&`: con `&&` un rosso nel primo file impedirebbe al
@@ -781,12 +784,23 @@ leggera' da `Zoom/Images/` o con `npx wrangler@4 r2 object get --remote`.
 1. Il file va in `Zoom/Images/<Cartella>/<slug>-NN-zoom.jpg` (stessa cartella
    e stesso numero della base in `Images/`).
 2. `scripts/sync_zoom_r2.sh`, prima in prova (il default: dice cosa caricherebbe),
-   poi con `--apply`: carica su R2 solo i file nuovi o cambiati, aggiorna il
-   manifest e alla fine copia gli zoom in `~/Desktop/Zoom` (la copia non parte
-   piu' dagli hook di commit). Serve una sessione `npx wrangler login`. Nulla
-   viene cancellato da R2 senza `--apply --delete`.
-3. Nella scheda si aggiunge il `data-zoom-src` all'`<img>` della base.
-4. Nel commit vanno **solo la scheda e il manifest**: mai il file zoom, che
+   poi con `--apply`: carica su R2 solo i file nuovi o cambiati, al massimo
+   quattro alla volta, aggiorna il manifest con i soli caricamenti riusciti e
+   alla fine copia gli zoom in `~/Desktop/Zoom` (la copia non parte piu' dagli
+   hook di commit). Usa il wrangler fissato in `package.json`
+   (`node_modules/.bin/wrangler`, dopo un `npm install`); se manca ripiega su
+   `npx wrangler@4`. Serve una sessione `wrangler login`. Nulla viene
+   cancellato da R2 senza `--apply --delete`.
+3. Verifica di routine, solo sul lotto:
+   `python3 scripts/check_zoom_r2.py --sha --only Images/<Cartella>/<file> [--only ...]`,
+   con i percorsi appena caricati (gli stessi di `sync_zoom_r2.sh --only`). Scarica
+   e confronta lo sha256 dei soli file indicati e fa HEAD (stato, tipo, byte)
+   su tutti gli altri; un percorso che non e' nel manifest e' rosso. La
+   verifica completa, `check_zoom_r2.py --sha` senza `--only` (scarica tutti
+   gli zoom), non si fa a ogni lotto ma a mano ogni tanto, per esempio una
+   volta al mese.
+4. Nella scheda si aggiunge il `data-zoom-src` all'`<img>` della base.
+5. Nel commit vanno **solo la scheda e il manifest**: mai il file zoom, che
    `.gitignore` comunque esclude.
 
 Uno zoom gia' caricato non si sovrascrive: la cache dura un anno, e un file
