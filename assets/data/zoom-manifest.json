@@ -3412,6 +3412,76 @@
       "sha256": "d260d72a7bb4a6867801de7e77a0d3fb27d241dd9b9fe8de25d816eeedf89075"
     },
     {
+      "path": "Images/Rainaldetto/rainaldetto-04-zoom.jpg",
+      "width": 2032,
+      "height": 2576,
+      "bytes": 480084,
+      "sha256": "d57000b4c9ff01f7305a43c6828a28bfd680388be6edb47fd1637b2bce086e81"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-05-zoom.jpg",
+      "width": 2083,
+      "height": 1132,
+      "bytes": 333681,
+      "sha256": "df81e6e8861b3c5855e3891dabd984555561f708adca2bb866231df0168f7bb0"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-06-zoom.jpg",
+      "width": 2576,
+      "height": 1011,
+      "bytes": 362710,
+      "sha256": "c585d7279af2faab513adc340ef3a80d4c53184742f282856cd1e0e931b83bd8"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-07-zoom.jpg",
+      "width": 1059,
+      "height": 1581,
+      "bytes": 229664,
+      "sha256": "d97da246870f0eca9660303080a9e6825b0bbe322e8e8e6580294c61cd461038"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-08-zoom.jpg",
+      "width": 1093,
+      "height": 1803,
+      "bytes": 247656,
+      "sha256": "6adcc0108908433820904eaf4e51cdb4da4d5b63630d5bb12ca86128bc1dee73"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-09-zoom.jpg",
+      "width": 2219,
+      "height": 2349,
+      "bytes": 1059812,
+      "sha256": "55c142c0c6d716df7715bba52eb2088e8767aad8a76b52e6af6d1e6a344df10f"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-10-zoom.jpg",
+      "width": 1981,
+      "height": 2401,
+      "bytes": 1302036,
+      "sha256": "0829ee780c756bdd68c8b806b25e538d578892e016824afc70aeeffe018961cd"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-11-zoom.jpg",
+      "width": 2006,
+      "height": 1422,
+      "bytes": 385527,
+      "sha256": "ef744f956667f0f50d03ccc14e045ed99c72ea7a85c6041970625db1ea91678d"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-12-zoom.jpg",
+      "width": 1532,
+      "height": 986,
+      "bytes": 227094,
+      "sha256": "913aba91a9ac9c75dca778abc647d65f7103bad35501bf3c6c9421cc7f38b0fb"
+    },
+    {
+      "path": "Images/Rainaldetto/rainaldetto-14-zoom.jpg",
+      "width": 1240,
+      "height": 1723,
+      "bytes": 291085,
+      "sha256": "4e67241207c0bf0ce0360f5c396eabc16010e5b2aeebd3a51be350a86c1446ab"
+    },
+    {
       "path": "Images/Saint-Leonard/saint-leonard-01-zoom.jpg",
       "width": 1600,
       "height": 1076,
