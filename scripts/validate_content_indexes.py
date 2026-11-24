@@ -89,9 +89,14 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     miniature della galleria puntavano a file inesistenti senza che nessun
     controllo se ne accorgesse.
 
+14. Una figura la cui didascalia contiene «reproduced with permission»,
+    «Courtesy of» o «su concessione» (immagine concessa da un museo, non con
+    licenza libera) sta in una <figure data-no-download>: il visualizzatore
+    nasconde allora il pulsante Download e lascia il credito.
+
 I controlli da 1 a 9 lavorano sui .md; il 10 e l'11 leggono i due
 contenitori HTML, endnotes.html e scholars.html; il 12 i soli .md di Codex;
-il 13 l'indice della galleria.
+il 13 l'indice della galleria; il 14 di nuovo i .md.
 
 Non confronta "name" (JSON) con "title" (frontmatter): le divergenze fra i
 due sono scelte editoriali volute e non un errore da segnalare qui.
@@ -798,6 +803,49 @@ def check_codex_image_names(md_files, anomalies):
                 anomalies["Nome immagine Codex"].append(f"{rel_src}: {err}")
 
 
+# --- Check 14: immagini concesse da un museo ----------------------------
+# Le immagini pubblicate con il permesso di un museo (non con licenza libera)
+# portano data-no-download sul <figure>: il visualizzatore nasconde il
+# Download e mostra il credito. Il marcatore e' facile da dimenticare quando
+# si aggiunge una figura, mentre la dicitura del museo in didascalia c'e'
+# sempre: il check parte da quella. Il marcatore toglie il pulsante, non
+# impedisce il salvataggio dal browser.
+PERMISSION_FIGURE_RE = re.compile(r"<figure\b([^>]*)>(.*?)</figure>", re.S)
+PERMISSION_CAP_RE = re.compile(r"<figcaption\b[^>]*>(.*?)</figcaption>", re.S)
+PERMISSION_PHRASE_RE = re.compile(
+    r"reproduced\s+with\s+permission|courtesy\s+of|su\s+concessione", re.I)
+NO_DOWNLOAD_ATTR_RE = re.compile(r"(?:^|\s)data-no-download(?:\s|=|$)")
+PERMISSION_SRC_RE = re.compile(r'<img\b[^>]*?\ssrc="([^"]+)"')
+
+
+def permission_figure_problems(text):
+    """Figure con dicitura di concessione senza data-no-download: [dettaglio]."""
+    out = []
+    for n, m in enumerate(PERMISSION_FIGURE_RE.finditer(text), 1):
+        cap = PERMISSION_CAP_RE.search(m.group(2))
+        if not cap or not PERMISSION_PHRASE_RE.search(cap.group(1)):
+            continue
+        if NO_DOWNLOAD_ATTR_RE.search(m.group(1)):
+            continue
+        src = PERMISSION_SRC_RE.search(m.group(2))
+        name = src.group(1).rsplit("/", 1)[-1] if src else "?"
+        line = text.count("\n", 0, m.start()) + 1
+        out.append(f"figura {n} ({name}, riga {line})")
+    return out
+
+
+def check_permission_figures(md_files, anomalies):
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+        rel_src = str(md_path.relative_to(REPO_ROOT))
+        for detail in permission_figure_problems(text):
+            anomalies["Immagine concessa senza data-no-download"].append(
+                f"{rel_src}: {detail}")
+
+
 # --- Check 10: ordine delle voci dentro le sezioni di endnotes.html ------
 # La pagina di note raggruppa le voci in sezioni-lettera, e dentro ogni
 # sezione le ordina per slug. Le due cose seguono chiavi diverse di
@@ -1182,6 +1230,7 @@ def main():
     check_note_ordering(anomalies)
     check_scholars_ordering(anomalies)
     check_gallery_index(anomalies)
+    check_permission_figures(all_md + root_md, anomalies)
 
     # --- Report ---
     total_anomalies = sum(len(v) for v in anomalies.values())

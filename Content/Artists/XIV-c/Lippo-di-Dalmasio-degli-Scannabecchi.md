@@ -290,7 +290,7 @@ It would nonetheless be wrong to conclude that Lippo was simply repeating a form
 
 ### The Misericordia *Madonna of Humility* of 1397
 
-<figure>
+<figure data-no-download>
  <img src="/Images/Lippo-di-Dalmasio-degli-Scannabecchi/lippo-di-dalmasio-degli-scannabecchi-05.jpg" alt="Detached fresco by Lippo di Dalmasio: the Virgin, in a deep blue mantle over a red dress, sits low on a red tasselled cushion against a dark ground scattered with gold eight-pointed stars, suckling the Christ Child, who lies across her lap wrapped in a yellow cloth and reaches for her breast; behind the pair glows a sunburst of gold rays rimmed with red and orange flame; green curtains, knotted and lined with red, are drawn back at both sides, and at the upper left hangs a small tablet-like scroll inscribed in Gothic letters, partly abraded.">
  <figcaption>The Madonna of Humility, signed and dated 1397. Detached fresco, 140 × 105 cm. Signed "lippus dalmassi". Bologna, Santa Maria della Misericordia. Photo: © Church of Santa Maria della Misericordia, Bologna. Courtesy of MIBAC – Archivio Fotografico Soprintendenza BSAE – Bologna.</figcaption>
 </figure>
@@ -336,7 +336,7 @@ The provenance is unusually full for a Trecento picture. The canvas was in the M
 
 ### The Pinacoteca *Madonna of Humility with Angels* (inv. 786)
 
-<figure>
+<figure data-no-download>
  <img src="/Images/Lippo-di-Dalmasio-degli-Scannabecchi/lippo-di-dalmasio-degli-scannabecchi-07.jpg" alt="Tall canvas by Lippo di Dalmasio: the Virgin, her head veiled by a dark mantle over a red dress with a star on her shoulder, sits on a dark flowered ground suckling the Christ Child, who lies across her lap wrapped in a yellow cloth; behind the pair rises a great plain disc of gold, and above and beside it a crowd of adoring angels, painted in gold against the dark ground, arches over the sun like a second glory; a crescent moon lies in the grass at the lower left.">
  <figcaption>The Madonna of Humility with Angels, c. 1390–1400 (also placed 1400–1405). Tempera on canvas, 175 × 103.5 cm. Signed LIPPUS DALMAXIJ FECIT. Bologna, Pinacoteca Nazionale, inv. 786. Photo: © Pinacoteca Nazionale Bologna. Courtesy of MIBAC – Archivio Fotografico Soprintendenza BSAE – Bologna.</figcaption>
 </figure>

@@ -295,7 +295,7 @@ The panel is well preserved. The gold ground and the frame show fine cracks and 
 
 ### Madonna and Child, central panel of the polyptych of 1387 (San Diego, Timken Museum of Art)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-14.jpg" data-zoom-src="/Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-14-zoom-v2.jpg" alt="Tall, narrow gold-ground panel with a gabled top and a carved cusped arch. The Virgin, crowned, with a white veil, wears a deep blue mantle marked with a gold star on the shoulder over a dress patterned with gold. She sits on a Gothic throne painted in pink and orange, whose cusped back opens onto a small vaulted niche. She holds between her fingers the stem of a white flower, which the Christ Child, seated on her knee, grasps while looking up at her. The Child, with curly golden hair, wears a light blue tunic with a gold belt and a red mantle over his legs, and holds in his other hand a small gold basket filled with fruit and flowers. The throne rests on a white step with a zigzag pattern in pink and orange.">
   <figcaption>Niccolò di Buonaccorso, <em>Madonna and Child</em>, central panel of the polyptych dated 1387, from Santa Margherita at Costalpino. Tempera and gold on wood panel, 152.5 × 58.5 cm. San Diego, Timken Museum of Art, Putnam Foundation, 1998:001. Photo: courtesy of the Timken Museum of Art, San Diego, reproduced with permission.</figcaption>
 </figure>
@@ -385,7 +385,7 @@ The panel is in fair condition. The gold ground is worn throughout, revealing th
 
 ### Madonna of Humility with Saints Catherine and Christopher, the Annunciation and the Crucifixion (San Diego, Timken Museum of Art)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Niccolo-di-Buonaccorso/niccolo-di-buonaccorso-18.jpg" alt="Small gilded triptych with three steep gables edged with carved crockets. In the central gable Christ hangs on the cross between the Virgin in dark blue and Saint John in yellow, with a kneeling figure at the foot of the cross. Below, the Virgin, in a dark mantle over a dress with gold, sits low on a patterned cushion on the floor, holding the Child, who is dressed in pink, on her knee; behind them runs a low bench with small objects on it. In the left wing the angel of the Annunciation kneels in the gable above Saint Catherine, crowned, in a pink mantle, with her wheel and palm. In the right wing the Virgin Annunciate sits in the gable above Saint Christopher, in red, carrying the Child on his shoulder across the water with a staff.">
   <figcaption>Niccolò di Buonaccorso, <em>Madonna of Humility with Saints Catherine of Alexandria and Christopher, the Annunciation and the Crucifixion</em>, ca. 1370–1375. Tempera and gold on wood panel, 65.8 × 54.6 cm. San Diego, Timken Museum of Art, Putnam Foundation, 1967:002. Photo: courtesy of the Timken Museum of Art, San Diego, reproduced with permission.</figcaption>
 </figure>

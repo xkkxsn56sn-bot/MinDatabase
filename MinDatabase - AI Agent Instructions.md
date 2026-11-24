@@ -746,6 +746,18 @@ zoom si aprono soltanto dalle schede:
   didascalia. Per questo la figcaption di una figura con zoom deve chiudere
   con il credito in quella forma.
 
+**Immagini concesse da un museo.** Le immagini pubblicate con il permesso di
+un museo (non con licenza libera: Timken, MIBAC–Soprintendenza di Bologna)
+vanno in `<figure data-no-download>`. Il visualizzatore nasconde allora il
+pulsante Download (anche da tastiera: l'URL da scaricare resta vuoto) e lascia
+visibile il credito sotto la sua posizione; aprendo poi una figura senza
+marcatore il pulsante ricompare. La didascalia usa la dicitura richiesta dal
+museo («reproduced with permission», «Courtesy of …», «su concessione …»). Il
+check 14 di `validate_content_indexes.py` segnala come errore, con file e
+numero di figura, ogni figcaption che contiene una di queste diciture fuori da
+una `<figure data-no-download>`. Il marcatore toglie il pulsante, non impedisce
+il salvataggio dal browser (tasto destro, trascinamento, screenshot).
+
 Gli script che leggono gli zoom fuori dal browser devono mandare il Referer
 del sito (`check_zoom_r2.py` lo fa) o non passare dal dominio pubblico:
 `sync_zoom_r2.sh` usa l'API R2 di wrangler, e un futuro generatore di PDF

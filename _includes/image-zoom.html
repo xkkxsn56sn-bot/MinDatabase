@@ -18,6 +18,8 @@
   site's origins (R2 bucket CORS rule); the fetch asks for ?download=1 and
   skips the browser cache, where the <img> left a copy without them. Next to the button: the credit and
   licence taken from the figcaption ("Photo:", "Image:" or "Source:").
+  <figure data-no-download>: image reproduced with a museum's permission (not a
+  free licence); the viewer hides the Download button and keeps the credit.
   Self-contained: no external libraries, no cookies, no third-party calls.
 {%- endcomment -%}
 <style>
@@ -237,9 +239,14 @@
     overlay.hidden = false; overlay.classList.add("iz-open");
     document.documentElement.style.overflow = "hidden";
     img.alt = alt || ""; cap.textContent = caption || "";
-    dlUrl = src; dlPending = null; dlReset();
-    dlBtn.hidden = false; dlOpen.hidden = true; dlOpen.href = "#";
-    dlBtn.title = "Download " + fileName(src);
+    // data-no-download on the <figure>: image reproduced with a museum's
+    // permission, no Download button (dlUrl stays empty, so download() returns
+    // at once from the keyboard too); the credit is shown as always. Every
+    // open() sets the button again, so the next free figure gets it back.
+    var noDl = !!(from && from.closest && from.closest("figure[data-no-download]"));
+    dlUrl = noDl ? "" : src; dlPending = null; dlReset();
+    dlBtn.hidden = noDl; dlOpen.hidden = true; dlOpen.href = "#";
+    dlBtn.title = noDl ? "" : "Download " + fileName(src);
     credit(fc);
     var ready = function () { layout(); fit(false); };
     img.onload = ready; img.src = src;

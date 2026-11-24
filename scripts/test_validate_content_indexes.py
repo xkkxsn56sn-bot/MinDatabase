@@ -59,6 +59,10 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    byte o sha256 diversi; poi i nuovi tentativi: un "Connection reset by
    peer" seguito da 200 e' verde dopo un'attesa di 1 s, un 404 o un 403 non
    si ritentano, un 503 persistente si ritenta con attese 1, 3, 9.
+o. Check 14, le immagini concesse da un museo: una didascalia con
+   «Courtesy of», «reproduced with permission» o «su concessione» vuole
+   <figure data-no-download>; con il marcatore e' verde, senza e' rossa
+   (con numero di figura), e una figura Commons senza dicitura resta verde.
 """
 import sys
 from pathlib import Path
@@ -473,6 +477,28 @@ an = defaultdict(list)
 v.check_gallery_index(an)
 check("n. galleria: indice del repository pulito",
       not an, "; ".join(f"{k}: {len(x)}" for k, x in an.items()))
+
+# --- o. Check 14: immagini concesse da un museo --------------------------
+FREE = ('<figure>\n  <img src="/Images/A/a-01.jpg" alt="x">\n'
+        '  <figcaption>Photo: Wikimedia Commons, CC BY-SA 4.0.</figcaption>\n</figure>\n')
+def perm(attr, caption):
+    return (f'<figure{attr}>\n  <img src="/Images/A/a-02.jpg" alt="y">\n'
+            f'  <figcaption>{caption}</figcaption>\n</figure>\n')
+MIBAC = "Photo: © Pinacoteca. Courtesy of MIBAC – Archivio Fotografico."
+check("o. concessa con data-no-download: verde",
+      not v.permission_figure_problems(FREE + perm(" data-no-download", MIBAC)))
+check("o. concessa senza data-no-download: rossa, figura 2",
+      v.permission_figure_problems(FREE + perm("", MIBAC)) == ["figura 2 (a-02.jpg, riga 5)"],
+      repr(v.permission_figure_problems(FREE + perm("", MIBAC))))
+check("o. «reproduced with permission» e «su concessione» contano",
+      len(v.permission_figure_problems(
+          perm("", "Image reproduced with permission of the museum.")
+          + perm(' class="x"', "Foto su concessione del Ministero."))) == 2)
+check("o. figura Commons senza marcatore: verde", not v.permission_figure_problems(FREE))
+an = defaultdict(list)
+v.check_permission_figures(sorted(v.CONTENT_DIR.rglob("*.md")), an)
+check("o. schede del repository pulite",
+      not an, "; ".join(x for k in an for x in an[k]))
 
 print()
 if FAILURES:
