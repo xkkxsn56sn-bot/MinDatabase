@@ -3608,6 +3608,48 @@
       "sha256": "c92f2cbb5759cee766160a02285d8217277e99a75e4692346b06c10d6ce96595"
     },
     {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-10-zoom.jpg",
+      "width": 1616,
+      "height": 2576,
+      "bytes": 824404,
+      "sha256": "43dd3824c49962699a019d15b3c350d79b4170845356e31b3b195b4021a51f40"
+    },
+    {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-11-zoom.jpg",
+      "width": 1421,
+      "height": 2576,
+      "bytes": 811000,
+      "sha256": "d863ce6c3767605b0cc0da9ef79297e8befdf7632f0af9eb87124ef768d9d23f"
+    },
+    {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-12-zoom.jpg",
+      "width": 3000,
+      "height": 2033,
+      "bytes": 2898216,
+      "sha256": "db4a91f3158905fea40d675f4e7df8568c396b7587712fce3eff1d6c9a979f35"
+    },
+    {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-13-zoom.jpg",
+      "width": 1759,
+      "height": 939,
+      "bytes": 107969,
+      "sha256": "fd6ccb003e4b7c7ff3f4e4a3723a05762168ada9804c2a16a19a868121c07f6b"
+    },
+    {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-14-zoom.jpg",
+      "width": 1604,
+      "height": 2576,
+      "bytes": 937983,
+      "sha256": "01a6cfd3d1f33e4e1ee5093e8f84b47db16185e4efcc70de1c28bfe92a6e1d17"
+    },
+    {
+      "path": "Images/Simeone-e-Machilone/simeone-e-machilone-15-zoom.jpg",
+      "width": 2130,
+      "height": 2576,
+      "bytes": 856736,
+      "sha256": "451304aaa8112380a11a3bfaf6cd5e1150c05282d6b37cabcc952af15ac9c970"
+    },
+    {
       "path": "Images/Simone-Martini/simone-martini-01-zoom.jpg",
       "width": 1511,
       "height": 2000,
