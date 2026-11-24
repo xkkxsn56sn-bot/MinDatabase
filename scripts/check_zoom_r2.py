@@ -26,25 +26,37 @@ inizia con l'indirizzo del sito, comprese quelle senza Referer.
 
 Gli errori transitori (rete: connessione chiusa, timeout; HTTP 5xx e 429)
 si ritentano fino a tre volte, con attese di 1, 3 e 9 secondi; un 403, un 404
-o un altro 4xx restano errori subito. Le richieste partono al massimo quattro
-alla volta (MAX_WORKERS): in CI raffiche piu' larghe ricevevano a caso
-"Connection reset by peer", un file diverso a ogni giro. Il riepilogo dice
-quanti file hanno avuto bisogno di un nuovo tentativo.
+o un altro 4xx restano errori subito, e cosi' un redirect (R2 non ne manda).
+Il riepilogo dice quanti file hanno avuto bisogno di un nuovo tentativo e
+quante risposte 429 (troppe richieste) sono arrivate.
+
+Connessioni: ogni thread tiene aperta una sua connessione HTTPS (keep-alive,
+http.client) e la riusa per tutte le sue richieste, invece di aprirne una
+nuova per file: la stretta di mano TLS costava piu' della HEAD. Se una
+connessione riusata risulta chiusa dal server, la richiesta si ripete subito
+su una connessione nuova, senza contarla come nuovo tentativo; su una
+connessione appena aperta un errore e' un errore, e segue i nuovi tentativi.
+Le richieste partono al massimo dodici alla volta (--workers, default
+MAX_WORKERS). Fino al 24 novembre 2026 erano quattro, con una connessione nuova
+per richiesta: in CI raffiche piu' larghe di connessioni nuove ricevevano a
+caso "Connection reset by peer"; con il keep-alive le connessioni sono al
+piu' una per thread.
 
 Zero dipendenze. Esce con 1 se una voce non risponde come atteso.
 
 Uso:
-    python3 scripts/check_zoom_r2.py [--sha [--only PATH ...]] [--manifest PATH]
+    python3 scripts/check_zoom_r2.py [--sha [--only PATH ...]] [--workers N] [--manifest PATH]
 """
 from __future__ import annotations
 
 import argparse
 import concurrent.futures
 import hashlib
+import http.client
 import json
 import sys
+import threading
 import time
-import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -53,7 +65,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = REPO_ROOT / "assets" / "data" / "zoom-manifest.json"
 USER_AGENT = "MinDatabase-zoom-check/1.0"
 SITE_REFERER = "https://www.medievalvisions.com/"
-MAX_WORKERS = 4
+MAX_WORKERS = 12
+TIMEOUT = 60  # secondi, per connessione e lettura
 RETRY_DELAYS = (1, 3, 9)  # secondi prima del 2o, 3o e 4o tentativo
 
 
@@ -67,17 +80,57 @@ def build_request(url: str, full: bool) -> urllib.request.Request:
                                   headers={"User-Agent": USER_AGENT, "Referer": SITE_REFERER})
 
 
+_local = threading.local()  # connessioni aperte del thread: {(schema, host): conn}
+
+
+def _connections() -> dict:
+    if not hasattr(_local, "conns"):
+        _local.conns = {}
+    return _local.conns
+
+
+def _drop(key) -> None:
+    conn = _connections().pop(key, None)
+    if conn is not None:
+        conn.close()
+
+
+def _send(req: urllib.request.Request, key, fresh: bool):
+    """Una richiesta sulla connessione del thread (aperta ora se manca)."""
+    conns = _connections()
+    if fresh or key not in conns:
+        _drop(key)
+        cls = http.client.HTTPSConnection if key[0] == "https" else http.client.HTTPConnection
+        conns[key] = cls(key[1], timeout=TIMEOUT)
+    conn = conns[key]
+    conn.request(req.get_method(), req.selector, headers=dict(req.header_items()))
+    resp = conn.getresponse()
+    body = resp.read()  # anche per HEAD (vuoto): libera la connessione per la prossima
+    headers = {k.lower(): v for k, v in resp.getheaders()}
+    if resp.will_close:
+        _drop(key)
+    return resp.status, headers, body
+
+
 def fetch(url: str, full: bool):
-    """(status, headers, body|None) per l'URL; HEAD se full e' falso."""
+    """(status, headers, body|None) per l'URL; HEAD se full e' falso.
+
+    Riusa la connessione del thread. Se quella connessione, gia' usata, e'
+    stata chiusa dal server nel frattempo, ripete subito su una nuova."""
     req = build_request(url, full)
+    key = (req.type, req.host)
+    reused = key in _connections()
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            headers = {k.lower(): v for k, v in resp.getheaders()}
-            return resp.status, headers, resp.read() if full else None
-    except urllib.error.HTTPError as exc:
-        return exc.code, {k.lower(): v for k, v in exc.headers.items()}, None
-    except (urllib.error.URLError, OSError) as exc:
-        return f"error: {exc}"[:80], {}, None
+        try:
+            status, headers, body = _send(req, key, fresh=False)
+        except (OSError, http.client.HTTPException):
+            if not reused:
+                raise
+            status, headers, body = _send(req, key, fresh=True)
+    except (OSError, http.client.HTTPException) as exc:
+        _drop(key)
+        return f"error: {type(exc).__name__} {exc}"[:80], {}, None
+    return status, headers, body if full else None
 
 
 def is_transient(status) -> bool:
@@ -145,8 +198,12 @@ def main(argv=None) -> int:
     parser.add_argument("--only", action="append", metavar="PATH",
                         help="con --sha: GET + sha256 solo su questo file "
                              "(Images/<Cartella>/<file>, ripetibile); HEAD sugli altri")
+    parser.add_argument("--workers", type=int, default=MAX_WORKERS, metavar="N",
+                        help=f"richieste contemporanee (default {MAX_WORKERS})")
     parser.add_argument("--manifest", default=str(MANIFEST))
     args = parser.parse_args(argv)
+    if args.workers < 1:
+        parser.error("--workers deve essere almeno 1")
 
     data = json.loads(Path(args.manifest).read_text(encoding="utf-8"))
     base, entries = data["zoom_base"], data["files"]
@@ -159,17 +216,26 @@ def main(argv=None) -> int:
 
     def run(item):
         entry, full = item
-        response, attempts = fetch_with_retry(zoom_url(base, entry["path"]), full)
-        return entry, entry_problems(entry, response, full), attempts
+        statuses = []
+
+        def recording_fetch(url, full):
+            response = fetch(url, full)  # globale: i test lo sostituiscono
+            statuses.append(response[0])
+            return response
+
+        response, attempts = fetch_with_retry(zoom_url(base, entry["path"]), full,
+                                              fetcher=recording_fetch)
+        return entry, entry_problems(entry, response, full), attempts, statuses
 
     work = plan(entries, args.sha, only)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
         results = list(pool.map(run, work))
 
-    bad = [(e["path"], p, n) for e, p, n in results if p]
-    retried = [(e["path"], n) for e, _, n in results if n > 1]
-    for path, n in retried:
-        print(f"RETRY {path}: {n} tentativi")
+    bad = [(e["path"], p, n) for e, p, n, _ in results if p]
+    retried = [(e["path"], n, st) for e, _, n, st in results if n > 1]
+    n429 = sum(st.count(429) for *_, st in results)
+    for path, n, st in retried:
+        print(f"RETRY {path}: {n} tentativi ({', '.join(map(str, st))})")
     for path, problems, n in bad:
         print(f"FAIL {path}: {', '.join(problems)} (dopo {n} tentativi)")
     n_full = sum(1 for _, full in work if full)
@@ -179,8 +245,9 @@ def main(argv=None) -> int:
         mode = f"GET + sha256 su {n_full}, HEAD sugli altri {len(work) - n_full}"
     else:
         mode = "HEAD"
-    print(f"{len(entries) - len(bad)}/{len(entries)} zoom ok da {base} ({mode}); "
-          f"{len(retried)} con nuovi tentativi")
+    print(f"{len(entries) - len(bad)}/{len(entries)} zoom ok da {base} ({mode}, "
+          f"{args.workers} alla volta); {len(retried)} con nuovi tentativi; "
+          f"risposte 429: {n429}")
     return 1 if bad or unknown else 0
 
 

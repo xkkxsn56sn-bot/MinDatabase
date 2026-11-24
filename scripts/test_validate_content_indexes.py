@@ -61,7 +61,13 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    si ritentano, un 503 persistente si ritenta con attese 1, 3, 9. Poi
    --only: con --sha, GET + sha256 solo sui file indicati (anche con Zoom/
    davanti) e HEAD sugli altri; senza --only si scarica tutto come prima;
-   un percorso fuori dal manifest e' rosso.
+   un percorso fuori dal manifest e' rosso. Poi le connessioni riusate, su
+   un server HTTP/1.1 locale: richieste dello stesso thread su una sola
+   connessione, User-Agent e Referer su ognuna; una connessione chiusa dal
+   server si riapre subito senza contare un nuovo tentativo; una connessione
+   nuova rifiutata e' un errore transitorio; --workers 3 apre al piu' tre
+   connessioni; il default e' 12; un 429 si ritenta e si conta; --workers 0
+   e' rifiutato.
 o. Check 14, le immagini di museo senza licenza CC: una didascalia con «©»,
    «courtesy», «with permission» o «su concessione» e senza link a
    creativecommons.org vuole <figure data-no-download>; con il marcatore e'
@@ -493,16 +499,145 @@ check("m. R2: main --sha --only: GET su 2, HEAD sul terzo, verde",
       and "GET + sha256 su 2, HEAD sugli altri 1" in out, f"{rc} {calls} {out!r}")
 rc, calls, out = run_r2_main(["--sha"])
 check("m. R2: main --sha senza --only: come prima, GET su tutti",
-      rc == 0 and all(f for _, f in calls) and len(calls) == 3 and "(GET + sha256)" in out)
+      rc == 0 and all(f for _, f in calls) and len(calls) == 3 and "(GET + sha256, " in out)
 rc, calls, out = run_r2_main([])
 check("m. R2: main senza opzioni: come prima, HEAD su tutti",
-      rc == 0 and not any(f for _, f in calls) and len(calls) == 3 and "(HEAD)" in out)
+      rc == 0 and not any(f for _, f in calls) and len(calls) == 3 and "(HEAD, " in out)
 rc, calls, out = run_r2_main(["--sha", "--only", "Images/A/a-09-zoom.jpg"])
 check("m. R2: --only con un percorso fuori dal manifest: rosso",
       rc == 1 and "a-09-zoom.jpg: non e' nel manifest" in out)
 rc, calls, out = run_r2_main(["--sha", "--only", "Images/A/a-02-zoom.jpg"], body=b"\xff\xd8ZOOM")
 check("m. R2: --only con sha256 diverso sul file indicato: rosso",
       rc == 1 and "FAIL Images/A/a-02-zoom.jpg" in out)
+
+# Connessioni riusate: un server HTTP/1.1 locale conta connessioni e richieste.
+import http.server, socket, threading  # noqa: E401,E402
+
+
+class ZoomHandler(http.server.BaseHTTPRequestHandler):
+    protocol_version = "HTTP/1.1"  # keep-alive
+    log = []      # (porta del client, metodo, percorso, User-Agent, Referer)
+    hits = {}     # percorso -> richieste viste
+
+    def log_message(self, *args):
+        pass
+
+    def answer(self, with_body):
+        path = self.path
+        n = ZoomHandler.hits[path] = ZoomHandler.hits.get(path, 0) + 1
+        ZoomHandler.log.append((self.client_address[1], self.command, path,
+                                self.headers.get("User-Agent"), self.headers.get("Referer")))
+        if "missing" in path:
+            code, body = 404, b""
+        elif "busy" in path and n == 1:
+            code, body = 429, b""
+        else:
+            code, body = 200, BODY
+        self.send_response(code)
+        self.send_header("Content-Type", "image/jpeg")
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        if with_body:
+            self.wfile.write(body)
+        if "stale" in path:
+            self.close_connection = True  # chiude senza avvisare: il client la crede viva
+
+    def do_HEAD(self):
+        self.answer(False)
+
+    def do_GET(self):
+        self.answer(True)
+
+
+SRV = http.server.ThreadingHTTPServer(("127.0.0.1", 0), ZoomHandler)
+threading.Thread(target=SRV.serve_forever, daemon=True).start()
+LOCAL = f"http://127.0.0.1:{SRV.server_address[1]}"
+
+
+def reset_server():
+    ZoomHandler.log.clear()
+    ZoomHandler.hits.clear()
+    r2._local.__dict__.clear()  # nessuna connessione residua nel thread dei test
+
+
+def ran_in_thread(fn):
+    """Esegue fn in un thread nuovo, con connessioni sue."""
+    box = []
+    t = threading.Thread(target=lambda: box.append(fn()))
+    t.start()
+    t.join()
+    return box[0]
+
+
+reset_server()
+h1, g1, h2 = ran_in_thread(lambda: (r2.fetch(f"{LOCAL}/Images/A/a-01-zoom.jpg", False),
+                                    r2.fetch(f"{LOCAL}/Images/A/a-02-zoom.jpg", True),
+                                    r2.fetch(f"{LOCAL}/Images/A/a-03-zoom.jpg", False)))
+ports = {row[0] for row in ZoomHandler.log}
+check("m. R2 keep-alive: tre richieste dello stesso thread, una connessione",
+      len(ZoomHandler.log) == 3 and len(ports) == 1, f"{len(ports)} connessioni")
+check("m. R2 keep-alive: HEAD senza corpo, GET con corpo, esiti verdi",
+      h1[2] is None and g1[2] == BODY and h2[2] is None
+      and [row[1] for row in ZoomHandler.log] == ["HEAD", "GET", "HEAD"]
+      and all(r2.entry_problems(ENTRY, r, full) == []
+              for r, full in ((h1, False), (g1, True), (h2, False))))
+check("m. R2 keep-alive: User-Agent e Referer su ogni richiesta",
+      all(row[3] == r2.USER_AGENT and row[4] == r2.SITE_REFERER for row in ZoomHandler.log))
+
+reset_server()
+first, (second, n) = ran_in_thread(lambda: (
+    r2.fetch(f"{LOCAL}/Images/A/stale-zoom.jpg", False),
+    r2.fetch_with_retry(f"{LOCAL}/Images/A/a-01-zoom.jpg", False, sleep=waits.append)))
+check("m. R2 keep-alive: connessione chiusa dal server, si riapre subito senza nuovo tentativo",
+      first[0] == 200 and second[0] == 200 and n == 1
+      and len({row[0] for row in ZoomHandler.log}) == 2, f"{first[0]} {second[0]} {n}")
+
+dead = socket.socket()
+dead.bind(("127.0.0.1", 0))
+DEAD = f"http://127.0.0.1:{dead.getsockname()[1]}"
+dead.close()  # porta libera: nessuno ascolta
+err = ran_in_thread(lambda: r2.fetch(f"{DEAD}/x-zoom.jpg", False))
+check("m. R2 keep-alive: connessione nuova rifiutata: errore transitorio",
+      isinstance(err[0], str) and err[0].startswith("error: ") and r2.is_transient(err[0]), str(err[0]))
+
+
+def local_main(paths, *argv):
+    import contextlib, io, json, tempfile
+    files = [{"path": p, "bytes": len(BODY), "sha256": hashlib.sha256(BODY).hexdigest()} for p in paths]
+    with tempfile.TemporaryDirectory() as tmp:
+        mf = Path(tmp) / "m.json"
+        mf.write_text(json.dumps({"zoom_base": LOCAL, "files": files}))
+        with contextlib.redirect_stdout(io.StringIO()) as out:
+            rc = r2.main([*argv, "--manifest", str(mf)])
+    return rc, out.getvalue()
+
+
+reset_server()
+NINE = [f"Images/A/a-{i:02d}-zoom.jpg" for i in range(1, 10)]
+rc, out = local_main(NINE, "--workers", "3")
+conns = len({row[0] for row in ZoomHandler.log})
+check("m. R2 --workers 3: nove HEAD su al piu' tre connessioni, verde",
+      rc == 0 and len(ZoomHandler.log) == 9 and conns <= 3
+      and "9/9 zoom ok" in out and "3 alla volta" in out and "risposte 429: 0" in out,
+      f"rc {rc}, {conns} connessioni, {out!r}")
+check("m. R2: default di --workers e' 12", r2.MAX_WORKERS == 12
+      and "12 alla volta" in local_main(NINE[:1])[1])
+
+reset_server()
+rc, out = local_main(["Images/A/busy-zoom.jpg", "Images/A/missing-zoom.jpg"], "--workers", "2")
+check("m. R2: un 429 si ritenta, si conta nel riepilogo e nella riga RETRY",
+      "RETRY Images/A/busy-zoom.jpg: 2 tentativi (429, 200)" in out and "risposte 429: 1" in out, out)
+check("m. R2: un 404 resta rosso anche sul server locale",
+      rc == 1 and "FAIL Images/A/missing-zoom.jpg: status 404 (dopo 1 tentativi)" in out, out)
+try:
+    import contextlib, io
+    with contextlib.redirect_stderr(io.StringIO()):
+        r2.main(["--workers", "0"])
+    zero = None
+except SystemExit as exc:
+    zero = exc.code
+check("m. R2: --workers 0 rifiutato", zero == 2)
+SRV.shutdown()
 
 # --- n. Check 13: l'indice della galleria --------------------------------
 # Fino al 22 novembre 2026 build_gallery_index.py leggeva data-zoom-src al
