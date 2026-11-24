@@ -3,6 +3,83 @@
   "bucket": "mindatabase-zoom",
   "files": [
     {
+      "path": "Images/Alberto-Sozio/alberto-sozio-04-zoom.jpg",
+      "width": 1833,
+      "height": 896,
+      "bytes": 329053,
+      "sha256": "374ea09e053914420fb06e37678a58aedfa1f64512659c59108d7a441fd8cccb"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-05-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1168900,
+      "sha256": "81f3e4852880e89712ca4afac05992484c060313a597bc47ef9ba7d813e0073e"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-06-zoom.jpg",
+      "width": 2576,
+      "height": 1725,
+      "bytes": 1402131,
+      "sha256": "64459ef19d2659f8084854579951b5d2c80f3ba7eeb7b07bce38c83ef4f719cd"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-07-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1292049,
+      "sha256": "31ebf336edafa52dea2d59c145cc6bbf3fecda0de6d1093ef0477334774f5b56"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-08-zoom.jpg",
+      "width": 2278,
+      "height": 2576,
+      "bytes": 1235328,
+      "sha256": "5ff4ee2b96d56cd90656ee4e7d3aaf7496ee7d09eed8fb87385d69e52817c354"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-09-zoom.jpg",
+      "width": 606,
+      "height": 1798,
+      "bytes": 366008,
+      "sha256": "48d88f9f9710aca549162f3efaf5bda39f8616d9d10b7bc11c2a2133b238af76"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-10-zoom.jpg",
+      "width": 1800,
+      "height": 1640,
+      "bytes": 910063,
+      "sha256": "913a5897a638ed1dddd633e046c64e9f7f053d2f37ca136337ff66cc0d8207d7"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-11-zoom.jpg",
+      "width": 2240,
+      "height": 2568,
+      "bytes": 1177885,
+      "sha256": "d1de380c185d0572c9198b3ce24c1f170237a6f87244602528c6bcdefd6961a9"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-12-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 990933,
+      "sha256": "797db5843da110ee0a4d529f44919299a57b5ea20aa38bc39adb03da5a27a2a4"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-13-zoom.jpg",
+      "width": 1615,
+      "height": 2100,
+      "bytes": 469204,
+      "sha256": "1b733194ed3f5783232062da8e85fb2d457f1d57d5dd77b16f0cfcd049a4bb77"
+    },
+    {
+      "path": "Images/Alberto-Sozio/alberto-sozio-14-zoom.jpg",
+      "width": 516,
+      "height": 1306,
+      "bytes": 282159,
+      "sha256": "fe2aef104d240ab55aba95f8d704deb26be8a351baaa6aed170c2de08c1e0364"
+    },
+    {
       "path": "Images/Allegretto-Nuzi/allegretto-nuzi-04-zoom.jpg",
       "width": 1616,
       "height": 3000,
