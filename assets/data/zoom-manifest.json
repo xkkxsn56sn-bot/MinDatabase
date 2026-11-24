@@ -2019,6 +2019,90 @@
       "sha256": "7f099406b4a817ec8846715cb70dedfc72a6e47fae1ec7ea478e108c99fefd9e"
     },
     {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-02-zoom.jpg",
+      "width": 2576,
+      "height": 858,
+      "bytes": 312860,
+      "sha256": "b3ceb4abca10719d4c418183062ce0a73f623abdf125be0f41730bb4280a0895"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-03-zoom.jpg",
+      "width": 1884,
+      "height": 2576,
+      "bytes": 753639,
+      "sha256": "c03e7f9f5f102ccf21a3207465546079257de0a34b07c0bdd358b1f007783620"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-04-zoom.jpg",
+      "width": 901,
+      "height": 1470,
+      "bytes": 257233,
+      "sha256": "beca7a014c6229f6abe25917fe676c09f83c24317fe3c3b44e9c9318e753754d"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-05-zoom.jpg",
+      "width": 1147,
+      "height": 2576,
+      "bytes": 597321,
+      "sha256": "de7b2a239f20d4d7fec1fbf5bdc1c8fb44ddecb58c901bc7d685eec7f0c58cb2"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-06-zoom.jpg",
+      "width": 2063,
+      "height": 2576,
+      "bytes": 640575,
+      "sha256": "38b2cdef7d01d28fedafa205fa8b5a677919affb09066d0c32f666acfe75a41b"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-07-zoom.jpg",
+      "width": 1152,
+      "height": 2576,
+      "bytes": 438966,
+      "sha256": "da1f6d560662ea6e56ac53060a62aa6e79690ff35e725c93498a33ad876720f5"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-08-zoom.jpg",
+      "width": 861,
+      "height": 1401,
+      "bytes": 200447,
+      "sha256": "659c79e8aa5c0d3f942b192d17ddd966a8c71e2748c69efc8c87e4672d556ba6"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-10-zoom.jpg",
+      "width": 2576,
+      "height": 2124,
+      "bytes": 653636,
+      "sha256": "4406e772516bd9c19319e6d175020a285f9ae5f76b04506bafc4746b524dcc9e"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-11-zoom.jpg",
+      "width": 2576,
+      "height": 2196,
+      "bytes": 762036,
+      "sha256": "48e91d681bbaee4ad9f806d3205afe80b863f3796b8642c7239ef8de2b2e0f5f"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-12-zoom.jpg",
+      "width": 1784,
+      "height": 2448,
+      "bytes": 1024892,
+      "sha256": "770dee6fb853f39ca2afdc7e9f6a35957e4a865374edce749e48540858428c56"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-13-zoom.jpg",
+      "width": 1922,
+      "height": 2576,
+      "bytes": 771624,
+      "sha256": "f4990b98c5fc7b72efd621207bf785c2a0571305fed090e4aeb26852b42143dd"
+    },
+    {
+      "path": "Images/Maestro-di-Rosano/maestro-di-rosano-14-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 403933,
+      "sha256": "bcb67f259b0fb0dc82f8aa3d4208ff8ba655ffdcdf3e30b882043b62e6dbcca6"
+    },
+    {
       "path": "Images/Maestro-di-Santa-Cecilia/maestro-di-santa-cecilia-10-zoom.jpg",
       "width": 2262,
       "height": 3000,
