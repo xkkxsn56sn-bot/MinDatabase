@@ -1,435 +1,521 @@
 ---
 layout: entry
-title: Maestro del Bigallo
-subtitle: Anonymous Florentine painter of monumental crucifixes and Marian devotional panels
-dates: active c. 1215–1220 to c. 1250–1260
+title: "Maestro del Bigallo"
+subtitle: "Anonymous Florentine painter of the second quarter of the thirteenth century, named after the painted crucifix of the Bigallo, author of the dossal of San Zanobi and of a group of crosses and Madonnas"
+dates: "Active in Florence c. 1225–1265 (national catalogue); works dated from about 1215–1220 to about 1245"
+century: "XIII"
+
 meta:
-  - title: Identity
+  - title: "CORE DATA"
     pairs:
-      - label: Conventional name
-        value: "Master of the Bigallo (Maestro del Bigallo)"
-      - label: Personal name
-        value: Unknown — anonymous painter identified only by stylistic attribution
-      - label: Name origin
-        value: "Derives from large painted crucifix in Museo del Bigallo, Florence, which anchors his reconstructed corpus"
-      - label: Born
-        value: Unknown; presumed late twelfth century, Florence or Florentine contado
-      - label: Died
-        value: Unknown; circa 1250–1260 (terminus of documented artistic production)
-      - label: Nationality
-        value: Italian (Florentine)
-      - label: Active period
-        value: "c. 1215–1220 to c. 1250–1260"
-      - label: Media
-        value: Tempera on panel, possibly fresco
+      - label: "Name"
+        value: "Maestro del Bigallo, Master of the Bigallo Crucifix; a conventional name given by Richard Offner"
+      - label: "Name-giving work"
+        value: "Painted crucifix, c. 1225–1249 - Florence, Museo del Bigallo, 179 × 121 cm, from the oratory of the Bigallo"
+      - label: "Activity"
+        value: "Panel painter in Florence and its territory: painted crosses, Madonnas and a dossal of San Zanobi"
+      - label: "Workshop"
+        value: "One of the first organised workshops of Florentine painting before Cimabue, with a production of crosses on a repeated model"
+      - label: "Region"
+        value: "Florence, Fiesole and the Valdelsa"
 
-  - title: Family and Workshop
+  - title: "IDENTITY AND LIMITS"
     list:
-      - "Personal family details entirely undocumented: no archival records survive indicating parents, siblings, or marital status"
-      - "Workshop structure reconstructed from stylistic evidence and organizational scale of surviving commissions"
-      - "Operated one of the most fully organized workshops in pre-Cimabue Florence, suggesting familial or apprenticial network"
-      - "Likely workshop model: father-son and family-based artisan bottega typical of thirteenth-century Tuscan painting"
-      - "Probable apprentices may have included family members or relatives by marriage, following established conventions"
-      - "Workshop embedded in neighborhood networks linking painters to gilders, woodworkers, and pigment suppliers"
+      - "No document names him; his corpus is reconstructed by style around the crucifix of the Bigallo"
+      - "Not a painter of the Compagnia del Bigallo: the confraternity was founded later, and the name comes from the place where the crucifix is kept"
+      - "His dates rest on the dating of the works, which varies by a decade or more between scholars"
+      - "The Madonna of Fiesole and the Madonna of Certaldo are given to him with caution, the second because of its poor condition"
 
-  - title: Patrons
-    list:
-      - "Cathedral Chapter of Florence — Dossal of Saint Zenobius (altar crucifix over saint's tomb)"
-      - "Archbishop of Florence — ecclesiastical commissions, altar furnishings"
-      - "Parish communities — local altarpieces and devotional panels (Fiesole, Certaldo region)"
-      - "Confraternities and charitable brotherhoods — processional crucifixes, confraternal oratories"
-      - "Episcopal sees beyond Florence — Fiesole Cathedral (major commission c. 1215–1220)"
-      - "Landowners and local nobility — rural chapels and private devotional contexts"
-
-  - title: Key Works
-    list:
-      - "Dossal of Saint Zenobius — Museo dell'Opera del Duomo, Florence; enthroned bishop with flanking saints and four narrative miracle scenes; c. 1205–1230"
-      - "Madonna and Child (Fiesole Madonna) — Fiesole Cathedral; dated c. 1215–1220; major episcopal commission"
-      - "Painted Crucifix — Museo del Bigallo, Florence; monumental processional cross; gives artist his conventional name"
-      - "Madonna and Child Enthroned with Two Saints — Santa Maria a Bagnano, Certaldo; now in Museo di Arte Sacra, Certaldo"
-      - "Madonna and Child Enthroned with Two Angels (Madonna Bardini) — Uffizi, Florence; formerly in Stefano Bardini collection"
-      - "Crucifix — Art Institute of Chicago; acquired through A. A. Munger collection"
-
-  - title: Artistic Influences
-    list:
-      - "Byzantine tradition — hierarchic compositional formulae, gold-ground panels, iconic representation"
-      - "Lucchese school — mediation through Berlinghiero and local Tuscan workshop traditions"
-      - "Pisan tendencies — monumental scale and plasticity; integration of narrative and devotional imagery"
-      - "Fra Jacopo and mosaic culture of Baptistery of Florence — monumental decorative principles"
-      - "Late twelfth-century Florentine painting — transitional practices between *maniera greca* and emerging naturalism"
-
-  - title: Innovations
-    list:
-      - "Integration of moderate plasticity within Byzantine compositional framework — softened silhouettes and volumetric suggestions"
-      - "Humanized treatment of Christ Child — more playful, less severe than strict Byzantine prototypes"
-      - "Enlarged Virgin's head projecting beyond panel edge — monumental presence and compositional innovation"
-      - "Linear highlights on drapery creating volumetric effect while maintaining hieratic form"
-      - "Synthesis of Lucchese linear elegance with Pisan monumental scale"
-      - "Consistent iconographic control across Marian and Christological themes — standardized workshop models"
-
-  - title: Geography and Mobility
+  - title: "CHRONOLOGY"
     pairs:
-      - label: Primary production center
-        value: Florence
-      - label: Major documented activity zones
-        value: "Florence (cathedral and urban commissions), Fiesole (Episcopal see commission), Certaldo region (parish churches), greater Florentine contado"
-      - label: Mobility evidence
-        value: "Commissions from episcopal sees and rural parishes indicate regional reputation; works distributed across central Tuscany"
-      - label: Workshop location
-        value: "Presumed Florence or Florentine neighborhood; exact location unrecorded"
+      - label: "c. 1215–1220"
+        value: "Madonna of Fiesole cathedral, the earliest work proposed"
+      - label: "c. 1230"
+        value: "Dossal of San Zanobi, for the altar of the saint's relics in the crypt of Santa Reparata, dated by Boskovits within the episcopate of Giovanni da Velletri (1205–1230); 1240–1250 in the Zeri and national catalogues"
+      - label: "c. 1225–1249"
+        value: "Crucifix of the Bigallo; probably first half of the 1230s"
+      - label: "Later 1230s"
+        value: "Madonna and Child with two saints from Santa Maria a Bagnano, Certaldo"
+      - label: "c. 1235–1245"
+        value: "Crucifix of the Art Institute of Chicago, his latest known work, with a dead Christ"
+      - label: "1972"
+        value: "Restoration of the Bigallo crucifix by Leonetto Tintori"
+      - label: "2016"
+        value: "Publication of the restoration of the dossal of San Zanobi, edited by Marco Ciatti"
 
-  - title: Historical Significance
+  - title: "KEY WORKS"
     list:
-      - "Emblematic anonymous Duecento painter whose biography is constructed from visual evidence rather than archival record"
-      - "Early transitional figure between *maniera greca* and proto-naturalism of late thirteenth century"
-      - "Established monumental visual formulae for Florentine Marian devotion and Passion imagery"
-      - "Workshop organization and scale anticipate later organized botteghe of Cimabue and early Trecento"
-      - "Patron relationships reveal ecclesiastical demand for orthodox yet accessible devotional images"
-      - "Surviving works document continuity of Byzantine tradition within Florentine painting c. 1215–1260"
+      - "Painted crucifix - Florence, Museo del Bigallo"
+      - "Dossal of San Zanobi with four scenes - Florence, Museo dell'Opera del Duomo, inv. 9152, 109 × 274 cm"
+      - "Painted crucifix - Rome, Galleria Nazionale d'Arte Antica, Palazzo Barberini"
+      - "Painted crucifix - Chicago, Art Institute, 1936.120, 191 × 127.2 cm"
+      - "Madonna and Child - Fiesole, cathedral (tentative)"
+      - "Madonna and Child enthroned with two saints - Certaldo, Museo di Arte Sacra, from Santa Maria a Bagnano (tentative)"
+      - "Madonna and Child enthroned with two angels, c. 1230 - Florence, Uffizi, inv. 1890 n. 10301, 119.5 × 61 cm"
 
-  - title: Related Artists
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - Berlinghiero Berlinghieri
-      - Coppo di Marcovaldo
-      - Giunta Pisano
-      - Cimabue (later Florentine successor)
-      - Fra Jacopo (Baptistery mosaic tradition)
+      - "Madonna and Child enthroned with two angels - São Paulo, MASP, gift of Pietro Maria Bardi in 1992, dated c. 1275 by the museum: given to him by the museum, but beyond his known dates"
+      - "Madonna and Child enthroned with angels, formerly Acton collection, Villa La Pietra, Florence: in the Zeri catalogue as his, c. 1245–1255"
+      - "Madonna and Child enthroned with angels - Nantes, Musée d'arts: in the group of the master, heavily restored"
+      - "Madonna and Child enthroned with angels - Conservatorio delle Montalve, La Quiete, near Florence: in the group of the master, almost entirely repainted"
 
-  - title: Documentary Record
-    pairs:
-      - label: Archival evidence
-        value: "None — artist entirely anonymous in surviving Florentine documents and contracts"
-      - label: Attribution method
-        value: "Stylistic analysis and reconstruction of corpus through keystone work (Bigallo crucifix)"
-      - label: Modern scholarly construction
-        value: "Progressive attribution from early twentieth-century recognition through recent acquisitions in Florence and Chicago"
-      - label: Name origin
-        value: "Conventional art-historical designation (notname) deriving from single work's location rather than documented identity"
+  - title: "STYLE AND FORMATION"
+    list:
+      - "The Byzantine icon translated into large Florentine panels: frontal figures, gold grounds, highlights in fine lines"
+      - "The Lucchese model of the painted cross, from Berlinghiero, with the scenes of the Passion replaced by single figures"
+      - "A repeated scheme for the crosses: Christ in a roundel at the top, the Virgin between angels, angels in the terminals, the mourners at the sides, the cock and Saint Peter at the foot"
+      - "Narrative scenes reduced to rows of figures against the gold, as in the dossal of San Zanobi"
+
+  - title: "PATRONAGE AND SETTING"
+    list:
+      - "The chapter of the cathedral of Florence, for the altar of San Zanobi"
+      - "Confraternities and churches of the city for the painted crosses"
+      - "The cathedral of Fiesole and the parish churches of the Valdelsa for the Madonnas"
+
+  - title: "RECEPTION AND LEGACY"
+    list:
+      - "Named by Richard Offner; the attribution accepted by Sinibaldi, Longhi and Berenson"
+      - "Catalogued by Garrison (1949), studied by Tartuferi (1990, 2007) and by Boskovits in the Corpus of Florentine Painting (1993)"
+      - "A foundation of Florentine painting before Coppo di Marcovaldo and Cimabue"
+      - "Related pages on the site: San Zanobi"
 
 scholars:
+  - title: "Berenson, Bernard"
+    url: "/scholars.html#berenson-bernard"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
+  - title: "Ciatti, Marco"
+    url: "/scholars.html#ciatti-marco"
   - title: "Garrison, Edward B."
     url: "/scholars.html#garrison-edward"
+  - title: "Labriola, Ada"
+    url: "/scholars.html#labriola-ada"
   - title: "Longhi, Roberto"
     url: "/scholars.html#longhi-roberto"
   - title: "Offner, Richard"
     url: "/scholars.html#offner-richard"
-  - title: "Ragghianti, Carlo Ludovico"
-    url: "/scholars.html#ragghianti-carlo-ludovico"
   - title: "Sirén, Osvald"
     url: "/scholars.html#siren-osvald"
   - title: "Tartuferi, Angelo"
     url: "/scholars.html#tartuferi-angelo"
 ---
 
-The figure known as the *Maestro del Bigallo* (Master of the Bigallo) is an anonymous painter whose personal name, family ties, and civic identity have not survived in any document. His conventional name, or notname, derives from a large painted crucifix now in the Museo del Bigallo in Florence, which became the keystone for reconstructing his oeuvre through stylistic comparison. His date and place of birth are therefore unknown, and any attempt to assign him a specific year or parish of origin would go beyond the available evidence and into fiction. On the basis of securely attributed works, scholars place his activity between roughly 1215–1220 and the middle decades of the thirteenth century, within the orbit of Florence and its contado.
+## A Painter Named after a Crucifix
 
-This chronology implies that he was probably born in the last decades of the twelfth century, but even that remains an inference rather than a recorded fact. The same paucity of archival sources means that nothing certain can be said about his parents, siblings, or marital status. Similarly, both the date and the cause of his death are entirely undocumented, and can only be approximated by the apparent terminus of his artistic production, which seems to fall in the 1250s or 1260s. The “biographical” profile of the Master is thus almost entirely constructed from his panels and crucifixes, which function as a substitute for the missing written record. This reliance on stylistic evidence has encouraged art historians to speak cautiously about his life, preferring to reconstruct his workshop and artistic environment rather than a conventional family narrative. In this sense, the Master of the Bigallo is emblematic of many anonymous Duecento painters whose social existence is known only through the visual traces they left behind.
+The *Maestro del Bigallo* is the conventional name of an anonymous Florentine painter of the first half of the thirteenth century. The name comes from a painted crucifix kept in the Museo del Bigallo in Florence, which [Richard Offner](/scholars.html#offner-richard) recognised as the work of a distinct personality and made the starting point of his corpus.
 
-## Family background
+No document records his name, his family or his workshop. His activity is known only from a small group of works linked by style: two painted crosses in Florence and Rome, a third in Chicago, the dossal of San Zanobi in the Museo dell'Opera del Duomo, and Madonnas at Fiesole and Certaldo.
 
-In the absence of documentary data, the family background of the Bigallo Master has been approached through broader knowledge of the status of painters in early thirteenth‑century Tuscany. Painters at this date occupied an intermediate position between manual artisans and literate professionals, and many worked within family workshops in which fathers, sons, and other male relatives shared tasks across generations. Such botteghe commonly combined panel painting, gilding, and related crafts, and were embedded in neighbourhood networks that linked them to woodworkers, goldsmiths, and suppliers of pigments.
+The national catalogue gives his activity as 1225–1265. The works themselves are dated by scholars between about 1215–1220, for the earliest Madonna, and about 1245, for the cross in Chicago. These dates rest on style and are not fixed by documents.
 
-The Bigallo Master’s ability to run one of the most fully organized workshops in Florence before Cimabue, as noted by modern scholarship, suggests that he belonged to a milieu with sufficient capital and social standing to sustain large commissions. While no contracts or guild registrations identify his kin, it is reasonable to suppose that younger collaborators in his bottega may have been family members or relatives by marriage, as was typical. The discipline and consistency visible across his corpus point to an internal system of training and supervision akin to that of known family dynasties such as the Berlinghieri in Lucca. This hypothetical reconstruction of a family‑based workshop remains necessarily tentative, yet it is grounded in the social structures that governed artistic labour in his time. Thus, although individual names are lacking, the Master’s “family” can be envisaged as a small network of related artisans whose lives were tied to the rhythms of liturgical commissions and urban devotion.
+He is one of the first Florentine painters whose works can be grouped around a single hand. The repetition of the same scheme in his crosses suggests an organised workshop, producing images for the churches and confraternities of the city before the generation of Coppo di Marcovaldo and Cimabue.
 
-Another way of approaching the Master’s family dimension is to consider the workshop as an extended household in which affective and professional relationships were tightly interwoven. Apprentices, often taken in as adolescents from neighbouring districts, would have lived under the authority of the master, sharing space, food, and daily routines with his kin. Within such a setting, the transmission of skills in drawing, gilding, and tempera painting was inseparable from moral and religious instruction, since the production of devotional imagery presupposed a minimum of catechetical formation.
+The previous version of this entry was much longer and contained many errors. It devoted almost half its length to the history of the Compagnia del Bigallo, a confraternity founded in the 1240s, as if the painter had worked for it. It invented a family workshop of fathers and sons and listed among his patrons an archbishop of Florence, although Florence became an archbishopric only in 1419.
 
-The Bigallo Master’s repeated engagement with Marian and Christological themes, and his sensitive handling of episcopal sanctity in the dossal of Saint Zenobius, suggest that his workshop domestic life was saturated with liturgical imagery and scriptural narratives. The strict control of iconographic schemes visible across his Madonnas and crucifixes also implies a pedagogical environment in which the master’s models were carefully copied and internalized. In this sense, the “family” of the Bigallo Master comprised not only blood relatives but also a hierarchy of assistants whose identities are dissolved into the unified style of the bottega. The anonymity of these figures parallels the anonymity of the master himself, reinforcing the collective character of Duecento artistic production.
+It gave the Bigallo crucifix the dimensions of the cross in Chicago, described the dossal of San Zanobi with scenes and details that are not in it, and said that the Madonna in São Paulo came from the Matarazzo collection in the 1950s, when it was given to the museum by Pietro Maria Bardi in 1992. Its captions had no credits.
 
-Beyond the literal workshop, the Bigallo Master belonged to a broader “family” of Florentine painters who shared training, models, and sometimes patrons. Stylistic analysis situates him among artists who mediated between the older Lucchese currents associated with Berlinghiero and the more advanced Pisan tendencies, as well as with the monumental mosaic culture represented by Fra Jacopo at the Baptistery of Florence. This network of affinities suggests that the master’s formative years were spent in an environment where different regional idioms coexisted and intermingled.
+The account that follows treats the name and the corpus, the painted crosses, the Madonnas, the dossal of San Zanobi, the style of the painter and his place in Florentine painting. The catalogue examines the Bigallo crucifix in detail, the dossal, the crosses of Rome and Chicago, the Madonnas of Fiesole, Certaldo and the Uffizi, and the Madonna attributed to him in São Paulo.
 
-His crucifixes and Madonnas show particular convergences with works from Lucca and Pisa, indicating that his “artistic kinship” extended beyond Florence itself. In historiographical terms, therefore, the “family” of the Bigallo Master is partly constituted by such stylistic cousins, who share certain solutions in the treatment of drapery, physiognomy, and the distribution of highlights on gold grounds. Art historians have long employed familial metaphors—fathers, sons, and brothers in art—to describe these relationships, and the Bigallo Master has often been cast as an early “ancestor” of later Florentine developments. Although these analogies are figurative rather than genealogical, they illuminate the networked nature of his artistic identity and compensate for the absence of a documented lineage.
+The works are illustrated by photographs published on Wikimedia Commons and by the Art Institute of Chicago under free licences.
 
-Finally, one must consider the historiographical “family” into which modern scholarship has inserted the Master of the Bigallo. The progressive attribution of works to his hand, from the early recognition of the *Fiesole Madonna* to the more recent acquisitions in Florence and Chicago, has been the result of collective scholarly labour rather than the discovery of archival records. Each new scholarly proposal has effectively “adopted” further panels into his corpus, fashioning a coherent personality out of initially disparate fragments.
+## The Name and the Corpus
 
-The notname itself functions as a kind of surname, linking the painter indissolubly to the Bigallo crucifix and, by extension, to the civic and charitable history of Florence. Within this constructed genealogy, the master’s “descendants” are the later Florentine painters whom he influenced, while his “ancestors” are the Byzantine and Lucchese prototypes he reworked. This metaphorical family tree, though purely heuristic, has become central to the understanding of early Florentine painting. In sum, the Master’s family, whether literal or figurative, remains largely invisible in the archives but palpably present in the visual and scholarly networks that surround his works.
+The crucifix that gives the painter his name comes from the oratory of the Bigallo, the small building on Piazza San Giovanni opposite the Baptistery, and is now in the museum installed there. The national catalogue gives its dimensions as 179 by 121 centimetres and dates it to the second quarter of the thirteenth century.
 
-## Patrons and institutional context
+Offner first grouped other works around it and in 1933 coined the name Bigallo Master. His attribution was accepted by Sinibaldi, by [Roberto Longhi](/scholars.html#longhi-roberto) and by [Bernard Berenson](/scholars.html#berenson-bernard), and the cross had already been discussed by [Osvald Sirén](/scholars.html#siren-osvald) in 1922.
 
-The patrons of the Master of the Bigallo, like his family, are mostly anonymous, yet the institutional settings of his surviving works allow their social profile to be sketched with some precision. The earliest key commission in his reconstructed career is the dossal of Saint Zenobius, now in the Museo dell’Opera del Duomo, which originally stood at the altar over the saint’s tomb in the Florentine cathedral. This large panel, showing the enthroned bishop flanked by saints and surrounded by four narrative scenes of his miracles, must have been ordered by the cathedral chapter or by the archbishop himself in connection with the reconsecration of the altar between about 1205 and 1230.
+The name refers to the place, not to a patron. The Compagnia del Bigallo, from which the building takes its name, was a lay confraternity founded in the middle of the thirteenth century; there is no evidence that the painter worked for it, or that the crucifix was made for its oratory rather than brought there.
 
-The choice of such a prominent location implies a patron of high ecclesiastical rank, conscious of the need to renew the visual apparatus of the city’s most venerated shrine. Through this commission, the Bigallo Master emerged as a trusted interpreter of episcopal sanctity for the Florentine clergy. The scale and complexity of the panel also indicate that his workshop was capable of handling large, prestigious projects. This early association with the cathedral environment almost certainly enhanced his standing among other potential ecclesiastical patrons in the region.
+[Edward B. Garrison](/scholars.html#garrison-edward) catalogued the works of the master in his *Italian Romanesque Panel Painting* (1949). [Angelo Tartuferi](/scholars.html#tartuferi-angelo) discussed him in *La pittura a Firenze nel Duecento* (1990) and devoted to him a monograph, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi* (2007).
 
-A second cluster of commissions connects the master with parochial and rural contexts, where local clergy and lay communities sought imposing yet doctrinally orthodox images for their altars. The *Madonna and Child* at Fiesole Cathedral, dated around 1215–1220, attests to his early involvement with a major episcopal see outside Florence, whose bishop and chapter would have been eager to align their visual language with metropolitan trends. The later Madonna and Child enthroned with two saints from Santa Maria a Bagnano near Certaldo, now in the Museo di Arte Sacra of Certaldo, points instead to a smaller parish community that invested in an elaborate painted panel, perhaps with the support of local confraternities or landowners.
+[Miklós Boskovits](/scholars.html#boskovits-miklos) treated him in the volume of the *Corpus of Florentine Painting* on the origins of Florentine painting, 1100–1270, published in 1993 with [Ada Labriola](/scholars.html#labriola-ada) and Tartuferi. His chronology places the dossal of San Zanobi about 1230 and makes it the earliest firmly established work.
 
-The saints flanking the Virgin, though now difficult to identify with certainty, would have reflected local devotions and thus the particular spiritual geography of the patronal community. In these settings, the Bigallo Master’s role was to supply images that were at once theologically correct, visually compelling, and adaptable to diverse cultic needs. The persistence of his panels in such locations, even after later artistic fashions emerged, suggests that his patrons considered his work adequate to sustain long‑term devotional use.
+The corpus accepted in the recent literature comprises the dossal of San Zanobi, the crosses of the Bigallo, Rome and Chicago, and two Madonnas, at Fiesole and Certaldo, the second attributed with caution because of its condition. To these is added the Madonna with two angels in the Uffizi, the starting point of Tartuferi's monograph of 2007. Other Madonnas have been placed in his group: one formerly in the Acton collection at Villa La Pietra, one in the museum of Nantes, one at the Conservatorio delle Montalve, La Quiete, near Florence, and one in São Paulo; several are heavily restored or repainted.
 
-The Master’s notname highlights a third category of patrons, namely charitable confraternities operating within the urban fabric of Florence. The painted crucifix in the Museo del Bigallo, which gave him his appellation, was associated with the institution that occupied the building, a confraternity engaged in works of mercy and the care of abandoned children. While the original commissioning body for this crucifix has not been securely identified, its attachment to the Bigallo space indicates that such confraternal institutions valued large, emotive crucifixes as focal points of collective prayer and public processions. The master’s specialization in monumental crucifixes made him particularly suitable for responding to this devotional demand. His works for confraternal or semi‑confraternal patrons would have mediated between the elite ecclesiastical sphere of cathedral chapters and the more popular religiosity of lay brotherhoods. The Bigallo crucifix therefore stands at the intersection of civic charity, lay piety, and professional artistic practice.
+The sequence proposed in the literature begins with the Madonna of Fiesole, about 1215–1220, continues with the dossal and the Bigallo crucifix, about 1230, and the Madonna of Certaldo in the later 1230s, and ends with the Chicago crucifix, about 1240. The span suggests a career of some twenty-five years.
 
-In addition to ecclesiastical and confraternal patrons, the afterlives of the Bigallo Master’s paintings reveal another layer of patronage, that of collectors, antiquarians, and modern museums. The Madonna and Child enthroned with two angels now in the Uffizi—the so‑called Madonna Bardini—passed through the hands of the great Florentine dealer Stefano Bardini and later entered international collections before being repurchased for the Uffizi in the early twenty‑first century.
+The national catalogue's dates of activity, 1225–1265, reach further. They reflect the wider limits proposed for some works, such as the dating of the dossal to 1240–1250, rather than any documented work of the 1250s or 1260s.
 
-Although these later transactions did not involve the painter himself, they demonstrate the continuing capacity of his work to attract patrons across centuries, from medieval clerics to modern curators. The Chicago crucifix, acquired by the Art Institute through the A. A. Munger collection, likewise reflects the interest of twentieth‑century collectors in early Italian panel painting. Such modern patrons have played a decisive role in preserving, restoring, and exhibiting his works, thereby reshaping their meanings and audiences. The institutional patronage of museums has thus become the final chapter in the history of his commissions.
+## The Painted Crosses
 
-The very fact that the Master of the Bigallo specialized in large panel crucifixes and Marian images implies that his original patrons were deeply invested in the liturgical and doctrinal centrality of these themes. In late medieval churches, monumental crucifixes were often suspended above rood screens or attached to major altars, dominating the visual field of the nave and structuring the faithful’s encounter with the mystery of the Passion.
+The three crosses of the Bigallo, Rome and Chicago follow a single scheme. At the top a roundel holds the bust of Christ; below it a rectangular field shows the Virgin with raised hands between two angels; the letters IC XC stand above the head of the crucified Christ.
 
-Panels with the Virgin and Child, by contrast, served as images of intercession and protection, often associated with Marian feasts and processions. By responding to these articulated devotional needs, the master operated within a stable system of demand shaped by the liturgical calendar, episcopal directives, and local cults. His ability to satisfy both doctrinal requirements and aesthetic expectations ensured a steady flow of commissions, even if the individual names of the patrons are lost. In this sense, his patrons can be characterized not so much as isolated individuals but as institutional actors—chapters, confraternities, parish communities—whose collective choices determined the configuration of sacred space.
+At the ends of the arms, two angels stand in rectangular terminals. Beside the body of Christ, in the broad side panels of the cross, stand the Virgin and Saint John. At the foot, on a rocky mound, stands a cock, and beside it the figure of Saint Peter, recalling his denial.
 
-Finally, the relationship between the Bigallo Master and his patrons must be understood as dialogical rather than purely hierarchical. On the one hand, institutional patrons provided the financial resources, chose the iconographic subjects, and specified the locations for the works, thereby constraining the artist’s freedom. On the other hand, the painter, drawing on a broad repertory of Byzantine and Tuscan models, proposed concrete visual solutions, adjusted proportions, and introduced subtle innovations in gesture and expression. The continuity of his commissions across several decades suggests that patrons were satisfied with the results and perceived his style as appropriately solemn yet accessible. His capacity to integrate moderate plasticity, vivid colour, and clear narrative structure into traditional schemes would have been a key factor in these successful relationships. Thus, although the patrons remain unnamed, their expectations and responses are partially legible in the formal qualities of the surviving panels and crucifixes.
+The scheme derives from the painted crosses of Lucca, above all those of Berlinghiero, which the Florentine painter knew. But the Lucchese crosses fill the side panels with scenes of the Passion; the Maestro del Bigallo replaces them with the two large mourners, giving the cross a simpler, more monumental structure.
 
-## Painting style
+In the crosses of the Bigallo and Rome, Christ is alive, with open eyes and an upright body: the type of the *Christus triumphans*, the living Christ who triumphs over death. In the Chicago cross Christ is dead, with closed eyes and bowed head: the *Christus patiens*, which was spreading in central Italy from the work of Giunta Pisano.
 
-The painting style of the Master of the Bigallo has been described as a decisive contribution to the formation of a specifically Florentine idiom in the first half of the thirteenth century. Working within the constraints of the so‑called *maniera greca*, he nonetheless developed a language that combined the austerity of Byzantine prototypes with a more engaging and rhythmical treatment of form. His figures retain the frontal hieratic pose characteristic of icons, yet their silhouettes are slightly softened, and their draperies, though still constructed by means of linear highlights, exhibit a certain volumetric suggestiveness.
+The change of type in Chicago is one of the reasons for placing that cross last in the sequence. The Art Institute dates it about 1240, between 1235 and 1245, and describes it as the painter's latest known work.
 
-In his Madonnas, the Virgin’s head often projects beyond the upper edge of the panel, emphasizing her monumental presence and creating a subtle tension between the sacred figure and the material support. The Christ Child, while retaining the proportions of a small adult, is treated with a gentler expression and more playful gesture than in stricter Byzantine models. These adjustments do not amount to a radical naturalism, but they mark a step toward the more humanized devotional images that would later characterize Trecento painting. The master’s style is therefore best understood as transitional: intellectually loyal to Byzantine precedent, yet experimentally open within that framework.
+The cock at the foot is the most distinctive motif of the group. It recalls the words of Christ to Peter, that before the cock crowed he would deny him three times, and the repentance of the apostle. The national catalogue notes that some scholars have connected the motif with the confraternity of the Bigallo, but it appears on all three crosses.
 
-Colour and surface play a central role in his pictorial language. His panels are characterized by bright, saturated hues—deep reds for the Virgin’s mantle, luminous blues for undergarments, and generous applications of gold leaf for backgrounds and decorative motifs. Highlights are rendered with linear strokes of a lighter tone, especially on draperies, creating a patterning that is both ornamental and descriptive.
+The crosses are of moderate size, between about one and a half and two metres high. They were probably made for altars or for the walls of churches and oratories rather than for the great rood beams of cathedrals, and their repetition suggests a demand that a workshop could meet with a standard model.
 
-The gold ground, punched and tooled in places, serves not only as a symbol of heavenly space but also as a reflective surface that animates the figures when lit by candles. In the Madonna Bardini, for example, the red mantle is articulated by geometric folds defined through bands of darker and lighter red, while the underdress peeks out as a blue garment studded with small golden dots. Such devices give the figure a sense of solemn volume without abandoning the planar conventions of icon painting. The master’s chromatic sensibility aligns him with contemporary Lucchese and Pisan workshops, yet it is inflected by a distinctly Florentine interest in clear, brilliant tonalities.
+The faces of the three Christs, the type of the angels and the mourners, and the ornament of the borders, with their rows of red and black lozenges, are close enough to support a single workshop, and different enough to show the hand of the master developing over time.
 
-The handling of drapery in the Bigallo Master’s works deserves particular attention, since it reveals his negotiation between abstract pattern and incipient plasticity. The folds of garments, especially in the Madonnas, are arranged in broad, simplified bands that curve around the body, suggesting underlying mass while maintaining a strong graphic contour. Knees, elbows, and shoulders are indicated by accumulations of angular folds, but these remain subordinated to the overall harmony of the silhouette. In his crucifixes, the perizoma of Christ is treated with long, sweeping lines that emphasize the verticality of the figure and its insertion into the cross. The draperies of attendant figures, such as the Virgin and Saint John in narrative terminals, show a slightly more agitated rhythm, underlining their emotional involvement in the Passion. This differentiated handling of cloth allows the painter to modulate affect within a fundamentally hieratic language. The result is a style that reads simultaneously as ornamental and expressive.
+## The Madonnas
 
-The master’s treatment of faces and hands further illustrates his careful balancing of tradition and innovation. Facial types tend toward elongated ovals with large almond‑shaped eyes, thin noses, and small, closed mouths, in keeping with Byzantine norms. Yet the distribution of light and shadow on the cheeks and foreheads shows a keener interest in modelling, with subtle gradations rather than stark contrasts. The Virgin’s gaze is often slightly averted, directed away from the viewer, an effect that imparts a certain reserved majesty and has been recognized as a hallmark of his style. Hands are attenuated and somewhat schematic, with long fingers that curve gracefully in gestures of blessing or support. In the crucifixes, Christ’s hands, nailed to the crossbeam, retain a measure of serenity even when the body is shown in a more suffering mode, as in the later Chicago example. These physiognomic constants create a recognizable “signature” within the anonymity of the notname.
+The Madonnas of the Maestro del Bigallo belong to the type of the enthroned Virgin holding the Child, the *Maestà*, which was the principal devotional image of thirteenth-century Tuscany. They are tall panels with a projecting halo at the top, a form that gives the head of the Virgin a monumental presence.
 
-One of the most distinctive aspects of the Bigallo Master’s style is his handling of the crucifix iconography, especially the transition from Christus triumphans to Christus patiens. In the Bigallo and Barberini crucifixes, Christ appears alive on the cross, eyes open and body relatively upright, signifying his triumph over death and the theological victory of the spirit over the flesh. The anatomy is stylized, with a long torso and idealized musculature, and the expression is calm, almost regal. In the later crucifix now in Chicago, by contrast, Christ’s head is inclined, his eyes closed, and his body sags forward, embodying the suffering and mortal aspect stressed by later medieval devotion. This shift does not entail a complete abandonment of earlier conventions; the linear patterning of drapery and the ornamental borders of the cross remain essentially consistent. Rather, it reveals the master’s responsiveness to changing spiritual emphases within the same basic formal vocabulary. His crucifixes, therefore, offer a microcosm of the broader stylistic evolution of Tuscan painting in these decades.
+The Madonna of Fiesole cathedral is the earliest work proposed for the master, about 1215–1220. The Virgin, in a dark blue mantle sown with stars, holds the Child, who blesses and holds a scroll. Her large head, with its wide eyes and long nose, projects into the halo above the panel.
 
-Spatial organization and narrative structure also play roles in defining his pictorial approach. In multi‑scene works such as the dossal of Saint Zenobius, the central enthroned figure is framed by smaller narrative panels that recount the saint’s miracles, arranged symmetrically around him. The spatial settings of these narratives are minimal, typically consisting of simple architectural backdrops or schematic landscapes that provide just enough context to distinguish scenes. Figures are deployed in clear, legible groupings, and gestures are calibrated to convey key actions—resuscitations, processions, blessings—without excessive detail. In his Marian panels, the throne is treated as a stack of curved volumes, topped by a red cushion, with a roughly foreshortened footstool that hints at depth while remaining essentially planar. Angels hover symmetrically in the upper corners, filling empty space and reinforcing the vertical axis of the composition. These spatial conventions, while rudimentary from a later perspective, reflect a sophisticated understanding of how to coordinate hierarchy, narrative clarity, and decorative balance.
+The Madonna from Santa Maria a Bagnano, now in the Museo di Arte Sacra of Certaldo, shows the Virgin enthroned between two small standing saints. It is placed in the later 1230s, and its attribution is cautious because the lower part of the panel is largely lost.
 
-Finally, the material and technical aspects of the Bigallo Master’s work should be mentioned as integral to his style. He employed tempera on wooden panels, usually poplar or elm, with carefully prepared gesso grounds and extensive gilding, sometimes punched or stamped to enrich halos and borders. The paint layers are thin but precisely applied, with little evidence of pentimenti, suggesting that compositions were firmly established at the drawing stage. Incised lines under the paint indicate the use of compasses and rulers to determine the proportions of halos, crosses, and architectural elements. Such technical discipline is consistent with accounts of his workshop as a highly organized enterprise. The durability of his panels, many of which have survived in relatively good condition despite later interventions, testifies to the quality of his materials and methods. Thus, technique, no less than iconography or composition, forms part of the coherent stylistic personality designated by the name “Master of the Bigallo.”
+The Madonna with two angels in the Uffizi, dated about 1230, shows the Virgin enthroned on a cushioned throne, in a red mantle over a blue dress, with two angels flying towards her. The Child wears a garment shot with gold lines, in the Byzantine manner of chrysography.
 
-## Artistic influences and legacy
+The Madonna in São Paulo, given to the Museu de Arte by Pietro Maria Bardi in 1992, is attributed to the master by the museum but dated about 1275, a date beyond his known activity. The Madonnas formerly in the Acton collection and at Nantes, both heavily restored, and the Madonna of La Quiete, almost entirely repainted, complete the group.
 
-The artistic formation of the Master of the Bigallo is usually discussed in relation to the Lucchese and Pisan currents that dominated Tuscan painting at the turn of the thirteenth century. Scholars have long noted affinities between his works and those of the *Berlinghieri* family in Lucca, especially in the treatment of line, the prominence of gold grounds, and the hierarchical enlargement of central figures. These similarities suggest that he was familiar with Lucchese crucifixes and Marian panels, whether through direct contact or via works that circulated to Florence. At the same time, certain features, such as the more measured rhythm of his draperies and his interest in moderate volumetric effects, point toward a distinctively Florentine sensibility. The dialectic between Lucchese linearism and emerging Florentine plasticity is therefore a key component of his stylistic identity. In this sense, the Berlinghieri workshop can be regarded as a major, though not exclusive, influence on his early development. The Bigallo Master did not simply imitate Lucchese models but rather adapted them to the needs of Florentine patrons and spaces.
+These Madonnas show the master's dependence on Byzantine icons, especially in the frontal Virgin with the Child on her lap, and his transformation of the icon into a large altar panel. The halo projecting above the panel, carved and gilded in relief, is one of the means by which he gave the image presence.
 
-Pisan painting constitutes another important strand in the tapestry of his influences. The Maestro del Bigallo has been described as capable of updating himself on Pisan innovations, especially those associated with masters such as Giunta Pisano and with the sculptural and mosaic programmes of Pisa Cathedral and the Baptistery. In his later crucifixes, the increased emphasis on Christ’s suffering body and the more complex articulation of musculature resonate with Pisan developments. Elements such as the framing of the cross, the presence of narrative terminals, and certain ornamental motifs along the borders also suggest knowledge of Pisan exemplars. Yet, once again, these influences are mediated through a Florentine filter, producing a hybrid language that cannot be reduced to simple derivation. The master’s openness to Pisan solutions indicates both the permeability of regional boundaries and the desire of Florentine patrons to align themselves with prestigious external models.
+The differences between them are also marked. The Fiesole Madonna has heavy forms and a severe expression; the Certaldo Madonna, a lighter drawing and gilded highlights in the Child's robe; the Uffizi Madonna, the most elaborate throne and the most complete state of preservation. The group may include works of the workshop as well as of the master.
 
-Byzantine art, in both its panel and mosaic forms, provided the overarching matrix within which these more local influences were negotiated. The rigid frontality of the Virgin, the elongated proportions of saints, and the standardized facial types all derive ultimately from Byzantine prototypes disseminated through imported icons and mosaic cycles. In Florence, the Baptistery mosaics executed by Fra Jacopo in the 1220s and 1230s played a crucial role in shaping local taste, and the Bigallo Master’s work has been related to this milieu. His fidelity to Byzantine iconographic schemes—such as the Hodegetria‑type Virgin pointing to the Child and the formalized Christus triumphans—attests to a deep respect for these authoritative models. At the same time, his slight softening of features and his experiments with light and colour can be seen as early steps in the long process by which Tuscan painters gradually transformed the *maniera greca*. Thus, Byzantine art was both constraint and stimulus, a canonical reference against which innovation was measured.
+The Madonnas are the least secure part of his corpus, and the attributions of museums and collectors outside Florence should be read with that caution.
 
-The Bigallo Master’s influence on subsequent Florentine painting, though difficult to quantify precisely, has been acknowledged by several scholars. As one of the earliest Florentine panel painters whose oeuvre can be reconstructed with some confidence, he contributed to establishing a “median level” of artistic quality and iconographic reliability that later masters could either emulate or surpass. Painters such as the *Master of Saint Francis*, *Coppo di Marcovaldo*, and the *Master of the Magdalen* have been situated within a genealogy that passes through his workshop and its immediate circle.
+## The Dossal of San Zanobi
 
-Certain recurrent motifs—like the Virgin’s slightly averted gaze, the structuring of thrones, or the articulation of crucified bodies—reappear in modified form in mid‑thirteenth‑century Florentine works. While it would be exaggerated to credit him alone with initiating all these developments, his corpus offers a particularly clear window onto the stylistic vocabulary from which later Florentine innovations emerged. His legacy thus resides less in specific emulation than in the broader visual culture he helped to define.
+The dossal of San Zanobi, in the Museo dell'Opera del Duomo, is the most important work of the master and one of the most important Florentine paintings of the thirteenth century. It shows the bishop Zenobius enthroned between his deacons Eugenius and Crescentius, with four scenes of his miracles at the sides.
 
-In modern times, the Master of the Bigallo has also exerted an influence on the historiography of early Italian painting. The process of reconstructing his oeuvre from scattered works became a paradigmatic case for connoisseurship and for the use of notnames to organize anonymous production. Studies by [Miklós Boskovits](/scholars.html#boskovits-miklos), [Angelo Tartuferi](/scholars.html#tartuferi-angelo), and others have used his works to argue for a more nuanced understanding of Florentine Duecento painting, challenging earlier narratives that privileged only a few celebrated names. The place assigned to him in major surveys and museum displays has contributed to a reevaluation of the so‑called “minor” masters who nonetheless sustained the daily devotional life of medieval communities. In this respect, his influence extends beyond stylistic matters into the realm of methodological reflection. The Bigallo Master has become a touchstone for discussions about the relationship between anonymous artisans, named geniuses, and the collective fabric of artistic production.
+It was made for the altar over the relics of the saint in the crypt of Santa Reparata, the cathedral that preceded Santa Maria del Fiore. Its commission by the chapter of the cathedral places the master at the centre of the religious institutions of the city.
 
-## Travels, mobility, and the circulation of models
+Boskovits dated it about 1230, within the episcopate of Giovanni da Velletri, who reconsecrated the altar; the Zeri and national catalogues place it in 1240–1250. On either reading it is one of the earliest examples of the hagiographic panel combining an image of the saint with scenes of his life.
 
-No documentary evidence records concrete journeys undertaken by the Master of the Bigallo, and any detailed itinerary for him would be speculative. Nevertheless, the geographical distribution and stylistic character of his works allow certain inferences about the mobility of his art and perhaps of the artist himself. All securely attributed panels and crucifixes are associated with Florence and its environs, or with institutions that historically drew heavily on Florentine artistic labour. The Madonna at Fiesole Cathedral, the dossal of Saint Zenobius for the Florentine cathedral, the Certaldo panel, and the crucifixes now in Florence, Rome, and Chicago together delineate a sphere of activity centred on the Arno valley. This concentration suggests that, even if he travelled for commissions, his primary base of operations remained Florence. The stylistic evidence of Lucchese and Pisan influences raises the question of whether he visited those cities or absorbed their models through works imported to Florence. Since both scenarios are possible, scholars have preferred to speak of the circulation of models rather than of specific journeys.
+The four scenes, identified in the national catalogue, show the pilgrim from France entrusting her son to the bishop, the raising of the dead boy, the raising of the messenger of Saint Ambrose and the freeing of a possessed boy. They are told in rows of figures against the gold.
 
-The networks of trade and ecclesiastical communication that linked Tuscan cities in the early thirteenth century provided ample channels for the dissemination of images, patterns, and ideas. Icons and crucifixes could be transported relatively easily along established routes between Lucca, Pisa, and Florence, whether as finished works or as templates for local replication. The Bigallo Master’s acquaintance with Lucchese and Pisan conventions may thus have been mediated by such movements of objects rather than by personal travel. At the same time, major ecclesiastical projects, such as the mosaics in Florence’s Baptistery or the renovation of cathedral altars, often attracted artists and workshop representatives from other centres, creating temporary nodes of intense exchange. In such contexts, the Florentine painter could have encountered colleagues, discussed technical matters, and observed works at close quarters without ever leaving his home city. The circulation of artistic knowledge was therefore as much a function of mobile images and itinerant specialists as of individual travel by named masters.
+A later inscription beside the throne claims that the panel was made from the wood of the elm that flowered when the saint's body passed, a tradition reflected in the title of the volume on its restoration, *Fatta dell'olmo della piazza*, edited by [Marco Ciatti](/scholars.html#ciatti-marco) in 2016.
 
-Within this framework, the Master’s “travels” can be understood metaphorically as the journeys taken by his works and their stylistic features over time. The crucifix now in the Art Institute of Chicago, for instance, originated in a Tuscan ecclesiastical setting and later crossed both geographic and cultural boundaries to enter a North American museum collection. Similarly, the Madonna Bardini moved from a presumably Tuscan church context into the hands of nineteenth‑ and twentieth‑century collectors before returning to Florence as part of the Uffizi’s holdings. These trajectories have altered the audiences, functions, and interpretive frameworks of his paintings. The mobility of the objects has, in a sense, replaced the untraceable mobility of the artist, making his oeuvre accessible to a global public. Through exhibition, reproduction, and scholarly dissemination, his style has travelled far beyond the relatively compact Tuscan world in which it was first conceived.
+The dossal is treated at length in the entry on [San Zanobi](/Content/Saints/San-Zanobi.html), where its scenes are illustrated in detail. In this entry it is discussed as a work of the master, for its place in his career and its style.
 
-Finally, the circulation of the Bigallo Master’s stylistic vocabulary within thirteenth‑century Florence may be seen as a form of internal travel. Motifs, compositional schemes, and even specific gestures from his panels appear echoed and transformed in the works of contemporaries and successors, passing from one workshop to another like itinerant formulas. These transfers could occur through direct copying, through shared use of pattern books, or through the visual memory of apprentices who moved between ateliers. The spread of such elements within the city’s artistic fabric suggests that his workshop functioned as a significant node in the local network of pictorial exchange. Thus, even without documented physical journeys, the Master of the Bigallo participated in a dense web of movements—of objects, forms, and ideas—that linked Florence to its region and to the wider Mediterranean.
+The panel's later history is unknown until the eighteenth century, when it was in the collection of the Marchese Tacoli Canacci at Parma. It passed to the Galleria Nazionale of Parma and returned to Florence in 1928.
 
-## The Compagnia del Bigallo
+The dossal shows the master as a narrative painter as well as a painter of crosses and icons. Its scenes have the same figure types as the crosses, with large eyes, long noses and simple outlines, and the same rows of standing figures.
 
-The *Compagnia del Bigallo* stands as one of the most historically significant lay confraternities to emerge from thirteenth-century Florence, born out of a precise convergence of religious crisis, political anxiety, and Mendicant reforming zeal. Its foundational logic cannot be understood in isolation from the broader ideological conflicts tearing through the Italian communes during the central Middle Ages.
+## Style and Place in Florentine Painting
 
-### The Anti-Heretical Imperative
+The style of the Maestro del Bigallo is founded on the Byzantine icon, transmitted to Tuscany through Lucca and Pisa. His figures are frontal and symmetrical, set against gold grounds; their faces have large almond eyes, long thin noses and small mouths; their draperies are drawn in firm lines with highlights in parallel strokes.
 
-The immediate and overriding reason for the confraternity's formation was the perceived threat of the Cathar heresy<a href="/endnotes.html#fn-catharism" class="footnote"><sup>1</sup></a> — known in Florentine sources as the eresia dei Catari or Patarini — which had penetrated deeply into the social fabric of the Tuscan communes by the mid-thirteenth century. The Cathar worldview was radically dualist, positing that God was not the Creator of all visible things, a position that struck at the theological foundations of the Roman Church and, in the perception of orthodox contemporaries, threatened the entire moral order of Christian society. This religious crisis was not merely doctrinal: it manifested in street-level violence, political factionalism, and the persistent destabilization of civic life in Florence and the surrounding contado.
+His closest model was the painting of Lucca, especially Berlinghiero and his workshop, whose crosses provided the scheme of his own. From Lucca he took the angels in the terminals, the Virgin between angels at the top and the ornament of the borders.
 
-It was within this fraught context that the Dominican inquisitor Fra Pietro da Verona — later canonized as Saint Peter Martyr — arrived in Florence in 1244, charged with the task of suppressing the Patarine movement. His approach was characteristically Mendicant: rather than relying solely on coercive ecclesiastical authority, he mobilized the laity itself. Through impassioned public preaching, he directed the energy of orthodox Florentines into organized resistance, founding companies of faith — compagnie della fede — with particular devotion to the Virgin Mary. The confraternity that would become the Bigallo was born in this precise moment of mobilized lay piety.
+He simplified these models. His crosses have no narrative scenes; his figures are few and large; his colours are limited to strong blues, reds and greens on gold. The effect is of clarity and order rather than of richness.
 
-### From Miles Fidei to Charitable Institution
+His flesh tones are dark and olive, modelled with darker shadows and few highlights. The faces of his Christs, with their long noses and narrow eyes, have a melancholy expression that distinguishes them from the more serene Lucchese types.
 
-The founding logic of the Compagnia was explicitly military before it was charitable. According to seventeenth-century Florentine historian Ferdinando Leopoldo del Migliore<a href="/endnotes.html#fn-ferdinando-leopoldo-del-migliore" class="footnote"><sup>2</sup></a>, citing the confraternity's own Libro delle Entrate, Pietro da Verona appointed a crusader knight, named Bzovio, as Capitano contro gli Eretici, and organized the leading citizens of the twelve *gonfaloni* (neighborhood standards) of the city into an armed militia capable of confronting the heretics by force. The members wore a red cross on white, the visual language of crusader identity, fusing the imagery of anti-Muslim holy war with the domestic suppression of internal religious dissent. The confraternity initially bore the name Compagnia di Santa Maria, a Marian dedication that framed its militant purpose within the intercessory protection of the Virgin.
+The change from the living Christ of the Bigallo and Rome to the dead Christ of Chicago shows the master responding to the new type introduced by Giunta Pisano. In Chicago the body curves slightly, the head falls on the shoulder and the eyes are closed.
 
-This original martial configuration was not, however, the Bigallo's final form. The institutional identity of the confraternity underwent a profound transformation as the acute phase of the anti-Cathar campaign subsided. As the historian Ferdinando Leopoldo del Migliore records, the captains *first gave themselves the title of the Company of Saint Mary, and then changed it to the Misericordia, in order to perform pious works for which they later became famous*. The pivot from armed confraternity to charitable brotherhood was not accidental but structural: it reflected a broader thirteenth-century pattern in which the Mendicant orders channeled lay religious energy from crusading zeal toward the *opera misericordiae* — the seven corporal works of mercy — as a means of constructing a sanctified urban community in the wake of heretical disruption.
+His workshop produced works for Florence and its territory, from the cathedral to the parish churches of the Valdelsa. The number of surviving crosses on the same model points to a production organised to meet a growing demand for images in the city.
 
-The theological mechanism underlying this transition was more coherent than a simple institutional rebranding. Dominican<a href="/endnotes.html#fn-dominic-guzman" class="footnote"><sup>3</sup></a> preaching had always framed the suppression of heresy not merely as a coercive operation but as the restoration of a properly ordered Christian *societas*, in which each member fulfilled duties of mutual care enjoined by scripture and canon law. Pietro da Verona and his successors drew consistently on Matthew 25:31–46 — the parable of the Last Judgment in which Christ identifies himself with the hungry, the stranger, the sick, and the prisoner — to argue that charitable works were not supplementary to orthodox combat but constitutive of it.
+In Florentine painting he stands before Coppo di Marcovaldo and Cimabue, in the decades when the city was beginning to develop its own school. His works show that Florence already had, in the 1230s, painters capable of large altar panels and monumental crosses.
 
-To be a *miles fidei*, a soldier in the faith, was ultimately to be a servant of the poor, because the Cathar vision of the material world as intrinsically evil implied a contemptuous indifference to bodily suffering. By performing the corporal works of mercy with conspicuous and organized devotion, the confraternity enacted a counter-theology in practice: it declared that bodies matter, that creation is good, and that the suffering flesh of the neighbor is the suffering flesh of Christ. The shift from sword to bandage was, within this logic, a deepening of the original mission rather than an abandonment of it.
+The anonymity of the master, and the uncertainty of his dates, make him a construction of modern scholarship. But the coherence of the crosses, the dossal and the Madonnas gives that construction a solid basis, and his works remain among the earliest monuments of Florentine panel painting.
 
-The practical mechanics of the transformation unfolded gradually over the course of the later 1240s and 1250s, as the most acute phase of Cathar penetration in the Florentine contado was suppressed through a combination of inquisitorial prosecution and the deliberate marginalization of heretical networks from civic life. With armed vigilance less urgently required, the confraternity's capitani began redirecting the institutional energy — the membership rolls, the accumulated funds, the habit of collective assembly — toward the management of hospitals, the accompaniment of the condemned, the burial of the destitute, and the care of the sick.
+## Catalogue Entry
 
-These activities were not invented ab novo; many had been practiced informally by pious laypeople for generations. What the confraternity provided was a formal structure of accountability and a shared spiritual identity that transformed sporadic individual charity into a disciplined collective program. The Libro delle Entrate, cited by del Migliore, records the steady accumulation of properties and bequests that financed this expansion, showing that elite Florentine families were willing to endow an institution that had proved capable of outlasting its founding crisis.
-
-The change in corporate identity was registered materially in several dimensions simultaneously. The uniform of the militia — the red cross on white — gave way to the hood and tunic of the penitent brother, a garment shared across many Italian confraternities and connoting humility, anonymity, and the renunciation of social distinction in the service of the afflicted.
-
-The *capitano contro gli eretici* was eventually superseded by officers responsible for distributing alms, administering the hospital at Fontana Viva, and supervising the confraternity's gradually expanding portfolio of works. Assembly, which had once gathered armed men in preparation for confrontation, became the regular meeting of brothers for communal prayer, the reading of constitutions, and the assignment of charitable duties according to a rota. The internal culture of the militia — its emphasis on fraternal solidarity, collective discipline, and willingness to act on behalf of the community — translated with remarkable directness into the culture of the charitable brotherhood, because both forms of association demanded the subordination of individual interest to a shared religious end.
-
-The confraternity's adoption of the name *Misericordia*, which it used interchangeably with Bigallo across the second half of the thirteenth century, carried its own doctrinal weight. *Misericordia* — mercy, literally the condition of having one's heart (*cor*) moved by another's wretchedness (*miser*) — was one of the cardinal attributes of God in the theological vocabulary of the thirteenth century, amplified by the newly translated Aristotelian ethics and by the affective theology of the Franciscan and Dominican schools.
-
-To call the confraternity by this name was to claim that its charitable action participated in, and made visible, the very quality by which God redeemed fallen humanity. The seven corporal works of mercy — feeding the hungry, giving drink to the thirsty, clothing the naked, sheltering the traveler, visiting the sick, ransoming the captive, and burying the dead — were formalized as a programmatic catechism precisely in the mid-thirteenth century, with Pietro di Giovanni Olivi, Thomas Aquinas, and other Mendicant theologians systematizing the scriptural precedents into a teachable grid of obligations. The Bigallo confraternity's adoption of this program was therefore not a local improvisation but a participation in one of the defining pastoral projects of thirteenth-century Catholicism.
-
-Equally important to understand is what did not change during the transition. The membership base of the confraternity — drawn from the leading families of the twelve *gonfaloni* — remained substantially elite, and the charitable organization retained its character as an institution of the Florentine ruling class performing services on behalf of those excluded from that class. This social asymmetry was not incidental but structural: the confraternity's charitable legitimacy depended on a visible gap between the givers and the recipients, and the brothers' willingness to touch, carry, and bury the bodies of the poor was experienced as an act of deliberate social inversion — a rehearsal of the eschatological reversal in which the last would be first — rather than as a simple expression of natural sympathy. The crusading mentality survived in this transposed form: the enemy was no longer the Patarine heretic but poverty, disease, and the social death of abandonment, enemies that were, if anything, more ubiquitous and less easily defeated.
-
-The commissioning and public display of sacred images was integral to this process of institutional self-definition. The painted crucifix from the hand of the Master of the Bigallo, which gave the painter his notname, was not merely a devotional object but a programmatic statement about the confraternity's theological identity. A monumental Christus triumphans made visible the orthodoxy the brothers had defended in arms and now defended through charity. The image asserted, against Cathar denial, the full reality and redemptive dignity of the incarnate body. By placing it at the center of their devotional and processional life, the confraternity publicly identified their works of mercy with the logic of the Incarnation and the Passion: the body of the poor person washed, fed, or buried was implicitly the body of Christ, just as the body nailed to their crucifix was implicitly the body of every person for whom the brothers worked. Sacred art, in this context, was not ornament but argument — a visible theology that rehearsed, for members and onlookers alike, the convictions that made the institution's charitable mission intelligible and urgent.
-
-### The Compagnia di Santa Maria Maggiore and the Hospital
-
-It is important to distinguish the two institutional threads that would eventually merge under the Bigallo's name. The confraternity that would be called the Bigallo *stricto sensu* originated as the *Compagnia di Santa Maria Maggiore*, which, by 1245, assumed ownership and management of a hospital located at a site called Fontana Viva ("Fonte Viva"), approximately five miles outside Florence in the direction of Bagno a Ripoli. The hospital, dedicated to Santa Maria alle Fonti, took its popular name, Bigallo, from the locality, and the confraternity gradually assumed that toponym as its own identity, officially becoming the *Compagnia di Santa Maria del Bigallo*. The institutional crest — a white rooster (gallo) on a blue field with the initials S.M.B. (Sancte Marie de Bigallo) — formalized this identification.
-
-The hospital of Santa Maria alle Fonti occupied a position of considerable strategic and devotional significance in the extra-urban geography of the Arno valley. The site known as Fontana Viva — the "living fountain" — was a spring-fed locality in the Ripoli *piviere*, the rural district to the south-east of Florence that stretched toward the hills of Bagno a Ripoli and the first foothills of the Chianti. In the thirteenth century, this territory lay along one of the secondary roads that connected the city to the Valdarno and beyond, a route frequented by pilgrims, merchants, and travelers moving between Florence and the abbeys and sanctuaries of the Apennine hinterland. The presence of a spring gave the site its identity: *fonti* and *fontana viva* both denote a naturally flowing water source, and in a landscape where reliable water defined settlement patterns and rural economies, such a spring constituted a genuine resource around which charitable infrastructure could crystallize.
-
-Hospitals in thirteenth-century Tuscany were not primarily medical institutions in the modern sense but rather *xenodochia* (houses of hospitality) whose canonical mandate encompassed sheltering pilgrims and travelers, feeding the hungry, tending the sick poor, and burying those who died without family. The hospital of Santa Maria alle Fonti thus served the transient population of the road as much as the resident poor of the surrounding countryside. Its dedication to the Virgin Mary was not incidental: Marian hospitals were among the most common institutional forms produced by thirteenth-century charitable piety, partly because the Virgin's intercessory role as *mediatrix* mapped naturally onto the hospital's function as a threshold institution mediating between the living and the dying, between the city and the road, and between the social body and its excluded members. The *fonti* of the dedication — the waters — may have carried an additional valence, evoking baptismal regeneration and the purifying waters of Marian devotional springs, though no specific miraculous tradition is recorded for the Bigallo site. What is clear is that the Marian dedication aligned the hospital with the confraternity's founding identity as the Compagnia di Santa Maria, creating a seamless continuity between the urban confraternity and its rural outpost under a single celestial patroness.
-
-The physical disposition of the hospital is imperfectly documented, but the pattern of comparable Tuscan foundations suggests a compound consisting of a church or oratory, a dormitory or ward for the sick and wayfarers, a kitchen and storehouse, and ancillary agricultural buildings that enabled the foundation to be partially self-sustaining. The management of such a compound by a lay confraternity rather than by a religious order was not unusual in the mid-thirteenth century; indeed, the Mendicant reform programme had actively encouraged the devolution of charitable infrastructure to lay brotherhoods as a means of extending orthodox institutional reach beyond the boundaries of the cloister. For the Compagnia di Santa Maria Maggiore, assuming stewardship of the Fontana Viva hospital represented both a logistical burden and a spiritual gain: it anchored the confraternity's charitable identity to a specific, visible, and geographically legible institution, transforming an association of devout laypeople into a management body with a defined territorial responsibility.
-
-#### From Place-Name to Institutional Identity: The Topographical Logic
-
-The displacement of the formal dedication — Santa Maria alle Fonti — by the vernacular toponym Bigallo in the confraternity's identity is a process that reveals important features of how medieval Florentines understood the relationship between institutions and landscapes. The name *Bigallo* designated the locality before it designated the hospital and before it designated the confraternity. It belonged, in the first instance, to the land rather than to any human institution, and its adoption by the confraternity reflected the common medieval practice by which institutions rooted in particular places came to be known by those places, regardless of their formal ecclesiastical titulus.
-
-In the Florentine documentary record, the transition from the formal name to the toponym is gradual and overlapping. Thirteenth-century sources tend to use the full form *Compagnia di Santa Maria* or *Compagnia di Santa Maria Maggiore*, while the fourteenth century sees the progressive intrusion of *Bigallo* as a working shorthand, eventually crystallizing into the official composite *Compagnia di Santa Maria del Bigallo*. This composite form is itself revealing: it preserved the Marian dedication in the genitive — the company *of* Saint Mary *of the Bigallo* — making explicit the layered identity in which the celestial patroness and the territorial anchor were held together. The confraternity was thus simultaneously a Marian association and a place-based institution, and neither dimension could be reduced to the other.
-
-The consequence of this naming logic was that when the confraternity moved its operational centre back into Florence — establishing itself in the Gothic Loggia overlooking Piazza San Giovanni by the mid-fourteenth century — it carried the extraurban toponym with it, transplanting the rural geography of Bagno a Ripoli into the heart of the civic space immediately adjacent to the Baptistery and the Cathedral of Santa Maria del Fiore. The juxtaposition is pointed: a confraternity that had taken its name from a spring-fed hospital five miles outside the walls was now headquartered within sight of the most prestigious sacred monuments of the Florentine commune. The toponym Bigallo thus operated as a kind of institutional memory, preserving in the daily language of Florentines a trace of the organization's extramural origins even as it became an increasingly urban, prestigious, and politically integrated body.
-
-#### The Etymology of "Bigallo" and Its Contested Meanings
-
-The name "Bigallo" itself attracted popular etymological speculation almost from the moment it entered general usage, and the difficulty of pinning down its derivation has made it a minor site of scholarly contention that illuminates the broader problem of medieval place-name formation in the Tuscan countryside.
-
-The most frequently cited interpretation is that proposed by the seventeenth-century Florentine chronicler Ferdinando Leopoldo del Migliore, who connected the word to the rooster (*gallo*) in the institution's heraldic crest, glossing "Bigallo" as *Bi-gallo*, meaning "two roosters." This reading is transparently motivated by the desire to derive the toponym from the crest, or the crest from the toponym, creating a satisfying closed loop of institutional symbolism. It has the additional appeal of ingenuity, since the white rooster on the blue field of the confraternity's arms is indeed visually prominent and would have been the most widely recognized emblem of the institution for any Florentine observing the brothers in procession. Modern scholarship, however, regards the *Bi-gallo* etymology as a folk etymology in the technical linguistic sense: a plausible-sounding derivation constructed retrospectively by speakers who wished to impose a legible meaning on an opaque name, rather than a historically grounded account of how the name actually arose.
-
-The probable derivation of "Bigallo" lies not in the heraldic vocabulary of the confraternity but in the pre-existing landscape lexicon of the Ripoli *piviere*. Several competing proposals have been advanced by Tuscan toponomastics. One line of argument traces the name to a Latin or late-antique root connected to *via* or *viario* (a road or road-side property), suggesting that "Bigallo" designated a tract of land adjacent to the secondary road between Florence and Bagno a Ripoli. Another proposal connects the element *-gallo* not to the bird but to a personal name — the Gallo family or a homonymous landowner — which appears with some frequency in the land-registry documents (*estimi* and *catasti*) of the Florentine contado, where rural localities were routinely named after the families that had historically dominated them. Under this reading, "Bigallo" would be a contraction of a possessive form such as *prato* or *podere del Gallo*, with the prefix *bi-* serving as a topographical qualifier (perhaps indicating a bifurcation of paths, a second holding, or a boundary marker) rather than as a numeral. Neither hypothesis has been conclusively proven, and the absence of early medieval documentation for the site — before the confraternity's involvement in the thirteenth century — makes it unlikely that the question will be definitively resolved.
-
-What is particularly striking from an institutional perspective is the irony that the rooster — *gallo* — should appear both in the possible etymology of the place-name and in the heraldic crest of the confraternity, and yet in neither case is the bird's meaning straightforward. In the heraldic context, the white rooster on a blue field may have been chosen precisely because it punned on the toponym, regardless of whether the toponym itself derived from any actual bird: a practice of visual wordplay (*armes parlantes*) common in medieval heraldry. At the same time, the rooster carries rich theological associations independent of any toponymic logic: as the bird that crowed at Peter's denial, it was a symbol of penitence, vigilance, and the possibility of reconciliation after betrayal — themes perfectly appropriate to a confraternity that combined anti-heretical militance with charitable mercy. The Master of the Bigallo's inclusion of a small rooster at the base of the painted cross is therefore overdetermined, simultaneously referencing the toponym, the crest, and the Passion narrative, in a dense layering of meaning that exemplifies the semiotic density of thirteenth-century religious imagery.
-
-#### The Marian Thread: Continuity Beneath the Toponym
-
-Underlying all these naming shifts — from Compagnia di Santa Maria to Santa Maria alle Fonti to Compagnia di Santa Maria del Bigallo — is a thread of Marian dedication that persisted without interruption across the institution's entire history. This continuity was not accidental. The Virgin Mary occupied a structurally central position in the confraternity's founding theology, for reasons that went beyond the conventional piety of the period. Pietro da Verona had organized the *compagnie della fede* explicitly under Marian protection, drawing on the Dominicans' own institutional devotion to the Rosary and their theological championing of the Immaculate Conception as a polemical counter to Cathar denial of the Incarnation. To place a confraternity under Mary's patronage was to make a doctrinal statement: the Virgin's body had been the vessel of the Incarnation, the proof that matter was not intrinsically evil, and the guarantee that bodily existence — including the bodies of the poor, the sick, and the dying whom the brothers served — participated in the redemptive economy of the divine.
-
-The hospital's dedication to Santa Maria alle Fonti should therefore be understood not merely as a pious convention but as a theologically freighted choice that aligned the institution's charitable mission with its founders' anti-dualist convictions. The waters of the *fonti* — natural, bodily, material — were implicitly sanctified by the Marian dedication, as if to assert that even the most mundane physical resources of the landscape were suffused with divine meaning. When the confraternity subsequently moved into the city and established its loggia within sight of Santa Maria del Fiore, the Marian thread connected the rural hospital, the anti-heretical confraternity, and the civic cathedral into a single, if implicit, chain of Marian institution-building. The name Bigallo, opaque and contested as it remains, is in this sense the surviving trace of a geography — spring, road, countryside, devotion — that the Institution gradually internalized and urbanized without ever fully erasing.
-
-### Structural Causes: The Commune, the Mendicants, and Lay Devotion
-
-The formation of the Bigallo must also be situated within three overlapping structural processes operating in thirteenth-century Florence. First, the rise of the Dominican Order as an instrument of papal anti-heretical policy created an institutional framework for the mobilization of lay confraternities. Pietro da Verona operated with the backing of Pope Innocent IV<a href="/endnotes.html#fn-innocent-iv" class="footnote"><sup>4</sup></a>, who provided the confraternity with territories and privileges, including lands previously held by the Saracen king Saladin — a detail that underscores the ideologically crusading dimension of the enterprise. The papacy's strategy was to embed orthodox lay organizations deep within the social structures of the communes in order to crowd out the heretical networks.
-
-Second, the rapid urbanization of Florence in the twelfth and thirteenth centuries created dramatic new social conditions: a mobile, commercially active population; widening economic inequality; and a growing mass of the urban poor, pilgrims, and travelers who fell outside the traditional structures of parish and monastery. The confraternity's subsequent turn toward charitable work — caring for the indigent, lodging pilgrims, and eventually sheltering abandoned children — was not a departure from its founding mission but a response to the social dislocations that heresy had exploited.
-
-Third, and perhaps most importantly, the formation of the Bigallo participated in the broader efflorescence of confraternitas as a social institution across the Italian communes. Scholars such as those published in the Confraternitas journal of the Society for Confraternity Studies have emphasized that these associations filled a decisive institutional gap: they allowed laypeople — merchants, artisans, knights — to organize religious life outside clerical supervision while remaining within the structures of orthodoxy. For the Bigallo, this meant translating the anti-heretical fervor generated by Pietro da Verona's preaching into a durable institutional form capable of outlasting the crisis that had generated it.
-
-### The Merger with the Misericordia (1425) and Institutional Evolution
-
-The separate threads of the Bigallo and the Compagnia della Misericordia — both traceable to the same founding moment in 1244 — ran in parallel for nearly two centuries before a political and financial crisis forced their union. By the early fifteenth century, the Bigallo was approaching insolvency due to mismanagement, and the Florentine government — with Cosimo de' Medici<a href="/endnotes.html#fn-cosimo-medici" class="footnote"><sup>5</sup></a> serving as treasurer of the Bigallo — decreed their merger in 1425. The union was contentious: by 1490, a faction of the Misericordia brothers broke away to reconstitute themselves as the "New Mercy," explicitly returning to the original works of charity.
-
-From 1425 onward, the merged institution — operating from the elegant Gothic Loggia del Bigallo overlooking Piazza San Giovanni — became increasingly focused on the care of abandoned children (fanciulli abbandonati), to the point that this function effectively defined the institution in the later fifteenth and sixteenth centuries. The famous fresco in the Bigallo depicting abandoned children being exhibited to the public before redistribution to foster families is among the most poignant documentary images of Florentine civic charity. Pope Paul III<a href="/endnotes.html#fn-pope-paul-iii" class="footnote"><sup>6</sup></a>'s bull of 1541, followed by Grand Duke Cosimo I's reorganization of 1542–43, finally converted the confraternity's ad hoc orphan-care into a formalized state-sponsored institution, marking the end of the Bigallo's existence as an autonomous expression of lay religious voluntarism and its transformation into a magistracy of the Medicean state.
-
-The Compagnia del Bigallo was thus the product of a specific and unrepeatable historical conjuncture: the Dominican anti-heretical campaign of the 1240s, the Florentine commune's need to mobilize orthodox laypeople against internal religious dissent, and the deeper thirteenth-century impulse to translate religious fervor into organized urban charity. Its trajectory — from armed confraternity to hospital administrator, from charitable brotherhood to orphan shelter, and finally to civic magistracy — mirrors the broader arc of Florentine institutional life across three centuries, from the age of the communes to the age of the Medici principate.
-
-## Principal works and their iconography
-
-### Crucifix with Angels and the Mourners (Christus Triumphans) - Florence
+### The Crucifix of the Bigallo
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-01.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
-  <figcaption>Crucifix with Angels and the Mourners (Christus Triumphans), 1230-35, tempera and gold leaf on panel, 191 x 127 cm, Loggia del Bigallo, Florence.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-08.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-08-zoom.jpg" alt="A painted cross on a gold ground hanging on a pale plastered wall. At the top a roundel with the bust of Christ holding a book; below it a rectangular field with the Virgin, hands raised, between two angels in red. The letters IC XC on a blue panel above the head of Christ. Christ, alive, with open eyes and an upright body, his arms stretched along a blue band, wears a green knotted loincloth. In the terminals, two angels; beside the body, the Virgin in dark blue and Saint John in pink. At the foot, a cock on a brown mound and a small figure in red; the lower part of the foot is worn to the wood.">
+  <figcaption>Maestro del Bigallo, painted crucifix, c. 1225–1249, tempera and gold on panel, 179 × 121 cm. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This painted cross follows the iconographic motif of the Christus Triumphans, typical of the Byzantine and pre-Giottesque Tuscan traditions, in which Christ is depicted not as suffering but as triumphing over death, with his eyes open and his body upright, symbolizing victory through the Resurrection.
+The crucifix of the Bigallo is the work that gives the master his name. It hangs in the Museo del Bigallo on Piazza San Giovanni, in the building of the old confraternity, and comes from the oratory of the Bigallo.
 
-The work is structured as a Latin cross, with the vertical arm dominant and the horizontal arm shorter, decorated with a gold leaf background that creates a luminous and sacred effect, accentuated by borders adorned with floral and geometric motifs in red and blue. The overall dimensions are approximately 191 x 127 cm, standard measurements for processional crucifixes of the era, which allowed for easy display in public spaces such as the Loggia del Bigallo, associated with the Compagnia della Misericordia. The tempera-on-wood technique, with thin layers of paint over a gold background, reflects medieval practices derived from miniature painting and goldsmithing, where gold symbolized divine light and celestial immortality.
+The national catalogue gives its dimensions as 179 by 121 centimetres and dates it to the second quarter of the thirteenth century, 1225–1249. The recent literature places it in the first half of the 1230s, close to the dossal of San Zanobi.
 
-At the center of the upper vertical arm stands the figure of Christ in a blessing pose, with a slender body and wounds still visible (a lance in the side, marks on the feet and hands), but his serene face and wide-open eyes convey majesty rather than pain, in line with the triumphal style prevalent in Tuscany up to *Coppo di Marcovaldo*. He wears a purple loincloth draped with elegant stylized folds, while his hands in a blessing gesture (thumb and index finger) emphasize his role as Redeemer; a small rooster at the foot of the cross evokes Peter’s denial, linking the work to the symbolism of the Compagnia del Bigallo. The head crowned with thorns is surrounded by a radiant halo, with hair and beard rendered by fine lines engraved in gold.
+The cross follows the scheme of the master's crosses: a roundel with Christ at the top, the Virgin between angels below it, angels in the terminals, the Virgin and Saint John beside the body, and the cock with Saint Peter at the foot.
 
-At the two ends of the crossbeam are the sorrowful figures: on the left, the Virgin Mary, with her hands clasped in supplication and her face bowed in maternal grief, dressed in a dark blue mantle adorned with golden embroidery; on the right, Saint John the Evangelist, also in a heartbroken pose, wearing a red tunic and green cloak, whose gaze directed at Christ amplifies the emotional drama. These figures, slightly smaller than Christ in terms of perspective hierarchy, have stylized yet intense expressions, with large, asymmetrical eyes typical of 13th-century painting, which prioritizes expressive symbolism over anatomical realism.
+Christ is alive, with open eyes and an upright body. His arms are stretched horizontally along a blue band bordered with lozenges, and blood falls in drops from the wounds of his hands. He wears a green loincloth knotted at the waist.
 
-Six angels hover around Christ, three on each side, with flowing robes in shades of pink, blue, and white, stylized wings, and hands collecting the blood from the wounds into chalices or in gestures of lamentation, emphasizing the Eucharistic sacrifice. Below, at the foot of the cross, symbolic elements such as Adam’s skull—a reference to original redemption—and minute details like the aforementioned rooster can be glimpsed; the base of the cross is decorated with plant motifs that link the whole to regenerated nature.
+The national catalogue records the figures as Christ, the Virgin, Saint John the Evangelist, Saint Peter, God the Father and angels, and the inscription IC XC, the Greek abbreviation of the name of Jesus Christ, painted in capitals above his head.
 
-The top panel depicts the Risen Christ between the Virgin Mary and angels, with Christ in a blessing pose and the Virgin in prayer, surrounded by seraphim; this upper register completes the Christological cycle, moving from the crucifixion to eschatological triumph. The perimeter edges are embellished with punchwork (dry engravings on gold) featuring rosettes, stars, and dragons, while the Latin inscriptions, such as “INRI” at the top, are executed in Gothic uncial script, confirming the Florentine origin and the context of public devotion.
+The cross was restored in 1972 by Leonetto Tintori. The national catalogue judges its condition fair, with losses: the gold is crackled, the lower end of the foot is worn to the wood, and parts of the mourners' robes are lost.
 
-This work reflects the transition from rigid Byzantine frontality to greater Italic expressiveness, with the Master of the Bigallo—an anonymous painter active between 1225 and 1265, identified by Offner thanks to this crucifix—blending Pisan (Berlinghieri) and local influences, functionally linked to the Loggia del Bigallo for penitential processions. The rooster is not an autograph signature but a theological symbol, as noted by some critics, making the painting a living document of 13th-century Florentine lay spirituality.
+It was exhibited at the Mostra Giottesca in Florence in 1937, and again at exhibitions of restored works in 1953 and 1972. The bibliography begins with Giovanni Poggi and Corrado Ricci in 1904 and includes Sirén, Van Marle, Toesca and Garrison.
 
-### Madonna and Child with Saints
+The cross is the touchstone of the master's style. Its figure types, its ornament and its scheme recur in the crosses of Rome and Chicago and in the dossal of San Zanobi, and allowed Offner to group these works around a single hand.
+
+### The Top of the Cross
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-02.jpg" alt="Madonna and Child with Saints">
-  <figcaption>Madonna and Child with Saints, 1230-35, tempera and gold leaf on panel, 129 x 67,5 m, Museo di Arte Sacra, Certaldo.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-09.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-09-zoom.jpg" alt="The top of a painted cross: a roundel with the bust of a bearded Christ in a green mantle holding a red book with gold studs; below it a rectangular field with a red border, in which the Virgin in a blue-green mantle raises her hands, between two angels in red cloaks with long wings, each holding a staff. Below, a blue panel with the white letters IC XC, flanked by bands of red and black lozenges, and the top of the halo of the crucified Christ.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the top with Christ, the Virgin and angels. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
-The *Madonna Enthroned with the Child and Two Saints* is housed in the Museum of Sacred Art in Certaldo, having come from the church of Santa Maria a Bagnano. This altarpiece exemplifies the pre-Giottesque Florentine style, featuring a solemn iconography and an opulent use of gold to emphasize the sacredness, in a rectangular format that suggests a local devotional origin in the Valdelsa.
+The top of the cross is divided into two fields. Above, a roundel holds the bust of Christ, bearded, in a green mantle, holding a red book studded with gold. It is the image of Christ in glory, above the crucified Christ below.
 
-The work measures 129 x 67.5 cm, vertical proportions suitable for a minor altar, with a panel that may originally have had an upper cusp, now lost, as was common in 13th-century Tuscan altarpieces. The background is entirely gilded, with borders decorated with geometric and floral motifs executed in drypoint (punchwork), while the throne is rendered with stylized volumes and red cushions to create an illusion of depth.
+The national catalogue identifies the figure as God the Father. Its type, bearded and holding a book, is that of Christ Pantocrator, and in the crosses of this period the figure in the roundel is usually read as Christ in majesty or ascending.
 
-In the center, the Virgin Mary is crowned and seated on a throne with an arched back, wrapped in a dark blue mantle edged in gold that falls in heavy geometric folds, revealing a red tunic at the base; her oval face, with large eyes and a sidelong gaze, conveys a detached solemnity. She holds the Infant Christ in her lap, who blesses with his right hand raised.
+Below the roundel, in a rectangular field with a red border, the Virgin stands between two angels. She raises her hands in prayer, palms outward, in the gesture of the *orans*, and wears a blue-green mantle with a red head-band.
 
-On either side, two saints, much smaller in size and difficult to identify: the worn and repainted lower section hides any clues, rendering them ideal types rather than identifiable portraits. This approach reflects the practice of the Master of Bigallo, who prioritizes the collective devotional effect over individualization, influenced by Sienese models such as the *Master of Tressa*.
+The two angels wear red cloaks over blue tunics and hold long staves. Their wings rise behind them in brown and gold. They turn towards the Virgin, framing her in a symmetrical group.
 
-The attribution to the Master of Bigallo, an anonymous Florentine painter active between 1220 and 1250, derives from stylistic consistency with the Bigallo Crucifix, featuring flat drapery, pale flesh tones, and miniature-like linearity derived from Pisan-Byzantine models.
+The group of the Virgin between angels at the top of the cross is derived from the crosses of Lucca. It has been read as the Ascension of the Virgin or as the Virgin interceding, and it completes the image of the Passion with an image of glory.
 
-The work, documented since 1589 on the altar of Santa Maria a Bagnano, was moved in 1978 for safety reasons and now enriches the Certaldo museum, bearing witness to the artistic exchanges between Florence and the surrounding countryside.
+Below the field is a blue panel with the letters IC XC in white, flanked by bands of red and black lozenges, and the top of the gilded halo of the crucified Christ. The halo, marked with a red cross, is painted on a raised disc.
 
-### Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi
+The paint is crackled throughout, and the gold has worn away in places to the bole. The left angel's wing is largely lost. The faces, with their long noses and dark eyes, are well preserved.
+
+The detail shows the master's figure style at small scale: frontal faces with large eyes, simple outlines, draperies drawn with parallel lines, all set against the gold with a sharp red frame.
+
+### The Angels of the Terminals
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-03.jpg" alt="Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi">
-  <figcaption>Saint Zanobi Enthroned Between the Holy Deacons Eugene and Crescentius, Stories from the Life of Saint Zanobi, 1240s, tempera and gold leaf on panel, 112 x 278 cm, Museo dell'Opera del Duomo, Florence.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-10.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-10-zoom.jpg" alt="The left end of the crossbar of a painted cross. In a rectangular terminal with a red border on a gold ground, a winged angel in an ochre tunic and pink cloak raises one hand to his breast. Beside him, on a dark blue band bordered with red and black lozenges, the left arm of Christ with the open hand pierced by a nail and drops of blood. Below, the top of the head of the Virgin in a dark veil.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the left terminal with an angel. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
-
-The Altarpiece of Saint Zanobi by the Master of Bigallo is an altarpiece painted in tempera on poplar wood (or elm, according to the miraculous tradition). It is currently housed at the Museo dell'Opera del Duomo in Florence and originally stood on the altar of the crypt of Santa Reparata above the saint’s tomb. This altarpiece narrates the life of the first Florentine bishop (4th–5th centuries) through a balanced horizontal composition that blends Byzantine rigor with emerging Florentine plastic accents, typical of the anonymous painter’s mature style.
-
-In the center, Saint Zanobi sits enthroned on a Gothic arched seat with red cushions, wearing an episcopal miter and holding a crosier in his right hand, dressed in a red cope edged in gold over a white tunic, with a radiant halo and a solemn face featuring a forked beard and wide-open eyes. On the left, Saint Eugene the Deacon (co-patron with Zanobi) in a golden cope and red dalmatic holds a book and gives the sign of the cross; on the right, Saint Crescentius in similar blue and gold vestments, symmetrical to his companion, both slightly smaller in rank, with feet on ornate pedestals. The throne is flanked by drapery and groups of tiny figures (clerics and faithful), which add narrative depth.
-
-In the two lower registers on the left: at the bottom, a miracle from his youth depicting Zanobi freeing a boy possessed by a demon, shown contorting while the saint lays his hand upon him; above, the resurrection of a French woman’s son, with the mother presenting the lifeless body to the kneeling bishop, set in a stylized landscape with Gothic buildings. These small, crowded scenes use expressive poses and vivid colors (reds, blues, golds) to dramatize the miracles, with identifying Latin inscriptions.
-
-On the right, symmetrical: at the top, another resurrection or healing (a worn detail shows Zanobi with a child), and at the bottom perhaps the elm tree that blossoms again upon contact with the relics, a tradition linking the panel to the miraculous wood of 431, though not explicitly depicted. The compositions are framed by trefoil arches, with secondary figures (women, children, horned demons) enlivening the space, emphasizing the theme of episcopal protection over Florence.
-
-The surface is covered in gold leaf stamped with rosettes and stars, featuring pale flesh tones and stiff drapery with folds accentuated for plasticity, marking the master’s evolution from the graphic to the volumetric. Originally on the altar frontal of the crypt’s high altar, it was moved in 1439 to the saint’s chapel, bearing witness to the Florentine civic devotion to Zanobi, patron saint against calamities.
-
-### Madonna and Child in majesty with two angels
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-04.jpg" alt="Madonna and Child in majesty with two angels">
-  <figcaption>Madonna and Child in majesty with two angels, 1261-75, tempera and gold leaf on panel, 130 x 56 cm, São Paulo Museum of Art, São Paulo.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-11.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-11-zoom.jpg" alt="The right end of the crossbar of a painted cross. The right arm of Christ, with the hand pierced by a nail and drops of blood, on a dark blue band bordered with lozenges. In the terminal, within a red border, a winged angel in an ochre tunic and pink cloak holds a thin staff and raises his hand. Below, the head of Saint John. A painted blue wall with gold stars at the right edge.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the right terminal with an angel. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
-This work represents one of the high points of the anonymous Florentine painter’s style, featuring a majestic, Byzantine-inspired iconography that emphasizes heavenly royalty, in a narrow, vertical format ideal for side altars or private devotions.
+At the ends of the crossbar two angels stand in rectangular terminals framed in red. They are half-length figures, with wings rising behind their shoulders, wearing ochre tunics and pink cloaks.
 
-The image exemplifies the frontal composition on a gold background embossed with rosettes and stars, where the Virgin extends beyond the edges of the panel to create a sense of monumentality, reflecting the Tuscan painting conventions of the mature 13th century.
+The left angel raises his right hand to his breast and holds the other at his waist. The right angel holds a thin staff and raises his hand towards the body of Christ. Both turn their heads slightly towards the centre of the cross.
 
-The date ranges from 1261 to 1275, placing it in the advanced phase of the Master of Bigallo’s career (active ca. 1220–1270), when his style evolved toward greater plasticity in the drapery and gentleness in the faces, influenced by Cimabue and Sienese contemporaries, as confirmed by critical catalogs (Boskovits, Offner). It likely originates from a private or convent setting in Florence and was acquired by the MASP in the 1950s as part of the Ciccillo Matarazzo collection, exemplifying the spread of Italian medieval painting in Brazil.
+The angels in the terminals are a feature of the Lucchese crosses, where they often lament or gesture towards the crucified Christ. Here they are calm figures of witness, attending the Passion.
 
-Mary sits enthroned on a multi-tiered seat with a rounded red cushion, a deep blue cloak edged in gold that drapes in stiff yet voluminous folds, a red tunic at the base, and her feet on a platform foreshortened for perspective; her oval face, with large, slanted eyes and a bridal crown, conveys regal detachment. In her lap, the Christ Child, swaddled in a white cloak with a protruding elbow, blesses with his right hand (thumb and ring finger) and holds a parchment scroll in his left; a radiant halo is shared by both.
+Between the terminals the arms of Christ stretch along a blue band bordered with red and black lozenges. His hands are open, pierced by nails, and blood falls from them in red drops onto the blue.
 
-At the upper sides of the shoulders, two symmetrical angels in flight fill the corner spaces: pink and green robes with flowing drapery, stylized wings, and hands clasped in adoration toward the sacred group, with childlike faces and halos that harmonize the compositional rhythm. Their small figures accentuate the centrality of the Majesty, creating a heavenly choir that elevates the scene to an eternal dimension.
+The arms are long and thin, drawn with a single smooth contour and modelled with a few darker shadows. Their horizontal line gives the cross its structure, and the open hands show the wounds frontally to the viewer.
 
-The hammered and engraved gold background creates divine luminosity, with pale complexions shaped by delicate shadows and enameled colors (lapis lazuli blue, cinnabar red) that mark the transition from miniature to large-scale Florentine painting. Perimeter borders with floral and geometric motifs frame the composition, while the excellent state of preservation allows one to appreciate fine details, such as the folds of the throne and the embroidery, making it a key document for the study of the master.
+The angels' faces have the master's characteristic type: an oval face, a long thin nose, large eyes under arched brows and a small mouth. Their hair is drawn in parallel waves held by a band.
 
-### The Enthroned Madonna and Child
+The gold of the terminals is heavily crackled, and the wings of the left angel are partly lost. The pink of the cloaks has faded. The figures nevertheless keep their drawing and much of their colour.
+
+The two details show the care with which the master painted the secondary figures of the cross, which were seen at a distance by the faithful but painted with the precision of a miniature.
+
+### The Head of Christ
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-05.jpg" alt="The Enthroned Madonna and Child">
-  <figcaption>The Enthroned Madonna and Child, 1215-20, tempera and gold leaf on panel, 123 x 73 cm, Cattedrale di San Romolo, Fiesole.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-12.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-12-zoom.jpg" alt="Close view of the head and chest of the crucified Christ on a painted cross. The head is upright within a large crackled gold halo marked with a red cross; the face is long and olive-coloured, with open dark eyes looking ahead, a long thin nose, a small red mouth and a short beard; long hair falls in strands on the shoulders. The chest is modelled in olive tones. Above, the letters IC XC on a blue panel; at the sides, bands of red and black lozenges.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the head of Christ. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
-This altarpiece is one of the earliest works by the anonymous Florentine painter, characterized by a majestic, frontal iconography derived from the Byzantine tradition, with an opulent use of gold to symbolize the celestial sphere. It measures 123 x 73 cm, with vertical proportions suitable for a side altar or tabernacle in the Fiesole Cathedral, where it has been located since the 13th century.
+The head of Christ is upright, set against a large gilded halo marked with a red cross. His eyes are open and look straight ahead, his mouth is closed, and his face shows no sign of suffering.
 
-The Virgin Mary sits enthroned on a stylized multi-tiered throne with a rounded red cushion, a dark blue mantle adorned with golden embroidery that falls in rigid geometric folds, revealing a red tunic at the base; her head and halo extend beyond the upper edges of the panel, creating an effect of monumental grandeur typical of 13th-century Tuscan Maestà paintings. Her face is oval with large, slanted eyes and rosy cheeks, her detached and regal expression emphasized by the crown or veil.
+This is the type of the *Christus triumphans*, the living Christ on the cross, victorious over death. It was the traditional type of the Romanesque painted cross, before the dead Christ of Giunta Pisano spread through Tuscany.
 
-In her lap, the Child emerges from the swaddled white cloak, with his right arm raised in blessing (index finger and thumb) and his left hand holding a small book or scroll; his radiant halo is identical to his mother’s, while the protruding elbow adds a touch of natural vitality, a precursor to Giotto’s stylistic developments.
+The face is long and narrow, with an olive complexion. The nose is long and thin, the eyes large under arched brows, the mouth small and red. A short beard frames the chin, and long hair falls in strands over the shoulders.
 
-The throne is rendered with overlapping volumes and a platform roughly foreshortened to create illusory depth, flanked by red drapery and floral decorative motifs engraved on gold; the Virgin’s feet rest on a base with geometric engravings, while the background is a gilded field stamped with rosettes and stars to maximize the sacred luminosity. There are no angels or side figures, focusing attention on the divine duo in a solemn intimacy.
+The modelling is restrained: darker olive shadows along the nose and beneath the cheekbones, and a few lighter tones on the forehead and cheeks. The expression is grave and slightly melancholy rather than serene.
 
-The technique emphasizes incisive lines, pale flesh tones modeled by minimal shadows, and enameled colors on hammered gold, reflecting Lucca and Pisa influences (Berlinghieri) from the master’s early period; modern restorations have preserved fine details such as embroidery and folds. Located in the Fiesole Cathedral, the work bears witness to episcopal Marian devotion and Fiesole’s role as a cultural center near Florence, serving as a prototype for the painter’s other Maestà.
+The chest is modelled in the same olive tones, with the ribs and the muscles of the abdomen indicated by soft curves. The body is upright and symmetrical, without the curve of the dead Christ.
 
-### Crucifix with Angels and the Mourners (Christus Triumphans) - Rome
+The halo is painted on a separate raised disc fixed to the cross, a practice that gave it relief. Its gold is heavily crackled and worn, and a crack runs across it at the level of the neck.
+
+Above the halo the blue panel with the letters IC XC is pierced by two holes, perhaps for the attachment of a metal ornament or a titulus. At the sides, the bands of lozenges frame the vertical arm.
+
+The head is the clearest example of the master's facial type, which recurs in the angels, the mourners and the scenes of the dossal of San Zanobi, and which allowed scholars to attribute those works to the same hand.
+
+### The Virgin and Saint John
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-06.jpg" alt="Crucifix with Angels and the Mourners (Christus Triumphans)">
-  <figcaption>Crucifix with Angels and the Mourners (Christus Triumphans), post 1225, tempera and gold leaf on panel, 160 x 110 cm, Galleria Nazionale d'Arte Antica, Palazzo Barberini, Rome.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-13.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-13-zoom.jpg" alt="The middle of a painted cross. At the centre, the torso and green loincloth of Christ, knotted at the waist, with red and black stripes, and the upper legs. At the left, in a panel framed in red on gold, the Virgin in a dark blue mantle with a gold star on the shoulder and a red veil, one hand at her breast and the other extended. At the right, Saint John in a blue tunic and pink cloak, one hand at his breast, looking out with a sad expression. Losses run across the Virgin's mantle and John's robe.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the Virgin and Saint John. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
-This *Christus triumphans* is one of the earliest works by the anonymous Florentine painter, characterized by an archaic Byzantine iconography that emphasizes Christ’s victory over death, in a processional format typical of Tuscan painted crucifixes from the early 13th century.
+The Virgin and Saint John stand in the side panels of the cross, beside the body of Christ, on a gold ground framed in red. They are full-length figures, smaller than Christ but larger than the figures of the terminals.
 
-The primary dating is 1215–1225 (Boskovits), or 1225–post-1249 (Ragghianti, Tartuferi 1225–30), placed in the master’s early phase when he was absorbing Lucchese models (Berlinghiero) prior to the Bigallo Crucifix (1230s); It entered Palazzo Barberini in 1956 from the Museo Artistico Industriale in Rome (since 1876). Its excellent state of preservation makes it key to reconstructing the pre-Cimabue Florentine workshop.
+The Virgin stands at the left in a dark blue mantle drawn over her head, with a red veil framing her face and a gold star on her shoulder. She raises one hand to her breast and extends the other towards Christ.
 
-On the vertical arm, Christ stands erect and triumphant, his eyes open and fixed on the faithful, his slender body bearing visible wounds (hands, feet, side), a draped purple loincloth, and a radiant halo; the cross is yellow with terminals decorated with “IC XC” and a small rooster at the base, a symbol of Peter’s denial linked to the Compagnia del Bigallo.
+Saint John stands at the right, young and beardless, in a blue tunic and a pink cloak. He raises one hand to his breast and holds a fold of his cloak with the other. His head is slightly inclined, and his face has a sad expression.
 
-On the crossbars: on the left, the Virgin Mary in a blue mantle with her hands clasped in grief; on the right, St. John the Evangelist in a red tunic and green cloak, both with sorrowful faces and halos; four angels at the four ends of the cross (the upper one with Mary, the two side ones, and the lower one) collect the blood in chalices or weep, wearing pink robes and stylized wings.
+Their gestures and expressions are restrained. The grief of the mourners is shown by the hand at the breast and the inclined head rather than by dramatic movements, in the manner of the Byzantine images of the Crucifixion.
 
-At the base of the vertical arm, a small Golgotha with Adam’s skull and the instruments of the Passion (column, reed, sponge), while the edges are framed by geometric and floral motifs stamped on gold, with minimal Latin inscriptions; the upper cornice is missing or has been restored.
+Between them hangs the body of Christ, in a green loincloth knotted at the waist and striped in red and black at its edges. The loincloth falls to the knees in broad folds drawn with parallel lines.
 
-The technique employs lean tempera on beaten gold, with incisive lines for outlines and flat yet rippled drapery, pale flesh tones, and vivid colors that foreshadow the master’s more dynamic phase, distinguishing it from his later, more pathetic style. The work, likely of Florentine origin, attests to the serial production of crucifixes for lay confraternities, emphasizing Eucharistic triumph.
+The placing of the two mourners in the side panels replaces the scenes of the Passion that filled the side panels of the Lucchese crosses. It gives the cross a simpler composition and makes the mourners the principal witnesses of the Crucifixion.
 
-### Crucifix (Christus patiens)
+The panels are damaged by losses that run across the Virgin's mantle and the lower part of John's robe, where the paint has flaked to the preparation. The faces and the upper parts of the figures are well preserved.
+
+The detail shows the master's drawing of drapery: long folds traced in parallel lines, with lighter highlights on the ridges, giving the figures a slender, upright form.
+
+### The Cock and Saint Peter
 
 <figure>
- <img src="/Images/Maestro-Bigallo/maestro-bigallo-07.jpg" alt="Crucifix (Christus patiens)">
-  <figcaption>Crucifix (Christus patiens), 1230-40, tempera and gold leaf on panel, 191 x 127,2 cm, Art Institute of Chicago, Chicago, IL.</figcaption>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-14.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-14-zoom.jpg" alt="The foot of a painted cross. The feet of Christ, side by side, each pierced by a nail, rest on a dark blue panel, with streams of blood running down. Below, on a brown rocky mound, a cock with a red crest crows. At the right, on the gold ground, a small figure in a long red robe raises one arm. The left side and the lower part of the foot are lost, showing the bare wood.">
+  <figcaption>Maestro del Bigallo, painted crucifix, the foot with the cock of Peter's denial. Florence, Museo del Bigallo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
-In medieval Italian churches, the monumental crucifix was placed atop a large altar polyptych or above the partition (jubé) that separated the nave, open to the public, from the presbytery, reserved for the clergy. In both locations, it served as the visual and devotional focal point for the entire congregation, dominating the sacred space with its solemn presence. The dimensions of this work—191 × 127.2 cm—fully confirm this monumental purpose.
+The feet of Christ rest side by side on a dark blue panel, each pierced by its own nail. Blood runs from the wounds in thin red streams down the panel. The four nails, two in the hands and two in the feet, belong to the older type of the Crucifixion.
 
-The painter is situated in a decisive transitional phase: while maintaining the linearism and abstract formalization of Byzantine derivation evident in the rigid symmetry of the composition, the golden halos, and the preciousness of the gold leaf, he introduces a more natural and volumetric lighting system, anticipating the plastic openings of the next generation.  The master was up to date on the pictorial innovations of Lucca and Pisa—evident in comparison with Berlinghiero Berlinghieri—but he reworked them with a marked narrative predisposition and a strong sense of compositional balance.
+Below the feet, on a brown rocky mound, stands a cock with a red crest, crowing. The mound is the hill of Calvary, and the cock recalls the denial of Saint Peter, who denied Christ three times before the cock crowed.
 
-Christ’s body occupies the entire vertical length of the panel and is rendered in the style of the *Christus patiens*, that is, the suffering and dead Christ, with his body leaning slightly to the right and his knees bent. The skin is ivory-colored, modeled with golden shading that still reflects the Byzantine style (chrysography), but with a plasticity that is already more corporeal than in Eastern models. The drapery of the white loincloth is rendered with precise, calligraphic folds, typical of the Florentine linear tradition. The head is bowed toward the chest, with the eyes closed—an unmistakable sign of physical death—and the crown of thorns absent in this more archaic iconographic version.
+At the right a small figure in a long red robe raises one arm. The national catalogue identifies him as Saint Peter. His gesture may express his grief or his repentance after the denial.
 
-In the tabella of the left arm, the Virgin Mary is depicted in a frontal pose, her hands clasped in a gesture of grief and prayer. Dressed in a dark blue maphorion and a red mantle, she maintains a composed and solemn expression, consistent with the figurative code that subordinates individual emotion to sacred dignity. Her grief is suggested by her withdrawn posture rather than by tears or dramatic gestures, in keeping with the pre-Giottesque aesthetic.
+The left side of the foot is lost, and with it perhaps a second figure. The lower part of the cross is worn to the bare wood, a damage common in crosses that stood on altars or were handled.
 
-Symmetrically opposed to the Virgin, John the Evangelist is depicted as a young, beardless man—as dictated by the traditional iconography of the beloved disciple—wearing a red cloak and a green tunic. He too is depicted in a frontal pose, his hands in an attitude of sorrowful meditation. The mirror symmetry between the two figures on either side of the cross reflects the theological structure of the moment: the birth of the Church (Ecclesia) symbolized by Mary and John at the foot of the cross.
+The cock appears at the foot of all three crosses attributed to the master. It is a rare motif in the painted crosses of this period, and it is one of the signs of his workshop.
 
-In the central panel of the crucifix, Christ in glory (*Christus triumphans* or the Redeemer) is depicted, seated in a mandorla and giving the sign of blessing, a symbol of the Resurrection’s victory over death, as affirmed by the Crucifixion depicted just below. This iconographic duality—the dead Christ and the glorious Christ in the same panel—is typical of the 13th-century tradition and visually encapsulates the theological core of the Redemption.
+The national catalogue notes that the motif has been linked with the confraternity of the Bigallo. But its presence on the crosses of Rome and Chicago, which have no known connection with the Bigallo, makes it a feature of the master's iconography rather than a sign of a particular patron.
 
-At the foot of the cross is painted a rooster, a direct reference to Peter’s threefold denial (“Before the rooster crows, you will deny me three times”, Mt 26:75). Its presence links the scene of the Crucifixion to the broader Passion, recalling betrayal and repentance, and thus also the possibility of reconciliation for the sinner. It is a narrative element of great theological richness, not merely decorative.
+The motif carries a lesson of repentance. Peter, who denied Christ and wept, was the model of the sinner who returns to grace, and the image at the foot of the cross invited the faithful to follow his example.
 
-The Chicago Crucifix is dated by Treccani to a time “a little further along in the painter’s career” compared to the crucifix of the same name in the Museo del Bigallo in Florence (c. 1230), and is placed in the fourth decade of the 13th century—thus among the master’s most mature works. It represents a crucial link in the chain leading from the Greek-Byzantine tradition to the Giottesque revolution, demonstrating how Florentine painting was independently developing, within its own organized workshop, a new figurative language that the Master of the Magdalene and later Cimabue would further refine.
+The detail shows the master's narrative economy: a few elements, the feet, the blood, the mound, the cock and the apostle, set against the blue and gold, tell a whole episode of the Passion.
+
+### The Dossal of San Zanobi
+
+<figure>
+  <img src="/Images/Saint-Zanobi/saint-zanobi-06.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-06-zoom.jpg" alt="A long horizontal gold-ground panel with a border of blue and red ornament and raised gilt bosses. At the centre an old bearded bishop in a white mitre, red cope and pink tunic sits enthroned on a red cushion, holding a white crosier, with a large raised gilt halo; the red letters ZANOBIUS stand beside his head. At his left a young deacon in an orange dalmatic holds a book; at his right a young deacon in blue and white holds a censer. At each side, two framed scenes with the bishop among clerics and lay people.">
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi with Saints Eugenius and Crescentius and four scenes, c. 1230–1250, tempera and gold on panel, 109 × 274 cm. Florence, Museo dell'Opera del Duomo, inv. 9152. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The dossal of San Zanobi is the master's principal work and the earliest securely placed. It is a long, low panel, 109 by 274 centimetres, showing the bishop enthroned between his deacons with four scenes of his miracles.
+
+It was painted for the altar over the relics of Zenobius in the crypt of Santa Reparata. Boskovits dated it about 1230, within the episcopate of Giovanni da Velletri; the Zeri and national catalogues place it in 1240–1250.
+
+At the centre Zenobius sits frontally on a wooden throne, an old man with a grey beard, in a white mitre and red cope, holding a crosier. His name is written beside his head in red letters. The deacons Eugenius and Crescentius stand at his sides with a book and a censer.
+
+The four scenes at the sides, identified in the national catalogue, tell the miracle of the pilgrim's son in two episodes, the raising of the messenger of Saint Ambrose and the freeing of a possessed boy. They are set in red frames dotted with white.
+
+The faces of the bishop and the deacons have the master's type: long noses, large eyes, small mouths. The figures of the scenes, standing in rows against the gold, repeat the figures of the crosses at a smaller scale.
+
+A later inscription beside the throne claims that the panel was made from the wood of the elm that flowered at the passage of the saint's body. The restoration of the panel was published in 2016 in a volume edited by Marco Ciatti, *Fatta dell'olmo della piazza*.
+
+The panel was in Parma from 1786, first in the collection of the Marchese Tacoli Canacci and then in the Galleria Nazionale, before returning to Florence in 1928. It is catalogued by Garrison (1949, no. 363) and discussed by Tartuferi (1990).
+
+The dossal and its scenes are illustrated and discussed in detail in the entry on [San Zanobi](/Content/Saints/San-Zanobi.html).
+
+### The Crucifix in Rome
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-15.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-15-zoom.jpg" alt="A painted cross on a gold ground hung against a grey wall. At the top a roundel with the bust of Christ in red and blue holding a scroll; below it the Virgin with raised hands between two angels. The letters IC XC on a blue panel. Christ, alive, with open eyes and an upright body, his arms along a blue band, wears a green knotted loincloth. In the terminals, two angels; beside the body, the Virgin in a dark red mantle and Saint John in a bright red cloak, with inscriptions above them. At the foot, two nailed feet on a blue panel and, below, a cock on a red mound between two small figures.">
+  <figcaption>Maestro del Bigallo, painted crucifix, tempera and gold on panel. Rome, Galleria Nazionale d'Arte Antica, Palazzo Barberini. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The crucifix in the Galleria Nazionale d'Arte Antica at Palazzo Barberini in Rome is the closest of the master's works to the cross of the Bigallo. It repeats its scheme almost exactly, and its attribution to the same hand is generally accepted.
+
+At the top a roundel holds the bust of Christ in a red tunic and blue mantle, blessing and holding a scroll. Below, the Virgin raises her hands between two angels. The letters IC XC stand on a blue panel above the head of Christ.
+
+Christ is alive, with open eyes, his body upright and his arms stretched along a blue band. He wears a green loincloth knotted at the waist with red and black stripes, like the Christ of the Bigallo. His face, with a dark beard, is fuller and more strongly modelled.
+
+In the terminals two angels in pink and green turn towards the centre. Beside the body stand the Virgin, in a dark red mantle over a blue dress, and Saint John, in a bright red cloak, both raising a hand. Their names are written above them.
+
+At the foot the feet of Christ are nailed side by side on a blue panel. Below, on a red mound, stands the cock, between two small figures, one at each side, one of whom must be Saint Peter, as on the cross of the Bigallo.
+
+The cross is better preserved than that of the Bigallo. Its gold is bright, its colours strong and its foot complete. It shows how the Bigallo cross must have looked before its losses.
+
+The Rome cross is evidence of the repetition of models in the master's workshop. Its composition is so close to that of the Bigallo that the two may have been painted from the same design, with variations in colour and in the details of the faces.
+
+The history of the cross before it entered the Roman collections is not known. Its presence in Rome shows that the works of the master, made for Florence and its territory, have been dispersed far from their place of origin.
+
+### The Crucifix in Chicago
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-16.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-16-zoom.jpg" alt="A painted cross on a grey background. At the top a roundel with the bust of Christ in green and blue; below it the Virgin with raised hands between two angels in red. The letters IC XC on a blue panel. Christ, dead, with closed eyes and head bowed to his right, his body slightly curved, wears a green loincloth. In the terminals, two angels in pink; beside the body, the Virgin in dark blue and Saint John in pink and blue. The lower part of the cross is largely lost, showing the bare wood, with traces of a cock and a mound.">
+  <figcaption>Maestro del Bigallo, painted crucifix, c. 1235–1245, tempera on panel, 191 × 127.2 cm. Chicago, The Art Institute of Chicago, A. A. Munger Collection, 1936.120. Photo: The Art Institute of Chicago, public domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>).</figcaption>
+</figure>
+
+The crucifix in the Art Institute of Chicago is the largest of the master's crosses, 191 by 127.2 centimetres. The museum dates it about 1240, between 1235 and 1245, and considers it his latest known work. It came to Chicago with the A. A. Munger Collection.
+
+The scheme is the same as in Florence and Rome: Christ in a roundel at the top, the Virgin between angels below it, the letters IC XC, angels in the terminals, the Virgin and Saint John beside the body, and, at the foot, the cock of Peter's denial.
+
+The difference is in the figure of Christ. He is dead, with closed eyes and his head bowed onto his right shoulder; his body curves slightly to the side, and his abdomen is drawn with strong, almost geometric divisions. It is the type of the *Christus patiens*.
+
+The suffering Christ had been introduced in central Italy by Giunta Pisano and was spreading through Tuscany in the 1230s and 1240s. Its adoption by the Maestro del Bigallo shows him following the new devotion to the Passion, linked with the preaching of the Franciscans.
+
+The face of the dead Christ, with its long nose, heavy eyelids and drooping mouth, keeps the master's type, but gives it an expression of pain absent from the living Christs of Florence and Rome. The modelling of the body is darker and more emphatic.
+
+The mourners stand in the side panels as in the other crosses. The Virgin, in dark blue, raises a hand to her breast; Saint John, in a pink cloak over a blue tunic, gestures towards Christ. The angels in the terminals wear pink and ochre.
+
+The lower part of the cross is largely lost. Below the feet, only traces remain of the blue panel, the mound and the cock, which the museum mentions in its description, and the bare wood is visible over much of the foot.
+
+The Chicago cross shows the master at the end of his known career, adapting his established scheme to a new image of Christ. The Art Institute publishes its image as public domain under its Open Access programme.
+
+### The Madonna of Fiesole
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-17.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-17-zoom.jpg" alt="A tall panel with an arched top formed by a large silver-gilt halo. The Virgin, seen to below the waist, wears a dark blue mantle with white stars on the head and shoulders, over a red dress; her face is pale and severe, with large dark eyes, a long thin nose and a small mouth. On her lap the Child, in a brown robe over a red tunic, blesses with his right hand and holds a scroll; his head is large and adult-like. The Virgin's long-fingered hands hold him at the side and below.">
+  <figcaption>Maestro del Bigallo (attributed), Madonna and Child, c. 1215–1220, tempera on panel. Fiesole, cathedral of San Romolo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The Madonna in the cathedral of Fiesole is the earliest work attributed to the master, dated about 1215–1220. The attribution is tentative: the panel is placed by scholars slightly before the dossal of San Zanobi and the crosses.
+
+The Virgin is shown to below the waist, seated, holding the Child on her lap. Her head projects into a large halo that forms the arched top of the panel, giving her a monumental presence.
+
+She wears a dark blue mantle sown with white stars, on the head and the shoulders, over a red dress. The stars are the Byzantine sign of her virginity, before, during and after the birth of Christ.
+
+Her face is pale and severe, with large dark eyes looking straight ahead, a long thin nose and a small red mouth. Her hands, with very long fingers, hold the Child at the side and below.
+
+The Child sits on her lap in a brown robe over a red tunic. He raises his right hand in blessing and holds a scroll in his left. His head is large and his features adult, in the manner of the Byzantine Christ Emmanuel.
+
+The image follows the Byzantine type of the Virgin Hodegetria, who presents the Child to the faithful, adapted to the format of a Tuscan altar panel. The severity of the forms and the heavy outlines distinguish it from the lighter figures of the master's later works.
+
+The halo and the ground are worn, while the colours of the mantle and the dress keep their strength.
+
+If the attribution is correct, the Madonna of Fiesole shows the master at the beginning of his career, working for the cathedral of the neighbouring diocese, before his commissions for the cathedral of Florence.
+
+### The Madonna of Certaldo
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-18.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-18-zoom.jpg" alt="A tall panel with an arched top formed by a gilded halo with radiating ridges. The Virgin in a blue mantle with small gold crosses sits on a throne with red cushions, holding the Child, who blesses, in a red and gold robe. At each side of her head, a small standing saint: at the left a deacon in red with a book, at the right a young saint in white and red holding a small cross. The lower half of the panel, with the Virgin's dress and the throne, is largely lost to the bare preparation.">
+  <figcaption>Maestro del Bigallo (attributed), Madonna and Child enthroned with two saints, later 1230s, tempera and gold on panel. Certaldo, Museo di Arte Sacra, from Santa Maria a Bagnano. Photo: from A. Tartuferi, <i>Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi</i>, Florence 2007, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-19.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-19-zoom.jpg" alt="The upper part of the same Madonna: the Virgin's face, pale and grave, framed by a blue mantle with gold crosses and a red veil, within a large gilded halo with radiating ridges. The Child, with a small gold halo, blesses with his right hand; his robe is red and gold. At the left a small saint in pink holds a book; at the right a young saint in white and red holds a small cross and raises his hand.">
+  <figcaption>Maestro del Bigallo (attributed), Madonna and Child enthroned with two saints, the upper part. Certaldo, Museo di Arte Sacra. Photo: Sailko, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+</figure>
+
+The Madonna from the church of Santa Maria a Bagnano, now in the Museo di Arte Sacra of Certaldo, is attributed to the master and placed in the later 1230s. The attribution is made with caution because of the panel's poor condition.
+
+The Virgin sits enthroned on a throne with red cushions, holding the Child on her lap. Her head projects into a large halo with radiating ridges, carved in relief and gilded, which forms the arched top of the panel.
+
+She wears a blue mantle sown with small gold crosses, over a red veil. Her face is pale and grave, with large eyes, a long nose and a small mouth. Her hand holds the Child at the shoulder.
+
+The Child, with a small gilded halo, blesses with his raised right hand. His robe is red, covered with a gold mantle whose folds are traced in fine gold lines, a technique that gives the figure a luminous surface.
+
+At each side of the Virgin's head stands a small saint. At the left a deacon in red holds a book; at the right a young saint in white and red holds a small cross, the attribute of a martyr. Their identities are uncertain.
+
+The lower half of the panel, with the Virgin's dress, the throne and the feet, is largely lost to the bare preparation. The Greek letters MP ΘY, Mother of God, are partly visible beside the Virgin's head.
+
+The Madonna of Certaldo differs from that of Fiesole in its lighter forms, its finer gold highlights and the addition of the two saints. It shows the master developing the type of the Maestà in the years of the crosses.
+
+The panel has been published by Rosanna Caterina Proto Pisani in her guide to the Museo di Arte Sacra at Certaldo (2001), and its attribution discussed by Tartuferi, from whose monograph of 2007 one of the photographs reproduced here is taken.
+
+### The Madonna with Two Angels in the Uffizi
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-20.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-20-zoom.jpg" alt="A tall gold-ground panel with a large projecting halo with radiating ridges at the top. The Virgin, in a dark red mantle with a blue and white head-band over a blue dress sown with small gold dots, sits frontally on a throne with large red cushions and a carved base with rows of leaf ornament, her feet on a pink footstool. On her lap the Child, in a robe covered with gold lines, blesses and holds a scroll. At the upper corners two winged angels in pink and blue fly towards her with outstretched hands.">
+  <figcaption>Maestro del Bigallo, Madonna and Child enthroned with two angels, c. 1230, tempera and gold on panel, 119.5 × 61 cm. Florence, Gallerie degli Uffizi, inv. 1890 n. 10301. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The Madonna with two angels in the Gallerie degli Uffizi is the best preserved of the master's Madonnas. It is dated about 1230, measures 119.5 by 61 centimetres and bears the inventory number 10301 of the inventory of 1890. It hangs in the rooms of thirteenth-century painting.
+
+The Virgin sits frontally on a throne with large red cushions and a carved base with rows of leaf ornament, her feet on a pink footstool. Her head projects into a large halo with radiating ridges, modelled in relief and gilded, which forms the arched top of the panel.
+
+She wears a dark red mantle over a blue dress sown with small gold dots, and a blue and white head-band. Her face, with large eyes, a long straight nose and a small mouth, has the grave expression of the master's other Madonnas.
+
+On her lap the Child blesses with his right hand and holds a scroll in his left. His robe is covered with fine gold lines, the Byzantine chrysography that turns the figure into a field of light. The Virgin holds his foot with her long-fingered hand.
+
+At the upper corners two winged angels in pink and blue fly towards the Virgin with outstretched hands. Their long wings, drawn feather by feather in red and brown, and their flowing draperies are among the most refined passages of the master's painting.
+
+The throne is the most elaborate of the group. Its cushions, its jewelled seat and its tiers of carved leaves recall the throne of the bishop in the dossal of San Zanobi, painted in the same years.
+
+Its history is recorded in the catalogue of Christie's, where it was sold in London on 8 December 2005 with the same dimensions, 119.5 by 61 centimetres. It had belonged to the Florentine dealer Stefano Bardini, then to Charles Fairfax Murray; it passed through Joseph Duveen in New York about 1920 to the collector Carl W. Hamilton, and in 1945 to George R. Hann of Pittsburgh.
+
+After the sale of the Hann collection at Christie's in New York in 1980 it was with Harari & Johns in London in 1989. Sirén published it in 1922 as the work of Barone Berlinghieri; Offner related it to the Bigallo crucifix. It is now in the Uffizi, and it is the subject of Tartuferi's monograph of 2007, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi*. The "Madonna Bardini" of the previous version of this entry is this panel, named after its first known owner.
+
+### The Madonna in São Paulo (disputed attribution)
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-21.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-21-zoom.jpg" alt="A tall panel with a projecting halo at the top, shown against a red wall. The Virgin, with a long grave face, in a dark blue-black mantle with gold highlights over a red dress, sits frontally holding the Child, who wears an orange-red robe and blesses. Two faint angels appear at the upper corners. The ground is dark red and worn, with a patterned field behind the throne.">
+  <figcaption>Maestro del Bigallo (attributed), Madonna and Child enthroned with two angels, c. 1275, tempera on panel, 118.5 × 57 cm. São Paulo, Museu de Arte de São Paulo, MASP.01261. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The Museu de Arte de São Paulo (MASP) owns a Madonna and Child enthroned with two angels attributed to the Maestro del Bigallo. It is painted in tempera on panel, measures 118.5 by 57 centimetres and bears the inventory number MASP.01261.
+
+The museum dates it about 1275. The painting belonged to Lina Bo Bardi and Pietro Maria Bardi, the founders of the museum, and Pietro Maria Bardi gave it to the MASP in 1992, in memory of his wife.
+
+The previous version of this entry dated the panel 1261–1275, gave its dimensions as 130 by 56 centimetres and said that it came to the museum in the 1950s from the Matarazzo collection. These statements are not supported by the museum's record.
+
+The date given by the museum is a difficulty. About 1275 lies beyond the known activity of the master, whose latest dated work, the Chicago crucifix, is placed about 1240. If the date is correct, the panel would be the work of a follower; if the attribution is correct, the date would have to be earlier.
+
+The São Paulo panel is one of a group of Madonnas related to the master. The catalogue of the Fondazione Zeri records another, from the Acton collection at Villa La Pietra in Florence, 118 by 58.5 centimetres, dated 1245–1255 and catalogued by Garrison (no. 220) and Tartuferi (1990).
+
+The catalogue of Christie's of 2005 lists the Acton, Nantes, La Quiete and São Paulo Madonnas as separate works of the group, noting that the Acton and Nantes panels are heavily restored and the La Quiete panel almost entirely repainted. The Acton and São Paulo panels, despite their similar dimensions, are therefore distinct paintings.
+
+The photograph shows the panel exhibited against a red wall. The Virgin's mantle, dark blue with dense gold highlights, the Child's orange-red robe and the faint angels at the upper corners differ from the master's Madonnas in Florence, and support the doubts raised by the museum's late date.
+
+The painting, whatever its date, shows the diffusion of the master's type of the Madonna with angels, and the dispersal of the early Florentine panels in the collections of the twentieth century, from Florence to Brazil.
