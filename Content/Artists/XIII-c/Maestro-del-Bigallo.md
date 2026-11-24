@@ -56,7 +56,7 @@ meta:
   - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
       - "Madonna and Child enthroned with two angels - São Paulo, MASP, gift of Pietro Maria Bardi in 1992, dated c. 1275 by the museum: given to him by the museum, but beyond his known dates"
-      - "Madonna and Child enthroned with angels, formerly Acton collection, Villa La Pietra, Florence: in the Zeri catalogue as his, c. 1245–1255"
+      - "Madonna and Child enthroned with two angels, Acton collection, Villa La Pietra, Florence: in the Zeri catalogue as his, c. 1245–1255; heavily restored"
       - "Madonna and Child enthroned with angels - Nantes, Musée d'arts: in the group of the master, heavily restored"
       - "Madonna and Child enthroned with angels - Conservatorio delle Montalve, La Quiete, near Florence: in the group of the master, almost entirely repainted"
 
@@ -496,6 +496,34 @@ The throne is the most elaborate of the group. Its cushions, its jewelled seat a
 Its history is recorded in the catalogue of Christie's, where it was sold in London on 8 December 2005 with the same dimensions, 119.5 by 61 centimetres. It had belonged to the Florentine dealer Stefano Bardini, then to Charles Fairfax Murray; it passed through Joseph Duveen in New York about 1920 to the collector Carl W. Hamilton, and in 1945 to George R. Hann of Pittsburgh.
 
 After the sale of the Hann collection at Christie's in New York in 1980 it was with Harari & Johns in London in 1989. Sirén published it in 1922 as the work of Barone Berlinghieri; Offner related it to the Bigallo crucifix. It is now in the Uffizi, and it is the subject of Tartuferi's monograph of 2007, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi*. The "Madonna Bardini" of the previous version of this entry is this panel, named after its first known owner.
+
+### The Madonnas of the Acton Collection and of La Quiete
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-22.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-22-zoom.jpg" alt="Black-and-white photograph of a tall panel with a large halo at the top. The Virgin, in a dark mantle sown with small white dots, sits frontally on a throne with large round cushions and a base with tiers of leaf ornament, her feet on a footstool. On her lap the Child, in a light robe, blesses and holds a scroll. At the upper corners two winged angels stretch out their hands towards her.">
+  <figcaption>Maestro del Bigallo, Madonna and Child enthroned with two angels, c. 1245–1255, tempera on panel, 118 × 58.5 cm. Florence, Villa La Pietra (New York University), Acton collection. Photo: from A. Tartuferi, <i>Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi</i>, Florence 2007, public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Maestro-Bigallo/maestro-bigallo-23.jpg" data-zoom-src="/Images/Maestro-Bigallo/maestro-bigallo-23-zoom.jpg" alt="Black-and-white photograph of the upper part of a panel: the head of the Virgin with large eyes and a long nose, in a veil with a cross on the forehead, within a large halo with radiating ridges; a star on her shoulder. Below, the Child with a dark face and curly hair, in a light robe, within a small halo, held by the Virgin's long-fingered hand.">
+  <figcaption>Maestro del Bigallo (group), Madonna and Child enthroned with two saints, detail. Florence, Conservatorio delle Montalve, La Quiete. Photo: from A. Tartuferi, <i>Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi</i>, Florence 2007, public domain, via Wikimedia Commons (detail).</figcaption>
+</figure>
+
+Two further Madonnas of the master's group are known chiefly from the photographs published by Tartuferi in his monograph of 2007. Both are reproduced here from that book, in black and white.
+
+The Madonna of the Acton collection, at Villa La Pietra in Florence, now owned by New York University, is recorded in the catalogue of the Fondazione Zeri as a work of the master, about 1245–1255, measuring 118 by 58.5 centimetres. It is catalogued by Garrison (no. 220) and by Tartuferi (1990).
+
+Its composition repeats that of the Uffizi Madonna almost exactly: the Virgin enthroned on a throne with round cushions and tiers of leaf ornament, the Child blessing and holding a scroll, and two angels at the upper corners stretching out their hands. Its dimensions are also close.
+
+The Virgin's mantle is sown with small dots, and her face, with large eyes and a long nose, has the master's type. The Christie's catalogue of 2005 describes the panel as heavily restored, and the photograph shows a surface in which the original painting is difficult to separate from later work.
+
+The Madonna of the Conservatorio delle Montalve at La Quiete, near Florence, shows the Virgin enthroned with the Child and two saints. The detail reproduced here shows the Virgin's head, framed by a veil with a cross on the forehead and a large halo with radiating ridges, and the Child with a dark face and curly hair.
+
+Christie's describes this panel as almost entirely repainted. The forms visible in the photograph, especially the Child's face and the Virgin's hand, are heavier than in the master's other works, and the attribution can only rest on the composition and the general type.
+
+The two panels show how widely the master's model of the enthroned Madonna was repeated. Together with the Madonnas of the Uffizi, Certaldo, Nantes and São Paulo, they form a group in which autograph works, workshop products and heavily restored panels cannot always be distinguished.
+
+The black-and-white photographs, taken before or during the recent studies of the master, are the only images of these panels available with a free licence. They are published here for comparison, with the caution that their state does not allow a firm judgement of their authorship.
 
 ### The Madonna in São Paulo (disputed attribution)
 

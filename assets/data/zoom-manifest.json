@@ -2019,6 +2019,20 @@
       "sha256": "78520ad3e04cbacc0925d3ca5f2fcf98fd1bbb2dda9e4d190369167dc9108107"
     },
     {
+      "path": "Images/Maestro-Bigallo/maestro-bigallo-22-zoom.jpg",
+      "width": 696,
+      "height": 1440,
+      "bytes": 271527,
+      "sha256": "4e68665177cac0e773c2d65fb84ee9a0c493fcec97fd1955cd0fd6a064cd4e1c"
+    },
+    {
+      "path": "Images/Maestro-Bigallo/maestro-bigallo-23-zoom.jpg",
+      "width": 1059,
+      "height": 1325,
+      "bytes": 528380,
+      "sha256": "674bc8a33dbefde2a9651028d98a9b3112e8dc2333c7199b50c22ee5c28185d3"
+    },
+    {
       "path": "Images/Maestro-Croce-432/maestro-croce-432-02-zoom.jpg",
       "width": 2147,
       "height": 2576,
