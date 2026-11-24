@@ -43,8 +43,8 @@ meta:
         value: "Translation of the relics from San Lorenzo to Santa Reparata, the new cathedral; the date is disputed"
       - label: "c. 1039"
         value: "Lorenzo of Amalfi writes the Vita sancti Zenobii (Ciandella)"
-      - label: "c. 1240–1250"
-        value: "Maestro del Bigallo, dossal with Zenobius enthroned and four scenes"
+      - label: "c. 1230–1250"
+        value: "Maestro del Bigallo, dossal with Zenobius enthroned and four scenes, for the altar of his relics in the crypt of Santa Reparata; about 1230 for Boskovits, 1240–1250 in the Zeri and national catalogues"
       - label: "By 1333"
         value: "The column of San Zanobi stands in Piazza San Giovanni; overthrown by the flood of 1333 and set up again"
       - label: "c. 1380"
@@ -58,7 +58,7 @@ meta:
 
   - title: "KEY WORKS"
     list:
-      - "Maestro del Bigallo, dossal of San Zanobi, c. 1240–1250 - Florence, Museo dell'Opera del Duomo, inv. 9152"
+      - "Maestro del Bigallo, dossal of San Zanobi, c. 1230–1250 - Florence, Museo dell'Opera del Duomo, inv. 9152"
       - "Giovanni del Biondo (attributed), panel of San Zanobi, c. 1380 - Florence, Santa Maria del Fiore"
       - "Lorenzo Ghiberti, shrine of San Zanobi, bronze, 1432–1442 - Florence, Santa Maria del Fiore"
       - "Domenico Ghirlandaio, Zenobius enthroned between Eugenius and Crescentius, c. 1482–1484 - Florence, Palazzo Vecchio, Sala dei Gigli"
@@ -95,10 +95,14 @@ meta:
       - "Related pages on the site: Maestro del Bigallo"
 
 scholars:
+  - title: "Boskovits, Miklós"
+    url: "/scholars.html#boskovits-miklos"
   - title: "Callmann, Ellen"
     url: "/scholars.html#callmann-ellen"
   - title: "Cecchi, Alessandro"
     url: "/scholars.html#cecchi-alessandro"
+  - title: "Ciatti, Marco"
+    url: "/scholars.html#ciatti-marco"
   - title: "Ciandella, Alessandro"
     url: "/scholars.html#ciandella-alessandro"
   - title: "Garrison, Edward B."
@@ -185,7 +189,7 @@ The many losses suffered by the places of his cult are recorded by Ciandella: th
 
 The image of Zenobius was fixed early. He is shown as an old bishop with a grey or white beard, wearing the mitre and holding the crosier, often enthroned. The two deacons, Eugenius and Crescentius, stand or kneel beside him.
 
-The earliest surviving image of this type is the dossal of the [Maestro del Bigallo](/Content/Artists/XIII-c/Maestro-del-Bigallo.html), painted about 1240–1250 and now in the Museo dell'Opera del Duomo. The bishop sits enthroned at the centre between the two deacons, with four scenes of his miracles at the sides.
+The earliest surviving image of this type is the dossal of the [Maestro del Bigallo](/Content/Artists/XIII-c/Maestro-del-Bigallo.html), painted about 1230–1250 and now in the Museo dell'Opera del Duomo. The bishop sits enthroned at the centre between the two deacons, with four scenes of his miracles at the sides.
 
 The scheme of the bishop enthroned between his deacons was repeated for two and a half centuries. Giovanni del Biondo, about 1380, painted it for a pillar of the cathedral, adding the Virtues; Domenico Ghirlandaio, in the 1480s, set it within a Renaissance arch in Palazzo Vecchio.
 
@@ -223,20 +227,20 @@ Botticelli set the miracles in an idealised Florence of classical palaces, porti
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-06.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-06-zoom.jpg" alt="A long horizontal gold-ground panel with a border of blue and red ornament and raised gilt bosses. At the centre an old bearded bishop in a white mitre, red cope and pink tunic sits enthroned on a red cushion, holding a white crosier, with a large raised gilt halo; the red letters ZANOBIUS stand beside his head. At his left a young deacon in an orange dalmatic holds a book; at his right a young deacon in blue and white holds a censer. At each side, two framed scenes with the bishop among clerics and lay people, figures lying on the ground and a black demon leaving a man.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi with Saints Eugenius and Crescentius and four scenes, c. 1240–1250, tempera and gold on panel, 109 × 274 cm. Florence, Museo dell'Opera del Duomo, inv. 9152. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi with Saints Eugenius and Crescentius and four scenes, c. 1230–1250, tempera and gold on panel, 109 × 274 cm. Florence, Museo dell'Opera del Duomo, inv. 9152. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The dossal of the Maestro del Bigallo is the earliest surviving image of Zenobius and the most important. It is a long, low panel, 109 by 274 centimetres according to the catalogue of the Fondazione Zeri, painted in tempera on a gold ground about 1240–1250.
+The dossal of the Maestro del Bigallo is the earliest surviving image of Zenobius and the most important. It is a long, low panel, 109 by 274 centimetres according to the catalogue of the Fondazione Zeri, painted in tempera on a gold ground. [Miklós Boskovits](/scholars.html#boskovits-miklos) dated it about 1230, within the episcopate of Giovanni da Velletri (1205–1230); the catalogue of the Fondazione Zeri and the national catalogue place it in 1240–1250.
 
 At the centre Zenobius sits enthroned between his two deacons. At the sides, four framed scenes, two on each side, tell his miracles. The whole is enclosed in a broad border of blue and red ornament set with raised gilt bosses.
 
 The panel is a dossal, an image set on or behind an altar, of the long rectangular form common in Tuscany in the thirteenth century. Its format, with a central figure and side scenes, is that of the dossals of saints, such as those of Saint Francis, painted in the same decades.
 
-The work is now in the Museo dell'Opera del Duomo, inv. 9152. Its history before the eighteenth century is unknown. It was in the collection of the Marchese Tacoli Canacci at Parma from 1786, and in the Galleria Nazionale of Parma from 1865 to 1928, before it returned to Florence and to the cathedral.
+The work is now in the Museo dell'Opera del Duomo, inv. 9152. It was made for the altar over the relics of Zenobius in the crypt of Santa Reparata, the cathedral that preceded Santa Maria del Fiore. Its later history is unknown until the eighteenth century: it was in the collection of the Marchese Tacoli Canacci at Parma from 1786, and in the Galleria Nazionale of Parma from 1865 to 1928, before it returned to Florence and to the cathedral.
 
 The attribution to the Maestro del Bigallo, the anonymous painter named after a crucifix in the Museo del Bigallo, is accepted in the literature. [Edward B. Garrison](/scholars.html#garrison-edward) catalogued it in his index of Italian Romanesque panel painting (1949, no. 363), and [Angelo Tartuferi](/scholars.html#tartuferi-angelo) discussed it in *La pittura a Firenze nel Duecento* (1990).
 
-The painting is in fair condition. The gold ground is worn, and in several of the side scenes broad bands of loss cross the figures at mid-height, where the paint has flaked away to the preparation.
+The panel has been restored, and the restoration was published in 2016 in a volume edited by Marco Ciatti, whose title quotes its inscription: *Fatta dell'olmo della piazza*. The gold ground is worn, and in several of the side scenes broad bands of loss cross the figures at mid-height, where the paint has flaked away to the preparation.
 
 A later inscription in Italian, painted beside the throne, claims that the panel was made from the wood of the elm that flowered at the touch of the saint's bier. It records the tradition of the miracle, not the origin of the panel.
 
@@ -246,7 +250,7 @@ The dossal establishes the image of Zenobius that later painters would follow: t
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-07.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-07-zoom.jpg" alt="Detail of the gold-ground panel: an old bishop with a grey beard and a white mitre, framed by a large raised and fluted gilt halo, sits frontally on a throne with turned wooden supports and red cushions. He wears a red cope over a pink tunic and holds a long white crosier with a spiral head; his feet in gold shoes rest on a blue footstool. Beside his head, red letters ZANO BIUS. At the left, beside the throne, black letters in Gothic script in several lines. Raised gilt bosses and ornamental bands above and below.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi, Zenobius enthroned, c. 1240–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi, Zenobius enthroned, c. 1230–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
 Zenobius sits frontally on a wooden throne with turned supports and two large red cushions. He is an old man with a grey beard and a lined face, his eyes looking out at the viewer, under a white mitre and a large gilt halo modelled in raised gesso.
@@ -257,7 +261,7 @@ The figure is larger than the deacons and much larger than the figures of the sc
 
 Beside his head, in red letters, is his name: ZANO BIUS, Zanobius, the Florentine form of Zenobius. The inscription identifies the saint for a viewer who might otherwise take him for any bishop.
 
-At the left of the throne, beside the deacon, a later hand has written several lines in black Gothic letters, in Italian. They begin QUESTA TA[VO]LA FU FATA DE L'OLMO, "this panel was made from the elm", and end with a date in Roman numerals beginning MCCCXXV, in the fourteenth century.
+At the left of the throne, beside the deacon, a later hand has written several lines in black Gothic letters, in Italian. They begin QUESTA TA[VO]LA FU FATA DE L'OLMO DE[LLA] PIA[Z]A, "this panel was made from the elm of the square", and end with a date in Roman numerals beginning MCCCXXV, in the fourteenth century.
 
 The inscription was added about a century after the panel was painted. It reflects the growing importance of the miracle of the elm in the fourteenth century, when the column of Piazza San Giovanni was set up again after the flood of 1333.
 
@@ -269,14 +273,14 @@ The deacons stand at each side: at the left a young deacon in an orange dalmatic
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-08.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-08-zoom.jpg" alt="A scene on a gold ground within a red border with white dots. At the centre-left an old bishop in a white mitre, red cope and pink tunic sits on a folding wooden stool, looking to the right. Behind him stand two young clerics, one holding a crosier. Before him stands a small boy in a light blue tunic and dark hose, his hands joined at his waist. At the right stand a woman in a white head-cloth and dark mantle, another woman in a white veil and red mantle, and a young man in a red cloak. A broad band of loss crosses all the figures at mid-height.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi, a boy brought before the bishop, c. 1240–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi, a boy brought before the bishop, c. 1230–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
 The upper scene at the left of the dossal shows Zenobius seated on a folding stool, the seat of a bishop giving judgement or receiving visitors. Two young clerics stand behind him, one holding his crosier.
 
 Before him stands a small boy in a light blue tunic and dark hose, his hands joined at his waist. At the right are two women, one with a white head-cloth and dark mantle, the other veiled in white with a red mantle, and a young man in a red cloak.
 
-The scene is most probably the beginning of the miracle of the son of the noblewoman from Gaul. In the legend the mother, setting out on pilgrimage to Rome, left her son in the care of the bishop, and on her return found him dead.
+The national catalogue identifies the scene as the pilgrim from France entrusting her son to Zenobius, the beginning of the miracle of the son of the noblewoman from Gaul. In the legend the mother, setting out on pilgrimage to Rome, left her son in the care of the bishop, and on her return found him dead.
 
 Read in this way, the scene shows the moment when the boy is presented to Zenobius by his mother and her companions. The scene below it would then show the second part of the same story, the raising of the dead child.
 
@@ -292,7 +296,7 @@ The red border with white dots, repeated in all four scenes, frames each episode
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-09.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-09-zoom.jpg" alt="A scene on a gold ground within a red border with white dots. A boy in a blue tunic lies on the ground at the centre. At the left stand two women in white veils, the nearer in a dark blue mantle and ochre dress, stretching out her hand towards the boy; a damaged figure stands at the far left. At the right an old bishop in a white mitre and red cope bends forward and stretches his hand over the boy, followed by a cleric in black and white with a crosier, a deacon in an ochre patterned dalmatic holding a book, and other men.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the raising of a dead boy, c. 1240–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the raising of a dead boy, c. 1230–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
 The lower scene at the left shows a boy in a blue tunic lying dead on the ground between two groups. At the left stand two women; at the right Zenobius, followed by his clergy, bends forward and stretches his hand over the child.
@@ -301,7 +305,7 @@ The nearer woman, in a dark blue mantle over an ochre dress, holds one hand to h
 
 Zenobius bends towards the child with an open hand, the gesture of command by which he raises the dead. Behind him a cleric in black and white holds the crosier, and a deacon in an ochre dalmatic patterned in white holds a book.
 
-The scene is most probably the raising of the son of the noblewoman from Gaul, the most famous of the miracles, and the sequel to the scene above. The two scenes together tell the whole story.
+The national catalogue identifies the scene as the raising of the son of the pilgrim from France, the most famous of the miracles, and the sequel to the scene above. The two scenes together tell the whole story.
 
 The painter has placed the dead boy at the centre, low on the ground, so that the eye passes from the mother's hand to the bishop's hand across his body. The empty gold between the groups stresses the distance that the miracle must cross.
 
@@ -311,20 +315,20 @@ The same miracle appears in Giovanni del Biondo's predella, in Ghiberti's shrine
 
 In Florence the miracle was located in Borgo degli Albizi, where a plaque on Palazzo Valori still marks the place. The dossal shows it without any setting, as an event of the sacred history of the city rather than of its streets.
 
-### The Raising of the Young Man
+### The Raising of the Messenger of Saint Ambrose
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-10.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-10-zoom.jpg" alt="A scene on a gold ground within a double red border with white dots. At the left an old bishop in a white mitre, red cope and pink tunic stretches his hand towards a young man in red lying on the ground with his eyes closed. Behind the bishop stand three clerics, one holding a crosier and one a book. At the right stand three young men in red, blue and dark cloaks over tunics and hose. A band of loss crosses all the figures at mid-height.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the raising of a young man, c. 1240–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the raising of the messenger of Saint Ambrose, c. 1230–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
 The upper scene at the right shows a young man in a red tunic lying on the ground with his eyes closed, between Zenobius and his clergy at the left and three young men at the right.
 
 The bishop stretches his hand towards the young man with the same commanding gesture as in the raising of the boy. Behind him stand three clerics, one with the crosier and one with a book.
 
-The three young men at the right wear the short tunics, cloaks and dark hose of laymen. They stand in a close group, watching the bishop. Their dress is that of young men of the city, perhaps the companions of the dead youth.
+The three young men at the right wear the short tunics, cloaks and dark hose of laymen. They stand in a close group, watching the bishop. Their dress is that of young men of the city, perhaps the companions of the dead messenger.
 
-The legend tells of several raisings of young men: the youth carried to burial, the messenger who died crossing the Apennines, and the boy killed by a cart. The scene cannot be identified with certainty; it may show the young man on his way to burial.
+The national catalogue identifies the scene as the raising of the messenger of Saint Ambrose, who died crossing the Apennines with relics that Ambrose was sending to Florence. Botticelli painted the same miracle in the New York panel, with the coffin of relics beside the dead man.
 
 The composition mirrors that of the lower left scene. The bishop and his clergy stand on one side, the lay people on the other, and the dead figure lies between them on the ground. The painter repeated a formula that made each miracle immediately legible.
 
@@ -338,7 +342,7 @@ The double border of this scene, with an inner red frame and the outer band of t
 
 <figure>
   <img src="/Images/Saint-Zanobi/saint-zanobi-11.jpg" data-zoom-src="/Images/Saint-Zanobi/saint-zanobi-11-zoom.jpg" alt="A scene on a gold ground within a red border with white dots. At the centre an old bishop in a white mitre and red cope stretches his right hand towards a young man in a blue tunic and black hose, whose hands are bound behind him with red cords; a small black winged demon flies out above his head. Behind the bishop stand a bearded man in red, a deacon in an ochre dalmatic with a book, and a cleric in black and white with a crosier. At the right stand a woman in a white head-cloth and red dress, another figure in dark blue, and young men, one in a blue tunic pointing.">
-  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the exorcism of a possessed young man, c. 1240–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Maestro del Bigallo, dossal of San Zanobi, the exorcism of a possessed young man, c. 1230–1250. Florence, Museo dell'Opera del Duomo. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons (detail).</figcaption>
 </figure>
 
 The lower scene at the right shows an exorcism. Zenobius stretches out his right hand towards a young man in a blue tunic, and a small black winged demon flies out of him above his head.
@@ -347,7 +351,7 @@ The possessed young man stands bent forward, his hands bound behind his back wit
 
 Behind the bishop stand his clergy: a deacon in an ochre dalmatic with a book, a cleric in black and white with the crosier, and a bearded layman. At the right are the young man's kin, a woman in a white head-cloth and a red dress, and young men, one of whom points towards the scene.
 
-The legend tells of two young men possessed after their mother had cursed them in anger. The dossal shows only one possessed figure; it may represent that miracle in abbreviated form, or another exorcism.
+The national catalogue identifies the scene as Zenobius freeing a possessed boy. It is a different miracle from the exorcism of the two young men cursed by their mother, which Botticelli painted in the second London panel.
 
 The black demon is drawn as a small dark silhouette with wings, rising from the young man's head towards the gold ground. It is the only figure in the dossal that breaks the rhythm of standing figures.
 
@@ -355,7 +359,7 @@ The scene is the best preserved of the four. The gold is crackled but complete, 
 
 Zenobius was invoked in Florence to free the possessed, and the scene corresponds to that devotion. Botticelli later placed the exorcism of the two sons at the beginning of the second London panel.
 
-The four scenes of the dossal, two raisings, the boy brought to the bishop and the exorcism, present Zenobius above all as a worker of miracles for the families of his city.
+The four scenes of the dossal, the boy entrusted to the bishop, his raising, the raising of Ambrose's messenger and the exorcism, present Zenobius above all as a worker of miracles for the families of his city.
 
 ### Botticelli, Four Scenes from the Early Life of Saint Zenobius
 
