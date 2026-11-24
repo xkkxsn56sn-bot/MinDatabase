@@ -251,7 +251,7 @@ The traditional account of the manuscript's origin ties it to the small monastic
 
 <figure class="figure--right figure--right-400">
   <img src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-context-irelands-eye.jpg" alt="Ireland's Eye from the sky">
-  <figcaption>Aerial view of Ireland's Eye.</figcaption>
+  <figcaption>Aerial view of Ireland's Eye. Photo: 瑞丽江的河水, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 This origin story is traditional and plausible but not strictly proven, and several layers of caution are required. First, and most importantly, the identity of the "St Nessan" involved is itself contested. Later scholarship showed that the attribution of the foundation to a "St Nessan" rests in part on misinterpretation and on the confusion of two men bearing that name — one of them a saint from another part of Ireland with no genuine connection to Ireland's Eye. The nineteenth- and early-twentieth-century antiquarians who worked on the site disagreed about the genealogy and floruit of the founder or founders, some placing the "sons of Nessan" in the late seventh century, others reasoning from supposed associations with known saints. The upshot is that the hagiographical framework of the origin tradition is insecure.

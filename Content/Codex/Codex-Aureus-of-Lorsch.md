@@ -111,7 +111,7 @@ The abbey of Lorsch, on the plain between the Rhine and the Odenwald near Worms,
 
 <figure class="figure--right figure--right-400">
   <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-context-torhalle.jpg" alt="The Königshalle (Kingshall) of Lorsch Abbey">
-  <figcaption>The 9th-century Torhalle (Königshalle) of Lorsch Abbey.</figcaption>
+  <figcaption>The 9th-century Torhalle (Königshalle) of Lorsch Abbey. Photo: Armin Kübelbeck, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 The decisive moment for the history of books at Lorsch came under its fourth abbot, Richbod (784–804), a member of the circle of Alcuin<a href="/endnotes.html#fn-alcuin" class="footnote"><sup>1</sup></a> who was trained at Charlemagne's court and who between 791 and 793 also held the archbishopric of Trier. Richbod built up the scriptorium and, with it, a school and a library; his successor Adalung (804–837) — who from 808 was simultaneously abbot of Saint-Vaast at Arras — expanded the collection still further, before growth tailed off under Abbot Samuel (837–856). According to the four surviving library catalogues (Vatican, BAV, Pal. lat. 1877, and Pal. lat. 57), compiled between about 830 and 860, roughly five hundred codices had been gathered at Lorsch by the middle of the ninth century. The library held treasures of late antiquity, including the fifth- or sixth-century "Vergilius Palatinus" (Pal. lat. 1631) and a palimpsest (Pal. lat. 24) whose lower script reaches back to the fourth century, and it preserved unique texts such as books 41–45 of Livy (now Vienna, ÖNB, Cod. 15).

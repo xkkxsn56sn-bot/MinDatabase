@@ -34,7 +34,7 @@ OVERRIDES = {
     ("Book-of-Mulling", "book-of-mulling-04.jpg"): "shrine",
 }
 
-FIGURE_RE = re.compile(r"<figure>(.*?)</figure>", re.S)
+FIGURE_RE = re.compile(r"<figure\b[^>]*>(.*?)</figure>", re.S)
 SRC_RE = re.compile(r'<(?:img|video)\b[^>]*?\ssrc="([^"]+)"')
 CAP_RE = re.compile(r"<figcaption>(.*?)</figcaption>", re.S)
 
