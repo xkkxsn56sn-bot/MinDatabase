@@ -63,6 +63,10 @@ o. Check 14, le immagini concesse da un museo: una didascalia con
    «Courtesy of», «reproduced with permission» o «su concessione» vuole
    <figure data-no-download>; con il marcatore e' verde, senza e' rossa
    (con numero di figura), e una figura Commons senza dicitura resta verde.
+p. Check 12 legge ogni <figure>, anche con attributi: fino al 24 novembre
+   2026 il pattern pretendeva '<figure>' nudo, e tre immagini di contesto in
+   figure con classe (dimma-08, lorsch-01, usserianus-secundus-03) sono
+   rimaste fuori forma senza che il check le vedesse.
 """
 import sys
 from pathlib import Path
@@ -499,6 +503,32 @@ an = defaultdict(list)
 v.check_permission_figures(sorted(v.CONTENT_DIR.rglob("*.md")), an)
 check("o. schede del repository pulite",
       not an, "; ".join(x for k in an for x in an[k]))
+
+# --- p. Check 12 su figure con attributi ---------------------------------
+def codex12(body):
+    """Esegue il check 12 su una scheda finta Content/Codex/Codex-Prova.md."""
+    saved = v.CONTENT_DIR
+    with tempfile.TemporaryDirectory(dir=v.REPO_ROOT) as tmp:
+        try:
+            v.CONTENT_DIR = Path(tmp)
+            (Path(tmp) / "Codex").mkdir()
+            md = Path(tmp) / "Codex" / "Codex-Prova.md"
+            md.write_text(body, encoding="utf-8")
+            an = defaultdict(list)
+            v.check_codex_image_names([md], an)
+            return an
+        finally:
+            v.CONTENT_DIR = saved
+CAP12 = "<figcaption>Codex Prova, Somewhere, MS 1, fol. 12r.</figcaption>"
+check("p. figure con classe e nome sbagliato: rosso",
+      "Nome immagine Codex" in codex12(
+          '<figure class="figure--right figure--right-400">\n'
+          f'  <img src="/Images/Codex-Prova/prova-03.jpg" alt="x">\n  {CAP12}\n</figure>\n'))
+check("p. figure con data-no-download e nome giusto: verde",
+      not codex12('<figure data-no-download>\n'
+                  f'  <img src="/Images/Codex-Prova/codex-prova-f012r.jpg" alt="x">\n  {CAP12}\n</figure>\n'))
+check("p. figure nuda e nome giusto: verde (controllo del caso base)",
+      not codex12(f'<figure>\n  <img src="/Images/Codex-Prova/codex-prova-f012r.jpg" alt="x">\n  {CAP12}\n</figure>\n'))
 
 print()
 if FAILURES:

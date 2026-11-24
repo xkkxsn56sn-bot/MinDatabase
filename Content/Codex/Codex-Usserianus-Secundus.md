@@ -250,7 +250,7 @@ This is not merely a clerical discrepancy; it reflects the mixed grade of the wr
 The traditional account of the manuscript's origin ties it to the small monastic settlement on Ireland's Eye (Inis Mac Neasáin), the rocky islet immediately north of Howth Harbour. According to this tradition, a monastery was founded there — the standard account attributes it to the sons of a certain Nessan around the early eighth century, or, in some tellings, places St Nessan's foundation in the later sixth century — and it was in the scriptorium of this island monastery that the Garland of Howth was written. The book was subsequently kept in the parish church on the mainland at Howth. The island's Irish name, Inis Mac Neasáin ("island of the sons of Nessan"), and the dedication of its ruined church to the "Three Sons of Nessan" preserve the association, which also appears in a Latin form (Insula Filiorum Nessani) in a papal document of the twelfth century.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Codex-Usserianus-Secundus/usserianus-secundus-03.jpg" alt="Ireland's Eye from the sky">
+  <img src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-context-irelands-eye.jpg" alt="Ireland's Eye from the sky">
   <figcaption>Aerial view of Ireland's Eye.</figcaption>
 </figure>
 

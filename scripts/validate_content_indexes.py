@@ -770,7 +770,7 @@ def check_zoom_files(md_files, anomalies, manifest_path=ZOOM_MANIFEST):
 # Le immagini di Content/Codex/ si nominano per foglio, ricavando il nome dalla
 # didascalia. Il contratto sta in codex_image_names.py; qui si legge ogni
 # <figure> e si confronta il nome del file con il foglio che la didascalia dice.
-CODEX_FIGURE_RE = re.compile(r"<figure>(.*?)</figure>", re.S)
+CODEX_FIGURE_RE = re.compile(r"<figure\b[^>]*>(.*?)</figure>", re.S)
 CODEX_SRC_RE = re.compile(r'<(?:img|video)\b[^>]*?\ssrc="([^"]+)"')
 CODEX_CAP_RE = re.compile(r"<figcaption>(.*?)</figcaption>", re.S)
 

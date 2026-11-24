@@ -110,7 +110,7 @@ To these must be added the physical and archival scholarship of [Charles Rufus M
 The abbey of Lorsch, on the plain between the Rhine and the Odenwald near Worms, was founded in 764 by the Frankish count Cancor and his mother Williswinda, with the involvement of Chrodegang of Metz. In 765 it received from Italy the relics of the martyr St Nazarius, whose patronage it thereafter bore; the community moved to its permanent site and the church was consecrated in the following years. In 772 the monastery was transferred to Charlemagne, becoming a royal abbey (*Reichskloster*) and, in the words of the Heidelberg project that has reconstructed its library, "a central economic and administrative base in the Carolingian dominion on the Middle and Upper Rhine." It remained an imperial abbey until 1232, when it passed to the archbishopric of Mainz.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Codex-Aureus-of-Lorsch/lorsch-01.jpg" alt="The Königshalle (Kingshall) of Lorsch Abbey">
+  <img src="/Images/Codex-Aureus-of-Lorsch/codex-aureus-of-lorsch-context-torhalle.jpg" alt="The Königshalle (Kingshall) of Lorsch Abbey">
   <figcaption>The 9th-century Torhalle (Königshalle) of Lorsch Abbey.</figcaption>
 </figure>
 

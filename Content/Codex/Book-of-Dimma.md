@@ -354,7 +354,7 @@ The body is treated as a series of enclosed compartments outlined in yellow: two
 The detail that has attracted most comment lies at the base of the composition. The eagle's talons grasp a rectangular object, red with yellow studs, whose upper edge is closed by a flap secured with a row of small fastenings. This is the gospel book, and it is shown not bare but in its cover or satchel. The observation matters, because such a cover survives: the l, found in a bog in north County Tipperary in 2006 and assigned to around the year 800, confirms that what the illuminator drew was an object he knew rather than a decorative invention. The eagle of John does not merely hold scripture; it holds a book equipped for travel — an apt emblem, in a manuscript that was itself made to be carried.
 
 <figure class="figure--right figure--right-400">
-  <img src="/Images/Book-of-Dimma/dimma-08.jpg" alt="leather satchel from the Faddan More Psalter">
+  <img src="/Images/Book-of-Dimma/book-of-dimma-context-faddan-more-cover.jpg" alt="leather satchel from the Faddan More Psalter">
   <figcaption>The Fastened Flap: Early Medieval Book-Cover from Faddan More, County Tipperary.</figcaption>
 </figure>
 
