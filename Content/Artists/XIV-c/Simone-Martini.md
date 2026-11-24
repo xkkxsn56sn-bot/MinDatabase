@@ -1168,7 +1168,7 @@ As the central image of the polyptych, the Madonna would originally have been fl
 
 #### Saints Geminianus, Michael and Augustine (Cambridge, Fitzwilliam Museum)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Simone-Martini/simone-martini-36.jpg" alt="Three gabled panels in a modern gilded frame, each with a half-length saint under a round arch on a gold ground and a half-length angel in the gable above. On the left, Saint Geminianus, an elderly bearded bishop in a jewelled mitre, red chasuble and white gloves, holds a crozier and a green book. In the centre, the Archangel Michael, with red-gold hair, a jewel on his brow and folded wings, holds a sword upright and a pair of scales in which a tiny figure of a soul sits in one pan. On the right, Saint Augustine, a bearded bishop in a jewelled mitre and a patterned white and gold cope over the black habit of his order, holds a crozier and a red book. The three angels above wear robes of red, blue, green and pink">
   <figcaption>Simone Martini and workshop, Saints Geminianus, Michael and Augustine, each with an Angel above, lateral panels of the polyptych of Sant'Agostino, San Gimignano, c. 1316–1320. Tempera and gold on panel, each panel about 110.5 × 38.3 cm. Cambridge, The Fitzwilliam Museum, no. 552. Image © The Fitzwilliam Museum, Cambridge.</figcaption>
 </figure>
@@ -1969,7 +1969,7 @@ The Saint Ansanus is a striking image of civic holiness. The young saint, with h
 
 #### Saint Peter
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Simone-Martini/simone-martini-63.jpg" data-zoom-src="/Images/Simone-Martini/simone-martini-63-zoom-v2.jpg" alt="Gold-ground panel showing Saint Peter in half length, an elderly man with curly grey hair and beard, glancing sideways to the right; he wears a blue tunic with a gold-embroidered collar and a large orange-yellow mantle with gold borders; in his right hand he holds two large keys, while his left hand rests on a closed green book with clasps and red ribbons placed on the lower edge of the panel.">
   <figcaption>Simone Martini, <em>Saint Peter</em>, c. 1325–1328, tempera and gold on wood, 58 × 38.5 cm. Madrid, Museo Nacional Thyssen-Bornemisza, Carmen Thyssen Collection (CTB.1997.20). Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
@@ -2466,7 +2466,7 @@ The manuscript also preserves a personal document of Petrarch's life. On a leaf 
 
 ### Christ on the Cross (Cambridge, Mass., Harvard Art Museums)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Simone-Martini/simone-martini-81.jpg" data-zoom-src="/Images/Simone-Martini/simone-martini-81-zoom.jpg" alt="Small gabled gold-ground panel showing Christ crucified on a dark wooden cross with the titulus INRI; his head, with a punched halo, falls on his right shoulder, his pale body hangs in a curve, wrapped in a transparent loincloth; streams of bright red blood flow from the hands, the side and the feet down the cross to a green mound, where they pool on the ground.">
   <figcaption>Simone Martini, <em>Christ on the Cross</em>, c. 1340, tempera and gold on panel, 25 × 13.6 cm. Cambridge, Mass., Harvard Art Museums/Fogg Museum, Hervey E. Wetzel Bequest Fund (1919.51). Photo © President and Fellows of Harvard College; Harvard Art Museums, <a href="https://harvardartmuseums.org/collections/object/232070">harvardartmuseums.org/collections/object/232070</a>.</figcaption>
 </figure>

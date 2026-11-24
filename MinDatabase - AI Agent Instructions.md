@@ -742,21 +742,34 @@ zoom si aprono soltanto dalle schede:
   tocco il pulsante diventa «Save». Se il fetch fallisce il file si apre in
   una nuova scheda, o il pulsante diventa il link «Open image ↗». Sotto il
   pulsante compare il credito con la licenza, preso dalla figcaption
-  dall'ultimo «Photo:», «Image:» o «Source:»; senza, il rimando alla
-  didascalia. Per questo la figcaption di una figura con zoom deve chiudere
+  dall'ultimo «Photo:», «Image:» o «Source:»; in mancanza, dall'ultimo «©»
+  (con «Photo» o «Image» subito prima, se ci sono: «Image © The Fitzwilliam
+  Museum»); senza nessuno dei due, il rimando alla didascalia. Per questo la figcaption di una figura con zoom deve chiudere
   con il credito in quella forma.
 
-**Immagini concesse da un museo.** Le immagini pubblicate con il permesso di
-un museo (non con licenza libera: Timken, MIBAC–Soprintendenza di Bologna)
-vanno in `<figure data-no-download>`. Il visualizzatore nasconde allora il
-pulsante Download (anche da tastiera: l'URL da scaricare resta vuoto) e lascia
-visibile il credito sotto la sua posizione; aprendo poi una figura senza
-marcatore il pulsante ricompare. La didascalia usa la dicitura richiesta dal
-museo («reproduced with permission», «Courtesy of …», «su concessione …»). Il
-check 14 di `validate_content_indexes.py` segnala come errore, con file e
-numero di figura, ogni figcaption che contiene una di queste diciture fuori da
-una `<figure data-no-download>`. Il marcatore toglie il pulsante, non impedisce
-il salvataggio dal browser (tasto destro, trascinamento, screenshot).
+**Immagini di musei senza licenza Creative Commons.** Ogni immagine di museo
+che non ha una licenza Creative Commons va in `<figure data-no-download>`.
+Sono di due tipi: le immagini usate secondo le condizioni non commerciali del
+museo (Louvre, Harvard Art Museums, Fitzwilliam, Morgan Library, V&A, Thyssen)
+e quelle concesse su richiesta (Timken, National Gallery con Scholarly Waiver,
+MIBAC–Soprintendenza di Bologna); nessuna delle due mostra il Download. Il
+visualizzatore nasconde allora il pulsante (anche da tastiera: l'URL da
+scaricare resta vuoto) e lascia visibile il credito sotto la sua posizione;
+aprendo poi una figura senza marcatore il pulsante ricompare. La didascalia
+chiude con il credito nella forma richiesta dal museo («Photo: © …»,
+«reproduced with permission», «Courtesy of …», «su concessione …»).
+
+La regola, verificata dal check 14 di `validate_content_indexes.py`: una
+figcaption che contiene «©», «courtesy», «with permission» o «su concessione»
+(maiuscole indifferenti) e non contiene un link a `creativecommons.org` deve
+stare in una `<figure data-no-download>`; altrimenti e' un errore, con file e
+numero di figura. Le figure con licenza CC (le foto Commons, le National
+Gallery CC BY-NC-ND) restano senza marcatore e con il Download. Per questo la
+licenza CC in didascalia va sempre linkata
+(`<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>`):
+scritta come testo semplice, il check la tratta come immagine senza licenza.
+Il marcatore toglie il pulsante, non impedisce il salvataggio dal browser
+(tasto destro, trascinamento, screenshot).
 
 Gli script che leggono gli zoom fuori dal browser devono mandare il Referer
 del sito (`check_zoom_r2.py` lo fa) o non passare dal dominio pubblico:

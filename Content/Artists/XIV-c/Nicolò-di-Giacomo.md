@@ -804,7 +804,7 @@ Its route from the dispersed gradual to the Burke Collection has not been verifi
 
 ### The Signed Crucifixion of the Morgan Ordinal (MS M.800)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Nicolo-di-Giacomo/nicolo-di-giacomo-14.jpg" alt="Full-page Crucifixion from a liturgical manuscript, on a gold ground patterned with dark scrollwork within a red frame. Christ, cross-nimbed and crowned with thorns, hangs on the cross beneath a titulus scroll; four angels in red and green catch the blood from his hands and side, one holding a chalice. The Virgin stands at the left in blue and Saint John at the right in a pale blue mantle, both with clasped hands; the red-clad Magdalene kneels at the foot of the cross on rocky ground. The artist's signature runs along the ground at the lower right.">
   <figcaption>Nicolò di Giacomo da Bologna, <em>The Crucifixion</em>, signed "Nicolaus de Bononia F.", from a liturgical miscellany (ordinal), Bologna, c. 1370. New York, The Morgan Library &amp; Museum, MS M.800, fol. 39v, facing the Canon of the Mass. Image © The Morgan Library &amp; Museum.</figcaption>
 </figure>

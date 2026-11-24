@@ -89,10 +89,12 @@ Sola lettura: non modifica alcun file. Controlli eseguiti:
     miniature della galleria puntavano a file inesistenti senza che nessun
     controllo se ne accorgesse.
 
-14. Una figura la cui didascalia contiene «reproduced with permission»,
-    «Courtesy of» o «su concessione» (immagine concessa da un museo, non con
-    licenza libera) sta in una <figure data-no-download>: il visualizzatore
-    nasconde allora il pulsante Download e lascia il credito.
+14. Una figura la cui didascalia contiene «©», «courtesy», «with permission»
+    o «su concessione» (maiuscole indifferenti) e non contiene un link a
+    creativecommons.org (immagine di museo senza licenza Creative Commons)
+    sta in una <figure data-no-download>: il visualizzatore nasconde allora
+    il pulsante Download e lascia il credito. Una licenza CC scritta senza
+    link non basta: la didascalia viene trattata come senza licenza.
 
 I controlli da 1 a 9 lavorano sui .md; il 10 e l'11 leggono i due
 contenitori HTML, endnotes.html e scholars.html; il 12 i soli .md di Codex;
@@ -804,26 +806,31 @@ def check_codex_image_names(md_files, anomalies):
 
 
 # --- Check 14: immagini concesse da un museo ----------------------------
-# Le immagini pubblicate con il permesso di un museo (non con licenza libera)
-# portano data-no-download sul <figure>: il visualizzatore nasconde il
-# Download e mostra il credito. Il marcatore e' facile da dimenticare quando
-# si aggiunge una figura, mentre la dicitura del museo in didascalia c'e'
-# sempre: il check parte da quella. Il marcatore toglie il pulsante, non
-# impedisce il salvataggio dal browser.
+# Le immagini di musei senza licenza Creative Commons (concesse su richiesta,
+# o usate secondo le condizioni non commerciali del museo) portano
+# data-no-download sul <figure>: il visualizzatore nasconde il Download e
+# mostra il credito. Il marcatore e' facile da dimenticare quando si aggiunge
+# una figura, mentre il credito del museo in didascalia c'e' sempre: il check
+# parte da quello («©», «courtesy», «with permission», «su concessione») e
+# assolve le didascalie che linkano una licenza su creativecommons.org. Il
+# marcatore toglie il pulsante, non impedisce il salvataggio dal browser.
 PERMISSION_FIGURE_RE = re.compile(r"<figure\b([^>]*)>(.*?)</figure>", re.S)
 PERMISSION_CAP_RE = re.compile(r"<figcaption\b[^>]*>(.*?)</figcaption>", re.S)
 PERMISSION_PHRASE_RE = re.compile(
-    r"reproduced\s+with\s+permission|courtesy\s+of|su\s+concessione", re.I)
+    r"©|courtesy|with\s+permission|su\s+concessione", re.I)
+CC_LINK_RE = re.compile(r"creativecommons\.org", re.I)
 NO_DOWNLOAD_ATTR_RE = re.compile(r"(?:^|\s)data-no-download(?:\s|=|$)")
 PERMISSION_SRC_RE = re.compile(r'<img\b[^>]*?\ssrc="([^"]+)"')
 
 
 def permission_figure_problems(text):
-    """Figure con dicitura di concessione senza data-no-download: [dettaglio]."""
+    """Figure di museo senza licenza CC e senza data-no-download: [dettaglio]."""
     out = []
     for n, m in enumerate(PERMISSION_FIGURE_RE.finditer(text), 1):
         cap = PERMISSION_CAP_RE.search(m.group(2))
         if not cap or not PERMISSION_PHRASE_RE.search(cap.group(1)):
+            continue
+        if CC_LINK_RE.search(cap.group(1)):
             continue
         if NO_DOWNLOAD_ATTR_RE.search(m.group(1)):
             continue

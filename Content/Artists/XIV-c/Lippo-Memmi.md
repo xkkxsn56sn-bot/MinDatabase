@@ -1435,7 +1435,7 @@ The type of the saint, with the long face, the narrow eyes and the gaze turned a
 
 #### Saint Peter (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Lippo-Memmi/lippo-memmi-33.jpg" alt="Panel with a pointed arch and inner trefoil, in a gilded moulded frame. Against a worn gold ground with red bole showing through, Saint Peter stands in half length, frontal, with short grey curly hair, a short grey beard and a tooled halo. He wears a blue tunic with a dark embroidered collar and an orange-yellow mantle, and over his shoulders a white pallium marked with black crosses that falls down the front. In his right hand he holds two large keys with ornamented bits, in his left a closed red book with black clasps.">
   <figcaption>Lippo Memmi, <em>Saint Peter</em>, from the polyptych of San Francesco, San Gimignano, second quarter of the 14th century. Tempera on gold ground on poplar, 94 × 44.2 cm. Paris, Musée du Louvre, Département des Peintures, MI 690. Photo © 2017 GrandPalaisRmn (musée du Louvre) / Franck Raux (background modified).</figcaption>
 </figure>
@@ -1701,7 +1701,7 @@ The panel's rich programme, angels, saints and predella, gives a small devotiona
 
 ### Crucifixion, wing of a diptych (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Lippo-Memmi/lippo-memmi-37.jpg" data-zoom-src="/Images/Lippo-Memmi/lippo-memmi-37-zoom.jpg" alt="Tall gold-ground panel with a triangular gable, in a gilded frame. At the centre a tall cross rises from a rocky mound with a skull and bones at its foot, stained with blood. Christ hangs dead, his head inclined on his right shoulder, a white loincloth around his hips, blood flowing from the wound in his side and from his feet. Above the cross-bar a red titulus with white letters is flanked by two small angels, and at the top of the cross a pelican stands in its nest. At the left a group of haloed women supports the Virgin, who wears a dark mantle and turns her face upwards; behind them a soldier in a mail hood points to the cross, and a spear rises. At the right Saint John the Evangelist, in a blue tunic and red mantle, clasps his hands; behind him a haloed bearded man and a crowd of soldiers with spears, a sponge on a reed and a red banner.">
   <figcaption>Lippo Memmi (or Simone Martini?), <em>Crucifixion</em>, wing of a diptych, c. 1340. Tempera and gold on poplar, 60.8 × 28.8 cm. Paris, Musée du Louvre, Département des Peintures, RF 1984 31. Photo © 2017 GrandPalaisRmn (musée du Louvre) / Franck Raux.</figcaption>
 </figure>
@@ -1724,7 +1724,7 @@ The panel is in good condition. The gold ground is worn in places, revealing the
 
 ### The Fall of the Rebel Angels (Paris, Musée du Louvre, on deposit from the Musée du Berry, Bourges)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Lippo-Memmi/lippo-memmi-79.jpg" data-zoom-src="/Images/Lippo-Memmi/lippo-memmi-79-zoom.jpg" alt="Tall gold-ground panel with a pointed gable, its edges worn. In the gable, God sits enthroned in a blue mantle within a mandorla of red seraphim, raising his hand. Below him, a band of heaven: rows of angels in coloured robes seated in tiers on choir stalls at either side, and at the centre the archangel Michael in armour with other armed angels standing guard before empty seats. A strip of dark blue sky with gold stars runs beneath them. In the large lower field, on a worn gold ground, the rebel angels tumble headlong through the air, the upper ones still with feathered wings and human forms, the lower ones turned into black, bat-winged demons with claws and tails, falling towards a dark mound of earth at the bottom.">
   <figcaption>Memmi family (Master of the Rebel Angels; attributed to Lippo Memmi or Simone Martini), <em>The Fall of the Rebel Angels</em>, originally the other face of the Saint Martin Dividing his Cloak (DL 1967 1 B), first half of the 14th century. Gold ground, transferred from panel to canvas in 1967, 64 × 29 cm. Paris, Musée du Louvre, Département des Peintures, DL 1967 1 A, on deposit from the Musée du Berry, Bourges. Photo © 2017 GrandPalaisRmn (musée du Louvre) / Franck Raux.</figcaption>
 </figure>
@@ -1747,7 +1747,7 @@ The panel is in fragile condition, the result of its age and of the transfer to 
 
 ### Saint Martin Dividing his Cloak (Paris, Musée du Louvre, on deposit from the Musée du Berry, Bourges)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Lippo-Memmi/lippo-memmi-38.jpg" data-zoom-src="/Images/Lippo-Memmi/lippo-memmi-38-zoom.jpg" alt="Narrow gold-ground panel with a pointed gable, its edges worn and irregular. At the right Saint Martin, haloed, with reddish-gold hair held by a band and a short red beard, stands in half length with his eyes lowered. He wears a dark green tunic with gold borders and holds with his left hand a red mantle lined with blue, which he cuts with a sword whose blade is visible at the lower edge. At the left only the head of the beggar survives, dark-haired and bowed, seen in profile; the rest of his figure and the lower left part of the panel are lost, showing the bare preparation.">
   <figcaption>Memmi family (Master of the Rebel Angels; attributed to Lippo Memmi or Simone Martini), <em>Saint Martin Dividing his Cloak</em>, originally the reverse of the Fall of the Rebel Angels (DL 1967 1 A), first half of the 14th century. Gold ground, transferred from panel to canvas in 1967, 64 × 29 cm. Paris, Musée du Louvre, Département des Peintures, DL 1967 1 B, on deposit from the Musée du Berry, Bourges. Photo © 2017 GrandPalaisRmn (musée du Louvre) / Franck Raux.</figcaption>
 </figure>
@@ -2076,7 +2076,7 @@ The width of the pinnacle, greater than its height, indicates that it crowned a 
   <figcaption>Simone Martini, <em>Madonna and Child</em>, central panel of the polyptych of Sant'Agostino, San Gimignano, c. 1316–1317. Tempera and gold on poplar, 79.5 × 57 cm (dimensions as given by the museum). Cologne, Wallraf-Richartz-Museum &amp; Fondation Corboud, WRM 0880. Photo: Raimond Spekking, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Lippo-Memmi/lippo-memmi-50.jpg" alt="Three gabled panels in a modern gilded frame, each with a half-length saint under a round arch on a gold ground and a half-length angel in the gable above. On the left, Saint Geminianus, an elderly bearded bishop in a jewelled mitre, red chasuble and white gloves, holds a crozier and a green book. In the centre, the Archangel Michael, with red-gold hair, a jewel on his brow and folded wings, holds a sword upright and a pair of scales in which a tiny figure of a soul sits in one pan. On the right, Saint Augustine, a bearded bishop in a jewelled mitre and a patterned white and gold cope over the black habit of his order, holds a crozier and a red book.">
   <figcaption>Simone Martini and workshop, <em>Saints Geminianus, Michael and Augustine, each with an Angel above</em>, lateral panels of the polyptych of Sant'Agostino, San Gimignano, c. 1316–1320. Tempera and gold on panel, each panel about 110.5 × 38.3 cm. Cambridge, The Fitzwilliam Museum, no. 552. Image © The Fitzwilliam Museum, Cambridge.</figcaption>
 </figure>

@@ -318,7 +318,7 @@ The colours of the garments have darkened in places. The gold grounds are worn, 
 
 ### The Adoration of the Shepherds, central panel of the Saint Victor altarpiece (Cambridge, Mass., Harvard Art Museums)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-01.jpg" data-zoom-src="/Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-01-zoom.jpg" alt="Tall panel in a gilded frame with a pointed gable and an inner round arch. Inside a shelter of pale blue architecture with thin white columns, the Virgin, in a dark blue mantle over a red dress, sits at the centre with her hands crossed on her breast; her halo is inscribed. At the left Saint Joseph, in an orange mantle, sits with his hand at his chin; behind him the ox and the ass look over a wooden manger in which the swaddled Child lies. In the foreground stand a gold ewer and basin. At the right a shepherd with a staff kneels and looks towards the Virgin; above him a hand and part of a second figure are cut off by the edge. At the top, God the Father appears among red seraphim, a white dove descends towards the manger, and two groups of angels with gold wings hover at the sides.">
   <figcaption>Bartolomeo Bulgarini, <em>The Adoration of the Shepherds</em> (also known as <em>The Nativity</em>), c. 1350, central panel of the altarpiece of the altar of Saint Victor, Siena Cathedral. Tempera on panel, 172.4 × 123.2 cm; frame 212.7 × 142.2 cm. Cambridge, Mass., Harvard Art Museums/Fogg Museum, Friends of the Fogg Art Museum Fund and Henry Goldman Fund, 1917.89. Image © President and Fellows of Harvard College, for non-commercial educational use.</figcaption>
 </figure>
@@ -387,7 +387,7 @@ The panel is in good condition. The blue of the mantle and the gold of the broca
 
 ### The Crucifixion, central panel of the predella of the Saint Victor altarpiece (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-02.jpg" data-zoom-src="/Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-02-zoom.jpg" alt="Horizontal predella panel with a gold ground. At the centre Christ hangs dead on a tall cross. At the left a group of holy women in blue, pink and yellow mantles supports the fainting Virgin, while a woman with long fair hair turns towards her; behind them an old man looks on, and on a dark hill with trees soldiers on horseback carry spears. At the right of the cross Saint John the Evangelist, in a pink and blue mantle, stands with his head bowed. Further right a centurion on a white horse raises his arm towards the cross, surrounded by soldiers with spears, a red banner and a group of bearded men in turbans and hoods.">
   <figcaption>Bartolomeo Bulgarini, <em>The Crucifixion</em>, c. 1350, central panel of the predella of the altarpiece of the altar of Saint Victor, Siena Cathedral. Tempera on gold ground on panel, 43.6 × 77 cm; with frame 61 × 92.4 cm. Paris, Musée du Louvre, INV 312; acquired in 1828 from the collection of Pierre Révoil. © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>

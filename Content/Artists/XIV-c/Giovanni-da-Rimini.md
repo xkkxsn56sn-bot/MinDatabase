@@ -422,7 +422,7 @@ The relationship with the Barberini panel has been clarified by technical examin
 
 <figure>
   <img src="/Images/Giovanni-da-Rimini/giovanni-da-rimini-06.jpg" alt="Gilded panel by Giovanni da Rimini with four scenes of unequal size. Upper left: mourners bow at an altar-tomb beneath a hexagonal canopy while, high above, Saint John the Evangelist is received in heaven by Christ, the Virgin, angels and saints. Upper right: Christ crowns the Virgin on a Gothic throne above a crowd of angels looking up. Lower left: Saint Catherine, crowned, preaches from a pulpit to philosophers and the enthroned Emperor Maxentius. Lower right: Saint Francis kneels in a rocky landscape receiving the stigmata from a red seraph, beside Saint John the Baptist. National Gallery, London">
-  <figcaption>Scenes from the Lives of the Virgin and other Saints, probably about 1300–05, egg tempera on wood, 54.4 × 36.5 cm, London, National Gallery, NG6656. Acquired with a generous donation from Ronald S. Lauder, 2015. Photo © The National Gallery, London, CC BY-NC-ND 4.0.</figcaption>
+  <figcaption>Scenes from the Lives of the Virgin and other Saints, probably about 1300–05, egg tempera on wood, 54.4 × 36.5 cm, London, National Gallery, NG6656. Acquired with a generous donation from Ronald S. Lauder, 2015. Photo © The National Gallery, London, <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.</figcaption>
 </figure>
 
 #### The Ascension of Saint John the Evangelist

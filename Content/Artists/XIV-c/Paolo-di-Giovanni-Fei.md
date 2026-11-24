@@ -436,7 +436,7 @@ The panel is in good condition. The colours, the pink, red, blue and white of th
 
 ### Workshop of Paolo di Giovanni Fei, Biccherna Cover with the Camarlingo Niccolò di Leonardo della Gazaia (London, Victoria and Albert Museum)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-di-Giovanni-Fei/paolo-di-giovanni-fei-09.jpg" alt="Upright painted panel in three zones. Above, the interior of an office with pink walls, a barred window at the right and a row of small white labelled boxes on a shelf; at the top centre is the black and white shield of Siena. Behind a long counter stand two officials in red caps: at the left the scrivener in blue, holding up a slip of paper, at the right the camarlingo in red, with his hand in a bowl of coins; on the counter are inkwells, pens and papers. In front of the counter three taxpayers in short tunics of blue, pink and white approach, one holding a coin. Strongboxes stand on the bench at the left, on the bench at the right and on the floor, beside a small open door. In the middle zone six coats of arms are painted on a gold band. Below, a long inscription in black Gothic capitals on a white ground fills the lower half, damaged at the left. The panel is framed by a border of small roundels.">
   <figcaption>Workshop of Paolo di Giovanni Fei, <em>Biccherna cover with the Camarlingo Niccolò di Leonardo della Gazaia, his Scrivener and Three Taxpayers</em>, 1402. Tempera on panel, with tooled gilding and silver, 44 × 32.4 cm. London, Victoria and Albert Museum, 414-1892. © Victoria and Albert Museum, London; image for non-commercial educational use only.</figcaption>
 </figure>

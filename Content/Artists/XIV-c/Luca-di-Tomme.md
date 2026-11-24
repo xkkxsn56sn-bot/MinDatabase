@@ -731,9 +731,9 @@ The picture's later history is that of many works in Dutch collections of the pe
 
 ### The Crown on the Ground: Luca di Tommè's Adoration of the Magi
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Luca-di-Tomme/luca-di-tomme-27.jpg" alt="The Adoration of the Magi">
-  <figcaption>The Adoration of the Magi, 1360-65, tempera and gold on panel, 41 × 42 cm, Madrid, Museo Nacional Thyssen-Bornemisza.</figcaption>
+  <figcaption>The Adoration of the Magi, 1360-65, tempera and gold on panel, 41 × 42 cm, Madrid, Museo Nacional Thyssen-Bornemisza. Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 
 The critical history of this small square panel is instructive. When it was offered at the Helbing gallery in Munich in 1919 it was catalogued as a work in the manner of Taddeo Gaddi; the attribution to Luca di Tommè was made by [F. Mason Perkins](/scholars.html#perkins-frederick-mason), who published it in the *Rassegna d'Arte Senese* in 1924, and it has not since been questioned, though the dating has remained a matter of debate. The panel formed part of the predella of an altarpiece, and the reconstruction of that predella has occupied several generations of scholars: in 1963 Millard Meiss identified its central compartment as the *Crucifixion* now in the Fine Arts Museums of San Francisco, arguing from the decoration of the gold haloes and the ornamental borders as well as from more general stylistic considerations; in 1979 Cristina De Benedictis proposed two further scenes, a *Nativity* and a *Presentation*, both in private collections, though without publishing photographs to support the suggestion; the first photographic reconstruction of the ensemble was assembled by Gaudenz Freuler for the exhibition catalogue *Manifestatori delle cose miracolose*.

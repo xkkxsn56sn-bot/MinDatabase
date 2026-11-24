@@ -17,7 +17,8 @@
   link when that tab is blocked). The zoom host sends CORS headers only to the
   site's origins (R2 bucket CORS rule); the fetch asks for ?download=1 and
   skips the browser cache, where the <img> left a copy without them. Next to the button: the credit and
-  licence taken from the figcaption ("Photo:", "Image:" or "Source:").
+  licence taken from the figcaption ("Photo:", "Image:" or "Source:", else
+  the last "©").
   <figure data-no-download>: image reproduced with a museum's permission (not a
   free licence); the viewer hides the Download button and keeps the credit.
   Self-contained: no external libraries, no cookies, no third-party calls.
@@ -166,12 +167,15 @@
   function fit(anim) { s = 1; x = 0; y = 0; render(anim); }
 
   // Credit and licence: the figcaption from its last "Photo:", "Image:" or
-  // "Source:" to the end, links included (e.g. the CC licence)
+  // "Source:" to the end, links included (e.g. the CC licence); without one,
+  // from the last "©" (with a "Photo" or "Image" just before it, if present),
+  // the form of many museum credits ("Image © The Fitzwilliam Museum")
   function credit(fc) {
     dlCredit.textContent = "";
     if (!fc) return;
     var text = fc.textContent, re = /\b(?:Photo|Image|Source)\b[^:.]{0,30}:/g, m, at = -1;
     while ((m = re.exec(text))) at = m.index;
+    if (at < 0) { re = /(?:\b(?:Photo|Image)\s+)?©/g; while ((m = re.exec(text))) at = m.index; }
     if (at < 0) { dlCredit.textContent = "Credit and licence: see the caption."; return; }
     var walk = document.createTreeWalker(fc, NodeFilter.SHOW_TEXT), n, seen = 0;
     while ((n = walk.nextNode())) {

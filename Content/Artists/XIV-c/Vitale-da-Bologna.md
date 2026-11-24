@@ -587,9 +587,9 @@ Several panels are now outside Italy, beginning with two early Calvaries in Madr
 
 ### The Crucifixion (Madrid)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Vitale-da-Bologna/vitale-da-bologna-19.jpg" alt="Tall gold-ground panel by Vitale da Bologna with the three crosses of Calvary: at the centre Christ hangs on a high yellow cross, his grey-green body sagging, while small angels fly about his wounds; the two thieves hang on lower crosses at the sides, their arms bent back over the crossbeams, a tiny angel rising by the thief at the left and a small dark winged devil perched on the cross of the thief at the right; below, at the left, the Virgin in a bright blue mantle collapses into the arms of the holy women as the long-haired Magdalene grasps the shaft of the cross, with soldiers in pale hats and lances behind; at the centre and right a troop of cavalry crowds in — a horse masked in black netted mail with gilt ornaments, a white and a brown horse, an armoured centurion raising his hand — while bearded elders argue, a bare-backed man in green twists away, and in the lower corner soldiers crouch to cast lots over a white garment; blood runs down the cross to the rocky mound, beneath which a complete skeleton lies in a dark cavity at the foot of the panel.">
-  <figcaption>The Crucifixion, c. 1335. Tempera and gold on panel, 93 × 51.2 cm. Madrid, Museo Nacional Thyssen-Bornemisza, inv. 425 (1930.122).</figcaption>
+  <figcaption>The Crucifixion, c. 1335. Tempera and gold on panel, 93 × 51.2 cm. Madrid, Museo Nacional Thyssen-Bornemisza, inv. 425 (1930.122). Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 
 The Thyssen Crucifixion is the larger and the more crowded of the two early Calvaries: a tall panel of 93 × 51.2 cm, tempera and gold, dated by the museum about 1335 and accepted — like its Philadelphia companion — among the earliest works in the catalogue. Its elongated vertical format has been connected in the literature with the window-pierced back wall of the high chapel of Udine Cathedral, a reminder that the panel's original setting, like its early history before the Thyssen collection, remains open.

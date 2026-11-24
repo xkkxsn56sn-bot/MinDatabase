@@ -396,7 +396,7 @@ The ensemble keeps its original structure. The gilding of the frame has been ren
 
 ### Virgin and Child (Avignon, Musée du Petit Palais, on deposit from the Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-Veneziano/paolo-veneziano-01.jpg" data-zoom-src="/Images/Paolo-Veneziano/paolo-veneziano-01-zoom.jpg" alt="Panel in a carved gilded frame with a pointed arch, cusped and scalloped, carried on twisted colonnettes, with rosettes in the spandrels. Against a gold ground, the Virgin is shown at half length in a deep blue mantle with a gold-embroidered border and a star on the shoulder, over a white veil and an orange-red dress. She inclines her head to the right and holds the Child with both hands. The Child, almost naked except for a white loincloth and a pale cloth beneath him, stretches his right arm round her neck and holds a small object in his left hand, looking out at the viewer. Both haloes are decorated with punched rosettes.">
   <figcaption>Paolo Veneziano, <em>Virgin and Child</em>, c. 1340. Tempera and gold on poplar panel, 44 × 40 cm. Paris, Musée du Louvre, INV 20194 (Campana 315), on deposit at the Musée du Petit Palais, Avignon (D. 228). © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>
@@ -645,7 +645,7 @@ The panel is in fair condition. The gold ground is well preserved, with some abr
 
 ### Polyptych of the Virgin and Child Enthroned with Saints Francis, John the Baptist, John the Evangelist and Anthony of Padua (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-Veneziano/paolo-veneziano-02.jpg" data-zoom-src="/Images/Paolo-Veneziano/paolo-veneziano-02-zoom.jpg" alt="Polyptych of three panels in carved gilded frames with round arches, twisted colonnettes and a foliate base. In the taller central panel the crowned Virgin sits on a pink and white architectural throne with green cushions, before a red cloth of honour, in a dark blue mantle patterned with gold over a red dress; the Child, in a white shirt and an olive-green cloak, sits on her knee and reaches towards her hand. Each lateral panel contains two standing saints under arches: at the left Saint Francis in a brown habit with a book and a cross, and Saint John the Baptist in a green mantle with a scroll; at the right Saint John the Evangelist in blue and red with an open book, and Saint Anthony of Padua in a brown habit with a red book. Their names are inscribed in red beside their heads.">
   <figcaption>Paolo Veneziano and workshop, <em>Polyptych of the Virgin and Child Enthroned with Saints Francis, John the Baptist, John the Evangelist and Anthony of Padua</em>, dated 1354. Tempera and gold on poplar; central panel 100 × 60.5 cm, lateral panels c. 83.4 × 52.5 cm. Paris, Musée du Louvre, MI 396, MI 396 bis and MI 396 ter (Campana 314). © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>
@@ -668,7 +668,7 @@ The polyptych is in good condition. The gold grounds are worn and scratched in p
 
 ### Polyptych of 1354: the Virgin and Child Enthroned (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-Veneziano/paolo-veneziano-03.jpg" data-zoom-src="/Images/Paolo-Veneziano/paolo-veneziano-03-zoom.jpg" alt="Central panel of a polyptych in a carved gilded frame with a round arch and twisted colonnettes. The crowned Virgin sits on a pink and white marble throne with two green cushions, before a cloth of honour of red and gold brocade patterned with small dark crosses. She wears a white veil, a round gold brooch and a dark blue mantle densely patterned with gold palmettes, over a red dress patterned in gold, and holds out her right hand. The Child, in a white shirt and an olive-green cloak, sits on her left knee, reaches out to her hand and looks down. On the base of the throne an inscription in small capitals gives the date.">
   <figcaption>Paolo Veneziano and workshop, <em>Virgin and Child Enthroned</em>, central panel of the polyptych dated 1354. Tempera and gold on poplar, 100 × 60.5 cm. Paris, Musée du Louvre, MI 396. © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>
@@ -691,7 +691,7 @@ The panel is in good condition. The gold ground is crossed by scratches and smal
 
 ### Polyptych of 1354: Saints Francis and John the Baptist (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-Veneziano/paolo-veneziano-04.jpg" data-zoom-src="/Images/Paolo-Veneziano/paolo-veneziano-04-zoom.jpg" alt="Lateral panel of a polyptych with two arches in a carved gilded frame and twisted colonnettes. At the left Saint Francis, in a brown habit with a cord, stands frontally, holding a red book with clasps and a small gold cross; his name is inscribed in red beside his head. At the right Saint John the Baptist, gaunt, with long hair and beard, wears a green mantle over a dark camel-hair garment, points with his right hand and holds an unrolled scroll inscribed ECCE AGNUS DEI ECCE QUI TOLLIS PECCATA; his name is inscribed beside his head. Both stand barefoot on a dark ground.">
   <figcaption>Paolo Veneziano and workshop, <em>Saints Francis and John the Baptist</em>, left lateral panel of the polyptych dated 1354. Tempera and gold on poplar. Paris, Musée du Louvre, MI 396 bis. © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>
@@ -714,7 +714,7 @@ The panel is in fair condition. The gold ground is crossed by numerous scratches
 
 ### Polyptych of 1354: Saints John the Evangelist and Anthony of Padua (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Paolo-Veneziano/paolo-veneziano-05.jpg" data-zoom-src="/Images/Paolo-Veneziano/paolo-veneziano-05-zoom.jpg" alt="Lateral panel of a polyptych with two arches in a carved gilded frame and twisted colonnettes. At the left Saint John the Evangelist, old, bald and with a curly white beard, wears a blue tunic and a large red mantle lined in green; he bends his head over an open book inscribed IN PRINCIPIO, which he holds in both hands. At the right Saint Anthony of Padua, young and tonsured, in a brown Franciscan habit, stands frontally holding a red book with clasps. Their names are inscribed in red beside their heads. Both stand barefoot on a dark ground against gold.">
   <figcaption>Paolo Veneziano and workshop, <em>Saints John the Evangelist and Anthony of Padua</em>, right lateral panel of the polyptych dated 1354. Tempera and gold on poplar, 83.4 × 52.5 cm. Paris, Musée du Louvre, MI 396 ter. © Musée du Louvre, image for non-commercial educational use.</figcaption>
 </figure>

@@ -1204,9 +1204,9 @@ This panel exemplifies Daddi's mature synthesis of the two dominant currents of 
 
 ### Madonna and Child
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Bernardo-Daddi/bernardo-daddi-20.jpg" alt="Madonna and Child">
-  <figcaption>Madonna and Child, 1340-45, tempera on gold ground on wood panel, 84 x 54,8 cm, Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
+  <figcaption>Madonna and Child, 1340-45, tempera on gold ground on wood panel, 84 x 54,8 cm, Museo Nacional Thyssen-Bornemisza, Madrid. Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 
 Before undertaking the iconographic and formal description, it is worth observing that the photograph reveals the remarkable *craquelure network* that runs across virtually the entire painted surface — the characteristic web of fine cracks resulting from the differential aging of the gesso ground, the tempera paint layers, and the wood support over nearly seven centuries. This crazing is particularly pronounced across the Virgin's face and neck, the Child's white garments, and the gold-decorated areas of the costume. Rather than diminishing the work's presence, this aged surface lends the panel a palpable material history. The condition is otherwise good, with the gold ground well-preserved and the tooled decoration still legible.
@@ -1247,9 +1247,9 @@ Both panels testify to Daddi's central position in Florentine Trecento devotiona
 
 ### The Crucifixion (Museo Nacional Thyssen-Bornemisza)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Bernardo-Daddi/bernardo-daddi-21.jpg" alt="The Crucifixion">
-  <figcaption>The Crucifixion, 1330-35, tempera on gold ground on wood panel, 37,4 x 22,2 cm, Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
+  <figcaption>The Crucifixion, 1330-35, tempera on gold ground on wood panel, 37,4 x 22,2 cm, Museo Nacional Thyssen-Bornemisza, Madrid. Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
 </figure>
 
 Despite its small dimensions, this panel commands considerable presence through the architectural elaboration of its carved and gilded frame — one of the most complete surviving examples of a Florentine Trecento devotional tabernacle format. The outer silhouette rises to a central pointed pinnacle or gable at the very top, flanked by two lateral cusped projections that recall the crocketed finials of Gothic cathedral architecture in miniature. Below this crowning element, the painted field is enclosed within a moulded cusped arch, its inner edge articulated by a series of carved convex lobes — a *polylobed arch* of the kind widely employed in Florentine and Sienese panel painting from the late Duecento onward.

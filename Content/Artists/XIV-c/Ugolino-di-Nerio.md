@@ -473,7 +473,7 @@ The paint surface is in good condition, with the flesh tones, the mantles and th
 
 ### Virgin and Child (Paris, Musée du Louvre)
 
-<figure>
+<figure data-no-download>
   <img src="/Images/Ugolino-di-Nerio/ugolino-di-nerio-25.jpg" data-zoom-src="/Images/Ugolino-di-Nerio/ugolino-di-nerio-25-zoom.jpg" alt="Upright panel, unframed, with the outline of a lost rounded arch visible as bare wood around the gold ground at the top. The Virgin, half-length, wrapped in a very dark mantle with an olive-green lining over a pink dress, wears a white veil edged with a band of pseudo-Kufic lettering. She inclines her head to the left and looks out with a melancholy expression; her long, pale hands rest lightly on the Child. The Child, naked to the waist, with curly reddish hair and full cheeks, sits on her left arm wrapped in a mauve cloth; he turns his face up towards her and grasps the edge of her veil with his right hand.">
   <figcaption>Ugolino di Nerio, <em>Virgin and Child</em>, central panel of a polyptych, c. 1315–1320. Tempera and gold on poplar, 69.5 × 47.5 cm. Paris, Musée du Louvre, Département des Peintures, RF 1986 56. © 2003 Musée du Louvre, Dist. GrandPalaisRmn / Angèle Dequier, image for non-commercial educational use.</figcaption>
 </figure>

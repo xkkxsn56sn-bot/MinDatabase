@@ -59,10 +59,12 @@ m. Check 9b dopo il trasferimento su R2: gli zoom si cercano nel manifest
    byte o sha256 diversi; poi i nuovi tentativi: un "Connection reset by
    peer" seguito da 200 e' verde dopo un'attesa di 1 s, un 404 o un 403 non
    si ritentano, un 503 persistente si ritenta con attese 1, 3, 9.
-o. Check 14, le immagini concesse da un museo: una didascalia con
-   «Courtesy of», «reproduced with permission» o «su concessione» vuole
-   <figure data-no-download>; con il marcatore e' verde, senza e' rossa
-   (con numero di figura), e una figura Commons senza dicitura resta verde.
+o. Check 14, le immagini di museo senza licenza CC: una didascalia con «©»,
+   «courtesy», «with permission» o «su concessione» e senza link a
+   creativecommons.org vuole <figure data-no-download>; con il marcatore e'
+   verde, senza e' rossa (con numero di figura), e una figura Commons senza
+   dicitura resta verde. «©» con la licenza CC linkata (National Gallery
+   CC BY-NC-ND) e' verde; «©» con la licenza CC scritta senza link e' rossa.
 p. Check 12 legge ogni <figure>, anche con attributi: fino al 24 novembre
    2026 il pattern pretendeva '<figure>' nudo, e tre immagini di contesto in
    figure con classe (dimma-08, lorsch-01, usserianus-secundus-03) sono
@@ -499,6 +501,15 @@ check("o. «reproduced with permission» e «su concessione» contano",
           perm("", "Image reproduced with permission of the museum.")
           + perm(' class="x"', "Foto su concessione del Ministero."))) == 2)
 check("o. figura Commons senza marcatore: verde", not v.permission_figure_problems(FREE))
+check("o. © senza link CC: rosso",
+      v.permission_figure_problems(perm("", "Photo: © Musée du Louvre, Paris."))
+      == ["figura 1 (a-02.jpg, riga 1)"])
+check("o. © con link CC: verde",
+      not v.permission_figure_problems(perm("", '© The National Gallery, London, '
+          '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.')))
+check("o. © con licenza CC scritta senza link: rosso",
+      len(v.permission_figure_problems(
+          perm("", "Photo © The National Gallery, London, CC BY-NC-ND 4.0."))) == 1)
 an = defaultdict(list)
 v.check_permission_figures(sorted(v.CONTENT_DIR.rglob("*.md")), an)
 check("o. schede del repository pulite",
