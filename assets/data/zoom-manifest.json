@@ -1851,6 +1851,76 @@
       "sha256": "61e23bc6457451c29251101a0c396110e571b436c6e03188cb705251af8c3382"
     },
     {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-03-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1013094,
+      "sha256": "9c2490ddee03d60b278d69cd284826de671814b447b09916372fd1470c341323"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-04-zoom.jpg",
+      "width": 2576,
+      "height": 1635,
+      "bytes": 970092,
+      "sha256": "8478560116ede151cb5311628ffac0dd6da008d2eab88992656b5634ff2f7bd0"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-05-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 920239,
+      "sha256": "a2c826ddea32f396b4e42eb747c28379f50208000d8f52a7ae2a62f2c1d82e64"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-06-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 776442,
+      "sha256": "e89c27cc79cdc61ed3e9ff6ffcd78b36fb1e0c036412f4af0fdb41dc82408ec2"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-07-zoom.jpg",
+      "width": 2576,
+      "height": 2296,
+      "bytes": 1027457,
+      "sha256": "e3043fd43efe0c9e8c52e2b34debef2650803f48385a1c3a046c965c7cddc9f9"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-08-zoom.jpg",
+      "width": 1750,
+      "height": 1750,
+      "bytes": 666407,
+      "sha256": "ba8373c226c7b9e7fefe1a2f7c7752f829a0fba4dfb18d70b4764653244e0965"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-09-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 881842,
+      "sha256": "c85cd818de82315a303876f32d6067335cb9a08ac36515b2339dc4d897502b92"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-10-zoom.jpg",
+      "width": 2576,
+      "height": 1918,
+      "bytes": 1262021,
+      "sha256": "138061372089eb37c4d885748524907614afdab009023a2413ae528308d25906"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-11-zoom.jpg",
+      "width": 1559,
+      "height": 2483,
+      "bytes": 1291354,
+      "sha256": "7a14de7e566a00eba001ca7973275cefc8dde5beaf5853537e8fc22f0ca10f8a"
+    },
+    {
+      "path": "Images/Maestro-Albero-della-Vita/maestro-albero-della-vita-12-zoom.jpg",
+      "width": 2576,
+      "height": 2512,
+      "bytes": 2323529,
+      "sha256": "a0f6a7af3e309bbbe42f65df0a5b7def87902d047f6f8bad94511d3693249165"
+    },
+    {
       "path": "Images/Maestro-Croce-432/maestro-croce-432-02-zoom.jpg",
       "width": 2147,
       "height": 2576,
