@@ -351,12 +351,7 @@ The eagle itself is constructed on a strict vertical axis. The head, in blue wit
 
 The body is treated as a series of enclosed compartments outlined in yellow: two large lobes flanking a central pointed field, all filled with blue and red and scattered with dots, below which a triangular panel of fine cross-hatching represents the lower breast. The legs emerge in blue, with pale spurred feet.
 
-The detail that has attracted most comment lies at the base of the composition. The eagle's talons grasp a rectangular object, red with yellow studs, whose upper edge is closed by a flap secured with a row of small fastenings. This is the gospel book, and it is shown not bare but in its cover or satchel. The observation matters, because such a cover survives: the l, found in a bog in north County Tipperary in 2006 and assigned to around the year 800, confirms that what the illuminator drew was an object he knew rather than a decorative invention. The eagle of John does not merely hold scripture; it holds a book equipped for travel — an apt emblem, in a manuscript that was itself made to be carried.
-
-<figure class="figure--right figure--right-400">
-  <img src="/Images/Book-of-Dimma/book-of-dimma-context-faddan-more-cover.jpg" alt="leather satchel from the Faddan More Psalter">
-  <figcaption>The Fastened Flap: Early Medieval Book-Cover from Faddan More, County Tipperary.</figcaption>
-</figure>
+The detail that has attracted most comment lies at the base of the composition. The eagle's talons grasp a rectangular object, red with yellow studs, whose upper edge is closed by a flap secured with a row of small fastenings. This is the gospel book, and it is shown not bare but in its cover or satchel. The observation matters, because such a cover survives. The leather cover found with the Faddan More Psalter in a bog in north County Tipperary in 2006, and assigned like the psalter to around the year 800, is a wallet-shaped piece of folded leather, dyed black on the outside and lined with papyrus as a stiffener; three horn buttons on its flap may have held straps wrapped around it. It confirms that what the illuminator drew was an object he knew rather than a decorative invention. The eagle of John does not merely hold scripture; it holds a book equipped for travel — an apt emblem, in a manuscript that was itself made to be carried.
 
 A further comparison is worth registering. The ink-drawn eagle of John in the Book of Armagh, a manuscript securely dated to 807–808, has repeatedly been noted as resembling this one. The two are not copies of a single model, but they belong recognisably to the same workshop tradition, and the Armagh parallel is among the firmer grounds for placing the Book of Dimma late in the eighth century.
 
