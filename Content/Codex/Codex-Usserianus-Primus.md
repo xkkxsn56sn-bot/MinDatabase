@@ -140,11 +140,6 @@ Any description begins with what is lost. The outer edges of every leaf have per
 
 The reference literature gives about 180 leaves; the conservators who remounted the book between 2014 and 2016 counted 182. The second figure, from a campaign in which every leaf was handled, is the more reliable.
 
-<figure>
-  <img src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-f018r.jpg" data-zoom-src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-f018r-zoom.jpg" alt="An oval fragment of parchment mounted on a paper sheet with a centimetre scale on the right. Its edges are dark brown and frayed. Seventeen lines of brown Irish half-uncial text run across it without word separation, including the repeated words FARISAEI HYPPOCRITAE.">
-  <figcaption>Codex Usserianus Primus, fol. 18r, Matthew 23 ("Pharisaei hypocritae"). Dublin, Trinity College Library, MS 55. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
-</figure>
-
 Lowe described the parchment as of a late-antique type, sheepskin rather than the calfskin that became normal in Irish books. The observation has been used on both sides of the debate on origin, but parchment type can hardly be decisive, since other fragments of Irish origin are written on similar material.
 
 The ink is black. In Matthew and John the first line of each chapter is in colour. The leaves were ruled in dry-point, with the same stylus technique that a later reader used for his glosses. Of the usual prefatory material, little survives: a list of Hebrew names before Luke and some chapter numbers where margins remain. There are no canon tables or prologues, and whether there ever were cannot now be said.
@@ -158,11 +153,6 @@ The structure of the gatherings cannot be reconstructed, because the leaves were
 Lowe described the hand as a peculiar angular type of Irish majuscule verging on minuscule, an Irish adaptation of half-uncial. The hesitation of the formula is significant: the script sits between the inherited late-antique half-uncial and the emerging Insular system, and does not belong securely to either.
 
 Several features place it at the head of the Insular tradition. The omission signs, *h.d.* in the text answered by *h.s.* in the margin, are the oldest type of Latin omission mark; their marginal halves are now almost all lost with the margins. The *nomina sacra* are contracted in the traditional way, and other abbreviation is very sparing. The text is written in *scriptio continua*, without the word separation that would become characteristic of Irish books.
-
-<figure>
-  <img src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-f101r.jpg" data-zoom-src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-f101r-zoom.jpg" alt="A rectangular parchment fragment mounted on paper with a centimetre scale. Twenty lines of brown half-uncial text; two-thirds of the way down, a line of small red dots in groups marks a break, followed by a new paragraph opening with a small spiral initial.">
-  <figcaption>Codex Usserianus Primus, fol. 101r, Luke 8, with a row of red dots marking a section and a new chapter beginning below. Dublin, Trinity College Library, MS 55. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
-</figure>
 
 The comparisons drawn in the literature come from the earliest Insular horizon. The **Cathach of St Columba** (Dublin, Royal Irish Academy, MS 12 R 33) is the other claimant to the title of earliest surviving Irish manuscript, and the two are always discussed together. Two seventh-century manuscripts from Bobbio now in the Biblioteca Ambrosiana, the Basil (C 26 sup.) and the Orosius (D 23 sup.), supply the resemblances that have supported the Italian hypothesis.
 
@@ -237,11 +227,6 @@ Nordenfalk's essay "Before the Book of Durrow", in *Acta Archaeologica* 18 (1947
 Both claims need qualification. "Earliest" applies only to what survives, in a book that has itself survived in ruins. And the page cannot settle the old question of whether Insular ornament was imported or native: the motif is imported, the technique of its execution is not that of its models, and what followed in Irish and Northumbrian workshops cannot be predicted from either.
 
 ## The Codex Usserianus Secundus
-
-<figure>
-  <img src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r.jpg" data-zoom-src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r-zoom.jpg" alt="A worn manuscript page dominated by large decorated letters with tall shafts filled with pale colour, framed by dense interlace at the top and bottom and along the left edge. In a panel between the letters stands a small frontal figure with a halo, large eyes and hands crossed over a book.">
-  <figcaption>Garland of Howth (Codex Usserianus Secundus), fol. 22r, decorated initial page with a haloed figure. Dublin, Trinity College Library, MS 56. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
-</figure>
 
 The second Ussher Gospel book at Trinity, the Garland of Howth (MS 56), known as the Codex Usserianus Secundus, is later and richly decorated, with large initial pages filled with interlace and figures. Its text is mixed, and it shares with the Usserianus Primus the rare reading *conservator salutis* at Luke 2:11. The two books have been bound together in scholarship by their shared name and their shared textual tradition; the second is described in its own entry on this site.
 

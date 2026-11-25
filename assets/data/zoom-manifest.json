@@ -556,32 +556,11 @@
       "sha256": "9f8513a13339a77c903dc2cb36e6f913117fbea4db50a5db60ce3bb817fa4c57"
     },
     {
-      "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r-zoom.jpg",
-      "width": 1943,
-      "height": 2576,
-      "bytes": 1155980,
-      "sha256": "2e2f605c4084d26201230668cc4995bd851e456184fab413213f8d7fddcf7824"
-    },
-    {
       "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-ussher-zoom.jpg",
       "width": 2153,
       "height": 2576,
       "bytes": 741622,
       "sha256": "1a86f6da61bf6c72c87c61e2043e21ff68e106e50c827284ab65f635e5c9508f"
-    },
-    {
-      "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-f018r-zoom.jpg",
-      "width": 1000,
-      "height": 1220,
-      "bytes": 187847,
-      "sha256": "5a3d31e44108b95929d4220de77dd9806860ca4e2af6338b57127cbf50007964"
-    },
-    {
-      "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-f101r-zoom.jpg",
-      "width": 1000,
-      "height": 1232,
-      "bytes": 230214,
-      "sha256": "341ed3319cc2d8334ef7c735beebbf9924d769ead3bcc58d647f5e4cdf8e6a08"
     },
     {
       "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-f149v-zoom.jpg",
