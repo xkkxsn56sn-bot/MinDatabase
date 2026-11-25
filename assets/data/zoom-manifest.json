@@ -4140,6 +4140,118 @@
       "sha256": "f601a715687698c08e2787e541457ce95237c47d40ca916b1285da99d5807b59"
     },
     {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-01-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1182431,
+      "sha256": "144d85303c96f936e803682ffbf4ae9fd23d7820c6debf0d6889e7caf48a16a7"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-02-zoom.jpg",
+      "width": 2127,
+      "height": 1754,
+      "bytes": 957183,
+      "sha256": "a77f4dc92385b0a41ecef4ce0bd0cd30eb9dc633b81d0bf01f51fd7386d89584"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-03-zoom.jpg",
+      "width": 1705,
+      "height": 2576,
+      "bytes": 1782719,
+      "sha256": "b2deaa441524f089393b7abca6928f6a96226028f33ecc99402d94dea316266c"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-04-zoom.jpg",
+      "width": 2068,
+      "height": 2434,
+      "bytes": 804838,
+      "sha256": "e4fc9718c94047f06a989c19d4563f75c56fde413335b4e4505efbb6c911c2b3"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-05-zoom.jpg",
+      "width": 1360,
+      "height": 2048,
+      "bytes": 529411,
+      "sha256": "9e574e0035e70a790d7d710116ba2037bd209b2d97775def20fcd9de31533568"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-07-zoom.jpg",
+      "width": 1277,
+      "height": 1726,
+      "bytes": 500151,
+      "sha256": "d5b3ba0d8c2e582e49b47ee79ee40dcf2947b2e1319c229ceac94cdef4126a3e"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-08-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1127614,
+      "sha256": "29089008082664d17e340ce9ffe4605a8b34e4b1b76d1dc8f644c06b0ebae94a"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-09-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 584968,
+      "sha256": "e49fe0b283e943a0e7f6babdea4e35106d6ebcb9a876db391de829aa33d3b965"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-10-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 616184,
+      "sha256": "a5f7043452758e57332a04465a00267003417220dd988a71d036b1a4622ce0f7"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-11-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 594603,
+      "sha256": "317be2ff7fbd7fe820043fa6a88bdfe2f16f454b40bd8a1d3d740665ce29f155"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-12-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 596217,
+      "sha256": "bd9e371d914f4270c8c006d280582eb91cfebdd5158cebf99f03130b5267cee8"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-13-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 598890,
+      "sha256": "fc46a4b1b75f15cad9a7dcfbec424280c41dd1f96f063f3b890b007452b071a0"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-14-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 474251,
+      "sha256": "357cef8853f39a0beb615c2f0a499d3ab687a933abe8054fe1cff5b96c0ca35a"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-15-zoom.jpg",
+      "width": 2048,
+      "height": 1360,
+      "bytes": 576858,
+      "sha256": "d62aa0cbf23ae2374ae1278d827649e42deb167b1cff51783d1f6ba4acb170da"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-16-zoom.jpg",
+      "width": 1673,
+      "height": 2576,
+      "bytes": 792672,
+      "sha256": "5540979cd6679f9c53b1bd60f48966b9beb9f83f5333c48e3ef949fb09167674"
+    },
+    {
+      "path": "Images/Sant-Ambrogio/sant-ambrogio-17-zoom.jpg",
+      "width": 2576,
+      "height": 2157,
+      "bytes": 983225,
+      "sha256": "7710efd4be436d81337abba99d085d5b31411a97c9f82e5d12a28cf2318688d9"
+    },
+    {
       "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-01-zoom.jpg",
       "width": 1000,
       "height": 1283,
