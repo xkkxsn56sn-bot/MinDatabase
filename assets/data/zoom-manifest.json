@@ -283,6 +283,118 @@
       "sha256": "f2530febb02db32b40f7beff96776085cbabe95bfe91f66f9f84222baac25983"
     },
     {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f001v-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1173369,
+      "sha256": "e097921d0ddc10f92a6522f13cf1fccf3e50c067be7832a4df6b10085ed30bbb"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f002r-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1045045,
+      "sha256": "e7864004087f6281bda0aac3ba02f4d7f0713974a672d07e54a94fa329727aea"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f003v-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1113486,
+      "sha256": "0b200b29121dbc2df0ded67da70d59699fd1adc39c84af43e5c59c08f38bb877"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f004r-zoom.jpg",
+      "width": 1912,
+      "height": 2576,
+      "bytes": 1110505,
+      "sha256": "51976ceaef92468e88eb1a69c99fa28abf4317e96607469d22dcd0032c0e2c63"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f021v-zoom.jpg",
+      "width": 1857,
+      "height": 2576,
+      "bytes": 1065955,
+      "sha256": "b8deadf7bf44a0574fb5cfa54aa4c4f2028ad970f525671094e20853e16a5c03"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f022r-zoom.jpg",
+      "width": 1872,
+      "height": 2576,
+      "bytes": 972257,
+      "sha256": "fe17459e1b37f2360fedf67b4f746f03a3cbbe77e62b6be652c9ce55d883fd49"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f084v-zoom.jpg",
+      "width": 1888,
+      "height": 2576,
+      "bytes": 1073233,
+      "sha256": "65e43204e63d2fb19cc7f8bdf747a6fcabf668c1d944d83bfd3a27f3ddd8ccb4"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f086r-zoom.jpg",
+      "width": 1200,
+      "height": 2040,
+      "bytes": 600518,
+      "sha256": "921011d7ab91ed8f0addaa54001d61e5ae8018ad0202032760af6c45b096f60b"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f115r-zoom.jpg",
+      "width": 1905,
+      "height": 2576,
+      "bytes": 1068683,
+      "sha256": "224b40e4cbff854775f6fdd84be079956f8986737b3e3f02b4c9cf20525d957e"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f124r-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 982067,
+      "sha256": "c23ab3dbc0a9e8e28d128ebcfd6df552432a27e35c2de357a7df4195afe34864"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f124v-zoom.jpg",
+      "width": 1874,
+      "height": 2576,
+      "bytes": 1021605,
+      "sha256": "f35616771b185850f6997341c3334d24f9d7def77cf9a064363d629e9eeb0736"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f125v-zoom.jpg",
+      "width": 1905,
+      "height": 2576,
+      "bytes": 1202506,
+      "sha256": "f74c294d7df490cb856dedf6778521978d74010801f1d28c6c36c897f7ad837f"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f126r-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1171753,
+      "sha256": "33b133263dee733e1c9ae2b621e877d9165e3a108150eae8133b57d81c143e19"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f191v-zoom.jpg",
+      "width": 1870,
+      "height": 2576,
+      "bytes": 1052774,
+      "sha256": "51fbe760a7214ad8d36f89e2c1599644384cbba1e3d899f7f472f3a20487e2a4"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f192v-zoom.jpg",
+      "width": 1992,
+      "height": 3000,
+      "bytes": 1791047,
+      "sha256": "05aea27a81cedb3c455e2bf596ea755932f4684138adcb9db0b5f5d9f3ea6402"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f193r-zoom.jpg",
+      "width": 1931,
+      "height": 2576,
+      "bytes": 1117549,
+      "sha256": "ca63fe75034b2633a461bc4a58704389f5e5d446ad027be81f2e955f2804f1f9"
+    },
+    {
       "path": "Images/Book-of-Kells/book-of-kells-f007v-zoom.jpg",
       "width": 1500,
       "height": 1951,

@@ -1,474 +1,474 @@
 ---
 layout: entry
 title: "Book of Durrow"
-subtitle: "Dublin, Trinity College Library, MS 57 — the earliest surviving fully illuminated Insular Gospel book"
-dates: "c. 650–700 (Columban milieu; precise date and place of origin unresolved)"
+subtitle: "The earliest surviving fully decorated Insular Gospel book, made in a Columban milieu in the second half of the seventh century, with six carpet pages and the evangelist symbols in the older order of Irenaeus"
+dates: "Second half of the 7th century (Alexander: middle of the second half); c. 682–686 at Iona (Werner); place of origin unresolved"
 century: "VII"
-thematic_keywords:
-  - "Priority within Insular manuscript illumination — the earliest fully decorated Insular Gospel book"
-  - "The Ireland / Iona / Northumbria origin controversy and its underdetermined evidence"
-  - "The Irenaean (pre-Hieronymian) ordering of the evangelist symbols"
-  - "Function as relic and thaumaturgic object — the cumdach and the cattle-cure tradition"
-  - "Relationship to the Book of Kells as textual and decorative exemplar"
-  - "Historiography: nineteenth-century antiquarianism, mid-twentieth-century nationalist polarisation, and the more recent turn to network models and scientific analysis"
-
-scholars:
-  - title: "Meehan, Bernard"
-    url: "/scholars.html#meehan-bernard"
-  - title: "Henry, Françoise"
-    url: "/scholars.html#henry-francoise"
-  - title: "Henderson, George David Smith"
-    url: "/scholars.html#henderson-george-david-smith"
 
 meta:
-  - title: "Core data"
+  - title: "CORE DATA"
     pairs:
-      - label: "Also catalogued as"
-        value: "IE TCD MS 57; historic pressmark A.4.5"
-      - label: "Date"
-        value: "c. 650–700 (Columban milieu; place of origin unresolved)"
       - label: "Type"
-        value: "Insular illuminated Gospel book (Latin Vulgate)"
-      - label: "Script"
-        value: "Insular majuscule (insular half-uncial); work of a single scribe"
-      - label: "Folios"
-        value: "248 vellum folios"
-      - label: "Dimensions"
-        value: "c. 245 × 145 mm (reduced by trimming and rebinding)"
+        value: "Illuminated Gospel book with a Vulgate text and the Hieronymian prefatory matter"
+      - label: "Current location"
+        value: "Dublin, Trinity College Library"
       - label: "Shelfmark"
-        value: "MS 57"
-
-  - title: "Place of origin"
-    list:
-      - "Ireland / Durrow: the traditional view, reading the ornament and Columban associations as evidence of Irish manufacture"
-      - "Iona: argued on iconographic grounds for a provenance of c. 682–686, linked to the abbot Adomnán"
-      - "Northumbria / Lindisfarne: argued from textual and palaeographical evidence, tending to a slightly later date c. 680"
-      - "Pictish Scotland enters only as a stylistic factor, not as a full origin hypothesis"
-      - "No colophon, contemporary notice or radiocarbon date exists to settle the question"
-
-  - title: "Current location"
-    list:
-      - "Trinity College Library, Dublin — IE TCD MS 57"
-      - "Donated with the Book of Kells by Henry Jones, Bishop of Meath, 1661–1682"
-      - "Survived the 1689 Jacobite occupation of Trinity College, which cost it its silver cumdach"
-
-  - title: "Contents"
-    list:
-      - "Four Gospels in the Latin Vulgate, with the Letter of Jerome to Damasus, prefaces, canon tables, breves causae and argumenta"
-      - "Evangelist symbols assigned in the pre-Hieronymian (Irenaean) manner"
-      - "A colophon (f. 247v) later reworked to claim authorship by Colum Cille himself — a claim scholars reject"
-      - "A c. 1100 land memorandum, a twelfth-century Pentecost reading, and seventeenth-century signatures"
-
-  - title: "Illuminated programme"
-    list:
-      - "The double-armed cross carpet page (fol. 1v)"
-      - "The four-symbols page (fol. 2r)"
-      - "Carpet page in curvilinear trumpet-spiral ornament (fol. 3v)"
-      - "The opening of Jerome's letter to Damasus (fol. 4r)"
-      - "The Symbol of Saint Matthew (fol. 21v)"
-      - "The Symbol of Saint Mark (fol. 84v) and its facing carpet page (fol. 85v)"
-      - "The Calf of Saint Luke (fol. 124v) and its facing carpet page (fol. 125v)"
-      - "The Lion of Saint John (fol. 191v) and its facing carpet page (fol. 192v)"
-      - "The closing stepped-fret carpet page (fol. 248r)"
-
-  - title: "Pigments and materials"
-    pairs:
+        value: "MS 57 (formerly A.4.5)"
+      - label: "Sigla"
+        value: "CLA II, no. 273; Alexander no. 6"
+      - label: "Script"
+        value: "Insular majuscule, the work of a single scribe"
+      - label: "Extent and size"
+        value: "248 leaves; about 245 × 145 mm, reduced by trimming"
       - label: "Palette"
-        value: "Red lead (minium), orpiment (yellow), a copper-based green, and iron-gall ink"
-      - label: "'Gold'"
-        value: "Orpiment throughout — no gold leaf is used anywhere in the manuscript"
-      - label: "Not present"
-        value: "No indigo, no gypsum white, no organic glazes — markedly narrower than the Kells palette"
-      - label: "Support"
-        value: "Vellum (calfskin); many leaves now singletons rather than bifolia"
+        value: "Red lead, orpiment, a copper green and iron-gall ink on reserved vellum; no gold and no blue"
 
-  - title: "Historical context"
+  - title: "IDENTITY AND LIMITS"
     list:
-      - "Produced in a Columban milieu, c. 650–700"
-      - "At Durrow by 916, when Flann Sinna commissioned the earliest documented Irish cumdach"
-      - "The cattle-cure tradition: a section of the book dipped in water administered to sick cattle, 1620s–1630s"
-      - "Cumdach lost during the 1688–89 military occupation of Trinity College"
-      - "Probably served as a partial exemplar for the Book of Kells"
+      - "No original colophon, date or name of place: every date rests on palaeography, ornament and comparison"
+      - "The colophon naming Columba is a copy or a reworking, and cannot make the book the saint's own autograph"
+      - "Many leaves survive as singletons, so the original order of the decorated pages is partly a reconstruction"
+      - "Five evangelist-symbol pages (including the four-symbols page) and six carpet pages; Matthew now lacks a carpet page"
+      - "The folio numbers cited follow the present Trinity foliation"
 
-  - title: "Binding history"
+  - title: "CHRONOLOGY"
+    pairs:
+      - label: "Second half of the 7th century"
+        value: "Writing and decoration of the book"
+      - label: "877–916"
+        value: "Reign of Flann Sinna, high-king, who had a silver shrine (cumdach) made for the book"
+      - label: "c. 1100"
+        value: "Land memorandum added on the last leaf"
+      - label: "1627–1633"
+        value: "Conall Mageoghegan reports the use of the book in water for sick cattle and signs fol. 124v"
+      - label: "1661–1682"
+        value: "Given to Trinity College by Henry Jones, bishop of Meath"
+      - label: "1677"
+        value: "Roderick O'Flaherty records the inscription of the shrine"
+      - label: "1689"
+        value: "Shrine lost during the military occupation of Trinity College"
+      - label: "1954"
+        value: "Rebound by Roger Powell"
+      - label: "1960"
+        value: "Facsimile, with commentary edited by A. A. Luce"
+
+  - title: "KEY WORKS"
     list:
-      - "Medieval binding lost during the 1688–89 occupation of Trinity College; by 1699 only a plain leather cover remained"
-      - "Rebound in 1954 (following the Book of Kells's rebinding in 1953)"
-      - "The 1954 campaign revealed the singleton structure of many leaves and produced a reconstruction assigning f. 1v to Matthew"
+      - "Fol. 1v: carpet page with a double-armed cross"
+      - "Fol. 2r: the four evangelist symbols around a cross"
+      - "Fols 21v, 84v, 124v, 191v: Man, Eagle, Calf and Lion before Matthew, Mark, Luke and John"
+      - "Fols 3v, 85v, 125v, 192v, 248r: carpet pages; fol. 192v with animal interlace"
+      - "Fols 4r, 22r, 86r, 126r, 193r: decorated openings of the letter to Damasus and of the four Gospels"
 
-  - title: "Dating and origin controversy"
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - "Ireland / Durrow — the traditional attribution, supported by later provenance, the colophon and the cumdach"
-      - "Iona — argued on iconographic grounds (the f. 1v and f. 2r openings read against Adomnán's De locis sanctis) for c. 682–686"
-      - "Northumbria / Lindisfarne — argued from textual and palaeographical evidence, tending to c. 680"
-      - "The evidence genuinely underdetermines the answer; the most defensible position is a Columban origin somewhere in a Durrow–Iona–Northumbria network, c. 660–690"
+      - "Ireland, perhaps Durrow itself: the traditional view, supported by the later provenance"
+      - "Iona, c. 682–686, under Adomnán: argued by Martin Werner (1990, 1997)"
+      - "Northumbria: argued by François Masai (1947) and by those who stress the Anglo-Saxon animal ornament"
+      - "Writing by Columba himself: rejected; the saint died in 597"
+      - "Durrow as the textual exemplar of the Book of Kells: without support in the literature consulted"
 
-  - title: "Thematic keywords"
+  - title: "STYLE AND FORMATION"
     list:
-      - "Priority as the earliest fully decorated Insular Gospel book"
-      - "The Ireland / Iona / Northumbria origin controversy"
-      - "The Irenaean ordering of the evangelist symbols"
-      - "Relic status: the cumdach and the cattle-cure tradition"
-      - "Exemplar relationship to the Book of Kells"
-      - "Historiography and the nationalist framing of Insular studies"
+      - "Carpet page, evangelist symbol and decorated incipit combined for the first time into a programme"
+      - "Ornament drawn from metalwork: Celtic spirals, Germanic animal interlace, millefiori-like chequer"
+      - "Evangelist symbols assigned in the pre-Hieronymian order: eagle to Mark, lion to John"
+      - "Diminuendo openings with red-dotted display capitals"
 
-  - title: "Related entries"
-    links:
-      - title: "Book of Kells"
-        url: "/Content/Codex/Book-of-Kells.html"
-      - title: "Lichfield Gospels"
-        url: "/Content/Codex/Lichfield-Gospels.html"
-      - title: "Columba"
-        url: "/Content/Papers/Columba.html"
+  - title: "PATRONAGE AND SETTING"
+    list:
+      - "The Columban familia of monasteries in Ireland, Iona and Northumbria"
+      - "Durrow (Co. Offaly), a foundation attributed to Colum Cille, where the book was kept by the tenth century"
+      - "Royal patronage of the cult: the shrine of Flann Sinna"
+      - "Use as a relic in the early modern period"
+
+  - title: "RECEPTION AND LEGACY"
+    list:
+      - "Placed at the head of the great Insular Gospel books by Alexander (1978) and Henderson (1987)"
+      - "Facsimile of 1960 (Urs Graf), with Luce's reconstruction of the original order"
+      - "Monograph by Bernard Meehan (1996)"
+      - "Full digitisation in Trinity's Digital Collections, with images under CC BY 4.0"
+      - "Related pages on the site: Book of Kells, Codex Usserianus Primus, Book of Mulling, Book of Armagh, Columba"
+
+scholars:
+  - title: "Alexander, Jonathan James Graham"
+    url: "/scholars.html#alexander-jonathan-james-graham"
+  - title: "Henderson, George David Smith"
+    url: "/scholars.html#henderson-george-david-smith"
+  - title: "Henry, Françoise"
+    url: "/scholars.html#henry-francoise"
+  - title: "Howlett, David"
+    url: "/scholars.html#howlett-david"
+  - title: "Lowe, Elias Avery"
+    url: "/scholars.html#lowe-elias-avery"
+  - title: "Luce, Arthur Aston"
+    url: "/scholars.html#luce-arthur-aston"
+  - title: "Masai, François"
+    url: "/scholars.html#masai-francois"
+  - title: "Meehan, Bernard"
+    url: "/scholars.html#meehan-bernard"
+  - title: "Nordenfalk, Carl"
+    url: "/scholars.html#nordenfalk-carl"
+  - title: "Powell, Roger"
+    url: "/scholars.html#powell-roger"
+  - title: "Werner, Martin"
+    url: "/scholars.html#werner-martin"
 ---
 
-## Physical description and codicology
+## Introduction
 
-The *Book of Durrow* (TCD MS 57) is the earliest surviving fully illuminated Insular Gospel book — it has been called "the earliest surviving fully decorated insular Gospel manuscript" — most probably produced in a Columban milieu c. 650–700; its precise date and place of origin (Durrow, Iona, or Northumbria) remain genuinely unresolved, and that scholarly disagreement is itself a defining feature of the manuscript's historiography.
+The *Book of Durrow*, Dublin, Trinity College Library, MS 57, is the earliest surviving Gospel book in which the full Insular system of decoration appears. Carpet pages, evangelist symbols and decorated openings had each appeared before in some form. In Durrow they are combined, for the first time that can be seen, into a programme that frames every Gospel. The Lindisfarne Gospels, the Echternach Gospels and finally the [Book of Kells](/Content/Codex/Book-of-Kells.html) elaborate that programme; none of them changes its principle.
 
-Trinity College Dublin's catalogue and digital collections identify the book as IE TCD MS 57, "Book of Durrow," with the historic pressmark A.4.5. Per the TCD/Edinburgh University catalogue description, "The manuscript, comprising 248 folios and measuring approximately 245 x 145mm, is laid out partly in 2 columns with 25 lines, and features coloured decoration including six carpet pages, five Evangelist portraits, and initials." The medieval foliation runs to 245v; CODECS and Wikipedia concur on 248 vellum folios. CODECS rounds the dimensions to 25 × 15 cm and the facsimile description gives 24.5 × 14.5 cm — a rounding difference, not a substantive conflict.
+The book is a small codex of 248 leaves, about 245 by 145 millimetres, written by a single scribe in Insular majuscule. Its colours are few: red lead, the yellow mineral orpiment, a copper green, and the brown-black of iron-gall ink on the reserved vellum. There is no gold and no blue. Within those limits the painter produced six carpet pages, five pages of evangelist symbols and a series of decorated initials whose control of pattern and space has rarely been surpassed.
 
-The text is written in a single, highly accomplished Insular majuscule (insular half-uncial / "insular semi-uncial"). It is widely held to be the work of one scribe, as current exhibition materials state explicitly.
+Nothing in the book says where or when it was made. The colophon that names a scribe Columba is a later copy or reworking, and the medieval history of the manuscript begins only in the tenth century, when a high-king of Ireland had a silver shrine made for it at Durrow. Every date proposed, from about 650 to about 700, rests on comparison: with other manuscripts, with metalwork, with the text and its prefaces. The places proposed, Ireland, Iona and Northumbria, all belong to the network of monasteries that looked to Colum Cille, or Columba, as their founder.
 
-The support is vellum (calfskin). A conservator's examination during the 1953–54 conservation campaign — published as "The Book of Kells, the Book of Durrow. Comments on the vellum, the make-up and other aspects," *Scriptorium* 10.1 (1956), pp. 3–21 (DOI 10.3406/scrip.1956.2647; available via Persée) — is the foundational codicological source. The study opens by noting that "The privileged occasions of repairing and rebinding the Book of Kells during 1953 and the Book of Durrow during 1954 offered opportunities for examining both books such as had not occurred for nearly sixty years."
+This entry follows the decorated pages in the order in which they now stand, Gospel by Gospel, after an account of the book's making, its text and its script. It then turns to the sources of the ornament, the question of date and origin, the colophon, and the long life of the book as a relic before it reached Trinity College in the later seventeenth century.
 
-It was recorded that the vellum leaves vary considerably in thickness but have very smooth surfaces, that flesh-side and hair-side are generally arranged indiscriminately, and that the flesh-side was generally chosen for full-page ornament. Crucially, the study found that many leaves now survive as single leaves (singletons) rather than folded bifolia: "In two places there are three of these single leaves adjacent in a single gathering. In another place nine of them occur between what was probably a once-conjoint bifolium." A run of single leaves spanning the end of Luke into the beginning of John was identified. The page size has been reduced by successive trimmings and rebindings.
+The account rests above all on four works: the facsimile of 1960, with a commentary edited by [A. A. Luce](/scholars.html#luce-arthur-aston); [Roger Powell](/scholars.html#powell-roger)'s report on the rebinding of 1954; [J. J. G. Alexander](/scholars.html#alexander-jonathan-james-graham)'s catalogue of Insular manuscripts (1978); and [Bernard Meehan](/scholars.html#meehan-bernard)'s monograph of 1996. The images are those of Trinity College's Digital Collections, published under an open licence.
 
-Full quire collation is complicated precisely because so many leaves are now singletons; Powell's 1956 study is the base analysis, synthesised by [Meehan](/scholars.html#meehan-bernard) (1996). A complete published quire-by-quire collation formula and the detailed ruling/pricking pattern could not be verified against an authoritative catalogue for this report and should be taken directly from the primary codicological literature and the accompanying facsimile commentary (1960).
+## Durrow and the Columban Familia
 
-Non-invasive analysis (micro-Raman spectroscopy and X-ray fluorescence) has established a deliberately restrained palette. The Durrow-specific study is "Non-Destructive in situ Analysis of three early medieval manuscripts from Trinity College Library, Dublin (Codex Usserianus Primus, Book of Durrow, Book of Armagh)," in *Making Histories: Proceedings of the Sixth International Conference on Insular Art* (York 2011), Donington: Shaun Tyas, 2013, pp. 42–49. The pigments identified on Durrow are: red = red lead (minium, Pb₃O₄); yellow = orpiment (As₂S₃); green = a copper-based green (reported as verdigris/copper acetate); black/brown = iron-gall ink (the background that reads as black is in fact dark brown).
+Durrow, in Irish Dair Mag, the "plain of the oaks", lies in the midlands of Ireland, in the present Co. Offaly. Its foundation is attributed to Colum Cille, the Irish abbot who founded Iona in 563 and died there in 597. Adomnán's Life of the saint, written at Iona about 700, names Durrow among his monasteries, and the house remained one of the principal churches of the Columban federation in Ireland.
 
-No blue (indigo) and no gypsum white have been reported for Durrow, and no gold is used; "white" is reserved (uncoloured) vellum and "pink" effects are achieved with red-lead dots over blank vellum. This is corroborated by a Durham University study, "Pigments of the Earliest Northumbrian Manuscripts," which cites the earlier Raman analysis directly and treats Durrow's palette as red, green and yellow plus black ink and 'white' parchment. (Caveat: the internal wording of the 2013 article — e.g. whether "verdigris" or the more cautious "copper-based green" is used, and whether indigo/gypsum are explicitly excluded by Raman — could not be quoted from the primary text, which is not openly accessible; the identifications rest on the Durham peer-reviewed article and TCD's own conservation pages.)
+That federation, the *familia* of Colum Cille, extended across the Irish Sea. Iona was its head; from Iona the mission of Aidan founded Lindisfarne in 635, and for thirty years Northumbrian Christianity was led by monks trained in the Columban tradition. Books, scribes and painters moved between these houses. The difficulty of locating the Book of Durrow is, in large part, the difficulty of distinguishing the products of a single network spread across three countries.
 
-The Durrow palette is markedly narrower than that of Kells. The most extensive Raman study of any single medieval manuscript is "The examination of the Book of Kells using micro-Raman spectroscopy," *Journal of Raman Spectroscopy* 40 (2009), pp. 1043–1049, which states: "In total, 681 sites over the 4 volumes of the Book of Kells were analysed using 2 separate laser wavelengths (632.8 and 532 nm), making this the most extensive Raman spectroscopic investigation of a single medieval manuscript," identifying "blue (indigo), red–orange (red lead), yellow (orpiment), green (vergaut), black (carbon and iron gall ink), and white (gypsum)," with purple (orcein) also discussed. Durrow, by contrast, uses essentially three mineral pigments plus ink and reserved vellum — no indigo, no gypsum white, no organic glazes. This contrast is a concrete, citable index of the two books' different technical resources.
+The book is associated with Durrow by its later history, not by any statement of origin. By the early tenth century it was there and was venerated as a relic of the founder. Whether it was written there, or brought from Iona or elsewhere, is the question that has divided its students for a century.
 
-The medieval silver book-shrine (cumdach) is discussed under Provenance. The medieval binding was lost during the military occupation of Trinity College in 1688–89; by 1699 the book had only "a plain brown rough leathern cover." The current binding is half-tawed pigskin over wooden boards, completed by the conservator in 1954. Because so many leaves are now singletons, each leaf was mounted/guarded for stabilisation at that rebinding.
+The connection with Columba runs through the whole history of the book, from the colophon that names a scribe of that name to the early modern belief that the saint had written it with his own hand. The page on [Columba](/Content/Papers/Columba.html) on this site gives the historical background of the saint and his foundations.
 
-The book is badly damaged from over a millennium of use and misuse. Folios 208–221 show particular water-damage and a hole in the top right corner, consistent with a section having been detached, tied with string through the hole, and dipped in water (the cattle-cure tradition; see Provenance). Damage at the beginning, end and edges has been attributed to the ill-fitting nature of the cumdach.
+## The Book
 
-## Contents
+The codex has 248 leaves of vellum, now about 245 by 145 millimetres. The page has been reduced by successive trimming and rebinding, so that the original format was somewhat larger. The catalogue descriptions record a layout partly in two columns, with 25 lines to the page.
 
-The book contains the four Gospels in the Latin Vulgate of Jerome, with prefatory matter: the Letter of Jerome to Damasus (*Novum opus*), prefaces, the Eusebian canon tables, breves causae, argumenta, and an interpretation of Hebrew names. [Françoise Henry](/scholars.html#henry-francoise) characterised Durrow as "a relatively straightforward Vulgate," contrasting it with the Book of Armagh, which she regarded as typical of the "mixed Irish text" with a considerable admixture of Old Latin/pre-Vulgate readings. Older reference works (e.g. the *New Catholic Encyclopedia*) describe the text as Vulgate "with Old Latin Prefaces."
+The rebinding of 1954, carried out by Roger Powell after his work on the Book of Kells in 1953, gave the first opportunity in more than half a century to examine the structure of the book. Powell's report, "The Book of Kells, the Book of Durrow: comments on the vellum, the make-up and other aspects", published in *Scriptorium* in 1956, remains the foundation of all codicological work on the manuscript.
 
-The canon tables survive (e.g. Canons V–VIII on fol. 9v). A notable feature discussed in recent scholarship on the Eusebian apparatus is a reversal in Canon VIII of the standard evangelist order, from Luke–Mark to Mark–Luke, a reversal also present in Kells and in the Anglo-Saxon Royal I. E. VI.
-
-In relation to the gospels sequence, we can say that the *evangelist symbols* are assigned in the *pre-Hieronymian* (pre-Vulgate) manner.
-
-The colophon (f. 247v). A subscription, now partly erased and overwritten, asks the reader to remember "Columba the writer, who have written for myself this Gospel through twelve days' space by the grace of Our Lord the Holy Spirit." (Some sources cite this as f. 247r; the "f. 9r" given by several web encyclopedias is an error.) The colophon was at some point altered to imply the book was written by Colum Cille himself — a claim scholars reject, since Columba died in 597, roughly a century before the manuscript's likely date. Twelve days is a plausible span to copy one Gospel but not four with full decoration. The colophon most plausibly reflects the copying of an earlier Columban exemplar, and later served to establish the book's status as a relic. A dedicated study of the colophon appears as "The colophon in the Book of Durrow," *Hermathena* 168 (2000), pp. 71–75.
-
-A memorandum on f. 248v, added c. 1100 by the Durrow scribe Flannchad Ua hEolais, records a transfer of land from Killeshin to Durrow (treated in "Observations on the Book of Durrow memorandum," 2015). A Pentecost reading, Acts 2:1–4, was added on a blank page (f. 192r) in the twelfth century. The historian Conall Mac Eochagáin (Conall McGeoghan) signed the book at Christmas 1633 (f. 124v), where a note "Ora pro me frater mi, dominus tecum sit" also appears.
-
-## Decoration programme
-
-The illumination programme comprises eleven full-page miniatures — six carpet pages and five figural (evangelist-symbol) pages — plus six major decorated incipit/initial pages and numerous minor initials. Each Gospel is prefaced by a set of decorated pages: an evangelist-symbol page, a carpet page, and an incipit/initial page. Matthew is the exception, now lacking a carpet page.
-
-### The double-armed cross carpet page
+Powell found that the leaves vary considerably in thickness but have very smooth surfaces, and that the flesh side was usually chosen for the full-page ornament. Above all he found that many leaves now survive as single leaves rather than as folded sheets: in two places three single leaves stand together in one gathering, and in another nine occur between what was probably once a folded pair. Single leaves are easily misplaced in rebinding, and some of the decorated pages had evidently been moved.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f001v.jpg" alt="The double-armed cross carpet page">
-  <figcaption>The double-armed cross carpet page, Dublin, Trinity College Library, MS 57, fol. 1v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f115r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f115r-zoom.jpg" alt="A text page of a manuscript with twenty-five lines of large rounded Insular majuscule in brown ink, heavily stained in the upper half. Several lines begin with enlarged black initials outlined in red dots, and short red flourishes fill the ends of lines. Small notes in a later hand run down the left margin. The edge of the facing page shows at the left.">
+  <figcaption>Book of Durrow, fol. 115r, Mark 13:18–27 ("Orate vero ut hieme non fiat"), with red-dotted initials at the sections. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The verso of the first folio carries the earliest of the codex's carpet pages and, in the sequence as now bound, the reader's first encounter with the manuscript's decorative programme. It faces the four-symbols page, and the two folios function as a paired prefatory unit: an abstract cruciform statement on the left, its christological gloss in the evangelist symbols on the right.
+On the basis of Powell's findings, the commentary to the facsimile of 1960 proposed a reconstruction of the original order of the decorated leaves. One of its consequences concerns the cross-carpet page now at fol. 1v, which has been considered as the lost carpet page of Matthew rather than as a frontispiece to the whole book. The present order, followed in this entry, is that of the 1954 binding.
 
-The design is built on a triple armature of frames. The outermost register, broad along the upper and lower edges and narrower at the sides, is filled with a continuous chain of interlocking ring-and-ribbon interlace — circular loops through which flat bands of red, orpiment yellow and copper green pass in regular alternation, the whole set against a dark ground. The rhythm is metallic rather than calligraphic: the closest analogues are the chip-carved and filigree ornament of contemporary Insular and Germanic metalwork, and the page invites reading as a painted equivalent of a jewelled book-cover. Within this runs a second, narrower frame of plaitwork in yellow on a red field, and then a fine linear border enclosing the central field.
+The book has suffered. Water damage and a hole at the upper corner of fols 208–221 are consistent with a section having been detached and dipped in water, the practice described below under Provenance. Abrasion at the beginning, the end and the edges has been attributed to the long years in a shrine that did not fit the book closely. Several decorated leaves are now inlaid in modern vellum, and their edges are sewn to it, as the photographs show.
 
-That field is dominated by a double-armed cross — a *crux gemina* or patriarchal cross — rendered not as a linear figure but as a chain of stepped, square-armed units in orpiment, each junction marked by a small chequered lozenge. The upper arm is shorter than the lower, and the vertical shaft descends to a terminal square at the lower edge of the field, so that the whole reads as a rigid, architectonic skeleton laid over the surface. The form is unusual in Insular art, where the ringed and equal-armed types predominate, and it has been discussed in relation to Eastern Mediterranean models — reliquary crosses of the True Cross, Coptic and Armenian parallels — as evidence for the wider currents feeding early Insular design. The stepped profile itself recalls the *crux gemmata* set on a stepped base familiar from late antique apse mosaics.
+The leaves were stitched into the present binding of half-tawed pigskin over wooden boards. The binding before it, a plain leather cover recorded at the end of the seventeenth century, had replaced the lost shrine; whatever medieval binding the book once had is unknown.
 
-Around and between the arms the ground is packed with dense ornament in two distinct idioms: panels of fine ribbon interlace in red and green, and passages of rectilinear key-pattern or fret in grey-brown. The alternation is deliberate — curvilinear against angular — and it prevents the eye from resolving the field into any single continuous system. The cross is thus not superimposed on a background but reserved from it, defined by the surrounding congestion rather than by outline alone.
+## Script and Text
 
-The palette is the restricted one of the manuscript throughout: red lead, orpiment, a copper-based green, and dark brown ink over the reserved vellum. What appears golden in reproduction is orpiment, not metal leaf — a point that bears repeating in any caption, since Insular illumination of this horizon does not employ gilding.
+The text is written in Insular majuscule, the formal script of the great Gospel books, by one scribe throughout. The letters are broad and rounded, written with a wide pen; word separation is partial; abbreviation is restrained, with the usual contractions of the sacred names. Sections begin with enlarged letters outlined in red dots, and red flourishes fill the ends of short lines.
 
-The folio's condition is conspicuous. Extensive losses of the paint film appear as irregular white patches across both the border and the central field, most severely along the left side of the cross and in the lower border; the pigment has lifted in flakes, exposing the support. The edges of the decorated leaf have been sewn to a modern guard, the stitching plainly visible around the perimeter — evidence of the twentieth-century conservation campaign that separated, repaired and rebound the codex after centuries of hard use.
-
-### The four-symbols page
+The Gospel text is the Vulgate of Jerome. It is accompanied by the full prefatory apparatus that came with that text from Italy: Jerome's letter to Pope Damasus, *Novum opus*; the prefaces; the Eusebian canon tables, which survive in part; the *breves causae*, or chapter summaries; and the *argumenta*, the short prologues to the Gospels. The prefatory matter shows Old Latin elements, as in many Insular books.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f002r.jpg" alt="The four-symbols page">
-  <figcaption>The four-symbols page, Dublin, Trinity College Library, MS 57, fol. 2r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f124r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f124r-zoom.jpg" alt="A manuscript page with a list in four narrow columns: names on the left of each pair, short Latin explanations on the right, linked by tall wavy brackets in red and black. A faded border of interlace in pale orange and green runs along the right and lower edges, with a dark green stain at the lower right.">
+  <figcaption>Book of Durrow, fol. 124r, list of Hebrew names with their interpretations, at the end of Mark. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-Facing the double-armed cross carpet page on fol. 1v, the recto of the second folio presents the four evangelist symbols disposed around a central cross — one of the earliest surviving fully developed statements of the *quattuor una* theme in Insular book painting, and a page that functions less as illustration than as a visual prologue to the Gospel text as a whole.
+A list of Hebrew names with their meanings stands at the end of Mark, before the symbol of Luke. The names are arranged in columns with their Latin interpretations, joined by tall brackets in red and black. Behind the list, a faint border of interlace in orange and green shows through from the decorated page on the other side of the leaf.
 
-The composition is governed by two concentric frames. The outer border, unusually broad in proportion to the field it encloses, is filled with a dense chequer of small squares set on the diagonal, alternating red, yellow and green against a dark ground. The motif has long been recognised as a translation into pigment of the millefiori glass and enamel insets characteristic of contemporary Celtic and Anglo-Saxon metalwork; comparison with the hanging bowls and with the Sutton Hoo purse-lid is standard in the literature, and the effect on the page is deliberately that of an inlaid object rather than a drawn surface. A narrow inner frame of plain bands isolates the figural field, which is left in the reserved tone of the vellum — an emptiness that is not neglect but a compositional decision, throwing the four symbols and the cross into stark relief.
+[Françoise Henry](/scholars.html#henry-francoise) contrasted the comparatively straightforward Vulgate of Durrow with the "mixed" Irish text of books such as the Book of Armagh. The contrast matters for the question of origin, since a good Vulgate text is often taken to point to the Northumbrian houses, which had access to Italian exemplars, while mixed texts are typical of Irish books. The argument is not decisive: good Vulgate texts also circulated in Ireland.
 
-At the centre stands a cross with a shaft filled by fine ribbon interlace, its terminals expanding into small trumpet-and-spiral panels. The cross is not an object placed within a scene; it is the armature that articulates the surface, dividing it into four quadrants and assigning each symbol its place.
+The order of the Gospels is the canonical one, Matthew, Mark, Luke, John. The order of the evangelist symbols is not. Durrow gives the eagle to Mark and the lion to John, the arrangement transmitted by Irenaeus, rather than the arrangement of Jerome, which gives the lion to Mark and the eagle to John and became normal in the West. The choice is consistent through the book, on the four-symbols page and at the openings of Mark and John, and it must have been deliberate.
 
-The distribution of the symbols is the page's most consequential feature. In the upper left the Man (Matthew) appears frontally, a bust-like figure whose body is entirely absorbed into a chequered cloak, arms concealed, feet turned outward in profile beneath the hem. In the upper right, the eagle — assigned here to Mark. Below left, the lion, its body scaled with red and dark lozenges, head turned frontally toward the viewer, tail curling forward between splayed paws. Below right, the calf, reduced to a near-geometric triangle of dotted hide surmounted by a horned head. This sequence — Man, Eagle, Lion, Calf for Matthew, Mark, John, Luke — follows the order transmitted by Irenaeus rather than the Hieronymian arrangement that would become canonical, and it constitutes one of the principal arguments in the long debate over the manuscript's affiliations and date.
+## The Decorative Programme
 
-The drawing throughout is linear and heraldic. There is no ground line, no modelling, no narrative gesture; each creature is a sign, held in an eternal present. The palette is restricted to red lead, orpiment, a copper green and dark brown ink. What reads as gold in reproduction is orpiment — Insular illumination of this period does not employ gold leaf, and the point is worth insisting upon in any caption.
+The decoration of the book consists of eleven full-page miniatures and a series of decorated openings. The miniatures are five pages of evangelist symbols, one of them the page of the four symbols together, and six carpet pages, pages filled entirely with ornament. The decorated openings mark the beginning of the letter to Damasus and of each Gospel.
 
-The folio's condition is itself part of its history. The losses visible across the border, the abraded pigment in the central field and the tear crossing the lower right quadrant are consistent with the damage sustained by the codex over its long life at Durrow, including the well-attested early modern practice of immersing the book in water as a remedy for sick cattle.
+Before each Gospel the book sets out a sequence of three pages: the symbol of the evangelist, a carpet page, and the decorated opening of the text. The sequence is complete for Mark, Luke and John. Matthew now has the symbol and the opening but no carpet page; whether the cross-carpet page at the front of the book once stood there is the question raised by the reconstruction of 1960.
 
-### Carpet Page (2)
+The palette is the same throughout: red lead, orpiment, a copper-based green, dark brown ink and the reserved vellum. What reads as gold in photographs is orpiment, a yellow arsenic sulphide whose crystals catch the light. No metal leaf is used anywhere in the manuscript.
+
+The ornament itself belongs to three families: the spiral and trumpet patterns of Celtic metalwork; ribbon interlace and animal interlace of the kind found on Anglo-Saxon and Germanic metalwork; and step and fret patterns. On some pages one family dominates, on others two are set against each other. The carpet pages differ from one another so completely that they read almost as a catalogue of the ornamental repertoire available to a Columban painter in the later seventh century.
+
+## The Opening Pages: Fols 1v and 2r
+
+The book opens with a pair of facing pages: a carpet page with a cross on the left, and the four evangelist symbols around a cross on the right. Whatever their original position, the two pages now work together as a single prefatory statement: the cross as pure ornament, then the cross as the centre of the four Gospels.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f003v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, MS 57, fol. 3v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f001v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f001v-zoom.jpg" alt="A carpet page inlaid in a larger modern leaf. A broad border of interlaced rings in red and yellow, wider at the top and bottom, surrounds a field of red, yellow and green interlace and grey fret. At the centre stands a yellow cross with two horizontal arms, built from square units, each junction marked by a small chequered square. Large white patches show where the paint has flaked away.">
+  <figcaption>Book of Durrow, fol. 1v, carpet page with a double-armed cross. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This folio stands apart from the other carpet pages of the codex in that its central field abandons interlace altogether in favour of curvilinear ornament: it is the manuscript's fullest statement of the trumpet-spiral idiom inherited from the La Tène tradition and from the enamelled metalwork of the Irish Iron Age. Facing the opening of the Prologue on the recto, it functions as a threshold page, marking the transition into the prefatory matter proper.
+The carpet page on fol. 1v is built on three frames. The outer border, broad above and below and narrower at the sides, carries a chain of interlocking rings through which flat bands of red and yellow pass in regular alternation. Within it runs a narrower frame of yellow and red plaitwork, and then a fine linear border around the central field.
 
-The design observes the same architecture as its companions — a broad decorated border enclosing a distinct central field — but the two registers are here set in explicit stylistic opposition. The border, running continuously on all four sides, carries a chain of ring-and-ribbon interlace: circular medallions of tight plaitwork linked by broad crossing bands in red lead and orpiment, with occasional passages of copper green surviving along the left and lower edges. The rhythm is regular and metrical, and it serves precisely as a foil to the field within.
+The field is dominated by a double-armed cross, the form often called a patriarchal cross, built not as a line but as a chain of square units in orpiment, each junction marked by a small chequered square. Around the cross the ground is filled with panels of fine interlace in red and green and passages of key pattern in grey-brown. The cross is not drawn on the ornament; it is reserved from it, defined by the density of the pattern around it.
 
-That field, laid out against a dark ground, is organised into a vertical sequence of large circular units. Two great roundels occupy the centre, each filled with a triple arrangement of triskeles — spirals of three lobes whose arms terminate in fine coiled scrolls, drawn with a compass-and-freehand precision that repays magnification. Four smaller spiral clusters fill the corners, and the whole is bound together by broad, tapering bands in orpiment and red that sweep between the roundels and expand at their junctions into the characteristic trumpet-mouth or *pelta* forms. Where these bands meet, the painter has inserted small lentoid and triangular fillers, and at several points along the field's edge the bands resolve into zoomorphic terminals: green-tinted animal heads with open jaws, visible at the right margin and at the lower centre, which anchor the abstract system to the beast-ornament repertoire found elsewhere in the manuscript.
+The double-armed cross is rare in Insular art, where the ringed and equal-armed types prevail. Martin Werner made it the centre of his reading of the page: in his view it evokes the relic of the True Cross and the holy places of Jerusalem as described by Adomnán, abbot of Iona, in *De locis sanctis*. The argument, discussed below under Date and Origin, is the most precise attempt to tie the book to a place and a patron.
 
-The visual logic of the page is one of controlled centrifugal motion. Nothing is static: every spiral implies rotation, and the connecting bands transmit that movement from one unit to the next, so that the eye is carried continuously around the field without ever reaching a resting point. The rigid geometry of the border exists to contain this energy. It is a deliberate and sophisticated compositional strategy, and it is precisely what distinguishes the Durrow painter's handling of the curvilinear mode from the more evenly distributed spiralwork of later Insular books.
-
-The palette is the restricted one used throughout the codex: red lead, orpiment, a copper-based green, and dark brown ink, applied over and around the reserved vellum. The apparent gold is orpiment; no metal leaf is employed.
-
-Condition is comparatively good here relative to fol. 1v — the paint film has held better across the central field — though losses are visible along the left border, the upper edge is abraded, and the decorated leaf has been sewn to a modern guard, the stitching plainly visible around the perimeter as a result of the twentieth-century rebinding.
-
-### The opening of Jerome's letter to Damasus
+The page is badly damaged. Large losses of paint appear as white patches across the border and the field, most severely on the left of the cross and in the lower border. The leaf has been inlaid in modern vellum and its edges are sewn to it.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f004r.jpg" alt="The opening of Jerome's letter to Damasus">
-  <figcaption>The opening of Jerome's letter to Damasus, Dublin, Trinity College Library, MS 57, fol. 4r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f002r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f002r-zoom.jpg" alt="A badly worn page inlaid in modern vellum. A broad border of small red and yellow diamonds on a dark ground surrounds a pale field divided by a cross with an interlaced shaft. In the four quarters, drawn in outline with little colour: a standing man in a chequered cloak at the upper left, an eagle at the upper right, a lion with a frontal face at the lower left, and a calf reduced to a triangle with horns at the lower right. Holes and a tear cross the border and the lower right quarter.">
+  <figcaption>Book of Durrow, fol. 2r, the four evangelist symbols around a cross. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-After the sequence of prefatory carpet pages, the codex turns to text, and fol. 4r presents the first decorated incipit of the manuscript: the beginning of Jerome's dedicatory epistle to Pope Damasus, Novum opus facere me cogis ex veteri — the letter that customarily prefaces the Vulgate Gospels and that here inaugurates the prefatory apparatus.
+On fol. 2r the four symbols are disposed in the quarters of a cross whose shaft is filled with interlace. The Man stands at the upper left in a chequered cloak; the Eagle at the upper right; the Lion at the lower left, its face turned frontally to the viewer; and the Calf at the lower right, reduced to a triangle of dotted hide under a horned head. The page is one of the earliest surviving statements in Insular painting of the four symbols as a unity around the cross.
 
-The page is organised around a single monumental initial N, set entirely in the left margin and running to roughly a third of the written height. Its vertical shaft is a narrow band filled with fine ribbon interlace and passages of orpiment, terminating above and below in expansive trumpet-spiral scrolls of the same curvilinear idiom that governs the carpet page on fol. 3v. A lobed, almost pelta-shaped element attached to the upper shaft carries a small panel of interlace and a chequered roundel; below, the descender resolves into a chain of coiled spirals that trail down the margin. The letter is thus not so much written as constructed — an ornamental object standing alongside the text rather than within it.
+The broad border is filled with a chequer of small diamonds in red and yellow on a dark ground. The motif has long been compared with the millefiori glass and enamel set into Celtic and Anglo-Saxon metalwork, the hanging-bowl escutcheons and the purse-lid from Sutton Hoo. The field inside is left in the tone of the vellum, so that the symbols stand out in outline.
 
-From this initial the page demonstrates, with unusual clarity, the Insular principle of *diminuendo*. The following letters, OVVM OBVS (for *Novum opus*), are set as large display capitals, hollow-bodied and outlined in dark ink; each is surrounded by a dense field of red dots, the *rubrication par pointillé* that is one of the diagnostic features of Insular book decoration and that here creates a shimmering ground against the vellum. Successive lines then descend in scale by measured steps — a second, smaller register, then a third — until the script settles into the body hand some eight lines down. The eye is led from ornament to text by graduated stages rather than by abrupt transition.
+The page is more damaged than any other in the book. The paint of the field has largely gone, the border is pierced by holes, and a tear crosses the lower right quarter. Much of the colour that once filled the symbols can no longer be seen, and descriptions of their patterning rest on close study of the original and of older photographs.
 
-The body script is a confident Insular majuscule, written with a broad nib in dark brown ink, with generous line spacing and a characteristic repertoire of ligatures and suspensions; abbreviation marks and small suprascript letters (*e*, *bi*, *ur*) are visible at several points where the scribe compressed to reach the line end. Word separation is partial rather than systematic, in the manner of the period. A striking feature of the upper half of the page is the use of red line-fillers: undulating serpentine flourishes in red lead that occupy the space left vacant at the end of short lines within the diminuendo zone, converting a metrical irregularity into an ornamental asset.
-
-A second, subsidiary initial appears roughly midway down: a decorated P introducing *Pius labor sed periculosa praesumptio*, likewise outlined with red dots and flanked by red flourishes, marking the beginning of Jerome's second sentence. The hierarchy of initials is therefore already fully articulated — major initial, display capitals, minor initial — in a system that later Insular Gospel books will elaborate but not fundamentally alter.
-
-Two later interventions should be noted. Across the upper margin runs an early modern annotation in a cursive hand identifying the text as the letter of St Jerome to Pope Damasus; and in the upper right corner stands the foliation figure, likewise a later addition. Neither is contemporary with the manuscript.
-
-The condition of the leaf is poor by comparison with the decorated folios. The vellum is heavily stained and cockled, with brown discolouration spreading across the lower half and the outer margin, and the surface abraded in places so that the ink has faded. The upper right corner has been repaired, and the leaf is sewn along its inner and lower edges to a modern guard, the stitching plainly visible — the same twentieth-century conservation campaign evident throughout the codex.
-
-### The Symbol of Saint Matthew
+## Fol. 3v and the Letter to Damasus
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f021v.jpg" alt="The Symbol of Saint Matthew">
-  <figcaption>The Symbol of Saint Matthew, Dublin, Trinity College Library, Dublin, MS 57, fol. 21v.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f003v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f003v-zoom.jpg" alt="A carpet page inlaid in modern vellum. A border of interlaced roundels linked by crossing bands in red, yellow and green surrounds a dark field filled with spiral ornament: two large circles at the centre, each containing three smaller spiral roundels, and four further spiral roundels in the corners, all joined by broad curving bands in orange and yellow that end in trumpet shapes.">
+  <figcaption>Book of Durrow, fol. 3v, carpet page with spiral ornament. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-Facing the incipit of Matthew's Gospel on the recto opposite, this folio presents the Man, the evangelist's symbol, as a full-page frontispiece. A terminological caution is worth entering at the outset: although the page is often catalogued as a portrait of the evangelist, the figure carries no book, no pen, no halo and no attribute of authorship. It is the *imago hominis* of the tetramorph, not an author portrait in the late antique sense — a distinction that matters, since the true evangelist portrait enters Insular illumination only with the Lindisfarne Gospels and its Mediterranean exemplars.
+The carpet page on fol. 3v is the book's fullest statement of the spiral style. Its central field abandons interlace for curvilinear ornament: two great circles at the centre, each filled with three smaller roundels of spirals, and four spiral roundels in the corners, all joined by broad tapering bands in orange and yellow that swell into trumpet shapes where they meet. Small lentoid and triangular fillers occupy the gaps, and at several points the bands end in green animal heads with open jaws.
 
-The composition is governed by a broad rectangular border of a single, sustained motif: a continuous ribbon interlace in orpiment, outlined in dark ink, whose strands coil at regular intervals into large circular scrolls. Within these coils sit inserted lobes of copper green and, at several points, small triangular fillers set against the dark ground. The design runs without interruption around all four sides and turns the corners without disturbance to its rhythm — a feat of planning that repays attention. The interlace is markedly broader and more open than the tight plaitwork of the carpet pages, and its effect is architectural: a frame that reads as a door surround or a metalwork mount rather than as a flat ornamental band. A narrower inner frame of double ruled lines isolates the reserved field in which the figure stands.
+The vocabulary descends from the La Tène art of Iron Age Ireland and Britain, transmitted through enamelled metalwork. The handling, however, is new: every spiral implies rotation, and the bands carry that movement from one unit to the next, so that the eye is led round the field without a resting point.
 
-The figure itself is one of the most arresting inventions of early Insular art. It stands frontally, in strict bilateral symmetry, against an empty vellum ground with no indication of setting, ground line or scale. The head is drawn in fine brown outline: an oval face with almond eyes, a long straight nose, a small closed mouth, and hair falling in two straight lappets to either side, cut in a flat fringe across the brow. The rendering is linear throughout, with no modelling, no shadow and no attempt at volume.
-
-Below the neck, the body disappears entirely into a bell-shaped cloak that reaches nearly to the ankles. The garment is filled with a dense chequer of small squares in red lead, orpiment and green, interspersed with panels of fine cross-hatched diaper, and divided down the centre by a vertical orpiment band. No arms are indicated — a striking omission, and one of the page's defining features. Beneath the hem, two small feet in chequered hose and pointed shoes project outward in profile, turned in opposite directions, so that the figure appears to move laterally while the head confronts the viewer directly. The disjunction is not a failure of draughtsmanship but a convention: the body is a sign, not an anatomy.
-
-The cloak has long been read in relation to contemporary textiles and to the enamelled and millefiori insets of Insular metalwork, the same repertoire that informs the chequered border of the four-symbols page on fol. 2r; comparisons with the Sutton Hoo material are standard in the literature. Whether the garment reflects an actual liturgical vestment or is purely an ornamental construction remains debated.
-
-The palette is the restricted one of the codex throughout — red lead, orpiment, copper green, brown ink — applied over reserved vellum. The apparent gold is orpiment, not metal leaf.
-
-The condition of the leaf is variable. The vellum is discoloured and cockled, particularly along the left margin and the lower edge; a loss has been made good at the upper left corner; small paint losses appear within the cloak and along the border, and two abraded spots are visible below the figure. The leaf is sewn to a modern guard along its outer edges, the stitching plainly visible, as elsewhere in the manuscript.
-
-### The Symbol of Saint Mark
+The border sets a different system against the field: a chain of interlaced roundels linked by crossing bands, regular and metrical. The contrast between the contained, measured border and the circulating field is the principle of the page.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f084v.jpg" alt="The Symbol of Saint Mark">
-  <figcaption>The Symbol of Saint Mark, Dublin, Trinity College Library, Dublin, MS 57, fol. 84v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f004r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f004r-zoom.jpg" alt="A stained manuscript page of text. At the upper left a tall decorated initial N with interlace panels and spiral terminals, followed by the large display letters OVUM OBUS on a field of red dots. Below, twenty lines of Insular majuscule in brown ink, with red flourishes at the start of the first lines and a smaller decorated P halfway down. A later note in a cursive hand runs across the top margin.">
+  <figcaption>Book of Durrow, fol. 4r, opening of Jerome's letter to Pope Damasus, "Novum opus". Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-Prefacing the Gospel of Mark, this folio presents the Eagle, and with it the most consequential iconographic decision in the manuscript. In the Hieronymian scheme that became canonical in the Latin West, the eagle belongs to John and the lion to Mark; the Durrow painter follows instead the older order transmitted by Irenaeus, in which Mark receives the eagle and John the lion. The same distribution governs the four-symbols page on fol. 2r, so the choice is systematic rather than accidental, and it constitutes one of the principal arguments in the long controversy over the manuscript's textual and artistic affiliations.
+Facing the spiral page, fol. 4r opens Jerome's letter to Pope Damasus, *Novum opus facere me cogis ex veteri*, the dedication that introduces the Vulgate Gospels. It is the first decorated opening of the book. The initial N stands in the left margin, its shafts filled with interlace and ending in spiral scrolls; a lobed element attached to the upper shaft carries a small roundel of interlace.
 
-The page is among the best preserved in the codex, and its condition allows the quality of the execution to be appreciated in a way that the damaged prefatory leaves do not. The border is exceptionally broad in proportion to the field it encloses, filled on all four sides with a continuous, regular plaitwork of flat ribbons in red lead and orpiment, laid over a dark ground and articulated with fine white outlining. The strands cross in a strict, unvarying rhythm — this is plaitwork proper, not the looser ring-and-ribbon interlace of fols 1v and 3v — and the effect is one of woven textile or of a mount in chip-carved metal. At each of the four corners the painter has inserted a panel of copper green, breaking the red-and-yellow alternation and marking the turn; the device is simple and highly effective, and it recurs in Insular ornament as a way of resolving the corner without disrupting the sequence.
+From the initial the page descends in steps of scale, the Insular principle of *diminuendo*. The following letters, OVUM OBUS, are large display capitals on a ground of red dots; the next lines are smaller; the text settles into the body script some eight lines down. Red serpentine flourishes fill the space at the start of the shorter lines. Halfway down, a smaller decorated P opens the second sentence, *Pius labor sed periculosa praesumptio*.
 
-Within a narrow double-ruled inner frame, the field is left in the reserved tone of the vellum, entirely undecorated. The eagle stands alone at its centre, small in relation to the space around it — a compositional decision that isolates and monumentalises the creature rather than filling the page.
+The hierarchy of initials is already complete on this page: a major initial, display capitals, a minor initial. Later Insular books elaborate it enormously, but do not change it. Across the upper margin a later hand has written a title identifying the text as Jerome's letter to Damasus.
 
-The bird is shown frontally, wings folded and drooping to either side, its head turned in sharp profile to the right. The head is reduced to a pure circle of orpiment enclosing a green iris, from which a strongly hooked beak projects; there is no attempt at ornithological description. The body and the upper wing coverts are covered in a dense imbrication of small scale-like feathers in red, green, orpiment and reserved white, laid in diagonal rows — again the vocabulary of enamel and millefiori inlay translated into pigment. The long flight feathers of the wings, by contrast, are rendered in fine brown hatching against the bare vellum, a deliberate shift of register from colour to line. Below, a small fan of tail feathers, and two powerful yellow legs terminating in splayed talons drawn with black claws. The bird stands on nothing; there is no ground line.
-
-The tension between the two modes of drawing — the abstract, jewelled body and the comparatively naturalistic, linear wings — is characteristic of the Durrow painter and repays close looking. The creature is simultaneously an ornamental object and a recognisable animal, and the page refuses to resolve the ambiguity.
-
-Faintly visible in the upper part of the field is a line of red rubric, now largely effaced, of which only traces of letters survive. This should be checked against the Library's own description and against the facsimile before any transcription is proposed; I would not attempt to read it from a photograph.
-
-The palette remains the restricted one of the codex: red lead, orpiment, copper green, brown ink over reserved vellum. What reads as gold is orpiment, not metal leaf.
-
-Condition here is good. The vellum is clean and only lightly discoloured, the paint film largely intact, with minor abrasion at the lower left corner of the border and slight staining at the upper right. The leaf is sewn to a modern guard along the inner edge, the stitching visible in the gutter.
-
-### Carpet Page (3)
+## Matthew: Fols 21v and 22r
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f085v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 85v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f021v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f021v-zoom.jpg" alt="A worn manuscript page with a broad frame of yellow ribbon interlace coiling into spirals, some filled with green, on a dark ground. In the plain central field stands a frontal figure with a large oval face, straight hair cut at the brow and falling to the shoulders, wrapped from neck to ankles in a bell-shaped cloak of red, yellow and green chequers and fine lattice panels, with no arms shown; two small feet in pointed shoes turn outward below. The edge of the facing text page shows at the right.">
+  <figcaption>Book of Durrow, fol. 21v, the Man, symbol of Matthew. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This is the most fully preserved and, by common consent, the most technically accomplished of the carpet pages in the codex. Standing in the prefatory position before Luke's Gospel, it exhibits an ornamental system quite distinct from those of fols 1v and 3v: neither cruciform nor spiral-dominated, but a continuous, potentially infinite field of interlaced circular medallions, arranged in a strict grid and interrupted only at the centre.
+The symbol of Matthew, the Man, stands alone in the field of fol. 21v. The page is often described as a portrait of the evangelist, but the figure carries no book, no pen and no halo; it is the man of the four living creatures, not an author portrait of the late-antique type. The true evangelist portrait enters Insular painting only with the Lindisfarne Gospels and their Mediterranean models.
 
-The layout is enclosed by a narrow, restrained border — a fine plaitwork band in white and orpiment over a red ground, framed by ruled lines in yellow, and terminating at each of the four corners in a small trefoil of coiled loops in orpiment with red infill. These corner flourishes project slightly beyond the frame into the margin, a delicate gesture that lightens what would otherwise be a severe enclosure. The proportional relation is the reverse of that on fol. 84v, where a broad border contained a nearly empty field; here the border is minimal and the field is saturated.
+The figure is strictly frontal and symmetrical. The head is drawn in outline: an oval face, almond eyes, a long straight nose, a small closed mouth, and hair falling in two straight lappets from a fringe across the brow. Below the neck the body disappears into a bell-shaped cloak that reaches almost to the ankles, filled with a chequer of small squares in red, yellow and green and with panels of fine lattice, and divided by a vertical band. No arms are shown. Beneath the hem two small feet in chequered hose and pointed shoes turn outward in profile.
 
-Within, fifteen large circular medallions are set in a five-by-three grid against a dark ground. Each is composed of a broad ring — alternately red lead and copper green — through which pass interlaced ribbons in orpiment and reserved white, resolving within the ring into two or three knots of tight plaitwork. The rings are not closed: at their outer edges the bands break free and run horizontally and vertically to link with the neighbouring medallions, so that the entire field constitutes a single continuous interlace rather than fifteen discrete units. The intervening lozenges of dark ground are left visible, and small yellow diamond fillers punctuate the junctions. The alternation of red and green across the grid produces a diagonal chromatic rhythm that the eye reads before it registers the underlying geometry — a sophistication of colour handling not always credited to this painter.
-
-The centre of the composition carries the page's single interruption and its interpretative key. In place of a coloured medallion stands a roundel in reserved white and pale orpiment, outlined with fine red dotting, containing a cross with expanded arms — an equal-armed *crux* whose arms terminate in small knots and whose quadrants are filled with tight interlace and, at the upper left, a passage of zoomorphic ribbon resolving into a beast's head. The chromatic restraint of this roundel against the surrounding red and green is what makes it legible: the cross is not larger than its neighbours, only quieter, and it emerges by subtraction rather than emphasis.
-
-This is a compositional strategy worth dwelling on. Where fol. 1v declares its cross by mass and axial dominance, fol. 85v conceals and then reveals it, requiring the viewer to resolve the field before the christological sign appears. The device is entirely consonant with the meditative function attributed to carpet pages in the Insular tradition, and it anticipates the more elaborate concealments of the Lindisfarne Gospels.
-
-The palette remains the restricted one of the codex — red lead, orpiment, copper green, dark brown ink, reserved vellum — and the apparent gold is orpiment throughout, not metal leaf.
-
-The condition of this leaf is excellent by the standards of the manuscript. The vellum is clean, the paint film almost wholly intact, with only minor abrasion visible along the right side of the field and slight cockling at the outer margin. The leaf is sewn along the inner edge to a modern guard, the stitching visible in the gutter.
-
-### The Calf of Saint Luke
+The cloak has been compared with the millefiori and cloisonné of contemporary metalwork, the same repertoire as the border of fol. 2r. The frame is a broad band of yellow ribbon interlace coiling into large spirals, some of them filled with green, with small triangular fillers on a dark ground: broader and more open than the plaitwork of the carpet pages, it reads like a metal mount around the figure.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f124v.jpg" alt="The Calf of Saint Luke">
-  <figcaption>The Calf of Saint Luke, Dublin, Trinity College Library, Dublin, MS 57, fol. 124v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f022r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f022r-zoom.jpg" alt="A manuscript text page. At the upper left a tall decorated initial combining L and I, with spiral terminals and interlace in yellow and black, followed by the display letters BER GENERA on a field of red dots. Below, about twenty lines of large Insular majuscule in brown ink, with some enlarged letters outlined in red dots and red flourishes in the margin. A faded line of red script runs above the initial, and the upper right corner of the leaf has been repaired.">
+  <figcaption>Book of Durrow, fol. 22r, opening of Matthew, "Liber generationis". Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This folio shows the calf (*vitulus*) and prefaces the Gospel of Luke, an attribution stable across both the Hieronymian and the alternative pre-Vulgate traditions — unlike the eagle and lion, which Durrow famously assigns to Mark and John respectively, following the Irenaean order transmitted in Irish exegesis.
+The Gospel opens on fol. 22r with *Liber generationis Iesu Christi*, "The book of the generation of Jesus Christ". The first letters, L and I, are joined in a tall initial with spiral terminals and panels of interlace; the rest of LIBER GENERA follows in display capitals on a ground of red dots. A faded red title, *Evangelium secundum Mattheum*, runs above.
 
-The composition is austere and rigorously frontal in its logic. A broad rectangular border of interlace encloses a field of bare vellum, in the lower half of which the calf is placed without ground line, shadow, or spatial armature. The animal floats in an abstract, atemporal void: it is not a beast observed in nature but a sign, an emblematic cipher whose isolation is itself theological. The disproportion between the vast empty field and the modest scale of the figure is deliberate, generating a charged silence around the symbol.
+The genealogy that follows is written in the regular majuscule of the book, with the names of the generations marked by enlarged letters outlined in red dots. The page shows the scheme of the openings in its simplest form: one dominant initial, one line of display capitals, then the text.
 
-The interlace frame is constructed from a rhythmic sequence of broad, ribbon-like strands of yellow, orange-red and green, articulated in two distinct registers: the horizontal bands above and below employ a looser, more open pattern of interlocking curvilinear units, while the vertical bands run to a denser, tighter braid. The strands are outlined in dark brown ink and set against a reserved parchment ground stippled with fine red dots along the inner margin — a hallmark of Insular technique, in which the pen dot serves both to define contour and to enliven surface. The palette is characteristic of the earliest Insular books: orpiment yellow, red lead, and a copper green, applied flatly and without modelling or gradation, in a manner that recalls the cloisonné enamels and millefiori of contemporary Irish and Anglo-Saxon metalwork rather than any Mediterranean painterly tradition.
-
-The calf itself is rendered in the same non-illusionistic idiom. Its body is a pale, cream-pink field uniformly scattered with red dots, the head shown in profile with a single large almond eye, incised nostril, and small horns. The most striking feature is the treatment of the haunches and shoulders, where the joints are resolved into tight, spiralling volutes in green and yellow — a device drawn directly from La Tène and metalwork ornament, transposing the joint from an anatomical articulation into an ornamental one. The lower legs are banded in green and ochre, terminating in cloven hooves; the tail hangs as a stiff striated pendant. The result is a body decomposed into a series of decorative panels, more heraldic device than living creature.
-
-Two further material observations bear noting. The show-through of script from the recto and adjacent leaves is clearly visible across the reserved field — a reminder of the thinness of the vellum and of the manuscript's long working life. More significant is the Irish marginal inscription in a seventeenth-century hand at the foot of the page, dated 1633; this belongs to the group of later notes associated with the antiquary Conall Mac Eochagáin (Conell Mageoghegan), translator of the Annals of Clonmacnoise, and relates to the folk practice of immersing the book in water administered to sick cattle — a use whose apparent placement on the page of the calf symbol has often been remarked, though the connection may well be coincidental. The inscription is a valuable witness to the manuscript's function as relic and thaumaturgic object long after it ceased to be read liturgically.
-
-### Carpet Page (4)
+## Mark: Fols 84v, 85v and 86r
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f125v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 125v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f084v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f084v-zoom.jpg" alt="A manuscript page with a broad frame of tight plaitwork in red and yellow on a dark ground, with green panels at the four corners. In the plain central field stands an eagle, frontal, with folded wings hanging at the sides and the head turned in profile to the right: a round yellow head with a green eye and a hooked beak, a body covered with small scales in red, green, yellow and white, wing feathers drawn in fine brown lines, and two yellow legs with black talons. A faint line of red writing shows above the bird.">
+  <figcaption>Book of Durrow, fol. 84v, the Eagle, symbol of Mark. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This folio is the fourth of six surviving carpet pages that structure the Book of Durrow, and it is among the most rigorously architectonic of the group. Its position within the codex is governed by the same liturgical and codicological logic observed throughout the manuscript: the full-page ornament stands as a threshold between the Evangelist symbol and the decorated incipit of the Gospel it introduces, so that the reader passes through a zone of pure, non-figural design before encountering the opening words of the sacred text. The facing recto, partly visible at the right of the image, preserves the ornamented opening of the adjoining Gospel, with a large decorated initial complex at the head of the page and a passage of majuscule display script descending in diminishing scale into the body of the text — the characteristic Insular *diminuendo*.
+Mark is introduced by the Eagle, and with it the most consequential iconographic choice of the book. In Jerome's arrangement, which became canonical in the West, the eagle belongs to John and the lion to Mark; Durrow follows the older order transmitted by Irenaeus, in which Mark receives the eagle and John the lion. The same distribution governs fol. 2r, and it has been one of the principal arguments in the discussion of the book's textual and artistic affiliations.
 
-The term *carpet page*, borrowed by nineteenth-century scholarship from the visual analogy with Near Eastern textiles, has proven durable but is in several respects misleading. The closer material referent is metalwork: the ribbon interlace, the reserved fields of stippled ground, the compartmentalised panels of fine geometric pattern all recall the enamelled and chip-carved surfaces of contemporary Irish and Anglo-Saxon hanging-bowl escutcheons, brooches and shrine mounts. The illuminator here is not imitating a woven object but translating into pigment and vellum a decorative vocabulary developed in metal.
+The eagle stands frontally, its wings folded and hanging at its sides, its head turned in sharp profile. The head is a circle of orpiment with a green eye and a hooked beak. The body and the upper wing are covered with a dense scale pattern in red, green, yellow and reserved white, again the vocabulary of inlaid metalwork; the long flight feathers, by contrast, are drawn in fine brown hatching on the bare vellum. Two yellow legs end in splayed talons with black claws. The bird stands on nothing.
 
-The page is conceived as a system of nested frames. An outer border of broad, ribbon-like interlace runs continuously around the whole field, executed in orange-red, yellow and green with strands outlined in dark brown and set off by a fine line of red dotting along both edges — the *stippling* that is a signature of Insular technique and which, at close range, produces a subtle vibration of the contour against the parchment. The four corners are marked by small independent knots that project beyond the rectangle, resolving the frame's continuity at the very points where it might otherwise close mechanically; these corner terminals also serve, visually, to anchor the composition to the surrounding vellum rather than allowing it to float free.
-
-Within this border, narrow plaited bands articulate the inner field into a grid of compartments organised on a strict double axis of symmetry. The dominant element is a tall central field of broad ribbon interlace, laid out over a dense dark ground, in which strands of orange, yellow, cream and green pass over and under one another in a regular but demanding rhythm. The strands are not uniform: several are doubled or edged in a second colour, and the pattern is punctuated by small green nodes at the points of maximum curvature, a device that both marks the turns and prevents the eye from resolving the design into a single continuous path.
-
-Flanking this central field, eight subsidiary panels are set out in mirrored pairs. Their ornament is of an entirely different order — finer, drier, and executed in delicate pale line on a dark ground rather than in coloured ribbon. Two panels at the upper and lower left carry stepped key or fret patterns of markedly rectilinear character; the corresponding panels at the right are filled with a starred, lozenge-based pattern of interlocking diagonals. The four vertical panels along the sides bear diaper and lattice patterns of hatched squares and diagonals. Four small square knots, set at the inner corners of the field and picked out with touches of yellow and green, mediate between the coarse interlace of the centre and the fine linear work of the panels. The contrast between the two scales of ornament is the page's principal aesthetic argument: the eye is drawn to the chromatic weight of the centre, then held by the almost microscopic precision of the margins.
-
-The palette remains the restricted one characteristic of the earliest Insular books — orpiment yellow, red lead, and a copper green, applied flatly, with the parchment itself functioning as a fourth tone. There is no gold leaf; the yellow, as is often observed, may have served as a substitute for it. Two areas of loss and abrasion are visible along the outer border, where the pigment has flaked to expose the underlying vellum, and the reserved margins show the discolouration and handling wear consistent with a book that remained in use, and in veneration, for many centuries.
-
-### The Lion of Saint John
+The border is broad, a regular plaitwork of flat ribbons in red and yellow, with a panel of green at each corner to mark the turn. A line of red writing, now largely faded, shows faintly in the field above the bird. The page is among the best preserved in the book.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f191v.jpg" alt="The Lion of Saint John">
-  <figcaption>The Lion of Saint John, Dublin, Trinity College Library, Dublin, MS 57, fol. 191v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f085v.jpg" alt="A carpet page with a narrow border of plaitwork ending in small coiled knots at the four corners. The field is filled with fifteen large interlaced rings in red and green, set in five rows of three on a dark ground and joined to one another by bands of yellow interlace. The central ring is pale, without colour, and encloses an equal-armed cross of fine interlace.">
+  <figcaption>Book of Durrow, fol. 85v, carpet page with interlaced rings, before Mark. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
-This folio carries the last of the four Evangelist symbols in the Book of Durrow and introduces the Gospel of John. Its attribution is one of the manuscript's most discussed features: whereas the Hieronymian arrangement, which became normative in the Latin West, assigns the lion to Mark and the eagle to John, Durrow follows the alternative sequence transmitted by Irenaeus and preserved in Irish exegetical tradition, in which the lion belongs to John and the eagle to Mark. The choice is not an error but a deliberate adherence to a distinct patristic authority, and it constitutes one of the principal arguments for locating the manuscript within an insular milieu conservative in its textual and exegetical inheritance. As elsewhere in the codex, the symbol page stands within a triadic apparatus — symbol, carpet page, decorated incipit — through which the reader is led by degrees from pure ornament to sacred text.
+The carpet page that follows, fol. 85v, faces the opening of Mark on fol. 86r. The previous version of this entry placed it before Luke; its position in the present binding, and its facing page, show that it belongs to Mark.
 
-The lion is shown in strict profile, striding to the right, unsupported by ground line or any indication of setting. As with the calf of Luke, the beast inhabits a void: it is a heraldic sign rather than a creature observed, and its isolation within the reserved field is a theological statement about the emblematic status of the Evangelist symbols. Yet the treatment here is markedly more energetic than that of the calf. The head is thrust forward, the jaws parted to reveal a row of small triangular teeth drawn in fine red line, and the long tail rises in a sweeping arc over the back before resolving into a tight spiral terminal — a device that simultaneously closes the composition and injects a note of coiled tension.
+It is the best preserved and among the most accomplished carpet pages in the book. The border is narrow, a fine plaitwork ending at each corner in a small coiled knot that projects into the margin. The field is the reverse of the eagle page: where fol. 84v has a broad border and an almost empty field, here the border is minimal and the field is full.
 
-The animal's body is articulated through a dense field of lozenge-shaped scales alternating in orange-red and green, laid out in regular diagonal rows and confined within broad contour bands of yellow that trace the shoulder, flank, haunch and limbs. These yellow bands function as a linear armature, separating the patterned body into discrete zones much as cloisons separate enamel fields in contemporary metalwork; the correspondence with Irish and Anglo-Saxon polychrome ornament — millefiori, chip-carving, enamelled escutcheons — is here particularly close. The head and neck, by contrast, are reserved in the pale tone of the parchment and animated only by fine red stippling, so that the face reads as a lighter mass set against the chromatic density of the body. A single large eye with yellow iris dominates the head, and a spiral volute marks the position of the ear. The paws are rendered in flat yellow with articulated claws, and the forelimbs and hindlimbs carry their own reduced version of the lozenge pattern.
+Fifteen large rings, alternately red and green, are set in five rows of three on a dark ground. Ribbons of yellow and white pass through each ring and tie it to its neighbours, so that the field forms a single continuous interlace rather than fifteen separate units. The alternation of red and green across the grid produces a diagonal rhythm of colour that the eye reads before the geometry.
 
-The frame comprises two distinct ornamental systems, deliberately contrasted. The horizontal bands above and below consist of a row of large circular interlace medallions — five in each register — alternating in orange-red, yellow and green over a dark ground, with small white triangles filling the interstices between the roundels; the effect is emphatically metallic, recalling a strip of mounted enamel plaques. The vertical bands at either side employ an entirely different idiom: a dense, fine-strand interlace worked in pale cream ribbon, each strand stippled along its length with red dots, running over a dark ground and punctuated at intervals by segments of yellow and green. The tonal and rhythmic opposition between the coarse, chromatic roundels of the horizontal registers and the fine, monochrome plaiting of the vertical ones is a compositional strategy also observable on the carpet pages, and it demonstrates the illuminator's control over the relative visual weight of different ornamental scales.
-
-- Two material features deserve note
-
-The reserved field shows pronounced show-through from the adjacent leaves, including a passage of red rubricated script legible in the lower half — a consequence of the thinness of the vellum, and a reminder that these pages were never seen in the isolation that modern reproduction affords. The outer margin at left bears substantial staining and darkening, consistent with prolonged handling and with the manuscript's later history as a venerated object rather than a working liturgical book.
-
-### Carpet Page (5)
+The centre is the one interruption. In place of a coloured ring stands a pale roundel, outlined in red dots, enclosing an equal-armed cross of fine interlace. The cross is no larger than the rings around it, only quieter, and it emerges by subtraction rather than emphasis. Where fol. 1v declares its cross by mass, fol. 85v requires the viewer to resolve the field before the sign appears.
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f192v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 192v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f086r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f086r-zoom.jpg" alt="A page opening the Gospel of Mark: a very large initial combining the letters I and N runs down the left side, filled with interlace and ending in spirals and trumpet patterns in yellow, orange and black, followed by the words INITIUM EVANGELII IHU XPI in display letters on panels of red dots. The text continues below in large Insular majuscule, with lines of red dots running from the initial to the text.">
+  <figcaption>Book of Durrow, fol. 86r, opening of Mark, "Initium evangelii". Dublin, Trinity College Library, MS 57. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
-This is the carpet page that follows the lion symbol of Saint John and precedes the Johannine incipit, and it is by common consent the most sophisticated of the group — the page on which the Durrow illuminator most fully exploits the zoomorphic vocabulary that elsewhere in the codex remains subordinate to abstract ribbon interlace. Where the other carpet pages are built from geometric plaiting and compartmented fret and lattice patterns, here the entire framing structure is composed of interlaced animals, and the abstract ornament is confined to a single central medallion. The inversion is deliberate and marks the page as the culmination of the manuscript's decorative programme.
+Mark opens on fol. 86r with *Initium evangelii Iesu Christi*. The first two letters, I and N, are combined in a monogram that runs down most of the left side of the page, its shafts filled with interlace and its ends swelling into spirals and trumpet patterns. The rest of the words follows in display capitals on panels of red dots, and lines of dots lead the eye from the initial to the text.
 
-The composition is organised as a rectangle divided into five horizontal registers, with the central register subdivided into three: two narrow vertical panels flanking a large square field. The four broad horizontal bands, two above and two below, are filled with elongated quadrupeds — usually described as hounds or wolves, though their morphology is deliberately unstable — whose bodies are drawn out into ribbon-like strands and woven through one another in continuous, unbroken sequence. The animals are rendered in orange-red, yellow and cream with green infill at selected points, their necks and torsos attenuated to the point of near-abstraction, so that the eye oscillates between reading the pattern as interlace and reading it as a procession of beasts. Only the small pointed heads, the round eyes marked with a dot, the open jaws and the spiral hip-joints permit the animals to be identified at all. The upper and lower registers of each pair differ subtly in rhythm and in the density of their weave, so that the four bands are not repetitions but variations on a shared principle.
+The INI monogram has a history before Durrow: it appears in an earlier form in the fragmentary Gospel book Durham, Cathedral Library, A.II.10, which is generally placed before Durrow in the development of Insular decoration. On fol. 86r it reaches a monumental scale, and it remains the model for the great openings of Lindisfarne and Kells.
 
-The two vertical panels at either side of the central field carry a more open composition: larger, more legible quadrupeds with clearly articulated heads, elongated snouts and green-filled bodies, arranged in an interlocking vertical chain against the dark ground. Their greater scale and looser spacing provide visual relief between the dense horizontal registers and the tightly worked medallion.
+The page also appears on this site, for comparison, in the entry on the [Codex Usserianus Primus](/Content/Codex/Codex-Usserianus-Primus.html), whose single decorated page stands at the very beginning of the tradition that fol. 86r brings to maturity.
 
-At the compositional and conceptual centre lies a circular field, framed by concentric bands of gold and cream and set within a reserved square of bare vellum. Its interior is filled with a rotational arrangement of interlocking knots and small circular medallions in orange-red, green and yellow, disposed around a tiny central rosette. The design is governed by a strict radial symmetry — a spinning, centrifugal pattern of the kind familiar from the millefiori and enamelled escutcheons of Irish hanging bowls, and from the openwork discs of contemporary metalwork. Four smaller roundels set at the cardinal points within the circle carry a distinct, denser fret-like ornament in muted tones, punctuating the rotation. The isolation of this medallion within its plain square field is the page's most striking device: after the horror vacui of the surrounding bands, the eye arrives at a zone of quiet in which a single, perfectly resolved geometric figure is displayed.
-
-Two further features merit attention. The four corners of the outer frame carry delicate zoomorphic terminals — attenuated beasts with scrolled tails, drawn in fine line with minimal colour — which extend beyond the rectangle into the surrounding margin and prevent the frame from closing as a purely mechanical boundary. And throughout the page a lavish use of gold is apparent, particularly in the framing fillets and in the bodies of the interlaced animals, where it produces a metallic sheen quite unlike the flat matte surfaces of the manuscript's other decorated folios.
-
-The animal ornament here has long been recognised as bearing a close relationship to *Germanic Style II* zoomorphic interlace, of the kind found on the Sutton Hoo shoulder-clasps and purse-lid, and this page is accordingly central to arguments about Anglo-Saxon components in the Durrow illuminator's formation. Whether this indicates a Northumbrian place of production, or the circulation of metalwork models within a Columban network extending across the Irish Sea, remains open.
-
-### Carpet Page (6)
+## Luke: Fols 124v, 125v and 126r
 
 <figure>
-  <img src="/Images/Book-of-Durrow/book-of-durrow-f248r.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 248r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f124v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f124v-zoom.jpg" alt="A manuscript page with a broad frame of ribbon interlace in orange, yellow and green on a dark ground. In the plain field a small calf walks to the right, its pale pink body covered in red dots, with green and yellow spirals marking the shoulder and haunch, legs banded in green and brown, small horns and an almond eye. Writing from the other side of the leaf shows through. Below the frame, two lines in a seventeenth-century hand end with the date 1633.">
+  <figcaption>Book of Durrow, fol. 124v, the Calf, symbol of Luke, with the note of Conall Mageoghegan, 1633. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This folio closes the Book of Durrow, and its position is as significant as its design. Whereas the other carpet pages of the codex function as thresholds — standing between Evangelist symbol and Gospel incipit, preparing the reader for the sacred text — this one has nothing after it. It is terminal rather than liminal: an ornamental colophon, a final seal set upon the completed book. The recto placement is itself unusual and reinforces the sense of an ending, since the reader arrives at it from the concluding text on the facing verso rather than passing through it into anything further.
+The Calf of Luke is the one symbol on which the two traditions agree. It stands in profile in the upper half of a large empty field, small in relation to the space around it, without ground line or shadow. The isolation is deliberate: the symbol is a sign, not an animal in a landscape.
 
-The design is the most severely disciplined in the manuscript. The entire field is occupied by a single continuous stepped-fret pattern — a key or meander ornament built from strictly rectilinear elements, without a single curve anywhere in the composition. Broad yellow bands, outlined in fine dark line and separated by a narrow reserved channel, interlock in a diagonal lattice across the surface, weaving over and under one another at every intersection. The interstices are filled with a warm brownish-red ground, and where the fret resolves into open spaces, these take the form of stepped, cross-like or lozenge shapes distributed at regular intervals across the field. The result is a pattern of remarkable optical density: the eye can follow individual strands for a short distance before losing them in the weave, and the alternation between yellow bands and red ground produces a persistent figure-ground reversal — one reads now the gold-toned lattice, now the red crosses it encloses.
+The body is a pale field scattered with red dots; the head has a single large eye and small horns. At the shoulder and the haunch the joints are resolved into tight spirals in green and yellow, a device from Celtic metalwork that turns an anatomical joint into an ornamental one. The lower legs are banded in green and ochre and end in cloven hooves; the tail hangs stiff.
 
-This idiom is quite distinct from the ribbon interlace and zoomorphic ornament of the other carpet pages. Its ultimate ancestry lies in the rectilinear key patterns of late La Tène metalwork and, more immediately, in the chip-carved and enamelled ornament of Irish and Anglo-Saxon fine metalwork, where stepped fret designs of exactly this character appear on escutcheons, mounts and shrine plates. The illuminator has here confined himself to a single ornamental register and pursued it to exhaustion — an aesthetic of relentless repetition that has more in common with the ornamented surfaces of metal objects than with any painted tradition.
+The frame is a broad ribbon interlace in yellow, orange-red and green. Script from the other side of the leaf shows through the field, a reminder of the thinness of the vellum.
 
-Equally notable is what the page lacks. There is no elaborate framing apparatus of the kind that governs fols. 125v and 192v: only a plain double ruled line encloses the field, with no interlace border, no corner terminals, no compartmented subsidiary panels. The whole page is a single undivided expanse. Whether this austerity is a deliberate rhetorical choice appropriate to a closing page, or a consequence of the folio's position and condition, is worth considering carefully.
+At the foot of the page two lines in a seventeenth-century hand end with the date 1633. They belong to the notes of Conall Mageoghegan, the antiquary and translator of the Annals of Clonmacnoise, who knew the book when it was still kept in the Durrow district. His testimony about the use of the book for sick cattle is discussed below; the note on this page is a record of his own, not a description of that practice.
 
-The material condition demands comment, since it is inseparable from what one sees. This is the outermost surviving leaf of the manuscript, and it has suffered accordingly. The vellum shows extensive abrasion and discolouration, particularly across the upper and outer areas, where the pigment has worn thin and the underlying skin shows through. Several substantial repairs are visible: lines of fine white stitching cross the leaf at the upper right, along the left edge, and at the lower margin, and a small perforation with darkened edges interrupts the pattern in the lower centre. The outer margin has been reinforced with a mounted strip. These interventions belong to the manuscript's long conservation history, most consequentially the rebinding of 1954, and they testify to the physical vulnerability of a book that was for centuries handled as relic and talisman rather than protected as an artefact. In the upper right corner a modern pencil foliation, *248*, is legible, and a small letter *B* appears in the lower margin — later signatures of the codex's institutional life.
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f125v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f125v-zoom.jpg" alt="A carpet page with a border of ribbon interlace in red, yellow and green, ending in small knots at the corners. At the centre a tall panel of broad interlace in orange, yellow, green and white on a dark ground. Around it, in mirrored pairs, eight smaller panels of fine pale ornament: step patterns, lattices and star-shaped interlace, with four small knots at the corners of the central panel. The edge of the facing page with a decorated initial shows at the right.">
+  <figcaption>Book of Durrow, fol. 125v, carpet page before Luke. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-## Art-historical relationships and sources
+The carpet page before Luke, fol. 125v, is the most architectural of the group. A border of broad ribbon interlace, outlined in red dots, runs around the whole field and ends at the corners in small knots that project beyond the rectangle.
 
-The Book of Durrow is a synthesis of at least four visual traditions:
+Within, narrow plaited bands divide the field into compartments on a double axis of symmetry. The dominant element is a tall central panel of broad interlace on a dark ground, in which strands of orange, yellow, cream and green pass over and under one another, punctuated by small green nodes at the turns. Around it eight smaller panels are set in mirrored pairs, filled with ornament of an entirely different order: step patterns, lattices and star-shaped interlace drawn in fine pale line on a dark ground. Four small knots at the inner corners mediate between the two scales.
 
-- Germanic/Anglo-Saxon metalwork: the ribbon-animal interlace derives from Style II as seen at Sutton Hoo and on the Benty Grange hanging bowl; the chequered Man-cloak evokes millefiori/cloisonné. The Staffordshire hoard has been adduced as a fresh parallel strengthening the possibility of a Northumbrian connection.
-- Celtic La Tène tradition: the spirals, trumpet-patterns and triskeles descend from Iron Age Celtic metalwork.
-- Coptic/Eastern Mediterranean: the carpet-page concept and certain interlace/mesh designs have Coptic and Syriac parallels, implying knowledge of Eastern models (TCD's materials suggest at least one artist had contact with the Eastern Mediterranean).
-- Pictish and Late Antique/Italian: some animal and figural forms have been linked to Pictish stones; the codex structure and prefatory apparatus derive ultimately from Late Antique Italian Gospel-book models.
+The contrast of scale is the argument of the page: the eye is drawn first to the coloured weight of the centre, then held by the almost microscopic precision of the side panels. The term carpet page, borrowed by nineteenth-century scholars from Near Eastern textiles, is misleading here as elsewhere: the closest analogues are the compartmented, chip-carved and enamelled surfaces of contemporary metalwork.
 
-### Relationship to other manuscripts
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f126r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f126r-zoom.jpg" alt="A manuscript text page. At the top a large decorated Q, filled with spirals in green, orange and yellow, followed by the display letters UONIAM and QUIDEM MUL on a field of red dots; then ten lines of Insular majuscule. Below, a second decorated initial, a tall F with spiral ends, opens a new passage with display letters on red dots, followed by three more lines of text. The edge of the facing carpet page shows at the left.">
+  <figcaption>Book of Durrow, fol. 126r, opening of Luke, "Quoniam quidem multi". Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-In the standard developmental account, Durrow follows the Cathach of St Columba (c. 600, Royal Irish Academy — the earliest surviving Irish manuscript, showing the first tentative enlarged/diminuendo initials) and the fragmentary Durham Gospel Book (Durham Cathedral Library A.II.10, which carries the earliest "INI" monogram), and precedes the Durham Gospels (A.II.17), the Echternach Gospels, and the Lindisfarne Gospels (begun c. 700). Durrow probably served as a partial exemplar for the Book of Kells (c. 800), some of whose opening pages reproduce the Durrow text "including minor errors," pointing to direct copying.
+Luke opens on fol. 126r with *Quoniam quidem multi conati sunt ordinare narrationem*, the dedication to Theophilus. The page has two decorated initials: a large Q at the top, its bowl filled with spirals in green, orange and yellow, and, after ten lines of text, a tall F that opens the narrative proper, *Fuit in diebus Herodis regis*. Both are followed by display letters on fields of red dots.
 
-Durrow vs. Lindisfarne — which comes first? The consensus places Durrow before Lindisfarne (Durrow's interlace is larger and less minutely detailed; "the extreme level of detail found in later Insular books begins here"). Two studies — "The Book of Durrow: The Northumbrian Connection" (in *Northumbria's Golden Age*, 1999, pp. 315–326) and "The Book of Durrow and the Lindisfarne Gospels" (in *The Lindisfarne Gospels: New Perspectives*, Brill, 2017, pp. 166–182) — examine the relationship in detail.
+The double opening marks the structure of Luke's first chapter, which begins with a preface before the story of Zacharias and Elizabeth. The scribe and painter have made the division visible with the same means used for the openings of the Gospels themselves.
 
-## The dating and origin controversy
+## John: Fols 191v, 192v and 193r
 
-This is the crux of Durrow scholarship. Because the surviving colophon is a later relic-claim (not a datable scribal signature) and no radiocarbon date exists, the question turns entirely on palaeography, ornament, textual affiliation and historical inference.
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f191v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f191v-zoom.jpg" alt="A manuscript page with a frame of two kinds: above and below, five interlaced roundels in red, yellow and green on a dark ground; at the sides, fine pale interlace dotted with red. In the plain field a lion walks to the right, its body covered with small diamonds in red and green within yellow contour bands, its pale head dotted with red, with a yellow eye, open jaws showing pointed teeth, and a long tail curling over its back into a spiral. Writing from the other side of the leaf shows through, including lines in red.">
+  <figcaption>Book of Durrow, fol. 191v, the Lion, symbol of John. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-Four positions have been argued:
+The Lion of John, the last of the symbols, completes the Irenaean scheme. It walks to the right in strict profile, with no ground line. The treatment is more energetic than that of the calf: the head is thrust forward, the jaws parted to show small pointed teeth, and the long tail rises over the back to end in a tight spiral.
 
-1. Ireland / Durrow. This position reads the ornament and Columban associations as evidence of Irish manufacture. The later provenance (the book was demonstrably at Durrow by 916), the colophon, and the cumdach are used as supporting evidence. Recent introductory scholarship leans toward Durrow or at least Ireland while conceding uncertainty; one widely cited summary states the book "was probably made in Ireland, in or near Durrow Abbey."
+The body is covered with small diamonds alternating in red and green, set within broad yellow contour bands that trace the shoulder, flank and haunch and divide the body into zones, as cloisons divide enamel. The head is reserved in the tone of the vellum and animated only by red dots, with a large yellow eye and a spiral at the ear.
 
-2. Iona. Argued most forcefully in a 1990 study, "The Cross-Carpet Page in the Book of Durrow: the Cult of the True Cross, Adomnán, and Iona" (*The Art Bulletin* 72, 1990, pp. 174–223), which proposed that the f. 1v cross-carpet page and the f. 2r symbols page were designed to evoke the loca sancta of the Holy Sepulchre in Jerusalem, drawing on Adomnán's *De locis sanctis*, and concluded in favour of "an Iona provenance of ca. 685." A later restatement, "The Book of Durrow and the question of programme" (*Anglo-Saxon England* 26, 1997, pp. 23–39), maintained that these references point to Adomnán, the scholarly abbot of the Columban foundation of Iona, who very likely sponsored the creation of the gospel-book between 682 and 686. An earlier study, "Before the Book of Durrow" (*Acta Archaeologica* 18, 1947, pp. 141–174), is grouped with the Irish/Columban camp.
+The frame sets two systems against each other. Above and below, five interlaced roundels in red, yellow and green on a dark ground, like a strip of mounted plaques; at the sides, fine pale interlace dotted with red. Writing from the other side of the leaf, including lines in red, shows through the field.
 
-3. Northumbria / Lindisfarne. Argued from textual and palaeographical evidence in scholarship tending to a slightly later date c. 680; a related study, already cited above, continues this line by pressing the Northumbrian connection. A standard survey (*Insular Manuscripts 6th to the 9th Century*, 1978, no. 6, p. 30) summarised the field: a date "between the Durham Gospel fragment ... and the Lindisfarne Gospels ... in the middle of the second half of the 7th century seems most probable"; the provenance and colophon support an Irish/Iona (Columban) origin, while textual and palaeographical evidence is adduced by those favouring an origin in Northumbria, who also tend to a slightly later date c. 680.
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f192v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f192v-zoom.jpg" alt="A carpet page in five horizontal bands. Four broad bands, two above and two below, are filled with long-bodied animals in orange, yellow and white with green details, their bodies drawn out into ribbons and interlaced, small heads with round eyes and open jaws. In the middle band, two narrow vertical panels of larger interlaced animals flank a square of plain vellum holding a circle of interlace in orange, green and yellow, with a small cross at its centre and three small roundels of fret.">
+  <figcaption>Book of Durrow, fol. 192v, carpet page with animal interlace, before John. Dublin, Trinity College Library, MS 57. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
 
-4. Pictish Scotland enters chiefly as a stylistic factor (animal and figural comparanda), not as a full origin hypothesis.
+The carpet page before John, fol. 192v, is the only one built from animals. Four broad horizontal bands, two above and two below, are filled with long-bodied quadrupeds whose bodies are drawn out into ribbons and woven through one another in continuous sequence. Only the small pointed heads with round eyes, the open jaws and the spiral joints allow them to be read as animals; the eye oscillates between interlace and procession.
 
-The evidence genuinely underdetermines the answer, and the mobility of scribes and books within the Columban federation may make a single "birthplace" the wrong question. My reading of the literature is that the strongest defensible position is a Columban origin (Durrow, Iona, or an Ireland–Iona–Northumbria network) in the later seventh century, roughly c. 660–690. The Iona hypothesis of c. 682–686 is the single most precisely argued position but rests on a contested iconographic reading; by contrast, one recent account notes that "recent research indicates that it was probably produced early in the eighth century." The safest scholarly formulation remains: Insular, Columban, c. 650–700, place undetermined.
+In the middle band two narrow vertical panels of larger, more legible animals flank a square of plain vellum. At its centre is a circle of interlace in orange, green and yellow, arranged around a small cross, with three smaller roundels of fret ornament. After the density of the bands, the circle in its empty square is a zone of quiet.
 
-## Provenance and later history
+The animal ornament has long been recognised as related to the Germanic Style II of Anglo-Saxon metalwork, the style of the Sutton Hoo shoulder-clasps and purse-lid. The page is therefore central to every argument about an Anglo-Saxon element in the formation of the painter. Whether it indicates production in Northumbria, or the circulation of metalwork models within the Columban network, remains open.
 
-The Columban familia and Durrow. Durrow (Dair Mag, Co. Offaly) was founded by Colum Cille in the sixth century and became an important centre of learning. Whether the book was made there is unproven, but it was certainly there by 916.
+The yellow of this page glitters in high-resolution photographs and has sometimes been described as gold. It is orpiment, the same pigment as on every other page; no metal is used here or anywhere else in the book. Four delicate animal terminals in fine line, with little colour, extend from the corners of the frame into the margin.
 
-The cumdach of Flann Sinna. Flann Sinna mac Máele Sechnaill (d. 916), high-king of Ireland of the southern Uí Néill (Clann Cholmáin), commissioned a silver cumdach (book-shrine) for the manuscript — the earliest documented Irish cumdach, made "at the behest of King of Ireland Flann Sinna." It was recorded by the antiquary Roderick O'Flaherty in 1677 (his note is now bound into the book as folio IIv), describing a silver cross whose arm bore the (unrecorded) craftsman's name and whose shaft invoked St Colum Cille's blessing on King Flann "who caused this cover to be made." The shrine disappeared during the military disturbances of 1689. See "The Inscriptions on Pre-Norman Irish Reliquaries," *Proceedings of the Royal Irish Academy* 96C (1996).
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f193r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f193r-zoom.jpg" alt="A manuscript page opening the Gospel of John. A very tall initial combining I and N fills the left side, its shafts filled with interlace in yellow, black and orange and ending at top and bottom in clusters of spirals. To the right, the display letters PRIN CIPIO ERAT and VERBUM ET VERBUM ERAT APUD DEUM in panels of red dots, followed by eight lines of Insular majuscule. The edge of the facing animal carpet page shows at the left.">
+  <figcaption>Book of Durrow, fol. 193r, opening of John, "In principio erat verbum". Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-Medieval and early modern custody. The book remained at Durrow through the medieval period; after twelfth-century church reform the Augustinian canons administered the site. It later passed, with the Durrow crosier, to the McGeoghan family as hereditary keepers. James Ussher studied it (probably as Bishop of Meath, 1621–23), distinguishing the two "gospels of St Colum Cille" as the Books of Kells and Durrow.
+John opens on fol. 193r with *In principio erat verbum*. The initial I and N are again combined into a monogram, here the tallest initial in the book, running almost the full height of the written area; the shafts are filled with interlace, and the ends burst into clusters of spirals. The display letters PRIN CIPIO ERAT follow in three panels of red dots, then VERBUM ET VERBUM ERAT APUD DEUM in two more lines, before the text settles into the body script.
 
-The cattle-cure tradition. By the 1620s–1630s the custodian was reportedly renting out a section of the book (part of John) to farmers, who dipped it in a cattle trough; the water was then given to sick cattle as a cure. This is documented in Conall Mac Eochagáin's testimony (c. 1627/1633) and corroborated by the physical water-damage to ff. 208–221.
+Of the four Gospel openings, this is the most monumental, and it stands opposite the most elaborate carpet page. The sequence of John, lion, animal carpet page and great initial, forms the climax of the decorative programme.
 
-Donation to Trinity College. Henry Jones (c. 1605–1682), Bishop of Meath and vice-chancellor of TCD, presented the book (with the Book of Kells) to Trinity College Library in the period 1661–1682. It has remained there since, surviving the 1689 Jacobite occupation, which cost it its shrine.
+## The Last Carpet Page: Fol. 248r
 
-The 1954 rebinding. The book was rebound in 1954 (see Codicology). The campaign revealed the singleton structure of many leaves, the flesh-side selection for ornament, and evidence of historical misbinding; it produced a reconstruction assigning f. 1v to Matthew. Correction of a common error: one vendor source dates this conservation work to "1896–1900" — this is false; the conservator responsible (1896–1990) rebound Kells in 1953 and Durrow in 1954.
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f248r.jpg" alt="A worn carpet page filled with a single continuous step-fret pattern: broad yellow bands with narrow reserved channels interlock in a diagonal lattice over a brownish-red ground, leaving small stepped crosses and lozenges at regular intervals. Only a plain ruled line encloses the field. The vellum is abraded and repaired with stitching at the edges, and a small hole interrupts the pattern near the lower centre.">
+  <figcaption>Book of Durrow, fol. 248r, carpet page with step-fret pattern. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+</figure>
 
-## Historiography and reception
+The book ends with a carpet page that has nothing after it. The others are thresholds between a symbol and a text; this one is terminal, an ornamental seal on the completed book. It stands on a recto, reached from the end of John on the facing verso.
 
-From the nineteenth century onward — through antiquarian description and early catalogue work — the book was celebrated as a monument of Irish Christian art. Twentieth-century scholarship became polarised along national lines: one 1939 study argued for strong Irish influence, while *Essai sur les origines de la miniature dite irlandaise* (Brussels, 1947) argued provocatively for a Northumbrian (Lindisfarne) origin for the major Insular books.
+The design is the most severe in the manuscript. The whole field is filled with a single continuous step-fret pattern, built entirely of straight lines. Broad yellow bands, separated by narrow reserved channels, interlock in a diagonal lattice over a brownish-red ground, leaving small stepped crosses and lozenges at regular intervals. The eye can follow a band for a short distance before losing it; the pattern reverses constantly between yellow lattice and red crosses.
 
-Oxford Bibliographies observes that this 1947 book "exerted disproportionate influence over the question of provenance, demonstrating heavy racial bias toward the Irish," and that these two studies together "set the nationalistic tone of Insular manuscript scholarship for much of the later twentieth century." The very category "Insular" (as opposed to "Irish" or "Hiberno-Saxon") emerged partly to defuse this nationalist framing. More recent scholarship has moved toward network models of production and toward iconographic, codicological and scientific analysis, reacting against the older nationalist paradigm. (Note: the Durrow *site* itself was a flashpoint of pre-independence cultural politics — the 1914 Durrow Abbey access dispute — a reminder that the manuscript's reception is entangled with Irish national identity.)
+There is no border apparatus: only a plain ruled line encloses the field. Whether this austerity is a choice suited to a closing page or a consequence of the position of the leaf cannot be decided. The leaf is the outermost of the book and has suffered accordingly: the pigment is worn thin, the vellum abraded and discoloured, and the edges repaired.
 
-Against this backdrop of national partisanship, [George Henderson](/scholars.html#henderson-george-david-smith)'s *From Durrow to Kells: The Insular Gospel-Books, 650–800* (Thames & Hudson, 1987) marked a deliberate change of register. Its stated aim was to treat Durrow, the Durham Gospels, the Echternach and Lindisfarne Gospels, and Kells not as way-stations on a single stylistic road running from "primitive" to "developed" ornament — the implicit teleology shared by both the Irish and the Northumbrian partisans — but as a series of discrete intellectual projects, each answering to its own theological programme and to the demands of the gospel text it transmits. The effect was to relocate the burden of explanation away from the question that had consumed earlier scholarship — where, geographically, was this made? — and toward the question of what the decoration is doing at any given opening: why a carpet page precedes this incipit and not that one, why the evangelist symbols are disposed in this order rather than another, why an initial swells or contracts as it does.
+Fret patterns of exactly this kind appear on Irish and Anglo-Saxon metalwork, on escutcheons, mounts and shrine plates. As on the other carpet pages, the painter has translated into pigment a vocabulary first developed in metal.
 
-Applied to Durrow, this method bears directly on points already documented above. It reads the Irenaean ordering of the symbols on the four-symbols page (fol. 2r) and at the Mark and John openings — eagle to Mark, lion to John, against the Hieronymian assignment that would later prevail — as a textual and exegetical choice with consequences for the ornamental programme, not as a curiosity to be filed alongside the dating debate. In this account the symbols page and the double-armed cross of fol. 1v are conceived as a paired prefatory statement in the sense already described under Decoration programme, and the *diminuendo* structure of the incipit pages (fol. 4r and its successors) is treated as evidence of a scriptorium thinking in terms of graduated address to the sacred text, a habit of mind traced forward into the far more elaborate diminuendo passages of Kells.
+## Palette and Technique
 
-On the dating and origin controversy, this position is characteristically cautious: it does not adjudicate Ireland, Iona and Northumbria against one another so much as insist that the ornamental vocabulary common to all three milieux — the debt to Germanic Style II interlace, the La Tène-derived spiral repertoire, the metalwork analogies invoked throughout this entry — makes a single point of origin an unpromising question to press too hard, a position closer to the "network" reading of more recent scholarship than to the older nationalist certainties. Where the book has proved most consequential for Durrow studies specifically is in its treatment of the manuscript's relationship to Kells: it reads Kells's opening pages, which reproduce Durrow's text "including minor errors" (a phrase already cited above under Relationship to other manuscripts), as confirmation that Durrow functioned within the Columban familia as an authoritative exemplar whose textual and decorative choices were consciously inherited, elaborated and in places corrected by the Kells workshop a century or more later.
+Non-invasive analysis by Raman spectroscopy has identified the pigments of the book. The study of three early Trinity manuscripts, the Codex Usserianus Primus, the Book of Durrow and the Book of Armagh, was published in *Making Histories*, the proceedings of the sixth International Conference on Insular Art (York, 2011; published 2013). The red is red lead, the yellow orpiment, the green a copper-based pigment, and the black and brown iron-gall ink; what reads as black in the backgrounds is in fact a dark brown.
 
-*From Durrow to Kells* remains, as its subtitle promises, the standard point of departure for situating Durrow within the wider Insular tradition rather than treating it in isolation, and its account of the relationship between decoration and textual articulation underlies much of the subsequent scholarship cited in this entry, including later iconographic work. Its author's Cambridge lineage — the department traces a line of descent through earlier generations of Cambridge art historians — is itself part of the historiography of Insular studies sketched here: it places the book's most influential post-war English-language synthesis within an art-historical tradition distinct from, and in useful tension with, the Dublin-based custodial scholarship represented elsewhere in this account and the earlier partisan debates already described above.
+No blue, no white pigment and no gold have been found. White is the reserved vellum, and pink effects are obtained with red dots over bare vellum. The palette was confirmed by the Durham study of the earliest Northumbrian manuscripts by Andrew Beeby, Richard Gameson and colleagues (*Scriptorium* 69, 2015), which uses Durrow as a point of comparison.
 
-## Conclusion
+The contrast with the Book of Kells is instructive. The Raman study of Kells published in 2009 identified, besides red lead, orpiment and a copper green, indigo, gypsum white and an organic purple. Durrow uses essentially three mineral pigments with ink and vellum. The difference measures how far the resources of an Insular scriptorium grew in the century or more between the two books.
 
-The *Book of Durrow* occupies a position in the history of Insular art that no later, more lavish manuscript can displace: it is the earliest survivor of a fully illuminated Gospel book in this tradition, the point at which carpet page, evangelist symbol and decorated incipit first appear together as a coherent decorative system rather than as isolated experiments. Everything that follows in Insular book painting — the Durham Gospels, Lindisfarne, Echternach, and eventually Kells itself — presupposes a programme whose basic vocabulary Durrow had already assembled by the later seventh century. That priority, more than any single page, is the manuscript's deepest claim on scholarly attention, and it is why a disagreement over a few decades of dating carries consequences for the whole field rather than for one book alone.
+Technically, the paint is laid flat, without modelling or gradation; contours are drawn in dark ink and often accompanied by rows of red dots. The precision of the interlace, in which every strand passes alternately over and under, implies careful preliminary layout of each page before any colour was applied.
 
-The physical object bears the marks of that priority as much as the decoration does. A vellum codex of 248 folios, written by a single confident hand in Insular majuscule, reduced by trimming and rebinding, its leaves surviving largely as singletons rather than intact bifolia — the codicological evidence recovered by twentieth-century conservation work is inseparable from any account of what the book originally looked like. The restrained three-pigment palette of red lead, orpiment and copper green, established by non-invasive scientific analysis and confirmed independently by more than one laboratory, is not merely a technical footnote: set against the far richer palette later deployed in Kells, it is a concrete measure of how much the Insular decorative repertoire expanded in the century and a half separating the two books.
+## Sources of the Ornament
 
-The textual contents — a Vulgate Gospel text with the customary Hieronymian prefatory apparatus, evangelist symbols assigned in the older, pre-Hieronymian order, and a colophon later reworked to claim authorship by Colum Cille himself — show a manuscript that was never treated merely as a reading copy. Successive generations added a land memorandum, a Pentecost lection, and seventeenth-century signatures and devotional notes, each layer testifying to continued use, veneration, and eventually superstition, long after the book's original liturgical function had receded into the past.
+The ornament of Durrow draws on at least three traditions, and the combination is the book's distinctive achievement.
 
-The decoration programme itself repays the page-by-page attention given to it above precisely because its logic is systematic rather than accumulative. The same triadic sequence — evangelist symbol, carpet page, decorated incipit — recurs before each Gospel with the sole exception of Matthew; the same restricted palette and the same repertoire of ring-and-ribbon interlace, trumpet-spiral ornament, and stepped fret pattern recur across otherwise very different compositions; and the same Irenaean ordering of the symbols, eagle to Mark and lion to John against the later Hieronymian norm, is maintained with a consistency that rules out accident. Read together, the decorated openings function less as a gallery of separate masterpieces than as a single sustained argument about how ornament should address sacred text.
+The spirals, trumpet patterns and triskeles of fols 3v, 86r, 126r and 193r descend from the La Tène art of Iron Age Ireland and Britain, transmitted through enamelled metalwork such as the escutcheons of hanging bowls. The animal interlace of fol. 192v belongs to the Germanic Style II of Anglo-Saxon metalwork, the style of Sutton Hoo. The chequered cloak of the Man and the diamond border of fol. 2r translate the millefiori and cloisonné inlay common to both.
 
-That argument draws on genuinely disparate sources — Germanic Style II animal interlace of the kind found at Sutton Hoo, the La Tène-derived spiral vocabulary of native Celtic metalwork, carpet-page conventions with plausible Coptic and Eastern Mediterranean analogues, and a codex structure ultimately descended from Late Antique Italian Gospel-book models — and it is precisely this synthesis of traditions, rather than any single source, that has made the question of where the book was produced so difficult to settle and so consequential to answer.
+Behind the book as a whole stands a fourth source, the Mediterranean Gospel book. The text, the prefaces, the canon tables and the evangelist symbols came to the Insular world from Italy, and some designs, the carpet page itself and certain interlaced patterns, have parallels in Coptic and other Eastern Mediterranean books. Pictish sculpture in Scotland offers parallels for some of the animals, which raises the question, still unresolved, of which came first.
 
-The dating and origin controversy, surveyed at length above, cannot be resolved on the evidence currently available, and this entry has not tried to pretend otherwise. What can be said with confidence is that the debate itself, run across Ireland, Iona and Northumbria, has been more productive than any single verdict it might have reached, since it has forced sustained attention to palaeography, textual affiliation, ornament and historical context alike. The most defensible position remains a Columban origin somewhere within the Durrow–Iona–Northumbria network in the later seventh century — a formulation that treats the mobility of scribes and exemplars within the Columban federation as part of the answer rather than an obstacle to finding one.
+In the developmental account set out by Alexander and others, Durrow follows the Cathach of St Columba, of about 600, with its first enlarged and diminishing initials, and the fragmentary Durham Gospel book A.II.10, with an early INI monogram; and it precedes the Durham Gospels A.II.17, the Echternach Gospels and the Lindisfarne Gospels. Durrow's interlace is larger and less minutely detailed than that of Lindisfarne, and the extreme detail of the later books begins with it.
 
-The book's later life is as instructive as its making. A silver cumdach commissioned by a tenth-century high-king, medieval custody by hereditary keepers, a documented folk practice of dipping sections of the manuscript in water for the cure of sick cattle, the loss of its shrine during the Jacobite occupation of Trinity College, and its eventual, permanent donation to Trinity College Library together trace the arc by which a working Gospel book became first a relic and then an institutionally protected national treasure. The physical damage catalogued throughout this entry — water staining, paint loss, a rebinding campaign four centuries after the last — is the residue of exactly that transformation, and it should be read as evidence of the manuscript's centrality to Irish devotional and cultural life rather than as simple neglect.
+## Date and Origin
 
-The historiography traced here, from nineteenth-century antiquarian celebration through the openly nationalist polarisation of the mid-twentieth century to the more recent turn toward network models, iconographic analysis and hard scientific data, is itself a history of how scholars have used Durrow to answer questions that were not always about Durrow at all. What the more recent, methodologically self-aware scholarship shares — whatever its position on the Ireland–Iona–Northumbria question — is a willingness to let the manuscript's own internal logic, its systematic ornamental choices and its precise relationship to the text it transmits, do more of the interpretive work than the search for a single national origin ever could. Read in that spirit, the Book of Durrow is less a puzzle to be solved than the foundation on which the entire subsequent achievement of Insular manuscript illumination, from Lindisfarne to Kells, was built.
+The book has no datable colophon and no radiocarbon date. The question of when and where it was made turns entirely on palaeography, ornament, textual affiliation and historical inference, and it has been answered in at least three ways.
+
+The traditional answer is Ireland, perhaps Durrow itself. It rests on the later provenance, the colophon naming Columba and the shrine of the tenth century. [Carl Nordenfalk](/scholars.html#nordenfalk-carl), in "Before the Book of Durrow" (*Acta Archaeologica* 18, 1947), traced the Irish antecedents of its decoration. Bernard Meehan, in the monograph of 1996, stresses the book's ancient association with Durrow and the Columban connections, and explains the eclecticism of its ornament by the wide contacts of the Columban houses.
+
+A second answer is Iona. [Martin Werner](/scholars.html#werner-martin), in "The cross-carpet page in the Book of Durrow: the cult of the True Cross, Adomnán, and Iona" (*The Art Bulletin* 72, 1990, pp. 174–223), argued that fols 1v and 2r were designed to evoke the holy places of Jerusalem as described in Adomnán's *De locis sanctis*, and proposed an origin at Iona about 685. In "The Book of Durrow and the question of programme" (*Anglo-Saxon England* 26, 1997, pp. 23–39) he maintained that the book was very probably sponsored by Adomnán, abbot of Iona, between 682 and 686. It is the most precisely argued position, and it rests on an iconographic reading that not all scholars accept.
+
+The third answer is Northumbria. [François Masai](/scholars.html#masai-francois), in his *Essai sur les origines de la miniature dite irlandaise* (Brussels, 1947), argued for a Northumbrian, Lindisfarne origin of the major Insular books, Durrow among them. Others, without going so far, have pointed to the Anglo-Saxon animal ornament of fol. 192v and to the quality of the Vulgate text.
+
+Alexander, in *Insular Manuscripts, 6th to the 9th Century* (1978, no. 6), summarised the field: a date between the Durham Gospel fragment and the Lindisfarne Gospels, in the middle of the second half of the seventh century, seemed most probable; the provenance and the colophon support a Columban origin in Ireland or Iona, while textual and palaeographical evidence is adduced by those who favour Northumbria, who also tend to a slightly later date, about 680.
+
+The evidence does not decide between these places, and the mobility of scribes, painters and books within the Columban federation may make a single place of birth the wrong question. The most defensible formulation remains a Columban origin in the second half of the seventh century, in Ireland, Iona or Northumbria. Some recent accounts, including the review of Meehan's book in the *Irish Times*, move the date to the late seventh or early eighth century.
+
+## The Colophon
+
+Near the end of the book, on fol. 247v, a subscription asks the reader to remember Columba the scribe, who wrote the Gospel in the space of twelve days. In the usual reading it is addressed to a priest Patrick. The text has been partly erased and written over, and at some point it was altered so as to imply that the writer was Colum Cille himself.
+
+The claim cannot be accepted. Columba died in 597, a century or so before the probable date of the book, and twelve days is a plausible span for copying a single Gospel, not four Gospels with their decoration. The subscription is best explained as copied from an exemplar, perhaps one attributed to the saint, and later adapted to make the book a relic of the founder. Similar colophons occur in other Irish books, among them the [Book of Mulling](/Content/Codex/Book-of-Mulling.html).
+
+The subscription has been studied by [David Howlett](/scholars.html#howlett-david), "The colophon in the Book of Durrow" (*Hermathena* 168, 2000). Its exact folio is sometimes given as 247r; the reference here follows the present foliation.
+
+Other additions record the later life of the book. On the last leaf, fol. 248v, a memorandum of about 1100 records a transaction concerning land and the church of Durrow; it has been studied by Edel Bhreathnach (2015). A reading for Pentecost, Acts 2:1–4, was added in the twelfth century on a page left blank, fol. 192r. The note of Conall Mageoghegan, dated 1633, stands on fol. 124v.
+
+## Provenance
+
+By the early tenth century the book was at Durrow and was venerated as a relic of Colum Cille. Flann Sinna, of the southern Uí Néill, high-king of Ireland from 877 to 916, had a silver shrine, or *cumdach*, made for it: the earliest Irish book-shrine of which there is a record. The shrine itself is lost.
+
+What is known of it comes from the antiquary Roderick O'Flaherty, who described it in 1677 in a note now bound into the book. He recorded a silver cross on the shrine, with the name of the craftsman on one arm and, on the shaft, an inscription invoking the blessing of Colum Cille on King Flann, who had the cover made.
+
+The book remained at Durrow through the Middle Ages. After the reform of the Irish church in the twelfth century the site was served by Augustinian canons; after the Reformation the book passed into private keeping. Conall Mageoghegan reported in 1627 that its keeper, "the ignorant man that had same in his custody", used to put it in water and give the water to sick cattle as a cure. The water damage of fols 208–221 is consistent with the practice. James Ussher, as bishop of Meath (1621–1623), knew the book and distinguished the two "gospels of St Colum Cille" as the books now called Kells and Durrow.
+
+Henry Jones, bishop of Meath from 1661 to 1682 and vice-chancellor of Trinity College, gave the book, with the Book of Kells, to the College Library. In 1689, during the military occupation of Trinity College under James II, it lost its shrine. By the end of the century it had only a plain leather cover. It has remained in the Library since, and was rebound by Roger Powell in 1954.
+
+## Historiography
+
+From the nineteenth century the book was celebrated as a monument of Irish Christian art, and for much of the twentieth century its study was shaped by the question of national origin. Masai's *Essai* of 1947 argued for Northumbria; [Françoise Henry](/scholars.html#henry-francoise), in her studies of Irish art, and Nordenfalk defended an Irish or Columban origin. The term "Insular", rather than "Irish" or "Hiberno-Saxon", came into use partly to leave that question open.
+
+The facsimile of 1960, published by Urs Graf with a commentary edited by A. A. Luce and contributions by G. O. Simms, P. Meyer and L. Bieler, made the whole book available in colour for the first time, and proposed a reconstruction of its original order on the basis of Powell's findings.
+
+[George Henderson](/scholars.html#henderson-george-david-smith)'s *From Durrow to Kells: The Insular Gospel-Books, 650–800* (1987) changed the register of the discussion. Instead of treating the great Gospel books as stages on a single road from simple to elaborate ornament, it read each of them as a distinct project, answering to the text it transmits: why a carpet page precedes one opening and not another, why the symbols follow one order rather than another, why an initial grows or shrinks. Werner's work on the programme of fols 1v and 2r belongs to the same turn toward meaning.
+
+Bernard Meehan's monograph of 1996, written from Trinity College, brought together the codicological evidence, the history of the book and its decoration, and is the standard introduction. Since then, scientific analysis of the pigments and the full digitisation of the manuscript have added new kinds of evidence. More recent scholarship tends to think of the Columban houses as a network in which books and craftsmen moved, rather than as rival national centres.
+
+## Editions and Reproductions
+
+The book has never been edited as a text in its own right; its readings are cited in the critical editions of the Vulgate Gospels. It is described by Lowe in *Codices Latini Antiquiores* (CLA II, no. 273) and by Alexander in *Insular Manuscripts, 6th to the 9th Century* (1978, no. 6, p. 30).
+
+The facsimile, *Evangeliorum quattuor Codex Durmachensis* (Olten and Lausanne: Urs Graf, 1960), reproduces the whole manuscript, with a volume of commentary edited by A. A. Luce.
+
+The whole manuscript is available in Trinity College's Digital Collections in high-resolution colour photographs, published under a Creative Commons Attribution licence. Many of the images are also on Wikimedia Commons, from which the illustrations of this entry are taken.
+
+## Catalogue Entry
+
+**Shelfmark:** Dublin, Trinity College Library, MS 57 (olim A.4.5).
+
+**Sigla:** CLA II, no. 273; Alexander no. 6.
+
+**Contents:** The four Gospels in the Vulgate, with Jerome's letter to Damasus (*Novum opus*), prefaces, canon tables, *breves causae*, *argumenta* and a list of Hebrew names; later additions: colophon (fol. 247v), Pentecost lection (fol. 192r), memorandum of about 1100 (fol. 248v), notes of 1633 (fol. 124v) and of 1677 (bound in).
+
+**Date and origin:** Second half of the seventh century; Ireland, Iona or Northumbria, within the Columban network. Iona, c. 682–686 (Werner).
+
+**Material and format:** Vellum, 248 leaves, about 245 × 145 mm, trimmed; many singletons; layout partly in two columns, 25 lines.
+
+**Script:** Insular majuscule, one scribe.
+
+**Decoration:** Carpet pages fols 1v, 3v, 85v, 125v, 192v, 248r; four-symbols page fol. 2r; evangelist symbols fols 21v (Man), 84v (Eagle), 124v (Calf), 191v (Lion), in the Irenaean order; decorated openings fols 4r, 22r, 86r, 126r, 193r. Pigments: red lead, orpiment, copper green, iron-gall ink.
+
+**Provenance:** Durrow by the early tenth century; shrine made for Flann Sinna (877–916), lost 1689; given to Trinity College by Henry Jones, bishop of Meath, 1661–1682.
+
+**Binding:** Roger Powell, 1954.
+
+**Bibliography:** E. A. Lowe, *Codices Latini Antiquiores*, II, 1935 (2nd ed. 1972), no. 273; C. Nordenfalk, "Before the Book of Durrow", *Acta Archaeologica* 18, 1947, pp. 141–174; F. Masai, *Essai sur les origines de la miniature dite irlandaise*, 1947; R. Powell, "The Book of Kells, the Book of Durrow: comments on the vellum, the make-up and other aspects", *Scriptorium* 10, 1956, pp. 3–21; A. A. Luce et al., *Evangeliorum quattuor Codex Durmachensis*, 1960; J. J. G. Alexander, *Insular Manuscripts, 6th to the 9th Century*, 1978, no. 6; G. Henderson, *From Durrow to Kells: The Insular Gospel-Books, 650–800*, 1987; M. Werner, "The cross-carpet page in the Book of Durrow: the cult of the True Cross, Adomnán, and Iona", *The Art Bulletin* 72, 1990, pp. 174–223; B. Meehan, *The Book of Durrow: A Medieval Masterpiece at Trinity College Dublin*, 1996; M. Werner, "The Book of Durrow and the question of programme", *Anglo-Saxon England* 26, 1997, pp. 23–39; D. Howlett, "The colophon in the Book of Durrow", *Hermathena* 168, 2000; non-invasive analysis of the Codex Usserianus Primus, the Book of Durrow and the Book of Armagh, in J. Hawkes (ed.), *Making Histories*, 2013, pp. 42–49; E. Bhreathnach, on the Durrow memorandum, 2015; A. Beeby, R. Gameson et al., "Pigments of the earliest Northumbrian manuscripts", *Scriptorium* 69, 2015, pp. 33–59.
