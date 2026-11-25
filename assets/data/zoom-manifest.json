@@ -3930,6 +3930,55 @@
       "sha256": "e5ff21e4dfc57b478772164846fb3a8193b25bc9b99448a15a40e671c67018ba"
     },
     {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-01-zoom.jpg",
+      "width": 2204,
+      "height": 2412,
+      "bytes": 1125989,
+      "sha256": "fa2f02b5a31a9f229a81e96102dcd9cb727286fe8d6ccfa467d4392ae0093b2b"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-02-zoom.jpg",
+      "width": 2194,
+      "height": 2070,
+      "bytes": 1788608,
+      "sha256": "198194ccb8431ef26d02e263ba9fa7b4ef7f6a2d0122dfd8317c35a20ceca4d2"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-03-zoom.jpg",
+      "width": 2004,
+      "height": 1640,
+      "bytes": 714907,
+      "sha256": "fdc8f808b490d2a1c338df9db3242b909d5663d758789afd6b91859fc4ebd9c8"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-04-zoom.jpg",
+      "width": 2024,
+      "height": 1652,
+      "bytes": 817497,
+      "sha256": "c09962e459351238d5d7f140e39d4c3a41ddca34f90a8fee66a9d7f382cfe16a"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-05-zoom.jpg",
+      "width": 2576,
+      "height": 1958,
+      "bytes": 618939,
+      "sha256": "b42e135291889be5f617cadd6a4c0e0728495673749ef97eaac9c41e454211ee"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-07-zoom.jpg",
+      "width": 1838,
+      "height": 2576,
+      "bytes": 785472,
+      "sha256": "5f92043930f9fa2e10459671d222825822e46ef5fb74aa51b8f81c141ee1b5cf"
+    },
+    {
+      "path": "Images/San-Domenico-Crucifix/san-domenico-crucifix-08-zoom.jpg",
+      "width": 2088,
+      "height": 2576,
+      "bytes": 489671,
+      "sha256": "f601a715687698c08e2787e541457ce95237c47d40ca916b1285da99d5807b59"
+    },
+    {
       "path": "Images/Scivias-of-Hildegard-of-Bingen/scivias-of-hildegard-of-bingen-01-zoom.jpg",
       "width": 1000,
       "height": 1283,
