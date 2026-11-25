@@ -174,7 +174,7 @@ At the foot of the cross, below the feet, is the signature: CUIUS DOCTA MANUS ME
 
 <figure>
   <img src="/Images/San-Domenico-Crucifix/san-domenico-crucifix-02.jpg" data-zoom-src="/Images/San-Domenico-Crucifix/san-domenico-crucifix-02-zoom.jpg" alt="Close view of the head and chest of the dead Christ on a painted cross. The head, with closed eyes and a long nose, lies on the right shoulder within a gold halo marked with a dark cross and edged with raised bosses; dark wavy hair falls in strands on both sides, and a dark beard curls at the chin. The chest below is broad and smooth, modelled in warm ochre with green shadows.">
-  <figcaption>Giunta Pisano, painted cross, the head of Christ. Bologna, Basilica of San Domenico. Photo: from L. Bellosi, <i>Cimabue</i>, 1998, public domain, via Wikimedia Commons (detail).</figcaption>
+  <figcaption>Giunta Pisano, painted cross, the head of Christ. Bologna, Basilica of San Domenico. Photo: from L. Bellosi, <i>Cimabue</i>, 1998, public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The head of Christ lies on his right shoulder, within a gold halo marked with a cross and edged with raised bosses. The eyes are closed, the face long, the nose long and thin; a dark beard curls at the chin, and the hair falls in wavy strands over both shoulders.
