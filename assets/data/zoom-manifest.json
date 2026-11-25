@@ -283,6 +283,41 @@
       "sha256": "f2530febb02db32b40f7beff96776085cbabe95bfe91f66f9f84222baac25983"
     },
     {
+      "path": "Images/Book-of-Kells/book-of-kells-f007v-zoom.jpg",
+      "width": 1500,
+      "height": 1951,
+      "bytes": 991871,
+      "sha256": "87b092b158a8ea212384287127a13e9c412abbd126957ef0d7330fad14edbfa4"
+    },
+    {
+      "path": "Images/Book-of-Kells/book-of-kells-f032v-zoom.jpg",
+      "width": 1484,
+      "height": 1934,
+      "bytes": 987726,
+      "sha256": "ead7dfd0a62bd779f41affbaddd39a9d91de5c5db7eaf9bf496319544878eed4"
+    },
+    {
+      "path": "Images/Book-of-Kells/book-of-kells-f033r-zoom.jpg",
+      "width": 1338,
+      "height": 1778,
+      "bytes": 507093,
+      "sha256": "9aec686a38e151d7b29c2078fa6bbc8bd9380ebe9c5c99d815c9e69d3617ef50"
+    },
+    {
+      "path": "Images/Book-of-Kells/book-of-kells-f114r-zoom.jpg",
+      "width": 1500,
+      "height": 1952,
+      "bytes": 991790,
+      "sha256": "d46885350a9008520bcf3902e8e40030464d73bc46bb724c78796b02759d935d"
+    },
+    {
+      "path": "Images/Book-of-Kells/book-of-kells-f202v-zoom.jpg",
+      "width": 1407,
+      "height": 1815,
+      "bytes": 345892,
+      "sha256": "8a756a08731c282f56c436514dd2c46739762440ce26f3b3f392eea089ac6470"
+    },
+    {
       "path": "Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-04-zoom.jpg",
       "width": 1799,
       "height": 1680,
