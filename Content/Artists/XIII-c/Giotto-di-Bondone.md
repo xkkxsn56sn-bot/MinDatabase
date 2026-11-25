@@ -1559,7 +1559,7 @@ The latest chapter opened in June 2022, when the Opificio delle Pietre Dure bega
 
 <figure>
   <img src="/Images/Giotto/giotto-22.jpg" alt="Fresco by Giotto showing Saint Francis kneeling on the rocky slope of La Verna, arms raised, as a crucified seraph with six red wings appears in the dark sky above; golden rays run from the seraph’s wounds to the saint’s hands, feet and side. A small chapel with a rose window stands at the right, a bird perches on the cliff at the upper left">
-  <figcaption>The Stigmatization of Saint Francis, c. 1325. Fresco. Florence, Santa Croce, right transept, exterior wall above the entrance arch of the Bardi Chapel.</figcaption>
+  <figcaption>The Stigmatization of Saint Francis, c. 1325. Fresco. Florence, Santa Croce, right transept, exterior wall above the entrance arch of the Bardi Chapel. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The Bardi cycle begins before the visitor has entered the chapel. On the exterior wall, above the entrance arch and facing the transept, Giotto placed the event that made Francis unique among the saints: the impression of the wounds of Christ on Mount La Verna in September 1224, two years before his death. The position is itself the interpretation. The stigmata were the seal of Francis’s conformity to Christ — Bonaventure’s Legenda maior, the cycle’s textual source throughout, calls him the man marked with the sign of the living God — and by setting the scene over the threshold Giotto makes it the frontispiece under which all six interior scenes are read: whoever enters passes, literally, beneath the seal.
@@ -1572,7 +1572,7 @@ The fresco shares the conservation history of the chapel it announces, set out s
 
 <figure>
   <img src="/Images/Giotto/giotto-23.jpg" alt="Fresco lunette by Giotto showing the young Francis, naked to the waist and praying, wrapped in the blue mantle of the Bishop of Assisi at the right, while at the left his angry father, in a yellow robe and holding the clothes his son has shed, is restrained by a bystander. Two groups of onlookers, including women and children, flank a pink palace raised on a high masonry podium; a child at each edge reacts to the scene.">
-  <figcaption>Saint Francis Renouncing His Worldly Goods, c. 1325. Fresco, lunette. Florence, Santa Croce, right transept, Bardi Chapel, left wall.</figcaption>
+  <figcaption>Saint Francis Renouncing His Worldly Goods, c. 1325. Fresco, lunette. Florence, Santa Croce, right transept, Bardi Chapel, left wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The narrative inside the chapel opens in the lunette of the left wall with the episode that Bonaventure placed at the root of everything: the public break with the father. Summoned before Bishop Guido of Assisi to answer Pietro di Bernardone’s demand for restitution, Francis stripped off his clothes, returned them with the words that henceforth he would say only “Our Father who art in heaven”, and was covered by the bishop’s own mantle.
@@ -1589,7 +1589,7 @@ The scene is painted, like the rest of the cycle, in true fresco with secco fini
 
 <figure>
   <img src="/Images/Giotto/giotto-24.jpg" alt="Fresco by Giotto showing the interior of a chapter house rendered in section, its three arched bays framed by slender columns under a red-tiled roof. Saint Francis appears at the centre, standing with arms raised in the form of a cross, visible only to some of the hooded friars seated on benches around the room; Saint Anthony of Padua stands preaching at the left">
-  <figcaption>The Apparition of Saint Francis at the Chapter of Arles, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, left wall.</figcaption>
+  <figcaption>The Apparition of Saint Francis at the Chapter of Arles, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, left wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The middle register of the left wall carries the quietest miracle of the cycle, and compositionally its most radical invention. Bonaventure relates that while Anthony of Padua was preaching to the provincial chapter at Arles on the inscription of the Cross, Francis — far away in body — appeared in the air of the chapter house, arms extended as if crucified, and blessed the brethren; the vision was seen by one friar and confirmed by the saint’s own knowledge of it.
@@ -1606,7 +1606,7 @@ The fresco’s material fortunes follow the chapel’s: eighteenth-century white
 
 <figure>
   <img src="/Images/Giotto/giotto-25.jpg" alt="Fresco by Giotto showing the dead Saint Francis laid on a bier, surrounded by friars who kneel to kiss his hands and feet, raise their arms in grief, or stand in silent mourning; clerics and a knight attend at the sides. Above, angels carry the saint’s soul to heaven in a mandorla of light against the blue sky. A large irregular loss, left as a neutral patch, interrupts the centre of the scene">
-  <figcaption>The Death and Ascension of Saint Francis, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, left wall.</figcaption>
+  <figcaption>The Death and Ascension of Saint Francis, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, left wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The lowest field of the left wall, at eye level above the tombs of the Bardi dead, holds the scene for which the chapel has been loved longest: the death of Francis at the Porziuncola on the evening of 3 October 1226, fused — in the sky above — with the ascent of his soul, borne up by angels in a glory of light. The composition is a slow horizontal chord. The saint lies on his bier across the full width of the field, and around him the brotherhood breaks into every register of grief that the human body commands: one friar bends to kiss the stigmatized hands, another the feet; others throw up their arms in the ancient gesture of lamentation; others again stand rigid, grief turned inward. At the left a group of clerics and laymen attends with the composure of office; at the right the file of friars with processional candles and cross closes the scene like a cadence. Among the mourners kneels the figure the Legenda maior names Jerome — the learned and doubting knight who, Thomas-like, probed the wound in the saint’s side with his own hand and believed: doubt and devotion admitted to the same bedside.
@@ -1619,7 +1619,7 @@ The great pale silhouette that interrupts the centre of the scene is a wound of 
 
 <figure>
   <img src="/Images/Giotto/giotto-26.jpg" alt="Fresco lunette by Giotto showing the pope seated at the left under a coffered canopy crowned by a pediment with a bust medallion, while a standing mitred prelate in red holds out the scroll of the Rule to Saint Francis, who kneels before them at the head of a compact group of kneeling friars. Two pairs of standing figures in antique mantles frame the scene at the outer edges. Large plaster losses interrupt the upper left of the field.">
-  <figcaption>The Approval of the Franciscan Rule (Confirmation of the Rule): Innocent III in the materials of the 2026 restoration, Honorius III in earlier criticism, c. 1325. Fresco, lunette. Florence, Santa Croce, right transept, Bardi Chapel, right wall.</figcaption>
+  <figcaption>The Approval of the Franciscan Rule (Confirmation of the Rule): Innocent III in the materials of the 2026 restoration, Honorius III in earlier criticism, c. 1325. Fresco, lunette. Florence, Santa Croce, right transept, Bardi Chapel, right wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The lunette of the right wall answers the Renunciation opposite: there Francis gave up his inheritance, here he receives the charter of his new family. The scene shows the solemn papal approval of the Franciscan Rule. The materials of the 2026 restoration read it as the verbal approval of the first Rule by Innocent III, and cleaning revealed on the carpet where the friars kneel an eagle that has been related to the arms of the counts of Segni, Innocent's family; earlier criticism read it, for the most part, as the confirmation by Honorius III with the bull of 1223, and the question remains open. The pope, enthroned beneath a classicizing aedicule whose pediment carries a painted bust in a medallion, presides while a standing prelate in red holds out the sealed document; Francis kneels to receive it, and behind him his companions kneel in a single dense phalanx, their tonsured heads a studied rhythm of obedience. Mitred prelates flank the throne; and at the outer edges, beyond the architecture, stand two pairs of figures in long antique mantles, gravely detached from the event — a framing chorus whose identity has exercised commentators, and whose statuesque drapery is among the most deliberately classical passages in Giotto’s entire oeuvre.
@@ -1632,7 +1632,7 @@ The field has suffered more than its pendant: broad losses, left as neutral patc
 
 <figure>
   <img src="/Images/Giotto/giotto-27.jpg" alt="Fresco by Giotto showing the Sultan of Egypt enthroned at the centre on a tall marble throne against a green patterned hanging, one hand resting on his knee, while his priests retreat at the left, one hiding his face in an orange mantle, and Saint Francis stands at the right beside a blazing fire with a companion friar behind him">
-  <figcaption>Saint Francis before the Sultan (The Trial by Fire), c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, right wall.</figcaption>
+  <figcaption>Saint Francis before the Sultan (The Trial by Fire), c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, right wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The middle register of the right wall carries the cycle’s confrontation with the world outside Christendom. In 1219, during the Fifth Crusade’s siege of Damietta, Francis crossed the lines and preached before al-Malik al-Kāmil, Sultan of Egypt; Bonaventure relates that he offered to enter a great fire together with the sultan’s priests, so that the true faith might be known by ordeal — and that the priests slipped away, while the sultan, unwilling to risk a tumult, declined the test but was moved to admiration. Giotto here reorganizes the episode already painted at Assisi in the cycle attributed to him, around its moral centre: the throne. The sultan sits elevated at the exact middle of the field, and his composed, almost immobile figure holds the judgement at the centre of the scale, between the retreating priests and the friar who is willing. The composition is a balance with a man as its fulcrum, and the irony is complete: it is the infidel prince who, by his very stillness, holds the balance between the two parties.
@@ -1647,7 +1647,7 @@ The fresco shares the chapel’s history of whitewash, nineteenth-century recove
 
 <figure>
   <img src="/Images/Giotto/giotto-28.jpg" alt="Heavily damaged fresco by Giotto, its centre lost to a vast neutral patch shaped like a vanished funerary monument. At the left a dying friar sits up in bed, drawing back a curtain as he sees the ascending Saint Francis; at the right the sleeping Bishop of Assisi receives the same vision in his bed. A fragment at the centre preserves a group of friars’ heads, and two mourning figures survive at the lower right">
-  <figcaption>The Visions of Fra Agostino and of Bishop Guido of Assisi, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, right wall.</figcaption>
+  <figcaption>The Visions of Fra Agostino and of Bishop Guido of Assisi, c. 1325. Fresco. Florence, Santa Croce, right transept, Bardi Chapel, right wall. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
 The last field of the cycle, at the base of the right wall, is the most ruined and the most strangely affecting. Its subject is the double miracle that Bonaventure attaches to the moment of Francis’s death: in the Terra di Lavoro, Fra Agostino, provincial minister, long mute and himself at the point of death, suddenly cried out “Wait for me, father, I am coming with you”, and died; and far away the Bishop of Assisi, Guido, on pilgrimage to the shrine of Saint Michael on Monte Gargano, saw the saint in his sleep, who said to him: “Behold, I leave the world and go up to heaven.”

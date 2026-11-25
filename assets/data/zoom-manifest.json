@@ -472,6 +472,48 @@
       "sha256": "581b265e640f36ad86617648a6a8f75fa6b4e998ce9ddd5965707e7d845a9208"
     },
     {
+      "path": "Images/Cappella-Bardi/cappella-bardi-01-zoom.jpg",
+      "width": 1594,
+      "height": 1549,
+      "bytes": 583637,
+      "sha256": "c2030652d5a4497cd8de0f1deb6ffeb1d4f5098499aa64aafc52a1dac6c95963"
+    },
+    {
+      "path": "Images/Cappella-Bardi/cappella-bardi-05-zoom.jpg",
+      "width": 3000,
+      "height": 1918,
+      "bytes": 2006378,
+      "sha256": "72458c2fce1fd152b984a257ebde97a5cc290f931db7ed678af8b776800b34d4"
+    },
+    {
+      "path": "Images/Cappella-Bardi/cappella-bardi-07-zoom.jpg",
+      "width": 1332,
+      "height": 770,
+      "bytes": 195014,
+      "sha256": "fdadde783c7c546674d79490f00517cab78bff2420eea2bd7941622adcd52aa7"
+    },
+    {
+      "path": "Images/Cappella-Bardi/cappella-bardi-08-zoom.jpg",
+      "width": 1361,
+      "height": 2048,
+      "bytes": 479255,
+      "sha256": "e56acba80972d009b4ea4a109514aa9ee2402676d8c471c817e0eb676734fa6f"
+    },
+    {
+      "path": "Images/Cappella-Bardi/cappella-bardi-09-zoom.jpg",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 571203,
+      "sha256": "b95842772c7cd57dd7a6fd404d03572ef589e5d5c05297c74932df3216361eb8"
+    },
+    {
+      "path": "Images/Cappella-Bardi/cappella-bardi-10-zoom.jpg",
+      "width": 1715,
+      "height": 2576,
+      "bytes": 925734,
+      "sha256": "e7c6af1eb0de016cf711cb0791e6b595dd3122c1b4e104b4ebba4d83c647ee91"
+    },
+    {
       "path": "Images/Caterino-di-Marco-da-Venezia/caterino-di-marco-da-venezia-04-zoom.jpg",
       "width": 1799,
       "height": 1680,
