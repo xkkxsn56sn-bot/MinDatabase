@@ -211,11 +211,6 @@ The decorative programme of the Book of Dimma is, by the standards of Insular go
 
 ### Man of Ink and Pattern: The Evangelist Portrait at the Opening of Matthew
 
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p002.jpg" alt="The Evangelist Matthew Enclosed: Portrait and Frame at the Opening of the First Gospel">
-  <figcaption>The Evangelist Matthew Enclosed: Portrait and Frame at the Opening of the First Gospel, Dublin, Trinity College MS 59, p. 2.</figcaption>
-</figure>
-
 The page presents a single full-length figure held within an architecture of ornament that occupies almost the whole of the written space. The composition is conceived as a grid: a broad outer border, coloured in a warm orange-red, is crossed by horizontal and vertical bars that divide the field into nine compartments, of which the central one — considerably the largest — contains the figure. Corner panels and the intervening rectangles are filled with a repertory of Insular pattern types kept strictly separate from one another: knotwork in the four corners and along the lower bar, angular key or fret patterns down the two lateral panels, and, along the upper bar, a running band of interlace punctuated by small spiral and lentoid motifs. The lower bar carries a looser interlace interrupted by a lozenge-shaped ornament at the centre. The ordering principle is one of containment. Each species of ornament is given its own cell, and no motif is permitted to migrate across the ruled divisions, so that the frame reads less as a border than as a set of compartments assembled around the figure.
 
 The evangelist himself is rendered frontally and with almost complete disregard for anatomical articulation. The head is disproportionately large. The eyes, wide and lidded, with pupils set high, look directly outward; the nose is drawn as a narrow vertical with flaring nostrils; the mouth is small and reddish, all but submerged in a broad, dark, semicircular beard that sweeps from ear to ear and constitutes the visual centre of the upper body. The hair is treated as a series of scalloped, ochre-yellow lobes fanning symmetrically around the crown, and is bounded in turn by a nimbus formed not of a continuous disc but of a ring of small red dots — a solution that reduces a theological attribute to a rhythm of pigment. Rows of dotted contour follow every edge of the drapery, and the same dotting reappears in the border of the collar and along the hem, so that the figure is essentially constructed out of line, dot and flat colour rather than out of modelled volume.
@@ -224,16 +219,11 @@ The garment resolves into a series of interlocking shapes. A triangular pectoral
 
 The palette is limited and earth-bound: ochre-yellow, orange-red, pale pink, a muted olive-green, and the brown of the drawing ink. There is no gold, and no blue is deployed on this page. This restraint is consistent with what technical analysis of the manuscript has indicated more generally — an economy of locally available materials handled with considerable skill, rather than an outlay on imported luxury pigments.
 
-The physical condition of the leaf is legible in the image and forms part of its historical evidence. The parchment is discoloured and cockled, darkened along the outer edge; the upper margin and the lower right of the frame carry visible stitched repairs, the thread of the larger tear running diagonally across the border and into the field of the portrait itself. Small dark perforations are visible within the ruled frame and adjacent to the figure's hands; these have been connected in the scholarly literature with the nails driven through the manuscript when it was sealed inside its shrine, though the photograph alone cannot establish that identification. Faint traces of writing show through from the other side of the leaf, and a modern pencilled page number appears at the foot.
+The physical condition of the leaf forms part of its historical evidence. The parchment is discoloured and cockled, darkened along the outer edge; the upper margin and the lower right of the frame carry visible stitched repairs, the thread of the larger tear running diagonally across the border and into the field of the portrait itself. Small dark perforations are visible within the ruled frame and adjacent to the figure's hands; these have been connected in the scholarly literature with the nails driven through the manuscript when it was sealed inside its shrine, though a photograph alone cannot establish that identification. Faint traces of writing show through from the other side of the leaf, and a modern pencilled page number appears at the foot.
 
 It is worth noting that the figure bears no inscription identifying him on this page, so that the attribution to Matthew rests on position — the portrait stands at the head of the first gospel — rather than on a titulus. And the older habit of describing such images as crude or unskilled misreads their intention. The precision of the fretwork, the control of the interlace and the consistency of the dotted contour indicate a draughtsman entirely capable of what he set out to do; the aim was an emblem for contemplation, not a description of a man.
 
 ### Liber and Chi-Rho: The Opening of Matthew and the Genealogy of Christ
-
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p003.jpg" alt="Two Beginnings on One Page: The Incipit of Matthew and the Monogram of Christ">
-  <figcaption>Two Beginnings on One Page: The Incipit of Matthew and the Monogram of Christ, Dublin, Trinity College MS 59, p. 3.</figcaption>
-</figure>
 
 Facing the evangelist portrait, this page carries the opening of the first gospel and constitutes the most elaborately organised text page in the manuscript. It is unusual in that it stages not one beginning but two: the incipit of Matthew proper at the upper left, and, roughly at the midpoint of the page, the sacred monogram introducing the account of the Nativity at Matthew 1:18. The decorative energy of the page is concentrated in these two moments, and the intervening genealogy — the long chain of begettings that opens the gospel — is treated as a compact, almost tabular field between them.
 
@@ -261,14 +251,9 @@ Two observations by way of caution. The ornament here is drawn and washed rather
 
 ### Marcus Enthroned: The Evangelist Portrait at the Opening of the Second Gospel
 
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p030.jpg" alt="The Beast-Headed Throne: Mark and His Chair">
-  <figcaption>The Beast-Headed Throne: Mark and His Chair, Dublin, Trinity College MS 59, p. 30.</figcaption>
-</figure>
-
 This is the second of the manuscript's three evangelist portraits, and it differs from the Matthew of p. 2 in almost every respect except its underlying conception. Where that image was set within a nine-compartment grid of ornament, here the frame has been reduced to a single plain rectangle in orange-red, drawn in two parallel lines and left entirely unfilled. The whole decorative burden has been transferred to the figure and to the structure that supports him, with the result that the composition breathes in a way the earlier page does not: broad areas of bare parchment surround the evangelist on three sides, and the eye is given nothing to rest on but the man himself.
 
-The page is identified. Above the upper border, in the outer margin, a small inscription in minuscule reads *marcus* — a titulus of a kind absent from the Matthew page, and the only textual confirmation on any of these images of whom we are looking at. It appears to have been written in the ordinary ink of the text hand rather than added later, though the photograph alone cannot settle that point.
+The page is identified. Above the upper border, in the outer margin, a small inscription in minuscule reads *marcus* — a titulus of a kind absent from the Matthew page, and the only textual confirmation on any of these images of whom we are looking at. It appears to have been written in the ordinary ink of the text hand rather than added later, though a photograph alone cannot settle that point.
 
 The evangelist is shown frontally, seated, and framed by what is unmistakably a throne or chair. Two vertical posts rise at either side, banded in yellow and edged with rows of fine dots; each is crossed by a horizontal arm at roughly the height of the figure's shoulders; and each terminates above in a large, elegantly drawn bird's head, in profile, turned inward toward the evangelist. The heads are given long tapering beaks, small round eyes and a curling crest that ends in a tight volute. The device is a familiar one in Insular art, where furniture terminals are routinely animated in this fashion, and it should be read as ornamental zoomorphism rather than as an iconographic reference to any particular creature; there is no basis for identifying these heads with the lion that is Mark's own symbol.
 
@@ -285,11 +270,6 @@ The condition of the leaf is relatively good. The upper margin carries a stitche
 Interestingly, the seated, frontal, book-holding evangelist framed by a throne is a formula of considerable antiquity, ultimately Mediterranean in origin, transmitted to Ireland through late antique gospel books and there thoroughly transformed. What the Book of Dimma offers is not a failed imitation of that model but its deliberate reworking into a language of flat colour, symmetry and pattern — an image intended to be recognised and contemplated rather than looked into.
 
 ### A Figure Dissolving into Drapery: The Evangelist Portrait Preceding Luke
-
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p054.jpg" alt="Rubbed and Radiant: The Third Evangelist Portrait">
-  <figcaption>Rubbed and Radiant: The Third Evangelist Portrait, Dublin, Trinity College MS 59, p. 54.</figcaption>
-</figure>
 
 The third of the manuscript's evangelist portraits stands at the head of the third gospel, and it is at once the most damaged and, in certain respects, the most formally daring of the series. The frame has been simplified even further than on the Mark page: a single broad band of orange-red, drawn as a plain rectangle with a thin reserved line inside it, encloses the whole composition, with no interlace, no fret, and no corner panels. Whatever ornamental ambition the artist possessed has been spent entirely on the figure.
 
@@ -308,11 +288,6 @@ Those blots are of particular consequence, because they partly obscure an inscri
 Again, the attribution of the portrait to Luke rests on its position at the head of the third gospel rather than on any surviving legible titulus, and the damaged inscription cannot at present be made to bear that weight. Second, the abraded state of the page has often led to its being passed over in favour of the better-preserved Mark; but the design here is the most inventive of the three, and its wide, radiating drapery represents a genuine formal experiment — the moment at which the Book of Dimma's artist pushed furthest toward turning the human body into ornament.
 
 ### Quoniam quidem multi: The Incipit Page of Luke
-
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p055.jpg" alt="The Great Q and the Prologue to Theophilus">
-  <figcaption>The Great Q and the Prologue to Theophilus, Dublin, Trinity College MS 59, p. 55.</figcaption>
-</figure>
 
 Facing the abraded evangelist portrait of p. 54, this page carries the opening of the third gospel and is, on any reckoning, the most fully realised decorated text page in the manuscript. Where the incipit of Matthew on p. 3 had to accommodate a genealogy and a monogram within a single leaf, here the designer worked with a simpler text and a freer hand, and the result is a page of unusual coherence: a monumental initial, a densely written block of gospel text, and a frame that for once is treated as a serious ornamental undertaking in its own right.
 
@@ -336,11 +311,6 @@ The frame here is executed with a precision that bears comparison with far grand
 
 ### The Eagle and the Book: The Symbol of John
 
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p104.jpg" alt="Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel">
-  <figcaption>Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel, Dublin, Trinity College MS 59, p. 104.</figcaption>
-</figure>
-
 This page marks a deliberate departure from the three that precede it. Where Matthew, Mark and Luke are introduced by human portraits, the fourth gospel is prefaced not by a figure but by a symbol: the eagle of John, displayed frontally with wings raised and body filled with pattern. The substitution is not accidental, and it is not a shortcut. The gospel of John was treated throughout Insular manuscript culture as a book apart — the gospel of the beloved disciple, the one whose opening words rise to the eternal Word — and in this manuscript that distinction is registered at every level: a separate quire, the finest scribal hand in the book, and here, an emblem rather than a man.
 
 The page is also the most richly coloured in the manuscript, and the difference is immediately visible. For the first time a substantial blue enters the palette, deployed across the eagle's head, breast and the inner fields of the wings, and set against the familiar orange-red and a yellow used with unusual density and body. Technical analysis of the manuscript's pigments has indicated that the blues of these Irish books were achieved not with imported lapis lazuli but with indigo mixed with gypsum, and that certain of the bright yellows derive from orpiment, an arsenic sulphide capable of imitating gold convincingly. The yellow here — laid on thickly in the frame interlace and in the ribs of the wings — is precisely the kind of passage that has misled viewers into speaking of gilding where none exists.
@@ -360,11 +330,6 @@ The condition of the leaf is markedly better than that of the earlier illuminate
 The prominence of this page is sometimes taken as evidence that the eagle page was the manuscript's original frontispiece, or that John's section was the book's finest because it was made first. Neither follows. What the evidence supports is narrower and more interesting: that John's gospel occupied its own quires, that it was assigned to a different and more accomplished scribe, and that the moment at which it was joined to the other three gospels remains genuinely open.
 
 ### In principio erat verbum: The Incipit of John
-
-<figure>
-  <img src="/Images/Book-of-Dimma/book-of-dimma-p105.jpg" alt="The Labyrinth Initial: Opening of the Fourth Gospel">
-  <figcaption>The Labyrinth Initial: Opening of the Fourth Gospel, Dublin, Trinity College MS 59, p. 105.</figcaption>
-</figure>
 
 Facing the eagle, this is the page toward which the whole manuscript may be said to lean. It carries the opening of John's gospel, and everything about it — the script, the initial, the layout — declares that the maker considered this beginning different in kind from the three that came before.
 
@@ -431,11 +396,6 @@ The narrative is a classic hagiographic topos: the miraculous suspension of the 
 ## The Liturgical Addition: An Office for the Sick
 
 Between the gospels of Luke and John, on pages 99 to 103, the Book of Dimma contains a text that has nothing to do with the gospels: an order for the Unction and Communion of the Sick, the rite for the visitation of the sick and dying, sometimes referred to as the *missa de infirmis*. This is not part of the original book. On palaeographic grounds it is generally regarded as a later addition, most often dated to the ninth century, and it is written in a strikingly different format from the gospels — in a single column spanning the full width of the page, rather than the two columns of the gospel text, and in a larger, less dense script.
-
-<figure>
-  <video src="/Video/book-of-dimma-f099-103.mp4" controls></video>
-  <figcaption>The Book of Dimma, Dublin, Trinity College MS 59, fol 99-103.</figcaption>
-</figure>
 
 The layout is functional. A single-column, larger, more legible script is exactly what a priest would want in a text meant to be read aloud, at a sickbed, perhaps in poor light. The addition thus records a change in the book's use. A gospel book, perhaps first intended for private study or personal devotion, was adapted for pastoral service — carried out from the monastery to the homes of the sick and the dying to administer prayers, unction and viaticum. This is, incidentally, the context that most literally justifies the term "pocket book": a small volume that could be carried on the person to where it was needed.
 

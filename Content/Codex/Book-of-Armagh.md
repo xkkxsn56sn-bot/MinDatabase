@@ -334,11 +334,6 @@ The Book of Armagh, then, spent most of its existence functioning as something b
 
 ### The Fourfold Gospel in Outline: The Evangelist Symbols Page
 
-<figure>
-  <img src="/Images/Book-of-Armagh/book-of-armagh-f032v.jpg" alt="The Fourfold Gospel in Outline: The Evangelist Symbols Page of the Book of Armagh">
-  <figcaption>The Fourfold Gospel in Outline: The Evangelist Symbols Page, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 32v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
-</figure>
-
 This is the most ambitious page in the Book of Armagh and the one on which its reputation as a work of art largely rests. A single ruled rectangle, its corners marked by small ringed terminals, is divided by a cross of ruled lines into four compartments, one for each of the evangelist symbols, and the whole is executed — like every other drawing in the codex — in brown ink alone, with no colour, no gold and no ground. The page stands immediately before the opening of Matthew, whose great display initial is visible at the right edge of the opening, the letters of *LIBER generationis* running down the facing recto. The reader thus meets the fourfold Gospel as a single conspectus before entering the first of its four texts.
 
 Each compartment is labelled in a small, neat minuscule: *homo* and *leo* written above the upper frame, *uitulus* and *aquila* set within the lower two fields. The sequence is the Hieronymian one, read left to right and top to bottom in the order of the Gospels themselves — the man for Matthew, the lion for Mark, the calf for Luke, the eagle for John. This is worth stressing, because Insular practice was not uniform: an older tradition, descending from Irenaeus and current in Ireland, gave the lion to John and the eagle to Mark. Ferdomnach's page aligns Armagh with Jerome, and does so explicitly, in writing.
@@ -354,11 +349,6 @@ Throughout, the artist works as a draughtsman rather than a painter: no modellin
 The leaf is in sound condition, with cockling along the upper edge, brown staining in the upper left corner and scattered discolouration across the surface. The sewing of the binding is visible at the gutter.
 
 ### Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names
-
-<figure>
-  <img src="/Images/Book-of-Armagh/book-of-armagh-f053r.jpg" alt="Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names in the Book of Armagh">
-  <figcaption>Before the Lion: The Argumentum to Mark and a Glossary of Hebrew Names, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53r. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
-</figure>
 
 This is the page immediately preceding the great pen-drawn lion, and it shows how carefully Ferdomnach staged the passage from one Gospel to the next. Where the verso will be given over entirely to the symbol of the evangelist, the recto is dense with the scholarly apparatus that an Insular reader expected to find at a Gospel threshold: a prologue, an explicit, and a short lexicon. The layout is the manuscript's standard two-column grid in fine Irish minuscule, but only the first column and the head of the second are filled; the lower half of the page is left blank, so that the eye is carried forward across the fold to the drawing.
 
@@ -380,11 +370,6 @@ Two later interventions complete the picture. A modern pencil foliation, *53*, s
 
 ### A Lion in Brown Ink: The Symbol of Saint Mark
 
-<figure>
-  <img src="/Images/Book-of-Armagh/book-of-armagh-f054v.jpg" alt="A Lion in Brown Ink: The Symbol of Saint Mark in the Book of Armagh">
-  <figcaption>A Lion in Brown Ink: The Symbol of Saint Mark, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 54v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
-</figure>
-
 The page is given over entirely to a single drawn creature, set within a plain ruled rectangle and executed in nothing but brown iron-gall ink on the bare vellum. There is no gold, no colour, no ground: the animal floats in the reserve of the parchment, and the whole effect depends on line alone. This is the aesthetic economy of the Book of Armagh as a whole, a manuscript made at Armagh for the abbot Torbach — Patrick's *comarba* — by the scribe Ferdomnach, whose colophon at the close of Matthew records precisely that commission. The book was not a shrine-object in the manner of Kells or Lindisfarne but a working codex, the earliest surviving Irish witness to a near-complete New Testament alongside the Patrician dossier; its ornament is correspondingly ascetic, and all the more telling for it.
 
 The beast is a winged quadruped striding to the right, its head turned back over the shoulder in the sinuous reversal beloved of Insular animal art. Two wings rise steeply behind, one overlapping the other, their coverts rendered as rows of overlapping scale-shapes and their flight feathers as long parallel shafts filled with fine diagonal hatching. The body is divided into distinct zones of pattern: a lozenge diaper across the flank and haunch, hatched panels on the limbs, a chain of tight running spirals following the line of the spine like a decorated seam. The tail passes forward between the hind legs, loops beneath the belly and terminates in a lanceolate, leaf-like flourish. The feet are not the pads of a lion but splayed, clawed talons, and the head — with its pointed ear, staring ringed eye, and open jaws from which a curled tongue emerges — is closer to a raptor or a dragon than to any observed animal.
@@ -396,11 +381,6 @@ Stylistically the artist works entirely within the vocabulary of the eighth- and
 The leaf survives in good condition: the vellum has darkened unevenly and shows some staining and cockling, but the ink remains crisp and the drawing has suffered no loss. The marginalia are later additions — the pencil *Leo* above and the foliation below, both belonging to the manuscript's post-medieval and nineteenth-century curatorial history.
 
 ### The Close of Matthew: Explicit, Collect, and a Vanished Signature
-
-<figure>
-  <img src="/Images/Book-of-Armagh/book-of-armagh-f053v.jpg" alt="The Close of Matthew: Explicit, Collect, and a Vanished Signature in the Book of Armagh">
-  <figcaption>The Close of Matthew: Explicit, Collect, and a Vanished Signature, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 53v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm.</figcaption>
-</figure>
 
 After the exuberance of the evangelist symbols, a page like this one shows the Book of Armagh in its working character: a scribe's page, laid out for reading rather than display, where the ornament consists in the disposition of scripts alone. The leaf carries the end of the Gospel of Matthew, and Ferdomnach has organised the closing sequence with a clear sense of ceremony, moving from text to explicit to prayer in three descending registers separated by generous blank space.
 
@@ -425,11 +405,6 @@ Two features of the page's condition deserve comment. The second column stands e
 Discolouration of exactly this kind was produced in the nineteenth century by the chemical reagents used to recover faded writing: Charles Graves, who in 1846 deciphered the partly erased colophons naming Ferdomnach and Torbach and so dated the manuscript, applied such a solution, with the result that the very lines he read are no longer legible. Whether this particular stain is the trace of that intervention would need confirmation from Trinity's conservation record, but the coincidence of place — the foot of a page at the end of Matthew, precisely where scribal subscriptions were entered — is suggestive.
 
 ### Paul's Signature and a Decorated P: The Opening of Second Corinthians
-
-<figure>
-  <img src="/Images/Book-of-Armagh/book-of-armagh-f123r.jpg" alt="Paul's Signature and a Decorated P: The Opening of Second Corinthians in the Book of Armagh">
-  <figcaption>Paul's Signature and a Decorated P: The Opening of Second Corinthians, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 123r. Armagh, c. 807–808. Ink and pigment on vellum, page approx. 195 × 145 mm.</figcaption>
-</figure>
 
 With the Pauline epistles the Book of Armagh changes register. The gospel section was punctuated by full-page pen drawings; here the ornament is concentrated into a single decorated initial, and the interest of the page lies as much in its editorial architecture — the way one letter is closed off and the next opened — as in its decoration. Three distinct textual units meet on this leaf: the end of First Corinthians, the explicit and prologue introducing the Second, and the beginning of the epistle itself.
 
@@ -465,7 +440,7 @@ A smaller decorated *B*, filled with the same orange wash, opens the following v
 
 and the column then settles into the fine, laterally compressed Irish minuscule, heavily abbreviated, that Ferdomnach maintains with astonishing consistency across more than two hundred leaves.
 
-The leaf is in good condition apart from an irregular loss in the upper margin, where the dark photographic ground shows through a hole in the vellum. Two later hands are visible above the text: a pencil foliation, *122*, and a pencil identification, *2a Epistola ad Corinthios*, in a nineteenth-century cursive. The discrepancy between that pencil number and the modern citation as fol. 123r reflects the manuscript's competing foliations.
+The leaf is in good condition apart from an irregular loss in the upper margin, where there is a hole in the vellum. Two later hands are visible above the text: a pencil foliation, *122*, and a pencil identification, *2a Epistola ad Corinthios*, in a nineteenth-century cursive. The discrepancy between that pencil number and the modern citation as fol. 123r reflects the manuscript's competing foliations.
 
 ## Dispersal: The Book, the Steward, and the Martyr
 

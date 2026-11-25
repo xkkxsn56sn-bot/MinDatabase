@@ -144,11 +144,6 @@ It is a robust method, but it yields an approximate and consensual chronology, n
 
 ### The Colophon Page: Book of Mulling, folio 94r
 
-<figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f094r.jpg" alt="Heavily stained and darkened vellum page from the Book of Mulling, with a single narrow column of small Irish minuscule script on the left containing the end of John's Gospel and the opening of the colophon; further colophon lines naming the scribe Mulling survive at the upper right, and long diagonal tears across the blank right half of the leaf are closed with stitched vellum repairs.">
-  <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 94r. The recto of the manuscript's last leaf carries the closing portion of the Gospel of John — a later annotation at the foot of the column reads "Joh. 21."</figcaption>
-</figure>
-
 The colophon is the hinge on which the whole question of the book's identity turns, and it repays the closest reading. It stands at the end of the Gospel of John, on the recto of the last leaf of that Gospel's quire (folio 94r), and in the reading that Lawlor established it is an address to the reader.
 
 It opens,
@@ -176,11 +171,6 @@ The honest formulation of the authorship question therefore layers the evidence 
 What is speculative, plausible but strictly unprovable, is the final step: that the exemplar was an autograph, a Gospel book written by St Moling's own hand. That possibility cannot be excluded, and the copied colophon is precisely the kind of trace an autograph exemplar would leave; but no independent evidence confirms it, and it should be presented as an open hypothesis, never as a fact. The Book of Mulling is thus best described not as the saint's book but as the shadow of the saint's book: a witness, at one remove, to a lost volume around which the community of Tech-Moling organised its memory.
 
 ### The Circular Device: Book of Mulling, folio 94v
-
-<figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f094v.jpg" alt="Severely stained brown vellum leaf, the last of the Book of Mulling. Faint lines of small Irish minuscule containing a liturgical office survive in the upper left; the circular diagram — two barely visible concentric circles with faded Irish captions — occupies the lower centre of the page. A long branching tear runs diagonally across the middle of the leaf, closed with visible zigzag thread stitching, and a large irregular lighter repair patch fills the damaged upper right corner.">
-  <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 94v. The verso of the last leaf carries, side by side, a compressed devotional office and the manuscript's most debated image: two concentric circles, only a few centimetres across, ringed and filled with captioned crosses, with the four cardinal points written in Irish. On Lawlor's reading the outer line of writing names the crosses of Mark at the south, Matthew at the west, John at the north and Luke at the east, and the inner line names the prophets Jeremiah, Daniel and Ezekiel, with a fourth, Isaiah, restored; four further crosses inside the circles bear partly effaced captions naming the Holy Spirit, gifts, angels from above, and Christ with his apostles.</figcaption>
-</figure>
 
 The verso of the last leaf of the Book of Mulling (Dublin, Trinity College Library, MS 60, fol. 94v) is, by common consent, the most discussed single page of the manuscript, and among the most contested pages in the whole corpus of early Irish books. Its fame rests on an improbable conjunction. On a leaf left over from the quire devoted to the Gospel of John — the recto of which carries the end of that Gospel and the colophon naming the scribe "Mulling" — the community that made the book inscribed two further things: a compressed devotional office, and a diagram of two concentric circles ringed and filled with captioned crosses. Office and diagram share the page, were conceived in relation to one another, and have been argued over for more than a century. The leaf is thus a terminal page in every sense: the physical end of the book, the seal set upon its text, and the point at which the manuscript passes from Gospel transmission into the devotional imagination of its makers.
 
@@ -212,16 +202,11 @@ The portrait of John, the only one illustrated here, shows what the programme wa
 
 ### The Portrait of John: Book of Mulling, folio 81v
 
-<figure>
-  <img src="/Images/Book-of-Mulling/book-of-mulling-f081v.jpg" alt="Full-page miniature from the Book of Mulling showing a haloed, frontal standing evangelist with orange hair, wearing a mauve cloak over a blue tunic, its folds drawn as interlaced gold-edged bands; he holds a book against his chest with one hand laid flat over it. The figure stands in a rectangular frame with knotwork squares at the corners and tall side panels of interlaced elongated animal ornament on blue grounds; his halo overlaps the top of the frame. The vellum leaf is browned and worn at the edges">
-  <figcaption>Dublin, Trinity College Library, MS 60 (Book of Mulling), folio 81v. The portrait of John, the only evangelist portrait illustrated here; the identification rests on position alone, for the figure carries no inscription and no evangelist symbol. The number 53 at the upper right is the older numbering of the British Museum binders.</figcaption>
-</figure>
-
 John stands fully frontal, holding a book or tablet against his body, one hand laid flat over it. His robes, painted in purple and blue, do not fall naturalistically; they break into interlaced, near-geometric bands edged in gold-toned lines, whose rhythms echo the ornament of the surrounding border, so that figure and frame speak a single decorative language.
 
 His halo, characteristically for the Insular tradition, breaks the frame, asserting the sacred figure's precedence over the architecture that contains him. The border itself is comparatively plain above and below, but at left and right it carries dense interlace: knotwork filling the corner squares, and panels of elongated, interlaced zoomorphic forms on blue grounds, attenuated almost to the point of pure abstraction. These patterns invite comparison with contemporary metalwork, for Insular book ornament and Insular metalworking drew on a shared visual vocabulary of interlace, spiral and stylised beast, and the borders read almost as painted translations of chip-carved or filigree panels. Despite its small format and utilitarian script the book is decorated with real accomplishment.
 
-Two cautions are in order, both of them characteristic of the epistemic discipline this manuscript demands. The first concerns identification. The labels "Matthew," "Mark" and "John" rest on the presumed position of each portrait before its Gospel and not on inscriptions or evangelist symbols, which are absent from the leaf illustrated here; Lawlor himself called the three leaves portraits "presumably" of evangelists. The second concerns interpretation. Descriptive language about colour, gesture and ornament, however grounded in close looking, is necessarily interpretative, and the comparison with metalwork is an art-historical reading and not a documented intention of the eighth-century painter. Both portraits and readings are best presented with that distinction visible.
+Two cautions are in order, both of them characteristic of the epistemic discipline this manuscript demands. The first concerns identification. The labels "Matthew," "Mark" and "John" rest on the presumed position of each portrait before its Gospel and not on inscriptions or evangelist symbols, which are absent from fol. 81v; Lawlor himself called the three leaves portraits "presumably" of evangelists. The second concerns interpretation. Descriptive language about colour, gesture and ornament, however grounded in close looking, is necessarily interpretative, and the comparison with metalwork is an art-historical reading and not a documented intention of the eighth-century painter. Both portraits and readings are best presented with that distinction visible.
 
 ## The Added Liturgical Texts
 

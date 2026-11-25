@@ -221,12 +221,7 @@ The four evangelist symbols — the Man (Matthew), the Lion (Mark), the Calf/Ox 
 
 ### Matthew the Evangelist
 
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f028v.jpg" alt="Portraits of Matthew">
-  <figcaption>Matthew the Evangelist, Dublin, Trinity College Library, MS 58, fol. 28v.</figcaption>
-</figure>
-
-The portrait of Matthew occupies the recto-facing verso preceding the *Liber generationis* incipit, and belongs to the prefatory apparatus that the Kells master conceived for each Gospel: symbol page, evangelist portrait, decorated incipit. Only two of the four author portraits survive in the codex — Matthew here and John on fol. 291v — the leaves bearing Mark and Luke having been lost, a lacuna that gives the present folio disproportionate weight in any reconstruction of the manuscript's original programme.
+The portrait of Matthew occupies the recto-facing verso preceding the *Liber generationis* incipit, and belongs to the prefatory apparatus that the Kells master conceived for each Gospel: symbol page, evangelist portrait, decorated incipit. Only two of the four author portraits survive in the codex — Matthew on fol. 28v and John on fol. 291v — the leaves bearing Mark and Luke having been lost, a lacuna that gives the present folio disproportionate weight in any reconstruction of the manuscript's original programme.
 
 The evangelist is presented frontally and hieratically, seated within an architectural aedicule whose columns and arch have been almost entirely dissolved into ornament. He wears a deep purple-maroon mantle strewn with trefoil clusters of dots over a lilac-pink tunic; the drapery is articulated not by modelling but by heavy contour lines that channel the cloth into symmetrical, calligraphic folds falling in a broad lyre-shaped cascade over the knees. His left hand, rendered in unmodulated white, holds a small codex against the body — the attribute of authorship reduced to an emblematic rectangle of orange panels rather than an object of use. Below, the feet emerge splayed and flattened over a lozenge-diapered ground, entangled with a knot of serpentine forms at the base of the throne.
 
@@ -239,11 +234,6 @@ Chromatically the page depends on a restricted but subtly varied palette — orp
 Typologically, the image descends from the late antique author portrait transmitted through Mediterranean exemplars — the lineage visible in the Ezra miniature of the Codex Amiatinus and, in Insular terms, in the Lindisfarne evangelists. But where Lindisfarne preserves a residual illusionism and the fiction of the scribe at work, the Kells Matthew has abandoned narrative pretext altogether. The figure does not write, does not turn, does not occupy space; he is an icon of the Gospel rather than its author caught in the act. This is the same aesthetic logic that governs the manuscript's initial pages, and it situates fol. 28v firmly within the late phase of Insular illumination around or shortly after 800, whether one accepts an Iona origin, a Kells origin, or the compromise position of a workfrom begun in the Columban west and completed in Ireland.
 
 ### John the Evangelist
-
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f291v.jpg" alt="Portraits of John">
-  <figcaption>John the Evangelist, Dublin, Trinity College Library, MS 58, fol. 291v.</figcaption>
-</figure>
 
 The portrait of John immediately precedes the *In principio erat uerbum* incipit on fol. 292r, and forms with it the culminating decorative statement of the codex. It is the second and last of the surviving evangelist portraits, its companion on fol. 28v representing Matthew; the corresponding leaves for Mark and Luke are lost. Of the two survivors, the John page is by some distance the more complex, both formally and iconographically, and it is the only image in the manuscript in which the frame is explicitly inhabited by a second figure.
 
@@ -258,11 +248,6 @@ What distinguishes the folio from every other page in the manuscript is the pres
 Technically the page depends on the same restricted palette as the rest of the codex: orpiment for the yellow that substitutes for gold leaf, which the Kells illuminators did not employ; red lead; a purple lake; verdigris and copper greens for the olive tones of the skirt; and a blue whose identification has been contested, with recent Raman analysis at Trinity favouring indigo over the lapis lazuli traditionally assumed. Large areas of reserved vellum function as an active tonal ground rather than as neutral support, and the deliberate thinning of ornament toward the outer corners suggests a designer working outward from a fully resolved centre.
 
 ### The Virgin and Child
-
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f007v.jpg" alt="The Virgin and Child">
-  <figcaption>The Virgin and Child, Dublin, Trinity College Library, MS 58, fol. 7v.</figcaption>
-</figure>
 
 Positioned within the prefatory quires, facing the *Breves causae* of Matthew on fol. 8r, this miniature holds a singular place in the history of Western manuscript illumination: it is the earliest surviving representation of the Virgin and Child in a Western codex. Its presence in a Gospel book is anomalous — the page belongs to no established Insular prefatory scheme — and its function has been variously explained as a devotional image, as a statement of the Incarnation prefacing the genealogical opening of Matthew, or as a reflection of contemporary Marian cult within the Columban familia.
 
@@ -280,11 +265,6 @@ Stylistically the page has long been associated with the hand conventionally des
 
 ### Christ Enthroned
 
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f032v.jpg" alt="Christ Enthroned">
-  <figcaption>Christ Enthroned, Dublin, Trinity College Library, MS 58, fol. 32v.</figcaption>
-</figure>
-
 The Christ Enthroned page faces the *Christi autem generatio* monogram page at fol. 34r within the opening quire of Matthew.
 
 The identification of the figure has itself been contested. Older scholarship read the page as a portrait of the evangelist Matthew or as a generic author portrait; the presence of the cross-inscribed nimbus, the attendant angels, and the placement of the page within the Nativity sequence of Matthew's text have secured the now-standard reading of Christ enthroned in majesty. This makes fol. 32v the only surviving full-page image of the adult Christ in the manuscript, and the counterpart to the Virgin and Child of fol. 7v.
@@ -301,11 +281,6 @@ That incompleteness is itself of interest. Together with the unfinished passages
 
 ### The Arrest of Christ
 
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f114r.jpg" alt="The Arrest of Christ">
-  <figcaption>The Arrest of Christ, Dublin, Trinity College Library, MS 58, fol. 114r.</figcaption>
-</figure>
-
 This is one of only two full-page narrative miniatures drawn from the Gospel text to survive in the codex, its counterpart being the Temptation of Christ on fol. 202v. Both belong to the Matthew Gospel and both interrupt the text at a point of doctrinal weight rather than following any regular decorative scheme, which has led to the reasonable inference that the manuscript's original programme envisaged a fuller Christological cycle, either abandoned or lost.
 
 The page is governed by an architectural framework: two columns on stepped, polychrome plinths support an arch of three concentric bands — outer green, a central register of fine interlace, and an inner orange moulding — whose apex is crowned by two confronted beast heads with curled snouts, their necks entwined in a knot. The capitals take the unusual form of stepped crosses filled with interlace, so that the structure enclosing the scene is doubly a cross. Within the tympanum stands the inscription in ornamental majuscule: *Et ymno dicto exierunt in montem Oliueti* (Matthew 26:30), "and when they had said a hymn, they went out unto Mount Olivet". The verse names not the arrest itself but the departure that precedes it, and from the initial letters a vine bearing trefoil clusters uncoils downward across the field, terminating in tendrils that pass behind Christ's shoulders.
@@ -319,11 +294,6 @@ Technically the folio is more sparely worked than the great decorated pages. Lar
 One further feature deserves note: the faint English annotation across the upper margin, in a post-medieval hand, paraphrasing the Gethsemane narrative — Christ's departure after supper and his prayer that the cup might pass. Such marginal glosses, added while the manuscript was at Kells and later in Dublin, belong to the codex's early modern reception rather than to its original conception, but they document the continued use of the book as an object of reading and not merely of display.
 
 ### The Temptation of Christ
-
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f202v.jpg" alt="The Temptation of Christ">
-  <figcaption>The Temptation of Christ, Dublin, Trinity College Library, MS 58, fol. 202v.</figcaption>
-</figure>
 
 The second of the two surviving full-page narrative miniatures, this folio stands within the Gospel of Luke, facing the text of the third temptation (Luke 4:9–13), in which the devil sets Christ upon the pinnacle of the Temple and challenges him to cast himself down. It is by common consent the most intellectually complex image in the codex: densely populated, iconographically layered, and organised around a structure that is simultaneously architecture, ornament and ecclesiological argument.
 
@@ -343,11 +313,6 @@ The condition is generally good, though the pigments show localised abrasion, pa
 
 ### The Chi Rho Monogram
 
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f034r.jpg" alt="The Chi Rho Monogram">
-  <figcaption>The Chi Rho Monogram, Dublin, Trinity College Library, MS 58, fol. 34r.</figcaption>
-</figure>
-
 The *Christi autem generatio* page is the most celebrated single folio of the codex and, by wide agreement, the culminating achievement of Insular ornament. It marks the point in Matthew 1:18 where, after the genealogy, the narrative of the Incarnation properly begins: "Now the generation of Christ was in this wise." The illuminator has responded by expanding the nomen sacrum XPI to fill almost the entire page, so that the remaining words — *h generatio*, in small ornamental majuscule at the lower right — are reduced to a residue at the foot of the design, and the sacred name becomes not a word to be read but an object to be contemplated.
 
 The composition is governed by the great diagonal of the Chi, whose upper left arm sweeps across the page in a broad curve terminating in a lobed, spiral-filled expansion, while the lower left limb descends to a second terminal below. The shaft's spine is drawn as a pink-lilac band edged in gold, and along its entire length is a lattice of compartments filled with tightly wound spiral-and-trumpet patterns, key fret, chequer, and interlaced ribbon. At the point where the arms cross, a diamond-shaped lozenge is inset within a stellate field of interlace — a form whose eucharistic and cosmological readings have been much discussed, the lozenge appearing elsewhere in Insular art as a sign of the Word or of the four quarters of the world.
@@ -361,11 +326,6 @@ The technique is of extraordinary refinement. The spiral fields are executed at 
 Beyond its technical accomplishment, the page performs a specific theological operation. By dissolving the name of Christ into ornament while seeding that ornament with animate life — angels above, beasts and insects below — the illuminator constructs an image of the Incarnation as the entry of the Word into creation, the whole hierarchy of being gathered within the letters of the divine name. This reading, developed most influentially in the scholarship of the later twentieth century, has largely displaced earlier accounts that treated the page as decorative exuberance without programme.
 
 ### The Carpet Page
-
-<figure>
-  <img src="/Images/Book-of-Kells/book-of-kells-f033r.jpg" alt="The Carpet Page">
-  <figcaption>The Carpet Page, Dublin, Trinity College Library, MS 58, fol. 33r.</figcaption>
-</figure>
 
 This is the only carpet page in the codex, and its uniqueness is one of the manuscript's most persistent puzzles. In the Insular tradition established by the Lindisfarne Gospels and the Book of Durrow, the cross-carpet page is a recurrent structural element, placed before each Gospel as a threshold between text and text. In Kells the type appears once only, immediately preceding the Chi-Rho page on fol. 34r, and its solitary status has generated two competing explanations: either the decorative programme was left incomplete, consistent with the unfinished passages elsewhere in the codex, or the designer deliberately reserved the form for this single position, at the threshold of the Incarnation narrative.
 

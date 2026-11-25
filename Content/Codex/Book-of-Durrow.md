@@ -166,7 +166,7 @@ The illumination programme comprises eleven full-page miniatures — six carpet 
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f001v.jpg" alt="The double-armed cross carpet page">
-  <figcaption>The double-armed cross carpet page, Dublin, Trinity College Library, MS 57, fol. 1v.</figcaption>
+  <figcaption>The double-armed cross carpet page, Dublin, Trinity College Library, MS 57, fol. 1v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 The verso of the first folio carries the earliest of the codex's carpet pages and, in the sequence as now bound, the reader's first encounter with the manuscript's decorative programme. It faces the four-symbols page, and the two folios function as a paired prefatory unit: an abstract cruciform statement on the left, its christological gloss in the evangelist symbols on the right.
@@ -185,7 +185,7 @@ The folio's condition is conspicuous. Extensive losses of the paint film appear 
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f002r.jpg" alt="The four-symbols page">
-  <figcaption>The four-symbols page, Dublin, Trinity College Library, MS 57, fol. 2r.</figcaption>
+  <figcaption>The four-symbols page, Dublin, Trinity College Library, MS 57, fol. 2r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 Facing the double-armed cross carpet page on fol. 1v, the recto of the second folio presents the four evangelist symbols disposed around a central cross — one of the earliest surviving fully developed statements of the *quattuor una* theme in Insular book painting, and a page that functions less as illustration than as a visual prologue to the Gospel text as a whole.
@@ -204,7 +204,7 @@ The folio's condition is itself part of its history. The losses visible across t
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f003v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, MS 57, fol. 3v.</figcaption>
+  <figcaption>Carpet Page, Dublin, Trinity College Library, MS 57, fol. 3v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This folio stands apart from the other carpet pages of the codex in that its central field abandons interlace altogether in favour of curvilinear ornament: it is the manuscript's fullest statement of the trumpet-spiral idiom inherited from the La Tène tradition and from the enamelled metalwork of the Irish Iron Age. Facing the opening of the Prologue on the recto, it functions as a threshold page, marking the transition into the prefatory matter proper.
@@ -223,7 +223,7 @@ Condition is comparatively good here relative to fol. 1v — the paint film has 
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f004r.jpg" alt="The opening of Jerome's letter to Damasus">
-  <figcaption>The opening of Jerome's letter to Damasus, Dublin, Trinity College Library, MS 57, fol. 4r.</figcaption>
+  <figcaption>The opening of Jerome's letter to Damasus, Dublin, Trinity College Library, MS 57, fol. 4r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 After the sequence of prefatory carpet pages, the codex turns to text, and fol. 4r presents the first decorated incipit of the manuscript: the beginning of Jerome's dedicatory epistle to Pope Damasus, Novum opus facere me cogis ex veteri — the letter that customarily prefaces the Vulgate Gospels and that here inaugurates the prefatory apparatus.
@@ -265,7 +265,7 @@ The condition of the leaf is variable. The vellum is discoloured and cockled, pa
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f084v.jpg" alt="The Symbol of Saint Mark">
-  <figcaption>The Symbol of Saint Mark, Dublin, Trinity College Library, Dublin, MS 57, fol. 84v.</figcaption>
+  <figcaption>The Symbol of Saint Mark, Dublin, Trinity College Library, Dublin, MS 57, fol. 84v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 Prefacing the Gospel of Mark, this folio presents the Eagle, and with it the most consequential iconographic decision in the manuscript. In the Hieronymian scheme that became canonical in the Latin West, the eagle belongs to John and the lion to Mark; the Durrow painter follows instead the older order transmitted by Irenaeus, in which Mark receives the eagle and John the lion. The same distribution governs the four-symbols page on fol. 2r, so the choice is systematic rather than accidental, and it constitutes one of the principal arguments in the long controversy over the manuscript's textual and artistic affiliations.
@@ -288,7 +288,7 @@ Condition here is good. The vellum is clean and only lightly discoloured, the pa
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f085v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 85v.</figcaption>
+  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 85v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This is the most fully preserved and, by common consent, the most technically accomplished of the carpet pages in the codex. Standing in the prefatory position before Luke's Gospel, it exhibits an ornamental system quite distinct from those of fols 1v and 3v: neither cruciform nor spiral-dominated, but a continuous, potentially infinite field of interlaced circular medallions, arranged in a strict grid and interrupted only at the centre.
@@ -309,7 +309,7 @@ The condition of this leaf is excellent by the standards of the manuscript. The 
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f124v.jpg" alt="The Calf of Saint Luke">
-  <figcaption>The Calf of Saint Luke, Dublin, Trinity College Library, Dublin, MS 57, fol. 124v.</figcaption>
+  <figcaption>The Calf of Saint Luke, Dublin, Trinity College Library, Dublin, MS 57, fol. 124v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This folio shows the calf (*vitulus*) and prefaces the Gospel of Luke, an attribution stable across both the Hieronymian and the alternative pre-Vulgate traditions — unlike the eagle and lion, which Durrow famously assigns to Mark and John respectively, following the Irenaean order transmitted in Irish exegesis.
@@ -326,7 +326,7 @@ Two further material observations bear noting. The show-through of script from t
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f125v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 125v.</figcaption>
+  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 125v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This folio is the fourth of six surviving carpet pages that structure the Book of Durrow, and it is among the most rigorously architectonic of the group. Its position within the codex is governed by the same liturgical and codicological logic observed throughout the manuscript: the full-page ornament stands as a threshold between the Evangelist symbol and the decorated incipit of the Gospel it introduces, so that the reader passes through a zone of pure, non-figural design before encountering the opening words of the sacred text. The facing recto, partly visible at the right of the image, preserves the ornamented opening of the adjoining Gospel, with a large decorated initial complex at the head of the page and a passage of majuscule display script descending in diminishing scale into the body of the text — the characteristic Insular *diminuendo*.
@@ -345,7 +345,7 @@ The palette remains the restricted one characteristic of the earliest Insular bo
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f191v.jpg" alt="The Lion of Saint John">
-  <figcaption>The Lion of Saint John, Dublin, Trinity College Library, Dublin, MS 57, fol. 191v.</figcaption>
+  <figcaption>The Lion of Saint John, Dublin, Trinity College Library, Dublin, MS 57, fol. 191v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This folio carries the last of the four Evangelist symbols in the Book of Durrow and introduces the Gospel of John. Its attribution is one of the manuscript's most discussed features: whereas the Hieronymian arrangement, which became normative in the Latin West, assigns the lion to Mark and the eagle to John, Durrow follows the alternative sequence transmitted by Irenaeus and preserved in Irish exegetical tradition, in which the lion belongs to John and the eagle to Mark. The choice is not an error but a deliberate adherence to a distinct patristic authority, and it constitutes one of the principal arguments for locating the manuscript within an insular milieu conservative in its textual and exegetical inheritance. As elsewhere in the codex, the symbol page stands within a triadic apparatus — symbol, carpet page, decorated incipit — through which the reader is led by degrees from pure ornament to sacred text.
@@ -364,7 +364,7 @@ The reserved field shows pronounced show-through from the adjacent leaves, inclu
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f192v.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 192v.</figcaption>
+  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 192v. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This is the carpet page that follows the lion symbol of Saint John and precedes the Johannine incipit, and it is by common consent the most sophisticated of the group — the page on which the Durrow illuminator most fully exploits the zoomorphic vocabulary that elsewhere in the codex remains subordinate to abstract ribbon interlace. Where the other carpet pages are built from geometric plaiting and compartmented fret and lattice patterns, here the entire framing structure is composed of interlaced animals, and the abstract ornament is confined to a single central medallion. The inversion is deliberate and marks the page as the culmination of the manuscript's decorative programme.
@@ -383,7 +383,7 @@ The animal ornament here has long been recognised as bearing a close relationshi
 
 <figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f248r.jpg" alt="Carpet page">
-  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 248r.</figcaption>
+  <figcaption>Carpet Page, Dublin, Trinity College Library, Dublin, MS 57, fol. 248r. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 This folio closes the Book of Durrow, and its position is as significant as its design. Whereas the other carpet pages of the codex function as thresholds — standing between Evangelist symbol and Gospel incipit, preparing the reader for the sacred text — this one has nothing after it. It is terminal rather than liminal: an ornamental colophon, a final seal set upon the completed book. The recto placement is itself unusual and reinforces the sense of an ending, since the reader arrives at it from the concluding text on the facing verso rather than passing through it into anything further.

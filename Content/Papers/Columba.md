@@ -218,21 +218,21 @@ The first carpet page, opposite the four symbols of the evangelists on fol. 2r, 
 
 <figure>
   <img src="/Images/Columba/columba-05.jpg" data-zoom-src="/Images/Columba/columba-05-zoom.jpg" alt="A manuscript page filled entirely with ornament. A double-armed cross outlined in yellow and red occupies the centre, its arms ending in squares with small crosses. The background is a dense pattern of interlaced ribbons in green, yellow and red on a dark ground, within a frame of interlace.">
-  <figcaption>Book of Durrow, carpet page with a double-armed cross, fol. 1v, second half of the seventh century. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <figcaption>Book of Durrow, carpet page with a double-armed cross, fol. 1v, second half of the seventh century. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 The Durrow palette is limited, red, yellow, green and the brown-black of the ink, with the vellum left as a ground, and its effects depend on contrast and pattern rather than modelling. The great initial at the beginning of Jerome's letter to Pope Damasus, *Novum opus*, shows the *diminuendo* of the Cathach developed into a page: the first letters swell into a monumental block of spirals and trumpet patterns, outlined in red dots, before the text resumes at normal size.
 
 <figure>
   <img src="/Images/Columba/columba-06.jpg" data-zoom-src="/Images/Columba/columba-06-zoom.jpg" alt="A manuscript page beginning with large decorated letters N and O, filled with spirals, trumpet patterns and interlace in yellow, red and green, and outlined with rows of red dots. The following lines of brown script diminish in size down the page.">
-  <figcaption>Book of Durrow, initial page of Jerome's letter Novum opus, fol. 4r. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <figcaption>Book of Durrow, initial page of Jerome's letter Novum opus, fol. 4r. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 Each Gospel is preceded by the symbol of its evangelist on a page of its own. The Man of Matthew is a frontal figure whose body is a bell-shaped cloak covered with a chequered pattern, like millefiori enamel, from which only the head and the feet emerge. It is one of the earliest figure images of Insular art, and it shows how ornament was the starting point and the human figure was made to fit it.
 
 <figure>
   <img src="/Images/Columba/columba-07.jpg" data-zoom-src="/Images/Columba/columba-07-zoom.jpg" alt="A manuscript page with a frame of interlaced ribbons. In the centre stands a frontal figure with a large oval head, staring eyes and stylised hair; his body is a bell-shaped garment covered with a chequered pattern in red, yellow and green, from which two small feet in profile emerge at the bottom.">
-  <figcaption>Book of Durrow, the Man, symbol of Matthew, fol. 21v. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+  <figcaption>Book of Durrow, the Man, symbol of Matthew, fol. 21v. Pigments on parchment. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 The book's arrangement follows its own logic. In Durrow the symbols follow the pre-Vulgate order, in which the eagle belongs to Mark and the lion to John, a reminder that the Columban houses drew on older textual traditions alongside the Vulgate text. For a full description of the manuscript, see the page on the [Book of Durrow](/Content/Codex/Book-of-Durrow.html).
