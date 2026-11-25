@@ -857,6 +857,20 @@
       "sha256": "81a3c057e91f42a3f1f6ba81bd02edf9307e2c49ee182217374500320ea9433d"
     },
     {
+      "path": "Images/Giovanni-di-Apparecchiato/giovanni-di-apparecchiato-02-zoom.jpg",
+      "width": 2576,
+      "height": 2243,
+      "bytes": 891188,
+      "sha256": "a0c6ab048b9f960519a51f8c18848bec08c523005c11049aebf242b421fd12be"
+    },
+    {
+      "path": "Images/Giovanni-di-Apparecchiato/giovanni-di-apparecchiato-03-zoom.jpg",
+      "width": 1576,
+      "height": 2326,
+      "bytes": 802610,
+      "sha256": "b7fadc21810990bcc4d975161dfc2a2ae3b0e3ae35a2c17d9eacfdad8eb66e50"
+    },
+    {
       "path": "Images/Giovanni-di-Nicola-da-Pisa/giovanni-di-nicola-da-pisa-01-zoom.jpg",
       "width": 1225,
       "height": 457,
