@@ -283,6 +283,20 @@
       "sha256": "f2530febb02db32b40f7beff96776085cbabe95bfe91f66f9f84222baac25983"
     },
     {
+      "path": "Images/Book-of-Dimma/book-of-dimma-p030-zoom.jpg",
+      "width": 1500,
+      "height": 1946,
+      "bytes": 866956,
+      "sha256": "44faad4f29b97937079b24a6f392723af65c56ed9c120d4828e356f6fa3d4407"
+    },
+    {
+      "path": "Images/Book-of-Dimma/book-of-dimma-p104-zoom.jpg",
+      "width": 1500,
+      "height": 1979,
+      "bytes": 1050932,
+      "sha256": "fd7381a3d467570c60f1a413eececa67834d0a10fe984375e5076cdebebd50d3"
+    },
+    {
       "path": "Images/Book-of-Durrow/book-of-durrow-f001v-zoom.jpg",
       "width": 1931,
       "height": 2576,
@@ -311,6 +325,20 @@
       "sha256": "51976ceaef92468e88eb1a69c99fa28abf4317e96607469d22dcd0032c0e2c63"
     },
     {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f018v-zoom.jpg",
+      "width": 1835,
+      "height": 2576,
+      "bytes": 1029701,
+      "sha256": "3620c84a3247322176fc242208a9bc19a8426d7a08624fc473de56b926ae0fb5"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f020v-zoom.jpg",
+      "width": 1868,
+      "height": 2576,
+      "bytes": 1008273,
+      "sha256": "df2a3c3ebb8b6ddb2b6f57b7ccde0dd28174845a2df5455e22c48b694af77428"
+    },
+    {
       "path": "Images/Book-of-Durrow/book-of-durrow-f021v-zoom.jpg",
       "width": 1857,
       "height": 2576,
@@ -323,6 +351,13 @@
       "height": 2576,
       "bytes": 972257,
       "sha256": "fe17459e1b37f2360fedf67b4f746f03a3cbbe77e62b6be652c9ce55d883fd49"
+    },
+    {
+      "path": "Images/Book-of-Durrow/book-of-durrow-f024v-zoom.jpg",
+      "width": 1879,
+      "height": 2576,
+      "bytes": 1002995,
+      "sha256": "742d5224a9a79aee8389c6368872c0383ac8e8bde83778f0cc59050171789b07"
     },
     {
       "path": "Images/Book-of-Durrow/book-of-durrow-f084v-zoom.jpg",

@@ -163,11 +163,25 @@ The text is written in Insular majuscule, the formal script of the great Gospel 
 The Gospel text is the Vulgate of Jerome. It is accompanied by the full prefatory apparatus that came with that text from Italy: Jerome's letter to Pope Damasus, *Novum opus*; the prefaces; the Eusebian canon tables, which survive in part; the *breves causae*, or chapter summaries; and the *argumenta*, the short prologues to the Gospels. The prefatory matter shows Old Latin elements, as in many Insular books.
 
 <figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f018v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f018v-zoom.jpg" alt="A manuscript page of twenty-six lines of large Insular majuscule in brown ink, without decoration, with a large brown water stain across the lower half and a lighter one along the bottom edge. The gutter and the edge of the facing page show at the right.">
+  <figcaption>Book of Durrow, fol. 18v, argumentum of Luke ("Lucas Syrus natione") in the prefatory matter. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The *argumenta* stand together in the prefatory matter rather than each before its own Gospel. On fol. 18v the prologue to Luke tells how Luke, after Matthew had written in Judaea and Mark in Italy, wrote his Gospel "in the regions of Achaia" at the prompting of the Holy Spirit. Like the rest of the prefatory text, it is written in the same majuscule as the Gospels, without decoration.
+
+<figure>
   <img src="/Images/Book-of-Durrow/book-of-durrow-f124r.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f124r-zoom.jpg" alt="A manuscript page with a list in four narrow columns: names on the left of each pair, short Latin explanations on the right, linked by tall wavy brackets in red and black. A faded border of interlace in pale orange and green runs along the right and lower edges, with a dark green stain at the lower right.">
   <figcaption>Book of Durrow, fol. 124r, list of Hebrew names with their interpretations, at the end of Mark. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
 A list of Hebrew names with their meanings stands at the end of Mark, before the symbol of Luke. The names are arranged in columns with their Latin interpretations, joined by tall brackets in red and black. Behind the list, a faint border of interlace in orange and green shows through from the decorated page on the other side of the leaf.
+
+A similar list closes the prefatory matter to Matthew on fol. 20v. The last lines of the *argumentum* end with a row of red flourishes, and the list begins below with an enlarged E, *Enom fons*, followed by names from Matthew's Gospel, among them Beelzebub, Barnabas and Cephas, each with its Latin interpretation.
+
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f020v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f020v-zoom.jpg" alt="A stained manuscript page of text in large Insular majuscule. Nine lines at the top end the preceding prologue; a row of red flourishes follows; then a new section opens with an enlarged initial E and continues for fifteen lines. The left margin is darkened by damp stains, and a brown stain spreads across the middle of the lower text.">
+  <figcaption>Book of Durrow, fol. 20v, end of the argumentum of Matthew and beginning of the list of Hebrew names. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
 [Françoise Henry](/scholars.html#henry-francoise) contrasted the comparatively straightforward Vulgate of Durrow with the "mixed" Irish text of books such as the Book of Armagh. The contrast matters for the question of origin, since a good Vulgate text is often taken to point to the Northumbrian houses, which had access to Italian exemplars, while mixed texts are typical of Irish books. The argument is not decisive: good Vulgate texts also circulated in Ireland.
 
@@ -256,6 +270,13 @@ The cloak has been compared with the millefiori and cloisonné of contemporary m
 The Gospel opens on fol. 22r with *Liber generationis Iesu Christi*, "The book of the generation of Jesus Christ". The first letters, L and I, are joined in a tall initial with spiral terminals and panels of interlace; the rest of LIBER GENERA follows in display capitals on a ground of red dots. A faded red title, *Evangelium secundum Mattheum*, runs above.
 
 The genealogy that follows is written in the regular majuscule of the book, with the names of the generations marked by enlarged letters outlined in red dots. The page shows the scheme of the openings in its simplest form: one dominant initial, one line of display capitals, then the text.
+
+<figure>
+  <img src="/Images/Book-of-Durrow/book-of-durrow-f024v.jpg" data-zoom-src="/Images/Book-of-Durrow/book-of-durrow-f024v-zoom.jpg" alt="A clean manuscript page with twenty-two lines of large, rounded Insular majuscule in brown ink, evenly spaced, without decoration; a light brown stain crosses the upper lines. The gutter and the edge of the facing page show at the right.">
+  <figcaption>Book of Durrow, fol. 24v, Matthew 2:9–15, the Magi and the flight into Egypt. Dublin, Trinity College Library, MS 57. Photo: Trinity College Dublin, Digital Collections, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+Fol. 24v shows the ordinary text page of the Gospels: Matthew 2:9–15, from the star standing over the place where the child was to the flight into Egypt, in twenty-two lines of majuscule without decoration. The script is broad and even, with few abbreviations; the bow of each letter is open and the stroke heavy, and the regularity of the hand over hundreds of pages is itself a measure of the scribe's training.
 
 ## Mark: Fols 84v, 85v and 86r
 

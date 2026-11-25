@@ -334,6 +334,11 @@ The Book of Armagh, then, spent most of its existence functioning as something b
 
 ### The Fourfold Gospel in Outline: The Evangelist Symbols Page
 
+<figure>
+  <img src="/Images/Book-of-Armagh/book-of-armagh-f032v.jpg" alt="A page divided into four ruled compartments, drawn in brown ink without colour, each holding a winged evangelist symbol labelled above: homo, a frontal winged man holding a book, at the upper left; leo, a winged lion, at the upper right; vitulus, a winged calf, at the lower left; aquila, an eagle grasping a book, at the lower right. A copyright watermark of Trinity College Library is printed across the lower part of the image.">
+  <figcaption>The Fourfold Gospel in Outline: The Evangelist Symbols Page, Dublin, Trinity College Library, MS 52 (Codex Ardmachanus), fol. 32v. Armagh, c. 807–808. Ink on vellum, page approx. 195 × 145 mm. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
 This is the most ambitious page in the Book of Armagh and the one on which its reputation as a work of art largely rests. A single ruled rectangle, its corners marked by small ringed terminals, is divided by a cross of ruled lines into four compartments, one for each of the evangelist symbols, and the whole is executed — like every other drawing in the codex — in brown ink alone, with no colour, no gold and no ground. The page stands immediately before the opening of Matthew, whose great display initial is visible at the right edge of the opening, the letters of *LIBER generationis* running down the facing recto. The reader thus meets the fourfold Gospel as a single conspectus before entering the first of its four texts.
 
 Each compartment is labelled in a small, neat minuscule: *homo* and *leo* written above the upper frame, *uitulus* and *aquila* set within the lower two fields. The sequence is the Hieronymian one, read left to right and top to bottom in the order of the Gospels themselves — the man for Matthew, the lion for Mark, the calf for Luke, the eagle for John. This is worth stressing, because Insular practice was not uniform: an older tradition, descending from Irenaeus and current in Ireland, gave the lion to John and the eagle to Mark. Ferdomnach's page aligns Armagh with Jerome, and does so explicitly, in writing.

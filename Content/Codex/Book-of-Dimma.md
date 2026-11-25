@@ -251,6 +251,11 @@ Two observations by way of caution. The ornament here is drawn and washed rather
 
 ### Marcus Enthroned: The Evangelist Portrait at the Opening of the Second Gospel
 
+<figure>
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p030.jpg" data-zoom-src="/Images/Book-of-Dimma/book-of-dimma-p030-zoom.jpg" alt="An evangelist seated frontally in a plain red frame, with curly yellow hair, large eyes and a downturned mouth, holding a red book in both hands against his chest. His robe is divided into flat panels of yellow, pink and olive green. The uprights of his throne end above his shoulders in two bird heads with hooked beaks. Two black feet show below the frame, and the word marcus is written above.">
+  <figcaption>The Beast-Headed Throne: Mark and His Chair, Dublin, Trinity College MS 59, p. 30. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
 This is the second of the manuscript's three evangelist portraits, and it differs from the Matthew of p. 2 in almost every respect except its underlying conception. Where that image was set within a nine-compartment grid of ornament, here the frame has been reduced to a single plain rectangle in orange-red, drawn in two parallel lines and left entirely unfilled. The whole decorative burden has been transferred to the figure and to the structure that supports him, with the result that the composition breathes in a way the earlier page does not: broad areas of bare parchment surround the evangelist on three sides, and the eye is given nothing to rest on but the man himself.
 
 The page is identified. Above the upper border, in the outer margin, a small inscription in minuscule reads *marcus* — a titulus of a kind absent from the Matthew page, and the only textual confirmation on any of these images of whom we are looking at. It appears to have been written in the ordinary ink of the text hand rather than added later, though a photograph alone cannot settle that point.
@@ -310,6 +315,11 @@ The physical condition is comparable to the other leaves of this quire. A stitch
 The frame here is executed with a precision that bears comparison with far grander books, and the relationship between initial, diminuendo and frame has been carefully planned rather than improvised. The manuscript was written by several hands of unequal accomplishment; its decoration, on this evidence, was not.
 
 ### The Eagle and the Book: The Symbol of John
+
+<figure>
+  <img src="/Images/Book-of-Dimma/book-of-dimma-p104.jpg" data-zoom-src="/Images/Book-of-Dimma/book-of-dimma-p104-zoom.jpg" alt="An eagle displayed frontally with raised wings and a haloed head turned in profile, its body and wings divided into bands of blue, brown and yellow with dots, its talons resting on a round satchel. The frame is a red-brown band with yellow dots enclosing panels of white interlace on black, with small square panels of fret and a cross in the corners.">
+  <figcaption>Aquila with Satchel: The Emblem Page Preceding the Fourth Gospel, Dublin, Trinity College MS 59, p. 104. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
 
 This page marks a deliberate departure from the three that precede it. Where Matthew, Mark and Luke are introduced by human portraits, the fourth gospel is prefaced not by a figure but by a symbol: the eagle of John, displayed frontally with wings raised and body filled with pattern. The substitution is not accidental, and it is not a shortcut. The gospel of John was treated throughout Insular manuscript culture as a book apart — the gospel of the beloved disciple, the one whose opening words rise to the eternal Word — and in this manuscript that distinction is registered at every level: a separate quire, the finest scribal hand in the book, and here, an emblem rather than a man.
 
