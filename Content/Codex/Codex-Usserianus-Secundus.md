@@ -165,6 +165,11 @@ For an object that survived not as a working book but as a venerated relic — h
 
 ### The Initium Page of the Garland of Howth
 
+<figure>
+  <img src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-f022r.jpg" data-zoom-src="/Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-f022r-zoom.jpg" alt="A darkened, worn manuscript page filled by a monumental initial: two tall pale shafts joined by a diagonal stroke form the letters IN, topped by large knots of interlace and a beast's head at the upper right. In an arched niche between the shafts stands a small frontal haloed figure with large staring eyes, hands crossed over a book. Down the right side, stacked panels of display letters on red-brown and pale grounds; interlace runs down the left margin.">
+  <figcaption>Initium euangelii: the decorated incipit to the Gospel of Mark, Garland of Howth (TCD MS 56, fol. 22r), Ireland, c. 800. Public domain, via Wikipedia.</figcaption>
+</figure>
+
 The second of the two surviving decorated openings in the Garland of Howth introduces the Gospel of Mark, and it is by some margin the more legible and the more architecturally coherent of the pair. Where fol. 1r overwhelms its page with figures and interlace superimposed on the written text, fol. 22r deploys a monumental initial as the organising structure of the whole leaf, and the result is a design closer to the mainstream Insular solution for a Gospel incipit.
 
 The composition is dominated by two immense vertical shafts rising through nearly the full height of the page, each drawn as a broad band with a pale core — the whitened inner strip is still clearly visible — flanked by darker outlines. Between them, at mid-height, runs a bold diagonal stroke. Taken together, these elements constitute the ligatured **IN** of *Initium euangelii Iesu Christi*, the opening words of Mark: the first shaft supplies the *I*, the diagonal and second shaft the *N*. This treatment of a Gospel opening as a single vast letter-frame, whose shafts function simultaneously as script and as architecture, is characteristic of Insular display pages, and the Garland here shows its makers working confidently within that idiom.

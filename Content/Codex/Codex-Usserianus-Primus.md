@@ -228,6 +228,11 @@ Both claims need qualification. "Earliest" applies only to what survives, in a b
 
 ## The Codex Usserianus Secundus
 
+<figure>
+  <img src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r.jpg" data-zoom-src="/Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r-zoom-v2.jpg" alt="A worn manuscript page dominated by large decorated letters with tall shafts filled with pale colour, framed by dense interlace at the top and bottom and along the left edge. In a panel between the letters stands a small frontal figure with a halo, large eyes and hands crossed over a book.">
+  <figcaption>Garland of Howth (Codex Usserianus Secundus), fol. 22r, decorated initial page with a haloed figure. Dublin, Trinity College Library, MS 56. Public domain, via Wikipedia.</figcaption>
+</figure>
+
 The second Ussher Gospel book at Trinity, the Garland of Howth (MS 56), known as the Codex Usserianus Secundus, is later and richly decorated, with large initial pages filled with interlace and figures. Its text is mixed, and it shares with the Usserianus Primus the rare reading *conservator salutis* at Luke 2:11. The two books have been bound together in scholarship by their shared name and their shared textual tradition; the second is described in its own entry on this site.
 
 ## Provenance

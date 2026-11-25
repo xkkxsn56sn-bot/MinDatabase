@@ -703,6 +703,13 @@
       "sha256": "9f8513a13339a77c903dc2cb36e6f913117fbea4db50a5db60ce3bb817fa4c57"
     },
     {
+      "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-garland-f022r-zoom-v2.jpg",
+      "width": 1945,
+      "height": 2576,
+      "bytes": 1156466,
+      "sha256": "845a4df92fcac46451530b009c3f0e16267cda9bd617698244a61e5dab329dd0"
+    },
+    {
       "path": "Images/Codex-Usserianus-Primus/codex-usserianus-primus-context-ussher-zoom.jpg",
       "width": 2153,
       "height": 2576,
@@ -715,6 +722,13 @@
       "height": 2576,
       "bytes": 1024470,
       "sha256": "3bdfaecd7e6cbae0be9ddda49759171cfc67f7b156b4d70c1774a23b1afe1426"
+    },
+    {
+      "path": "Images/Codex-Usserianus-Secundus/codex-usserianus-secundus-f022r-zoom.jpg",
+      "width": 1945,
+      "height": 2576,
+      "bytes": 1156466,
+      "sha256": "0d6b44412ce835167af460c7136cc905b0b4dd339b2aafd44b6827d3f76c6ab2"
     },
     {
       "path": "Images/Codex-Vergilius-Romanus/codex-vergilius-romanus-f001r-alt-zoom.jpg",
