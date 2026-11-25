@@ -3699,6 +3699,132 @@
       "sha256": "4e67241207c0bf0ce0360f5c396eabc16010e5b2aeebd3a51be350a86c1446ab"
     },
     {
+      "path": "Images/Saint-Ambrose/saint-ambrose-02-zoom.jpg",
+      "width": 1599,
+      "height": 2576,
+      "bytes": 994151,
+      "sha256": "1554f7767e5afc3b92f97c18c2245a2818a15f12eaa1be9a18076301b436ff0e"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-03-zoom.jpg",
+      "width": 2552,
+      "height": 1800,
+      "bytes": 936141,
+      "sha256": "735f8756451318db512fdeddd465ea6fe5c78c4c55e1d082b3d197ec2a76a7c9"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-04-zoom.jpg",
+      "width": 2576,
+      "height": 2070,
+      "bytes": 1410773,
+      "sha256": "bacea6a617e31fcf0d7061a3cbfc181ba21949a94a06fca91f6a1e6afccba5af"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-05-zoom.jpg",
+      "width": 2384,
+      "height": 2200,
+      "bytes": 1295364,
+      "sha256": "a8d229247f7467a44eff3bdebd9287275cfd657804f90871f2fbb193c7b12427"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-06-zoom.jpg",
+      "width": 2204,
+      "height": 2004,
+      "bytes": 1045627,
+      "sha256": "5f66f3913b5d2fc3000b90231f11bef217f39a1877e737881ae5fe3cb1c03da4"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-07-zoom.jpg",
+      "width": 2456,
+      "height": 2068,
+      "bytes": 1153858,
+      "sha256": "64a208942b8ab351a5ec9d08b0c5247df8029b5079c2a31dbcf551d36816b3a4"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-08-zoom.jpg",
+      "width": 2168,
+      "height": 2108,
+      "bytes": 1159189,
+      "sha256": "ecf7f3eacf384d925f306b58104e6781808fe60ece43ed1dc71b2fca77e40e85"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-09-zoom.jpg",
+      "width": 2576,
+      "height": 1961,
+      "bytes": 1141095,
+      "sha256": "dbc53e5f548c4d2a7557f0dd359838a788fc0554a44ae226da992c2ae4753878"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-10-zoom.jpg",
+      "width": 2464,
+      "height": 2160,
+      "bytes": 1273270,
+      "sha256": "adfb8c5bd0488513e0a77244789aa62971d4c425d28317a0441a60926a53dd39"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-11-zoom.jpg",
+      "width": 2576,
+      "height": 2125,
+      "bytes": 1195420,
+      "sha256": "246b47a42a5b8f2804fabbb595666749c04b7fa8c50144ec860e73e498340367"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-12-zoom.jpg",
+      "width": 2420,
+      "height": 1948,
+      "bytes": 1186810,
+      "sha256": "0f3af63f3cba4c4fcf0535bf6d45b958a25673759d601500b69c38cd14e5e433"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-13-zoom.jpg",
+      "width": 2456,
+      "height": 2242,
+      "bytes": 1411063,
+      "sha256": "587c0bb83955496379f3a7bc3d1bdec02c2f7e0e2661bd3f7ca65d8abd8b3de2"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-14-zoom.jpg",
+      "width": 2576,
+      "height": 2191,
+      "bytes": 1170350,
+      "sha256": "3f20809afc7c50561567f591d0af5f2e8d6fb6e646f9f391ac8a129dd7c054a5"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-15-zoom.jpg",
+      "width": 2424,
+      "height": 2116,
+      "bytes": 1231151,
+      "sha256": "ca69b8b23430bfd339e915325a1de63ef26313d0d11096220b7c31f6ba4c2059"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-16-zoom.jpg",
+      "width": 2192,
+      "height": 2044,
+      "bytes": 1138550,
+      "sha256": "55f63b669c42271c13778891863b2c6219f1152627dbf3c598a3454d06fba62c"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-17-zoom.jpg",
+      "width": 2576,
+      "height": 1713,
+      "bytes": 1305784,
+      "sha256": "53d67f7dcbe9c4f29f15967dac5c2a50353ff598844e43fb0019d6679edecafb"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-18-zoom.jpg",
+      "width": 1595,
+      "height": 764,
+      "bytes": 365768,
+      "sha256": "9a13012acc83e6f03b0f092e66ef57dab0ada896791f874ec59fcc6e6e3c55a2"
+    },
+    {
+      "path": "Images/Saint-Ambrose/saint-ambrose-19-zoom.jpg",
+      "width": 1223,
+      "height": 2576,
+      "bytes": 682553,
+      "sha256": "4ece4e76af767bd018f98b330a521a4b1bddd4c0a871131b041f5d55ac146a9f"
+    },
+    {
       "path": "Images/Saint-Leonard/saint-leonard-01-zoom.jpg",
       "width": 1600,
       "height": 1076,
