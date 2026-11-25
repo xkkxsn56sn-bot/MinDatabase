@@ -355,9 +355,14 @@ Its message joins the three themes of the cult of Ambrose: the martyrs he discov
 
 ## Ambrose with the Scourge
 
+<figure>
+  <img src="/Images/Saint-Ambrose/saint-ambrose-20.jpg" data-zoom-src="/Images/Saint-Ambrose/saint-ambrose-20-zoom.jpg" alt="A marble impost block with a moulded cornice. A Latin inscription runs along the cornice: AMBROSIUS CELEBS IUDEIS ABSTULIT EDES. Below, a frieze of small, stocky figures in a row: at the left a bishop in a low mitre, labelled AMBROSIUS, reaches out to a figure holding a staff; to the right, a long line of men, women and children in pleated tunics, some carrying bundles, stand side by side.">
+  <figcaption>Anselmus, Saint Ambrose driving out the Arians, impost relief from the Porta Romana, 1171, marble. Milan, Castello Sforzesco, Museo d'Arte Antica. Photo: Giovanni Dall'Orto, <a href="https://commons.wikimedia.org/wiki/Template:Attribution">attribution licence</a>, via Wikimedia Commons (detail).</figcaption>
+</figure>
+
 In the high Middle Ages Ambrose became the symbol of the city of Milan, and the image of the bishop changed with it. The first step is the relief from the Porta Romana, carved in 1171, when the Milanese rebuilt their walls after the destruction of the city by Frederick Barbarossa. It is discussed on the site's page on [Anselmo](/Content/Artists/XII-c/Anselmo.html).
 
-The relief shows Ambrose, in mitre and vestments, preceded by a cleric with a processional cross, driving out a line of eighteen men, women and children identified as Arians. He raises a whip against the last of them. The scene recalls the conflict of 385–386, but it was carved for a city that had just driven out an emperor: the Arians of the fourth century stood for the enemies of the twelfth.
+The relief shows Ambrose in mitre and vestments, named by an inscription, beside a line of eighteen men, women and children identified as Arians, whom he drives out of the city. The Lombard regional catalogue describes him striking one of them with a scourge or staff. A second inscription on the cornice reads AMBROSIUS CELEBS IUDEIS ABSTULIT EDES, "Ambrose the celibate took their temples from the Jews", recalling another tradition about the bishop. The scene recalls the conflict of 385–386, but it was carved for a city that had just driven out an emperor: the Arians of the fourth century stood for the enemies of the twelfth.
 
 The commune made Ambrose its emblem on its coins as well. From the middle of the thirteenth century Milan struck a silver *grosso*, the *ambrosino*, recorded in a document of Cremona of 30 March 1256. It shows the saint enthroned, with halo and crosier, blessing. Under Henry VII (1310–1313) Gervasius and Protasius appeared beside him, until the time of Giovanni Visconti; thereafter Ambrose stood alone, as Mario Limido has shown in his study of the saint on Milanese coins.
 
@@ -394,7 +399,6 @@ By the end of the Middle Ages the scourge had become Ambrose's standard attribut
 **Attributes:** Episcopal vestments, mitre and crosier; book; bees or beehive; from the fourteenth century, the scourge.
 
 **Principal images (VII–XIV centuries and before):**
-
 - Mosaic portrait, late fifth century, Sant'Ambrogio, chapel of San Vittore in Ciel d'Oro.
 - Golden altar, by Wolvinius and other masters, for Archbishop Angilbert II (824–859): twelve scenes of the life of Ambrose on the back; Ambrose crowning Angilbert and Wolvinius on the doors of the fenestella.
 - Apse mosaic of Sant'Ambrogio: Christ between Gervasius and Protasius, with Ambrose at Tours and at Milan; several phases from the Carolingian period to the thirteenth century; destroyed in part in 1943 and rebuilt.

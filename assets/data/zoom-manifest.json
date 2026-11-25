@@ -3825,6 +3825,13 @@
       "sha256": "4ece4e76af767bd018f98b330a521a4b1bddd4c0a871131b041f5d55ac146a9f"
     },
     {
+      "path": "Images/Saint-Ambrose/saint-ambrose-20-zoom.jpg",
+      "width": 1732,
+      "height": 681,
+      "bytes": 364461,
+      "sha256": "f8ae6a2c965dff74954f1759d0684c8520e0d4778731136eafa447caf6fe90a6"
+    },
+    {
       "path": "Images/Saint-Leonard/saint-leonard-01-zoom.jpg",
       "width": 1600,
       "height": 1076,
