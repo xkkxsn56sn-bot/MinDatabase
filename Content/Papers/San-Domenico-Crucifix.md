@@ -19,7 +19,7 @@ meta:
       - label: "Inscription"
         value: "CUIUS DOCTA MANUS ME PINXIT IUNTA PISANUS, at the foot of the cross, recovered in the restoration of the mid-1930s"
       - label: "Key sources"
-        value: "Brandi (1936), Garrison (1949), Gnudi (1957), Boskovits (1973), Tartuferi (1991); national catalogue record ICCD 00051423"
+        value: "Brandi (1936), Garrison (1949), Gnudi (1957), Boskovits (1973), Tartuferi (1991); Catalogo generale dei beni culturali, NCTN 00051423"
 
   - title: "IDENTITY AND LIMITS"
     list:
