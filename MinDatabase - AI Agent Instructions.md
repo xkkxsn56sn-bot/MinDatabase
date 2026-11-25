@@ -178,7 +178,7 @@ Form: `Images/<Scheda-Name>/<slug>-<locator>[-d01|-alt].<ext>`, all lowercase, n
 - **Roman numerals.** Flyleaves numbered in Roman: `f-i-v`, with hyphens, because `fiv` would read as a single numeral.
 - **Several images of one leaf.** The whole leaf takes no suffix; details are `-d01`, `-d02`; a second reproduction of the same leaf from another source is `-alt`. Two captions that claim the same leaf without being a detail or a second source are a conflict to be settled in the scheda, not a naming problem.
 - **One foliation per codex.** The one of the holding library, named in the scheda. The numbers of older binders or earlier catalogues are not used in names (the Mulling portrait of John is `f081v`, not 53).
-- **No number.** A closed list of labels: `cover-front`, `cover-back`, `spine`, `binding`, `shrine`, `satchel`, and `context-<subject>` for objects that are not part of the codex (`codex-amiatinus-context-jarrow-dedication.jpg`). Anything else is added to this list here before it is used.
+- **No number.** A closed list of labels: `cover-front`, `cover-back`, `spine`, `binding`, `shrine`, `satchel`, and `context-<subject>` for objects that are not part of the codex (`codex-amiatinus-context-jarrow-dedication.jpg`). Anything else is added to this list here before it is used. A leaf of another manuscript shown for comparison is also `context-<subject>`, keeping its own folio in the subject (`codex-usserianus-primus-context-durrow-f086r.jpg`): the check does not compare a `context-` name with the folio in the caption, because that folio is not of this codex.
 - **Last resort.** `<slug>-NN.jpg`, two digits, only for an image that shows no leaf and no listed object.
 - **Videos.** Same grammar, in `Video/`.
 

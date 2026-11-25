@@ -78,6 +78,8 @@ def check_name(basename, folder, filename, caption):
     m = name_re(basename).match(filename)
     if not m:
         return f"'{filename}' non rispetta la forma {slug_of(basename)}-<foglio|etichetta>"
+    if m["label"] and m["label"].startswith("context-"):
+        return None  # immagine di un altro manoscritto: il foglio in didascalia non è di questo codice
     expected = locator_from_caption(caption, width_of(basename))
     if expected is None:
         if m["loc"]:
