@@ -1,256 +1,291 @@
 ---
 layout: entry
-title: Anselmus ("Dedalus alter")
-subtitle: Lombard sculptor of the Porta Romana civic reliefs in post-1167 Milan
-dates: active second half of the XII century (documented c. 1171)
+title: "Anselmus"
+subtitle: "Milanese sculptor who signed himself 'a second Daedalus' on the reliefs of the Porta Romana, carved in 1171 for the city rebuilt after its destruction by Frederick Barbarossa"
+dates: "Active in Milan in the third quarter of the twelfth century; witness to a will in 1166; Porta Romana, 1171"
+century: "XII"
 
 meta:
-  - title: Identity
+  - title: "CORE DATA"
     pairs:
-      - label: Name in inscription
-        value: "Anselmus"
-      - label: Signature formula
-        value: "Hoc opus formavit Anselmus Dedalus alter"
-      - label: Primary role
-        value: Sculptor active in civic monumental relief
-      - label: Geographic sphere
-        value: Milan (Porta Romana context)
-      - label: Historical period
-        value: Late Romanesque Lombardy, third quarter of the XII century
+      - label: "Name"
+        value: "Anselmus; Anselmo in Italian"
+      - label: "Signature"
+        value: "HOC OPUS ANSELMUS FORMAVIT DEDALUS ALTER, on the cornice of the relief of Frate Jacopo"
+      - label: "Activity"
+        value: "Milan, third quarter of the twelfth century"
+      - label: "Main work"
+        value: "Reliefs of the Porta Romana, 1171, now in the Castello Sforzesco"
+      - label: "Collaborator"
+        value: "Girardus, who signed the relief of the Return of the Milanese"
+      - label: "Patrons"
+        value: "The consuls of the commune of Milan"
 
-  - title: Documentary Status
+  - title: "IDENTITY AND LIMITS"
     list:
-      - "Known primarily through epigraphic evidence on surviving Porta Romana fragments"
-      - "No secure medieval narrative source with biographical data"
-      - "No documented birth, family, death, or independent travel record"
-      - "Identity reconstructed through inscriptional reading and stylistic comparison"
-      - "Misreadings of the signature (ale/de Ale) rejected in modern philology"
+      - "Known from his signature on one relief of the Porta Romana and, according to Natoli (2020), from a will of 1166 in which he appears as a witness with Girardus"
+      - "Not to be confused with Anselmo da Campione, active at Modena in the later twelfth century"
+      - "Two reliefs are given to him in the regional catalogue: Frate Jacopo leading the troops of the League, and Saint Ambrose driving out the Arians"
+      - "The Return of the Milanese is signed by Girardus, not by Anselmus"
+      - "Nothing is known of his birth, family or training"
 
-  - title: Chronology
+  - title: "CHRONOLOGY"
     pairs:
-      - label: Main documented phase
-        value: "c. 1171, linked to Porta Romana construction and commemorative program"
-      - label: Historical backdrop
-        value: "Refortification of Milan after destruction under Frederick Barbarossa"
-      - label: Associated timeline
-        value: "Return of Milanese (1167), gate works from 1171, communal consolidation"
-      - label: Later transmission
-        value: "Fragments displaced after demolition (1793), then preserved at Castello Sforzesco"
+      - label: "1162"
+        value: "Frederick Barbarossa takes Milan and orders its destruction"
+      - label: "1166"
+        value: "Anselmus and Girardus witnesses to a will (Natoli 2020)"
+      - label: "27 April 1167"
+        value: "The Milanese return to their city, as recorded on the slab of the consuls"
+      - label: "March 1171"
+        value: "Work begins on the towers and gates of the new walls, including the Porta Romana"
+      - label: "1174"
+        value: "Possible reworking of the pulpit of Sant'Ambrogio under Archbishop Galdino della Sala (Natoli 2020)"
+      - label: "1793"
+        value: "The Porta Romana is demolished; the reliefs pass to the Calvi house in Corso di Porta Romana"
+      - label: "1867"
+        value: "The slab of the consuls is deposited with the city"
+      - label: "1895"
+        value: "The Comune di Milano buys the reliefs from the Rusconi collection; today in the Castello Sforzesco"
 
-  - title: Patrons and Civic Function
+  - title: "KEY WORKS"
     list:
-      - "Communal authorities of Milan (consular framework)"
-      - "Program tied to Lombard League memory and urban political identity"
-      - "Integration of civic and Ambrosian theological imagery"
-      - "Gate conceived as both fortification and narrative monument"
+      - "Anselmus, Frate Jacopo leads the troops of the Lombard League to Milan, signed, 1171 - Milan, Castello Sforzesco, inv. 767"
+      - "Anselmus, Saint Ambrose driving out the Arians, 1171 - Milan, Castello Sforzesco, inv. 770"
+      - "Girardus, the Return of the Milanese, signed, 1171 - Milan, Castello Sforzesco, inv. 769 (comparison)"
+      - "Girardus de Mastegnianega, slab of the consuls, signed, 1171 - Milan, Castello Sforzesco, inv. 772 (comparison)"
 
-  - title: Works and Attributions
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - "Signed reliefs from Porta Romana, now largely in Museo d'Arte Antica, Castello Sforzesco"
-      - "Frieze: return of the Milanese to the city"
-      - "Relief: Saint Ambrose expelling the Arians (attributed to Anselmus/workshop)"
-      - "Frieze with frater Iacobus leading allied troops (ensemble context with Girardus)"
-      - "Related corpus discussions: Santa Maria Beltrade Virgin 'Idea' processional relief; San Celso architrave"
+      - "Relief of the Agape or Last Supper on the pulpit of Sant'Ambrogio: proposed tentatively by Natoli (2020)"
+      - "Capital with the Childhood of Christ at Como: proposed by Natoli (2020)"
+      - "The Return of the Milanese: rejected; signed by Girardus"
+      - "Identity with Anselmo da Campione: rejected"
+      - "A provenance from Alzate, based on an old reading 'de Ale' of the signature: rejected; the cornice reads 'Dedalus alter'"
 
-  - title: Style and Workshop Profile
+  - title: "STYLE AND FORMATION"
     list:
-      - "Volumetric, compact figuration with strong contour legibility"
-      - "Archaizing compositional order and serial processional rhythm"
-      - "High inscription-image integration as part of communicative design"
-      - "Evidence of collaborative chantier practice with differentiated hands"
-      - "Contrasted in scholarship with more fluid plastic articulation attributed to Girardus"
+      - "Short, frontal figures in a dense row, with large heads and deep-cut pleats"
+      - "Narrative in a single register, read like a procession, with inscriptions on the frieze and the cornice"
+      - "Close to the Milanese sculpture of the later twelfth century, including the pulpit of Sant'Ambrogio"
+      - "Girardus, beside him, places his figures in arcades and gives them more movement"
 
-  - title: Historiographic Notes
+  - title: "PATRONAGE AND SETTING"
     list:
-      - "Distinct from Anselmo da Campione in current standard literature"
-      - "Case study in limits of medieval artist biography"
-      - "Interpretation requires separation of epigraphic fact, stylistic inference, and conjecture"
-      - "Useful for studying early communal artistic self-consciousness"
+      - "The consuls of the commune of Milan, named on the slab of 1171"
+      - "The new walls of Milan, begun in March 1171 after the return of 1167"
+      - "The Lombard League, whose troops appear in the relief of Frate Jacopo"
+      - "The basilica of Sant'Ambrogio, if Natoli's proposal is accepted"
 
-  - title: Related Entries
-    links:
-      - title: Anselmo da Campione
-        url: "/Content/Artists/XII-c/Anselmo-da-Campione.html"
+  - title: "RECEPTION AND LEGACY"
+    list:
+      - "The first cycle of civic history carved in Milan"
+      - "The image of Ambrose driving out the heretics, ancestor of the scourge-bearing patron of the Visconti"
+      - "Related pages on the site: Saint Ambrose, Anselmo da Campione"
 
 scholars:
-  - title: Maria Teresa Binaghi Olivari
-    url: "/scholars.html#binaghi-olivari-maria-teresa"
+  - title: "Hülsen-Esch, Andrea von"
+    url: "/scholars.html#hulsen-esch-andrea-von"
+  - title: "Natoli, Barbara"
+    url: "/scholars.html#natoli-barbara"
 ---
 
-The sculptor who signs himself *Anselmus* "Dedalus alter" is one of the very few twelfth‑century Lombard artists whose name is preserved directly by an inscription on a surviving monument. His authorship is attested on reliefs from the now‑destroyed Porta Romana of Milan, today largely conserved in the Museo d’Arte Antica of the Castello Sforzesco, which commemorate the refortification of the city after the devastations inflicted by *Frederick Barbarossa*. Modern scholarship treats Anselmus and his colleague *Girardus*, who likewise signed the ensemble, as distinct from the better‑documented Campionese masters active in Modena and elsewhere, and identifies them as Milan‑based sculptors working in the third quarter of the twelfth century. Beyond the epigraphic self‑identification and the stylistic profile of the Porta Romana reliefs, however, no medieval narrative or documentary source provides biographical information such as date or place of birth, family background, travels, or circumstances of death, and these aspects therefore remain unknown.
+## The Names on the Gate
 
-## Documentary evidence and identity
+*Anselmus* is one of the few Milanese sculptors of the twelfth century known by name. He signed one of the reliefs of the Porta Romana, the southern gate of the walls that Milan raised in 1171, four years after its citizens had returned to the city destroyed by Frederick Barbarossa.
 
-<figure class="figure--right">
-  <img src="/Images/Anselmo/anselmo-06.jpg" alt="The ancient Porta Romana, from L'illustrazione Italiana - No. 30 - May 1876.">
-  <figcaption>The ancient Porta Romana, from L'illustrazione Italiana - No. 30 - May 1876.</figcaption>
-</figure>
+His signature runs along the cornice above the relief of Frate Jacopo leading the troops of the Lombard League: HOC OPUS ANSELMUS FORMAVIT DEDALUS ALTER, "Anselmus, a second Daedalus, formed this work". The comparison with the mythical craftsman of antiquity was a common way of praising an artist's skill in medieval inscriptions.
 
-The principal primary sources for Anselmus are the Latin inscriptions carved on the reliefs of *Porta Romana*, fragments of which are preserved and transcribed in epigraphic collections and modern catalogues. One inscription, running along the architectural member above one of the narrative friezes, reads **Hoc opus formavit Anselmus Dedalus alter**, by which the sculptor proclaims that “Anselmus, a second Daedalus, formed this work.” A second inscription on another portion of the reliefs states **Istud sculpsit Girardus pollice docto**, identifying his collaborator Girardus and praising his “skilled thumb,” that is, his learned hand as a carver. These formulae are cited already in early modern antiquarian literature on Milan and were exhaustively collected by Vincenzo Forcella in the nineteenth century, thereby securing the reading of alter against earlier misinterpretations as a toponym.
+A second sculptor signed beside him. On the relief of the Return of the Milanese, the frieze carries the words ISTUD SCULPSIT OPUS GIRARDUS POLLICE DOCTO, "Girardus carved this work with a learned thumb". The two signatures make the Porta Romana one of the rare monuments of the period on which two sculptors can be named.
 
-The standard scholarly literature summarizes the state of research by defining Anselmus and Girardus as sculptors active in Milan in the second half of the twelfth century whose names are transmitted exclusively by the inscriptions on the Porta Romana reliefs. The same entry notes that a *Girardus de Mastegnianega*, documented on the so‑called “lastra dei Consoli” associated with the gate and dated 1171, is generally identified with the Girardus of the signature and has been proposed as designer of the gate and perhaps of the entire communal circuit of walls, although this remains a hypothesis based on name‑identity rather than an explicit medieval statement. A later entry on Anselmo da Campione in the standard reference literature explicitly warns against confusing the Campionese master—active as architect and sculptor in Modena and other Emilian and Lombard sites—with the “rough” sculptor of Porta Romana, whose signature reads Anselmus Dedalus alter and whose style and sphere of activity are different. No surviving document external to the monument itself mentions Anselmus by name, so his identity is reconstructed solely from these epigraphic and stylistic data.
+A third name appears on the slab of the consuls that recorded the building of the walls: GIRARDUS DE MASTEGNIANEGA FECIT HOC OPUS, carved on its left flank. Whether this Girardus is the sculptor of the Return, as has often been assumed, cannot be proved from the inscriptions alone.
 
-From a methodological standpoint, the dossier is unusually narrow even by Romanesque standards: it rests on a handful of inscribed marble fragments that have undergone displacement, reuse, and modern museum recontextualization. This means that every historical claim about Anselmus depends on a chain of transmission that includes medieval carving, post‑medieval survival, antiquarian transcription, nineteenth‑century philology, and contemporary stylistic analysis. The stability of the reading *Dedalus alter* is therefore not a trivial detail but the foundation of the entire attributional construct, because the inscription is the one secure point where authorial self‑presentation and object coincide.
+For a long time the signatures were the only evidence. Barbara Natoli, in a study published in *Arte Lombarda* in 2020, has added a document: a will of 1166 in which Anselmus and Girardus appear together as witnesses. The document places the two men in Milan before the Porta Romana, and, according to Natoli, connects Anselmus with the building site of Sant'Ambrogio.
 
-The formula itself is also significant for the history of artistic language in communal Italy. By calling himself a “second Daedalus,” Anselmus adopts a classicizing topos that appears in medieval epigraphy to dignify technical skill and inventive intelligence, while still operating within a collective building enterprise directed by civic patrons. In this respect, the signature should not be read as evidence of modern artistic individualism; rather, it indicates a moment in which the named master negotiates prestige inside a workshop system, asserting authorship without claiming exclusive authorship of the entire gate programme.
+The previous version of this entry stated that no document outside the monument mentions Anselmus. It also gave him the signature of the Return of the Milanese, which belongs to Girardus, and claimed that the names of both sculptors appear among the consuls on the commemorative slab, which they do not.
 
-Recent scholarship has accordingly treated “Anselmus” less as a fully recoverable biography than as an epigraphic persona anchored to a specific monumental context. The key historiographic task has been to keep three levels analytically distinct: what the inscriptions state directly, what can be inferred from carving style and letterforms, and what remains hypothetical in the absence of external records. This layered approach has reduced older confusions with Campionese lineages and has clarified why Anselmus can be securely historicized as a Milanese sculptor of the Porta Romana campaign, yet cannot be expanded into a conventional life narrative.
+Anselmus of the Porta Romana must be kept distinct from Anselmo da Campione, the master of the Campionese family who worked at Modena cathedral in the later twelfth century. The two share only a name; their works, places and styles are different.
 
-## Family and personal background
+Beyond his signature, his reliefs and Natoli's will, nothing is known of Anselmus: neither his birth nor his family, his training or his death. An old reading of the signature as "Anselmus de Ale", which made him a native of Alzate, has been abandoned; the cornice reads *Dedalus alter*.
 
-There is no extant medieval source that records Anselmus’s parentage, place of origin, or social status, and modern authors therefore refrain from assigning him a biography in the conventional sense. Earlier antiquarian writers at times inferred a provenance from Alzate on the basis of a misreading ale instead of alter in the inscription, but this reading has been definitively rejected by later epigraphists and by Novati, who restored the correct form alter and thereby removed any secure link between the sculptor and a specific locality. The prosopographic dossier assembled for Girardus de Mastegnianega, which connects him to the design and execution of the gate and the communal walls, has no parallel for Anselmus, whose name appears only in the proud but isolated comparison with Daedalus. In the absence of notarial acts, guild records, or necrologies mentioning him, it is impossible to establish whether Anselmus belonged to a family of masons, to the milieu of Comacine or Campionese workshops, or to another social grouping altogether, and current scholarship acknowledges this lacuna explicitly. Consequently, any attempt to reconstruct his family circumstances, apprenticeship, or domestic life would go beyond the evidence provided by twelfth‑century documents and must be regarded as speculative, and is therefore not pursued in serious academic literature.
-
-The absence of biographical records for Anselmus should also be read against the broader documentary profile of twelfth-century urban workshops in Lombardy. Even when large civic and ecclesiastical projects are relatively well documented at the level of patrons, consuls, or institutional expenditures, individual sculptors are often visible only intermittently, typically through signatures, occasional contractual mentions, or retrospective antiquarian reports. In this context, the survival of Anselmus’s name is exceptional, but the survival of information about his household, kinship ties, and legal status is not: such data are frequently missing even for makers who played significant roles in major communal commissions.
-
-A further problem is that the modern biographical category of the “artist” does not map neatly onto the social categories used in twelfth-century records. If Anselmus appeared in lost or unrecognized documents, he might have been identified under functional labels equivalent to stone-cutter, sculptor, or master builder, without the rhetorical self-designation preserved in the Porta Romana epigraph. This disconnect between epigraphic self-fashioning and archival terminology complicates prosopographic identification and helps explain why no secure documentary cross-reference has been established for him despite sustained scholarly attention.
-
-Scholars have therefore preferred to reconstruct not a family history but a professional horizon: a technically skilled figure operating within a collective chantier under communal patronage, in close proximity to other named and unnamed carvers. Such a reconstruction is cautious by design. It accepts that Anselmus likely participated in workshop structures involving training, delegation, and shared execution, yet it avoids assigning him specific genealogical links to Campionese, Comacine, or other mobile lineages unless supported by explicit primary evidence.
-
-This evidentiary discipline is especially important because the temptation to fill silences with plausible narrative remains strong in medieval artist studies. In the case of Anselmus, however, the most defensible conclusion remains negative: his personal background cannot presently be recovered beyond what is implied by his literacy in epigraphic self-presentation and his participation in a highly visible civic monument. Future discoveries in local archives or unpublished epigraphic material may refine this picture, but for now the section must remain anchored to what can be demonstrated rather than inferred.
-
-## Patrons and civic context
-
-While the sculptors remain elusive as individuals, the patrons and historical circumstances of Porta Romana are more clearly documented in narrative and archival sources relating to the communal rebuilding of Milan after Barbarossa’s destruction. The standard scholarly literature situates the construction of Porta Romana beginning in 1171, in the context of the refortification works that followed the return of the Milanese to their city in 1167 and the consolidation of the Lombard League. The surviving reliefs depict, among other scenes, the return of the exiled citizens to Milan and the procession of the troops of the Lombard League, led by a frater Iacobus bearing a processional cross and banner towards a schematic representation of the city, flanked by the names of allied communes such as Cremona, Brescia, and Bergamo. These iconographic choices make clear that the programme was conceived as a visual proclamation of communal identity and of the alliance that enabled Milan’s rebirth, and that the gate functioned simultaneously as a fortification and as a monumental narrative of civic history.
-
-The scheda of the Lombardy cultural heritage database for the relief *Sant’Ambrogio scaccia gli Ariani da Milano* attributes the work to Anselmus, dates it to 1171, and lists the consuls of Milan as patrons, confirming the close link between the sculptures and the communal magistracies responsible for the reconstruction. In the relief, [Saint Ambrose](/Content/Saints/Saint-Ambrose.html), vested in episcopal insignia and accompanied by a cleric with a processional cross, drives away a line of eighteen figures—men, women, and children—identified by inscriptions as Arians<a href="/endnotes.html#fn-arianism" class="footnote"><sup>1</sup></a> and, in another epigraph, linked to a traditional episode in which Ambrose allegedly deprived the Jews of their synagogues. This combination of civic and ecclesiastical themes suggests that the sculptural decoration articulated a political theology in which Milan’s recent liberation from imperial oppression was viewed through the lens of Ambrose’s legendary defence of orthodoxy and of the city against religious “others.” The explicit naming of the consuls as commissioners in at least one of the fragments underscores that the initiative and funding for the programme came from the communal government, even if individual clerics such as frater Iacobus also figure prominently within the iconography.
-
-## Sculptural works and style
-
-The surviving sculptural corpus securely associated with Anselmus consists of portions of the narrative friezes and architectural members from Porta Romana that bear his signature or that can be linked to him on stylistic grounds within the same ensemble. According to the standard scholarly literature, the reliefs originally occupied the impost cornices of the twin arches of the gate, flanking a central pier, and were partially concealed when one of the arches was walled up in the fourteenth century, before the entire gate was demolished in 1793. Subsequent relocation to a nearby façade and, in 1895, to the civic museums at Castello Sforzesco, has fragmented the original narrative sequence, but enough elements remain to reconstruct a coherent iconographic programme. The reliefs on the central pier, attributed respectively to Girardus and Anselmus, depict on one side the return of the Milanese citizens to their city, and on the other the procession of the Lombard League troops led by frater Iacobus towards a schematic cityscape labelled with the names of Milan and its allies.
-
-On the right‑hand impost, a separate relief assigned to Anselmus or to his workshop shows Saint Ambrose expelling the Arians from Milan, a scene that develops from the flank towards the front of the pier and is accompanied by explanatory inscriptions. The Lombardy heritage scheda describes Ambrose, in mitre and episcopal vestments, striking one of the departing heretics with a scourge or staff while the group of expelled figures—eighteen in number—includes men, women, and children, suggesting the collective, civic dimension of their banishment. The iconography, as recent studies have stressed, is unusual for the period and may have contributed to the later development of the widespread image of Ambrose as a militant bishop armed with a scourge, though the relief itself predates the codification of that iconographic type in the fourteenth century. Within the ensemble, Anselmus’s hand is characterized, in the standard scholarly formulation, by an accentuation of volumetric modelling and by an archaizing compositional conception in which figures are rigidly aligned, in contrast to the more fluid narrative and finer plastic articulation attributed to Girardus.’s formulation, by an accentuation of volumetric modelling and by an archaizing compositional conception in which figures are rigidly aligned, in contrast to the more fluid narrative and finer plastic articulation attributed to Girardus.
-
-Modern scholarship has often judged the Porta Romana sculptures, together with related works such as the processional relief of the Virgin “Idea” from Santa Maria Beltrade and the architrave of San Celso, as evidence of a decline in the figurative language of Milanese sculpture in the later twelfth century. Nevertheless, careful comparison of the inscriptions and carving has led authors such as [Maria Teresa Binaghi Olivari](/scholars.html#binaghi-olivari-maria-teresa) to distinguish multiple hands within the ensemble and to recognize qualitative differences between Anselmus and Girardus, as well as possible collaborators. In particular, the stylistic “gap” noted between the two signed masters, together with variations in letter forms between different tituli, has been used to argue for a complex workshop organization on the site, reflecting typical medieval practices of collaboration and division of tasks rather than a simple hierarchy of master and subordinate. These observations reinforce the impression that Anselmus, while perhaps less refined than Girardus, occupied a significant role in the conception and execution of the sculptural programme as a whole.
-
-From a technical perspective, the surviving fragments suggest a working method based on progressive stages of execution rather than homogeneous finish. Some passages show broad, forceful blocking-out that privileges legibility of contour over surface subtlety, while others preserve finer treatment in facial planes, hair, and drapery edges. This unevenness does not necessarily imply chronological disparity between pieces; it may instead reflect differentiated workshop roles, selective refinement in high-visibility areas, and the practical constraints of producing a large civic program under tight commemorative demands.
-
-The relationship between text and image is equally central to the style of the ensemble. In Porta Romana, inscriptions are not ancillary labels but active compositional elements that guide interpretation and anchor historical meaning. The signed formulae and narrative tituli structure the viewer's reading of the reliefs, creating an interplay between verbal declaration and sculptural action. Within this framework, Anselmus's visual language appears less concerned with illusionistic depth than with declarative clarity, suitable for a monument designed to communicate political memory in a public urban threshold.
-
-A further stylistic marker is the treatment of figural rhythm across the friezes: repeated stances, compressed spacing, and directional alignment generate a processional cadence that reinforces collective action rather than individual portraiture. Such serial organization is consistent with civic-historical narration in stone, where emphasis falls on the corporate body of the commune, allied troops, and ritual actors. The resulting effect can appear rigid when measured against later Gothic dynamism, yet within its own context it functions as a deliberate grammar of order, discipline, and communal cohesion.
-
-Comparison with other Lombard reliefs of the later twelfth century also indicates that judgments of “decline” may partly depend on historiographic preference for classicizing plasticity. If evaluated instead in terms of communicative efficiency, epigraphic integration, and adaptation to architectural setting, the Porta Romana sculptures reveal significant inventiveness. Anselmus's contribution may therefore be better described as strategically selective: conserving archaizing formal schemes where they served monumentality and intelligibility, while participating in a broader experimentation with civic narrative on monumental stone surfaces.
-
-For this reason, current analysis of style in the Anselmus corpus increasingly combines connoisseurial observation with contextual reading of function, placement, and reception. The question is no longer only whether a passage is "by Anselmus" in an exclusive sense, but how specific carving traits, inscriptional choices, and narrative construction operated together within a collaborative chantier. This shift in method does not dissolve attributional inquiry; rather, it reframes it within the social and political conditions that made the Porta Romana cycle both a work of sculpture and an instrument of communal self-representation.
-
-## Artistic influences and milieu
-
-Because no written twelfth‑century source explicitly states Anselmus’s training or influences, any discussion of his artistic milieu must rely on stylistic comparison with contemporaneous Lombard and Emilian sculpture and is presented in modern literature as scholarly interpretation rather than documentary fact. The scholarly literature suggests affinities between Anselmus’s work and the reliefs of the pulpito of Sant’Ambrogio in Milan, while proposing connections between Girardus and the capitals of San Michele in Pavia, thereby situating the Porta Romana team within a broader network of sculptural production in the region. More generally, the reliefs are commonly placed within the context of the so‑called Lombard Romanesque, whose architectural and sculptural forms developed between the late eleventh and twelfth centuries in Lombardy, Emilia, and adjacent areas, and which is exemplified by major monuments such as the rebuilt basilica of Sant’Ambrogio and the cathedrals of Modena and Parma.
-
-At the same time, scholars emphasize that Anselmus’s style, with its rigidly aligned figures and somewhat archaic compositional schemes, contrasts with the more classicizing and narrative richness of masters like Wiligelmo at Modena or the Campionese sculptors active on other Lombard sites, reinforcing the distinction drawn in the scholarly literature between Anselmus “Dedalus alter” and Anselmo da Campione. In this sense, the invocation of Daedalus in the signature is less a precise indication of stylistic lineage than a rhetorical flourish aligning the sculptor with an ancient paradigm of inventive craftsmanship, a topos that appears elsewhere in medieval and early modern self‑presentations of artists. The comparison is therefore significant primarily as evidence of a growing sense of artistic self‑consciousness among twelfth‑century sculptors operating within communal building sites, rather than as a literal clue to Anselmus’s training or geographic origins. Within the limits imposed by the sources, it is thus possible to situate Anselmus in a milieu shaped by communal patronage, Lombard Romanesque architectural experimentation, and emerging forms of artistic self‑representation, without attributing to him specific journeys or workshop affiliations that the documentation does not support.
-
-Another useful point of comparison is the relationship between architectural function and figural design in northern Italian gate sculpture of the period. The Porta Romana reliefs were conceived for liminal urban space, where legibility from movement and distance mattered as much as refined modelling. Some of the formal traits often described as “archaic” in Anselmus - compact silhouettes, emphatic contouring, and serial alignment of figures - may therefore reflect not only stylistic conservatism but also the communicative requirements of a civic monument read in procession and at oblique angles.
-
-The workshop context further complicates strict stylistic attribution. Variations in carving depth, treatment of drapery folds, and epigraphic execution across the surviving fragments suggest a collaborative production in which design, roughing-out, finishing, and inscription could be distributed among different hands. In such a system, influence is not a one-directional line from a single master but a shared technical repertoire circulating within the chantier. This helps explain why scholars can identify recurring formal habits associated with Anselmus while still acknowledging zones of overlap with Girardus and other collaborators.
-
-It is also important to place Anselmus within the wider visual culture of post-1167 Milan, where communal memory, Ambrosian identity, and anti-imperial rhetoric intersected. The iconographic program of Porta Romana implies that sculptors working on the site had access to clerical, civic, and liturgical narratives that shaped subject choice and compositional priorities. In this sense, “influence” includes not only formal models from other monuments but also textual and ceremonial frameworks that structured how history could be translated into stone relief.
-
-For these reasons, current scholarship tends to frame Anselmus’s milieu in relational rather than genealogical terms: proximity to Lombard Romanesque practices, selective dialogue with Emilian and Pavian solutions, and adaptation to the political semiotics of a communal gateway. Such a model avoids overconfident claims about direct apprenticeship or travel while still accounting for the stylistic and iconographic complexity of the surviving corpus. The result is a historically grounded but deliberately provisional reconstruction, consistent with the fragmentary state of the evidence.
-
-## Travels and geographic activity
-
-No charter, contract, or narrative source from the twelfth or thirteenth centuries records Anselmus’s presence outside Milan, and the current consensus of scholarship is that his securely attributable activity is confined to the Porta Romana reliefs and possibly to closely related Milanese works. The scholarly literature underscores that the reliefs of Porta Romana were conceived explicitly to celebrate the refortification of the city and the role of the Lombard League, a context that suggests a primarily local function and audience for the sculptures. Given this strong civic orientation, it is plausible that Anselmus’s main, or perhaps only, documented professional engagement was within the communal building site of Milan in the years following the return of the exiles, but this remains an inference from the absence of contrary evidence rather than a positive statement in any medieval text. For this reason, modern authors avoid ascribing to him activity in other centres, and the attempts to link him to Campionese or Comacine itinerant traditions are framed as hypotheses about workshop organization in northern Italy rather than as established facts about his personal itineraries.
-
-The older misreading of the inscription as Hoc opus formavit Anselmus de Ale led some antiquarians to assign the sculptor a provenance from Alzate, thereby implicitly constructing a trajectory from that locality to Milan, but the correction of the reading to alter has removed this slender basis for reconstructing his geographic origins. In the absence of further inscriptions or archival traces, it is not possible to know whether Anselmus ever worked on other gates, churches, or civic monuments either within or beyond Milan, and responsible scholarship therefore limits itself to the works that can be directly connected to his name or hand. Accordingly, there is no documentary evidence for travels comparable to those documented for some later medieval and Renaissance artists, and any narrative of journeys or foreign commissions for Anselmus would necessarily exceed what the twelfth‑century sources allow.
-
-## Corpus of works and present locations
-
-### Frieze: The return of the Milanese to the city
+## The Porta Romana
 
 <figure>
-  <img src="/Images/Anselmo/anselmo-01.jpg" alt="The return of the Milanese to the city following the destruction of Milan in 1162 by Frederick Barbarossa">
-  <figcaption>Frieze from the demolished Porta Romana of the inner city walls. It depicts the return of the Milanese to the city following the destruction of Milan in 1162 by Frederick Barbarossa, 1171, marble, 72 x 202 x 96 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
+  <img src="/Images/Anselmo/anselmo-07.jpg" data-zoom-src="/Images/Anselmo/anselmo-07-zoom.jpg" alt="Engraving of a narrow street leading to a tall gate tower with a pitched roof. A Gothic tabernacle with statues is set high in the wall of the tower, above a barred window; below, a wide round arch of large stones opens onto a second arch and a view of buildings beyond.">
+  <figcaption>The medieval Porta Romana of Milan before its demolition, engraving. Unknown author, public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
-The frieze depicting the return of the Milanese to the city following its destruction in 1162 by Frederick Barbarossa is a bas-relief carved around 1171 for the Porta Romana gate in Milan’s city walls; it is now housed in the Museum of Ancient Art at the Sforza Castle. This work, signed by Anselmo as *Hoc opus formavit Anselmus Dedalus alter*, bears witness to the city’s rebirth following imperial humiliation, celebrating the victory of the Lombard League and Milan’s civic identity.
+In 1162 Frederick Barbarossa took Milan after a long siege and ordered its destruction. The inhabitants were dispersed among villages outside the city. In 1167, with the support of the cities of the newly formed Lombard League, they returned and began to rebuild.
 
-The sculpture is part of the atmosphere of reconstruction following the siege and devastation of Milan in 1162 by Frederick Barbarossa, culminating in the Peace of Constance in 1183, which recognized municipal autonomy. The Porta Romana, erected in 1171 on the inner circle of the walls (demolished in 1793), served as a fortified entrance on the Naviglio, a symbol of resilience: the reliefs commemorate not only the citizens’ return in 1167, but also events such as Saint Ambrose driving out the Arians and Friar Iacopo leading the allied troops. This frieze, part of a larger cycle, reflects a municipal “politics of memory,” where art served to forge a collective identity against the empire, assimilating trauma into spiritual and political victory.
+The new walls were begun in March 1171. Their gates were the monumental entrances of the city, and the Porta Romana, on the road to Lodi and Rome, received a programme of sculpture that told the story of the destruction and the return.
 
-The bas-relief, originally placed on the impost frame of the gate’s right arch, depicts a triumphal procession: figures in medieval garb, on horseback and on foot, bearing lances and banners, march toward Milan, symbolizing the return of the refugees after exile. Anselmo divides the space into narrative registers: on the left, a knight leads the group; in the center, animals (lions or horses, symbols of strength) and figures in celebratory poses emerge; while on the right, the city is schematically evoked with towers. The iconography emphasizes the collective—women, children, warriors—to represent the community’s rebirth, with details such as draped garments and expressive gestures evoking collective joy in the aftermath of disaster.
+The reliefs decorated the imposts of the arches, the blocks at the springing of the vaults, so that they ran along the top of the piers at the height of the passer-by's gaze. Natoli counts four scenes in high relief on the gate; three survive, together with the commemorative slab.
 
-The style reflects late-Romanesque Lombard sculpture from Milan, featuring stocky, volumetric figures, rigid drapery, and frontal compositions that emphasize narrative symbolism over naturalism. Anselmo favors a compositional archaism, with figures rigidly juxtaposed and an emphasis on plastic relief, while Girardo introduces greater fluidity and finesse, perhaps influenced by Niccolò-style models from Pavia or Milan. This qualitative “decline” compared to High Romanesque art, due to commemorative urgency, nonetheless employs military iconography (weapons, processions) to promote the Lombard League, with roots in the pulpit of Sant’Ambrogio.
+The engraving reproduced here shows the gate in its later form, with a fourteenth-century tabernacle of statues set into the tower. The medieval structure survived until 1793, when the gate was demolished.
 
-This work is a “place of memory” for Milan: it celebrates the defeat of Barbarossa (perhaps symbolized elsewhere in a derisive form), reinforcing civic pride during a period of municipal expansion. Its preservation at the Castello Sforzesco, following transfers in 1793 and 1895, makes it a paradigmatic example of how medieval art served politics, even influencing later narratives such as the portals of the Duomo.
+The reliefs were then built into the house of the Calvi family at no. 54 Corso di Porta Romana. They later passed into the collection of Paolo Rusconi, from whom the Comune di Milano bought them in 1895. Today they are in the Museo d'Arte Antica of the Castello Sforzesco, inventory numbers 767 to 772.
 
-### Frieze: Saint Ambrose driving the Jews out of Milan
+The slab of the consuls followed a different route: it was deposited with the city in 1867 from the same Calvi house. A note in the *Bollettino della Consulta* of 1895, recorded in the regional catalogue, raises the possibility of a modern replica.
+
+The regional catalogue identifies the stone of the reliefs as a sedimentary rock of the Sirone formation, the "Flysch di Bergamo". All the pieces were cleaned and maintained in 2017 and 2018.
+
+The gate is the first monument in Milan to carry a narrative of the city's recent history in sculpture. It was conceived as a fortification and as a memorial, and its reliefs were meant to be read by every citizen who passed under its arches.
+
+## The Slab of the Consuls
 
 <figure>
-  <img src="/Images/Anselmo/anselmo-02.jpg" alt="Saint Ambrose driving the Jews (who symbolize the defeated German oppressors) out of Milan">
-  <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. It depicts Saint Ambrose driving the Jews (who symbolize the defeated German oppressors) out of Milan, 1171, marble, 72 x 201 x 131 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
+  <img src="/Images/Anselmo/anselmo-08.jpg" data-zoom-src="/Images/Anselmo/anselmo-08-zoom.jpg" alt="A rectangular stone slab mounted on a grey wall, covered with twenty-three lines of incised Latin text in Romanesque capitals, beginning with a cross and the words ANNO DNICE INCAR.">
+  <figcaption>Girardus de Mastegnianega, slab of the consuls from the Porta Romana, 1171, stone, 101 × 60 × 8.5 cm. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 772. Photo: Giovanni Dall'Orto, <a href="https://commons.wikimedia.org/wiki/Template:Attribution">attribution licence</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The scene depicts *Saint Ambrose*, bishop of Milan in the 4th century, driving the Arians out of the city. The iconographic program draws on a real episode from the saint’s life, his struggle against the Arian heresy supported by Empress Justina, to allude to the challenge posed by Milan against Frederick Barbarossa and his allies, who are the true “Arians” of the 12th century. It is a typically medieval use of the figure and the allegory: the biblical-patristic past becomes a mirror of the political present.
+The slab of the consuls is the documentary key to the Porta Romana. Its text records two dates: the return of the Milanese to their city and the beginning of the walls.
 
-Saint Ambrose is depicted on the left side of the frieze, in full pontifical regalia: miter on his head, cope, and crosier in hand. The saint is preceded by a cleric carrying a processional cross, and strikes with a whip the last of a procession of eighteen figures, men, women, and children, who are fleeing to the right in a compact line. It is a strictly horizontal and narrative composition, read from left (the triumphant saint) to right (the fleeing enemies), with a processional structure that is mirrored but inverted compared to the relief depicting the return of the Milanese.
+The first sentence reads: in the year of the Lord's incarnation 1167, on Thursday, the fifth day before the kalends of May, the Milanese entered the city. The fifth day before the kalends of May is 27 April, which in 1167 fell on a Thursday. The previous version of this entry translated the date as 5 May.
 
-This frieze has exceptional iconographic significance: it is the first known depiction of Saint Ambrose with the staff, an attribute that in the 14th century would become the canonical identifying feature of the patron saint of Milan. The sculptor was likely inspired by the Discourse Against Aussentius, in which Ambrose evokes Christ’s expulsion of the merchants from the temple, thereby drawing a theological parallel between Jesus and the bishop. This iconographic innovation is thus one of the most significant in Lombard Romanesque sculpture, with a lasting impact on the Ambrosian figurative tradition.
+The second sentence states that in March 1171 "this work of towers and gates" was begun. It then names the consuls of the republic who were in office and had the work made: Passaguadus de Setara, Ardericus de la Turre, Pinamonte de Vimercato, Obertus de Orto, Malconventus Cotta, Arnaldus de Mariola, Adobadus Butraffus, Malagallia de Alliate, Malfilliocius de Ermenulfis and Rogerius Marcellinus.
 
-The frieze bears two inscriptions. The first, in the upper band, is an inscription that states the subject of the scene: + AMBROSIUS CELEBS IUDEIS ABSTULIT EDES, that is, “Ambrose the celibate took the houses (the synagogues) from the Jews”, referring to a specific episode in the saint’s life, namely Ambrose’s order to destroy the synagogues in Callinicum in 388 AD, an episode that earned him criticism even from Emperor Theodosius.
+The text ends with the words IPSIMET OPUS DE LA CLUSA FIERI FECERUNT: the same consuls also had the work of the *clusa*, the sluice or barrier on the waterways, carried out.
 
-The second, on the strip above the frieze, reads: + S(AN)C(TU)S AMBROSIUS E ARRIANI, which, in its expanded form: “Sanctus Ambrosius e(icit) Arriani”, that is, “Saint Ambrose drives out the Arians”, directly identifies the narrative subject of the scene and serves as the title or caption of the bas-relief.
+The signature on the left flank, GIRARDUS DE MASTEGNIANEGA FECIT HOC OPUS, names the maker of the slab, or of the work it records. The right flank carries two more names, Guilielmus Burrus and Prevede Marcellinus, whose role is not stated.
 
-These two epigraphs are not mere titles: they construct a superimposed double anti-imperial allegory. The “Arians” of the 4th century allude to the followers of the heresy espoused by Empress Justina, but in the context of 1171 they clearly evoke the Germans of Frederick Barbarossa, branded as heretics or schismatics—enemies of both the faith and Milan’s autonomy. The mention of Jews and synagogues adds a further layer of propaganda: Ambrose appears here as an unyielding defender of the civitas christiana, whose heavenly patronage legitimizes the military actions of the Lombard League. For the history of Lombard Romanesque sculpture, the coexistence of these two inscriptions on a single architectural monument is an exceptional example of the political use of medieval epigraphy.
+The slab confirms that the gate was a communal work, commissioned by the consuls as magistrates of the city. It names no bishop and no emperor, only the ten consuls of 1171.
 
-The style is characterized by the same stocky figures and compressed relief already observed in the procession frieze, but with an even harsher and more schematic execution, which has led some scholars to attribute it not directly to Anselmo but to one of his workshop collaborators. The figures are tightly packed together, with little space between them, creating an effect of a moving mass that emphasizes the collective expulsion rather than the individuality of the figures. Recent studies, such as those by Saverio Lomartire, propose a date in the mid-12th century based on the depiction of Ambrose in pontifical vestments with a miter, a feature not documented in Milan before that period.
+The previous version of this entry gave a "transcription" of the slab that does not correspond to the stone, and stated that Anselmus and Girardus appear among the consuls. The text above is read from the photograph and checked against the regional catalogue.
 
-### Frieze: Friar Jacopo leads the allied troops toward Milan
+The dates of the slab also date the reliefs. The return of 1167 is the subject of Girardus's relief, and the walls of 1171 are the setting for which both sculptors worked.
+
+## Girardus: The Return of the Milanese
+
+<figure data-no-download>
+  <img src="/Images/Anselmo/anselmo-09.jpg" alt="Black-and-white photograph of a carved stone frieze with an inscription along the top. Under three arches decorated with large scrolls, small figures move to the right: at the left a cleric holding a long processional cross with a banner streaming behind it, followed by a figure with a cross; in the centre a woman with a bundle, a rider on a horse and a child; at the right a woman with a staff, a child and a man leading an animal.">
+  <figcaption>Girardus, the Return of the Milanese, relief from the Porta Romana, signed, 1171, stone, 48 × 181 × 85 cm. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 769. Photo: © Comune di Milano – Civiche Raccolte Artistiche, Castello Sforzesco, Milano, via Google Arts &amp; Culture.</figcaption>
+</figure>
+
+The Return of the Milanese is signed by Girardus, not by Anselmus, and it is the necessary comparison for understanding Anselmus's work. It shows the citizens coming back to Milan on 27 April 1167.
+
+The inscription along the top of the frieze begins REDDENTES GRATES CHRISTO SUBEAMUS IN URBEM, "giving thanks to Christ, let us enter the city", and includes the signature of Girardus in the middle of the verses.
+
+The procession is led by a cleric with a long processional cross and a banner, followed by a second figure with a cross. Behind them come men, women and children, on foot and on horseback, carrying bundles and leading animals. The regional catalogue counts nine figures after the two clerics, some accompanied by dogs.
+
+Girardus sets the scene under three arcades crowned by large scrolls. The figures are grouped within them in twos and threes, overlapping and turning towards one another, with a sense of movement and depth.
+
+Natoli identifies many of the figures and suggests that the scene is set near the columns of San Lorenzo and the Porta Ticinese, where the returning citizens would have entered the city.
+
+The relief was long given to Anselmus. The previous version of this entry described it as signed "Hoc opus formavit Anselmus Dedalus alter" and attributed to it the measurements of the relief of Saint Ambrose.
+
+The comparison with Anselmus is instructive. Where Girardus groups his figures in an architectural frame and varies their poses, Anselmus aligns his in a continuous row, side by side, in a single plane.
+
+The two reliefs were made for the same gate, in the same years, by two sculptors who had known each other since at least 1166. Their differences are differences of temperament and training within a single workshop.
+
+## Anselmus: Frate Jacopo and the Troops of the League
+
+<figure data-no-download>
+  <img src="/Images/Anselmo/anselmo-10.jpg" alt="Black-and-white photograph of a carved stone frieze under a moulded cornice inscribed HOC OPUS ANSELMUS FORMAVIT DEDALUS ALTER. At the left a figure walks out of an arch carrying a sword; a line of six soldiers with conical helmets, swords and shields follows, then two bearded knights in mail; at the right a man holds a banner on a pole topped by a cross, before a crenellated gate with two arches. Short inscriptions run above the figures.">
+  <figcaption>Anselmus, Frate Jacopo leads the troops of the Lombard League to Milan, relief from the Porta Romana, signed, 1171, stone, 72 × 201 × 131 cm. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 767. Photo: © Comune di Milano – Civiche Raccolte Artistiche, Castello Sforzesco, Milano, via Google Arts &amp; Culture.</figcaption>
+</figure>
+
+The relief signed by Anselmus shows the troops of the Lombard League marching towards Milan. It is the companion of the Return of the Milanese: the citizens come home, and the allied soldiers who made the return possible accompany them.
+
+The signature runs along the moulded cornice above the frieze: HOC OPUS ANSELMUS FORMAVIT DEDALUS ALTER. It is carved in large letters, clearly visible, at the head of the relief.
+
+The procession moves from left to right. A figure steps out of an arch at the left, followed by six foot soldiers in conical helmets with long swords and shields, then by two bearded knights in mail. At the right a man holds a banner on a pole topped by a cross, before a crenellated gate with two arches that stands for the city.
+
+The man with the banner is Frate Jacopo, the friar who, according to the tradition recorded in the inscriptions, led the allied troops. The regional catalogue describes the banner as red with a silver forked cross.
+
+Short inscriptions run above the figures along the frieze, naming the participants. They are worn and partly illegible. The previous version of this entry printed a "partial reading" of these words that makes no sense and has been removed.
+
+The figures are compact and frontal, with large heads, round eyes and short legs. Their swords and shields are set diagonally across their bodies in a repeated rhythm, so that the row of soldiers forms a regular pattern across the surface.
+
+The armour is carefully rendered: the helmets with nasals, the mail of the two knights, the long kite shields. The relief is a document of the equipment of a twelfth-century Italian army, and was studied as such by Isabella Siede in the catalogue *Die Staufer und Italien* (2010).
+
+The composition is simple: a single file of figures, a gate at the end, inscriptions above. Its clarity suited a relief meant to be read by passers-by under the arch of a city gate.
+
+## Anselmus: Saint Ambrose Drives Out the Arians
+
+<figure data-no-download>
+  <img src="/Images/Anselmo/anselmo-11.jpg" alt="Black-and-white photograph of a carved stone frieze under a moulded cornice inscribed AMBROSIUS CELEBS IUDEIS ABSTULIT EDES. At the left a bishop in a low mitre reaches out towards a figure holding a staff topped by a cross; to the right a long row of men, women and children in pleated tunics, some with bundles and baskets, stand side by side facing the viewer. Spaced letters run along the upper edge of the frieze.">
+  <figcaption>Anselmus, Saint Ambrose driving out the Arians, relief from the Porta Romana, 1171, stone, 71 × 202 × 96 cm. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 770. Photo: © Comune di Milano – Civiche Raccolte Artistiche, Castello Sforzesco, Milano, via Google Arts &amp; Culture.</figcaption>
+</figure>
+
+The third surviving relief, given to Anselmus in the regional catalogue, shows [Saint Ambrose](/Content/Saints/Saint-Ambrose.html) driving the Arians out of Milan. It decorated an impost of the gate and runs from the side of the block onto its front.
+
+Ambrose stands at the left in pontifical vestments and mitre, preceded by a cross-bearer. According to the regional catalogue, he strikes with a whip the last of a procession of eighteen men, women and children who leave the city.
+
+Two inscriptions identify the scene. On the upper edge of the frieze, in spaced letters, is S(AN)C(TU)S AMBROSIUS E ARRIANI, "Saint Ambrose [drives out] the Arians". On the cornice above, in larger letters, is AMBROSIUS CELEBS IUDEIS ABSTULIT EDES, "Ambrose the celibate took their temples from the Jews".
+
+The two inscriptions refer to two different traditions about the bishop. The first recalls his conflict with the Arian court of Justina and Valentinian II in 385–386; the second, a claim that Ambrose deprived the Jews of their places of worship. The previous version of this entry titled the relief "Saint Ambrose driving the Jews out of Milan" and linked the cornice to the burning of the synagogue at Callinicum in 388, which Ambrose did not order: he prevented its rebuilding.
+
+In the Milan of 1171, the scene had a meaning beyond the fourth century. The patron saint of the city drives its enemies out of the gate, at the moment when the commune was defending its liberty against the emperor. The heretics of Ambrose's time could stand for the enemies of the present.
+
+The figures are lined up in a single row, frontal and closely packed, with pleated tunics falling to the knees. Some carry bundles and baskets, as if leaving with their possessions. The repetition of almost identical figures turns the expulsion into a collective event.
+
+The relief is the earliest surviving image of Ambrose as a militant bishop who drives out the enemies of his city. Two centuries later, after the battle of Parabiago in 1339, the scourge became his standard attribute on Visconti coins and images.
+
+The previous version of this entry described the relief as "the first known depiction of Saint Ambrose with the staff", inspired by the sermon against Auxentius, and attributed to Saverio Lomartire a date in the middle of the twelfth century. None of these claims is supported by the sources consulted.
+
+## Anselmus and Milanese Sculpture
 
 <figure>
-  <img src="/Images/Anselmo/anselmo-03.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
-  <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. Friar Jacopo leads the allied troops toward Milan, 1171, marble, 48 x 181 x 85 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
+  <img src="/Images/Anselmo/anselmo-12.jpg" data-zoom-src="/Images/Anselmo/anselmo-12-zoom.jpg" alt="A long stone relief mounted on a wooden wall. At the left two men carry on a pole a gabled shrine containing an image of the Virgin and Child, with the word IDEA inscribed below; behind them follow a cross-bearer, a cleric with a book, a bishop in mitre with a crosier raising his hand in blessing, and four men in long robes, one bearded.">
+  <figcaption>Procession of the icon of the Virgin "Idea", relief from Santa Maria Beltrade, twelfth century, stone. Milan, Castello Sforzesco, Museo d'Arte Antica. Photo: Carlo Dell'Orto, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
+
+The reliefs of the Porta Romana belong to a group of Milanese sculptures of the later twelfth century. The procession of the icon "Idea" from the church of Santa Maria Beltrade, also in the Castello Sforzesco, shows the same short figures in a row and the same use of inscriptions.
+
+The Idea relief represents the procession of the Purification, in which the clergy of Milan carried an image of the Virgin and Child, called "Idea", through the city. The bishop, the cross-bearer and the clerics walk in file, as the citizens do on the Porta Romana.
 
 <figure>
-  <img src="/Images/Anselmo/anselmo-04.jpg" alt="Friar Jacopo leads the allied troops toward Milan">
-  <figcaption>Frieze from the capital of the demolished Porta Romana, part of the inner city walls. Friar Jacopo leads the allied troops toward Milan, 1171, marble, 48 x 181 x 85 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
+  <img src="/Images/Anselmo/anselmo-13.jpg" data-zoom-src="/Images/Anselmo/anselmo-13-zoom.jpg" alt="A marble pulpit in a dim Romanesque church, raised on a portico of arches carried by columns with carved capitals, its arches decorated with interlace, animals and figures. On the upper chest of smooth slabs an inscription begins GUILIELMUS DE POMO SUPERSTES. Through the columns a carved sarcophagus with standing figures is visible.">
+  <figcaption>Pulpit of Sant'Ambrogio, recomposed by Guglielmo da Pomo, 1196–1201, above the late Roman "sarcophagus of Stilicho". Milan, Sant'Ambrogio. Photo: Andrzej Otrębski, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The frieze unfolds horizontally as a narrative bas-relief clearly inspired by classical art in its continuous frieze composition, yet deeply Romanesque in the stylistic rendering of the figures. The scene depicts Friar Jacopo, a religious figure who served as a spiritual and military leader, at the head of allied troops from Cremona, Bergamo, and Brescia, marching toward Milan. The figures are arranged in a processional line, with the combatants in the foreground depicted in full armor, followed by soldiers equipped with helmets, large shields, lances, and swords, while one section of the composition also features an archaic-style falchion.
+The pulpit of Sant'Ambrogio is the other point of comparison. According to the regional catalogue, it was rebuilt after the collapse of the earlier pulpit in 1196 by Guglielmo da Pomo, whose inscription records the work; it was finished by 1201. The rebuilding reused carved parts of the older pulpit and other marbles of the basilica.
 
-The relief is the work of sculptors whose names appear in the inscriptions on the work itself: among them are Anselmo and Girardo, Lombard sculptors active in the second half of the 12th century. The style reveals a mature Romanesque sculpture: the figures are compact, with solid volumes and schematic drapery, featuring a linear narrative typical of municipal stone cycles in northern Italy. The quality of the marble and the precision of the inscriptions suggest a high-level workshop, likely linked to the craftsmen working on the construction sites of contemporary Lombard cathedrals.
+Natoli proposes, tentatively, to attribute to Anselmus the relief known as the Last Supper or Agape on the pulpit. She reads its subject as the *Prandium in festivitate sancti Satyri*, the meal for the feast of Saint Satyrus, Ambrose's brother, and suggests that it was inserted in a reworking of the pulpit ordered by Archbishop Galdino della Sala in 1174.
 
-The upper band of the frieze bears a Latin inscription that runs the entire length of the relief. The image shows a partial reading:
+Her argument rests on the will of 1166, which places Anselmus among the men working at Sant'Ambrogio, and on stylistic comparison. Natoli also proposes for Anselmus a capital with the Childhood of Christ at Como, and for Girardus some capitals from the monastery of Santa Radegonda in Milan.
 
-<p style="text-align: center;">DE MESR[O] EN[...] OST[...] [...] ANGYP[...] KROS[...] OIRR[...] O PULC[...] COM [...] ENDAL[...] LOS PATRIAS RE[...] CATIAR[...]</p>
+These proposals are recent and have not yet been tested by other scholars. They suggest, however, that Anselmus was not a sculptor of a single commission but a member of the workshops active in Milan in the years of the reconstruction.
 
-whose legibility is compromised by the deterioration of the stone.
+Older literature often spoke of a "decline" of Milanese sculpture in the later twelfth century, measuring the Porta Romana against the classicising sculpture of Wiligelmo at Modena or of the Campionese masters. The comparison misses the purpose of the reliefs, which were made to be read quickly, in public, as civic history.
 
-The frieze of Frate Jacopo is to be read in close relation to the other reliefs on the gate. Together, these elements form a coherent narrative cycle celebrating civic resistance, solidarity among the Lombard communes, and the divine protection granted to Milan through its heavenly bishop.
+Anselmus's style is direct and legible: figures aligned like letters in a line, inscriptions above and below, gestures reduced to the essential. The regional catalogue and the studies of Andrea von Hülsen-Esch (*Romanische Skulptur in Oberitalien*, 1994) and of Graziano Alfredo Vergani (1993) remain the basis for the study of the gate.
 
-### Memorial Stone of the Milanese Consuls
+## The Fortune of the Reliefs
 
-<figure>
-  <img src="/Images/Anselmo/anselmo-05.jpg" alt="Memorial Stone of the Milanese Consuls">
-  <figcaption>Memorial Stone of the Milanese Consuls, post 1172, marble, 60 x 8.5 x 101 cm, Museo d'Arte Antica del Castello Sforzesco, Milan.</figcaption>
-</figure>
+The Porta Romana reliefs are among the earliest examples in Italy of sculpture with a historical and civic subject. They do not represent saints or biblical stories alone, but events the citizens had lived through: the return to the city, the march of the allies, the protection of the patron saint.
 
-On the plaque, the consuls commemorated the return of the Milanese to the city on May 5, 1167, and celebrated its rebirth with the construction of the gate, which began on March 1, 1171.
+Their message was political. The commune, not the bishop or the emperor, commissioned the gate, and the consuls named themselves on its slab. The reliefs celebrated the alliance of the Lombard cities and the rebirth of Milan against the empire.
 
-The full inscription reads, in essence:
+The image of Saint Ambrose driving out the heretics had the longest afterlife. It made the bishop of the fourth century into the protector of the communal city, and prepared the image of the warrior saint of the Visconti, armed with the scourge.
 
-<p style="text-align: center;">Anno Domini MCLXVII, die Iovis, V kal. Maii, Mediolanenses reversi sunt in Mediolanum a destructione quam fecit Fredericus imperator. Et anno Domini MCLXXI, kal. Martii, incepta est haec porta sub consulibus...</p>
+The two signatures, Anselmus's "second Daedalus" and Girardus's "learned thumb", are early witnesses to the pride of Italian sculptors in their craft. They continue the tradition of signed sculpture opened in the Po valley by Wiligelmo at Modena and Nicholaus at Ferrara and Verona earlier in the century.
 
-that is:
+The demolition of 1793 separated the reliefs from their setting. Their survival depended on the Calvi family, who built them into their house, and on the purchase of 1895 that brought them to the civic museums.
 
-<p style="text-align: center;">In the year of our Lord 1167, on Thursday, May 5, the Milanese returned to Milan from the destruction wrought by Emperor Frederick. And in the year of our Lord 1171, on March 1, construction of this gate began under the consuls...</p>,
+The Museo d'Arte Antica of the Castello Sforzesco now displays them on modern supports, at a height that makes the inscriptions legible. The photographs in this entry show them in that setting.
 
-followed by the list of the ten consuls in office who had decreed its construction, among whom the names of the sculptors Anselmo and Girardo also appear.
+The previous version of this entry was long and repetitive, and it attributed the reliefs, inscriptions and measurements wrongly. The present version follows the regional catalogue of Lombardy for the facts of each piece and Natoli's study for the new documentary evidence.
 
-The plaque is exceptional because it also mentions the name of the architect of the walls, *Gerardo di Mastegnianega*, a rarity for the 12th century, when builders almost always remained anonymous. The entire Porta Romana project represents the first explicit celebration of the city’s history in Milanese sculpture, and the frieze depicting the return of the Milanese and the guidance of Friar Jacopo constitutes one of the oldest examples of narrative sculpture with historical-civic content in Italy.
+What remains uncertain is much: the original arrangement of the four scenes on the gate, the subject of the lost one, the exact share of each sculptor, and the identity of Girardus with the Girardus de Mastegnianega of the slab. Natoli's article is the starting point for any further study.
 
-## Conclusion
+## Catalogue Entry
 
-Anselmus "Dedalus alter" remains one of the most compelling cases in twelfth-century Italian sculpture precisely because he is both present and absent in the historical record. He is present through a direct authorial inscription, a rare privilege for the period; yet he is absent from the broader documentary archive that would normally sustain a full biography. The page has therefore shown that his historical profile must be built on a narrow but secure evidentiary core: signed epigraphy, surviving sculptural fragments, and cautious stylistic analysis.
+**Name:** Anselmus; Anselmo.
 
-This dossier also demonstrates how much medieval art history depends on methodological discipline. For Anselmus, every claim passes through layered mediation: fragmentary survival, antiquarian transcription, philological correction, and modern interpretive frameworks. The correction of *alter* against older misreadings is emblematic, because a single epigraphic detail determines whether the sculptor is understood through rhetorical self-fashioning or through a mistaken toponymic identity. In that sense, the study of Anselmus is not only a case study in Romanesque sculpture but also in the epistemology of historical reconstruction.
+**Activity:** Milan, third quarter of the twelfth century. Witness, with Girardus, to a will of 1166 (Natoli 2020). Signed one of the reliefs of the Porta Romana, 1171.
 
-Within these limits, the sculptural evidence supports a coherent picture of professional activity centered on the Porta Romana campaign in post-1167 Milan. The reliefs articulate a civic narrative of destruction, return, alliance, and orthodoxy, translating recent political history into monumental stone imagery. Their visual language privileges collective actors over individual protagonists, processional order over anecdotal detail, and inscriptional clarity over illusionistic depth. This combination of formal choices is fully consistent with the communicative function of an urban gate meant to be read publicly.
+**Signature:** HOC OPUS ANSELMUS FORMAVIT DEDALUS ALTER (cornice of the relief of Frate Jacopo).
 
-The stylistic relationship between Anselmus and Girardus, far from reducing the ensemble to a binary opposition of "rough" versus "refined," points toward a differentiated workshop structure. Variations in carving quality, figural modelling, and letterforms suggest collaborative production with distributed tasks and uneven levels of finish. Rather than weakening attributional inquiry, this observation refines it: authorship must be interpreted as a spectrum of intervention inside a chantier, not as an absolute signature of solitary execution.
+**Works:**
 
-The page has also clarified that influence, in this context, cannot be reduced to direct apprenticeship models. Anselmus's milieu emerges from converging factors: Lombard Romanesque formal habits, possible dialogue with nearby sculptural centers, and the ideological demands of communal patronage. The invocation of Daedalus should thus be read as a cultural claim to technical intelligence and artistic dignity within collective production, not as proof of a specific stylistic lineage. It signals a heightened awareness of craft status at a moment when urban monuments were becoming vehicles of civic memory.
+- Frate Jacopo leads the troops of the Lombard League to Milan, relief from the Porta Romana, signed, 1171; stone, 72 × 201 × 131 cm. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 767.
+- Saint Ambrose driving out the Arians, relief from the Porta Romana, 1171; stone, 71 × 202 × 96 cm; inscriptions S(AN)C(TU)S AMBROSIUS E ARRIANI and AMBROSIUS CELEBS IUDEIS ABSTULIT EDES. Milan, Castello Sforzesco, Museo d'Arte Antica, inv. 770.
 
-Equally important is the distinction between what can be inferred and what cannot. No secure evidence allows reconstruction of Anselmus's family origins, social trajectory, or geographic mobility beyond Milan. The temptation to fill those gaps with plausible narrative is understandable, but the stronger historical position is to preserve the distinction between documented fact, contextual probability, and conjecture. This restraint is not a weakness of the account; it is part of its scholarly integrity.
+**Proposed attributions:** relief of the Agape on the pulpit of Sant'Ambrogio; capital with the Childhood of Christ, Como (Natoli 2020).
 
-In historiographic terms, Anselmus's case encourages a shift from biographical completeness to contextual density. Even without personal archives, the sculptor can be located within a matrix of political theology, communal representation, workshop practice, and epigraphic self-assertion. The result is a historically meaningful portrait that does not depend on modern expectations of individual life-story documentation. What emerges is less a "lost biography" than a well-defined historical function: named sculptor within a major civic monument of Lombard communal culture.
+**Related works:** Girardus, the Return of the Milanese, signed, 1171 (inv. 769); slab of the consuls, signed by Girardus de Mastegnianega, 1171 (inv. 772).
 
-Taken together, the evidence presented here supports a balanced conclusion: Anselmus is securely identifiable as a Milanese sculptor active in the Porta Romana enterprise of the later twelfth century, yet deliberately resistant to overextension beyond that frame. His significance lies not only in the surviving works themselves but in what they reveal about the transformation of sculpture into a civic-historical medium, the collaborative realities of medieval production, and the early articulation of artistic self-consciousness in communal Italy. In this sense, the figure of "Dedalus alter" remains indispensable for understanding both the possibilities and the limits of Romanesque artistic authorship.
+**Provenance of the reliefs:** Porta Romana, Milan, until 1793; Calvi house, Corso di Porta Romana 54; Paolo Rusconi collection; bought by the Comune di Milano in 1895.
+
+**Bibliography:** G. A. Vergani, "Castello Sforzesco. Raccolta d'Arte Antica", in *Milano e la Lombardia in età comunale. Secoli XI–XIII*, 1993, p. 473, nos. 404–405; A. von Hülsen-Esch, *Romanische Skulptur in Oberitalien*, Berlin 1994; I. Siede, "Hoch zu Ross", in *Die Staufer und Italien*, Mannheim 2010; S. Lomartire, in *Die Staufer und Italien*, 2010, pp. 130–131; B. Natoli, "Precisazioni sugli scultori Anselmus e Girardus, la porta Romana di Milano di età comunale e il pulpito di Sant'Ambrogio", *Arte Lombarda*, 2020; Lombardia Beni Culturali, catalogue entries B0310-01797, B0310-00456, B0310-00455, B0310-00457, 3o210-01282.

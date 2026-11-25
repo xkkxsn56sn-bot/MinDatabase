@@ -87,6 +87,34 @@
       "sha256": "db5390b8c4c2c91a902d10d66806594d76d513b797355d8e3413cbe90ed1c771"
     },
     {
+      "path": "Images/Anselmo/anselmo-07-zoom.jpg",
+      "width": 1021,
+      "height": 1611,
+      "bytes": 642268,
+      "sha256": "602ae417c34fa26f22a710973844189cd9a267aba3a2fa774ee9120da7b7af58"
+    },
+    {
+      "path": "Images/Anselmo/anselmo-08-zoom.jpg",
+      "width": 1224,
+      "height": 1632,
+      "bytes": 608075,
+      "sha256": "f3eff019fa524da5a34189fa8829dec9898953037889b18fda1cec9b956c6bcf"
+    },
+    {
+      "path": "Images/Anselmo/anselmo-12-zoom.jpg",
+      "width": 2576,
+      "height": 1142,
+      "bytes": 475855,
+      "sha256": "3d82cc5c9edc417c4676be931fc1306361f8d2fe14d77eb0ce4afa461a7d5eb8"
+    },
+    {
+      "path": "Images/Anselmo/anselmo-13-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 836318,
+      "sha256": "01a20f410bc75f58ae424f58f5322ae65a12526e8b53975ec4113dd98eb04489"
+    },
+    {
       "path": "Images/Bartolomeo-Bulgarini/bartolomeo-bulgarini-01-zoom.jpg",
       "width": 1720,
       "height": 2450,
