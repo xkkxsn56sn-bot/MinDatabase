@@ -257,19 +257,9 @@ Between the elephants and the first scenes, small animals fill the ground. The c
 
 ### Babel, Noah and Alexander
 
-<figure>
-  <img src="/Images/Pantaleone/pantaleone-20.jpg" alt="A crowned figure in a garment covered with round scales sits frontally between two griffins, holding up in each hand a spear with a piece of meat towards their beaks; the label ALEXANDER REX runs across the top; small stars and animals around.">
-  <figcaption>Pantaleone (named), floor mosaic, the ascension of Alexander the Great. Otranto, cathedral, nave. Public domain, via Wikimedia Commons.</figcaption>
-</figure>
-
 Alexander sits crowned and frontal between two griffins, holding up two spears with meat on their points. In the legend the beasts, trying to reach the meat, carry him into the sky until God turns him back. In the floor he stands near the Tower of Babel, and both images speak of the same ambition to reach heaven by human means.
 
 ### The Months
-
-<figure>
-  <img src="/Images/Pantaleone/pantaleone-21.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-21-zoom.jpg" alt="Twelve mosaic roundels in three rows of four, on either side of a central trunk, each framed by a band with inscriptions and showing a figure at work with the name of the month and an animal or sign: January warming at the fire, February cooking, March pruning, April with a ram, May with a bull, June reaping, July with a crab, August, September treading grapes, October ploughing with oxen, November with a pig, December killing a pig, with the archer above.">
-  <figcaption>Pantaleone (named), floor mosaic, the twelve months with the signs of the zodiac. Otranto, cathedral, nave. Photograph from a printed reproduction. Image: Framo, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
-</figure>
 
 The months are set in twelve roundels in three rows, on either side of the trunk. Each has its name, IANVARIVS, FEBRVARIVS and so on, its sign and its labour. The scenes follow the agricultural year of southern Italy: the fire of January, the pruning of March, the harvest of June, the vintage of September, the ploughing of October, the slaughter of the pig in December.
 
