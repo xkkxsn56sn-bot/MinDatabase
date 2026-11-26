@@ -1137,6 +1137,34 @@
       "sha256": "a4949b8e91da602e841c55520258ff9e7dcc6463587b792f74e9be9f20d02800"
     },
     {
+      "path": "Images/Gilio-di-Pietro/gilio-di-pietro-02-zoom.jpg",
+      "width": 1704,
+      "height": 2576,
+      "bytes": 729624,
+      "sha256": "aa2e5a0b472445f57309068717ecbece909d4ffaefde2c6f2b114283ddaa4971"
+    },
+    {
+      "path": "Images/Gilio-di-Pietro/gilio-di-pietro-03-zoom.jpg",
+      "width": 1704,
+      "height": 1121,
+      "bytes": 393788,
+      "sha256": "8a049d7bd00d23f2cd3c7e0e445dad4d8b3d5d6a532c432c7bfd473473010740"
+    },
+    {
+      "path": "Images/Gilio-di-Pietro/gilio-di-pietro-04-zoom.jpg",
+      "width": 1755,
+      "height": 2576,
+      "bytes": 1026229,
+      "sha256": "4b8de1c515696ce508d8ec09d0958859c53496dc4dd1b6a24524a3db6fb48d61"
+    },
+    {
+      "path": "Images/Gilio-di-Pietro/gilio-di-pietro-06-zoom.jpg",
+      "width": 2576,
+      "height": 1948,
+      "bytes": 1310730,
+      "sha256": "b7dc535f8ad48657a770ef428f857111392f9f19d6e6476ee317f9c7071b19ce"
+    },
+    {
       "path": "Images/Giotto/giotto-02-zoom.jpg",
       "width": 2141,
       "height": 3000,
