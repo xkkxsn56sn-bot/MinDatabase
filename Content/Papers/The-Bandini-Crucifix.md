@@ -119,11 +119,11 @@ Each layer belongs to a different moment in the life of the image. The first pai
 
 The name needs a word of caution. The Museo Bandini owns another thirteenth-century cross, larger and later, by the painter known as the Master of Gagliano (c. 1250–1260, 140 × 110 cm), and the museum's own guide calls that cross the "Croce Bandini". In this entry the name refers to the small cross of the Master of the Cross 434, as it does in most of the literature on the restoration.
 
-The Gagliano cross is also a *Christus triumphans*, but of a fuller kind. The Virgin and Saint John stand beside the body, the Virgin in glory between two angels fills the top panel, and two half-length prophets, now headless and fragmentary, occupied the ends of the arms; one still holds a scroll with the words of Isaiah, *Sicut ovis ad occisionem ductus est*. Once attributed to Meliore, it is now given to the anonymous painter named after a Madonna at Gagliano in the Mugello, a painter close to the Master of the Bigallo and to the Master of the Cross 434. According to the museum's guide, Bandini himself placed it in the sacristy of Sant'Ansano.
+The Gagliano cross is also a *Christus triumphans*, but of a fuller kind. The Virgin and Saint John stand beside the body, the Virgin in glory between two angels fills the top panel, and two half-length prophets, now headless and fragmentary, occupied the ends of the arms; one still holds a scroll with the words of the prophecy of the lamb led to the slaughter, *Sicut ovis ad occisionem*. Once attributed to Meliore, it is now given to the anonymous painter named after a Madonna at Gagliano in the Mugello, a painter close to the Master of the Bigallo and to the Master of the Cross 434. According to the museum's guide, Bandini himself placed it in the sacristy of Sant'Ansano.
 
 Both crosses belong to the most characteristic form of Tuscan painting before 1300, the shaped painted cross. Its parts had their own names: the long upright with the body of Christ, the wide panel behind the body, called the *tabellone*, the ends of the arms, the panel at the top, and the small panel at the foot. Each could carry its own images, and the choice of images changed the meaning of the whole.
 
-In the years when the Bandini cross was painted, the image of Christ on such crosses was changing. The older type showed him alive and victorious, the *Christus triumphans*; the newer type, spread in Tuscany from the 1230s by Giunta Pisano, showed him dead, the *Christus patiens*, his head bowed and his body bent. The Bandini cross belongs to the older type, and its painter would adopt the newer one a few years later in his cross for the Uffizi.
+In the years when the Bandini cross was painted, the image of Christ on such crosses was changing. The older type showed him alive and victorious, the *Christus triumphans*; the newer type, spread in Tuscany from the 1230s by Giunta Pisano, showed him dead, the *Christus patiens*, his head bowed and his body bent. The Bandini cross belongs to the older type, and its painter would adopt the newer one a few years later in the great cross now in the Uffizi.
 
 The chapters that follow describe the museum, the altarpiece of the eighteenth century, the restoration of 1952, the cross itself and the later cross separated from it, and then place the work among the other crosses of its painter.
 
@@ -137,7 +137,7 @@ Bandini was born in Florence on 25 September 1726. Orphaned in infancy, he was r
 
 He then took holy orders and settled in Rome, where he worked in the Vatican Library and in the libraries of Cardinals Passionei and Corsini, and published a study of the obelisk of Augustus. Back in Florence, he became librarian of the Biblioteca Marucelliana.
 
-In 1756 he was appointed librarian of the Laurenziana, succeeding Antonio Maria Biscioni, and he held the post for more than forty years. His great work was the catalogue of its manuscripts, Greek, Latin and Italian, published in eight volumes between 1767 and 1778, still used by scholars today.
+In 1756 he was appointed librarian of the Laurenziana, succeeding Antonio Maria Biscioni, and he held the post for more than forty years. His great work was the catalogue of its manuscripts, Greek, Latin and Italian, published in eight volumes between 1764 and 1778, still used by scholars today.
 
 <figure>
   <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-07.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-07-zoom.jpg" alt="The corner of a medieval wall of rough brown stone on the left, and beside it the cream plastered façade of a two-storey building with a tiled roof on brackets, a small porch over a door reached by a few steps, barred windows, a row of round windows above, and a painted band with the words MUSEO BANDINI. Hills appear in the distance at the right.">
@@ -222,11 +222,11 @@ Unlike most crosses of the period, this one has no mourners. The Virgin and Sain
 
 On the right stands Saint Peter, with a red halo, in front of a domed building, the house of the high priest where he denied Christ. He holds his hand to his chest. On the left a tall tower rises beside Christ's body, and on top of it stands the cock whose crowing made Peter remember Christ's words and weep. The cock, as Tintori showed, belongs to the later painting; it was left in place so that the scene would remain whole.
 
-The episode is told in all four Gospels. During the night of Christ's arrest, Peter followed him to the house of the high priest and, questioned by servants and bystanders, three times denied knowing him. Then the cock crowed, and Peter remembered the words of Jesus, "Before the cock crow, thou shalt deny me thrice"; Luke adds that the Lord turned and looked upon Peter, and all the Gospels end the scene with his tears.
+The episode is told in all four Gospels. During the night of Christ's arrest, Peter followed him to the house of the high priest and, questioned by servants and bystanders, three times denied knowing him. Then the cock crowed, and Peter remembered the words of Jesus, "Before the cock crow, thou shalt deny me thrice"; Luke adds that the Lord turned and looked upon Peter, and Matthew, Mark and Luke end the scene with his tears.
 
 The choice of Peter is unusual. It turns the cross from an image of the Passion alone into an image of repentance: the apostle who denied Christ and wept stands beside the crucified, as a model for the viewer. Why the painter or his patron chose this theme is not known, and the original setting of the cross does not survive to explain it.
 
-The painter reduced the story to two signs, the apostle and the bird, set on either side of the crucified. The viewer standing before the cross saw Christ between the man who had betrayed him and the sound that had recalled him to repentance: a sermon in images on sin and forgiveness, addressed to those who prayed before it.
+The painter reduced the story to two signs, the apostle and the bird, set on either side of the crucified. The viewer standing before the cross saw Christ between the man who had denied him and the sound that had recalled him to repentance: a sermon in images on sin and forgiveness, addressed to those who prayed before it.
 
 The size of the cross, 89 × 69 cm, suggests that it was made for an altar or a small chapel rather than to hang over a choir screen. It is an intimate object, meant to be seen at close range.
 
@@ -246,7 +246,7 @@ The scorching points to the way the cross was used. Candles and lamps burned bef
 
 The choice was a conservative one. In the 1280s a painter asked to make a new cross would have painted the dead Christ of the *Christus patiens* type, by then the rule in Tuscany. The upper cross kept the living Christ of the 1230s because it was not a new cross but the old one repainted: its patrons wanted the same image, restored, not a different one.
 
-The renewal also kept the subject of Peter. The painter of the 1280s repainted the apostle and the house of the high priest over the old ones, and added the cock where the original bird, painted on the silver, had been lost. The episode of the denial thus passed from one painting to the next.
+The renewal also kept the memory of the denial. The painter of the 1280s painted a cock on the new surface, probably where the original bird, painted on the silver, had been lost with it. Whatever else the older image had shown, the sign of Peter's repentance passed from one painting to the next.
 
 The two crosses now hang in the same room. They show, side by side, how the image of the crucified Christ changed in Tuscany between the 1230s and the 1280s, from the hard geometry of the Lucchese tradition to the softer modelling learned from Cimabue.
 
@@ -306,7 +306,7 @@ The Montalve, a community of women founded in Florence in the seventeenth centur
 
 Here the later painting was never removed. The body of Christ keeps its medieval form, but everything around it was renewed: God the Father in the top panel, the Virgin and Saint John in the ends of the arms, two angels on clouds beside the body, one catching the blood from his side in a chalice, and Mary Magdalene at the foot. The figure of Christ himself was given a crown of thorns and streams of blood.
 
-The new images give the cross a different meaning. The angel catching the blood in a chalice turns the Crucifixion into an image of the Eucharist, a theme dear to the Counter-Reformation; God the Father above and the Magdalene with her jar of ointment below add the persons of the Trinity and the model of the penitent sinner. The medieval cross became the support of a new devotional programme.
+The new images give the cross a different meaning. The angel catching the blood in a chalice turns the Crucifixion into an image of the Eucharist, a theme dear to the Counter-Reformation; God the Father above and the Magdalene with her jar of ointment below add the Father who offers the Son and the model of the penitent sinner. The medieval cross became the support of a new devotional programme.
 
 The same guide records that another cross at La Quiete, by the Master of the Bigallo, was completely repainted and awaits restoration, and that a large painted cross by Lippo di Benivieni, found in a chapel of the villa, has been restored by the Opificio delle Pietre Dure. Repainting was a common fate of the medieval crosses of Florence.
 
