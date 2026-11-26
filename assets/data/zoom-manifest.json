@@ -2691,6 +2691,160 @@
       "sha256": "3957dd02badddd7dad7e83a48a77683ac5ac4dfd28411c4fcbf735d2278582ae"
     },
     {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-05-zoom.jpg",
+      "width": 2576,
+      "height": 1077,
+      "bytes": 553663,
+      "sha256": "135acea101ac2a4af55fce0f5d111eab95c3c731a502478727f2796556015b15"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-06-zoom.jpg",
+      "width": 1759,
+      "height": 2576,
+      "bytes": 896232,
+      "sha256": "4cb80b03c7cd51f2c0a382df66c69ad327b5cea00e7d29c2c8f4ab18bc3d0379"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-07-zoom.jpg",
+      "width": 1912,
+      "height": 2576,
+      "bytes": 1624777,
+      "sha256": "33d5550ef922ea72f13a89651c1f703bd29cdd914959aaf04b2aeb24c8fe2821"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-08-zoom.jpg",
+      "width": 2230,
+      "height": 2576,
+      "bytes": 1276364,
+      "sha256": "0dc3a45c50178cfc02a4e75fd6038ae52a3019e568b489882db6c487d954f809"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-09-zoom.jpg",
+      "width": 1946,
+      "height": 2576,
+      "bytes": 1188337,
+      "sha256": "c50deae08bf63551a6420a3dce5910470e7d6bc6fd2a63d87b5e41c70fc041a5"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-10-zoom.jpg",
+      "width": 1965,
+      "height": 2576,
+      "bytes": 975935,
+      "sha256": "9381659850d6dd1371f9f15073ea34e9af84fa5a1e789989123131a5afa85159"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-11-zoom.jpg",
+      "width": 2576,
+      "height": 1771,
+      "bytes": 822229,
+      "sha256": "6f472931aba7e4a16926c74704ae933d2d6a9cbba8a7835f79f3d1babc53947e"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-12-zoom.jpg",
+      "width": 2576,
+      "height": 1833,
+      "bytes": 1275945,
+      "sha256": "5db891b9aabc37280d0b5c442b51d076d8c622d9edd7f7a3f04d2c7e4bbe61bc"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-13-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1218118,
+      "sha256": "ef36c611eb8712e661a2b56c0f391a3b786abd805268f84df76897f485e571dd"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-14-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1126889,
+      "sha256": "1f61527c0496680072813f0ca1488a7b8dc8beedb544221b6f919408ff638e86"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-15-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1103190,
+      "sha256": "f93f70e8f694086daef583f81fab63bdc1127943541e467c05f1264e9c6f59fe"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-16-zoom.jpg",
+      "width": 2576,
+      "height": 1506,
+      "bytes": 850306,
+      "sha256": "f70c74d4406765f52bc44975ec4e25598581416ddb2e681746c8e923143f92f2"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-17-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1036721,
+      "sha256": "2343e54667da19d090a8941e4af6041378d011ba238244c7c754234b883d5f46"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-18-zoom.jpg",
+      "width": 2576,
+      "height": 1662,
+      "bytes": 1015456,
+      "sha256": "af849059ed723d90eb360c1f430045280521291126f3ab70583fe3c96a90c535"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-19-zoom.jpg",
+      "width": 2256,
+      "height": 2576,
+      "bytes": 1134756,
+      "sha256": "3fca47f682b5f05a608f10037bef8ae051859f5b4f10db873c8a1707ca9a29c2"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-20-zoom.jpg",
+      "width": 2214,
+      "height": 2576,
+      "bytes": 970699,
+      "sha256": "142091c6a5128b43be5e000ccfdcf5e663b4a5b5cc6aa72a973dcc8dac3b2f48"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-21-zoom.jpg",
+      "width": 2130,
+      "height": 2576,
+      "bytes": 1018990,
+      "sha256": "27ac3575533fd238083fc75415de0faf4b55004b03b3a466d77adc0397d97015"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-22-zoom.jpg",
+      "width": 2118,
+      "height": 2502,
+      "bytes": 1048671,
+      "sha256": "8b400d9618a579cf85d4bd41c7d16eb953b02703cfb7a1fc8f92231e0db5a2a5"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-23-zoom.jpg",
+      "width": 1854,
+      "height": 2214,
+      "bytes": 771880,
+      "sha256": "cdb24944c4e4d8b9874a5b4cc7c8a4b4f4d64448b987cb485d3d2f36e966b668"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-25-zoom.jpg",
+      "width": 2022,
+      "height": 2576,
+      "bytes": 2507476,
+      "sha256": "dfda040e3222f93fba5e4ee4c49be8ade7477673f98648548ba196bc85f81f7f"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-26-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1394389,
+      "sha256": "bf7b77534afd3b5a69d8a2d178d042ae75f07d363b856056ce10c5a14cc88400"
+    },
+    {
+      "path": "Images/Meliore-di-Jacopo/meliore-di-jacopo-29-zoom.jpg",
+      "width": 2576,
+      "height": 1769,
+      "bytes": 746802,
+      "sha256": "2f3f435cff4c61ef80ecb311d36a8e866b5ccbcea5441b2bb941a24619f0b1b9"
+    },
+    {
       "path": "Images/Memmo-di-Filippuccio/memmo-di-filippuccio-01-zoom.jpg",
       "width": 3000,
       "height": 2188,
