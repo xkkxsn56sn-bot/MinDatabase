@@ -4420,6 +4420,62 @@
       "sha256": "f8ae6a2c965dff74954f1759d0684c8520e0d4778731136eafa447caf6fe90a6"
     },
     {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-02-zoom.jpg",
+      "width": 1359,
+      "height": 1941,
+      "bytes": 824634,
+      "sha256": "ed31c2f7c03f68f7f2bcc33791781d920f165b761b8365f4c893433da6a29ddf"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-03-zoom.jpg",
+      "width": 1979,
+      "height": 3000,
+      "bytes": 1836675,
+      "sha256": "0f1d9e8a77044104f105c4729d568503eb9ec505bf0f4dd798411faa81f96718"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-04-zoom.jpg",
+      "width": 1993,
+      "height": 3000,
+      "bytes": 1743334,
+      "sha256": "1ee7462e99b19e14f0e954b5cba3734a7701556fbe9de0fc11570c43fea17957"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-05-zoom.jpg",
+      "width": 2021,
+      "height": 3000,
+      "bytes": 1823162,
+      "sha256": "b9c1efdb0c9a9d7ab1519faec6e56390554861a66d313ac7ebf97830a2cb7ba5"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-06-zoom.jpg",
+      "width": 1999,
+      "height": 3000,
+      "bytes": 1856163,
+      "sha256": "8f7d3547f380cce24252a3e673243d47dab1fe624858650af9e5dc0cb57b99ef"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-08-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 934533,
+      "sha256": "5f20cb69d3e0c9b56ec5530ec297f4d87d6750a688498d615ac13099fc512937"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-09-zoom.jpg",
+      "width": 2576,
+      "height": 1915,
+      "bytes": 1495565,
+      "sha256": "6419125ab3cee7ad9184170624eb290afbf365e7841979d2c27be98aa9c0038b"
+    },
+    {
+      "path": "Images/Saint-Cuthbert/saint-cuthbert-11-zoom.jpg",
+      "width": 2576,
+      "height": 1288,
+      "bytes": 721492,
+      "sha256": "4adef567adfcfc233e7838c12bfb2d2b7bcc0872f29757243b2e85c1d51ed9e0"
+    },
+    {
       "path": "Images/Saint-Leonard/saint-leonard-01-zoom.jpg",
       "width": 1600,
       "height": 1076,
