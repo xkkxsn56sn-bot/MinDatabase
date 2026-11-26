@@ -5659,6 +5659,55 @@
       "sha256": "578f75db3b83e520938c055b0f00062441cc47a90bdd912e4aea562f7da0a99c"
     },
     {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-01-zoom.jpg",
+      "width": 1947,
+      "height": 2576,
+      "bytes": 465684,
+      "sha256": "eac87e9508bc734304f4d155c6ed45ea9f5d939d6a496fbe5c7a0503f17ef288"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-03-zoom.jpg",
+      "width": 1963,
+      "height": 2576,
+      "bytes": 1605536,
+      "sha256": "d6bda2b54f5aebef043aa8fb467cd48100c36f03de72172a4a6358e615295163"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-04-zoom.jpg",
+      "width": 2051,
+      "height": 2576,
+      "bytes": 820811,
+      "sha256": "b8ee5afc16b57b7f3160e641fc18a6074acf6dea0e0e6aa175af0dcde2ee05e5"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-05-zoom.jpg",
+      "width": 2576,
+      "height": 1830,
+      "bytes": 703489,
+      "sha256": "714a693fab8194896dd967236692f05fa8bd91ebf2a35deeb12d47fbf0191c71"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-07-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1258115,
+      "sha256": "11910af4ee5ccb1ee222c056ffa01be991052be218555d9d93f9e04d92a814b9"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-08-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 351555,
+      "sha256": "e74a1cc17fcf0825f992c260f3ef8ebe877e92c740e28ce2b839ccbf20e36ab7"
+    },
+    {
+      "path": "Images/The-Bandini-Crucifix/the-bandini-crucifix-09-zoom.jpg",
+      "width": 1896,
+      "height": 2576,
+      "bytes": 435069,
+      "sha256": "e462a7c8488cd043a02d819dba8c205c0242bac98e9c94c51f87624fefd41db7"
+    },
+    {
       "path": "Images/Tino-di-Camaino/tino-di-camaino-23-zoom.jpg",
       "width": 2370,
       "height": 3000,

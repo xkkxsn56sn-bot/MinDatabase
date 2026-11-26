@@ -1,84 +1,88 @@
 ---
 layout: papers-entry
-title: "The Master of the Cross 434 and the Bandini Crucifix"
-subtitle: "Iconography, restoration, and attribution of the Bandini Crucifix"
+title: "The Bandini Crucifix"
+subtitle: "A small painted cross of the 1230s by the Master of the Cross 434, hidden under a second thirteenth-century cross and an eighteenth-century assemblage, and recovered by the separation of its painted layers in 1952"
+dates: "c. 1230–1240; overpainted c. 1280–1290; assembled into an altarpiece in the eighteenth century; separated 1952; assemblage dismantled 1989"
 century: "XIII"
-dates: "c. 1230-1260; restored 1952; attribution consolidated 1977-1990"
 
 meta:
-  - title: IDENTITY
+  - title: "CORE DATA"
     pairs:
-      - label: Subject
-        value: "Anonymous Tuscan painter known as the Master of the Cross 434"
-      - label: Conventional name
-        value: "Maestro della Croce 434"
-      - label: Primary works
-        value: "Painted Cross 434 (Galleria degli Uffizi, Florence); Bandini Crucifix (Museo Bandini, Fiesole)"
-      - label: School
-        value: "Lucchese-Tuscan Duecento painting"
-      - label: Medium
-        value: "Tempera and gold on panel"
+      - label: "Subject"
+        value: "Painted cross with Christus triumphans and, beside the body, Saint Peter and the cock of his denial"
+      - label: "Painter"
+        value: "Master of the Cross 434, named after the painted cross no. 434 of the Uffizi"
+      - label: "Date"
+        value: "c. 1230–1240 (Museo Bandini)"
+      - label: "Technique and size"
+        value: "Tempera on panel, originally on a silver-leaf ground; 89 × 69 cm"
+      - label: "Location"
+        value: "Fiesole, Museo Bandini, first room"
+      - label: "Provenance"
+        value: "Collection of Angelo Maria Bandini (1726–1803), left to the Chapter of Fiesole Cathedral"
 
-  - title: CHRONOLOGY
+  - title: "IDENTITY AND LIMITS"
+    list:
+      - "Not to be confused with the larger cross of the Master of Gagliano in the same museum, c. 1250–1260, 140 × 110 cm, which the museum's guide calls the 'Croce Bandini'"
+      - "Two thirteenth-century paintings of the same cross existed one over the other; they were separated in 1952"
+      - "The silver ground of the older painting had already flaked away before the cross was painted over; Tintori saw this loss, with the scorching of the paint by candles, as the likely reason for the repainting"
+      - "The cock beside Peter belongs to the later painting and was left on the older one"
+      - "The original church for which the cross was made is unknown"
+
+  - title: "CHRONOLOGY"
     pairs:
-      - label: Active period
-        value: "c. 1230-1260"
-      - label: Bandini panel
-        value: "c. 1230-1240"
-      - label: Uffizi cross
-        value: "c. 1240-1250"
-      - label: Restoration
-        value: "1952 (Ugo Procacci and Leonetto Tintori)"
-      - label: Attribution milestones
-        value: "1977 (Miklós Boskovits), 1986 and 1990 (Angelo Tartuferi)"
+      - label: "c. 1230–1240"
+        value: "The cross painted by the Master of the Cross 434"
+      - label: "c. 1280–1290"
+        value: "A second cross painted over the first, with the same outline and type"
+      - label: "18th century"
+        value: "Repainted again and enlarged into a rectangular altarpiece, with two saints by Lorenzo di Bicci as its sides"
+      - label: "1795–1803"
+        value: "In Angelo Maria Bandini's museum at Sant'Ansano, Fiesole"
+      - label: "1913"
+        value: "The Museo Bandini opens in its present building"
+      - label: "1952"
+        value: "Restoration by Ugo Procacci and Leonetto Tintori; the two thirteenth-century layers are separated"
+      - label: "1953"
+        value: "The two crosses are shown at the Mostra di opere d'arte restaurate in Florence (April–June); Procacci publishes the restoration in the Bollettino d'Arte, with Tintori's technical report"
+      - label: "1977"
+        value: "Miklós Boskovits attributes the older cross to the Master of the Cross 434"
+      - label: "1989"
+        value: "The eighteenth-century assemblage is dismantled"
 
-  - title: ICONOGRAPHY
+  - title: "KEY WORKS"
     list:
-      - "Christus triumphans in both the Uffizi and Bandini crucifixes"
-      - "Denial and penitence of Peter in the Bandini tabellone"
-      - "Marian imagery and Franciscan devotional culture in the broader corpus"
-      - "Transition from triumphant to affective Passion iconography"
+      - "Master of the Cross 434, painted cross with Saint Peter, c. 1230–1240 - Fiesole, Museo Bandini"
+      - "Tuscan painter, painted cross separated from it, c. 1280–1290 - Fiesole, Museo Bandini"
+      - "Lorenzo di Bicci, Saint James the Greater and Saint Nicholas of Bari, c. 1395–1400 - Fiesole, Museo Bandini"
+      - "Master of the Cross 434, painted cross no. 434 with eight stories of the Passion, c. 1240–1245 - Florence, Uffizi (comparison)"
+      - "Master of the Cross 434 and Bonaventura Berlinghieri (attributed), painted cross - Tereglio, Santa Maria Assunta (comparison)"
+      - "Master of the Cross 434, painted cross repainted in the seventeenth century - Florence, Villa La Quiete (comparison)"
 
-  - title: RESTORATION AND DISCOVERY
-    paragraphs:
-      - "The 1952 restoration by Ugo Procacci and Leonetto Tintori revealed the superimposition of later repainting over a medieval core."
-      - "Tintori's technical report in the 1953 *Bollettino d'Arte* is central to the history of conservation, especially for layered painting, radiography, and solvent-heat separation."
-      - "The Bandini panel became a key case study for the recovery of superimposed medieval images in twentieth-century Italian conservation."
-
-  - title: ATTRIBUTION HISTORY
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - "Luciano Bellosi — hypothesis of an early phase in the formation of Coppo di Marcovaldo"
-      - "Miklós Boskovits — formal attribution of the Bandini Crucifix in 1977"
-      - "Angelo Tartuferi — confirmation and chronological refinement in 1986 and 1990"
-      - "Ugo Procacci — restoration context and publication of the documentary evidence"
+      - "Attribution to the Master of the Cross 434: Miklós Boskovits (1977), followed by Angelo Tartuferi and by the museum"
+      - "The Master of the Cross 434 as an early phase of Coppo di Marcovaldo: Luciano Bellosi; not generally accepted"
+      - "The upper cross: a Tuscan painter of the 1280s influenced by Cimabue, tentatively of the circle of Ristoro d'Arezzo"
+      - "Rejected: a gold ground for the older cross; the scene of Peter at the foot of the cross; the Uffizi cross as a Christus triumphans; the upper cross as a work of Cimabue's circle of the last quarter of the century without qualification"
 
-  - title: THEMATIC KEYWORDS
+  - title: "STYLE AND FORMATION"
     list:
-      - "Painted crucifixes"
-      - "Duecento Tuscan painting"
-      - "Franciscan iconography"
-      - "Conservation history"
-      - "Anonymous masters"
-      - "Superimposed layers"
+      - "The Lucchese manner of Berlinghiero and his sons: strong outlines, a body divided into geometric zones, open eyes"
+      - "In the older cross, a living Christ without mourners, flanked by a single narrative motif"
+      - "In the painter's later Uffizi cross, the dead Christ and eight scenes of the Passion"
 
-  - title: RELATED ENTRIES
-    links:
-      - title: "Maestro della Croce 434"
-        url: "/Content/Artists/XIII-c/Maestro-della-Croce-434.html"
-      - title: "Luciano Bellosi"
-        url: "/scholars.html#bellosi-luciano"
-      - title: "Ugo Procacci"
-        url: "/scholars.html#procacci-ugo"
-      - title: "Miklós Boskovits"
-        url: "/scholars.html#boskovits-miklos"
-      - title: "Angelo Tartuferi"
-        url: "/scholars.html#tartuferi-angelo"
-      - title: "San Domenico Crucifix"
-        url: "/Content/Papers/San-Domenico-Crucifix.html"
-      - title: "Giunta Pisano"
-        url: "/Content/Artists/XIII-c/Giunta-Pisano.html"
-      - title: "Cimabue"
-        url: "/Content/Artists/XIII-c/Cimabue.html"
+  - title: "PATRONAGE AND SETTING"
+    list:
+      - "The original church or community is not known"
+      - "A small cross, probably for an altar or a chapel rather than a choir screen"
+      - "Angelo Maria Bandini, canon of San Lorenzo, who collected early Tuscan paintings for his museum at Fiesole"
+
+  - title: "RECEPTION AND LEGACY"
+    list:
+      - "The separation of 1952 is a landmark in the history of Italian conservation"
+      - "The cross is one of the earliest works of the Master of the Cross 434"
+      - "Related pages on the site: Master of the Cross 434, San Domenico Crucifix, Giunta Pisano"
 
 scholars:
   - title: "Bellosi, Luciano"
@@ -87,110 +91,175 @@ scholars:
     url: "/scholars.html#boskovits-miklos"
   - title: "Procacci, Ugo"
     url: "/scholars.html#procacci-ugo"
-  - title: "Salmi, Mario"
-    url: "/scholars.html#salmi-mario"
   - title: "Tartuferi, Angelo"
     url: "/scholars.html#tartuferi-angelo"
+  - title: "Tintori, Leonetto"
+    url: "/scholars.html#tintori-leonetto"
 ---
 
-## I · Introducton
-
-The artist known as the *Master of the Cross 434* remains one of the most enigmatic figures of thirteenth-century Tuscan painting, his very designation arising from the conventions of modern art historiography rather than from any documented biographical record. The conventional name *Maestro della Croce 434* derives from the inventory number assigned in 1890 to his principal work, the painted cross now preserved in the Galleria degli Uffizi in Florence, a practice typical of medieval Italian art history when original identities are irretrievable.
-
-His activity is generally placed within the second quarter of the thirteenth century, roughly from approximately 1230 until the middle of that century, though some scholars extend his career into the third quarter on the basis of attributional arguments concerning later works. The precise geographical origin of the master remains a subject of ongoing scholarly debate, with a majority of specialists proposing a Lucchese formation or at least a deep indebtedness to the workshop traditions of Berlinghiero Berlinghieri, the most influential painter active in Lucca during the early Duecento. So profound is this Lucchese imprint that the hypothesis has been advanced — never definitively confirmed — that the Master may have been one of Berlinghiero's sons, perhaps identifiable with the otherwise undocumented Marco, whose name appears in archival sources but to whom no works have been convincingly assigned.
-
-The critical history of the Master of the Cross 434 is inseparable from the broader project of reconstructing the artistic landscape of pre-Cimabuan Florence, a historiographical enterprise that has engaged successive generations of scholars from the early twentieth century onward. The systematic effort to define his stylistic identity and to delimit his corpus from those of overlapping anonymous masters has produced a rich, if contentious, critical literature. [Luciano Bellosi](/scholars.html#bellosi-luciano) advanced the provocative theory that the Master of the Cross 434 should be understood not as an independent artistic personality but as an early phase in the formation of *Coppo di Marcovaldo*, one of the most celebrated Florentine painters of the second half of the Duecento; this hypothesis, while stimulating, has not been universally accepted.
-
-Other specialists have drawn connections between the Master and the *Maestro del San Francesco Bardi* and the *Maestro di Santa Maria Primerana*, the latter being the anonymous painter responsible for the cult image in the church of that name in Fiesole, a site historically and geographically proximate to the Museo Bandini. Miklós Boskovits, writing in 1977 in the celebrated volume of essays in honor of [Ugo Procacci](/scholars.html#procacci-ugo), made the decisive formal attribution of the Bandini Crucifix to the Master of the Cross 434, an attribution subsequently confirmed and developed by [Angelo Tartuferi](/scholars.html#tartuferi-angelo) in his fundamental studies on Florentine Duecento painting published in 1986 and 1990.
-
-The [Boskovits](/scholars.html#boskovits-miklos) attribution represented not merely a scholarly exercise in stylistic classification but a genuine enrichment of our understanding of the master's geographical range and iconographic repertoire. Prior to 1977, the Bandini panel had been in a state of critical limbo following its dramatic restoration in 1952, whose findings were not immediately absorbed into the broader art-historical literature. Angelo Tartuferi's subsequent work confirmed the attribution and situated the Bandini panel within the chronological arc of the master's production, identifying it as among his earliest surviving works, antedating the celebrated Uffizi cross by approximately a decade.
-
- The suggestion by some scholars that the Master represents the bridge between Lucchese and Florentine pictorial traditions is of considerable historiographical significance, as it places this anonymous artist at the very origin of the Florentine school's departure from pure Byzantine conventions toward the more expressive and narratively ambitious painting of the later thirteenth century. In this reading, the Bandini Crucifix assumes an importance that transcends its modest physical dimensions, making it a documentary witness to one of the most consequential transitions in the history of medieval Italian art.
-
-The Master's attributed corpus is relatively compact but internally coherent, and includes, in addition to the two panels in Fiesole and Florence, several Marian images — including a *Madonna col Bambino* of around 1230 at the monastery of Santa Maria at Rosano — the Crucifix of Tereglio in the Lucchese hills, and the *San Francesco con Storie della sua Vita* shared with the Maestro di Santa Maria Primerana, now in the Museo Civico of Pistoia. This ensemble, spanning from the late 1220s or early 1230s to approximately 1255–1260, charts an evolution from tightly controlled Byzantine formalism toward a more fluent and emotionally engaged idiom.
-
-The Pushkin Museum in Moscow preserves what may be the most ambitious late work attributable to the Master, a large-format *Madonna in trono con diciassette storie della vita della Vergine*, whose narrative complexity and refined execution suggest an artist of considerable intellectual ambition. The Bandini Crucifix, as the chronologically earliest work in this corpus, thus stands at the opening of a creative trajectory of exceptional historical importance.
-
-The question of the Master's cultural formation — whether Lucchese or Florentine by training, or perhaps originating in a milieu where both traditions coexisted — remains unresolved, yet it is precisely this ambiguity that makes his art so historically fertile. He appears to have been the agent through whom the Lucchese pictorial manner — characterized by its accentuated chiaroscuro, its graphic clarity of contour, and its intense narrative compression — was transplanted into the Florentine artistic environment. This translocation was not a simple mechanical transfer but a creative synthesis, in which the inherited Byzantine formulas of Berlinghiero's workshop were adapted to suit the religious sensibilities and perhaps the liturgical requirements of Florentine patrons and institutions. In doing so, the Master laid the groundwork for the achievements of Coppo di Marcovaldo and, ultimately, Cimabue, whose revolutionary contribution to Italian painting would have been inconceivable without the preparatory work accomplished by artists of this earlier generation.
-
-## II · The Iconographic Program: Christus Triumphans and the Denial of Peter
+## I · Introduction
 
 <figure>
-  <img src="/Images/Maestro-Croce-434/maestro-croce-434-04.jpg" alt="Bandini Crucifix">
-  <figcaption>Bandini Crucifix and The Penitence of Peter, 1230s, tempera and gold on panel, Museo Bandini, Fiesole.</figcaption>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-01.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-01-zoom.jpg" alt="A small painted cross with a short top arm and wide side arms, on a dark background. Christ hangs upright with open eyes, his head with a worn halo held straight, his arms horizontal along a dark blue band, his body marked by curved lines on the chest and abdomen, a dark blue loincloth with red stripes, and his feet side by side on a footrest. On the panel beside his body, on a pale, worn ground: at the left a tall tower topped by a grey cock; at the right a domed building and Saint Peter with a red halo, his hand on his chest. The edges of the panel are framed with modern strips of wood.">
+  <figcaption>Master of the Cross 434, painted cross with Saint Peter and the cock, c. 1230–1240, tempera on panel, 89 × 69 cm. Fiesole, Museo Bandini. Image: public domain, via Wikimedia Commons.</figcaption>
 </figure>
 
-The Bandini panel presents, at its center, the image of the Crucified Christ according to the iconographic type known as *Christus triumphans*, the most ancient of the two principal modes for representing the crucifixion in medieval Christian art, which dominated Western iconography from Late Antiquity through the early thirteenth century. In this formulation, Christ is depicted alive and triumphant upon the cross, his eyes open and his gaze directed outward toward the beholder, his body upright and displaying none of the anatomical marks of physical suffering or mortal agony.
+The Bandini Crucifix is a small painted cross of the thirteenth century in the Museo Bandini at Fiesole. It measures 89 × 69 cm, about a third of the size of the great crosses that hung over the choirs of Tuscan churches. It shows Christ alive on the cross, with his eyes open, and beside him, on the panel behind his body, Saint Peter and the cock that crowed after his denial.
 
-The theological underpinning of this iconography is unambiguous: it declares the divine nature of Christ as victor over death, presenting the Crucifixion not as a moment of human vulnerability but as the supreme act of divine sovereignty over sin and mortality. This theological emphasis corresponds closely to the Christological formulations that had dominated Latin Christianity since the patristic period and received authoritative elaboration in the Carolingian and Romanesque traditions of ecclesiastical art. The Bandini panel, dated to the 1230s, is therefore one of the final and most accomplished examples of this iconographic tradition in Tuscan painting, at the very moment when it was beginning to be displaced by the competing model of the *Christus patiens*.
+The cross is the work of the anonymous painter known as the Master of the Cross 434, named after the painted cross no. 434 of the Uffizi. The museum dates it to about 1230–1240, which makes it one of his earliest works and one of the oldest Florentine paintings to survive.
 
-The loincloth (*perizoma*) worn by the Christ figure in the Bandini panel is rendered with a remarkable degree of pictorial sophistication, its deep blue and dark tone falling in complex folds that reveal the master's command of drapery as a vehicle for both decorative richness and spatial suggestion. Decorative roundels punctuate the surface of the cloth, a motif of ultimately Byzantine derivation that signals the inherited Eastern sources of the panel's visual language. The halo behind Christ's head is formed in gold leaf and elaborated with a punched geometric border, a technique consistent with the high-grade workshop practices of the Lucchese tradition to which the Master belonged. The overall gilded ground — *fondo oro* — serves not merely as a decorative element but as a theological statement, its luminous surface evoking the immaterial splendor of the divine realm within which the triumphant Christ is properly located. In the context of liturgical use, this gold ground would have functioned as a luminous field that absorbed and reflected candlelight, transforming the image into an almost visionary presence within the sacred space of the chapel or church for which it was originally made.
-
-The *tabellone* — the subsidiary panel located at the base of the cross shaft — contains the narrative scene of the Penitence of Peter (*Pentimento di San Pietro*), also described in older literature as the Denial of Peter or *Negazione di san Pietro apostolo al canto del gallo*. This episode, recounted in all four canonical Gospels, depicts the moment after Peter's triple denial of Christ, when the crowing of a cock causes him to recall Jesus's prediction of this very betrayal and to break down in tears of repentance. The inclusion of this scene on a crucifix panel is iconographically significant, as it establishes a typological and moral connection between the event of the Crucifixion and the drama of human sinfulness, betrayal, and redemption. Peter's penitence becomes a mirror held before the devotional viewer, inviting personal identification with the apostle's sorrow and conversion as an appropriate meditative response to the sight of the crucified Christ. The cock, though belonging to the later of the two painted layers separated during the 1952 restoration, remains present on the surface of the older painting for reasons of iconographic completeness, as the restorer Leonetto Tintori himself explained in his technical report.
-
-The architectural elements visible in the *tabellone* — small schematic buildings rendered in red and ochre — serve both to locate the narrative in a recognizable physical environment and to provide the pictorial field with a sense of spatial recession, however rudimentary. Such architectonic shorthand was a standard component of the Byzantine narrative vocabulary available to Tuscan painters of the early thirteenth century and would remain in use well into the Trecento. The figure of Peter himself, depicted with a reddish halo and an expression of visible distress, occupies the right side of the *tabellone*, while a second architectural structure fills the left section, creating a compositional balance that is characteristic of the Master's narrative style throughout his attributed corpus. The scale of the figures relative to the architectural setting is emphatically non-naturalistic, following the hieratic proportional conventions of Byzantine-derived art in which theological significance, not physical verisimilitude, governs pictorial scale.
-
-The coexistence on a single panel of the triumphal Crucifixion and the narrative of Petrine penitence reflects a sophisticated theological program that was entirely consistent with the devotional culture of early thirteenth-century central Italy. The Franciscan<a href="/endnotes.html#fn-francis-assisi" class="footnote"><sup>1</sup></a> movement, founded in the early decades of the same century, had placed a new and urgent emphasis on the themes of personal sin, contrition, and the redemptive power of the Passion, and the iconographic conjunction of the victorious Christ with the penitent apostle speaks directly to these concerns.
-
-Whether the panel was originally commissioned for a Franciscan institution cannot be determined with certainty, but its devotional content aligns closely with the spirituality that the new mendicant orders were disseminating throughout Tuscany at precisely this historical moment. The choice of the *Christus triumphans* rather than the *Christus patiens* formula — which the Franciscans would later champion — suggests that the commission may **predate or belong to the very beginning of the period in which Franciscan influence began to reshape the iconography of the cross in Italian painting**. This transitional character makes the Bandini panel an invaluable document for understanding how theological currents and artistic conventions interacted in the formative decades of the Italian figurative tradition.
-
-The typological and devotional relationship between the Crucifixion and the scene of Petrine repentance engages the broader theological category of *compassio* — the capacity of the viewer to share affectively in the sorrow of the sacred narrative — which was central to medieval Christian piety from at least the eleventh century onward. The image of Peter weeping beneath the cross functions as a model of affective response, demonstrating how the properly disposed Christian soul should encounter the scene of Christ's death: not with complacency or detachment, but with a sorrow productive of moral conversion. The gold of the triumphant Christ above thus enters into a dialectical relationship with the human drama below, declaring simultaneously the divine victory that makes salvation possible and the personal accountability of the individual sinner whose redemption that victory has secured. This dialectic is not resolved pictorially but held in productive tension, inviting the beholder to oscillate between contemplation of the glorified Christ and identification with the repentant apostle.
-
-The compositional grammar of the Bandini panel follows the established typology of the Tuscan *croce dipinta* — the shaped painted cross that had been a characteristic product of central Italian workshops since the late eleventh and early twelfth centuries. The shaped silhouette of the panel — with its projecting arms, suppedaneum, and titulus at the apex — was not merely a formal convention but a liturgical object type with specific functions within the medieval church interior, where such crosses were typically suspended above the entrance to the choir or positioned on the altar screen. The devotional activation of the image was inseparable from its architectural setting, and the Bandini panel, whatever its original location, would have been experienced as part of a larger liturgical and spatial ensemble.
-
-## III · Stylistic Analysis: Between Byzantine Formalism and Tuscan Expressiveness
-
-The style of the Bandini Crucifix is best understood as a creative negotiation between the inherited conventions of Byzantine-derived Lucchese painting and an emerging Florentine tendency toward greater emotional directness and plastic articulation. The Master of the Cross 434 employs the characteristic Lucchese technique of bold chiaroscuro contrasts — strong dark contour lines bounding areas of lighter tone — to suggest three-dimensional volume in the figure of Christ, whose ribcage and abdomen are modeled with a degree of anatomical attention unusual for the period.
-
-The *filante* highlights, streaking across the surface of the torso in thin, curved lines of pale pigment, represent a calligraphic device inherited from Byzantine manuscript painting that the Master transforms into a vehicle for accentuated plasticity, giving the body a sculptural presence that anticipates the later achievements of Cimabue. The overall coloring of the flesh, rendered in warm golden-brown tones characteristic of the Byzantine *chrysography* tradition, is given depth by the careful application of green earth (*terra verde*) in the shadows, a technique widely used in Duecento Tuscan panel painting.
-
-The drapery of the *perizoma* exhibits the Master's virtuosity as a manipulator of painted surface, with its complex system of angular folds and gathered masses suggesting both the material weight of fabric and the movement of the body beneath. The intricate knotting of the cloth at Christ's hip — a feature common to Byzantine representations of the crucified Christ — is rendered with a precision and a delight in decorative complexity that suggests a craftsman of exceptional skill. The decorative roundels on the drapery surface, executed in lighter pigment over the darker ground, create a rhythmic pattern that enriches the surface without disrupting the unity of the form, demonstrating the Master's capacity to balance decorative and structural concerns. The architectural elements in the narrative *tabellone* are rendered in the simplified, schematic manner typical of pre-Cimabuan Tuscan painting, with flat rooftops, arched openings, and crenellated profiles that owe more to symbolic convention than to observed reality.
-
-The expressive register of the Bandini panel is notably intense by the standards of early Duecento painting. The face of the triumphant Christ — frontal, symmetrical, with large, open eyes and a grave, impassive expression — embodies the hieratic authority of the Byzantine *Pantocrator* tradition while simultaneously projecting a psychological presence that engages the beholder directly and personally. The figure of Peter in the *tabellone*, though executed with less refinement than the central image, conveys genuine emotional agitation through the orientation of the body and the gestural language of the figure. The use of contrast and expressive deformation — slight but perceptible departures from classical anatomical norms in the service of heightened emotional effect — anticipates the more radical expressionism of Cimabue and marks the Bandini panel as a significant step in the progressive humanization of the sacred image in Italian art.
-
-## IV · The Discovery Through Restoration
-
-The recovery of the Bandini Crucifix as an independently legible work of Duecento painting is inseparable from one of the most celebrated episodes in the history of twentieth-century Italian conservation: the restoration conducted in 1952 under the direction of Ugo Procacci and the technical supervision of Leonetto Tintori.
-
-Procacci, who was both a distinguished art historian and the founder in 1932 of the *Gabinetto di restauro dei dipinti* in Florence, encountered at the Museo Bandini an object of extraordinary complexity: a composite assemblage of pictorial and structural elements from different periods, which he himself described in print as *un insolito raffazzonamento* — an unusual and incoherent patchwork. At the center of this assemblage was a cross-shaped panel bearing a crude painted Crucifixion apparently dating from the eighteenth century; flanking it were two panels representing Saints James and Nicholas of Bari, extracted from a dismembered polyptych and identified by [Mario Salmi](/scholars.html#salmi-mario) as works of the Florentine painter Lorenzo di Bicci, dateable to approximately 1395–1400.
+Its fame comes less from its painting than from its history. For seven centuries it lay hidden. A second cross was painted over it at the end of the thirteenth century, and in the eighteenth century the whole was repainted again and built into a rectangular altarpiece. In 1952 the restorers of the Florentine Soprintendenza removed the later layers and separated the two thirteenth-century paintings, so that each survives as a work in its own right.
 
 <figure>
-  <img src="/Images/Maestro-Croce-434/maestro-croce-434-07.jpg" alt="The Unusual Composition of the Crucifixion Scene Between Saints James and Nicholas">
-  <figcaption>The Unusual Composition of the Crucifixion Scene Between Saints James and Nicholas, Museo Bandini, Fiesole.</figcaption>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-09.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-09-zoom.jpg" alt="A large painted cross with stepped ends on a black background, much of its paint lost, leaving areas of pale preparation. Christ hangs alive, his eyes open and his head slightly inclined within a plain halo, his arms straight along a dark blue band, in a pale loincloth. On either side of his body stand the mourning Virgin in blue and Saint John in pink, each with a hand raised to the face. In the top panel the Virgin with raised hands between two angels, above a red titulus with IHS NAZARENUS REX IUDEORUM. At the ends of the cross arms, fragments of two figures, one with a scroll.">
+  <figcaption>Master of Gagliano, painted cross with the Virgin between two angels, the mourners and two prophets, tempera on panel, 140 × 110 cm, dated c. 1250–1260 by the museum. Fiesole, Museo Bandini. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-Around these three primary elements, various wooden additions had been assembled to create the superficial appearance of a single rectangular panel, concealing the original nature and shape of each component beneath a unified but entirely artificial surface.
+The name needs a word of caution. The Museo Bandini owns another thirteenth-century cross, larger and later, by the painter known as the Master of Gagliano (c. 1250–1260, 140 × 110 cm), and the museum's own guide calls that cross the "Croce Bandini". In this entry the name refers to the small cross of the Master of the Cross 434, as it does in most of the literature on the restoration.
 
-<p>
-  <a href="/assets/pdf/Bandini-crucifix.pdf" download>
-    (Bollettino d'Arte, anno XXXVIII, 1953, n. I gennaio-marzo - Sommario)
-  </a>
-</p>
+The chapters that follow describe the museum, the altarpiece of the eighteenth century, the restoration of 1952, the cross itself and the later cross separated from it, and then place the work among the other crosses of its painter.
 
-The first crucial clue to the presence of a concealed older painting was provided by accidental abrasions in the surface of the eighteenth-century repainting, which revealed traces of an underlying pictorial layer of demonstrably higher quality.
+## II · Angelo Maria Bandini and His Museum
 
-A radiographic investigation promptly commissioned by Procacci confirmed the existence of this layer and justified the decision to undertake the delicate operation of removing the later overpaint from the central cross-shaped panel. The removal of the eighteenth-century layer revealed, to the considerable surprise of those present, a well-preserved Duecento Crucifixion of considerable pictorial quality.
+Angelo Maria Bandini (1726–1803) was a librarian and scholar, head of the Biblioteca Laurenziana in Florence and a canon of San Lorenzo. He collected antiquities, Della Robbia terracottas and, unusually for his time, the gold-ground paintings of the thirteenth and fourteenth centuries that later collectors would call the "primitives".
 
-However, the discoveries were not yet exhausted: Tintori, examining the newly revealed surface with characteristic attentiveness, observed that in two specific areas — the lower section of Christ's legs and the area of the *perizoma* — the damage was anomalous in character, suggesting exposure to intense heat rather than simple mechanical wear. Through these areas of paint loss, the surface of a yet more ancient painting could be glimpsed beneath the Duecento layer, raising the extraordinary possibility that the cross preserved not two but three distinct moments of pictorial execution.
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-07.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-07-zoom.jpg" alt="The corner of a medieval wall of rough brown stone on the left, and beside it the cream plastered façade of a two-storey building with a tiled roof on brackets, a small porch over a door reached by a few steps, barred windows, a row of round windows above, and a painted band with the words MUSEO BANDINI. Hills appear in the distance at the right.">
+  <figcaption>The Museo Bandini, Fiesole, built by Giuseppe Castellucci and opened in 1913, beside the medieval wall of the cathedral. Photo: Macieklew, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-Tintori's technical report, published alongside Procacci's art-historical analysis in the *Bollettino d'Arte* of 1953, is a document of major importance for the history of conservation methodology in twentieth-century Italy. The specific challenge presented by the Bandini panel — separating two superimposed layers of medieval tempera without damaging either — had no established precedent in the conservation literature of the time, and Tintori's solution required a combination of empirical observation, experimental ingenuity, and what he himself candidly described as *una questione di coraggio* — a matter of courage.
+In 1795 he bought the complex of Sant'Ansano, an oratory of the eleventh century near the cathedral of Fiesole, and turned it into a "museo sacro" for his collection. He lived there until his death in 1803 and was buried in the oratory. By his will he left the collection to the Chapter of the cathedral of Fiesole.
 
-His key discovery was that pyridine, a solvent normally only marginally effective in softening the varnish between pictorial layers, became dramatically more powerful when applied in conjunction with controlled heat in the range of fifty to sixty degrees Celsius. This combination softened the interlayer varnish sufficiently to permit the careful mechanical lifting of the upper tempera layer, while leaving the lower pigments undisturbed and structurally intact. The procedure was first tested on a small area of the left forearm of the Christ figure, and its success in that trial justified the decision to extend the operation to the entire surface of the panel.
+The collection remained at Sant'Ansano through the nineteenth century. In 1913 the Chapter moved it to a new building by the architect Giuseppe Castellucci, near the cathedral, which opened on 5 May 1913. Damaged in the Second World War, the museum reopened in 1954 and was rearranged in the late 1980s and again in 2004.
 
-The technical procedure for the complete separation of the two paintings was elaborate and demanded exceptional manual precision at every stage. Tintori first cleared every trace of varnish from the surface of the upper painting, then applied a facing of lightweight linen adhered with a medium-strength mixture of rabbit-skin glue and chalk (*gesso a oro*) rendered porous through the addition of a small quantity of bicarbonate, in order to facilitate the subsequent penetration of solvent.
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-08.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-08-zoom.jpg" alt="A museum room with pink walls and a red tiled floor, lit by round windows high in the walls. Gold-ground panels of saints hang on the walls; a free-standing pink partition in the middle carries a small panel of a standing female saint; at the right hangs a large Annunciation with a gold ground, and in the foreground a glass case holds small reliefs. A doorway leads to a further room with more panels.">
+  <figcaption>A room of the Museo Bandini with gold-ground panels of the fourteenth and fifteenth centuries. Fiesole. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-The facing was then thoroughly impregnated with pyridine, covered with a double layer of blotting paper saturated with the same solvent, and protected with a thin sheet of tin foil. After sixteen hours of contact time, controlled heat was applied by passing a warm iron repeatedly across the entire surface; the action of the heat caused the interlayer varnish to dissolve, and the linen facing lifted away carrying with it the pigment layer of the upper painting, intact and undamaged. The outcome of this technically unprecedented operation was the simultaneous preservation of two complete Duecento Crucifixes bearing the identical shaped silhouette — a circumstance that explained why the earlier radiographic examination had failed to detect the presence of the older painting beneath, since the outlines of both images coincided precisely.
+The crosses of the thirteenth century are shown in the first room, with the oldest works of the collection. The small cross of the Master of the Cross 434 and the cross separated from it hang there with the larger cross of the Master of Gagliano.
 
-Both of the separated paintings depict the *Christus triumphans*, confirming that the iconographic type had remained constant across the two successive campaigns of execution. The older panel, which preserves in its *tabellone* the narrative scene of the Denial of Peter, was dated by subsequent scholarship to around the mid-thirteenth century and identified in 1977 by Miklós Boskovits with the hand of the Master of the Cross 434; the attribution was developed and confirmed by Angelo Tartuferi in his 1986 and 1990 publications on Florentine Duecento painting.
+How the cross came into Bandini's hands is not recorded in the sources consulted for this entry, nor is the church for which it was first painted. Its history before the eighteenth century can be read only in its layers of paint.
 
-The later panel — now dated to the last quarter of the thirteenth century and associated by scholars with the circle of Cimabue — represents a stylistic revision of the earlier image, replacing the somewhat rigid schematism of its predecessor with a more naturalistic chiaroscuro and a more fluid articulation of the body of Christ. The two works were exhibited together at the *Mostra di Opere d'Arte Restaurate* held in Florence from April to June 1953, attracting considerable scholarly and public attention as a demonstration of both the capabilities of the new conservation science and the richness concealed within apparently unpromising museum objects.
+## III · The Altarpiece of the Eighteenth Century
 
-The question of why the earlier panel was overpainted within so short a time — Tintori estimated the interval between the two campaigns at less than fifty years — was addressed by the restorer himself with a plausible and well-grounded hypothesis. The silver ground of the original panel, together with the image of the cock which was probably painted on this silver background, had become severely damaged through prolonged exposure to the heat and smoke of votive candles placed close to the surface; the varnish and paint from the ankle of the Christ figure upward had been blackened and parched by this same prolonged thermal stress.
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-03.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-03-zoom.jpg" alt="Two tall gold-ground panels side by side, each with a pointed trefoil arch at the top. On the left, Saint James the Greater, young, with long reddish hair and a halo, in a dark blue mantle over an orange robe, holds a pilgrim's staff and a book. On the right, Saint Nicholas of Bari, an old bearded bishop with a tall mitre and a crosier, in a rose-red cope with embroidered orphreys showing small saints, holds a red book on which rest three golden balls.">
+  <figcaption>Lorenzo di Bicci, Saint James the Greater and Saint Nicholas of Bari, c. 1395–1400, tempera and gold on panel, each 114 × 80 cm, side panels of a dismembered polyptych, attached in the eighteenth century to the sides of the cross. Fiesole, Museo Bandini. Photo: Szilas, public domain, via Wikimedia Commons.</figcaption>
+</figure>
 
-The decision to commission an entirely new version of the image over the damaged original was therefore pragmatically motivated: the deterioration of the silver background and the associated loss of legibility in the upper register of the composition rendered the original effectively unusable as a devotional object. The survival of the original beneath its later covering is therefore attributable to a fortunate combination of structural coincidence — the identical silhouette of the two images — and the protective function inadvertently exercised by the eighteenth-century repainting, which, whatever its aesthetic inadequacies, sealed and preserved the medieval layers beneath it.
+When the cross entered the museum it no longer looked like a medieval cross. In the late eighteenth century it had been repainted with a new image of the Crucifixion and enlarged with added boards into a rectangular altarpiece. Its sides were formed by two panels of about 1395–1400 by the Florentine painter Lorenzo di Bicci, Saint James the Greater and Saint Nicholas of Bari, which served as shutters.
 
-The complex fate of the cock depicted in the *tabellone* reveals the nuanced interpretive judgments that governed the restoration's final outcome. Tintori established through careful technical analysis that the figure of Saint Peter and the architectural elements of the narrative scene belonged to the older painted layer, while the cock itself had been added in the more recent campaign.
+The two saints come from a dismembered polyptych and have nothing to do with the cross. Saint James, young and long-haired, holds the pilgrim's staff and a book; Saint Nicholas, an old bishop with a mitre and crosier, holds a book with the three golden balls of his legend. Their gold grounds and Gothic arches belong to the end of the fourteenth century.
 
-Faced with the choice of restoring the *tabellone* of the older painting to its original state — which would have meant removing the cock and leaving the scene iconographically incomplete — or leaving the bird in place despite its belonging technically to the later campaign, the restorers opted for the latter course in the interest of preserving the compositional and iconographic integrity of the scene.
+Ugo Procacci, who studied the altarpiece before the restoration, called it an "unusual patchwork". The eighteenth-century painting over the cross was coarse, and nothing in the assemblage suggested that it hid a work of the Duecento.
 
-This decision reflects a sophisticated understanding of the multiple temporalities embedded in the work and the responsibility of the conservator not merely to recover an original state but to make considered judgments about which accumulations of time are themselves historically and artistically significant. The cock, with its lively crowing posture, thus remains as a witness both to the narrative of Petrine repentance and to the complex material biography of the panel itself — a small detail that encapsulates the larger story of survival, loss, and recovery that the Bandini Crucifix embodies.
+After the restoration of 1952, the two saints were put back on either side of the cross, facing each other. The assemblage was finally dismantled in 1989, and the saints now hang in the second room of the museum as independent works. The guide of the museum suggests that they may belong to the same polyptych as a Saint Julian and a bishop saint in the Galleria dell'Accademia in Florence, a hypothesis not yet confirmed.
+
+## IV · The Restoration of 1952
+
+The restoration was carried out in 1952 by the Gabinetto dei restauri of the Florentine Soprintendenza, the laboratory directed by [Ugo Procacci](/scholars.html#procacci-ugo). The work on the cross was done by the restorer [Leonetto Tintori](/scholars.html#tintori-leonetto).
+
+Small losses in the eighteenth-century paint showed traces of an older painting of better quality beneath, and an X-ray confirmed it. When the late repainting was removed, a thirteenth-century cross appeared. But in two places, on the lower legs, where the paint had been knocked off by candlesticks and scorched by flames, and on the loincloth, where a candle had burnt it, the restorers saw a second, still older layer of paint under the first. The cross held two medieval paintings, one exactly over the other.
+
+The two paintings had the same outline and the same figure type, because the later painter had followed the earlier cross line by line. This is why the X-ray had not revealed the older painting: the contours coincided.
+
+Tintori decided to separate the two layers, so that both paintings could survive. He had noticed that a solvent barely strong enough to soften a varnish became far more effective when warmed, and had already used the method to remove large repaintings from panels of the fourteenth and fifteenth centuries. From there, he wrote in his technical report, the attempt to split two paintings had been only "a matter of courage". After trials, pyridine at about 50–60 °C proved able to dissolve the varnish between the two layers without harming either tempera. The method was tested first on a small rectangle of the forearm, then on a whole arm and hand. For the full separation the surface was cleaned of varnish and faced with a light canvas, glued with a paste of rabbit-skin glue and gilder's gesso; the canvas was soaked with pyridine under blotting paper and tinfoil, and after sixteen hours a small warm iron was passed over the whole surface. The varnish dissolved, and the canvas came away carrying the upper painting with it, leaving the older painting on its original panel. The upper painting was then transferred to a new support of the same shape.
+
+The operation succeeded. The older cross, of about 1230–1240, remained on its own panel; the later cross, of about 1280–1290, became a second object. The silver-leaf ground of the older painting did not survive: according to Tintori it had already flaked away before the cross was painted over, and the pale, worn ground visible today is the preparation beneath it.
+
+Procacci published the restoration in the Bollettino d'Arte in 1953, in an article on the "separation of superimposed tempera paintings of the Duecento". The two crosses were shown together the same year in Florence, at the seventh Mostra di opere d'arte restaurate, held from April to June 1953. The case became one of the classic examples of the Florentine school of conservation in the decades after the war, when Procacci and Tintori also developed the techniques for detaching wall paintings.
+
+The restorers made one compromise. The cock beside Saint Peter belonged to the later painting. Rather than leave the older scene without it, they kept it on the older cross, where it still stands, so that the image of the denial remained complete.
+
+## V · The Cross of the 1230s
+
+The older cross shows Christ alive on the cross, the *Christus triumphans* of the Romanesque tradition. He stands upright, his head held straight within a halo, his eyes open and looking out. His arms are horizontal, his body frontal, his feet side by side on a footrest, each pierced by its own nail.
+
+The body is drawn as a set of clear zones: curved lines for the ribs and the chest, a deep oval for the abdomen, rounded shapes for the knees. This geometric treatment of the body comes from Lucca, from the workshop of Berlinghiero and his sons, which was the main source of the Master's style.
+
+Christ wears a dark blue loincloth, knotted at the waist and falling to the knees, with stripes of red. The arms of the cross carry a dark blue band edged with rows of small white dots. The halo is worn, and the ground around the figure, once silver, is now pale and uneven.
+
+Unlike most crosses of the period, this one has no mourners. The Virgin and Saint John, who usually stand beside Christ on the panel behind his body, are absent. In their place the painter set a single episode of the Passion: the denial of Peter.
+
+On the right stands Saint Peter, with a red halo, in front of a domed building, the house of the high priest where he denied Christ. He holds his hand to his chest. On the left a tall tower rises beside Christ's body, and on top of it stands the cock whose crowing made Peter remember Christ's words and weep. The cock, as Tintori showed, belongs to the later painting; it was left in place so that the scene would remain whole.
+
+The choice of Peter is unusual. It turns the cross from an image of the Passion alone into an image of repentance: the apostle who denied Christ and wept stands beside the crucified, as a model for the viewer. Why the painter or his patron chose this theme is not known, and the original setting of the cross does not survive to explain it.
+
+The size of the cross, 89 × 69 cm, suggests that it was made for an altar or a small chapel rather than to hang over a choir screen. It is an intimate object, meant to be seen at close range.
+
+## VI · The Upper Cross
+
+The cross painted over the first, about fifty years later, is the work of a different painter. The museum dates it to about 1280–1290. It repeats the size, outline and figure type of the older cross, because its painter worked directly on top of it, but its style is that of a later generation.
+
+Its modelling is softer, with stronger contrasts of light and shade and highlights that follow the forms of the body. The museum's guide connects these features with Cimabue, and attributes the cross, with caution, to a painter of the circle of Ristoro d'Arezzo.
+
+Why the older cross was painted over within two generations is not recorded. Tintori proposed a likely reason: the whole silver ground had flaked off, taking with it the cock, probably painted on the silver, and the varnish and paint from the ankles upward had been blackened and scorched by long exposure to the heat of candles. A damaged image would have been a reason to renew it, and painting a new cross on the old panel was cheaper than making a new one.
+
+The two crosses now hang in the same room. They show, side by side, how the image of the crucified Christ changed in Tuscany between the 1230s and the 1280s, from the hard geometry of the Lucchese tradition to the softer modelling learned from Cimabue.
+
+## VII · The Master of the Cross 434
+
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-04.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-04-zoom.jpg" alt="A large painted cross on a black background. The dead Christ hangs with his head bowed on his right shoulder and his eyes closed, within a gold halo set with glass stones; his body sways to the left, with deep curved lines on the chest and abdomen, and a pale blue loincloth with dark stripes falls to his knees. The arms of the cross carry a dark blue band with patterned borders. On either side of his body, on a gold ground, are eight small scenes of the Passion in two columns of four.">
+  <figcaption>Master of the Cross 434, painted cross no. 434 with eight stories of the Passion, c. 1240–1245, tempera and gold on panel, 247 × 202 cm. Florence, Galleria degli Uffizi. Image: public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+The painter of the Bandini cross takes his name from the large painted cross no. 434 of the Uffizi. It is a cross of a different kind: the dead Christ, the *Christus patiens*, with his head bowed and his eyes closed, and eight small scenes of the Passion on either side of his body, from Christ before the high priests to the supper at Emmaus.
+
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-05.jpg" data-zoom-src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-05-zoom.jpg" alt="The upper part of the large painted cross seen close up: the head of the dead Christ, bowed on his shoulder, with closed eyes, a long nose and a dark beard, within a gold halo with raised rays and set with oval glass stones; his shoulders and chest modelled in brown with dark curved lines; the blue band of the cross arms behind him, and at the edges the tops of two small Passion scenes on gold.">
+  <figcaption>Master of the Cross 434, painted cross no. 434, detail of the head and chest of Christ. Florence, Galleria degli Uffizi. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The comparison with the Bandini cross shows the same painter at two moments. The geometry of the body is the same: the curved lines of the chest, the oval of the abdomen, the rounded knees. But in the Uffizi cross the body bends, the head falls on the shoulder and the face is marked by suffering. The painter has moved from the living Christ of the Romanesque tradition to the dead Christ that Giunta Pisano was spreading in Tuscany in the same years.
+
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-06.jpg" alt="A painted cross on a black background. Christ, alive and with open eyes, hangs upright with a pale halo, in a pink loincloth. Above him, in a rounded top panel, Christ blessing between two angels, and the inscription IHS NAZARENUS REX IUDEORUM. On either side of his body stand the Virgin, in dark blue, and Saint John, in pink, and below them two small scenes. Small angels appear at the ends of the cross arms.">
+  <figcaption>Master of the Cross 434 and Bonaventura Berlinghieri (attributed), painted cross, c. 1240. Tereglio (Lucca), Santa Maria Assunta. Image: public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+The Master's Lucchese roots are clearest in the cross of Tereglio, in the hills north of Lucca, which some scholars give to him and others to Bonaventura Berlinghieri with his collaboration. It is a *Christus triumphans* like the Bandini cross, but larger and complete with the mourners, the Christ blessing in the top panel and small scenes below.
+
+The works now grouped under the Master's name include, besides the crosses of Fiesole, Tereglio and the Uffizi, a Madonna at Rosano, a Saint Francis receiving the stigmata in the Uffizi and a large Madonna with seventeen stories of the Virgin in the Pushkin Museum in Moscow. They are discussed in the entry on the [Master of the Cross 434](/Content/Artists/XIII-c/Maestro-della-Croce-434.html).
+
+## VIII · A Second Repainted Cross
+
+<figure>
+  <img src="/Images/The-Bandini-Crucifix/the-bandini-crucifix-02.jpg" alt="A painted cross on a black background. The figure of Christ is medieval in type, with a long thin body, a bowed head with a crown of thorns and streams of red blood, and a light blue loincloth. Everything around him is later painting: God the Father with a book in the top panel, the Virgin and Saint John in the ends of the cross arms, two angels on clouds beside the body, one catching blood in a chalice, and Mary Magdalene with her jar of ointment at the foot.">
+  <figcaption>Master of the Cross 434 and a seventeenth-century painter, painted cross. Florence, Villa La Quiete. Image: public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+The fate of the Bandini cross was not unique. Another cross by the same painter, now at the Villa La Quiete, the house of the Montalve sisters outside Florence and formerly in their church of San Jacopo di Ripoli, was also repainted in a later century.
+
+Here the later painting was never removed. The body of Christ keeps its medieval form, but everything around it was renewed: God the Father in the top panel, the Virgin and Saint John in the ends of the arms, two angels on clouds beside the body, one catching the blood from his side in a chalice, and Mary Magdalene at the foot. The figure of Christ himself was given a crown of thorns and streams of blood.
+
+Seen together, the two crosses show what the restorers of 1952 found at Fiesole: medieval crosses were not treated as fixed works of art, but as devotional images to be renewed when they became damaged or old-fashioned. At Fiesole this happened twice, in the 1280s and in the eighteenth century; at La Quiete it happened once and was left in place.
+
+## IX · Critical History
+
+The Bandini cross entered the history of art only after 1952. Before the restoration it was a repainted altarpiece of no interest; afterwards it was one of the few Florentine paintings of the second quarter of the thirteenth century.
+
+Procacci's article of 1953 presented the restoration and the two crosses, with Tintori's technical report, and Tintori's role in the separation became part of the history of conservation. The older cross was at first dated around the middle of the century and recognised as a Florentine work drawing on Lucchese models. In 1977 [Miklós Boskovits](/scholars.html#boskovits-miklos), in an essay on Coppo di Marcovaldo, gave it to the Master of the Cross 434. The attribution was followed by [Angelo Tartuferi](/scholars.html#tartuferi-angelo), who has written on the painter in his studies of Florentine painting of the first half of the Duecento, including his catalogue of the Uffizi's early paintings (2007), and it is accepted by the museum.
+
+The Master himself remains a debated figure. [Luciano Bellosi](/scholars.html#bellosi-luciano) proposed that his works represent an early phase of Coppo di Marcovaldo, the leading Florentine painter of the next generation; the proposal has not been generally accepted. Others have linked him with the Master of the Bardi Saint Francis and with the Master of Santa Maria Primerana, whose image is also in Fiesole.
+
+The museum's guide describes him as a painter born in Lucca and trained probably in the workshop of Bonaventura Berlinghieri, whose style was important for the young Coppo. In this reading, the Bandini cross stands at the point where the Lucchese manner reached Florence, a generation before Cimabue.
+
+## Catalogue Entry
+
+**Object:** Painted cross with Christus triumphans, Saint Peter and the cock of the denial.
+
+**Painter:** Master of the Cross 434.
+
+**Date:** c. 1230–1240.
+
+**Technique and size:** Tempera on panel, originally on a silver-leaf ground (lost before the repainting of c. 1280–1290); 89 × 69 cm.
+
+**Location:** Fiesole, Museo Bandini, first room.
+
+**History:** Painted over c. 1280–1290 by a Tuscan painter influenced by Cimabue; repainted and enlarged into an altarpiece in the eighteenth century, with two saints by Lorenzo di Bicci as its sides; in the collection of Angelo Maria Bandini; restored in 1952 by Ugo Procacci and Leonetto Tintori, who separated the two thirteenth-century paintings; the assemblage dismantled in 1989.
+
+**Related works in the museum:** The upper cross separated in 1952 (c. 1280–1290); Lorenzo di Bicci, Saint James the Greater and Saint Nicholas of Bari (c. 1395–1400); Master of Gagliano, painted cross (c. 1250–1260).
+
+**Bibliography:** U. Procacci, "Distacco di tempere duecentesche sovrapposte", *Bollettino d'Arte*, 38, 1953, no. 1, pp. 31–37 (with the technical report of L. Tintori); U. Baldini (ed.), *Mostra di opere d'arte restaurate*, 7th exhibition, Florence, 1953, pp. 13–14; M. Boskovits, "Intorno a Coppo di Marcovaldo", in *Scritti di storia dell'arte in onore di Ugo Procacci*, I, Milan, 1977, p. 104, n. 18; A. Tartuferi, *La pittura a Firenze nel Duecento*, 1990; A. Tartuferi, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi*, 2007; Museo Bandini di Fiesole, guide of the museum (Piccoli Grandi Musei); Musei di Fiesole, "Una questione di coraggio. Storia di un restauro, due Crocifissi e un gallo".
