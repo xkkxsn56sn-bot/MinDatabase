@@ -43,3 +43,4 @@ Autorizzazioni/
 # https://zoom.medievalvisions.com), non nel repository. Il backup su Prog li
 # copia; scripts/sync_zoom_r2.sh li carica e aggiorna assets/data/zoom-manifest.json.
 Zoom/
+.wrangler/
