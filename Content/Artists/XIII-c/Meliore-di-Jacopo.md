@@ -141,7 +141,7 @@ The dossal was shown at the Mostra giottesca of 1937 and restored in 1935, 1993 
 
 The earliest work given to Meliore is the dossal in the pieve of San Leolino at Panzano in Chianti. The Virgin sits on a cushioned throne with the Child on her knee; Saints Peter and Paul stand on either side, nearly as tall as she is; four scenes in the corners tell the deliverance and crucifixion of Peter and the conversion and beheading of Paul.
 
-The national catalogue gives the panel's size as 93.5 by 153 centimetres and records that it came to Panzano from Radda in Chianti about 1913, when it was restored by the painter Parrini. The titles of recent photographs give a provenance from San Pietro in Pesa. The panel was stolen in August 1979 and recovered in October 1980.
+The national catalogue gives the panel's size as 93.5 by 153 centimetres and records that it came to Panzano from Radda in Chianti about 1913, when it was restored by the painter Parrini. The panel was stolen in August 1979 and recovered in October 1980.
 
 Its attribution has divided the critics. George Martin Richter, in 1930, first compared it with the signed dossal, linked it to a Madonna in the Acton collection and dated it about 1250–1255, with a Lucchese formation. Offner, Garrison and Ragghianti accepted it as Meliore's. Evelyn Sandberg-Vavalà, Longhi and Luisa Marcucci gave it to an older master close to him.
 
@@ -309,6 +309,11 @@ The head of Paul is the most strongly characterised of the five. The high bald f
 ### The Dossal of Panzano
 
 <figure>
+  <img src="/Images/Meliore-di-Jacopo/meliore-di-jacopo-28.jpg" data-zoom-src="/Images/Meliore-di-Jacopo/meliore-di-jacopo-28-zoom.jpg" alt="The front of a country church with a white gabled façade, two small round-arched windows and a central door, behind a portico of five round arches on stone columns; tall cypresses at the left, a stone house at the right, under a cloudy sky.">
+  <figcaption>The pieve of San Leolino at Panzano in Chianti, where the dossal is kept. Photo: Vignaccia76, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
   <img src="/Images/Meliore-di-Jacopo/meliore-di-jacopo-18.jpg" data-zoom-src="/Images/Meliore-di-Jacopo/meliore-di-jacopo-18-zoom.jpg" alt="A rectangular panel with a dark brown ground in a dark frame. At the centre the Virgin sits on a throne with red cushions, in a blue mantle over a red dress, holding the Child; Saint Peter with keys and Saint Paul with a dark beard stand at either side, both gesturing towards her. In the four corners, small scenes with red-and-white dotted borders show the deliverance and crucifixion of Peter on the left and the conversion and beheading of Paul on the right.">
   <figcaption>Meliore di Jacopo (attributed), Madonna and Child enthroned between Saints Peter and Paul, with four scenes of their lives, c. 1250–1270. Tempera on panel, 93.5 × 153 cm. Panzano in Chianti, pieve di San Leolino. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
@@ -348,7 +353,7 @@ The third scene joins two episodes of Acts 9. At the left Saul, struck on the ro
   <figcaption>Meliore di Jacopo (attributed), Panzano dossal, the beheading of Saint Paul. Panzano in Chianti, pieve di San Leolino. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The last scene shows the soldiers after the execution and the body of Paul bending forward, blood flowing from the neck, outside the walls. Some faces of the soldiers are damaged. The four scenes together make the dossal an image of the two princes of the apostles, suitable for a church dedicated to Peter, which supports the provenance from a church of San Pietro.
+The last scene shows the soldiers after the execution and the body of Paul bending forward, blood flowing from the neck, outside the walls. Some faces of the soldiers are damaged. The four scenes together make the dossal an image of the two princes of the apostles. Where it stood before it came to Panzano from Radda is not recorded in the sources consulted.
 
 ### The Madonna of Bagnano
 
