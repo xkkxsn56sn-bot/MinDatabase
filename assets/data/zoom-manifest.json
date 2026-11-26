@@ -2523,6 +2523,160 @@
       "sha256": "a1fbae46af83bfbdb60324a27aaa92cd7d477bc3736523bbd993223fb8a56fb3"
     },
     {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-10-zoom.jpg",
+      "width": 2051,
+      "height": 2576,
+      "bytes": 820811,
+      "sha256": "b8ee5afc16b57b7f3160e641fc18a6074acf6dea0e0e6aa175af0dcde2ee05e5"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-11-zoom.jpg",
+      "width": 2576,
+      "height": 1830,
+      "bytes": 703489,
+      "sha256": "714a693fab8194896dd967236692f05fa8bd91ebf2a35deeb12d47fbf0191c71"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-12-zoom.jpg",
+      "width": 2576,
+      "height": 1672,
+      "bytes": 901036,
+      "sha256": "f8082751a241a76b1663a8b861bd2294e9d75970d7ee9e58c6f26268bfb4d74d"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-13-zoom.jpg",
+      "width": 2576,
+      "height": 1896,
+      "bytes": 1013603,
+      "sha256": "21de88767ea209ec8227c55f8b81d926e5d599e5eb4c37c5402a6fc564ba5bc0"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-14-zoom.jpg",
+      "width": 2576,
+      "height": 1906,
+      "bytes": 1031716,
+      "sha256": "0ec7b1f7b91d7d25896a9c0460ef87851353306af5a5b654153cb68d43ab0da9"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-15-zoom.jpg",
+      "width": 2576,
+      "height": 1989,
+      "bytes": 830336,
+      "sha256": "bba16208e32d57758f27bd495b0d0154fe3ef6354a60ae7beaf1735ee293eb72"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-16-zoom.jpg",
+      "width": 2576,
+      "height": 1884,
+      "bytes": 976417,
+      "sha256": "0aeddc36fe5c9206b5f0bbe46ea8f80d51dfa2a861ef1bfcb030b5cd8d89900a"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-17-zoom.jpg",
+      "width": 2576,
+      "height": 1900,
+      "bytes": 1018076,
+      "sha256": "04629d4ec4b91fe563a7613c2e93b64cd265aed31ab6188a07de8995dd216433"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-18-zoom.jpg",
+      "width": 2576,
+      "height": 1942,
+      "bytes": 1051867,
+      "sha256": "4881d99f77993636a4636e3d21963d17159f54b57dcc086045595100b2d9e662"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-19-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1051132,
+      "sha256": "49ee5cc909ff9e04c6b23a17609d2b9add600affed95e5c957b942e85b658b79"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-20-zoom.jpg",
+      "width": 1704,
+      "height": 2576,
+      "bytes": 753169,
+      "sha256": "182cf6ef8373ef0ca476b7c3f7ecc3290b58224a42631cbcb225c1c264163cf4"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-21-zoom.jpg",
+      "width": 2173,
+      "height": 2576,
+      "bytes": 841652,
+      "sha256": "8bf0b984b4e7f0e446f4729b73d5358e9416464cd06b463b150f98055ab6b3ef"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-23-zoom.jpg",
+      "width": 2576,
+      "height": 2482,
+      "bytes": 1489528,
+      "sha256": "53a5881db30234ade1535587af7e28e695da867af154bc7bc481a520f78c8177"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-24-zoom.jpg",
+      "width": 2576,
+      "height": 2247,
+      "bytes": 1514867,
+      "sha256": "7c5e79b1b1e8a4f630b46cae1e04c510158f95b3bf23d7507511bc46332a7a65"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-25-zoom.jpg",
+      "width": 2576,
+      "height": 2273,
+      "bytes": 1106190,
+      "sha256": "b6c4f2d1e94a8533d8784280736f0e259e59d418fee4af983bf0126ddc6384a0"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-26-zoom.jpg",
+      "width": 2576,
+      "height": 2310,
+      "bytes": 1159884,
+      "sha256": "524836eaaebe4a06b872f428c9c0af5e1a85467696e9826cff9c92a3e88f5553"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-27-zoom.jpg",
+      "width": 2576,
+      "height": 2254,
+      "bytes": 1048173,
+      "sha256": "4f1349a66da1aa883625275279cc78c375b0e85a27cfa9c2d55df7d1fc50bdb0"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-28-zoom.jpg",
+      "width": 2576,
+      "height": 2432,
+      "bytes": 1427494,
+      "sha256": "69ec3b46b3ee6f995ff525b3b6f6a7fb1433c32f2e51d0bdaded88b82f0701ff"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-29-zoom.jpg",
+      "width": 2576,
+      "height": 2205,
+      "bytes": 1258985,
+      "sha256": "5d6d6d9812ef3a350762fc16579a36ce9a4c8a99fcf38f46e2b10bc0dc7f6db2"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-30-zoom.jpg",
+      "width": 2576,
+      "height": 2373,
+      "bytes": 1385728,
+      "sha256": "bd602968cc21e26c1e1b78202ca1def9564bf08c24d88fa2738c1d82f48743bb"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-32-zoom.jpg",
+      "width": 1947,
+      "height": 2576,
+      "bytes": 465684,
+      "sha256": "eac87e9508bc734304f4d155c6ed45ea9f5d939d6a496fbe5c7a0503f17ef288"
+    },
+    {
+      "path": "Images/Maestro-Croce-434/maestro-croce-434-37-zoom.jpg",
+      "width": 2022,
+      "height": 2576,
+      "bytes": 486538,
+      "sha256": "4c4b527b21a9531d3f26e65a79fc359e766e496cc03d57ccad3038966b12d2da"
+    },
+    {
       "path": "Images/Maestro-Guglielmo/maestro-guglielmo-02-zoom.jpg",
       "width": 1666,
       "height": 2576,

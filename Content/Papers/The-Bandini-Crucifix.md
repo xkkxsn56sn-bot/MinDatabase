@@ -283,7 +283,7 @@ The Uffizi describes the painter's manner as one of strong contrasts of light an
 
 The Master's Lucchese roots are clearest in the cross of Tereglio, in the hills north of Lucca, which some scholars give to him and others to Bonaventura Berlinghieri with his collaboration. It is a *Christus triumphans* like the Bandini cross, but larger and complete with the mourners, the Christ blessing in the top panel and small scenes below.
 
-At Tereglio Christ hangs upright with open eyes against a gold ground. The top panel shows Christ blessing, with a book, between two angels, above the inscription IHS NAZARENUS REX IUDEORUM; the Virgin and Saint John stand beside the body, and below them two small narrative scenes. Small angels occupy the ends of the arms. The catalogue of Italian cultural heritage dates it after 1235.
+At Tereglio Christ hangs upright with open eyes against a gold ground. The top panel shows Christ blessing, with a book, between two angels, above the inscription IHS NAZARENUS REX IUDEORUM; the Virgin and Saint John stand beside the body, and below them two small scenes, the Capture of Christ and the holy women at the tomb. The symbols of the four Evangelists occupy the ends of the arms, and the denial of Peter is painted at the foot, beside the feet of Christ. The catalogue of Italian cultural heritage dates it after 1235.
 
 The three crosses, Fiesole, Tereglio and the Uffizi, show the range of the painter: a small cross with a single motif of the Passion, a larger triumphant cross with mourners and narrative scenes, and a great historiated cross with the dead Christ. They share the drawing of the body, the large eyes and the sharp contrast of light and dark.
 
