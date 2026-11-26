@@ -251,9 +251,9 @@ The book shows what the cult of Cuthbert could produce within a generation of hi
 
 The fullest picture cycle of Cuthbert's life is in a small book made at Durham in the last quarter of the twelfth century, now in the British Library as Yates Thompson MS 26. It contains Bede's prose Life and other texts about the saint, with a framed miniature for almost every chapter.
 
-The book belonged to the priory of Durham and was probably kept near the shrine. It later passed through private hands and was bought in 1906 by the collector Henry Yates Thompson; at his sale in 1920 it was bought by the British Museum, and it took his name when the Yates Thompson shelfmark was created after his widow's bequest of other manuscripts in 1941. Its pictures are among the most reproduced images of any English saint.
+The book belonged to the priory of Durham. It later passed through private hands and was bought in 1906 by the collector Henry Yates Thompson; at his sale in 1920 it was bought by the British Museum, and it took his name when the Yates Thompson shelfmark was created after his widow's bequest of other manuscripts in 1941. Its pictures are among the most reproduced images of any English saint.
 
-The cycle follows a model older than the book. An earlier illustrated Life, made at Durham around 1100 or in the first decades of the twelfth century, its exact date disputed, and now at Oxford (University College, MS 165), has drawings of the same scenes in much the same order. The Durham painters of the later twelfth century turned these drawings into painted miniatures with gold grounds and rich colour.
+The cycle follows a model older than the book. An earlier illustrated Life, made at Durham around 1100 or in the first decades of the twelfth century, its exact date disputed, and now at Oxford (University College, MS 165), has pictures of the same scenes in much the same order. The Durham painters of the later twelfth century followed that cycle, setting each scene on a gold ground with rich colour.
 
 The frontispiece shows Cuthbert as a bishop: frontal, in mitre, chasuble and alb, with a crosier in his left hand and his right hand raised in blessing. He stands on a gold panel in a red field. A monk in a dark habit lies at his feet and kisses them; he is often taken for Bede, the author, offering his work to the saint.
 
