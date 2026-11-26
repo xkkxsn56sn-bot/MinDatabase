@@ -1,247 +1,391 @@
 ---
 layout: entry
 title: "Pantaleone"
-subtitle: "Apulian-Basilian Mosaicist and Presbyter"
-dates: "Active 1163–1165"
+subtitle: "Presbyter named in the inscriptions of the floor mosaic of Otranto Cathedral, 1163–1165, the largest surviving figured pavement of medieval Italy"
+dates: "Named in inscriptions of 1163–1165"
+century: "XII"
 
 meta:
   - title: "CORE DATA"
     pairs:
       - label: "Name"
-        value: "Pantaleone (identified in inscriptions as 'Pantaleonis presbiteri')"
-      - label: "Primary role"
-        value: "Floor mosaicist; presbyter (priest or monastic cleric)"
-      - label: "Main affiliation"
-        value: "Otranto, Apulia; Monastery of San Nicola di Casole (Basilian) — probable formation and institutional home"
-      - label: "Period"
-        value: "Romanesque / Italo-Byzantine, XII century"
-      - label: "Securely attributed evidence"
-        value: "Four inscriptions in the floor mosaic of the Cathedral of Santa Maria Annunziata, Otranto, dating the work 1163–1165 and naming 'Pantaleonis presbiteri' as author"
+        value: "Pantaleone, presbyter (Pantaleonis presbiteri in the inscription of 1165)"
+      - label: "Work"
+        value: "Floor mosaic of the cathedral of Santa Maria Annunziata, Otranto: nave, aisles, presbytery and apse"
+      - label: "Patron"
+        value: "Ionathas (Gionata), archbishop of Otranto, c. 1155–1179"
+      - label: "Dates"
+        value: "1163 in the inscription before the high altar; 1165 in the inscription of the nave"
+      - label: "Reign"
+        value: "William I, king of Sicily (1154–1166), named in the inscription of 1165"
+      - label: "Technique"
+        value: "Tesserae of local stone in many tones on a light ground, with figures outlined in dark stone"
 
-  - title: "IDENTITY AND BIOGRAPHICAL LIMITS"
+  - title: "IDENTITY AND LIMITS"
     list:
-      - "Greek-origin name common in the Italo-Greek communities of medieval Apulia — suggests Byzantine or local Greek ecclesiastical milieu"
-      - "Designated 'presbyter' in the mosaic inscriptions: may indicate ordained priest, cleric in minor orders, or (most likely per scholarly consensus) a learned Basilian monk"
-      - "No records for birthplace, parentage, family, or genealogical connections"
-      - "No patronymic or toponym accompanies the name — consistent with monastic identity superseding familial ties"
-      - "No marriage, death, guild, notarial, or property records identified; Otranto archives destroyed in the Ottoman sack of 1480"
-      - "Paradigmatic case for the biographical obscurity of Southern Italian ecclesiastical artists of the Romanesque period"
+      - "Pantaleone is known only from the inscriptions of the pavement; no other document names him"
+      - "The formulas per manus and per dexteram may mean that he made the mosaic or that he administered the work; both readings have been defended"
+      - "His training at the Basilian monastery of San Nicola di Casole is a hypothesis of older scholarship, not a documented fact"
+      - "The pavement has been restored repeatedly, most heavily in the later nineteenth century and in 1986–1992; some heads, labels and details are modern"
 
   - title: "CHRONOLOGY"
     pairs:
-      - label: "Birth"
-        value: "Unknown; Apulia proposed; possibly from Greek-rite Italo-Greek community"
-      - label: "Documented activity"
-        value: "1163–1165 (mosaic inscriptions, Otranto Cathedral)"
-      - label: "Death"
-        value: "Unknown; no post-1165 documentation"
-      - label: "Historical framework"
-        value: "Norman Kingdom of Sicily under William I 'the Bad' (1154–1166); Otranto as principal Adriatic port and Byzantine cultural gateway; Basilian monasticism flourishing alongside Latin ecclesiastical hierarchy"
+      - label: "c. 1155"
+        value: "Ionathas archbishop of Otranto"
+      - label: "1163"
+        value: "Date in the verse inscription before the high altar"
+      - label: "1165"
+        value: "Inscription of the nave: Ionathas ordered the work by the hands of Pantaleone, under King William"
+      - label: "1480–1481"
+        value: "Ottoman capture of Otranto and siege by Alfonso of Calabria; the west front collapses and the entrance inscription is damaged"
+      - label: "1872 onwards"
+        value: "Interpretive restorations; the scene of King Arthur reworked in the last quarter of the century"
+      - label: "1986–1992"
+        value: "The nave mosaic lifted and relaid on a new base under the Soprintendenza of Bari"
 
-  - title: "ARTISTIC PRACTICE"
+  - title: "KEY WORKS"
     list:
-      - "Floor mosaic: opus tesselatum — tesserae cut from local Salentine limestone (not glass), ca. 600,000 pieces, 0.5–1.5 cm range; covering approximately 1,600 sq m"
-      - "Earth-toned palette (whites, creams, grays, browns, blacks) derived from natural limestone colour variation — no chromatic polychromy"
-      - "Traditional Roman mortar-bedding technique ensuring structural durability over seven centuries of foot traffic"
-      - "Linear figural style emphasising contour and silhouette; affinity with manuscript illumination and Byzantine icon conventions"
-      - "Compositional organisation: theological hierarchy over perspectival illusionism; relatively consistent figure scale across episodes (classical/Byzantine rather than Western hierarchical)"
-      - "Drapery treatment: Byzantine conventionalised parallel-fold patterns"
-      - "Encyclopedic iconographic planning requiring access to extensive library sources — likely prepared through years of monastic study"
-      - "Probable workshop assistants for execution of large-scale programme; variable figural quality consistent with collaborative production"
+      - "Nave: a great tree carried by two elephants, with Babel, Noah's Ark, Alexander, the twelve months, Adam and Eve, King Arthur, Cain and Abel and animals in its branches"
+      - "Presbytery: sixteen roundels with Adam and Eve, Solomon, the Queen of Sheba and animals"
+      - "Apse: Jonah and Samson"
+      - "Left aisle: a tree dividing the damned from the elect, with Hell and Satan, and Abraham, Isaac and Jacob receiving the souls"
+      - "Right aisle: a tree with Atlas, Samuel and animals"
 
-  - title: "STYLE"
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - "Italo-Byzantine foundation: frontal presentation of significant figures, stylised drapery, gesture and attribute used symbolically over naturalistic action"
-      - "Byzantine influence: linear fold conventions, theological-hierarchical spatial organisation, Eastern apocryphal iconographic sources"
-      - "Islamic decorative elements: geometric interlace patterns, border ornament, fantastic animal motifs recalling Fatimid and Abbasid vocabularies — mediated through Norman Sicily and Mediterranean trade"
-      - "Western Romanesque currents: zodiac/labours-of-the-months cycle following French Romanesque manuscript and sculptural conventions; Arthurian romance material from Norman aristocratic culture"
-      - "Classical inheritance: Alexander romance, mythological figures, and egalitarian figural scale derived from Hellenistic and Roman compositional precedents"
-      - "Syncretistic synthesis characteristic of the 12th-century Mediterranean: Greek, Latin, Islamic, and Eastern traditions unified within a single Christian theological framework"
+      - "Pantaleone as the mosaicist: the traditional reading; as an overseer or administrator of the work: Manuel Castiñeiras (2014)"
+      - "A Greek monk trained at Casole: Antonaci, Willemsen, Gianfreda; questioned by Castiñeiras"
+      - "Arthur riding a goat: the usual description; a horse in Meuwese (2025), the horns being a restoration"
+      - "Rejected: the earliest image of Arthur in Italy (the archivolt of Modena is earlier); UNESCO status for the cathedral; a tree sixty metres long"
 
-  - title: "ATTRIBUTED WORKS"
-    pairs:
-      - label: "Primary (signed, inscribed, and dated)"
-        value: "Floor mosaic, 1163–1165, opus tesselatum in Salentine limestone, ca. 1,600 sq m, Cathedral of Santa Maria Annunziata, Otranto"
-      - label: "Status of attributions"
-        value: "No other works securely or stylistically attributed to Pantaleone; single documented commission"
-
-  - title: "ICONOGRAPHIC PROFILE"
+  - title: "STYLE AND FORMATION"
     list:
-      - "Central armature: Tree of Life (Arbor Vitae) extending ca. 60 metres from entrance threshold to sanctuary — humanity's spiritual journey from earthly existence to heavenly salvation"
-      - "Old Testament cycle: Creation, Adam and Eve, Cain and Abel, Noah's Ark, Tower of Babel, Patriarchal narratives"
-      - "Classical and legendary material: Alexander the Great's celestial ascent in a griffin-drawn chariot; King Arthur riding a goat (one of earliest Italian Arthurian representations)"
-      - "Zodiac circle with labours of the months — cosmic calendar integrating salvation history with agricultural and astronomical time"
-      - "Zoomorphic bestiary: elephants, lions, deer, serpents, dragons, centaurs, sirens — drawn from the Physiologus (likely consulted in Greek-language version at Casole)"
-      - "Eastern figures: Queen of Sheba; fantastic hybrid creatures from Eastern tradition"
-      - "Fourfold hermeneutic operating throughout: literal, allegorical (typological), tropological (moral), anagogical (eschatological)"
-      - "Spatial theology: damnation imagery near entrance (tree's roots, earthly corruption); salvation imagery toward sanctuary (tree's crown, divine light)"
-      - "Programme roots: Physiologus; Genesis; apocryphal Greek texts; Norman Arthurian romance; classical mythology; medieval encyclopedic tradition"
+      - "Flat figures with heavy dark contours on a light stone ground, filled with tesserae of several tones"
+      - "A continuous tree as the structure of the whole floor, with scenes and animals set in its branches"
+      - "Labels in Latin capitals beside the figures"
+      - "Sources in biblical history, romance, the Alexander legend, bestiaries and calendars"
 
-  - title: "PATRONAGE CONTEXT"
+  - title: "PATRONAGE AND SETTING"
     list:
-      - "Primary patron: Archbishop Gionata (Jonathan) of Otranto — identified in mosaic inscriptions; probable former abbot of San Nicola di Casole"
-      - "Scale and cost of commission (ca. 600,000 tesserae; ca. 1,600 sq m) imply substantial episcopal financial resources"
-      - "Iconographic complexity suggests sustained patron–artist intellectual collaboration in programme design"
-      - "Archbishop Gionata's patronage of a Byzantine-tradition floor mosaic reflects deliberate assertion of Otranto's Greek heritage within the Latin Norman ecclesiastical hierarchy"
-      - "Didactic and liturgical function: visual summa for lay instruction, aligned with 12th-century pastoral concerns predating the Fourth Lateran Council (1215)"
-      - "No other commissions by Gionata documented; no contracts or financial accounts survive"
-      - "Norman royal patronage (William I) not evidenced in connection with Pantaleone; commission appears strictly episcopal"
+      - "Archbishop Ionathas, a member of the Norman Latin hierarchy of the kingdom of Sicily"
+      - "The kingship of William I, celebrated in the inscription after his victory over the rebel barons in 1160–1161"
+      - "Other figured pavements of Apulia: Taranto (1160–1161), Trani, Lecce, Brindisi (1178)"
 
-  - title: "GEOGRAPHY AND MOBILITY"
-    pairs:
-      - label: "Primary activity centre"
-        value: "Otranto, Apulia (heel of Italy) — principal Adriatic port and Byzantine cultural gateway"
-      - label: "Probable formative institution"
-        value: "Monastery of San Nicola di Casole, near Otranto — leading Basilian cultural centre in Apulia; destroyed by Ottomans 1480"
-      - label: "Likely artistic exposure (indirect)"
-        value: "Byzantine manuscript and portable-object tradition via Casole library; Norman-Sicilian mosaics (Palermo Palatine Chapel, c. 1140) as possible comparative models"
-      - label: "Possible study travel"
-        value: "Ravenna (late antique mosaics); Norman Sicily; possibly Constantinople — all speculative; no documentation"
-      - label: "Local material practice"
-        value: "Limestone tesserae quarried from Salentine sources — suggests Otranto-based production rather than itinerant workshop"
-      - label: "Mediterranean context"
-        value: "Otranto as cultural crossroads: Greek, Latin, Arabic, and Hebrew-speaking communities intersecting commercially and intellectually"
-
-  - title: "HISTORICAL SIGNIFICANCE"
+  - title: "RECEPTION AND LEGACY"
     list:
-      - "Creator of the largest and most encyclopedic surviving medieval floor mosaic in Europe"
-      - "One of the few named artists of 12th-century Southern Italian art; name preserved through self-authored inscriptions"
-      - "Primary surviving visual document of Italo-Byzantine cultural synthesis in Norman Apulia"
-      - "Earliest or among earliest Italian representations of Arthurian romance material (King Arthur)"
-      - "Key evidence for the intellectual and artistic programme of the Basilian monastery of San Nicola di Casole"
-      - "Paradigmatic example of the 12th-century encyclopedic ambition — the 'Renaissance of the Twelfth Century' in image form"
-      - "Subject of ongoing modern conservation; documented in 19th-century survey by Cosimo De Giorgi (1882)"
-      - "UNESCO recognition: Cathedral of Otranto designated World Heritage Site (as part of Castel del Monte group, subsequently)"
+      - "A poem by Nicola of Otranto, abbot of Casole (d. 1235), has been read as a near-description of the pavement"
+      - "Studied by Chiara Settis Frugoni (1968–1973), Carl Arnold Willemsen (1980), Grazio Gianfreda, Manuel Castiñeiras (2004–2014) and Xavier Barral i Altet (2010)"
+      - "A key document for the diffusion of Arthurian and Alexander legends in the twelfth century"
+      - "Related pages on the site: Modena Cathedral"
 
-  - title: "THEMATIC KEYWORDS"
-    list:
-      - "Pantaleone"
-      - "Otranto Cathedral"
-      - "Floor mosaic"
-      - "Tree of Life"
-      - "Opus tesselatum"
-      - "Italo-Byzantine"
-      - "Basilian monasticism"
-      - "Norman Apulia"
-      - "Encyclopedic iconography"
-      - "Arthurian legend"
-      - "Alexander romance"
-      - "Physiologus"
-      - "XII century"
-
-  - title: "RELATED ENTRIES"
-    links:
-      - title: "Alberto Sozio"
-        url: "/Content/Artists/XII-c/Alberto-Sozio.html"
-      - title: "Maestro Guglielmo"
-        url: "/Content/Artists/XII-c/Maestro-Guglielmo.html"
-      - title: "Maestro della Croce 432"
-        url: "/Content/Artists/XII-c/Maestro-della-Croce-432.html"
+scholars:
+  - title: "Barral i Altet, Xavier"
+    url: "/scholars.html#barral-i-altet-xavier"
+  - title: "Castiñeiras, Manuel"
+    url: "/scholars.html#castineiras-manuel"
+  - title: "Frugoni, Chiara"
+    url: "/scholars.html#frugoni-chiara"
+  - title: "Gianfreda, Grazio"
+    url: "/scholars.html#gianfreda-grazio"
+  - title: "Haug, Walter"
+    url: "/scholars.html#haug-walter"
+  - title: "Meuwese, Martine"
+    url: "/scholars.html#meuwese-martine"
+  - title: "Willemsen, Carl Arnold"
+    url: "/scholars.html#willemsen-carl-arnold"
 ---
 
-*Pantaleone* was a 12th-century presbitero (priest) and mosaicist active in the region of Apulia, specifically in Otranto, during the Norman period of Southern Italy. The only certain biographical information derives from four inscriptions within the mosaic pavement of the Cathedral of Santa Maria Annunziata in Otranto, which identify him as "Pantaleonis presbiteri" and date his work to the period between 1163 and 1165. The name Pantaleone itself suggests Greek or Byzantine origins, a designation common in the cultural melting pot of medieval Apulia where Greek, Latin, Norman, and Byzantine traditions intersected. His designation as *presbyter* in contemporary Latin usage could indicate he was either an ordained priest, a cleric in minor orders, or more likely a learned monk, as scholarly consensus suggests. 
+## A Name in a Pavement
 
-The *terminus ante quem* for his artistic production is firmly established at 1165, when the mosaic was completed according to its dedicatory inscription. No records exist documenting his birth, death, or activities before or after this monumental commission. The signature of the artist appears in a remarkable position—at the threshold of the cathedral entrance, outside rather than inside the sacred space, a detail that has generated considerable scholarly speculation about his humility or his liminal status between sacred and secular realms. His mastery of mosaic technique and encyclopedic knowledge evident in the iconographic program suggest he received extensive education and artistic training. The sophistication of his theological and literary references indicates access to substantial library resources, supporting the hypothesis of his monastic formation. During the mid-12th century when Pantaleone was active, Otranto served as a crucial maritime gateway connecting Western Europe with Byzantium and the Eastern Mediterranean.
+*Pantaleone* is known from a single work and from the words that name him in it. The floor of the cathedral of Santa Maria Annunziata at Otranto, at the eastern tip of Apulia, is covered with a figured mosaic that runs through the nave, the aisles, the presbytery and the apse. Its inscriptions date the work to 1163 and 1165, name the archbishop who ordered it, Ionathas, and name a presbyter, Pantaleone, through whose hands it was made.
 
-## Family background
+No other document mentions him. His birth, death, family and training are unknown, and nothing else, in Otranto or elsewhere, has been connected with him on firm grounds. Everything that can be said about him passes through the pavement: its inscriptions, its images and the questions they raise.
 
-No documentary evidence survives regarding Pantaleone's family, parentage, or familial connections, a lacuna typical of medieval artisan-clerics whose individual identities were often subsumed within their religious communities. The absence of patronymic designation in the mosaic inscriptions—he is identified simply as "Pantaleone" without reference to a father's name—suggests either low social status or, more probably, the adoption of monastic identity that superseded family ties. If indeed Pantaleone was a monk or oblate of the Basilian order, as most scholars believe, he would have entered religious life as a child or young man, severing formal connections to his biological family according to monastic custom. 
+The name is the Latin form of the Greek *Pantaleon*. It has often been taken as a sign that he belonged to the Greek-speaking community of the Salento, and from there older scholarship drew the further idea that he was a monk of the Basilian monastery of San Nicola di Casole, near Otranto. The name alone cannot carry so much: it was common in southern Italy, among Lombards as well as Greeks.
 
-The Greek character of his name implies possible descent from the Italo-Greek communities that had flourished in Apulia since the Byzantine reconquest under Justinian and the subsequent iconoclast migrations of the 8th-9th centuries. Basilian monasticism, the tradition most closely associated with Pantaleone's likely formation, often drew its recruits from local Greek-speaking populations who maintained Orthodox liturgical practices even under Norman Latin rule. No evidence exists of artistic dynasty or family workshop tradition, distinguishing Pantaleone from the hereditary craft guilds that would become prevalent in later medieval Italy. The ecclesiastical nature of his training and single known commission suggest formation within institutional rather than familial structures of artistic transmission. Without archival records of property transactions, wills, or legal documents, any reconstruction of Pantaleone's family circumstances remains purely speculative. The destruction of Otranto's medieval archives in 1480 eliminated potential sources that might have preserved information about artisan families in the city. It is possible that if Pantaleone came from a family of Greek-rite Christians, such documentation might have been kept separately from Latin church records and thus even more vulnerable to loss.
+As a presbyter he was a priest, and therefore probably at least thirty years old in 1165. That places his birth in the first half of the twelfth century, and it is the only biographical inference the evidence allows.
 
-## Artistic training
+The most recent account of him, by [Manuel Castiñeiras](/scholars.html#castineiras-manuel) in the *Dizionario Biografico degli Italiani* (2014), goes further in another direction. It reads the formulas of the inscriptions, *per manus* and *per dexteram*, as administrative language, meaning that the work was carried out through Pantaleone's agency, and suggests that he may have been the overseer or treasurer of the enterprise rather than the man who laid the stones.
 
-Scholarly consensus attributes Pantaleone's artistic and intellectual formation to the *Monastery of San Nicola di Casole*, the most important Basilian cultural center in Apulia during the 12th century. Founded in the 11th century by Basilian monks following the Rule of Saint Basil, the monastery became renowned throughout medieval Europe for its extensive library, which reportedly contained manuscripts in Greek, Latin, and Arabic. The monastery's scriptorium and school attracted scholars from across the Mediterranean, creating an environment of extraordinary cultural synthesis that would have provided ideal training for an artist of Pantaleone's evident erudition. 
+The question cannot be settled. The same formulas are used elsewhere for makers as well as for agents, and the pavement, which covers several hundred square metres, was certainly the work of a team. What is certain is that Pantaleone's name was the one recorded beside the archbishop's, and that it has stood for the work ever since.
 
-Documentary evidence, though fragmentary, confirms that the monastery possessed copies of the *Physiologus*, the Egyptian bestiary whose zoomorphic descriptions correspond precisely to figures in the Otranto mosaic, suggesting Pantaleone's direct access to the monastic library. The theological sophistication evident in the mosaic's iconographic program—synthesizing Old Testament narratives, apocryphal texts, classical mythology, and medieval romance—indicates years of studious formation in biblical exegesis and patristic literature. Casole's position as a cultural crossroads exposed its monks to diverse artistic traditions: Byzantine mosaic technique, Islamic decorative motifs, Norman architectural forms, and remnants of classical Roman art. 
+The previous version of this entry contained much that cannot be supported. It made Pantaleone a monk of Casole educated in its library, invented his travels to Ravenna, Sicily and Constantinople, gave the pavement 600,000 tesserae, 1,600 square metres and a tree sixty metres long, called the image of Arthur the first in Italy and the cathedral a UNESCO site, and set the mosaic against the Fourth Lateran Council of 1215. These claims are removed or corrected below.
 
-The monastery maintained connections with other Basilian foundations throughout Southern Italy, Sicily, and the Greek East, facilitating exchange of manuscripts, artistic techniques, and iconographic models. If Pantaleone entered Casole as a child oblate, as was common practice, he would have received comprehensive education in the trivium and quadrivium alongside training in liturgical arts and manuscript illumination. The monastery's destruction by Ottoman forces in 1480, contemporary with Otranto's sack, obliterated its library and archives, making precise reconstruction of its curriculum and artistic production impossible. Nevertheless, the surviving mosaic itself provides eloquent testimony to the quality and breadth of education available at this remarkable institution.
+The account that follows treats the inscriptions, the patron and the setting, the structure of the pavement, its themes, the question of Arthur, and the history of its restorations. The catalogue examines the parts of the floor illustrated here, from the elephants at the entrance to the patriarchs of the left aisle.
 
-## Ecclesiastic patronage
+## The Inscriptions
 
-The mosaic inscriptions explicitly identify *Archbishop Gionata* (Jonathan) of Otranto<a href="/endnotes.html#fn-gionata" class="footnote"><sup>1</sup></a> as the patron who commissioned Pantaleone's masterwork between 1163 and 1165. The commissioning of such an ambitious and expensive project—covering approximately 1,600 square meters with an estimated 600,000 limestone tesserae—indicates Gionata's access to substantial financial resources and his commitment to enhancing the cathedral's liturgical and didactic functions.
+The pavement carries several dedicatory inscriptions, and they are its only documents. Their texts are known partly from the floor itself and partly from early transcriptions, because some of them were damaged in 1480–1481 and restored later.
 
-The iconographic program's complexity suggests extensive collaboration between patron and artist in determining theological content and narrative structure, implying Gionata's own considerable learning. As archbishop during the Norman kingdom of William I "the Bad" (1154-1166)<a href="/endnotes.html#fn-william-i-sicily" class="footnote"><sup>2</sup></a>, Gionata navigated the complex political landscape of Southern Italy, where Latin, Greek, and Norman ecclesiastical traditions competed for influence. His patronage of a floor mosaic—a medium associated more with Byzantine and early Christian tradition than contemporary Romanesque practice—may reflect deliberate assertion of Otranto's Greek heritage within the Norman kingdom's Latin ecclesiastical hierarchy.
+The principal inscription runs across the middle of the nave in two bands, beneath the scene of Noah's Ark. It is dated 1165, in the thirteenth or fourteenth indiction according to the reading, and names the reigning king, William, "rege magnifico et triumfatore". It states that "the humble servant of Christ Ionathas, archbishop of Otranto, ordered this work to be made by the hands of Pantaleone the presbyter": *humilis servus Christi Ionathas Hydruntinus archiepiscopus iussit hoc opus fieri per manus Pantaleonis presbiteri*.
 
-The choice of a Greek-named artist and incorporation of Eastern iconographic elements alongside Western medieval motifs suggest Gionata's vision of cultural synthesis rather than domination. The mosaic's encyclopedic character, functioning as a visual summa of theological knowledge accessible to laity and clergy alike, reflects the 12th-century pedagogical concerns associated with the "renaissance of the twelfth century". No records survive of other artistic commissions by Gionata, nor of his administrative acts as archbishop, due to the 1480 archive destruction. The collaborative relationship between Gionata and Pantaleone, inferred from the mosaic's intellectual sophistication, exemplifies the ideal of learned patronage uniting ecclesiastical authority with monastic scholarship.
+A second inscription, in front of the high altar, is in leonine verse and dated 1163. It opens with the formula *Anno ab incarnatione Domini nostri*; the rest is largely illegible. If both dates refer to stages of the work, the pavement was laid from the east end towards the entrance over at least two years.
 
-Beyond Archbishop Gionata, the documentation of Pantaleone's patronage network remains entirely speculative due to absence of surviving records. The Otranto cathedral mosaic represents his only firmly attributed work, leaving uncertain whether he maintained an independent workshop, accepted other commissions, or created the mosaic as a singular monastic obedience. If Pantaleone indeed belonged to the Monastery of San Nicola di Casole, his artistic production would have fallen under monastic discipline, with commissions negotiated through the abbot rather than personal contract. 
+A third inscription frames a roundel of the presbytery near the figure of Solomon: *Ionathas humilis servus Christi Idrontinus archiepiscopus iussit hoc opus fieri*. A fourth, around a medallion with a monster devouring a hare, praises the work and its patron; a later restoration has made parts of it hard to read.
 
-The Norman counts and kings who ruled Apulia during this period—particularly William I (1154-1166)—patronized ambitious architectural and decorative projects throughout their domains, though no evidence connects Pantaleone to royal commissions. The Greek-rite ecclesiastical hierarchy in Apulia, which coexisted uneasily with Latin episcopal authority, might have represented potential patrons for an artist trained in Byzantine mosaic techniques. Wealthy merchant families in Otranto, enriched by the city's position in Mediterranean trade networks, occasionally commissioned religious artwork, though guild and confraternity records that might document such patronage were destroyed in 1480. 
+The last inscription lies in front of the entrance: *Ex Ionathe donis per dexteram Pantaleonis hoc opus insigne est superans impendia digne*, "From the gifts of Ionathas, by the right hand of Pantaleone, this noble work was made, worthily surpassing its cost". It was damaged when the west front collapsed in the siege of 1481, and its second line was reconstructed in the nineteenth century from older sources.
 
-The fact that no other mosaics from 12th-century Apulia bear Pantaleone's signature or stylistic characteristics comparable to Otranto suggests either that he produced no other major works, or that such works have not survived or been recognized. The collaborative nature of medieval artistic production complicates attribution, as assistants and workshop members often executed designs under a master's direction without individual credit. Pantaleone's identification as *presbyter* rather than *magister* or *artifex* may indicate that he did not maintain a commercial workshop in the conventional sense. The highly specialized nature of opus tesselatum floor mosaics—increasingly rare in 12th-century Italy compared to earlier periods—limited the market for such skills. Without comparative works or documentary evidence, reconstructing Pantaleone's broader patronage relationships remains impossible beyond acknowledging Archbishop Gionata's pivotal role.
+The inscriptions say three things clearly. The archbishop ordered and paid for the work; Pantaleone was the person through whom it was done; and it was carried out under King William, whose title of "triumphator" recalls his victory over the rebel barons in 1160–1161. They say nothing about Pantaleone's status beyond his priesthood, nothing about a monastery and nothing about assistants.
 
-## Technical achievements
+Many figures are also labelled. Beside the scenes stand names in Latin capitals: REX ARTVRVS, ALEXANDER REX, ABEL and CAYN, ABRAHAM, YSAAC and IACOB, SAMVEL, INFERNVS and SATANAS, the names of the months. Beside the murder of Abel God's question is written out: *Ubi est Abel frater tuus?* (Genesis 4:9). Some of these labels have been retouched in restoration.
 
-Pantaleone's mosaic technique demonstrates mastery of *opus tesselatum*, the ancient Roman method of creating floor mosaics from small, roughly cubic stone tesserae rather than the glass tesserae used in Byzantine wall mosaics. The Otranto pavement employs approximately 600,000 tesserae cut from local Salentine limestone, exploiting natural color variations in the stone to create a predominantly earth-toned palette of whites, creams, grays, browns, and blacks without chromatic polychromy. 
+The labels show that the pavement was meant to be read, not only seen. They name the figures for a viewer who knew Latin letters and could walk the length of the floor, and they give the stories the authority of the written word.
 
-This technical choice reflects both material economy and aesthetic affinity with early Christian mosaic traditions rather than contemporary Byzantine practice, which favored brilliant glass tesserae and gold backgrounds. The tesserae range in size from approximately 0.5 to 1.5 centimeters, with smaller pieces employed for detailed facial features and larger ones for backgrounds and borders, demonstrating sophisticated understanding of optical effects and viewing distance. Pantaleone utilized traditional Roman bedding techniques, setting tesserae into mortar layers applied over the cathedral's foundation, ensuring durability that has preserved much of the original work despite seven centuries of foot traffic before modern protective measures. 
+## Ionathas, King William and Otranto
 
-The artist's linear style emphasizes contour and silhouette over volumetric modeling, creating figures that recall manuscript illumination and Byzantine icon painting more than classical Roman naturalism. Compositional organization follows a hierarchical symbolic structure rather than perspectival illusionism, with the great Tree of Life serving as central armature extending from the entrance threshold through the nave to the sanctuary, organizing narrative episodes along its trunk and branches. Individual figural scenes demonstrate varying levels of technical sophistication: some, particularly the zodiac signs and months, display accomplished anatomical understanding and dynamic poses, while others, especially certain animal figures, appear more schematic and symbolic. The treatment of drapery shows influence of Byzantine conventionalized fold patterns, with parallel lines indicating fabric flow rather than naturalistic rendering of textile weight and texture. Pantaleone's spatial organization avoids medieval Western convention of hierarchical scale—where important figures appear larger than subordinate ones—instead employing relatively consistent figure sizes across different narrative episodes, suggesting influence of classical and Byzantine egalitarian compositional principles.
+Ionathas, or Gionata, was archbishop of Otranto from about 1155 to about 1179. Castiñeiras proposes a Norman, perhaps even Welsh, origin and notes his friendship with Clemente, a judge of Taranto and a member of the royal court in Palermo. He belonged, in any case, to the Latin hierarchy that the Norman kings had established in Apulia.
 
-## Iconography
+The previous entry presented him as a former abbot of Casole and his commission as an assertion of Otranto's Greek heritage. Neither point is documented. The inscriptions name him as a Latin archbishop acting in the reign of a Norman king, and the content of the pavement, with its romance heroes and its royal figures, belongs to the culture of that court.
 
-The iconographic program of the Otranto mosaic constitutes one of the most complex and encyclopedic visual narratives surviving from medieval Europe, synthesizing biblical, classical, medieval, and Eastern sources into a coherent theological and philosophical statement. The central organizing motif, the *Tree of Life* (Arbor Vitae), extends approximately 60 meters from the cathedral entrance to the sanctuary, its roots beginning at the threshold and its crown culminating in the presbytery, symbolizing humanity's spiritual journey from earthly existence to heavenly salvation. 
+The inscription of 1165 gives William I the titles *magnificus* and *triumphator*. William, king of Sicily from 1154 to 1166, had put down a revolt of the barons of Apulia and Sicily in 1160–1161. The pavement was laid in the years immediately after, and its kings, Solomon, Alexander and Arthur, have been read as images of rulership in a kingdom that had just reasserted its authority.
 
-Along the tree's trunk and branches, Pantaleone arranged narrative vignettes from Genesis including the Creation, Adam and Eve's temptation and expulsion, Cain's murder of Abel, Noah's Ark and the Flood, the Tower of Babel, and other Old Testament episodes, presenting salvation history from Creation through the Patriarchs. Interspersed with biblical narratives appear figures from classical mythology, medieval romance, and Eastern tradition: Alexander the Great ascending to heaven in a chariot drawn by griffins, King Arthur riding a goat, the Queen of Sheba, and various fantastic beasts derived from the Physiologus bestiary tradition. 
+Otranto was the principal port of the Salento on the Strait, facing Albania and the Byzantine world across the Adriatic. Its population included Greek and Latin Christians and a Jewish community, and its monastery of San Nicola di Casole was a centre of Greek learning. The cathedral itself, consecrated in 1088, belonged to the Latin church.
 
-The inclusion of the zodiac circle with corresponding labors of the months creates a cosmic calendar integrating divine salvation history with the cyclical rhythms of agricultural and astronomical time. Representations of animals—elephants, lions, deer, serpents, dragons, centaurs, sirens—function simultaneously as naturalistic observation, symbolic attribute, and moral exemplum according to medieval exegetical practice. The mosaic's narrative structure operates on multiple interpretive levels corresponding to medieval hermeneutic theory: literal (historical events), allegorical (typological prefigurations of Christ), tropological (moral instruction), and anagogical (eschatological meaning). Spatial organization follows theological rather than chronological logic, with scenes of damnation concentrated in the entrance area where the tree's roots suggest earthly corruption, while salvation imagery predominates in the sanctuary where the tree's crown reaches toward divine light. The deliberate juxtaposition of Eastern and Western iconographic traditions—Byzantine stylistic conventions alongside Norman architectural forms, Islamic decorative motifs with Christian theological content—reflects Otranto's position as cultural crossroads where Mediterranean civilizations intersected. This syncretistic approach, rather than representing theological confusion, embodies the 12th-century intellectual confidence in universal truth transcending cultural particularities, a vision associated with the Cathedral School movement and early scholasticism.
+The pavement is one of a group of figured floors in Norman Apulia. Taranto had one dated 1160–1161, Trani and Lecce others of about the same years, and Brindisi one of 1178. They share the white ground, the dark contours and the mixture of biblical and secular subjects, and they show that the Otranto mosaic belonged to a regional practice rather than to an isolated workshop.
 
-Pantaleone's artistic formation in the cultural environment of Byzantine Southern Italy profoundly shaped both his technical approach and iconographic vocabulary. The Basilian monasteries of Apulia, including San Nicola di Casole, maintained direct liturgical and artistic connections with Constantinople and other centers of Byzantine culture throughout the period of Norman Latin political domination. Byzantine mosaic technique, though Pantaleone worked in floor rather than wall medium, provided fundamental training in tesserae cutting, color gradation, and compositional organization according to theological hierarchy rather than optical naturalism. 
+Castiñeiras reads the iconography as Norman and chivalric rather than Byzantine, and links it to the culture of romance and of the Alexander legend that circulated at the courts of England, France and Sicily. Ilaria Molteni and Irene Quadri (2020) read the whole floor as a universal chronicle in images, in which biblical history, ancient kingship and the Norman present are set in one sequence.
 
-Specific iconographic motifs derive unmistakably from Byzantine sources: the stylized rendering of drapery in parallel folds, the frontal presentation of significant figures, the use of gesture and attribute to convey meaning rather than naturalistic action, and the employment of gold (though necessarily absent in floor mosaic) as conceptual rather than literal illumination. The Tree of Life motif itself, while present in Western medieval art, shows particular affinity with Byzantine textile patterns and manuscript illuminations from Constantinople and Cappadocia. 
+A later witness shows how the floor was seen in its own milieu. A poem by Nicola of Otranto, abbot of Casole in the early thirteenth century, has been read by scholars as a near-description of the pavement. It confirms that the images were understood by the learned men of Otranto as a programme to be read.
 
-Eastern Christian apocryphal texts, preserved and transmitted through Basilian scriptoria, supplied narrative details absent from canonical Western biblical texts, evident in certain episodes of the Otranto mosaic that reflect Greek rather than Latin exegetical traditions. Islamic artistic influence, mediated through Norman Sicily and direct Mediterranean trade contact, appears in the decorative borders, geometric interlace patterns, and certain fantastic animal representations that recall Fatimid and Abbasid decorative vocabularies. 
+The commission was costly, as the entrance inscription says, and it was the archbishop's. Nothing is known of Ionathas's other works or of the accounts of the enterprise. The Ottoman capture of Otranto in 1480, in which the cathedral was turned into a mosque, and the siege of 1481 destroyed much of the city's archives.
 
-The Physiologus, whose descriptions guide many of the mosaic's zoomorphic figures, originated in Hellenistic Egypt and circulated primarily through Greek manuscript tradition before Latin translations, suggesting Pantaleone's access to Greek-language versions at Casole. Persian and broader Eastern traditions contributed motifs such as the Alexander romance, which entered Western medieval culture through Byzantine intermediaries who preserved and elaborated Hellenistic legendary materials. The integration of these diverse Eastern influences with Western Romanesque architectural context demonstrates Pantaleone's sophisticated understanding of visual translation across cultural boundaries rather than mere copying of foreign models. This artistic syncretism reflects the historical reality of 12th-century Otranto as a port city where Greek, Latin, Arabic, and Hebrew-speaking communities coexisted and interacted commercially and intellectually.
+## The Structure of the Floor
 
-Despite strong Byzantine and Eastern components, Pantaleone's work also demonstrates absorption of Western medieval artistic and intellectual currents circulating through Norman Southern Italy in the mid-12th century. The cathedral architecture itself, constructed in Romanesque style with its three-nave basilica plan, provided a specifically Western spatial context that influenced the mosaic's linear, processional organization from entrance to sanctuary. 
+The pavement covers the whole floor of the cathedral. In the nave a single great tree rises from the entrance towards the altar, carried at its base by two elephants. Its trunk divides the floor lengthwise, and its branches spread to either side, enclosing scenes and figures in the spaces between them.
 
-The inclusion of *King Arthur* and other Arthurian romance material indicates familiarity with Northern French literary traditions that had penetrated Southern Italy through Norman aristocratic culture, representing a distinctly Western medieval imaginative universe. Western medieval encyclopedic ambitions—the desire to encompass all knowledge within unified systematic frameworks—inspired the mosaic's attempt to synthesize biblical history, natural history, cosmology, and salvation theology in a single comprehensive visual program. 
+In each aisle another tree organises the floor. The tree of the left aisle rests on an animal and divides the damned from the elect: on one side Hell and Satan, on the other the patriarchs Abraham, Isaac and Jacob holding the saved in their laps. The right aisle carries Atlas, Samuel and other figures among its branches.
 
-The representation of the zodiac with corresponding labors of the months follows conventions established in French Romanesque sculpture and illuminated manuscripts, particularly those associated with Cluniac reform monasticism. Certain figural styles, particularly in the rendering of contemporary medieval costume and agricultural implements in the months cycle, reflect observation of Norman Apulian daily life rather than Byzantine artistic convention. The moral and didactic function of the mosaic—serving as visual instruction for the largely illiterate laity—corresponds to Western medieval pastoral concerns articulated at the Fourth Lateran Council (1215, slightly later than the mosaic) regarding lay education. 
+The presbytery has a different system: sixteen roundels in rows, each with a figure or an animal, among them Adam and Eve, King Solomon and the Queen of Sheba. In the apse the mosaic resumes beyond the altar with Jonah, the prophet of Nineveh, and Samson. A gap left by the medieval iconostasis and another by a later altar interrupt the sequence.
 
-Romanesque decorative vocabularies appear in the mosaic's border patterns, foliate ornament, and architectural framing devices, linking the work to contemporary sculpture and architectural decoration in Northern Italy and Southern France. The hierarchical organization of salvation history from Creation through patriarchal narratives reflects exegetical frameworks developed by Western patristic and early scholastic theologians, particularly Augustine's City of God and its influence on medieval historical consciousness. Pantaleone's integration of classical mythology—particularly the Alexander cycle—alongside Christian narrative follows precedents established in Romanesque sculptural programs such as those at Modena and Vézelay, where pagan and Christian elements coexist as components of universal divine providence. This synthetic approach, characteristic of 12th-century intellectual culture often called the "Renaissance of the Twelfth Century," reflects the period's confidence in reason's capacity to reconcile apparent contradictions within a comprehensive Christian worldview.
+The nave carries the largest number of subjects. From the entrance upwards the main episodes are the Tower of Babel, Noah's Ark and the story of Noah's vine; Alexander the Great carried towards heaven by griffins; the twelve months in roundels; and higher up, Adam and Eve, King Arthur, and Cain and Abel. Animals, monsters and hunting scenes fill the spaces between.
 
-## Travels
+The tree does not form a strict narrative order. Scenes are distributed along its branches by a logic that scholars still debate: chronological, from creation to the patriarchs; moral, from sin to salvation; or encyclopaedic, as a map of the world and of time. What is clear is that the tree binds the whole floor into one image, and that the viewer walking from the door to the altar passes through it.
 
-The absence of biographical documentation makes reconstruction of Pantaleone's travels, if any, entirely speculative based on stylistic and iconographic analysis of his work. Whether Pantaleone traveled beyond Otranto and its immediate environs or absorbed artistic influences through portable objects—manuscripts, textiles, ivories—circulating in Mediterranean trade networks remains uncertain. If he received his formation at San Nicola di Casole, as scholarly consensus suggests, his artistic education might have occurred entirely within a single monastic complex whose rich library and international connections provided access to diverse cultural materials without requiring personal travel. 
+The figures are drawn with heavy dark contours on a light ground and filled with tesserae in many tones of stone: whites, creams, ochres, pinks, reds, browns, greys and greens. The colours come from local stones; the reds and dark tones give the contours and accents. There is no gold. Some later insertions, such as the disc of coloured marbles held by a figure in the right aisle, are of other materials.
 
-However, the sophisticated understanding of different artistic traditions evident in the mosaic could also suggest direct exposure to Byzantine mosaics in Constantinople, Ravenna, or Norman Sicily, centers where opus tesselatum and opus vermiculatum traditions survived from late antiquity. The 12th-century Mediterranean remained navigable despite political fragmentation, and artistic pilgrimage—travel undertaken by craftsmen to study major works and learn techniques—was established practice, particularly for specialized arts like mosaic work. 
+The size of the pavement is often exaggerated. The nave floor is about 28 metres long and 10 metres wide, according to Martine Meuwese (2025), and the cathedral is a basilica of moderate dimensions. Figures for the total area and for the number of tesserae that circulate in popular accounts have no published source.
 
-Norman Sicily under Roger II (1130-1154) and William I (1154-1166) represented the closest geographic center of mosaic production, with the Palatine Chapel in Palermo (completed c. 1140) and the cathedral at Monreale (begun 1172, after Otranto) featuring extensive Byzantine-style mosaics created by Greek and Greek-trained artists. Whether Pantaleone visited these Sicilian sites or learned of their programs through workshop networks remains unknown, though stylistic comparisons reveal both similarities and significant differences in iconographic approach and technical execution. 
+The execution is uneven. Some figures, such as the months, are drawn with assurance and with a sense of the human body at work; others are schematic. The variation is consistent with a large team working over several years under a common design, and it does not allow single hands to be identified.
 
-Ravenna, the preeminent surviving repository of late antique and early Christian mosaics in Italy, might have attracted Pantaleone as pilgrimage destination and artistic study site, though no documentary evidence supports this hypothesis. The question of Byzantine travel—whether Pantaleone might have journeyed to Constantinople or other Eastern centers—remains even more speculative, depending largely on whether one interprets Byzantine influences in his work as direct observation or mediated transmission through objects and possibly visiting artists. The highly localized character of the limestone tesserae, quarried from Salentine sources rather than imported, suggests Pantaleone worked in Otranto with local materials rather than maintaining an itinerant workshop practice common among some medieval artists. Ultimately, the single documented work and complete absence of travel records leave Pantaleone's potential movements beyond the realm of evidence-based historical reconstruction, firmly in the territory of informed speculation.
+## Themes and Sources
 
-## Death and legacy
+The subjects of the pavement come from several traditions. The Bible supplies the main sequence: the creation and fall, Cain and Abel, Noah, Babel, the patriarchs, Samson, Samuel, Solomon and the Queen of Sheba, Jonah. Its stories are presented as the history of the world, from the beginning to the prophets.
 
-No documentation records Pantaleone's death, its date, location, or circumstances, leaving this fundamental biographical datum completely unknown. The terminus post quem of 1165, when the Otranto mosaic was completed, provides the last certain chronological reference to his existence. Whether he died shortly after completing this monumental project or continued artistic production for years or decades afterward cannot be determined from surviving evidence. 
+Beside the Bible stand the kings of secular history and legend. Alexander the Great rises towards heaven in a basket carried by two griffins, which he lures upwards with meat held on spears: an episode of the Alexander romance that medieval writers read as a warning against pride. King Arthur appears near Adam and Eve, labelled REX ARTVRVS.
 
-If Pantaleone was indeed a monk of San Nicola di Casole, his death would presumably have occurred within the monastic community, with burial in the monastery cemetery, though the destruction of the monastery in 1480 obliterated any tombstone or memorial that might have preserved this information. The absence of other attributed works suggests either that he produced no subsequent major commissions, that such works have not survived, or that they remain unrecognized without the signature that identifies the Otranto pavement. Medieval monastic necrologies—calendars of deceased brothers commemorated in liturgical prayer—might have recorded Pantaleone's death date had such documents survived from Casole, but the monastery's archive destruction eliminated this potential source. 
+The months bring the cycle of the year into the floor. Each roundel shows the name of the month, its zodiac sign and its typical labour: pruning, warming by the fire, ploughing, harvesting, treading grapes, killing the pig. They follow the calendars of Western sculpture and manuscripts, and they show the rural life of the twelfth century in a setting of cosmic time.
 
-The very obscurity of Pantaleone's personal biography paradoxically ensured his artistic immortality: the single surviving work bearing his name stands as one of the most remarkable and best-preserved medieval mosaics in Europe, guaranteeing scholarly attention and public recognition that many more extensively documented artists never achieved. The Otranto mosaic remained in continuous liturgical use throughout the medieval and early modern periods, though portions were damaged or altered during Baroque-era renovations that modified the sanctuary area and installed the present high altar. 
+The animals are many and varied: elephants, lions, goats, cats, dragons, griffins, sirens, centaurs and creatures without names. Some come from the bestiary, some from the repertory of hunting scenes and of fantastic peoples at the edges of the world. Castiñeiras links them to the tradition of the *Marvels of the East* and to medieval maps, on which such creatures inhabited the margins of the known world.
 
-Nineteenth-century restoration campaigns, documented by the scholar Cosimo De Giorgi in 1882, unfortunately introduced arbitrary modifications including the addition of a crown to King Arthur's head, demonstrating the interpretive challenges and risks facing such ancient artworks. Modern conservation efforts beginning in the late 20th century have employed scientific analysis and protective measures to preserve the mosaic while maintaining public access, recognizing its status as both liturgical floor and artistic masterpiece. 
+The previous entry presented the programme as a fusion of Byzantine, Islamic, Western and classical traditions in a Greek monastic setting, and listed Islamic decorative motifs and the *Physiologus* in Greek among its sources. Some animals do recall Eastern textiles, and some descend from the bestiary, but the main lines of the programme, the romance heroes, the calendar and the use of the tree, point to Western and Norman sources.
 
-Pantaleone's legacy extends beyond the physical survival of his work to influence contemporary understanding of medieval cultural synthesis, demonstrating how 12th-century Mediterranean civilization integrated diverse traditions—Greek, Latin, Islamic, Jewish—within coherent theological and artistic frameworks. The mosaic's continuing capacity to generate scholarly interpretation across disciplines—art history, theology, literature, anthropology—testifies to the encyclopedic ambition and intellectual sophistication that Pantaleone and his patron Archbishop Gionata embedded within its 600,000 limestone tesserae.
+The reading of the floor as a whole remains open. Chiara Settis Frugoni studied it as a programme of salvation history in a series of articles from 1968 to 1973. Walter Haug read the Arthur scene in the context of the romance tradition. Molteni and Quadri see a universal chronicle; Castiñeiras a royal image of the Norman kingdom. These readings are not exclusive.
 
-## Works
+What all of them recognise is the scope of the programme. The floor holds the history of the world from creation, the kings of legend, the cycle of the year, the animals of the earth and the last things, Hell and the bosom of Abraham. It is a picture of the world laid at the feet of those who entered the cathedral.
 
-### Otranto Mosaic (The Zodiac)
+Its theological meaning should not be overstated. The previous entry read the floor according to the four senses of Scripture, literal, allegorical, moral and anagogical, scene by scene. Such a reading may suit the learned clergy of Otranto, but no text of the period applies it to the pavement, and it is an interpretation, not a description.
+
+## King Arthur
+
+The image of Arthur is the most famous detail of the pavement. It shows a crowned figure, labelled REX ARTVRVS, riding an animal and raising a club, while a spotted, cat-like beast attacks from below. Next to him stand Adam and Eve after the Fall, and beyond him Cain kills Abel.
+
+It is one of the earliest images of Arthur anywhere. It is not, however, the first in Italy: the archivolt of the Porta della Pescheria at Modena Cathedral, with Arthur and his knights besieging a castle, is generally dated to the first decades of the twelfth century, several decades earlier than Otranto.
+
+Martine Meuwese, in the *Journal of the International Arthurian Society* (2025), has studied the scene in detail. She identifies the beast as the monstrous cat of the Arthurian tradition, Cath Palug in Welsh and Chapalu in French, which Arthur fights in several texts, though no known text corresponds exactly to the image.
+
+The animal Arthur rides is usually described as a goat. Meuwese argues that it was a horse, and that its horns are the work of a restorer. A drawing made for Aubin-Louis Millin in 1813, now in the Bibliothèque nationale de France, records the scene before the restoration of the last quarter of the nineteenth century, which reworked it crudely.
+
+Meuwese also argues that the crown belonged to the original image. The previous entry stated that a restoration of 1882 added it; she shows instead that the restorer retouched the figure without inventing its royal character. Walter Haug had already proposed that the "horns" were originally the reins.
+
+The place of Arthur in the floor has been much discussed. He stands in the upper part of the nave, near the scenes of the Fall, above the month of March and the sign of Pisces. Some scholars see him as an example of the knight who fights evil; others as a king of the past among the kings of the floor; others as a figure whose meaning, as Meuwese says, cannot be fixed.
+
+The presence of Arthur in Apulia in 1165 shows that Arthurian stories were known in the Norman kingdom of Sicily long before the French romances of Chrétien de Troyes. They may have come through the Normans and the Bretons who served them, or through the crusaders who passed through the Apulian ports.
+
+The scene is also a warning about the state of the pavement. What a visitor sees today is the result of restorations that changed the details of one of its most important figures. Every reading of the floor must reckon with the possibility that heads, attributes and labels are modern.
+
+## Restorations and Survival
+
+The pavement has survived eight and a half centuries of use and several disasters. In 1480 the Ottomans took Otranto, killed many of its inhabitants and turned the cathedral into a mosque. In 1481, during the siege by which Alfonso of Calabria recovered the city, the west front collapsed and damaged the floor near the entrance.
+
+The cathedral was reconsecrated after the recovery, and in the following centuries it was refurnished. A Renaissance rose window, a Baroque portal of 1674 and stucco decoration of the later seventeenth century changed its appearance, and altars and an iconostasis were set on parts of the floor.
+
+Interpretive restorations of the mosaic began in the later nineteenth century. From 1872 parts of the floor were reconstructed, among them the second line of the entrance inscription. The Arthur scene was reworked in the last quarter of the century. Cosimo De Giorgi described the pavement in 1882.
+
+In the twentieth century the interior was stripped of its Baroque additions, a process begun in 1937 and interrupted by the war. In 1953 the choir, altar and balustrade were removed to uncover the mosaic. In 1986 the nave mosaic was lifted and relaid on a new, waterproof base, and excavations beneath it found remains of earlier buildings and a late Roman mosaic. The work, overseen by the Soprintendenza of Bari, ended in 1992.
+
+These campaigns preserved the floor and changed it. The lifting of 1986 secured the mosaic against damp; the restorations of the nineteenth century replaced missing tesserae, sometimes with new drawing. A full study of what is original and what is restored has not been published.
+
+The previous entry claimed that the pavement owed its preservation to "seven centuries of foot traffic" followed by modern protection. The truth is the reverse: it survived despite use, disaster and alteration, and much of its present surface is the result of repair.
+
+The pavement is protected today by the cathedral and by the state authorities. It is not a UNESCO World Heritage Site; the previous entry confused it with Castel del Monte, a separate site in northern Apulia.
+
+What survives is still the largest figured pavement of medieval Italy and the fullest example of the Apulian floors of the twelfth century. Pantaleone's name, set in its stones beside the archbishop's, is one of the few names of the period to survive in the work itself.
+
+## Catalogue Entry
+
+### The Cathedral
 
 <figure>
-  <img src="/Images/Pantaleone/pantaleone-01.jpg" alt="Otranto Mosaic (The Zodiac)">
-  <figcaption>Otranto Mosaic (The Zodiac), 1163–65, mosaic tesserae cut from Salento limestone, measuring 0.5 to 1.5 cm, Cathedral of Santa Maria Annunziata, Otranto.</figcaption>
+  <img src="/Images/Pantaleone/pantaleone-18.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-18-zoom.jpg" alt="The stone façade of a church with a gabled centre and lower sloping sides, a large Gothic rose window with radiating tracery, and below it an ornate Baroque portal with columns, a coat of arms and statues of angels; two narrow pointed windows at the sides; people stand in the paved square in front.">
+  <figcaption>Otranto, cathedral of Santa Maria Annunziata, west front, with the Renaissance rose window and the Baroque portal. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The “zodiacal mosaic” of Otranto is an integral part of the large mosaic floor of the Cathedral of Santa Maria Annunziata, created between 1163 and 1165 by the monk-priest Pantaleone on commission from the Bishop of Otranto, Gionata. This astrological cycle is not an isolated element but part of a vast theological and cosmological program linking the history of salvation, daily life, the medieval bestiary, and the natural cycle of the year.
+The cathedral was consecrated in 1088. Its west front, rebuilt after the collapse of 1481, carries a rose window of the late fifteenth century and a Baroque portal. Behind it lies a basilica with a nave and two aisles on ancient columns, and a large crypt.
 
-The zodiacal motif is divided into twelve medallions (clipei) arranged along the floor of the central nave, the presbytery, and the side apses, each dedicated to a month of the year. Each medallion features the name of the month, the corresponding zodiac sign, and a depiction of the agricultural and artisanal activities typical of that period, such as plowing, harvesting, grape-picking, hunting, or grazing.
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-02.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-02-zoom.jpg" alt="The nave of a church seen from the entrance towards the altar, with rows of wooden benches and columns with capitals on either side. Down the centre of the floor runs the trunk of a mosaic tree, light brown on white, with branches, leaves and animals, among them a large bird and a griffin; a chequered panel of red and white lies at the left.">
+  <figcaption>Pantaleone (named), floor mosaic of the nave, 1163–1165, looking towards the altar. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-Each zodiac sign is rendered in a stylized yet recognizable form: Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, and Aries appear in sequence, marking the cyclical rhythm of the year. These panels are among the “realistic” elements of the mosaic, as they offer clear ethnographic evidence of peasant life in 12th-century Salento, even though they are embedded within a broader theological framework.
+The trunk of the tree runs down the centre of the nave, between the benches. The view shows the scale of the floor and the way the scenes are set among the branches on either side of the trunk.
 
-The zodiac is not interpreted as an astrological horoscope, but rather as a sign of cosmic order and the harmony of creation, in which celestial time converges with man’s earthly labor. The twelve signs, arranged as a “wheel of time,” connect the celestial sphere with the eschatological and didactic dimension of the entire cycle (Tree of Life, Last Judgment, biblical scenes, and bestiary), emphasizing the continuity between nature, history, and salvation.
+### The Elephants and the Base of the Tree
 
-The zodiac is embedded within the broader system of the “Tree of Life,” which runs across the floor as the supporting structure of the entire design, marking the various iconographic bands. The lower and middle bands, where the scenes of the months and signs are concentrated, are divided among bestiary figures, Old Testament narratives, and secular images, creating a complex visual labyrinth in which earthly time and divine time intertwine.
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-07.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-07-zoom.jpg" alt="Two large pink elephants face each other at the foot of the mosaic tree, their trunks curled and their ears marked with round patterns; above them the trunk of the tree rises between panels with a cat, a camel-like animal and other figures; at the left a figure among spiral branches.">
+  <figcaption>Pantaleone (named), floor mosaic, the two elephants carrying the tree of the nave. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
 
-The mosaic is executed with polychrome tesserae of local limestone, alternating with glass paste inserts, with effects of color and light that enhance the material richness of the surface. Pantaleone’s style combines Byzantine elements (compositional rigor, frontal orientation) with Romanesque and sculptural solutions, particularly in the figures of fantastical animals and the characters also found in contemporary sculptural works.
+The tree of the nave rises from the backs of two elephants, set back to back near the entrance. They are drawn in pink stone with dark contours, their trunks curled and their ears patterned. The elephant was known in the West from bestiaries and from rare live specimens; here it carries the whole floor.
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-05.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-05-zoom.jpg" alt="Close view of a small mosaic animal like a cat or lynx walking to the right, its body in pink and orange tesserae with dark outlines, pointed ears and dark paws, beside the end of a branch.">
+  <figcaption>Pantaleone (named), floor mosaic, a cat near the elephants. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+Between the elephants and the first scenes, small animals fill the ground. The close view shows the technique: irregular tesserae of white stone for the ground, pink and orange for the body, dark stones for the contour.
+
+### Babel, Noah and Alexander
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-20.jpg" alt="A crowned figure in a garment covered with round scales sits frontally between two griffins, holding up in each hand a spear with a piece of meat towards their beaks; the label ALEXANDER REX runs across the top; small stars and animals around.">
+  <figcaption>Pantaleone (named), floor mosaic, the ascension of Alexander the Great. Otranto, cathedral, nave. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
+Alexander sits crowned and frontal between two griffins, holding up two spears with meat on their points. In the legend the beasts, trying to reach the meat, carry him into the sky until God turns him back. In the floor he stands near the Tower of Babel, and both images speak of the same ambition to reach heaven by human means.
+
+### The Months
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-21.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-21-zoom.jpg" alt="Twelve mosaic roundels in three rows of four, on either side of a central trunk, each framed by a band with inscriptions and showing a figure at work with the name of the month and an animal or sign: January warming at the fire, February cooking, March pruning, April with a ram, May with a bull, June reaping, July with a crab, August, September treading grapes, October ploughing with oxen, November with a pig, December killing a pig, with the archer above.">
+  <figcaption>Pantaleone (named), floor mosaic, the twelve months with the signs of the zodiac. Otranto, cathedral, nave. Photograph from a printed reproduction. Image: Framo, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The months are set in twelve roundels in three rows, on either side of the trunk. Each has its name, IANVARIVS, FEBRVARIVS and so on, its sign and its labour. The scenes follow the agricultural year of southern Italy: the fire of January, the pruning of March, the harvest of June, the vintage of September, the ploughing of October, the slaughter of the pig in December.
+
+### Adam and Eve, Arthur, Cain and Abel
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-15.jpg" alt="A crowned figure in a dark tunic rides to the right on a horned animal, raising one arm, with a club beside him and the label REX ARTVRVS; a spotted beast leaps up at the animal's head from the left; a naked figure at the left edge, another at the upper right, and the label ABEL at the right edge.">
+  <figcaption>Pantaleone (named), floor mosaic, King Arthur fighting the monstrous cat, with the label ABEL at the right. Otranto, cathedral, nave. Photo: Vers75, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+Arthur rides to the right, crowned, raising a club or sceptre, while the spotted cat leaps at his mount. The horns of the animal and parts of the crown were reworked in the nineteenth century. At the left edge of the view is one of the figures of Adam and Eve, after the Fall.
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-25.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-25-zoom.jpg" alt="Cain, in a short tunic, raises a club to strike Abel, who falls forward with blood streaming; the labels CAYN and ABEL and the words VBI E ABEL FRATER TVUS; at the left, the two brothers making their offerings.">
+  <figcaption>Pantaleone (named), floor mosaic, Cain and Abel. Otranto, cathedral, nave. Photo: Sailko, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY 3.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+Cain strikes Abel with a club, and blood runs from Abel's head. Above them God's question is written in full: VBI EST ABEL FRATER TVVS. At the left the brothers bring their offerings. The sequence continues the story of the Fall that begins with Adam and Eve beside Arthur.
+
+### Animals and Figures of the Nave
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-06.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-06-zoom.jpg" alt="A lion with a ridged mane and long fangs, labelled LEONE, bites the tail of a long brown creature; other animals below.">
+  <figcaption>Pantaleone (named), floor mosaic, a lion labelled LEONE. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-17.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-17-zoom.jpg" alt="A horned goat or ibex in orange tesserae with a dark beard stands among the branches of the tree, holding a leafy twig in its mouth.">
+  <figcaption>Pantaleone (named), floor mosaic, a goat among the branches. Otranto, cathedral. Photo: Benjamin Smith, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-08.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-08-zoom.jpg" alt="Two men in short tunics swing long staffs over their heads between branches that end in large spirals; a reddish animal leaps at the left; a large round fruit lies at the bottom; a Greek-key border runs at the left edge.">
+  <figcaption>Pantaleone (named), floor mosaic, two figures with staffs among the branches. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-03.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-03-zoom.jpg" alt="A large tawny beast bites the arm of a naked man who holds a long club; above, a grey figure upside down carries two bags on a cord, and a spotted animal leaps across the top; a red plant stands at the right.">
+  <figcaption>Pantaleone (named), floor mosaic, a beast attacking a man, with other figures. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-09.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-09-zoom.jpg" alt="Close detail: a spotted beast leaps down from the upper left; below it a grey figure upside down with a red cord holds two bags; at the right an orange creature in a red frame.">
+  <figcaption>Pantaleone (named), floor mosaic, detail of the same area. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-10.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-10-zoom.jpg" alt="Vertical detail: the upside-down figure with the bags above, and below it the tawny beast biting the man with the club.">
+  <figcaption>Pantaleone (named), floor mosaic, detail with the man and the beast. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The meaning of many of these figures is uncertain. Fights between men and beasts, acrobats and creatures with bags or instruments belong to the repertory of fantastic and comic images that fill the margins of Romanesque art. The close views show how the restorers' tesserae, sharper and more regular, can sometimes be distinguished from the old ones.
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-14.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-14-zoom.jpg" alt="A naked man rides a reddish horse-like animal and blows a long horn; facing him, a long-haired figure in a yellow garment rides a spotted grey beast and blows another horn; their two tails are twisted together between them.">
+  <figcaption>Pantaleone (named), floor mosaic, two riders blowing horns. Otranto, cathedral. Photo: Patrice78500, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-12.jpg" alt="A young man with a bare torso and a short skirt stands frontally among branches, raising both hands; he holds a forked tool in his left hand.">
+  <figcaption>Pantaleone (named), floor mosaic, a young man among branches. Otranto, cathedral. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+### The Right Aisle
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-04.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-04-zoom.jpg" alt="Two orange goats with long horns stand on the branches of a tree, eating leaves; above them, figures in tunics and the label SAMVEL.">
+  <figcaption>Pantaleone (named), floor mosaic, goats on the tree and the label SAMVEL. Otranto, cathedral, right aisle. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-13.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-13-zoom.jpg" alt="At the left a naked man stands holding a branch; at the right a naked ape-like figure with raised arms holds over its head a large disc of coloured marble pieces arranged in triangles around a dark blue centre.">
+  <figcaption>Pantaleone (named), floor mosaic, a naked figure and a figure holding a disc of coloured marbles (Atlas?). Otranto, cathedral, right aisle. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The right aisle carries Samuel and a figure holding up a disc, often identified as Atlas bearing the world. The disc is made of pieces of coloured marble in triangles, a technique different from the rest of the floor; whether it is original or a later insertion has to be checked.
+
+### The Left Aisle: Hell and the Patriarchs
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-11.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-11-zoom.jpg" alt="A section of floor beside the trunk of a tree: at the top the labels INFERNVS and SATANAS above a bound naked figure and a crowned, horned demon with serpents; below, naked damned figures entwined by serpents, with a beast-headed demon at the right; at the left edge, part of the patriarchs.">
+  <figcaption>Pantaleone (named), floor mosaic, Hell and Satan, with the damned. Otranto, cathedral, left aisle. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-22.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-22-zoom.jpg" alt="Close view of the labels INFERNVS and SATANAS: at the left a hairy figure, at the right a crowned figure with a long forked moustache and a broad body.">
+  <figcaption>Pantaleone (named), floor mosaic, Infernus and Satanas. Otranto, cathedral, left aisle. Photo: Benjamin Smith, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+Hell is shown as a figure, INFERNVS, bound and devoured, beside a crowned Satan. Below them the damned are tangled with serpents. On the other side of the tree, the patriarchs receive the saved: the left aisle sets the two ends of human history on either side of one trunk.
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-19.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-19-zoom.jpg" alt="Two bearded men seated on stools, labelled ABRAHAM and YSAAC, with IACOB beside them, each holding small naked souls on their laps; a leaping animal above and red and green branches below.">
+  <figcaption>Pantaleone (named), floor mosaic, Abraham, Isaac and Jacob receiving the souls of the saved. Otranto, cathedral, left aisle. Photo: Holger Uwe Schmitt, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-23.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-23-zoom.jpg" alt="Close view of the head of Abraham with the label ABRAHAM: a long face with large dark-outlined eyes, a straight nose and a curved moustache over a beard, made of small tesserae in orange, cream and grey.">
+  <figcaption>Pantaleone (named), floor mosaic, head of Abraham. Otranto, cathedral, left aisle. Photo: Benjamin Smith, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+The patriarchs sit on stools and hold the souls on their laps, the image of the "bosom of Abraham" of the parable of Lazarus. The close view shows the drawing of a head: dark contours for the eyes and nose, a single curve for the moustache, and a fill of small warm tesserae.
+
+<figure>
+  <img src="/Images/Pantaleone/pantaleone-24.jpg" data-zoom-src="/Images/Pantaleone/pantaleone-24-zoom.jpg" alt="A crouching figure in olive-green tesserae with a small face, raising one arm over its head, drawn with dark contours beside a straight band; the leg of a wooden bench covers part of the floor at the right.">
+  <figcaption>Pantaleone (named), floor mosaic, a crouching figure. Otranto, cathedral. Photo: Benjamin Smith, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+</figure>
+
+**Name:** Pantaleone, presbyter.
+
+**Documents:** Inscriptions of the floor mosaic of Otranto Cathedral, 1163 and 1165: *Ionathas Hydruntinus archiepiscopus iussit hoc opus fieri per manus Pantaleonis presbiteri*; *Ex Ionathe donis per dexteram Pantaleonis hoc opus insigne est superans impendia digne*.
+
+**Work:** Floor mosaic of the cathedral of Santa Maria Annunziata, Otranto, 1163–1165: nave, aisles, presbytery and apse.
+
+**Patron:** Ionathas, archbishop of Otranto (c. 1155–1179), under William I of Sicily.
+
+**Restorations:** From 1872; Arthur scene reworked in the last quarter of the nineteenth century; nave lifted and relaid 1986–1992.
+
+**Bibliography:** C. Settis Frugoni, studies on the Otranto mosaic, 1968–1973; C. A. Willemsen, *L'enigma di Otranto*, 1980; G. Gianfreda, *Il mosaico pavimentale della basilica cattedrale di Otranto* (several editions); M. Castiñeiras, 2004–2007 and "Pantaleone", in *Dizionario Biografico degli Italiani*, 81, 2014; X. Barral i Altet, 2010; I. Molteni and I. Quadri, "Trame di storia. Il mosaico di Otranto, le cronache universali e l'immagine della regalità", *Convivium*, VII/2, 2020; M. Meuwese, "King Arthur's Prowess: Visualising Arthur's Fight with the Terrible Cat", *Journal of the International Arthurian Society*, 13, 2025, pp. 138–170.

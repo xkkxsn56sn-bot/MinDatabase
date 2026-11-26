@@ -3727,6 +3727,146 @@
       "sha256": "8ba4b9d03ab2a752a9f38dbe13a45a9ed3520a5a65b61def95f1befa0ba50b22"
     },
     {
+      "path": "Images/Pantaleone/pantaleone-02-zoom.jpg",
+      "width": 2576,
+      "height": 1973,
+      "bytes": 1788176,
+      "sha256": "85d5f0b5b6fce9b0482e1999da268ea600f9bb1aa95d6c63a71ccbb7b0c8fdf5"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-03-zoom.jpg",
+      "width": 1901,
+      "height": 2576,
+      "bytes": 1774142,
+      "sha256": "9695ab05694510fb9079f70776a4b81686a5b51e546f6884e811ab6d687097b9"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-04-zoom.jpg",
+      "width": 1480,
+      "height": 2576,
+      "bytes": 1744164,
+      "sha256": "4fe8f601c446a2b8920cda277ebfc3d3f4b5d0745a79f909ef4ca3300581a7ea"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-05-zoom.jpg",
+      "width": 2576,
+      "height": 1431,
+      "bytes": 1286568,
+      "sha256": "a7add9bbc9d4482bb18d22bbf29f7fdc41499d532637b29740b375218df7b5c6"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-06-zoom.jpg",
+      "width": 2576,
+      "height": 1393,
+      "bytes": 1157427,
+      "sha256": "a6f411720b6b37a0a381c10f20224d5bcd9e49fa68e639346a7638289b7934ef"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-07-zoom.jpg",
+      "width": 2576,
+      "height": 1443,
+      "bytes": 1410685,
+      "sha256": "c7e218df2a7079e34244f888741c490332d4370b6ceb255d72538ee4308b2f0e"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-08-zoom.jpg",
+      "width": 2576,
+      "height": 2404,
+      "bytes": 2870576,
+      "sha256": "aa6db942d10f8195636d28c3ccdeaf09956cedbf2b4586d7cc3eed4d31a738d2"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-09-zoom.jpg",
+      "width": 2576,
+      "height": 2224,
+      "bytes": 1953417,
+      "sha256": "f5b40695125d677cc6138669d2e7add0fe2bb22ac762266ff677e012edca19d8"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-10-zoom.jpg",
+      "width": 1336,
+      "height": 2576,
+      "bytes": 1560806,
+      "sha256": "e04499a692c23d66a87767586cd49e0012a36725c7ba29ef492ec768a274fd45"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-11-zoom.jpg",
+      "width": 2200,
+      "height": 2576,
+      "bytes": 2483794,
+      "sha256": "3e32fbad6b112392c00c00bf3d810db1307033b996733521a87fdefa666f34c4"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-13-zoom.jpg",
+      "width": 1736,
+      "height": 2576,
+      "bytes": 1618700,
+      "sha256": "13a2ce2070c25b3c741b36b3099a51850519e14b17ac3f10e1cf6c1cb02fd4f6"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-14-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1198618,
+      "sha256": "36483cec8c400f419bfc400aa24e5e2253ce3621d8b95993dd81889e198dba6c"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-17-zoom.jpg",
+      "width": 2576,
+      "height": 2117,
+      "bytes": 1913648,
+      "sha256": "5f55b847936b054ac87e3bcb40d150edb6a0a33b305bb3d87f0ea38e8d6fdb53"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-18-zoom.jpg",
+      "width": 2576,
+      "height": 1775,
+      "bytes": 924260,
+      "sha256": "cb7491faf300cf4b7be05f21b6e13bc418dc034bbdddd83da6323d1b961c7c06"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-19-zoom.jpg",
+      "width": 1360,
+      "height": 2576,
+      "bytes": 1452580,
+      "sha256": "52c96b20b3253926d74b2e833d5174b800857aec9c8766ff57430f535d48f7c8"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-21-zoom.jpg",
+      "width": 2576,
+      "height": 2005,
+      "bytes": 1461076,
+      "sha256": "b566d2b62b7ed6372ad1e43e1ccf91ed138c67ba4aa61518fc074a6aaef00f44"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-22-zoom.jpg",
+      "width": 2576,
+      "height": 1719,
+      "bytes": 1753979,
+      "sha256": "16f74d2f0d77c78c7212d3dd2d71e9ca3160266b27dfac75955fded5b9e7501b"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-23-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1448713,
+      "sha256": "273e7d462a4d088f57e0f6f25beb02c21cbe090e67068736d00fd156f925175f"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-24-zoom.jpg",
+      "width": 1592,
+      "height": 2576,
+      "bytes": 1318063,
+      "sha256": "82a069c36724b9935eb1c35db0ce5bfc91ecb6bead3e1a0c0c68a223305cc755"
+    },
+    {
+      "path": "Images/Pantaleone/pantaleone-25-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1142961,
+      "sha256": "96e7c0ee027aedb32cb6a5af855d439cc1e9a2cdbc00e7c49a8289ea0a8ec9d9"
+    },
+    {
       "path": "Images/Paolo-Veneziano/paolo-veneziano-01-zoom.jpg",
       "width": 1334,
       "height": 1500,
