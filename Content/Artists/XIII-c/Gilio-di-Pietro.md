@@ -151,7 +151,7 @@ This combination of a single figure, a large inscription and a bare lower board 
 
 The inscription identifies the register, not the painter or the camarlengo. It begins along the top of the board with LIBER CAMERARII, "the book of the camarlengo", and continues in the left field with the name of the podestà and the semester.
 
-As far as it can be read in the photograph, it says that the book belongs to the time of the podestà of Siena, a lord Bonifacio of the Castellani, of Bologna, and to the last six months of his term: IN ULTIMIS SEX MENSIBUS SUI REGIMINIS. The reading of the name should be checked against the transcription published by Tomei.
+As far as it can be read in the photograph, it says that the book belongs to the time of the podestà of Siena, a lord Bonifacio of the Castellani, of Bologna, and to the last six months of his term: IN ULTIMIS SEX MENSIBUS SUI REGIMINIS.
 
 The podestà, the foreign magistrate who governed the Commune for a year, gave the register its date. The semester was counted by his term, not by the calendar, and the cover named him first. The camarlengo, who ran the office, is shown in the picture but not named in the inscription.
 

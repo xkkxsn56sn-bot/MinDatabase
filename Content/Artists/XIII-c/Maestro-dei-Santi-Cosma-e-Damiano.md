@@ -94,6 +94,8 @@ meta:
         url: "/Content/Artists/XIII-c/Cimabue.html"
       - title: "Duccio di Buoninsegna"
         url: "/Content/Artists/XIII-c/Duccio-di-Buoninsegna.html"
+      - title: "Gilio di Pietro"
+        url: "/Content/Artists/XIII-c/Gilio-di-Pietro.html"
 
 scholars:
   - title: "Luciano Bellosi"
@@ -120,7 +122,7 @@ The *Maestro dei Santi Cosma e Damiano* remains an anonymous figure whose civil 
 
 ## Family background and historical significance
 
-The painter entered modern art history only in the mid‑twentieth century, when [Edward B. Garrison](/scholars.html#garrison-edward) isolated a small, coherent group of panels around a Madonna in the Pisan church of Santi Cosma e Damiano and coined the notname “Master of Saints Cosmas and Damian” to designate their author. This act of naming, based on style rather than on archival discovery, effectively substituted an iconographic reference for a missing family name, and it continues to structure discussion of the artist’s identity. Later, [Luciano Bellosi](/scholars.html#bellosi-luciano) proposed to identify the Pisan master with a documented painter called *Gilio di Pietro*, active in Siena between 1247 and 1261, thus giving the anonymous hand a possible civic surname, patronymic, and death year.
+The painter entered modern art history only in the mid‑twentieth century, when [Edward B. Garrison](/scholars.html#garrison-edward) isolated a small, coherent group of panels around a Madonna in the Pisan church of Santi Cosma e Damiano and coined the notname “Master of Saints Cosmas and Damian” to designate their author. This act of naming, based on style rather than on archival discovery, effectively substituted an iconographic reference for a missing family name, and it continues to structure discussion of the artist’s identity. Later, [Luciano Bellosi](/scholars.html#bellosi-luciano) proposed to identify the Pisan master with a documented painter called *[Gilio di Pietro](/Content/Artists/XIII-c/Gilio-di-Pietro.html)*, active in Siena between 1247 and 1261, thus giving the anonymous hand a possible civic surname, patronymic, and death year.
 
 Even within this more optimistic hypothesis, however, the painter’s domestic milieu, marital status, and household composition remain unknown, since no notarial contracts, wills, or workshop records referring unequivocally to the Master have been found. The date and place of his birth must therefore be described as uncertain and hypothetical rather than established, with Pisa and its environs functioning as a plausible but not demonstrable point of origin. The anonymity of the Master of Saints Cosmas and Damian is thus emblematic of many thirteenth‑century Italian painters, whose artistic personality is sharply defined through style while their family identities are irrevocably lost.
 
