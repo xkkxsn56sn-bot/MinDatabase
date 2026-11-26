@@ -1971,7 +1971,7 @@ The Saint Ansanus is a striking image of civic holiness. The young saint, with h
 
 <figure data-no-download>
   <img src="/Images/Simone-Martini/simone-martini-63.jpg" data-zoom-src="/Images/Simone-Martini/simone-martini-63-zoom-v2.jpg" alt="Gold-ground panel showing Saint Peter in half length, an elderly man with curly grey hair and beard, glancing sideways to the right; he wears a blue tunic with a gold-embroidered collar and a large orange-yellow mantle with gold borders; in his right hand he holds two large keys, while his left hand rests on a closed green book with clasps and red ribbons placed on the lower edge of the panel.">
-  <figcaption>Simone Martini, <em>Saint Peter</em>, c. 1325–1328, tempera and gold on wood, 58 × 38.5 cm. Madrid, Museo Nacional Thyssen-Bornemisza, Carmen Thyssen Collection (CTB.1997.20). Photo: © Museo Nacional Thyssen-Bornemisza, Madrid.</figcaption>
+  <figcaption>Simone Martini, <em>Saint Peter</em>, c. 1325–1328, tempera and gold on wood, 58 × 38.5 cm. Madrid, Museo Nacional Thyssen-Bornemisza, Carmen Thyssen Collection (CTB.1997.20). Photo: © Colección Carmen Thyssen.</figcaption>
 </figure>
 
 Saint Peter stood between Saint Ansanus and the Virgin, on the left side of the altarpiece. Together with Saint Andrew on the other side of the Virgin, he is one of the saints named in the document of 1327 that records the panels lent by the Commune, and his place next to the Madonna reflects his rank as prince of the apostles. The panel is now in the Carmen Thyssen Collection, on deposit at the Museo Nacional Thyssen-Bornemisza in Madrid.
