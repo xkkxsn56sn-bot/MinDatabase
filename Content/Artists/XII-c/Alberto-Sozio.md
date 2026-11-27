@@ -114,7 +114,7 @@ scholars:
 
 The inscription is damaged. The nineteenth-century historian of Spoleto Achille Sansi read it in 1869 as *A. D. MCLXXXVII … Opus Alberto Sotii*, and the painter has been called Alberto Sotio, Sozio or Sotii ever since. Only the first letters of the surname survive with certainty, and [Cochetti Pratesi](/scholars.html#cochetti-pratesi-lorenza), in the *Enciclopedia dell'Arte Medievale* (1991), notes that the traditional completion Sotio is now rejected. The name used here, Alberto Sozio, is a convention, kept because it is the one under which the painter is best known.
 
-Nothing else is documented. No record names his parents, his birthplace, his master, his workshop or his death. The previous version of this entry gave him a birth around 1100 in one place and around 1130–1140 in another, an apprenticeship in the scriptorium of Sant'Eutizio, journeys to Rome along the Via Flaminia, patrons among the confraternities, contracts and payments. None of this has a source, and it has been removed.
+Nothing else is documented. No record names his parents, his birthplace, his master, his workshop or his death. His date of birth, his training and his journeys are unknown, and no contract or payment in his name survives.
 
 The same version contained errors of fact. It placed Spoleto in the province of Varese. It described the cross of Spoleto with scenes of the Harrowing of Hell, the Holy Women at the tomb and the Denial of Peter, which belong to a different cross, now in the Victoria and Albert Museum in London. It dated the fresco of Thomas Becket to 1173–1174 as if the date were certain, and it connected the painter with "Solternus", a confusion with the mosaicist [Solsternus](/Content/Artists/XIII-c/Solsternus.html), who signed the façade of the cathedral of Spoleto in 1207.
 
@@ -172,11 +172,11 @@ The fragment came from the collection of Don Marcello Massarenti in Rome, where 
 
 The Pinacoteca di Brera in Milan keeps the head of the Virgin from a Maestà, attributed to Alberto and catalogued as tempera on panel, 32.5 by 35.5 centimetres, inv. 7412. It entered the museum by donation. The fragment is round, cut from a larger panel around the halo, and shows the crowned head of the Virgin, frontal, with large eyes, set with three empty settings that once held stones or glass.
 
-The Brera fragment is not discussed in the article of Cochetti Pratesi. According to the description of its photograph on Wikimedia Commons, it comes from the collection of Lamberto Vitali, which agrees with the donation recorded by the museum. The other details given in the earlier version of this entry, a former attribution to the "Master of Camerino" and a passage through the Roman antique market, could not be verified and are omitted. The fragment shows the late phase of the Spoleto style, and the attribution is the museum's.
+The Brera fragment is not discussed in the article of Cochetti Pratesi. According to the description of its photograph on Wikimedia Commons, it comes from the collection of Lamberto Vitali, which agrees with the donation recorded by the museum. The fragment shows the late phase of the Spoleto style, and the attribution is the museum's.
 
 Two crosses are connected with Alberto's circle rather than with his own hand. The cross of the Victoria and Albert Museum in London, painted in tempera on canvas laid on panel and measuring 219.5 by 170 centimetres, is catalogued by the museum as circle of Alberto Sotio. It shows Christ with the Virgin and Saint John, a bust of Christ between two angels in the cimasa, and on the terminals the Harrowing of Hell, the Holy Women at the tomb and the Denial of Peter.
 
-These are the scenes that the previous version of this entry attributed to the cross of Spoleto. The London cross was given to the museum by Lord Carmichael of Skirling in 1900, and its extensive overpainting was removed in 1948. The museum notes its close relation to the signed cross of 1187 and considers it one of the most important Italian paintings of its period in a British collection.
+These scenes belong to the London cross, not to the cross of Spoleto. The London cross was given to the museum by Lord Carmichael of Skirling in 1900, and its extensive overpainting was removed in 1948. The museum notes its close relation to the signed cross of 1187 and considers it one of the most important Italian paintings of its period in a British collection.
 
 A painted cross in the Jacorossi collection, much damaged and eaten by worms, is catalogued on Wikimedia Commons as the work of Alberto's workshop, around 1190–1210. Its Christ, with large eyes, a long nose and a drooping moustache, and its four standing saints beside the body show the persistence of his types after 1187.
 
@@ -320,7 +320,7 @@ Becket stands behind the altar under an arch, his head turned and bent under the
 
 At the right, behind a column, a cleric in a red tunic and an ochre mantle looks on. He may be Edward Grim himself, or another witness of the murder. His face, with large eyes and a straight nose, is calm.
 
-On the altar, covered by a cloth with a hanging fringe, stand a chalice and an open book with letters in two columns. The earlier version of this entry read the words *Dominus vobiscum*, the greeting of the Mass; the reading seems possible but the letters are damaged. The book and the chalice place the murder at the altar, during the liturgy.
+On the altar, covered by a cloth with a hanging fringe, stand a chalice and an open book with letters in two columns. The words have been read as *Dominus vobiscum*, the greeting of the Mass; the reading seems possible but the letters are damaged. The book and the chalice place the murder at the altar, during the liturgy.
 
 The setting is an arcade of red and grey arches on columns with gilded Corinthian capitals, against a deep blue ground. A lamp hangs in one of the arches. At the right a red band and a border of crosses on a dark ground frame the scene.
 
@@ -347,7 +347,7 @@ At the far left a seated figure, partly visible, may be the king or another witn
 
 The photograph is valuable as a document. It shows the fresco before the losses visible in the recent colour photograph, or at least before their present state, and it records the full width of the composition, including parts that the colour detail omits.
 
-The attribution given in the caption reflects the opinion of the older literature, which gave the fresco to Alberto. As the previous entry explained, the attribution and date are now disputed.
+The attribution given in the caption reflects the opinion of the older literature, which gave the fresco to Alberto. As discussed above, the attribution and date are now disputed.
 
 The photograph is in black and white, and its tones do not reproduce the colours of the fresco. It should be read together with the colour detail, which shows the blue ground, the red arches and the ochre garments.
 
@@ -416,7 +416,7 @@ The halo is marked by a ring of small white dots and by a band of fine ornament 
 
 The crowned Virgin, the *Maria Regina*, was a type of Roman origin, used in the twelfth century in Rome and in central Italy. The Brera head belongs to this tradition, and it connects Alberto's work with the Roman sources identified by Cochetti Pratesi.
 
-The earlier version of this entry described the fragment as painted on parchment and gave it a former attribution to the "Master of Camerino" and the Roman market. The museum records that it entered by donation, and the Commons description names the collection of Lamberto Vitali; the other details have been omitted.
+The museum records that the fragment entered by donation, and the Commons description names the collection of Lamberto Vitali.
 
 The fragment shows a different side of the painter from the cross and the Walters Virgin: the solemn, frontal icon rather than the mourning figure. Its large eyes, long nose and small mouth are those of his types, rendered with the hieratic frontality of the Maestà.
 
@@ -483,7 +483,7 @@ Beside the body stand the Virgin at the left, in a red mantle, raising her hand,
 
 In the cimasa a bust of Christ appears in a circle between two angels. At the ends of the crossbar, according to the museum, small scenes show the Harrowing of Hell at the left and the Holy Women at the tomb at the right; at the foot, the Denial of Peter. These scenes are damaged.
 
-These are the scenes that the earlier version of this entry attributed to the cross of Spoleto. Their presence on the London cross, and not on the cross of Spoleto, is confirmed by the museum's catalogue and by the photographs of both crosses.
+These scenes belong to the London cross, not to the cross of Spoleto, as the museum's catalogue and the photographs of both crosses show.
 
 The bibliography of the cross includes Sandberg-Vavalà (1929), Garrison (1948, 1949), Kauffmann's catalogue of the museum's foreign paintings (1973), Todini (1989) and Boskovits (1993, 2010), as well as a doctoral dissertation by A. A. Driscoll on Alberto and the Umbrian painted cross.
 
