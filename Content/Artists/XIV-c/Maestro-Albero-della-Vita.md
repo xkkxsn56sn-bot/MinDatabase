@@ -55,7 +55,6 @@ meta:
   - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
       - "Last Supper, fresco, c. 1340–1360, about 190 × 700 cm - Bergamo, Santa Maria Maggiore, left transept: attributed to him by Pellati (1992); Matalon (1963) saw only an affinity; the regional catalogue gives it to an anonymous Lombard painter of lesser quality"
-      - "A Trinity in Sant'Agostino, frescoes in San Francesco at Bergamo and in the Santissima Trinità at Fiobbio, given to him in the previous version of this entry: no source for these attributions has been found"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -101,9 +100,9 @@ The inscription gives the date 1347 and names as patron Guidino de' Suardi, a no
 
 The fresco follows the *Lignum vitae* of [Bonaventure of Bagnoregio](/endnotes.html#fn-bonaventure), a meditation on the life of Christ written about 1260. Bonaventure arranged the life of Christ as the twelve fruits of a tree, each fruit with four short verses. The painter turned the text into an image: twelve branches, four roundels on each, and on every branch a scroll with Bonaventure's words.
 
-The previous version of this entry contained several errors. It inverted the dimensions of the fresco, which the regional catalogue gives as about 360 centimetres high and 690 wide. It presented Guidino's patronage and the date 1347 as certain. It listed as the master's works the Last Supper of the left transept, a disputed attribution, and three further works for which no source could be found.
+The regional catalogue gives the fresco's dimensions as about 360 centimetres high and 690 wide. Guidino's patronage and the date 1347 rest on a repainted inscription and on a figure added later, and they cannot be taken as certain. The Last Supper of the left transept, sometimes given to the same master, is a disputed attribution.
 
-It also said that Saint Bonaventure holds a mitre. In fact he kneels with a book and a scroll, and a red cardinal's hat lies on the ground beside him. It referred to "a thesis" and to "municipal and journalistic notices" without naming them. The account below rests on the regional catalogue and on the literature it cites, from Luigi Angelini (1953) to Mauro Zanchi (2003).
+Saint Bonaventure kneels with a book and a scroll, and a red cardinal's hat lies on the ground beside him. The account below rests on the regional catalogue and on the literature it cites, from Luigi Angelini (1953) to Mauro Zanchi (2003).
 
 The account treats the basilica and its fourteenth-century painting, Bonaventure's text and its images, the inscription and the question of the patron, the history of the fresco after the Middle Ages, and the style of the painter with the question of his other works. The catalogue then examines the fresco in its parts, the disputed Last Supper, and two Florentine trees for comparison.
 
@@ -205,7 +204,7 @@ No other work is securely by him. [Roberta Pellati](/scholars.html#pellati-rober
 
 The regional catalogue keeps the Last Supper anonymous and Lombard, noting that the painter's lesser quality is evident above all in the summary rendering of anatomical detail. The attribution therefore remains disputed.
 
-The previous version of this entry also gave the master a Trinity in Sant'Agostino at Bergamo, frescoes in the convent of San Francesco and paintings in the Santissima Trinità at Fiobbio. No source for these attributions has been found, and they are not repeated here. The painter remains known, securely, from one fresco.
+No other work can be given to him on the evidence of the literature. The painter remains known, securely, from one fresco.
 
 ## Catalogue Entry
 
@@ -289,7 +288,7 @@ Saint Bonaventure kneels at the centre of the lower field, at the foot of the tr
 
 He wears the brown habit of the Friars Minor and holds a red book against his body with his left hand. With his right hand he raises a large scroll, its upper edge inscribed IESUM CRISTUM PREDICAMUS CRU[CIFIXUM], "we preach Christ crucified", the words of Saint Paul in the first letter to the Corinthians.
 
-Beside him, on the ground at the right, lies a broad red hat. It is the cardinal's hat, the sign of the dignity Bonaventure received in 1273, when he was made cardinal bishop of Albano. The previous version of this entry described it as a mitre held in his hand.
+Beside him, on the ground at the right, lies a broad red hat. It is the cardinal's hat, the sign of the dignity Bonaventure received in 1273, when he was made cardinal bishop of Albano.
 
 The book in his hand is the *Lignum vitae*, the treatise from which the tree is drawn. The inscription below calls it the *liber de bono Iesu*, the book of the good Jesus, and describes the tree as his invention.
 
@@ -395,7 +394,7 @@ The upper field was the part of the fresco most affected by the redecoration of 
 
 ### The Last Supper (disputed attribution)
 
-The Last Supper occupies the end wall of the left transept of Santa Maria Maggiore, opposite the Tree of Life. It is a fresco about 190 centimetres high and 700 wide, dated by the regional catalogue to about 1340–1360. No image of it was available for this entry, and it is described here from the catalogue.
+The Last Supper occupies the end wall of the left transept of Santa Maria Maggiore, opposite the Tree of Life. It is a fresco about 190 centimetres high and 700 wide, dated by the regional catalogue to about 1340–1360.
 
 The painting was found under whitewash in 1944, when Arturo Cividini restored the end wall of the transept and uncovered the fourteenth-century paintings hidden during the renovation of the late sixteenth century. Its condition was judged poor in 2010, with faded colours and the near-total loss of the secco finish.
 
@@ -409,7 +408,7 @@ The regional catalogue keeps the Last Supper as the work of an anonymous Lombard
 
 The question is therefore open. The two frescoes belong to the same building and the same decades, and they share a regional culture; whether they share a painter cannot be settled from the present literature.
 
-The previous version of this entry listed the Last Supper among the master's works without qualification. It is placed here among the disputed attributions.
+The Last Supper is therefore counted among the disputed attributions, not among the master's works.
 
 ### Comparison: Pacino di Bonaguida, the Tree of Life
 

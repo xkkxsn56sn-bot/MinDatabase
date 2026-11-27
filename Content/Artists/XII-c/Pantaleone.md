@@ -109,7 +109,7 @@ The most recent account of him, by [Manuel Castiñeiras](/scholars.html#castinei
 
 The question cannot be settled. The same formulas are used elsewhere for makers as well as for agents, and the pavement, which covers several hundred square metres, was certainly the work of a team. What is certain is that Pantaleone's name was the one recorded beside the archbishop's, and that it has stood for the work ever since.
 
-The previous version of this entry contained much that cannot be supported. It made Pantaleone a monk of Casole educated in its library, invented his travels to Ravenna, Sicily and Constantinople, gave the pavement 600,000 tesserae, 1,600 square metres and a tree sixty metres long, called the image of Arthur the first in Italy and the cathedral a UNESCO site, and set the mosaic against the Fourth Lateran Council of 1215. These claims are removed or corrected below.
+Much that is often said of Pantaleone has no documentary basis. Nothing proves that he was a monk of San Nicola di Casole or that he travelled to Ravenna, Sicily or Constantinople, and the figures sometimes given for the size of the pavement are not measured. The inscriptions date the pavement to 1163–1165, half a century before the Fourth Lateran Council, and it should be read in the context of the Norman kingdom of the 1160s.
 
 The account that follows treats the inscriptions, the patron and the setting, the structure of the pavement, its themes, the question of Arthur, and the history of its restorations. The catalogue examines the parts of the floor illustrated here, from the elephants at the entrance to the patriarchs of the left aisle.
 
@@ -135,7 +135,7 @@ The labels show that the pavement was meant to be read, not only seen. They name
 
 Ionathas, or Gionata, was archbishop of Otranto from about 1155 to about 1179. Castiñeiras proposes a Norman, perhaps even Welsh, origin and notes his friendship with Clemente, a judge of Taranto and a member of the royal court in Palermo. He belonged, in any case, to the Latin hierarchy that the Norman kings had established in Apulia.
 
-The previous entry presented him as a former abbot of Casole and his commission as an assertion of Otranto's Greek heritage. Neither point is documented. The inscriptions name him as a Latin archbishop acting in the reign of a Norman king, and the content of the pavement, with its romance heroes and its royal figures, belongs to the culture of that court.
+Ionathas has been presented as a former abbot of Casole and his commission as an assertion of Otranto's Greek heritage, but neither point is documented. The inscriptions name him as a Latin archbishop acting in the reign of a Norman king, and the content of the pavement, with its romance heroes and its royal figures, belongs to the culture of that court.
 
 The inscription of 1165 gives William I the titles *magnificus* and *triumphator*. William, king of Sicily from 1154 to 1166, had put down a revolt of the barons of Apulia and Sicily in 1160–1161. The pavement was laid in the years immediately after, and its kings, Solomon, Alexander and Arthur, have been read as images of rulership in a kingdom that had just reasserted its authority.
 
@@ -177,13 +177,13 @@ The months bring the cycle of the year into the floor. Each roundel shows the na
 
 The animals are many and varied: elephants, lions, goats, cats, dragons, griffins, sirens, centaurs and creatures without names. Some come from the bestiary, some from the repertory of hunting scenes and of fantastic peoples at the edges of the world. Castiñeiras links them to the tradition of the *Marvels of the East* and to medieval maps, on which such creatures inhabited the margins of the known world.
 
-The previous entry presented the programme as a fusion of Byzantine, Islamic, Western and classical traditions in a Greek monastic setting, and listed Islamic decorative motifs and the *Physiologus* in Greek among its sources. Some animals do recall Eastern textiles, and some descend from the bestiary, but the main lines of the programme, the romance heroes, the calendar and the use of the tree, point to Western and Norman sources.
+The programme has been described as a fusion of Byzantine, Islamic, Western and classical traditions in a Greek monastic setting, with Islamic decorative motifs and the Greek *Physiologus* among its sources. Some animals do recall Eastern textiles, and some descend from the bestiary, but the main lines of the programme, the romance heroes, the calendar and the use of the tree, point to Western and Norman sources.
 
 The reading of the floor as a whole remains open. Chiara Settis Frugoni studied it as a programme of salvation history in a series of articles from 1968 to 1973. Walter Haug read the Arthur scene in the context of the romance tradition. Molteni and Quadri see a universal chronicle; Castiñeiras a royal image of the Norman kingdom. These readings are not exclusive.
 
 What all of them recognise is the scope of the programme. The floor holds the history of the world from creation, the kings of legend, the cycle of the year, the animals of the earth and the last things, Hell and the bosom of Abraham. It is a picture of the world laid at the feet of those who entered the cathedral.
 
-Its theological meaning should not be overstated. The previous entry read the floor according to the four senses of Scripture, literal, allegorical, moral and anagogical, scene by scene. Such a reading may suit the learned clergy of Otranto, but no text of the period applies it to the pavement, and it is an interpretation, not a description.
+Its theological meaning should not be overstated. It has been read according to the four senses of Scripture, literal, allegorical, moral and anagogical, scene by scene. Such a reading may suit the learned clergy of Otranto, but no text of the period applies it to the pavement, and it is an interpretation, not a description.
 
 ## King Arthur
 
@@ -195,7 +195,7 @@ Martine Meuwese, in the *Journal of the International Arthurian Society* (2025),
 
 The animal Arthur rides is usually described as a goat. Meuwese argues that it was a horse, and that its horns are the work of a restorer. A drawing made for Aubin-Louis Millin in 1813, now in the Bibliothèque nationale de France, records the scene before the restoration of the last quarter of the nineteenth century, which reworked it crudely.
 
-Meuwese also argues that the crown belonged to the original image. The previous entry stated that a restoration of 1882 added it; she shows instead that the restorer retouched the figure without inventing its royal character. Walter Haug had already proposed that the "horns" were originally the reins.
+Meuwese also argues that the crown belonged to the original image. It has been said that a restoration of 1882 added it; she shows instead that the restorer retouched the figure without inventing its royal character. Walter Haug had already proposed that the "horns" were originally the reins.
 
 The place of Arthur in the floor has been much discussed. He stands in the upper part of the nave, near the scenes of the Fall, above the month of March and the sign of Pisces. Some scholars see him as an example of the knight who fights evil; others as a king of the past among the kings of the floor; others as a figure whose meaning, as Meuwese says, cannot be fixed.
 
@@ -215,9 +215,9 @@ In the twentieth century the interior was stripped of its Baroque additions, a p
 
 These campaigns preserved the floor and changed it. The lifting of 1986 secured the mosaic against damp; the restorations of the nineteenth century replaced missing tesserae, sometimes with new drawing. A full study of what is original and what is restored has not been published.
 
-The previous entry claimed that the pavement owed its preservation to "seven centuries of foot traffic" followed by modern protection. The truth is the reverse: it survived despite use, disaster and alteration, and much of its present surface is the result of repair.
+The pavement did not survive because of the centuries of use but despite them, and despite disaster and alteration: much of its present surface is the result of repair.
 
-The pavement is protected today by the cathedral and by the state authorities. It is not a UNESCO World Heritage Site; the previous entry confused it with Castel del Monte, a separate site in northern Apulia.
+The pavement is protected today by the cathedral and by the state authorities. It is not a UNESCO World Heritage Site, unlike Castel del Monte in northern Apulia, with which it is sometimes confused.
 
 What survives is still the largest figured pavement of medieval Italy and the fullest example of the Apulian floors of the twelfth century. Pantaleone's name, set in its stones beside the archbishop's, is one of the few names of the period to survive in the work itself.
 

@@ -110,13 +110,13 @@ scholars:
 
 *Rainaldetto di Ranuccio* is known from two signed painted crosses. The first, in the Pinacoteca Civica Bruno Molajoli at Fabriano, carries at its foot the signature of *Rainaldictus Ranuci de Spoleto*, "Rainaldetto son of Ranuccio of Spoleto". The second, in the Pinacoteca Nazionale of Bologna, is signed and dated April 1265. Together they give his name, his father's name, his city and a year of activity.
 
-Nothing else is documented. No record names his birth, his training, his workshop or his death. The previous version of this entry filled these gaps with sections on his family, his travels and the date and cause of his death, which said, at length, that nothing is known. The present entry keeps to what the works and the literature allow.
+Nothing else is documented. No record names his birth, his training, his workshop or his death. His career can be reconstructed only from his works and from the literature.
 
 The name appears in several forms. The Fabriano inscription has *Rainaldictus*, a diminutive of Rainaldo, rendered in Italian as Rainaldetto; the literature also calls him Rainaldo or Rinaldo di Ranuccio, and the Pinacoteca of Bologna catalogues him as Rinaldo di Ranuccio. The entry in the *Dizionario Biografico degli Italiani*, written by [Maria Cristina Rossi](/scholars.html#rossi-maria-cristina) (2016), uses "Rainaldo (Rinaldo) di Ranuccio" and is the main source of the present account.
 
 His importance lies in the crosses. Both are of the type of the *Christus patiens*, the dead Christ on the cross, which [Giunta Pisano](/Content/Artists/XIII-c/Giunta-Pisano.html) had spread through central Italy in the second quarter of the thirteenth century. Rainaldetto is one of the painters through whom Giunta's model reached Spoleto, the Marches and Bologna, and his signed and dated works give a fixed point for the chronology of the type.
 
-The previous version of this entry contained several errors. It gave him the painted cross of the Galleria Enrico Frascione in Florence as a certain work, although [Angelo Tartuferi](/scholars.html#tartuferi-angelo) (2015) and [Alessandro Delpriori](/scholars.html#delpriori-alessandro) (2016) have rejected the attribution. It presented as certain the attribution of the triptych of Santa Chiara in Assisi, which is disputed between him, [Guido da Siena](/Content/Artists/XIII-c/Guido-da-Siena.html) and [Dietisalvi di Speme](/Content/Artists/XIII-c/Dietisalvi-di-Speme.html). It mentioned a "Madonna enthroned of 1258" by Simeone and Machilone in Palazzo Barberini, where the work of those painters is a cross.
+Several attributions remain uncertain. The painted cross of the Galleria Enrico Frascione in Florence, sometimes given to him, has been rejected by [Angelo Tartuferi](/scholars.html#tartuferi-angelo) (2015) and [Alessandro Delpriori](/scholars.html#delpriori-alessandro) (2016). The triptych of Santa Chiara in Assisi is disputed between him, [Guido da Siena](/Content/Artists/XIII-c/Guido-da-Siena.html) and [Dietisalvi di Speme](/Content/Artists/XIII-c/Dietisalvi-di-Speme.html). These works are discussed below as attributions, not as certain works.
 
 It also mistranslated the inscription of the Fabriano cimasa and described the mourners of the Fabriano cross as standing beside the body rather than in the terminals. Its accounts of the provenance of the Bologna cross, which seemed contradictory, are reconciled by the *Dizionario Biografico*. These points are treated below, with the evidence of the photographs of the Fabriano cross, the catalogues of the two museums and the entry of Rossi.
 
@@ -146,7 +146,7 @@ The tradition into which Rainaldetto was born, from Alberto Sozio to Simeone and
 
 The cross of Fabriano measures 154 by 120 centimetres and is painted in tempera on panel. The museum dates it to the second half of the thirteenth century and records its provenance as unknown; the *Dizionario Biografico* states that it came from the Ospedale del Buon Gesù in Fabriano, which received works from the suppressions after the unification of Italy, and that it was probably made for a Franciscan setting in the city. The dictionary gives its dimensions as 223 by 142 centimetres, almost exactly those of the Bologna cross, 224 by 141.5; the figure appears to repeat the Bologna measurements by mistake, and the proportions of the cross in photographs agree with the museum's 154 by 120. [Edward Garrison](/scholars.html#garrison-edward) (1949) dated it earlier than the Bologna cross, about 1260, and [Silvia Giorgi](/scholars.html#giorgi-silvia), in the catalogue of the Pinacoteca of Bologna, considered it about five years earlier than the Bologna cross of 1265.
 
-The cross bears two inscriptions. In the cimasa, in white Gothic capitals on a red ground, three lines read *EGO SUM REX R[E]G[U]M / POPULUM QUI DE / MORTE REDEMI*: "I am the King of kings, who redeemed the people from death". The previous version of this entry, following the museum's page, translated it as "the King of kings and of the peoples who rose from the dead", which does not correspond to the Latin.
+The cross bears two inscriptions. In the cimasa, in white Gothic capitals on a red ground, three lines read *EGO SUM REX R[E]G[U]M / POPULUM QUI DE / MORTE REDEMI*: "I am the King of kings, who redeemed the people from death". The museum's page translates it as "the King of kings and of the peoples who rose from the dead", which does not correspond to the Latin.
 
 At the foot of the cross, on a pale plaque, three lines in black letters give the signature: *[RAI]NALDICTUS RA/[N]UCI DE SPOL[ETO] / [P]INSIT HO[C]*, "Rainaldetto son of Ranuccio of Spoleto painted this". The beginning of the name and some letters are lost, but the reading is secure. The verb *pinsit*, for *pinxit*, reflects the spoken form. [Lionello Venturi](/scholars.html#venturi-lionello), the first to publish the cross in 1915, misread the damaged name as *Benaidictus*.
 
@@ -156,7 +156,7 @@ The museum observes that the two crosses of Bologna and Fabriano are the only wo
 
 The inscription of the Bologna cross, as transcribed by [Silvia Giorgi](/scholars.html#giorgi-silvia) (1987), reads *Iesu Nazaren(us) rex iudeorum / anno d(omi)ni MCCLXV d(ie) mensis aprelis / magister Rainaldo Ranucai / pinsit h(oc)*: "Jesus of Nazareth, King of the Jews, in the year of the Lord 1265, in the month of April, master Rainaldo son of Ranuccio painted this". It gives the painter the title of *magister*, master, and the most precise date of his career.
 
-The original destination of the cross is unknown. [Giordana Benazzi](/scholars.html#benazzi-giordana) (2014) proposed that it came from Santa Chiara in Assisi, where, at the consecration of the basilica in 1265, it may have served as the *crux de medio ecclesiae*, the cross hung in the middle of the church, paired with the tabernacle of the Madonna dei Crociati, which she also attributed to Rainaldetto. The statement of the previous version of this entry that the cross came from San Francesco in Bologna has no support in the sources consulted.
+The original destination of the cross is unknown. [Giordana Benazzi](/scholars.html#benazzi-giordana) (2014) proposed that it came from Santa Chiara in Assisi, where, at the consecration of the basilica in 1265, it may have served as the *crux de medio ecclesiae*, the cross hung in the middle of the church, paired with the tabernacle of the Madonna dei Crociati, which she also attributed to Rainaldetto.
 
 The two crosses complement each other: the Fabriano cross gives the painter's father and city, the Bologna cross the year. Read together, they make Rainaldetto one of the few painters of the Umbrian Duecento whose identity and activity are anchored by inscriptions.
 
@@ -174,7 +174,7 @@ The flesh of Christ is greenish and pale, the anatomy drawn with clear lines: th
 
 The Maestro di San Francesco, whose cross dated 1272 is in the Galleria Nazionale dell'Umbria in Perugia, offers the closest comparison. His Christ, too, is a *Christus patiens* with a strongly curving body and a pale loincloth, his mourners stand at full length in the terminals, and a small figure of Saint Francis kneels at the feet. The Pinacoteca of Bologna notes the connection between the two painters.
 
-The previous version of this entry discussed the division of Christ's abdomen into two parts at Fabriano and three at Bologna as an evolutionary sign, and reached contradictory conclusions about which came first. The point is too fine to bear the weight of a chronology, and the relative dating of the two crosses rests on Garrison's and Giorgi's judgement of style.
+The division of Christ's abdomen into two parts at Fabriano and three at Bologna has been read as a sign of development. The point is too fine to bear the weight of a chronology, and the relative dating of the two crosses rests on Garrison's and Giorgi's judgement of style.
 
 Venturi (1915) related the Fabriano cross to one of the detached frescoes of Fabriano, to the cross of the Maestro di San Francesco of 1272, to the cross of the Maestro dei Crocifissi francescani in San Francesco at Gualdo Tadino and to the lost cross of the cathedral of Ancona. Umberto Gnoli (1923) noted both its Giuntesque character and its links with the culture of Spoleto. The *Dizionario Biografico* sums up his style in four features: soft, flat colour, decorated "carpets" as backgrounds, a detailed description of anatomy and a soft use of line.
 
@@ -186,7 +186,7 @@ The portable triptych in the Frick Art Museum in Pittsburgh, inv. 1970.52, with 
 
 The painted cross of the Galleria Enrico Frascione in Florence, 160 by 119 centimetres, in tempera, gold and silver on panel, with Saints Francis and Clare in the terminals, was published by [Roberto Longhi](/scholars.html#longhi-roberto) in 1966 as a work of Rainaldetto. Tartuferi (2015) rejected the attribution and placed the cross in the Umbrian-Marchigian area around 1295; Delpriori (2016) also rejected it, keeping a Spoletan context.
 
-The triptych in the basilica of Santa Chiara in Assisi, with the Madonna and Child and scenes from the life of Christ, was related to the Bologna cross by Giorgi (1987); the *Dizionario Biografico* reports its attribution to Rainaldetto, with a date between 1265 and 1272, on the strength of the dramatic tension and emotional reading of its scenes. Other scholars give it to Guido da Siena or to Dietisalvi di Speme. The attribution is therefore disputed, and the triptych is not illustrated here.
+The triptych in the basilica of Santa Chiara in Assisi, with the Madonna and Child and scenes from the life of Christ, was related to the Bologna cross by Giorgi (1987); the *Dizionario Biografico* reports its attribution to Rainaldetto, with a date between 1265 and 1272, on the strength of the dramatic tension and emotional reading of its scenes. Other scholars give it to Guido da Siena or to Dietisalvi di Speme. The attribution is therefore disputed.
 
 The *Dizionario Biografico* records further attributions: a cross in the Museo di San Francesco at Montefalco, a cross in the Franciscan convent of Massa Fermana, another in the convent of Santa Chiara at Montalto Marche, and the tabernacle and cross of the Blessed Mattia Nazzarei at Matelica, given to him by Garrison (1949), [Andrea De Marchi](/scholars.html#de-marchi-andrea) (2009) and Benazzi (2014). Rossi notes that they show, in some decorative details, a strong link with the Umbrian tradition spread by Rainaldetto. No free images of these works could be found.
 
@@ -210,7 +210,7 @@ He is significant, finally, as a case in method. His catalogue has been enlarged
 
 The Fabriano cross, well preserved and illustrated here in detail, is the best introduction to the painter. Its inscriptions, its mourners, its geometric bands and its Christ show the qualities of his art: clarity of drawing, restraint of colour and the solemn pathos of the dead Christ.
 
-The cross of Bologna, larger and dated, completes the picture, but it can be described here only in words. A free image of it would allow a direct comparison of the two signed works.
+The cross of Bologna, larger and dated, completes the picture. The comparison of the two signed works is the basis of any account of his development.
 
 The catalogue that follows examines the Fabriano cross as a whole and in eight details, and compares it with the crosses of Giunta Pisano, Simeone and Machilone and the Maestro di San Francesco.
 
@@ -237,7 +237,7 @@ The cimasa carries the inscription *EGO SUM REX R[E]G[U]M / POPULUM QUI DE / MOR
 
 The surface is in good condition. The colours, the green of the flesh, the red and pink of the mourners and the loincloth, the black, white, red and blue of the ornament, are clear; the gold or silver of the ground and the halo has darkened. The moulding of the frame is worn at the edges.
 
-The photograph, published on Wikimedia Commons, is the source of the details that follow, cropped by the author of this site. They show the parts of the cross that cannot be seen clearly at the scale of the whole.
+The photograph, published on Wikimedia Commons, is the source of the details that follow. They show the parts of the cross that cannot be seen clearly at the scale of the whole.
 
 ### The Cimasa and Its Inscription
 
@@ -254,7 +254,7 @@ The words join two ideas. *Rex regum*, "King of kings", is the title of Christ i
 
 The inscription answers the image. The *Christus patiens*, with closed eyes and a body bent by death, could be read as an image of defeat; the words of the cimasa declare that this death is the redemption of the people and the triumph of the King of kings.
 
-The previous version of this entry, following the museum's page, translated the inscription as "the King of kings and of the peoples who rose from the dead". The Latin *populum*, accusative singular, is the object of *redemi*, "I redeemed", not a genitive plural.
+The museum's page translates the inscription as "the King of kings and of the peoples who rose from the dead". The Latin *populum*, accusative singular, is the object of *redemi*, "I redeemed", not a genitive plural.
 
 The letters are Gothic capitals, with rounded forms of E, M and N, written in white with fine serifs, separated by points. Thin white lines rule the three lines. The red ground is well preserved, and the letters are clear.
 
@@ -279,7 +279,7 @@ At the left end the Virgin stands, small and full-length, in a red dress and a d
 
 The mourners are placed in the stepped terminals, at a distance from the body, separated from it by the length of the arms. Their small scale contrasts with the large figure of Christ, as in the crosses of Giunta and of Simeone and Machilone.
 
-The previous version of this entry described the Virgin and Saint John as full-length figures in the lateral panels beside the body. The photograph shows that they stand in the terminals, and that the field beside the body carries only geometric ornament.
+The Virgin and Saint John stand in the terminals of the cross, not in the lateral panels beside the body; the field beside the body carries only geometric ornament.
 
 The tops of the two bands of ornament appear below the crossbar, framing the body of Christ. Their geometric pattern, in black, white, red and blue, contrasts with the smooth flesh of the figure.
 
@@ -396,7 +396,7 @@ The blood is drawn as a sign, not as a description of a wound. Its wavy course a
 
 The shaft is framed by red borders with white palmettes and small red circles, the same ornament that frames the arms and the upper shaft. The stepped outline of the panel projects on both sides of the feet.
 
-The previous version of this entry noted the "threadlike rivulets of blood" as a feature of the Frascione cross, which is not by Rainaldetto. The streams of blood below the feet at Fabriano are a feature of his own signed cross.
+The streams of blood that run below the feet are a feature of his signed cross at Fabriano. They should not be confused with the "threadlike rivulets of blood" sometimes described in the Frascione cross, which is not by Rainaldetto.
 
 The surface is darkened in the lower part of the panel, and the moulded edges are worn. The blue of the shaft and the red of the blood are well preserved.
 
@@ -425,7 +425,7 @@ The signature, together with the date April 1265 of the Bologna cross, makes Rai
 
 ### The Painted Cross of Bologna, 1265
 
-The second signed cross of Rainaldetto is in the Pinacoteca Nazionale of Bologna, inv. 1328. No image with a free licence could be found, and it is described here from the museum's catalogue and the literature. The museum catalogues it as a shaped cross with the Saviour, the Mourning Virgin and Saint John, by Rinaldo di Ranuccio, signed and dated 1265.
+The second signed cross of Rainaldetto is in the Pinacoteca Nazionale of Bologna, inv. 1328. The museum catalogues it as a shaped cross with the Saviour, the Mourning Virgin and Saint John, by Rinaldo di Ranuccio, signed and dated 1265.
 
 It is painted in tempera on panel and measures 224 by 141.5 centimetres. It was formerly in the Volpi collection in Florence and was acquired by the state in 1930, by pre-emption, from the dealer Attilio Rossi; its original church is unknown.
 
@@ -462,7 +462,7 @@ Giunta's Christ has a heavier, more sculptural body and a more dramatic curve; R
 
 The cross was painted for the church of the Porziuncola, the small church where Saint Francis had founded his order, and it is closely tied to the Franciscan devotion to the suffering Christ.
 
-The photograph is reproduced at reduced size, without zoom. Giunta has his own entry on this site, where his crosses are discussed in detail.
+Giunta's crosses are discussed in detail in his own entry.
 
 ### Comparison: Simeone and Machilone, the Cross of 1257
 
@@ -508,4 +508,4 @@ The date of 1272 places the Perugia cross a few years after the Bologna cross of
 
 The museum's observation that Rainaldetto's art is connected with that of the Maestro di San Francesco places him within the artistic world of Assisi, the centre of Umbrian painting in the second half of the century.
 
-The Maestro di San Francesco has his own entry on this site, where his crosses and his work at Assisi are discussed.
+The crosses of the Maestro di San Francesco and his work at Assisi are discussed in his own entry.

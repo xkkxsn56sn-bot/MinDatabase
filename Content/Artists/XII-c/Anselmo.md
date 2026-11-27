@@ -102,7 +102,7 @@ A third name appears on the slab of the consuls that recorded the building of th
 
 For a long time the signatures were the only evidence. Barbara Natoli, in a study published in *Arte Lombarda* in 2020, has added a document: a will of 1166 in which Anselmus and Girardus appear together as witnesses. The document places the two men in Milan before the Porta Romana, and, according to Natoli, connects Anselmus with the building site of Sant'Ambrogio.
 
-The previous version of this entry stated that no document outside the monument mentions Anselmus. It also gave him the signature of the Return of the Milanese, which belongs to Girardus, and claimed that the names of both sculptors appear among the consuls on the commemorative slab, which they do not.
+The signatures must be read carefully. The signature on the Return of the Milanese belongs to Girardus, not to Anselmus, and neither sculptor appears among the consuls named on the commemorative slab; only Girardus de Mastegnianega is named on its flank, as its maker.
 
 Anselmus of the Porta Romana must be kept distinct from Anselmo da Campione, the master of the Campionese family who worked at Modena cathedral in the later twelfth century. The two share only a name; their works, places and styles are different.
 
@@ -140,7 +140,7 @@ The gate is the first monument in Milan to carry a narrative of the city's recen
 
 The slab of the consuls is the documentary key to the Porta Romana. Its text records two dates: the return of the Milanese to their city and the beginning of the walls.
 
-The first sentence reads: in the year of the Lord's incarnation 1167, on Thursday, the fifth day before the kalends of May, the Milanese entered the city. The fifth day before the kalends of May is 27 April, which in 1167 fell on a Thursday. The previous version of this entry translated the date as 5 May.
+The first sentence reads: in the year of the Lord's incarnation 1167, on Thursday, the fifth day before the kalends of May, the Milanese entered the city. The fifth day before the kalends of May is 27 April, which in 1167 fell on a Thursday.
 
 The second sentence states that in March 1171 "this work of towers and gates" was begun. It then names the consuls of the republic who were in office and had the work made: Passaguadus de Setara, Ardericus de la Turre, Pinamonte de Vimercato, Obertus de Orto, Malconventus Cotta, Arnaldus de Mariola, Adobadus Butraffus, Malagallia de Alliate, Malfilliocius de Ermenulfis and Rogerius Marcellinus.
 
@@ -150,7 +150,7 @@ The signature on the left flank, GIRARDUS DE MASTEGNIANEGA FECIT HOC OPUS, names
 
 The slab confirms that the gate was a communal work, commissioned by the consuls as magistrates of the city. It names no bishop and no emperor, only the ten consuls of 1171.
 
-The previous version of this entry gave a "transcription" of the slab that does not correspond to the stone, and stated that Anselmus and Girardus appear among the consuls. The text above is read from the photograph and checked against the regional catalogue.
+The text above follows the stone and the regional catalogue of Lombardy. The names listed are those of the consuls; the sculptors of the reliefs are not among them.
 
 The dates of the slab also date the reliefs. The return of 1167 is the subject of Girardus's relief, and the walls of 1171 are the setting for which both sculptors worked.
 
@@ -171,7 +171,7 @@ Girardus sets the scene under three arcades crowned by large scrolls. The figure
 
 Natoli identifies many of the figures and suggests that the scene is set near the columns of San Lorenzo and the Porta Ticinese, where the returning citizens would have entered the city.
 
-The relief was long given to Anselmus. The previous version of this entry described it as signed "Hoc opus formavit Anselmus Dedalus alter" and attributed to it the measurements of the relief of Saint Ambrose.
+The relief was long given to Anselmus.
 
 The comparison with Anselmus is instructive. Where Girardus groups his figures in an architectural frame and varies their poses, Anselmus aligns his in a continuous row, side by side, in a single plane.
 
@@ -192,7 +192,7 @@ The procession moves from left to right. A figure steps out of an arch at the le
 
 The man with the banner is Frate Jacopo, the friar who, according to the tradition recorded in the inscriptions, led the allied troops. The regional catalogue describes the banner as red with a silver forked cross.
 
-Short inscriptions run above the figures along the frieze, naming the participants. They are worn and partly illegible. The previous version of this entry printed a "partial reading" of these words that makes no sense and has been removed.
+Short inscriptions run above the figures along the frieze, naming the participants. They are worn and partly illegible.
 
 The figures are compact and frontal, with large heads, round eyes and short legs. Their swords and shields are set diagonally across their bodies in a repeated rhythm, so that the row of soldiers forms a regular pattern across the surface.
 
@@ -213,7 +213,7 @@ Ambrose stands at the left in pontifical vestments and mitre, preceded by a cros
 
 Two inscriptions identify the scene. On the upper edge of the frieze, in spaced letters, is S(AN)C(TU)S AMBROSIUS E ARRIANI, "Saint Ambrose [drives out] the Arians". On the cornice above, in larger letters, is AMBROSIUS CELEBS IUDEIS ABSTULIT EDES, "Ambrose the celibate took their temples from the Jews".
 
-The two inscriptions refer to two different traditions about the bishop. The first recalls his conflict with the Arian court of Justina and Valentinian II in 385–386; the second, a claim that Ambrose deprived the Jews of their places of worship. The previous version of this entry titled the relief "Saint Ambrose driving the Jews out of Milan" and linked the cornice to the burning of the synagogue at Callinicum in 388, which Ambrose did not order: he prevented its rebuilding.
+The two inscriptions refer to two different traditions about the bishop. The first recalls his conflict with the Arian court of Justina and Valentinian II in 385–386; the second, a claim that Ambrose deprived the Jews of their places of worship. The second is sometimes linked to the burning of the synagogue at Callinicum in 388, which Ambrose did not order: he opposed the emperor's order that it be rebuilt.
 
 In the Milan of 1171, the scene had a meaning beyond the fourth century. The patron saint of the city drives its enemies out of the gate, at the moment when the commune was defending its liberty against the emperor. The heretics of Ambrose's time could stand for the enemies of the present.
 
@@ -221,7 +221,7 @@ The figures are lined up in a single row, frontal and closely packed, with pleat
 
 The relief is the earliest surviving image of Ambrose as a militant bishop who drives out the enemies of his city. Two centuries later, after the battle of Parabiago in 1339, the scourge became his standard attribute on Visconti coins and images.
 
-The previous version of this entry described the relief as "the first known depiction of Saint Ambrose with the staff", inspired by the sermon against Auxentius, and attributed to Saverio Lomartire a date in the middle of the twelfth century. None of these claims is supported by the sources consulted.
+The relief belongs to the decoration of the gate built after 1167, and its date follows from the inscriptions on the gate rather than from style. Its image of Ambrose with the scourge is the bishop of the city's legend, not a portrait of the historical Ambrose.
 
 ## Anselmus and Milanese Sculpture
 
@@ -263,9 +263,9 @@ The two signatures, Anselmus's "second Daedalus" and Girardus's "learned thumb",
 
 The demolition of 1793 separated the reliefs from their setting. Their survival depended on the Calvi family, who built them into their house, and on the purchase of 1895 that brought them to the civic museums.
 
-The Museo d'Arte Antica of the Castello Sforzesco now displays them on modern supports, at a height that makes the inscriptions legible. The photographs in this entry show them in that setting.
+The Museo d'Arte Antica of the Castello Sforzesco now displays them on modern supports, at a height that makes the inscriptions legible. The photographs show them in that setting.
 
-The previous version of this entry was long and repetitive, and it attributed the reliefs, inscriptions and measurements wrongly. The present version follows the regional catalogue of Lombardy for the facts of each piece and Natoli's study for the new documentary evidence.
+The regional catalogue of Lombardy records the facts of each piece, its measurements, inscriptions and provenance, and Natoli's study has added the documentary evidence of 1166. Together they are the basis for any account of the gate and its sculptors.
 
 What remains uncertain is much: the original arrangement of the four scenes on the gate, the subject of the lost one, the exact share of each sculptor, and the identity of Girardus with the Girardus de Mastegnianega of the slab. Natoli's article is the starting point for any further study.
 
