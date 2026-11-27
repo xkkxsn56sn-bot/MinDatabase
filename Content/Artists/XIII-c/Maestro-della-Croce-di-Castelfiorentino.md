@@ -1,274 +1,419 @@
 ---
 layout: entry
-title: Maestro della Croce di Castelfiorentino
-subtitle: Anonymous Giuntesque painter active between Pisa, Volterra, and the Valdera
-dates: active c. 1250-1275 (third quarter of the XIII century)
+title: "Maestro della Croce di Castelfiorentino"
+subtitle: "Anonymous Giuntesque painter of the second half of the thirteenth century, active between Pisa, Volterra and the Valdera, named after the painted cross from Castelfiorentino now in the Museo Diocesano of Volterra"
+dates: "Active c. 1260 – c. 1290"
+century: "XIII"
 
 meta:
-  - title: IDENTITY
+  - title: "CORE DATA"
     pairs:
-      - label: Conventional name
-        value: Maestro della Croce di Castelfiorentino (Master of the Castelfiorentino Cross)
-      - label: Status
-        value: Anonymous Tuscan painter identified through a reconstructed corpus
-      - label: School
-        value: Pisan Giuntesque tradition
-      - label: Media
-        value: Tempera and gold on panel (painted crosses and hagiographic dossals)
+      - label: "Name"
+        value: "Maestro della Croce di Castelfiorentino (Master of the Castelfiorentino Cross); a conventional name"
+      - label: "Name-piece"
+        value: "Painted cross, called the Crocifisso delle Monache, from the monastery of Santa Maria della Marca at Castelfiorentino - Volterra, Museo Diocesano di Arte Sacra (church of Sant'Agostino)"
+      - label: "Name given by"
+        value: "Edward B. Garrison, who described him as a Giuntesque master active in the Pisan area between about 1250 and 1270"
+      - label: "Activity"
+        value: "Second half of the thirteenth century; dates proposed range from the 1260s to the last years of the century"
+      - label: "Region"
+        value: "Pisa, the diocese of Volterra and the Valdera"
 
-  - title: CHRONOLOGY
+  - title: "IDENTITY AND LIMITS"
+    list:
+      - "No name, document, signature or dated work survives"
+      - "The painter is known only through a small group of crosses and two hagiographic dossals grouped on grounds of style"
+      - "Caleca and Burresi proposed to identify him with Michele di Baldovino, whose name they read on the cross from Santa Bona now in Cleveland"
+      - "Nassar keeps the two painters distinct and reduces the catalogue assembled under the name of Michele"
+      - "Nassar suggests that the painter led a workshop based in Volterra"
+
+  - title: "CHRONOLOGY"
     pairs:
-      - label: Probable birth
-        value: Unknown; likely early XIII century, probably in Tuscany
-      - label: Active period
-        value: c. 1250-1275 (third quarter of the Duecento)
-      - label: Documentary status
-        value: No secure archival document; chronology reconstructed through stylistic and territorial evidence
-      - label: Death
-        value: Unknown; probably after c. 1275
+      - label: "1260s–1270s"
+        value: "Cross of Castelfiorentino - Volterra, Museo Diocesano (1250–1270 for Garrison; 1260s or 1270s for Simeoni; after 1270 for Balestri; 1270s for Nassar)"
+      - label: "Mid-thirteenth century"
+        value: "Cross with the Virgin, Saint John and two archangels, from the Opera del Duomo - Pisa, Museo Nazionale di San Matteo, inv. 5721 (c. 1240–1260 in the national catalogue)"
+      - label: "c. 1270–1280"
+        value: "Cross from Sant'Andrea in Chinseca - Pisa, San Martino (Nassar)"
+      - label: "c. 1270–1275 or the 1290s"
+        value: "Dossal of Saint Veranus - Milan, Pinacoteca di Brera (c. 1270–1275 in the national catalogue; the last years of the century for Nassar)"
+      - label: "Last years of the thirteenth century"
+        value: "Dossal of Saint Nicholas - Peccioli, Museo d'Arte Sacra (Nassar)"
 
-  - title: GEOGRAPHY
+  - title: "KEY WORKS"
     list:
-      - Pisa - primary artistic environment and likely workshop horizon
-      - Volterra and diocesan orbit - strong corpus concentration
-      - Valdera (including Peccioli) - likely destination for hagiographic commissions
-      - Works currently in Pisa, Volterra, Milan, and other museum/church collections
+      - "Painted cross, the Crocifisso delle Monache, lacking the side panels and the cimasa - Volterra, Museo Diocesano di Arte Sacra"
+      - "Painted cross with the Virgin, Saint John and two archangels, tempera and silver leaf on panel, 152 × 140.5 cm - Pisa, Museo Nazionale di San Matteo, inv. 5721"
+      - "Painted cross from Sant'Andrea in Chinseca - Pisa, church of San Martino"
+      - "Saint Veranus between two angels and six scenes from his legend, tempera on panel, 152 × 97 cm - Milan, Pinacoteca di Brera, Reg. Cron. 5452"
+      - "Saint Nicholas and four scenes from his life, tempera on panel - Peccioli, Museo d'Arte Sacra (Prepositura di San Verano)"
 
-  - title: FAMILY
-    pairs:
-      - label: Father and mother
-        value: Unknown
-      - label: Marriage and descendants
-        value: Unknown
-      - label: Biographical condition
-        value: Identity preserved through a notname rather than personal archival records
-      - label: Hypothesis
-        value: Some scholars proposed identification with Michele di Baldovino; this remains debated
-
-  - title: PATRONAGE
+  - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
-      - Ecclesiastical institutions in Pisa and its contado
-      - Parish and diocesan churches in Volterra territory
-      - Local communities connected to the cults of Saint Veranus and Saint Nicholas
-      - Devotional contexts requiring monumental painted crosses and narrative saint panels
+      - "Virgin nursing the Child with Saint Martin and Saint John the Evangelist, from San Martino in Pisa - Pisa, Museo Nazionale di San Matteo: a follower for Garrison and Nassar, the late phase of the master for Carli, Enrico di Tedice for Caleca, the Maestro di San Martino in the national catalogue"
+      - "Cross from Santa Bona, Pisa - Cleveland Museum of Art: given to the same hand by Caleca and Burresi as Michele di Baldovino; a different painter for Nassar"
+      - "Crosses of San Piero in Vinculis (San Pierino) and of Riglione: given to the same hand by Caleca and Burresi; irreconcilable with the group for Nassar"
+      - "Rejected: the Brera Saint Veranus as a work of Meliore (Carli, 1958) or of the Florentine school (Kaftal, 1952)"
 
-  - title: KEY WORKS
+  - title: "STYLE AND FORMATION"
     list:
-      - San Verano between Two Angels and Six Stories from His Life - c. 1275, tempera on panel, Pinacoteca di Brera, Milan
-      - Madonna and Child between Saints Martin and John the Evangelist (Madonna del Latte) - c. 1250-1274, Museo Nazionale di San Matteo, Pisa
-      - Christ on the Cross with the Virgin, Saint John, and Angels - c. 1250-1274, Museo Nazionale di San Matteo, Pisa
-      - Fragments and related cross attributions connected to Castelfiorentino and Volterran devotional networks
+      - "Formed in the circle of Giunta Pisano: the Christus patiens with the head fallen on the shoulder, the closed eyes, the swelling belly and the tripartite chest"
+      - "Byzantine features in the anatomy: the segmented abdomen, the forked beard, the locks falling on the shoulders"
+      - "Haloes of Christ with applied bosses in relief in the crosses of Castelfiorentino and of the Opera del Duomo"
+      - "Affinities in physiognomy and anatomy with Enrico di Tedice"
+      - "In the dossals, a frontal bishop saint on a gold ground with three scenes on either side, on the model of the dossals of Saint Francis"
 
-  - title: STYLE
+  - title: "PATRONAGE AND SETTING"
     list:
-      - Strong Giuntesque matrix with emphasis on devotional clarity and pathos
-      - Christus patiens imagery articulated through concentrated emotional structure
-      - Byzantine-derived gold-ground language adapted to Tuscan panel practice
-      - Linear drapery construction and expressive physiognomies
-      - Capacity to move from iconic cross format to narrative hagiographic sequencing
+      - "A community of nuns at Castelfiorentino, in the diocese of Volterra"
+      - "Pisan churches: Sant'Andrea in Chinseca and, perhaps, San Giovannino dei Frieri"
+      - "The pieve of San Verano at Peccioli, in the Valdera, the probable destination of the Saint Veranus dossal"
+      - "The bishops of Volterra; Nassar compares the standing bishop of the dossals with the bishop on the Volterran grossi of the 1290s"
 
-  - title: ARTISTIC INFLUENCES
+  - title: "RECEPTION AND LEGACY"
     list:
-      - Giunta Pisano and the Pisan crucifix tradition
-      - Enrico di Tedice and related local figure typologies
-      - Byzantine visual grammar mediated by Pisa's Mediterranean cultural exchanges
-      - Regional exchanges between Pisa, Volterra, and central Italian narrative panel models
-
-  - title: ATTRIBUTION AND DEBATE
-    paragraphs:
-      - The corpus has been reconstructed through stylistic comparison rather than signed documents.
-      - A major debate concerns whether this master should be identified with Michele di Baldovino, known from a partially preserved signature on a Cleveland crucifix.
-      - Recent scholarship often keeps the two personalities distinct while acknowledging close formal proximity.
-
-  - title: RELATED ENTRIES
-    links:
-      - title: Michele di Baldovino
-        url: /Content/Artists/XIII-c/Michele-di-Baldovino.html
-      - title: Giunta Pisano
-        url: /Content/Artists/XIII-c/Giunta-Pisano.html
-      - title: Enrico di Tedice
-        url: /Content/Artists/XIII-c/Enrico-di-Tedice.html
-      - title: Maestro della Croce 434
-        url: /Content/Artists/XIII-c/Maestro-della-Croce-434.html
-
-  - title: THEMATIC KEYWORDS
-    list:
-      - Pisan Duecento painting
-      - Giuntesque school
-      - Painted crucifixes
-      - Hagiographic panels
-      - Volterra and Valdera artistic geography
-      - Anonymous masters in medieval Italy
+      - "Garrison's index (1949) first gave the master a name and a small catalogue"
+      - "The reading of the Cleveland inscription in the early 1990s made the painter the centre of the debate on Michele di Baldovino"
+      - "The Brera dossal is the best-known work of the group and one of the few Tuscan dossals devoted to a bishop saint"
+      - "A nineteenth-century mistake brought the Saint Nicholas dossal to Peccioli, where it was long venerated as the image of Saint Veranus"
 
 scholars:
+  - title: "Balestri, Diego"
+    url: "/scholars.html#balestri-diego"
   - title: "Boskovits, Miklós"
     url: "/scholars.html#boskovits-miklos"
   - title: "Burresi, Mariagiulia"
     url: "/scholars.html#burresi-mariagiulia"
   - title: "Caleca, Antonino"
     url: "/scholars.html#caleca-antonino"
+  - title: "Carli, Enzo"
+    url: "/scholars.html#carli-enzo"
   - title: "Garrison, Edward B."
     url: "/scholars.html#garrison-edward"
+  - title: "Kaftal, George"
+    url: "/scholars.html#kaftal-george"
   - title: "Nassar, Magdi A.M."
     url: "/scholars.html#nassar-magdi-a-m"
-  - title: "Offner, Richard"
-    url: "/scholars.html#offner-richard"
   - title: "Sirén, Osvald"
     url: "/scholars.html#siren-osvald"
-  - title: "Tartuferi, Angelo"
-    url: "/scholars.html#tartuferi-angelo"
+  - title: "Stubblebine, James H."
+    url: "/scholars.html#stubblebine-james-h"
+  - title: "Vigni, Giorgio"
+    url: "/scholars.html#vigni-giorgio"
+  - title: "Villoresi, Renato"
+    url: "/scholars.html#villoresi-renato"
 ---
 
-## Identity and Family
+## A Name from Castelfiorentino
 
-The *Maestro della Croce di Castelfiorentino* (Master of the Castelfiorentino Cross) was an anonymous Tuscan painter active in the thirteenth century, most likely in its third quarter. Modern criticism places his activity between Volterra, the Valdera, and Pisa. Some scholars once proposed identifying him with *Michele di Baldovino*, the painter associated with a signed crucifix later studied in Cleveland. More recent stylistic study has reopened that question and argues that the two artistic personalities may be distinct. Because the artist remains anonymous, his exact date of birth cannot be established from surviving documentation. His place of birth is equally undocumented in the extant sources. The most cautious scholarly formulation is therefore that he was probably born somewhere in Tuscany, within the cultural orbit that linked Pisa and Volterra. No secure record preserves the names of his parents. No source presently identifies a spouse, children, or other close relatives. The date, place, and cause of his death are likewise unknown.
+The Maestro della Croce di Castelfiorentino is an anonymous painter of the second half of the thirteenth century. His conventional name comes from a painted cross that once belonged to the nuns of Castelfiorentino, a town in the lower Valdelsa that lay in the diocese of Volterra. The cross is known locally as the Crocifisso delle Monache, and it is now kept in the Museo Diocesano di Arte Sacra of Volterra, in the church of Sant'Agostino.
 
-This lack of family data is not unusual for a Duecento painter known only through a modern notname. The label “Maestro della Croce di Castelfiorentino” derives from a work associated with Castelfiorentino rather than from a medieval surname. In methodological terms, the artist’s *family* is therefore an archival absence rather than a recoverable genealogy. Art historians reconstruct his profile by comparing panels, crucifixes, and territorial provenances. This procedure shifts attention from bloodline to workshop identity. It also means that biographical writing must remain probabilistic whenever it approaches private life. The anonymity of the master should not be treated as a mere deficiency of evidence. It is instead a structural feature of thirteenth-century artistic history, in which many makers survive only through attributed corpora. For that reason, any discussion of his family must begin from the discipline’s limits as much as from its discoveries. In his case, those limits are exceptionally clear.
+The cross is recorded as coming from the monastery of Santa Maria della Marca, outside Castelfiorentino. It reached Volterra much reduced. The side panels of the shaft, which carried the mourning figures, and the cimasa at the top have been cut away, so that what survives is the body of Christ on a narrow cross. It was restored in 1930 and again in 1963.
 
-The hypothesis identifying the painter with Michele di Baldovino has special importance because it would partially relieve that anonymity. The proposal arose from fragments of a signature on a monumental crucifix studied in the late twentieth century. [Antonino Caleca](/scholars.html#caleca-antonino) and [Mariagiulia Burresi](/scholars.html#burresi-mariagiulia) read those fragments as the name of *Michele di Baldovino*. On that basis, they attempted to assemble a wider catalog around the signed work. [Magdi A.M. Nassar](/scholars.html#nassar-magdi-a-m), however, judges several of those extensions forced and argues that the Master of the Castelfiorentino Cross is distinguishable from the author of the Cleveland cross. Even if the identification were accepted, it would provide only a patronymic and not a fuller domestic biography. The proposed name would still tell us nothing secure about the painter’s household economy. It would also leave unanswered questions about siblings, inheritance, and marriage alliances. The debate is therefore valuable primarily for attributional history rather than for reconstructing family life. Academic caution still favors retaining the conventional notname.
+The name was given by [Edward B. Garrison](/scholars.html#garrison-edward), in his index of Italian Romanesque panel painting. Garrison described the painter as a Giuntesque master, strongly influenced by the contemporary "impressionism" of the master of the Castellare crucifix, and placed his activity in the Pisan area between about 1250 and 1270.
 
-Although biological relatives are lost, the notion of a professional family remains useful for understanding the painter. The available evidence places him within the *Giuntesque Pisan environment*, which functioned as a shared workshop lineage. Such a milieu transmitted formulas, compositional schemes, and devotional types across generations of makers. In that sense, his closest recoverable “kin” were other painters working in the orbit of Giunta Pisano. The same evidence links him to pictorial habits also compared with *Enrico di Tedice*. Those affinities imply apprenticeship, imitation, or at least sustained visual contact within a common professional circle. His corpus likewise shows familiarity with ecclesiastical programs requiring coordination between painter, clergy, and local institutions. That network resembles a corporate family more than an individual household. It shaped the artist’s production, reputation, and circulation through territory. The family history that can be written is therefore a history of workshop belonging.
+Garrison gave him two crosses: the Castelfiorentino cross and a cross that came from the Opera del Duomo of Pisa and is now in the Museo Nazionale di San Matteo. He also recognised the hand of a follower in a Virgin nursing the Child from San Martino in Pisa. This small group is still the core of the master's catalogue.
 
-The strongest conclusion about the artist’s family is thus negative but historically meaningful. He cannot be assigned a documented birthplace, parentage, marriage, or burial record. Yet the absence of those facts does not prevent a serious biography. It compels the historian to reconstruct identity through objects, attributions, and devotional geography. The corpus shows a painter integrated into ecclesiastical life across a zone extending from Pisa toward Volterra. It also shows a maker sufficiently distinctive for scholars to maintain him as a separate artistic personality. Family history in this case becomes the study of anonymity as a historical condition. That condition is particularly characteristic of anonymous panel painting before the greater documentary density of the Trecento. The Master of the Castelfiorentino Cross therefore stands at the intersection of personal obscurity and artistic recognizability. His unknown family background is one of the central facts of his biography, not a marginal omission.
+Nothing else is known. No document names the painter, no work is signed or dated, and his place of birth and training can only be inferred from his style. Everything that can be said about him rests on the comparison of a few panels and on what is known of the churches they came from.
 
-## Patronage
+The name is itself a kind of map. It ties the painter to Castelfiorentino and to the diocese of Volterra, while the style ties him to Pisa and to Giunta Pisano. The tension between these two places runs through the whole history of the master's study.
 
-The patronage of the master was overwhelmingly ecclesiastical. His secure and probable works are tied to churches, pieve structures, and religious communities rather than to princely courts. This pattern accords with the normal uses of painted crucifixes and devotional panels in mid-thirteenth-century Tuscany. Such works served liturgy, prayer, preaching, and local cult. Their patrons were often institutions rather than individually named donors. The surviving catalog records for this painter confirm precisely that situation. We can usually identify the church for which a panel was made more confidently than the person who financed it. Even so, institutional provenance is not a minor detail, because it explains why specific saints appear beside Christ or the Virgin. It also clarifies the regional concentration of the corpus between Pisa and Volterra. The master’s patrons emerge, therefore, as communities of worship embedded in local topography and cult.
+Garrison's group was enlarged later. The two hagiographic dossals of Saint Veranus, now in Brera, and of Saint Nicholas, now at Peccioli, were added to it, together with a cross from the Pisan church of Sant'Andrea in Chinseca. With them the master became a painter of narrative as well as of crosses.
 
-This institutional pattern also helps explain the functional diversity of the corpus. A monumental painted cross answered the needs of a liturgical focal image, often intended for placement near the altar or within the nave where collective devotion could gather around the Passion. A narrative hagiographic panel, by contrast, responded to the commemorative and instructional needs of a specific saintly cult. The same painter could therefore be commissioned for distinct visual tasks within related ecclesiastical environments. In practical terms, patronage was shaped by ritual use, feast-day cycles, and the devotional priorities of each church community. The coherence of the master’s production lies not in a single patronal household but in repeated service to institutions with comparable religious functions.
+The most recent study, by [Magdi A.M. Nassar](/scholars.html#nassar-magdi-a-m), published in the *Rassegna Volterrana* in 2019, accepts this enlarged group and places the painter in a workshop active in Volterra. Nassar's argument draws both on the geography of the works and on a comparison with the coins of the Volterran mint.
 
-Patronage in this context should also be read as a negotiation between local identity and shared pictorial authority. Communities in Pisa, Peccioli, and the wider Volterran orbit appear to have sought images that were immediately legible within the prestigious Giuntesque idiom while still tailored to local saints and devotional habits. This balance between recognized style and territorial specificity is one of the strongest indicators of how commissions operated in the Duecento countryside. Rather than commissioning experimental novelty, patrons seem to have favored dependable sacred efficacy expressed through established forms. The master’s success likely depended on exactly this capacity: to deliver images grounded in a respected Pisan language, yet responsive to the cultic profile of each destination.
+## Michele di Baldovino and the Cross of Santa Bona
 
-## Painting Style
+In 1987 a monumental cross in the Pisan manner was shown for the first time at the Metropolitan Museum of Art in New York. It passed through a private collection and the Metropolitan Museum before reaching the Cleveland Museum of Art.
 
-The master’s style is rooted in the Giuntesque language of Pisan painting. A cultural-heritage record explicitly states that the Pisa crucifix has been related to a painter formed in the ambit of Giunta Pisano. [Garrison](/scholars.html#garrison-edward) had already described the artist as a Giuntesque master active in the Pisan area between about 1250 and 1270. This placement establishes the painter within one of the most authoritative visual traditions of the Tuscan Duecento. The Giuntesque inheritance is visible above all in his preference for the painted cross and in the devotional concentration of his figures. His art privileges iconic presence over spatial anecdote. Even when he turns to narrative panels, the figures retain a frontal authority shaped by cultic function. The emotional force of the image is never dispersed into mere ornament. Instead, structure and pathos are held in deliberate balance. This balance is one of the defining signatures of his manner.
+[James H. Stubblebine](/scholars.html#stubblebine-james-h) studied the cross in an article in *Apollo* in 1987. He recognised Saint Bona of Pisa in the figure on the right terminal, and on that basis connected the cross with the church of San Martino in Pisa, where the cult of the saint was centred.
 
-The crucifixes attributed to the master show his ability to organize Passion imagery with clarity and force. In the Castelfiorentino fragment, the emphasis falls almost entirely on the solitary body of Christ. Such concentration intensifies the theological focus on sacrifice and redemption. In the Pisa crucifix, by contrast, the image widens to include the Virgin, Saint John, and angels. This expanded program creates a more articulated drama of witness and lament. The juxtaposition of Christ’s body with mourning attendants encourages affective participation by the viewer. The angels further translate human grief into celestial recognition. Through these devices, the painter controls both hierarchy and emotional tempo. His crucifix style is therefore not static, even when it remains firmly iconic. It adapts the cross format to varying degrees of devotional intensity.
+Restoration had brought to light fragments of an inscription on the suppedaneum. In the early 1990s [Antonino Caleca](/scholars.html#caleca-antonino) and [Mariagiulia Burresi](/scholars.html#burresi-mariagiulia) read the letters «HAEL Q[...] // [...]VINI[...]IT» as «micHAEL Quondam baldoVINI me pinxIT», "Michael, son of the late Baldovino, painted me". The painter of the Cleveland cross thus acquired a name.
 
-Critics have also noticed affinities between the master’s figure handling and that of Enrico di Tedice. The heritage record specifically mentions similarities in physiognomic and anatomical particulars. This observation implies a painter attentive to bodily definition rather than to abstract silhouette alone. Faces, torsos, and gestures were evidently treated as vehicles of emotional meaning. Such attention helped differentiate one Giuntesque follower from another within the crowded Pisan field. It also explains why the master has remained recognizable as an independent personality in art-historical literature. His figures do not merely repeat a workshop formula mechanically. They interpret inherited models with a degree of specificity sufficient to sustain attribution. That specificity is especially significant in anonymous medieval painting, where authorship depends on recurrent formal habits. The master’s style is thus individual within tradition rather than outside it.
+In their exhibition *Cimabue a Pisa*, held in 2005, Burresi and Caleca saw a strong resemblance between the Cleveland cross and the works given to the Maestro della Croce di Castelfiorentino. They proposed that the two were one painter, and they gathered under the name of Michele di Baldovino a larger catalogue of crosses and panels.
 
-The Madonna del Latte from San Martino reveals another side of the master’s pictorial intelligence. Here the central Marian image is softened by the intimate gesture of maternal nourishment. This iconography introduces tenderness without sacrificing hieratic order. The juxtaposition with Saint Martin’s act of charitable division enriches the panel ethically and narratively. The poor man receiving the cloak brings the scene close to lived Christian practice. Saint John the Evangelist, placed within the same ensemble, preserves a solemn apostolic frame around these affective themes. The painter therefore combines contemplation, charity, and doctrine within a single pictorial field. His style proves capable of moving from the tragic gravity of the cross to the gentler rhetoric of intercession and mercy. Such flexibility argues against any reductive view of him as merely a maker of crucifixes. It also helps explain the coherence of a corpus that includes both Passion images and saintly narratives.
+Nassar judges the attempt forced. In his view the Castelfiorentino master is clearly distinct from the painter of the Santa Bona cross, though he belongs to the same Giuntesque current and was a contemporary or a slightly younger follower. The crosses of San Piero in Vinculis and of Riglione, added by Burresi and Caleca, seem to him irreconcilable with the rest.
 
-The panels of Saint Verano and Saint Nicholas demonstrate the master’s competence in hagiographic narration. Scholarship emphasizes that these works fit the territorial and stylistic profile of a painter closely tied to the Giuntesque school. Their narrative structure has been compared to the schemes of famous Saint Francis panels. That comparison is important because it situates the master within a broader tradition of saint-centered dossali in central Italy. In such works, the central holy figure is not isolated from history but surrounded by exemplary episodes. The painter therefore had to coordinate iconic stillness with sequential storytelling. This dual capacity enlarges our sense of his stylistic resources. It shows that his art could serve instruction as well as adoration. It also confirms a sensitivity to local cult, since narrative panels answer directly to the lives of specific saints. The master’s style is consequently devotional, narrative, and territorially responsive at once.
+Nassar also doubts part of the reading. The name Michele is secure, because of the H, but the father's name might have been Biduino or Ansuino as easily as Baldovino. The patronymic, which the identification seemed to supply, is therefore less certain than it first appeared.
 
-Recent study places the master’s production within the wider cultural vitality of medieval Pisa. That study describes Pisa in the twelfth and thirteenth centuries as a city marked by multietnicity and by Arab and Byzantine contacts. The master’s style should be read against that complex background. His images preserve the frontal solemnity and spiritual concentration associated with Byzantine-derived models. At the same time, they belong to a distinctly Tuscan workshop tradition of painted panels and crosses. The result is not imitation of an eastern prototype but creative regional adaptation. That adaptation is especially visible in the way pathos is translated into clear devotional forms. The painter is therefore regional in location but cosmopolitan in inherited visual language. Such a combination helps explain the enduring scholarly interest in his small corpus. He exemplifies how Pisan art could mediate between international currents and local piety.
+The debate has practical consequences. Some works, such as the Saint Nicholas dossal of Peccioli and the cross of Sant'Andrea in Chinseca, are published under the name of Michele di Baldovino, while others give them to the Castelfiorentino master. The same panels thus circulate under two names.
 
-The overall stylistic character of the Master of the Castelfiorentino Cross may be defined as disciplined devotional expressiveness. His works are never purely descriptive. Every formal decision serves cultic intelligibility. Scale, iconographic clarity, and emotional compression are consistently aligned. Even fragmentary survivals preserve this quality of concentrated sacred presence. The master’s style also shows that so-called minor or anonymous painters were essential mediators of major artistic languages. Through him, the prestige of Giunta’s world reached smaller churches and local cult centers. His corpus therefore illuminates transmission as much as invention. It occupies a crucial middle zone between the celebrated masters and the broader religious public. For historians of Duecento painting, that middle zone is precisely where stylistic history becomes social history.
+The prudent position, followed here, keeps the conventional name for the group of Castelfiorentino and treats the identification with Michele di Baldovino as an open hypothesis. The Cleveland cross is described in the entry on [Michele di Baldovino](/Content/Artists/XIII-c/Michele-di-Baldovino.html).
 
-## Artistic Influences
+## Pisa, Volterra and the Giuntesque Cross
 
-*Giunta Pisano* was the master’s primary artistic influence. Both catalog and critical literature place the painter squarely within Giunta’s ambit. This influence explains his commitment to crucifix imagery as a privileged vehicle of devotion. It also explains the emotional gravity that structures his representations of the Passion. The master’s art does not imitate Giunta slavishly, but it depends on the authority of that model. Through Giunta he inherited a pictorial language able to unite monumentality and suffering. That inheritance gave his works immediate liturgical intelligibility. It also positioned him within the most prestigious current of Pisan panel painting. Scholarly recognition of this debt is one of the few constants across differing attributional theories. Any account of his art must therefore begin with Giunta.
+The master's crosses belong to the revolution brought about in Pisan painting by Giunta Pisano. Giunta, known from four crosses signed "Iuncta Pisanus", replaced the triumphant, open-eyed Christ of the twelfth century with the Christus patiens, the dead Christ whose body sags on the cross, his head fallen on his shoulder and his eyes closed.
 
-A second major influence was the circle represented by *Enrico di Tedice*. The relevant heritage record notes affinities in the master’s physiognomic and anatomical treatment. Such affinities suggest that he absorbed not only broad compositional schemes but also finer habits of figure construction. This is important because style in the Duecento often circulated through workshop observation rather than through formal treatises. The master’s bodies accordingly seem to occupy the same visual conversation as those of neighboring Pisan painters. That conversation helped determine how grief, sanctity, and corporeal presence were made visible. It also may explain why some earlier attributions oscillated between his hand and related masters. Influence here is therefore reciprocal as well as hierarchical. The master belonged to a field of close stylistic exchange. His individuality emerged from that field rather than apart from it.
+Giunta's model was itself Byzantine. A painted cross in the Museo Nazionale di San Matteo, the cross no. 20, made around 1210 by a painter trained in Byzantine art, had already shown Christ dead on the cross, with scenes of the deposition and burial at his sides. Giunta simplified the formula and gave it monumental form.
 
-The urban culture of Pisa itself constituted a third and wider influence on the painter. Nassar describes the city as a medieval center shaped by intense multicultural contacts. Arab and Byzantine presences are specifically mentioned in that analysis. These contacts mattered because Pisa functioned as one of the principal western portals for eastern artistic forms. The master’s frontality and devotional concentration should be read against that background. They testify to a visual language nourished by long Mediterranean exchanges. Yet the painter transformed those inheritances within a local Tuscan idiom of tempera panel painting. Influence here operated through environment as much as through individual masters. The city itself was a school. The master was one of its articulate provincial exponents.
+Volterra came to the new type gradually. Berlinghiero of Volterra, in the cross of Fucecchio now in San Matteo, still painted a living Christ, serene but no longer triumphant, while his mourning figures already grieve with a new intensity. The Castelfiorentino cross is, for Nassar, the first work of the Volterran area fully aware of Giunta's revolution.
 
-Recent scholarship further suggests that the Volterra area felt the impact of artistic currents from the Marche, perhaps mediated through Arezzo. Nassar explicitly notes points of contact between the school of Giunta in Pisa and Marche influences in the Volterran territory. This observation expands the master’s horizon beyond a closed Pisan genealogy. It implies that his art participated in a broader central-Italian network of exchange. Such exchange may help explain subtle differences between his works and stricter Giuntesque models. It also supports the view that the painter operated in a mobile regional corridor rather than a single fixed workshop. Influence, in this sense, followed routes of devotion, trade, and ecclesiastical communication. The master becomes an index of those routes. His paintings preserve the traces of more than one center of authority. That complexity is one reason why his corpus remains important for current scholarship.
+The Christ of Castelfiorentino follows Giunta closely. The body describes a deep curve to the left; the head falls on the right shoulder with the eyes closed; the chest is divided into three segments and the belly swells above a knotted loincloth. These features, which come from Byzantine anatomy, are rendered with a firm line and little modelling.
 
-The hagiographic panels attributed to the master also reveal the influence of established narrative models for saint-centered dossali. The Italian account explicitly notes parallels with the compositional scheme of celebrated panels devoted to Saint Francis. This comparison shows that the painter borrowed from already authoritative pictorial programs when shaping local saints. Such borrowing did not diminish originality. On the contrary, it allowed him to translate prestigious visual rhetoric into regional cult practice. The influence of Franciscan<a href="/endnotes.html#fn-francis-assisi" class="footnote"><sup>1</sup></a> narrative structures is especially significant because it reveals the permeability of pictorial types across different saints. Saint Veranus and Saint Nicholas could thus be presented through formats already validated by broader devotional success. The master shows himself responsive not only to single painters but also to successful iconographic systems. In this way, influence becomes a matter of visual grammar rather than imitation alone. His art is best understood as a regional rearticulation of multiple prestigious models.
+The halo carries bosses in relief, applied to the panel. The same device appears on the cross from the Opera del Duomo in San Matteo, and it is one of the material links between the two crosses that Garrison gave to the same hand.
 
-## Travels
+Critics have also compared the master's figures with those of Enrico di Tedice, another Pisan painter of Giunta's circle. The resemblance lies in details of physiognomy and anatomy: the long faces, the forked beards, the locks of hair falling on the shoulders, the stylised muscles of the arms.
 
-No document records a long-distance journey by the master. We have no contracts placing him in Rome, Siena, Florence, or beyond Italy. The travel history that can be written is therefore inferential rather than archival. It is reconstructed from the geography of the attributed corpus. That geography is nonetheless meaningful. It situates the painter between Volterra, the Valdera, and Pisa. These places define a coherent regional field of movement. The distribution of works suggests professional mobility in response to ecclesiastical demand. Such movement is exactly what one would expect from a thirteenth-century panel painter serving multiple churches. The master’s travels were probably regional, regular, and commission-driven.
+[Giorgio Vigni](/scholars.html#vigni-giorgio), writing in 1950 on the cross in San Matteo, saw in it borrowings from a cross by Coppo di Marcovaldo and from models in Lucca, and judged its author a modest artist who drew on several Pisan prototypes. [Osvald Sirén](/scholars.html#siren-osvald) had earlier placed the same cross in Giunta's own workshop.
 
-Pisa was almost certainly one of the principal poles of the master’s activity. At least two important works are tied to the city, namely the Madonna del Latte from San Martino and the large crucifix now in San Matteo. The stylistic evidence also places him within the Pisan Giuntesque environment. These facts make it highly probable that he worked in Pisa for substantial periods. Whether he was resident there permanently cannot be proven. Even so, Pisa offered the artistic training, workshop exchange, and patronal density that best explain his style. The city’s Mediterranean openness would have exposed him to models unavailable in more isolated centers. A painter active in Pisa could then carry those models outward into the countryside. The master’s career fits that pattern well. Pisa should therefore be regarded as his most important artistic destination, even if not demonstrably his birthplace.
+The cross of Sant'Andrea in Chinseca, accepted by Nassar, shows the same painter on a gold ground, with the mourning Virgin and Saint John beside the body. Its Christ has the long limbs and the fallen head of the other crosses, but stands with the two feet nailed side by side, a sign that the master did not repeat a single formula.
 
-Volterra and its diocese formed the second major axis of the master’s movements. Recent scholarship explicitly links him to the Volterran territory. The Castelfiorentino crucifix is now in the Museo Diocesano di Arte Sacra in Volterra and came from a church within that diocesan sphere. The probable Peccioli provenance of the Saint Verano panel likewise strengthens the Volterran connection. These facts suggest repeated travel through smaller religious centers rather than exclusive service to a metropolis. Such journeys would have brought the painter into direct contact with rural piety and locally venerated saints. They may also explain the marked territorial coherence of the corpus emphasized by scholars. Movement through Volterra’s orbit was therefore not incidental. It was central to the artist’s professional identity. The master emerges as a regional mediator between urban workshop culture and diocesan devotional needs.
+## The Dossals of Saint Veranus and Saint Nicholas
 
-The Valdera, with Peccioli as a key point, provides the third major zone in the master’s probable travel history. The paired hagiographic panels of Saint Verano and Saint Nicholas are both connected by scholarship to Peccioli and its surrounding ecclesiastical environment. One panel is said to have originated from the pieve of Peccioli, while the other remained in local memory and later in local custody through nineteenth-century vicissitudes. This concentration of evidence implies that the painter worked for communities beyond the main urban center of Pisa. It also shows that travel in his case followed lines of cult and diocesan administration. The road from Pisa toward Volterra naturally intersected such centers. The master likely moved along these corridors as commissions arose. There is no evidence for grand artistic voyages in the later medieval sense. There is strong evidence, however, for purposeful regional circulation. His travels belong to the history of local mobility that sustained the visual life of the Duecento church.
+Two hagiographic dossals are given to the master with little dissent: the Saint Veranus in the Pinacoteca di Brera and the Saint Nicholas at Peccioli. Each shows a standing bishop on a gold ground, blessing and holding his crozier, with three scenes from his life on either side.
 
-## Works
+The type goes back to the dossals of Saint Francis, which spread the new cult of the saint of Assisi through Tuscany. The most celebrated was in San Francesco at Pisa, now in San Matteo, and [Miklós Boskovits](/scholars.html#boskovits-miklos) gave it to Giunta himself. The master applied the formula to older saints.
 
-### San Verano between Two Angels and Six Stories from His Life
+The Saint Veranus very probably comes from the pieve of San Verano at Peccioli, in the Valdera, where it would have stood on the high altar. The patron of Peccioli is Veranus, bishop of Cavaillon in Provence in the sixth century, whose relics were believed to have been brought to the town.
 
-<figure>
-  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-01.jpg" alt="San Verano between Two Angels and Six Stories from His Life">
-  <figcaption>San Verano between Two Angels and Six Stories from His Life, c. 1275, tempera on panel, 152 x 97 cm, Pinacoteca di Brera, Milano.</figcaption>
-</figure>
+The stories on the Brera panel include a beheading of the saint, which has no place in the legend of Veranus of Cavaillon. Nassar suggests that the painter worked from local accounts, which were scarce then as now, and confused the bishop of Cavaillon with another saint of the same name. The error does not, in his view, weaken the link with Peccioli.
 
-This splendid panel is one of the rare examples of a 13th-century hagiographic altarpiece dedicated to a saintly bishop of Gallic origin, *Saint Veranus of Cavaillon* (6th century). The work almost certainly comes from the *parish church of San Verano in Peccioli*, near Pisa, where it served as the altarpiece of the high altar, before being placed on the antiquities market during the Napoleonic era and finally donated to the Pinacoteca di Brera in 1982 by Alfredo Gerli.
+The Saint Nicholas is at Peccioli because of another error. In the nineteenth century the Toscanelli family, wishing to bring the icon of the patron saint back to the town, bought on the market the wrong panel, deceived by its close likeness to the Saint Veranus. The townspeople long continued to venerate it as an image of Veranus.
 
-The panel, shaped like a small house with a triangular gable—a typical layout of 13th-century Tuscan altarpieces—is executed in tempera and gold on panel, with a gold-leaf background that unifies the various scenes within a sacred and timeless space. The format reflects the iconographic tradition of the central *imago clipeata* flanked by narrative panels, directly derived from hagiographic panels from the Pisa and Lucca regions, which in turn reinterpret Byzantine-derived models such as icons depicting the lives of the saints. The dark borders, enriched with geometric decorations, frame the composition, lending it the solemnity of a precious liturgical object.
+The provenance of the Saint Veranus, as recorded in the national catalogue, supports this story. Before 1883 it belonged to the Toscanelli in Florence; it then passed to Mario Viezzoli in Genoa and, in 1943, to Count Paolo Gerli of Villa Gaeta in Milan, whose heirs gave it to the Brera in 1982.
 
-Saint Verano occupies the central register in all his monumentality, depicted frontally as a bishop in *pontifical vestments*: he wears a dark robe (the bishop’s dalmatic), the *white pallium decorated with black crosses*, and holds the *crosier* in his left hand, while his right hand is raised in the Latin blessing gesture. His face, surrounded by a circular golden nimbus with traces of decorative engraving, displays the severe and idealized features characteristic of Byzantine-style art: large, fixed eyes, a long nose, and a stylized gray beard. The drapery, highlighted with fine gold lines (*chrysography*), reveals the tendency toward decorative flattening typical of Pisan painting from the third quarter of the 13th century, which prioritizes linear effect over volumetric rendering.
+The attribution of the Brera panel has varied. [George Kaftal](/scholars.html#kaftal-george), in 1952, gave it to the Florentine school, and [Enzo Carli](/scholars.html#carli-enzo), in 1958, to Meliore. Garrison placed it with the Castelfiorentino master, and that attribution is now generally accepted; the museum catalogues the painter under the name of Maestro di San Verano.
 
-On either side of the apex, in half-length figures, stand *two symmetrical angels* in red and green robes, with their wings spread in a mirror-image position. Their presence at the upper corners of the panel is not merely ornamental: it belongs to an iconographic tradition that places the heavenly ministers as guardians and witnesses to the sanctity of the central figure, recalling the role of angels in prophetic visions. The angelic figures display the same calligraphic quality as the main figure, with stylized features and robes rendered with parallel folds etched into the gold of the background.
+The two dossals were made by the same hand. The bishops stand in the same frontal pose, with the same pallium marked with black crosses, the same blessing gesture and the same crozier with a scrolled head, and the scenes are built with the same tall towers and box-like rooms. Their survival as a pair, and their confusion in the nineteenth century, tell how close they are.
 
-#### The Six Stories of the Legend
+## Coins, Bishops and a Volterran Workshop
 
-The six narrative scenes are arranged in three panels on each side, to the left and right of the central figure, and should be read **horizontally** from left to right, proceeding from top to bottom.
+Nassar's most original argument comes from coins. In the second half of the thirteenth century the Italian mints of the Adriatic and of Tuscany struck imitations of the grosso agontano of Ancona, a silver coin of about 2.35 grams first issued in the 1250s, which showed the patron saint standing as a bishop.
 
-- Saint Peter baptizes Verano (upper left panel)
+Volterra struck its own grossi on this model. A deliberation of 1295 mentions a coin described as *denariorum grossorum*, and a list of the coins in circulation compiled about 1296, known as the *lista Datiniana*, names the Volterran grossi. Nassar reads them as pseudo-agontani, a reduced version of the original coin.
 
-The opening scene depicts the rite of baptism administered by Saint Peter himself, thus emphasizing the saint’s spiritual nobility and his direct link to the apostolic succession. Peter’s presence bestows upon Verano an aura of exceptional election from the very beginning of his Christian life.
+[Renato Villoresi](/scholars.html#villoresi-renato), in a study of the medieval coins of Volterra published in 1992, noticed that six of these grossi share so many details, in so small a space, that the dies may have been cut by the same hand. Nassar adds that their design derives from a twelfth-century relief of Saint Ciriaco in the cathedral of Ancona.
 
-- Verano and the angel, and the deliverance of a possessed woman (upper right panel)
+The bishop on these coins, frontal, mitred, bearded, blessing with one hand and holding the crozier with the other, is the same figure that stands at the centre of the dossals of Saint Veranus and Saint Nicholas. For Nassar the likeness is too close to be chance, and he raises the possibility of a link between the engraver of the dies and the master's workshop.
 
-An angel appears to the saint in conversation, while in a later moment—or within the same panel according to the formula of continuous narration—Verano exorcises a possessed woman. The simultaneity of distinct events within the same pictorial space is a narrative technique typical of Byzantine-derived medieval art.
+On this basis Nassar dates the two dossals to the last years of the thirteenth century, later than the dates usually proposed. The national catalogue places the Saint Veranus around 1270–1275, and the Brera itself dates it to the third quarter of the century.
 
-- Miracle of the Resurrected Child (center left panel)
+The crosses are earlier. Garrison placed the Castelfiorentino cross between 1250 and 1270; [Diego Balestri](/scholars.html#balestri-diego), in a note of 2011, proposed 1270 as a date after which it was painted; Simeoni had suggested the 1260s or 1270s. Nassar's chronology runs from the 1260s to the end of the century.
 
-This is the most iconographically eloquent scene: the boy is shown simultaneously lying on the ground and standing alive, in response to the bishop’s gesture of blessing. This technique of *continuous narration*, where the same figure appears twice to show the before and after of the miracle, was a common narrative device in medieval art to make the miraculous action immediately comprehensible to a predominantly illiterate audience.
+The coins also point to Volterra. In the late thirteenth century the sees of Volterra and Arezzo were both held by members of the Ubertini family, and Arezzo kept close ties with the Adriatic and the Marche. Nassar sees in this network the channel through which Marchigian influence reached the Volterran territory, alongside the Pisan current of Giunta.
 
-- Miracle in a Basilica (center panel on the right)
+The conclusion of Nassar's study is that the Castelfiorentino master led a workshop in Volterra, continuing a tradition by which, since the twelfth century, Pisan art drew on painters and craftsmen from Volterra. The hypothesis remains to be tested on documents, but it gives the anonymous painter a place: between the Giuntesque school of Pisa and the bishops and pievi of the Volterran diocese.
 
-The scene takes place within a stylized architectural space reminiscent of a Christian basilica, with figures witnessing a miraculous intervention by the saint. The architectural backgrounds, though abstract and non-perspectival, create a sort of theatrical backdrop that distinguishes this episode from those set in open landscapes.
+## Catalogue Entry
 
-- Beheading of Saint Verano (lower left panel)
+### The Cross of Castelfiorentino: History
 
-The martyrdom scene depicts the climax of the torture: the bishop’s decapitation. The violence of the act is rendered with the customary restraint of 13th-century art, without dramatic emphasis, but with narrative clarity. The presence of armed persecutors frames the episode within the topos of the *martyr who falls at the hands of temporal power*.
+The painted cross that gives the master his name comes from Castelfiorentino, in the lower Valdelsa, where it belonged to the nuns of the monastery of Santa Maria della Marca. It is known as the Crocifisso delle Monache, the cross of the nuns.
 
-- Burial of Saint Verano (lower right panel)
+The cross is now kept in the Museo Diocesano di Arte Sacra of Volterra, housed in the church of Sant'Agostino. Castelfiorentino lay in the diocese of Volterra, and the move of the cross to the diocesan collection follows the old ecclesiastical boundaries.
 
-The concluding scene of the cycle depicts the laying out and burial of the saint’s body, with mourners gathered around the coffin. It closes the narrative cycle by restoring a sense of peace and veneration following the violence of the martyrdom, foreshadowing the heavenly glorification evoked by the angels at the top of the panel.
+What survives is a fragment. The side panels of the shaft, which normally carried the Virgin and Saint John or scenes of the Passion, have been cut away, and the cimasa is lost. The cross was restored in 1930 and in 1963.
 
-The work is a valuable document of pre-Giottesque Tuscan painting, from that transitional period in which the Byzantine-derived *Greek manner* began to be enriched with more vivid narrative elements and a nascent interest in the concreteness of the episodes. The Master of the Cross of Castelfiorentino—whom some scholars have proposed identifying as *Michele di Baldovino*, a painter documented in the Pisa area—demonstrates in this panel a confident mastery of 13th-century iconographic grammar combined with a narrative sensibility of remarkable quality. The panel is unique within the landscape of Tuscan panel painting due to its subject: Saint Veranus is a Gallic saint rarely found in Italian iconography, and his presence in a work of such high quality attests to the vitality of local cults in medieval Tuscany.
+The dating has varied within a narrow range. Garrison placed it between 1250 and 1270; Simeoni suggested the 1260s or 1270s; Balestri proposed 1270 as the earliest possible date; Nassar places it in the 1270s.
 
-### Madonna and Child between Saints Martin and John the Evangelist
+Garrison made the cross the name-piece of the master and paired it with the cross from the Opera del Duomo now in San Matteo. In 1949 it was linked with the manner of Giunta, and every later study has kept it at the centre of the group.
 
-<figure>
-  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-02.jpg" alt="Madonna and Child between Saints Martin and John the Evangelist">
-  <figcaption>Madonna and Child between Saints Martin and John the Evangelist (Madonna del Latte), 1250-74, tempera and gold leaf on panel, 92 x 128 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
-</figure>
+For Nassar the cross is the first work of the Volterran territory fully aware of Giunta's revolution, and its author the first of the painters following Giunta active in Volterra and the Valdera.
 
-This work is one of the most significant examples of 13th-century Pisan painting. The panel, painted in tempera and gold on a lunette-shaped panel, measures 92 × 128 cm and comes from the Church of San Martino in Pisa, where it was originally located, before being transferred to the National Museum of San Matteo.
-The panel has an architectural lunette shape, with a semicircular upper section, a design typical of 13th-century Tuscan Romanesque altarpieces.
-
- The composition is centered on the large figure of the Virgin Enthroned, who dominates the space with her hierarchical grandeur. Arranged around her, with a skillful geometry yet still far from naturalistic perspective, are the figures of the titular saints and angels, in an iconographic scheme that combines Marian devotion and hagiographic narrative.
-
-At the center of the work stands the *Virgin in the act of nursing the Child*, in an iconographic theme known as *Virgo lactans* or *Madonna del Latte*, depicted frontally and larger in size than all the other figures, in accordance with the traditional Byzantine hierarchical scale. Mary’s face is elongated, with austere and composed features, almond-shaped eyes, and a slender nose, typical of Giunto’s pictorial style. The dark cloak enveloping her contrasts with the red of the underlying robe, visible on her chest and on the gold-trimmed sleeves. The Infant Jesus, wrapped in golden garments that emphasize his divine nature, turns toward his mother’s breast to nurse, a gesture of tender humanity that breaks the solemn rigor of the composition by introducing an element of emotional intimacy unusual for the time.
-
-In the curved upper portion of the panel, on either side of the Virgin, *two angels* with polychrome wings—one on each side—appear, reverently witnessing the scene. Their posture is formal, with robes in red and pink, finely folded wings, and heads bowed toward the Madonna in a gesture of adoration.
-
-These angels perform a precise liturgical and theological function: they frame the Virgin like a heavenly court, emphasizing her regality. Their style is still fully Romanesque, with the sharp contours and flattened volumes typical of the Pisan painting tradition of the mid-13th century.
-
-- Saint Martin of Tours (left)
-
-The left section of the panel depicts the *most dynamic narrative scene in the entire work*: Saint Martin of Tours on horseback, at the moment when *he gives half of his cloak to a poor man*. This is the quintessential hagiographic episode from the saint’s life, inspired by the famous vision narrated by Sulpicius Severus in the *Vita Martini*. The saint is depicted in Roman military garb, mounted on a rearing white horse, while he cuts the cloak with his sword. At the horse’s feet appears the figure of the *beggar*, half-naked and kneeling, receiving half of the cloak. The scene is rendered with a certain narrative liveliness, with the horse depicted in a still conventional manner but with a sense of movement unusual for the flat painting style of the period. The presence of Saint Martin as the patron saint of the church from which the work originates—the Church of San Martino in Pisa—explains his prominent position in the composition.
-
-- Saint John the Evangelist (right)
-
-In the right section sits *Saint John the Evangelist*, recognizable by the attribute of the *open book or codex* he holds in his hands, on which he appears to be writing or reading—an allusion to the composition of the Gospel and the Apocalypse. The figure is depicted in a blue-gray robe and pink cloak, seated in a pose that tends toward greater softness compared to the frontal rigidity of the angels. Saint John, the beloved apostle, is the evangelist and visionary par excellence, and his presence beside the Virgin recalls the scene of the Crucifixion in which Christ entrusted him as an adopted son to Mary.
-
-The tempera on panel with a gold ground is executed in the tradition of 13th-century Pisan painters: the gold-leaf ground serves not only as a decorative element but as an emanation of the *uncreated divine light*, according to Eastern icon theology filtered through the Latin tradition. The outlines of the figures are sharp and linear, the volumes constructed with flat areas of color featuring subtle chromatic gradations to suggest modeling. The decorations on the Virgin’s mantle and the Child’s garments, rendered with brush-applied gold filaments (*chrysographia*), evoke the Byzantine tradition and the influence of contemporary illuminated manuscripts.
-
-### Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels
+### The Cross of Castelfiorentino
 
 <figure>
-  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-03.jpg" alt="Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels">
-  <figcaption>Christ on the Cross, the Virgin Mary, Saint John the Evangelist, Angels, 1250-74, tempera and gold leaf on panel, 152 x 140,5 cm, Museo Nazionale di San Matteo, Pisa.</figcaption>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-04.jpg" alt="A painted cross against a black background, cut down to the figure of Christ on a narrow cross with a short shaft. Christ hangs dead, his body bending to the left, his head fallen on his right shoulder with the eyes closed, surrounded by a dark halo with bosses in relief. The chest and belly are divided into rounded segments, the belly swells, and a dark purple loincloth is knotted at the hip. The legs cross and the feet are nailed one over the other. The cross is dark with pink borders; the edges of the panel are broken and patches of red and brown show along the shaft.">
+  <figcaption>Maestro della Croce di Castelfiorentino, painted cross (the Crocifisso delle Monache), from the monastery of Santa Maria della Marca at Castelfiorentino, 1260s–1270s. Tempera on panel. Volterra, Museo Diocesano di Arte Sacra. Photo: Tommaso Landolfi, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/?curid=72679785">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-This crucifix is one of the most significant works in the National Museum of San Matteo in Pisa. It comes from the church of San Giovanni dei Fieri in Pisa and represents one of the finest examples of the work of the mysterious anonymous painter known as the *Master of the Castelfiorentino Cross*, active in the dioceses of Volterra, Valdera, and Pisa during the third quarter of the 13th century.
+The cross is reduced to its essential image: the body of Christ on a narrow cross, without the panels that once flanked it. The loss isolates the figure and gives it a stark, almost sculptural presence against the dark field of the cross.
 
-At the center of the shaped panel dominates the figure of the *Crucified Christ*, modeled on the *Christus patiens*, the Suffering Christ, an iconography of Byzantine origin that was gaining prominence in those very years thanks to the influence of Giunta Pisano. Jesus’ body is depicted with marked human suffering: his head is bowed downward, his eyes are closed, his bare, emaciated torso reveals the muscular strain of the weight he bears, and his complexion is rendered in a greenish-ochre hue alluding to cadaverous pallor.
+Christ hangs dead, in the formula of the Christus patiens. His body bends in a long curve towards the left, the hips pushed out beyond the line of the cross, while the head falls heavily on the right shoulder. The eyes are closed and the mouth is drawn down.
 
-The loincloth covers the hips sparingly, leaving the legs stretched downward, pierced by nails, with the feet overlapping on the *suppedaneum*. The crown of thorns—here rendered three-dimensionally with raised nails applied to the nimbus—emphasizes the image’s poignant and devotional character.
+The head is set against a large halo with bosses in relief, applied to the panel. The device, which catches the light, gives the halo a physical presence and recurs on the cross of the Opera del Duomo in San Matteo.
 
-The *INRI* is inscribed on the top panel (cimasa) above Christ’s head.
+The anatomy follows Byzantine models. The chest is divided into rounded segments, the abdomen is marked by curving lines, and the belly swells above the loincloth. The ribs and the muscles of the arms are drawn rather than modelled, with firm contours and a smooth, pale flesh colour.
 
-On either side of Christ’s body, painted on the central section of the cross in a subordinate yet engaged position, appear the quintessential figures of sorrow. On the left is depicted the *Virgin Mary*, wrapped in a red cloak over a dark robe, her face turned toward the Crucified One in an attitude of sorrowful contemplation, her hands clasped in a gesture of lamentation. On the right appears *Saint John the Evangelist*, the beloved disciple, also dressed in red, who turns his gaze toward Christ with a sorrowful expression. Both figures display the linear style and formal solidity typical of the Master, with clearly discernible Giuntese influences in the treatment of the drapery and in the composed yet intense expressiveness of the faces.
+The loincloth is dark purple, knotted at the hip, with folds traced in darker lines. Below it the legs cross and the feet are nailed one over the other, the body hanging from the single nail.
 
-At the ends of the horizontal arms of the cross, the so-called *terminals*, are depicted two *angels* in a frontal position, half-length, dressed in red and pink robes. They perform a specific theological function: they bear witness to and glorify the sacrifice of the Son of God, acting as mediators between the divine and human realms. Their gaze is directed toward the central Christ, evoking the Eastern iconographic tradition of the *Deesis* and the angelic choirs surrounding the Passion.
+The arms stretch almost horizontally along the crossbar, with the hands open. The crossbar is painted dark, with pink borders, and the colour of the cross sets off the pale body.
 
-The work is executed in *tempera and gold leaf on wood*, with a contoured structure that follows the outline of the cross. The photograph reveals widespread areas of paint loss, especially on the left arm and in the peripheral areas, where the ground and the original wood are largely visible. Despite the surface deterioration, the original quality of the drawing is still clearly perceptible in the anatomical construction of Christ and in the vibrant drapery of the figures on the sides. The gold leaf of the background, though worn, continues to lend the whole work that sacred and luminous quality characteristic of Byzantine icons and Tuscan Romanesque painting.
+The surface is worn and the edges of the panel are broken, especially along the shaft, where patches of red and brown are all that remain of the painted side panels. The cutting of the cross has left only the figure and a narrow margin around it.
+
+Even in this state the cross shows what made it the name-piece of the master: a Giuntesque Christ of great pathos, drawn with a clear line and a strong sense of the curve of the body. It is the work against which the rest of the group has been measured.
+
+### The Cross of the Opera del Duomo, Pisa: History
+
+The second cross that Garrison gave to the master is in the Museo Nazionale di San Matteo in Pisa, inv. 5721. It measures 152 by 140.5 centimetres and is painted in egg tempera on silver leaf.
+
+Its origin is uncertain. It may be the painted cross of the church of San Giovannino dei Frieri in Pisa. After the Napoleonic suppressions of 1810 it was shown among the Pisan antiquities gathered in the Cappella Dal Pozzo of the Camposanto, then passed to the Opera del Duomo, and at the end of the nineteenth century entered the new civic museum.
+
+The cross shows the dead Christ with the Virgin and Saint John on the panels beside his body and two archangels on the terminals. The titulus reads IHXS NAZARENUS REX IUDEORUM.
+
+Most scholars assign the cross to the Castelfiorentino master, a painter trained in Giunta's circle with links to Enrico di Tedice. Sirén placed it in Giunta's workshop, and Vigni saw in it borrowings from a cross by Coppo di Marcovaldo and from models in Lucca.
+
+The national catalogue dates it around 1240–1260, earlier than the other crosses of the group. The cross was shown in the exhibition *Cimabue a Pisa* in 2005.
+
+Its condition is mediocre. The paint has flaked along the whole perimeter, and the cross was restored in 1985 by F. Giannitrapani.
+
+### The Cross of the Opera del Duomo
+
+<figure>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-03.jpg" alt="A painted cross against a white background. Christ hangs dead with his head fallen on his right shoulder and his eyes closed, against a dark halo with round bosses in relief; his body is pale and curved, the chest divided into segments, the loincloth red, the feet crossed on a red suppedaneum. On the panel at the left of his body stands the Virgin in a red mantle, her hands raised; at the right Saint John in a pink mantle, his hand to his cheek. At the ends of the crossbar two half-length figures in rich robes. At the top a red tablet with an inscription. Large parts of the paint along the edges are lost.">
+  <figcaption>Maestro della Croce di Castelfiorentino, painted cross with the Virgin, Saint John and two archangels. Egg tempera and silver leaf on panel, 152 × 140.5 cm. Pisa, Museo Nazionale di San Matteo, inv. 5721. Image: public domain, via <a href="https://commons.wikimedia.org/?curid=46954140">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+The cross keeps the full structure that the Castelfiorentino cross has lost: the body of Christ on the shaft, two side panels with the mourners, the terminals at the ends of the crossbar and the titulus at the top.
+
+Christ hangs dead, his head fallen on his right shoulder and his eyes closed. The halo carries round bosses in relief, like the halo of the Castelfiorentino cross. The body curves to the left, the chest is divided into segments and the belly swells above a red loincloth.
+
+The legs cross and the feet rest one over the other on a red suppedaneum, pierced by a single nail. The arms are stretched along the crossbar, the hands open, the blood running from the wounds.
+
+On the panel at the left of the body stands the Virgin, in a red mantle over a dark dress, her hands raised in grief, her face turned towards her son. On the right Saint John, in a pink mantle, rests his cheek on his hand in the traditional gesture of sorrow.
+
+At the ends of the crossbar two half-length archangels look towards Christ. They are dressed like Byzantine court dignitaries, and in the reading of the national catalogue they present Christ as universal Lord and Judge even in the moment of his death.
+
+At the top a red tablet carries the titulus in white letters. The silver leaf of the ground, now darkened, once gave the panel a cool brilliance different from the warm gold of the later crosses.
+
+The paint has flaked along the edges of the whole cross, so that the wood shows in a broad band around the figures. The central image, however, is legible, and the drawing of Christ's body and of the mourners keeps its quality.
+
+The comparison with the Castelfiorentino cross is direct: the same Christ, the same halo with bosses, the same anatomy. The Pisan cross shows what the name-piece looked like before it was cut down.
+
+### The Cross of Sant'Andrea in Chinseca: History
+
+A painted cross from the church of Sant'Andrea in Chinseca, in the quarter of Pisa south of the Arno, is now in the church of San Martino. The church's name, Chinseca, is the form used in the literature for the quarter usually called Kinzica.
+
+Burresi and Caleca included the cross in the catalogue they assembled under the name of Michele di Baldovino, and it is published under that name. It is reproduced in the catalogue of the exhibition *Volterra d'Oro e di Pietra*, held at Volterra in 2006.
+
+Of all the additions made by Burresi and Caleca, this is the one Nassar considers fully convincing. In his view the cross is clearly by the same hand as the Castelfiorentino cross.
+
+Nassar dates it to 1270–1280, in the same years as the name-piece. He sees in the crosses of this group a language surprisingly close to Giunta Pisano, with whom the master must have had close relations.
+
+The cross keeps its gold ground, the halo of Christ and the two mourners on the side panels. The terminals and the cimasa do not survive.
+
+The cross shows the master working for a Pisan church, as the Opera del Duomo cross does, and confirms that his activity extended from the city to the Volterran territory.
+
+### The Cross of Sant'Andrea in Chinseca
+
+<figure>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-05.jpg" alt="A painted cross against a black background, with a gold ground cracked all over. Christ hangs dead, his head inclined to his right shoulder and his eyes closed, against a round gold halo with an ornamented cross. His arms stretch along a dark blue crossbar, with thin lines of blood running from the hands. The body is pale and long, the chest and belly marked in segments, the loincloth red and knotted. The feet are nailed side by side on a red suppedaneum. On the panel at the left the Virgin in a dark mantle, much damaged; on the right Saint John in pink, his hand to his cheek.">
+  <figcaption>Maestro della Croce di Castelfiorentino (Michele di Baldovino for Burresi and Caleca), painted cross from Sant'Andrea in Chinseca, c. 1270–1280. Tempera and gold on panel. Pisa, church of San Martino. Image: public domain, via <a href="https://commons.wikimedia.org/?curid=46954674">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+The cross is painted on a gold ground, cracked all over, against which the pale body of Christ stands out with great clarity. The halo is gold, decorated with an ornamented cross whose arms are filled with scrolling patterns.
+
+Christ hangs dead, his head inclined to his right shoulder, his eyes closed, his hair falling in long locks. The face is long, with a straight nose and a short beard, close to the faces of the other crosses of the group.
+
+The arms are stretched almost straight along a dark blue crossbar. Thin threads of blood run from the wounds of the hands, and drops fall from the nails.
+
+The body is long and slender. The chest and belly are marked by the same curving segments as in the Castelfiorentino cross, though drawn with less emphasis, and the belly swells above a red loincloth, knotted at the waist and falling in broad folds.
+
+The feet are nailed side by side on a red suppedaneum, each with its own nail. The detail sets the cross apart from the Castelfiorentino and Opera del Duomo crosses, where the feet are crossed.
+
+On the panel at the left the Virgin stands in a dark mantle; much of her figure is lost. On the right Saint John, in a pink mantle, rests his cheek on his hand, his head bent in grief.
+
+The mourners are small beside the body of Christ, and they stand pressed against the edges of the panels, so that the figure of the crucified dominates the whole cross.
+
+The gold ground and the warm colours give the cross a different tone from the silver-leaf cross of San Matteo. The painter's Christ is the same, but the setting has changed, perhaps with the passing of a decade or two.
+
+### Saint Veranus and Six Scenes from His Legend, Brera: History
+
+The dossal of Saint Veranus in the Pinacoteca di Brera measures 152 by 97 centimetres (157 by 97 in the museum's online catalogue) and is registered as Reg. Cron. 5452. It is painted in tempera on panel and is set in a pointed frame.
+
+The panel very probably comes from the pieve of San Verano at Peccioli, in the Valdera, where it would have been the dossal of the high altar. The saint is Veranus, bishop of Cavaillon in the sixth century, patron of Peccioli.
+
+The national catalogue records its later history. Before 1883 it belonged to the Toscanelli in Florence; from 1883 it was in the collection of Mario Viezzoli in Genoa; in 1943 it passed to Count Paolo Gerli of Villa Gaeta in Milan, and in 1982 the Count's heirs gave it to the Brera.
+
+The panel was restored before 1949. A photograph taken before the restoration, in the Berenson photo archive at I Tatti, shows many small losses and the loss of most of the scene at the lower right, which is therefore largely the work of the restorer.
+
+Kaftal gave the panel to the Florentine school in 1952 and Carli to Meliore in 1958. Garrison placed it with the Castelfiorentino master, and that attribution is now generally accepted. The museum catalogues the painter as the Maestro di San Verano; the national catalogue gives the panel to the Pisan milieu and dates it around 1270–1275.
+
+Nassar dates it later, to the last years of the thirteenth century, on the basis of the bishop on the Volterran grossi. He explains the beheading among the scenes as a confusion with another saint of the same name, drawn from local accounts.
+
+### Saint Veranus and Six Scenes from His Legend
+
+<figure>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-07.jpg" data-zoom-src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-07-zoom.jpg" alt="A tall panel with a pointed top in a dark frame with round bosses. At the centre a bishop stands frontally on a gold ground, with a white mitre, a grey beard and a halo with incised scrolls, wearing a dark brown chasuble and a white pallium with black crosses, blessing with his right hand and holding a crozier with a scrolled head. Beside his head the letters S and ANUS. Above, at each side, a half-length angel with spread wings in a jewelled robe. Below the angels, three small scenes at each side: at the upper left a baptism in a red font; at the upper right a bishop driving a black demon from a woman; at the centre left a bishop raising a boy who also lies on the ground; at the centre right a scene inside a church with figures under a falling beam; at the lower left soldiers beheading a bishop in a rocky landscape; at the lower right a bishop lying dead between a cleric and an angel.">
+  <figcaption>Maestro della Croce di Castelfiorentino, Saint Veranus between two angels and six scenes from his legend, c. 1270–1275. Tempera on panel, 152 × 97 cm. Milan, Pinacoteca di Brera, Reg. Cron. 5452, gift of the heirs of Count Paolo Gerli, 1982. Image: public domain, via <a href="https://commons.wikimedia.org/?curid=11257521">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+The panel has the shape of a house with a pointed gable, the common form of the Tuscan dossal in the thirteenth century. Its dark frame, set with round bosses and painted with small ornaments, is original, and it encloses a gold ground on which the saint stands at full length.
+
+Veranus stands frontally, filling the height of the panel. He wears a white mitre, a dark brown chasuble falling in long folds over a grey-green dalmatic, and a white pallium with black crosses. His right hand is raised in blessing, his left holds a crozier whose head ends in a scroll.
+
+His face is long and severe, with large staring eyes, a long nose and a grey beard curled at the chin. The halo is incised with scrolls. Beside his head, in red letters, fragments of the inscription with his name can still be read.
+
+Above the scenes, at each side of the head, a half-length angel turns towards the saint, the wings spread, the hand raised. The angels wear robes set with jewels, like Byzantine court dignitaries, and they frame the bishop as a figure of heavenly rank.
+
+The six scenes are set three at each side, under small canopies of sky from which angels or the hand of heaven appear. At the upper left the saint is baptised in a red font by an old, bearded figure, while another youth is clothed; at the upper right a bishop drives a black demon from a woman in white, supported by her companions.
+
+At the centre left the saint raises a boy, who appears twice, lying dead on the ground and standing alive before him, while the family watches. At the centre right a beam falls inside a church, and the bishop's gesture saves the men beneath it, while a woman kneels in prayer.
+
+At the lower left soldiers behead a bishop in a rocky landscape, a scene that, as Nassar notes, does not belong to the legend of Veranus of Cavaillon. At the lower right the saint lies dead between a cleric and an angel; this scene was almost entirely lost before the restoration.
+
+The panel is the most familiar work of the group. Its monumental bishop, its crisp narrative scenes and its jewelled angels show the master as a painter of narrative as well as of crosses, working for a local cult in the Valdera.
+
+### Saint Nicholas and Four Scenes from His Life, Peccioli: History
+
+The dossal of Saint Nicholas is at Peccioli, in the Museo d'Arte Sacra of the Prepositura di San Verano. Its original provenance is unknown.
+
+In the nineteenth century a member of the Toscanelli family, wishing to bring the image of the patron saint back to Peccioli, bought this panel on the market instead of the Saint Veranus, deceived by its likeness to it. For years, and in part still today, the people of Peccioli venerated it as an image of Saint Veranus.
+
+The dossal is published under the name of Michele di Baldovino, as one of the works grouped around the Cleveland cross by Burresi and Caleca. Nassar gives it to the Castelfiorentino master, by the same hand as the Saint Veranus.
+
+Nassar places both dossals in the territory of Pisa or Volterra and dates them to the last years of the thirteenth century. He considers the Saint Nicholas particularly close to the bishop on the Volterran grossi of the 1290s.
+
+The panel is cut at the top and has lost its frame, so that its original shape, probably with a gable like the Saint Veranus, is uncertain. Only four scenes survive, two at each side.
+
+The cult of Saint Nicholas, bishop of Myra, was widespread in Pisa and in its contado, a city of merchants and sailors who honoured him as their protector. The dossal adapts to him the form that the master used for the local patron of Peccioli.
+
+### Saint Nicholas and Four Scenes from His Life
+
+<figure>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-06.jpg" data-zoom-src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-06-zoom.jpg" alt="A rectangular panel. At the centre a bishop stands frontally on a gold ground, with a white mitre, a short grey beard curled at the chin and a halo, wearing a red chasuble patterned with roundels over a blue alb and a white pallium with black crosses, blessing with his right hand and holding a crozier. At each side two scenes with towers and buildings in pink, blue and yellow: at the upper left a woman in bed and a baby standing in a basin; at the upper right a woman embracing a boy before an altar while men in white watch; at the lower left a boy with a cup seized by the hair by a flying saint, before a crowned couple at a table; at the lower right a crowned man asleep in a red bed and a bishop at a doorway. A small kneeling figure at the bottom right.">
+  <figcaption>Maestro della Croce di Castelfiorentino (Michele di Baldovino for Burresi and Caleca), Saint Nicholas and four scenes from his life, last decades of the thirteenth century. Tempera on panel. Peccioli, Museo d'Arte Sacra (Prepositura di San Verano). Image: public domain, via <a href="https://commons.wikimedia.org/?curid=46954238">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+Saint Nicholas stands at the centre, frontal and blessing, in the same pose as the Saint Veranus of Brera. He wears a white mitre, a red chasuble patterned with roundels of white dots, a white pallium with black crosses and a blue alb falling to his red shoes. His left hand holds a crozier with a scrolled head.
+
+His face is broader than that of Veranus, with large dark eyes, red cheeks and a short grey beard curled at the chin. The bold colour of the vestments, red against blue, makes the figure more vivid than its pair in Brera.
+
+The scenes are set among towers and buildings painted in pink, blue, yellow and red, crowded into the narrow fields. At the upper left the mother lies in bed, attended by a servant, while below the newborn saint stands upright in his bath, the first sign of his holiness in the legend.
+
+At the upper right a mother bows to embrace her son before an altar, while the saint looks on and men in white stand behind the altar table, one of them raising his hand. The scene shows the return of the boy Adeodatus to his parents on the feast of the saint.
+
+At the lower left the same story begins. A boy with a cup in his hand serves at the table of a crowned couple, and Nicholas, flying in from above, seizes him by the hair to carry him home. The boy had been captured and made cupbearer to a pagan king.
+
+At the lower right a crowned man lies asleep in a red bed, and the saint appears at a doorway. The scene is usually read as the dream of the emperor Constantine, to whom Nicholas appeared to save three innocent officers condemned to death.
+
+At the foot of the bed, near the lower edge of the panel, a tiny figure kneels in prayer. It may be the donor of the dossal, painted at the edge of the sacred story.
+
+The panel shows the master's narrative manner at its liveliest: buildings in clear, flat colours, figures with expressive gestures, stories told in a few essential actions. Its likeness to the Saint Veranus, which deceived its nineteenth-century buyer, is the best argument for its attribution.
+
+### The Virgin Nursing the Child from San Martino: History
+
+A Virgin nursing the Child with Saint Martin and Saint John the Evangelist, from the church of San Martino in Pisa, is now in the first room of the Museo Nazionale di San Matteo. It measures 92 by 128 centimetres and is painted in tempera on silver leaf.
+
+The panel was probably an altar dossal, later trimmed into the shape of a lunette; its lower corners are cut diagonally. By about 1810 it hung on a wall of the chapel of the Sacrament in San Martino. It was restored in 1948 and again in 1985 by E. Crisanti, when overpainting was removed.
+
+Garrison gave the panel to a follower of the Castelfiorentino master, and Nassar agrees, dating it 1270–1280. Carli, in 1974, saw it as a late work of the master himself, while Caleca, in 1978, proposed Enrico di Tedice.
+
+The national catalogue now assigns it to the Maestro di San Martino, the painter of the great Virgin and Child with stories of Joachim and Anne in San Matteo, and dates it to the second half of the thirteenth century. The attribution remains open.
+
+The presence of Saint Martin is explained by the church for which the panel was made. The nursing Virgin, the type known as the Galaktotrophousa, was venerated locally, and the panel joins her to the patron of the church.
+
+The panel is included here as a disputed work, from the circle of the master, whose relation to the crosses and dossals of the group is still debated.
+
+### The Virgin Nursing the Child from San Martino
+
+<figure>
+  <img src="/Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-02.jpg" alt="A panel in the shape of a lunette. At the centre the Virgin, half-length and larger than the other figures, in a dark mantle with stars on the head and shoulder over a red dress, holds her breast to the Child, who sucks, wrapped in a gold-patterned red garment. Above, at each side, an angel in pink with coloured wings, half-length, bows towards her. At the left Saint Martin on a white dappled horse cuts his cloak with a sword for a nearly naked beggar standing beside the horse. At the right Saint John the Evangelist, seated, writes in a book. The background is painted as a wall of stone blocks.">
+  <figcaption>Follower of the Maestro della Croce di Castelfiorentino (Garrison, Nassar), the Virgin nursing the Child with Saint Martin and Saint John the Evangelist, from San Martino in Pisa, c. 1270–1280. Tempera and silver leaf on panel, 92 × 128 cm. Pisa, Museo Nazionale di San Matteo. Image: public domain, via <a href="https://commons.wikimedia.org/?curid=47260615">Wikimedia Commons</a>.</figcaption>
+</figure>
+
+The Virgin fills the centre of the lunette, half-length and much larger than the other figures. She wears a dark mantle marked with stars on the head and shoulder, over a red dress with gold-trimmed sleeves, and looks out towards the viewer with large almond eyes.
+
+She holds her breast to the Child, who sucks, turning his body towards her. He is wrapped in a red garment patterned with gold, and his small hand rests against her. The gesture, the core of the Galaktotrophousa type, joins the solemn frontality of the Virgin to an intimate image of motherhood.
+
+Above her, at each side, a half-length angel in pink bows towards the Virgin. Their wings are painted with bands of colour, like the feathers of a peacock, and spread into the curve of the lunette.
+
+At the left Saint Martin, young and beardless, rides a white dappled horse and cuts his cloak with a sword. Beside the horse stands the beggar, nearly naked, holding the half of the cloak that the saint gives him.
+
+At the right Saint John the Evangelist sits on a cushioned bench, his feet on a patterned carpet, writing in an open book. He bends his head over the page with the concentration of the author of the Gospel.
+
+The background is not gold but a wall of stone blocks, painted in brownish tones, against which the figures stand out. The silver leaf beneath has darkened, and the wall gives the scene an unusual architectural setting.
+
+The trimming of the panel has cut the figures at the edges and changed the original shape. Paint is lost along the lower edge, and the surface shows the wear of the centuries.
+
+The comparison with the crosses and the dossals of the group shows both closeness and difference. The long faces and the clear contours recall the master, but the softer modelling and the narrative setting have led critics to propose other names, and the panel remains on the borders of his catalogue.

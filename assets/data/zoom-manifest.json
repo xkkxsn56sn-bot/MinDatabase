@@ -3139,6 +3139,20 @@
       "sha256": "f8d98effa22ecb4cf196bce87e0f979b4c47ce265e1074a2591286d7e6204af6"
     },
     {
+      "path": "Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-06-zoom.jpg",
+      "width": 1467,
+      "height": 1922,
+      "bytes": 1100150,
+      "sha256": "a43088d8f3d22ceb7c09bfc2b5cd7b26df060ca645fb84e0e742ca6eb08c6b18"
+    },
+    {
+      "path": "Images/Maestro-della-Croce-di-Castelfiorentino/maestro-della-croce-di-castelfiorentino-07-zoom.jpg",
+      "width": 1406,
+      "height": 2169,
+      "bytes": 1082031,
+      "sha256": "f639488bdf2f1dafabceccc2500fa4d5f61f7b61f3cde51e51888d750482fda2"
+    },
+    {
       "path": "Images/Maestro-di-Rosano/maestro-di-rosano-01-zoom.jpg",
       "width": 2074,
       "height": 2576,
