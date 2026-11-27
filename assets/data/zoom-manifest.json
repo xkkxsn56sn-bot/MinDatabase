@@ -2915,6 +2915,83 @@
       "sha256": "ce6eb4a0bfe8c580e2c98d97c28647ef24b4e73897604b3db85960ebbea09108"
     },
     {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-10-zoom.jpg",
+      "width": 2657,
+      "height": 1752,
+      "bytes": 1399308,
+      "sha256": "bc8b9ed117be0cb68416b4dc9d25baa3eaf50a7ae40707a5ee9a9c7e539fea4b"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-15-zoom.jpg",
+      "width": 2746,
+      "height": 1855,
+      "bytes": 1476626,
+      "sha256": "2b23445444e88bf8ca30c49dd77f919c495d705dd1013ea67fcc46866c41d4f1"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-16-zoom.jpg",
+      "width": 1294,
+      "height": 1635,
+      "bytes": 782929,
+      "sha256": "206ed45fd3a319cb574d400ec76b60ed46401f7cdb60be83e30430151ba3fb00"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-17-zoom.jpg",
+      "width": 1300,
+      "height": 1507,
+      "bytes": 642625,
+      "sha256": "6394ef080853a535c668cc854ad78124e1c6e1aca6689b09612ca09816ae941b"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-18-zoom.jpg",
+      "width": 1307,
+      "height": 1655,
+      "bytes": 745178,
+      "sha256": "d6f78a0172666b37e86df22f45c7daf54693594b09f61706b5b4fc7bbfd96989"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-19-zoom.jpg",
+      "width": 2450,
+      "height": 1741,
+      "bytes": 1035588,
+      "sha256": "eb91e0c4de06079d7583dc2753a4f2564d74c409b5c190691191133160017618"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-20-zoom.jpg",
+      "width": 2560,
+      "height": 1920,
+      "bytes": 937504,
+      "sha256": "89fca4d988ed2220ebdf219f5aa4a767d7d1878684311e07c82fb5dfc1882051"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-21-zoom.jpg",
+      "width": 1423,
+      "height": 2560,
+      "bytes": 784028,
+      "sha256": "abbbba54c56f3797c61439a370879f7dcf903e73aaa353999a50c67632e3a46c"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-22-zoom.jpg",
+      "width": 1778,
+      "height": 2560,
+      "bytes": 1120027,
+      "sha256": "e68bbdd3bf0a1f0f9e14cb29cc1cc070583d067666683ae5be28c58941936ae8"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-23-zoom.jpg",
+      "width": 1778,
+      "height": 2461,
+      "bytes": 825659,
+      "sha256": "ccaace545a0f5ce27a3a2e96e13d05f06cad55d0d5b8f2e94d1c74f840d6fac6"
+    },
+    {
+      "path": "Images/Maestro-del-Dossale-di-Yale/maestro-del-dossale-di-yale-24-zoom.jpg",
+      "width": 1873,
+      "height": 2560,
+      "bytes": 1163506,
+      "sha256": "f8d98effa22ecb4cf196bce87e0f979b4c47ce265e1074a2591286d7e6204af6"
+    },
+    {
       "path": "Images/Maestro-di-Rosano/maestro-di-rosano-01-zoom.jpg",
       "width": 2074,
       "height": 2576,
