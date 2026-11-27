@@ -44,3 +44,7 @@ Autorizzazioni/
 # copia; scripts/sync_zoom_r2.sh li carica e aggiorna assets/data/zoom-manifest.json.
 Zoom/
 .wrangler/
+
+# Biblioteca locale di PDF e materiali di studio (copia di /Volumes/Prog/My-Site-Docs):
+# testi protetti da diritti, mai nel repository (pubblico) e mai nella build.
+My-Site-Docs/

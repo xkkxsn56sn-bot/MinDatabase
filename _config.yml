@@ -39,6 +39,7 @@ exclude:
   - newsletter_subscribers.csv
   - drafts/
   - Autorizzazioni/
+  - My-Site-Docs/
   - vendor/
   - Gemfile
   - Gemfile.lock
