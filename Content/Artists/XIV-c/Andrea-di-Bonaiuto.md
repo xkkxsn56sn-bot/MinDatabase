@@ -876,7 +876,7 @@ The attribution is uncertain. The Copenhagen museum published the centre in 1946
 
 The reconstruction is not perfect. The wings, 30.1 centimetres high, correspond to the rectangular field of the centre below its gable, but together they are nearly four centimetres wider than the centre, 47 by 22 centimetres; the Copenhagen panel has lost its original frame and has probably been trimmed.
 
-The digital reassembly reproduced here shows the triptych open, as its first owner saw it: the Nativity at the left, the Virgin enthroned at the centre, the Crucifixion at the right. The three panels are then examined separately.
+Open, the triptych showed its first owner the Nativity at the left, the Virgin enthroned at the centre and the Crucifixion at the right: birth, glory and death gathered in a single object for private prayer.
 
 ### The Copenhagen–Houston Triptych: the Centre
 
