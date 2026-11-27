@@ -557,7 +557,7 @@ The contrast of the complementary colours, the orange-red of the mantle against 
 
 As the central pinnacle, the Christ Blessing completed the vertical axis of the altarpiece: the Virgin and Child below, Christ the Redeemer above, the saints of the main register and the two Vallombrosan hermits in the lateral pinnacles on either side. This arrangement, common in Tuscan polyptychs of the fourteenth century, placed the incarnate Christ held by his mother beneath the risen Christ who blesses and judges.
 
-The panel's history before it reached Douai has not been verified in the sources consulted. The connection with San Paolo a Ripa d'Arno rests on the reconstruction of the altarpiece, on the identical format and decoration of the Altenburg pinnacles and on the style of the figure, and it has been accepted in the Italian encyclopaedic literature.
+The panel's history before it reached Douai is not recorded. The connection with San Paolo a Ripa d'Arno rests on the reconstruction of the altarpiece, on the identical format and decoration of the Altenburg pinnacles and on the style of the figure, and it has been accepted in the Italian encyclopaedic literature.
 
 The panel is relatively well preserved. The gold of the frame is worn along the mouldings, revealing the bole, and there are small losses at the edges of the gable and in the colonnettes. The face, the blessing hand and the mantle retain much of their colour.
 
@@ -708,7 +708,7 @@ Displayed beside the painted fragment, the sinopia allows the visitor to follow 
   <figcaption>Lippo Memmi, sinopia of a fragment from the <em>Virgin and Child Enthroned with an Angel and Saints Paul, Peter and Dominic</em>, later 1340s. Detached sinopia. Siena, Pinacoteca Nazionale, from the cloister of San Domenico. Photo: Fabrizio Garrisi, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-This second sinopia from the fresco in the cloister of San Domenico consists of three separate areas of recovered plaster mounted together on a square panel. Unlike the sinopia of Saint Dominic, it cannot be matched with certainty to one of the surviving painted fragments, and the figure it shows is not identified in the sources consulted.
+This second sinopia from the fresco in the cloister of San Domenico consists of three separate areas of recovered plaster mounted together on a square panel. Unlike the sinopia of Saint Dominic, it cannot be matched with certainty to one of the surviving painted fragments, and the figure it shows is not identified.
 
 On the largest area, at the left, a young figure is drawn in profile facing right. The curly hair is indicated by short curving strokes, the face by a continuous outline of forehead, nose and chin, and a ribbon or cord appears at the neck. Below, long lines of drapery fall in parallel folds.
 
@@ -1305,7 +1305,7 @@ The sixth bay, the last of the right aisle wall towards the altar, closes the Ne
 
 Below the lunette, the two bands of the bay hold four scenes, two in each band, of the events after the death of Christ: the Deposition from the Cross, the Descent into Limbo, the Resurrection and Pentecost. They carry the narrative from the Crucifixion of the fifth bay to the foundation of the Church through the gift of the Holy Spirit. Their condition is poor: the Deposition is largely lost and the Descent into Limbo is fragmentary. One account in English describes all four scenes as destroyed in the fifteenth century, but Italian descriptions of the church list them as surviving, and their state is better described as fragmentary.
 
-The cause of the damage has not been established in the sources consulted. The fifteenth-century building works in the church, including the vaulting of the nave between 1464 and 1473, the extension of the choir and the chapel of Santa Fina opened in the right wall from 1468, are not recorded as having affected this bay, and the chapel lies beyond it. The church and its frescoes also suffered considerable damage in the Second World War, when shells struck the building in July 1944, but no source connects that damage specifically with the sixth bay. The counts of the cycle in the reference works, which speak of nineteen compartments and of four fragmentary scenes, reflect the present state of the wall.
+The cause of the damage has not been established. The fifteenth-century building works in the church, including the vaulting of the nave between 1464 and 1473, the extension of the choir and the chapel of Santa Fina opened in the right wall from 1468, are not recorded as having affected this bay, and the chapel lies beyond it. The church and its frescoes also suffered considerable damage in the Second World War, when shells struck the building in July 1944, but no source connects that damage specifically with the sixth bay. The counts of the cycle in the reference works, which speak of nineteen compartments and of four fragmentary scenes, reflect the present state of the wall.
 
 Even in its present state the cycle forms an extensive narrative ensemble: the childhood of Christ in six lunettes, his public life and miracles in the middle band, the Passion in eight scenes in the lower band and the Crucifixion at the culmination. Its attribution to Lippo Memmi and his workshop, its date in the 1330s or early 1340s and the role of the literary figure of "Barna" remain debated; on the opposite wall, the Old Testament cycle signed by Bartolo di Fredi and dated 1367 completes the decoration of the aisles.
 
@@ -1921,7 +1921,7 @@ With both hands he holds before his breast an open book, from which black rays r
 
 The rays from the book, the light of his teaching spreading over the world, are a characteristic attribute of Thomas in his early iconography. Here they are painted with fine dark strokes on the white pages and the white habit, so that the book appears as a source of light against the dark mantle.
 
-From his right hand, holding the edge of the book, hangs a short string of beads, an unusual detail in a fourteenth-century image of the saint. Its significance, and whether it belongs to the original painting, have not been verified in the sources consulted.
+From his right hand, holding the edge of the book, hangs a short string of beads, an unusual detail in a fourteenth-century image of the saint. Its significance, and whether it belongs to the original painting, have not been established.
 
 The repetition of the same text and of the same rays in the Pisan Triumph of Saint Thomas, attributed to Lippo, confirms that the two works belong to the same moment and milieu. The polyptych presents in a single figure what the Triumph develops into a vast diagram of wisdom: Thomas as the teacher of truth, whose book illuminates the Church.
 

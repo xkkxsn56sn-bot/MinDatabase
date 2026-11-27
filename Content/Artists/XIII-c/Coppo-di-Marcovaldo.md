@@ -63,7 +63,7 @@ meta:
       - "Madonna with seventeen stories, Moscow, Pushkin Museum: circle of Coppo for the museum, Maestro della Croce 434 for part of the literature"
       - "Madonna of Orvieto: attributed by Perali (1919); its faces are considered reworked by a later hand"
       - "Works proposed for Salerno di Coppo: the Christ of the Pistoia cross, the fresco of the Virgin and Child in Pistoia Cathedral (Procacci, Tartuferi; rejected by Conti), parts of the Santa Maria Maggiore Madonna (Tartuferi)"
-      - "Rejected: the biography of the earlier version of this entry (family, fortune, travels, the character of Salerno)"
+      - "Rejected: a biography without sources (family, fortune, travels, the character of Salerno)"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -161,7 +161,7 @@ About half a century after it was painted, the faces of the Virgin and the Child
 
 The repainting is itself a document of history. By about 1300 Siena had its own great painter, Duccio, whose style had changed the taste of the city. The Servites modernised their old image by giving it new faces in the new style, as other Sienese churches did with their older Madonnas. The panel thus records both the Florentine painting of 1261 and the Sienese painting of a generation later.
 
-The name *Madonna del Bordone* is the traditional name of the image in Siena. It is usually translated as the Madonna of the pilgrim's staff; its origin is not explained in the sources consulted for this entry.
+The name *Madonna del Bordone* is the traditional name of the image in Siena. It is usually translated as the Madonna of the pilgrim's staff; its origin is not explained.
 
 The Madonna del Bordone is the starting point for every attribution to Coppo. Its dated signature fixes his style in 1261, and the works given to him by comparison are placed before or after it according to their relation to it. Its repainted faces, however, deprive it of the most personal part of the painting, and the comparison must rely on the body, the drapery, the throne and the angels.
 

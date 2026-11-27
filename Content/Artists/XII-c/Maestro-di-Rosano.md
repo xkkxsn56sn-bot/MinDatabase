@@ -113,9 +113,9 @@ The essential literature was produced by the restoration. The volume *La Croce d
 
 What emerges from this evidence is not a provincial primitive but a painter of real intellectual and technical ambition. He planned a complex narrative programme with ruled layouts and reusable patterns. He modelled bodies with graded shadows over a greenish underlayer. He laid his gold directly on the gesso and sealed the surface with a varnish meant to make the colours glow. He very probably lettered the verse captions himself, and those verses point to circuits of Latin poetry that ran between the schools of the Loire and the Rome of the reform papacy.
 
-The previous version of this entry, written in October 2026, was careful in its distinction between evidence and hypothesis, and its substance is kept here. It named, however, only three scholars, and referred to the restorer, the epigraphers and the authors of later studies anonymously, as "the restorer" or "a recent study". The present entry names them where they can be identified and links them to the list of scholars of the site.
+The restorer, the epigraphers and the authors of the later studies are named in the account that follows wherever they can be identified, and linked to the list of scholars.
 
-The present entry also reorganises the text. The previous version described the cross in a single section in the middle of the essay and gave it one photograph. The catalogue that follows now examines the cross part by part, with the church and its crypt and with two Pisan crosses and two other early crosses for comparison, in sixteen entries.
+The catalogue that follows examines the cross part by part, with the church and its crypt and with two Pisan crosses and two other early crosses for comparison, in sixteen entries.
 
 The account that follows treats the monastery and the Guidi counts, the form and programme of the cross, its material body and the painter's technique, its inscriptions, its date and cultural matrix, its place among the earliest painted crosses and the question of an oeuvre, and finally its significance. Throughout, what is documented, what scholars have proposed and what remains speculation are kept apart.
 

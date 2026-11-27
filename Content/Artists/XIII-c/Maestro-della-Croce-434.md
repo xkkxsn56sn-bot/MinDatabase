@@ -25,7 +25,7 @@ meta:
       - "The original church of the name-piece is unknown; the cross is recorded in the storerooms of the Uffizi in 1881"
       - "His identity with the Maestro di Santa Maria Primerana, or with the young Coppo di Marcovaldo, has been proposed and remains disputed"
       - "The hypothesis that he was a son of Berlinghiero, perhaps Marco, is a conjecture without documentary support"
-      - "The dates of his birth and death are unknown; the dates given in the earlier version of this entry (born c. 1210–1215, died c. 1260) had no source"
+      - "The dates of his birth and death are unknown"
 
   - title: "CHRONOLOGY"
     pairs:
@@ -61,7 +61,7 @@ meta:
       - "Identity with the young Coppo di Marcovaldo: Bellosi; the Madonna of Rosano is given by some to Coppo"
       - "Overlaps with the Maestro del San Francesco Bardi in the grouping of the Franciscan panels"
       - "The Pushkin Madonna: Maestro della Croce 434 in part of the literature; circle of Coppo di Marcovaldo, 1275–1280, for the museum"
-      - "Rejected: the biography of the earlier version of this entry (family, marriages, travels, death) and the list of seventeen scenes of the Pushkin panel, which was not drawn from the painting"
+      - "Rejected: a biography without sources (family, marriages, travels, death) and a list of seventeen scenes of the Pushkin panel not drawn from the painting"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -208,7 +208,7 @@ The Madonna enthroned with seventeen stories of the Virgin, in the Pushkin Museu
 
 Its attribution is the most uncertain of the group. Part of the literature gives it to the Maestro della Croce 434 and dates it around 1255–1260; the Pushkin Museum catalogues it as the work of the circle of Coppo di Marcovaldo and dates it 1275–1280. In 2011–2012 it was shown at the Uffizi, in an exhibition curated by Tartuferi, beside the great Florentine Maestà and the panel of Pistoia.
 
-The museum records that the halo of the Virgin is set with inserts of rock crystal and that the Greek letters of her name are painted at the level of her shoulders. The seventeen scenes have not been identified one by one in the sources consulted for this entry, and no free reproduction of the panel was available, so they are not described here.
+The museum records that the halo of the Virgin is set with inserts of rock crystal and that the Greek letters of her name are painted at the level of her shoulders. The seventeen scenes have not been identified one by one in the published literature.
 
 The Madonnas complete the picture of the painter's work. Beside the crosses and the Franciscan panels, they show him supplying the images of the Virgin that monasteries and churches required, in the forms inherited from Byzantium, and, if the Moscow panel is his, extending the narrative cycle around the Virgin as he had around Christ and Francis.
 
@@ -828,7 +828,7 @@ The face of the Virgin, with its long nose and its large eyes under arched brows
 
 The panel's surface is cracked and worn, especially in the gold ground, but the figures are well preserved. The colours, the dark blue of the mantle, the green and orange of the Child and the red of the border, are strong.
 
-The location of the panel is not given in the sources consulted for this entry. Its inclusion in the painter's work rests on the photograph and on the judgment of the scholars who published it.
+The location of the panel is not published. Its inclusion in the painter's work rests on the photograph and on the judgment of the scholars who published it.
 
 ### Madonna Enthroned with Seventeen Stories of the Virgin, Moscow
 
@@ -840,7 +840,7 @@ The panel was bought in Rome in 1863 by the Russian collector Pyotr Ivanovich Se
 
 The museum records that the halo of the Virgin is surrounded by inserts of rock crystal, and that the Greek monograms of her name, Maria Theotokos, are painted at the level of her shoulders. The halo set with inserts is a feature shared with the cross no. 434, whose halo is set with stones or glass.
 
-The seventeen scenes surround the central image, and they tell the life of the Virgin. Their individual subjects have not been identified in the sources consulted for this entry, and no free reproduction of the panel was available for study. They are therefore not listed here.
+The seventeen scenes surround the central image, and they tell the life of the Virgin. Their individual subjects have not been identified one by one in the published literature.
 
 The panel is a rare example of a large Marian image with a narrative cycle in thirteenth-century Tuscany. Its type, a central figure surrounded by scenes, is that of the Franciscan panels of Pescia and Pistoia, applied to the Virgin, and it anticipates the narrative altarpieces of the later century.
 

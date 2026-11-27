@@ -114,7 +114,7 @@ scholars:
 
 *Columba*, in Irish Colum Cille, "dove of the church", is one of the few figures of sixth-century Ireland and Britain whose life can be told from a source written within a century of his death, and one of the very few around whom an artistic culture can be gathered. He produced no works of art that can be identified. What he left was an institution: a federation of monasteries, the *familia Columbae*, governed from the small island of Iona off the west coast of Scotland, whose houses for two centuries made, kept and venerated books, shrines and crosses. The earliest decorated Irish manuscript, the Cathach, was believed to be in his hand; the Book of Durrow carried a colophon invoking a scribe named Columba; and the Book of Kells, the most celebrated of all Insular books, was known in the Middle Ages as the "great Gospel of Colum Cille".
 
-This paper looks at that world through its sources and its surviving objects. It separates what the early texts say from what later tradition added, follows the history of the federation from Iona to Kells, and examines the works that can be connected to the Columban houses with reasonable confidence. The Book of Kells, which has its own page on this site, is mentioned only where the argument needs it.
+This paper looks at that world through its sources and its surviving objects. It separates what the early texts say from what later tradition added, follows the history of the federation from Iona to Kells, and examines the works that can be connected to the Columban houses with reasonable confidence. The Book of Kells, which has its own page, is mentioned only where the argument needs it.
 
 ## II · The sources
 

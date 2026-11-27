@@ -106,7 +106,7 @@ The inscriptions, however, are the only evidence. No contract, no payment, no de
 
 His work is closely tied to the architecture it decorates. He made the portal the centre of the façade: a porch projecting from the wall on columns resting on lions or griffins, jambs carved with figures of prophets, a lunette with a great image and a lintel with narrative scenes. At Ferrara and Verona this type reached its full form, and it remained the standard north Italian portal for the rest of the century.
 
-The present entry replaces an earlier version that illustrated a relief of Parma Cathedral, a building no longer attributed to Nicholaus, and that used photographs without credits. It follows closely the documentary cautions of the draft prepared for this site: the inscriptions are quoted with their variant readings, the dates of the Sacra and of Sant'Eufemia are given as disputed, and the role of Nicholaus as architect is presented as a hypothesis.
+Parma Cathedral, sometimes connected with him, is no longer attributed to Nicholaus. In the account that follows the inscriptions are quoted with their variant readings, the dates of the Sacra and of Sant'Eufemia are given as disputed, and the role of Nicholaus as architect is presented as a hypothesis.
 
 The photographs reproduced in the catalogue make it possible to check some of the readings on the stone. At Ferrara the signature reads HUC CURREN, not *hunc*; at San Zeno it reads DNM Q(ue) ROGEMUS, *dominumque rogemus*; at the Sacra and at Piacenza the same hexameter, *Hoc opus intendat quisquis bonus exit et intrat*, is carved on both portals. These readings are noted in the entries below.
 
@@ -293,7 +293,7 @@ The richness of the jambs, with their alternation of colours and patterns, gives
 
 The columns of the porch of Ferrara rest on crouching lions, on whose backs squat small telamons supporting the bases of the columns. The lion in the first photograph, of pink veined marble, holds a ram's head between its paws; the telamon above it, a bearded man in a short tunic, sits with his legs crossed and his hand at his cheek.
 
-According to the description of the photograph on Wikimedia Commons, the whole group, lion and telamon, is a modern replica of the right-hand group of the porch. Many of the lions of the Romanesque porches of the Po valley were replaced in the course of restorations; the sources consulted for this entry do not say where the originals of Ferrara are kept.
+According to the description of the photograph on Wikimedia Commons, the whole group, lion and telamon, is a modern replica of the right-hand group of the porch. Many of the lions of the Romanesque porches of the Po valley were replaced in the course of restorations; where the originals of Ferrara are kept is not recorded.
 
 <figure>
   <img src="/Images/Nicholaus/nicholaus-11.jpg" data-zoom-src="/Images/Nicholaus/nicholaus-11-zoom.jpg" alt="A crouching lion of pink veined marble with open jaws, holding a ram under its paws, at the foot of a porch column, lit by low sunlight. On its back a squatting youth with curly hair and a heavy pleated garment raises both arms to support the base of the column.">

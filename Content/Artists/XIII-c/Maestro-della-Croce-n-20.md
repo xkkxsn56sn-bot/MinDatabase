@@ -49,7 +49,7 @@ meta:
   - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
       - "The Santa Cecilia fragment: persuasive, but an informed judgement and not a certainty; technical grounds (skin on panel, found in Pisa only here) and stylistic ones (decoration, hair, beard, eyebrows)"
-      - "No other panel, fresco or illumination is assigned to him in the sources consulted, despite the miniaturist hypothesis"
+      - "No other panel, fresco or illumination is assigned to him, despite the miniaturist hypothesis"
       - "'Painted on parchment' as established fact: the state catalogue says cuoio in one field and pergamena in another, and no technical analysis was found"
       - "A date around 1230 (Lazarev): set aside by the catalogue bracket, though popular works still repeat both 1210 and 1230"
       - "That the cross introduced the dead Christ to the West: a misreport; the claim concerns the painted cross as a genre"
@@ -206,7 +206,7 @@ The arguments for the attribution are of two kinds. The first is technical. The 
 
 The fragment matters for a reason beyond enlarging a tiny corpus. It shows a living Christ, a *Christus triumphans*. It therefore shows that the master, or at least the technical and stylistic milieu to which he belonged, was not committed exclusively to the new iconography of the dead Christ. If the attribution is correct, the same painter produced, for different Pisan commissions, both the traditional triumphant image and the innovative suffering one. This changes how the San Matteo cross should be understood. Its choice of the dead Christ looks less like the programmatic signature of an artist who came to Pisa to impose a new image, and more like a response to a particular commission, community or setting. The master appears as a painter working within the Pisan market, capable of either type and meeting the expectations of different patrons. The innovation of the San Matteo cross remains an innovation, but it becomes the innovation of a commission as much as of a painter.
 
-No other works attributed to the master were found in the sources consulted. The literature on Pisan painting around 1200 does not, as far as could be established, assign him any other panels, frescoes or manuscript illuminations, despite the miniaturist hypothesis that might have encouraged such searches. Any future attribution would have to be weighed against a danger inherent in reconstructing anonymous artists: dissolving a distinct hand into a generic "Byzantine" current, so that every Byzantinising work in Pisa or Tuscany ends up attached to the one celebrated name. On the present evidence it is honest to conclude that the master is, and may remain, a personality defined by one masterpiece and one ruined fragment.
+No other works are attributed to the master. The literature on Pisan painting around 1200 does not assign him any other panels, frescoes or manuscript illuminations, despite the miniaturist hypothesis that might have encouraged such searches. Any future attribution would have to be weighed against a danger inherent in reconstructing anonymous artists: dissolving a distinct hand into a generic "Byzantine" current, so that every Byzantinising work in Pisa or Tuscany ends up attached to the one celebrated name. On the present evidence it is honest to conclude that the master is, and may remain, a personality defined by one masterpiece and one ruined fragment.
 
 ## The Question of Date
 

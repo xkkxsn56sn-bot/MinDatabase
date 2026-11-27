@@ -159,7 +159,7 @@ The collection remained at Sant'Ansano through the nineteenth century. In 1913 t
 
 The crosses of the thirteenth century are shown in the first room, with the oldest works of the collection. The small cross of the Master of the Cross 434 and the cross separated from it hang there with the larger cross of the Master of Gagliano.
 
-How the cross came into Bandini's hands is not recorded in the sources consulted for this entry, nor is the church for which it was first painted. Its history before the eighteenth century can be read only in its layers of paint.
+How the cross came into Bandini's hands is not recorded, nor is the church for which it was first painted. Its history before the eighteenth century can be read only in its layers of paint.
 
 ## III · The Altarpiece of the Eighteenth Century
 

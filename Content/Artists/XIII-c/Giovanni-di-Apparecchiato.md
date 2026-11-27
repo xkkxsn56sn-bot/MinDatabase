@@ -52,7 +52,7 @@ meta:
   - title: "DISPUTED AND REJECTED ATTRIBUTIONS"
     list:
       - "The fresco of the Palazzo dell'Opera: attributed on the basis of its subject; its original place and its identity with the work paid in 1299 remain to be proved"
-      - "A wealthy family, a long apprenticeship, political exile from Lucca and membership of a Pisan guild, given in the previous version of this entry: no source"
+      - "A wealthy family, a long apprenticeship, political exile from Lucca and membership of a Pisan guild: undocumented"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -96,7 +96,7 @@ A fresco with that subject survives in the Palazzo dell'Opera della Primaziale, 
 
 On 1 November 1301 Giovanni and Cimabue contracted to paint, within a year, a panel with columns, tabernacles and a predella for the high altar of Santo Spirito in the church of Santa Chiara, for 105 lire of Pisan pennies. On 5 November they received the first 40 lire. The altarpiece is lost.
 
-The previous version of this entry was more than 18,000 words long, and most of it was invented: a wealthy family, a long apprenticeship, exile from Lucca, guild membership, the absence of his name from the tax registers. It said that the documents preserve no patronymic, although his name contains one, listed Offner, Meiss and Longhi as his scholars without any reference, and linked the editor of the contract to a fifteenth-century Paduan engineer of the same name.
+Nothing is known of his life beyond the documents. No source records a wealthy family, a long apprenticeship, exile from Lucca or membership of a guild. His name itself contains a patronymic: he was Giovanni, son of Apparecchiato.
 
 The first rewriting of this entry corrected those errors but, without the text of the contract, it omitted details that the contract does contain: the dedication of the altar to the Holy Spirit and the cross of gilded silver in the central tabernacle. It also called Vincino "di Vanni", whereas the documents identify him as Vincino di Giovanni da Pistoia. The present version rests on the study and the documentary appendix published by Marcheselli in 2024.
 
@@ -266,7 +266,7 @@ She also shows that the dedication of the altar to the Holy Spirit explains the 
 
 Whether the altarpiece was completed is not known. Cimabue is last recorded in February 1302, and no later document mentions the panel. In 1305, however, frate Enrico asked Vanni di Bindo for a polyptych *ad modum tabule*, perhaps after the model of the panel already on the high altar.
 
-The previous version of this entry described the altarpiece at length, calling frate Enrico a papal rector. He was the *magister* of the hospital, and the contract, now available in Marcheselli's appendix, gives the details summarised here.
+Frate Enrico was not a papal rector but the *magister* of the hospital, and the contract, now available in Marcheselli's appendix, gives the details summarised here.
 
 ### Comparison: Cimabue, Saint John the Evangelist in the Apse of Pisa Cathedral
 

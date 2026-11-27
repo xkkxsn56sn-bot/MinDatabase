@@ -58,7 +58,7 @@ meta:
       - "Florentine anonymous painter, perhaps working for a female monastery between Florence and Pisa: Boskovits"
       - "A non-Italian or Eastern work: Longhi (1948) wrote that, had it been found in Cappadocia or Armenia, nobody would have objected"
       - "Comparisons with Spoleto and Alberto Sozio (1187) and with Ottonian and Bavarian illumination, without agreement"
-      - "Rejected: the biography of the earlier version of this entry (birth c. 1150 in Pisa, family, journeys, death c. 1225) and the technical data attributed to the 2013 restoration"
+      - "Rejected: a biography without sources (birth c. 1150 in Pisa, family, journeys, death c. 1225) and unpublished technical data attributed to the 2013 restoration"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -119,7 +119,7 @@ What survives is the work itself, and it is a work of the first importance. The 
 
 The question of where and when it was painted has divided scholars for a century. The traditional view, kept by the Uffizi, gives it to a Pisan painter. [Miklós Boskovits](/scholars.html#boskovits-miklos) considered it the work of an anonymous Florentine. [Roberto Longhi](/scholars.html#longhi-roberto) doubted that it was Italian at all. Its date has been placed as early as the middle of the twelfth century and as late as its last decades.
 
-The present entry replaces an earlier version that filled the silence of the documents with invention. It gave the painter a birth in Pisa about 1150, a family of carpenters and shipwrights, Greek, Syrian and Armenian neighbours, confraternities, journeys to Acre, Sicily, Liguria and Bologna, and a death from an epidemic about 1225. None of this has any source. The same version credited the restoration of 2013 with technical findings, such as an underdrawing in haematite, pigments imported through Venice and a punched border, that are not documented.
+Nothing is known of the painter beyond the cross. No source records his birth, his family, his journeys or his death, and the restoration of 2013 has not published technical findings such as an underdrawing, the origin of the pigments or the tooling of the border.
 
 It also contained errors of fact. It described the panel as elm with inlaid decoration, a description not supported by the published sources; it spoke of eight scenes and then listed seven; it placed the cross in a corridor in 1881 and called it a gift to the gallery; and it named a crucifix in Cleveland with a donor portrait of a "Saint Bonifacia of Pisa" that does not exist. It confused [Wiligelmo](/Content/Artists/XI-c/Wiligelmo.html), the sculptor of Modena, with a "Guglielmo".
 
@@ -670,7 +670,7 @@ The figure of Christ is related but not identical. In both, the anatomy is drawn
 
 The scenes, too, have a different character. Those of the Pisan cross are set under rows of arches and towers, with many small figures in each, and their architecture is richer and more regular. Those of the cross no. 432 have fewer figures, larger in proportion to the field, and their action is more concentrated and more dramatic, driven by glances and gestures.
 
-The dating of the two crosses is linked. Boskovits placed the Pisan cross about 1150–1160, the state catalogue in the second half of the twelfth century, the Enciclopedia dell'Arte Medievale at the beginning of the thirteenth, and its entry on this site adopts a date around 1200. Those who date the cross no. 432 to the middle of the century usually place it beside or before the Pisan cross; those who date it later place it after.
+The dating of the two crosses is linked. Boskovits placed the Pisan cross about 1150–1160, the state catalogue in the second half of the twelfth century, the Enciclopedia dell'Arte Medievale at the beginning of the thirteenth, and its own entry adopts a date around 1200. Those who date the cross no. 432 to the middle of the century usually place it beside or before the Pisan cross; those who date it later place it after.
 
 The comparison shows both the Pisan character of the cross no. 432 and its difference from the Pisan tradition. The type, the gold, the blue, the Christus triumphans and the narrative scenes are shared; the hand, the colour and the sensibility are not. The question whether the cross no. 432 is Pisan, or the work of a painter who knew Pisan crosses but worked elsewhere, cannot be settled by this comparison alone.
 

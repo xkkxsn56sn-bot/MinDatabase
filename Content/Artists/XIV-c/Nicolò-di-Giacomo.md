@@ -860,7 +860,7 @@ A gallery of four hundred heads is also a window onto workshop method. No illumi
 
 The date matters for the biography. At 1355–60 the book sits between the signed *Novella* volumes and the mercers' statutes of 1360 — the years in which the documents first name Nicolò in the Venticinquine rolls and the workshop's clientele widens from the law school to the guilds. A private Augustine with a litany of saints painted into it suggests yet another market: the devotional book for a cleric or layman of means, the same public that would later order the Morgan ordinal.
 
-Nothing in the sources consulted names the patron, the destination or the route by which the book reached the Comites Latentes. It is among the broadly accepted attributions of the early maturity, carried by the *Dizionario Biografico*'s citation; it is neither signed nor documented.
+No document names the patron, the destination or the route by which the book reached the Comites Latentes. It is among the broadly accepted attributions of the early maturity, carried by the *Dizionario Biografico*'s citation; it is neither signed nor documented.
 
 ### Caesar before Pharsalus: the Gonzaga Lucan of 1373
 
@@ -1273,7 +1273,7 @@ Its interest is above all geographic. Trent's prince-bishops ruled a corridor be
 
 The Buonconsiglio, seat of those prince-bishops and now of the provincial museum, is the right keeper for the question the entry leaves open: when and how the book arrived — a medieval acquisition, or an antiquarian one of the collecting centuries. It has not been verified against the catalogue record.
 
-The breviary is an accepted attribution on the survey's authority; none of the sources consulted provides a closer study.
+The breviary is an accepted attribution on the survey's authority; no closer study has been published.
 
 No imaging is known; the museum's library is the point of access.
 

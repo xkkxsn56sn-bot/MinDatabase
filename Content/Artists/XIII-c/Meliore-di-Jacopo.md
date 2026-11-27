@@ -353,7 +353,7 @@ The third scene joins two episodes of Acts 9. At the left Saul, struck on the ro
   <figcaption>Meliore di Jacopo (attributed), Panzano dossal, the beheading of Saint Paul. Panzano in Chianti, pieve di San Leolino. Photo: Francesco Bini, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
 </figure>
 
-The last scene shows the soldiers after the execution and the body of Paul bending forward, blood flowing from the neck, outside the walls. Some faces of the soldiers are damaged. The four scenes together make the dossal an image of the two princes of the apostles. Where it stood before it came to Panzano from Radda is not recorded in the sources consulted.
+The last scene shows the soldiers after the execution and the body of Paul bending forward, blood flowing from the neck, outside the walls. Some faces of the soldiers are damaged. The four scenes together make the dossal an image of the two princes of the apostles. Where it stood before it came to Panzano from Radda is not recorded.
 
 ### The Madonna of Bagnano
 

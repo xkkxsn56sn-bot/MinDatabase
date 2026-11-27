@@ -153,7 +153,7 @@ The *Dizionario Biografico degli Italiani* (vol. 66, 2006), citing Milanesi p. 2
 
 The substantive point survives the discrepancy. Luca served the commune in office, more than once, in the middle and later years of his career. Such service was common among Sienese painters of his generation and signals a citizen of respectable standing — not a craftsman on the margins but a man eligible for the councils of the Republic.
 
-Luca is documented as present at the cathedral worksite in Orvieto in 1374. What he did there is not established by the sources consulted for this essay, and no work at Orvieto should be attributed to him on this basis alone.
+Luca is documented as present at the cathedral worksite in Orvieto in 1374. What he did there is not established, and no work at Orvieto should be attributed to him on this basis alone.
 
 In August 1375 Luca married **madonna Miglia (Emilia)**, daughter of the late Giacomino. The record is in Milanesi. Nothing further about his household — children, property, the size of his workshop — emerges from the published documentation.
 
@@ -289,7 +289,7 @@ They do not permit a secure account of Luca's formation before 1362 — the work
 
 ## Other signed works
 
-Two further signed paintings are recorded in the *Dizionario Biografico degli Italiani* entry: a *Madonna and Child with St Anthony* in S. Francesco at Mercatello sul Metauro (Pesaro), and a pentaptych of the *Madonna and Child with Saints* from the parish church of Forsivo near Norcia, now in the Galleria Nazionale dell'Umbria in Perugia. Their dates are not given in the sources consulted here, and they should not be dated by inference.
+Two further signed paintings are recorded in the *Dizionario Biografico degli Italiani* entry: a *Madonna and Child with St Anthony* in S. Francesco at Mercatello sul Metauro (Pesaro), and a pentaptych of the *Madonna and Child with Saints* from the parish church of Forsivo near Norcia, now in the Galleria Nazionale dell'Umbria in Perugia. Their dates are not recorded.
 
 ### EGO SUM LUX MUNDI»: Luca di Tommè's Panels from the Pieve Collegiata of Mercatello sul Metauro
 

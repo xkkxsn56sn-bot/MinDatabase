@@ -225,7 +225,7 @@ The Pescia panel is often described as the earliest surviving painting of Franci
 
 It may not have been the first panel of its type. A panel with Saint Francis and stories, dated 1228, is reported at San Miniato al Tedesco and now lost, known only from a later record; its date, its record and any attribution to Bonaventura could not be checked for this essay, and it cannot count against the claim made for Pescia. The Yale University Art Gallery's panels discussed below, from the convent of San Francesco at San Miniato al Tedesco, are a separate matter.
 
-The shape of the hood worn by the saint, round or pointed, was an argument in disputes between branches of the Order in the early modern period; the details of that dispute are not documented in the sources consulted for this essay.
+The shape of the hood worn by the saint, round or pointed, was an argument in disputes between branches of the Order in the early modern period; the details of that dispute are not documented.
 
 After Pescia, gabled panels of Francis with stories continue through the middle decades of the century: the panel of the Bardi chapel in Santa Croce, dated c. 1245–1250 in the entry on its master, the panel in the Museo Civico of Pistoia, described in the entry on the [Master of Santa Maria Primerana](/Content/Artists/XIII-c/Maestro-di-Santa-Maria-Primerana.html), and the panel in the Museo Nazionale di San Matteo in Pisa. Each should be examined on its own, as an independent account of the saint.
 
@@ -245,7 +245,7 @@ Between 1564 and 1577 the church was renewed and new altars were erected, and a 
 
 An inscription on a slab on the altar frontal records that in 1614 the only object recovered from the old furnishings was the panel with the ancient effigy of the saint. For centuries, then, the faithful of Pescia saw only the face of the medieval saint, framed within a later painting.
 
-The hood and the halo have their own history. In the panel as reproduced a pointed hood projects beside the saint's head; the national catalogue records only that the restoration of 1981–82 removed all earlier retouchings, and the details of earlier alterations of the hood at Pescia are not documented in the sources consulted here. If the hood was altered in the controversy mentioned above, the panel is a material trace of it.
+The hood and the halo have their own history. In the panel as reproduced a pointed hood projects beside the saint's head; the national catalogue records only that the restoration of 1981–82 removed all earlier retouchings, and the details of earlier alterations of the hood at Pescia are not documented. If the hood was altered in the controversy mentioned above, the panel is a material trace of it.
 
 The panel's attribution followed a similarly tortuous path. Until 1851 it was unanimously assigned, according to the national catalogue, to [Margaritone d'Arezzo](/Content/Artists/XIII-c/Margarito.html), although an anonymous manuscript of the early eighteenth century, found in the municipal library of Pescia, had correctly ascribed it to Bonaventura Berlinghieri. The attribution to Margaritone is understandable, since that Aretine painter and his workshop produced numerous devotional panels with the solitary figure of Francis; but it was wrong. In 1851 two connoisseurs noticed the existence of the lateral stories.
 

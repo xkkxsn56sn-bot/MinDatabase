@@ -22,7 +22,7 @@ meta:
     list:
       - "The name conceals at least two painters: the first, known essentially by a face, and the second, very probably the Master of Rosano; it serves for the panel and the problem rather than for a single hand"
       - "Not Lucca: the cross is in the Pisan church of San Frediano, not in the basilica of that name at Lucca, and has nothing to do with Berlinghiero or Villa Guinigi"
-      - "Dimensions, species of wood, joinery and preparation are not published in the sources consulted"
+      - "Dimensions, species of wood, joinery and preparation are not published"
       - "Patrons of either campaign, the original position of the cross, the interval between the two campaigns and the full iconography of the first painting are unknown"
       - "The first painter is not concluded to be a Roman: a common Roman model, or a scribe trained in Roman epigraphic culture, lies behind the older titulus"
 
@@ -121,7 +121,7 @@ For most of its existence the San Frediano cross was not looked at as a Romanesq
  <figcaption>Master of the San Frediano Cross (first painting) and Master of Rosano (attr., repainting), Painted Cross with Christ Triumphant, Scenes of the Passion and Resurrection, Pentecost, and the Prophets David and Isaiah. First painting c. 1110–1120; repainted c. 1130–1140. Tempera and gold on panel. Pisa, church of San Frediano. The face of Christ belongs to the earlier layer; the narrative scenes, cimasa and terminals belong to the twelfth-century repainting uncovered in the restoration of 1960–1972.</figcaption>
 </figure>
 
-The cross belongs to the type of the large shaped and painted crucifix, with a central Christus triumphans flanked by lateral panels, the so-called tabellone, with terminals at the ends of the horizontal arm and an upper panel or cimasa. The national catalogue describes the technique simply as tempera on panel. It does not, in the publicly accessible record, give the dimensions of the object, and none of the other sources consulted for this essay, from the catalogue of the photographic archive of the Fondazione Zeri to the published studies of the inscriptions and of repainting practices, provides reliable measurements.
+The cross belongs to the type of the large shaped and painted crucifix, with a central Christus triumphans flanked by lateral panels, the so-called tabellone, with terminals at the ends of the horizontal arm and an upper panel or cimasa. The national catalogue describes the technique simply as tempera on panel. It does not give the dimensions of the object, and no other published source, from the catalogue of the photographic archive of the Fondazione Zeri to the studies of the inscriptions and of repainting practices, provides reliable measurements.
 
 This is worth stating plainly, because figures circulate for neighbouring crosses and it would be easy to transfer them by analogy. For comparison, the national catalogue gives 282 by 236 centimetres for the [Croce n. 15](/Content/Artists/XII-c/Maestro-della-Croce-del-Santo-Sepolcro.html) from the Santo Sepolcro and 298 by 233 centimetres for the [Croce n. 20](/Content/Artists/XIII-c/Maestro-della-Croce-n-20.html), both in the Museo Nazionale di San Matteo, while the cross from San Paolo all'Orto measures roughly 295 centimetres in height; the San Frediano cross is clearly of comparable monumental scale, but its own measurements are not reproduced here.
 
