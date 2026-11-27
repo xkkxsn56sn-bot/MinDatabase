@@ -135,7 +135,7 @@ That federation, the *familia* of Colum Cille, extended across the Irish Sea. Io
 
 The book is associated with Durrow by its later history, not by any statement of origin. By the early tenth century it was there and was venerated as a relic of the founder. Whether it was written there, or brought from Iona or elsewhere, is the question that has divided its students for a century.
 
-The connection with Columba runs through the whole history of the book, from the colophon that names a scribe of that name to the early modern belief that the saint had written it with his own hand. The page on [Columba](/Content/Papers/Columba.html) on this site gives the historical background of the saint and his foundations.
+The connection with Columba runs through the whole history of the book, from the colophon that names a scribe of that name to the early modern belief that the saint had written it with his own hand. The page on [Columba](/Content/Papers/Columba.html) gives the historical background of the saint and his foundations.
 
 ## The Book
 
@@ -296,7 +296,7 @@ The border is broad, a regular plaitwork of flat ribbons in red and yellow, with
   <figcaption>Book of Durrow, fol. 85v, carpet page with interlaced rings, before Mark. Dublin, Trinity College Library, MS 57. Image: The Board of Trinity College Dublin, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
-The carpet page that follows, fol. 85v, faces the opening of Mark on fol. 86r. The previous version of this entry placed it before Luke; its position in the present binding, and its facing page, show that it belongs to Mark.
+The carpet page that follows, fol. 85v, faces the opening of Mark on fol. 86r. Its position in the present binding, and its facing page, show that it belongs to Mark, not to Luke.
 
 It is the best preserved and among the most accomplished carpet pages in the book. The border is narrow, a fine plaitwork ending at each corner in a small coiled knot that projects into the margin. The field is the reverse of the eagle page: where fol. 84v has a broad border and an almost empty field, here the border is minimal and the field is full.
 
@@ -313,7 +313,7 @@ Mark opens on fol. 86r with *Initium evangelii Iesu Christi*. The first two lett
 
 The INI monogram has a history before Durrow: it appears in an earlier form in the fragmentary Gospel book Durham, Cathedral Library, A.II.10, which is generally placed before Durrow in the development of Insular decoration. On fol. 86r it reaches a monumental scale, and it remains the model for the great openings of Lindisfarne and Kells.
 
-The page also appears on this site, for comparison, in the entry on the [Codex Usserianus Primus](/Content/Codex/Codex-Usserianus-Primus.html), whose single decorated page stands at the very beginning of the tradition that fol. 86r brings to maturity.
+The page also appears, for comparison, in the entry on the [Codex Usserianus Primus](/Content/Codex/Codex-Usserianus-Primus.html), whose single decorated page stands at the very beginning of the tradition that fol. 86r brings to maturity.
 
 ## Luke: Fols 124v, 125v and 126r
 

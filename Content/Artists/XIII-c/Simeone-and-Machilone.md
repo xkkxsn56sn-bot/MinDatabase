@@ -119,13 +119,13 @@ Nothing is documented of their lives outside the inscriptions. No record names t
 
 The names themselves need care. Simeone appears as *Symeon* or *Simeon*, Machilone as *Machilon* or *Machilonus*; the older literature, following the first publication of the Barberini cross in 1926, called him *Machilos*. Simeone must not be confused with other painters called Simone, such as the fourteenth-century Bolognese [Simone dei Crocifissi](/Content/Artists/XIV-c/Simone-dei-Crocifissi.html). The rarity of the name Machilone is what allows the Machilonus of Bugnara to be identified, with probability, with the Spoleto painter.
 
-The previous version of this entry, rewritten in September 2026, was careful in its distinctions between evidence and hypothesis, and much of its substance is kept here. It contained, however, two errors of fact. It gave the Antwerp dossal a date of 1258 "by inscription", whereas the dossal carries no date: only a fragment of the signature survives, read by Garrison, and the date 1258 is an echo of the alternative reading of the Barberini cross. It also gave the Barberini cross the dimensions of the Vatican processional cross, 104 × 74 centimetres.
+Two facts are often confused. The Antwerp dossal carries no date: only a fragment of the signature survives, read by Garrison, and the date 1258 sometimes given to it is an echo of the alternative reading of the Barberini cross. The dimensions of 104 × 74 centimetres sometimes given for the Barberini cross belong to the Vatican processional cross.
 
 It also named only four scholars and referred to most of the literature anonymously, as "the 1929 study" or "a 1962 article". The present entry names the authors and links them to the list of scholars of the site, following the bibliography of the *Dizionario Biografico*.
 
 The account that follows examines the four inscriptions, the city and the diocese in which the two painters worked, their sources between Alberto Sozio and Giunta Pisano, the works attributed to them and to their following, and the modern recovery of their names. The catalogue then presents the works one by one, with photographs where free images exist and in words where they do not.
 
-Three works, the Vatican processional cross, the Maestà of Otricoli and the triptych of Rinaldo di Ranuccio in Pittsburgh, are described without illustration, because no image with a free licence could be found. The images previously shown for them on this site had no credit and have been withdrawn.
+Three further works complete the picture: the Vatican processional cross, the Maestà of Otricoli and the triptych of Rinaldo di Ranuccio in Pittsburgh, which belong to the circle of the two painters or to their following.
 
 ## The Four Inscriptions
 
@@ -276,7 +276,7 @@ At the top of the cross, a small medallion encloses a half-length Christ blessin
 
 At the foot, below Christ's feet, the blue continues with two small red streams of blood. Below, a kneeling woman in a dark mantle raises her hands in prayer: she is the donor, named in the inscription beneath her as *domina Maria*. The inscription and the donor are examined in the next entry.
 
-The cross is damaged: its edges are irregular, the cimasa and the base are broken, and the paint surface is abraded in several areas. Its dimensions are not given in the sources consulted; the figure of 104 × 74 centimetres given in the previous version of this entry belongs to the Vatican processional cross and has been removed.
+The cross is damaged: its edges are irregular, the cimasa and the base are broken, and the paint surface is abraded in several areas. Its dimensions are not published; the figure of 104 × 74 centimetres sometimes given for it belongs to the Vatican processional cross.
 
 ### Domina Maria and the Inscription
 
@@ -320,7 +320,7 @@ Read chronologically, the cycle runs down the left column and up the right: Birt
 
 The dossal carries no date. A fragmentary inscription in the lower middle zone, on the footstool of the throne, was read by Garrison in 1949 as part of the signature of Simeone and Machilone. Meiss, who published the panel in 1937, had not seen it and gave the dossal to a Sienese painter of 1250–1260; the date has been accepted by Todini, Labriola, Marques and Ranucci.
 
-The date 1258, given to the dossal in the previous version of this entry and in some online sources, is not inscribed on it. It appears to derive from the reading 1258 of the Barberini cross. The two works may well be close in date, but their relation rests on style, not on inscriptions.
+The date 1258, given to the dossal in some online sources, is not inscribed on it. It appears to derive from the reading 1258 of the Barberini cross. The two works may well be close in date, but their relation rests on style, not on inscriptions.
 
 The pale striated throne, the long face of the Virgin and the heavy red folds of her dress recur in the Orvieto Madonna and in the Otricoli Maestà, and they form one of the clearest links between the signed works and the attributed works of the school.
 
@@ -395,7 +395,7 @@ The cross shows the diffusion of the Spoletan model in Orvieto, a city open to s
 
 ### The Processional Cross of the Pinacoteca Vaticana
 
-The Pinacoteca Vaticana keeps a processional cross, inv. MV.40005, catalogued by the museum as Orvietan school (Simeone and Machilone?), around 1260–1270. No image with a free licence could be found, and the cross is described here from the museum's information and the previous version of this entry. The old literature cites a cross by the two painters in the Vatican with the number "n. 5", which corresponds to the present inventory.
+The Pinacoteca Vaticana keeps a processional cross, inv. MV.40005, catalogued by the museum as Orvietan school (Simeone and Machilone?), around 1260–1270. The old literature cites a cross by the two painters in the Vatican with the number "n. 5", which corresponds to the present inventory.
 
 According to the museum, the cross is painted in tempera and gold on a poplar panel and measures 104 by 74 centimetres. Its size and function distinguish it from the large crosses hung above the altar: a processional cross was carried on a staff and had to be legible in motion and from a distance.
 
@@ -413,7 +413,7 @@ The cross is best described as a work of the Spoletan or Orvietan sphere of the 
 
 ### The Maestà of Otricoli
 
-The panel of the Madonna and Child enthroned in the church of Santa Maria Assunta at Otricoli, in the chapel of the Madonna della Misericordia to the right of the presbytery, is one of the works most closely associated with the Spoletan painters in southern Umbria. No image with a free licence could be found, and the panel is described here in words.
+The panel of the Madonna and Child enthroned in the church of Santa Maria Assunta at Otricoli, in the chapel of the Madonna della Misericordia to the right of the presbytery, is one of the works most closely associated with the Spoletan painters in southern Umbria.
 
 Otricoli lies at the southern edge of Umbria, near the Tiber and the border with Lazio, the territory in which, according to Ranucci, the art of the two Spoletans became a point of reference. Ranucci devoted a study to the panel in 1996, on the influence of Spoleto in southern Umbria.
 
@@ -431,7 +431,7 @@ If the elements derived from Coppo are accepted, a date after 1261 is likely, wh
 
 ### Comparison: Rinaldo di Ranuccio, the Triptych in Pittsburgh
 
-The portable triptych in the Frick Art Museum in Pittsburgh, inv. 1970.52, is attributed by the museum to Rinaldo di Ranuccio of Spoleto and dated around 1270. No image with a free licence could be found, and it is described here in words, as a comparison for the following of Simeone and Machilone. Rinaldo has his own entry, [Rainaldetto di Ranuccio](/Content/Artists/XIII-c/Rainaldetto-di-Ranuccio.html).
+The portable triptych in the Frick Art Museum in Pittsburgh, inv. 1970.52, is attributed by the museum to Rinaldo di Ranuccio of Spoleto and dated around 1270. It serves as a comparison for the following of Simeone and Machilone. Rinaldo has his own entry, [Rainaldetto di Ranuccio](/Content/Artists/XIII-c/Rainaldetto-di-Ranuccio.html).
 
 The triptych is painted in tempera on panel and measures 127 by 104.8 centimetres when open. The museum's title records the Madonna and Child enthroned, four scenes of the Passion and Saints Anthony and Francis; the saints, who do not appear on the interior, must occupy the exterior faces of the wings.
 

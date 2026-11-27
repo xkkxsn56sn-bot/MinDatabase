@@ -120,7 +120,7 @@ The second tradition is artistic. On folio 149v, where Luke ends and Mark begins
 
 The two traditions do not point in the same direction. The script resembles that of two seventh-century books from Bobbio, the monastery founded by Columbanus in northern Italy, and has fed an Italian tradition that would place the book in the Columbanian orbit. The text points to Gaul, to the version of the Gospels used by Hilary of Poitiers and to a south-Gallican liturgy. The decoration points to the Mediterranean. The glosses added to the book point to Ireland.
 
-The previous version of this entry was long and repetitive, and left several of its sources unnamed. This version names them: [E. A. Lowe](/scholars.html#lowe-elias-avery)'s *Codices Latini Antiquiores*; David Dumville's *A Palaeographer's Review* (1999); Pádraig Ó Néill's study of the dry-point glosses (1998); Marvin Colker's catalogue of Trinity's Latin manuscripts (1991); and [Hugh Houghton](/scholars.html#houghton-hugh)'s *The Latin New Testament* (2016).
+The account that follows rests on [E. A. Lowe](/scholars.html#lowe-elias-avery)'s *Codices Latini Antiquiores*; David Dumville's *A Palaeographer's Review* (1999); Pádraig Ó Néill's study of the dry-point glosses (1998); Marvin Colker's catalogue of Trinity's Latin manuscripts (1991); and [Hugh Houghton](/scholars.html#houghton-hugh)'s *The Latin New Testament* (2016).
 
 The entry describes the book and its script, the glosses, the debate on its date and origin, its text, its single decorated page, its provenance and conservation, and the editions and reproductions through which it is known. Claims that could not be verified are identified as such.
 
@@ -166,7 +166,7 @@ A later reader annotated the book with a stylus, incising rather than inking the
 
 The Old Irish glosses are few but important. On fol. 86r *focrici*, "wages, payments", glosses *stipendiis* (Luke 3:14); on fol. 124r *dilus*, "private property", glosses *substantiam* (Luke 15:13). Malte Bronner, in a survey of dry-point glossing in Irish manuscripts, calls the codex "our earliest witness to dry-point glossing in an Irish context", and notes that Old Irish dry-point glosses are safely attested only here.
 
-The previous version of this entry called them the earliest dry-point glosses in the medieval West and the first glosses in any Western vernacular. The sources consulted support a narrower claim: they are the earliest dry-point glosses in an Irish context, and the only secure Old Irish ones, in a book whose glossing is mostly Latin.
+They have been called the earliest dry-point glosses in the medieval West and the first glosses in any Western vernacular. The evidence supports a narrower claim: they are the earliest dry-point glosses in an Irish context, and the only secure Old Irish ones, in a book whose glossing is mostly Latin.
 
 The glosses matter for the history of the book. They show that it was in Irish hands, and being studied closely, in the seventh century. They cannot date the writing of the book, which may be earlier, but they make an Irish milieu for its early use certain.
 
@@ -233,7 +233,7 @@ Both claims need qualification. "Earliest" applies only to what survives, in a b
   <figcaption>Garland of Howth (Codex Usserianus Secundus), fol. 22r, decorated initial page with a haloed figure. Dublin, Trinity College Library, MS 56. Public domain, via Wikipedia.</figcaption>
 </figure>
 
-The second Ussher Gospel book at Trinity, the Garland of Howth (MS 56), known as the Codex Usserianus Secundus, is later and richly decorated, with large initial pages filled with interlace and figures. Its text is mixed, and it shares with the Usserianus Primus the rare reading *conservator salutis* at Luke 2:11. The two books have been bound together in scholarship by their shared name and their shared textual tradition; the second is described in its own entry on this site.
+The second Ussher Gospel book at Trinity, the Garland of Howth (MS 56), known as the Codex Usserianus Secundus, is later and richly decorated, with large initial pages filled with interlace and figures. Its text is mixed, and it shares with the Usserianus Primus the rare reading *conservator salutis* at Luke 2:11. The two books have been bound together in scholarship by their shared name and their shared textual tradition; the second is described in its own entry.
 
 ## Provenance
 
@@ -266,7 +266,7 @@ The first edition is T. K. Abbott's *Evangeliorum versio antehieronymiana ex cod
 
 The codex is described in Lowe's *Codices Latini Antiquiores* (CLA II, no. 271, 1935; second edition 1972), in McGurk's *Latin Gospel Books* (no. 84, 1961), in Colker's *Trinity College Library Dublin: Descriptive Catalogue of the Mediaeval and Renaissance Latin Manuscripts* (1991, pp. 101–102), in Abbott's *Catalogue of the Manuscripts in the Library of Trinity College, Dublin* (1900) and in Houghton's *The Latin New Testament* (2016).
 
-Folio 149v was reproduced in the facsimiles of the Palaeographical Society and in John T. Gilbert's *Facsimiles of National Manuscripts of Ireland* (1874–1884). The previous version of this entry dated Gilbert's work to 1848.
+Folio 149v was reproduced in the facsimiles of the Palaeographical Society and in John T. Gilbert's *Facsimiles of National Manuscripts of Ireland* (1874–1884).
 
 There is no printed colour facsimile. The digital facsimile published by Trinity in 2016 takes its place, and does more than a printed plate could: adjustable high-resolution images recover text that print could not convey.
 

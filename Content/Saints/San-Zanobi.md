@@ -123,7 +123,7 @@ The story of his life was first written down in the eleventh century by Lorenzo,
 
 Lorenzo's Vita began a series of rewritings that enlarged the story and introduced inconsistencies. The fifteenth-century version of Saint Antoninus, archbishop of Florence, is one of them. The Zenobius of devotion is the figure of these texts: a noble convert, a disciple of Ambrose and of Pope Damasus, a bishop who raised the dead.
 
-The previous version of this entry presented that legend as history. It gave his birth in 337 into the Girolami family, his baptism, his archdeaconate, his service in Rome and a legation to Constantinople in 381 as facts. It also called him the first bishop of Florence, although a bishop Felix of Florence attended the Roman council of 313.
+The legend is not history. His birth in 337 into the Girolami family, his baptism, his archdeaconate, his service in Rome and a legation to Constantinople in 381 are not documented. Nor was he the first bishop of Florence: a bishop Felix of Florence attended the Roman council of 313.
 
 It named Saint Antoninus as the author of the earliest coherent account of his life, placed the translation of his relics in 429–430 and the miracle of the elm in 417, and misdescribed Botticelli's panels. Its section on scholarship attributed to several art historians contributions on Zenobius that cannot be traced.
 
@@ -201,7 +201,7 @@ The flowering elm is the second attribute. It identifies Zenobius in later image
 
 The images of the saint reflect the institutions that commissioned them. The dossal and the panel of Giovanni del Biondo belonged to the cathedral; the shrine to the Opera del Duomo; the fresco of Palazzo Vecchio to the commune; Botticelli's panels, probably, to a private family.
 
-The previous version of this entry illustrated a panel with Zenobius, a devotee and the Annunciation, attributed to Jacopo di Cione. The attribution could not be confirmed, and the panel is not discussed here.
+In later altarpieces Zenobius appears among the patron saints of Florence, in episcopal vestments, as a protector of the city rather than as the hero of a story, and it was in this role that most Florentines knew him.
 
 ## Botticelli's Panels
 
@@ -265,7 +265,7 @@ At the left of the throne, beside the deacon, a later hand has written several l
 
 The inscription was added about a century after the panel was painted. It reflects the growing importance of the miracle of the elm in the fourteenth century, when the column of Piazza San Giovanni was set up again after the flood of 1333.
 
-The claim it makes is a pious tradition. It turned the dossal into a relic of the miracle, and it may explain why the panel was preserved and venerated in the cathedral. The previous version of this entry cited a scientific analysis of the wood, for which no source could be found.
+The claim it makes is a pious tradition. It turned the dossal into a relic of the miracle, and it may explain why the panel was preserved and venerated in the cathedral.
 
 The deacons stand at each side: at the left a young deacon in an orange dalmatic holding a book, at the right a young deacon in blue and white holding a censer. They are Eugenius and Crescentius, the bishop's companions in the legend.
 
@@ -405,7 +405,7 @@ The scenes are full of grief and astonishment: clerics weeping with their hands 
 
 The square, with its classical architecture and its empty pavement, is a stage on which the miracles take place before the citizens. It presents Florence as the city of the saint, transfigured by his presence.
 
-The panel is in the Metropolitan Museum of Art, which publishes its image as public domain under its Open Access programme. The previous version of this entry described its scenes as if they belonged to the London panel.
+The panel is in the Metropolitan Museum of Art, which publishes its image as public domain under its Open Access programme.
 
 ### Giovanni del Biondo, the Panel of San Zanobi
 

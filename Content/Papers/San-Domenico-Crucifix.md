@@ -61,7 +61,7 @@ meta:
       - "The attribution to Giunta is certain, by signature"
       - "Garrison (1949) saw the hand of an assistant in the cross"
       - "Three chronologies: Assisi, Pisa, Bologna (Brandi, Garrison, Todini, Marques, Toscano); Assisi, Bologna, Pisa (Boskovits); Bologna, Assisi, Pisa (Tartuferi)"
-      - "Rejected: the cross as a 'dossal suspended above the rood screen', a documented post-Tridentine relocation, and a restoration directed by Brandi, all given in the previous version of this entry without sources"
+      - "Rejected: the cross as a 'dossal suspended above the rood screen'; a post-Tridentine relocation and a restoration directed by Brandi are not documented"
 
   - title: "STYLE AND FORMATION"
     list:
@@ -117,7 +117,7 @@ The cross is undated, and its date is the central question of its critical histo
 
 The question is not a technicality. On the traditional chronology the Bologna cross is the calm conclusion of a career that moved, in Brandi's words, "in a lyrical rather than a dramatic sense"; on Tartuferi's, it is the starting point of a growing expressive intensity that culminates in the cross from San Ranierino in Pisa.
 
-The previous version of this entry was some 17,000 words long. It repeated the same ideas in fourteen chapters, called the cross a "dossal", described a post-Tridentine relocation without date, place or source, and presented a restoration directed by Cesare Brandi in 1935–1936 as fact. It gave the date 1250–1254 as settled, and listed George Henry Edgell and Adolfo Venturi among its scholars without any reference to their writings on the cross.
+Several statements often repeated about the cross are not supported by the sources. It is a painted crucifix, not a dossal. No document records its relocation after the Council of Trent, and Cesare Brandi's part in its history is his study of the cross, not the direction of a restoration. Its date, about 1250–1254, is a proposal based on style, not a documented fact.
 
 The present version follows Tartuferi's catalogue entry (1991, pp. 32–37), which reviews the literature from Toesca to Toscano. It sets out what is documented of the painter, describes the cross and its parts, compares it with Giunta's other signed crosses and with Cimabue's cross in Arezzo, and presents the three chronologies proposed for it.
 
@@ -147,9 +147,9 @@ The consecration of 1251 has been one of the supports of the traditional date of
 
 If the cross was painted in the 1230s, or before 1230 as Tartuferi proposes, it belongs to the years of the building works at San Nicolò, of the translation of the founder's relics and of the canonisation. No document connects the cross with any of these events, and the place where it first stood is not recorded.
 
-Large painted crosses of this kind were made to hang high in the church, often above the screen that divided the friars' choir from the nave, as the cross of 1236 did at Assisi. For Bologna, Cesare Gnudi (1957) placed the cross in the apse around the middle of the century, probably at the time of the dedication; this is the position recorded in the national catalogue of cultural heritage. The previous version of this entry called the Bologna cross a "dossal", which it is not: a dossal is a horizontal panel set behind an altar.
+Large painted crosses of this kind were made to hang high in the church, often above the screen that divided the friars' choir from the nave, as the cross of 1236 did at Assisi. For Bologna, Cesare Gnudi (1957) placed the cross in the apse around the middle of the century, probably at the time of the dedication; this is the position recorded in the national catalogue of cultural heritage.
 
-Today the cross hangs in the tenth chapel on the left side of the basilica, formerly the chapel of the Pepoli family, above an altar enclosed by a railing. When and why it was moved there from the apse is not recorded in the sources consulted for this entry. The cross came to the State with the suppression of 1866 and belongs to the Fondo Edifici di Culto of the Ministry of the Interior.
+Today the cross hangs in the tenth chapel on the left side of the basilica, formerly the chapel of the Pepoli family, above an altar enclosed by a railing. When and why it was moved there from the apse is not recorded. The cross came to the State with the suppression of 1866 and belongs to the Fondo Edifici di Culto of the Ministry of the Interior.
 
 <figure>
   <img src="/Images/San-Domenico-Crucifix/san-domenico-crucifix-05.jpg" data-zoom-src="/Images/San-Domenico-Crucifix/san-domenico-crucifix-05-zoom.jpg" alt="The interior of a church: a large painted cross hangs on a pale plastered wall between a tall window at the left and a painted fragment with a checkered border and a coat of arms at the right. Below the cross, a gilt ornament and an iron railing with gilt finials enclose an altar.">
@@ -158,7 +158,7 @@ Today the cross hangs in the tenth chapel on the left side of the basilica, form
 
 ## IV · The Cross
 
-The cross measures 316 by 285 centimetres, almost twice the height of Giunta's crosses at Assisi (174 × 131 cm) and Pisa (184 × 134 cm). Other figures are found elsewhere: the national catalogue gives 480 by 280, and the previous version of this entry gave 336 by 285. It is painted in tempera on a shaped panel, with gold on the frame and in the backgrounds of the mourners.
+The cross measures 316 by 285 centimetres, almost twice the height of Giunta's crosses at Assisi (174 × 131 cm) and Pisa (184 × 134 cm). Other figures are found elsewhere: the national catalogue gives 480 by 280. It is painted in tempera on a shaped panel, with gold on the frame and in the backgrounds of the mourners.
 
 Its design is reduced to essentials. The upright and the arms are painted dark blue; the panel beside the body is filled with a lattice of gold lozenges on a dark ground; a broad frame studded with raised gilt bosses runs around the whole. At the top a titulus panel carries the inscription of the cross, now faint.
 
@@ -262,7 +262,7 @@ Through Cimabue's crosses at Arezzo and at Santa Croce in Florence, Giunta's typ
 
 Before its restoration the cross attracted little attention. [Pietro Toesca](/scholars.html#toesca-pietro) (1927) gave it to a Florentine painter. [Evelyn Sandberg Vavalà](/scholars.html#sandberg-vavala-evelyn), in her study of the Italian painted cross (1929), noted its stylistic difference from the other Bolognese crosses and dated it to the end of the century.
 
-The restoration of the mid-1930s revealed the signature, and in 1936 [Cesare Brandi](/scholars.html#brandi-cesare) published the study that established the cross as Giunta's masterpiece. Reviewing the painter's whole activity, Brandi placed it in his late period, around the middle of the century, and codified the chronology of Giunta's crosses. His interpretation was accepted almost unanimously. The cross was restored again in 1995 by Ottorino Nonfarmale for the Soprintendenza of Bologna. The previous version of this entry presented Brandi as the director of the restoration; the sources consulted here confirm his study, not his part in the work.
+The restoration of the mid-1930s revealed the signature, and in 1936 [Cesare Brandi](/scholars.html#brandi-cesare) published the study that established the cross as Giunta's masterpiece. Reviewing the painter's whole activity, Brandi placed it in his late period, around the middle of the century, and codified the chronology of Giunta's crosses. His interpretation was accepted almost unanimously. The cross was restored again in 1995 by Ottorino Nonfarmale for the Soprintendenza of Bologna.
 
 [Roberto Longhi](/scholars.html#longhi-roberto), who did not love Giunta or Duecento painting in general, gave the cross in 1948 one of his finest verbal equivalents: "a huge and unctuous shark, nailed at its last convulsion".
 

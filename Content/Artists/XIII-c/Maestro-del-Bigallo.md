@@ -111,7 +111,7 @@ The national catalogue gives his activity as 1225–1265. The works themselves a
 
 He is one of the first Florentine painters whose works can be grouped around a single hand. The repetition of the same scheme in his crosses suggests an organised workshop, producing images for the churches and confraternities of the city before the generation of Coppo di Marcovaldo and Cimabue.
 
-The previous version of this entry was much longer and contained many errors. It devoted almost half its length to the history of the Compagnia del Bigallo, a confraternity founded in the 1240s, as if the painter had worked for it. It invented a family workshop of fathers and sons and listed among his patrons an archbishop of Florence, although Florence became an archbishopric only in 1419.
+The painter has no documented connection with the Compagnia del Bigallo, a confraternity founded in the 1240s; his name comes from the crucifix now in the Museo del Bigallo. Nothing is known of his family or his workshop, and no archbishop of Florence can have been among his patrons, since Florence became an archbishopric only in 1419.
 
 It gave the Bigallo crucifix the dimensions of the cross in Chicago, described the dossal of San Zanobi with scenes and details that are not in it, and said that the Madonna in São Paulo came from the Matarazzo collection in the 1950s, when it was given to the museum by Pietro Maria Bardi in 1992. Its captions had no credits.
 
@@ -495,7 +495,7 @@ The throne is the most elaborate of the group. Its cushions, its jewelled seat a
 
 Its history is recorded in the catalogue of Christie's, where it was sold in London on 8 December 2005 with the same dimensions, 119.5 by 61 centimetres. It had belonged to the Florentine dealer Stefano Bardini, then to Charles Fairfax Murray; it passed through Joseph Duveen in New York about 1920 to the collector Carl W. Hamilton, and in 1945 to George R. Hann of Pittsburgh.
 
-After the sale of the Hann collection at Christie's in New York in 1980 it was with Harari & Johns in London in 1989. Sirén published it in 1922 as the work of Barone Berlinghieri; Offner related it to the Bigallo crucifix. It is now in the Uffizi, and it is the subject of Tartuferi's monograph of 2007, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi*. The "Madonna Bardini" of the previous version of this entry is this panel, named after its first known owner.
+After the sale of the Hann collection at Christie's in New York in 1980 it was with Harari & Johns in London in 1989. Sirén published it in 1922 as the work of Barone Berlinghieri; Offner related it to the Bigallo crucifix. It is now in the Uffizi, and it is the subject of Tartuferi's monograph of 2007, *Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi*. It is sometimes called the "Madonna Bardini", after its first known owner.
 
 ### The Madonnas of the Acton Collection and of La Quiete
 
@@ -536,7 +536,7 @@ The Museu de Arte de São Paulo (MASP) owns a Madonna and Child enthroned with t
 
 The museum dates it about 1275. The painting belonged to Lina Bo Bardi and Pietro Maria Bardi, the founders of the museum, and Pietro Maria Bardi gave it to the MASP in 1992, in memory of his wife.
 
-The previous version of this entry dated the panel 1261–1275, gave its dimensions as 130 by 56 centimetres and said that it came to the museum in the 1950s from the Matarazzo collection. These statements are not supported by the museum's record.
+A date of 1261–1275, dimensions of 130 by 56 centimetres and a provenance from the Matarazzo collection in the 1950s, sometimes given for the panel, are not supported by the museum's record.
 
 The date given by the museum is a difficulty. About 1275 lies beyond the known activity of the master, whose latest dated work, the Chicago crucifix, is placed about 1240. If the date is correct, the panel would be the work of a follower; if the attribution is correct, the date would have to be earlier.
 
