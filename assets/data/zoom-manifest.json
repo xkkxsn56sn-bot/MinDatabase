@@ -997,6 +997,216 @@
       "sha256": "aa6f824f3283efe7d569fa0cb0bd6741887d88825b181cc445807b5dcd2ddf1c"
     },
     {
+      "path": "Images/Coppo/coppo-10-zoom.jpg",
+      "width": 1461,
+      "height": 2576,
+      "bytes": 869753,
+      "sha256": "5e86f3c244af53b59d5389b7052f2c0a196d6c336048c00b3564b8bfb5fa63cd"
+    },
+    {
+      "path": "Images/Coppo/coppo-11-zoom.jpg",
+      "width": 2576,
+      "height": 2440,
+      "bytes": 1592411,
+      "sha256": "a8ccbe4954e93bb600bd7d72e69e2b8d6e4a33855dc13b71e56841b644b7bd70"
+    },
+    {
+      "path": "Images/Coppo/coppo-12-zoom.jpg",
+      "width": 1887,
+      "height": 1944,
+      "bytes": 887531,
+      "sha256": "37f9ebb40e5751ddf18f148bdd7705c82942ed98a55073a1602c07520fcdc845"
+    },
+    {
+      "path": "Images/Coppo/coppo-13-zoom.jpg",
+      "width": 2566,
+      "height": 2576,
+      "bytes": 1762752,
+      "sha256": "ec4e44e91d8a23fdb7d1fec14443c531da37bd2a4e53170ae56912d0970ee1c2"
+    },
+    {
+      "path": "Images/Coppo/coppo-14-zoom.jpg",
+      "width": 1587,
+      "height": 2576,
+      "bytes": 910544,
+      "sha256": "7797c813319f3091ff87209910dfa619e501923d91682f8d203ea47e6fcc1cb3"
+    },
+    {
+      "path": "Images/Coppo/coppo-15-zoom.jpg",
+      "width": 1694,
+      "height": 2576,
+      "bytes": 1024999,
+      "sha256": "4c5da88243df0e3ad487cc67cf2b8f7599976d108257242931ae2bfdd0566efe"
+    },
+    {
+      "path": "Images/Coppo/coppo-16-zoom.jpg",
+      "width": 1792,
+      "height": 2576,
+      "bytes": 996977,
+      "sha256": "1ca11a9e180ad64335a32f24a15c40e4937963d372e26c806df78de6c2071d8b"
+    },
+    {
+      "path": "Images/Coppo/coppo-17-zoom.jpg",
+      "width": 1839,
+      "height": 2576,
+      "bytes": 1008444,
+      "sha256": "1a1df6d0e37bc538c0e4ecd00696d987a98198f1140c58b34a934e7b106d128e"
+    },
+    {
+      "path": "Images/Coppo/coppo-18-zoom.jpg",
+      "width": 2039,
+      "height": 2576,
+      "bytes": 1018726,
+      "sha256": "492862fd94312e1ef06af99daa981e5e7901d210224db0e39608b95967316b3b"
+    },
+    {
+      "path": "Images/Coppo/coppo-19-zoom.jpg",
+      "width": 1256,
+      "height": 2390,
+      "bytes": 960140,
+      "sha256": "637503d40963dc6ba88de85701dd2cd2e2bf872da37e513b9d9d069ff1808455"
+    },
+    {
+      "path": "Images/Coppo/coppo-20-zoom.jpg",
+      "width": 2023,
+      "height": 2576,
+      "bytes": 478303,
+      "sha256": "f3b217a9d03688a9ae584cc369c2b7b25cd41fccf49ab4fbf2e8b8c9c56e378b"
+    },
+    {
+      "path": "Images/Coppo/coppo-21-zoom.jpg",
+      "width": 2278,
+      "height": 2576,
+      "bytes": 558218,
+      "sha256": "d1486b5f95e57f6b6ee2f2ba92cc5fd5104190f07b24c8b60e744f329d2e798f"
+    },
+    {
+      "path": "Images/Coppo/coppo-22-zoom.jpg",
+      "width": 2576,
+      "height": 1866,
+      "bytes": 820584,
+      "sha256": "1ca6d5513a2c794175657d5460a6c4aff5e60e59dce3707357b32e13d62228ba"
+    },
+    {
+      "path": "Images/Coppo/coppo-23-zoom.jpg",
+      "width": 2576,
+      "height": 2013,
+      "bytes": 808645,
+      "sha256": "0ceb5a7d8364672abbefa847c2c6dd1927723d1d231cce7c4be0ddd65e2b9084"
+    },
+    {
+      "path": "Images/Coppo/coppo-24-zoom.jpg",
+      "width": 2576,
+      "height": 2210,
+      "bytes": 952740,
+      "sha256": "367dcf1a70577d361a948bcd0b4d4321f199e6fd9331972b7d03cb09feca2751"
+    },
+    {
+      "path": "Images/Coppo/coppo-25-zoom.jpg",
+      "width": 2576,
+      "height": 1918,
+      "bytes": 897822,
+      "sha256": "082288c5d6a9a84a88280aa42e30e80bd80f43582393365c0d189847011cb21d"
+    },
+    {
+      "path": "Images/Coppo/coppo-26-zoom.jpg",
+      "width": 2576,
+      "height": 1571,
+      "bytes": 818728,
+      "sha256": "55b3391a951744f6f7f1b3ce66b01b9b10a4f48aa1a3290c7599892076379f0a"
+    },
+    {
+      "path": "Images/Coppo/coppo-27-zoom.jpg",
+      "width": 2286,
+      "height": 2418,
+      "bytes": 975015,
+      "sha256": "c32ab5a9a28fba3a95693884087ae2fd9fb94206036a824eb1d8cee2c137d78e"
+    },
+    {
+      "path": "Images/Coppo/coppo-28-zoom.jpg",
+      "width": 2576,
+      "height": 2509,
+      "bytes": 1161597,
+      "sha256": "78eec11ccd17ad5518adff54d382b98389e2e3b278b34449ba932a8f2a4893f5"
+    },
+    {
+      "path": "Images/Coppo/coppo-29-zoom.jpg",
+      "width": 2576,
+      "height": 2098,
+      "bytes": 2582952,
+      "sha256": "f2b44e63df20166b8f1ead1dbfbdde0b01993c04bd00c28fce73abaf5f5e8691"
+    },
+    {
+      "path": "Images/Coppo/coppo-30-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1325218,
+      "sha256": "f60acf72b9d86ddbac84ea185e30465519dc86c9382eea46639713bf5ca976de"
+    },
+    {
+      "path": "Images/Coppo/coppo-31-zoom.jpg",
+      "width": 2576,
+      "height": 1562,
+      "bytes": 1085613,
+      "sha256": "a9b79d2ee792288813d91c3e4f2952ca9be3c1a17f8c1cec96f9ebf57d86a9e3"
+    },
+    {
+      "path": "Images/Coppo/coppo-32-zoom.jpg",
+      "width": 2576,
+      "height": 1637,
+      "bytes": 1315377,
+      "sha256": "8ee44d2d8f7b17983a1b728c6c9fe36cfecfe1f6e58a826a216f177afa94036f"
+    },
+    {
+      "path": "Images/Coppo/coppo-33-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1468885,
+      "sha256": "66098c042f3fd9ebafc984923f8e80476dafac9e0a0e46d74f9a685b253e8b67"
+    },
+    {
+      "path": "Images/Coppo/coppo-34-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1355007,
+      "sha256": "84a5f3a3cc7e1be153d7415f7b00223f28bd3848b873a995d0108c7c41f5e4b9"
+    },
+    {
+      "path": "Images/Coppo/coppo-35-zoom.jpg",
+      "width": 1757,
+      "height": 2576,
+      "bytes": 915947,
+      "sha256": "02ea0df322fff6bd9c41f62d468baaf5aa42550b468fc79b3e07ae43934f57d9"
+    },
+    {
+      "path": "Images/Coppo/coppo-36-zoom.jpg",
+      "width": 2480,
+      "height": 1844,
+      "bytes": 1681679,
+      "sha256": "688a1c22646f3f19da26c1c0bf68e03b869e67db8223799b275306bc30d20b7b"
+    },
+    {
+      "path": "Images/Coppo/coppo-37-zoom.jpg",
+      "width": 2572,
+      "height": 1808,
+      "bytes": 1695220,
+      "sha256": "eba5afbc8f4e1035ecff587dab91a1149e3e56f31e735f1eb02f40d94d13c8cf"
+    },
+    {
+      "path": "Images/Coppo/coppo-38-zoom.jpg",
+      "width": 2332,
+      "height": 1840,
+      "bytes": 1390284,
+      "sha256": "f442dbf0150b7a5dd86d5f86447c4d689fd260ddae5ba9c3cc2ac7bfcae38f9e"
+    },
+    {
+      "path": "Images/Coppo/coppo-39-zoom.jpg",
+      "width": 2576,
+      "height": 1705,
+      "bytes": 1188841,
+      "sha256": "b9fcd7a2440a02778e5d7065a1635a722e46042e7d25f8564330b9b72d7d47fb"
+    },
+    {
       "path": "Images/Dalmasio-degli-Scannabecchi/dalmasio-degli-scannabecchi-27-zoom.jpg",
       "width": 2132,
       "height": 2698,
