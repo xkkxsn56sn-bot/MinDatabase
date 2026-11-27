@@ -87,6 +87,153 @@
       "sha256": "db5390b8c4c2c91a902d10d66806594d76d513b797355d8e3413cbe90ed1c771"
     },
     {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-40-zoom.jpg",
+      "width": 2576,
+      "height": 2444,
+      "bytes": 1823105,
+      "sha256": "9696226d3dedc32330efd4067e6ec7b772b74140a01312b9c20b570205928460"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-41-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1092049,
+      "sha256": "d67a1f35fe8c4678d1e395c0c34fc610dd3342b9f37c9dc58e6d880f74afbae3"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-42-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1066139,
+      "sha256": "a7906c1d2937d518ef764e93c89c6b6da0b94b7644a7a8ea7ee189d558ce6d12"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-43-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1173395,
+      "sha256": "1fb4fce4e7e1adf2631b94685c4f55ed5ba6a69c21d64728b9e78daaef5e7c0d"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-44-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1183649,
+      "sha256": "93f6f48e3d711fec46a705679a373dbe1984ffd4ed5664a444a38873c85c839e"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-45-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1181091,
+      "sha256": "afc52660fc984947543fcd870fd243deb5a3f72268b1cac78da2faf22d317f5b"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-46-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1159730,
+      "sha256": "071ef7966c2c1c30bb170dfbc309b5e6c29840f3fb2fde795593f84b3a831574"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-47-zoom.jpg",
+      "width": 2576,
+      "height": 2052,
+      "bytes": 1347554,
+      "sha256": "f76c1b44d931edb8d7bd44f6299ade7f72a40f22e3ed093b2d54162d68c09575"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-48-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1143336,
+      "sha256": "c3d2d673183e6ee91bc7eca02b4007a1182470ab9828947cf332cd88a6772168"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-49-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 1137541,
+      "sha256": "031e71e47cb9b81179204d2ad2f0d229d8154f2f195aaec85050c76244c992b6"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-50-zoom.jpg",
+      "width": 2576,
+      "height": 2026,
+      "bytes": 1969751,
+      "sha256": "8ea4c131d86acb57ab80f771667da2880037a4c133732393bc921ce2bb91dace"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-51-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 851059,
+      "sha256": "0de63b0ce5caf0561eed754a680532f719140930926d741d3ab4a6872cd64a9e"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-52-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 977094,
+      "sha256": "59c819634b346983a888654b4121f7b63e532f587396d983b66feb3358de9fb4"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-53-zoom.jpg",
+      "width": 1571,
+      "height": 2162,
+      "bytes": 1195008,
+      "sha256": "d9f486cd1492acd801f33410fa105c6b220f22d08a4f17bb1624e32e1ee13d0c"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-54-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 714773,
+      "sha256": "d4aaf181fb5ddd4b1cbace8205a1cc7c6c98db68bee8aa26ae70c9d9feebe6ed"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-55-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 844328,
+      "sha256": "3726900e2f12602722116c6f72bc12a0d8d73e6700f2aeea21efea0e489b1b0f"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-56-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 834334,
+      "sha256": "dc20dab8faddd82cb1faa6151d95ad7b8e2206a296414ef3fd2b9fa808527d06"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-61-zoom.jpg",
+      "width": 2576,
+      "height": 2163,
+      "bytes": 1187152,
+      "sha256": "eae06bf9b11d38feba41cc3e891d324a458916b572fd478b8b6f126e5cf82a36"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-62-zoom.jpg",
+      "width": 2576,
+      "height": 1373,
+      "bytes": 852352,
+      "sha256": "28f313ea536db40b5b40c6859562d38dd4af74e585dc3380c061f179ff4ed927"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-63-zoom.jpg",
+      "width": 2576,
+      "height": 2131,
+      "bytes": 1469346,
+      "sha256": "aaad167130dee3b57d8b55517d24197ffc4d9b3fa94a5c0cddbd5b2e51b07389"
+    },
+    {
+      "path": "Images/Andrea-di-Bonaiuto/andrea-di-bonaiuto-64-zoom.jpg",
+      "width": 1380,
+      "height": 2576,
+      "bytes": 654245,
+      "sha256": "e5cbe74dbadec1b324caf9a15a07bc355e56a319fd791ee766d56a86294a5138"
+    },
+    {
       "path": "Images/Anselmo/anselmo-07-zoom.jpg",
       "width": 1021,
       "height": 1611,
