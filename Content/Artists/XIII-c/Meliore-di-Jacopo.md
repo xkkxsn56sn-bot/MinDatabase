@@ -24,7 +24,7 @@ meta:
       - "One signed and dated work; every other attribution rests on comparison with it"
       - "The identification of the painter of 1271 with the Migliore of 1260 is probable, not proved"
       - "No date of birth or death is documented; the national catalogue gives only 'notizie 1250–1299'"
-      - "The 'Maestro di Montefioralle', a name used in a former entry on this site, does not exist in the literature; the Montefioralle Madonna belongs to the group of the Maestro di Bagnano"
+      - "The Montefioralle Madonna belongs to the group of works that Offner called the Maestro di Bagnano; no separate 'Maestro di Montefioralle' appears in the literature"
 
   - title: "CHRONOLOGY"
     pairs:
@@ -113,9 +113,9 @@ His corpus is therefore reconstructed around the panel of 1271. The works given 
 
 Several of these Madonnas had first been grouped by [Richard Offner](/scholars.html#offner-richard) under a conventional name, the "Maestro di Bagnano", taken from the panel of Santa Maria a Bagnano. The name survives in the national and Zeri catalogues, which still list the Montefioralle Madonna and a Madonna of the Oblate under it. Most recent accounts give the group to Meliore himself.
 
-A former entry on this site treated a "Maestro di Montefioralle" as a separate personality, the subject of a debate between Garrison and Ragghianti. No such name occurs in the literature. The Montefioralle Madonna is discussed under the Maestro di Bagnano and under Meliore, and it is described here, in the catalogue below. The old page now leads to this one.
+No "Maestro di Montefioralle" appears in the literature. The Montefioralle Madonna is discussed under the Maestro di Bagnano and under Meliore, never under a name of its own, and it is described in the catalogue together with the Madonna of Bagnano.
 
-The previous version of this entry also contained errors. It gave the inscription of the Uffizi dossal as MELIOR ME FECIT, placed the Virgin and John on one side of Christ and Peter and Paul on the other, saw the influence of Giotto in a panel painted when Giotto was a child, and made the Maestro della Croce 434, an older painter, into Meliore's pupil. These points are corrected below.
+The signed dossal fixes Meliore's place in time. Painted in 1271, it belongs to the years of Coppo's late works and of the first activity of Cimabue, a generation before Giotto, who was born in the later 1260s. Among the anonymous Florentine masters, the Maestro della Croce 434 belongs to an older generation, the Maestro della Maddalena to Meliore's own.
 
 The account that follows treats the documents and the signed dossal, the works around it, the question of the Maestro di Bagnano, the mosaics of the Baptistery and the place of Meliore in Florentine painting. The catalogue examines the dossal of 1271 in detail, the dossal of Panzano and its four scenes, the Madonnas of Bagnano, Montefioralle and Tavarnelle, and works for comparison.
 
@@ -149,7 +149,7 @@ The Madonnas form the larger part of the group. The panel from Santa Maria a Bag
 
 The Madonna of Santo Stefano at Montefioralle, near Greve, is a tall panel, 150 by 76 centimetres, with a gabled top and fifteen wooden studs on the frame. The Virgin wears a dark mantle over a red dress sprinkled with small flowers, and the Child in a pink tunic touches her chin. It was restored by Umberto Baldini in 1953 and shown in Florence the same year.
 
-A Madonna in the Art Institute of Chicago, from the Ryerson collection, is given to Meliore in the Zeri catalogue and dated about 1270–1275. A Madonna formerly in the Stoclet collection in Brussels is placed with the Panzano dossal among his early works. Neither can be illustrated here.
+A Madonna in the Art Institute of Chicago, from the Ryerson collection, is given to Meliore in the Zeri catalogue and dated about 1270–1275. A Madonna formerly in the Stoclet collection in Brussels is placed with the Panzano dossal among his early works.
 
 The Madonna of the Oblate at Careggi, near Florence, is listed by the Zeri catalogue under the Maestro di Bagnano and dated 1280–1290. A Madonna in the Museo di Arte Sacra of Tavarnelle Val di Pesa, from the oratory of San Michele a Casaglia, has been placed in the circle of Meliore and Coppo and also excluded from his work; it is discussed in the catalogue.
 
@@ -165,11 +165,11 @@ The catalogue entry argues that the proximity of Montefioralle to Bagnano, some 
 
 The question is therefore whether the Maestro di Bagnano is a separate painter or Meliore himself. Most recent accounts adopt the second view and present the Madonnas of Bagnano and Montefioralle as works of Meliore's maturity, about 1270–1275. The Zeri catalogue keeps the name for the Madonna of the Oblate.
 
-The former entry on this site presented the matter as a debate between Garrison, for a distinct anonymous master, and Ragghianti, for Meliore himself, under the name Maestro di Montefioralle. The sources consulted show neither the name nor that division: Garrison links the panel to Meliore's milieu, and the anonymous name in use is the Maestro di Bagnano.
+The literature thus offers two positions: an anonymous Maestro di Bagnano, close to Meliore but distinct from him, and Meliore himself in his maturity. Garrison linked the Montefioralle panel to Meliore's milieu, and the anonymous name that survives in the catalogues is the Maestro di Bagnano.
 
-The former entry also placed the Montefioralle Madonna late in Meliore's career and saw in it the influence of Giotto. That is impossible on any chronology: the panel is dated about 1270–1275, when Giotto, born in the later 1260s, was a child. What distinguishes the panel from the dossal of 1271 is the gentler contact between mother and child, not a later style.
+The Montefioralle Madonna is dated about 1270–1275, close to the dossal of 1271. What distinguishes it from the dossal is the gentler contact between mother and child, not a later style: the panel belongs to Florentine painting before Cimabue, and the influence of Giotto, born in the later 1260s, is excluded by its date.
 
-The same entry gave the panel a history on the altars of Santo Stefano, on the high altar from 1446, on the altar of the Rosary from 1674 and in a painted frame of the Mysteries from 1744. These dates may come from a parish source, but no source was named, and they are not repeated here.
+Of its history in the church little is recorded in the published sources. The panel was restored by Umberto Baldini in 1953 and shown in Florence in the same year, and it remains in Santo Stefano, for whose altar it was presumably painted.
 
 What can be said is limited and clear. The Montefioralle Madonna belongs to a group of Florentine Madonnas of the third quarter of the thirteenth century, most of them in parish churches of the contado, which modern criticism gives to Meliore or to a painter very close to him. The name Maestro di Bagnano records an earlier stage of that judgement.
 
@@ -179,15 +179,15 @@ The dome of the Baptistery of Florence was decorated with mosaics from the 1220s
 
 The Opera di Santa Maria del Fiore dates the Last Judgment about 1260–1275 and gives it to Tuscan workshops, by one or more masters in the circle of Meliore and of Coppo di Marcovaldo. It does not divide the work among named artists.
 
-The former entry on this site gave Meliore specific parts of the Paradise zone, the angels and apostles of the upper register. That division appears in some of the literature, but it is a proposal, not a finding, and it rests on the comparison of mosaic heads with panel paintings, two techniques in which the same designer may look very different.
+Some of the literature gives Meliore specific parts of the Paradise zone, the angels and apostles of the upper register. The attribution is a proposal, not a finding, and it rests on the comparison of mosaic heads with panel paintings, two techniques in which the same designer may look very different.
 
 The Christ of the Judgment is more often associated with Coppo, whose style it recalls in the broad, heavy forms and the frontal mass of the figure. Its scale is enormous, the circle some eight metres across. The presence of Meliore on the same scaffolding is possible and has been argued, but no document places him there.
 
-The mosaics were commissioned by the Arte di Calimala, the guild of cloth merchants that administered the Baptistery. A share in that enterprise would place Meliore among the leading masters of the city, beside Coppo and later Cimabue. On the evidence available it is a hypothesis, and it is presented here as one.
+The mosaics were commissioned by the Arte di Calimala, the guild of cloth merchants that administered the Baptistery. A share in that enterprise would place Meliore among the leading masters of the city, beside Coppo and later Cimabue. On the evidence available it remains a hypothesis.
 
 The comparison with Coppo also runs through the panels. Coppo di Marcovaldo, who also fought at Montaperti and was captured by the Sienese, signed the Madonna del Bordone for the Servites of Siena in 1261. The two painters were contemporaries, citizens of the same city and soldiers in the same army, and the literature has long set their works side by side.
 
-The former entry claimed that Meliore, like Coppo, worked in Siena after Montaperti, and that a Madonna in Santa Maria Maggiore in Florence was their joint work. No source supports the first claim; the Madonna of Santa Maria Maggiore is a work of Coppo. Both statements are removed.
+Nothing comparable to Coppo's Sienese career is documented for Meliore. No source places him in Siena after Montaperti, and no surviving work is known as the joint work of the two painters.
 
 Meliore's art and Coppo's can be compared without these inventions. Coppo builds forms by mass and shadow; Meliore by line and pattern. The dossal of 1271, with its gilt relief and its flat, linear figures, shows a painter less interested in weight than in the precious surface of the image.
 
@@ -203,7 +203,7 @@ The dossal form itself connects him to the Florentine practice of his time. Rect
 
 His patrons were mostly the parish churches of the contado: Panzano, Radda, Montefioralle, Bagnano. The Madonnas they commissioned were the principal images of their altars and were kept and venerated for centuries, which explains both their survival and the repainting and reframing that some have undergone.
 
-The former entry spoke of the influence of Giotto, of a dialogue with Cimabue and of "proto-naturalism". The dates do not allow Giotto; Cimabue's influence, if any, would concern only the last works, and its extent is a matter of judgement. The language of the panels themselves is that of the Florentine Duecento before Cimabue.
+Meliore's language is that of the Florentine Duecento before Cimabue. The influence of Giotto is excluded by the dates; that of Cimabue, if any, would concern only his last works, and its extent is a matter of judgement. Terms such as "proto-naturalism" describe later developments rather than his panels.
 
 Meliore's historical importance lies in his name and his date. Because the dossal of 1271 is signed and dated, it allows a whole group of works to be ordered around a fixed point, and it gives a name to a style that would otherwise belong to another anonymous master. The Maestro di Bagnano is the trace of that process in the literature.
 
@@ -364,7 +364,7 @@ The last scene shows the soldiers after the execution and the body of Paul bendi
 
 The Virgin wears a jewelled crown, a feature rare in Florentine Madonnas of these decades, and sits on a throne hung with a cloth patterned with red crosses. She holds the Child on her left arm and raises her right hand towards him. The Child turns his head towards the viewer and holds a roll in his left hand. Two angels lean over the back of the throne.
 
-The previous entry described the Child as blessing in the Greek manner; in the panel he extends his right arm towards his mother. The photograph reproduced here is taken from a printed plate, whose colours are stronger than the panel's; it shows the composition but not the surface.
+The Child does not bless in the Greek manner: he extends his right arm towards his mother. The photograph is taken from a printed plate, whose colours are stronger than the panel's; it shows the composition but not the surface.
 
 ### The Madonna of Montefioralle
 
