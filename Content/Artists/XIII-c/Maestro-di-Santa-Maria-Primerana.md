@@ -21,7 +21,7 @@ meta:
 
   - title: "IDENTITY AND LIMITS"
     list:
-      - "No name, document, signature or date survives; the dates of birth and death given in the earlier version of this entry had no source"
+      - "No name, document, signature or date survives; no date of birth or death is known"
       - "The painter is known only through works grouped by style around the Fiesole Madonna"
       - "Boskovits considered the group the late phase of the Maestro della Croce 434; Scudieri and Tartuferi keep the two painters apart"
       - "Several works of the group are disputed or shared with other painters"
@@ -52,7 +52,6 @@ meta:
       - "Madonna of Compiobbi: shared with the Maestro della Maddalena, now more often given to the Maestro del Bigallo"
       - "Pistoia Saint Francis: Maestro della Croce 434 with the Primerana Master for the face (Scudieri, Tartuferi); Coppo di Marcovaldo with the Primerana Master for the face (Bellosi)"
       - "Rejected here: the cross of the Museo Bandini, Fiesole (146 × 110 cm), which the museum gives to the Maestro di Gagliano"
-      - "Rejected: the biography of the earlier version of this entry (birth c. 1220, family, guild, travels, death c. 1270)"
 
   - title: "STYLE AND FORMATION"
     list:
