@@ -3552,6 +3552,146 @@
       "sha256": "4227cd3ca7c26102426553cc319aea7ec19c006b4b2e7ec1486582fb1f9e1ab4"
     },
     {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-01-zoom.jpg",
+      "width": 1929,
+      "height": 2576,
+      "bytes": 492139,
+      "sha256": "d9a483817284044a658197bd3c8bdedd2a25c447bc92019700f967b806d597e6"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-02-zoom.jpg",
+      "width": 1369,
+      "height": 820,
+      "bytes": 328633,
+      "sha256": "888db378bbeba341ed248ae91996d559046c66363cb809c7b3f0804cd96e0127"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-03-zoom.jpg",
+      "width": 2576,
+      "height": 962,
+      "bytes": 421933,
+      "sha256": "c5734bcdc571a5483de4eccad0f3904cd48f12c5ea394a653ed2d308c55587aa"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-04-zoom.jpg",
+      "width": 2101,
+      "height": 1927,
+      "bytes": 982500,
+      "sha256": "11cfd2912decc1b74ee6bd615582f5f6230e5247f1f2223a06385936e90b7c4d"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-05-zoom.jpg",
+      "width": 1956,
+      "height": 1858,
+      "bytes": 1417905,
+      "sha256": "f54fa3ff416785735f7f9420ee2369d6716ba2e56ab85988860af068e2291aeb"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-06-zoom.jpg",
+      "width": 1589,
+      "height": 1685,
+      "bytes": 485484,
+      "sha256": "620692398cc4860917f1fcd9814657d0fd0b962782d12dc606667dbb2cc1a696"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-07-zoom.jpg",
+      "width": 1702,
+      "height": 2254,
+      "bytes": 718471,
+      "sha256": "7a1bce9d6147aed37d3546755e99a3142ad4cd1d5327f80ed3d484b379fbcd32"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-09-zoom.jpg",
+      "width": 1578,
+      "height": 1724,
+      "bytes": 427993,
+      "sha256": "884c3f720f3ae651e636ef1978eea27cbf340e17c2ed142eab12cdac2055db80"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-10-zoom.jpg",
+      "width": 1549,
+      "height": 2101,
+      "bytes": 528725,
+      "sha256": "3dfa8398ef1ff7b9ef09c72760eb3f025816befd7eda3931a14a89d8c34c7153"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-11-zoom.jpg",
+      "width": 1467,
+      "height": 1922,
+      "bytes": 1100150,
+      "sha256": "a43088d8f3d22ceb7c09bfc2b5cd7b26df060ca645fb84e0e742ca6eb08c6b18"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-12-zoom.jpg",
+      "width": 1729,
+      "height": 2576,
+      "bytes": 860142,
+      "sha256": "a9bba6b630b55a81b7a04f3a1d31287a8a71e15b4dfb444704344ad8937732c4"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-13-zoom.jpg",
+      "width": 2576,
+      "height": 2072,
+      "bytes": 1350269,
+      "sha256": "e07279c4af3e3ff0491d2f6991d54bbb1e1340febb2178e123edca039b2769ec"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-14-zoom.jpg",
+      "width": 1717,
+      "height": 2576,
+      "bytes": 1405865,
+      "sha256": "83814612553582380cd38dcfcc5584370ab34f64cd0f15b6e0fa648e5f80b589"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-15-zoom.jpg",
+      "width": 2048,
+      "height": 2468,
+      "bytes": 1327962,
+      "sha256": "06d2b193df8fe05beb9c5f7cad7727a99a1fe71d741fc1acab14957abf7c08f8"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-16-zoom.jpg",
+      "width": 1972,
+      "height": 2404,
+      "bytes": 1252877,
+      "sha256": "2ec086362cd0f97400b3eb53b512ee3b622051458dfb59e99e5505ce5c7184d8"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-17-zoom.jpg",
+      "width": 1960,
+      "height": 2432,
+      "bytes": 1286511,
+      "sha256": "ed40bdb92ba9ad2e55c1b331d3798c36f94c262333102f3ae615cd059b4e0ccc"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-18-zoom.jpg",
+      "width": 2576,
+      "height": 1760,
+      "bytes": 1199560,
+      "sha256": "31d5515a76f1cad53ce514b649169b2d1116411ac3e714fee87b10dae675b3db"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-19-zoom.jpg",
+      "width": 1964,
+      "height": 2536,
+      "bytes": 1333911,
+      "sha256": "39124772416ef033f4b97f04d1f61477c9a91746e744039bacfb33865ae7d001"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-20-zoom.jpg",
+      "width": 1996,
+      "height": 2440,
+      "bytes": 1201264,
+      "sha256": "b357a98f9c35b5c99bc1603af7ae86d1ef4ebb7c69c36580df06767dcfc07adf"
+    },
+    {
+      "path": "Images/Michele-di-Baldovino/michele-di-baldovino-21-zoom.jpg",
+      "width": 1768,
+      "height": 2280,
+      "bytes": 1173430,
+      "sha256": "f43cc7c54cec8d1cc49c613bf75f6bcb1ac84fd53d7bbbb624bac7428a6138ed"
+    },
+    {
       "path": "Images/Modena-Cathedral/modena-cathedral-01-zoom.jpg",
       "width": 2576,
       "height": 1932,
