@@ -141,7 +141,7 @@
           <p class="entry__pdf-wrap">
             <a
               class="entry__nav-btn entry__pdf-btn"
-              href="{{ site.zoom_base }}/pdf/{{ pdf_slug }}.pdf"
+              href="{{ site.zoom_base }}/pdf/{{ pdf_slug }}.pdf?v={{ site.time | date: '%Y%m%d%H%M' }}"
               >Download PDF</a
             >
           </p>
