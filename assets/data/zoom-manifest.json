@@ -1417,6 +1417,125 @@
       "sha256": "b8b2ba576bb92b8cc9ba49fee368ab53c67e03ea37c0e226f571cd8ec2e104b5"
     },
     {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-01-zoom.jpg",
+      "width": 2576,
+      "height": 1999,
+      "bytes": 902595,
+      "sha256": "0ca0a48a48accdc4e881ea0e648c2057772f9540515ef726e29337d26c0690f5"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-02-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 886562,
+      "sha256": "f87aacd54b280cb17f1771d5ef298e86fde9625748286b9b66545ea84bed5c30"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-03-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1386201,
+      "sha256": "089233a6339da46aa1d1004c9dfbf604359a85f5793a38ab1ba93e547a78b485"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-04-zoom.jpg",
+      "width": 2576,
+      "height": 1932,
+      "bytes": 980795,
+      "sha256": "cc84091c1447ccf48f6acd4c6bb5825a2a4574b39878d1ae4615598c4432ab45"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-05-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1411350,
+      "sha256": "af34fd6efe882b4a35e187299c29039b77145cf6294a3cb4eac657e177c663cf"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-06-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1094352,
+      "sha256": "c3ada510ec31e3091f04b5ded829d9f9c0b889bd09d98bce6fa6e60123daa761"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-07-zoom.jpg",
+      "width": 2576,
+      "height": 1718,
+      "bytes": 1514073,
+      "sha256": "33559c8a4cb9c58309772431ec3a5df24b1c21afbbb86a3cede5b08b010040fe"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-08-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 1683772,
+      "sha256": "a2bb90cfe012754bb39ccd58400801a0ee33e81300858a9deef89efe2eff4379"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-09-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1760691,
+      "sha256": "34819da7d73dd151ab70e43534b0295f94ae61ad5a6ac7879006930114b0ee5c"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-10-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1666660,
+      "sha256": "68683b8d334c210657c33d8d773703e4efc0dc801b3a134a17a7e3eff592aba6"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-11-zoom.jpg",
+      "width": 1532,
+      "height": 2576,
+      "bytes": 1725391,
+      "sha256": "c6d30e8182e388d0d4e213025d50e5cf82e10505c472f38de01006c9fa78ffb7"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-12-zoom.jpg",
+      "width": 2576,
+      "height": 1717,
+      "bytes": 1675770,
+      "sha256": "2f785d52aa03813e0ed284e4c34a5c38c901ba036cd62739c2c8df2c26362500"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-13-zoom.jpg",
+      "width": 2452,
+      "height": 2453,
+      "bytes": 1700583,
+      "sha256": "81c3b0c33c2db474d5f2ae0e0f5c90afa70c831c8cd49b9572534848d8c13dae"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-14-zoom.jpg",
+      "width": 2576,
+      "height": 2576,
+      "bytes": 2246223,
+      "sha256": "25c5957039ce98f2760ec3b490de6c34d8b9833247ada26223433879945d7184"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-15-zoom.jpg",
+      "width": 1932,
+      "height": 2576,
+      "bytes": 893870,
+      "sha256": "589e25465e8fd9ad6e08bd489d88900a28be7e854fcf59c2b60ba5f53fde0c85"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-16-zoom.jpg",
+      "width": 2576,
+      "height": 1722,
+      "bytes": 700190,
+      "sha256": "bdf633a094ed88efcd175399e95f87b537f9d54c4f5b98834cb63199f797de82"
+    },
+    {
+      "path": "Images/Filippo-Rusuti/filippo-rusuti-17-zoom.jpg",
+      "width": 2576,
+      "height": 1722,
+      "bytes": 943477,
+      "sha256": "5895a5f903e8c515b8230f0001368cb30d20b54ef73cd3494efee7ba82aa593f"
+    },
+    {
       "path": "Images/Francescuccio-Ghissi/francescuccio-ghissi-11-zoom.jpg",
       "width": 3000,
       "height": 2630,
