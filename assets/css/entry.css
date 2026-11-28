@@ -1116,3 +1116,140 @@ html[data-theme="dark"] .entry__content .ai-invite .ai-invite__note {
     width: 100%;
   }
 }
+
+/* -------------------------------- */
+
+/* Bibliografia della scheda (front matter `bibliography:`), in fondo al testo */
+.entry__content .entry__bib-item {
+  text-align: left;
+  hyphens: manual;
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 0.45rem;
+}
+
+/* Pulsante «Download PDF» (front matter `pdf: true`), a destra in fondo alla
+   colonna del testo */
+.entry__pdf-wrap {
+  display: flex;
+  justify-content: flex-end;
+  margin: 2rem 0 0;
+}
+
+/* stessi colori di .entry__nav-btn, che .entry__content a altrimenti
+   sovrascrive (testo color vino su fondo vino) */
+.entry__content a.entry__pdf-btn {
+  color: #f4f1e8;
+  text-decoration: none;
+}
+
+.entry__content a.entry__pdf-btn:hover {
+  color: #2c2416;
+  text-decoration: none;
+}
+
+html[data-theme="dark"] .entry__content a.entry__pdf-btn,
+html[data-theme="dark"] .entry__content a.entry__pdf-btn:hover {
+  color: #111111;
+}
+
+/* -------------------------------- */
+
+/* Stampa e PDF (scripts/build_entry_pdf.py): una colonna, solo il contenuto.
+   Restano fuori i comandi dell'interfaccia e l'indice laterale; le figure
+   senza licenza (data-no-download) non si stampano. */
+@media print {
+  @page {
+    size: A4;
+  }
+
+  html,
+  html[data-theme],
+  body,
+  html[data-theme="dark"] body {
+    background: #ffffff !important;
+    color: #1a1a1a !important;
+  }
+
+  .entry {
+    padding: 0;
+    max-width: none;
+  }
+
+  nav[aria-label="Main navigation"],
+  .entry__audio-toggle-wrap,
+  .entry__theme-toggle,
+  .entry__meta-line:has(.entry__reading),
+  .entry__toc-sidebar,
+  .entry__nav-footer,
+  .entry__pdf-wrap,
+  .ai-invite,
+  .iz-overlay,
+  .gregorian-player,
+  .entry__content figure[data-no-download] {
+    display: none !important;
+  }
+
+  .entry__grid {
+    display: block;
+  }
+
+  .entry__sidebar {
+    position: static;
+    max-height: none;
+    overflow: visible;
+    background: transparent;
+    border: none;
+    border-top: 1px solid #c9bba4;
+    border-bottom: 1px solid #c9bba4;
+    border-radius: 0;
+    margin: 0 0 1.5rem;
+  }
+
+  .entry__sidebar .sidebar__content {
+    padding: 1rem 0;
+  }
+
+  .entry__content {
+    font-size: 11pt;
+    line-height: 1.55;
+  }
+
+  .entry__content a {
+    color: inherit;
+  }
+
+  /* Nessun titolo da solo in fondo a una pagina */
+  h2,
+  h3,
+  h4,
+  .sidebar__heading,
+  .meta-block__title {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* Immagine e didascalia sempre sulla stessa pagina */
+  figure,
+  .entry__content blockquote,
+  .meta-block__pair,
+  .meta-block__list-item,
+  .entry__bib-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .entry__content figure img {
+    max-height: 175mm;
+    width: auto;
+  }
+
+  .entry__content figure.figure--right {
+    max-width: 45%;
+  }
+
+  .entry__rights-note {
+    padding: 0;
+    margin-top: 1.5rem;
+  }
+}

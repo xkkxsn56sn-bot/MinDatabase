@@ -118,7 +118,35 @@
           </div>
         </aside>
 
-        <div class="entry__content">{{ content }}</div>
+        <div class="entry__content">{{ content }}
+          {%- if page.bibliography %}
+          <section class="entry__bibliography">
+            <h2 id="bibliography">Bibliography</h2>
+            {%- if page.bibliography.sources %}
+            <h3 id="bibliography-sources">Sources</h3>
+            {%- for item in page.bibliography.sources %}
+            <p class="entry__bib-item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+            {%- endfor %}
+            {%- endif %}
+            {%- if page.bibliography.studies %}
+            <h3 id="bibliography-studies">Studies</h3>
+            {%- for item in page.bibliography.studies %}
+            <p class="entry__bib-item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+            {%- endfor %}
+            {%- endif %}
+          </section>
+          {%- endif %}
+          {%- if page.pdf %}
+          {%- assign pdf_slug = page.name | remove: '.md' %}
+          <p class="entry__pdf-wrap">
+            <a
+              class="entry__nav-btn entry__pdf-btn"
+              href="{{ site.zoom_base }}/pdf/{{ pdf_slug }}.pdf"
+              >Download PDF</a
+            >
+          </p>
+          {%- endif %}
+        </div>
 
         <aside class="entry__toc-sidebar">
           <div class="sidebar__content">
