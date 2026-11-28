@@ -141,7 +141,7 @@ bibliography:
 
 The photograph shows the west front from the square, in strong light under a deep blue sky. The façade is divided into three parts by two tall buttresses that rise to the roof, and the central part, corresponding to the nave, is raised above the two lower side parts, corresponding to the aisles. The whole front is faced with pale stone, in large regular blocks, and its outline is crowned by two small open turrets at the top of the central gable.
 
-Across the full width of the façade runs the gallery of triple arches on slender columns, the same gallery that continues along the flanks and round the apses. It ties the front to the rest of the building and gives it its characteristic rhythm of light and shadow. Below the gallery the wall is smooth, and the Genesis reliefs are set into it at the height of the porch, two on either side of the main portal and one above each side door.
+Across the full width of the façade runs the gallery of triple arches on slender columns, the same gallery that continues along the flanks and round the apses. It ties the front to the rest of the building and gives it its characteristic rhythm of light and shadow. Below the gallery the wall is smooth, and the Genesis reliefs are set into it at the height of the porch, one on either side of the main portal and one above each side door.
 
 At the centre the porch projects on two columns that rest on lions. Above it rises a small loggia, which repeats in miniature the porch below and opens towards the square. The main portal, with its deep archivolt, opens beneath the porch; the two side doors, smaller and lower, are later additions of the Campionese masters, as is the great rose window that fills the upper part of the central gable.
 
